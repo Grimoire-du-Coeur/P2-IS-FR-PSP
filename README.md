@@ -11,9 +11,7 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 
 [
 
-![Persona 2 IS FR — Comment contribuer](https://img.youtube.com/vi/wxEEJYjx2Sw/maxresdefault.jpg)
-
-](https://youtu.be/wxEEJYjx2Sw)
+![Persona 2 IS FR — Comment contribuer](https://img.youtube.com/vi/wxEEJYjx2Sw/maxresdefault.jpg](https://youtu.be/wxEEJYjx2Sw)
 
 
 ## Pipeline complet
