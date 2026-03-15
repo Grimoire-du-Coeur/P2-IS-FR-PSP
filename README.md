@@ -1,2 +1,2 @@
-# Persona 2: Eternal Punishment Français (PSP) ULES01557
+# Persona 2: Innocent Sin FR (PSP) — ULES01557
 
