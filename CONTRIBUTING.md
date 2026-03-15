@@ -94,8 +94,8 @@ Le français est environ **20-30% plus long** que l'anglais. Chaque dialogue a u
 
 Ces accents sont supportés dans le jeu grâce aux textures modifiées :
 
-`à â ä ç è é ê ë î ï ô ö ù û ü ÿ`  
-`À Â Ä È É Ê Ë Î Ï Ô Ö Ù Û Ü Ÿ`
+`é è ê à ç ù â î ô û œ`  
+`É È Ê À Ç Ù Â Î Ô Û Œ`
 
 Les autres caractères spéciaux non listés risquent de s'afficher incorrectement.
 
