@@ -7,6 +7,14 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 > ⚠️ Ce projet ne distribue aucun fichier du jeu. 
 > Vous devez posséder votre propre ISO européenne (ULES01557).
 
+## 📺 Vidéo de présentation
+
+[
+
+![Persona 2 IS FR — Comment contribuer](https://img.youtube.com/vi/wxEEJYjx2Sw/maxresdefault.jpg)
+
+](https://youtu.be/wxEEJYjx2Sw)
+
 ## Pipeline complet
 ```
 ISO (ULES01557)
