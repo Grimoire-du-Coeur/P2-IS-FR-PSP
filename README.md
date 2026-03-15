@@ -51,7 +51,7 @@ Lance `p2is_tool.py` et suis les 3 onglets dans l'ordre :
 | Contenu               | Progression  |
 |-----------------------|--------------|
 | Scripts (dialogues)   |     1/399    |
-| Police (accents FR)   |   En cours   |
+| Police (accents FR)   |      ✅      | 
 | Menus                 | Non commencé |
 | ...                   | Non commencé |
 
