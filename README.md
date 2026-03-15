@@ -40,7 +40,7 @@ Tu veux aider à traduire, tester, ou juste suivre l'avancement ?
 
 ## Crédits
 - @chenetulipe
-- ...
+- @GarloulouLeAsriel
 - **Atlus** — Persona 2: Innocent Sin (© Atlus)
 
 ## Avertissement légal
