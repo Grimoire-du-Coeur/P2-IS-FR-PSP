@@ -108,7 +108,6 @@ Les autres caractères spéciaux non listés risquent de s'afficher incorrecteme
 3. Ouvre une **Pull Request** avec le titre : `[Script XX] Traduction`
 4. Décris brièvement ce que tu as traduit dans la description
 
-> 💬 Pour réserver un script avant de commencer, ouvre une **Issue** avec le titre `[Réservation] Script XX` pour éviter que deux personnes travaillent sur le même.
 
 ---
 
