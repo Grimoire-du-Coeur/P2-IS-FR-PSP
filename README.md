@@ -27,9 +27,7 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 
 - [P2-EP-PSP](https://github.com/sayucchin/P2-EP-PSP) par **sayucchin & équipe** — 
   projet de traduction de Persona 2: Eternal Punishment PSP.  
-  L'analyse de leur code source (event.rs, main.rs) nous a permis de comprendre  
-  la structure de event.bin (gzip + table d'offsets). Nos outils ont été  
-  développés indépendamment en Python.
+  L'analyse de leur code source (event.rs, main.rs) nous a permis de comprendre la structure de event.bin (gzip + table d'offsets). Nos outils ont été développés indépendamment en Python.
 
 ## Contact & Contribuer
 
