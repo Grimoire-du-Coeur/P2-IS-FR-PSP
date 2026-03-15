@@ -7,7 +7,44 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 > Vous devez posséder votre propre ISO européenne (ULES01557).
 
 ## Pipeline complet
-...
+## Pipeline complet
+```
+ISO (ULES01557)
+    │
+    ▼  extract_cpk_from_iso()
+P2PT_ALL.cpk
+    │
+    ▼  extract_event_from_cpk()
+event.bin
+    │
+    ▼  extract_scripts_from_event()
+script_0.bin … script_398.bin
+    │
+    ▼  decode_all_scripts()
+script_0.json … script_398.json   ← ✏️ on traduit ici
+    │
+    ▼  encode_script()
+script_0_fr.bin … script_398_fr.bin
+    │
+    ▼  rebuild_iso()
+ISO traduite ✅
+```
+
+### Installation
+```bash
+git clone https://github.com/CheneTulipe8846/P2-FR-IS-PSP
+cd P2-FR-IS-PSP
+pip install customtkinter
+python p2is_tool.py
+```
+
+### Utilisation
+
+Lance `p2is_tool.py` et suis les 3 onglets dans l'ordre :
+
+1. **Pipeline Extraction** — charge ton ISO et extrais les scripts en JSON en 4 clics
+2. **Traduction** — encode tes JSON traduits en `.bin`
+3. **Rebuild ISO** — réinjecte tout et génère l'ISO FR jouable
 
 ## Avancement
 
