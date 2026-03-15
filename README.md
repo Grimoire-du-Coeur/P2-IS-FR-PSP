@@ -41,9 +41,9 @@ Tu veux aider à traduire, tester, ou juste suivre l'avancement ?
 - **Pull Requests** : les contributions sont les bienvenues !
 
 ## Crédits
-@chenetulipe
-...
-**Atlus** — Persona 2: Innocent Sin (© Atlus)
+- @chenetulipe
+- ...
+- **Atlus** — Persona 2: Innocent Sin (© Atlus)
 
 ## Avertissement légal
 
