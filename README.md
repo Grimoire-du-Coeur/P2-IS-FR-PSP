@@ -7,7 +7,6 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 > Vous devez posséder votre propre ISO européenne (ULES01557).
 
 ## Pipeline complet
-## Pipeline complet
 ```
 ISO (ULES01557)
     │
@@ -32,7 +31,7 @@ ISO traduite ✅
 
 ### Installation
 ```bash
-git clone https://github.com/CheneTulipe8846/P2-FR-IS-PSP
+git clone https://github.com/chenetulipe/P2-FR-IS-PSP
 cd P2-FR-IS-PSP
 pip install customtkinter
 python p2is_tool.py
