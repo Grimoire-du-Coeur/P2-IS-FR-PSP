@@ -1,4 +1,5 @@
 # Persona 2: Innocent Sin FR (PSP) — ULES01557
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
 Projet de traduction française amateur de Persona 2: Innocent Sin sur PSP.
 Ce dépôt contient les outils pour extraire, traduire et réinjecter les scripts du jeu.
@@ -79,8 +80,10 @@ Tu veux aider à traduire, tester, ou juste suivre l'avancement ?
 - @GarloulouLeAsriel
 - **Atlus** — Persona 2: Innocent Sin (© Atlus)
 
-## Avertissement légal
+## Licence & Avertissement légal
 
-Ce projet est une traduction amateur à but non lucratif.
-Tous les droits sur Persona 2: Innocent Sin appartiennent à Atlus.
-Ne distribuez pas les fichiers du jeu.
+Ce projet est sous licence **[CC BY-NC-SA 4.0](LICENSE)** — libre d'utilisation et de modification, 
+interdit à la vente, attribution obligatoire.
+
+Persona 2: Innocent Sin est © Atlus. Ce projet est une traduction amateur à but non lucratif.
+Aucun fichier du jeu n'est distribué. Vous devez posséder votre propre copie du jeu.
