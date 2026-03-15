@@ -1,0 +1,702 @@
+[
+  {
+    "id": 0,
+    "offset": 375440,
+    "slot_size": 74,
+    "data_size": 70,
+    "nom_orig": "[NULL][E4][NULL][NULL]\"Akari's[SP]voice",
+    "texte_orig": "Hey,[SP]lady!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 1,
+    "offset": 375514,
+    "slot_size": 100,
+    "data_size": 96,
+    "nom_orig": "Akari",
+    "texte_orig": "The[SP]city's[SP]flying![SP]What's[SP]going[SP]on!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 2,
+    "offset": 375614,
+    "slot_size": 140,
+    "data_size": 136,
+    "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
+    "texte_orig": "And...[1205][001E][SP]My[SP]Papa[SP]and[SP]Mama[SP]disappeared...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 3,
+    "offset": 375754,
+    "slot_size": 254,
+    "data_size": 250,
+    "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
+    "texte_orig": "When[SP]I[SP]think[SP]hard,[SP]I[SP]know[SP]I[SP]had[SP]a[SP]Mama[SP]and\nPapa...[1205][001E][SP]But[SP]now[SP]when[SP]I[SP]go[SP]home,[SP]I'll[SP]be\nall[SP]alone...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 4,
+    "offset": 376008,
+    "slot_size": 204,
+    "data_size": 200,
+    "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
+    "texte_orig": "Papa[SP]and[SP]Mama[SP]were[SP]always[SP]fighting.\nBut...[1205][001E][SP]They[SP]were[SP]still[SP]my[SP]parents!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 5,
+    "offset": 376212,
+    "slot_size": 202,
+    "data_size": 198,
+    "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
+    "texte_orig": "Big[SP]Sis![SP]Big[SP]Bro![SP]Go[SP]beat[SP]the[SP]bad[SP]guys[SP]and\nbring[SP]back[SP]my[SP]Papa[SP]and[SP]Mama!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 6,
+    "offset": 376414,
+    "slot_size": 242,
+    "data_size": 238,
+    "nom_orig": "Maya",
+    "texte_orig": "Don't[SP]worry,[SP]leave[SP]it[SP]to[SP]us![SP]We'll[SP]thrash\nthose[SP]bad[SP]guys[SP]in[SP]no[SP]time[SP]and[SP]make[SP]sure[SP]you\nget[SP]your[SP]parents[SP]back!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 7,
+    "offset": 376656,
+    "slot_size": 154,
+    "data_size": 150,
+    "nom_orig": "Maya",
+    "texte_orig": "Hey,[SP]kids![SP]Mind[SP]telling[SP]me[SP]what[SP]you[SP]want[SP]to\nbe[SP]when[SP]you[SP]grow[SP]up?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 8,
+    "offset": 376810,
+    "slot_size": 174,
+    "data_size": 170,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Hey,[SP]Big[SP]Maya...[SP]I[SP]don't[SP]think[SP]now's[SP]the[SP]time\nto[SP]ask[SP]stuff[SP]like[SP]that...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 9,
+    "offset": 376984,
+    "slot_size": 136,
+    "data_size": 132,
+    "nom_orig": "Grade-schooler",
+    "texte_orig": "I'm[SP]gonna[SP]go[SP]to[SP]Italy[SP]and[SP]be[SP]a[SP]soccer[SP]player!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 10,
+    "offset": 377120,
+    "slot_size": 158,
+    "data_size": 154,
+    "nom_orig": "Grade-schooler",
+    "texte_orig": "I'm[SP]gonna[SP]be[SP]a[SP]singer![SP]And[SP]I'm[SP]taking[SP]dance\nclasses[SP]too!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 11,
+    "offset": 377278,
+    "slot_size": 216,
+    "data_size": 212,
+    "nom_orig": "Maya",
+    "texte_orig": "Well,[SP]guess[SP]what?[SP]These[SP]guys[SP]are[SP]going[SP]to\nteach[SP]you[SP]a[SP]chant[SP]that'll[SP]make[SP]your[SP]dreams\ncome[SP]true!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 12,
+    "offset": 377494,
+    "slot_size": 104,
+    "data_size": 100,
+    "nom_orig": "Jun",
+    "texte_orig": "Um...[SP][1205][001E][SP]It's[SP]called[SP]the[SP]Persona[SP]Game...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 13,
+    "offset": 377598,
+    "slot_size": 98,
+    "data_size": 94,
+    "nom_orig": "Child",
+    "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 14,
+    "offset": 377696,
+    "slot_size": 98,
+    "data_size": 94,
+    "nom_orig": "Child",
+    "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 15,
+    "offset": 377794,
+    "slot_size": 98,
+    "data_size": 94,
+    "nom_orig": "Child",
+    "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 16,
+    "offset": 377892,
+    "slot_size": 204,
+    "data_size": 200,
+    "nom_orig": "Jun",
+    "texte_orig": "I'll[SP]make[SP]sure[SP]to[SP]get[SP]your[SP]Papa[SP]and[SP]Mama[SP]back\nto[SP]normal.[SP]Here,[SP]as[SP]a[SP]token[SP]of[SP]my[SP]promise...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 17,
+    "offset": 378096,
+    "slot_size": 98,
+    "data_size": 94,
+    "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
+    "texte_orig": "What's[SP]this[SP]flower?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 18,
+    "offset": 378194,
+    "slot_size": 68,
+    "data_size": 64,
+    "nom_orig": "Jun",
+    "texte_orig": "It's[SP]a[SP]flower[SP]of[SP]hope.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 19,
+    "offset": 378262,
+    "slot_size": 268,
+    "data_size": 264,
+    "nom_orig": "Jun",
+    "texte_orig": "If[SP]the[SP]Ideal[SP]Energy[SP]stored[SP]in[SP]the[SP]five[SP]skulls\nis[SP]released,[SP]the[SP]people[SP]I[SP]turned[SP]into[SP]shadowmen\nmay[SP]be[SP]returned[SP]to[SP]normal...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 20,
+    "offset": 378530,
+    "slot_size": 158,
+    "data_size": 154,
+    "nom_orig": "Jun",
+    "texte_orig": "The[SP]skulls[SP]are[SP]the[SP]key[SP]and[SP]the[SP]power[SP]source\nfor[SP]activating[SP]Xibalba.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 21,
+    "offset": 378688,
+    "slot_size": 262,
+    "data_size": 258,
+    "nom_orig": "Jun",
+    "texte_orig": "If[SP]we[SP]take[SP]back[SP]all[SP]the[SP]skulls[SP]and[SP]bring[SP]down\nXibalba[SP]before[SP]the[SP]Grand[SP]Cross[SP]happens,[SP]we[SP]can\nprevent[SP]further[SP]tragedy...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 22,
+    "offset": 378950,
+    "slot_size": 266,
+    "data_size": 262,
+    "nom_orig": "Jun",
+    "texte_orig": "By[SP]now,[SP]they'll[SP]have[SP]placed[SP]the[SP]skulls[SP]of\nearth,[SP]water,[SP]wind,[SP]and[SP]fire[SP]in[SP]their\nrespective[SP]shrines[SP]to[SP]control[SP]them[SP]there.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 23,
+    "offset": 379216,
+    "slot_size": 192,
+    "data_size": 188,
+    "nom_orig": "Jun",
+    "texte_orig": "Our[SP]goal[SP]should[SP]be[SP]to[SP]first[SP]take[SP]back[SP]these\nfour[SP]skulls,[SP]and[SP]then[SP]take[SP]over[SP]Xibalba.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 24,
+    "offset": 379408,
+    "slot_size": 208,
+    "data_size": 204,
+    "nom_orig": "Jun",
+    "texte_orig": "My[SP]father...[1205][001E][SP]should[SP]be[SP]chasing[SP]the[SP]Heaven[SP]Skull\nand[SP]the[SP]Fuhrer[SP]to[SP]the[SP]center[SP]of[SP]Xibalba...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 25,
+    "offset": 379616,
+    "slot_size": 252,
+    "data_size": 248,
+    "nom_orig": "Yukino",
+    "texte_orig": "Sorry[SP]to[SP]spring[SP]this[SP]on[SP]you,[SP]guys...[1205][001E][SP]But[SP]I'm\ngonna[SP]part[SP]ways[SP]here.[SP]I've[SP]been[SP]thinking[SP]of\nstaying[SP]in[SP]the[SP]city.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 26,
+    "offset": 379868,
+    "slot_size": 296,
+    "data_size": 292,
+    "nom_orig": "Yukino",
+    "texte_orig": "The[SP]battle[SP]between[SP]the[SP]Masked[SP]Circle[SP]and[SP]the\nLast[SP]Battalion[SP]is[SP]spilling[SP]over[SP]into[SP]the[SP]city.\nPeople[SP]might[SP]get[SP]caught[SP]in[SP]the[SP]crossfire.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 27,
+    "offset": 380164,
+    "slot_size": 286,
+    "data_size": 282,
+    "nom_orig": "Yukino",
+    "texte_orig": "And[SP]I[SP]thought[SP]if[SP]that[SP]happens,[SP]it'd[SP]be[SP]best[SP]to\nhave[SP]someone[SP]who[SP]can[SP]fight[SP]there[SP]to[SP]handle[SP]it.\nI[SP]don't[SP]want[SP]anyone[SP]else[SP]to[SP]die...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 28,
+    "offset": 380450,
+    "slot_size": 242,
+    "data_size": 238,
+    "nom_orig": "Eikichi",
+    "texte_orig": "I[SP]see[SP]what[SP]you[SP]mean,[SP]but...[1205][001E][SP]It's[SP]crazy[SP]to[SP]try\nand[SP]fight[SP]them[SP]alone[SP]and[SP]without[SP]a[SP]Persona,\neven[SP]for[SP]you!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 29,
+    "offset": 380692,
+    "slot_size": 196,
+    "data_size": 192,
+    "nom_orig": "Anna",
+    "texte_orig": "Don't[SP]worry,[SP]she[SP]won't[SP]be[SP]alone.[SP]I'll[SP]protect\nYukino...[SP]I[SP]won't[SP]let[SP]anyone[SP]touch[SP]her.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 30,
+    "offset": 380888,
+    "slot_size": 182,
+    "data_size": 178,
+    "nom_orig": "Maya",
+    "texte_orig": "Then[SP]there's[SP]nothing[SP]to[SP]worry[SP]about![SP]Take[SP]good\ncare[SP]of[SP]Yukki[SP]for[SP]us,[SP]Anna-san!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 31,
+    "offset": 381070,
+    "slot_size": 240,
+    "data_size": 236,
+    "nom_orig": "Yukino",
+    "texte_orig": "One[SP]thing,[SP]guys.[SP]If[SP]there[SP]ever[SP]comes[SP]a[SP]time\nwhen[SP]you[SP]need[SP]to[SP]ride[SP]something...[SP]Do[SP]NOT\nlet[SP]Maya-san[SP]drive!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 32,
+    "offset": 381310,
+    "slot_size": 108,
+    "data_size": 104,
+    "nom_orig": "Maya",
+    "texte_orig": "Yukki![SP]How[SP]rude![SP]I'm[SP]an[SP]excellent[SP]driver!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 33,
+    "offset": 381418,
+    "slot_size": 64,
+    "data_size": 60,
+    "nom_orig": "Akari's[SP]voice",
+    "texte_orig": "Hey,[SP]lady!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 34,
+    "offset": 381482,
+    "slot_size": 100,
+    "data_size": 96,
+    "nom_orig": "Akari",
+    "texte_orig": "The[SP]city's[SP]flying![SP]What's[SP]going[SP]on!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 35,
+    "offset": 381582,
+    "slot_size": 140,
+    "data_size": 136,
+    "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
+    "texte_orig": "And...[1205][001E][SP]My[SP]Papa[SP]and[SP]Mama[SP]disappeared...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 36,
+    "offset": 381722,
+    "slot_size": 254,
+    "data_size": 250,
+    "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
+    "texte_orig": "When[SP]I[SP]think[SP]hard,[SP]I[SP]know[SP]I[SP]had[SP]a[SP]Mama[SP]and\nPapa...[1205][001E][SP]But[SP]now[SP]when[SP]I[SP]go[SP]home,[SP]I'll[SP]be\nall[SP]alone...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 37,
+    "offset": 381976,
+    "slot_size": 204,
+    "data_size": 200,
+    "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
+    "texte_orig": "Papa[SP]and[SP]Mama[SP]were[SP]always[SP]fighting.\nBut...[1205][001E][SP]They[SP]were[SP]still[SP]my[SP]parents!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 38,
+    "offset": 382180,
+    "slot_size": 202,
+    "data_size": 198,
+    "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
+    "texte_orig": "Big[SP]Sis![SP]Big[SP]Bro![SP]Go[SP]beat[SP]the[SP]bad[SP]guys[SP]and\nbring[SP]back[SP]my[SP]Papa[SP]and[SP]Mama!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 39,
+    "offset": 382382,
+    "slot_size": 242,
+    "data_size": 238,
+    "nom_orig": "Maya",
+    "texte_orig": "Don't[SP]worry,[SP]leave[SP]it[SP]to[SP]us![SP]We'll[SP]thrash\nthose[SP]bad[SP]guys[SP]in[SP]no[SP]time[SP]and[SP]make[SP]sure[SP]you\nget[SP]your[SP]parents[SP]back!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 40,
+    "offset": 382624,
+    "slot_size": 154,
+    "data_size": 150,
+    "nom_orig": "Maya",
+    "texte_orig": "Hey,[SP]kids![SP]Mind[SP]telling[SP]me[SP]what[SP]you[SP]want[SP]to\nbe[SP]when[SP]you[SP]grow[SP]up?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 41,
+    "offset": 382778,
+    "slot_size": 174,
+    "data_size": 170,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Hey,[SP]Big[SP]Maya...[SP]I[SP]don't[SP]think[SP]now's[SP]the[SP]time\nto[SP]ask[SP]stuff[SP]like[SP]that...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 42,
+    "offset": 382952,
+    "slot_size": 136,
+    "data_size": 132,
+    "nom_orig": "Grade-schooler",
+    "texte_orig": "I'm[SP]gonna[SP]go[SP]to[SP]Italy[SP]and[SP]be[SP]a[SP]soccer[SP]player!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 43,
+    "offset": 383088,
+    "slot_size": 158,
+    "data_size": 154,
+    "nom_orig": "Grade-schooler",
+    "texte_orig": "I'm[SP]gonna[SP]be[SP]a[SP]singer![SP]And[SP]I'm[SP]taking[SP]dance\nclasses[SP]too!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 44,
+    "offset": 383246,
+    "slot_size": 216,
+    "data_size": 212,
+    "nom_orig": "Maya",
+    "texte_orig": "Well,[SP]guess[SP]what?[SP]These[SP]guys[SP]are[SP]going[SP]to\nteach[SP]you[SP]a[SP]chant[SP]that'll[SP]make[SP]your[SP]dreams\ncome[SP]true!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 45,
+    "offset": 383462,
+    "slot_size": 104,
+    "data_size": 100,
+    "nom_orig": "Jun",
+    "texte_orig": "Um...[SP][1205][001E][SP]It's[SP]called[SP]the[SP]Persona[SP]Game...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 46,
+    "offset": 383566,
+    "slot_size": 98,
+    "data_size": 94,
+    "nom_orig": "Child",
+    "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 47,
+    "offset": 383664,
+    "slot_size": 98,
+    "data_size": 94,
+    "nom_orig": "Child",
+    "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 48,
+    "offset": 383762,
+    "slot_size": 98,
+    "data_size": 94,
+    "nom_orig": "Child",
+    "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 49,
+    "offset": 383860,
+    "slot_size": 204,
+    "data_size": 200,
+    "nom_orig": "Jun",
+    "texte_orig": "I'll[SP]make[SP]sure[SP]to[SP]get[SP]your[SP]Papa[SP]and[SP]Mama[SP]back\nto[SP]normal.[SP]Here,[SP]as[SP]a[SP]token[SP]of[SP]my[SP]promise...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 50,
+    "offset": 384064,
+    "slot_size": 98,
+    "data_size": 94,
+    "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
+    "texte_orig": "What's[SP]this[SP]flower?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 51,
+    "offset": 384162,
+    "slot_size": 68,
+    "data_size": 64,
+    "nom_orig": "Jun",
+    "texte_orig": "It's[SP]a[SP]flower[SP]of[SP]hope.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 52,
+    "offset": 384230,
+    "slot_size": 268,
+    "data_size": 264,
+    "nom_orig": "Jun",
+    "texte_orig": "If[SP]the[SP]Ideal[SP]Energy[SP]stored[SP]in[SP]the[SP]five[SP]skulls\nis[SP]released,[SP]the[SP]people[SP]I[SP]turned[SP]into[SP]shadowmen\nmay[SP]be[SP]returned[SP]to[SP]normal...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 53,
+    "offset": 384498,
+    "slot_size": 158,
+    "data_size": 154,
+    "nom_orig": "Jun",
+    "texte_orig": "The[SP]skulls[SP]are[SP]the[SP]key[SP]and[SP]the[SP]power[SP]source\nfor[SP]activating[SP]Xibalba.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 54,
+    "offset": 384656,
+    "slot_size": 262,
+    "data_size": 258,
+    "nom_orig": "Jun",
+    "texte_orig": "If[SP]we[SP]take[SP]back[SP]all[SP]the[SP]skulls[SP]and[SP]bring[SP]down\nXibalba[SP]before[SP]the[SP]Grand[SP]Cross[SP]happens,[SP]we[SP]can\nprevent[SP]further[SP]tragedy...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 55,
+    "offset": 384918,
+    "slot_size": 266,
+    "data_size": 262,
+    "nom_orig": "Jun",
+    "texte_orig": "By[SP]now,[SP]they'll[SP]have[SP]placed[SP]the[SP]skulls[SP]of\nearth,[SP]water,[SP]wind,[SP]and[SP]fire[SP]in[SP]their\nrespective[SP]shrines[SP]to[SP]control[SP]them[SP]there.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 56,
+    "offset": 385184,
+    "slot_size": 192,
+    "data_size": 188,
+    "nom_orig": "Jun",
+    "texte_orig": "Our[SP]goal[SP]should[SP]be[SP]to[SP]first[SP]take[SP]back[SP]these\nfour[SP]skulls,[SP]and[SP]then[SP]take[SP]over[SP]Xibalba.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 57,
+    "offset": 385376,
+    "slot_size": 208,
+    "data_size": 204,
+    "nom_orig": "Jun",
+    "texte_orig": "My[SP]father...[1205][001E][SP]should[SP]be[SP]chasing[SP]the[SP]Heaven[SP]Skull\nand[SP]the[SP]Fuhrer[SP]to[SP]the[SP]center[SP]of[SP]Xibalba...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 58,
+    "offset": 385584,
+    "slot_size": 220,
+    "data_size": 216,
+    "nom_orig": "Ginko",
+    "texte_orig": "Philemon[SP]told[SP]us[SP]to[SP]show[SP]the[SP]power[SP]of[SP]our\nfeelings[SP]that[SP]we've[SP]fostered[SP]for[SP]the[SP]last\nten[SP]years...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 59,
+    "offset": 385804,
+    "slot_size": 274,
+    "data_size": 270,
+    "nom_orig": "Ginko",
+    "texte_orig": "Well,[SP]I've[SP]got[SP]ten[SP]years'[SP]worth[SP]of[SP]unrequited\nlove[SP]power![SP]I[SP]hope[SP]the[SP]Masked[SP]Circle[SP]and[SP]the\nLast[SP]Battalion[SP]are[SP]ready[SP]for[SP]it!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 60,
+    "offset": 386078,
+    "slot_size": 220,
+    "data_size": 216,
+    "nom_orig": "Ginko",
+    "texte_orig": "Philemon[SP]told[SP]us[SP]to[SP]show[SP]the[SP]power[SP]of[SP]our\nfeelings[SP]that[SP]we've[SP]fostered[SP]for[SP]the[SP]last\nten[SP]years...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 61,
+    "offset": 386298,
+    "slot_size": 288,
+    "data_size": 284,
+    "nom_orig": "Ginko",
+    "texte_orig": "We're[SP]going[SP]in[SP]there[SP]to[SP]avenge[SP]Yukino-san,\nso[SP]we[SP]can't[SP]lose![SP]I[SP]hope[SP]the[SP]Masked[SP]Circle\nand[SP]Last[SP]Battalion[SP]are[SP]ready[SP]to[SP]get[SP]creamed!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 62,
+    "offset": 386586,
+    "slot_size": 274,
+    "data_size": 270,
+    "nom_orig": "Eikichi",
+    "texte_orig": "We're[SP]finally[SP]reunited,[SP]all[SP]five[SP]of[SP]us...[1205][001E]\nI[SP]feel[SP]like[SP]nothing[SP]can[SP]stop[SP]me,[SP]Masked\nCircle[SP]or[SP]Last[SP]Battalion[SP]or[SP]whatever!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 63,
+    "offset": 386860,
+    "slot_size": 274,
+    "data_size": 270,
+    "nom_orig": "Eikichi",
+    "texte_orig": "We're[SP]finally[SP]reunited,[SP]all[SP]five[SP]of[SP]us...[1205][001E]\nI[SP]feel[SP]like[SP]nothing[SP]can[SP]stop[SP]me,[SP]Masked\nCircle[SP]or[SP]Last[SP]Battalion[SP]or[SP]whatever!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 64,
+    "offset": 387134,
+    "slot_size": 194,
+    "data_size": 190,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Now[SP]if[SP]only[SP]Yukino-san[SP]were[SP]here,[SP]that'd[SP]be\nall[SP]there[SP]was[SP]to[SP]say[SP]on[SP]the[SP]matter...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 65,
+    "offset": 387328,
+    "slot_size": 182,
+    "data_size": 178,
+    "nom_orig": "Maya",
+    "texte_orig": "Bringing[SP]mankind[SP]to[SP]Idealian...[SP]Is[SP]that[SP]really\nwhat[SP]Jun-kun's[SP]father[SP]wants...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 66,
+    "offset": 387510,
+    "slot_size": 282,
+    "data_size": 278,
+    "nom_orig": "Maya",
+    "texte_orig": "We[SP]should[SP]concentrate[SP]on[SP]gathering[SP]the[SP]skulls\nfor[SP]now.[SP]Jun-kun,[SP][U+1113]-kun...[SP]With[SP]you[SP]two\non[SP]our[SP]side,[SP]we'll[SP]be[SP]fine,[SP]come[SP]what[SP]may!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 67,
+    "offset": 387792,
+    "slot_size": 182,
+    "data_size": 178,
+    "nom_orig": "Maya",
+    "texte_orig": "Bringing[SP]mankind[SP]to[SP]Idealian...[SP]Is[SP]that[SP]really\nwhat[SP]Jun-kun's[SP]father[SP]wants...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 68,
+    "offset": 387974,
+    "slot_size": 260,
+    "data_size": 256,
+    "nom_orig": "Maya",
+    "texte_orig": "We[SP]should[SP]concentrate[SP]on[SP]gathering[SP]the[SP]skulls\nfor[SP]now.[SP]We[SP]can't[SP]let[SP]Yukki[SP]down[SP]on[SP]her[SP]final\nwish[SP]she[SP]gave[SP]to[SP]Jun-kun!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 69,
+    "offset": 388234,
+    "slot_size": 264,
+    "data_size": 260,
+    "nom_orig": "Jun",
+    "texte_orig": "Getting[SP]the[SP]four[SP]skulls[SP]back[SP]and[SP]taking[SP]over\nXibalba...[SP]It[SP]will[SP]be[SP]difficult,[SP]but[SP]there's\nno[SP]other[SP]way[SP]to[SP]save[SP]everyone.",
+    "nom_fr": "",
+    "texte_fr": ""
+  }
+]

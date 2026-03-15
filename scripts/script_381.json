@@ -1,0 +1,362 @@
+[
+  {
+    "id": 0,
+    "offset": 263930,
+    "slot_size": 190,
+    "data_size": 186,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "You[SP]have[SP]too[SP]many[SP]Incense[SP]sets,[SP]meow![SP]I[SP]can't\ngive[SP]you[SP]any[SP]more,[SP]meow!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 1,
+    "offset": 264120,
+    "slot_size": 154,
+    "data_size": 150,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "Welcome,[SP]meow[1432][NULL][NULL][U+0007]\nWelcome,[SP]meow[1432][NULL][NULL][U+0007]\nWelcome,[SP]meow[1432][NULL][NULL][U+0007]",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 2,
+    "offset": 264274,
+    "slot_size": 128,
+    "data_size": 124,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Th-That[SP]thing[SP]scared[SP]me...[SP]What[SP]the[SP]hell\nis[SP]this?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 3,
+    "offset": 264402,
+    "slot_size": 120,
+    "data_size": 116,
+    "nom_orig": "???",
+    "texte_orig": "Welcome![SP]Is[SP]there[SP]something[SP]we[SP]can[SP]help\nyou[SP]with?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 4,
+    "offset": 264828,
+    "slot_size": 158,
+    "data_size": 154,
+    "nom_orig": "Lisa",
+    "texte_orig": "Oh,[SP]no,[SP]we[SP]just[SP]had[SP]a[SP]question...[1205][001E][SP]Can[SP]we[SP]see\nthe[SP]chief[SP]detective?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 5,
+    "offset": 264986,
+    "slot_size": 166,
+    "data_size": 162,
+    "nom_orig": "Lisa",
+    "texte_orig": "Aiyah![SP]Then[SP]the[SP]rumors[SP]about[SP]the[SP]secret[SP]dish\nand[SP]the[SP]weapons[SP]dealing...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 6,
+    "offset": 265152,
+    "slot_size": 114,
+    "data_size": 110,
+    "nom_orig": "Lisa",
+    "texte_orig": "You[SP]guys[SP]spread[SP]those[SP]just[SP]to[SP]tease[SP]Tadashi!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 7,
+    "offset": 265266,
+    "slot_size": 190,
+    "data_size": 186,
+    "nom_orig": "Tamaki",
+    "texte_orig": "We[SP]didn't[SP]spread[SP]them[SP]exactly...[SP]We[SP]just[SP]told\nhim,[SP]and[SP]Tadashi[SP]ran[SP]his[SP]big[SP]mouth.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 8,
+    "offset": 265456,
+    "slot_size": 296,
+    "data_size": 292,
+    "nom_orig": "Eikichi",
+    "texte_orig": "I[SP]knew[SP]it[SP]was[SP]something[SP]like[SP]that...[1205][001E][SP]Anyway,\nit's[SP]not[SP]like[SP]rumors[SP]can[SP]magically[SP]come[SP]true.\nLike[SP]Joker.[SP]He[SP]must[SP]have[SP]always[SP]existed.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 9,
+    "offset": 265752,
+    "slot_size": 156,
+    "data_size": 152,
+    "nom_orig": "Tamaki",
+    "texte_orig": "Can[SP]you[SP]give[SP]us[SP]any[SP]more[SP]details?\nWe're[SP]investigating[SP]Joker[SP]too.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 10,
+    "offset": 265908,
+    "slot_size": 228,
+    "data_size": 224,
+    "nom_orig": "???",
+    "texte_orig": "I[SP]see...[1205][001E][SP]The[SP]unusual[SP]incidents[SP]lately[SP]would\nmake[SP]more[SP]sense[SP]if[SP]rumors[SP]were[SP]indeed[SP]becoming\nreality...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 11,
+    "offset": 266432,
+    "slot_size": 186,
+    "data_size": 182,
+    "nom_orig": "Chief[SP]Todoroki",
+    "texte_orig": "Well?[SP]Do[SP]you[SP]want[SP]us[SP]to[SP]spread[SP]the[SP]rumor[SP]about\nwhat[SP]the[SP]secret[SP]dish[SP]is?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 12,
+    "offset": 266618,
+    "slot_size": 178,
+    "data_size": 174,
+    "nom_orig": "Lisa",
+    "texte_orig": "Yeah![SP]If[SP]rumors[SP]are[SP]coming[SP]true,[SP]we[SP]can[SP]spread\nrumors[SP]that[SP]work[SP]in[SP]our[SP]favor!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 13,
+    "offset": 266796,
+    "slot_size": 190,
+    "data_size": 186,
+    "nom_orig": "Chief[SP]Todoroki",
+    "texte_orig": "I'll[SP]do[SP]this[SP]one[SP]for[SP]free,[SP]but[SP]I'll[SP]need[SP]you\nto[SP]file[SP]an[SP]official[SP]request.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 14,
+    "offset": 266986,
+    "slot_size": 208,
+    "data_size": 204,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Is[SP]this[SP]really[SP]necessary...?[1205][001E][SP]Shouldn't[SP]we[SP]go\nafter[SP]the[SP]guy[SP]instead[SP]of[SP]hanging[SP]out[SP]here?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 15,
+    "offset": 267194,
+    "slot_size": 174,
+    "data_size": 170,
+    "nom_orig": "Lisa",
+    "texte_orig": "Let's[SP]have[SP]them[SP]spread[SP]the[SP]rumor.[SP]We[SP]have[SP]to\ntake[SP]any[SP]advantage[SP]we[SP]can[SP]get.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 16,
+    "offset": 267368,
+    "slot_size": 190,
+    "data_size": 186,
+    "nom_orig": "Lisa",
+    "texte_orig": "Off[SP]to[SP]Shiraishi[SP]Ramen![SP]Let's[SP]go[SP]see[SP]if[SP]the\nrumor[SP]came[SP]true![SP]I'm[SP]sure[SP]it[SP]must[SP]have!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 17,
+    "offset": 267558,
+    "slot_size": 182,
+    "data_size": 178,
+    "nom_orig": "Tamaki",
+    "texte_orig": "Talk[SP]to[SP]the[SP]Chief[SP]to[SP]request[SP]a[SP]rumor[SP]job.\nHe[SP]likes[SP]the[SP]paperwork[SP]filled[SP]in...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 18,
+    "offset": 267740,
+    "slot_size": 268,
+    "data_size": 264,
+    "nom_orig": "Tamaki",
+    "texte_orig": "The[SP]rumor's[SP]spread![SP]Now[SP]just[SP]watch[SP]it[SP]unfold.[1205][U+000F]\nOh,[SP]but[SP]make[SP]sure[SP]that[SP]clown[SP]doesn't[SP]hear[SP]what\nthe[SP]secret[SP]dish[SP]is,[SP]okay?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 19,
+    "offset": 268008,
+    "slot_size": 848,
+    "data_size": 844,
+    "nom_orig": "Chief[SP]Todoroki",
+    "texte_orig": "Order[SP]is[SP]important[SP]no[SP]matter[SP]what[SP]you're[SP]trying\nto[SP]accomplish.[SP]We[SP]do[SP]things[SP]by[SP]the[SP]book[SP]here.\n[U+1208][U+0004]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[U+1109][E2][E3][E4][NULL][NULL]\"Chief[SP]Todoroki\nWhat's[SP]on[SP]your[SP]mind?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[U+1210][NULL]Non-displayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Chief[SP]Todoroki\nHave[SP]you[SP]seen[SP]the[SP]results[SP]of[SP]the[SP]rumor[SP]at\nShiraishi[SP]Ramen?[SP]I'd[SP]rather[SP]not[SP]spread[SP]any\nmore[SP]until[SP]you've[SP]checked[SP]up[SP]on[SP]that[SP]one.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 20,
+    "offset": 268856,
+    "slot_size": 628,
+    "data_size": 624,
+    "nom_orig": "Chief[SP]Todoroki",
+    "texte_orig": "Anything[SP]else?\n[U+1208][U+0004]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[U+1109][E2][E3][E4][NULL][NULL]\"Chief[SP]Todoroki\nWhat's[SP]on[SP]your[SP]mind?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[U+1210][NULL]Non-displayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Chief[SP]Todoroki\nThere's[SP]only[SP]one[SP]of[SP]you[SP]in[SP]the[SP]world...[1205][001E][SP]That's\njust[SP]plain[SP]common[SP]sense.[SP]But[SP]who[SP]can[SP]prove[SP]it?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 21,
+    "offset": 269484,
+    "slot_size": 278,
+    "data_size": 274,
+    "nom_orig": "Chief[SP]Todoroki",
+    "texte_orig": "It's[SP]the[SP]same[SP]way[SP]with[SP]rumors.[SP]They[SP]can't[SP]be\nproved,[SP]and[SP]yet...[1205][001E][SP]Would[SP]it[SP]be[SP]so[SP]strange[SP]if\nthey[SP]started[SP]coming[SP]true?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 22,
+    "offset": 269762,
+    "slot_size": 246,
+    "data_size": 242,
+    "nom_orig": "Chief[SP]Todoroki",
+    "texte_orig": "Go[SP]see[SP]for[SP]yourself.[SP]If[SP]the[SP]rumor's[SP]come[SP]true,\nordering[SP]banana[SP]char[SP]siu[SP]ramen[SP]should[SP]get[SP]you\nweapons.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 23,
+    "offset": 270008,
+    "slot_size": 154,
+    "data_size": 150,
+    "nom_orig": "Chief[SP]Todoroki",
+    "texte_orig": "Well?[SP]Hurry[SP]up[SP]and[SP]choose[SP]the[SP]rumor[SP]you[SP]want\nto[SP]spread.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 24,
+    "offset": 270162,
+    "slot_size": 196,
+    "data_size": 192,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 25,
+    "offset": 270358,
+    "slot_size": 430,
+    "data_size": 426,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n[U+1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything\n[U+1109][E2][E3][E4][NULL][NULL]\"Lucky[SP]cat[SP]statue\nOh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][U+0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][U+0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][U+0007]",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 26,
+    "offset": 270788,
+    "slot_size": 232,
+    "data_size": 228,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][U+0007][1205][U+000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][U+0007]",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 27,
+    "offset": 271020,
+    "slot_size": 248,
+    "data_size": 244,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "Meowvelous![1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][U+0007][1205][U+000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][U+0007]",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 28,
+    "offset": 271268,
+    "slot_size": 228,
+    "data_size": 224,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "Amazing,[SP]meow![1205][U+000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 29,
+    "offset": 271496,
+    "slot_size": 238,
+    "data_size": 234,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "The[SP]time[SP]has[SP]finally[SP]come,[SP]meow...[1205][U+000F]\nAn[SP]even[SP]100[SP]feedings...[1205][U+000F]\nI've[SP]collected[SP]10,000[SP]yen,[SP]meow!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 30,
+    "offset": 271734,
+    "slot_size": 332,
+    "data_size": 328,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "I[SP]feel[SP]bad[SP]at[SP]being[SP]given[SP]so[SP]much,[SP]meow![1205][U+000F]\nSo[SP]I[SP]have[SP]a[SP]purresent[SP]for[SP]you!\n[E1][E2][E4][NULL][NULL]\"Lucky[SP]cat[SP]statue\nUse[SP]this[SP][E4][NULL][NULL][U+0004]Incense[SP]Set[E4][NULL][NULL][0002][SP]wisely,[SP]meow[1432][NULL][NULL][U+0007]",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 31,
+    "offset": 272066,
+    "slot_size": 86,
+    "data_size": 82,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "Thank[SP]you,[SP]meow[1432][NULL][NULL][U+0007]",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 32,
+    "offset": 272152,
+    "slot_size": 80,
+    "data_size": 76,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "...[1205][U+000F]Cheaps-cat!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 33,
+    "offset": 272232,
+    "slot_size": 178,
+    "data_size": 174,
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "That[SP]door[SP]doesn't[SP]open,[SP]meow[1432][NULL][NULL][U+0007]\nYou[SP]should[SP]stop[SP]trying,[SP]meow[1432][NULL][NULL][U+0007]",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 34,
+    "offset": 272410,
+    "slot_size": 218,
+    "data_size": 214,
+    "nom_orig": "Tamaki",
+    "texte_orig": "Stoooop![1205][U+000F][SP]Where[SP]are[SP]you[SP]going?[SP]You[SP]have[SP]to[SP]file\nyour[SP]request[SP]for[SP]the[SP]rumor![SP]Talk[SP]to[SP]the[SP]Chief!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 35,
+    "offset": 272628,
+    "slot_size": 1172,
+    "data_size": 1168,
+    "nom_orig": "Chief[SP]Todoroki",
+    "texte_orig": "Want[SP]the[SP]lowdown[SP]on[SP]rumors?\n[E1][E2][E4][NULL][NULL]\"Chief[SP]Todoroki\nAsk[SP]me[SP]to[SP]spread[SP]a[SP]rumor[SP]of[SP]your[SP]choice[SP]and\nI'll[SP]do[SP]it.[SP]Not[SP]for[SP]free,[SP]mind[SP]you.\n[E1][E2][E4][NULL][NULL]\"Chief[SP]Todoroki\nYou'll[SP]need[SP]to[SP]bring[SP]me[SP]rumors[SP]you[SP]hear[SP]from\nrumormongers.\n[E1][E2][E4][NULL][NULL]\"Chief[SP]Todoroki\nThere[SP]are[SP]rumormongers[SP]everywhere[SP]in[SP]Sumaru.\nDig[SP]a[SP]little,[SP]and[SP]you'll[SP]find[SP]them.\n[E1][E2][E4][NULL][NULL]\"Chief[SP]Todoroki\nYou[SP]can[SP]remind[SP]yourself[SP]which[SP]rumors[SP]are\nalready[SP]circulating[SP]by[SP]asking[SP]me[SP]to[SP]check\nrumors.\n[E1][E2][E4][NULL][NULL]\"Chief[SP]Todoroki\nNot[SP]only[SP]can[SP]you[SP]remember[SP]which[SP]rumors[SP]I've\nbeen[SP]putting[SP]out[SP]there[SP]for[SP]you,[SP]you[SP]can[SP]see\nwhich[SP]ones[SP]demons[SP]are[SP]spreading.",
+    "nom_fr": "",
+    "texte_fr": ""
+  }
+]

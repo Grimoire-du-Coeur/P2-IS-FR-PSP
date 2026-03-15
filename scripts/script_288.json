@@ -1,0 +1,932 @@
+[
+  {
+    "id": 0,
+    "offset": 356318,
+    "slot_size": 224,
+    "data_size": 220,
+    "nom_orig": "Eikichi",
+    "texte_orig": "*sigh*[1205][001E][SP]*gaze*[1205][001E][SP]*sigh*[1205][001E][SP]Do[SP]you[SP]ever[SP]think[SP]about\nthe[SP]past[SP]and[SP]wish[SP]you'd[SP]done[SP]things[SP]different?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 1,
+    "offset": 356542,
+    "slot_size": 190,
+    "data_size": 186,
+    "nom_orig": "Eikichi",
+    "texte_orig": "I[SP]know[SP]you[SP]can't[SP]change[SP]the[SP]past...[1205][001E][SP]But[SP]every\ntime[SP]I[SP]remember,[SP]it[SP]hurts[SP]again.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 2,
+    "offset": 356732,
+    "slot_size": 286,
+    "data_size": 282,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Th-That[SP]woman[SP]over[SP]there...[SP]She[SP]mentioned[SP]a\nTakeshi...[SP]Don't[SP]tell[SP]me[SP]she's[SP]THAT[SP]Takeshi's\nmom![SP]I[SP]remember[SP]his[SP]family[SP]being[SP]poor!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 3,
+    "offset": 357018,
+    "slot_size": 140,
+    "data_size": 136,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Ngh...[1205][U+000A][SP]Hey,[SP][U+1113]...[SP]What[SP]can[SP]I[SP]say[SP]to\nmake[SP]it[SP]up[SP]to[SP]her?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 4,
+    "offset": 357158,
+    "slot_size": 276,
+    "data_size": 272,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Something's...[SP]strange[SP]about[SP]how[SP]that[SP]lady's\nacting...[SP]Could[SP]she[SP]be[SP]one[SP]of[SP]the[SP]Masked...\nN-No,[SP]Takeshi's[SP]mom[SP]would[SP]never...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 5,
+    "offset": 357434,
+    "slot_size": 200,
+    "data_size": 196,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Of[SP]course[SP]she[SP]feels[SP]like[SP]something's[SP]missing!\nShe's[SP]forgotten[SP]her[SP]own[SP]son...[SP]Takeshi!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 6,
+    "offset": 357634,
+    "slot_size": 178,
+    "data_size": 174,
+    "nom_orig": "Eikichi",
+    "texte_orig": "But[SP]the[SP]one[SP]who[SP]did[SP]that[SP]to[SP]you[SP]was[SP]Joker[SP]when\nhe[SP]made[SP]you[SP]rich![SP]Dammit...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 7,
+    "offset": 357812,
+    "slot_size": 416,
+    "data_size": 412,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Deviates...?[1205][U+000F][SP]My[SP]memories...[1205][U+000A][SP]changed?[1205][U+000F][SP]It[SP]can't\nbe...[1205][U+000A][SP]But[SP]that[SP]must[SP]have[SP]been...[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nTh-Then[SP]the[SP]lady[SP]who[SP]was[SP]here[SP]took[SP]off[SP]to[SP]fight\nthe[SP]Last[SP]Battalion!?[SP]C-C'mon,[SP]that's[SP]crazy!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 8,
+    "offset": 358228,
+    "slot_size": 206,
+    "data_size": 202,
+    "nom_orig": "Lisa",
+    "texte_orig": "The[SP]owner[SP]said[SP]a[SP]moment[SP]ago[SP]that...[SP]only\npeople[SP]who[SP]have[SP]a[SP]grasp[SP]on[SP]time[SP]fear[SP]the\nfuture...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 9,
+    "offset": 358434,
+    "slot_size": 288,
+    "data_size": 284,
+    "nom_orig": "Lisa",
+    "texte_orig": "Maybe[SP]he's[SP]right...[1205][001E][SP]We[SP]worry[SP]about[SP]the[SP]present\nand[SP]get[SP]anxious[SP]over[SP]the[SP]future[SP]because[SP]we're\nalways[SP]thinking[SP]about[SP]what's[SP]ahead...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 10,
+    "offset": 358722,
+    "slot_size": 208,
+    "data_size": 204,
+    "nom_orig": "Ginko",
+    "texte_orig": "The[SP]owner[SP]said[SP]a[SP]moment[SP]ago[SP]that...[SP]only\npeople[SP]who[SP]have[SP]a[SP]grasp[SP]on[SP]time[SP]fear[SP]the\nfuture...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 11,
+    "offset": 358930,
+    "slot_size": 290,
+    "data_size": 286,
+    "nom_orig": "Ginko",
+    "texte_orig": "Maybe[SP]he's[SP]right...[1205][001E][SP]We[SP]worry[SP]about[SP]the[SP]present\nand[SP]get[SP]anxious[SP]over[SP]the[SP]future[SP]because[SP]we're\nalways[SP]thinking[SP]about[SP]what's[SP]ahead...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 12,
+    "offset": 359220,
+    "slot_size": 230,
+    "data_size": 226,
+    "nom_orig": "Ginko",
+    "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#13![1205][001E][SP][1432][NULL][NULL][0014]Ng[SP]Hai[1432][NULL][NULL][0014][SP]means...[1205][U+000F]\nWell,[SP]it's[SP]kind[SP]of[SP]like,[SP][1432][NULL][NULL][0014]No[SP]no[SP]no[SP]no![1432][NULL][NULL][0014]",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 13,
+    "offset": 359450,
+    "slot_size": 174,
+    "data_size": 170,
+    "nom_orig": "Ginko",
+    "texte_orig": "That[SP]woman[SP]said[SP]she[SP]got[SP]rich...[SP]You[SP]think[SP]she\nasked[SP]Joker[SP]for[SP]it?[1205][U+000F][SP]Nah...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 14,
+    "offset": 359624,
+    "slot_size": 184,
+    "data_size": 180,
+    "nom_orig": "Ginko",
+    "texte_orig": "I[SP]mean,[SP]she's[SP]that[SP]Takeshi[SP]guy's[SP]mom,[SP]right!?\nJoker[SP]practically[SP]killed[SP]her[SP]son!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 15,
+    "offset": 359808,
+    "slot_size": 296,
+    "data_size": 292,
+    "nom_orig": "Ginko",
+    "texte_orig": "I[SP]don't[SP]like[SP]time.[SP]It's[SP]always[SP]passing,[SP]but[SP]you\ncan[SP]never[SP]sense[SP]it.[1205][U+000F][SP]How[SP]many[SP]times[SP]have[SP]you\nbeen[SP]caught[SP]off[SP]guard[SP]by[SP]how[SP]late[SP]it[SP]was?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 16,
+    "offset": 360104,
+    "slot_size": 126,
+    "data_size": 122,
+    "nom_orig": "Ginko",
+    "texte_orig": "Look,[SP][U+1113].[SP]Something[SP]seems[SP]strange\nabout[SP]that[SP]woman.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 17,
+    "offset": 360230,
+    "slot_size": 298,
+    "data_size": 294,
+    "nom_orig": "Ginko",
+    "texte_orig": "I[SP]wonder[SP]if[SP]everyone'll[SP]forget[SP]what[SP]happened\nat[SP]Smile[SP]Hirasaka[SP]and[SP]GOLD[SP]after[SP]a[SP]while...[1205][U+000F]\nHoushonah...[SP]I[SP]don't[SP]like[SP]the[SP]idea[SP]of[SP]that...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 18,
+    "offset": 360528,
+    "slot_size": 216,
+    "data_size": 212,
+    "nom_orig": "Ginko",
+    "texte_orig": "If[SP]I'm[SP]right[SP]about[SP]Joker...[1205][U+000F][SP]Then[SP]the[SP]Masked\nCircle[SP]is[SP]just[SP]carrying[SP]out[SP]their[SP]will...[1205][U+000F][SP]No...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 19,
+    "offset": 360744,
+    "slot_size": 262,
+    "data_size": 258,
+    "nom_orig": "Ginko",
+    "texte_orig": "The[SP]Last[SP]Battalion[SP]showed[SP]up[SP]because[SP]of[SP]rumors,\nright?[SP]Then[SP]does[SP]that[SP]mean[SP]they're[SP]after\nXibalba,[SP]like[SP]the[SP]rumors[SP]say?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 20,
+    "offset": 361006,
+    "slot_size": 294,
+    "data_size": 290,
+    "nom_orig": "Maya",
+    "texte_orig": "People[SP]really[SP]can't[SP]escape[SP]the[SP]chains[SP]of[SP]their\npast...[1205][001E][SP]But[SP]however[SP]painful[SP]it[SP]seems,[SP]it's\nbecause[SP]of[SP]that[SP]past[SP]that[SP]we[SP]have[SP]a[SP]future.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 21,
+    "offset": 361300,
+    "slot_size": 272,
+    "data_size": 268,
+    "nom_orig": "Maya",
+    "texte_orig": "No[SP]one[SP]can[SP]stop[SP]themselves[SP]from[SP]making[SP]mistakes\nor[SP]having[SP]regrets.[SP]What's[SP]important[SP]is[SP]that[SP]you\nlearn[SP]from[SP]them.[1205][001E][SP]Right...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 22,
+    "offset": 361572,
+    "slot_size": 230,
+    "data_size": 226,
+    "nom_orig": "Maya",
+    "texte_orig": "I[SP]wonder[SP]when[SP]time[SP]started[SP]to[SP]flow.[SP]And[SP]how\nlong[SP]will[SP]it[SP]keep[SP]going?[SP]Is...[SP]Is[SP]it[SP]infinite\nafter[SP]all...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 23,
+    "offset": 361802,
+    "slot_size": 302,
+    "data_size": 298,
+    "nom_orig": "Maya",
+    "texte_orig": "Man's[SP]lifespan[SP]is[SP]limited.[1205][U+000A][SP]That's[SP]why[SP]we[SP]live\nto[SP]the[SP]fullest[SP]and[SP]shine[SP]our[SP]brightest[SP]until\nthe[SP]very[SP]end.[SP]No[SP]one[SP]can[SP]take[SP]away[SP]that[SP]light!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 24,
+    "offset": 362104,
+    "slot_size": 272,
+    "data_size": 268,
+    "nom_orig": "Maya",
+    "texte_orig": "I[SP]wonder[SP]what[SP]the[SP]past[SP]and[SP]future[SP]holds[SP]for[SP]us.\nThe[SP]future[SP]is[SP]born[SP]from[SP]our[SP]past,[SP]and[SP]new\npasts[SP]are[SP]born[SP]from[SP]that[SP]future...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 25,
+    "offset": 362376,
+    "slot_size": 256,
+    "data_size": 252,
+    "nom_orig": "Maya",
+    "texte_orig": "We[SP]can't[SP]sense[SP]time[SP]itself,[SP]but[SP]we[SP]remember\nthe[SP]things[SP]we've[SP]experienced[SP]over[SP]time...\nThose[SP]things[SP]make[SP]up[SP]our[SP]past.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 26,
+    "offset": 362632,
+    "slot_size": 274,
+    "data_size": 270,
+    "nom_orig": "Maya",
+    "texte_orig": "Eikichi-kun...[SP]It[SP]must[SP]be[SP]agonizing[SP]for[SP]him\nto[SP]think[SP]about[SP]what[SP]happened[SP]to[SP]Takeshi-kun.\nShe'd[SP]never[SP]wish[SP]for[SP]this,[SP]either...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 27,
+    "offset": 362906,
+    "slot_size": 394,
+    "data_size": 390,
+    "nom_orig": "Maya",
+    "texte_orig": "People[SP]who[SP]have[SP]forgotten[SP]the[SP]memories[SP]of[SP]their\npast[SP]are[SP]beginning[SP]to[SP]realize,[SP]through[SP]the[SP]In\nLak'ech,[SP]the[SP]atonement[SP]they[SP]are[SP]destined[SP]for.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHeh...[SP]Don't[SP]you[SP]think[SP]so,[SP][U+1113]-kun?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 28,
+    "offset": 363300,
+    "slot_size": 240,
+    "data_size": 236,
+    "nom_orig": "Maya",
+    "texte_orig": "The[SP]Last[SP]Battalion[SP]is[SP]after[SP]the[SP]Rings[SP]of[SP]Time.\nThey[SP]must[SP]be[SP]related[SP]to[SP]Xibalba[SP]somehow...[1205][U+000F]\nWe[SP]should[SP]hurry.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 29,
+    "offset": 363540,
+    "slot_size": 190,
+    "data_size": 186,
+    "nom_orig": "Yukino",
+    "texte_orig": "[1432][NULL][NULL][0014]Time[SP]cannot[SP]be[SP]stopped.[SP]The[SP]past[SP]you've[SP]lost\ncannot[SP]be[SP]reclaimed,[1432][NULL][NULL][0014][SP]huh...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 30,
+    "offset": 363730,
+    "slot_size": 292,
+    "data_size": 288,
+    "nom_orig": "Yukino",
+    "texte_orig": "Ms.[SP]Saeko[SP]thought[SP]the[SP]same[SP]thing.[SP]That's[SP]why\nshe[SP]told[SP]me[SP]to[SP]live[SP]my[SP]life[SP]without[SP]regrets.\nNever[SP]thought[SP]I'd[SP]hear[SP]those[SP]words[SP]here...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 31,
+    "offset": 364022,
+    "slot_size": 258,
+    "data_size": 254,
+    "nom_orig": "Yukino",
+    "texte_orig": "Everyone[SP]has[SP]keepsakes,[SP]right?[1205][U+000F][SP]And[SP]looking[SP]at\nthem[SP]brings[SP]back[SP]certain[SP]memories.[1205][U+000A][SP]Good[SP]ones...[1205][U+000F]\nand[SP]bad[SP]ones...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 32,
+    "offset": 364280,
+    "slot_size": 150,
+    "data_size": 146,
+    "nom_orig": "Yukino",
+    "texte_orig": "Even[SP]a[SP]shadowman's[SP]parents[SP]forget[SP]about[SP]him?[1205][U+000F]\nThat's[SP]just...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 33,
+    "offset": 364430,
+    "slot_size": 254,
+    "data_size": 250,
+    "nom_orig": "Yukino",
+    "texte_orig": "If[SP]the[SP]past[SP]is[SP]only[SP]a[SP]memory[SP]we[SP]hold,[SP]it[SP]might\nactually[SP]be[SP]very[SP]subjective.[SP]Memories[SP]change\nover[SP]time,[SP]after[SP]all.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 34,
+    "offset": 364684,
+    "slot_size": 158,
+    "data_size": 154,
+    "nom_orig": "Yukino",
+    "texte_orig": "They[SP]say[SP]the[SP]past[SP]never[SP]changes,[SP]but[SP]that's\nnot[SP]necessarily[SP]true.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 35,
+    "offset": 364842,
+    "slot_size": 282,
+    "data_size": 278,
+    "nom_orig": "Yukino",
+    "texte_orig": "That[SP]woman[SP]was[SP]in[SP]the[SP]Masked[SP]Circle...\nThat's[SP]why[SP]she's[SP]acting[SP]like[SP]this.[SP]The[SP]rumors\ngoing[SP]around[SP]the[SP]city[SP]are[SP]affecting[SP]her...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 36,
+    "offset": 365124,
+    "slot_size": 272,
+    "data_size": 268,
+    "nom_orig": "Yukino",
+    "texte_orig": "What[SP]King[SP]Leo[SP]said[SP]was[SP]all[SP]written[SP]down[SP]in[SP]the\nIn[SP]Lak'ech.[SP]Those[SP]guys[SP]have[SP]been[SP]following[SP]that\nbook[SP]every[SP]step[SP]of[SP]the[SP]way.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 37,
+    "offset": 365396,
+    "slot_size": 254,
+    "data_size": 250,
+    "nom_orig": "Yukino",
+    "texte_orig": "Why'd[SP]the[SP]Last[SP]Battalion[SP]go[SP]to[SP]Mt.[SP]Katatsumuri?[1205][U+000F]\nIs[SP]Xibalba[SP]on[SP]top[SP]of[SP]a[SP]mountain!?[SP]And[SP]why[SP]now,\nof[SP]all[SP]times...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 38,
+    "offset": 365650,
+    "slot_size": 1148,
+    "data_size": 1144,
+    "nom_orig": "Count",
+    "texte_orig": "Is[SP]there[SP]anything[SP]else?\n[U+1208][U+0006][U+1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store\n[U+1109][E2][E3][E4][NULL][NULL]\"Count\nAnd[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[U+1208][U+0007][U+111F][U+1210]ĀUndisplayed[SP]selection\n[U+111F]Sell[SP]items\n[U+111F]Sell[SP]weapons\n[U+111F][U+1210]ĀSell[SP]head[SP]armor\n[U+111F]Sell[SP]armor\n[U+111F][U+1210]ĀSell[SP]leg[SP]armor\n[U+111F]Sell[SP]accessories\n[U+1109][E2][E3][E4][NULL][NULL]\"Count\nAnd[SP]what[SP]do[SP]you[SP]wish[SP]to[SP]discuss?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][U+121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][U+121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Plese[SP]check[SP]this.\n-Kanada[E1][E2][E3][U+121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 39,
+    "offset": 366798,
+    "slot_size": 298,
+    "data_size": 294,
+    "nom_orig": "Count",
+    "texte_orig": "Time[SP]cannot[SP]be[SP]stopped.[SP]The[SP]past[SP]you've[SP]lost\ncannot[SP]be[SP]reclaimed.[1205][001E][SP]This[SP]is[SP]why[SP]man[SP]desires\nantiques...[SP]To[SP]recall[SP]a[SP]long-forgotten[SP]past.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 40,
+    "offset": 367096,
+    "slot_size": 194,
+    "data_size": 190,
+    "nom_orig": "Count",
+    "texte_orig": "Though[SP]you[SP]are[SP]still[SP]young,[SP]even[SP]you[SP]must[SP]have\nlost[SP]pasts,[SP]or[SP]precious[SP]memories,[SP]no?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 41,
+    "offset": 367290,
+    "slot_size": 298,
+    "data_size": 294,
+    "nom_orig": "Count",
+    "texte_orig": "In[SP]England,[SP]they[SP]called[SP]me[SP]the[SP]Clockwork[SP]Count.\nA[SP]machine[SP]can[SP]never[SP]hurt[SP]or[SP]betray[SP]people.[SP]Even\nif[SP]one[SP]is[SP]lost,[SP]there[SP]is[SP]always[SP]a[SP]spare.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 42,
+    "offset": 367588,
+    "slot_size": 280,
+    "data_size": 276,
+    "nom_orig": "Count",
+    "texte_orig": "That[SP]is[SP]why[SP]machine-loving[SP]humans[SP]disassociate\nwith[SP]people,[SP]favoring[SP]connections[SP]with[SP]their\nmachines...[1205][001E][SP]Ring[SP]a[SP]bell,[SP]does[SP]it?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 43,
+    "offset": 367868,
+    "slot_size": 310,
+    "data_size": 306,
+    "nom_orig": "Count",
+    "texte_orig": "Man[SP]has[SP]no[SP]conception[SP]of[SP]the[SP]flow[SP]of[SP]time.[1205][U+000F][SP]What\nyou[SP]call[SP]time[SP]is[SP]only[SP]events[SP]passing[SP]before[SP]your\neyes.[SP]The[SP]past[SP]is[SP]only[SP]what[SP]you[SP]can[SP]recall.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 44,
+    "offset": 368178,
+    "slot_size": 192,
+    "data_size": 188,
+    "nom_orig": "Count",
+    "texte_orig": "Yet[SP]man[SP]still[SP]believes[SP]he[SP]is[SP]ruled[SP]over[SP]by\ntime...[SP]Quite[SP]foolish,[SP]wouldn't[SP]you[SP]say?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 45,
+    "offset": 368370,
+    "slot_size": 320,
+    "data_size": 316,
+    "nom_orig": "Count",
+    "texte_orig": "Man[SP]believes[SP]in[SP]what[SP]he[SP]can[SP]see.[1205][U+000F][SP]But[SP]the[SP]heart\nyearns[SP]for,[SP]obsesses[SP]over,[SP]what[SP]cannot[SP]be[SP]seen.[1205][U+000A]\nThat[SP]is[SP]why[SP]man[SP]craves[SP]a[SP]fixed[SP]star[SP]to[SP]steer[SP]by.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 46,
+    "offset": 368690,
+    "slot_size": 306,
+    "data_size": 302,
+    "nom_orig": "Count",
+    "texte_orig": "Indeed,[SP]time[SP]rules[SP]over[SP]man's[SP]heart.[1205][U+000F][SP]But[SP]time\nitself[SP]cannot[SP]be[SP]seen[SP]or[SP]felt.[SP]Clocks,[SP]then,\nare[SP]idols[SP]in[SP]reverence[SP]to[SP]man's[SP]true[SP]god:[SP]time.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 47,
+    "offset": 368996,
+    "slot_size": 256,
+    "data_size": 252,
+    "nom_orig": "Count",
+    "texte_orig": "What[SP]is[SP]time[SP]for[SP]you?[1205][U+000F][SP]Numbers[SP]demarcating[SP]a\nlimited[SP]span?[SP]Or[SP]a[SP]means[SP]of[SP]measuring[SP]the\nmoment[SP]we[SP]call[SP]the[SP]present?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 48,
+    "offset": 369252,
+    "slot_size": 218,
+    "data_size": 214,
+    "nom_orig": "Count",
+    "texte_orig": "Perhaps[SP]it[SP]is[SP]the[SP]process[SP]by[SP]which[SP]a[SP]future\npregnant[SP]with[SP]hope[SP]becomes[SP]a[SP]vain[SP]and[SP]hollow\npast...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 49,
+    "offset": 369470,
+    "slot_size": 288,
+    "data_size": 284,
+    "nom_orig": "Count",
+    "texte_orig": "Since[SP]it[SP]cannot[SP]be[SP]predicted,[SP]man[SP]harbors[SP]hope\nfor[SP]the[SP]future.[SP]When[SP]it[SP]becomes[SP]the[SP]past,[SP]they\nlearn[SP]the[SP]fleeting[SP]nature[SP]of[SP]reality.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 50,
+    "offset": 369758,
+    "slot_size": 278,
+    "data_size": 274,
+    "nom_orig": "Count",
+    "texte_orig": "Antiques[SP]that[SP]remind[SP]men[SP]of[SP]their[SP]past[SP]are\nshards[SP]of[SP]time[SP]created[SP]by[SP]that[SP]process.[1205][U+000F][SP]You\nsurely[SP]already[SP]know[SP]of[SP]which[SP]I[SP]speak.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 51,
+    "offset": 370036,
+    "slot_size": 284,
+    "data_size": 280,
+    "nom_orig": "Count",
+    "texte_orig": "Time[SP]is[SP]an[SP]absolute[SP]property[SP]that[SP]cannot[SP]be[SP]seen\nor[SP]felt.[SP]But[SP]it[SP]invisibly[SP]shapes[SP]the[SP]lives[SP]and\nthe[SP]hearts[SP]of[SP]man[SP]by[SP]its[SP]passage.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 52,
+    "offset": 370320,
+    "slot_size": 250,
+    "data_size": 246,
+    "nom_orig": "Count",
+    "texte_orig": "That[SP]is[SP]because[SP]man's[SP]heart[SP]is[SP]always[SP]bound[SP]to\ntime.[SP]Time[SP]is[SP]a[SP]curse[SP]that[SP]chains[SP]them[SP]down.\nSo[SP]it[SP]is[SP]with[SP]you...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 53,
+    "offset": 370570,
+    "slot_size": 248,
+    "data_size": 244,
+    "nom_orig": "Count",
+    "texte_orig": "Time[SP]is[SP]an[SP]absolute[SP]property[SP]that[SP]cannot[SP]be[SP]seen\nor[SP]felt.[SP]But[SP]there[SP]is[SP]one[SP]comparable[SP]thing[SP]man\ncan[SP]know[SP]it[SP]by.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 54,
+    "offset": 370818,
+    "slot_size": 310,
+    "data_size": 306,
+    "nom_orig": "Count",
+    "texte_orig": "The[SP]transience[SP]of[SP]his[SP]heart...[1205][U+000F][SP]The[SP]torrent\nswirling[SP]within[SP]man[SP]cannot[SP]be[SP]stopped[SP]or[SP]seen.[1205][U+000F]\nYet[SP]it[SP]controls[SP]everything.[1205][U+000F][SP]As[SP]with[SP]that[SP]lady.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 55,
+    "offset": 371128,
+    "slot_size": 184,
+    "data_size": 180,
+    "nom_orig": "Count",
+    "texte_orig": "No[SP]one[SP]can[SP]prevent[SP]the[SP]onrush[SP]of[SP]the[SP]future.\nIndeed,[SP]everything[SP]is[SP]predestined.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 56,
+    "offset": 371312,
+    "slot_size": 232,
+    "data_size": 228,
+    "nom_orig": "Count",
+    "texte_orig": "And[SP]when[SP]time[SP]passes,[SP]the[SP]present[SP]becomes[SP]a\nlong-forgotten[SP]past[SP]that[SP]disappears[SP]from[SP]the\nhearts[SP]of[SP]man.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 57,
+    "offset": 371544,
+    "slot_size": 274,
+    "data_size": 270,
+    "nom_orig": "Count",
+    "texte_orig": "The[SP]rings[SP]of[SP]time[SP]affect[SP]everything...[1205][U+000F][SP]Even[SP]the\npast[SP]can[SP]become[SP]the[SP]future[SP]someday.[1205][U+000F][SP]No[SP]human\nalive[SP]can[SP]escape[SP]that[SP]fate.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 58,
+    "offset": 371818,
+    "slot_size": 286,
+    "data_size": 282,
+    "nom_orig": "Count",
+    "texte_orig": "Time[SP]ever[SP]continues[SP]to[SP]flow.[SP]The[SP]atrocities[SP]that\nhave[SP]occurred[SP]fade[SP]into[SP]the[SP]past[SP]and[SP]disappear\nfrom[SP]man's[SP]hearts[SP]in[SP]an[SP]instant...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 59,
+    "offset": 372104,
+    "slot_size": 200,
+    "data_size": 196,
+    "nom_orig": "Count",
+    "texte_orig": "But[SP]what[SP]about[SP]you?[SP]You[SP]can't[SP]easily[SP]banish\nyour[SP]memories[SP]stained[SP]with[SP]humiliation,[SP]no?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 60,
+    "offset": 372304,
+    "slot_size": 294,
+    "data_size": 290,
+    "nom_orig": "Count",
+    "texte_orig": "Even[SP]the[SP]most[SP]precise[SP]clock[SP]will[SP]eventually\ndeviate...[SP]I[SP]must[SP]fix[SP]them[SP]each[SP]time[SP]it[SP]happens.\nBut[SP]then,[SP]the[SP]same[SP]can[SP]be[SP]said[SP]about[SP]man.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 61,
+    "offset": 372598,
+    "slot_size": 294,
+    "data_size": 290,
+    "nom_orig": "Count",
+    "texte_orig": "Though[SP]man[SP]believes[SP]them[SP]to[SP]be[SP]accurate,[SP]his\nmemories[SP]slowly[SP]deviate[SP]over[SP]time.[SP]Only[SP]these\nantiques[SP]with[SP]no[SP]hearts[SP]point[SP]at[SP]the[SP]truth.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 62,
+    "offset": 372892,
+    "slot_size": 282,
+    "data_size": 278,
+    "nom_orig": "Count",
+    "texte_orig": "Even[SP]the[SP]most[SP]precise[SP]clock[SP]will[SP]eventually\ndeviate...[1205][U+000F][SP]It[SP]is[SP]the[SP]same[SP]with[SP]man.[1205][U+000F][SP]His[SP]memories\nbecome[SP]less[SP]accurate[SP]with[SP]time.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 63,
+    "offset": 373174,
+    "slot_size": 246,
+    "data_size": 242,
+    "nom_orig": "Count",
+    "texte_orig": "A[SP]clock[SP]can[SP]be[SP]fixed.[SP]But[SP]what[SP]of[SP]you?\nThe[SP]key[SP]to[SP]repairing[SP]the[SP]gears[SP]of[SP]time[SP]may\nbe[SP]these[SP]heartless[SP]antiques.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 64,
+    "offset": 373420,
+    "slot_size": 302,
+    "data_size": 298,
+    "nom_orig": "Count",
+    "texte_orig": "The[SP]promised[SP]hour[SP]is[SP]finally[SP]drawing[SP]near...\nI've[SP]never[SP]felt[SP]the[SP]clocks[SP]ticking[SP]toward[SP]the\nend[SP]to[SP]be[SP]so[SP]cold,[SP]yet[SP]so[SP]beautiful,[SP]until[SP]now.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 65,
+    "offset": 373722,
+    "slot_size": 198,
+    "data_size": 194,
+    "nom_orig": "Count",
+    "texte_orig": "Now,[SP]what[SP]will[SP]you[SP]do?[SP]Sit[SP]and[SP]wait[SP]for[SP]the[SP]end\ntimes[SP]that[SP]will[SP]certainly[SP]come?[SP]Or...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 66,
+    "offset": 373920,
+    "slot_size": 258,
+    "data_size": 254,
+    "nom_orig": "Count",
+    "texte_orig": "Can[SP]you[SP]not[SP]accept[SP]fate?[SP]No[SP]one[SP]can[SP]stop[SP]the\nonrush[SP]of[SP]time.[SP]Man[SP]has[SP]no[SP]means[SP]of[SP]fighting\nagainst[SP]its[SP]eternal[SP]order.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 67,
+    "offset": 374178,
+    "slot_size": 294,
+    "data_size": 290,
+    "nom_orig": "Count",
+    "texte_orig": "So[SP]I[SP]will[SP]give[SP]this[SP]to[SP]you[SP]as[SP]a[SP]parting[SP]gift.\nThe[SP]new[SP]machines[SP]that[SP]dwell[SP]in[SP]my[SP]castle...\nTake[SP]a[SP]good[SP]look[SP]at[SP]them[SP]while[SP]you[SP]are[SP]here.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 68,
+    "offset": 374472,
+    "slot_size": 316,
+    "data_size": 312,
+    "nom_orig": "Count",
+    "texte_orig": "Who[SP]decided[SP]that[SP]tomorrow[SP]will[SP]be[SP]a[SP]bright[SP]new\nday?[1205][001E][SP]Such[SP]proclamations[SP]are[SP]the[SP]source[SP]of[SP]man's\nanxiety.[1205][001E][SP]Peace[SP]lies[SP]with[SP]the[SP]cold,[SP]still[SP]past.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 69,
+    "offset": 374788,
+    "slot_size": 302,
+    "data_size": 298,
+    "nom_orig": "Nouveau-riche[SP]woman",
+    "texte_orig": "Ohohoho![SP]No[SP]more[SP]living[SP]in[SP]poverty![SP]I'm[SP]finally\nrich[SP]beyond[SP]my[SP]wildest[SP]dreams![SP]From[SP]now[SP]on,[SP]I'm\nliving[SP]in[SP]the[SP]lap[SP]of[SP]luxury!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 70,
+    "offset": 375090,
+    "slot_size": 304,
+    "data_size": 300,
+    "nom_orig": "Nouveau-riche[SP]woman",
+    "texte_orig": "The[SP]first[SP]thing[SP]I'll[SP]do[SP]is[SP]furnish[SP]my[SP]house[SP]with\nan[SP]antique[SP]wall[SP]clock.[1205][001E][SP]Oof,[SP]this[SP]is[SP]expensive...[1205][001E]\nOh,[SP]wait,[SP]I'm[SP]rich[SP]now!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 71,
+    "offset": 375394,
+    "slot_size": 326,
+    "data_size": 322,
+    "nom_orig": "Nouveau-riche[SP]woman",
+    "texte_orig": "My[SP]children[SP]suffered[SP]because[SP]they[SP]had[SP]to[SP]live\nin[SP]poverty.[SP]But[SP]thanks[SP]to[SP]the[SP]Exalted[SP]One,[SP]I'm\nrich[SP]now![SP]He[SP]won't[SP]have[SP]to[SP]worry[SP]anymore...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 72,
+    "offset": 375720,
+    "slot_size": 342,
+    "data_size": 338,
+    "nom_orig": "Nouveau-riche[SP]woman",
+    "texte_orig": "[1432][NULL][NULL][0014]He[1432][NULL][NULL][0014]...?[1205][U+000F][SP]O-Oh[SP]yes,[SP]Takeshi...[1205][U+000F][SP]H-Haha...[SP]How\ncould[SP]I[SP]forget[SP]my[SP]own[SP]son's[SP]name...?[1205][U+000F][SP]I[SP]think\nI'm[SP]a[SP]little[SP]drunk[SP]off[SP]this[SP]sudden[SP]fortune.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 73,
+    "offset": 376062,
+    "slot_size": 342,
+    "data_size": 338,
+    "nom_orig": "Nouveau-riche[SP]woman",
+    "texte_orig": "I[SP]wonder[SP]if[SP]being[SP]rich[SP]makes[SP]you[SP]forgetful.[1205][U+000F]\nI[SP]frequently[SP]forget[SP]my[SP]own[SP]son's[SP]name[SP]lately...[1205][U+000F]\nHis[SP]name's[SP]Takeshi,[SP]but...[1205][U+000A][SP]Haha,[SP]shameful,[SP]no?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 74,
+    "offset": 376404,
+    "slot_size": 300,
+    "data_size": 296,
+    "nom_orig": "Nouveau-riche[SP]woman",
+    "texte_orig": "Oh,[SP]by[SP]the[SP]way,[SP]do[SP]you[SP]happen[SP]to[SP]know[SP]a[SP]student\nat[SP]Kasugayama[SP]High[SP]by[SP]the[SP]name[SP]of[SP]Michel?[SP]He\ntakes[SP]good[SP]care[SP]of[SP]my[SP]Takeshi.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 75,
+    "offset": 376704,
+    "slot_size": 284,
+    "data_size": 280,
+    "nom_orig": "Nouveau-riche[SP]woman",
+    "texte_orig": "M-Masked[SP]Circle?[1205][U+000A][SP]Wh-What's[SP]that?[1205][U+000F][SP]I've[SP]never\nheard[SP]of[SP]any[SP]such[SP]organization.[1205][U+000F][SP]N-Now,[SP]what\nshould[SP]I[SP]buy[SP]next...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 76,
+    "offset": 376988,
+    "slot_size": 240,
+    "data_size": 236,
+    "nom_orig": "Masked[SP]Circle[SP]member",
+    "texte_orig": "Joker[SP]made[SP]me[SP]rich![SP]He[SP]granted[SP]my[SP]ideals!\nI'm[SP]happy[SP]now![SP]Then[SP]why[SP]does[SP]my[SP]heart[SP]still\nache!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 77,
+    "offset": 377228,
+    "slot_size": 288,
+    "data_size": 284,
+    "nom_orig": "Masked[SP]Circle[SP]member",
+    "texte_orig": "Aagh...[SP]This[SP]isn't[SP]right...[SP]It's[SP]like[SP]there's\na[SP]hole[SP]in[SP]my[SP]chest...[1205][U+000F][SP]Ngh...[SP]Dammit![SP]I'll\ndestroy[SP]this[SP]stupid[SP]store!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 78,
+    "offset": 377516,
+    "slot_size": 516,
+    "data_size": 512,
+    "nom_orig": "Masked[SP]Circle[SP]member",
+    "texte_orig": "Hahahaha,[SP]what[SP]fun![SP]This[SP]city[SP]should[SP]burn[SP]to\nthe[SP]ground![SP]That's[SP]what'll[SP]make[SP]me[SP]feel[SP]better!\nHahahaha![E1][E2]\n[E3][E4][NULL][NULL]\"Masked[SP]Circle[SP]member\nAaaaagh...[SP]Time's[SP]spinning...[1205][U+000F][SP]Something's\nmissing[SP]from[SP]inside[SP]me...[1205][U+000F][SP]Stop[SP]it...[SP]Stop\nthis[SP]clock!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 79,
+    "offset": 378032,
+    "slot_size": 328,
+    "data_size": 324,
+    "nom_orig": "Quiet[SP]gentleman",
+    "texte_orig": "I[SP]regret[SP]my[SP]past[SP]as[SP]well...[1205][001E][SP]The[SP]pain[SP]in[SP]my[SP]heart\nremains[SP]as[SP]time[SP]mercilessly[SP]marches[SP]on...[1205][001E][SP]By[SP]the\ntime[SP]I[SP]caught[SP]on,[SP]I'd[SP]reached[SP]this[SP]age.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 80,
+    "offset": 378360,
+    "slot_size": 318,
+    "data_size": 314,
+    "nom_orig": "Quiet[SP]gentleman",
+    "texte_orig": "I[SP]wish[SP]I[SP]could[SP]forget[SP]these[SP]painful[SP]memories,\nbut[SP]for[SP]some[SP]reason,[SP]they[SP]stay[SP]with[SP]me.[1205][U+000F][SP]I[SP]came\nhere[SP]because[SP]I[SP]can't[SP]endure[SP]such[SP]anguish.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 81,
+    "offset": 378678,
+    "slot_size": 236,
+    "data_size": 232,
+    "nom_orig": "Quiet[SP]gentleman",
+    "texte_orig": "Maybe[SP]the[SP]painful[SP]memories[SP]won't[SP]go[SP]away[SP]because\ndeep[SP]in[SP]my[SP]heart,[SP]I[SP]don't[SP]want[SP]to[SP]forget[SP]them.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 82,
+    "offset": 378914,
+    "slot_size": 304,
+    "data_size": 300,
+    "nom_orig": "Quiet[SP]gentleman",
+    "texte_orig": "One[SP]life[SP]is[SP]only[SP]the[SP]blink[SP]of[SP]an[SP]eye[SP]compared\nto[SP]the[SP]infinite[SP]span[SP]of[SP]time.[SP]However[SP]happy[SP]a\nman's[SP]life[SP]is,[SP]it[SP]only[SP]lasts[SP]so[SP]long.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 83,
+    "offset": 379218,
+    "slot_size": 264,
+    "data_size": 260,
+    "nom_orig": "Quiet[SP]gentleman",
+    "texte_orig": "They[SP]say[SP]dreams[SP]are[SP]fleeting...[SP]A[SP]dream[SP]that\ncan[SP]only[SP]last[SP]for[SP]a[SP]short[SP]amount[SP]of[SP]time[SP]is\ntrivial,[SP]in[SP]the[SP]end.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 84,
+    "offset": 379482,
+    "slot_size": 294,
+    "data_size": 290,
+    "nom_orig": "Quiet[SP]gentleman",
+    "texte_orig": "A[SP]moment[SP]of[SP]prosperity...[1205][U+000A][SP]A[SP]flash[SP]of[SP]joy...[1205][U+000F]\nAntiques[SP]reveal[SP]such[SP]evanescence.[SP]That[SP]lady\nmust[SP]have[SP]realized[SP]this[SP]as[SP]well.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 85,
+    "offset": 379776,
+    "slot_size": 220,
+    "data_size": 216,
+    "nom_orig": "Quiet[SP]gentleman",
+    "texte_orig": "This[SP]clock[SP]here[SP]is[SP]one[SP]that[SP]I[SP]myself[SP]sold[SP]to\nthe[SP]shop.[1205][U+000F][SP]It[SP]was[SP]my[SP]mother's[SP]heirloom...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 86,
+    "offset": 379996,
+    "slot_size": 310,
+    "data_size": 306,
+    "nom_orig": "Quiet[SP]gentleman",
+    "texte_orig": "I[SP]hated[SP]the[SP]sight[SP]of[SP]it,[SP]because[SP]it[SP]seemed[SP]like\nthe[SP]time[SP]when[SP]my[SP]mother[SP]was[SP]alive[SP]kept[SP]slipping\nfarther[SP]and[SP]farther[SP]into[SP]the[SP]past...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 87,
+    "offset": 380306,
+    "slot_size": 310,
+    "data_size": 306,
+    "nom_orig": "Quiet[SP]gentleman",
+    "texte_orig": "Whether[SP]the[SP]In[SP]Lak'ech[SP]is[SP]true[SP]or[SP]false...\nWe'll[SP]never[SP]know[SP]until[SP]that's[SP]all[SP]in[SP]the[SP]past\nas[SP]well.[SP]I[SP]won't[SP]believe[SP]or[SP]disbelieve[SP]yet.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 88,
+    "offset": 380616,
+    "slot_size": 242,
+    "data_size": 238,
+    "nom_orig": "Quiet[SP]gentleman",
+    "texte_orig": "The[SP]lady[SP]who[SP]was[SP]here[SP]rushed[SP]out.[SP]I[SP]tried[SP]to\nstop[SP]here,[SP]but[SP]she[SP]said[SP]she[SP]couldn't[SP]disobey\nJoker...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 89,
+    "offset": 380858,
+    "slot_size": 1304,
+    "data_size": 1300,
+    "nom_orig": "Count",
+    "texte_orig": "Welcome[SP]to[SP]Time[SP]Castle...[1205][U+000A][SP]The[SP]onrush[SP]of[SP]time[SP]is\nswift[SP]and[SP]unceasing.[1205][U+000A][SP]Now,[SP]state[SP]your[SP]business.\n[U+1208][U+0006][U+1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store\n[U+1109][E2][E3][E4][NULL][NULL]\"Count\nAnd[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[U+1208][U+0007][U+111F][U+1210]ĀUndisplayed[SP]selection\n[U+111F]Sell[SP]items\n[U+111F]Sell[SP]weapons\n[U+111F][U+1210]ĀSell[SP]head[SP]armor\n[U+111F]Sell[SP]armor\n[U+111F][U+1210]Ā[U+1210]ĀSell[SP]leg[SP]armor\n[U+111F]Sell[SP]accessories\n[U+1109][E2][E3][E4][NULL][NULL]\"Count\nAnd[SP]what[SP]do[SP]you[SP]wish[SP]to[SP]discuss?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][U+121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][U+121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][U+121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 90,
+    "offset": 382162,
+    "slot_size": 96,
+    "data_size": 92,
+    "nom_orig": "Count",
+    "texte_orig": "You[SP]seem[SP]to[SP]have[SP]nothing[SP]to[SP]sell...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 91,
+    "offset": 382258,
+    "slot_size": 1418,
+    "data_size": 1414,
+    "nom_orig": "Count",
+    "texte_orig": "That[SP]will[SP]be[SP]a[SP]total[SP]of[SP][U+120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[U+1208][0002]Yes\nNo\n[U+1109][E2][E3][E4][NULL][NULL]\"Count\nYou[SP]want[SP]to[SP]hear[SP]about[SP]buying[SP]and[SP]selling?\n[E1][E2][E4][NULL][NULL]\"Count\nI'll[SP]explain[SP]first[SP]how[SP]to[SP]buy[SP]items.[SP]Select,\nfor[SP]example,[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can\npurchase[SP]that[SP]category[SP]of[SP]item.\n[E1][E2][E4][NULL][NULL]\"Count\nCertain[SP]things[SP]can[SP]only[SP]be[SP]equipped[SP]by[SP]certain\nindividuals.[SP]Make[SP]sure[SP]you[SP]check[SP]these\nconditions[SP]before[SP]making[SP]your[SP]purchase.\n[E1][E2][E4][NULL][NULL]\"Count\nNext,[SP]selling[SP]items.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and\nyou[SP]can[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Select\nan[SP]item[SP]type[SP]and[SP]then[SP]decide[SP]what[SP]to[SP]sell.\n[E1][E2][E4][NULL][NULL]\"Count\nThe[SP]resale[SP]price[SP]is[SP]about[SP]50%[SP]of[SP]the[SP]original\nprice.[SP]Equipped[SP]items[SP]and[SP]certain[SP]special[SP]items\ncannot[SP]be[SP]sold.[SP]That[SP]should[SP]cover[SP]it,[SP]I[SP]think.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 92,
+    "offset": 383676,
+    "slot_size": 1458,
+    "data_size": 1454,
+    "nom_orig": "Count",
+    "texte_orig": "You[SP]want[SP]to[SP]hear[SP]about[SP]buying[SP]and[SP]selling?\n[E1][E2][E4][NULL][NULL]\"Count\nI'll[SP]explain[SP]first[SP]how[SP]to[SP]buy[SP]items.[SP]Select,\nfor[SP]example,[SP][1432][NULL][NULL][0014]Buy[SP]weapons[1432][NULL][NULL][0014][SP]at[SP]my[SP]store[SP]to\npurchase[SP]weapons.\n[E1][E2][E4][NULL][NULL]\"Count\nEach[SP]of[SP]you[SP]can[SP]only[SP]use[SP]certain[SP]weapons.\nBe[SP]aware[SP]of[SP]that[SP]before[SP]you[SP]make[SP]your[SP]purchase.\n[E1][E2][E4][NULL][NULL]\"Count\nSelect[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase\naccessories.[SP]Again,[SP]certain[SP]things[SP]can[SP]only[SP]be\nequipped[SP]by[SP]certain[SP]individuals.\n[E1][E2][E4][NULL][NULL]\"Count\nNext,[SP]selling[SP]items.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and\nyou[SP]can[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Select\nan[SP]item[SP]type[SP]and[SP]then[SP]decide[SP]what[SP]to[SP]sell.\n[E1][E2][E4][NULL][NULL]\"Count\nThe[SP]resale[SP]price[SP]is[SP]about[SP]50%[SP]of[SP]the[SP]original\nprice.[SP]Equipped[SP]items[SP]and[SP]certain[SP]special[SP]items\ncannot[SP]be[SP]sold.[SP]That[SP]should[SP]cover[SP]it,[SP]I[SP]think.",
+    "nom_fr": "",
+    "texte_fr": ""
+  }
+]

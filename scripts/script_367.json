@@ -1,0 +1,802 @@
+[
+  {
+    "id": 0,
+    "offset": 305694,
+    "slot_size": 292,
+    "data_size": 288,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Yeesh,[SP]it[SP]costs[SP]this[SP]much[SP]for[SP]the[SP]fabric[SP]alone?\nTailor-made[SP]stuff[SP]sure[SP]costs[SP]a[SP]lot...[1205][U+000F][SP]Even[SP]I\ncan[SP]only[SP]dream[SP]of[SP]buying[SP]this[SP]stuff.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 1,
+    "offset": 305986,
+    "slot_size": 286,
+    "data_size": 282,
+    "nom_orig": "Eikichi",
+    "texte_orig": "H-Hey...[SP]What's[SP]gotten[SP]into[SP]Yukino-san?[SP]She's\ngotten[SP]all[SP]red[SP]and[SP]giggly[SP]and[SP]fidgety...[SP]It\nmakes[SP]me[SP]nervous[SP]about[SP]talking[SP]to[SP]her.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 2,
+    "offset": 306272,
+    "slot_size": 170,
+    "data_size": 166,
+    "nom_orig": "Eikichi",
+    "texte_orig": "What[SP]the[SP]hell[SP]happened[SP]to[SP]him?[1205][U+000F][SP]He[SP]seems[SP]like\nhe's[SP]in[SP]a[SP]rough[SP]spot...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 3,
+    "offset": 306442,
+    "slot_size": 266,
+    "data_size": 262,
+    "nom_orig": "Eikichi",
+    "texte_orig": "If[SP]rumors[SP]can[SP]change[SP]your[SP]personality...[SP]then\nwhat[SP]happens[SP]to[SP]your[SP]actual[SP]self?[SP]Can[SP]rumors\nsteal[SP]that[SP]from[SP]you[SP]too...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 4,
+    "offset": 306708,
+    "slot_size": 242,
+    "data_size": 238,
+    "nom_orig": "Eikichi",
+    "texte_orig": "That[SP]Ixquic[SP]kid[SP]doesn't[SP]seem[SP]like[SP]she'll[SP]give\nup[SP]so[SP]easy.[SP]We[SP]should[SP]keep[SP]an[SP]eye[SP]out[SP]for[SP]her,\njust[SP]in[SP]case.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 5,
+    "offset": 306950,
+    "slot_size": 216,
+    "data_size": 212,
+    "nom_orig": "Eikichi",
+    "texte_orig": "H-Hey,[SP]isn't[SP]that[SP]guy[SP]over[SP]there[SP]in[SP]the[SP]Masked\nCircle?[SP][1432][NULL][NULL][0014]New[SP]executive[1432][NULL][NULL][0014]?[SP]What's[SP]he[SP]mean?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 6,
+    "offset": 307166,
+    "slot_size": 244,
+    "data_size": 240,
+    "nom_orig": "Eikichi",
+    "texte_orig": "I[SP]can't[SP]believe[SP]the[SP]chaos[SP]the[SP]Masked[SP]Circle\ncaused[SP]ended[SP]up[SP]helping[SP]the[SP]Last[SP]Battalion.\nPretty[SP]ironic,[SP]huh?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 7,
+    "offset": 307410,
+    "slot_size": 308,
+    "data_size": 304,
+    "nom_orig": "Ginko",
+    "texte_orig": "Aiyah,[SP]this[SP]is[SP]really[SP]something...[SP]Rumors[SP]like\nthe[SP]one[SP]Maya-san[SP]was[SP]talking[SP]about[SP]are[SP]probably\nspreading[SP]BECAUSE[SP]they're[SP]keeping[SP]this[SP]around!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 8,
+    "offset": 307718,
+    "slot_size": 176,
+    "data_size": 172,
+    "nom_orig": "Ginko",
+    "texte_orig": "He's[SP]going[SP]to[SP]ask[SP]Joker...[SP]So[SP]that[SP]guy[SP]over\nthere[SP]was[SP]in[SP]the[SP]Masked[SP]Circle?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 9,
+    "offset": 307894,
+    "slot_size": 292,
+    "data_size": 288,
+    "nom_orig": "Ginko",
+    "texte_orig": "I[SP]can't[SP]believe[SP]even[SP]a[SP]guy[SP]like[SP]him[SP]was[SP]part\nof[SP]the[SP]Masked[SP]Circle...[SP]How[SP]many[SP]of[SP]them[SP]are\nthere?[SP]And[SP]will[SP]they[SP]all[SP]turn[SP]out[SP]like[SP]him?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 10,
+    "offset": 308186,
+    "slot_size": 204,
+    "data_size": 200,
+    "nom_orig": "Ginko",
+    "texte_orig": "Ixquic,[SP]was[SP]it?[SP]I[SP]didn't[SP]know[SP]the[SP]Masked[SP]Circle\nlet[SP]kids[SP]sign[SP]up.[SP]What[SP]a[SP]strange[SP]group...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 11,
+    "offset": 308390,
+    "slot_size": 256,
+    "data_size": 252,
+    "nom_orig": "Ginko",
+    "texte_orig": "Hey,[SP]did[SP]you[SP]catch[SP]what[SP]that[SP]artist[SP]was[SP]saying?\nI[SP]wonder[SP]how[SP]they're[SP]drawing[SP]us...[SP]I'm[SP]getting\nkind[SP]of[SP]worried[SP]now.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 12,
+    "offset": 308646,
+    "slot_size": 272,
+    "data_size": 268,
+    "nom_orig": "Ginko",
+    "texte_orig": "That[SP]guy's[SP]in[SP]the[SP]Masked[SP]Circle,[SP]right?\nDoes[SP]that[SP]mean[SP]there's[SP]already[SP]someone\nreplacing[SP]King[SP]Leo?[SP]No...[SP]That's[SP]too[SP]soon...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 13,
+    "offset": 308918,
+    "slot_size": 274,
+    "data_size": 270,
+    "nom_orig": "Ginko",
+    "texte_orig": "Do[SP]you[SP]have[SP]everything[SP]you[SP]need,[SP][U+1113]?\nWho[SP]knows[SP]what[SP]kind[SP]of[SP]weapons[SP]they'll[SP]use...\nWe[SP]have[SP]to[SP]prepare[SP]ourselves[SP]while[SP]we[SP]can.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 14,
+    "offset": 309192,
+    "slot_size": 286,
+    "data_size": 282,
+    "nom_orig": "Maya",
+    "texte_orig": "There[SP]are[SP]rumors[SP]this[SP]shop[SP]makes[SP]armor,[SP]too.\nThe[SP]shop[SP]owner[SP]apparently[SP]put[SP]up[SP]a[SP]sign[SP]saying\nhe'd[SP]make[SP]absolutely[SP]anything[SP]wearable.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 15,
+    "offset": 309478,
+    "slot_size": 248,
+    "data_size": 244,
+    "nom_orig": "Maya",
+    "texte_orig": "Hahaha...[SP]That[SP]Yukki...[1205][U+000F][SP]I[SP]don't[SP]think[SP]she's\nthe[SP]type[SP]to[SP]keep[SP]anything[SP]secret.[SP]Though[SP]I'm\nhardly[SP]one[SP]to[SP]talk...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 16,
+    "offset": 309726,
+    "slot_size": 266,
+    "data_size": 262,
+    "nom_orig": "Maya",
+    "texte_orig": "People[SP]think[SP]the[SP]Masked[SP]Circle[SP]were[SP]the\nterrorists.[SP]So[SP]rumors[SP]spread[SP]that[SP]they[SP]were\ndangerous,[SP]and[SP]then[SP]they[SP]came[SP]true...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 17,
+    "offset": 309992,
+    "slot_size": 168,
+    "data_size": 164,
+    "nom_orig": "Maya",
+    "texte_orig": "The[SP]Masked[SP]Circle[SP]really[SP]is[SP]going[SP]to[SP]turn\ninto[SP]an[SP]evil[SP]cult[SP]soon[SP]enough.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 18,
+    "offset": 310160,
+    "slot_size": 292,
+    "data_size": 288,
+    "nom_orig": "Maya",
+    "texte_orig": "Rumors[SP]are[SP]changing[SP]reality[SP]almost[SP]too[SP]fast\nto[SP]follow.[SP]But[SP]if[SP]we[SP]can[SP]get[SP]at[SP]the[SP]root[SP]of[SP]it,\nmaybe[SP]we[SP]can[SP]turn[SP]everyone[SP]back[SP]to[SP]normal.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 19,
+    "offset": 310452,
+    "slot_size": 198,
+    "data_size": 194,
+    "nom_orig": "Maya",
+    "texte_orig": "Come[SP]on,[SP]let's[SP]think[SP]positive![1205][U+000F][SP]No[SP]matter[SP]how\nbad[SP]things[SP]get,[SP]we[SP]can't[SP]be[SP]pessimistic.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 20,
+    "offset": 310650,
+    "slot_size": 138,
+    "data_size": 134,
+    "nom_orig": "Maya",
+    "texte_orig": "A[SP]moment[SP]of[SP]hesitation[SP]or[SP]worry[SP]may[SP]create\na[SP]false[SP]ideal.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 21,
+    "offset": 310788,
+    "slot_size": 140,
+    "data_size": 136,
+    "nom_orig": "Maya",
+    "texte_orig": "But[SP]Joker[SP]isn't[SP]particular.[SP]He'll[SP]grant[SP]even\nthose[SP]ideals.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 22,
+    "offset": 310928,
+    "slot_size": 144,
+    "data_size": 140,
+    "nom_orig": "Maya",
+    "texte_orig": "I[SP]feel[SP]that's[SP]what's[SP]causing[SP]all[SP]these\nterrible[SP]tragedies...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 23,
+    "offset": 311072,
+    "slot_size": 262,
+    "data_size": 258,
+    "nom_orig": "Maya",
+    "texte_orig": "As[SP]long[SP]as[SP]humans[SP]retain[SP]their[SP]humanity,[SP]the\nMasked[SP]Circle[SP]will[SP]never[SP]go[SP]away.[SP]We[SP]can\nrecruit[SP]more[SP]and[SP]more[SP]executives.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 24,
+    "offset": 311334,
+    "slot_size": 216,
+    "data_size": 212,
+    "nom_orig": "Maya",
+    "texte_orig": "It[SP]was[SP]humans,[SP]after[SP]all,[SP]who[SP]gave[SP]birth[SP]to\nthe[SP]Masked[SP]Circle...[SP]and[SP]its[SP]new[SP]executive...[1205][U+000F]\nHeh.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 25,
+    "offset": 311550,
+    "slot_size": 176,
+    "data_size": 172,
+    "nom_orig": "Maya",
+    "texte_orig": "I've[SP]been[SP]wondering...[SP]That[SP]army[SP]is[SP]so[SP]huge,\nthey[SP]must[SP]have[SP]a[SP]leader,[SP]right?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 26,
+    "offset": 311726,
+    "slot_size": 106,
+    "data_size": 102,
+    "nom_orig": "Maya",
+    "texte_orig": "So[SP]who's[SP]in[SP]charge[SP]of[SP]the[SP]Last[SP]Battalion?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 27,
+    "offset": 311832,
+    "slot_size": 258,
+    "data_size": 254,
+    "nom_orig": "Yukino",
+    "texte_orig": "Did[SP]you[SP]hear[SP]what[SP]Maya[SP]said?[SP]That[SP]was[SP]just[SP]an\nexaggerated[SP]slogan.[SP]Who[SP]knows[SP]what[SP]people[SP]will\nturn[SP]into[SP]rumors[SP]next?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 28,
+    "offset": 312090,
+    "slot_size": 302,
+    "data_size": 298,
+    "nom_orig": "Yukino",
+    "texte_orig": "Maybe[SP]I[SP]should[SP]make[SP]him[SP]some[SP]clothes[SP]here[SP]and\ngive[SP]'em[SP]to[SP]him...[1205][U+000F][SP]Oh,[SP]but[SP]I[SP]don't[SP]know[SP]his\nsize.[1205][U+000F][SP]And[SP]if[SP]I[SP]ask,[SP]he'll[SP]know...[1205][U+000F][SP]Hmmm...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 29,
+    "offset": 312392,
+    "slot_size": 190,
+    "data_size": 186,
+    "nom_orig": "Yukino",
+    "texte_orig": "Are[SP]you[SP]saying[SP]everyone[SP]in[SP]the[SP]Masked[SP]Circle\nwill[SP]turn[SP]evil[SP]because[SP]of[SP]the[SP]rumor?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 30,
+    "offset": 312582,
+    "slot_size": 134,
+    "data_size": 130,
+    "nom_orig": "Yukino",
+    "texte_orig": "But...[SP]This[SP]is[SP]none[SP]of[SP]their[SP]fault[SP]except\nKing[SP]Leo's!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 31,
+    "offset": 312716,
+    "slot_size": 292,
+    "data_size": 288,
+    "nom_orig": "Yukino",
+    "texte_orig": "Is[SP]the[SP]Masked[SP]Circle[SP]okay[SP]with[SP]this?[SP]Their\nfriends...[SP]Their[SP]entire[SP]organization[SP]is[SP]starting\nto[SP]be[SP]warped[SP]just[SP]because[SP]of[SP]King[SP]Leo...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 32,
+    "offset": 313008,
+    "slot_size": 134,
+    "data_size": 130,
+    "nom_orig": "Yukino",
+    "texte_orig": "They[SP]didn't[SP]want[SP]that![SP]Man...[SP]People[SP]sure\nare[SP]clumsy.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 33,
+    "offset": 313142,
+    "slot_size": 184,
+    "data_size": 180,
+    "nom_orig": "Yukino",
+    "texte_orig": "Hmm...[1205][U+000F][SP]Is[SP]Maya[SP]talking[SP]about[SP]that[SP]Ixquic[SP]girl?\nHahaha...[SP]That's[SP]so[SP]like[SP]her.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 34,
+    "offset": 313326,
+    "slot_size": 294,
+    "data_size": 290,
+    "nom_orig": "Yukino",
+    "texte_orig": "A[SP]new[SP]executive[SP]replacing[SP]King[SP]Leo,[SP]huh...?[1205][U+000F]\nFine![SP]They[SP]can[SP]serve[SP]up[SP]all[SP]the[SP]executives\nthey[SP]want,[SP]I'll[SP]turn[SP]'em[SP]all[SP]into[SP]hamburger.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 35,
+    "offset": 313620,
+    "slot_size": 224,
+    "data_size": 220,
+    "nom_orig": "Yukino",
+    "texte_orig": "Even[SP]if[SP]the[SP]police[SP]department[SP]was[SP]intact,\nthey[SP]wouldn't[SP]have[SP]been[SP]able[SP]to[SP]stop[SP]the\nLast[SP]Battalion.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 36,
+    "offset": 313844,
+    "slot_size": 138,
+    "data_size": 134,
+    "nom_orig": "Yukino",
+    "texte_orig": "The[SP]damage[SP]might[SP]have[SP]even[SP]been[SP]worse[SP]if\nthey[SP]resisted.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 37,
+    "offset": 313982,
+    "slot_size": 338,
+    "data_size": 334,
+    "nom_orig": "Man[SP]who[SP]became[SP]an[SP]English[SP]gentleman",
+    "texte_orig": "I[SP]had[SP]always[SP]wanted[SP]to[SP]live[SP]as[SP]an[SP]English\ngentleman.[SP]I[SP]may[SP]be[SP]an[SP]office[SP]drone,[SP]but[SP]what\ncould[SP]a[SP]little[SP]elegant[SP]living[SP]hurt...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 38,
+    "offset": 314320,
+    "slot_size": 302,
+    "data_size": 298,
+    "nom_orig": "Man[SP]who[SP]became[SP]an[SP]English[SP]gentleman",
+    "texte_orig": "And,[SP]oh![SP]Heaven[SP]did[SP]not[SP]forsake[SP]me![SP]My[SP]wish\nhas[SP]been[SP]granted.[SP]You[SP]see[SP]before[SP]you[SP]a[SP]proper\nEnglish[SP]gentleman!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 39,
+    "offset": 314622,
+    "slot_size": 242,
+    "data_size": 238,
+    "nom_orig": "Man[SP]who[SP]became[SP]an[SP]English[SP]gentleman",
+    "texte_orig": "I[SP]thought[SP]I[SP]must[SP]look[SP]the[SP]part[SP]and[SP]so[SP]came[SP]to\nhave[SP]a[SP]classic[SP]coat[SP]made[SP]for[SP]me.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 40,
+    "offset": 314864,
+    "slot_size": 326,
+    "data_size": 322,
+    "nom_orig": "Masked[SP]Circle[SP]member",
+    "texte_orig": "What[SP]is[SP]the[SP]matter[SP]with[SP]this[SP]city!?[SP]Bawdy\nscenery![SP]The[SP]neverending[SP]hue[SP]and[SP]cry![SP]How[SP]can\nI[SP]be[SP]expected[SP]to[SP]live[SP]as[SP]an[SP]English[SP]gentleman!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 41,
+    "offset": 315190,
+    "slot_size": 322,
+    "data_size": 318,
+    "nom_orig": "Masked[SP]Circle[SP]member",
+    "texte_orig": "B-But[SP]of[SP]course...[SP]I'll[SP]simply[SP]ask[SP]Joker[SP]to\neliminate[SP]this[SP]entire[SP]city[SP]and[SP]make[SP]it[SP]anew\ninto[SP]a[SP]nation[SP]where[SP]the[SP]Masked[SP]Circle[SP]reigns!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 42,
+    "offset": 315512,
+    "slot_size": 308,
+    "data_size": 304,
+    "nom_orig": "Masked[SP]Circle[SP]member",
+    "texte_orig": "Just[SP]who[SP]is[SP]this[SP]Last[SP]Battalion?[1205][U+000F][SP]I've[SP]never\nheard[SP]them[SP]mentioned[SP]in[SP]our[SP]meetings![SP]Are[SP]they\nan[SP]enemy[SP]of[SP]the[SP]Masked[SP]Circle...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 43,
+    "offset": 315820,
+    "slot_size": 308,
+    "data_size": 304,
+    "nom_orig": "Masked[SP]Circle[SP]member",
+    "texte_orig": "A[SP]few[SP]children[SP]just[SP]came[SP]through.[SP]I[SP]see...\nThe[SP]five[SP]people[SP]in[SP]the[SP]composite[SP]sketches[SP]are\nheroes[SP]combating[SP]the[SP]Masked[SP]Circle...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 44,
+    "offset": 316128,
+    "slot_size": 172,
+    "data_size": 168,
+    "nom_orig": "Masked[SP]Circle[SP]member",
+    "texte_orig": "...Dash[SP]it[SP]all![SP]That[SP]makes[SP]them[SP]my[SP]enemies!\nHow[SP]dare[SP]they!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 45,
+    "offset": 316300,
+    "slot_size": 336,
+    "data_size": 332,
+    "nom_orig": "Masked[SP]Circle[SP]member",
+    "texte_orig": "Heheheh...[SP]We[SP]of[SP]the[SP]Masked[SP]Circle[SP]will[SP]come\nout[SP]on[SP]top![SP]Another[SP]member[SP]told[SP]me[SP]that[SP]we[SP]have\na[SP]new[SP]executive.[SP]The[SP]Last[SP]Battalion[SP]will[SP]cower!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 46,
+    "offset": 316636,
+    "slot_size": 184,
+    "data_size": 180,
+    "nom_orig": "Masked[SP]Circle[SP]member",
+    "texte_orig": "Hahahahaha...[1205][U+000A][SP]Ha?[1205][U+000A][SP]I'm[SP]certain[SP]I've[SP]seen[SP]you\npeople[SP]before...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 47,
+    "offset": 316820,
+    "slot_size": 252,
+    "data_size": 248,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "Have[SP]you[SP]heard[SP]of[SP]the[SP]demon[SP]painter?[SP]He[SP]had\na[SP]talent[SP]for[SP]painting[SP]the[SP]two[SP]extremes[SP]of\ngod[SP]and[SP]demon.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 48,
+    "offset": 317072,
+    "slot_size": 264,
+    "data_size": 260,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "I[SP]was[SP]a[SP]great[SP]admirer[SP]of[SP]his...[1205][U+000F][SP]But[SP]he[SP]went\nmissing[SP]many[SP]decades[SP]ago[SP]and[SP]has[SP]yet[SP]to[SP]be\nheard[SP]from[SP]since.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 49,
+    "offset": 317336,
+    "slot_size": 198,
+    "data_size": 194,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "I[SP]heard[SP]the[SP]inhabitants[SP]of[SP]the[SP]netherworld[SP]that\nartist[SP]created[SP]had[SP]souls.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 50,
+    "offset": 317534,
+    "slot_size": 394,
+    "data_size": 390,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "Many[SP]tried[SP]to[SP]get[SP]their[SP]hands[SP]on[SP]his[SP]work,\nbut[SP]he[SP]accepted[SP]no[SP]praise[SP]and[SP]refused[SP]to[SP]put\na[SP]price[SP]tag[SP]on[SP]his[SP]pieces.\n[E3][E4][NULL][NULL]\"Middle-aged[SP]artist\nHe[SP]was[SP]a[SP]noble[SP]and[SP]proud[SP]artist.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 51,
+    "offset": 317928,
+    "slot_size": 202,
+    "data_size": 198,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "The[SP]genius[SP]demon[SP]painter...[SP]No[SP]one[SP]knows\nwhat[SP]happened[SP]in[SP]his[SP]last[SP]moments.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 52,
+    "offset": 318130,
+    "slot_size": 170,
+    "data_size": 166,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "He[SP]left[SP]only[SP]one[SP]painting[SP]before[SP]vanishing\nwithout[SP]a[SP]trace.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 53,
+    "offset": 318300,
+    "slot_size": 180,
+    "data_size": 176,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "His[SP]last[SP]work...[1205][U+000F][SP]It[SP]depicted[SP]a[SP]blue[SP]door\nagainst[SP]a[SP]white[SP]wall.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 54,
+    "offset": 318480,
+    "slot_size": 312,
+    "data_size": 308,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "It[SP]was[SP]said[SP]that[SP]the[SP]gods[SP]this[SP]demon[SP]painter\ncreated[SP]brought[SP]tears[SP]to[SP]the[SP]viewer's[SP]eye,\nand[SP]his[SP]demons[SP]chilled[SP]the[SP]viewer's[SP]blood.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 55,
+    "offset": 318792,
+    "slot_size": 286,
+    "data_size": 282,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "Many[SP]have[SP]gone[SP]looking[SP]for[SP]the[SP]missing[SP]demon\npainter.[SP]Yet[SP]none[SP]have[SP]found[SP]him.[SP]Common\nspeculation[SP]is[SP]that[SP]he[SP]is[SP]dead.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 56,
+    "offset": 319078,
+    "slot_size": 322,
+    "data_size": 318,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "I[SP]just[SP]saw[SP]the[SP]police[SP]sketches[SP]they[SP]released...\nAwful.[SP]The[SP]artist[SP]clearly[SP]brought[SP]his[SP]prejudices\nto[SP]the[SP]work.[SP]A[SP]waste[SP]of[SP]a[SP]good[SP]canvas.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 57,
+    "offset": 319400,
+    "slot_size": 318,
+    "data_size": 314,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "It's[SP]said[SP]that[SP]the[SP]demon[SP]painter[SP]sometimes\nappeared[SP]in[SP]the[SP]dreams[SP]of[SP]superior[SP]artists.\nI[SP]doubt[SP]he's[SP]part[SP]of[SP]the[SP]waking[SP]world[SP]anymore.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 58,
+    "offset": 319718,
+    "slot_size": 310,
+    "data_size": 306,
+    "nom_orig": "Middle-aged[SP]artist",
+    "texte_orig": "The[SP]person[SP]who[SP]was[SP]just[SP]there[SP]abruptly[SP]said[SP]he\nwould[SP]defeat[SP]the[SP]Last[SP]Battalion[SP]and[SP]left.\nHe[SP]said[SP]he'd[SP]been[SP]ordered[SP]to[SP]by[SP]Joker...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 59,
+    "offset": 320028,
+    "slot_size": 1060,
+    "data_size": 1056,
+    "nom_orig": "Tailor",
+    "texte_orig": "Welcome[SP]to[SP]London[SP]Clothier,[SP]inheritor[SP]of[SP]the\nfinest[SP]traditions[SP]of[SP]England.\n[U+1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]tailor\nNever[SP]mind\nLeave\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nWhat[SP]have[SP]you[SP]to[SP]offer[SP]me?\n[U+1208][U+0007][U+111F][U+1210]ĀUndisplayed[SP]selection\n[U+111F]Sell[SP]items\n[U+111F]Sell[SP]weapons\n[U+111F][U+1210]ĀSell[SP]head[SP]armor\n[U+111F]Sell[SP]armor\n[U+111F][U+1210]ĀSell[SP]leg[SP]armor\n[U+111F]Sell[SP]accessories\n[U+1109][E2][U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nYes?[SP]What's[SP]on[SP]your[SP]mind?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][U+121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][U+121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 60,
+    "offset": 321088,
+    "slot_size": 984,
+    "data_size": 980,
+    "nom_orig": "Tailor",
+    "texte_orig": "If[SP]I[SP]can[SP]help[SP]you[SP]with[SP]anything[SP]else[SP]at[SP]all,\nplease[SP]don't[SP]hesitate[SP]to[SP]ask.\n[U+1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]tailor\nNever[SP]mind\nLeave\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nWhat[SP]have[SP]you[SP]to[SP]offer[SP]me?\n[U+1208][U+0007][U+111F][U+1210]ĀUndisplayed[SP]selection\n[U+111F]Sell[SP]items\n[U+111F]Sell[SP]weapons\n[U+111F][U+1210]ĀSell[SP]head[SP]armor\n[U+111F]Sell[SP]armor\n[U+111F][U+1210]ĀSell[SP]leg[SP]armor\n[U+111F]Sell[SP]accessories\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nYes?[SP]What's[SP]on[SP]your[SP]mind?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nAh![SP]What[SP]a[SP]young[SP]customer![SP]Oh,[SP]pardon[SP]me,\nI[SP]didn't[SP]mean[SP]it[SP]that[SP]way.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 61,
+    "offset": 322072,
+    "slot_size": 228,
+    "data_size": 224,
+    "nom_orig": "Tailor",
+    "texte_orig": "But[SP]made-to-order[SP]outfits[SP]like[SP]ours[U+1121]are[SP]perceived\nas[SP]quite[SP]expensive.[SP]So[SP]our[SP]clientele[SP]runs[SP]older...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 62,
+    "offset": 322300,
+    "slot_size": 264,
+    "data_size": 260,
+    "nom_orig": "Tailor",
+    "texte_orig": "The[SP]highest[SP]quality,[SP]that[SP]hand-made[SP]touch,\nand[SP]careful[SP]attention[SP]to[SP]the[SP]details[SP]our\ncustomers[SP]request[SP]are[SP]our[SP]bywords.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 63,
+    "offset": 322564,
+    "slot_size": 238,
+    "data_size": 234,
+    "nom_orig": "Tailor",
+    "texte_orig": "We're[SP]even[SP]willing[SP]at[SP]times[SP]to[SP]put[SP]an[SP]emphasis\non[SP]practicality[SP]over[SP]style.[SP]Whatever[SP]the\ncustomer[SP]desires.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 64,
+    "offset": 322802,
+    "slot_size": 318,
+    "data_size": 314,
+    "nom_orig": "Tailor",
+    "texte_orig": "I'm[SP]surprised[SP]these[SP]terrorists[SP]are[SP]targeting\nour[SP]fair[SP]city.[SP]Rumor[SP]is,[SP]it[SP]was[SP]these[SP][1432][NULL][NULL][0014]Masked\nCircle[1432][NULL][NULL][0014][SP]beasts...[1205][U+000F][SP]There's[SP]one[SP]in[SP]every[SP]nation.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 65,
+    "offset": 323120,
+    "slot_size": 310,
+    "data_size": 306,
+    "nom_orig": "Tailor",
+    "texte_orig": "Are[SP]you[SP]buying[SP]armor[SP]to[SP]defend[SP]yourself[SP]from\nthe[SP]terroists[SP]as[SP]well?[SP]I[SP]hear[SP]this[SP]Masked[SP]Circle\nholds[SP]a[SP]human[SP]in[SP]no[SP]more[SP]esteem[SP]than[SP]a[SP]stone...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 66,
+    "offset": 323430,
+    "slot_size": 312,
+    "data_size": 308,
+    "nom_orig": "Tailor",
+    "texte_orig": "I[SP]wonder[SP]where[SP]the[SP]truth[SP]lies?[1205][U+000F][SP]Rumors[SP]are[SP]often\nstretched[SP]and[SP]tainted[SP]with[SP]outright[SP]fabrications.\nThey[SP]must[SP]be[SP]taken[SP]with[SP]a[SP]grain[SP]of[SP]salt...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 67,
+    "offset": 323742,
+    "slot_size": 250,
+    "data_size": 246,
+    "nom_orig": "Tailor",
+    "texte_orig": "Now,[SP]I've[SP]heard[SP]tell[SP]that[SP]this[SP]Last[SP]Battalion\nwas[SP]behind[SP]the[SP]attacks.[SP]Rumors[SP]change[SP]as[SP]often\nas[SP]a[SP]cat's[SP]eyes...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 68,
+    "offset": 323992,
+    "slot_size": 266,
+    "data_size": 262,
+    "nom_orig": "Tailor",
+    "texte_orig": "Have[SP]you[SP]heard[SP]of[SP]the[SP]Last[SP]Battalion?[SP]The[SP]rumor\naround[SP]town[SP]now[SP]is[SP]that[SP]they[SP]are[SP]the[SP]true\nmasterminds[SP]of[SP]these[SP]attacks.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 69,
+    "offset": 324258,
+    "slot_size": 294,
+    "data_size": 290,
+    "nom_orig": "Tailor",
+    "texte_orig": "They[SP]say[SP]where[SP]there's[SP]smoke,[SP]there's[SP]fire,[SP]but\nI[SP]wonder[SP]one[SP]draws[SP]that[SP]conclusion.[SP]It[SP]seems\nthe[SP]people[SP]of[SP]Sumaru[SP]are[SP]a[SP]bit[SP]confused.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 70,
+    "offset": 324552,
+    "slot_size": 292,
+    "data_size": 288,
+    "nom_orig": "Tailor",
+    "texte_orig": "To[SP]think[SP]they'd[SP]bomb[SP]the[SP]Aerospace[SP]Museum...\nI've[SP]heard[SP]sketches[SP]of[SP]the[SP]involved[SP]parties\nare[SP]out.[SP]Hopefully[SP]this[SP]is[SP]nearing[SP]its[SP]end.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 71,
+    "offset": 324844,
+    "slot_size": 282,
+    "data_size": 278,
+    "nom_orig": "Tailor",
+    "texte_orig": "Rumors[SP]are[SP]frightening[SP]things.[SP]The[SP]sketches\nwere[SP]only[SP]of[SP]material[SP]witnesses,[SP]yet[SP]people\ntalk[SP]as[SP]though[SP]they[SP]were[SP]the[SP]criminals.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 72,
+    "offset": 325126,
+    "slot_size": 296,
+    "data_size": 292,
+    "nom_orig": "Tailor",
+    "texte_orig": "It[SP]must[SP]be[SP]a[SP]knock-on[SP]effect[SP]of[SP]the[SP]rumors\nbeing[SP]spread[SP]prior[SP]to[SP]that.[SP]Please[SP]be[SP]careful.\nThe[SP]people[SP]will[SP]not[SP]now[SP]be[SP]quick[SP]to[SP]forgive.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 73,
+    "offset": 325422,
+    "slot_size": 302,
+    "data_size": 298,
+    "nom_orig": "Tailor",
+    "texte_orig": "Oh[SP]dear...[SP]These[SP]situations[SP]are[SP]the[SP]province[SP]of\nthe[SP]police,[SP]yet[SP]they[SP]were[SP]removed[SP]from[SP]the\npicture[SP]at[SP]once.[1205][U+000F][SP]Though[SP]I[SP]mustn't[SP]criticize.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 74,
+    "offset": 325724,
+    "slot_size": 230,
+    "data_size": 226,
+    "nom_orig": "Tailor",
+    "texte_orig": "With[SP]the[SP]police[SP]rendered[SP]powerless,[SP]I'm[SP]sure\nhalf[SP]the[SP]Last[SP]Battalion's[SP]fight[SP]is[SP]already\nwon[SP]for[SP]them.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 75,
+    "offset": 325954,
+    "slot_size": 202,
+    "data_size": 198,
+    "nom_orig": "Tailor",
+    "texte_orig": "In[SP]that[SP]light,[SP]perhaps[SP]they[SP]were[SP]the[SP]culprits\nbehind[SP]the[SP]terrorist[SP]attacks[SP]after[SP]all...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 76,
+    "offset": 326156,
+    "slot_size": 290,
+    "data_size": 286,
+    "nom_orig": "Tailor",
+    "texte_orig": "Well,[SP]what's[SP]done[SP]is[SP]done.[1205][U+000F][SP]You[SP]are[SP]the[SP]only\none[SP]who[SP]can[SP]protect[SP]yourself...[SP]Though[SP]I[SP]will\ndo[SP]what[SP]I[SP]can[SP]to[SP]assist[SP]you,[SP]of[SP]course.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 77,
+    "offset": 326446,
+    "slot_size": 158,
+    "data_size": 154,
+    "nom_orig": "Tailor",
+    "texte_orig": "Thank[SP]you.[SP]I[SP]am[SP]most[SP]looking[SP]forward[SP]to[SP]your\ncontinued[SP]patronage.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 78,
+    "offset": 326604,
+    "slot_size": 94,
+    "data_size": 90,
+    "nom_orig": "Tailor",
+    "texte_orig": "But[SP]you[SP]haven't[SP]anything[SP]to[SP]sell.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 79,
+    "offset": 326698,
+    "slot_size": 1402,
+    "data_size": 1398,
+    "nom_orig": "Tailor",
+    "texte_orig": "All[SP]told,[SP]that[SP]will[SP]be[SP][U+120E][NULL][SP]yen.\nIs[SP]that[SP]satisfactory?\n[U+1208][0002]Yes\nNo\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nNow[SP]then,[SP]about[SP]buying[SP]and[SP]selling...\n[E1][E2][E4][NULL][NULL]\"Tailor\nI'll[SP]first[SP]explain[SP]buying.[SP]If[SP]you[SP]choose[SP]to\n[1432][NULL][NULL][0014]Buy[SP]armor,[1432][NULL][NULL][0014][SP]you[SP]may[SP]browse[SP]our[SP]wares.\n[E1][E2][E4][NULL][NULL]\"Tailor\nBut[SP]some[SP]armor[SP]cannot[SP]be[SP]equipped[SP]by[SP]just\nanyone.[SP]To[SP]paraphrase[SP]a[SP]saying[SP]in[SP]my[SP]trade,\n[1432][NULL][NULL][0014]measure[SP]twice,[SP]buy[SP]once.[1432][NULL][NULL][0014]\n[E1][E2][E4][NULL][NULL]\"Tailor\nNext,[SP]selling.[SP]If[SP]you[SP]choose[SP][1432][NULL][NULL][0014]Sell[SP]items,[1432][NULL][NULL][0014]\nyou[SP]may[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.\n[E1][E2][E4][NULL][NULL]\"Tailor\nAfter[SP]that,[SP]choose[SP]a[SP]particular[SP]item[SP]and[SP]I'll\nbuy[SP]it[SP]at[SP]roughly[SP]half[SP]its[SP]original[SP]price.\n[E1][E2][E4][NULL][NULL]\"Tailor\nI[SP]won't[SP]buy[SP]anything[SP]you're[SP]wearing,[SP]and[SP]I\nwon't[SP]buy[SP]anything[SP]that[SP]seems[SP]too[SP]dear[SP]to[SP]you.\nI[SP]believe[SP]that[SP]covers[SP]everything.",
+    "nom_fr": "",
+    "texte_fr": ""
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "id": 0,
+    "offset": 373498,
+    "slot_size": 218,
+    "data_size": 214,
+    "nom_orig": "Eikichi",
+    "texte_orig": "You[SP]know,[SP]I[SP]heard[SP]a[SP]rumor[SP]you[SP]can[SP]gamble[SP]here.\nI've[SP]never[SP]heard[SP]of[SP]anyone[SP]making[SP]bank,[SP]though.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 1,
+    "offset": 373716,
+    "slot_size": 560,
+    "data_size": 556,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Dude,[SP]there's[SP]a[SP]manager[SP]behind[SP]the[SP]counter.\nLooks[SP]like[SP]he's[SP]exchanging[SP]coins...[SP]Did[SP]this\nplace[SP]really[SP]turn[SP]into[SP]a[SP]casino?[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nAll[SP]forms[SP]of[SP]gambling[SP]are[SP]forbidden[SP]at[SP]Cuss\nHigh.[SP]It[SP]was[SP]a[SP]school[SP]rule,[SP]but[SP]I[SP]clamped\ndown[SP]on[SP]it[SP]too.[SP]It's[SP]bad[SP]for[SP]the[SP]students.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 2,
+    "offset": 374276,
+    "slot_size": 278,
+    "data_size": 274,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Heh,[SP]what[SP]do[SP]you[SP]think?[SP]Don't[SP]I[SP]look[SP]like\na[SP]hotshot[SP]gambler[SP]standing[SP]around[SP]like[SP]this?\nA[SP]flower[SP]works[SP]anywhere[SP]you[SP]put[SP]it...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 3,
+    "offset": 374554,
+    "slot_size": 234,
+    "data_size": 230,
+    "nom_orig": "Eikichi",
+    "texte_orig": "I[SP]can't[SP]bring[SP]myself[SP]to[SP]have[SP]fun[SP]just[SP]now...\nWe[SP]did[SP]everything[SP]we[SP]could,[SP]and[SP]GOLD[SP]still\ngot[SP]torched...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 4,
+    "offset": 374788,
+    "slot_size": 188,
+    "data_size": 184,
+    "nom_orig": "Eikichi",
+    "texte_orig": "I[SP]can't[SP]shrug[SP]it[SP]off[SP]that[SP]easily.[SP]There[SP]had\nto[SP]have[SP]been[SP]a[SP]ton[SP]of[SP]people[SP]there.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 5,
+    "offset": 374976,
+    "slot_size": 290,
+    "data_size": 286,
+    "nom_orig": "Eikichi",
+    "texte_orig": "I'm[SP]so[SP]confused,[SP]I[SP]can't[SP]take[SP]it[SP]anymore...\nI[SP]thought[SP]it[SP]was[SP]a[SP]dream...[SP]I[SP]was[SP]so[SP]sure...\nBut[SP]it[SP]actually[SP]happened?[SP]What[SP]the[SP]hell!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 6,
+    "offset": 375266,
+    "slot_size": 192,
+    "data_size": 188,
+    "nom_orig": "Eikichi",
+    "texte_orig": "D-Dude,[SP]doesn't[SP]this[SP]seem[SP]like[SP]the[SP]worst\npossible[SP]time[SP]to[SP]be[SP]goofing[SP]around[SP]here?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 7,
+    "offset": 375458,
+    "slot_size": 188,
+    "data_size": 184,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Wasn't[SP]there[SP]anything[SP]we[SP]could've[SP]done...?[1205][U+000F]\nI[SP]feel[SP]pretty[SP]ashamed[SP]of[SP]myself...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 8,
+    "offset": 375646,
+    "slot_size": 230,
+    "data_size": 226,
+    "nom_orig": "Ginko",
+    "texte_orig": "Hey,[SP][U+1113].[SP]Think[SP]we[SP]could[SP]spread[SP]the[SP]rumor\nabout[SP]this[SP]place[SP]at[SP]the[SP]detective[SP]agency?\nLet's[SP]give[SP]it[SP]a[SP]try!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 9,
+    "offset": 375876,
+    "slot_size": 110,
+    "data_size": 106,
+    "nom_orig": "Ginko",
+    "texte_orig": "Ooh,[SP]this[SP]looks[SP]like[SP]fun![SP]Here,[SP][U+1113],\ntry[SP]it!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 10,
+    "offset": 375986,
+    "slot_size": 240,
+    "data_size": 236,
+    "nom_orig": "Ginko",
+    "texte_orig": "Huh?[SP]You're[SP]not[SP]gonna[SP]spread[SP]the[SP]rumor[SP]to[SP]make\nthis[SP]place[SP]into[SP]a[SP]casino?[SP]But[SP]it[SP]would[SP]be[SP]so\nmuch[SP]funnnnn...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 11,
+    "offset": 376226,
+    "slot_size": 142,
+    "data_size": 138,
+    "nom_orig": "Ginko",
+    "texte_orig": "Whatever.[SP]A[SP]second[SP]ago,[SP]you[SP]were[SP]on[SP]an[SP]epic\nlosing[SP]streak.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 12,
+    "offset": 376368,
+    "slot_size": 180,
+    "data_size": 176,
+    "nom_orig": "Ginko",
+    "texte_orig": "It's[SP]not[SP]your[SP]fault,[SP][U+1113]...\nIt's[SP]King[SP]Leo's.[SP]Yeah...[SP]We're[SP]not[SP]to\nblame[SP]here...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 13,
+    "offset": 376548,
+    "slot_size": 140,
+    "data_size": 136,
+    "nom_orig": "Ginko",
+    "texte_orig": "...Hey,[SP][U+1113]?[SP]What[SP]if[SP]Joker[SP]is[SP]really...[1205][U+000F]\nWell,[SP]never[SP]mind.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 14,
+    "offset": 376688,
+    "slot_size": 262,
+    "data_size": 258,
+    "nom_orig": "Ginko",
+    "texte_orig": "I'm[SP]sure[SP]you'll[SP]remember[SP]too,[SP]if[SP]we[SP]go[SP]to[SP]the\nshrine.[SP]About[SP]that[SP]day[SP]ten[SP]years[SP]ago...[1205][U+000F][SP]and\nwhat[SP]we[SP]hoped[SP]to[SP]forget...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 15,
+    "offset": 376950,
+    "slot_size": 260,
+    "data_size": 256,
+    "nom_orig": "Ginko",
+    "texte_orig": "I'm[SP]sure[SP]you'll[SP]remember[SP]too,[SP]if[SP]we[SP]go[SP]to\nMt.[SP]Iwato.[SP]About[SP]that[SP]day[SP]ten[SP]years[SP]ago...[1205][U+000F][SP]and\nwhat[SP]we[SP]hoped[SP]to[SP]forget...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 16,
+    "offset": 377210,
+    "slot_size": 280,
+    "data_size": 276,
+    "nom_orig": "Ginko",
+    "texte_orig": "Shouldn't[SP]we[SP]hurry[SP]to[SP]Mt.[SP]Katatsumuri?[1205][U+000F][SP]She's\ngonna[SP]get[SP]upset...[1205][U+000F][SP]And[SP]an[SP]angry[SP]Yukino-san[SP]is\nscarier[SP]than[SP]the[SP]Last[SP]Battalion!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 17,
+    "offset": 377490,
+    "slot_size": 192,
+    "data_size": 188,
+    "nom_orig": "Ginko",
+    "texte_orig": "We...[SP]We[SP]did[SP]what[SP]we[SP]could,[SP]right?[1205][U+000F][SP]I[SP]just\ndon't[SP]know...[1205][U+000F][SP]What's[SP]there[SP]to[SP]say...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 18,
+    "offset": 377682,
+    "slot_size": 232,
+    "data_size": 228,
+    "nom_orig": "Maya",
+    "texte_orig": "Could[SP]there[SP]be[SP]an[SP]underground[SP]casino[SP]here?[1205][U+000F]\nI've[SP]never[SP]heard[SP]about[SP]anything[SP]like[SP]that\nat[SP]work...[SP]Weird.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 19,
+    "offset": 377914,
+    "slot_size": 254,
+    "data_size": 250,
+    "nom_orig": "Maya",
+    "texte_orig": "Places[SP]like[SP]this[SP]are[SP]back[SP]in[SP]style.[SP]They[SP]used\nto[SP]be[SP]popular[SP]hangouts[SP]for[SP]delinquents...\nI[SP]guess[SP]times[SP]have[SP]changed.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 20,
+    "offset": 378168,
+    "slot_size": 270,
+    "data_size": 266,
+    "nom_orig": "Maya",
+    "texte_orig": "For[SP]some[SP]reason,[SP]I'm[SP]good[SP]at[SP]games[SP]like[SP]this.\nI[SP]don't[SP]really[SP]understand[SP]the[SP]rules,[SP]but[SP]I[SP]end\nup[SP]winning[SP]anyway.[SP]It's[SP]weird.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 21,
+    "offset": 378438,
+    "slot_size": 198,
+    "data_size": 194,
+    "nom_orig": "Maya",
+    "texte_orig": "Did[SP]that[SP]guy[SP]at[SP]the[SP]counter[SP]appear[SP]through[SP]the\npower[SP]of[SP]rumors...?[1205][U+000F][SP]He[SP]looks[SP]normal...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 22,
+    "offset": 378636,
+    "slot_size": 194,
+    "data_size": 190,
+    "nom_orig": "Maya",
+    "texte_orig": "It's[SP]painful[SP]for[SP]me[SP]too.[SP]But[SP]regrets[SP]won't\nsolve[SP]anything.[SP]We[SP]still[SP]have[SP]a[SP]job[SP]to[SP]do.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 23,
+    "offset": 378830,
+    "slot_size": 258,
+    "data_size": 254,
+    "nom_orig": "Maya",
+    "texte_orig": "I[SP]wish[SP]I[SP]could[SP]say[SP]something[SP]better[SP]to[SP]help\ncheer[SP]you[SP]up...[1205][U+000F][SP]But[SP]that's[SP]what[SP]I[SP]keep[SP]telling\nmyself.[SP]I[SP]can't[SP]give[SP]up.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 24,
+    "offset": 379088,
+    "slot_size": 470,
+    "data_size": 466,
+    "nom_orig": "Maya",
+    "texte_orig": "Heh.[SP]What[SP]have[SP]you[SP]come[SP]here[SP]for?[1205][U+000F][SP]To[SP]try[SP]and\nescape[SP]the[SP]resurfacing[SP]memories?[1205][U+000F][SP]Sorry[SP]to[SP]say,\nbut[SP]that[SP]won't[SP]be[SP]possible.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nDon't[SP]worry,[SP]Yukki.[SP]I'm[SP]sure[SP]Fujii-san[SP]will[SP]be\njust[SP]fine.[SP]C'mon,[SP]you[SP]need[SP]to[SP]calm[SP]down.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 25,
+    "offset": 379558,
+    "slot_size": 142,
+    "data_size": 138,
+    "nom_orig": "Maya",
+    "texte_orig": "Men[SP]pursue[SP]their[SP]own[SP]dreams...[1205][U+000F][SP]and[SP]then\njust[SP]disappear...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 26,
+    "offset": 379700,
+    "slot_size": 140,
+    "data_size": 136,
+    "nom_orig": "Yukino",
+    "texte_orig": "This[SP]reminds[SP]me,[SP]I[SP]had[SP]a[SP]friend[SP]who[SP]loved\nto[SP]gamble[SP]too.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 27,
+    "offset": 379840,
+    "slot_size": 242,
+    "data_size": 238,
+    "nom_orig": "Yukino",
+    "texte_orig": "He'd[SP]be[SP]off[SP]in[SP]his[SP]own[SP]little[SP]world,[SP]playing\npoker[SP]or[SP]blackjack,[SP]when[SP]we[SP]had[SP]serious\nproblems[SP]to[SP]deal[SP]with.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 28,
+    "offset": 380082,
+    "slot_size": 312,
+    "data_size": 308,
+    "nom_orig": "Yukino",
+    "texte_orig": "I[SP]can't[SP]believe[SP]you[SP]took[SP]the[SP]time[SP]to[SP]spread[SP]the\nrumor[SP]to[SP]turn[SP]this[SP]place[SP]into[SP]a[SP]casino.[1205][U+000F][SP]*sigh*\nOh[SP]well...[1205][U+000F][SP]Try[SP]not[SP]to[SP]waste[SP]too[SP]much[SP]money.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 29,
+    "offset": 380394,
+    "slot_size": 304,
+    "data_size": 300,
+    "nom_orig": "Yukino",
+    "texte_orig": "Just[SP]between[SP]you[SP]and[SP]me,[SP]Maya-san's[SP]really[SP]bad\nat[SP]Rock,[SP]Paper,[SP]Scissors.[SP]She[SP]has[SP]a[SP]bad[SP]habit\nof[SP]always[SP]playing[SP]scissors.[SP]Play[SP]her[SP]and[SP]see.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 30,
+    "offset": 380698,
+    "slot_size": 272,
+    "data_size": 268,
+    "nom_orig": "Yukino",
+    "texte_orig": "This[SP]is[SP]just[SP]good[SP]advice[SP]in[SP]general,[SP]but[SP]it's\nimportant[SP]to[SP]know[SP]when[SP]to[SP]quit.[SP]It's[SP]best[SP]to\nstop[SP]when[SP]you've[SP]made[SP]a[SP]profit.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 31,
+    "offset": 380970,
+    "slot_size": 224,
+    "data_size": 220,
+    "nom_orig": "Yukino",
+    "texte_orig": "How[SP]can[SP]these[SP]people[SP]fool[SP]around[SP]at[SP]a[SP]time\nlike[SP]this?[SP]At[SP]this[SP]point,[SP]I'm[SP]more[SP]amazed\nthan[SP]ashamed.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 32,
+    "offset": 381194,
+    "slot_size": 168,
+    "data_size": 164,
+    "nom_orig": "Yukino",
+    "texte_orig": "Those[SP]two[SP]keep[SP]talking[SP]about[SP]ten[SP]years[SP]ago.\nDid[SP]something[SP]happen[SP]then?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 33,
+    "offset": 381362,
+    "slot_size": 244,
+    "data_size": 240,
+    "nom_orig": "Yukino",
+    "texte_orig": "[U+1113],[SP]I'm[SP]begging[SP]you![SP]We[SP]have[SP]to[SP]hurry[SP]to\nMt.[SP]Katatsumuri![SP]If[SP]anything[SP]were[SP]to[SP]happen[SP]to\nFujii-san,[SP]I...[SP]I...!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 34,
+    "offset": 381606,
+    "slot_size": 216,
+    "data_size": 212,
+    "nom_orig": "Yukino",
+    "texte_orig": "Anna's[SP]probably[SP]at[SP]the[SP]Caracol,[SP]too.[1205][U+000F][SP]No[SP]more\ntragedies...[1205][U+000F][SP]I[SP]have[SP]to[SP]save[SP]her[SP]at[SP]all[SP]costs.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 35,
+    "offset": 381822,
+    "slot_size": 254,
+    "data_size": 250,
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "Huh?[SP]Isn't[SP]this[SP]place[SP]supposed[SP]to[SP]be[SP]a[SP]casino?\nThat's[SP]the[SP]rumor[SP]I[SP]heard,[SP]but[SP]it[SP]looks[SP]like[SP]an\nordinary[SP]arcade.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 36,
+    "offset": 382076,
+    "slot_size": 260,
+    "data_size": 256,
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "A[SP]coin[SP]exchange[SP]clerk[SP]suddenly[SP]showed[SP]up[SP]and\nthis[SP]place[SP]became[SP]a[SP]casino![1205][U+000F][SP]Guess[SP]it[SP]was[SP]worth\nthe[SP]trip[SP]after[SP]all.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 37,
+    "offset": 382336,
+    "slot_size": 196,
+    "data_size": 192,
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "Alright![SP]Time[SP]to[SP]get[SP]rich[SP]quick![SP]Oh,[SP]but[SP]you\ncan[SP]only[SP]buy[SP]items[SP]with[SP]the[SP]coins...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 38,
+    "offset": 382532,
+    "slot_size": 296,
+    "data_size": 292,
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "This[SP]is[SP]just[SP]a[SP]guess,[SP]but[SP]I[SP]think[SP]this[SP]place\nturns[SP]into[SP]a[SP]casino[SP]at[SP]night.[SP]I'm[SP]thinking[SP]of\nsticking[SP]around[SP]here[SP]until[SP]it[SP]gets[SP]dark.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 39,
+    "offset": 382828,
+    "slot_size": 208,
+    "data_size": 204,
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "*sigh*[SP]I[SP]lose[SP]again...[1205][U+000F][SP]Well,[SP]maybe[SP]I'll[SP]get\nlucky[SP]next[SP]time.[1205][U+000F][SP]Alright,[SP]one[SP]more[SP]try!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 40,
+    "offset": 383036,
+    "slot_size": 258,
+    "data_size": 254,
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "Everyone's[SP]worried[SP]about[SP]the[SP]terror[SP]wave,\nbut[SP]there's[SP]no[SP]way[SP]they'd[SP]hit[SP]an[SP]arcade.\nI'm[SP]feeling[SP]pretty[SP]safe[SP]here.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 41,
+    "offset": 383294,
+    "slot_size": 250,
+    "data_size": 246,
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "Gaaaah![SP]Dammit,[SP]I[SP]lose[SP]again![SP]Screw[SP]this!\nI[SP]don't[SP]even[SP]care[SP]about[SP]the[SP]attacks[SP]anymore!\nI'm[SP]here[SP]until[SP]I[SP]win!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 42,
+    "offset": 383544,
+    "slot_size": 254,
+    "data_size": 250,
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "Hey,[SP]what's[SP]with[SP]those[SP]soldiers[SP]outside!?\nThey're[SP]not[SP]filming[SP]a[SP]movie[SP]or[SP]anything,[SP]right?\nThose[SP]guys[SP]are[SP]real?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 43,
+    "offset": 383798,
+    "slot_size": 254,
+    "data_size": 250,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "Whaaaat?[SP]That[SP]can't[SP]be[SP]right![SP]I[SP]was[SP]told[SP]there\nwas[SP]a[SP]casino[SP]here![SP]I[SP]even[SP]heard[SP]which[SP]game[SP]had\nthe[SP]best[SP]odds!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 44,
+    "offset": 384052,
+    "slot_size": 206,
+    "data_size": 202,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "I[SP]bet[SP]there's[SP]still[SP]some[SP]secret[SP]to[SP]it.[SP]Do[SP]you\nknow[SP]anyone[SP]who[SP]hears[SP]a[SP]lot[SP]of[SP]rumors?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 45,
+    "offset": 384258,
+    "slot_size": 226,
+    "data_size": 222,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "See,[SP]I[SP]told[SP]you[SP]the[SP]rumor[SP]was[SP]true![1205][U+000F][SP]Hmm,[SP]so[SP]I\nhear[SP]it's[SP]easy[SP]to[SP]win[SP]at[SP]the[SP]#5[SP]poker[SP]machine.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 46,
+    "offset": 384484,
+    "slot_size": 232,
+    "data_size": 228,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "See,[SP]I[SP]told[SP]you[SP]it[SP]really[SP]was[SP]a[SP]casino![1205][U+000F][SP]Hmm,[SP]so\nI[SP]hear[SP]it's[SP]easy[SP]to[SP]win[SP]at[SP]the[SP]#1[SP]slot[SP]machine.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 47,
+    "offset": 384716,
+    "slot_size": 270,
+    "data_size": 266,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "You[SP]see?[SP]I[SP]told[SP]you[SP]the[SP]rumor[SP]was[SP]true![1205][U+000F][SP]Hmm,[SP]so\nthe[SP]rumor[SP]was[SP]that[SP]blackjack's[SP]great[SP]because[SP]it\nhas[SP]a[SP]high[SP]payout.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 48,
+    "offset": 384986,
+    "slot_size": 268,
+    "data_size": 264,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "I[SP]bet[SP]you[SP]have[SP]to[SP]give[SP]some[SP]secret[SP]password[SP]or\nthey[SP]don't[SP]let[SP]you[SP]into[SP]the[SP]casino![SP]C'mon,[SP]let's\nkeep[SP]asking[SP]around.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 49,
+    "offset": 385254,
+    "slot_size": 250,
+    "data_size": 246,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "The[SP]rumor[SP]said[SP]there[SP]are[SP]lots[SP]of[SP]ways[SP]to[SP]get\na[SP]good[SP]hand[SP]on[SP]the[SP]#5[SP]poker[SP]machine.[SP]C'mon,\nlet's[SP]try[SP]it[SP]out!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 50,
+    "offset": 385504,
+    "slot_size": 262,
+    "data_size": 258,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "Takeshi![SP]What're[SP]you[SP]doing!?[SP]The[SP]rumor[SP]said[SP]you\ncan[SP]win[SP]big[SP]at[SP]the[SP]slots,[SP]so[SP]if[SP]this[SP]doesn't\nwork,[SP]we're[SP]ruined!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 51,
+    "offset": 385766,
+    "slot_size": 244,
+    "data_size": 240,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "The[SP]rumor[SP]said[SP]blackjack[SP]gives[SP]the[SP]highest\npayout...[1205][U+000F][SP]C'mon,[SP]let's[SP]play[SP]that[SP]and[SP]get[SP]back\non[SP]our[SP]feet!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 52,
+    "offset": 386010,
+    "slot_size": 294,
+    "data_size": 290,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "He[SP]says[SP]it's[SP]safer[SP]to[SP]stay[SP]here,[SP]but[SP]is[SP]it\nreally?[SP]I[SP]mean,[SP]what[SP]about[SP]the[SP]Masked[SP]Circle?\nDoes[SP]common[SP]sense[SP]apply[SP]to[SP]those[SP]loons?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 53,
+    "offset": 386304,
+    "slot_size": 322,
+    "data_size": 318,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "Geez,[SP]he's[SP]completely[SP]blown[SP]his[SP]stack...[1205][U+000F][SP]And\npoker's[SP]supposed[SP]to[SP]have[SP]the[SP]best[SP]odds.[1205][U+000F][SP]If[SP]he\ncan't[SP]win[SP]after[SP]this[SP]many[SP]tries,[SP]he[SP]just[SP]sucks.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 54,
+    "offset": 386626,
+    "slot_size": 324,
+    "data_size": 320,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "Geez,[SP]he's[SP]completely[SP]blown[SP]his[SP]stack...[1205][U+000F][SP]The\nslots're[SP]supposed[SP]to[SP]have[SP]the[SP]best[SP]odds.[1205][U+000F][SP]If[SP]he\ncan't[SP]win[SP]after[SP]this[SP]many[SP]tries,[SP]he[SP]just[SP]sucks.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 55,
+    "offset": 386950,
+    "slot_size": 330,
+    "data_size": 326,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "Geez,[SP]he's[SP]completely[SP]blown[SP]his[SP]top...[1205][U+000F][SP]And[SP]the\nblackjacks[SP]odds[SP]are[SP]supposed[SP]to[SP]be[SP]great.[1205][U+000F][SP]If[SP]he\ncan't[SP]win[SP]after[SP]this[SP]many[SP]tries,[SP]he[SP]just[SP]sucks.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 56,
+    "offset": 387280,
+    "slot_size": 178,
+    "data_size": 174,
+    "nom_orig": "Young[SP]woman",
+    "texte_orig": "I[SP]told[SP]you[SP]we[SP]should[SP]go[SP]home![SP]What're[SP]we[SP]gonna\ndo?[SP]We[SP]can't[SP]leave[SP]now!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 57,
+    "offset": 387458,
+    "slot_size": 258,
+    "data_size": 254,
+    "nom_orig": "Inveterate[SP]gambler",
+    "texte_orig": "I[SP]heard[SP]you[SP]could[SP]gamble[SP]here,[SP]so[SP]I[SP]came[SP]all\nthis[SP]way...[1205][U+000F][SP]But[SP]apparently[SP]it[SP]was[SP]just[SP]a\nbaseless[SP]rumor.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 58,
+    "offset": 387716,
+    "slot_size": 262,
+    "data_size": 258,
+    "nom_orig": "Inveterate[SP]gambler",
+    "texte_orig": "I[SP]heard[SP]the[SP]house[SP]had[SP]its[SP]own[SP]proprietary[SP]coins\nto[SP]play[SP]the[SP]games...[SP]But[SP]I[SP]don't[SP]even[SP]see[SP]a\nmanager[SP]here.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 59,
+    "offset": 387978,
+    "slot_size": 272,
+    "data_size": 268,
+    "nom_orig": "Inveterate[SP]gambler",
+    "texte_orig": "I've[SP]always[SP]had[SP]a[SP]passion[SP]for[SP]gambling.[SP]It's[SP]my\ndream[SP]to[SP]hit[SP]the[SP]jackpot[SP]at[SP]every[SP]casino[SP]in\nthe[SP]world[SP]someday.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 60,
+    "offset": 388250,
+    "slot_size": 276,
+    "data_size": 272,
+    "nom_orig": "Inveterate[SP]gambler",
+    "texte_orig": "And[SP]this[SP]will[SP]be[SP]my[SP]next[SP]conquest.[SP]Why,[SP]I've\nalready[SP]won[SP]the[SP]bet[SP]that[SP]there's[SP]a[SP]casino\nsomewhere[SP]in[SP]this[SP]city...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 61,
+    "offset": 388526,
+    "slot_size": 144,
+    "data_size": 140,
+    "nom_orig": "Inveterate[SP]gambler",
+    "texte_orig": "I[SP]had[SP]put[SP]down[SP]money[SP]there'd[SP]be[SP]a[SP]casino[SP]here.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 62,
+    "offset": 388670,
+    "slot_size": 194,
+    "data_size": 190,
+    "nom_orig": "Inveterate[SP]gambler",
+    "texte_orig": "No,[SP]no,[SP]I[SP]haven't[SP]lost[SP]yet.[SP]I'll[SP]keep[SP]waiting\naround[SP]a[SP]little[SP]longer...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 63,
+    "offset": 388864,
+    "slot_size": 322,
+    "data_size": 318,
+    "nom_orig": "Inveterate[SP]gambler",
+    "texte_orig": "If[SP]you[SP]want[SP]to[SP]catch[SP]the[SP]big[SP]fish,[SP]you[SP]can't\nskimp[SP]on[SP]the[SP]bait.[SP]The[SP]same[SP]goes[SP]for[SP]gambling.\nIf[SP]you[SP]want[SP]to[SP]win,[SP]bet[SP]the[SP]maximum[SP]amount.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 64,
+    "offset": 389186,
+    "slot_size": 260,
+    "data_size": 256,
+    "nom_orig": "Inveterate[SP]gambler",
+    "texte_orig": "Do[SP]you[SP]know[SP]about[SP]the[SP]jackpot[SP]payout?[SP]The\nhigher[SP]it[SP]is,[SP]the[SP]more[SP]coins[SP]you[SP]win[SP]when\nyou[SP]hit[SP]the[SP]jackpot.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 65,
+    "offset": 389446,
+    "slot_size": 332,
+    "data_size": 328,
+    "nom_orig": "Inveterate[SP]gambler",
+    "texte_orig": "Ever[SP]hear[SP]of[SP]Russian[SP]roulette?[SP]It's[SP]the[SP]ultimate\nform[SP]of[SP]gambling,[SP]where[SP]your[SP]own[SP]life[SP]is[SP]on[SP]the\nline.[SP]I'll[SP]bet[SP]on[SP]whether[SP]Mu[SP]gets[SP]bombed...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 66,
+    "offset": 389778,
+    "slot_size": 312,
+    "data_size": 308,
+    "nom_orig": "Inveterate[SP]gambler",
+    "texte_orig": "Blackjack's[SP]rules[SP]are[SP]simple,[SP]but[SP]it's[SP]a[SP]deep\ngame.[SP]There[SP]are[SP]many[SP]strategies...[SP]But[SP]if[SP]you\nget[SP]two[SP]7s,[SP]I[SP]suggest[SP]you[SP]double[SP]down.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 67,
+    "offset": 390090,
+    "slot_size": 324,
+    "data_size": 320,
+    "nom_orig": "Inveterate[SP]gambler",
+    "texte_orig": "The[SP]Last[SP]Battalion...[SP]They're[SP]a[SP]real[SP]wild[SP]card.[1205][U+000F]\nThe[SP]stakes[SP]are[SP]this[SP]entire[SP]city...[SP]What's[SP]going\nto[SP]decide[SP]Sumaru's[SP]fate...[SP]is[SP]cards...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 68,
+    "offset": 390414,
+    "slot_size": 264,
+    "data_size": 260,
+    "nom_orig": "Security[SP]guard",
+    "texte_orig": "They're[SP]doing[SP]some[SP]cleaning[SP]up[SP]ahead.[SP]Huh?\nYou[SP]think[SP]we're[SP]always[SP]cleaning[SP]that[SP]place?\nW-Wow...[SP]You're[SP]good...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 69,
+    "offset": 390678,
+    "slot_size": 912,
+    "data_size": 908,
+    "nom_orig": "Manager",
+    "texte_orig": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?\n[U+1208][U+0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave\n[U+1109][E2]\n[E3][E4][NULL][NULL]\"Manager\nWhat[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[U+1208][U+0005][U+1210]ĀUndisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards\n[U+1109][E2][E3][E4][NULL][NULL]\"Manager\nWhat[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3]>[SP]The[SP]manager[SP]has[SP]stepped[SP]out...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 70,
+    "offset": 391590,
+    "slot_size": 1096,
+    "data_size": 1092,
+    "nom_orig": "Manager",
+    "texte_orig": "What?[SP]You[SP]still[SP]want[SP]something?[1205][U+000F]\n...Nah,[SP]just[SP]kidding.[SP]What'll[SP]it[SP]be?\n[U+1208][U+0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave\n[U+1109][E2][E3][E4][NULL][NULL]\"Manager\nWhat[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[U+1208][U+0005][U+1210]ĀUndisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards\n[U+1109][E2][E3][E4][NULL][NULL]\"Manager\nWhat[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Manager\nWhy[SP]am[SP]I[SP]standing[SP]here?[1205][U+000F][SP]I[SP]feel[SP]like[SP]I've[SP]been\nhere[SP]the[SP]whole[SP]time,[SP]too...[1205][U+000F][SP]Was[SP]I[SP]exchanging\ncoins[SP]or[SP]something?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 71,
+    "offset": 392686,
+    "slot_size": 184,
+    "data_size": 180,
+    "nom_orig": "Manager",
+    "texte_orig": "A[SP]secret[SP]lounge?[1205][U+000F][SP]Well,[SP]I've[SP]heard[SP]the[SP]rumors,\nbut[SP]I've[SP]never[SP]been[SP]myself...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 72,
+    "offset": 392870,
+    "slot_size": 284,
+    "data_size": 280,
+    "nom_orig": "Manager",
+    "texte_orig": "C'mon,[SP]you[SP]gotta[SP]go[SP]to[SP]the[SP]Kasuga[SP]Festival![1205][U+000F]\nHuh?[SP]Me?[SP]How[SP]can[SP]I[SP]leave[SP]when[SP]it's[SP]so[SP]busy\nhere?[1205][U+000F][SP]Meh,[SP]go[SP]have[SP]fun[SP]for[SP]me[SP]too...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 73,
+    "offset": 393154,
+    "slot_size": 214,
+    "data_size": 210,
+    "nom_orig": "Manager",
+    "texte_orig": "Oh[SP]yeah,[SP]did[SP]you[SP]go[SP]to[SP]the[SP]Kasuga[SP]Festival?\nHow[SP]was[SP]the[SP]masquerade?[SP]Ah,[SP]to[SP]be[SP]young[SP]again...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 74,
+    "offset": 393368,
+    "slot_size": 298,
+    "data_size": 294,
+    "nom_orig": "Manager",
+    "texte_orig": "Everything's[SP]Muses[SP]this[SP]and[SP]Muses[SP]that[SP]these\ndays.[SP]They're[SP]not[SP]really[SP]my[SP]thing...[1205][U+000F][SP]Too[SP]young.[1205][U+000F]\nI[SP]can't[SP]relate[SP]to[SP]their[SP]songs...[SP]Hmm.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 75,
+    "offset": 393666,
+    "slot_size": 288,
+    "data_size": 284,
+    "nom_orig": "Manager",
+    "texte_orig": "The[SP]whole[SP]city's[SP]excited[SP]over[SP]Muses.[1205][U+000F][SP]I[SP]wish\nwe[SP]could[SP]capture[SP]a[SP]little[SP]of[SP]that[SP]enthusiasm\nsometime...[SP]Pardon[SP]me[SP]while[SP]I[SP]go[SP]sulk.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 76,
+    "offset": 393954,
+    "slot_size": 298,
+    "data_size": 294,
+    "nom_orig": "Manager",
+    "texte_orig": "What're[SP]we[SP]gonna[SP]do?[SP]These[SP]attacks[SP]just[SP]aren't\nstopping![SP]This[SP]is[SP]serious![SP]Shouldn't[SP]you[SP]be\ndoing[SP]something[SP]other[SP]than[SP]redeeming[SP]coins?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 77,
+    "offset": 394252,
+    "slot_size": 212,
+    "data_size": 208,
+    "nom_orig": "Manager",
+    "texte_orig": "Noooo![SP]It's[SP]burning![1205][U+000F][SP]GOLD[SP]is[SP]burning![1205][U+000F]\n...Can't[SP]you[SP]act[SP]at[SP]least[SP]a[SP]little[SP]panicked,\nman?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 78,
+    "offset": 394464,
+    "slot_size": 218,
+    "data_size": 214,
+    "nom_orig": "Manager",
+    "texte_orig": "It's[SP]a[SP]little[SP]late[SP]to[SP]be[SP]sniffing[SP]out[SP]the\nculprit,[SP]you[SP]know?[1205][U+000F][SP]They've[SP]hit[SP]six[SP]places\nalready.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 79,
+    "offset": 394682,
+    "slot_size": 254,
+    "data_size": 250,
+    "nom_orig": "Manager",
+    "texte_orig": "Looks[SP]like[SP]it's[SP]getting[SP]nuts[SP]out[SP]there.\nI've[SP]decided[SP]to[SP]stop[SP]thinking[SP]about[SP]it.\nIt's[SP]already[SP]way[SP]over[SP]my[SP]head...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 80,
+    "offset": 394936,
+    "slot_size": 292,
+    "data_size": 288,
+    "nom_orig": "Manager",
+    "texte_orig": "Yep,[SP]might[SP]as[SP]well[SP]enjoy[SP]gambling[SP]at[SP]a[SP]time\nlike[SP]this.[SP]It's[SP]not[SP]like[SP]panicking[SP]will[SP]help.\n...Though[SP]to[SP]be[SP]honest,[SP]I'm[SP]freaking[SP]out!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 81,
+    "offset": 399536,
+    "slot_size": 264,
+    "data_size": 260,
+    "nom_orig": "Security[SP]guard",
+    "texte_orig": "They're[SP]doing[SP]some[SP]cleaning[SP]up[SP]ahead.[SP]Huh?\nYou[SP]think[SP]we're[SP]always[SP]cleaning[SP]that[SP]place?\nW-Wow...[SP]You're[SP]good...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 82,
+    "offset": 399800,
+    "slot_size": 1092,
+    "data_size": 1088,
+    "nom_orig": "Manager",
+    "texte_orig": "That'll[SP]be[SP][U+120E][NULL][SP]yen.[SP]Is[SP]that[SP]okay?\n[U+1208][0002]Yes\nNo\n[U+1109][E2][E3][E4][NULL][NULL]\"Manager\nFirst[SP]off,[SP]we[SP]use[SP]coins[SP]for[SP]most[SP]things.\n[E1][E2][E4][NULL][NULL]\"Manager\nTalk[SP]to[SP]me[SP]and[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]coins,[1432][NULL][NULL][0014][SP]and[SP]I'll\ngive[SP]you[SP]coins[SP]to[SP]play[SP]the[SP]games[SP]in[SP]exchange\nfor[SP]cash.\n[E1][E2][E4][NULL][NULL]\"Manager\nBut[SP]it[SP]only[SP]works[SP]one[SP]way.[SP]You[SP]can't[SP]exchange\ncoins[SP]for[SP]money.\n[E1][E2][E4][NULL][NULL]\"Manager\nWhat[SP]you[SP]can[SP]do[SP]is[SP]redeem[SP]them[SP]for[SP]prizes.\nTalk[SP]to[SP]me[SP]and[SP]select[SP][1432][NULL][NULL][0014]Redeem[SP]for[SP]prizes[1432][NULL][NULL][0014]\nwhen[SP]you[SP]want[SP]to[SP]do[SP]that.\n[E1][E2][E4][NULL][NULL]\"Manager\nYou[SP]can[SP]only[SP]spend[SP]the[SP]coins[SP]you[SP]win[SP]here\non[SP]our[SP]prizes,[SP]so[SP]I'd[SP]advise[SP]you[SP]to[SP]use\nthem[SP]well.",
+    "nom_fr": "",
+    "texte_fr": ""
+  }
+]

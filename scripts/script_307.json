@@ -1,0 +1,432 @@
+[
+  {
+    "id": 0,
+    "offset": 216570,
+    "slot_size": 274,
+    "data_size": 270,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Something's[SP]not[SP]right...[1205][U+000F][SP]Why[SP]are[SP]these[SP]guys\nsucking[SP]up[SP]to[SP]me[SP]all[SP]of[SP]a[SP]sudden?[1205][U+000F][SP]Did[SP]even\nthe[SP]student[SP]council[SP]hate[SP]Yasuo?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 1,
+    "offset": 216844,
+    "slot_size": 270,
+    "data_size": 266,
+    "nom_orig": "Eikichi",
+    "texte_orig": "How[SP]dare[SP]you[SP]trick[SP]me[SP]like[SP]this![SP]Normally,[SP]I'd\nhave[SP]ripped[SP]your[SP]pants[SP]off,[SP]strung[SP]you[SP]up,[SP]and\nposted[SP]humiliating[SP]photos.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 2,
+    "offset": 217114,
+    "slot_size": 130,
+    "data_size": 126,
+    "nom_orig": "Eikichi",
+    "texte_orig": "You[SP]guys[SP]are[SP]lucky[SP]I'm[SP]letting[SP]you[SP]off\nthe[SP]hook...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 3,
+    "offset": 217244,
+    "slot_size": 160,
+    "data_size": 156,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "Oh,[SP]Michel-san![SP]You're[SP]safe![SP]That's[SP]great!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 4,
+    "offset": 217404,
+    "slot_size": 206,
+    "data_size": 202,
+    "nom_orig": "Glib[SP]student[SP]council[SP]member",
+    "texte_orig": "Yeah,[SP]Kasugayama[SP]High[SP]would[SP]be[SP]done[SP]for[SP]if\nanything[SP]happened[SP]to[SP]you!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 5,
+    "offset": 217610,
+    "slot_size": 226,
+    "data_size": 222,
+    "nom_orig": "Eikichi",
+    "texte_orig": "What[SP]the[SP]hell...?[1205][U+000F][SP]Aren't[SP]you[SP]guys[SP]Yasuo's\ncronies?[SP]I[SP]thought[SP]you[SP]couldn't[SP]stand[SP]the\nsight[SP]of[SP]me.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 6,
+    "offset": 217836,
+    "slot_size": 316,
+    "data_size": 312,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "Oh,[SP]no,[SP]that's[SP]a[SP]terrible[SP]misunderstanding.\nTo[SP]tell[SP]the[SP]truth,[SP]we[SP]didn't[SP]know[SP]how[SP]to\nhandle[SP]the[SP]president's[SP]megalomania.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 7,
+    "offset": 218152,
+    "slot_size": 336,
+    "data_size": 332,
+    "nom_orig": "Glib[SP]student[SP]council[SP]member",
+    "texte_orig": "If[SP]you[SP]seize[SP]this[SP]opportunity[SP]to[SP]put[SP]him[SP]in[SP]his\nplace,[SP]the[SP]student[SP]council--the[SP]whole[SP]school,\nreally--will[SP]be[SP]much[SP]better[SP]off[SP]for[SP]it.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 8,
+    "offset": 218488,
+    "slot_size": 188,
+    "data_size": 184,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "He's[SP]afraid[SP]of[SP]you.[SP]He's[SP]hiding[SP]somewhere[SP]in\nthe[SP]school.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 9,
+    "offset": 218676,
+    "slot_size": 164,
+    "data_size": 160,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "Please[SP]find[SP]him[SP]and[SP]end[SP]his[SP]reign[SP]of[SP]terror!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 10,
+    "offset": 218840,
+    "slot_size": 164,
+    "data_size": 160,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Alright,[SP]alright![1205][U+000F][SP]So,[SP]any[SP]ideas[SP]on[SP]just[SP]where\nhe[SP]might[SP]be[SP]hiding?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 11,
+    "offset": 219004,
+    "slot_size": 248,
+    "data_size": 244,
+    "nom_orig": "Ginko",
+    "texte_orig": "This[SP]new[SP]president[SP]had[SP]to[SP]be[SP]elected,[SP]right?\nDoesn't[SP]that[SP]mean[SP]he's[SP]popular[SP]at[SP]Cuss...\nI[SP]mean,[SP]Kasugayama[SP]High?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 12,
+    "offset": 219252,
+    "slot_size": 216,
+    "data_size": 212,
+    "nom_orig": "Ginko",
+    "texte_orig": "But[SP]how[SP]did[SP]that[SP]president[SP]know[SP]about[SP]me?\nHas[SP]he[SP]had[SP]an[SP]eye[SP]on[SP]me[SP]since[SP]before[SP]we\ncame[SP]here...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 13,
+    "offset": 219468,
+    "slot_size": 162,
+    "data_size": 158,
+    "nom_orig": "Ginko",
+    "texte_orig": "Fanna![SP]What[SP]a[SP]pervert![SP]I[SP]feel[SP]so[SP]dirty!\nWaaaah...[SP]What[SP]should[SP]I[SP]do!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 14,
+    "offset": 219630,
+    "slot_size": 296,
+    "data_size": 292,
+    "nom_orig": "Maya",
+    "texte_orig": "It[SP]seems[SP]like[SP]the[SP]president's[SP]supporters[SP]and\ndetractors[SP]have[SP]extremely[SP]different[SP]opinions...\nWhat's[SP]going[SP]on[SP]here?[SP]Is[SP]one[SP]side[SP]lying...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 15,
+    "offset": 219926,
+    "slot_size": 206,
+    "data_size": 202,
+    "nom_orig": "Maya",
+    "texte_orig": "It's[SP]no[SP]use[SP]yelling[SP]at[SP]these[SP]kids...[SP]Actually,\nthe[SP]same[SP]could[SP]be[SP]said[SP]about[SP]that[SP]president.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 16,
+    "offset": 220132,
+    "slot_size": 170,
+    "data_size": 166,
+    "nom_orig": "Yukino",
+    "texte_orig": "This[SP]week's[SP]objective...[SP]Each[SP]member...[SP]Five\nmasks[SP]a[SP]day?[SP]What[SP]is[SP]this?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 17,
+    "offset": 220302,
+    "slot_size": 256,
+    "data_size": 252,
+    "nom_orig": "Yukino",
+    "texte_orig": "First[SP]Hamya,[SP]now[SP]this[SP]president...[SP]Seems[SP]like\neveryone[SP]who[SP]gets[SP]involved[SP]with[SP]Joker[SP]is[SP]a\nscumbag.[SP]It's[SP]disgusting.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 18,
+    "offset": 220558,
+    "slot_size": 338,
+    "data_size": 334,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "The[SP]new[SP]president[SP]is[SP]a[SP]terrible[SP]monster.[SP]He[SP]got\nhis[SP]position[SP]through[SP]dirty[SP]tricks[SP]and[SP]he's\nbending[SP]the[SP]student[SP]council[SP]to[SP]his[SP]will.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 19,
+    "offset": 220896,
+    "slot_size": 260,
+    "data_size": 256,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "The[SP]president[SP]should[SP]be[SP]in[SP]Class[SP]2-4.[SP]Punish\nthat[SP]awful[SP]man[SP]with[SP]your[SP]iron[SP]fists[SP]of[SP]justice!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 20,
+    "offset": 221156,
+    "slot_size": 346,
+    "data_size": 342,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "The[SP]president[SP]is[SP]an[SP]amoral[SP]demon[SP]who[SP]doesn't\neven[SP]fear[SP]God.[SP]He[SP]controls[SP]his[SP]hoods[SP]from[SP]the\nshadows[SP]and[SP]has[SP]this[SP]school[SP]under[SP]his[SP]thumb.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 21,
+    "offset": 221502,
+    "slot_size": 314,
+    "data_size": 310,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "He[SP]said[SP]he[SP]was[SP]going[SP]to[SP]Class[SP]3-1.[SP]I'm[SP]sure\nhe's[SP]still[SP]there.[SP]Please[SP]bring[SP]that[SP]evildoer\nto[SP]justice[SP]as[SP]soon[SP]as[SP]you[SP]can!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 22,
+    "offset": 221816,
+    "slot_size": 304,
+    "data_size": 300,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "I[SP]heard[SP]a[SP]tip[SP]from[SP]one[SP]of[SP]the[SP]students![SP]He's\nhiding[SP]in[SP]the[SP]basement[SP]now.[SP]You'll[SP]find[SP]him\nthere[SP]for[SP]sure[SP]this[SP]time!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 23,
+    "offset": 222120,
+    "slot_size": 300,
+    "data_size": 296,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "Please[SP]punish[SP]that[SP]wicked[SP]president![SP]I'd[SP]hate\nfor[SP]any[SP]more[SP]students[SP]to[SP]shed[SP]tears[SP]over[SP]that\nbastard's[SP]evil[SP]ways!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 24,
+    "offset": 222420,
+    "slot_size": 350,
+    "data_size": 346,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "N-No![SP]I[SP]was[SP]just,[SP]um,[SP]following[SP]the[SP]president's\norders...[SP]S-So[SP]if[SP]you're[SP]going[SP]to[SP]hold[SP]a[SP]grudge,\ntake[SP]it[SP]out[SP]on...[1205][U+000F][SP]I-I[SP]mean,[SP]I'm[SP]sorry!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 25,
+    "offset": 222770,
+    "slot_size": 160,
+    "data_size": 156,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "Oh,[SP]Michel-san![SP]You're[SP]safe![SP]That's[SP]great!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 26,
+    "offset": 222930,
+    "slot_size": 206,
+    "data_size": 202,
+    "nom_orig": "Glib[SP]student[SP]council[SP]member",
+    "texte_orig": "Yeah,[SP]Kasugayama[SP]High[SP]would[SP]be[SP]done[SP]for[SP]if\nanything[SP]happened[SP]to[SP]you!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 27,
+    "offset": 223136,
+    "slot_size": 226,
+    "data_size": 222,
+    "nom_orig": "Eikichi",
+    "texte_orig": "What[SP]the[SP]hell...?[1205][U+000F][SP]Aren't[SP]you[SP]guys[SP]Yasuo's\ncronies?[SP]I[SP]thought[SP]you[SP]couldn't[SP]stand[SP]the\nsight[SP]of[SP]me.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 28,
+    "offset": 223362,
+    "slot_size": 316,
+    "data_size": 312,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "Oh,[SP]no,[SP]that's[SP]a[SP]terrible[SP]misunderstanding.\nTo[SP]tell[SP]the[SP]truth,[SP]we[SP]didn't[SP]know[SP]how[SP]to\nhandle[SP]the[SP]president's[SP]megalomania.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 29,
+    "offset": 223678,
+    "slot_size": 336,
+    "data_size": 332,
+    "nom_orig": "Glib[SP]student[SP]council[SP]member",
+    "texte_orig": "If[SP]you[SP]seize[SP]this[SP]opportunity[SP]to[SP]put[SP]him[SP]in[SP]his\nplace,[SP]the[SP]student[SP]council--the[SP]whole[SP]school,\nreally--will[SP]be[SP]much[SP]better[SP]off[SP]for[SP]it.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 30,
+    "offset": 224014,
+    "slot_size": 188,
+    "data_size": 184,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "He's[SP]afraid[SP]of[SP]you.[SP]He's[SP]hiding[SP]somewhere[SP]in\nthe[SP]school.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 31,
+    "offset": 224202,
+    "slot_size": 164,
+    "data_size": 160,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "Please[SP]find[SP]him[SP]and[SP]end[SP]his[SP]reign[SP]of[SP]terror!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 32,
+    "offset": 224366,
+    "slot_size": 164,
+    "data_size": 160,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Alright,[SP]alright![1205][U+000F][SP]So,[SP]any[SP]ideas[SP]on[SP]just[SP]where\nhe[SP]might[SP]be[SP]hiding?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 33,
+    "offset": 224530,
+    "slot_size": 338,
+    "data_size": 334,
+    "nom_orig": "Glib[SP]student[SP]council[SP]member",
+    "texte_orig": "We're[SP]counting[SP]on[SP]you,[SP]Michel-san.[SP]Please[SP]give\nthat[SP]awful[SP]president[SP]a[SP]thrashing.[1205][U+000F][SP]No[SP]need[SP]to\nhold[SP]back![SP]Really[SP]give[SP]him[SP]the[SP]business!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 34,
+    "offset": 224868,
+    "slot_size": 226,
+    "data_size": 222,
+    "nom_orig": "Glib[SP]student[SP]council[SP]member",
+    "texte_orig": "Th-That[SP]goddamned[SP]president...[SP]He[SP]said[SP]it'd\nwork[SP]for[SP]sure...[SP]Aaaah,[SP]I'm[SP]sorry!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 35,
+    "offset": 225094,
+    "slot_size": 160,
+    "data_size": 156,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "Oh,[SP]Michel-san![SP]You're[SP]safe![SP]That's[SP]great!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 36,
+    "offset": 225254,
+    "slot_size": 206,
+    "data_size": 202,
+    "nom_orig": "Glib[SP]student[SP]council[SP]member",
+    "texte_orig": "Yeah,[SP]Kasugayama[SP]High[SP]would[SP]be[SP]done[SP]for[SP]if\nanything[SP]happened[SP]to[SP]you!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 37,
+    "offset": 225460,
+    "slot_size": 226,
+    "data_size": 222,
+    "nom_orig": "Eikichi",
+    "texte_orig": "What[SP]the[SP]hell...?[1205][U+000F][SP]Aren't[SP]you[SP]guys[SP]Yasuo's\ncronies?[SP]I[SP]thought[SP]you[SP]couldn't[SP]stand[SP]the\nsight[SP]of[SP]me.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 38,
+    "offset": 225686,
+    "slot_size": 316,
+    "data_size": 312,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "Oh,[SP]no,[SP]that's[SP]a[SP]terrible[SP]misunderstanding.\nTo[SP]tell[SP]the[SP]truth,[SP]we[SP]didn't[SP]know[SP]how[SP]to\nhandle[SP]the[SP]president's[SP]megalomania.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 39,
+    "offset": 226002,
+    "slot_size": 336,
+    "data_size": 332,
+    "nom_orig": "Glib[SP]student[SP]council[SP]member",
+    "texte_orig": "If[SP]you[SP]seize[SP]this[SP]opportunity[SP]to[SP]put[SP]him[SP]in[SP]his\nplace,[SP]the[SP]student[SP]council--the[SP]whole[SP]school,\nreally--will[SP]be[SP]much[SP]better[SP]off[SP]for[SP]it.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 40,
+    "offset": 226338,
+    "slot_size": 188,
+    "data_size": 184,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "He's[SP]afraid[SP]of[SP]you.[SP]He's[SP]hiding[SP]somewhere[SP]in\nthe[SP]school.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 41,
+    "offset": 226526,
+    "slot_size": 164,
+    "data_size": 160,
+    "nom_orig": "Earnest[SP]student[SP]council[SP]member",
+    "texte_orig": "Please[SP]find[SP]him[SP]and[SP]end[SP]his[SP]reign[SP]of[SP]terror!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 42,
+    "offset": 226690,
+    "slot_size": 164,
+    "data_size": 160,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Alright,[SP]alright![1205][U+000F][SP]So,[SP]any[SP]ideas[SP]on[SP]just[SP]where\nhe[SP]might[SP]be[SP]hiding?",
+    "nom_fr": "",
+    "texte_fr": ""
+  }
+]

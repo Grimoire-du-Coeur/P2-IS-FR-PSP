@@ -1,0 +1,802 @@
+[
+  {
+    "id": 0,
+    "offset": 302778,
+    "slot_size": 244,
+    "data_size": 240,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Hmph.[SP]I[SP]don't[SP]know[SP]who[SP]this[SP]Brown[SP]guy[SP]thinks[SP]he\nis,[SP]but[SP]he's[SP]no[SP]match[SP]for[SP]me.[SP]Y-You[SP]think[SP]so[SP]too,\nright,[SP][U+1112]?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 1,
+    "offset": 303022,
+    "slot_size": 300,
+    "data_size": 296,
+    "nom_orig": "Eikichi",
+    "texte_orig": "If[SP]we[SP]don't[SP]take[SP]care[SP]of[SP]them,[SP]I'll[SP]never\nmanage[SP]to[SP]make[SP]my[SP]debut[SP]as[SP]a[SP]rock[SP]star.[SP]I[SP]guess\nI[SP]won't[SP]be[SP]on[SP]these[SP]stages[SP]for[SP]a[SP]while[SP]yet...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 2,
+    "offset": 303322,
+    "slot_size": 114,
+    "data_size": 110,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Hey...[1205][001E][SP]What[SP]are[SP]those[SP]two[SP]talking[SP]about?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 3,
+    "offset": 303436,
+    "slot_size": 178,
+    "data_size": 174,
+    "nom_orig": "Eikichi",
+    "texte_orig": "The[SP]news[SP]must[SP]have[SP]caused[SP]the[SP]Last[SP]Battalion\nto[SP]show[SP]up[SP]ahead[SP]of[SP]schedule.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 4,
+    "offset": 303614,
+    "slot_size": 242,
+    "data_size": 238,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Did[SP]you[SP]feel[SP]that...?[1205][U+000F][SP]When[SP]you[SP]think[SP]about[SP]it,\nthere[SP]must[SP]be[SP]a[SP]lot[SP]of[SP]Persona-users[SP]around\nthis[SP]place...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 5,
+    "offset": 303856,
+    "slot_size": 168,
+    "data_size": 164,
+    "nom_orig": "Ginko",
+    "texte_orig": "Look,[SP][U+1113]![SP]Isn't[SP]that[SP]Brown[SP]from[SP]TV!?[1205][U+000F]\nI[SP]can't[SP]believe[SP]Yukino[SP]knows[SP]him!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 6,
+    "offset": 304024,
+    "slot_size": 162,
+    "data_size": 158,
+    "nom_orig": "Ginko",
+    "texte_orig": "Maybe[SP]my[SP]friends[SP]would[SP]have[SP]been[SP]here[SP]too,\nif[SP]Muses[SP]had[SP]been[SP]real...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 7,
+    "offset": 304186,
+    "slot_size": 186,
+    "data_size": 182,
+    "nom_orig": "Ginko",
+    "texte_orig": "So[SP]Brown[SP]heard[SP]the[SP]rumor[SP]the[SP]kids[SP]were[SP]spreading\ntoo,[SP]huh?[1205][U+000F][SP]That's[SP]pretty[SP]cool.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 8,
+    "offset": 304372,
+    "slot_size": 110,
+    "data_size": 106,
+    "nom_orig": "Ginko",
+    "texte_orig": "I[SP]wonder[SP]if[SP]Maya-san[SP]knows[SP]that[SP]actress...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 9,
+    "offset": 304482,
+    "slot_size": 266,
+    "data_size": 262,
+    "nom_orig": "Ginko",
+    "texte_orig": "Kehhei![SP]It's[SP]the[SP]stupid[SP]news[SP]shows[SP]who[SP]made[SP]the\nLast[SP]Battalion[SP]show[SP]up![SP]I[SP]hope[SP]they[SP]think[SP]real\nhard[SP]about[SP]what[SP]they[SP]did!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 10,
+    "offset": 304748,
+    "slot_size": 210,
+    "data_size": 206,
+    "nom_orig": "Maya",
+    "texte_orig": "It[SP]sure[SP]is[SP]neat[SP]to[SP]having[SP]a[SP]celebrity[SP]for\na[SP]friend![SP]Hehe,[SP]I[SP]didn't[SP]think[SP]Yukki[SP]was\nthat[SP]cool.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 11,
+    "offset": 304958,
+    "slot_size": 294,
+    "data_size": 290,
+    "nom_orig": "Maya",
+    "texte_orig": "I[SP]bet[SP]the[SP]TV[SP]stations[SP]are[SP]busy[SP]at[SP]times[SP]like\nthis.[SP]I[SP]just[SP]wish[SP]they[SP]wouldn't[SP]sensationalize\nso[SP]much...[SP]What[SP]if[SP]that[SP]turns[SP]into[SP]a[SP]rumor?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 12,
+    "offset": 305252,
+    "slot_size": 170,
+    "data_size": 166,
+    "nom_orig": "Maya",
+    "texte_orig": "Yes?[1205]2[SP]If[SP]you[SP]don't[SP]need[SP]anything,[SP]could[SP]you\nrefrain[SP]from[SP]speaking[SP]to[SP]me?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 13,
+    "offset": 305422,
+    "slot_size": 300,
+    "data_size": 296,
+    "nom_orig": "Maya",
+    "texte_orig": "Of[SP]course[SP]there[SP]are[SP]times[SP]when[SP]the[SP]media[SP]plays\na[SP]part[SP]in[SP]spreading[SP]rumors.[SP]I've[SP]seen[SP]it[SP]happen\nseveral[SP]times[SP]during[SP]my[SP]career[SP]at[SP]Kismet...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 14,
+    "offset": 305722,
+    "slot_size": 108,
+    "data_size": 104,
+    "nom_orig": "Maya",
+    "texte_orig": "But[SP]maybe[SP]we[SP]depend[SP]too[SP]much[SP]on[SP]the[SP]media.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 15,
+    "offset": 305830,
+    "slot_size": 172,
+    "data_size": 168,
+    "nom_orig": "Maya",
+    "texte_orig": "We[SP]think[SP]it's[SP]okay[SP]to[SP]accept[SP]the[SP]information\nthey[SP]present[SP]us[SP]uncritically.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 16,
+    "offset": 306002,
+    "slot_size": 144,
+    "data_size": 140,
+    "nom_orig": "Maya",
+    "texte_orig": "We[SP]don't[SP]realize[SP]how[SP]much[SP]power[SP]they[SP]have\nover[SP]us[SP]like[SP]that.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 17,
+    "offset": 306146,
+    "slot_size": 256,
+    "data_size": 252,
+    "nom_orig": "Maya",
+    "texte_orig": "Heheheh...[SP]The[SP]resonance[SP]I[SP]felt[SP]from[SP]him[SP]was\na[SP]lot[SP]like[SP]yours,[SP]Eikichi.[1205][U+000F][SP]I[SP]guess[SP]birds[SP]of\na[SP]feather[SP]flock[SP]together.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 18,
+    "offset": 306402,
+    "slot_size": 258,
+    "data_size": 254,
+    "nom_orig": "Maya",
+    "texte_orig": "There's[SP]a[SP]Persona-user[SP]here...[1205][U+000F][SP]And[SP]a[SP]strong\none[SP]at[SP]that...[1205][U+000F][SP]He[SP]could[SP]cause[SP]trouble[SP]for[SP]us\nif[SP]we[SP]let[SP]him[SP]go[SP]free...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 19,
+    "offset": 306660,
+    "slot_size": 258,
+    "data_size": 254,
+    "nom_orig": "Yukino",
+    "texte_orig": "What[SP]is[SP]Maya[SP]talking[SP]about?[SP]We're[SP]just\nfriends,[SP]that's[SP]all.[1205][U+000F][SP]I[SP]wonder[SP]if[SP]he's[SP]been\ngiving[SP]people[SP]the[SP]wrong[SP]idea...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 20,
+    "offset": 306918,
+    "slot_size": 216,
+    "data_size": 212,
+    "nom_orig": "Yukino",
+    "texte_orig": "Hidehiko's[SP]a[SP]lot[SP]sharper[SP]than[SP]he[SP]looks.\nI[SP]bet[SP]he[SP]has[SP]his[SP]own[SP]suspicions[SP]about[SP]these\nincidents.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 21,
+    "offset": 307134,
+    "slot_size": 286,
+    "data_size": 282,
+    "nom_orig": "Yukino",
+    "texte_orig": "Oh,[SP]we[SP]know[SP]full[SP]well[SP]who[SP]wrote[SP]it.[SP]I[SP]can't\nbelieve[SP]the[SP]Masked[SP]Circle[SP]is[SP]devoted[SP]to[SP]it[SP]to\nthe[SP]point[SP]of[SP]committing[SP]crimes,[SP]though.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 22,
+    "offset": 307420,
+    "slot_size": 168,
+    "data_size": 164,
+    "nom_orig": "Yukino",
+    "texte_orig": "Someone[SP]said[SP]the[SP]actress[SP]who[SP]was[SP]here[SP]is[SP]gone\nnow?[1205][U+000F][SP]Where[SP]did[SP]she[SP]go?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 23,
+    "offset": 307588,
+    "slot_size": 80,
+    "data_size": 76,
+    "nom_orig": "Yukino",
+    "texte_orig": "Where[SP]did[SP]that[SP]actress[SP]go?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 24,
+    "offset": 307668,
+    "slot_size": 290,
+    "data_size": 286,
+    "nom_orig": "Yukino",
+    "texte_orig": "Let[SP]me[SP]introduce[SP]you[SP]guys[SP]to[SP]someone.[SP]This[SP]is\nBrown.[SP]We[SP]went[SP]to[SP]St.[SP]Hermelin's[SP]together[SP]and\nfought[SP]a[SP]bunch[SP]of[SP]demons[SP]together,[SP]too.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 25,
+    "offset": 307958,
+    "slot_size": 294,
+    "data_size": 290,
+    "nom_orig": "Yukino",
+    "texte_orig": "He[SP]comes[SP]on[SP]a[SP]little[SP]strong,[SP]but[SP]he's[SP]no[SP]slouch\nin[SP]a[SP]fight,[SP]and[SP]I[SP]think[SP]he[SP]knows[SP]about[SP]what's\ngoing[SP]on.[SP]Maybe[SP]you[SP]should[SP]talk[SP]to[SP]him.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 26,
+    "offset": 308252,
+    "slot_size": 280,
+    "data_size": 276,
+    "nom_orig": "Brown",
+    "texte_orig": "When'd[SP]Yukino[SP]grow[SP]her[SP]hair[SP]out!?[SP]I[SP]barely\nrecognized[SP]her![SP]Before[SP]I[SP]figured[SP]out[SP]it[SP]was\nher,[SP]I[SP]thought[SP]it[SP]might[SP]be[SP]her[SP]daughter.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 27,
+    "offset": 308532,
+    "slot_size": 132,
+    "data_size": 128,
+    "nom_orig": "Brown",
+    "texte_orig": "Her[SP]missing[SP]heir![1205][U+000F][SP]Juuuuust[SP]kidding!\nHAHAHAHAHAHAHA!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 28,
+    "offset": 308664,
+    "slot_size": 174,
+    "data_size": 170,
+    "nom_orig": "Brown",
+    "texte_orig": "I[SP]heard[SP]from[SP]Yukino[SP]it[SP]was[SP]the[SP]Masked[SP]Circle\nwho[SP]torched[SP]the[SP]concert[SP]hall.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 29,
+    "offset": 308838,
+    "slot_size": 184,
+    "data_size": 180,
+    "nom_orig": "Brown",
+    "texte_orig": "Seeing[SP]as[SP]how[SP]they[SP]hit[SP]the[SP]police[SP]station\ntoo,[SP]I[SP]think[SP]this[SP]is[SP]far[SP]from[SP]over...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 30,
+    "offset": 309022,
+    "slot_size": 200,
+    "data_size": 196,
+    "nom_orig": "Brown",
+    "texte_orig": "You[SP]guys[SP]were[SP]the[SP]ones[SP]manning[SP]that[SP]blimp,\nweren't[SP]you?[SP]You[SP]sure[SP]like[SP]to[SP]cause[SP]a[SP]scene.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 31,
+    "offset": 309222,
+    "slot_size": 142,
+    "data_size": 138,
+    "nom_orig": "Brown",
+    "texte_orig": "Not[SP]only[SP]that,[SP]you[SP]saved[SP]those[SP]kids[SP]to[SP]boot.\nThat's[SP]great!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 32,
+    "offset": 309364,
+    "slot_size": 298,
+    "data_size": 294,
+    "nom_orig": "Brown",
+    "texte_orig": "Huh?[SP]The[SP]rumors?[1205][001E][SP]Hey,[SP]relax.[SP]The[SP]five[SP]people\non[SP]the[SP]composite[SP]sketches[SP]and[SP]yours[SP]truly[SP]are\nsuperheroes,[SP]right?[SP]Nothin'[SP]to[SP]worry[SP]about!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 33,
+    "offset": 309662,
+    "slot_size": 224,
+    "data_size": 220,
+    "nom_orig": "Brown",
+    "texte_orig": "What[SP]a[SP]bunch[SP]of[SP]crap[SP]that[SP]In[SP]Lak'ech[SP]is...[1205][U+000F]\nYukino[SP]thinks[SP]the[SP]Masked[SP]Circle[SP]wrote[SP]it,\ndoesn't[SP]she?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 34,
+    "offset": 309886,
+    "slot_size": 182,
+    "data_size": 178,
+    "nom_orig": "Brown",
+    "texte_orig": "That's[SP]what[SP]I[SP]wanna[SP]know.[SP]She[SP]just[SP]up[SP]and\ndisappeared.[SP]Why[SP]now,[SP]of[SP]all[SP]times?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 35,
+    "offset": 310068,
+    "slot_size": 90,
+    "data_size": 86,
+    "nom_orig": "Brown",
+    "texte_orig": "Maybe[SP]I[SP]oughtta[SP]go[SP]look[SP]for[SP]her.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 36,
+    "offset": 310158,
+    "slot_size": 110,
+    "data_size": 106,
+    "nom_orig": "Brown",
+    "texte_orig": "Huh?[1205][U+000F][SP]Where's[SP]Yukino?[SP]Isn't[SP]she[SP]with[SP]you?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 37,
+    "offset": 310268,
+    "slot_size": 232,
+    "data_size": 228,
+    "nom_orig": "???",
+    "texte_orig": "Ohhhh...[SP]So[SP]you're[SP][U+1113]?[1205][U+000F][SP]Tell[SP]me,[SP]how[SP]scary\nis[SP]Yukino?[1205][U+000F][SP]I[SP]know[SP]she's[SP]kicked[SP]my[SP]ass[SP]on\nmultiple[SP]occasions.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 38,
+    "offset": 310500,
+    "slot_size": 68,
+    "data_size": 64,
+    "nom_orig": "Yukino",
+    "texte_orig": "Hey![1205][U+000F][SP]I[SP]heard[SP]that!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 39,
+    "offset": 310568,
+    "slot_size": 218,
+    "data_size": 214,
+    "nom_orig": "???",
+    "texte_orig": "Whoa,[SP]not[SP]the[SP]face,[SP]not[SP]the[SP]face![SP]Leave[SP]my\nmoneymaker[SP]alone![SP]Anyway,[SP]name's[SP]Uesugi.\nCall[SP]me[SP]Brown.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 40,
+    "offset": 311128,
+    "slot_size": 270,
+    "data_size": 266,
+    "nom_orig": "Brown",
+    "texte_orig": "Ah...[SP]So[SP]you[SP]guys[SP]have[SP]met[SP]Philemon,[SP]too.[1205][U+000F]\nYou're[SP]investigating[SP]the[SP]strange[SP]stuff[SP]around\ntown,[SP]right?[1205][U+000F][SP]Well,[SP]keep[SP]it[SP]up.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 41,
+    "offset": 311398,
+    "slot_size": 278,
+    "data_size": 274,
+    "nom_orig": "???",
+    "texte_orig": "Yo![SP]Long[SP]time[SP]no[SP]see![1205][U+000F][SP]Wait,[SP]I[SP]don't[SP]know[SP]you.[1205][U+000F]\nYo![SP]Long[SP]time[SP]no[SP]meet![1205][U+000F][SP]Heeheehee![1205][U+000F][SP]Alright,\nallow[SP]me[SP]to[SP]introduce[SP]myself...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 42,
+    "offset": 311676,
+    "slot_size": 376,
+    "data_size": 372,
+    "nom_orig": "???",
+    "texte_orig": "Though[SP]you[SP]already[SP]know[SP]who[SP]I[SP]am,[SP]right?\n[U+1208][0002]Yes\nNo\n[U+1109][E2][E3][E4][NULL][NULL]\"???\n'Course[SP]you[SP]do![SP]Everyone[SP]with[SP]a[SP]pulse[SP]these\ndays[SP]knows[SP]me,[SP]Brown,[SP]the[SP]hardest-working[SP]man\nin[SP]Japanese[SP]show[SP]business.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 43,
+    "offset": 312052,
+    "slot_size": 98,
+    "data_size": 94,
+    "nom_orig": "???",
+    "texte_orig": "But[SP]let[SP]me[SP]give[SP]you[SP]my[SP]real[SP]name,[SP]too.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 44,
+    "offset": 312150,
+    "slot_size": 236,
+    "data_size": 232,
+    "nom_orig": "???",
+    "texte_orig": "I'm[SP]Hidehiko[SP]Uesugi,[SP]an[SP]old[SP]friend[SP]of[SP]Yukino's.\nLet's[SP]hope[SP]this[SP]is[SP]the[SP]beginning[SP]of[SP]a[SP]beautiful\nfriendship!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 45,
+    "offset": 312728,
+    "slot_size": 292,
+    "data_size": 288,
+    "nom_orig": "Brown",
+    "texte_orig": "I[SP]felt[SP]another[SP]Persona[SP]since[SP]the[SP]moment[SP]you\nwalked[SP]in[SP]here![SP]I[SP]know[SP]exactly[SP]who[SP]you[SP]are[SP]and\nwhat[SP]you're[SP]after![SP]Surprised?[SP]Hyahahahaha!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 46,
+    "offset": 313020,
+    "slot_size": 182,
+    "data_size": 178,
+    "nom_orig": "Brown",
+    "texte_orig": "Any[SP]friends[SP]of[SP]Yukino[SP]are[SP]friends[SP]of[SP]mine!\nWe're[SP]gonna[SP]get[SP]along[SP]juuuust[SP]fine!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 47,
+    "offset": 313202,
+    "slot_size": 234,
+    "data_size": 230,
+    "nom_orig": "Brown",
+    "texte_orig": "You've[SP]been[SP]investigating[SP]the[SP]strange[SP]stuff\ngoing[SP]on[SP]in[SP]town,[SP]right?[SP]I'll[SP]help[SP]you[SP]out!\nAsk[SP]me[SP]anything!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 48,
+    "offset": 313436,
+    "slot_size": 306,
+    "data_size": 302,
+    "nom_orig": "???",
+    "texte_orig": "Seriously!?[SP]I'm...[SP]I'm[SP]Brown.[SP]Can't[SP]you[SP]tell?[1205][U+000F]\nYou[SP]mean[SP]to[SP]say[SP]you[SP]don't[SP]watch[SP]my[SP]show?[1205][U+000F][SP]Yikes,\nI[SP]think[SP]it[SP]just[SP]got[SP]a[SP]couple[SP]degrees[SP]colder.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 49,
+    "offset": 313742,
+    "slot_size": 262,
+    "data_size": 258,
+    "nom_orig": "???",
+    "texte_orig": "Alright![SP]Lemme[SP]introduce[SP]myself[SP]properly[SP]so[SP]you\ncan[SP]tell[SP]your[SP]grandkids[SP]about[SP]it[SP]someday.[1205][U+000F]\nI'm[SP]Uesugi.[SP]Nice[SP]to[SP]meet[SP]ya.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 50,
+    "offset": 314346,
+    "slot_size": 292,
+    "data_size": 288,
+    "nom_orig": "Brown",
+    "texte_orig": "I[SP]felt[SP]another[SP]Persona[SP]since[SP]the[SP]moment[SP]you\nwalked[SP]in[SP]here![SP]I[SP]know[SP]exactly[SP]who[SP]you[SP]are[SP]and\nwhat[SP]you're[SP]after![SP]Surprised?[SP]Hyahahahaha!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 51,
+    "offset": 314638,
+    "slot_size": 182,
+    "data_size": 178,
+    "nom_orig": "Brown",
+    "texte_orig": "Any[SP]friends[SP]of[SP]Yukino[SP]are[SP]friends[SP]of[SP]mine!\nWe're[SP]gonna[SP]get[SP]along[SP]juuuust[SP]fine!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 52,
+    "offset": 314820,
+    "slot_size": 234,
+    "data_size": 230,
+    "nom_orig": "Brown",
+    "texte_orig": "You've[SP]been[SP]investigating[SP]the[SP]strange[SP]stuff\ngoing[SP]on[SP]in[SP]town,[SP]right?[SP]I'll[SP]help[SP]you[SP]out!\nAsk[SP]me[SP]anything!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 53,
+    "offset": 315054,
+    "slot_size": 282,
+    "data_size": 278,
+    "nom_orig": "Junko[SP]Kurosu",
+    "texte_orig": "Hm?[SP]Are[SP]you[SP]here[SP]for[SP]my[SP]autograph?[1205][U+000F][SP]I'm[SP]the\nworld-famous[SP]Junko[SP]Kurosu,[SP]a[SP]genius[SP]thespian\nsurpassing[SP]even[SP]Marilyn[SP]Monroe!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 54,
+    "offset": 315336,
+    "slot_size": 210,
+    "data_size": 206,
+    "nom_orig": "Junko[SP]Kurosu",
+    "texte_orig": "Well?[SP]Out[SP]with[SP]it.[1205][001E][SP]I[SP]know[SP]you[SP]must[SP]have[SP]an\nautograph[SP]book[SP]or[SP]something[SP]of[SP]the[SP]kind.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 55,
+    "offset": 315546,
+    "slot_size": 116,
+    "data_size": 112,
+    "nom_orig": "Junko[SP]Kurosu",
+    "texte_orig": "You[SP]must[SP]understand,[SP]I'm[SP]a[SP]busy[SP]woman.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 56,
+    "offset": 315662,
+    "slot_size": 284,
+    "data_size": 280,
+    "nom_orig": "Junko[SP]Kurosu",
+    "texte_orig": "There[SP]are[SP]so[SP]many[SP]directors[SP]who[SP]would[SP]pay\nmillions[SP]for[SP]my[SP]time.[SP]I[SP]hope[SP]you[SP]know[SP]what\nan[SP]honor[SP]it[SP]is[SP]just[SP]speaking[SP]with[SP]me.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 57,
+    "offset": 315946,
+    "slot_size": 264,
+    "data_size": 260,
+    "nom_orig": "???",
+    "texte_orig": "Hm?[SP]Are[SP]you[SP]here[SP]for[SP]my[SP]autograph?[1205][U+000F][SP]I'm[SP]the\nworld-famous[SP]Junko[SP]Kurosu,[SP]a[SP]genius[SP]thespian\nsurpassing[SP]even[SP]Marilyn[SP]Monroe!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 58,
+    "offset": 316528,
+    "slot_size": 210,
+    "data_size": 206,
+    "nom_orig": "Junko[SP]Kurosu",
+    "texte_orig": "Well?[SP]Out[SP]with[SP]it.[1205][001E][SP]I[SP]know[SP]you[SP]must[SP]have[SP]an\nautograph[SP]book[SP]or[SP]something[SP]of[SP]the[SP]kind.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 59,
+    "offset": 316738,
+    "slot_size": 116,
+    "data_size": 112,
+    "nom_orig": "Junko[SP]Kurosu",
+    "texte_orig": "You[SP]must[SP]understand,[SP]I'm[SP]a[SP]busy[SP]woman.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 60,
+    "offset": 316854,
+    "slot_size": 284,
+    "data_size": 280,
+    "nom_orig": "Junko[SP]Kurosu",
+    "texte_orig": "There[SP]are[SP]so[SP]many[SP]directors[SP]who[SP]would[SP]pay\nmillions[SP]for[SP]my[SP]time.[SP]I[SP]hope[SP]you[SP]know[SP]what\nan[SP]honor[SP]it[SP]is[SP]just[SP]speaking[SP]with[SP]me.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 61,
+    "offset": 317138,
+    "slot_size": 304,
+    "data_size": 300,
+    "nom_orig": "Junko[SP]Kurosu",
+    "texte_orig": "These[SP]constant[SP]terrorist[SP]attacks...[SP]What[SP]a\nviolent[SP]world[SP]we[SP]live[SP]in[SP]now.[SP]I[SP]hear[SP]that[SP]the\nculprits[SP]are[SP]five[SP]youngsters...[SP]Just[SP]awful.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 62,
+    "offset": 317442,
+    "slot_size": 328,
+    "data_size": 324,
+    "nom_orig": "Junko[SP]Kurosu",
+    "texte_orig": "I[SP]heard[SP]they[SP]released[SP]composite[SP]sketches[SP]of[SP]the\nfive[SP]youths[SP]responsible.[1205][U+000F][SP]They've[SP]caused[SP]quite[SP]a\npanic...[SP]It's[SP]the[SP]chair[SP]if[SP]they're[SP]caught,[SP]mm?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 63,
+    "offset": 317770,
+    "slot_size": 232,
+    "data_size": 228,
+    "nom_orig": "Junko[SP]Kurosu",
+    "texte_orig": "Were[SP]you[SP]eavesdropping?[SP]Where[SP]are[SP]your[SP]manners?[1205][001E]\nThis[SP]isn't[SP]subject[SP]matter[SP]a[SP]child[SP]should[SP]hear.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 64,
+    "offset": 318002,
+    "slot_size": 310,
+    "data_size": 306,
+    "nom_orig": "Receptionist",
+    "texte_orig": "Isn't[SP]Ms.[SP]Kurosu[SP]young[SP]and[SP]beautiful?[SP]Try[SP]to\nguess[SP]her[SP]age.[SP]You'd[SP]be[SP]surprised![SP]I'd[SP]heard\nactresses[SP]age[SP]well,[SP]but[SP]she's[SP]something[SP]else.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 65,
+    "offset": 318312,
+    "slot_size": 290,
+    "data_size": 286,
+    "nom_orig": "Receptionist",
+    "texte_orig": "Ms.[SP]Kurosu[SP]was[SP]carping[SP]about[SP]the[SP]terrorists\nbeing[SP]five[SP]young[SP]people.[SP]You[SP]think[SP]it's[SP]true?\nI[SP]heard[SP]it[SP]was[SP]the[SP]Masked[SP]Circle...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 66,
+    "offset": 318602,
+    "slot_size": 278,
+    "data_size": 274,
+    "nom_orig": "Receptionist",
+    "texte_orig": "Even[SP]at[SP]times[SP]like[SP]these,[SP]Mr.[SP]Brown[SP]and\nMs.[SP]Kurosu[SP]act[SP]like[SP]nothing's[SP]wrong.[SP]Talented\npeople[SP]must[SP]have[SP]nerves[SP]of[SP]steel.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 67,
+    "offset": 318880,
+    "slot_size": 174,
+    "data_size": 170,
+    "nom_orig": "Receptionist",
+    "texte_orig": "There's[SP]been[SP]so[SP]much[SP]response[SP]to[SP]the[SP]In[SP]Lak'ech\nfrom[SP]our[SP]customers.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 68,
+    "offset": 319054,
+    "slot_size": 182,
+    "data_size": 178,
+    "nom_orig": "Receptionist",
+    "texte_orig": "They[SP]all[SP]want[SP]to[SP]know[SP]whether[SP]what's[SP]in[SP]it[SP]is\ntrue[SP]or[SP]not.[SP]Who[SP]can[SP]say?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 69,
+    "offset": 319236,
+    "slot_size": 274,
+    "data_size": 270,
+    "nom_orig": "Receptionist",
+    "texte_orig": "Ms.[SP]Kurosu[SP]went[SP]missing![SP]I'm[SP]sure[SP]she[SP]wouldn't\nbe[SP]out[SP]and[SP]about[SP]at[SP]a[SP]time[SP]like[SP]this...[SP]But\nwhere[SP]could[SP]she[SP]have[SP]gone?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 70,
+    "offset": 319510,
+    "slot_size": 274,
+    "data_size": 270,
+    "nom_orig": "Receptionist",
+    "texte_orig": "Ms.[SP]Kurosu[SP]went[SP]missing![SP]I'm[SP]sure[SP]she[SP]wouldn't\nbe[SP]out[SP]and[SP]about[SP]at[SP]a[SP]time[SP]like[SP]this...[SP]But\nwhere[SP]could[SP]she[SP]have[SP]gone?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 71,
+    "offset": 319784,
+    "slot_size": 210,
+    "data_size": 206,
+    "nom_orig": "Staff",
+    "texte_orig": "What's[SP]going[SP]on?[1205][U+000F][SP]We[SP]can't[SP]get[SP]authorization[SP]to\nfilm[SP]that[SP]mini-concert![SP]This[SP]is[SP]unheard[SP]of!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 72,
+    "offset": 319994,
+    "slot_size": 258,
+    "data_size": 254,
+    "nom_orig": "Staff",
+    "texte_orig": "What's[SP]going[SP]on!?[SP]On[SP]top[SP]of[SP]the[SP]concert[SP]hall,\nthe[SP]fire[SP]and[SP]police[SP]departments[SP]were[SP]blown\nup[SP]too?[SP]This[SP]is[SP]unheard[SP]of!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 73,
+    "offset": 320252,
+    "slot_size": 288,
+    "data_size": 284,
+    "nom_orig": "Staff",
+    "texte_orig": "Hey,[SP]what's[SP]going[SP]on?[SP]After[SP]we[SP]ran[SP]a[SP]special\nreport[SP]on[SP]the[SP]composite[SP]sketches,[SP]there've[SP]been\nhundreds[SP]of[SP]calls[SP]reporting[SP]sightings.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 74,
+    "offset": 320540,
+    "slot_size": 196,
+    "data_size": 192,
+    "nom_orig": "Staff",
+    "texte_orig": "Are[SP]the[SP]culprits[SP]just[SP]walking[SP]around[SP]in[SP]broad\ndaylight?[SP]Then[SP]where[SP]the[SP]hell[SP]are[SP]they?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 75,
+    "offset": 320736,
+    "slot_size": 230,
+    "data_size": 226,
+    "nom_orig": "Staff",
+    "texte_orig": "Hey,[SP]what's[SP]going[SP]on!?[1205][U+000F][SP]Ever[SP]since[SP]we[SP]broadcast\nthat[SP]news,[SP]the[SP]phones[SP]have[SP]been[SP]ringing[SP]off\nthe[SP]hook!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 76,
+    "offset": 320966,
+    "slot_size": 154,
+    "data_size": 150,
+    "nom_orig": "Staff",
+    "texte_orig": "Terrorists,[SP]heroes,[SP]it[SP]doesn't[SP]matter[SP]which\nthose[SP]five[SP]kids[SP]are!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 77,
+    "offset": 321120,
+    "slot_size": 254,
+    "data_size": 250,
+    "nom_orig": "Staff",
+    "texte_orig": "Hey,[SP]what's[SP]going[SP]on!?[SP]Are[SP]they[SP]shooting[SP]a\nmovie?[SP]Or[SP]is[SP]it[SP]another[SP]TV[SP]station?[SP]How[SP]come\nI[SP]wasn't[SP]told[SP]about[SP]this!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 78,
+    "offset": 321374,
+    "slot_size": 82,
+    "data_size": 78,
+    "nom_orig": "Receptionist",
+    "texte_orig": "Welcome[SP]to[SP]Sumaru[SP]TV.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 79,
+    "offset": 321456,
+    "slot_size": 250,
+    "data_size": 246,
+    "nom_orig": "Receptionist",
+    "texte_orig": "I'm[SP]sorry,[SP]but[SP]the[SP]upper[SP]floors[SP]are[SP]restricted\nto[SP]employees[SP]only.[SP]Please[SP]refrain[SP]from[SP]using\nthe[SP]elevator.",
+    "nom_fr": "",
+    "texte_fr": ""
+  }
+]

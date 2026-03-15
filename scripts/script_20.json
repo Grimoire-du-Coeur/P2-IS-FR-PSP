@@ -1,0 +1,442 @@
+[
+  {
+    "id": 0,
+    "offset": 172650,
+    "slot_size": 96,
+    "data_size": 92,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Yasuo![SP]Where[SP]are[SP]you!?[SP]Come[SP]out!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 1,
+    "offset": 172746,
+    "slot_size": 80,
+    "data_size": 76,
+    "nom_orig": "Eikichi",
+    "texte_orig": "OW![SP]You'll[SP]pay[SP]for[SP]that!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 2,
+    "offset": 172826,
+    "slot_size": 142,
+    "data_size": 138,
+    "nom_orig": "Maya",
+    "texte_orig": "Hold[SP]on,[SP]Eikichi-kun.[SP]Don't[SP]move[SP]until\nI[SP]turn[SP]on[SP]my[SP]light.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 3,
+    "offset": 172968,
+    "slot_size": 118,
+    "data_size": 114,
+    "nom_orig": "Maya",
+    "texte_orig": "Umm...[1205][001E][SP]Huh.[SP]I[SP]was[SP]sure[SP]I[SP]had[SP]a[SP]flashlight...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 4,
+    "offset": 173086,
+    "slot_size": 340,
+    "data_size": 336,
+    "nom_orig": "Maya",
+    "texte_orig": "Grazie![1205][001E][SP]Now[SP]I[SP]can[SP]see--\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n...You[SP]know,[SP][U+1113]-kun...[1205][001E][SP]I[SP]think[SP]next\ntime[SP]you[SP]have[SP]something[SP]useful[SP]like[SP]that,\nyou[SP]should[SP]take[SP]it[SP]out[SP]a[SP]little[SP]sooner.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 5,
+    "offset": 173426,
+    "slot_size": 96,
+    "data_size": 92,
+    "nom_orig": "Yasuo",
+    "texte_orig": "Gheeeheehehehe![1205][001E][SP]You[SP]fell[SP]for[SP]it!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 6,
+    "offset": 173522,
+    "slot_size": 112,
+    "data_size": 108,
+    "nom_orig": "Yukino",
+    "texte_orig": "A[SP]walkie-talkie...?[1205][001E][SP]What[SP]a[SP]dirty[SP]trick!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 7,
+    "offset": 173634,
+    "slot_size": 288,
+    "data_size": 284,
+    "nom_orig": "Yasuo",
+    "texte_orig": "Rumor[SP]has[SP]it[SP]that[SP]no[SP]one[SP]knows[SP]where[SP]the[SP]exit\nto[SP]that[SP]air[SP]raid[SP]shelter[SP]is...[SP]Once[SP]you're[SP]in,\nyou'll[SP]never[SP]get[SP]out.[SP]Gheeeheehehehe!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 8,
+    "offset": 173922,
+    "slot_size": 148,
+    "data_size": 144,
+    "nom_orig": "Eikichi",
+    "texte_orig": "You[SP]tricked[SP]us,[SP]you[SP]bastard![SP]What[SP]the[SP]hell's\nyour[SP]scheme!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 9,
+    "offset": 174070,
+    "slot_size": 286,
+    "data_size": 282,
+    "nom_orig": "Yasuo",
+    "texte_orig": "I'm[SP]making[SP]this[SP]school[SP]an[SP]ideal[SP]educational\nfacility,[SP]worthy[SP]of[SP]a[SP]genius[SP]like[SP]myself.\nBut[SP]first,[SP]the[SP]vermin[SP]must[SP]be[SP]exterminated.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 10,
+    "offset": 174356,
+    "slot_size": 82,
+    "data_size": 78,
+    "nom_orig": "Eikichi",
+    "texte_orig": "What[SP]did[SP]you[SP]just[SP]say...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 11,
+    "offset": 174438,
+    "slot_size": 268,
+    "data_size": 264,
+    "nom_orig": "Yasuo",
+    "texte_orig": "Sugimoto-kun[SP]was[SP]only[SP]a[SP]stalking[SP]horse.\nI[SP]set[SP]the[SP]stage[SP]by[SP]spreading[SP]a[SP]rumor[SP]that\nthe[SP]Leader[SP]was[SP]stronger[SP]than[SP]the[SP]Boss.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 12,
+    "offset": 174706,
+    "slot_size": 274,
+    "data_size": 270,
+    "nom_orig": "Yasuo",
+    "texte_orig": "I[SP]hadn't[SP]factored[SP]in[SP][U+1112]-kun[SP]and[SP]the\nothers[SP]becoming[SP]involved.[SP]Hence,[SP]my[SP]plan[SP]to\nplay[SP]the[SP]vermin[SP]against[SP]each[SP]other[SP]misfired.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 13,
+    "offset": 174980,
+    "slot_size": 268,
+    "data_size": 264,
+    "nom_orig": "Yasuo",
+    "texte_orig": "Sugimoto-kun[SP]was[SP]only[SP]a[SP]stalking[SP]horse.\nI[SP]set[SP]the[SP]stage[SP]by[SP]spreading[SP]a[SP]rumor[SP]that\nthe[SP]Leader[SP]was[SP]stronger[SP]than[SP]the[SP]Boss.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 14,
+    "offset": 175248,
+    "slot_size": 274,
+    "data_size": 270,
+    "nom_orig": "Yasuo",
+    "texte_orig": "I[SP]hadn't[SP]considered[SP]that[SP]you'd[SP]use[SP]it[SP]to\nyour[SP]advantage.[SP]Hence,[SP]my[SP]plan[SP]to[SP]play[SP]the\nthe[SP]vermin[SP]against[SP]each[SP]other[SP]misfired.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 15,
+    "offset": 175522,
+    "slot_size": 86,
+    "data_size": 82,
+    "nom_orig": "Ginko",
+    "texte_orig": "Kehhei![SP]Come[SP]out[SP]and[SP]face[SP]us!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 16,
+    "offset": 175608,
+    "slot_size": 236,
+    "data_size": 232,
+    "nom_orig": "Yasuo",
+    "texte_orig": "I[SP]think[SP]not.[SP]Savage[SP]elements[SP]must[SP]be[SP]isolated\nlest[SP]they[SP]contaminate[SP]the[SP]rest[SP]of[SP]society.\nGheeeheehehehe!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 17,
+    "offset": 175844,
+    "slot_size": 294,
+    "data_size": 290,
+    "nom_orig": "Yasuo",
+    "texte_orig": "But[SP]if[SP]the[SP]ladies[SP]give[SP]me[SP]a[SP]writeup[SP]in[SP]their\nperiodical[SP]and[SP]Lisa-san[SP]becomes[SP]my[SP]g-girlfriend,\nI'll[SP]make[SP]an[SP]exception[SP]for[SP]the[SP]females.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 18,
+    "offset": 176138,
+    "slot_size": 254,
+    "data_size": 250,
+    "nom_orig": "Maya",
+    "texte_orig": "Sorry![SP]Our[SP]next[SP]special[SP]report's[SP]already\nbeen[SP]decided:[SP][1432][NULL][NULL][0014]Boss[SP]vs.[SP]President:[SP]The\nTrue[SP]Champion[SP]of[SP]Cuss[SP]High![1432][NULL][NULL][0014]",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 19,
+    "offset": 176392,
+    "slot_size": 184,
+    "data_size": 180,
+    "nom_orig": "Yukino",
+    "texte_orig": "Plus,[SP]photographing[SP]a[SP]walkie-talkie[SP]won't\nbe[SP]much[SP]use,[SP]even[SP]for[SP]the[SP]ad[SP]pages.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 20,
+    "offset": 176576,
+    "slot_size": 238,
+    "data_size": 234,
+    "nom_orig": "Ginko",
+    "texte_orig": "Holeen![SP]How[SP]sad![SP]That[SP]means[SP]the[SP]only[SP]place\nI[SP]could[SP]take[SP]you[SP]on[SP]a[SP]date[SP]would[SP]be[SP]a\ncustomer[SP]service[SP]center!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 21,
+    "offset": 176814,
+    "slot_size": 192,
+    "data_size": 188,
+    "nom_orig": "Yasuo",
+    "texte_orig": "Grrrr...![1205][001E][SP]Fine![SP]Starve[SP]to[SP]death[SP]in[SP]there\nfor[SP]all[SP]I[SP]care![SP]Ghehee![SP]Gheeeheheehehe!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 22,
+    "offset": 177006,
+    "slot_size": 78,
+    "data_size": 74,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Raaaaagh![SP]That[SP]scumbag!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 23,
+    "offset": 177084,
+    "slot_size": 78,
+    "data_size": 74,
+    "nom_orig": "Yukino",
+    "texte_orig": "Eikichi![SP]What[SP]the[SP]hell!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 24,
+    "offset": 177162,
+    "slot_size": 208,
+    "data_size": 204,
+    "nom_orig": "Ginko",
+    "texte_orig": "Yeah,[SP]what[SP]she[SP]said,[SP]you[SP]moron![SP]Why'd[SP]you\ngo[SP]and[SP]break[SP]our[SP]only[SP]contact[SP]with[SP]the\noutside!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 25,
+    "offset": 177370,
+    "slot_size": 70,
+    "data_size": 66,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Whaaa...?[SP]B-But...!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 26,
+    "offset": 177440,
+    "slot_size": 98,
+    "data_size": 94,
+    "nom_orig": "Maya",
+    "texte_orig": "Oh,[SP]well.[SP]No[SP]use[SP]crying[SP]over[SP]it[SP]now.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 27,
+    "offset": 177538,
+    "slot_size": 240,
+    "data_size": 236,
+    "nom_orig": "Maya",
+    "texte_orig": "It's[SP]at[SP]times[SP]like[SP]this[SP]that[SP]you[SP]gotta\nremember[SP]to[SP]think[SP]positive,[SP]guys![1205][001E]\nTogether,[SP]we[SP]can[SP]find[SP]a[SP]way[SP]out!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 28,
+    "offset": 177778,
+    "slot_size": 270,
+    "data_size": 266,
+    "nom_orig": "Eikichi",
+    "texte_orig": "There[SP]was[SP]a[SP]rumor[SP]that[SP]someone[SP]did[SP]get\noutta[SP]here[SP]alive,[SP]but...[1205][001E][SP]Guh.[SP]Sorry,[SP]it's[SP]my\nfault[SP]that[SP]we're[SP]stuck[SP]in[SP]here...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 29,
+    "offset": 178048,
+    "slot_size": 220,
+    "data_size": 216,
+    "nom_orig": "Eikichi",
+    "texte_orig": "I-It's[SP]just[SP]my[SP]imagination[SP]that[SP]this[SP]place\nlooks[SP]like[SP]the[SP]first[SP]room[SP]we[SP]saw,[SP]right?\nAhahaha...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 30,
+    "offset": 178268,
+    "slot_size": 186,
+    "data_size": 182,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Ohhhh...[1205][001E][SP]I[SP]can't[SP]die[SP]here![SP]What[SP]would[SP]my\nmillions[SP]of[SP]adoring[SP]fans[SP]think...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 31,
+    "offset": 178454,
+    "slot_size": 122,
+    "data_size": 118,
+    "nom_orig": "Maya",
+    "texte_orig": "Don't[SP]worry.[SP]We[SP]got[SP]in[SP]here,[SP]and[SP]we\ncan[SP]get[SP]out!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 32,
+    "offset": 178576,
+    "slot_size": 138,
+    "data_size": 134,
+    "nom_orig": "Maya",
+    "texte_orig": "I'd[SP]hate[SP]to[SP]get[SP]lost,[SP]so[SP]I'm[SP]going[SP]to[SP]leave\na[SP]mark[SP]here.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 33,
+    "offset": 178714,
+    "slot_size": 180,
+    "data_size": 176,
+    "nom_orig": "Maya",
+    "texte_orig": "This[SP]is[SP]the[SP]first[SP]room[SP]we[SP]were[SP]in...[1205][001E]\nLook,[SP]you[SP]can[SP]see[SP]my[SP]mark[SP]on[SP]the[SP]wall.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 34,
+    "offset": 178894,
+    "slot_size": 248,
+    "data_size": 244,
+    "nom_orig": "Maya",
+    "texte_orig": "Well,[SP]if[SP]we[SP]ended[SP]up[SP]back[SP]at[SP]the[SP]start,\nwe[SP]just[SP]need[SP]to[SP]figure[SP]out[SP]where[SP]we[SP]took\na[SP]wrong[SP]turn![SP]C'mon,[SP]let's[SP]go!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 35,
+    "offset": 179142,
+    "slot_size": 148,
+    "data_size": 144,
+    "nom_orig": "Maya",
+    "texte_orig": "Back[SP]to[SP]square[SP]one...?[1205][001E][SP]I[SP]think[SP]we're[SP]just\ngoing[SP]in[SP]circles.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 36,
+    "offset": 179290,
+    "slot_size": 216,
+    "data_size": 212,
+    "nom_orig": "Maya",
+    "texte_orig": "Not[SP]bad![SP]But[SP]I'm[SP]not[SP]giving[SP]up[SP]that[SP]easily!\nWe'll[SP]get[SP]out[SP]of[SP]here[SP]if[SP]it's[SP]the[SP]last[SP]thing\nwe[SP]do!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 37,
+    "offset": 179506,
+    "slot_size": 144,
+    "data_size": 140,
+    "nom_orig": "Ginko",
+    "texte_orig": "Hey,[SP]isn't[SP]that[SP]the[SP]way[SP]we[SP]came[SP]in?\nI[SP]can't[SP]really[SP]tell...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 38,
+    "offset": 179650,
+    "slot_size": 160,
+    "data_size": 156,
+    "nom_orig": "Ginko",
+    "texte_orig": "Aiyah...[1205][001E][SP]Is[SP]it[SP]just[SP]me,[SP]or[SP]is[SP]Maya-san\nsounding[SP]a[SP]little[SP]forced?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 39,
+    "offset": 179810,
+    "slot_size": 184,
+    "data_size": 180,
+    "nom_orig": "Ginko",
+    "texte_orig": "Ughhh,[SP]this[SP]is[SP]so[SP]aggravating![SP]If[SP]we[SP]get\nout[SP]of[SP]here,[SP]that[SP]guy's[SP]ass[SP]is[SP]grass!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 40,
+    "offset": 179994,
+    "slot_size": 134,
+    "data_size": 130,
+    "nom_orig": "Yukino",
+    "texte_orig": "I[SP]think...[1205][001E][SP]that's[SP]the[SP]way[SP]we[SP]came[SP]in.\nOr[SP]is[SP]it...?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 41,
+    "offset": 180128,
+    "slot_size": 222,
+    "data_size": 218,
+    "nom_orig": "Yukino",
+    "texte_orig": "Did[SP]you[SP]see[SP]anything[SP]that[SP]looked[SP]like[SP]an\nexit[SP]back[SP]there...?[1205][001E][SP]Oh[SP]well,[SP]let's[SP]make\nanother[SP]pass.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 42,
+    "offset": 180350,
+    "slot_size": 196,
+    "data_size": 192,
+    "nom_orig": "Yukino",
+    "texte_orig": "Maya-san...[1205][001E][SP]You[SP]really[SP]need[SP]to[SP]stop[SP]smiling\nwhen[SP]you're[SP]boiling[SP]over[SP]with[SP]rage...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 43,
+    "offset": 180546,
+    "slot_size": 226,
+    "data_size": 222,
+    "nom_orig": "Maya",
+    "texte_orig": "[U+1113]-kun,[SP]isn't[SP]that[SP]the[SP]door[SP]we[SP]came\nthrough[SP]a[SP]minute[SP]ago?[SP]Let's[SP]try[SP]going[SP]out\nthrough[SP]the[SP]other[SP]door.",
+    "nom_fr": "",
+    "texte_fr": ""
+  }
+]

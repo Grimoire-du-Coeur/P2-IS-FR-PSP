@@ -1,0 +1,632 @@
+[
+  {
+    "id": 0,
+    "offset": 366030,
+    "slot_size": 266,
+    "data_size": 262,
+    "nom_orig": "School[SP]paper[SP]writer",
+    "texte_orig": "Our[SP]editor,[SP]who[SP]went[SP]to[SP]go[SP]investigate[SP]the\nlinks[SP]between[SP]the[SP]emblem[SP]curse[SP]and[SP]Cuss[SP]High,\nisn't[SP]back[SP]yet...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 1,
+    "offset": 366296,
+    "slot_size": 186,
+    "data_size": 182,
+    "nom_orig": "Female[SP]student",
+    "texte_orig": "Miyabi[SP]Hanakouji[SP]was[SP]the[SP]school[SP]paper's[SP]editor,\nnow[SP]that[SP]I[SP]think[SP]of[SP]it.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 2,
+    "offset": 366482,
+    "slot_size": 366,
+    "data_size": 362,
+    "nom_orig": "Female[SP]student",
+    "texte_orig": "Don't[SP]worry.[SP]I'm[SP]sure[SP]she's[SP]somewhere[SP]dozing\noff[SP]again.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nH-Hey...![1205][001E][SP]Did[SP]you[SP]just[SP]say[SP][1432][NULL][NULL][0014]Miyabi[SP]Hanakouji[1432][NULL][NULL][0014]?\nYou[SP]know[SP]Hanakouji-san!?[1205][001E][SP]Tell[SP]me!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 3,
+    "offset": 366848,
+    "slot_size": 260,
+    "data_size": 256,
+    "nom_orig": "School[SP]paper[SP]writer",
+    "texte_orig": "M-Miyabi[SP]Hanakouji[SP]is[SP]a[SP]student[SP]here...[1205][001E]\nShe[SP]said[SP]she[SP]was[SP]heading[SP]to[SP]Cuss[SP]High.\nDid[SP]you[SP]see[SP]her[SP]there?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 4,
+    "offset": 367108,
+    "slot_size": 102,
+    "data_size": 98,
+    "nom_orig": "Eikichi",
+    "texte_orig": "No...[SP]Just[SP]some[SP]fatty[SP]called[SP]Kozy...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 5,
+    "offset": 367210,
+    "slot_size": 116,
+    "data_size": 112,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Wow...[1205][001E][SP]So[SP]Hanakouji-san[SP]goes[SP]to[SP]Sevens...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 6,
+    "offset": 367326,
+    "slot_size": 62,
+    "data_size": 58,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Haha...[1205][001E][SP]Wow...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 7,
+    "offset": 367388,
+    "slot_size": 150,
+    "data_size": 146,
+    "nom_orig": "Female[SP]student",
+    "texte_orig": "What?[SP]You[SP]saw[SP]Kozy...?[1205][001E][SP]Don't[SP]you[SP]know?[1205][001E]\nKozy[SP]is...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 8,
+    "offset": 367538,
+    "slot_size": 104,
+    "data_size": 100,
+    "nom_orig": "Eikichi",
+    "texte_orig": "What!?[1205][001E][SP]Ohhh...[SP]So[SP]you[SP]know[SP]her[SP]too!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 9,
+    "offset": 367642,
+    "slot_size": 192,
+    "data_size": 188,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Hanakouji-san[SP]isn't[SP]a[SP]raging[SP]bull[SP]like[SP]you.\nShe's[SP]a[SP]slim,[SP]beautiful,[SP]classy[SP]lady!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 10,
+    "offset": 367834,
+    "slot_size": 52,
+    "data_size": 48,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Isn't[SP]she!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 11,
+    "offset": 367886,
+    "slot_size": 126,
+    "data_size": 122,
+    "nom_orig": "School[SP]paper[SP]writer[SP]&[SP]Female[SP]student",
+    "texte_orig": "S-Slim?[SP]Beautiful!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 12,
+    "offset": 368012,
+    "slot_size": 84,
+    "data_size": 80,
+    "nom_orig": "Eikichi",
+    "texte_orig": "O-Our[SP]relationship?[SP]Well...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 13,
+    "offset": 368096,
+    "slot_size": 144,
+    "data_size": 140,
+    "nom_orig": "Eikichi",
+    "texte_orig": "She's[SP]my[SP]ex-girlfriend![1205][001E][SP]We[SP]were[SP]dating[SP]in\ngrade[SP]school!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 14,
+    "offset": 368240,
+    "slot_size": 288,
+    "data_size": 284,
+    "nom_orig": "Eikichi",
+    "texte_orig": "We[SP]broke[SP]up[SP]eventually,[SP]but[SP]I[SP]still[SP]can't\nforget[SP]her[SP]face[SP]when[SP]she[SP]cried[SP]and[SP]said,\n[1432][NULL][NULL][0014]Eikichi-kun,[SP]I[SP]can't[SP]bear[SP]to[SP]be[SP]apart![1432][NULL][NULL][0014]",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 15,
+    "offset": 368528,
+    "slot_size": 56,
+    "data_size": 52,
+    "nom_orig": "Lisa",
+    "texte_orig": "Aiyah![SP]Stooooop!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 16,
+    "offset": 368584,
+    "slot_size": 200,
+    "data_size": 196,
+    "nom_orig": "Lisa",
+    "texte_orig": "H-Hey,[SP]Undie[SP]Boss![1205][001E][SP]I[SP]know[SP]Miyabi[SP]really[SP]well...[1205][001E]\nWhat[SP]was[SP]your[SP]relationship[SP]with[SP]her?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 17,
+    "offset": 368784,
+    "slot_size": 58,
+    "data_size": 54,
+    "nom_orig": "Ginko",
+    "texte_orig": "Aiyah![SP]Stooooop!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 18,
+    "offset": 368842,
+    "slot_size": 202,
+    "data_size": 198,
+    "nom_orig": "Ginko",
+    "texte_orig": "H-Hey,[SP]Undie[SP]Boss![1205][001E][SP]I[SP]know[SP]Miyabi[SP]really[SP]well...[1205][001E]\nWhat[SP]was[SP]your[SP]relationship[SP]with[SP]her?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 19,
+    "offset": 369044,
+    "slot_size": 100,
+    "data_size": 96,
+    "nom_orig": "Lisa",
+    "texte_orig": "Gah![SP]Hold[SP]it[SP]in...[SP]Keep[SP]it[SP]together...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 20,
+    "offset": 369144,
+    "slot_size": 96,
+    "data_size": 92,
+    "nom_orig": "Lisa",
+    "texte_orig": "Sooo...[SP]Uh...[1205][001E][SP]How[SP]do[SP]you[SP]know[SP]her?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 21,
+    "offset": 369240,
+    "slot_size": 100,
+    "data_size": 96,
+    "nom_orig": "Lisa",
+    "texte_orig": "Gah![SP]Hold[SP]it[SP]in...[SP]Keep[SP]it[SP]together...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 22,
+    "offset": 369340,
+    "slot_size": 98,
+    "data_size": 94,
+    "nom_orig": "Ginko",
+    "texte_orig": "Sooo...[SP]Uh...[1205][001E][SP]How[SP]do[SP]you[SP]know[SP]her?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 23,
+    "offset": 369438,
+    "slot_size": 140,
+    "data_size": 136,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Wow...[1205][001E][SP]So[SP]Hanakouji-san[SP]is[SP]at[SP]Sevens...[1205][001E]\nJust[SP]wow...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 24,
+    "offset": 369578,
+    "slot_size": 218,
+    "data_size": 214,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Oh...[1205][001E][SP]She's[SP]not[SP]gonna[SP]pop[SP]in[SP]here[SP]all[SP]of[SP]a\nsudden,[SP]is[SP]she!?[1205][001E][SP]M-My[SP]heart[SP]couldn't[SP]take[SP]it...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 25,
+    "offset": 369796,
+    "slot_size": 270,
+    "data_size": 266,
+    "nom_orig": "Eikichi",
+    "texte_orig": "So[SP]how's[SP]Hanakouji-san[SP]been?[1205][001E][SP]Her[SP]personality?[1205][U+000F]\nStill[SP]awesome,[SP]I'm[SP]sure.[1205][U+000F][SP]Her[SP]popularity?[1205][U+000F]\nStill[SP]up[SP]there,[SP]no[SP]doubt.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 26,
+    "offset": 370066,
+    "slot_size": 288,
+    "data_size": 284,
+    "nom_orig": "Lisa",
+    "texte_orig": "His[SP]grade[SP]school[SP]crush,[SP]huh...?[1205][001E][SP]Putting[SP]aside\nwhether[SP]I[SP]believe[SP]that[SP]at[SP]all,[SP]he[SP]hasn't[SP]figured\nout[SP]yet[SP]that[SP]Kozy[SP]IS[SP]Hanakouji-san.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 27,
+    "offset": 370354,
+    "slot_size": 242,
+    "data_size": 238,
+    "nom_orig": "Lisa",
+    "texte_orig": "No[SP]wonder[SP]Miyabi[SP]told[SP]me[SP]to[SP]keep[SP]quiet.[1205][001E]\nHeheheh...[1205][001E][SP]This[SP]should[SP]be[SP]interesting.\nLet's[SP]not[SP]say[SP]anything,[SP][U+1113]!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 28,
+    "offset": 370596,
+    "slot_size": 290,
+    "data_size": 286,
+    "nom_orig": "Ginko",
+    "texte_orig": "His[SP]grade[SP]school[SP]crush,[SP]huh...?[1205][001E][SP]Putting[SP]aside\nwhether[SP]I[SP]believe[SP]that[SP]at[SP]all,[SP]he[SP]hasn't[SP]figured\nout[SP]yet[SP]that[SP]Kozy[SP]IS[SP]Hanakouji-san.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 29,
+    "offset": 370886,
+    "slot_size": 244,
+    "data_size": 240,
+    "nom_orig": "Ginko",
+    "texte_orig": "No[SP]wonder[SP]Miyabi[SP]told[SP]me[SP]to[SP]keep[SP]quiet.[1205][001E]\nHeheheh...[1205][001E][SP]This[SP]should[SP]be[SP]interesting.\nLet's[SP]not[SP]say[SP]anything,[SP][U+1113]!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 30,
+    "offset": 371130,
+    "slot_size": 114,
+    "data_size": 110,
+    "nom_orig": "Ginko",
+    "texte_orig": "Huh?[1205][001E][SP]Sheba[SP]and[SP]Mee-ho[SP]were[SP]looking[SP]for[SP]me?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 31,
+    "offset": 371244,
+    "slot_size": 166,
+    "data_size": 162,
+    "nom_orig": "Ginko",
+    "texte_orig": "Hmm...[1205][001E][SP]I[SP]don't[SP]have[SP]time[SP]for[SP]this,[SP]so[SP]I'll\nleave[SP]them[SP]alone[SP]for[SP]now.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 32,
+    "offset": 371410,
+    "slot_size": 154,
+    "data_size": 150,
+    "nom_orig": "Ginko",
+    "texte_orig": "What's[SP]up,[SP]Chinyan?[1205][001E][SP]Huh?[SP]You[SP]want[SP]to[SP]go[SP]find\nSheba[SP]and[SP]Mee-ho?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 33,
+    "offset": 371564,
+    "slot_size": 230,
+    "data_size": 226,
+    "nom_orig": "Ginko",
+    "texte_orig": "...That's[SP]okay.[1205][001E][SP]I'm[SP]sure[SP]they[SP]just[SP]want[SP]to[SP]ask\nme[SP]to[SP]go[SP]for[SP]karaoke[SP]or[SP]something[SP]stupid[SP]like\nthat...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 34,
+    "offset": 371794,
+    "slot_size": 126,
+    "data_size": 122,
+    "nom_orig": "Maya",
+    "texte_orig": "Whaaat!?[1205][001E][SP]Eikichi's[SP]ex-girlfriend[SP]goes\nto[SP]Sevens!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 35,
+    "offset": 371920,
+    "slot_size": 136,
+    "data_size": 132,
+    "nom_orig": "Maya",
+    "texte_orig": "Whoa,[SP]Eikichi,[SP]I[SP]underestimated[SP]you!\nWhooo![SP]You[SP]sly[SP]dog!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 36,
+    "offset": 372056,
+    "slot_size": 168,
+    "data_size": 164,
+    "nom_orig": "Maya",
+    "texte_orig": "...[1205][001E]Lisa[SP]has[SP]a[SP]lot[SP]of[SP]friends,[SP]right?[1205][001E]\nIt[SP]doesn't[SP]seem[SP]like...[SP]well...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 37,
+    "offset": 372224,
+    "slot_size": 272,
+    "data_size": 268,
+    "nom_orig": "Yukino",
+    "texte_orig": "Wow,[SP]so[SP]Eikichi's[SP]ex[SP]goes[SP]here...[1205][001E][SP]Wait,[SP]this\nis[SP]no[SP]time[SP]to[SP]tease[SP]him[SP]about[SP]it.[1205][001E][SP]We[SP]have[SP]to\nbreak[SP]the[SP]emblems,[SP]remember?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 38,
+    "offset": 372496,
+    "slot_size": 154,
+    "data_size": 150,
+    "nom_orig": "Yukino",
+    "texte_orig": "I[SP]think[SP]that[SP]was[SP]the[SP]last[SP]emblem[SP]in[SP]this[SP]room.[1205][001E]\nLet's[SP]move[SP]on.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 39,
+    "offset": 372650,
+    "slot_size": 278,
+    "data_size": 274,
+    "nom_orig": "Yukino",
+    "texte_orig": "Come[SP]to[SP]think[SP]of[SP]it,[SP]didn't[SP]someone[SP]say[SP]there\nwere[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge?[1205][U+000F][SP]I[SP]think\nthose'll[SP]be[SP]the[SP]last[SP]ones[SP]left.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 40,
+    "offset": 372928,
+    "slot_size": 300,
+    "data_size": 296,
+    "nom_orig": "Yukino",
+    "texte_orig": "I[SP]hope[SP]Lisa's[SP]making[SP]the[SP]right[SP]choice.[1205][001E][SP]I[SP]know\nit[SP]sounds[SP]hokey,[SP]but[SP]friendship[SP]is[SP]magic.[1205][001E]\nI[SP]know[SP]you[SP]must[SP]have[SP]friends[SP]you[SP]care[SP]about.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 41,
+    "offset": 373228,
+    "slot_size": 306,
+    "data_size": 302,
+    "nom_orig": "Yukino",
+    "texte_orig": "What's[SP]Eikichi[SP]doing[SP]alone,[SP]anyway?[1205][001E][SP]I'm[SP]starting\nto[SP]wonder[SP]if[SP]it[SP]was[SP]him[SP]who[SP]dumped[SP]his[SP]ex...\nWouldn't[SP]it[SP]have[SP]been[SP]the[SP]other[SP]way[SP]around?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 42,
+    "offset": 373534,
+    "slot_size": 284,
+    "data_size": 280,
+    "nom_orig": "Bandaged[SP]male[SP]student",
+    "texte_orig": "L-L-L-Lisa-san...[SP]Wh-Wh-When[SP]we[SP]h-h-have[SP]our\nschool[SP]f-f-festival,[SP]M-M-Miss[SP]Sevens[SP]w-w-will\ndefinitely[SP]b-b-be[SP]you!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 43,
+    "offset": 373818,
+    "slot_size": 318,
+    "data_size": 314,
+    "nom_orig": "Bandaged[SP]male[SP]student",
+    "texte_orig": "M-M-Miss[SP]Sevens[SP]is[SP]decided[SP]by[SP]b-b-beauty,\nbrains,[SP]and[SP]raw[SP]s-s-strength![SP]And[SP]you[SP]speak\nC-C-Cantonese[SP]and[SP]English![SP]You're[SP]p-perfect!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 44,
+    "offset": 374136,
+    "slot_size": 144,
+    "data_size": 140,
+    "nom_orig": "Bandaged[SP]male[SP]student",
+    "texte_orig": "L-L-L-Lisa,[SP]I[SP]know[SP]everything[SP]about[SP]you...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 45,
+    "offset": 374280,
+    "slot_size": 318,
+    "data_size": 314,
+    "nom_orig": "Bandaged[SP]male[SP]student",
+    "texte_orig": "I[SP]know[SP]you[SP]t-t-took[SP]a[SP]bad[SP]g-g-grade[SP]on[SP]your\nEnglish[SP]t-test[SP]so[SP]the[SP]others[SP]wouldn't[SP]f-feel\nbad...[SP]I[SP]know[SP]you[SP]l-l-like[SP]to[SP]be[SP]alone...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 46,
+    "offset": 374598,
+    "slot_size": 250,
+    "data_size": 246,
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "I[SP]was[SP]g-g-going[SP]to[SP]c-confess[SP]my[SP]love[SP]for\nL-L-Lisa-san[SP]when[SP]I[SP]got[SP]b-b-better...\nB-B-But[SP]I[SP]still[SP]c-can't...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 47,
+    "offset": 374848,
+    "slot_size": 212,
+    "data_size": 208,
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "Now[SP]that[SP]I'm[SP]b-back[SP]to[SP]normal,[SP]I've[SP]lost[SP]all\nmy[SP]c-c-confidence...[1205][U+000F][SP]I[SP]c-can't[SP]do[SP]it...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 48,
+    "offset": 375060,
+    "slot_size": 250,
+    "data_size": 246,
+    "nom_orig": "Bandaged[SP]female[SP]student",
+    "texte_orig": "Oh[SP]yeah,[SP]Sheba[SP]and[SP]Mee-ho[SP]were[SP]looking[SP]for[SP]you,\nLisa.[SP]Uhh,[SP]did[SP]they[SP]say[SP]where[SP]they[SP]were[SP]going?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 49,
+    "offset": 375310,
+    "slot_size": 184,
+    "data_size": 180,
+    "nom_orig": "Bandaged[SP]female[SP]student",
+    "texte_orig": "I[SP]guess[SP]they[SP]got[SP]a[SP]phone[SP]call[SP]and[SP]both[SP]rushed\nout[SP]together...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 50,
+    "offset": 375494,
+    "slot_size": 304,
+    "data_size": 300,
+    "nom_orig": "Bandaged[SP]female[SP]student",
+    "texte_orig": "Even[SP]when[SP]I[SP]tell[SP]her[SP]Sheba[SP]and[SP]Mee-ho[SP]were\nlooking[SP]for[SP]her,[SP]Lisa[SP]just[SP]says,[SP][1432][NULL][NULL][0014]Oh,[1432][NULL][NULL][0014][SP]and\ndoesn't[SP]do[SP]anything[SP]about[SP]it.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 51,
+    "offset": 375798,
+    "slot_size": 142,
+    "data_size": 138,
+    "nom_orig": "Bandaged[SP]female[SP]student",
+    "texte_orig": "She[SP]can[SP]be[SP]really[SP]cold...[SP]Is[SP]it[SP]just[SP]me?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 52,
+    "offset": 375940,
+    "slot_size": 286,
+    "data_size": 282,
+    "nom_orig": "Female[SP]student",
+    "texte_orig": "Even[SP]when[SP]I[SP]tell[SP]her[SP]Sheba[SP]and[SP]Mee-ho[SP]were\nlooking[SP]for[SP]her,[SP]Lisa[SP]just[SP]says,[SP][1432][NULL][NULL][0014]Oh,[1432][NULL][NULL][0014][SP]and\ndoesn't[SP]do[SP]anything[SP]about[SP]it.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 53,
+    "offset": 376226,
+    "slot_size": 124,
+    "data_size": 120,
+    "nom_orig": "Female[SP]student",
+    "texte_orig": "She[SP]can[SP]be[SP]really[SP]cold...[SP]Is[SP]it[SP]just[SP]me?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 54,
+    "offset": 376350,
+    "slot_size": 290,
+    "data_size": 286,
+    "nom_orig": "School[SP]paper[SP]writer",
+    "texte_orig": "I[SP]never[SP]knew[SP]our[SP]editor[SP]and[SP]the[SP]Undie[SP]Boss[SP]used\nto[SP]be[SP]lovers...[SP]How[SP]strange[SP]fate[SP]can[SP]be.\nThis[SP]is[SP]a[SP]huge[SP]scoop![SP]Hmmm...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 55,
+    "offset": 376640,
+    "slot_size": 270,
+    "data_size": 266,
+    "nom_orig": "School[SP]paper[SP]writer",
+    "texte_orig": "No,[SP]no...[SP]He's[SP]not[SP]listening[SP]to[SP]me[SP]at[SP]all!\nI[SP]want[SP]to[SP]interview[SP]him[SP]about[SP]his[SP]relationship\nwith[SP]our[SP]editor...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 56,
+    "offset": 376910,
+    "slot_size": 222,
+    "data_size": 218,
+    "nom_orig": "School[SP]paper[SP]writer",
+    "texte_orig": "I'M[SP]the[SP]interviewer[SP]here![SP]He's[SP]not[SP]answering\nanything[SP]but[SP]his[SP]own[SP]questions![SP]Hmmm...",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 57,
+    "offset": 377132,
+    "slot_size": 234,
+    "data_size": 230,
+    "nom_orig": "Female[SP]student",
+    "texte_orig": "H-How[SP]interesting...[1205][001E][SP]But[SP]why[SP]exactly[SP]did[SP]they\nbreak[SP]up[SP]in[SP]the[SP]first[SP]place?[SP]I'm[SP]dying[SP]to[SP]know!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 58,
+    "offset": 377366,
+    "slot_size": 290,
+    "data_size": 286,
+    "nom_orig": "Female[SP]student",
+    "texte_orig": "Kozy[SP]got[SP]that[SP]nickname[SP]because[SP]she[SP]kept[SP]falling\nasleep[SP]in[SP]odd,[SP]out-of-the-way[SP]places.[SP]I[SP]hear\nher[SP]family[SP]is[SP]really[SP]well-off.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 59,
+    "offset": 377656,
+    "slot_size": 126,
+    "data_size": 122,
+    "nom_orig": "Female[SP]student",
+    "texte_orig": "Kozy[SP]loves[SP]the[SP]hamburgers[SP]at[SP]Peace[SP]Diner.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 60,
+    "offset": 377782,
+    "slot_size": 266,
+    "data_size": 262,
+    "nom_orig": "Female[SP]student",
+    "texte_orig": "What?[SP]You're[SP]going[SP]there[SP]now?[SP]Huh,[SP]that[SP]means\nhe'll[SP]see[SP]her.[SP]I[SP]hope[SP]he[SP]doesn't[SP]get[SP]his[SP]hopes\ncrushed[SP]too[SP]badly.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 61,
+    "offset": 378048,
+    "slot_size": 154,
+    "data_size": 150,
+    "nom_orig": "Yukino",
+    "texte_orig": "I[SP]think[SP]that[SP]was[SP]the[SP]last[SP]emblem[SP]in[SP]this[SP]room.[1205][001E]\nLet's[SP]move[SP]on.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 62,
+    "offset": 378202,
+    "slot_size": 278,
+    "data_size": 274,
+    "nom_orig": "Yukino",
+    "texte_orig": "Come[SP]to[SP]think[SP]of[SP]it,[SP]didn't[SP]someone[SP]say[SP]there\nwere[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge?[1205][U+000F][SP]I[SP]think\nthose'll[SP]be[SP]the[SP]last[SP]ones[SP]left.",
+    "nom_fr": "",
+    "texte_fr": ""
+  }
+]
