@@ -67,13 +67,7 @@ Garde la structure, traduis uniquement le texte **entre** les codes :
 "texte_orig": "I'll let you alone.[1432][NULL][NULL][0014]He'll[1432][NULL][NULL][0014]",
 "texte_fr":   "Je te laisse.[1432][NULL][NULL][0014]Il va bien.[1432][NULL][NULL][0014]"
 ```
-> ⚠️ Ne jamais déplacer ni supprimer les `[1432]` et `[0014]` — crash garanti.
-
-### `[0002]` `[0010]` — Codes moteur internes
-Copie-les à l'identique, sans chercher à les traduire.
-
-### `[U+xxxx]` — Codes de scène inconnus
-Copie-les tels quels.
+> Pour tout questionnement sur certains code, contactez nous.
 
 ---
 
