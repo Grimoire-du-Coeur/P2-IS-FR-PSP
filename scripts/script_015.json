@@ -17,7 +17,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]used[SP]to[SP]come[SP]here[SP]about[SP]as[SP]often[SP]as[SP]I\ncame[SP]to[SP]school.[SP]When[SP]did[SP]this[SP]city[SP]get\nso[SP]messed[SP]up...?",
     "nom_fr": "Ginko",
-    "texte_fr": "Avant, je venais ici presqu'aussi souvent qu'au\nlycée.Quand est-ce que cette ville est devenu\nsi pourrie...?"
+    "texte_fr": "Avant, je venais ici autant qu'au\nlycée.\nQuand la ville est elle devenue pourrie...?"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "nom_orig": "Maya",
     "texte_orig": "A[SP]gathering...?[SP]I[SP]wonder[SP]what[SP]that's\nabout.[SP]It[SP]seems[SP]like[SP]someone[SP]summoned[SP]them\nhere...[1205][001E][SP]I[SP]don't[SP]like[SP]the[SP]sound[SP]of[SP]this.",
     "nom_fr": "Maya",
-    "texte_fr": "Un rassemblement...? Je me demande bien de quoi\nil s'agit. On dirait bien que quelqu'un les a convoqués\nici...[1205][001E] Ça ne me dit rien qui vaille."
+    "texte_fr": "Un rassemblement? Qui les a convoques ici?\n[1205][001E][SP]Ça sent mauvais."
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Eikichi's[SP]not[SP]here[SP]either.[SP]Won't[SP]he[SP]be[SP]in\ntrouble[SP]if[SP]we[SP]don't[SP]hurry[SP]and[SP]go[SP]after[SP]him?",
     "nom_fr": "Yukino",
-    "texte_fr": "Eikchi n'est pas là non plus. Il va pas avoir\ndes problèmes si on se dêpeche pas d'aller le chercher?"
+    "texte_fr": "Eikichi n'est pas là non plus. Si on tarde, il va avoir des ennuis?"
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "nom_orig": "Masked[SP]man",
     "texte_orig": "I'm[SP]glad[SP]that[SP]my[SP]leg[SP]hair[SP]is[SP]completely[SP]gone,\nbut[SP]I[SP]really[SP]hate[SP]having[SP]to[SP]come[SP]to[SP]these\ngatherings.",
     "nom_fr": "Homme masqué",
-    "texte_fr": "Je suis content que mes poils de jambes aient disparu,\nmais je déteste vraiment devoir venir à ces\nrassemblements."
+    "texte_fr": "Content que mes poils aient disparu,\nmais je déteste ces réunions."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Masked[SP]man",
     "texte_orig": "It[SP]was[SP]a[SP]shock[SP]to[SP]find[SP]that[SP]summons[SP]at[SP]the\nbottom[SP]of[SP]my[SP]boxed[SP]lunch.[SP]Feels[SP]like[SP]I'm\nbeing[SP]watched.",
     "nom_fr": "Homme masqué",
-    "texte_fr": "Ça m'a fait un choc de trouver cette convocation au\nfond de ma boîte à déjeuner. J'ai l'impression d'être\nsurveillé."
+    "texte_fr": "C'était un choc de trouver une convocation\ndans mon bento. On me surveille?"
   },
   {
     "id": 6,
@@ -67,6 +67,6 @@
     "nom_orig": "Masked[SP]woman",
     "texte_orig": "I[SP]totally[SP]had[SP]a[SP]summons[SP]in[SP]my[SP]purse[SP]too,\nyesterday?[SP]I[SP]was[SP]like,[SP]is[SP]someone[SP]stalking[SP]me?",
     "nom_fr": "Femme masquée",
-    "texte_fr": "J'ai aussi eu une convocation dans mon sac, \nhier? Je me suis dit : Quelqu'un me suit ou quoi?"
+    "texte_fr": "Moi aussi, une convocation dans mon sac\nhier. On me suit peut-etre?"
   }
 ]
