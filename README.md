@@ -18,7 +18,7 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 ## Avancement
 | Contenu               | Progression  |
 |-----------------------|--------------|
-| Scripts (dialogues)   |     1/399    |
+| Scripts (dialogues)   |     2/399    |
 | Police (accents FR)   |      ✅      |
 | Menus                 | Non commencé |
 | ...                   | Non commencé |
