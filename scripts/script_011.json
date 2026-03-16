@@ -6,8 +6,8 @@
     "data_size": 60,
     "nom_orig": "Maya",
     "texte_orig": "Hello![SP]Excuse[SP]us...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Bonjour! Excusez-nous..."
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 124,
     "nom_orig": "Maya",
     "texte_orig": "Um,[SP]we'd[SP]like[SP]to[SP]borrow[SP]the[SP]key[SP]to[SP]the\nclock[SP]tower.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Euh, on voudrait emprunter la clé de la\ntour de l'horloge."
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 44,
     "nom_orig": "Janitor",
     "texte_orig": "Hm?[SP]Key?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Concierge",
+    "texte_fr": "Hein? La clé?"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 146,
     "nom_orig": "Ginko",
     "texte_orig": "Hai![SP]The[SP]key[SP]to[SP]the[SP]clock[SP]tower!\nYou[SP]have[SP]it,[SP]right,[SP]grandpa?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Hai! La clé de la tour de l'horloge!\nVous l'avez bien, hein, papy?"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 128,
     "nom_orig": "Janitor",
     "texte_orig": "The[SP]clock[SP]tower[SP]key...[1205][001E][SP]Hmmm,[SP]where[SP]did\nI[SP]put[SP]it?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Concierge",
+    "texte_fr": "La clé de la tour de l'horloge...[1205][001E] Hmmm, où est-ce\nque je l'ai mise?"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 178,
     "nom_orig": "Eikichi",
     "texte_orig": "Alright,[SP]gramps![SP]Breathe[SP]deep[SP]and[SP]try\nto[SP]remember[SP]with[SP]me[SP]where[SP]you[SP]put[SP]it.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "Bon, Papy! Respire un bon coup et essaye\nde te rappeler avec moi où tu l'as mise."
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 170,
     "nom_orig": "Yukino",
     "texte_orig": "Who[SP]knows[SP]when[SP]this[SP]guy'll[SP]remember...\nIt'd[SP]be[SP]faster[SP]to[SP]look[SP]ourselves.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Qui sait quand ce vieux va s'en souvenir...\nOn ira plus vite en cherchant par nous mêmes"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 80,
     "nom_orig": "Ginko",
     "texte_orig": "UGH![SP]I[SP]don't[SP]see[SP]it[SP]anywhere!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "RAH! Je la vois nulle part!"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 86,
     "nom_orig": "Maya",
     "texte_orig": "Oh[SP]man...[SP]Then[SP]what[SP]should[SP]we[SP]do?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Oh la la... Alors on fait quoi maintenant?"
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 132,
     "nom_orig": "Eikichi",
     "texte_orig": "By[SP]the[SP]way,[SP]gramps.[SP]I[SP]keep[SP]wondering...\nWhat's[SP]that?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "Au fait, papy. J'arrête pas de me demander...\nC'est quoi ça?"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 86,
     "nom_orig": "Janitor",
     "texte_orig": "Hm?[SP]Why,[SP]it[SP]looks[SP]like[SP]a[SP]key.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Concierge",
+    "texte_fr": "Hein? Mais on dirait une clé."
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 134,
     "nom_orig": "Eikichi",
     "texte_orig": "Uhh...[SP]The[SP]tag[SP]on[SP]it[SP]says...\nClock...[1205][U+000A][SP]Tow...[1205][U+000A]er...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "Euh... l'étiquette dit...\nHor...[1205][U+000A] loge...[1205][U+000A]..."
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 160,
     "nom_orig": "Eikichi",
     "texte_orig": "Hot[SP]diggity![SP]I[SP]found[SP]us[SP]the[SP]key.\nNow[SP]let's[SP]get[SP]to[SP]that[SP]clock[SP]tower!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "Putain ouais! J'ai trouvé la clé.\nMaintenant, allons à cette tour de l'horloge!"
   },
   {
     "id": 13,
@@ -136,8 +136,8 @@
     "data_size": 214,
     "nom_orig": "Eikichi",
     "texte_orig": "What's[SP]up,[SP][U+1113]?[SP]Gramps[SP]and[SP]I[SP]are\nhaving[SP]a[SP]man-to-man[SP]chat[SP]here.[SP]Stick\nyour[SP]nose[SP]someplace[SP]else.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "Quoi de neuf, [U+1113]? Papy et moi on est\nen train d'avoir une discussion d'homme à homme.\nFous-moi la paix, va voir ailleurs."
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 56,
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]So[SP]musty!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Aiyah! Ça sent le renfermer!"
   },
   {
     "id": 15,
@@ -156,8 +156,8 @@
     "data_size": 180,
     "nom_orig": "Ginko",
     "texte_orig": "Geez![SP]Have[SP]these[SP]futons[SP]been[SP]aired[SP]out\nthis[SP]decade!?[SP]I[SP]don't[SP]see[SP]any[SP]key[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Purée! On a aéré ces futons cette\ndecennie ou quoi? Je vois pas de clé ici."
   },
   {
     "id": 16,
@@ -166,8 +166,8 @@
     "data_size": 36,
     "nom_orig": "Maya",
     "texte_orig": "Whoa![1205][001E]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Waouh![1205][001E]"
   },
   {
     "id": 17,
@@ -176,8 +176,8 @@
     "data_size": 212,
     "nom_orig": "Maya",
     "texte_orig": "This[SP]dresser[SP]is[SP]full[SP]to[SP]bursting[SP]with\ncutouts[SP]and[SP]glossies[SP]of[SP]that[SP]actress\nSaiyuri[SP]Yoshikawa...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Cette commode est pleine à craquer de\ncoupures de presse et de magazines de cette\nactrice, Saiyuri Yoshikawa..."
   },
   {
     "id": 18,
@@ -186,8 +186,8 @@
     "data_size": 244,
     "nom_orig": "Yukino",
     "texte_orig": "No[SP]key[SP]here,[SP]but[SP]plenty[SP]of[SP]side[SP]dishes.[1205][001E]\nWhatever[SP]she[SP]says,[SP]that[SP]lady[SP]seems[SP]to[SP]be\ntaking[SP]good[SP]care[SP]of[SP]gramps.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Pas de clé ici, mais pleins de plats cuisinés.[1205][001E]\nQuoi qu'elle en dise, cette dame a l'air de bien s'occuper du papy."
   },
   {
     "id": 19,
@@ -196,8 +196,8 @@
     "data_size": 168,
     "nom_orig": "Caretaker",
     "texte_orig": "Hohoho![SP]This[SP]man[SP]loses[SP]things[SP]so\neasily.[SP]It's[SP]not[SP]easy,[SP]getting[SP]old.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gardienne",
+    "texte_fr": "Hohoho! Cet homme perd ses affaires si\nfacilement. C'est pas facile de vieillir."
   },
   {
     "id": 20,
@@ -206,7 +206,7 @@
     "data_size": 1644,
     "nom_orig": "Janitor",
     "texte_orig": "The[SP]key...[SP]the[SP]key...[SP]I[SP]feel[SP]like[SP]I\nalways[SP]see[SP]it[SP]around...[SP]Oh[SP]well,\nI[SP]oughtta[SP]eat[SP]my[SP]dinner.[E1][E2][E3]>[SP]It's[SP]a[SP]poster[SP]of[SP]the[SP]legendary[SP]actress\nSaiyuri[SP]Yoshikawa.[SP]The[SP]area[SP]around[SP]her\nlips[SP]is[SP]worn[SP]for[SP]some[SP]reason...[E1][E2][E3]>[SP]It's[SP]a[SP]calendar[SP]of[SP]the[SP]legendary[SP]actress\nSaiyuri[SP]Yoshikawa...[SP]from[SP]30[SP]years[SP]ago!\nThe[SP]area[SP]around[SP]her[SP]lips[SP]is[SP]oddly[SP]worn...[E1][E2][E3]>[SP]There[SP]are[SP]thick[SP]ropes[SP]and[SP]candles[SP]in\nthe[SP]box...[SP]For[SP]emergencies,[SP]you[SP]hope.[E1][E2][E3]>[SP]There[SP]are[SP]thick[SP]ropes[SP]and[SP]candles[SP]in\nthe[SP]box...[SP]For[SP]emergencies,[SP]you[SP]hope.[E1][E2][E3]>[SP]It's[SP]an[SP]old[SP]TV.[1205][001E][SP]It[SP]even[SP]uses[SP]a[SP]dial\nto[SP]change[SP]channels.[E1][E2][E3]>[SP]Hidden[SP]amongst[SP]the[SP]pictures[SP]of[SP]Saiyuri\nYoshikawa[SP]in[SP]the[SP]drawer...[1205]<[SP]were[SP]more\ncutouts[SP]of[SP]the[SP]same[SP]actress.[E1][E2][E3]>[SP]The[SP]fridge[SP]is[SP]full[SP]of[SP]side[SP]dishes[SP]with\nplastic[SP]wrap[SP]covering[SP]them.[E1][E2][E3]>[SP]There's[SP]nothing[SP]in[SP]the[SP]cabinet.[E1][E2][E3]\n>[SP]There[SP]are[SP]futons[SP]in[SP]the[SP]closet.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Concierge",
+    "texte_fr": "La clé... La clé... J'ai l'impression de la\nvoir tout le temps... Tant pis,\nje devrais manger mon diner.[E1][E2][E3]> C'est un poster de l'actrice légendaire\nSaiyuri Yoshikawa. La zone autour de ses\nlevres est usé pour une raison inconnue...[E1][E2][E3]> C'est un calendrier de l'actrice légendaire\nSaiyuri Yoshikawa... d'il y a 30 ans!\nLa zone autour de ses lèvres est étrangement usé...[E1][E2][E3]> Il y a des cordes épaisses et des bougies dans\nla boite... Pour les urgences, on veut croire.[E1][E2][E3]> C'est une vieille TV.[1205][001E] Elle a même un bouton\npour changer les chaînes.[E1][E2][E3]> Cachées parmi les photos de Saiyuri\nYoshikawa dans le tiroir...[1205]< il y avait d'autres\ncoupures de la même actrice.[E1][E2][E3]> Le frigo est plein de plats cuisinés avec\ndu film plastique dessus.[E1][E2][E3]> Il n'y a rien dans le placard.[E1][E2][E3]\n> Il y a des futons dans le placard."
   }
 ]
