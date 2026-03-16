@@ -4,17 +4,26 @@
 Projet de traduction française amateur de Persona 2: Innocent Sin sur PSP.
 Ce dépôt contient les outils pour extraire, traduire et réinjecter les scripts du jeu.
 
-> ⚠️ Ce projet ne distribue aucun fichier du jeu. 
+> ⚠️ Ce projet ne distribue aucun fichier du jeu.
 > Vous devez posséder votre propre ISO européenne (ULES01557).
 
+---
+
 ## 📺 Vidéo de présentation
-
 🎬 **[Clique ici pour voir la vidéo](https://youtu.be/wxEEJYjx2Sw)**
-
-
-
 ![Miniature](https://img.youtube.com/vi/wxEEJYjx2Sw/maxresdefault.jpg)
 
+---
+
+## Avancement
+| Contenu               | Progression  |
+|-----------------------|--------------|
+| Scripts (dialogues)   |     1/399    |
+| Police (accents FR)   |      ✅      |
+| Menus                 | Non commencé |
+| ...                   | Non commencé |
+
+---
 
 ## Pipeline complet
 ```
@@ -48,37 +57,27 @@ python p2is_tool.py
 ```
 
 ### Utilisation
-
 Lance `p2is_tool.py` et suis les 3 onglets dans l'ordre :
-
 1. **Pipeline Extraction** — charge ton ISO et extrais les scripts en JSON en 4 clics
 2. **Traduction** — encode tes JSON traduits en `.bin`
 3. **Rebuild ISO** — réinjecte tout et génère l'ISO FR jouable
-
-## Avancement
-
-| Contenu               | Progression  |
-|-----------------------|--------------|
-| Scripts (dialogues)   |     1/399    |
-| Police (accents FR)   |      ✅      | 
-| Menus                 | Non commencé |
-| ...                   | Non commencé |
 
 ### Outils tiers utilisés
 - [UMDGen](https://www.romhacking.net/utilities/1218/) — manipulation ISO PSP
 - [CriFsLib](https://github.com/Sewer56/CriFsV2Lib) — extraction CPK
 - [PPSSPP](https://www.ppsspp.org/) — émulation PSP pour les tests
 
-## Inspirations & Références
+---
 
-- [P2-EP-PSP](https://github.com/sayucchin/P2-EP-PSP) par **sayucchin & équipe** — 
-  projet de traduction de Persona 2: Eternal Punishment PSP.  
+## Inspirations & Références
+- [P2-EP-PSP](https://github.com/sayucchin/P2-EP-PSP) par **sayucchin & équipe** —
+  projet de traduction de Persona 2: Eternal Punishment PSP.
   L'analyse de leur code source (event.rs, main.rs) nous a permis de comprendre la structure de event.bin (gzip + table d'offsets). Nos outils ont été développés indépendamment en Python.
 
+---
+
 ## Contact & Contribuer
-
 Tu veux aider à traduire, tester, ou juste suivre l'avancement ?
-
 - **Discord serveur** : [Rejoindre](https://discord.gg/rd4ckSWHNm)
 - **Discord perso** : `@chenetulipe`
 - **GitHub Issues** : pour signaler un bug ou proposer une amélioration
@@ -89,16 +88,18 @@ Tu veux aider à traduire, tester, ou juste suivre l'avancement ?
 - @GarloulouLeAsriel
 - **Atlus** — Persona 2: Innocent Sin (© Atlus)
 
-## Licence & Avertissement légal
+---
 
-Ce projet est sous licence **[CC BY-NC-SA 4.0](LICENSE)** — libre d'utilisation et de modification, 
+## Licence & Avertissement légal
+Ce projet est sous licence **[CC BY-NC-SA 4.0](LICENSE)** — libre d'utilisation et de modification,
 interdit à la vente, attribution obligatoire.
 
 Persona 2: Innocent Sin est © Atlus. Ce projet est une traduction amateur à but non lucratif.
 Aucun fichier du jeu n'est distribué. Vous devez posséder votre propre copie du jeu.
 
-## Star History
+---
 
+## Star History
 <a href="https://www.star-history.com/?repos=chenetulipe%2FP2-FR-IS-PSP&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=chenetulipe/P2-FR-IS-PSP&type=date&theme=dark&legend=top-left" />
