@@ -37,7 +37,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "I[SP]was[SP]so[SP]sure[SP]Principal[SP]Hanya[SP]would[SP]be\nable[SP]to[SP]handle[SP]this[SP]curse[SP]stuff,[SP]too!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "J'étais sûre que le proviseur Hanya\npourrait gérer cette histoire de\nmalédiction lui aussi !"
+    "texte_fr": "J'étais sûre que le proviseur\nHanya règlerait cette histoire!"
   },
   {
     "id": 4,
@@ -97,7 +97,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Serves[SP]you[SP]right[SP]for[SP]coming[SP]to[SP]Sevens\nwith[SP]a[SP]Cuss[SP]High[SP]emblem[SP]on!",
     "nom_fr": "Lisa",
-    "texte_fr": "C'est bien fait, venir à Sevens\navec l'emblème de Kasu sur le dos !"
+    "texte_fr": "Bien fait de venir à Sevens\navec l'emblème de Kasu!"
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]take[SP]some[SP]responsibility[SP]and[SP]do\nsomething[SP]about[SP]this!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Alors prends tes responsabilités\net fais quelque chose !"
+    "texte_fr": "Prends tes responsabilités\net règle ça!"
   },
   {
     "id": 12,
@@ -147,7 +147,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Undie[SP]Boss![SP]Undie[SP]Boss!",
     "nom_fr": "Lisa",
-    "texte_fr": "Boss des Calbutes ! Boss des Calbutes !"
+    "texte_fr": "Boss des Calbutes!"
   },
   {
     "id": 15,
@@ -157,7 +157,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That's[SP]rich,[SP]coming[SP]from[SP]you![SP]You're[SP]a\nfrickin'[SP]white[SP]girl[SP]but[SP]you[SP]talk[SP]Japanese,\nwhen[SP]you're[SP]not[SP]spouting[SP]nonsense[SP]words!",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est l'hôpital qui se fout de la\ncharité ! T'es une étrangère mais tu\nparles japonais, quand tu sors pas des\nmots qui veulent rien dire !"
+    "texte_fr": "L'hôpital qui se fout de la charité!\nT'es étrangère mais tu parles japonais,\nquand tu sors pas des mots bidons!"
   },
   {
     "id": 16,
@@ -187,7 +187,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Fanna![SP]No[SP]you[SP]don't![SP]You're[SP]not[SP]saddling\nme[SP]with[SP]a[SP]lame[SP]nickname[SP]like[SP]that!",
     "nom_fr": "Ginko",
-    "texte_fr": "N'importe quoi ! Pas question !\nTu vas pas me coller un surnom\naussi naze !"
+    "texte_fr": "N'importe quoi! Pas question!\nTu vas pas me coller un surnom naze!"
   },
   {
     "id": 19,
@@ -197,7 +197,7 @@
     "nom_orig": "???",
     "texte_orig": "Ooh![SP]Now[SP]what[SP]have[SP]we[SP]here?[E1][E2]\n[E3][E4][NULL][NULL]\"???\nCiaaao![SP]Wait[SP]a[SP]sec...",
     "nom_fr": "???",
-    "texte_fr": "Oh ! Mais que voyons-nous là ?[E1][E2]\n[E3][E4][NULL][NULL]\"???\nCiaaao ! Attendez une seconde..."
+    "texte_fr": "Oh! Qu'avons-nous là?[E1][E2]\n[E3][E4][NULL][NULL]\"???\nCiaaao! Attendez!"
   },
   {
     "id": 20,
@@ -217,7 +217,7 @@
     "nom_orig": "Eikichi[SP]&[SP]Ginko",
     "texte_orig": "How[SP]is[SP]this[SP]a[SP]lover's[SP]quarrel!?",
     "nom_fr": "Eikichi & Ginko",
-    "texte_fr": "C'est quoi cette histoire de scène\nde ménage !?"
+    "texte_fr": "Une scène de ménage!?"
   },
   {
     "id": 22,
@@ -227,7 +227,7 @@
     "nom_orig": "Eikichi[SP]&[SP]Ginko",
     "texte_orig": "...Wait,[SP]who're[SP]you?",
     "nom_fr": "Eikichi & Ginko",
-    "texte_fr": "... Attends, t'es qui toi ?"
+    "texte_fr": "Attends, t'es qui?"
   },
   {
     "id": 23,
@@ -237,7 +237,7 @@
     "nom_orig": "???",
     "texte_orig": "At[SP]times,[SP]I'm[SP]an[SP]ambitious[SP]reporter!\nOther[SP]times,[SP]a[SP]mild-mannered[SP]editor!\nBut[SP]my[SP]true[SP]identity[SP]is...",
     "nom_fr": "???",
-    "texte_fr": "Parfois reporter ambitieuse !\nD'autres fois éditrice des plus calmes !\nMais ma véritable identité est..."
+    "texte_fr": "Tantôt reporter ambitieuse!\nTantôt éditrice calme! Mais\nma véritable identité est..."
   },
   {
     "id": 24,
@@ -267,7 +267,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Really!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est vrai !?"
+    "texte_fr": "Vrai!?"
   },
   {
     "id": 27,
@@ -277,7 +277,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Great![SP]Here,[SP]babe,[SP]take[SP]my[SP]picture[SP]for\nthe[SP]cover[SP]of[SP]the--",
     "nom_fr": "Eikichi",
-    "texte_fr": "Génial ! Tiens, beauté, prends-moi en\nphoto pour la couv du--"
+    "texte_fr": "Génial! Beauté, prends-moi en\nphoto pour la couv du--"
   },
   {
     "id": 28,
@@ -347,7 +347,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Right,[SP][U+1113]?",
     "nom_fr": "Ginko",
-    "texte_fr": "Pas vrai, [U+1113] ?"
+    "texte_fr": "Vrai, [U+1113]?"
   },
   {
     "id": 35,
@@ -357,7 +357,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hmmmmm...[1205][001E][SP]I'm[SP]not[SP]sure[SP]I[SP]buy[SP]that.",
     "nom_fr": "Maya",
-    "texte_fr": "Hmmmmm...[1205][001E] Je suis pas sûre\nde vous croire."
+    "texte_fr": "Hum...[1205][001E] J'y crois\npas trop."
   },
   {
     "id": 36,
@@ -367,7 +367,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "True[SP]stories,[SP]babes![SP]We're[SP]not[SP]looking\nfor[SP]Sevens'[SP]principal[SP]and[SP]we[SP]certainly\nnever[SP]got[SP]stomped[SP]by[SP]any[SP]Joker!",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est la vérité, les beautés ! On cherche\npas le proviseur de Sevens et on s'est\njamais fait rétamer par un Joker !"
+    "texte_fr": "C'est vrai! On cherche pas le\nproviseur et on s'est jamais\nfait rétamer par Joker!"
   },
   {
     "id": 37,
@@ -377,7 +377,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Stomped...?[1205][001E][SP]So[SP]you[SP]kids[SP]DO[SP]know[SP]something!",
     "nom_fr": "Yukino",
-    "texte_fr": "Rétamer... ?[1205][001E] Donc vous savez\nBIEN quelque chose !"
+    "texte_fr": "Rétamer?[1205][001E] Donc vous savez\nquelque chose!"
   },
   {
     "id": 38,
@@ -407,6 +407,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "Now[SP]hurry[SP]and[SP]fess[SP]up,[SP]or[SP]I'll[SP]make\nyou[SP]regret[SP]it!",
     "nom_fr": "Yukino",
-    "texte_fr": "Allez, crachez le morceau,\nou vous allez le regretter !"
+    "texte_fr": "Crachez le morceau, ou\nvous allez le regretter!"
   }
 ]
