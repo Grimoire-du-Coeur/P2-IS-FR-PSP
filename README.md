@@ -24,7 +24,7 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 | ...                   | Non commencé |
 
 ### Outil dédié au projet
-- [JsonVerify](https://github.com/Garloulou/JsonVerify) par **@Garloulou** — outil de validation des fichiers JSON traduits avant réinjection
+- [JsonVerify](https://github.com/Garloulou/JsonVerify) par **@Garloulou** — outil de validation des fichiers JSON traduits
 
 ---
 
