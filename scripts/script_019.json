@@ -6,8 +6,8 @@
     "data_size": 134,
     "nom_orig": "Leader",
     "texte_orig": "Bluhhh![SP]I-I'm[SP]zorry...[1205][001E][SP]J-Just[SP]dun[SP]yank\nmuh[SP]pansssss!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Leader",
+    "texte_fr": "Bleuuuh! D-Désolé...[1205][001E] B-Baisse pas\nmon froc!"
   },
   {
     "id": 1,
@@ -16,18 +16,18 @@
     "data_size": 282,
     "nom_orig": "Eikichi",
     "texte_orig": "I've[SP]got[SP]no[SP]right[SP]to[SP]act[SP]all[SP]superior[SP]about\nwhat[SP]Hiroki[SP]did.[SP]There's[SP]no[SP]difference[SP]between\nthat[SP]and[SP]what[SP]I've[SP]done,[SP]not[SP]really.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "J'ai pas le droit de faire le malin\nface à Hiroki. Y a pas de différence\nentre ça et ce que j'ai fait, en vrai."
   },
-  {
+ {
     "id": 2,
     "offset": 340510,
     "slot_size": 230,
     "data_size": 226,
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]acted[SP]like[SP]a[SP]big[SP]hero,[SP]ordering[SP]my[SP]guys\nnot[SP]to[SP]pick[SP]on[SP]the[SP]weak...[SP]But[SP]that[SP]was[SP]all\njust[SP]a[SP]front.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "J'ai joué au héros, ordonnant à\nmes gars de pas harceler les faibles...\nMais c'était qu'une façade."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 238,
     "nom_orig": "Eikichi",
     "texte_orig": "Really,[SP]it[SP]was[SP]just[SP]an[SP]excuse[SP]to[SP]beat[SP]people\nup[SP]with[SP]my[SP]Persona...[1205][001E][SP]And[SP]that[SP]ain't[SP]how[SP]a\nman[SP]should[SP]act!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "C'était juste une excuse pour\nfrapper les gens avec ma Persona...[1205][001E]\nC'est pas digne d'un homme!"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 178,
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah!?[SP]What[SP]happened[SP]to[SP]the[SP]usual,[SP]self-\ncentered,[SP]heedless[SP]goon[SP]we[SP]all[SP]know?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Aiya!? Qu'est-il arrivé au\ngros con égoïste et\ninsouciant qu'on connaît tous?"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 198,
     "nom_orig": "Ginko",
     "texte_orig": "If[SP]nothing[SP]else,[SP]that[SP]stuff[SP]you[SP]said[SP]a[SP]second\nago[SP]was...[1205][001E][SP]Uhh...[SP]I-It[SP]was[SP]pretty[SP]cool!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "En tout cas, ce que tu as dit\nà l'instant était...[1205][001E]\nEuh... C-C'était plutôt cool!"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 166,
     "nom_orig": "Maya",
     "texte_orig": "Mmhm![SP]Even[SP]without[SP]your[SP]Persona,[SP]you[SP]were\nbrave[SP]back[SP]there,[SP]Eikichi-kun!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Mmhm! Même sans ta Persona,\ntu as été très courageux, Michel!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 172,
     "nom_orig": "Eikichi",
     "texte_orig": "Sorry[SP]for[SP]being[SP]so[SP]mopey...[1205][001E][SP]Anyway,[SP]I'm[SP]done\nbeing[SP]Boss,[SP]starting[SP]now.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "Désolé d'être si mou...[1205][001E]\nBref, j'arrête d'être\nle Boss à présent."
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 164,
     "nom_orig": "Eikichi",
     "texte_orig": "Uhh,[SP]Hanakouji-san?[SP]Are[SP]you...[SP]well,[SP]I[SP]guess\nyou're[SP]not[SP]okay,[SP]huh...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "Euh, Hanakouji-san? Tu es...\nbon, je suppose que ça\nva pas, hein..."
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 190,
     "nom_orig": "Miyabi",
     "texte_orig": "I'm[SP]sorry,[SP]Eikichi-kun![SP]I'm...[1205][001E][SP]I'm[SP]so[SP]sorry\nto[SP]have[SP]caused[SP]you[SP]all[SP]this[SP]trouble!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Miyabi",
+    "texte_fr": "Désolée, Michel! Je...[1205][001E]\nJe suis vraiment désolée d'avoir\ncausé tous ces ennuis!"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 130,
     "nom_orig": "Eikichi",
     "texte_orig": "Don't[SP]worry[SP]about[SP]it.[SP]The[SP]cut[SP]on[SP]your\nface,[SP]is[SP]it--",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "T'en fais pas. La coupure\nsur ton visage, c'est--"
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 112,
     "nom_orig": "Miyabi",
     "texte_orig": "No![SP]Don't[SP]look,[SP]Eikichi-kun...[1205][001E][SP]I'm[SP]sorry!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Miyabi",
+    "texte_fr": "Non! Regarde pas, Michel...[1205][001E]\nPardon!"
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 58,
     "nom_orig": "Eikichi",
     "texte_orig": "Hanakouji-san!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "Hanakouji-san!?"
   },
   {
     "id": 13,
@@ -136,8 +136,8 @@
     "data_size": 260,
     "nom_orig": "Yukino",
     "texte_orig": "Alright,[SP]time[SP]to[SP]spill[SP]it[SP]all.[SP]If[SP]you[SP]don't,\nyou're[SP]gonna[SP]find[SP]there's[SP]way[SP]worse[SP]than\ngetting[SP]your[SP]pants[SP]pulled[SP]down.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Bien, il est temps de tout cracher.\nSinon tu vas voir qu'il y a\nbien pire que de te faire\nbaisser ton froc."
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 136,
     "nom_orig": "Leader",
     "texte_orig": "Eep![SP]I-I'll[SP]talk,[SP]I'll[SP]talk![SP]What[SP]do[SP]you\nwant[SP]to[SP]know!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Leader",
+    "texte_fr": "Eep! J-Je parlerai, promis!\nQue voulez-vous savoir!?"
   },
   {
     "id": 15,
@@ -156,8 +156,8 @@
     "data_size": 188,
     "nom_orig": "Yukino",
     "texte_orig": "Why'd[SP]you[SP]order[SP]your[SP]stooges[SP]to[SP]spread[SP]a\nrumor[SP]that[SP]the[SP]Sevens[SP]emblem[SP]was[SP]cursed?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Pourquoi ordonner de répandre\nla rumeur que l'emblème\ndes Sept Sœurs est maudit?"
   },
   {
     "id": 16,
@@ -166,8 +166,8 @@
     "data_size": 290,
     "nom_orig": "Leader",
     "texte_orig": "Th-The[SP]student[SP]council[SP]president[SP]asked[SP]me[SP]to!\nHe[SP]said[SP]he'd[SP]make[SP]me[SP]Leader[SP]with[SP]Master[SP]Joker's\npowers[SP]if[SP]I[SP]ruined[SP]Sevens'[SP]reputation!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Leader",
+    "texte_fr": "Le président des élèves l'a demandé!\nIl a dit me nommer Leader avec les\npouvoirs de Maître Joker\nsi je ruinais leur réputation!"
   },
   {
     "id": 17,
@@ -176,8 +176,8 @@
     "data_size": 182,
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]Yasuo...[1205][001E][SP]I[SP]turned[SP]him[SP]down,[SP]so[SP]he\nwent[SP]with[SP]the[SP]next[SP]name[SP]on[SP]his[SP]list!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "Ce Yasuo...[1205][001E] Je l'ai\nrejeté, alors il a pris\nle nom suivant sur sa liste!"
   },
   {
     "id": 18,
@@ -186,8 +186,8 @@
     "data_size": 222,
     "nom_orig": "Maya",
     "texte_orig": "The[SP]people[SP]here[SP]said[SP]something[SP]about[SP]a\n[1432][NULL][NULL][0014]gathering[1432][NULL][NULL][0014][SP]going[SP]on[SP]today.[SP]What[SP]did[SP]they\nmean[SP]by[SP]that?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Des gens ont parlé d'un\n[1432][NULL][NULL][0014]rassemblement[1432][NULL][NULL][0014] aujourd'hui.\nQu'est-ce qu'ils voulaient\ndire par là?"
   },
   {
     "id": 19,
@@ -196,8 +196,8 @@
     "data_size": 294,
     "nom_orig": "Leader",
     "texte_orig": "There's[SP]an[SP]organization[SP]you[SP]have[SP]to[SP]join[SP]once\nMaster[SP]Joker[SP]grants[SP]your[SP]ideal.[SP]I[SP]heard[SP]the\ngathering[SP]was[SP]an[SP]initiation[SP]ceremony[SP]for[SP]it.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Leader",
+    "texte_fr": "Il y a une orga à rejoindre quand\nMaître Joker exauce ton vœu.\nJ'ai entendu que ce rassemblement\nétait une cérémonie d'initiation."
   },
   {
     "id": 20,
@@ -206,8 +206,8 @@
     "data_size": 266,
     "nom_orig": "Leader",
     "texte_orig": "Wh-Which[SP]reminds[SP]me...[1205][001E][SP]I[SP]also[SP]heard[SP]that[SP]one\nof[SP]their[SP]executives,[SP][1432][NULL][NULL][0014]Lady[SP]Scorpio,[1432][NULL][NULL][0014][SP]was[SP]gonna\nbe[SP]at[SP]the[SP]gathering.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Leader",
+    "texte_fr": "C-Ce qui me rappelle...[1205][001E] J'ai aussi\nentendu qu'un de leurs cadres,\n[1432][NULL][NULL][0014]Dame Scorpion,[1432][NULL][NULL][0014] serait à\nce rassemblement."
   },
   {
     "id": 21,
@@ -216,8 +216,8 @@
     "data_size": 208,
     "nom_orig": "Leader",
     "texte_orig": "This[SP]was[SP]gonna[SP]be[SP]my[SP]first[SP]time[SP]going,\nso[SP]that's[SP]really[SP]all[SP]I[SP]know![SP]C'mon,[SP]just\nlemme[SP]go...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Leader",
+    "texte_fr": "C'était censé être ma première\nfois, c'est tout ce que je sais!\nAllez, laissez-moi filer..."
   },
   {
     "id": 22,
@@ -226,7 +226,7 @@
     "data_size": 276,
     "nom_orig": "Eikichi",
     "texte_orig": "Looks[SP]like[SP]you're[SP]telling[SP]the[SP]truth...[1205][001E]\nAlright,[SP]you're[SP]off[SP]the[SP]hook.[SP]But[SP]you[SP]better\nnot[SP]go[SP]near[SP]Joker[SP]ever[SP]again,[SP]got[SP]it!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Michel",
+    "texte_fr": "On dirait que tu dis la vérité...[1205][001E]\nOk, tu t'en tires. Mais\nt'as intérêt à ne plus jamais\nt'approcher du Joker, pigé!?"
   }
 ]
