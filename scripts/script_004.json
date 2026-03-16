@@ -7,7 +7,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "Eikichi-ku--[1205][001E]I[SP]mean,[SP]Boss-san!\nAre[SP]you[SP]okay!?",
     "nom_fr": "Kozy",
-    "texte_fr": "Eikichi-ku--[1205][001E] Enfin je veux dire, Boss-san !\nVous allez bien !?"
+    "texte_fr": "Eikichi-ku--[1205][001E] Je veux dire, Boss-san !\nVous allez bien !?"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "I[SP]knew[SP]it...![1205][001E][SP]I[SP]saw[SP]it,[SP]too.[SP]It[SP]called\nthose[SP]things[SP]Personas...?",
     "nom_fr": "Lisa",
-    "texte_fr": "J'en étais sûre... ![1205][001E] Je l'ai vu aussi. Ça\nappelait ces trucs des Personas... ?"
+    "texte_fr": "J'en étais sûre... ![1205][001E] Je l'ai vu aussi.\nÇa appelait ces trucs des Personas... ?"
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Even[SP]the[SP]part[SP]about[SP]rumors[SP]coming[SP]true,\nand[SP]the[SP]stuff[SP]about[SP]the[SP]future...?[1205][001E][SP]That's\ntoo[SP]much[SP]for[SP]it[SP]to[SP]be[SP]a[SP]coincidence.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Même la partie sur les rumeurs qui\ndeviennent réalité, et les trucs sur l'avenir... ?[1205][001E]\nÇa fait trop pour que ce soit une coïncidence."
+    "texte_fr": "Même les rumeurs qui deviennent réalité,\net les trucs sur l'avenir... ?[1205][001E]\nTrop pour que ce soit une coïncidence."
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Hey,[SP]I[SP]know...[1205][001E][SP]You[SP]wanna[SP]try[SP]the\nJoker[SP]Game?",
     "nom_fr": "Lisa",
-    "texte_fr": "Eh, je sais...[1205][001E] Tu veux essayer le\nJeu du Joker ?"
+    "texte_fr": "Eh, je sais...[1205][001E] Tu veux tenter le\nJeu du Joker ?"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]thing[SP]where[SP]you[SP]call[SP]your[SP]own[SP]cell\nand[SP]it[SP]shows[SP]up?[1205][001E][SP]Why[SP]would[SP]I[SP]want[SP]to\ntry[SP]that?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le truc où tu appelles ton propre\nportable et où il se pointe ?[1205][001E] Pourquoi je\nvoudrais essayer ça ?"
+    "texte_fr": "Le truc où t'appelles ton portable\net il se pointe ?[1205][001E] Pourquoi je\nvoudrais essayer ça ?"
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "To[SP]test[SP]if[SP]that[SP]was[SP]just[SP]a[SP]dream[SP]or\nsomething[SP]more.[1205][001E][SP]If[SP]the[SP]rumor[SP]really\ncomes[SP]true,[SP]then[SP]it[SP]was[SP]all[SP]real...",
     "nom_fr": "Lisa",
-    "texte_fr": "Pour voir si c'était juste un rêve ou\nquelque chose de plus.[1205][001E] Si la rumeur se\nréalise, alors c'était bien vrai..."
+    "texte_fr": "Pour voir si c'était un rêve ou\nautre chose.[1205][001E] Si la rumeur se\nréalise, alors c'était bien vrai..."
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I'll[SP]pass.[1205][001E][SP]There's[SP]no[SP]way[SP]all[SP]that\ncould[SP]be[SP]possible...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je passe mon tour.[1205][001E] C'est impossible que\ntout ça soit vrai..."
+    "texte_fr": "Je passe.[1205][001E] C'est impossible que\ntout ça soit vrai..."
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Well[SP]then,[SP]here[SP]goes...[1205][001E][SP]Joker,[SP]Joker,\nplease[SP]come[SP]here...",
     "nom_fr": "Lisa",
-    "texte_fr": "Bon, on y va...[1205][001E] Joker, Joker, s'il te plaît,\nviens ici..."
+    "texte_fr": "Bon, on y va...[1205][001E] Joker, Joker,\ns'il te plaît, viens ici..."
   },
   {
     "id": 12,
@@ -177,7 +177,7 @@
     "nom_orig": "Joker",
     "texte_orig": "Tell[SP]me[SP]your[SP]ideal...\n[E1][E2][E4][NULL][NULL][0010]Joker\n[SP]A[SP]masked[SP]figure[SP]rumored[SP]to[SP]grant[SP]one's\n[SP]dreams.[SP]Why[SP]he[SP]does[SP]this,[SP]and[SP]who[SP]he[SP]is,\n[SP]is[SP]a[SP]complete[SP]mystery.[E4][NULL][NULL][U+0001]",
     "nom_fr": "Joker",
-    "texte_fr": "Dites-moi votre idéal...\nJoker\nUne figure masquée censée exaucer\nles rêves. Ses motivations et son identité\nsont un mystère total."
+    "texte_fr": "Dites-moi votre idéal...\n[E1][E2][E4][NULL][NULL][0010]Joker\n Une figure masquée censée exaucer\n les rêves. Ses motivations et identité\n sont un mystère total.[E4][NULL][NULL][U+0001]"
   },
   {
     "id": 18,
@@ -187,7 +187,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "No![SP]You[SP]have[SP]to[SP]hurry[SP]and[SP]tell[SP]it[SP]your\nideals![SP]The[SP]rumor[SP]says[SP]that[SP]those[SP]who\ndon't[SP]get[SP]turned[SP]into[SP][E4][NULL][NULL][U+0006]shadowmen[E4][NULL][NULL][0002]!",
     "nom_fr": "Kozy",
-    "texte_fr": "Non ! Vous devez vite lui révéler vos\nidéaux ! La rumeur dit que ceux qui\nrefusent se changent en [E4][NULL][NULL][U+0006]hommes-ombres[E4][NULL][NULL][0002] !"
+    "texte_fr": "Non ! Vite, révélez-lui vos idéaux !\nLa rumeur dit que ceux qui refusent\ndeviennent des [E4][NULL][NULL][U+0006]hommes-ombres[E4][NULL][NULL][0002] !"
   },
   {
     "id": 19,
@@ -207,7 +207,7 @@
     "nom_orig": "Joker",
     "texte_orig": "The[SP]bet[SP]on[SP]the[SP]table[SP]was[SP]your[SP]inner,\ndreaming[SP]heart...[1205][001E][SP]In[SP]accordance[SP]with[SP]the\nritual,[SP]I[SP]will[SP]now[SP]claim[SP]the[SP]pot.",
     "nom_fr": "Joker",
-    "texte_fr": "La mise sur la table était votre cœur\nrêveur profond...[1205][001E] Conformément au\nrituel, je vais à présent réclamer le gain."
+    "texte_fr": "La mise était votre cœur rêveur...[1205][001E]\nConformément au rituel,\nje vais réclamer le gain."
   },
   {
     "id": 21,
@@ -237,7 +237,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You[SP]bastard...[1205][001E][SP]What[SP]did[SP]you[SP]do!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Espèce d'enfoiré...[1205][001E] Qu'est-ce que t'as fait !?"
+    "texte_fr": "Enfoiré...[1205][001E] Qu'est-ce que t'as fait !?"
   },
   {
     "id": 24,
@@ -247,7 +247,7 @@
     "nom_orig": "Joker",
     "texte_orig": "Ideals[SP]only[SP]cause[SP]pain[SP]to[SP]the[SP]powerless.\nI[SP]have[SP]freed[SP]them[SP]from[SP]that[SP]anguish...[1205][001E]\nBetter[SP]not[SP]to[SP]yearn[SP]for[SP]impossible[SP]dreams.",
     "nom_fr": "Joker",
-    "texte_fr": "Les idéaux ne font souffrir que les faibles.\nJe les ai libérés de cette angoisse...[1205][001E]\nMieux vaut ne pas aspirer à des rêves impossibles."
+    "texte_fr": "Les idéaux ne font souffrir que les faibles.\nJe les ai libérés de cette angoisse...[1205][001E]\nMieux vaut ne pas rêver de l'impossible."
   },
   {
     "id": 25,
@@ -257,7 +257,7 @@
     "nom_orig": "Joker",
     "texte_orig": "They[SP]are[SP]lifeless[SP]shells[SP]of[SP]dreams...[1205][001E]\nThey[SP]can[SP]be[SP]seen,[SP]but[SP]are[SP]not.[SP]They[SP]will\nbe[SP]forgotten[SP]and[SP]become[SP]true[SP]shadows.",
     "nom_fr": "Joker",
-    "texte_fr": "Ce sont des coquilles vides de rêves...[1205][001E]\nOn peut les voir, mais ils ne sont plus. Ils\nseront oubliés et deviendront de vraies ombres."
+    "texte_fr": "Ce sont des coquilles vides de rêves...[1205][001E]\nOn peut les voir, mais ils ne sont plus.\nOubliés, ils deviendront de vraies ombres."
   },
   {
     "id": 26,
@@ -267,7 +267,7 @@
     "nom_orig": "Joker",
     "texte_orig": "But[SP]enough[SP]chitchat.[SP]I[SP]have[SP]other[SP]business\nwith[SP]you...",
     "nom_fr": "Joker",
-    "texte_fr": "Mais trêve de bavardages. J'ai d'autres\naffaires avec vous..."
+    "texte_fr": "Trêve de bavardages. J'ai d'autres\naffaires avec vous..."
   },
   {
     "id": 27,
@@ -277,6 +277,6 @@
     "nom_orig": "Lisa",
     "texte_orig": "I[SP]can't[SP]move...![1205][001E][SP]Is[SP]it[SP]the[SP]fear...!?",
     "nom_fr": "Lisa",
-    "texte_fr": "Je peux pas bouger... ![1205][001E] C'est la peur...!?"
+    "texte_fr": "Je peux pas bouger... ![1205][001E] C'est la peur... !?"
   }
 ]
