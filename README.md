@@ -14,7 +14,7 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 ![Miniature](https://img.youtube.com/vi/wxEEJYjx2Sw/maxresdefault.jpg)
 
 ---
-```markdown
+
 ## Avancement
 | Contenu               | Progression  |
 |-----------------------|--------------|
@@ -22,7 +22,7 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 | Police (accents FR)   |      ✅      |
 | Menus                 | Non commencé |
 | ...                   | Non commencé |
-```
+
 ---
 
 ## Pipeline complet
