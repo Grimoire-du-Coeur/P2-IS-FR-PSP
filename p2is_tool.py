@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Persona 2: Innocent Sin FR - Outil de traduction PSP
-Interface graphique Tkinter - Pipeline complet
-"""
-
 import threading
 import struct
 import json
@@ -902,23 +896,51 @@ class P2ISApp(ctk.CTk):
             messagebox.showinfo("Terminé",f"Fichier créé:\n{result}")
         except Exception: self._badge_enc1.set_state("err");raise
 
+
     def _do_encode_all(self):
-        jd=self.json_dir.get();bd=self._bin_dir_all.get()
-        if not jd or not bd: messagebox.showwarning("Attention","Sélectionne les deux dossiers");return
-        self._badge_enc_all.set_state("run");out_dir=self._fr_bin_out_dir()
-        self.log(f"=== Encodage de tous les JSON -> {out_dir} ===")
+        json_path = self.json_dir.get()
+        base_bin_path = self._bin_dir_all.get()
+
+        if not json_path or not base_bin_path:
+            messagebox.showwarning("Attention", "Sélectionnez les deux dossiers.")
+            return
+
+        self._badge_enc_all.set_state("run")
+        output_dir = self._fr_bin_out_dir()
+        self.log(f"=== Encodage : JSON (00x) -> BIN (x) ===")
+
         try:
-            jd=Path(jd);bd=Path(bd);ok=0
-            for jf in sorted(jd.glob("script_*.json")):
-                num=jf.stem.replace("script_","").replace("_fr","")
-                orig=bd/f"script_{num}.bin"
-                if not orig.exists(): self.log(f"  [SKIP] {jf.name}: {orig.name} introuvable");continue
-                try: encode_script(str(orig),str(jf),self.log,out_dir=out_dir);ok+=1
-                except Exception as e: self.log(f"  [ERR] {jf.name}: {e}")
-            self.log(f"Termine: {ok} scripts encodes dans {out_dir}")
-            self._fr_bin_dir.set(out_dir);self._badge_enc_all.set_state("ok")
-            messagebox.showinfo("Terminé",f"{ok} scripts encodés dans:\n{out_dir}")
-        except Exception: self._badge_enc_all.set_state("err");raise
+            json_dir = Path(json_path)
+            bin_dir = Path(base_bin_path)
+            success_count = 0
+
+            for json_file in sorted(json_dir.glob("script_*.json")):
+                raw_num = json_file.stem.replace("script_", "").replace("_fr", "")       
+                try:
+                    clean_num = str(int(raw_num))
+                    original_bin = bin_dir / f"script_{clean_num}.bin"
+                except ValueError:
+                    self.log(f"  [SKIP] {json_file.name} : Format de numéro invalide")
+                    continue
+                if not original_bin.exists():
+                    self.log(f"  [SKIP] {json_file.name} : {original_bin.name} introuvable")
+                    continue
+                try:
+                    encode_script(str(original_bin), str(json_file), self.log, out_dir=output_dir)
+                    success_count += 1
+                except Exception as e:
+                    self.log(f"  [ERR] {json_file.name}: {e}")
+
+            self.log(f"Terminé : {success_count} fichiers encodés.")
+            self._fr_bin_dir.set(output_dir)
+            self._badge_enc_all.set_state("ok")
+            messagebox.showinfo("Succès", f"{success_count} scripts encodés.")
+
+        except Exception as e:
+            self._badge_enc_all.set_state("err")
+            self.log(f"Erreur fatale : {e}")
+            raise
+
 
     def _do_rebuild_iso(self):
         iso=self._iso_for_rebuild;ev=self._event_for_rebuild;fbd=self._fr_bin_dir.get();out=self._out_iso.get()
