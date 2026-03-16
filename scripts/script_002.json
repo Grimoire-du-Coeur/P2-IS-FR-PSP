@@ -27,7 +27,7 @@
     "nom_orig": "???",
     "texte_orig": "H-Hey![SP]Is[SP]this[SP]chica[SP]really[SP]one[SP]of[SP]my\nfans!?[1205][001E][SP]That[SP]ain't[SP]right!\n[E1][E2][E4][NULL][NULL][0010]Eikichi[SP][1432][NULL][NULL][0014]Michel[1432][NULL][NULL][0014][SP]Mishina\n[SP]A[SP]2nd-year[SP]at[SP]Kasugayama[SP]High[SP]who[SP]has[SP]it\n[SP]in[SP]for[SP][U+1113].[SP]A[SP]narcissistic[SP]gang[SP]boss[SP]as\n[SP]well[SP]as[SP]lead[SP]vocalist[SP]in[SP]his[SP]band.[E4][NULL][NULL][0002]",
     "nom_fr": "???",
-    "texte_fr": "Hé ! Cette meuf est vraiment une de\nmes fans !?[1205][001E] C'est n'importe quoi !\nEikichi [1432][NULL][NULL][0014]Michel[1432][NULL][NULL][0014] Mishina\n2e année à Kasugayama qui en a\naprès [U+1113]. Un chef de gang narcissique\nainsi que le chanteur de son groupe."
+    "texte_fr": "Hé ! Cette meuf est vraiment une de\nmes fans !?[1205][001E] C'est n'importe quoi !\n[E1][E2][E4][NULL][NULL][0010]Eikichi [1432][NULL][NULL][0014]Michel[1432][NULL][NULL][0014] Mishina\n 2e année à Kasugayama qui en a\n après [U+1113]. Chef de gang narcissique\n et chanteur principal de son groupe.[E4][NULL][NULL][0002]"
   },
   {
     "id": 3,
@@ -47,7 +47,7 @@
     "nom_orig": "Shogo",
     "texte_orig": "Y-Yeah.[SP]If[SP]we[SP]wait[SP]just[SP]a[SP]little[SP]longer,\nI'm[SP]sure[SP][U+1113][SP]will[SP]show!",
     "nom_fr": "Shogo",
-    "texte_fr": "O-Ouais. Si on attend encore un peu,\nje suis sûr que [U+1113] va se pointer !"
+    "texte_fr": "O-Ouais. Si on attend encore un peu,\n[U+1113] va se pointer !"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hey...[1205][001E][SP]What's[SP]this[SP]about[SP][U+1113]?\nWhat[SP]are[SP]you[SP]three[SP]scheming?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hé...[1205][001E] C'est quoi cette histoire avec [U+1113] ?\nQu'est-ce que vous manigancez tous les trois ?"
+    "texte_fr": "Hé...[1205][001E] C'est quoi cette histoire avec [U+1113] ?\nVous manigancez quoi, tous les trois ?"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Allow[SP]me[SP]to[SP]introduce[SP]myself[SP]as[SP]the\ngenius[SP]artist[SP]Michel,[SP]spreading[SP]love[SP]to\nladies[SP]around[SP]the[SP]world![SP]Hooooooo!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Laisse-moi me présenter : le génial\nartiste Michel, qui répand l'amour auprès\ndes femmes du monde entier ! Hooooooo !"
+    "texte_fr": "Laissez-moi me présenter : le génial\nartiste Michel, qui répand l'amour\naux femmes du monde entier ! Hooooooo !"
   },
   {
     "id": 12,
@@ -127,7 +127,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "What...[1205][001E][SP]are[SP]you[SP]smoking?",
     "nom_fr": "Lisa",
-    "texte_fr": "Mais qu'est-ce que...[1205][001E] tu as fumé ?"
+    "texte_fr": "T'as fumé quoi...[1205][001E] exactement ?"
   },
   {
     "id": 13,
@@ -137,7 +137,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What[SP]was[SP]that,[SP]you[SP]little--!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Qu'est-ce que t'as dit, petite-- !?"
+    "texte_fr": "T'as dit quoi, petite-- !?"
   },
   {
     "id": 14,
@@ -147,7 +147,7 @@
     "nom_orig": "Shogo",
     "texte_orig": "Um...[SP]Please[SP]forgive[SP]us![1205][001E][SP]We[SP]used[SP]Kozy-san\nas[SP]a[SP]hostage[SP]to[SP]lure[SP]out[SP][U+1113]-san!",
     "nom_fr": "Shogo",
-    "texte_fr": "Euh... Pardonnez-nous ![1205][001E] On a utilisé Kozy-san\ncomme otage pour attirer [U+1113]-san !"
+    "texte_fr": "Euh... Pardonnez-nous ![1205][001E] On a utilisé\nKozy-san comme otage pour attirer [U+1113]-san !"
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Y-You[SP]guys...[1205][001E][SP]You[SP]knew[SP]what[SP]would\nhappen[SP]if[SP]you[SP]violated[SP]Bro[SP]Code[SP]and\nyou[SP]still...",
     "nom_fr": "Eikichi",
-    "texte_fr": "L-Les gars...[1205][001E] Vous saviez ce qui arrive\nsi on brise le Code des Potes, et\npourtant vous avez..."
+    "texte_fr": "L-Les gars...[1205][001E] Vous saviez ce qui arrive\nsi on brise le Code des Potes\net vous l'avez quand même fait..."
   },
   {
     "id": 18,
@@ -187,7 +187,7 @@
     "nom_orig": "Shogo,[SP]Ken[SP]&[SP]Takeshi",
     "texte_orig": "Yes,[SP]sir![SP][1432][NULL][NULL][0014]Cowardice[SP]is[SP]unbefitting[SP]of[SP]a\nreal[SP]man![1432][NULL][NULL][0014][SP]We'll[SP]take[SP]whatever[SP]punishment\nyou[SP]have[SP]in[SP]store!",
     "nom_fr": "Shogo, Ken & Takeshi",
-    "texte_fr": "Oui, chef ! [1432][NULL][NULL][0014]La lâcheté est indigne\nd'un vrai homme ![1432][NULL][NULL][0014] On acceptera n'importe\nquelle punition de votre part !"
+    "texte_fr": "Oui, chef ! [1432][NULL][NULL][0014]La lâcheté est indigne\nd'un vrai homme ![1432][NULL][NULL][0014] On acceptera\nn'importe quelle punition !"
   },
   {
     "id": 19,
@@ -197,7 +197,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "Um...[SP]So[SP]that[SP]stuff[SP]about[SP]telling[SP]me[SP]the\nmystery[SP]of[SP]the[SP]emblem[SP]curse...[1205][001E][SP]Was[SP]that\nall[SP]a[SP]lie?[SP]If[SP]so,[SP]then[SP]I'm[SP]going[SP]to[SP]go.",
     "nom_fr": "Kozy",
-    "texte_fr": "Euh... Donc l'histoire sur le mystère\nde la malédiction de l'emblème...[1205][001E] C'était\nun mensonge ? Si c'est le cas, je m'en vais."
+    "texte_fr": "Euh... Donc l'histoire sur le mystère\nde la malédiction...[1205][001E] C'était un mensonge ?\nSi c'est le cas, je m'en vais."
   },
   {
     "id": 20,
@@ -207,7 +207,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "*sigh*[1205][001E][SP]We[SP]should[SP]go[SP]too,[SP][U+1113].[SP]This[SP]is\nso[SP]stupid[SP]I[SP]might[SP]cry.",
     "nom_fr": "Lisa",
-    "texte_fr": "*soupir*[1205][001E] On devrait y aller aussi, [U+1113].\nC'est tellement stupide que j'ai envie de pleurer."
+    "texte_fr": "*soupir*[1205][001E] On devrait y aller, [U+1113].\nC'est si stupide que j'en pleurerais."
   },
   {
     "id": 21,
@@ -227,7 +227,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]hate[SP]to[SP]stoop[SP]this[SP]low...[1205][001E][SP]But[SP]for[SP]the\nsake[SP]of[SP]my[SP]bros,[SP]I[SP]can't[SP]let[SP]you[SP]go\nthat[SP]easily.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je déteste m'abaisser à ça...[1205][001E] Mais pour\nle bien de mes potes, je peux pas\nte laisser partir si facilement."
+    "texte_fr": "Je déteste m'abaisser à ça...[1205][001E] Mais pour\nmes potes, je peux pas te laisser\npartir si facilement."
   },
   {
     "id": 23,
@@ -237,7 +237,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "For[SP]my[SP]honor[SP]as[SP]the[SP]Death[SP]Boss,\nI'm[SP]dragging[SP]you[SP]into[SP]my[SP]band!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pour mon honneur en tant que Boss de la Mort,\nje vais t'embarquer dans mon groupe !"
+    "texte_fr": "Pour mon honneur de Boss de la Mort,\nje t'embarque dans mon groupe !"
   },
   {
     "id": 24,
@@ -247,7 +247,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "[1432][NULL][NULL][0014]Death[SP]Boss[1432][NULL][NULL][0014]!?[SP]More[SP]like[SP]Undie[SP]Boss!",
     "nom_fr": "Lisa",
-    "texte_fr": "[1432][NULL][NULL][0014]Boss de la Mort[1432][NULL][NULL][0014] !? Plutôt Boss des Calbutes !"
+    "texte_fr": "[1432][NULL][NULL][0014]Boss de la Mort[1432][NULL][NULL][0014] !? Boss des Calbutes, oui !"
   },
   {
     "id": 25,
@@ -257,7 +257,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "I've[SP]heard[SP]the[SP]rumors![SP]You[SP]became\nBoss[SP]by[SP]pantsing[SP]people,[SP]didn't[SP]you?",
     "nom_fr": "Lisa",
-    "texte_fr": "J'ai entendu les rumeurs ! Tu es devenu\nBoss en baissant les pantalons des gens, non ?"
+    "texte_fr": "J'ai entendu les rumeurs ! T'es devenu\nBoss en baissant les frocs des gens, non ?"
   },
   {
     "id": 26,
