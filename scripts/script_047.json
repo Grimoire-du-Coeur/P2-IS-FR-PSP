@@ -6,8 +6,8 @@
     "data_size": 190,
     "nom_orig": "Eikichi",
     "texte_orig": "Dude,[SP]this[SP]is[SP]the[SP]ladies'[SP]room.[SP]Are[SP]we[SP]even\nallowed[SP]in[SP]here?[SP]What're[SP]we[SP]gonna[SP]do?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Mec, ce sont les toilettes\ndes filles. On a le droit d'être\nlà ? On fait quoi ?"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 248,
     "nom_orig": "Maya",
     "texte_orig": "We[SP]need[SP]to[SP]evacuate[SP]the[SP]customers[SP]before\nwe[SP]can[SP]go[SP]looking[SP]for[SP]the[SP]transmitter.\nCan[SP]I[SP]borrow[SP]your[SP]lighter,[SP][U+1113]-kun?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "On doit évacuer les clients avant\nde chercher le transmetteur.\nJe peux t'emprunter ton briquet,\n[U+1113]-kun ?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 104,
     "nom_orig": "Ginko",
     "texte_orig": "Huh?[SP]I[SP]didn't[SP]know[SP]you[SP]smoked,[SP]Maya-san.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Hein ? Tu fumes,\nMaya-san ?"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 142,
     "nom_orig": "Maya",
     "texte_orig": "I[SP]don't,[SP]actually.[SP]I[SP]swiped[SP]this[SP]cigarette\nfrom[SP]my[SP]roommate.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "En fait, non. J'ai piqué cette\ncigarette à ma colocataire."
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 106,
     "nom_orig": "Ginko",
     "texte_orig": "A[SP]roommate?[SP]Ooh...[SP]Do[SP]you[SP]have[SP]a[SP]Chinyan?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Une coloc? Ooh...\nT'as un Chinyan?"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 112,
     "nom_orig": "Maya",
     "texte_orig": "Sorry[SP]to[SP]disappoint,[SP]but[SP]my[SP]roommate's\na[SP]girl.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Désolée, mais ma coloc\nest une fille."
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 226,
     "nom_orig": "Maya",
     "texte_orig": "Ever[SP]since[SP]I[SP]started[SP]at[SP]Coolest,[SP]I've[SP]been\ntoo[SP]busy[SP]for[SP]a[SP]boyfriend.[SP]I'm[SP]pretty[SP]much\nmarried[SP]to[SP]my[SP]job!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Depuis que j'suis chez Coolest,\nj'ai pas l'temps pour un copain.\nJe suis mariée à mon boulot!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 160,
     "nom_orig": "Ginko",
     "texte_orig": "Houshounah![SP]That[SP]sounds[SP]awful![SP]I[SP]don't\nthink[SP]I'd[SP]be[SP]able[SP]to[SP]stand[SP]it.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Houshounah ! Ça a l'air\nhorrible ! Je crois pas\nque je pourrais."
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 360,
     "nom_orig": "Maya",
     "texte_orig": "I[SP]don't[SP]think[SP]of[SP]it[SP]as[SP]a[SP]limitation.[SP]It's\nbeen[SP]my[SP]dream[SP]since[SP]I[SP]was[SP]little[SP]to[SP]be[SP]a\njournalist,[SP]so[SP]my[SP]life's[SP]pretty[SP]fulfilling.[E1][E2][E4][NULL][NULL]\"Maya\nI[SP]live[SP]for[SP]my[SP]work![SP]Right,[SP]Yukki?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ce n'est pas une limitation.\nC'est mon rêve depuis petite\nd'être journaliste, ma vie me\ncomble.[E1][E2][E4][NULL][NULL]\"Maya\nJe vis pour mon travail !\nPas vrai, Yukki ?"
   },
   {
     "id": 9,
@@ -96,18 +96,18 @@
     "data_size": 174,
     "nom_orig": "Yukino",
     "texte_orig": "For[SP]work,[SP]huh...?[1205][001E][SP]I[SP]don't[SP]really[SP]know[SP]what\nmost[SP]people[SP]live[SP]for,[SP]I[SP]guess.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Pour le travail...?[1205][001E]\nJe ne sais pas ce qui\npousse les autres à vivre."
   },
-  {
+ {
     "id": 10,
     "offset": 274792,
     "slot_size": 184,
     "data_size": 180,
     "nom_orig": "Yukino",
     "texte_orig": "But[SP]at[SP]the[SP]very[SP]least,[SP]I[SP]like[SP]to[SP]think[SP]I'm\nliving[SP]to[SP]make[SP]my[SP]dreams[SP]come[SP]true.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Mais au moins, j'aime penser que\nje vis pour réaliser\ntous mes rêves."
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 220,
     "nom_orig": "Eikichi",
     "texte_orig": "It's[SP]strange...[1205][001E][SP]When[SP]I'm[SP]with[SP]Maya-san,\nI'm[SP]reminded[SP]of[SP]the[SP][1432][NULL][NULL][0014]Big[SP]Sis[1432][NULL][NULL][0014][SP]I[SP]see[SP]in[SP]my\ndreams.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "C'est bizarre...[1205][001E] Maya-san me\nrappelle la [1432][NULL][NULL][0014]Grande\nSœur[1432][NULL][NULL][0014] de mes rêves."
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 68,
     "nom_orig": "Ginko",
     "texte_orig": "Eikichi,[SP]those[SP]dreams--",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Eikichi, ces rêves..."
   },
   {
     "id": 13,
@@ -136,8 +136,8 @@
     "data_size": 192,
     "nom_orig": "Cleaning[SP]lady",
     "texte_orig": "What're[SP]you[SP]kids[SP]doing[SP]in[SP]here!?[SP]And[SP]you,\nMissy![SP]No[SP]smoking[SP]in[SP]the[SP]restrooms!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Agent d'entretien",
+    "texte_fr": "Que faites-vous ici\nles jeunes !? Mademoiselle !\nInterdit de fumer !"
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 120,
     "nom_orig": "Cleaning[SP]lady",
     "texte_orig": "Oh![SP]Oh[SP]my![SP]I[SP]told[SP]you[SP]so![SP]You[SP]awful[SP]kids!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Agent d'entretien",
+    "texte_fr": "Oh ! Mon Dieu !\nSales garnements !"
   },
   {
     "id": 15,
@@ -156,8 +156,8 @@
     "data_size": 260,
     "nom_orig": "Eikichi",
     "texte_orig": "Pardon[SP]them[SP]for[SP]my[SP]sake,[SP]sweets.[SP]C'mon...[1205][001E]\nCan't[SP]you[SP]forgive[SP]and[SP]forget[SP]at[SP]the[SP]request\nof[SP]such[SP]a[SP]beautiful[SP]specimen?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Pardonnez-les pour\nmoi, ma belle. Allez...[1205][001E]\nVous ne pouvez pas\noublier à la demande d'un\nsi beau spécimen ?"
   },
   {
     "id": 16,
@@ -166,8 +166,8 @@
     "data_size": 170,
     "nom_orig": "Cleaning[SP]lady",
     "texte_orig": "Aren't[SP]you[SP]a[SP]boy!?[SP]Oh[SP]my[SP]goodness!\nPervert![SP]Pervert[SP]in[SP]the[SP]stalls!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme de ménage",
+    "texte_fr": "T'es un garçon!?\nMon Dieu! Pervers!\nUn pervers aux toilettes!"
   },
   {
     "id": 17,
@@ -176,8 +176,8 @@
     "data_size": 46,
     "nom_orig": "Eikichi",
     "texte_orig": "P-Pervert?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Pervers?"
   },
   {
     "id": 18,
@@ -186,7 +186,7 @@
     "data_size": 248,
     "nom_orig": "Maya",
     "texte_orig": "I[SP]feel[SP]bad[SP]for[SP]him...[SP]But[SP]why[SP]don't[SP]we[SP]leave\nthis[SP]place[SP]to[SP]Eikichi-kun?[SP]We[SP]need[SP]to[SP]hurry\nand[SP]find[SP]the[SP]transmitter!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Je me sens mal pour lui...\nMais laissons Eikichi-kun gérer !\nOn doit vite trouver le\ntransmetteur !"
   }
 ]
