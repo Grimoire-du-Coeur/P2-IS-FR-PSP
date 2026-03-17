@@ -5,7 +5,7 @@
 | Anglais |  Français |
 |-------------|----------------------|
 | Personas | Personae |
-|  |  |
+| Shadow/Shadow men | Ombre |
 |  |  |
 |  |  |
 |  |  |
