@@ -47,7 +47,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "That[SP]psychotic[SP]bastard...[SP]He's[SP]set[SP]bombs\nin[SP]town,[SP]too![SP]We[SP]need[SP]to[SP]hurry[SP]and[SP]find[SP]the\nnext[SP]target[SP]and[SP]get[SP]out[SP]of[SP]here!",
     "nom_fr": "Yukino",
-    "texte_fr": "Ce salaud de psychopathe... Il a posé des bombes\nen ville aussi! Il faut se dépêcher de trouver la\nprochaine cible et sortir d'ici!"
+    "texte_fr": "Ce salaud de psychopathe... Il a posé des bombes\nen ville! Vite, trouvons la cible et sortons!"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I'll[SP]take[SP]Sheba[SP]with[SP]me,[SP][U+1113]!\nLet's[SP]hurry[SP]and[SP]get[SP]out!",
     "nom_fr": "Ginko",
-    "texte_fr": "Je prends Sheba avec moi, [U+1113]!\nDépêchons nous de sortir!"
+    "texte_fr": "J'amène Sheba avec moi, [U+1113]!\nSortons vite!"
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Stand[SP]up,[SP]Lisa![SP]You[SP]have[SP]to[SP]do[SP]what[SP]you[SP]can\nright[SP]now![SP]You[SP]can[SP]apologize[SP]later.\n[E1][E2][E4][NULL][NULL]\"Maya\nYou[SP]tried[SP]to[SP]protect[SP]them,[SP]right?[SP]Don't\nworry...[SP]Once[SP]they[SP]wake[SP]up,[SP]I'm[SP]sure[SP]all\nwill[SP]be[SP]forgiven.",
     "nom_fr": "Maya",
-    "texte_fr": "Lève toi, Lisa! Tu dois faire ce que tu peux\nmaintenant! Tu t'excuseras plus tard.\n[E1][E2][E4][NULL][NULL]\"Maya\nTu as essayé de les proteger, hein? Ne\nt'inquiète... Dès qu'elles se réveilleront, je suis sûr\nque tout sera pardonné."
+    "texte_fr": "Lève-toi, Lisa! Fais ce que tu peux maintenant!\nTu t'excuseras plus tard.\n[E1][E2][E4][NULL][NULL]\"Maya\nTu voulais les protéger, hein? Des\nqu'elles se réveilleront, tout sera pardonné."
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "[U+1113]![SP]There's[SP]no[SP]time.[SP]Whoever's[SP]left\nneeds[SP]to[SP]be[SP]evacuated[SP]so[SP]we[SP]can[SP]hurry[SP]and\nfind[SP]the[SP]next[SP]target!",
     "nom_fr": "Yukino",
-    "texte_fr": "[U+1113]!Plus le temps. Il faut évacuer ceux qui\nrestent pour qu'on se dépêche de trouver la\nprochaine cible!"
+    "texte_fr": "[U+1113]! Plus le temps! Évacuez les autres,\non doit trouver la cible vite!"
   },
   {
     "id": 12,
@@ -157,6 +157,6 @@
     "nom_orig": "Miho[SP]shadowman",
     "texte_orig": "Lisa's[SP]crying...[1205][001E][SP]I[SP]guess...[SP]it[SP]doesn't\nmatter...",
     "nom_fr": "Ombre de Mami",
-    "texte_fr": "Lisa pleure...[1205][001E] Je suppose... que ça n'a pas\nd'importance..."
+    "texte_fr": "Lisa pleure...[1205][001E] Tant pis..."
   }
 ]
