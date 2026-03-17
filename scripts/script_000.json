@@ -9,15 +9,15 @@
     "nom_fr": "???",
     "texte_fr": "....?"
   },
-  {
+ {
     "id": 1,
     "offset": 379818,
     "slot_size": 94,
     "data_size": 90,
     "nom_orig": "Thuggish[SP]student",
     "texte_orig": "Yo...[SP]Goin'[SP]somewhere?",
-    "nom_fr": "Étudiant effronté",
-    "texte_fr": "Bah alors... on va quelque part ?"
+    "nom_fr": "Voyou",
+    "texte_fr": "Oh... Tu vas quelque part?"
   },
   {
     "id": 2,
@@ -79,7 +79,7 @@
     "nom_fr": "Étudiant suiveur",
     "texte_fr": "Y - Y a un truc bizarre là... Le mec est en sueur..."
   },
-  {
+ {
     "id": 8,
     "offset": 380760,
     "slot_size": 140,
@@ -87,7 +87,7 @@
     "nom_orig": "Unknown[SP]voice",
     "texte_orig": "Do[SP]not[SP]fear[SP]me...[1205]-[SP]I[SP]am[SP]thou...[1205]-\nThou[SP]art[SP]I...",
     "nom_fr": "Voix inconnue",
-    "texte_fr": "N'aie crainte... [1205]- Je suis toi... [1205]-\nTu es moi..."
+    "texte_fr": "N'aie crainte...[1205]- Je suis toi...[1205]-\nTu es moi..."
   },
   {
     "id": 9,
@@ -137,7 +137,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Just[SP]so[SP]long[SP]as[SP]you[SP]understand,[SP]hahaha!\nAhhh,[SP]what[SP]a[SP]delight[SP]children[SP]are!",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Bien, j'ai l'air de m'être fait comprendre, hahaha ! Ah, qu'ils sont\nadorables ces jeunes !"
+    "texte_fr": "Tant que tu as compris, hahaha!\nAh, quel délice ces enfants!"
   },
   {
     "id": 14,
@@ -147,7 +147,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "That[SP]goes[SP]for[SP]you[SP]too![SP]Didn't[SP]you[SP]hear\nwhat[SP]I[SP]said!?",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Ça vaut pour toi aussi ! T'as pas entendu ce que j'ai dit !?"
+    "texte_fr": "Pareil pour toi! T'as pas entendu\nce que j'ai dit!?"
   },
   {
     "id": 15,
@@ -157,7 +157,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Why[SP]won't[SP]you[SP]obey[SP]me!?\nThis[SP]is[SP]unacceptable!",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Pourquoi ne m'obéis-tu pas !?\nC'est inadmissible !"
+    "texte_fr": "Pourquoi tu m'obéis pas!?\nC'est inadmissible!"
   },
   {
     "id": 16,
@@ -169,7 +169,7 @@
     "nom_fr": "Proviseur Hanya",
     "texte_fr": "Toi ! Qui es-tu et dans quelle classe es-tu ?!\nPlus vite que ça !"
   },
-  {
+{
     "id": 17,
     "offset": 382576,
     "slot_size": 186,
@@ -177,7 +177,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Ah,[SP]I[SP]should[SP]have[SP]known...[SP][1205][001E]You're[SP]that\n[U+1113][SP][U+1112][SP]I've[SP]heard\nrumors[SP]about.",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Ah, j'aurais dû m'en douter... [1205][001E]\nTu es le\n[U+1113] [U+1112] sur lequel j'ai entendu des rumeurs..."
+    "texte_fr": "Ah, j'aurais dû m'en douter...[1205][001E]\nTu es le [U+1113] [U+1112]\ndes rumeurs."
   },
   {
     "id": 18,
@@ -187,7 +187,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "If[SP]that[SP]nasty[SP]resonance[SP]I[SP]sensed[SP]from[SP]the\nhall[SP]was[SP]you,[SP]it[SP]makes[SP]sense...[SP][1205][001E]Looks[SP]like\nyou're[SP]as[SP]much[SP]trouble[SP]as[SP]the[SP]rumors[SP]say.",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Si cette vibration que j'ai ressentie depuis le couloir \nvient de toi, ça fait sens... [1205][001E]Il semblerait que\n ta réputation te précède bel et bien."
+    "texte_fr": "Si cette sale résonance dans le couloir\nvenait de toi, c'est logique...[1205][001E] Tu\nes aussi gênant que les rumeurs le disent."
   },
   {
     "id": 19,
@@ -229,7 +229,7 @@
     "nom_fr": "Lycéen",
     "texte_fr": "T'as séché l'orientation, hein ? Elle\navait l'air prête à te poursuivre jusque chez toi.\nVa vite la voir."
   },
-  {
+ {
     "id": 23,
     "offset": 384148,
     "slot_size": 278,
@@ -237,7 +237,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "*sigh*[SP]I've[SP]taken[SP]ill[SP]myself.[SP]I[SP]woke[SP]up\nthis[SP]morning[SP]with[SP]a[SP]swollen[SP]face[SP]and[SP]a\nbald[SP]spot.[SP]Laugh[SP]if[SP]you[SP]want...",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "*soupir* À mon tour d'être malade. Je me suis\nréveillé ce matin avec le visage enflé et des cheveux en moins. Moque-toi\nvas-y..."
+    "texte_fr": "*soupir* Je suis malade. Je me suis\nréveillé le visage enflé et à moitié\nchauve. Ris si tu veux..."
   },
   {
     "id": 24,
@@ -249,7 +249,7 @@
     "nom_fr": "Lycéen blessé",
     "texte_fr": "J'envie pas du tout tes cheveux longs. Bientôt,\ntout le monde sera chauve de toute façon.\n[1205][001E] Hé...[1205][001E] t'es le prochain, ."
   },
-  {
+ {
     "id": 25,
     "offset": 384720,
     "slot_size": 288,
@@ -257,7 +257,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "Bad[SP]luck,[SP][U+1113]-senpai.[SP]I'm[SP]surprised\nat[SP]how[SP]popular[SP]Principal[SP]Hanya[SP]is.[1205][001E][SP]He's\nawful,[SP]but[SP]I[SP]like[SP]him...[SP]Why[SP]is[SP]that?",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Pas de chance pour toi, senpai. Ça m'étonne qu'Hanya\nsoit si populaire. [1205][001E] Il est affreux,\nmais je l'aime bien... comment ça se fait ?"
+    "texte_fr": "Pas de bol, [U+1113]-senpai. Je suis\nsurprise qu'Hanya soit si populaire.[1205][001E]\nIl est affreux, mais je l'aime bien...\nPourquoi?"
   },
   {
     "id": 26,
@@ -267,7 +267,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "You[SP]maintain[SP]your[SP]own[SP]bike,[SP]right,\n[U+1113]?[SP]Looks[SP]like[SP]the[SP]rumors[SP]were[SP]true\nabout[SP]you[SP]being[SP]good[SP]with[SP]machines.",
     "nom_fr": "Lycéen",
-    "texte_fr": "T'entretiens vraiment ta moto tout seul ? On dirait\nque les rumeurs sur tes talents en\nmécanique étaient vraies."
+    "texte_fr": "Tu répares ta moto toi-même, [U+1113]?\nLes rumeurs sur tes talents en\nmécanique sont donc vraies."
   },
   {
     "id": 27,
@@ -277,6 +277,6 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "[U+1113]-senpai!?[SP]This[SP]is[SP]so[SP]sudden...[1205][001E]\nI'm[SP]inexperienced...[SP]My[SP]heart's[SP]not\nready...[1205][001E][SP]But[SP]maybe[SP]for[SP]you,[SP]I[SP]could...!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "[U+1113]-Senpai !? C'est si soudain... [1205][001E] J'ai aucune\nexpérience... Mon cœur n'est pas\nprêt... [1205][001E] Mais pour toi, je pourrais...!"
+    "texte_fr": "[U+1113]-senpai!?[1205][001E] C'est soudain...\nJ'ai pas d'expérience... Mon cœur\nn'est pas prêt...[1205][001E] Mais pour toi...!"
   }
 ]
