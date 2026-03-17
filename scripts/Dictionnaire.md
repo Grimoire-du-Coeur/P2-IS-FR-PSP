@@ -4,12 +4,13 @@
 
 | Anglais |  Français |
 |-------------|----------------------|
+| Persona | Persona |
 | Personas | Personae |
-| Shadow/Shadow men | Ombre |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Shadow/Shadowmen | Ombre |
+| X shadowman | Ombre de X |
+| Cuss high | Lycée Kakasu |
+| Masked circle | Cercle masqué |
+| Cursed star | Étoile maudite |
 |  |  |
 |  |  |
 |  |  |
