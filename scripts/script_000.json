@@ -9,7 +9,7 @@
     "nom_fr": "???",
     "texte_fr": "....?"
   },
- {
+  {
     "id": 1,
     "offset": 379818,
     "slot_size": 94,
@@ -17,7 +17,7 @@
     "nom_orig": "Thuggish[SP]student",
     "texte_orig": "Yo...[SP]Goin'[SP]somewhere?",
     "nom_fr": "Voyou",
-    "texte_fr": "Oh... Tu vas quelque part?"
+    "texte_fr": "Oh... Tu vas quelque part ?"
   },
   {
     "id": 2,
@@ -26,7 +26,7 @@
     "data_size": 170,
     "nom_orig": "Less[SP]thuggish[SP]student",
     "texte_orig": "Heheh![SP]That[SP]piece[SP]of[SP]crap[SP]ain't[SP]gonna\nstart[SP]without[SP]this.",
-    "nom_fr": "Étudiant suiveur",
+    "nom_fr": "Vaurien",
     "texte_fr": "Héhé ! Ce tas de merde ne risque pas de\ndémarrer sans ça."
   },
   {
@@ -36,7 +36,7 @@
     "data_size": 246,
     "nom_orig": "Thuggish[SP]student",
     "texte_orig": "Nothin'[SP]to[SP]say,[SP]huh?[1205][001E][SP]I[SP]don't[SP]like[SP]that\nprissy[SP]face[SP]of[SP]yours.[SP]You[SP]think[SP]you're\nhot[SP]shit,[SP]don't[SP]you?",
-    "nom_fr": "Étudiant effronté",
+    "nom_fr": "Voyou",
     "texte_fr": "Rien à dire, hein ?[1205][001E] J'aime pas ta\ntête de coincé. Tu te crois\nplus malin que les autres, hein ?"
   },
   {
@@ -56,7 +56,7 @@
     "data_size": 112,
     "nom_orig": "Thuggish[SP]student",
     "texte_orig": "D-Dude...[SP]What's[SP]wrong[SP]with[SP]you!?",
-    "nom_fr": "Voyou 1",
+    "nom_fr": "Voyou",
     "texte_fr": "M-Mec... Il t'arrive quoi là !?"
   },
   {
@@ -76,10 +76,10 @@
     "data_size": 170,
     "nom_orig": "Less[SP]thuggish[SP]student",
     "texte_orig": "S-Somethin's[SP]wrong[SP]here...[SP]This[SP]guy's\nsweating[SP]bullets...",
-    "nom_fr": "Étudiant suiveur",
-    "texte_fr": "Y - Y a un truc bizarre là... Le mec est en sueur..."
+    "nom_fr": "Vaurien",
+    "texte_fr": "Y-Y a un truc bizarre là... Le mec\nest en sueur..."
   },
- {
+  {
     "id": 8,
     "offset": 380760,
     "slot_size": 140,
@@ -107,7 +107,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "All[SP]right,[SP]you[SP]three![SP]What[SP]are[SP]you\nchuckleheads[SP]still[SP]doing[SP]here?[SP]The[SP]last\nbell[SP]rang[SP]a[SP]while[SP]ago.",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Bon, vous trois ! Qu'est-ce que vous\nfaites encore ici ? La cloche a sonné !"
+    "texte_fr": "Bon, vous trois ! Qu'est-ce que vous\nfaites encore ici ? La cloche a sonné\ndepuis un moment !"
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 250,
     "nom_orig": "Thuggish[SP]student",
     "texte_orig": "P-Principal[SP]Hanya!?[SP]O-Okay,[SP]sir![SP]We'll\ngo[SP]straight[SP]home[SP]and[SP]do[SP]our[SP]schoolwork!\nC'mon,[SP]man,[SP]l-let's[SP]go!",
-    "nom_fr": "Étudiant effronté",
-    "texte_fr": "M-M. le Directeur!? O-Oui m'sieur!\nOn va rentrer faire nos devoirs ! Allez mec, on se tire !"
+    "nom_fr": "Voyou",
+    "texte_fr": "M-M. le Directeur!? O-Oui m'sieur!\nOn va rentrer faire nos devoirs !\nAllez mec, on se tire !"
   },
   {
     "id": 12,
@@ -126,7 +126,7 @@
     "data_size": 138,
     "nom_orig": "Less[SP]thuggish[SP]student",
     "texte_orig": "H-Here,[SP]we're[SP]done[SP]borrowing[SP]this!\nSeeya!",
-    "nom_fr": "Étudiant suiveur",
+    "nom_fr": "Vaurien",
     "texte_fr": "T-Tiens, on a fini de te l'emprunter !\nSalut !"
   },
   {
@@ -137,7 +137,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Just[SP]so[SP]long[SP]as[SP]you[SP]understand,[SP]hahaha!\nAhhh,[SP]what[SP]a[SP]delight[SP]children[SP]are!",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Tant que tu as compris, hahaha!\nAh, quel délice ces enfants!"
+    "texte_fr": "Tant que vous avez compris, hahaha !\nAh, quel délice ces enfants !"
   },
   {
     "id": 14,
@@ -167,9 +167,9 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "You![SP]Who[SP]are[SP]you[SP]and[SP]what[SP]class[SP]are\nyou[SP]in!?[SP]State[SP]your[SP]name![SP]C'mon,[SP]spit\nit[SP]out[SP]already!",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Toi ! Qui es-tu et dans quelle classe es-tu ?!\nPlus vite que ça !"
+    "texte_fr": "Toi ! Qui es-tu et dans quelle classe\nes-tu ?! Plus vite que ça !"
   },
-{
+  {
     "id": 17,
     "offset": 382576,
     "slot_size": 186,
@@ -197,7 +197,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Hahah...[SP]Well,[SP]I'll[SP]let[SP]you[SP]alone.[SP][1432][NULL][NULL][0014]He'll[1432][NULL][NULL][0014]\nbe[SP]along[SP]to[SP]guide[SP]you[SP]soon[SP]enough.[SP]Enjoy\nwhat[SP]few[SP]moments[SP]are[SP]left[SP]of[SP]your[SP]youth.",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Haha... Bon, je te laisse pour cette fois. [1432][NULL][NULL][0014]Il[1432][NULL][NULL][0014]\nviendra te guider bientôt.\nProfite du peu de jeunesse qu'il te reste."
+    "texte_fr": "Haha... Bon, je te laisse pour cette fois.\n[1432][NULL][NULL][0014]Il[1432][NULL][NULL][0014] viendra te guider bientôt.\nProfite du peu de jeunesse qu'il te reste."
   },
   {
     "id": 20,
@@ -229,7 +229,7 @@
     "nom_fr": "Lycéen",
     "texte_fr": "T'as séché l'orientation, hein ? Elle\navait l'air prête à te poursuivre jusque chez toi.\nVa vite la voir."
   },
- {
+  {
     "id": 23,
     "offset": 384148,
     "slot_size": 278,
@@ -247,9 +247,9 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "I[SP]don't[SP]envy[SP]your[SP]long[SP]hair[SP]at[SP]all.[SP]In[SP]the\nyears[SP]to[SP]come,[SP]everyone[SP]will[SP]go[SP]bald\nanyway.[1205][001E][SP]Heh...[1205][001E][SP]I'll[SP]be[SP]waiting,[SP][U+1113].",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "J'envie pas du tout tes cheveux longs. Bientôt,\ntout le monde sera chauve de toute façon.\n[1205][001E] Hé...[1205][001E] t'es le prochain, ."
+    "texte_fr": "J'envie pas du tout tes cheveux longs. Bientôt,\ntout le monde sera chauve de toute façon.\n[1205][001E] Hé...[1205][001E] t'es le prochain, [U+1113]."
   },
- {
+  {
     "id": 25,
     "offset": 384720,
     "slot_size": 288,
