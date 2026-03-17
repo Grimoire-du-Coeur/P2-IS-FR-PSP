@@ -7,7 +7,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "*cough*[SP]It's[SP]so[SP]dusty[SP]here...[1205][001E][SP]My[SP]perfect\nhair[SP]is[SP]going[SP]to[SP]get[SP]mussed.",
     "nom_fr": "Eikichi",
-    "texte_fr": "*tousse* C'est tellement poussiéreux...[1205][001E]\nMes cheveux parfaits vont être\ntout décoiffés."
+    "texte_fr": "*tousse* Quelle poussière...[1205][001E]\nMes cheveux vont être décoiffés."
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "But[SP]that[SP]feeling[SP]a[SP]moment[SP]ago...[1205][001E]\nWhat[SP]was[SP]it...?",
     "nom_fr": "Ginko",
-    "texte_fr": "Mais cette sensation tout à l'heure...[1205][001E]\nC'était quoi... ?"
+    "texte_fr": "Cette sensation...[1205][001E]\nC'était quoi...?"
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "U-U-Undie[SP]Boss![SP]B-Behind![SP]Behind[SP]you!",
     "nom_fr": "Ginko",
-    "texte_fr": "B-B-Boss des Calbutes !\nD-Derrière ! Derrière toi !"
+    "texte_fr": "Boss des Calbutes!\nDerrière toi!"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 68,
     "nom_orig": "Teacher's[SP]ghost",
     "texte_orig": "...not[SP]be...",
-    "nom_fr": "Fantôme du prof",
-    "texte_fr": "...ne pas être..."
+    "nom_fr": "Prof fantôme",
+    "texte_fr": "...pas être..."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "...Huh?",
     "nom_fr": "Eikichi",
-    "texte_fr": "...Hein ?"
+    "texte_fr": "...Huh?"
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@
     "nom_orig": "Teacher's[SP]ghost",
     "texte_orig": "I[SP]said...[1205][001E][SP]that[SP]time...[1205][001E][SP]must[SP]not[SP]be[SP]set\nfree...[1205][001E][SP]I[SP]said[SP]it...[1205][001E][SP]so[SP]often...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHe[SP]disappeared![1205][001E][SP]But...[SP]I[SP]feel[SP]like[SP]I've...",
     "nom_fr": "Fantôme du prof",
-    "texte_fr": "J'ai dit...[1205][001E] que le temps...[1205][001E] ne doit pas\nêtre libéré...[1205][001E] Je l'ai dit...[1205][001E] si souvent...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nIl a disparu ![1205][001E] Mais... j'ai l'impression..."
+    "texte_fr": "J'ai dit...[1205][001E] le temps...[1205][001E]\npas libéré...[1205][001E] Je l'ai dit...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nDisparu![1205][001E] Mais... j'ai l'impression..."
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "nom_orig": "Eikichi[SP]&[SP]Ginko",
     "texte_orig": "...seen[SP]him[SP]before!",
     "nom_fr": "Eikichi & Ginko",
-    "texte_fr": "...de l'avoir déjà vu !"
+    "texte_fr": "...déjà vu!"
   },
   {
     "id": 8,
@@ -87,7 +87,7 @@
     "nom_orig": "???",
     "texte_orig": "Hahahaha!",
     "nom_fr": "???",
-    "texte_fr": "Hahahaha !"
+    "texte_fr": "Hahahaha!"
   },
   {
     "id": 9,
@@ -97,7 +97,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Ugh...[SP]Hamya!?[SP]Look,[SP]up[SP]there!",
     "nom_fr": "Yukino",
-    "texte_fr": "Ce foutu Hanya !? Regardez, là-haut !"
+    "texte_fr": "Ce foutu Hanya!? Là-haut!"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "nom_orig": "[U+1113],[SP]Eikichi[SP]&[SP]Ginko",
     "texte_orig": "Joker!",
     "nom_fr": "[U+1113], Eikichi & Ginko",
-    "texte_fr": "Joker !"
+    "texte_fr": "Joker!"
   },
   {
     "id": 11,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya[SP]&[SP]Yukino",
     "texte_orig": "Is[SP]that...[SP]Joker!?",
     "nom_fr": "Maya & Yukino",
-    "texte_fr": "C'est... le Joker !?"
+    "texte_fr": "C'est... Joker!?"
   },
   {
     "id": 12,
@@ -137,7 +137,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "The[SP]emblem[SP]curse[SP]and[SP]everyone[SP]acting[SP]weird\nis[SP]all[SP]because[SP]you[SP]teamed[SP]up[SP]with[SP]Joker,\nisn't[SP]it!?[SP]Fess[SP]up!",
     "nom_fr": "Ginko",
-    "texte_fr": "La malédiction et le comportement bizarre\nde tout le monde, c'est parce que vous\nêtes allié à Joker, non !? Crachez !"
+    "texte_fr": "La malédiction et les gens\nbizarres, c'est car vous êtes\nallié à Joker, non!? Parlez!"
   },
   {
     "id": 14,
@@ -147,7 +147,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Foolish[SP]girl![SP]How[SP]dare[SP]you?[SP]The[SP][1432][NULL][NULL][0014]emblem\ncurse[1432][NULL][NULL][0014][SP]is[SP]a[SP]divine[SP]punishment[SP]brought[SP]on\nby[SP]the[SP]students'[SP]poor[SP]conduct!",
     "nom_fr": "Directeur Hanya",
-    "texte_fr": "Sotte gamine ! Comment osez-vous ?\nLa [1432][NULL][NULL][0014]malédiction de l'emblème[1432][NULL][NULL][0014] est un\nchâtiment divin dû à la mauvaise conduite\ndes élèves !"
+    "texte_fr": "Sotte! Osez-vous? La\n[1432][NULL][NULL][0014]malédiction[1432][NULL][NULL][0014] est un châtiment\ndivin dû à la conduite des élèves!"
   },
   {
     "id": 15,
@@ -157,7 +157,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "You[SP]fools[SP]forget[SP]that[SP]you're[SP]students[SP]and\nwaste[SP]your[SP]lives[SP]worrying[SP]about[SP]dating\nand[SP]fashion!",
     "nom_fr": "Directeur Hanya",
-    "texte_fr": "Vous oubliez que vous êtes des élèves\net gâchez votre vie à vous soucier\ndes sorties et de la mode !"
+    "texte_fr": "Vous oubliez être des élèves\net gâchez votre vie pour la\nmode et les sorties!"
   },
   {
     "id": 16,
@@ -167,7 +167,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "You[SP]brought[SP]this[SP]curse[SP]on[SP]yourselves!\nThough[SP]I[SP]didn't[SP]think[SP]the[SP]rumor[SP]Cuss[SP]High\nstarted[SP]would[SP]come[SP]true...",
     "nom_fr": "Directeur Hanya",
-    "texte_fr": "Vous avez provoqué cette malédiction !\nMême si je pensais pas que la rumeur\ndu Lycée Kasu deviendrait réalité..."
+    "texte_fr": "Vous l'avez provoquée!\nMême si je pensais pas que la\nrumeur de Kasu serait vraie..."
   },
   {
     "id": 17,
@@ -177,7 +177,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "But[SP]if[SP]they'd[SP]make[SP]a[SP]wish[SP]to[SP]Master[SP]Joker,\nthe[SP]students'[SP]faces[SP]would[SP]return[SP]to[SP]normal\nin[SP]no[SP]time.",
     "nom_fr": "Directeur Hanya",
-    "texte_fr": "Mais s'ils font un vœu au Maître Joker,\nles visages des élèves redeviendraient\nnormaux en un rien de temps."
+    "texte_fr": "Mais un vœu au Joker et les\nvisages des élèves seront\nnormaux illico."
   },
   {
     "id": 18,
@@ -197,7 +197,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "So[SP]what[SP]did[SP]he[SP]give[SP]you!?",
     "nom_fr": "Yukino",
-    "texte_fr": "Et lui, il vous a donné quoi !?"
+    "texte_fr": "Il a donné quoi?"
   },
   {
     "id": 20,
@@ -209,7 +209,7 @@
     "nom_fr": "Directeur Hanya",
     "texte_fr": "Hahaha ! Moi ? Mon vœu était de devenir\nun directeur aimé de ses élèves...[1205][001E]\nAinsi que cette magnifique chevelure !"
   },
-  {
+ {
     "id": 21,
     "offset": 255506,
     "slot_size": 116,
@@ -217,7 +217,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Joker![SP]Weren't[SP]you[SP]out[SP]for[SP]revenge\non[SP]us!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Joker ! Tu voulais pas te venger\nde nous !?"
+    "texte_fr": "Joker! Tu voulais pas te\nvenger de nous!?"
   },
   {
     "id": 22,
@@ -237,7 +237,7 @@
     "nom_orig": "Joker",
     "texte_orig": "The[SP]seven[SP]Pleaides[SP]set[SP]the[SP]frozen[SP]time[SP]free...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Joker\nRevenge[SP]isn't[SP]my[SP]only[SP]motive.",
     "nom_fr": "Joker",
-    "texte_fr": "Les sept Pléiades ont libéré le temps figé...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Joker\nLa vengeance n'est pas mon seul mobile."
+    "texte_fr": "Les Pléiades ont libéré le temps...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Joker\nLa vengeance n'est pas mon seul mobile."
   },
   {
     "id": 24,
@@ -257,7 +257,7 @@
     "nom_orig": "Joker",
     "texte_orig": "I'll[SP]never[SP]let[SP]you[SP]destroy[SP]my[SP]dream\nagain...[1205][001E][SP]I[SP]won't[SP]make[SP]the[SP]same\nmistake[SP]twice!",
     "nom_fr": "Joker",
-    "texte_fr": "Je te laisserai jamais détruire mon rêve\nencore...[1205][001E] Je ne ferai pas deux fois\nla même erreur !"
+    "texte_fr": "Je te laisserai plus détruire mon\nrêve...[1205][001E] Je ne ferai plus\ncette erreur!"
   },
   {
     "id": 26,
@@ -277,7 +277,7 @@
     "nom_orig": "Joker",
     "texte_orig": "Time[SP]is[SP]free[SP]again...[1205][001E][SP]Heed[SP]the[SP]sound[SP]of[SP]the\nbells[SP]that[SP]toll[SP]for[SP]your[SP]dreams!",
     "nom_fr": "Joker",
-    "texte_fr": "Le temps est libre à nouveau...[1205][001E]\nÉcoutez le son des cloches qui\nsonnent le glas de vos rêves !"
+    "texte_fr": "Temps libre...[1205][001E] Écoutez\nles cloches sonner le glas\nde vos rêves!"
   },
   {
     "id": 28,
@@ -307,6 +307,6 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Gah![SP]Get[SP]out[SP]of[SP]our[SP]way!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hé ! Poussez-vous de là !"
+    "texte_fr": "Hé! Poussez-vous!"
   }
 ]

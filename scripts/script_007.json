@@ -7,7 +7,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What's[SP]the[SP]matter?[SP]Why[SP]all[SP]this[SP]fuss[SP]over\na[SP]clock[SP]starting?",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est quoi le problème ? Tout ce foin\npour une horloge qui redémarre ?"
+    "texte_fr": "Pourquoi tout ce foin\npour une simple horloge?"
   },
   {
     "id": 1,
@@ -17,7 +17,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "There's[SP]tons[SP]of[SP]scary[SP]rumors[SP]about[SP]this\ntower![SP]Like,[SP]ghosts[SP]appearing[SP]and[SP]other\nbad[SP]stuff[SP]when[SP]the[SP]clock[SP]starts[SP]again.",
     "nom_fr": "Lisa",
-    "texte_fr": "Il y a des tonnes de rumeurs flippantes\nsur cette tour ! Genre des fantômes\net d'autres trucs quand\nl'horloge redémarre."
+    "texte_fr": "Y'a des tonnes de rumeurs flippantes\nsur cette tour! Des fantômes\net d'autres trucs quand\nl'horloge redémarre."
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "nom_orig": "Janitor",
     "texte_orig": "Oh[SP]no...[SP]What[SP]a[SP]terrible[SP]omen...\nNamu[SP]Amida[SP]Butsu,[SP]Namu[SP]Amida[SP]Butsu...",
     "nom_fr": "Concierge",
-    "texte_fr": "Oh non... Quel terrible présage...\nNamu Amida Butsu, Namu Amida Butsu..."
+    "texte_fr": "Oh non... Mauvais présage...\nNamu Amida Butsu, Namu Amida Butsu..."
   },
   {
     "id": 3,
@@ -47,7 +47,7 @@
     "nom_orig": "Janitor",
     "texte_orig": "No![SP]Something[SP]awful[SP]will[SP]happen![SP]Before\nhe[SP]died,[SP]that[SP]teacher[SP]said,[SP][1432][NULL][NULL][0014]The[SP]world\nwill[SP]end[SP]if[SP]time[SP]is[SP]not[SP]stopped.[1432][NULL][NULL][0014]",
     "nom_fr": "Concierge",
-    "texte_fr": "Non ! Quelque chose d'horrible va arriver !\nAvant de mourir, ce prof a dit : [1432][NULL][NULL][0014]Le monde\nfinira si le temps n'est pas arrêté.[1432][NULL][NULL][0014]"
+    "texte_fr": "Non! Un malheur va arriver!\nAvant sa mort, le prof a dit: [1432][NULL][NULL][0014]Le monde\nfinira si on n'arrête pas le temps.[1432][NULL][NULL][0014]"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "nom_orig": "Janitor",
     "texte_orig": "Yes,[SP]that's[SP]right...[SP]That[SP]teacher[SP]nobly\nsacrificed[SP]his[SP]life[SP]to[SP]save[SP]the[SP]children\nand[SP]ensure[SP]world[SP]peace!",
     "nom_fr": "Concierge",
-    "texte_fr": "Oui, c'est ça... Ce prof a noblement\nsacrifié sa vie pour sauver les enfants\net assurer la paix mondiale !"
+    "texte_fr": "Oui, c'est ça... Ce prof a sacrifié\nsa vie pour sauver les enfants\net assurer la paix mondiale!"
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "No...[SP]This[SP]can't[SP]be![SP][1432][NULL][NULL][0014]The[SP]seven[SP]Pleiades[SP]set\nthe[SP]frozen[SP]time[SP]free[1432][NULL][NULL][0014]...[1205][001E][SP]Has[SP]it[SP]begun!?[E1][E2]\n[E3][E4][NULL][NULL]\"Ms.[SP]Ideal\n*gasp*[1205][0014][SP]The[SP]Narurato[SP]Stone![SP]What[SP]about\nthe[SP]Narurato[SP]Stone!?",
     "nom_fr": "Mme Ideal",
-    "texte_fr": "Non... C'est impossible ! [1432][NULL][NULL][0014]Les sept Pléiades\nont libéré le temps figé[1432][NULL][NULL][0014]...[1205][001E] Ça a\ncommencé !?[E1][E2]\n[E3][E4][NULL][NULL]\"Mme Ideal\n*halète*[1205][0014] La Pierre Narurato !\nQu'en est-il de la Pierre Narurato !?"
+    "texte_fr": "Non... Impossible! [1432][NULL][NULL][0014]Les sept Pléiades\nont libéré le temps figé[1432][NULL][NULL][0014]...[1205][001E] Ça a\ncommencé!?[E1][E2]\n[E3][E4][NULL][NULL]\"Mme Ideal\n*halète*[1205][0014] La Pierre Narurato!\nEt la Pierre Narurato!?"
   },
   {
     "id": 8,
@@ -87,7 +87,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "What's[SP]gotten[SP]into[SP]Ms.[SP]Ideal?[SP]Can[SP]this\nday[SP]get[SP]any[SP]crazier!?",
     "nom_fr": "Lycéen",
-    "texte_fr": "Qu'est-ce qui prend à Mme Ideal ?\nCette journée peut être encore plus dingue !?"
+    "texte_fr": "Qu'est-ce qui prend à Mme Ideal?\nCette journée peut être pire!?"
   },
   {
     "id": 9,
@@ -97,7 +97,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "The[SP]big[SP]clock's[SP]started[SP]again,[SP]so...\nI'd[SP]say[SP]yes!",
     "nom_fr": "Lycéen",
-    "texte_fr": "La grande horloge a redémarré,\nalors... je dirais que oui !"
+    "texte_fr": "La grande horloge a redémarré,\nalors... je dirais oui!"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Can[SP]we[SP]really[SP]prevent[SP]the[SP]curse[SP]by\ntaking[SP]the[SP]emblems[SP]off[SP]our[SP]uniforms!?",
     "nom_fr": "Lycéenne",
-    "texte_fr": "On peut vraiment stopper la malédiction\nen retirant les emblèmes de\nnos uniformes !?"
+    "texte_fr": "On peut stopper la malédiction\nen retirant les emblèmes de\nnos uniformes!?"
   },
   {
     "id": 11,
@@ -127,7 +127,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Oh[SP]god![SP]Y-Your[SP]face...!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Oh mon dieu ! T-Ton visage... !"
+    "texte_fr": "Oh dieu! T-Ton visage...!"
   },
   {
     "id": 13,
@@ -137,7 +137,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "The[SP]curse![SP]It's[SP]the[SP]emblem[SP]curse!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "La malédiction ! C'est la malédiction\nde l'emblème !"
+    "texte_fr": "C'est la malédiction de l'emblème!"
   },
   {
     "id": 14,
@@ -147,7 +147,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Dude,[SP]what!?[SP]Did[SP]that[SP]girl's[SP]face[SP]just...?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mec, quoi !? Le visage de cette fille\nvient de... ?"
+    "texte_fr": "Mec, quoi!? Le visage de cette fille...?"
   },
   {
     "id": 15,
@@ -157,6 +157,6 @@
     "nom_orig": "Lisa",
     "texte_orig": "Kehhei!?[SP]What's[SP]going[SP]on!?[SP]Does[SP]this[SP]mean\nit[SP]isn't[SP]enough[SP]to[SP]take[SP]the[SP]emblems[SP]off\nour[SP]uniforms!?",
     "nom_fr": "Lisa",
-    "texte_fr": "Quoi !? Qu'est-ce qui se passe !?\nÇa veut dire que c'est pas suffisant\nd'enlever les emblèmes de nos uniformes !?"
+    "texte_fr": "Quoi!? Qu'est-ce qui se passe!?\nEnlever les emblèmes de nos uniformes\nn'est donc pas suffisant!?"
   }
 ]

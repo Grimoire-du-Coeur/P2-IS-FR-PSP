@@ -27,7 +27,7 @@
     "nom_orig": "Janitor",
     "texte_orig": "Hm?[SP]Key?",
     "nom_fr": "Concierge",
-    "texte_fr": "Clé?"
+    "texte_fr": "Hein?"
   },
   {
     "id": 3,
@@ -47,7 +47,7 @@
     "nom_orig": "Janitor",
     "texte_orig": "The[SP]clock[SP]tower[SP]key...[1205][001E][SP]Hmmm,[SP]where[SP]did\nI[SP]put[SP]it?",
     "nom_fr": "Concierge",
-    "texte_fr": "La[SP]clé[SP]de[SP]la[SP]tour...[1205][001E]\nHmmm,[SP]où[SP]l'ai-je[SP]mise?"
+    "texte_fr": "La[SP]clé[SP]de[SP]la[SP]tour...[1205][001E][SP]Hmmm,\noù[SP]l'ai-je[SP]mise?"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Who[SP]knows[SP]when[SP]this[SP]guy'll[SP]remember...\nIt'd[SP]be[SP]faster[SP]to[SP]look[SP]ourselves.",
     "nom_fr": "Yukino",
-    "texte_fr": "S'il[SP]doit[SP]s'en[SP]souvenir...\nCherchons[SP]nous-mêmes."
+    "texte_fr": "Qui[SP]sait[SP]quand[SP]il[SP]s'en[SP]souviendra...\nCherchons[SP]nous-mêmes."
   },
   {
     "id": 7,
@@ -87,7 +87,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Oh[SP]man...[SP]Then[SP]what[SP]should[SP]we[SP]do?",
     "nom_fr": "Maya",
-    "texte_fr": "Mince...[SP]On[SP]fait[SP]quoi?"
+    "texte_fr": "Oh[SP]là[SP]là...[SP]On[SP]fait[SP]quoi?"
   },
   {
     "id": 9,
@@ -97,7 +97,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "By[SP]the[SP]way,[SP]gramps.[SP]I[SP]keep[SP]wondering...\nWhat's[SP]that?",
     "nom_fr": "Michel",
-    "texte_fr": "Au[SP]fait,[SP]papy.[SP]Je[SP]me[SP]demandais...\nC'est[SP]quoi[SP]ça?"
+    "texte_fr": "Au[SP]fait,[SP]papy.[SP]Je[SP]me\ndemande...[SP]C'est[SP]quoi?"
   },
   {
     "id": 10,
@@ -119,7 +119,7 @@
     "nom_fr": "Michel",
     "texte_fr": "Euh...[SP]l'étiquette[SP]dit...\nHor...[1205][U+000A][SP]loge...[1205][U+000A]..."
   },
-  {
+ {
     "id": 12,
     "offset": 254318,
     "slot_size": 164,
@@ -127,7 +127,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hot[SP]diggity![SP]I[SP]found[SP]us[SP]the[SP]key.\nNow[SP]let's[SP]get[SP]to[SP]that[SP]clock[SP]tower!",
     "nom_fr": "Michel",
-    "texte_fr": "Génial![SP]J'ai[SP]la[SP]clé.[SP]Vite,\nallons[SP]à[SP]cette[SP]tour!"
+    "texte_fr": "Génial![SP]J'ai[SP]la[SP]clé.\nEn[SP]route[SP]vers[SP]cette[SP]tour!"
   },
   {
     "id": 13,
