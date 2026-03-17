@@ -16,8 +16,8 @@
     "data_size": 90,
     "nom_orig": "Thuggish[SP]student",
     "texte_orig": "Yo...[SP]Goin'[SP]somewhere?",
-    "nom_fr": "Voyou 1",
-    "texte_fr": "Eh... Tu vas quelque part ?"
+    "nom_fr": "Étudiant effronté",
+    "texte_fr": "Bah alors... on va quelque part ?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 170,
     "nom_orig": "Less[SP]thuggish[SP]student",
     "texte_orig": "Heheh![SP]That[SP]piece[SP]of[SP]crap[SP]ain't[SP]gonna\nstart[SP]without[SP]this.",
-    "nom_fr": "Voyou 2",
-    "texte_fr": "Héhé ! Cette merde ne risque pas de\ndémarrer sans cette pièce."
+    "nom_fr": "Étudiant suiveur",
+    "texte_fr": "Héhé ! Ce tas de merde ne risque pas de\ndémarrer sans ça."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 246,
     "nom_orig": "Thuggish[SP]student",
     "texte_orig": "Nothin'[SP]to[SP]say,[SP]huh?[1205][001E][SP]I[SP]don't[SP]like[SP]that\nprissy[SP]face[SP]of[SP]yours.[SP]You[SP]think[SP]you're\nhot[SP]shit,[SP]don't[SP]you?",
-    "nom_fr": "Voyou 1",
-    "texte_fr": "Rien à dire, hein ?[1205][001E] J'aime pas ta\ntête de fayot. Tu te crois\nplus malin que les autres hein ?"
+    "nom_fr": "Étudiant effronté",
+    "texte_fr": "Rien à dire, hein ?[1205][001E] J'aime pas ta\ntête de coincé. Tu te crois\nplus malin que les autres, hein ?"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "nom_orig": "Thuggish[SP]student",
     "texte_orig": "D-Dude...[SP]What's[SP]wrong[SP]with[SP]you!?",
     "nom_fr": "Voyou 1",
-    "texte_fr": "M-Mec... Qu'est-ce qui t'arrive !?"
+    "texte_fr": "M-Mec... Il t'arrive quoi là !?"
   },
   {
     "id": 6,
@@ -76,8 +76,8 @@
     "data_size": 170,
     "nom_orig": "Less[SP]thuggish[SP]student",
     "texte_orig": "S-Somethin's[SP]wrong[SP]here...[SP]This[SP]guy's\nsweating[SP]bullets...",
-    "nom_fr": "Voyou 2",
-    "texte_fr": "Y - Y'a un truc qui cloche... Ce type est en sueur..."
+    "nom_fr": "Étudiant suiveur",
+    "texte_fr": "Y - Y a un truc bizarre là... Le mec est en sueur..."
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 136,
     "nom_orig": "Unknown[SP]voice",
     "texte_orig": "Do[SP]not[SP]fear[SP]me...[1205]-[SP]I[SP]am[SP]thou...[1205]-\nThou[SP]art[SP]I...",
-    "nom_fr": "Voix",
-    "texte_fr": "Ne me crains pas... [1205]- Je suis toi... [1205]-\nTu es moi..."
+    "nom_fr": "Voix inconnue",
+    "texte_fr": "N'aie crainte... [1205]- Je suis toi... [1205]-\nTu es moi..."
   },
   {
     "id": 9,
@@ -116,8 +116,8 @@
     "data_size": 250,
     "nom_orig": "Thuggish[SP]student",
     "texte_orig": "P-Principal[SP]Hanya!?[SP]O-Okay,[SP]sir![SP]We'll\ngo[SP]straight[SP]home[SP]and[SP]do[SP]our[SP]schoolwork!\nC'mon,[SP]man,[SP]l-let's[SP]go!",
-    "nom_fr": "Voyou 1",
-    "texte_fr": "M-M. le Directeur!? O-Oui m'sieur!\nOn rentre direct faire nos devoirs !"
+    "nom_fr": "Étudiant effronté",
+    "texte_fr": "M-M. le Directeur!? O-Oui m'sieur!\nOn va rentrer faire nos devoirs ! Allez mec, on se tire !"
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 138,
     "nom_orig": "Less[SP]thuggish[SP]student",
     "texte_orig": "H-Here,[SP]we're[SP]done[SP]borrowing[SP]this!\nSeeya!",
-    "nom_fr": "Voyou 2",
-    "texte_fr": "T-Tiens, on a fini de t'emprunter ça !\nSalut !"
+    "nom_fr": "Étudiant suiveur",
+    "texte_fr": "T-Tiens, on a fini de te l'emprunter !\nSalut !"
   },
   {
     "id": 13,
@@ -137,7 +137,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Just[SP]so[SP]long[SP]as[SP]you[SP]understand,[SP]hahaha!\nAhhh,[SP]what[SP]a[SP]delight[SP]children[SP]are!",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Très bien, hahaha ! Ah,qu'ils sont\nadorables ces jeunes !"
+    "texte_fr": "Bien, j'ai l'air de m'être fait comprendre, hahaha ! Ah, qu'ils sont\nadorables ces jeunes !"
   },
   {
     "id": 14,
@@ -147,7 +147,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "That[SP]goes[SP]for[SP]you[SP]too![SP]Didn't[SP]you[SP]hear\nwhat[SP]I[SP]said!?",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Et toi aussi ! T'as pas entendu ce que j'ai dit !?"
+    "texte_fr": "Ça vaut pour toi aussi ! T'as pas entendu ce que j'ai dit !?"
   },
   {
     "id": 15,
@@ -157,7 +157,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Why[SP]won't[SP]you[SP]obey[SP]me!?\nThis[SP]is[SP]unacceptable!",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Pourquoi tu m'obeis pas !?\nC'est inadmissible !"
+    "texte_fr": "Pourquoi ne m'obéis-tu pas !?\nC'est inadmissible !"
   },
   {
     "id": 16,
@@ -167,7 +167,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "You![SP]Who[SP]are[SP]you[SP]and[SP]what[SP]class[SP]are\nyou[SP]in!?[SP]State[SP]your[SP]name![SP]C'mon,[SP]spit\nit[SP]out[SP]already!",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Toi ! T'es qui et dans quelle classe es-tu ?!\nAllez, crache ton nom !"
+    "texte_fr": "Toi ! Qui es-tu et dans quelle classe es-tu ?!\nPlus vite que ça !"
   },
   {
     "id": 17,
@@ -187,7 +187,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "If[SP]that[SP]nasty[SP]resonance[SP]I[SP]sensed[SP]from[SP]the\nhall[SP]was[SP]you,[SP]it[SP]makes[SP]sense...[SP][1205][001E]Looks[SP]like\nyou're[SP]as[SP]much[SP]trouble[SP]as[SP]the[SP]rumors[SP]say.",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Si c'est de toi que provenait cette vibration dans le\ncouloir, ça a du sens... [1205][001E]Les rumeurs sur ta\nature en tant que fouteur de troubles semble être vraie."
+    "texte_fr": "Si cette vibration que j'ai ressentie depuis le couloir \nvient de toi, ça fait sens... [1205][001E]Il semblerait que\n ta réputation te précède bel et bien."
   },
   {
     "id": 19,
@@ -197,7 +197,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Hahah...[SP]Well,[SP]I'll[SP]let[SP]you[SP]alone.[SP][1432][NULL][NULL][0014]He'll[1432][NULL][NULL][0014]\nbe[SP]along[SP]to[SP]guide[SP]you[SP]soon[SP]enough.[SP]Enjoy\nwhat[SP]few[SP]moments[SP]are[SP]left[SP]of[SP]your[SP]youth.",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Haha... Bon, je te laisse. [1432][NULL][NULL][0014]Il[1432][NULL][NULL][0014]\nviendra te guider bientôt.\nProfite du peu de jeunesse qu'il te reste."
+    "texte_fr": "Haha... Bon, je te laisse pour cette fois. [1432][NULL][NULL][0014]Il[1432][NULL][NULL][0014]\nviendra te guider bientôt.\nProfite du peu de jeunesse qu'il te reste."
   },
   {
     "id": 20,
@@ -207,7 +207,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Yo,[SP]looks[SP]like[SP]you[SP]got[SP]a[SP]raw[SP]deal.\nThen[SP]again,[SP]Principal[SP]Hanya's[SP]a[SP]great[SP]man,\nso[SP]I[SP]suggest[SP]you[SP]listen[SP]to[SP]what[SP]he[SP]says.",
     "nom_fr": "Lycéen",
-    "texte_fr": "Yo, on dirait que t'as pris cher. Mais\nHanya est un grand homme, tu devrais\nécouter ce qu'il dit."
+    "texte_fr": "Eh ben, on dirait que t'as pris cher. Mais\nHanya est un homme bien, tu devrais\nécouter ce qu'il dit."
   },
   {
     "id": 21,
@@ -217,7 +217,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Hey,[SP]no[SP]need[SP]to[SP]glare[SP]like[SP]that.[SP]I[SP]just\ncame[SP]to[SP]say[SP]that[SP]Ms.[SP]Saeko[SP]is[SP]looking\nfor[SP]you.",
     "nom_fr": "Lycéen",
-    "texte_fr": "Hé, me regarde pas comme ça. Je voulais\njuste te dire que Mme Saeko te cherche."
+    "texte_fr": "Hé, me regarde pas comme ça. Je venais\njuste te dire que Mme Saeko te cherche."
   },
   {
     "id": 22,
@@ -227,7 +227,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "You've[SP]been[SP]dodging[SP]guidance[SP]counseling,\neh?[SP]She[SP]looked[SP]ready[SP]to[SP]chase[SP]you[SP]all[SP]the\nway[SP]to[SP]your[SP]house.[SP]Better[SP]go[SP]see[SP]her.",
     "nom_fr": "Lycéen",
-    "texte_fr": "T'as séché l'orientation, hein ? Elle\nallait te poursuivre jusque chez toi.\nVa vite la voir."
+    "texte_fr": "T'as séché l'orientation, hein ? Elle\navait l'air prête à te poursuivre jusque chez toi.\nVa vite la voir."
   },
   {
     "id": 23,
@@ -237,7 +237,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "*sigh*[SP]I've[SP]taken[SP]ill[SP]myself.[SP]I[SP]woke[SP]up\nthis[SP]morning[SP]with[SP]a[SP]swollen[SP]face[SP]and[SP]a\nbald[SP]spot.[SP]Laugh[SP]if[SP]you[SP]want...",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "*soupir* Je suis malade aussi. Je me suis\nréveillé ce matin avec le visage enflé. Moque-toi\nsi tu veux..."
+    "texte_fr": "*soupir* À mon tour d'être malade. Je me suis\nréveillé ce matin avec le visage enflé et des cheveux en moins. Moque-toi\nvas-y..."
   },
   {
     "id": 24,
@@ -247,7 +247,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "I[SP]don't[SP]envy[SP]your[SP]long[SP]hair[SP]at[SP]all.[SP]In[SP]the\nyears[SP]to[SP]come,[SP]everyone[SP]will[SP]go[SP]bald\nanyway.[1205][001E][SP]Heh...[1205][001E][SP]I'll[SP]be[SP]waiting,[SP][U+1113].",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "J'envie pas tes cheveux longs. Bientôt,\ntout le monde sera chauve de toute façon.\n[1205][001E] Hé...[1205][001E] Je t'attendrai."
+    "texte_fr": "J'envie pas du tout tes cheveux longs. Bientôt,\ntout le monde sera chauve de toute façon.\n[1205][001E] Hé...[1205][001E] t'es le prochain, ."
   },
   {
     "id": 25,
@@ -257,7 +257,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "Bad[SP]luck,[SP][U+1113]-senpai.[SP]I'm[SP]surprised\nat[SP]how[SP]popular[SP]Principal[SP]Hanya[SP]is.[1205][001E][SP]He's\nawful,[SP]but[SP]I[SP]like[SP]him...[SP]Why[SP]is[SP]that?",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Pas de chance, senpai. Étonnant qu'Hanya\nsoit si populaire. [1205][001E] Il est affreux,\nmais je l'aime bien..."
+    "texte_fr": "Pas de chance pour toi, senpai. Ça m'étonne qu'Hanya\nsoit si populaire. [1205][001E] Il est affreux,\nmais je l'aime bien... comment ça se fait ?"
   },
   {
     "id": 26,
@@ -267,7 +267,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "You[SP]maintain[SP]your[SP]own[SP]bike,[SP]right,\n[U+1113]?[SP]Looks[SP]like[SP]the[SP]rumors[SP]were[SP]true\nabout[SP]you[SP]being[SP]good[SP]with[SP]machines.",
     "nom_fr": "Lycéen",
-    "texte_fr": "Tu répares ta moto tout seul ? On dirait\nque les rumeurs sur tes talents en\nmécanique sont vraies."
+    "texte_fr": "T'entretiens vraiment ta moto tout seul ? On dirait\nque les rumeurs sur tes talents en\nmécanique étaient vraies."
   },
   {
     "id": 27,
@@ -277,6 +277,6 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "[U+1113]-senpai!?[SP]This[SP]is[SP]so[SP]sudden...[1205][001E]\nI'm[SP]inexperienced...[SP]My[SP]heart's[SP]not\nready...[1205][001E][SP]But[SP]maybe[SP]for[SP]you,[SP]I[SP]could...!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "[U+1113]-Senpai !? C'est si soudain... [1205][001E] Je n'ai\npas d'expérience... Mon cœur n'est pas\nprêt... [1205][001E] Mais pour toi je pourrais..."
+    "texte_fr": "[U+1113]-Senpai !? C'est si soudain... [1205][001E] J'ai aucune\nexpérience... Mon cœur n'est pas\nprêt... [1205][001E] Mais pour toi, je pourrais...!"
   }
 ]
