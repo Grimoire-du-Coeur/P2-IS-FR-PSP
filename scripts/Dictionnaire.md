@@ -15,10 +15,10 @@
 | Big sis | sœurette |
 | Sailor suited girl | Lycéenne |
 | Black-masked boy  | Garçon masqué  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| King Leo | Roi Lion |
+| Queen Aquarius | Reine Verseau |
+| Lady Scorpio | Dame Scorpion |
+| Prince Taurus | Prince Taureau |
 |  |  |
 |  |  |
 |  |  |
