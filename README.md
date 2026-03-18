@@ -11,6 +11,7 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 
 ## 📺 Vidéo de présentation
 🎬 **[Clique ici pour voir la vidéo](https://youtu.be/wxEEJYjx2Sw)**
+
 ![Miniature](https://img.youtube.com/vi/wxEEJYjx2Sw/maxresdefault.jpg)
 
 ---
