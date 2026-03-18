@@ -6,8 +6,8 @@
     "data_size": 258,
     "nom_orig": "Eikichi",
     "texte_orig": "They[SP]say[SP]that[SP]once[SP]you[SP]enter[SP]the[SP]air[SP]raid\nshelter[SP]up[SP]ahead,[SP]you[SP]can[SP]never[SP]get[SP]out.[1205][U+000F]\nCareful[SP]not[SP]to[SP]wander[SP]in[SP]there.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "On dit qu'entrer dans l'abri anti-aérien\nplus loin est un aller sans retour.[1205][U+000F]\nFais gaffe à pas t'y aventurer."
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 228,
     "nom_orig": "Eikichi",
     "texte_orig": "Argh![SP]There's[SP]mud[SP]on[SP]my[SP]favorite[SP]tunic...[1205][U+000F]\nDamn[SP]that[SP]Yasuo![SP]I'm[SP]sticking[SP]him[SP]with[SP]the\ncleaning[SP]bill!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Argh! Ma tunique préférée est\npleine de boue...[1205][U+000F] Maudit Yasuo!\nIl paiera le pressing!"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 288,
     "nom_orig": "Ginko",
     "texte_orig": "Yikes...[SP]This[SP]sure[SP]feels[SP]disgusting.[SP]Cuss[SP]High\nreally[SP]lives[SP]up[SP]to[SP]its[SP]name,[SP]having[SP]something\nlike[SP]this.[SP]C'mon,[SP]let's[SP]get[SP]out[SP]of[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Yikes... C'est vraiment dégoûtant.\nLe Lycée Kakasu porte bien son nom\npour abriter un tel endroit. Allez,\nsortons d'ici."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 166,
     "nom_orig": "Ginko",
     "texte_orig": "I-It[SP]wasn't[SP]my[SP]fault![SP]Eikichi[SP]went[SP]in,[SP]so[SP]I\nhad[SP]no[SP]choice...[1205][U+000F][SP]Right,[SP][U+1113]?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "C'est sa faute! J'ai dû\nsuivre Eikichi...[1205][U+000F]\nPas vrai, [U+1113]?"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 224,
     "nom_orig": "Maya",
     "texte_orig": "Know[SP]what,[SP][U+1113]?[SP]Up[SP]ahead[SP]is[SP]a[SP]bomb\nshelter[SP]they[SP]built[SP]way[SP]back[SP]when.[SP]I[SP]wonder\nwhat[SP]it's[SP]like[SP]in[SP]there...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Tu sais [U+1113]? Plus loin y a\nun vieil abri anti-aérien.\nJe me demande comment\nc'est à l'intérieur..."
   },
   {
     "id": 5,
@@ -56,18 +56,18 @@
     "data_size": 264,
     "nom_orig": "Maya",
     "texte_orig": "From[SP]what[SP]we[SP]overheard,[SP]the[SP]president[SP]is[SP]still\nscheming[SP]something.[SP]We[SP]have[SP]to[SP]take[SP]him[SP]down\nbefore[SP]he[SP]tries[SP]anything[SP]else.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "D'après ce qu'on a entendu, le président\nprépare encore un coup. On doit\nl'arrêter avant qu'il ne tente\nautre chose."
   },
-  {
+ {
     "id": 6,
     "offset": 264738,
     "slot_size": 262,
     "data_size": 258,
     "nom_orig": "Yukino",
     "texte_orig": "Sevens'[SP]clock[SP]tower...[SP]The[SP]shelter[SP]here...[1205][U+000F]\nGuess[SP]all[SP]schools[SP]have[SP]skeletons[SP]in[SP]the[SP]closet.\nSt.[SP]Hermelin[SP]did,[SP]too...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "L'horloge des Seven...\nL'abri ici...[1205][U+000F] Les lycées ont\ntous des squelettes dans\nle placard. St. Hermelin aussi..."
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 288,
     "nom_orig": "Yukino",
     "texte_orig": "It's[SP]both[SP]your[SP]faults![1205][U+000F][SP]Seriously,[SP]without\nknowing[SP]what[SP]kind[SP]of[SP]traps[SP]there[SP]are,[SP]don't\neven[SP]think[SP]of[SP]wandering[SP]off[SP]like[SP]that[SP]again!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "C'est votre faute à tous les deux![1205][U+000F]\nSérieux, arrêtez de vous aventurer\ncomme ça sans même connaître les\npièges qui s'y trouvent!"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 292,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Oh,[SP]don't[SP]go[SP]in[SP]there.[SP]It[SP]was[SP]originally[SP]an[SP]air\nraid[SP]shelter,[SP]but[SP]rumor[SP]has[SP]it[SP]that[SP]once[SP]you[SP]go\ninside,[SP]you[SP]can't[SP]find[SP]the[SP]exit.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Élève",
+    "texte_fr": "N'entrez pas. C'était un abri\nanti-aérien à la base, mais on\nraconte qu'une fois à l'intérieur,\non ne trouve jamais la sortie."
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 254,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Look,[SP]it's[SP]just[SP]dangerous,[SP]okay?[SP]We[SP]don't\nwant[SP]visitors[SP]wandering[SP]in[SP]by[SP]accident,[SP]so[SP]I'm\nstanding[SP]guard[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Élève",
+    "texte_fr": "C'est dangereux, ok? On ne veut\npas que des visiteurs s'y perdent\npar accident, alors je monte\nla garde ici."
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 292,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Oh,[SP]don't[SP]go[SP]in[SP]there.[SP]It[SP]was[SP]originally[SP]an[SP]air\nraid[SP]shelter,[SP]but[SP]rumor[SP]has[SP]it[SP]that[SP]once[SP]you[SP]go\ninside,[SP]you[SP]can't[SP]find[SP]the[SP]exit.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Élève",
+    "texte_fr": "N'entrez pas. C'était un abri\nanti-aérien à la base, mais on\nraconte qu'une fois à l'intérieur,\non ne trouve jamais la sortie."
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 254,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Look,[SP]it's[SP]just[SP]dangerous,[SP]okay?[SP]We[SP]don't\nwant[SP]visitors[SP]wandering[SP]in[SP]by[SP]accident,[SP]so[SP]I'm\nstanding[SP]guard[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Élève",
+    "texte_fr": "C'est dangereux, ok? On ne veut\npas que des visiteurs s'y perdent\npar accident, alors je monte\nla garde ici."
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 106,
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]could[SP]that[SP]president[SP]guy[SP]be[SP]in[SP]here!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Hé, ce président serait à l'intérieur!?"
   },
   {
     "id": 13,
@@ -136,8 +136,8 @@
     "data_size": 94,
     "nom_orig": "President's[SP]voice",
     "texte_orig": "P-Please...[SP]let[SP]me[SP]go...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Président",
+    "texte_fr": "P-Pitié... Lâchez-moi..."
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 180,
     "nom_orig": "President's[SP]voice",
     "texte_orig": "I-I[SP]was[SP]wrong...[1205][U+000F][SP]I'll[SP]never[SP]do[SP]it[SP]again...[1205][U+000F]\nJ-Just[SP]forgive[SP]me...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Président",
+    "texte_fr": "J-J'avais tort...[1205][U+000F] Je ne le referai\nplus jamais...[1205][U+000F] P-Pardonnez-moi..."
   },
   {
     "id": 15,
@@ -156,8 +156,8 @@
     "data_size": 276,
     "nom_orig": "Eikichi",
     "texte_orig": "Forgive[SP]you?[1205][U+000F][SP]Forget[SP]that![SP]There's[SP]a[SP]whole\nlaundry[SP]list[SP]of[SP]stuff[SP]we[SP]gotta[SP]ask[SP]you!\nThere's[SP]no[SP]way[SP]we're[SP]just[SP]letting[SP]you[SP]go!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Te pardonner?[1205][U+000F] Oublie ça! On a\ntoute une liste de trucs à te\ndemander! Hors de question qu'on\nte laisse partir comme ça!"
   },
   {
     "id": 16,
@@ -166,8 +166,8 @@
     "data_size": 164,
     "nom_orig": "Ginko",
     "texte_orig": "You're[SP]gonna[SP]tell[SP]us[SP]about[SP]the[SP]emblem[SP]curse\nwhether[SP]you[SP]like[SP]it[SP]or[SP]not!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Parle-nous de la malédiction de\nl'emblème, que ça te plaise ou non!"
   },
   {
     "id": 17,
@@ -176,8 +176,8 @@
     "data_size": 72,
     "nom_orig": "Maya",
     "texte_orig": "Wh-Whoa![SP]Hold[SP]on,[SP]you[SP]two!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Whoa! Minute vous deux!"
   },
   {
     "id": 18,
@@ -186,7 +186,7 @@
     "data_size": 122,
     "nom_orig": "Yukino",
     "texte_orig": "Arrgh...[1205][U+000F][SP]Why[SP]do[SP]they[SP]rush[SP]in[SP]without[SP]thinking!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Arrgh...[1205][U+000F] Pourquoi foncent-ils\nsans réfléchir!?"
   }
 ]
