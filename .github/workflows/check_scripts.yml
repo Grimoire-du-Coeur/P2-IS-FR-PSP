@@ -1,0 +1,39 @@
+name: Script Check
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/**'
+
+jobs:
+  check_scripts:
+    name: Check Scripts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Checkout json-verify repository
+        uses: actions/checkout@v4
+        with:
+          repository: Garloulou/JsonVerify
+          path: JsonVerify
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.14'
+
+      - name: Filter changed scripts
+        uses: dorny/paths-filter@v2
+        id: filter
+        with:
+          filters: |
+            changed:
+              - 'scripts/*.json'
+          list-files: 'escape'
+
+      - name: Run json-verify
+        run: |
+          python JsonVerify/cli.py ${{ steps.filter.outputs.changed_files }}
