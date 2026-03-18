@@ -6,8 +6,8 @@
     "data_size": 176,
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]get[SP]what[SP]Maya-san's[SP]saying,[SP]but[SP]I[SP]still\nthink[SP]we[SP]should[SP]go[SP]rescue[SP]Ginko!",
-    "nom_fr": "Eikichi"
-    "texte_fr": "je comprends ce que Maya-san dit, mais je \npense que nous devrions quand même allez sauver Ginko !",
+    "nom_fr": "Eikichi",
+    "texte_fr": "je comprends ce que Maya-san dit, mais je \npense que nous devrions quand même allez sauver Ginko !"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "C'mon,[SP][U+1113],[SP]let's[SP]go[SP]save[SP]her!\n[U+1208][U+0003][1432][NULL][NULL][0014]Let's[SP]wait[SP]and[SP]see[SP]what[SP]happens.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Let's[SP]go[SP]rescue[SP]her![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Let[SP]me[SP]think[SP]about[SP]this...[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Eikichi\nWHAT!?[SP]Dude...[SP]You[SP]disappoint[SP]me![SP]Think[SP]about\nGinko's[SP]feelings[SP]for[SP]once!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Allez, [U+1113], allons la sauver !\n[U+1208][U+0003][1432][NULL][NULL][0014] Attendons et regardons ce qui ce passe.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014] Allons la sauver ![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014] Laisse moi y reflechir...[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Eikichi\nQUOI!? Mec... tu me decois! Pense à ce que \nGinko ressent pour une fois !",
+    "texte_fr": "Allez, [U+1113], allons la sauver !\n[U+1208][U+0003][1432][NULL][NULL][0014] Attendons et regardons ce qui ce passe.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014] Allons la sauver ![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014] Laisse moi y reflechir...[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Eikichi\nQUOI!? Mec... tu me decois! Pense à ce que \nGinko ressent pour une fois !"
   },
   {
     "id": 3,
@@ -47,7 +47,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Tch![SP]Too[SP]late[SP]now![SP]If[SP]anything[SP]happens[SP]to\nGinko,[SP][U+1113],[SP]your[SP]ass[SP]is[SP]mine!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Tch! c'est trop tard maintenant! Si quelque chose arrive à \nGinko, [U+1113] je te botte le cul!",
+    "texte_fr": "Tch! c'est trop tard maintenant! Si quelque chose arrive à \nGinko, [U+1113] je te botte le cul!"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Alright![SP]I[SP]knew[SP]I[SP]could[SP]count[SP]on[SP]you,[SP]man!\nLet's[SP]hurry!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Parfait! je savais que je pouvais compter sur toi mec ! \nDépêchons nous!",
+    "texte_fr": "Parfait! je savais que je pouvais compter sur toi mec ! \nDépêchons nous!"
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Fine...[1205][001E][SP]But[SP]we[SP]don't[SP]have[SP]much[SP]time,[SP]so[SP]hurry\nup[SP]and[SP]decide,[SP]okay?",
     "nom_fr": "Eikichi",
-    "texte_fr": "D'accord...[1205][001E] Mais on a pas beaucoup de temps, donc dépêche \ntoi et choisit, okay?",
+    "texte_fr": "D'accord...[1205][001E] Mais on a pas beaucoup de temps, donc dépêche \ntoi et choisit, okay?"
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "nom_orig": "Concert[SP]staff",
     "texte_orig": "We're[SP]supposed[SP]to[SP]be[SP]guarding[SP]the[SP]inside\nof[SP]the[SP]concert[SP]hall,[SP]so[SP]you[SP]can't[SP]go[SP]out\nthere.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Concert[SP]staff\nThis[SP]job[SP]can[SP]get[SP]rough.[SP]We[SP]put[SP]ourselves[SP]on\nthe[SP]line[SP]to[SP]hold[SP]back[SP]the[SP]raving[SP]crowds.\nYou[SP]better[SP]be[SP]ready.",
     "nom_fr": "Personel du concert",
-    "texte_fr": "On est sensé être gardiens à l'interieur \ndu hall du concert, donc tu ne peux pas sortir par \nici.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Personel du concert\nCe travail peut être dûr. On se met \nsur la line pour retenir les foules en délire. \nT'as interêt à être prêt;",
+    "texte_fr": "On est sensé être gardiens à l'interieur \ndu hall du concert, donc tu ne peux pas sortir par \nici.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Personel du concert\nCe travail peut être dûr. On se met \nsur la line pour retenir les foules en délire. \nT'as interêt à être prêt;"
   },
   {
     "id": 8,
@@ -87,6 +87,6 @@
     "nom_orig": "Concert[SP]staff",
     "texte_orig": "With[SP]the[SP]famous[SP]Muses[SP]taking[SP]the[SP]stage\ntoday,[SP]we[SP]could[SP]wind[SP]up[SP]dead...[SP]M-Mommy...",
     "nom_fr": "Personel du concert",
-    "texte_fr": "Avec les celebres Muses qui montent sur scène \naujourd'hui, on pourrait finir morts... M-Maman...",
+    "texte_fr": "Avec les celebres Muses qui montent sur scène \naujourd'hui, on pourrait finir morts... M-Maman..."
   }
 ]
