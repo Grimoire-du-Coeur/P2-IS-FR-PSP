@@ -20,7 +20,7 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 |-----------------------|--------------|
 | [Scripts (dialogues)](https://github.com/chenetulipe/P2-FR-IS-PSP/tree/main/scripts)   |     33/399    |
 | Police (accents FR)   |      ✅      |
-| Menus                 | Non commencé |
+| Menus                 | 🔄 |
 | ...                   | Non commencé |
 
 ### Outil dédié au projet
