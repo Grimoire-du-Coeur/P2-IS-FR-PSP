@@ -84,7 +84,7 @@ Garde la structure, traduis uniquement le texte **entre** les codes :
 
 ## 📏 Limite de longueur
 
-Le français est environ **20-30% plus long** que l'anglais. Chaque dialogue a un espace fixe dans le jeu (`slot_size`). Si ta traduction est trop longue, le script la **sautera automatiquement** et gardera l'anglais.
+Le français est environ **20-30% plus long** que l'anglais. Chaque dialogue a un espace fixe dans le jeu (`slot_size`). Si ta traduction est trop longue, le script la **sautera automatiquement** et gardera l'anglais. Vous pouvez vérifier vos script à l'aide de [JsonVerify](https://github.com/Garloulou/JsonVerify).
 
 ✅ Sois concis, adapte plutôt que de traduire mot à mot.
 
@@ -108,6 +108,7 @@ Les autres caractères spéciaux non listés risquent de s'afficher incorrecteme
 3. Ouvre une **Pull Request** avec le titre : `[Script XX] Traduction`
 4. Décris brièvement ce que tu as traduit dans la description
 
+**Veillez à vérifier votre Json à l'aide de [JsonVerify](https://github.com/Garloulou/JsonVerify) avant de soumettre votre traduction !**
 
 ---
 
