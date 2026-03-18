@@ -6,8 +6,8 @@
     "data_size": 208,
     "nom_orig": "Ginko",
     "texte_orig": "I...[SP]I[SP]never[SP]believed[SP]in[SP]my[SP]friends...[1205][001E]\nBut[SP]Sheba[SP]and[SP]Mee-ho[SP]believed[SP]in[SP]me...[1205][001E]\nI...[SP]I...!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "J'ai jamais cru en mes amis...[1205][001E]\nMais Sheba et Mee-ho croyaient en\nmoi...[1205][001E] Je... Je...!"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 128,
     "nom_orig": "Ginko",
     "texte_orig": "I'll[SP]take[SP]Sheba[SP]with[SP]me,[SP][U+1113]!\nLet's[SP]hurry[SP]and[SP]get[SP]out!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Je prends Sheba avec moi, [U+1113]!\nVite, sortons d'ici!"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 400,
     "nom_orig": "Maya",
     "texte_orig": "Stand[SP]up,[SP]Lisa![SP]You[SP]have[SP]to[SP]do[SP]what[SP]you[SP]can\nright[SP]now![SP]You[SP]can[SP]apologize[SP]later.\n[E1][E2][E4][NULL][NULL]\"Maya\nYou[SP]tried[SP]to[SP]protect[SP]them,[SP]right?[SP]Don't\nworry...[SP]Once[SP]they[SP]wake[SP]up,[SP]I'm[SP]sure[SP]all\nwill[SP]be[SP]forgiven.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Lève-toi, Lisa! Fais ce que tu peux\nmaintenant! Tu t'excuseras après.\n[E1][E2][E4][NULL][NULL]\"Maya\nTu as essayé de les protéger, non? Ne\nt'inquiète pas... Quand elles se\nréveilleront, elles te pardonneront."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 100,
     "nom_orig": "Maya",
     "texte_orig": "Leave[SP]this[SP]one[SP]to[SP]me![SP]Let's[SP]go[SP]already!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Laisse-la moi! Allons-y!"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 118,
     "nom_orig": "Eikichi",
     "texte_orig": "Those[SP]bastards...![1205][001E][SP]I'll[SP]stomp[SP]all[SP]over[SP]'em!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ces enfoirés...![1205][001E] Je vais les écraser!"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 136,
     "nom_orig": "Eikichi",
     "texte_orig": "Okay,[SP]we[SP]need[SP]to[SP]provide[SP]cover[SP]for[SP]Ginko\nand[SP]Maya-san!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ok, on doit couvrir Ginko\net Maya-san!"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 222,
     "nom_orig": "Yukino",
     "texte_orig": "[U+1113]![SP]There's[SP]no[SP]time.[SP]Whoever's[SP]left\nneeds[SP]to[SP]be[SP]evacuated[SP]so[SP]we[SP]can[SP]hurry[SP]and\nfind[SP]the[SP]next[SP]target!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "[U+1113]! Pas le temps. Évacuons ceux qui\nrestent pour trouver vite la\nprochaine cible!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 96,
     "nom_orig": "Yukino",
     "texte_orig": "[U+1113]![SP]Leave[SP]them[SP]to[SP]Maya-san[SP]and[SP]Lisa.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "[U+1113]! Laisse-les à Maya-san et Lisa."
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 150,
     "nom_orig": "Mami[SP]shadowman",
     "texte_orig": "Promised...[SP]with[SP]Lisa...[1205][001E][SP]My...[SP]dream...[1205][001E]\nNo[SP]more...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mami shadowman",
+    "texte_fr": "La promesse... avec Lisa...[1205][001E] Mon... rêve...[1205][001E]\nFini..."
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 100,
     "nom_orig": "Mami[SP]shadowman",
     "texte_orig": "Death...?[1205][001E][SP]That's...[SP]fine...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mami shadowman",
+    "texte_fr": "La mort...?[1205][001E] Ça me... va..."
   },
   {
     "id": 10,
@@ -106,7 +106,7 @@
     "data_size": 142,
     "nom_orig": "Miho[SP]shadowman",
     "texte_orig": "Lisa's[SP]crying...[1205][001E][SP]I[SP]guess...[SP]it[SP]doesn't\nmatter...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Miho shadowman",
+    "texte_fr": "Lisa pleure...[1205][001E] Ça n'a... plus\nd'importance..."
   }
 ]

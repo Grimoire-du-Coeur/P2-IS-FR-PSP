@@ -1,124 +1,124 @@
 [
   {
-    "id": 0,
-    "offset": 267626,
-    "slot_size": 148,
-    "data_size": 144,
-    "nom_orig": "Tamaki",
-    "texte_orig": "Ngh...[SP]I[SP]can't[SP]believe[SP]even[SP]my[SP]demons[SP]are\nno[SP]match[SP]for[SP]him!",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
-  {
-    "id": 1,
-    "offset": 267774,
-    "slot_size": 204,
-    "data_size": 200,
-    "nom_orig": "Tadashi",
-    "texte_orig": "You've[SP]really[SP]pissed[SP]me[SP]off.[1205][001E][SP]I'm[SP]giving[SP]you\nfive[SP]more[SP]seconds[SP]to[SP]live![SP]Rrraaaaaaagh!",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
-  {
-    "id": 2,
-    "offset": 267978,
-    "slot_size": 134,
-    "data_size": 130,
-    "nom_orig": "King[SP]Leo",
-    "texte_orig": "You've[SP]come...[1205][001E][SP]As[SP]I[SP]expected[SP]the[SP]Cursed\nStar[SP]to.",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
-  {
-    "id": 3,
-    "offset": 268112,
-    "slot_size": 52,
-    "data_size": 48,
-    "nom_orig": "Ixquic",
-    "texte_orig": "Master[SP]Leo!",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
-  {
-    "id": 4,
-    "offset": 268164,
-    "slot_size": 190,
-    "data_size": 186,
-    "nom_orig": "Ixquic",
-    "texte_orig": "Why'd[SP]you[SP]set[SP]the[SP]place[SP]on[SP]fire!?[SP]Were[SP]you\ngonna[SP]kill[SP]me[SP]too!?[SP]Why,[SP]Master[SP]Leo!?",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
-  {
-    "id": 5,
-    "offset": 268354,
-    "slot_size": 68,
-    "data_size": 64,
-    "nom_orig": "King[SP]Leo",
-    "texte_orig": "Why?[1205][001E][SP]Because...",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
-  {
-    "id": 6,
-    "offset": 268422,
-    "slot_size": 106,
-    "data_size": 102,
-    "nom_orig": "Tatsuya[SP]Sudou",
-    "texte_orig": "Because[SP]I[SP]hate[SP]sniveling[SP]brats!",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
-  {
-    "id": 7,
-    "offset": 268528,
-    "slot_size": 52,
-    "data_size": 48,
-    "nom_orig": "Maya",
-    "texte_orig": "Ah...![SP]Ngh...",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
-  {
-    "id": 8,
-    "offset": 268580,
-    "slot_size": 288,
-    "data_size": 284,
-    "nom_orig": "Tatsuya[SP]Sudou",
-    "texte_orig": "You[SP]witch...[1205][001E][SP]I[SP]won't[SP]listen[SP]to[SP]you[SP]tell[SP]me\nyou've[SP]forgotten[SP]this[SP]face![SP]It's[SP]you[SP]and[SP]your\nbrat[SP]friend[SP]who[SP]did[SP]this[SP]to[SP]me!",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
-  {
-    "id": 9,
-    "offset": 268868,
-    "slot_size": 150,
-    "data_size": 146,
-    "nom_orig": "Maya",
-    "texte_orig": "Me[SP]and...[1205][001E][SP][U+1113]-kun!?[SP]I...[SP]don't[SP]know\nwhat[SP]you're[SP]talking[SP]about!",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
-  {
-    "id": 10,
-    "offset": 269018,
-    "slot_size": 130,
-    "data_size": 126,
-    "nom_orig": "Tatsuya[SP]Sudou",
-    "texte_orig": "Still[SP]feigning[SP]ignorance,[SP]eh?[1205][001E][SP]Well,[SP]fine.",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
-  {
-    "id": 11,
-    "offset": 269148,
-    "slot_size": 258,
-    "data_size": 254,
-    "nom_orig": "Tatsuya[SP]Sudou",
-    "texte_orig": "It's[SP]been[SP]very[SP]entertaining,[SP]watching[SP]you\nscurry[SP]around.[SP]But[SP]the[SP]transmitter[SP]you\nfound[SP]wasn't[SP]the[SP]only[SP]one.",
-    "nom_fr": "",
-    "texte_fr": ""
-  },
+  "id": 0,
+  "offset": 267626,
+  "slot_size": 148,
+  "data_size": 144,
+  "nom_orig": "Tamaki",
+  "texte_orig": "Ngh...[SP]I[SP]can't[SP]believe[SP]even[SP]my[SP]demons[SP]are\nno[SP]match[SP]for[SP]him!",
+  "nom_fr": "Tamaki",
+  "texte_fr": "Ngh...[SP]Même[SP]mes[SP]démons[SP]ne[SP]lui[SP]arrivent[SP]pas\nà[SP]la[SP]cheville!"
+},
+{
+  "id": 1,
+  "offset": 267774,
+  "slot_size": 204,
+  "data_size": 200,
+  "nom_orig": "Tadashi",
+  "texte_orig": "You've[SP]really[SP]pissed[SP]me[SP]off.[1205][001E][SP]I'm[SP]giving[SP]you\nfive[SP]more[SP]seconds[SP]to[SP]live![SP]Rrraaaaaaagh!",
+  "nom_fr": "Tadashi",
+  "texte_fr": "Tu[SP]m'as[SP]vraiment[SP]mis[SP]hors[SP]de[SP]moi.[1205][001E][SP]Il[SP]te[SP]reste\ncinq[SP]secondes[SP]à[SP]vivre![SP]Rrraaaaaaagh!"
+},
+{
+  "id": 2,
+  "offset": 267978,
+  "slot_size": 134,
+  "data_size": 130,
+  "nom_orig": "King[SP]Leo",
+  "texte_orig": "You've[SP]come...[1205][001E][SP]As[SP]I[SP]expected[SP]the[SP]Cursed\nStar[SP]to.",
+  "nom_fr": "Roi[SP]Leo",
+  "texte_fr": "Tu[SP]es[SP]venu...[1205][001E][SP]Comme[SP]prévu,[SP]Étoile[SP]Maudite."
+},
+{
+  "id": 3,
+  "offset": 268112,
+  "slot_size": 52,
+  "data_size": 48,
+  "nom_orig": "Ixquic",
+  "texte_orig": "Master[SP]Leo!",
+  "nom_fr": "Ixquic",
+  "texte_fr": "Maître[SP]Leo!"
+},
+{
+  "id": 4,
+  "offset": 268164,
+  "slot_size": 190,
+  "data_size": 186,
+  "nom_orig": "Ixquic",
+  "texte_orig": "Why'd[SP]you[SP]set[SP]the[SP]place[SP]on[SP]fire!?[SP]Were[SP]you\ngonna[SP]kill[SP]me[SP]too!?[SP]Why,[SP]Master[SP]Leo!?",
+  "nom_fr": "Ixquic",
+  "texte_fr": "Pourquoi[SP]avoir[SP]mis[SP]le[SP]feu!?[SP]Vouliez-vous\nme[SP]tuer[SP]aussi!?[SP]Pourquoi,[SP]Maître[SP]Léo!?"
+},
+{
+  "id": 5,
+  "offset": 268354,
+  "slot_size": 68,
+  "data_size": 64,
+  "nom_orig": "King[SP]Leo",
+  "texte_orig": "Why?[1205][001E][SP]Because...",
+  "nom_fr": "Roi[SP]Leo",
+  "texte_fr": "Pourquoi...[1205][001E]"
+},
+{
+  "id": 6,
+  "offset": 268422,
+  "slot_size": 106,
+  "data_size": 102,
+  "nom_orig": "Tatsuya[SP]Sudou",
+  "texte_orig": "Because[SP]I[SP]hate[SP]sniveling[SP]brats!",
+  "nom_fr": "Tatsuya[SP]Sudou",
+  "texte_fr": "Car[SP]]je[SP]hais[SP]les[SP]chouineurs![SP]"
+},
+{
+  "id": 7,
+  "offset": 268528,
+  "slot_size": 52,
+  "data_size": 48,
+  "nom_orig": "Maya",
+  "texte_orig": "Ah...![SP]Ngh...",
+  "nom_fr": "Maya",
+  "texte_fr": "Ah...![SP]Ngh..."
+},
+{
+  "id": 8,
+  "offset": 268580,
+  "slot_size": 288,
+  "data_size": 284,
+  "nom_orig": "Tatsuya[SP]Sudou",
+  "texte_orig": "You[SP]witch...[1205][001E][SP]I[SP]won't[SP]listen[SP]to[SP]you[SP]tell[SP]me\nyou've[SP]forgotten[SP]this[SP]face![SP]It's[SP]you[SP]and[SP]your\nbrat[SP]friend[SP]who[SP]did[SP]this[SP]to[SP]me!",
+  "nom_fr": "Tatsuya[SP]Sudou",
+  "texte_fr": "Sorcière...[1205][001E][SP]Je[SP]ne[SP]te[SP]laisserai[SP]pas[SP]prétendre\navoir[SP]oublié[SP]ce[SP]visage![SP]C'est[SP]toi[SP]et[SP]ton\nami[SP]gamin[SP]qui[SP]m'avez[SP]fait[SP]ça!"
+},
+{
+  "id": 9,
+  "offset": 268868,
+  "slot_size": 150,
+  "data_size": 146,
+  "nom_orig": "Maya",
+  "texte_orig": "Me[SP]and...[1205][001E][SP][U+1113]-kun!?[SP]I...[SP]don't[SP]know\nwhat[SP]you're[SP]talking[SP]about!",
+  "nom_fr": "Maya",
+  "texte_fr": "Moi[SP]et...[1205][001E][SP][U+1113]-kun!?[SP]Je...[SP]je[SP]ne[SP]vois\npas[SP]de[SP]quoi[SP]tu[SP]parles!"
+},
+{
+  "id": 10,
+  "offset": 269018,
+  "slot_size": 130,
+  "data_size": 126,
+  "nom_orig": "Tatsuya[SP]Sudou",
+  "texte_orig": "Still[SP]feigning[SP]ignorance,[SP]eh?[1205][001E][SP]Well,[SP]fine.",
+  "nom_fr": "Tatsuya[SP]Sudou",
+  "texte_fr": "Tu[SP]fais[SP]encore[SP]l'ignorante?[1205][001E][SP]Très[SP]bien."
+},
+{
+  "id": 11,
+  "offset": 269148,
+  "slot_size": 258,
+  "data_size": 254,
+  "nom_orig": "Tatsuya[SP]Sudou",
+  "texte_orig": "It's[SP]been[SP]very[SP]entertaining,[SP]watching[SP]you\nscurry[SP]around.[SP]But[SP]the[SP]transmitter[SP]you\nfound[SP]wasn't[SP]the[SP]only[SP]one.",
+  "nom_fr": "",
+  "texte_fr": ""
+},
   {
     "id": 12,
     "offset": 269406,
