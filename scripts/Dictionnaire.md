@@ -11,7 +11,7 @@
 | Cuss high | Lycée Kakasu |
 | Masked circle | Cercle masqué |
 | Cursed star | Étoile maudite |
-|  |  |
+| Seven Sisters High | Lycée des Septs Sœurs |
 |  |  |
 |  |  |
 |  |  |
