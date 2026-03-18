@@ -3,7 +3,7 @@ name: Script Check
 on:
   pull_request:
     paths:
-      - 'scripts/**'
+      - 'scripts/*.json'
 
 jobs:
   check_scripts:
@@ -35,5 +35,6 @@ jobs:
           list-files: 'escape'
 
       - name: Run json-verify
+        if: ${{ steps.filter.outputs.changed == 'true' }}
         run: |
           python JsonVerify/cli.py ${{ steps.filter.outputs.changed_files }}
