@@ -14,7 +14,7 @@
 | Seven Sisters High | Lycée des Septs Sœurs |
 | Big sis | grande sœur |
 | Sailor suited girl | fille en marinière |
-|  |  |
+|Black-masked boy  | Garçon masqué  |
 |  |  |
 |  |  |
 |  |  |
