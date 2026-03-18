@@ -6,8 +6,8 @@
     "data_size": 186,
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "You[SP]have[SP]too[SP]many[SP]Incense[SP]sets,[SP]meow![SP]I[SP]can't\ngive[SP]you[SP]any[SP]more,[SP]meow!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Tu as trop de sets d'Encens, miaou!\nJe ne peux plus t'en donner, miaou!"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 138,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "I[SP]see...[1205][001E][SP]So[SP]you[SP]weren't[SP]part[SP]of[SP]the\nLast[SP]Battalion.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Je vois...[1205][001E] Vous n'étiez pas du\nLast Battalion."
   },
   {
     "id": 2,
@@ -26,18 +26,18 @@
     "data_size": 158,
     "nom_orig": "Eikichi",
     "texte_orig": "We[SP]keep[SP]asking[SP]you...[1205][001E][SP]What[SP]is[SP]this...\nbattle...[SP]lion...[SP]thing!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "On vous le demande...[1205][001E] C'est\nquoi ce... bata... lion... machin!?"
   },
-  {
+ {
     "id": 3,
     "offset": 294392,
     "slot_size": 122,
     "data_size": 118,
     "nom_orig": "Eikichi",
     "texte_orig": "Yo,[SP][U+1113].[SP]No[SP]problems?[SP]The[SP]city[SP]was[SP]a\nmess,[SP]huh?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Yo, [U+1113]. Ça va? La ville\nétait un chaos, hein?"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 178,
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]can't[SP]make[SP]sense[SP]of[SP]this[SP]woman's[SP]ravings...[1205][001E]\nSeriously,[SP]what's[SP]going[SP]on?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Je pige rien aux délires de\ncette femme...[1205][001E] Sérieux,\nil se passe quoi?"
   },
   {
     "id": 5,
@@ -56,18 +56,18 @@
     "data_size": 282,
     "nom_orig": "Yukino",
     "texte_orig": "We[SP]spread[SP]the[SP]rumor,[SP]like[SP]Maya-san[SP]suggested,\nbut...[1205][001E][SP]The[SP]rest[SP]is[SP]still[SP]up[SP]in[SP]the[SP]air.[SP]We[SP]should\nbrace[SP]ourselves[SP]for[SP]the[SP]worst.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "On a répandu la rumeur, comme\nMaya l'a suggéré, mais...[1205][001E] Le reste\nest incertain. On devrait se préparer\nau pire."
   },
-  {
+ {
     "id": 6,
     "offset": 294982,
     "slot_size": 94,
     "data_size": 90,
     "nom_orig": "Tamaki",
     "texte_orig": "Hey,[SP]everyone![SP]Check[SP]out[SP]the[SP]TV!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Hé, tous! Regardez la télé!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 280,
     "nom_orig": "Anchorwoman",
     "texte_orig": "...And[SP]we've[SP]just[SP]heard[SP]from[SP]the[SP]children\nwho[SP]claim[SP]to[SP]have[SP]been[SP]saved[SP]by[SP]the[SP]five\nindividuals[SP]currently[SP]wanted[SP]for[SP]arson.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Présentatrice",
+    "texte_fr": "...Les enfants affirment avoir été\nsauvés par les cinq individus\nactuellement recherchés pour\nincendie criminel."
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 300,
     "nom_orig": "Anchorman",
     "texte_orig": "One[SP]side[SP]of[SP]the[SP]story[SP]paints[SP]them[SP]as[SP]vicious\nterrorists,[SP]while[SP]the[SP]other[SP]portrays[SP]them[SP]as\nheroes...[1205][001E][SP]But[SP]which[SP]of[SP]the[SP]rumors[SP]is[SP]true?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Présentateur",
+    "texte_fr": "Une version les dépeint comme de\nvicieux terroristes, l'autre en fait\ndes héros...[1205][001E] Mais laquelle de\nces rumeurs est vraie?"
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 510,
     "nom_orig": "Anchorwoman",
     "texte_orig": "In[SP]other[SP]news,[SP]there's[SP]a[SP]bizarre[SP]rumor\nmaking[SP]the[SP]rounds[SP]regarding[SP]this[SP]same\nterrorist[SP]spree.\n[E1][E2][E4][NULL][NULL]\"Anchorwoman\nSome[SP]are[SP]claiming[SP]that[SP]it[SP]was[SP]the[SP]work[SP]of\nthe[SP]remaining[SP]radicals[SP]of[SP]the[SP]Fuhrer[SP]seeking\nancient[SP]ruins[SP]hidden[SP]in[SP]Sumaru[SP]City...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Présentatrice",
+    "texte_fr": "Ailleurs, une étrange rumeur circule\nsur cette même vague de terrorisme.\n[E1][E2][E4][NULL][NULL]\"Présentatrice\nCertains affirment que c'est l'œuvre\ndes radicaux restants du Führer,\ncherchant des ruines antiques cachées\ndans la ville de Sumaru..."
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 306,
     "nom_orig": "International[SP]military[SP]analyst",
     "texte_orig": "That's[SP]preposterous![SP]There's[SP]no[SP]way[SP]this\n[1432][NULL][NULL][0014]Last[SP]Battalion[1432][NULL][NULL][0014][SP]could[SP]exist.[SP]It's[SP]a\nbaseless[SP]rumor,[SP]pure[SP]and[SP]simple.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Analyste militaire",
+    "texte_fr": "C'est absurde! Impossible que ce\n[1432][NULL][NULL][0014]Last Battalion[1432][NULL][NULL][0014] existe. C'est une\nrumeur infondée, purement et\nsimplement."
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 302,
     "nom_orig": "Occult[SP]magazine[SP]EIC",
     "texte_orig": "So[SP]you[SP]say,[SP]but[SP]there[SP]are[SP]accounts[SP]from\naround[SP]the[SP]globe[SP]hinting[SP]at[SP]its[SP]existence!\nReliable[SP]witnesses[SP]say[SP]the[SP]Fuhrer[SP]lives...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Éditeur Occulte",
+    "texte_fr": "Vous dites ça, mais des récits du\nmonde entier suggèrent qu'il\nexiste! Des témoins fiables disent\nque le Führer vit..."
   },
   {
     "id": 12,
@@ -126,18 +126,18 @@
     "data_size": 190,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "They're[SP]right![SP]The[SP]Last[SP]Battalion[SP]does\nexist![SP]It[SP]was[SP]them[SP]who[SP]killed[SP]Kashihara!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Ils ont raison! Le Last Battalion\nexiste! Ce sont eux qui ont\ntué Kashihara!"
   },
-  {
+ {
     "id": 13,
     "offset": 296988,
     "slot_size": 84,
     "data_size": 80,
     "nom_orig": "Maya",
     "texte_orig": "Ciaaao...[1205][001E][SP]Sorry[SP]I'm[SP]late...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ciaaao...[1205][001E] Pardon..."
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 214,
     "nom_orig": "Yukino",
     "texte_orig": "Oh,[SP]uh...[1205][001E][SP]Okay,[SP]I[SP]guess[SP]everyone's[SP]here\nnow,[SP]so[SP]could[SP]you[SP]start[SP]by[SP]telling[SP]us[SP]what\nyou[SP]know?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Oh, euh...[1205][001E] Bien, tout le monde\nest là. Pourriez-vous commencer\npar dire ce que vous savez?"
   },
   {
     "id": 15,
@@ -156,8 +156,8 @@
     "data_size": 220,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Before[SP]that,[SP]I[SP]want[SP]to[SP]know[SP]some[SP]things\nfrom[SP]you.[SP]How...[SP]do[SP]you[SP]know[SP]about[SP]the\nOracle[SP]of[SP]Maia?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Avant ça, je veux savoir certaines\nchoses. Comment... connaissez-vous\nl'Oracle de Maia?"
   },
   {
     "id": 16,
@@ -166,8 +166,8 @@
     "data_size": 208,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "S-So[SP]that's[SP]it!?[1205][001E][SP]Then[SP]there's[SP]no[SP]denying[SP]that\nthe[SP]Masked[SP]Circle[SP]is[SP]the[SP]Last[SP]Battalion!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "A-Alors c'est ça!?[1205][001E] Il est donc\nindéniable que le Cercle masqué\nest le Last Battalion!"
   },
   {
     "id": 17,
@@ -176,8 +176,8 @@
     "data_size": 186,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Last[SP]Battalion[SP]is[SP]an[SP]elite[SP]unit[SP]which\nhelped[SP]the[SP]Fuhrer[SP]escape[SP]in[SP]secret!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Le Last Battalion est l'unité\nqui a aidé le Führer à\nfuir en secret!"
   },
   {
     "id": 18,
@@ -186,8 +186,8 @@
     "data_size": 292,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "An[SP]insane[SP]army[SP]with[SP]cutting-edge[SP]weaponry[SP]and\na[SP]powerful[SP]relic[SP]that[SP]absorbed[SP]Christ's[SP]blood,\nbent[SP]on[SP]enacting[SP]the[SP]Fuhrer's[SP]grudge!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Une armée folle avec des armes de\npointe et une relique ayant absorbé le\nsang du Christ, résolue à assouvir la\nrancune du Führer!"
   },
   {
     "id": 19,
@@ -196,8 +196,8 @@
     "data_size": 138,
     "nom_orig": "Ginko",
     "texte_orig": "Th-That's[SP]impossible...[1205][001E][SP]I[SP]mean,[SP]the[SP]Masked\nCircle[SP]is...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "C-C'est impossible...[1205][001E] Bref,\nle Cercle masqué est..."
   },
   {
     "id": 20,
@@ -206,28 +206,28 @@
     "data_size": 266,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "It's[SP]all[SP]in[SP]this[SP]book...[SP]Everything[SP]they're\ndoing[SP]is[SP]in[SP]accordance[SP]with[SP]the[SP]Oracle[SP]of\nMaia[SP]in[SP]the[SP][1432][NULL][NULL][0014]In[SP]Lak'ech[1432][NULL][NULL][0014]!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Tout est dans ce livre... Ce qu'ils\nfont est conforme à l'Oracle de Maia\ndans l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014]!"
   },
-  {
+ {
     "id": 21,
     "offset": 298624,
     "slot_size": 310,
     "data_size": 306,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Oracle[SP]of[SP]Maia[SP]was[SP]left[SP]by[SP]the[SP]Pleiades\naliens[SP]who[SP]gifted[SP]humans[SP]with[SP]civilization...[1205][001E]\nIt's[SP]a[SP]message[SP]entrusted[SP]to[SP]us[SP]by[SP]the[SP]Maians!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "L'Oracle de Maia fut laissé par les\naliènes Pléiadiens qui ont civilisé\nles humains...[1205][001E] C'est un message\nconfié par les Maians!"
   },
-  {
+ {
     "id": 22,
     "offset": 298934,
     "slot_size": 82,
     "data_size": 78,
     "nom_orig": "Eikichi[SP]&[SP]Yukino",
     "texte_orig": "Huh!?[1205][001E][SP]Aliens!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi/Yukino",
+    "texte_fr": "Quoi!?[1205][001E] Aliens!?"
   },
   {
     "id": 23,
@@ -236,8 +236,8 @@
     "data_size": 292,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Did[SP]you[SP]really[SP]think[SP]we[SP]evolved[SP]from[SP]apes[SP]on\nour[SP]own!?[SP]The[SP]answers[SP]aren't[SP]in[SP]the[SP]history\nbooks![SP]How[SP]did[SP]man[SP]come[SP]so[SP]far,[SP]so[SP]fast!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Vous pensiez qu'on a évolué seuls\ndes singes!? La réponse n'est pas\ndans l'histoire! Comment l'homme\nest allé si loin, si vite!?"
   },
   {
     "id": 24,
@@ -246,18 +246,18 @@
     "data_size": 284,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "There's[SP]evidence[SP]all[SP]over[SP]the[SP]world[SP]of[SP]their\npresence[SP]in[SP]ancient[SP]times![SP]It[SP]proves[SP]that\nmankind[SP]was[SP]guided[SP]by[SP]an[SP]advanced[SP]race!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Il y a des preuves mondiales de leur\nprésence passée! Cela prouve que\nl'humanité a été guidée par une\nrace avancée!"
   },
-  {
+ {
     "id": 25,
     "offset": 299600,
     "slot_size": 222,
     "data_size": 218,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Kashihara,[SP]who[SP]tried[SP]to[SP]prove[SP]it,[SP]was[SP]a\nkind[SP]man[SP]with[SP]a[SP]strong[SP]resolve[SP]and[SP]concrete\ndreams...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Kashihara, qui a tenté de le\nprouver, était un homme bon\navec des rêves concrets..."
   },
   {
     "id": 26,
@@ -266,8 +266,8 @@
     "data_size": 234,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "I[SP]worked[SP]with[SP]Sudou-kun,[SP]the[SP]medium,[SP]and\nKashihara...[1205][001E][SP]This[SP]book[SP]is[SP]the[SP]fruit[SP]of\nwe[SP]three's[SP]dream...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "J'ai travaillé avec le médium Sudou\net Kashihara...[1205][001E] Ce livre est le\nfruit de notre rêve..."
   },
   {
     "id": 27,
@@ -276,8 +276,8 @@
     "data_size": 234,
     "nom_orig": "Yukino",
     "texte_orig": "S-So...[SP]This[SP]cockama--[1205][001E]I[SP]mean,[SP]this[SP]fruit[SP]of\nyour[SP]dreams...[SP]What[SP]does[SP]that[SP]have[SP]to[SP]do\nwith[SP]Sumaru[SP]City?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "A-Alors... Ces fou--[1205][001E] Je veux dire,\nce fruit de vos rêves... Qu'est-ce\nque ça a à voir avec Sumaru?"
   },
   {
     "id": 28,
@@ -286,8 +286,8 @@
     "data_size": 306,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Underneath[SP]us[SP]is[SP]the[SP]netherworld[SP]where[SP]the\nMaians[SP]sleep...[1205][001E][SP]The[SP]Starship[SP]Xibalba[SP]is[SP]there!\nAll[SP]sorts[SP]of[SP]civilizations[SP]originated[SP]here...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Sous nous, le monde souterrain où\ndorment les Maians...[1205][001E] Le Vaisseau\nXibalba y est! De nombreuses\ncivilisations y sont nées..."
   },
   {
     "id": 29,
@@ -296,8 +296,8 @@
     "data_size": 314,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "But[SP]the[SP]ancient[SP]Maians[SP]that[SP]thrived[SP]here[SP]died\nin[SP]an[SP]intergalactic[SP]civil[SP]war...[1205][001E][SP]The[SP]victors[SP]were\nthe[SP]Bolontiku[SP]race[SP]that[SP]controls[SP]Xibalba...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Mais les anciens Maians d'ici\nsont morts dans une guerre civile\nintergalactique...[1205][001E] Les vainqueurs,\nles Bolontiku, contrôlent Xibalba..."
   },
   {
     "id": 30,
@@ -306,8 +306,8 @@
     "data_size": 306,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Mayan[SP]myths[SP]of[SP]South[SP]America[SP]prove[SP]it.\nThough[SP]that[SP]civilization[SP]is[SP]an[SP]ancient[SP]memory\nnow...[1205][001E][SP]Their[SP]ruins[SP]were[SP]all[SP]modeled[SP]on[SP]Sumaru.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Les mythes mayas le prouvent. Bien\nque cette civilisation soit un\nsouvenir ancien...[1205][001E] Leurs ruines\nétaient modelées sur Sumaru."
   },
   {
     "id": 31,
@@ -316,8 +316,8 @@
     "data_size": 490,
     "nom_orig": "Tamaki",
     "texte_orig": "T-Talk[SP]about[SP]a[SP]fertile[SP]imagination...[1205][001E]\nSo[SP]why[SP]is[SP]the[SP]Masked[SP]Circle[SP]and[SP]Last\nBattalion[SP]after[SP]this[SP]Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nBecause[SP]when[SP]the[SP]Oracle[SP]is[SP]fulfilled,\nXibalba[SP]and[SP]the[SP]crystal[SP]skulls[SP]will[SP]grant\nmankind's[SP]ultimate[SP]dream...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Q-Quelle imagination...[1205][001E]\nPourquoi le Cercle masqué et le\nLast Battalion veulent ce Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Mme Idéale\nCar quand l'Oracle sera accompli,\nXibalba et les crânes de cristal\nexauceront le rêve de l'humanité..."
   },
   {
     "id": 32,
@@ -326,8 +326,8 @@
     "data_size": 254,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "It[SP]will[SP]end[SP]in[SP]us[SP]becoming[SP]Idealians...[1205][001E]\nA[SP]transhuman[SP]state[SP]where[SP]we[SP]will[SP]understand\nthe[SP]true[SP]meaning[SP]of[SP]life.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Ça fera de nous des Idéaliens...[1205][001E]\nUn état transhumain où on saisira\nle vrai sens de la vie."
   },
   {
     "id": 33,
@@ -336,8 +336,8 @@
     "data_size": 164,
     "nom_orig": "Maya",
     "texte_orig": "Sounds[SP]good[SP]to[SP]me...[1205][001E][SP]Then[SP]we[SP]wouldn't[SP]be\nso[SP]upset[SP]by[SP]trifles[SP]anymore.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ça me semble bien...[1205][001E] On ne serait\nplus contrariés par des broutilles."
   },
   {
     "id": 34,
@@ -346,8 +346,8 @@
     "data_size": 280,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "It's[SP]far[SP]from[SP]good![SP]In[SP]exchange[SP]for[SP]the\nevolution[SP]of[SP]a[SP]few,[SP]mankind[SP]will[SP]perish!\nOrganisms[SP]evolve[SP]when[SP]they[SP]face[SP]extinction!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "C'est loin d'être bien! En échange\nde l'évolution de certains, l'humanité\npérira! On évolue face à l'extinction!"
   },
   {
     "id": 35,
@@ -356,8 +356,8 @@
     "data_size": 298,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "When[SP]the[SP]Bolontiku[SP]thoughtforms[SP]take[SP]physical\nbodies,[SP]they[SP]will[SP]bring[SP]destruction[SP]to[SP]all![1205][001E]\nThat's[SP]why[SP]we[SP]didn't[SP]go[SP]public[SP]with[SP]this!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Quand les formes pensées Bolontiku\nprendront corps, ils détruiront tout![1205][001E]\nC'est pour ça qu'on a gardé ça\nsecret!"
   },
   {
     "id": 36,
@@ -366,8 +366,8 @@
     "data_size": 254,
     "nom_orig": "Occult[SP]magazine[SP]EIC's[SP]voice",
     "texte_orig": "...I[SP]want[SP]to[SP]show[SP]you[SP]here[SP]the[SP]latest[SP]release\nfrom[SP]our[SP]book[SP]division,[SP]the[SP][1432][NULL][NULL][0014]In[SP]Lak'ech.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Voix de l'Éditeur",
+    "texte_fr": "...Je veux vous montrer ici la\ndernière sortie de notre division\nlivre, l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014]."
   },
   {
     "id": 37,
@@ -376,8 +376,8 @@
     "data_size": 322,
     "nom_orig": "Occult[SP]magazine[SP]EIC",
     "texte_orig": "It's[SP]full[SP]of[SP]shocking[SP]truths,[SP]from[SP]the[SP]Last\nBattalion[SP]to[SP]a[SP]giant[SP]UFO[SP]that[SP]ties[SP]into[SP]these\nincidents.[SP]Read[SP]it,[SP]or[SP]you'll[SP]be[SP]missing[SP]out!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Éditeur Occulte",
+    "texte_fr": "Il est rempli de vérités choquantes,\ndu Last Battalion au gigantesque\nOVNI lié à ces incidents. Lisez-le,\nou vous raterez quelque chose!"
   },
   {
     "id": 38,
@@ -386,8 +386,8 @@
     "data_size": 224,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "N-No...![1205][001E][SP]D-Did[SP]Sudou-kun[SP]do[SP]this...?[1205][001E]\nWe[SP]were[SP]under[SP]strict[SP]orders[SP]never[SP]to[SP]go\npublic[SP]with[SP]it!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "N-Non...![1205][001E] S-Sudou a fait ça...?[1205][001E]\nNous avions l'ordre strict de ne\njamais le rendre public!"
   },
   {
     "id": 39,
@@ -396,8 +396,8 @@
     "data_size": 130,
     "nom_orig": "Ginko",
     "texte_orig": "No![SP]No![1205][001E][SP]This[SP]is[SP]all[SP]a[SP]lie!\nThe[SP]Masked[SP]Circle[SP]is...!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Non![1205][001E] C'est un mensonge!\nLe Cercle masqué est...!"
   },
   {
     "id": 40,
@@ -406,8 +406,8 @@
     "data_size": 174,
     "nom_orig": "Ginko",
     "texte_orig": "Eikichi![SP]You[SP]remember,[SP]don't[SP]you!?\nAbout[SP]playing[SP][1432][NULL][NULL][0014]the[SP]Masked[SP]Circle[1432][NULL][NULL][0014]!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Eikichi! Tu te souviens, n'est-ce\npas!? De nos jeux au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]!"
   },
   {
     "id": 41,
@@ -416,18 +416,18 @@
     "data_size": 100,
     "nom_orig": "Eikichi",
     "texte_orig": "Like[SP]I[SP]said,[SP]that[SP]was[SP]in[SP]my[SP]dream...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Je t'ai dit, c'était un rêve..."
   },
-  {
+ {
     "id": 42,
     "offset": 303970,
     "slot_size": 126,
     "data_size": 122,
     "nom_orig": "Eikichi",
     "texte_orig": "......![1205][001E][SP]W-Wait...[1205][001E][SP]What[SP]did[SP]you[SP]just[SP]say...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "......![1205][001E] Attends...[1205][001E] Tu\nas dit quoi...?"
   },
   {
     "id": 43,
@@ -436,8 +436,8 @@
     "data_size": 206,
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]reminds[SP]me...[1205][001E][SP]Your[SP]actual[SP]name[SP]is[SP]Lisa,\nright...!?[1205][001E][SP]D-Don't[SP]tell[SP]me,[SP]him[SP]too...!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ça me rappelle...[1205][001E] Ton vrai nom est\nLisa, non...!?[1205][001E] M-Me dis pas que lui\naussi...!?"
   },
   {
     "id": 44,
@@ -446,8 +446,8 @@
     "data_size": 222,
     "nom_orig": "Ginko",
     "texte_orig": "I've[SP]been[SP]desperately[SP]trying[SP]to[SP]convince\nmyself[SP]that[SP]it[SP]was[SP]just[SP]a[SP]dream...[1205][001E][SP]But...[1205][001E]\nIt[SP]was[SP]real!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "J'ai désespérément essayé de me\nconvaincre que ce n'était qu'un\nrêve...[1205][001E] Mais...[1205][001E] C'était réel!"
   },
   {
     "id": 45,
@@ -456,8 +456,8 @@
     "data_size": 280,
     "nom_orig": "Ginko",
     "texte_orig": "Please...[SP]Come[SP]with[SP]me[SP]to[SP]the[SP]Alaya[SP]Shrine![1205][001E]\nI'll[SP]tell[SP]you[SP]the[SP]truth...[SP]about[SP]the[SP]Masked\nCircle...[SP]about[SP]Joker...[1205][001E][SP]everything!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Pitié... Venez au Sanctuaire Alaya\navec moi![1205][001E] Je dirai la vérité...\nsur le Cercle masqué... sur Joker...[1205][001E]\ntout!"
   },
   {
     "id": 46,
@@ -466,8 +466,8 @@
     "data_size": 206,
     "nom_orig": "Ginko",
     "texte_orig": "I...[1205][001E][SP]I[SP]understand[SP]everything...![1205][001E][SP]The[SP]Masked\nCircle[SP]isn't[SP]some[SP]weird[SP]army[SP]like[SP]she[SP]said!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Je...[1205][001E] Je comprends...![1205][001E] Le Cercle\nmasqué n'est pas une armée bizarre\ncomme elle l'a dit!"
   },
   {
     "id": 47,
@@ -476,8 +476,8 @@
     "data_size": 198,
     "nom_orig": "Ginko",
     "texte_orig": "Please,[SP]we[SP]need[SP]to[SP]go[SP]to[SP]the[SP]Alaya[SP]Shrine![1205][001E]\nIf[SP]we[SP]go,[SP]I'm[SP]sure[SP]you'll[SP]remember[SP]too...!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Allons au Sanctuaire Alaya![1205][001E]\nJe suis sûre que vous vous\nrappellerez aussi...!"
   },
   {
     "id": 48,
@@ -486,8 +486,8 @@
     "data_size": 158,
     "nom_orig": "Ginko",
     "texte_orig": "[U+1113]...[1205][001E][SP]I've[SP]done[SP]a[SP]terrible[SP]thing...[1205][001E]\nHow[SP]can[SP]I[SP]make[SP]up[SP]for[SP]it...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "[U+1113]...[1205][001E] J'ai fait une chose\nhorrible...[1205][001E] Comment me racheter...?"
   },
   {
     "id": 49,
@@ -496,8 +496,8 @@
     "data_size": 142,
     "nom_orig": "Maya",
     "texte_orig": "What's[SP]wrong?[SP]Is[SP]there[SP]something[SP]on[SP]my\nface?[1205][001E][SP]Little[SP]boy...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Qu'y a-t-il? J'ai un truc sur\nle visage?[1205][001E] Petit garçon..."
   },
   {
     "id": 50,
@@ -506,18 +506,18 @@
     "data_size": 260,
     "nom_orig": "Maya",
     "texte_orig": "Heh...[SP]Let's[SP]leave[SP]this[SP]dump[SP]and[SP]get[SP]to[SP]the\nAlaya[SP]Shrine.[1205][001E][SP]I[SP]can't[SP]wait[SP]to[SP]hear[SP]the[SP]yarn\nLisa's[SP]going[SP]to[SP]spin[SP]there...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Hé... Quittons ce taudis pour le\nSanctuaire Alaya.[1205][001E] J'ai hâte\nd'entendre l'histoire que Lisa va\nnous y raconter..."
   },
-  {
+ {
     "id": 51,
     "offset": 305800,
     "slot_size": 204,
     "data_size": 200,
     "nom_orig": "Maya",
     "texte_orig": "Sometimes[SP]things[SP]are[SP]best[SP]left[SP]forgotten.[1205][001E]\nEspecially[SP]sins[SP]that[SP]can[SP]never[SP]be[SP]cleansed...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Parfois, mieux vaut oublier.[1205][001E]\nSurtout les péchés qui ne peuvent\njamais être lavés..."
   },
   {
     "id": 52,
@@ -526,8 +526,8 @@
     "data_size": 236,
     "nom_orig": "Maya",
     "texte_orig": "Sadly,[SP]though,[SP]that's[SP]not[SP]how[SP]it[SP]goes[SP]in\nlife.[SP]Sins[SP]must[SP]be[SP]atoned[SP]for,[SP]no...?[1205][001E]\nNow[SP]let's[SP]go[SP]to[SP]Mt.[SP]Iwato.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Hélas, ça ne marche pas ainsi.\nIl faut expier ses péchés, non...?[1205][001E]\nMaintenant, allons au Mt. Iwato."
   },
   {
     "id": 53,
@@ -536,8 +536,8 @@
     "data_size": 136,
     "nom_orig": "Eikichi",
     "texte_orig": "This...[SP]This[SP]is[SP]crazy...[1205][001E][SP]You...[1205][001E][SP]You're\nTHAT[SP][U+1114]...!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "C'est... C'est dingue...[1205][001E] Tu...[1205][001E]\nTu es CE [U+1114]...!?"
   },
   {
     "id": 54,
@@ -546,8 +546,8 @@
     "data_size": 226,
     "nom_orig": "Yukino",
     "texte_orig": "She[SP]understands[SP]everything...?[1205][001E][SP]What's[SP]gotten\ninto[SP]you[SP]all?[1205][001E][SP]Even[SP]Maya-san's[SP]not[SP]her[SP]usual\nself...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Elle comprend tout...?[1205][001E] Que\nvous prend-il tous?[1205][001E] Même Maya\nn'est pas dans son état normal..."
   },
   {
     "id": 55,
@@ -556,18 +556,18 @@
     "data_size": 272,
     "nom_orig": "Yukino",
     "texte_orig": "Aliens...[SP]The[SP]Fuhrer...[1205][001E][SP]And[SP]now[SP]this[SP]about\n[1432][NULL][NULL][0014]playing[SP]the[SP]Masked[SP]Circle[1432][NULL][NULL][0014]...!?[1205][001E][SP]There's[SP]so\nmuch[SP]I[SP]don't[SP]understand...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Les aliènes... Le Führer...[1205][001E] Et\nmaintenant vos jeux au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]...!?[1205][001E]\nIl y a tant de choses que je saisis\npas..."
   },
-  {
+ {
     "id": 56,
     "offset": 306890,
     "slot_size": 278,
     "data_size": 274,
     "nom_orig": "Tamaki",
     "texte_orig": "The[SP]magazine[SP]sweepstakes[SP]rumor[SP]should[SP]come\ntrue[SP]now.[SP]I'll[SP]handle[SP]sending[SP]them[SP]in.[SP]You're\ntoo[SP]busy[SP]to[SP]do[SP]it[SP]yourselves,[SP]right?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "La rumeur des concours devrait\nse réaliser. Je m'occupe de les\nenvoyer. Vous êtes trop occupés\npour le faire, pas vrai?"
   },
   {
     "id": 57,
@@ -576,8 +576,8 @@
     "data_size": 996,
     "nom_orig": "Tamaki",
     "texte_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[U+1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[U+1210]řLeave[SP]the[SP]detective[SP]agency\n[U+1109][E2][E3][E4][NULL][NULL]\"Tamaki\nWhat[SP]can[SP]I[SP]help[SP]you[SP]with?\n[U+1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[U+1210]řLeave[SP]the[SP]detective[SP]agency\n[U+1109][E2][E3][E4][NULL][NULL]\"Tamaki\nWhat[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing\n[U+1109][E2][E3][E4][NULL][NULL]\"Tamaki\nOh,[SP]did[SP]you[SP]check[SP]the[SP]ones[SP]you[SP]entered[SP]last\ntime?[SP]You[SP]get[SP]the[SP]prizes[SP]at[SP]Lisa-chan's[SP]house,\nso[SP]come[SP]back[SP]after[SP]you've[SP]seen[SP]if[SP]you[SP]won.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Salut! Comment je peux vous aider?\n[U+1208][U+0004]Participer au concours\nParler à Tamaki\nRien\n[U+1210]řQuitter l'agence\n[U+1109][E2][E3][E4][NULL][NULL]\"Tamaki\nComment je peux vous aider?\n[U+1208][U+0004]Participer au concours\nParler à Tamaki\nRien\n[U+1210]řQuitter l'agence\n[U+1109][E2][E3][E4][NULL][NULL]\"Tamaki\nDe quoi voulez-vous parler?\n[U+1208][U+0003]Bavarder\nSur les concours\nRien\n[U+1109][E2][E3][E4][NULL][NULL]\"Tamaki\nAvez-vous vérifié vos précédents\nconcours? Les prix sont envoyés\nchez Lisa-chan, revenez quand vous\naurez vu si vous avez gagné."
   },
   {
     "id": 58,
@@ -586,8 +586,8 @@
     "data_size": 258,
     "nom_orig": "Tamaki",
     "texte_orig": "Okay![1205][001E][SP]Wait...[SP]you[SP]don't[SP]have[SP]any[SP]magazines.\nThey[SP]sell[SP]them[SP]at[SP]Satomi[SP]Tadashi,[SP]so[SP]come\nback[SP]when[SP]you've[SP]bought[SP]some.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "D'accord![1205][001E] Attendez... vous n'avez\npas de magazines. Satomi Tadashi en\nvend, revenez quand vous en aurez."
   },
   {
     "id": 59,
@@ -596,8 +596,8 @@
     "data_size": 234,
     "nom_orig": "Tamaki",
     "texte_orig": "Okay![SP]Let's[SP]see...[SP]We're[SP]sending[SP]off[SP][U+120E][U+0001],\nright?[SP]I'll[SP]put[SP]down[SP]Lisa-chan's[SP]place[SP]as\nthe[SP]receiving[SP]address.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Ok! Voyons voir... On envoie [U+120E][U+0001],\nc'est ça? Je vais mettre l'adresse\nde Lisa-chan pour la réception."
   },
   {
     "id": 60,
@@ -606,8 +606,8 @@
     "data_size": 246,
     "nom_orig": "Tamaki",
     "texte_orig": "Are[SP]you[SP]sure?\n[U+1208][0002]Yes\nNever[SP]mind\n[U+1109][E2][E3][E4][NULL][NULL]\"Tamaki\nGotcha![SP]I'll[SP]take[SP]care[SP]of[SP]sending[SP]them[SP]in.\nHope[SP]you[SP]win[SP]something!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Sûrs?\n[U+1208][0002]Oui\nLaissez tomber\n[U+1109][E2][E3][E4][NULL][NULL]\"Tamaki\nPigé! Je me charge de les envoyer.\nJ'espère que vous gagnerez!"
   },
   {
     "id": 61,
@@ -616,8 +616,8 @@
     "data_size": 162,
     "nom_orig": "Tamaki",
     "texte_orig": "Gotcha![SP]Well,[SP]come[SP]back[SP]again[SP]when[SP]you[SP]want\nto[SP]enter[SP]the[SP]sweepstakes.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Pigé! Et bien, revenez quand vous\nvoudrez participer aux concours."
   },
   {
     "id": 62,
@@ -626,8 +626,8 @@
     "data_size": 256,
     "nom_orig": "Tamaki",
     "texte_orig": "A[SP]sweepstakes[SP]is[SP]kind[SP]of[SP]like[SP]a[SP]raffle.[SP]You\nsend[SP]in[SP]magazines[SP]for[SP]chances[SP]to[SP]win[SP]a[SP]cool\nprize.[U+1121]It[SP]takes[SP]luck[SP]to[SP]win!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "C'est comme une loterie. Vous\nenvoyez des magazines pour tenter de\ngagner un prix.[U+1121]Faut de la chance!"
   },
   {
     "id": 63,
@@ -636,8 +636,8 @@
     "data_size": 286,
     "nom_orig": "Tamaki",
     "texte_orig": "First[SP]buy[SP]Sweepstakes[SP]Magazines[SP]at[SP]Satomi\nTadashi,[SP]then[SP]bring[SP]them[SP]to[SP]me[SP]and[SP]I'll[SP]send\nthem[SP]in.[SP]Any[SP]prizes[SP]go[SP]to[SP]Lisa-chan's[SP]house.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Achetez des magazines de concours\nchez Satomi Tadashi, apportez-les-moi\net je les enverrai. Les prix\nvont chez Lisa-chan."
   },
   {
     "id": 64,
@@ -646,18 +646,18 @@
     "data_size": 298,
     "nom_orig": "Tamaki",
     "texte_orig": "There[SP]are[SP]a[SP]few[SP]rules![SP]You[SP]can[SP]only[SP]enter[SP]one\ncontest[SP]at[SP]a[SP]time.[SP]No[SP]more[SP]entries[SP]until[SP]the\nlast[SP]results[SP]are[SP]in.[SP]That's[SP]just[SP]how[SP]it[SP]works.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Y a quelques règles! Une seule\nparticipation à la fois. Pas de\nnouvelles entrées tant que les résultats\nne sont pas là. C'est comme ça."
   },
-  {
+ {
     "id": 65,
     "offset": 309936,
     "slot_size": 238,
     "data_size": 234,
     "nom_orig": "Tamaki",
     "texte_orig": "Also,[SP]you[SP]can[SP]only[SP]send[SP]in[SP]99[SP]magazines[SP]per\nentry.[SP]The[SP]more[SP]you[SP]send,[SP]the[SP]better[SP]your\nchances[SP]of[SP]winning.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Aussi, max 99 magazines par\nparticipation. Plus vous en\nenvoyez, plus vous avez de\nchances de gagner."
   },
   {
     "id": 66,
@@ -666,8 +666,8 @@
     "data_size": 264,
     "nom_orig": "Tamaki",
     "texte_orig": "Finally,[SP]it[SP]takes[SP]time[SP]for[SP]the[SP]results[SP]to\ncome[SP]in.[SP]You[SP]can't[SP]just[SP]sit[SP]around[SP]and[SP]wait.\nYou[SP]have[SP]to[SP]walk[SP]around[SP]dungeons.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Enfin, les résultats prennent du\ntemps. Ne restez pas à attendre.\nVous devez vous balader dans\nles donjons."
   },
   {
     "id": 67,
@@ -676,8 +676,8 @@
     "data_size": 224,
     "nom_orig": "Tamaki",
     "texte_orig": "The[SP]rest[SP]is[SP]up[SP]to[SP]persistence[SP]and[SP]luck!\nIf[SP]you[SP]keep[SP]at[SP]it,[SP]you[SP]might[SP]get[SP]yourself\nsome[SP]rare[SP]items...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Le reste dépend de votre chance!\nEn insistant, vous pourriez obtenir\ndes objets rares..."
   },
   {
     "id": 68,
@@ -686,8 +686,8 @@
     "data_size": 296,
     "nom_orig": "Tamaki",
     "texte_orig": "Even[SP]if[SP]this[SP]teacher[SP]is[SP]wrong[SP]and[SP]the[SP]Masked\nCircle[SP]isn't[SP]the[SP]same[SP]as[SP]the[SP]Last[SP]Battalion...[1205][001E]\nIs[SP]the[SP]Masked[SP]Circle[SP]following[SP]that[SP]book?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Même si ce prof a tort et que le\nCercle masqué n'est pas le Last\nBattalion...[1205][001E] Le Cercle masqué suit-il\nce livre?"
   },
   {
     "id": 69,
@@ -696,8 +696,8 @@
     "data_size": 276,
     "nom_orig": "Tamaki",
     "texte_orig": "Mayan[SP]ruins...[SP]an[SP]ancient[SP]spaceship...[1205][001E][SP]I[SP]have\na[SP]hard[SP]time[SP]believing[SP]this[SP]stuff[SP]exists.[1205][001E]\nBut[SP]I[SP]have[SP]a[SP]bad[SP]feeling[SP]anyway...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Ruines mayas... un vieux vaisseau...[1205][001E]\nJ'ai du mal à croire que ça existe.[1205][001E]\nMais j'ai un mauvais pressentiment\nquand même..."
   },
   {
     "id": 70,
@@ -706,8 +706,8 @@
     "data_size": 238,
     "nom_orig": "Tamaki",
     "texte_orig": "I'll[SP]handle[SP]the[SP]scutwork[SP]of[SP]making\nsweepstakes[SP]entries,[SP]just[SP]as[SP]long[SP]as\nyou[SP]bring[SP]me[SP]Sweepstakes[SP]Magazines.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Je m'occuperai de la paperasse\ndes concours, tant que vous\nm'apportez des magazines de concours."
   },
   {
     "id": 71,
@@ -716,8 +716,8 @@
     "data_size": 220,
     "nom_orig": "Tadashi",
     "texte_orig": "W-We've[SP]learned[SP]a[SP]terrible[SP]secret![SP]It's[SP]this\ntaste[SP]of[SP]danger[SP]and[SP]violence[SP]that[SP]calls[SP]to\na[SP]man...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tadashi",
+    "texte_fr": "O-On a appris un terrible secret!\nCe goût du danger et de la violence\nappelle un homme..."
   },
   {
     "id": 72,
@@ -726,8 +726,8 @@
     "data_size": 240,
     "nom_orig": "Tadashi",
     "texte_orig": "Heh...[1205][001E][SP]I-It[SP]seems[SP]the[SP]time[SP]to[SP]reveal[SP]my[SP]true\npowers[SP]has[SP]come...[1205][001E][SP]Ooh,[SP]I[SP]should[SP]get[SP]a[SP]new\ncombat[SP]outfit!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tadashi",
+    "texte_fr": "Hé...[1205][001E] L'heure de révéler mes\nvrais pouvoirs a sonné...[1205][001E] Oh, je\ndevrais trouver une tenue de combat!"
   },
   {
     "id": 73,
@@ -736,8 +736,8 @@
     "data_size": 244,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Kashihara...[SP]The[SP]secrets[SP]of[SP]Xibalba[SP]you\nsealed[SP]away[SP]have[SP]become[SP]public[SP]knowledge...!\nWhat[SP]should[SP]I[SP]do...!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Kashihara... Les secrets de Xibalba\nque tu avais scellés sont devenus\npublics...! Que dois-je faire...!?"
   },
   {
     "id": 74,
@@ -746,8 +746,8 @@
     "data_size": 366,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What[SP]should[SP]I[SP]do...!?\n[U+1208][U+0003]Ask[SP]about[SP]the[SP]In[SP]Lak'ech\nAsk[SP]about[SP]the[SP]Last[SP]Battalion\nLeave[SP]her[SP]be\n[U+1109][E2][E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nWhat[SP]is[SP]it!?[SP]What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about\nthe[SP]In[SP]Lak'ech?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Que dois-je faire...!?\n[U+1208][U+0003]L'In Lak'ech\nLe Last Battalion\nLa laisser seule\n[U+1109][E2][E3][E4][NULL][NULL]\"Mme Idéale\nQu'y a-t-il!? Que voulez-vous\nsavoir sur l'In Lak'ech?"
   },
   {
     "id": 75,
@@ -756,18 +756,18 @@
     "data_size": 586,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]the[SP]In[SP]Lak'ech?\n[U+1208][U+0005]About[SP]Kashihara\nAbout[SP]Sudou\nAbout[SP]its[SP]contents\nAbout[SP]Maians\nAbout[SP]Ideal[SP]Energy\n[U+1109][E2][E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nHe[SP]was[SP]a[SP]world[SP]history[SP]teacher[SP]at[SP]Sevens[SP]with\nme.[SP]He[SP]was[SP]always[SP]tormented[SP]that[SP]the[SP]history\nhe[SP]taught[SP]his[SP]students[SP]might[SP]be[SP]untrue...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[U+1208][U+0005]Sur Kashihara\nSur Sudou\nLe contenu\nLes Maians\nL'Énergie Idéale\n[U+1109][E2][E3][E4][NULL][NULL]\"Mme Idéale\nIl enseignait l'histoire à Septs Sœurs.\nIl était tourmenté à l'idée que\nl'histoire qu'il enseignait soit fausse..."
   },
-  {
+ {
     "id": 76,
     "offset": 313168,
     "slot_size": 218,
     "data_size": 214,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "He[SP]was[SP]a[SP]dreamer,[SP]who[SP]loved[SP]his[SP]students[SP]very\nmuch.[1205][001E][SP]Yet[SP]he[SP]died[SP]in[SP]such[SP]a[SP]dreadful[SP]way...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "C'était un rêveur aimant ses\nélèves.[1205][001E] Pourtant il est mort de façon\nsi épouvantable..."
   },
   {
     "id": 77,
@@ -776,18 +776,18 @@
     "data_size": 196,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Kashihara[SP]always[SP]felt[SP]as[SP]though[SP]he[SP]was[SP]being\nwatched[SP]while[SP]writing[SP]the[SP]In[SP]Lak'ech!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Kashihara s'est toujours senti\nobservé en écrivant l'In Lak'ech!"
   },
-  {
+ {
     "id": 78,
     "offset": 313586,
     "slot_size": 274,
     "data_size": 270,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "And[SP]then[SP]he[SP]was[SP]found[SP]dead,[SP]crushed[SP]between\nthe[SP]gears[SP]in[SP]the[SP]school's[SP]clock[SP]tower!\nThe[SP]Last[SP]Battalion[SP]killed[SP]Kashihara!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Et on l'a trouvé mort, écrasé par\nles engrenages de la tour de l'horloge!\nLe Last Battalion a tué Kashihara!"
   },
   {
     "id": 79,
@@ -796,8 +796,8 @@
     "data_size": 242,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Sudou-kun[SP]was[SP]at[SP]Sevens[SP]too,[SP]as[SP]a[SP]student...[1205][001E]\nHe[SP]was[SP]a[SP]timid[SP]boy,[SP]afraid[SP]of[SP]his[SP]extremely\nstrict[SP]father.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Sudou était élève à Septs Sœurs...[1205][001E]\nC'était un garçon timide, effrayé par\nson père très strict."
   },
   {
     "id": 80,
@@ -806,8 +806,8 @@
     "data_size": 282,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "He[SP]was[SP]a[SP]troublemaker[SP]who[SP]complained[SP]of\nhearing[SP]voices,[SP]and[SP]was[SP]rumored[SP]to[SP]be[SP]an\narsonist.[SP]But[SP]he[SP]was[SP]devoted[SP]to[SP]Kashihara...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Il faisait des problèmes, disait\nentendre des voix, et la rumeur en\nfaisait un pyromane. Mais il était\ndévoué à Kashihara..."
   },
   {
     "id": 81,
@@ -816,8 +816,8 @@
     "data_size": 246,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "It[SP]was[SP]Kashihara[SP]who[SP]noticed[SP]Sudou-kun's\ngift.[SP]He[SP]was[SP]a[SP]medium[SP]capable[SP]of[SP]hearing\nthe[SP]voices[SP]of[SP]the[SP]Maians.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "C'est Kashihara qui a remarqué le\ndon de Sudou. C'était un médium\ncapable d'entendre les voix des\nMaians."
   },
   {
     "id": 82,
@@ -826,8 +826,8 @@
     "data_size": 278,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Slowly,[SP]Kashihara[SP]coaxed[SP]from[SP]him[SP]what\nbecame[SP]the[SP]Oracle[SP]of[SP]Maia.[SP]Sudou-kun[SP]was\nhappy[SP]to[SP]have[SP]someone[SP]who[SP]understood[SP]him...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Lentement, Kashihara a tiré de lui\nl'Oracle de Maia. Sudou était heureux\nd'avoir quelqu'un pour le comprendre..."
   },
   {
     "id": 83,
@@ -836,8 +836,8 @@
     "data_size": 234,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Sudou-kun[SP]must[SP]have[SP]betrayed[SP]us[SP]and[SP]told[SP]the\nLast[SP]Battalion[SP]about[SP]Xibalba![SP]It's[SP]the[SP]only\nexplanation!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Sudou a dû nous trahir et parler de\nXibalba au Last Battalion! C'est\nla seule explication!"
   },
   {
     "id": 84,
@@ -846,18 +846,18 @@
     "data_size": 272,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "[1432][NULL][NULL][0014]In[SP]Lak'ech[1432][NULL][NULL][0014][SP]means[SP][1432][NULL][NULL][0014]you[SP]are[SP]another[SP]me[1432][NULL][NULL][0014][SP]in\nMayan.[1205][001E][SP]It's[SP]what[SP]we[SP]called[SP]the[SP]oracle[SP]that\nSudou-kun[SP]channeled.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014] signifie [1432][NULL][NULL][0014]tu es un autre moi[1432][NULL][NULL][0014]\nen maya.[1205][001E] C'est ainsi qu'on a appelé\nl'oracle canalisé par Sudou."
   },
-  {
+ {
     "id": 85,
     "offset": 315438,
     "slot_size": 288,
     "data_size": 284,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Maians[SP]guided[SP]our[SP]evolution[SP]once,[SP]though\nthat[SP]stage[SP]is[SP]now[SP]lost.[1205][001E][SP]Our[SP]civilization[SP]as\nit[SP]stands[SP]is[SP]a[SP]remnant[SP]from[SP]then...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Les Maians ont jadis guidé notre\névolution, bien que cette ère soit\nfinie.[1205][001E] Notre civilisation en\nest un vestige..."
   },
   {
     "id": 86,
@@ -866,8 +866,8 @@
     "data_size": 248,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Bolontiku[SP]destroyed[SP]our[SP]ancestors[SP]and[SP]the\nOxlahuntiku.[SP]Their[SP]spaceship,[SP]Xibalba,[SP]lies\nunder[SP]this[SP]city...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Les Bolontiku ont détruit nos aïeux\net les Oxlahuntiku. Leur vaisseau,\nXibalba, repose sous cette ville..."
   },
   {
     "id": 87,
@@ -876,8 +876,8 @@
     "data_size": 282,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Xibalba[SP]is[SP]the[SP]key[SP]to[SP]our[SP]evolution.[SP]We[SP]can't\nevolve[SP]without[SP]it...[1205][001E][SP]But[SP]it[SP]will[SP]come[SP]at[SP]the\ncost[SP]of[SP]this[SP]world's[SP]extinction!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Xibalba est la clé de notre évolution.\nOn ne peut évoluer sans lui...[1205][001E] Mais ce\nsera au prix de l'extinction de\nce monde!"
   },
   {
     "id": 88,
@@ -886,18 +886,18 @@
     "data_size": 288,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Oracle[SP]promises[SP]the[SP]revival[SP]of[SP]Xibalba\nand[SP]an[SP]end[SP]to[SP]everything![SP]Kashihara[SP]sealed\nhis[SP]discovery[SP]for[SP]that[SP]reason,[SP]and[SP]yet...!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "L'Oracle promet le retour de Xibalba\net la fin de tout! C'est pour cela\nque Kashihara a caché sa découverte,\net pourtant...!"
   },
-  {
+ {
     "id": 89,
     "offset": 316556,
     "slot_size": 264,
     "data_size": 260,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Maians[SP]came[SP]here[SP]from[SP]the[SP]Pleiades.\nThe[SP]two[SP]factions[SP]amongst[SP]them[SP]were[SP]in[SP]a\nperpetual[SP]state[SP]of[SP]galactic[SP]war...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Les Maians venaient des Pléiades.\nLeurs deux factions étaient dans\nun état perpétuel de guerre\ngalactique..."
   },
   {
     "id": 90,
@@ -906,8 +906,8 @@
     "data_size": 274,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Mayans[SP]worshipped[SP]the[SP]Oxlahuntiku[SP]as[SP]gods\nof[SP]light...[1205][001E][SP]While[SP]they[SP]feared[SP]the[SP]Bolontiku\nas[SP]gods[SP]of[SP]the[SP]netherworld...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Les Mayas vénéraient les Oxlahuntiku\ncomme dieux de lumière...[1205][001E] Et\ncraignaient les Bolontiku comme dieux\ndes enfers..."
   },
   {
     "id": 91,
@@ -916,8 +916,8 @@
     "data_size": 294,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Their[SP]war[SP]consumed[SP]this[SP]solar[SP]system,[SP]and[SP]the\nOxlahuntiku[SP]perished...[1205][001E][SP]Those[SP]events[SP]are[SP]the\nsource[SP]of[SP]common[SP]legends[SP]of[SP]the[SP]flood.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Leur guerre a consumé notre système\nsolaire et les Oxlahuntiku ont péri...[1205][001E]\nC'est la source des mythes courants\nsur le Déluge."
   },
   {
     "id": 92,
@@ -926,8 +926,8 @@
     "data_size": 230,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "But[SP]the[SP]victory[SP]took[SP]its[SP]toll[SP]on[SP]the\nBolontiku![SP]They[SP]ran[SP]out[SP]of[SP]power[SP]and[SP]were\nforced[SP]into[SP]slumber!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Mais la victoire a coûté aux\nBolontiku! Ils ont épuisé leur\nénergie et ont dû s'endormir!"
   },
   {
     "id": 93,
@@ -936,18 +936,18 @@
     "data_size": 252,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "To[SP]this[SP]day,[SP]they[SP]sleep[SP]below[SP]this[SP]city,\nabsorbing[SP]Ideal[SP]Energy[SP]and[SP]dreaming[SP]of[SP]the\nday[SP]when[SP]they[SP]will[SP]awaken!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Aujourd'hui, ils dorment sous la\nville, absorbant l'Énergie Idéale en\nrêvant du jour où ils s'éveilleront!"
   },
-  {
+ {
     "id": 94,
     "offset": 317886,
     "slot_size": 270,
     "data_size": 266,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Ideal[SP]Energy[SP]is[SP]the[SP]power[SP]of[SP]thought[SP]held[SP]by\nus[SP]living[SP]beings...[1205][001E][SP]It's[SP]a[SP]psychological\nenergy[SP]based[SP]on[SP]one's[SP]ideals.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "L'Énergie Idéale est le pouvoir de\npensée des vivants...[1205][001E] C'est une\nénergie psychologique basée sur\nles idéaux."
   },
   {
     "id": 95,
@@ -956,8 +956,8 @@
     "data_size": 298,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]energy[SP]is[SP]heightened[SP]most[SP]when[SP]one[SP]is\npassionate[SP]about[SP]one's[SP]ideals,[SP]or[SP]when[SP]one's\ndream[SP]comes[SP]true.[1205][001E][SP]It's[SP]fed[SP]by[SP]joie[SP]de[SP]vivre.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "L'énergie augmente quand on est\npassionné par ses idéaux ou quand\nson rêve se réalise.[1205][001E] Elle se nourrit\nde la joie de vivre."
   },
   {
     "id": 96,
@@ -966,18 +966,18 @@
     "data_size": 282,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Ideal[SP]Energy[SP]is[SP]the[SP]Maian[SP]source[SP]of[SP]power...[1205][001E]\nAnd[SP]the[SP]crystal[SP]skulls[SP]are[SP]OOPArts[SP]planted\nin[SP]mankind's[SP]history[SP]to[SP]collect[SP]it!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "C'est la source de pouvoir Maiane...[1205][001E]\nLes crânes de cristal sont des Ooparts\nplacés dans notre histoire pour la\nrécolter!"
   },
-  {
+ {
     "id": 97,
     "offset": 318744,
     "slot_size": 278,
     "data_size": 274,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "They're[SP]the[SP]keys[SP]to[SP]Xibalba[SP]and[SP]its[SP]power\nsource![SP]Whoever[SP]controls[SP]Xibalba[SP]and[SP]Ideal\nEnergy[SP]shall[SP]control[SP]mankind's[SP]fate!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "C'est la clé de Xibalba et de sa\nsource de pouvoir! Qui contrôle\nXibalba et l'Énergie contrôle\nle destin humain!"
   },
   {
     "id": 98,
@@ -986,8 +986,8 @@
     "data_size": 118,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What!?[SP]What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]them?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Quoi!? Que voulez-vous savoir?"
   },
   {
     "id": 99,
@@ -996,8 +996,8 @@
     "data_size": 386,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]them?\n[U+1208][0002]About[SP]the[SP]Fuhrer\nAbout[SP]the[SP]Battalion[SP]itself\n[U+1109][E2][E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nThe[SP]greatest[SP]and[SP]worst[SP]dictator[SP]of[SP]the\ncentury![1205][001E][SP]You[SP]know[SP]that[SP]much,[SP]I[SP]hope.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Que voulez-vous savoir?\n[U+1208][0002]Sur le Führer\nSur le Battalion en lui-même\n[U+1109][E2][E3][E4][NULL][NULL]\"Mme Idéale\nLe plus grand et pire dictateur du\nsiècle![1205][001E] Vous savez au moins ça,\nj'espère."
   },
   {
     "id": 100,
@@ -1006,8 +1006,8 @@
     "data_size": 286,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "But[SP]do[SP]you[SP]know[SP]why[SP]he[SP]started[SP]a[SP]world[SP]war?\nHis[SP]true[SP]goal[SP]was[SP]to[SP]drive[SP]man[SP]to[SP]the[SP]brink\nof[SP]extinction[SP]and[SP]hasten[SP]our[SP]evolution!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Savez-vous pourquoi il a lancé une\nguerre mondiale? Son but était de\npousser l'homme à l'extinction pour\nhâter son évolution!"
   },
   {
     "id": 101,
@@ -1016,8 +1016,8 @@
     "data_size": 300,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "He[SP]said[SP]so[SP]himself![1205][001E][SP]He's[SP]an[SP]immortal[SP]sorcerer\nwho[SP]learned[SP]magic[SP]from[SP]Mayan[SP]mystics.[SP]He\ncraved[SP]the[SP]secrets[SP]of[SP]ruins[SP]around[SP]the[SP]world!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Il l'a dit! C'est un sorcier immortel\nayant appris la magie de mystiques\nmayas. Il convoitait les secrets des\nruines du monde entier!"
   },
   {
     "id": 102,
@@ -1026,8 +1026,8 @@
     "data_size": 268,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "You[SP]probably[SP]learned[SP]in[SP]school[SP]that[SP]he[SP]killed\nhimself,[SP]but[SP]he's[SP]very[SP]much[SP]alive![SP]There[SP]are\ncountless[SP]rumors[SP]saying[SP]so.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "On vous a appris à l'école qu'il s'est\nsuicidé, mais il est bel et bien\nvivant! D'innombrables rumeurs le\ndisent."
   },
   {
     "id": 103,
@@ -1036,8 +1036,8 @@
     "data_size": 260,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "And[SP]now[SP]he's[SP]figured[SP]out[SP]the[SP]secret[SP]behind\nXibalba![SP]He'll[SP]surely[SP]act[SP]on[SP]it[SP]to[SP]realize\nhis[SP]dream[SP]of[SP]becoming[SP]a[SP]god!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Et il a découvert le secret derrière\nXibalba! Il va sûrement agir pour\nréaliser son rêve de devenir un dieu!"
   },
   {
     "id": 104,
@@ -1046,8 +1046,8 @@
     "data_size": 298,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Last[SP]Battalion[SP]lurks[SP]in[SP]a[SP]secret[SP]base\nsomewhere[SP]in[SP]the[SP]South[SP]Pole[SP]or[SP]South[SP]America,\nwhere[SP]they[SP]plot[SP]to[SP]fulfill[SP]the[SP]Fuhrer's[SP]goal!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Le Last Battalion se terre dans une\nbase secrète au Pôle Sud ou en\nAmérique du Sud, complotant pour\natteindre le but du Führer!"
   },
   {
     "id": 105,
@@ -1056,8 +1056,8 @@
     "data_size": 232,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "They[SP]have[SP]cutting-edge[SP]weaponry[SP]and\nsuperhuman[SP]units[SP]ready[SP]and[SP]waiting[SP]for\nthe[SP]right[SP]time[SP]to[SP]strike!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Ils ont des armes de pointe et des\nunités surhumaines prêtes, attendant\nle bon moment pour frapper!"
   },
   {
     "id": 106,
@@ -1066,8 +1066,8 @@
     "data_size": 262,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]most[SP]fearsome[SP]of[SP]them[SP]are[SP]the[SP]core[SP]of\nthe[SP]Last[SP]Battalion...[SP]A[SP]secret[SP]unit[SP]called\nthe[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Les plus redoutables forment le\nnoyau du Last Battalion... Une unité\nsecrète appelée l'Ordre de la Sainte\nLance..."
   },
   {
     "id": 107,
@@ -1076,8 +1076,8 @@
     "data_size": 242,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "This[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance[SP]has[SP]supposedly\ndiscovered[SP]the[SP]Spear[SP]of[SP]Destiny,[SP]a[SP]relic[SP]of\nChrist's[SP]miracle!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Cet Ordre aurait soi-disant\ndécouvert la Lance du Destin, une\nrelique du miracle du Christ!"
   },
   {
     "id": 108,
@@ -1086,8 +1086,8 @@
     "data_size": 228,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "It[SP]is[SP]said[SP]that[SP]whoever[SP]possesses[SP]the[SP]Spear\nof[SP]Destiny[SP]will[SP]rule[SP]the[SP]world...[SP]You[SP]must\nbe[SP]careful!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "On dit que quiconque possède la Lance\ndu Destin dominera le monde...\nFaites attention!"
   },
   {
     "id": 109,
@@ -1096,8 +1096,8 @@
     "data_size": 164,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "If[SP]you[SP]didn't[SP]need[SP]to[SP]know[SP]anything,[SP]then\nwhy[SP]did[SP]you[SP]talk[SP]to[SP]me!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Si vous ne vouliez rien savoir,\npourquoi me parler!?"
   },
   {
     "id": 110,
@@ -1106,8 +1106,8 @@
     "data_size": 1324,
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "The[SP]Masked[SP]Circle[SP]and[SP]the[SP]Last[SP]Battalion...[1205][001E]\nThis[SP]could[SP]be[SP]a[SP]problem.[1205][001E][SP]Now,[SP]what[SP]business\ndo[SP]you[SP]have[SP]with[SP]us[SP]today?\n[U+1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[U+1210]řLeave[SP]the[SP]detective[SP]agency\n[U+1109][E2][E3][E4][NULL][NULL]\"Chief[SP]Todoroki\nWhat's[SP]on[SP]your[SP]mind?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[U+1210][NULL]Non-displayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Chief[SP]Todoroki\nAnything[SP]else?\n[U+1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[U+1210]řLeave[SP]the[SP]detective[SP]agency\n[U+1109][E2][E3][E4][NULL][NULL]\"Chief[SP]Todoroki\nWhat's[SP]on[SP]your[SP]mind?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[U+1210][NULL]Non-displayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Chief[SP]Todoroki\nLooking[SP]into[SP]some[SP]old[SP]records,[SP]I[SP]found[SP]an\ninvestigation[SP]report[SP]on[SP]your[SP]man[SP]Kashihara.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Le Cercle masqué et le Last\nBattalion...[1205][001E] C'est embêtant.[1205][001E] Bon, que\nvoulez-vous aujourd'hui?\n[U+1208][U+0005]Répandre une rumeur\nVérifier les rumeurs\nParler au Chef\nAnnuler\n[U+1210]řQuitter l'agence\n[U+1109][E2][E3][E4][NULL][NULL]\"Chef Todoroki\nQu'avez-vous en tête?\n[U+1208][U+0003]Bavarder\nSur les rumeurs\n[U+1210][NULL]Sélection cachée\n[U+1109][E2][E3][E4][NULL][NULL]\"Chef Todoroki\nAutre chose?\n[U+1208][U+0005]Répandre une rumeur\nVérifier les rumeurs\nParler au Chef\nAnnuler\n[U+1210]řQuitter l'agence\n[U+1109][E2][E3][E4][NULL][NULL]\"Chef Todoroki\nQu'avez-vous en tête?\n[U+1208][U+0003]Bavarder\nSur les rumeurs\n[U+1210][NULL]Sélection cachée\n[U+1109][E2][E3][E4][NULL][NULL]\"Chef Todoroki\nDans de vieux dossiers, j'ai trouvé\nun rapport sur Kashihara."
   },
   {
     "id": 111,
@@ -1116,8 +1116,8 @@
     "data_size": 284,
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "The[SP]former[SP]inhabitant[SP]of[SP]this[SP]body...[1205][001E]\nSeems[SP]he[SP]did[SP]some[SP]digging[SP]into[SP]Kashihara.\nIt's[SP]on[SP]the[SP]desk,[SP]if[SP]you're[SP]interested.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "L'ancien habitant de ce corps...[1205][001E]\nOn dirait qu'il a fouillé sur\nKashihara. C'est sur le bureau, si\nça vous intéresse."
   },
   {
     "id": 112,
@@ -1126,8 +1126,8 @@
     "data_size": 274,
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "All[SP]we[SP]can[SP]do[SP]for[SP]you[SP]is[SP]to[SP]spread[SP]some\nrumors[SP]here[SP]and[SP]there.[SP]The[SP]rest[SP]is[SP]all[SP]up\nto[SP]you.[SP]Well[SP]then...[SP]Be[SP]seeing[SP]ya.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Tout ce qu'on peut faire, c'est\nrépandre quelques rumeurs ici et là.\nLe reste dépend de vous. Bon...\nÀ plus tard."
   },
   {
     "id": 113,
@@ -1136,8 +1136,8 @@
     "data_size": 172,
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Sweepstakes,[SP]huh...?[SP]Talk[SP]to[SP]Tamaki-kun[SP]if\nyou[SP]want[SP]to[SP]enter[SP]them.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Les concours, hein...? Parlez à\nTamaki pour y participer."
   },
   {
     "id": 114,
@@ -1146,8 +1146,8 @@
     "data_size": 192,
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "100 yens, stp, miaou[1432][NULL][NULL][U+0007]\n100 yens, stp, miaou[1432][NULL][NULL][U+0007]\n100 yens, stp, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 115,
@@ -1156,18 +1156,18 @@
     "data_size": 426,
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n[U+1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything\n[U+1109][E2][E3][E4][NULL][NULL]\"Lucky[SP]cat[SP]statue\nOh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][U+0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][U+0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "100 yens, s'il te plaît, miaou[1432][NULL][NULL][U+0007]\n[U+1208][0002]Mettre 100 yens\nNe rien mettre\n[U+1109][E2][E3][E4][NULL][NULL]\"Statue de chat\nOh, t'es fauché, miaou[1432][NULL][NULL][U+0007]\nMontre-moi un menteur, je te montrerai\nun voleur, miaou[1432][NULL][NULL][U+0007]\nSors d'ici, fsssh[1432][NULL][NULL][U+0007]"
   },
-  {
+ {
     "id": 116,
     "offset": 324810,
     "slot_size": 232,
     "data_size": 228,
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][U+0007][1205][U+000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Ronron... Je suis ému[1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 20 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nJ'en attends encore plus, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 117,
@@ -1176,8 +1176,8 @@
     "data_size": 244,
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Meowvelous![1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][U+0007][1205][U+000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Miaourveilleux![1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 50 fois, ronron[1432][NULL][NULL][U+0007][1205][U+000F]\nTu es si généreux, ronrrrron[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 118,
@@ -1186,8 +1186,8 @@
     "data_size": 224,
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Amazing,[SP]meow![1205][U+000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Super, miaou![1205][U+000F]\nTu m'as nourri 80 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nTu caches quelque chose, miaou?"
   },
   {
     "id": 119,
@@ -1196,8 +1196,8 @@
     "data_size": 234,
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "The[SP]time[SP]has[SP]finally[SP]come,[SP]meow...[1205][U+000F]\nAn[SP]even[SP]100[SP]feedings...[1205][U+000F]\nI've[SP]collected[SP]10,000[SP]yen,[SP]meow!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Le moment est venu, miaou...[1205][U+000F]\nTout pile 100 repas...[1205][U+000F]\nJ'ai récolté 10 000 yens, miaou!"
   },
   {
     "id": 120,
@@ -1206,8 +1206,8 @@
     "data_size": 328,
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "I[SP]feel[SP]bad[SP]at[SP]being[SP]given[SP]so[SP]much,[SP]meow![1205][U+000F]\nSo[SP]I[SP]have[SP]a[SP]purresent[SP]for[SP]you!\n[E1][E2][E4][NULL][NULL]\"Lucky[SP]cat[SP]statue\nUse[SP]this[SP][E4][NULL][NULL][U+0004]Incense[SP]Set[E4][NULL][NULL][0002][SP]wisely,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Je m'en veux de recevoir tant, miaou![1205][U+000F]\nJ'ai un p'tit présent pour toi!\n[E1][E2][E4][NULL][NULL]\"Statue de chat\nUtilise ce [E4][NULL][NULL][U+0004]Set d'encens[E4][NULL][NULL][0002] avec\nsagesse, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 121,
@@ -1216,8 +1216,8 @@
     "data_size": 82,
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Thank[SP]you,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Merci, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 122,
@@ -1226,8 +1226,8 @@
     "data_size": 76,
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "...[1205][U+000F]Cheaps-cat!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "...[1205][U+000F]Radin!"
   },
   {
     "id": 123,
@@ -1236,8 +1236,8 @@
     "data_size": 174,
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "That[SP]door[SP]doesn't[SP]open,[SP]meow[1432][NULL][NULL][U+0007]\nYou[SP]should[SP]stop[SP]trying,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "La porte ne s'ouvre pas, miaou[1432][NULL][NULL][U+0007]\nArrête d'essayer, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 124,
@@ -1246,8 +1246,8 @@
     "data_size": 56,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Wait,[SP][U+1112]-kun!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Attends, [U+1112]!"
   },
   {
     "id": 125,
@@ -1256,8 +1256,8 @@
     "data_size": 274,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "T-Take[SP]the[SP][E4][NULL][NULL][U+0006]In[SP]Lak'ech[E4][NULL][NULL][0002][SP]with[SP]you![SP]You[SP]are\nfighting[SP]the[SP]Masked[SP]Circle...[SP]or[SP]rather,\nthe[SP]Last[SP]Battalion,[SP]aren't[SP]you!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéale",
+    "texte_fr": "Prends l'[E4][NULL][NULL][U+0006]In Lak'ech[E4][NULL][NULL][0002]! Tu te bats\ncontre le Cercle masqué...\nou plutôt, contre le Last Battalion,\nn'est-ce pas!?"
   },
   {
     "id": 126,
@@ -1266,7 +1266,7 @@
     "data_size": 1168,
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Want[SP]the[SP]lowdown[SP]on[SP]rumors?\n[E1][E2][E4][NULL][NULL]\"Chief[SP]Todoroki\nAsk[SP]me[SP]to[SP]spread[SP]a[SP]rumor[SP]of[SP]your[SP]choice[SP]and\nI'll[SP]do[SP]it.[SP]Not[SP]for[SP]free,[SP]mind[SP]you.\n[E1][E2][E4][NULL][NULL]\"Chief[SP]Todoroki\nYou'll[SP]need[SP]to[SP]bring[SP]me[SP]rumors[SP]you[SP]hear[SP]from\nrumormongers.\n[E1][E2][E4][NULL][NULL]\"Chief[SP]Todoroki\nThere[SP]are[SP]rumormongers[SP]everywhere[SP]in[SP]Sumaru.\nDig[SP]a[SP]little,[SP]and[SP]you'll[SP]find[SP]them.\n[E1][E2][E4][NULL][NULL]\"Chief[SP]Todoroki\nYou[SP]can[SP]remind[SP]yourself[SP]which[SP]rumors[SP]are\nalready[SP]circulating[SP]by[SP]asking[SP]me[SP]to[SP]check\nrumors.\n[E1][E2][E4][NULL][NULL]\"Chief[SP]Todoroki\nNot[SP]only[SP]can[SP]you[SP]remember[SP]which[SP]rumors[SP]I've\nbeen[SP]putting[SP]out[SP]there[SP]for[SP]you,[SP]you[SP]can[SP]see\nwhich[SP]ones[SP]demons[SP]are[SP]spreading.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Tu veux tout savoir sur les rumeurs?\n[E1][E2][E4][NULL][NULL]\"Chef Todoroki\nDemande-moi de répandre une rumeur et\nje le ferai. Mais pas gratuitement.\n[E1][E2][E4][NULL][NULL]\"Chef Todoroki\nTu devras m'apporter les rumeurs que tu\nentends des colporteurs de rumeurs.\n[E1][E2][E4][NULL][NULL]\"Chef Todoroki\nIl y a des colporteurs partout dans\nSumaru. Cherche, tu les trouveras.\n[E1][E2][E4][NULL][NULL]\"Chef Todoroki\nTu peux te rappeler des rumeurs déjà\nen circulation en me demandant de\nles vérifier.\n[E1][E2][E4][NULL][NULL]\"Chef Todoroki\nNon seulement tu peux voir celles que\nj'ai diffusées, mais aussi celles\nque les démons répandent."
   }
 ]
