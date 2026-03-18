@@ -6,8 +6,8 @@
     "data_size": 122,
     "nom_orig": "Eikichi",
     "texte_orig": "H-Huh?[SP]I've[SP]never[SP]seen[SP]that[SP]girl[SP]here[SP]before...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "H-Hein? J'ai jamais vu cette fille\nici avant..."
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 56,
     "nom_orig": "Sailor-suited[SP]girl",
     "texte_orig": "Hm?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéeenne",
+    "texte_fr": "Hm?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 146,
     "nom_orig": "Sailor-suited[SP]girl",
     "texte_orig": "Oh[SP]wow,[SP]what[SP]cute[SP]little[SP]justice[SP]heroes!\nCiaaao!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéeenne",
+    "texte_fr": "Oh wow, quels adorables petits héros\nde la justice! Ciao!"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 70,
     "nom_orig": "Ginko",
     "texte_orig": "Whatcha[SP]doing,[SP]Big[SP]Sis?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Tu fais quoi, sœurette?"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 226,
     "nom_orig": "Sailor-suited[SP]girl",
     "texte_orig": "I'm[SP]visiting[SP]the[SP]shrine.[SP]I'm[SP]praying[SP]to[SP]become\nwhat[SP]I[SP]want[SP]in[SP]the[SP]future...[1205][001E][SP]Like[SP]that!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéeenne",
+    "texte_fr": "Je visite le sanctuaire. Je prie pour\ndevenir ce que je veux plus tard...[1205][001E]\nComme ça!"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 186,
     "nom_orig": "Ginko",
     "texte_orig": "Ohh,[SP]neat![SP]But[SP]if[SP]you[SP]join[SP]the[SP]Masked[SP]Circle,\nyou[SP]can[SP]be[SP]what[SP]you[SP]want[SP]right[SP]now!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Génial! Mais au Cercle masqué,\ntu peux devenir ce que tu veux\ndès maintenant!"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 266,
     "nom_orig": "Eikichi",
     "texte_orig": "Wh-Whatever[SP]the[SP]b-boss[SP]of[SP]the[SP]Masked\nC-Circle[SP]says[SP]goes.[SP]Th-The[SP]boss[SP]gets[SP]to\ndecide[SP]what[SP]everyone[SP]d-does[SP]and[SP]b-becomes.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ce que le c-chef du C-Cercle masqué\ndit est la loi. Le chef décide ce\nque chacun d-doit faire ou d-devenir."
   },
   {
     "id": 7,
@@ -76,18 +76,18 @@
     "data_size": 148,
     "nom_orig": "Sailor-suited[SP]girl",
     "texte_orig": "Wow![SP]Then[SP]will[SP]you[SP]make[SP]me[SP]what[SP]I[SP]want\nto[SP]be[SP]too?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéeenne",
+    "texte_fr": "Wow! Alors tu feras de moi ce que je\nveux devenir aussi?"
   },
-  {
+{
     "id": 8,
     "offset": 343954,
     "slot_size": 182,
     "data_size": 178,
     "nom_orig": "Eikichi",
     "texte_orig": "Wh-What[SP]should[SP]we[SP]d-do?[SP]I-I[SP]wouldn't\nm-mind[SP]letting[SP]her[SP]j-join[SP]our[SP]group...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "On d-doit faire quoi? Ça me\ngênerait pas qu'elle vienne\ndans notre groupe.."
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 118,
     "nom_orig": "Black-masked[SP]boy",
     "texte_orig": "Yeah...[1205][001E][SP]Are[SP]you[SP]okay[SP]with[SP]it,[SP]Red?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Garçon masqué",
+    "texte_fr": "Ouais...[1205][001E] T'es d'accord, Rouge?"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 268,
     "nom_orig": "Sailor-suited[SP]girl",
     "texte_orig": "Thanks![SP]Hey,[SP]want[SP]to[SP]see[SP]something?[SP]It's[SP]a\nchant[SP]that's[SP]rumored[SP]to[SP]let[SP]you[SP]be[SP]able[SP]to\nsee[SP]your[SP]future[SP]self...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéeenne",
+    "texte_fr": "Merci! Hé, vous voulez voir un truc? C'est\nun chant qui permettrait de voir à\nquoi on ressemblera plus tard..."
   },
   {
     "id": 11,
@@ -116,7 +116,7 @@
     "data_size": 140,
     "nom_orig": "Ginko",
     "texte_orig": "Wow![SP]Show[SP]us,[SP]show[SP]us![SP]I[SP]wonder[SP]if[SP]I'll\nbe[SP]married[SP]to[SP]Red?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Wow! Fais voir! Je serai\nmariée à Rouge?"
   }
 ]
