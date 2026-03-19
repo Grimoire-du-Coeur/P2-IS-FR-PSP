@@ -6,8 +6,8 @@
     "data_size": 136,
     "nom_orig": "Eikichi",
     "texte_orig": "[U+1114]![SP]You're[SP]the[SP]boss[SP]today,[SP]right!?\nOrder[SP]her[SP]not[SP]to[SP]go!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "[U+1114]! C'est toi le chef aujourd'hui, pas vrai!? Dis lui de rester!"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 168,
     "nom_orig": "Eikichi",
     "texte_orig": "Jun![SP]You[SP]gotta[SP]say[SP]something![SP]Are[SP]you\ngonna[SP]just[SP]let[SP]Big[SP]Sis[SP]go[SP]away!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Jun! Dis quelque chose! Tu vas laisser soeurette s'en aller comme ça!?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 32,
     "nom_orig": "Jun",
     "texte_orig": "......",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "......",
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 104,
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]won't[SP]let[SP]you...[1205][001E][SP]I[SP]won't[SP]let[SP]you[SP]go!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Je ne te laisserai pas...[1205][001E] Je ne te laisserai pas partir!"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 170,
     "nom_orig": "Ginko",
     "texte_orig": "If[SP]we[SP]lock[SP]Big[SP]Sis[SP]in[SP]the[SP]shrine[SP]until\ntomorrow,[SP]she[SP]won't[SP]be[SP]able[SP]to[SP]go!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Si on enferme soeurette dans le sanctuaire jusqu'à demain, elle ne pourra pas s'en aller!"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 120,
     "nom_orig": "Jun",
     "texte_orig": "We[SP]can't,[SP]guys![SP]We...[1205][001E][SP]We[SP]have[SP]to[SP]let\nBig[SP]Sis[SP]go!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "On ne peut pas faire ça! On...[1205][001E] On doit laisser soeurette partir!"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 102,
     "nom_orig": "Eikichi",
     "texte_orig": "We're[SP]gonna...[1205][001E][SP]kill[SP]Big[SP]Sis,[SP]right?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "On va...[1205][001E]tuer soeurette, pas vrai?"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 122,
     "nom_orig": "Maya",
     "texte_orig": "Please[SP]let[SP]me[SP]out![1205][001E][SP]Please...[1205][001E][SP]Help[SP]me,[SP]Jun-kun!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "S'il-vous-plaît, laissez moi sortir!" [1205][001E]S'il-vous-plaît...[1205][001E]À l'aide, Jun!
   },
   {
     "id": 8,
@@ -86,7 +86,7 @@
     "data_size": 168,
     "nom_orig": "Ginko",
     "texte_orig": "To[SP]make[SP]sure[SP]she[SP]can't[SP]go[SP]anywhere...[1205][001E]\nWe're[SP]gonna[SP]kill[SP]Big[SP]Sis,[SP]right?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Pour s'assurer qu'elle n'aille nulle part...[1205][001E] On va tuer soeurette, pas vrai?"
   }
 ]
