@@ -19,6 +19,6 @@
 | Queen Aquarius | Reine Verseau |
 | Lady Scorpio | Dame Scorpion |
 | Prince Taurus | Prince Taureau |
-|  |  |
+| Idealians | Idéaliens |
 |  |  |
 |  |  |
