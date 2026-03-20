@@ -22,4 +22,4 @@
 | Prince Taurus | Prince Taureau |
 | Idealians | Idéaliens |
 | Führer | Fuhrer |
-|  |  |
+| Grand Cross | Croix Cosmique/Croix |
