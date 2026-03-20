@@ -25,3 +25,4 @@
 | Grand Cross | Croix Cosmique/Croix |
 | Maia | Maia |
 | Mayan | Maya |
+| Last Batallion | Bataillon |
