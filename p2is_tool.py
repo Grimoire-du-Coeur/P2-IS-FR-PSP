@@ -338,7 +338,7 @@ def text_to_bytes(text):
     while i < len(text):
         if text[i] == '[':
             end = text.index(']', i); tag = text[i:end+1]
-            if tag == "[NULL]": i = end+1; continue
+            if tag == "[NULL]":out.append(b'\x00\x00');i = end+1; continue
             found = False
             for code, name in CTRL.items():
                 if name == tag: out.append(struct.pack("<H", code)); found=True; break
