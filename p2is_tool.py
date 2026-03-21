@@ -334,6 +334,8 @@ def text_to_bytes(text):
     text = text.replace('Û', 'ĵ')
     text = text.replace('œ', 'ë')
     text = text.replace('Œ', 'Ǩ')
+    text = text.replace('ü', 'ˠ')
+    text = text.replace('ï', 'Ȗ')
     out = []; i = 0
     while i < len(text):
         if text[i] == '[':
