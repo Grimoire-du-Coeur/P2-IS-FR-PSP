@@ -9,9 +9,6 @@ jobs:
   check_scripts:
     name: Check Scripts
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: read
 
     steps:
       - name: Checkout code
@@ -39,45 +36,5 @@ jobs:
 
       - name: Run json-verify
         if: ${{ steps.filter.outputs.changed == 'true' }}
-        id: verify
-        continue-on-error: true
         run: |
-          python JsonVerify/cli.py scripts/script_067.json --markdown 2>&1 | tee result.log
-          EXITCODE=${PIPESTATUS[0]}
-
-          # Save multi-line output for next steps
-          echo "output<<EOF" >> $GITHUB_OUTPUT
-          cat result.log >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
-
-          if [ $EXITCODE -ne 0 ]; then
-            echo "json-verify failed with exit code $EXITCODE"
-            exit $EXITCODE
-          fi
-
-      - name: Find Comment
-        uses: peter-evans/find-comment@v4
-        id: fc
-        with:
-          issue-number: ${{ github.event.pull_request.number }}
-          body-includes: ❌ **`json-verify` failed:**
-
-      - name: Comment json-verify result on PR
-        if: steps.verify.outcome != 'success'
-        uses: peter-evans/create-or-update-comment@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          comment-id: ${{ steps.fc.outputs.comment-id }}
-          issue-number: ${{ github.event.pull_request.number }}
-          edit-mode: replace
-          body: |
-            ❌ **`json-verify` failed:**
-            **Output:**
-
-            ${{ steps.verify.outputs.output }}
-
-      - name: Fail the job if json-verify failed
-        if: steps.verify.outcome != 'success'
-        run: |
-          echo "${{ steps.verify.outputs.output }}"
-          exit 1
+          python JsonVerify/cli.py ${{ steps.filter.outputs.changed_files }}
