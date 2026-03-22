@@ -9,6 +9,9 @@ jobs:
   check_scripts:
     name: Check Scripts
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: read
 
     steps:
       - name: Checkout code
