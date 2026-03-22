@@ -1,32 +1,32 @@
 # Menultems.png
 
-- Position → ?
+- Position → Position
 - Cast → ?
 - Confirm → ?
 - Back → ?
 - Pass → ?
-- Auto → ?
-- Skill → ?
-- Persona → ?
+- Auto → Auto
+- Skill → Skill
+- Persona → Persona
 - Assume → ?
 - Pact → ?
 - View → ?
 - Status → ?
 - Nullify → ?
 - Show → ?
-- Menu → ?
+- Menu → Menu
 - Run → ?
-- Optimal → ?
-- Next Page → ?
-- Next → ?
+- Optimal → Optimal
+- Next Page → Page Suiv.
+- Next → Suiv.
 - Assign → ?
 - Switch → ?
 - Legend → ?
 - Reset → ?
-- Mode → ?
+- Mode → Mode
 - BS → ?
 - Play → ?
-- Stop → ?
+- Stop → Stop
 - Done → ?
 - Fast → ?
 
@@ -36,22 +36,22 @@
 
 # CardTypes.png
 
-- Tarot Card → ?
-- Material Card → ?
-- Skill Card → ?
-- Incense Card → ?
+- Tarot Card → Carte Tarot 
+- Material Card → Materiel Carte
+- Skill Card → Skill Carte
+- Incense Card → Encens Carte
 
 # End.png
 
-- END → ?
+- END → FIN
 
 # EquipTypes.png
 
-- Weapon → ?
-- Head → ?
-- Body → ?
-- Legs → ?
-- Accessory → ?
+- Weapon → Arme
+- Head → Têre
+- Body → Corps
+- Legs → Jambes
+- Accessory → Accessoire
 
 # FusionOwnOnHand.png
 
@@ -64,19 +64,19 @@
 - Dx → ?
 - Ag → ?
 - Lu → ?
-- Defense → ?
+- Defense → Defense
 - M Attack → ?
 - M Defense → ?
-- Attack → ?
+- Attack → Attaqu
 
 # FusionText.png
 
-- Arcana → ?
+- Arcana → Arcane
 - Own → ?
 - Components → ?
 - Party Stock → ?
 - Result → ?
-- Lv. → ?
+- Lv. → Lv.
 - Assumed → ?
 - All Stocked Rank Result → ?
 - Amount Name → ?
@@ -85,20 +85,20 @@
 
 # FusionTraits.png
 
-- Traits → ?
-- Normal Drop → ?
-- Rare Drop → ?
-- 1. → ?
-- 2. → ?
-- 3. → ?
-- 4. → ?
-- 5. → ?
+- Traits → Traits
+- Normal Drop → Drop Normal
+- Rare Drop → Drop Rare
+- 1. → 1.
+- 2. → 2.
+- 3. → 3.
+- 4. → 4.
+- 5. → 5.
 - Profile → ?
 
 # HPSP.png
 
-- HP → ?
-- SP → ?
+- HP → PV
+- SP → PC
 
 # InLakechText.png
 
@@ -116,52 +116,52 @@
 
 # Loading.png
 
-- Loading → ?
+- Loading → Chargement
 
 # Max.png
 
-- MAX → ?
+- MAX → Max
 
 # MaxHpMaxSP.png
 
-- Max HP → ?
-- Max SP → ?
+- Max HP → PV Max
+- Max SP → PC Max
 
 # MenuUIText.png
 
 - User → ?
 - Legs → ?
 - Head → ?
-- Next EXP → ?
-- Action → ?
-- Persona → ?
-- Attack → ?
-- Body → ?
-- Affinity → ?
-- Weapon → ?
+- Next EXP → Xp Suiv.
+- Action → Action
+- Persona → Persona
+- Attack → Attaque
+- Body → Corps
+- Affinity → Affinité 
+- Weapon → Arme
 - Sign → ?
-- Blood → ?
-- Level Up → ?
-- Bonus → ?
-- SP Cost → ?
-- Persona → ?
-- Arcana → ?
-- Level Next → ?
-- Rank → ?
-- Type → ?
-- Skill → ?
-- Lv. → ?
-- Name → ?
+- Blood → Sang
+- Level Up → Level Up
+- Bonus → Bonus
+- SP Cost → Coût PC
+- Persona → Persona
+- Arcana → Arcane
+- Level Next → Niv. Suiv. 
+- Rank → Rank
+- Type → Type
+- Skill → Skill
+- Lv. → Lv.
+- Name → Nom
 - Assumed → ?
-- Fusion → ?
-- Spell → ?
+- Fusion → Fusion
+- Spell → Sort
 - Setting → ?
-- Skills → ?
-- Item → ?
+- Skills → Skills
+- Item → Obj.
 - Own → ?
-- Arcana → ?
-- Accessory → ?
-- Sex → ?
+- Arcana → Arcane
+- Accessory → Accessoire
+- Sex → Sexe
 - St → ?
 - Vi → ?
 - Dx → ?
@@ -170,25 +170,25 @@
 - Lv. → ?
 - Cut → ?
 - Max → ?
-- Demon → ?
+- Demon → Démon
 - Director → ?
-- Title → ?
+- Title → Titre
 - Mute → ?
 - Admission → ?
-- Defense → ?
+- Defense → Défense
 
 # MixedMenuText.png
 
-- Skills → ?
+- Skills → Skills
 - Equip → ?
 - Gallery Entry → ?
 - Status → ?
 - Order → ?
 - Use Item → ?
-- City Map → ?
+- City Map → Carte Ville
 - Town Map → ?
 - Shopping Mall → ?
-- Auto Map → ?
+- Auto Map → 
 - Condition → ?
 - Pact → ?
 - Fusion → ?
