@@ -234,6 +234,18 @@
 - Item → Objet
 - Item Amount → Qté Objet
 - Details → Détails
+
+# TitleOptions.png
+
+- NEW GAME → NOUV. PARTIE
+- LOAD GAME → CHARG. PARTIE
+- QUEST MENU → MENU QUÊTE
+- GALLERY → GALERIE
+- CONFIG → CONFIG
+- DATA INSTALL → INST. DONNÉES
+- EASY → FACILE
+- NORMAL → NORMAL
+- HARD → DIFFICILE
 - Defense → Défense
 - Sex → Sexe
 - Own → Possédé
