@@ -87,7 +87,7 @@
     "nom_orig": "Maya",
     "texte_orig": "But[SP]why[SP]is[SP]that?\n[U+1208][0002][1432][NULL][NULL][0014]You[SP]don't[SP]know[SP]where[SP]the[SP]exit[SP]is.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]There[SP]is[SP]no[SP]exit.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nOkay,[SP]next[SP]question.[SP]Has[SP]anyone[SP]escaped\nfrom[SP]this[SP]shelter?",
     "nom_fr": "Maya",
-    "texte_fr": "Pourquoi?\n[U+1208][0002][1432][NULL][NULL][0014]Vous ignorez où est la sortie.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Il n'y a pas de sortie.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nOk, prochaine question. Quelqu'un s'est-il\ndéjà échappé de cet abri?"
+    "texte_fr": "Pourquoi?\n[U+1208][0002][1432][NULL][NULL][0014]Vous ignorez où est la sortie.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Il n'y a pas de sortie.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nOk, autre question. Quelqu'un est-il\ndéjà sorti de cet abri?"
   },
   {
     "id": 9,
@@ -107,7 +107,7 @@
     "nom_orig": "Maya",
     "texte_orig": "What[SP]was[SP]it?\n[U+1208][0002][1432][NULL][NULL][0014]A[SP]compass.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]A[SP]mirror.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nNow[SP]here's[SP]our[SP]problem,[SP]since[SP]we[SP]don't[SP]have\na[SP]mirror[SP]anymore...",
     "nom_fr": "Maya",
-    "texte_fr": "Qu'est-ce que c'était?\n[U+1208][0002][1432][NULL][NULL][0014]Une boussole.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Un miroir.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nVoilà notre problème, vu qu'on a plus\nde miroir..."
+    "texte_fr": "C'était quoi ca?\n[U+1208][0002][1432][NULL][NULL][0014]Une boussole.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Un miroir.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nVoilà notre problème, vu qu'on a plus\nde miroir..."
   },
   {
     "id": 11,
@@ -127,7 +127,7 @@
     "nom_orig": "Maya",
     "texte_orig": "What[SP]does[SP]a[SP]mirror[SP]reflect?\n[U+1208][0002][1432][NULL][NULL][0014]Everything[SP]in[SP]range.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Your[SP]own[SP]face.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nOkay,[SP]and[SP]what[SP]do[SP]you[SP]mean[SP]by[SP][1432][NULL][NULL][0014]everything\nin[SP]range[1432][NULL][NULL][0014]!?[SP]Keep[SP]going...",
     "nom_fr": "Maya",
-    "texte_fr": "Que reflète un miroir?\n[U+1208][0002][1432][NULL][NULL][0014]Tout ce qui est à portée.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ton propre visage.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nOk, que veux-tu dire par [1432][NULL][NULL][0014]tout ce qui\nest à portée[1432][NULL][NULL][0014]!? Continue..."
+    "texte_fr": "Que reflète un miroir?\n[U+1208][0002][1432][NULL][NULL][0014]Tout ce qui est à portée.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ton visage.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nOk, que veux-tu dire par [1432][NULL][NULL][0014]tout ce qui\nest à portée[1432][NULL][NULL][0014]!? Continue..."
   },
   {
     "id": 13,
@@ -157,7 +157,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Right![SP][1432][NULL][NULL][0014]Not[SP]knowing[1432][NULL][NULL][0014][SP]isn't[SP]the[SP]same[SP]thing\nas[SP][1432][NULL][NULL][0014]not[SP]existing[1432][NULL][NULL][0014]...[1205][001E][SP]That[SP]was[SP]just[SP]us[SP]jumping\nto[SP]conclusions.",
     "nom_fr": "Maya",
-    "texte_fr": "Exact! [1432][NULL][NULL][0014]Ne pas savoir[1432][NULL][NULL][0014] n'est pas la même\nchose que [1432][NULL][NULL][0014]ne pas exister[1432][NULL][NULL][0014]...[1205][001E]\nOn a juste sauté aux conclusions."
+    "texte_fr": "Exact! [1432][NULL][NULL][0014]Ne pas savoir[1432][NULL][NULL][0014] n'est pas pareil\nque [1432][NULL][NULL][0014]ne pas exister[1432][NULL][NULL][0014]...[1205][001E]\nOn a juste sauté aux conclusions."
   },
   {
     "id": 16,
@@ -287,7 +287,7 @@
     "nom_orig": "Maya",
     "texte_orig": "[1432][NULL][NULL][0014]No[SP]one[SP]knows[SP]where[SP]the[SP]exit[SP]is,[1432][NULL][NULL][0014][SP]so[SP]you\ncan't[SP]get[SP]out...[SP]But[SP]rumor[SP]has[SP]it[SP]that[SP]one\nperson[SP]got[SP]out[SP]by[SP]using[SP]a[SP]mirror.",
     "nom_fr": "Maya",
-    "texte_fr": "[1432][NULL][NULL][0014]Personne ne sait où est la sortie,[1432][NULL][NULL][0014] donc tu\nne sors pas... Mais la rumeur dit qu'une\npersonne est sortie avec un miroir."
+    "texte_fr": "[1432][NULL][NULL][0014]Personne ne sait où est la sortie,[1432][NULL][NULL][0014] donc tu\nne sors pas. Mais la rumeur dit que\nquelqu'un est sorti avec un miroir."
   },
   {
     "id": 29,
@@ -297,7 +297,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Nope![SP]We[SP]were[SP]the[SP]ones[SP]talking[SP]about[SP]a\ncompass.[SP]Try[SP]and[SP]think[SP]back,[SP][U+1113]-kun.",
     "nom_fr": "Maya",
-    "texte_fr": "Non! C'est nous qui parlions d'une\nboussole. Essaie de te souvenir, [U+1113]-kun."
+    "texte_fr": "Non! C'est nous qui parlions d'une\nboussole. Essaie de te souvenir, [U+1113]."
   },
   {
     "id": 30,
