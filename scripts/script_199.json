@@ -7,7 +7,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]Jun![SP]Your[SP]daddy's[SP]amazing[SP]and[SP]he[SP]can[SP]do\nanything,[SP]right?[SP]You[SP]think[SP]we'll[SP]finally[SP]get\nto[SP]meet[SP]him[SP]today?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nM-Maybe...[1205][001E][SP]But...[SP]he's[SP]really[SP]busy,[SP]so...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nI-I[SP]wish[SP]m-my[SP]dad[SP]didn't[SP]w-work[SP]at[SP]a[SP]sushi\nrestaurant...[SP]S-Seriously,[SP]I[SP]have[SP]to[SP]eat\ns-s-sushi[SP]every[SP]day.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nIt's[SP]almost[SP]time[SP]for[SP]your[SP]families[SP]to[SP]start\ncoming[SP]to[SP]pick[SP]you[SP]up.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nI[SP]wonder[SP]if[SP]my[SP]mommy[SP]will[SP]be[SP]first[SP]today?\nI'm[SP]hungry!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nOh,[SP]s-someone's[SP]here.[SP]I[SP]d-don't[SP]recognize\nhim...[1205][001E][SP]B-But[SP]he[SP]looks[SP]cool![E1][E2]\n[E3][E4][NULL][NULL]\"Jun's[SP]father\nI'm[SP]here[SP]to[SP]pick[SP]you[SP]up,[SP]Jun.",
     "nom_fr": "Ginko",
-    "texte_fr": "Hey, Jun! Ton papa est incroyable et il peut tout faire,\npas vrai? Tu penses qu'on va enfin\nle rencontrer aujourd'hui?\n\n\"Jun\nPe-Peut-être...[1205][001E] Mais... il est occupé, donc...\n\n\"Eikichi\nJ-J'aurais aimé que m-mon père ne travaille pas dans un restaurant\nde sushi... S-Sérieusement, je dois manger\ndes s-s-suhshi tout les jours.\n\n\"Maya\nC'est bientôt l'heure pour vos familles de\nvenir vous chercher.\n\n\"Ginko\nJe me demande si ma maman sera première aujourd'hui?\nJ'ai faim!\n\n\"Eikichi\nOh, q-quelqu'un arrive. Je ne le\nreconnais p-pas...[1205][001E] M-Mais il a l'air cool!\n\"Père de Jun\nJe suis venu te chercher, Jun."
+    "texte_fr": "Hey, Jun! Ton papa est incroyable, il peut tout faire,\npas vrai? Tu penses qu'on va\nle voir aujourd'hui?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nPe-Peut-être...[1205][001E] Il... est occupé, donc...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nMon p-père travaille dans un restaurant\nde sushi... S-Sérieux je dois manger\ndes s-suhshi tout les jours.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nC'est bientôt l'heure pour vos familles de\nvenir vous chercher.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nJe me demande si ma maman sera première aujourd'hui?\nJ'ai faim!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nOh, y'a quelqu'un. Je ne le\nreconnais pas...[1205][001E] M-Mais il a l'air cool!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Père de Jun\nJe viens te chercher, Jun."
   },
   {
     "id": 1,
@@ -17,7 +17,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Th-That's[SP]right...[1205][001E][SP]That[SP]is[SP]Jun's[SP]dad\nafter[SP]all...",
     "nom_fr": "Ginko",
-    "texte_fr": "C-C'est vrai...[1205][001E] C'est le père de Jun\naprès tout..."
+    "texte_fr": "C'est vrai...[1205][001E] C'est le père de Jun\naprès tout..."
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Yeah...[SP]I[SP]remember[SP]now[SP]too.[SP]That[SP]was[SP]the[SP]day\nwe[SP]met[SP]Jun's[SP]dad...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ouais... Moi aussi je m'en souviens maintenant. C'était le jour\noù nous avons rencontré le père de Jun..."
+    "texte_fr": "Le jour\noù nous avons rencontré le père de Jun..."
   },
   {
     "id": 3,
