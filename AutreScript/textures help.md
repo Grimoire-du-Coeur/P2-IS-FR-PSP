@@ -246,7 +246,3 @@
 - EASY → FACILE
 - NORMAL → NORMAL
 - HARD → DIFFICILE
-- Defense → Défense
-- Sex → Sexe
-- Own → Possédé
-- Card → Carte
