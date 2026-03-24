@@ -407,7 +407,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Eikichi![SP]You[SP]remember,[SP]don't[SP]you!?\nAbout[SP]playing[SP][1432][NULL][NULL][0014]the[SP]Masked[SP]Circle[1432][NULL][NULL][0014]!",
     "nom_fr": "Ginko",
-    "texte_fr": "Eikichi! Tu te souviens, n'est-ce\npas!? De nos jeux au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]!"
+    "texte_fr": "Eikichi! Tu te souviens, n'est-ce\npas!? Nos jeux au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]!"
   },
   {
     "id": 41,
@@ -847,7 +847,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "[1432][NULL][NULL][0014]In[SP]Lak'ech[1432][NULL][NULL][0014][SP]means[SP][1432][NULL][NULL][0014]you[SP]are[SP]another[SP]me[1432][NULL][NULL][0014][SP]in\nMayan.[1205][001E][SP]It's[SP]what[SP]we[SP]called[SP]the[SP]oracle[SP]that\nSudou-kun[SP]channeled.",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014] signifie [1432][NULL][NULL][0014]tu es un autre moi[1432][NULL][NULL][0014]\nen maya.[1205][001E] C'est ainsi qu'on a appelé\nl'oracle canalisé par Sudou."
+    "texte_fr": "[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014] signifie [1432][NULL][NULL][0014]tu es un autre moi[1432][NULL][NULL][0014]\nen maya.[1205][001E] C'est ainsi qu'on dit de\nl'oracle canalisé par Sudou."
   },
  {
     "id": 85,
@@ -1157,7 +1157,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n[U+1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything\n[U+1109][E2][E3][E4][NULL][NULL]\"Lucky[SP]cat[SP]statue\nOh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][U+0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][U+0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][U+0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "100 yens, s'il te plaît, miaou[1432][NULL][NULL][U+0007]\n[U+1208][0002]Mettre 100 yens\nNe rien mettre\n[U+1109][E2][E3][E4][NULL][NULL]\"Statue de chat\nOh, t'es fauché, miaou[1432][NULL][NULL][U+0007]\nMontre-moi un menteur, je te montrerai\nun voleur, miaou[1432][NULL][NULL][U+0007]\nSors d'ici, fsssh[1432][NULL][NULL][U+0007]"
+    "texte_fr": "100 yens, s'il te plaît, miaou[1432][NULL][NULL][U+0007]\n[U+1208][0002]Mettre 100 yens\nNe rien mettre\n[U+1109][E2][E3][E4][NULL][NULL]\"Statue de chat\nT'es fauché, miaou[1432][NULL][NULL][U+0007]\nMontre-moi un menteur, je te montrerai\nun voleur, miaou[1432][NULL][NULL][U+0007]\nSors d'ici, fsh[1432][NULL][NULL][U+0007]"
   },
  {
     "id": 116,
@@ -1167,7 +1167,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][U+0007][1205][U+000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][U+0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Ronron... Je suis ému[1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 20 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nJ'en attends encore plus, miaou[1432][NULL][NULL][U+0007]"
+    "texte_fr": "Ronron... Je suis ému[1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 20 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nJ'en attends plus, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 117,
@@ -1207,7 +1207,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "I[SP]feel[SP]bad[SP]at[SP]being[SP]given[SP]so[SP]much,[SP]meow![1205][U+000F]\nSo[SP]I[SP]have[SP]a[SP]purresent[SP]for[SP]you!\n[E1][E2][E4][NULL][NULL]\"Lucky[SP]cat[SP]statue\nUse[SP]this[SP][E4][NULL][NULL][U+0004]Incense[SP]Set[E4][NULL][NULL][0002][SP]wisely,[SP]meow[1432][NULL][NULL][U+0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Je m'en veux de recevoir tant, miaou![1205][U+000F]\nJ'ai un p'tit présent pour toi!\n[E1][E2][E4][NULL][NULL]\"Statue de chat\nUtilise ce [E4][NULL][NULL][U+0004]Set d'encens[E4][NULL][NULL][0002] avec\nsagesse, miaou[1432][NULL][NULL][U+0007]"
+    "texte_fr": "Je m'en veux de recevoir tant, miaou![1205][U+000F]\nJ'ai un présent pour toi!\n[E1][E2][E4][NULL][NULL]\"Statue de chat\nUtilise ce [E4][NULL][NULL][U+0004]Set d'encens[E4][NULL][NULL][0002] avec\nsagesse, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 121,
