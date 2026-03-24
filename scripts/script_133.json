@@ -7,7 +7,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "[U+1114]![SP]You're[SP]the[SP]boss[SP]today,[SP]right!?\nOrder[SP]her[SP]not[SP]to[SP]go!",
     "nom_fr": "Eikichi",
-    "texte_fr": "[U+1114]! C'est toi le chef aujourd'hui, pas vrai!? Dis lui de rester!"
+    "texte_fr": "[U+1114]! C'est toi le chef aujourd'hui!? Dit lui de rester!"
   },
   {
     "id": 1,
@@ -37,7 +37,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]won't[SP]let[SP]you...[1205][001E][SP]I[SP]won't[SP]let[SP]you[SP]go!",
     "nom_fr": "Ginko",
-    "texte_fr": "Je ne te laisserai pas...[1205][001E] Je ne te laisserai pas partir!"
+    "texte_fr": "Je...[1205][001E] Je ne te laisserai pas partir!"
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "If[SP]we[SP]lock[SP]Big[SP]Sis[SP]in[SP]the[SP]shrine[SP]until\ntomorrow,[SP]she[SP]won't[SP]be[SP]able[SP]to[SP]go!",
     "nom_fr": "Ginko",
-    "texte_fr": "Si on enferme soeurette dans le sanctuaire jusqu'à demain, elle ne pourra pas s'en aller!"
+    "texte_fr": "Si on enferme soeurette là-bas jusqu'à\ndemain elle ne pourra pas y aller!"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Jun",
     "texte_orig": "We[SP]can't,[SP]guys![SP]We...[1205][001E][SP]We[SP]have[SP]to[SP]let\nBig[SP]Sis[SP]go!",
     "nom_fr": "Jun",
-    "texte_fr": "On ne peut pas faire ça! On...[1205][001E] On doit laisser soeurette partir!"
+    "texte_fr": "On ne peut pas! On...[1205][001E] On doit la laisser partir!"
   },
   {
     "id": 6,
@@ -77,7 +77,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Please[SP]let[SP]me[SP]out![1205][001E][SP]Please...[1205][001E][SP]Help[SP]me,[SP]Jun-kun!",
     "nom_fr": "Maya",
-    "texte_fr": "S'il-vous-plaît, laissez moi sortir! [1205][001E]S'il-vous-plaît...[1205][001E]À l'aide, Jun!"
+    "texte_fr": "Pitié, laissez moi! [1205][001E]S'il-vous-plaît...[1205][001E], Jun!"
   },
   {
     "id": 8,
@@ -87,6 +87,6 @@
     "nom_orig": "Ginko",
     "texte_orig": "To[SP]make[SP]sure[SP]she[SP]can't[SP]go[SP]anywhere...[1205][001E]\nWe're[SP]gonna[SP]kill[SP]Big[SP]Sis,[SP]right?",
     "nom_fr": "Ginko",
-    "texte_fr": "Pour s'assurer qu'elle n'aille nulle part...[1205][001E] On va tuer soeurette, pas vrai?"
+    "texte_fr": "Pour qu'elle n'aille nulle part...[1205][001E] On va tuer soeurette, pas vrai?"
   }
 ]
