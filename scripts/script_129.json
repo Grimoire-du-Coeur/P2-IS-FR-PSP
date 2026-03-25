@@ -1,13 +1,13 @@
 [
-  {
+ {
     "id": 0,
     "offset": 259998,
     "slot_size": 158,
     "data_size": 154,
     "nom_orig": "Anna",
     "texte_orig": "You[SP]really[SP]are[SP]a[SP]handful...[1205][001E][SP]What[SP]do[SP]you[SP]care\nabout[SP]me[SP]anyway...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Anna",
+    "texte_fr": "T'es compliquée...[1205][001E]\nPourquoi te soucier\nde moi, d'ailleurs...?"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 300,
     "nom_orig": "Yukino",
     "texte_orig": "Because[SP]you[SP]remind[SP]me[SP]of[SP]how[SP]I[SP]was[SP]once.[1205][001E][SP]I[SP]had\nno[SP]idea[SP]what[SP]I[SP]wanted[SP]or[SP]why[SP]I[SP]should[SP]go[SP]on\nliving.[SP]I[SP]wished[SP]everything[SP]would[SP]disappear.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Car tu me rappelles comment\nj'étais.[1205][001E] J'ignorais ce\nque je voulais et pourquoi\nvivre. Je voulais que\ntout disparaisse."
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 286,
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]was[SP]being[SP]a[SP]baby.[1205][001E][SP]You[SP]can't[SP]figure[SP]stuff\nlike[SP]that[SP]out[SP]when[SP]you[SP]want[SP]it[SP]too[SP]bad.[1205][001E]\nYou[SP]have[SP]to[SP]calm[SP]down[SP]and[SP]take[SP]your[SP]time...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "J'étais un bébé.[1205][001E] Tu ne peux pas\nrésoudre ça quand tu le veux\ntrop fort.[1205][001E] Il faut se calmer\net prendre son temps..."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 34,
     "nom_orig": "Anna",
     "texte_orig": "......",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Anna",
+    "texte_fr": "......"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 576,
     "nom_orig": "Yukino's[SP]voice",
     "texte_orig": "Ugh,[SP]what[SP]a[SP]load[SP]of[SP]shit.[1205][001E][SP]Like[SP]you're[SP]not\nstill[SP]agonizing[SP]over[SP]whether[SP]or[SP]not[SP]you[SP]took\nthe[SP]wrong[SP]path.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Shadow[SP]Yukino\nYou[SP]had[SP]two[SP]dreams,[SP]didn't[SP]you?[1205][001E][SP]One[SP]was[SP]to[SP]be\na[SP]photographer[SP]like[SP]you[SP]are[SP]now.[1205][001E][SP]The[SP]other[SP]was\nto[SP]be[SP]a[SP]teacher[SP]like[SP]your[SP]dear[SP]Ms.[SP]Saeko...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Voix de Yukino",
+    "texte_fr": "Ugh, quelles conneries.[1205][001E]\nComme si tu ne craignais pas\nd'avoir pris le mauvais chemin.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ombre de Yukino\nTu avais deux rêves, non?[1205][001E]\nL'un était d'être photographe\ncomme aujourd'hui.[1205][001E]\nL'autre, être prof comme ta\nchère Mme Saeko..."
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 740,
     "nom_orig": "Shadow[SP]Yukino",
     "texte_orig": "But[SP]you[SP]didn't[SP]have[SP]the[SP]brains[SP]to[SP]teach[SP]and[SP]you\ndon't[SP]have[SP]the[SP]eye[SP]to[SP]be[SP]a[SP]photographer.[SP]You're\nin[SP]hell,[SP]caught[SP]between[SP]ideals[SP]and[SP]reality.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Shadow[SP]Yukino\nSo[SP]tell[SP]the[SP]girl[SP]here...[1205][001E][SP]That[SP]it's[SP]easier[SP]to\ntake[SP]it[SP]out[SP]on[SP]everyone,[SP]like[SP]you[SP]used[SP]to.[1205][001E]\nThat[SP]it's[SP]easier[SP]to[SP]sleep[SP]around.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nYou[SP]bastard...[1205][001E][SP]You're[SP]just[SP]a[SP]frickin'[SP]fake--",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ombre de Yukino",
+    "texte_fr": "Tu n'as ni le cerveau pour\nenseigner, ni l'œil pour la\nphoto. Tu es en enfer, prise entre\nidéaux et réalité.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ombre de Yukino\nAlors dis à la fille ici...[1205][001E] Qu'il\nest plus facile de s'en prendre\nà tout le monde, comme avant.[1205][001E]\nQu'il est plus facile de\ncoucher partout.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nEnfoirée...[1205][001E] Tu n'es qu'une\nfoutue imposteu--"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 208,
     "nom_orig": "Yukino",
     "texte_orig": "Sure...[1205][001E][SP]I[SP]had[SP]a[SP]nasty[SP]side[SP]lurking[SP]in[SP]me.[1205][001E]\nThat's[SP]why[SP]I[SP]tried[SP]to[SP]lean[SP]on[SP]Shunsuke-san...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "C'est vrai...[1205][001E] Un côté vil\nrôdait en moi.[1205][001E] Alors\nje m'appuyais sur\nShunsuke-san..."
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 258,
     "nom_orig": "Yukino",
     "texte_orig": "But[SP]Anna...[SP]Even[SP]if[SP]you[SP]fall[SP]or[SP]lose[SP]yourself,\nhaving[SP]to[SP]stand[SP]up[SP]again[SP]and[SP]keep[SP]going[SP]is\nwhat[SP]it[SP]means[SP]to[SP]be[SP]human.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Mais Anna... Même si tu tombes\nou te perds, devoir te relever\net continuer, c'est ce que\nsignifie être humain."
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 314,
     "nom_orig": "Yukino",
     "texte_orig": "Shunsuke-san...[SP]All[SP]my[SP]friends[SP]taught[SP]me[SP]that.[1205][001E]\nI[SP]can[SP]accept[SP]myself[SP]for[SP]what[SP]I[SP]am[SP]now...[1205][001E][SP]If[SP]I\ncouldn't,[SP]I'd[SP]never[SP]be[SP]able[SP]to[SP]follow[SP]my[SP]dream.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Shunsuke-san... Tous mes amis\nme l'ont appris.[1205][001E] Je peux\nm'accepter telle que je suis...[1205][001E]\nSinon, je ne pourrais jamais\npoursuivre mon rêve."
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 174,
     "nom_orig": "Shadow[SP]Yukino",
     "texte_orig": "Tch...![1205][001E][SP]You're[SP]pissing[SP]me[SP]off![SP]This[SP]world\ndoesn't[SP]need[SP]two[SP]of[SP]me!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ombre de Yukino",
+    "texte_fr": "Tch...![1205][001E] Tu m'énerves! Le monde\nne veut pas de deux comme moi!"
   },
   {
     "id": 10,
@@ -106,18 +106,18 @@
     "data_size": 232,
     "nom_orig": "Yukino",
     "texte_orig": "[U+1113],[SP]get[SP]going[SP]already![SP]You[SP]had[SP]something\nto[SP]take[SP]care[SP]of[SP]too,[SP]right?[1205][001E][SP]Make[SP]sure[SP]you\nsnap[SP]Jun[SP]out[SP]of[SP]it!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "[U+1113], allez-y vite! Tu avais\naussi un truc à régler, non?[1205][001E]\nFais en sorte de ramener Jun\nà la raison!"
   },
-  {
+ {
     "id": 11,
     "offset": 263318,
     "slot_size": 80,
     "data_size": 76,
     "nom_orig": "Maya",
     "texte_orig": "Yukki...[1205][001E][SP]C'mon,[SP]everyone!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Yukki...[1205][001E] Venez, tous!"
   },
   {
     "id": 12,
@@ -126,7 +126,7 @@
     "data_size": 204,
     "nom_orig": "Anna",
     "texte_orig": "You're[SP]so...[1205][001E][SP]so[SP]confident[SP]that[SP]you[SP]must[SP]be\nan[SP]idiot.[1205][001E][SP]But[SP]I[SP]like[SP]seeing[SP]you[SP]like[SP]that...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Anna",
+    "texte_fr": "Tu es si...[1205][001E] si confiante que\ntu dois être idiote.[1205][001E] Mais\nj'aime te voir comme ça..."
   }
 ]

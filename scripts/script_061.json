@@ -6,8 +6,8 @@
     "data_size": 278,
     "nom_orig": "Maya",
     "texte_orig": "Did[SP]you[SP]find[SP]it!?[SP]Awesome![SP]Great[SP]job,\n[U+1113]-kun![SP]Now[SP]let's[SP]destroy[SP]it!\n[E1][E2][E3]>[SP]You[SP]destroyed[SP]the[SP][E4][NULL][NULL][U+0006]transmitter[E4][NULL][NULL][0002][SP]in[SP]the[SP]locker.[E4][NULL][NULL][0002]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Tu l'as trouvé!? Super! Bien joué,\n[U+1113]! Maintenant, détruisons-le!\n[E1][E2][E3]> Vous détruisez le [E4][NULL][NULL][U+0006]transmetteur[E4][NULL][NULL][0002]\ndans le casier.[E4][NULL][NULL][0002]"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 50,
     "nom_orig": "Ginko",
     "texte_orig": "Who[SP]was[SP]that?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "C'était qui?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 222,
     "nom_orig": "Yukino",
     "texte_orig": "Seems[SP]odd[SP]that[SP]a[SP]normal[SP]person[SP]who[SP]hadn't\nyet[SP]evacuated[SP]would[SP]run[SP]off[SP]after[SP]seeing\nus[SP]like[SP]that...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Étrange qu'une personne normale\nnon évacuée s'enfuie en nous\nvoyant comme ça..."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 248,
     "nom_orig": "Eikichi",
     "texte_orig": "In[SP]that[SP]case...[1205][001E][SP]I[SP]bet[SP]he's[SP]a[SP]Masked[SP]Circle\nmember[SP]who[SP]was[SP]guarding[SP]the[SP]transmitter!\nC'mon,[SP][U+1113],[SP]let's[SP]get[SP]him!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Donc...[1205][001E] C'est sûrement un membre\ndu Cercle masqué qui gardait le\ntransmetteur! Allez, [U+1113], attrapons-le!"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 246,
     "nom_orig": "Ginko",
     "texte_orig": "Was[SP]that[SP]guy[SP]a[SP]Masked[SP]Circle[SP]member[SP]too?\n...Didn't[SP]he[SP]look[SP]kinda[SP]cool?[SP]Not[SP]nearly\nas[SP]cool[SP]as[SP]you,[SP]of[SP]course,[SP][U+1113]!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Ce type était aussi du Cercle masqué?\n...Il n'avait pas l'air plutôt cool?\nPas autant que toi, bien sûr, [U+1113]!"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 224,
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]guy[SP]ran[SP]off[SP]the[SP]second[SP]he[SP]saw[SP]our[SP]faces!\nHe's[SP]suspicious,[SP]all[SP]right.[SP]Let's[SP]chase[SP]him\ndown,[SP][U+1113]!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ce type s'est enfui direct en nous\nvoyant! Il est vraiment louche.\nPoursuivons-le, [U+1113]!"
   },
   {
     "id": 6,
@@ -66,7 +66,7 @@
     "data_size": 174,
     "nom_orig": "Maya",
     "texte_orig": "That[SP]guy...[1205][001E][SP]I[SP]feel[SP]like[SP]I've[SP]seen[SP]him\nsomewhere.[SP]Well,[SP]after[SP]him,[SP]I[SP]guess!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ce type...[1205][001E] Je crois l'avoir déjà vu.\nBref, rattrapons-le!"
   }
 ]

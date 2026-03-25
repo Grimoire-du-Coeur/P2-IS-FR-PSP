@@ -6,8 +6,8 @@
     "data_size": 290,
     "nom_orig": "Maya",
     "texte_orig": "That[SP]must[SP]be[SP]the[SP]Caracol...[1205][001E][SP]It[SP]does[SP]look[SP]like\nthe[SP]photos[SP]I've[SP]seen[SP]of[SP]Mayan[SP]ruins.[1205][001E][SP]They\nsaid[SP]it[SP]was[SP]an[SP]astronomical[SP]observatory...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ça doit être le Caracol...[1205][001E] Ça\nressemble aux photos de ruines\nmayas.[1205][001E] Ils disaient que c'est\nun observatoire astronomique..."
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 170,
     "nom_orig": "Yukino",
     "texte_orig": "It[SP]wasn't[SP]here[SP]last[SP]time[SP]I[SP]came...[1205][001E][SP]You[SP]think\nShunsuke-san's[SP]in[SP]there!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Absent à ma dernière visite...[1205][001E]\nShunsuke-san y est!?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 224,
     "nom_orig": "Eikichi",
     "texte_orig": "Those[SP]robot[SP]things[SP]over[SP]there[SP]look[SP]like[SP]the\nsame[SP]ones[SP]that[SP]were[SP]flying[SP]overhead[SP]a[SP]few\nminutes[SP]ago.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ces robots là-bas ressemblent\nà ceux qui volaient au-dessus\nde nous y a quelques minutes."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 408,
     "nom_orig": "???",
     "texte_orig": "Hold[SP]it,[SP]Elf.[1205][001E][SP]My[SP]sonar[SP]picked[SP]up[SP]on[SP]something.\n[E1][E2][E3]>[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance\nThe[SP]Last[SP]Battalion's[SP]anti-Persona[SP]unit[SP]made\nof[SP]13[SP]knights[SP]who[SP]pilot[SP]the[SP]Marionette[SP]Jaeger\n[1432][NULL][NULL][0014]Himmel[SP]Feurer.[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "???",
+    "texte_fr": "Attends, Elf.[1205][001E] Mon sonar a\nrepéré un truc.\n[E1][E2][E3]> Ordre de la Sainte Lance\nUnité anti-Persona du Last\nBattalion, 13 chevaliers\npilotant les Marionette Jaeger\n[1432][NULL][NULL][0014]Himmel Feurer.[1432][NULL][NULL][0014][E4][NULL][NULL][0002]"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 146,
     "nom_orig": "Longinus[SP]#12",
     "texte_orig": "I'm[SP]getting[SP]a[SP]reading[SP]on[SP]the[SP]Persona[SP]sensor\nas[SP]well...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Longinus #12",
+    "texte_fr": "J'ai aussi une lecture sur\nle capteur de Persona..."
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 230,
     "nom_orig": "Longinus[SP]#11",
     "texte_orig": "Hmph.[SP]We[SP]have[SP]vermin[SP]to[SP]deal[SP]with...[1205][001E]\nVery[SP]well.[SP]I[SP]was[SP]growing[SP]bored[SP]of[SP]dealing\nwith[SP]weaklings.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Longinus #11",
+    "texte_fr": "Hmph. On a de la vermine à\ngérer...[1205][001E] Très bien. Je commençais\nà m'ennuyer avec les faiblards."
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 248,
     "nom_orig": "Longinus[SP]#11",
     "texte_orig": "Let's[SP]have[SP]them[SP]show[SP]us[SP]what[SP]strength[SP]the\nPersona-users[SP]of[SP]this[SP]country[SP]hold...[1205][001E]\nZwolf![SP]Dreizehn![SP]To[SP]me!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Longinus #11",
+    "texte_fr": "Qu'ils nous montrent la force\ndes manieurs de Persona de ce\npays...[1205][001E] Zwölf! Dreizehn! À moi!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 68,
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah!?[SP]They[SP]found[SP]us!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Aiyah!? Repérés!"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 58,
     "nom_orig": "Maya",
     "texte_orig": "Scatter,[SP]everyone!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Dispersez-vous!"
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 302,
     "nom_orig": "Longinus[SP]#11",
     "texte_orig": "I[SP]expect[SP]to[SP]face[SP]skilled[SP]warriors,[SP]and[SP]yet\nI[SP]see[SP]women[SP]and[SP]children...[1205][001E][SP]How[SP]unfortunate\nthat[SP]you[SP]found[SP]the[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Longinus #11",
+    "texte_fr": "J'espérais de vrais guerriers,\npas des femmes et enfants...[1205][001E]\nMalheur à vous d'avoir trouvé\nl'Ordre de la Sainte Lance!"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 188,
     "nom_orig": "Yukino",
     "texte_orig": "We're[SP]surrounded...![1205][001E][SP]Form[SP]groups[SP]of[SP]two[SP]to\ntake[SP]them[SP]out![SP]The[SP]third[SP]one's[SP]mine!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "On est cernés...![1205][001E] Mettez-vous\npar deux! Le 3e est pour moi!"
   },
   {
     "id": 11,
@@ -116,7 +116,7 @@
     "data_size": 240,
     "nom_orig": "Eikichi",
     "texte_orig": "What[SP]kind[SP]of[SP]a[SP]gentleman[SP]would[SP]I[SP]be[SP]if[SP]I[SP]let\na[SP]lady[SP]do[SP]the[SP]hard[SP]work!?[SP]Leave[SP]the[SP]solo\nto[SP]the[SP]great[SP]Michel!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Quel gentleman laisserait\nune dame s'en charger!?\nLaisse le grand Michel\ns'occuper du solo!"
   }
 ]

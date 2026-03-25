@@ -1,13 +1,13 @@
 [
-  {
+ {
     "id": 0,
     "offset": 304342,
     "slot_size": 206,
     "data_size": 202,
     "nom_orig": "Eikichi",
     "texte_orig": "We[SP]gotta[SP]get[SP]going![SP]I'm[SP]worried[SP]about\nYukino-san's[SP]friend,[SP]and[SP]we[SP]gotta[SP]stop\nJun[SP]too...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Faut y aller! Je m'inquiète\npour l'ami de Yukino-san,\net on doit arrêter Jun..."
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 274,
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]don't[SP]even[SP]care[SP]what[SP]this[SP]Last[SP]Battalion\nthing[SP]is--they[SP]better[SP]not[SP]get[SP]in[SP]the[SP]way[SP]of\nrescuing[SP]Jun![SP]We[SP]gotta[SP]find[SP]him[SP]first!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Je me fiche de ce qu'est ce Last\nBattalion--ils ont pas intérêt à nous\nempêcher de sauver Jun! On doit le\ntrouver en premier!"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 284,
     "nom_orig": "Maya",
     "texte_orig": "Focused[SP]manpower[SP]and[SP]speed[SP]is[SP]essential[SP]when\nbreaking[SP]through![SP]Then[SP]again,[SP]there's[SP]only\nfive[SP]of[SP]us...[1205][001E][SP]But[SP]we[SP]still[SP]need[SP]to[SP]hurry!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Vitesse et force sont vitales\npour forcer le passage!\nMême à cinq...[1205][001E] Faut se\ndépêcher!"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 288,
     "nom_orig": "Yukino",
     "texte_orig": "I've[SP]come[SP]here[SP]lots[SP]of[SP]times[SP]with[SP]Fujii-san...[1205][001E]\nWe'd[SP]talk[SP]about[SP]Zen[SP]with[SP]the[SP]monks,[SP]photograph\nthe[SP]night[SP]sky...[1205][001E][SP]I[SP]loved[SP]it[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Je venais souvent avec\nFujii-san...[1205][001E] Parler Zen avec\nles moines, photographier le\nciel...[1205][001E] J'adorais cet endroit."
   },
   {
     "id": 4,
@@ -46,7 +46,7 @@
     "data_size": 104,
     "nom_orig": "Yukino",
     "texte_orig": "Shit...[1205][001E][SP]They've[SP]crossed[SP]a[SP]line[SP]now...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Merde...[1205][001E] Ils sont allés\ntrop loin..."
   }
 ]

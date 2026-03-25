@@ -11,14 +11,18 @@
 | Cuss high | Lycée Kakasu |
 | Masked circle | Cercle masqué |
 | Cursed star | Étoile maudite |
-| Seven Sisters High | Lycée des Septs Sœurs |
-| Big sis | grande sœur |
-| Sailor suited girl | fille en marinière |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Seven Sisters High | Lycée Seven Sisters |
+| Sevens | Seven |
+| Big sis | sœurette |
+| Sailor suited girl | Lycéenne |
+| Black-masked boy  | Garçon masqué  |
+| King Leo | Roi Lion |
+| Queen Aquarius | Reine Verseau |
+| Lady Scorpio | Dame Scorpion |
+| Prince Taurus | Prince Taureau |
+| Idealians | Idéaliens |
+| Führer | Fuhrer |
+| Grand Cross | Croix Cosmique/Croix |
+| Maia | Maia |
+| Mayan | Maya |
+| Last Batallion | Bataillon |

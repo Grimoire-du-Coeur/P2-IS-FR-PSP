@@ -6,8 +6,8 @@
     "data_size": 232,
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]You're[SP]still[SP]here,[SP]you[SP]old[SP]hag!?\nYou[SP]need[SP]to[SP]get[SP]out[SP]already![SP]There[SP]are\nbombs[SP]all[SP]over[SP]the[SP]place!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Aiyah ! T'es encore là, vieille peau !?\nIl faut sortir d'ici ! Il y a des\nbombes partout !"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 490,
     "nom_orig": "Manager",
     "texte_orig": "O-Old[SP]bomb!?[SP]I[SP]mean,[SP]bombs!?[SP]I-I[SP]need[SP]to\nexplode[SP]before[SP]they[SP]get[SP]out![SP]I[SP]mean,[SP]get[SP]out\nbefore[SP]they[SP]explode!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nShe[SP]seemed[SP]pretty[SP]shook[SP]up...[1205][001E][SP]C'mon,[SP]let's\nhurry[SP]and[SP]find[SP]that[SP]riddle[SP]thing[SP]so[SP]we[SP]can\ngrab[SP]our[SP]asses[SP]and[SP]run!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Manager",
+    "texte_fr": "V-Vieilles bombes !? Enfin, sortir d'ici\navant l'explosion !\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nElle était secouée...[1205][001E] Allez, vite,\ntrouvons l'énigme et filons !"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 166,
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]Here[SP]too!?[SP]If[SP]we[SP]don't[SP]hurry,[SP]we're\ngonna[SP]get[SP]burned[SP]to[SP]a[SP]crisp!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Aiyah ! Ici aussi !? Si on ne se presse\npas, on va finir grillés !"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 132,
     "nom_orig": "Ginko",
     "texte_orig": "You[SP]found[SP]it!?[SP]Awesome,[SP][U+1113]![SP]Then[SP]let's\nget[SP]out[SP]of[SP]here!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Tu l'as trouvé !? Génial, [U+1113] ! Alors\npartons vite d'ici !"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 192,
     "nom_orig": "Eikichi",
     "texte_orig": "No[SP]good[SP]on[SP]this[SP]end,[SP]Yukino-san![SP]All[SP]I[SP]see\nis[SP]a[SP]pushup[SP]bra,[SP]no[SP]riddle[SP]or[SP]anything!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Rien ici, Yukino ! À part un soutien-gorge,\npas d'indice ou quoi que ce soit !"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 192,
     "nom_orig": "Eikichi",
     "texte_orig": "Oh?[SP]You[SP]found[SP]it![SP]Alright,[SP]you[SP]win[SP]this[SP]round,\nlet's[SP]just[SP]get[SP]the[SP]hell[SP]outta[SP]here!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Oh ? Tu l'as trouvé ! Tu gagnes ce round.\nFichons le camp d'ici !"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 114,
     "nom_orig": "Maya",
     "texte_orig": "I'm[SP]drawing[SP]a[SP]blank[SP]too![SP]How[SP]about[SP]you,[SP]Yukki?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Je sèche aussi ! Et toi, Yukki ?"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 164,
     "nom_orig": "Maya",
     "texte_orig": "Wow,[SP]you[SP]found[SP]it!?[SP]That's[SP]our[SP][U+1113]-kun!\nGood[SP]job![SP]Now[SP]c'mon,[SP]let's[SP]scram!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Wow, tu l'as trouvé !? Bien joué [U+1113]-kun !\nAllez, on se tire !"
   },
   {
     "id": 8,
@@ -86,7 +86,7 @@
     "data_size": 238,
     "nom_orig": "Yukino",
     "texte_orig": "Who[SP]would[SP]wear[SP]lingerie[SP]like[SP]this!?[SP]Yeah,[SP]I'm\nnot[SP]finding[SP]anything[SP]over[SP]here,[SP]Maya-san!\nAny[SP]luck,[SP]Eikichi?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Qui porterait ces dessous !? Rien ici non plus,\nMaya ! Et toi, Eikichi ?"
   }
 ]

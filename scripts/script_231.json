@@ -6,8 +6,8 @@
     "data_size": 144,
     "nom_orig": "Jun",
     "texte_orig": "Look[SP]at[SP]the[SP]size[SP]of[SP]it...[1205][001E][SP]I[SP]can't[SP]even[SP]make\nout[SP]the[SP]ceiling.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Regarde sa taille...[1205][001E] Je ne vois même\npas le plafond."
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 278,
     "nom_orig": "Maya",
     "texte_orig": "That's[SP]odd,[SP]though.[SP]They[SP]know[SP]we're[SP]after\nthem...[1205][001E][SP]So[SP]isn't[SP]it[SP]a[SP]little[SP]too[SP]quiet?\nThere's[SP]not[SP]even[SP]a[SP]welcoming[SP]committee[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "C'est étrange quand même. Ils savent\nqu'on les chasse...[1205][001E] Pourquoi c'est si calme?\nIl n'y a personne pour nous accueillir."
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 256,
     "nom_orig": "Ginko",
     "texte_orig": "This[SP]spaceship[SP]can[SP]carry[SP]an[SP]entire[SP]city,\nso[SP]I[SP]bet[SP]it[SP]has[SP]tons[SP]of[SP]high-tech[SP]traps.\nEveryone[SP]probably[SP]fell[SP]for[SP]them...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Ce vaisseau peut porter une ville entière,\nje parie qu'il y a pleins de pièges.\nTout le monde a dû tomber dedans..."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 218,
     "nom_orig": "Maya",
     "texte_orig": "Hmm...[1205][001E][SP]I[SP]doubt[SP]they[SP]ALL[SP]died,[SP]but[SP]you're\nright,[SP]there[SP]must[SP]be[SP]some[SP]pretty[SP]devious\ntraps[SP]in[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Umm...[1205][001E] Je doute qu'ils soient TOUS morts, mais\ntu as raison, il doit y avoir des pièges\n ici."
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 64,
     "nom_orig": "Eikichi",
     "texte_orig": "Like[SP]what[SP]exactly?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Quoi par exemple ?"
   },
   {
     "id": 5,
@@ -56,7 +56,7 @@
     "data_size": 422,
     "nom_orig": "Eikichi",
     "texte_orig": "Like[SP]what[SP]exactly?\n[U+1208][0002][1432][NULL][NULL][0014]Lasers,[SP]maybe.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]A[SP]superheated[SP]room.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Jun\nWhatever[SP]it[SP]is,[SP]we[SP]can't[SP]just[SP]stand[SP]here.\nWe[SP]need[SP]to[SP]get[SP]the[SP]Heaven[SP]Skull[SP]so[SP]we[SP]can\nput[SP]the[SP]city[SP]back[SP]to[SP]normal...",
-    "nom_fr": "",
+    "nom_fr": "Quoi par exemple ?\n[U+1208][0002][1432][NULL][NULL][0014]Des lasers peut-être.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014] Une salle en surchauffe.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Quoique ce soit, on peut pas rester ici.\nOn doit récupérer le Crâne du Paradis pour rendre\nà la ville son état normal...",
     "texte_fr": ""
   },
   {
@@ -66,8 +66,8 @@
     "data_size": 38,
     "nom_orig": "Jun",
     "texte_orig": "Let's[SP]go!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Allons-y!"
   },
   {
     "id": 7,
@@ -76,7 +76,7 @@
     "data_size": 248,
     "nom_orig": "Jun",
     "texte_orig": "Whatever[SP]it[SP]is,[SP]we[SP]can't[SP]just[SP]stand[SP]here.\nWe[SP]need[SP]to[SP]get[SP]the[SP]Heaven[SP]Skull[SP]so[SP]we[SP]can\nput[SP]the[SP]city[SP]back[SP]to[SP]normal...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Quoique ce soit, on doit bouger.\nOn doit récupérer le Crâne du Paradis pour rendre\nà la ville son état normal..."
   }
 ]

@@ -7,7 +7,7 @@
     "nom_orig": "Grade-schooler",
     "texte_orig": "Help![SP]Someone[SP]help!",
     "nom_fr": "Écolier",
-    "texte_fr": "Au secours! Quelqu’un m’aide!"
+    "texte_fr": "Au secours! A l’aide!"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "It's[SP]no[SP]good.[SP]The[SP]elevator's[SP]broken.",
     "nom_fr": "Eikichi",
-    "texte_fr": "C’est pas bon. L’ascenseur est bloqué."
+    "texte_fr": "Ca ne va pas. L’ascenseur est cassé."
   },
   {
     "id": 3,
@@ -45,8 +45,8 @@
     "slot_size": 226,
     "data_size": 222,
     "nom_orig": "Yukino",
-    "texte_orig": "Talk[SP]about[SP]an[SP]odd[SP]situation...[SP]Oh[SP]well,\nwe'll[SP]just[SP]have[SP]to[SP]pull[SP]him[SP]out.[SP]I[SP]need\nyour[SP]help[SP]here,[SP][U+1113]!",
+    "texte_orig": "Talk[SP]about[SP]an[SP]odd[SP]situation...[SP]Oh[SP]well,\nwe'll[SP]just[SP]have[SP]to[SP]pull[SP]him[SP]out.[SP]I[SP]need\nyour[SP]help[SP]here,[SP][u+1113]!",
     "nom_fr": "Yukino",
-    "texte_fr": "Tu parle d'une drôle de situation...  Bon, eh bien, on va juste le sortir de là. J’ai besoin de ton aide ici,  -kun!"
+    "texte_fr": "Tu parles d'une situation... Bon, on va juste le sortir de là. J’ai besoin de ton aide là, [u+1113]!"
   }
 ]

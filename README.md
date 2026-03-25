@@ -11,6 +11,7 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 
 ## 📺 Vidéo de présentation
 🎬 **[Clique ici pour voir la vidéo](https://youtu.be/wxEEJYjx2Sw)**
+
 ![Miniature](https://img.youtube.com/vi/wxEEJYjx2Sw/maxresdefault.jpg)
 
 ---
@@ -18,7 +19,7 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 ## Avancement
 | Contenu               | Progression  |
 |-----------------------|--------------|
-| [Scripts (dialogues)](https://github.com/chenetulipe/P2-FR-IS-PSP/tree/main/scripts)   |     56/399    |
+| [Scripts (dialogues)](https://github.com/chenetulipe/P2-FR-IS-PSP/tree/main/scripts)   |     218/399    |
 | Police (accents FR)   |      ✅      |
 | Menus                 | 🔄 |
 | ...                   | Non commencé |
@@ -101,8 +102,6 @@ Persona 2: Innocent Sin est © Atlus. Ce projet est une traduction amateur à bu
 Aucun fichier du jeu n'est distribué. Vous devez posséder votre propre copie du jeu.
 
 ---
-
-## Star History
 
 ## Star History
 
