@@ -107,7 +107,7 @@
     "nom_orig": "Joker",
     "texte_orig": "True...[SP]But[SP]that's[SP]my[SP]duty.[SP]I[SP]wish[SP]you'd\nleave,[SP]old[SP]man...[1205][001E][SP]Along[SP]with[SP]that[SP]trash\nover[SP]there...",
     "nom_fr": "Joker",
-    "texte_fr": "C'est vrai... Mais c'est mon devoir. Je voudrais que tu\npartes, mon vieux...[1205][001E] Avec tes\ndéchets..."
+    "texte_fr": "C'est vrai... Mais c'est mon devoir. Je voudrais que tu\npartes, ...[1205][001E] Avec tes\ndéchets..."
   },
   {
     "id": 11,
@@ -147,7 +147,7 @@
     "nom_orig": "Fuhrer",
     "texte_orig": "Indeed...[SP]The[SP]rampant[SP]illusion[SP]of[SP]freedom\ncauses[SP]man[SP]to[SP]worry[SP]over[SP]petty[SP]matters.",
     "nom_fr": "Fuhrer",
-    "texte_fr": "En effet... A cause de l'illusion de liberté,\nl'homme s'inquiète pour des bricoles"
+    "texte_fr": "En effet... A cause de l'illusion de liberté,\nl'homme s'inquiète pour rien"
   },
   {
     "id": 15,
@@ -167,7 +167,7 @@
     "nom_orig": "Joker",
     "texte_orig": "That[SP]is[SP]why[SP]I,[SP]Joker,[SP]will[SP]lead[SP]mankind[SP]into\na[SP]new[SP]era![SP]Humanity[SP]will[SP]be[SP]freed[SP]from[SP]the\nsuffocating[SP]chains[SP]of[SP]raison[SP]d'etre!",
     "nom_fr": "Joker",
-    "texte_fr": "C'est pourquoi, moi, Joker, vais guider l'Homme\nvers une nouvelle ère!L'humanité sera libérée des chaînes\nde la raison d'être!"
+    "texte_fr": "C'est pourquoi moi, Joker, vais guider l'Homme\nvers une nouvelle ère! L'Homme sera libéré des chaînes\nde la raison d'être!"
   },
   {
     "id": 17,
@@ -177,6 +177,6 @@
     "nom_orig": "Joker",
     "texte_orig": "Behold[SP]the[SP]wings[SP]of[SP]death[SP]and[SP]rebirth![1205][001E]\nXibalba!",
     "nom_fr": "Joker",
-    "texte_fr": "Comtemplez les ailes de la mort et de la renaissance![1205][001E]\nXibalba!"
+    "texte_fr": "Les ailes de la mort renaissante![1205][001E]\nXibalba!"
   }
 ]

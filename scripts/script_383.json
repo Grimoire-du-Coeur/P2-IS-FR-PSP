@@ -6,8 +6,8 @@
     "data_size": 90,
     "nom_orig": "Eikichi",
     "texte_orig": "My[SP]HP[SP]is[SP]currently[SP][U+120E][NULL].\nSP[SP]is[SP][U+120E][U+0001].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "J'ai [U+120E][NULL] PV et [U+120E][U+0001] PC."
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 84,
     "nom_orig": "Lisa",
     "texte_orig": "My[SP]HP[SP]is[SP]currently[SP][U+120E][NULL].\nSP[SP]is[SP][U+120E][U+0001].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "J'ai [U+120E][NULL] PV et [U+120E][U+0001] PC."
   },
   {
     "id": 2,
@@ -26,7 +26,7 @@
     "data_size": 160,
     "nom_orig": "Maya",
     "texte_orig": "My[SP]HP[SP]is[SP]currently[SP][U+120E][NULL].\nSP[SP]is[SP][U+120E][0002].[E1][E2][E4][NULL][NULL]\"Maya\n[U+1113]-kun's[SP]HP[SP]is[SP][U+120E][U+0001].\nSP[SP]is[SP][U+120E][U+0003].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "J'ai [U+120E][NULL] PV et [U+120E][U+0002] PC.[E1][E2][E4][NULL][NULL]\"Maya\n[U+1113] a [U+120E][U+0001] HP et\n[U+120E][U+0003] PC."
   }
 ]
