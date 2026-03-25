@@ -29,7 +29,7 @@
 - Done → Fini
 - Fast → Rapide
 
-# AlwaysByYourSide.png
+# AlwaysByYourSide.png ✅
 - Always by your side ... → Toujours à tes côtés ...
 
 # CardTypes.png
@@ -38,7 +38,7 @@
 - Skill Card → Carte Skill
 - Incense Card → Carte Encens
 
-# End.png
+# End.png ✅
 - END → FIN
 
 # EquipTypes.png
@@ -235,7 +235,7 @@
 - Item Amount → Qté Objet
 - Details → Détails
 
-# TitleOptions.png
+# TitleOptions.png ✅
 
 - NEW GAME → NOUV. PARTIE
 - LOAD GAME → CHARG. PARTIE
