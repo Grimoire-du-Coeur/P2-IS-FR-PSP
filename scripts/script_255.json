@@ -6,8 +6,8 @@
     "data_size": 324,
     "nom_orig": "Baseball[SP]player",
     "texte_orig": "I've[SP]finally[SP]got[SP]a[SP]spot[SP]in[SP]the[SP]starting[SP]lineup!\nHeheh,[SP]no[SP]one[SP]can[SP]call[SP]me[SP]a[SP]benchwarmer[SP]now!\nBig[SP]leagues,[SP]here[SP]I[SP]come![SP]Bring[SP]on[SP]the[SP]groupies!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Joueur de baseball",
+    "texte_fr": "J'ai enfin une place de titulaire!\nHéhé, plus personne ne me traitera\nde remplaçant! La ligue majeure,\nj'arrive! À moi les groupies!"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 322,
     "nom_orig": "Female[SP]student",
     "texte_orig": "[1432][NULL][NULL][0014]Seven[SP]Sisters[SP]High[1432][NULL][NULL][0014][SP]is[SP]an[SP]odd[SP]name.[SP]Sumaru's\nname[SP]comes[SP]from[SP]the[SP]Pleiades,[SP]and[SP]the[SP]school\nseems[SP]to[SP]be[SP]named[SP]after[SP]those[SP]seven[SP]sisters.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéenne",
+    "texte_fr": "Le [1432][NULL][NULL][0014]lycée Seven Sisters[1432][NULL][NULL][0014] a un nom\nbizarre. Le nom de Sumaru vient des\nPléiades, et le lycée semble nommé\nd'après ces sept sœurs."
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 322,
     "nom_orig": "Female[SP]student",
     "texte_orig": "But[SP]the[SP]name's[SP]so[SP]long[SP]that[SP]most[SP]people[SP]find[SP]it\neasier[SP]to[SP]say[SP]Sevens.[SP]I[SP]always[SP]liked[SP]the[SP]emblem\ndesign,[SP]but[SP]not[SP]once[SP]I[SP]found[SP]out[SP]it's[SP]cursed.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéenne",
+    "texte_fr": "Mais le nom est si long que\nla plupart disent juste Seven.\nJ'aimais bien le design de l'emblème,\nmais plus depuis qu'il est maudit."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 266,
     "nom_orig": "Team[SP]manager",
     "texte_orig": "Now[SP]that's[SP]strange.[SP]He[SP]always[SP]used[SP]to[SP]be\nstrictly[SP]a[SP]second-stringer[SP]and[SP]suddenly[SP]he's\nknocking[SP]'em[SP]out[SP]of[SP]the[SP]park?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Manager",
+    "texte_fr": "C'est étrange. Il a toujours\nété un pur remplaçant et là\nd'un coup, il enchaîne les\nhome runs?"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 268,
     "nom_orig": "Team[SP]manager",
     "texte_orig": "A[SP]guy[SP]with[SP]your[SP]reflexes,[SP]sure,[SP]but[SP]that[SP]fool\nnever[SP]practices![SP]He[SP]must've[SP]gotten[SP]some[SP]kind[SP]of\ncybernetic[SP]implants...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Manager",
+    "texte_fr": "Un gars avec tes réflexes,\noui, mais cet idiot ne s'entraîne\njamais! Il a dû recevoir des\nimplants cybernétiques..."
   },
   {
     "id": 5,
@@ -56,7 +56,7 @@
     "data_size": 278,
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Dammit,[SP]where'd[SP]Chikarin[SP]go!?[SP]Oh,[SP]she's[SP]this\ngirl[SP]on[SP]the[SP]school[SP]newspaper[SP]staff...[SP]She[SP]knows\na[SP]ton[SP]about[SP]rumors.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéen bandé",
+    "texte_fr": "Bon sang, où est passée Chikarin!?\nOh, c'est une fille du journal\ndu lycée... Elle en connaît un\nrayon sur les rumeurs."
   }
 ]
