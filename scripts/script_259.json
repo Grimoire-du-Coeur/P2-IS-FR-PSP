@@ -6,8 +6,8 @@
     "data_size": 170,
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "That[SP]reminds[SP]me,[SP]I[SP]hear[SP]you've[SP]been[SP]dodging\nguidance[SP]counseling.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Dirlo Hanya",
+    "texte_fr": "Au fait, il paraît que tu\névites l'orientation."
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 190,
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Hahaha,[SP]then[SP]again...[SP]It's[SP]not[SP]as[SP]if[SP]your\ndream[SP]will[SP]come[SP]true[SP]regardless.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Dirlo Hanya",
+    "texte_fr": "Hahaha, remarque... Ce n'est pas\ncomme si ton rêve allait se réaliser."
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 278,
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "[1432][NULL][NULL][0014]The[SP]one[SP]under[SP]the[SP]star[SP]of[SP]stolen[SP]dreams[SP]has\nno[SP]right[SP]to[SP]have[SP]his[SP]ideals[SP]realized.[1432][NULL][NULL][0014][SP]I[SP]was\ntold[SP]to[SP]tell[SP]you[SP]that.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Dirlo Hanya",
+    "texte_fr": "[1432][NULL][NULL][0014]Celui né sous l'étoile des rêves volés\nn'a pas le droit de réaliser ses idéaux.[1432][NULL][NULL][0014]\nOn m'a dit de te le dire."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 116,
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Also,[SP]that[SP]it's[SP]your[SP]destiny.[SP]Hahaha!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Dirlo Hanya",
+    "texte_fr": "Aussi, que c'est ton destin. Hahaha!"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 274,
     "nom_orig": "???",
     "texte_orig": "Whew...[1205][001E][SP]No[SP]significant[SP]changes[SP]today[SP]either.[1205][001E]\nThe[SP]usual[SP]odd[SP]magnetism...[1205][001E][SP]I[SP]hope[SP]it[SP]stays\nat[SP]this[SP]level[SP]through[SP]the[SP]month...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "???",
+    "texte_fr": "Ouf...[1205][001E] Aucun changement\naujourd'hui non plus.[1205][001E] Ce magnétisme\nétrange...[1205][001E] Pourvu que ça\nreste ainsi ce mois..."
   },
   {
     "id": 5,
@@ -56,18 +56,18 @@
     "data_size": 294,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Hm?[1205][001E][SP]You're[SP]one[SP]of[SP]Ms.[SP]Saeko's[SP]students...[1205][001E]\nDon't[SP]get[SP]too[SP]close[SP]to[SP]the[SP]Narurato[SP]Stone.\nWe[SP]don't[SP]know[SP]what[SP]effect[SP]it[SP]has[SP]on[SP]people.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéal",
+    "texte_fr": "Hm?[1205][001E] Tu es un des élèves de Mme Saeko...[1205][001E]\nNe t'approche pas trop de la Pierre de\nNarurato. On ignore ses effets sur\nles gens."
   },
-  {
+ {
     "id": 6,
     "offset": 289614,
     "slot_size": 214,
     "data_size": 210,
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Hm?[SP]Ms.[SP]Saeko?[SP]I[SP]don't[SP]know...[SP]I[SP]haven't\nnoticed[SP]her[SP]around.[1205][U+000F][SP]Maybe[SP]she's[SP]somewhere\nelse.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Idéal",
+    "texte_fr": "Hm? Mme Saeko? Je l'ignore...\nJe ne l'ai pas vue ici.[1205][U+000F]\nElle est peut-être ailleurs."
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 300,
     "nom_orig": "Male[SP]student",
     "texte_orig": "Ms.[SP]Ideal's[SP]been[SP]teaching[SP]here[SP]for[SP]11[SP]years,\nright?[SP]She's[SP]always[SP]saying[SP]weird[SP]stuff,[SP]but\nlately[SP]she[SP]seems[SP]nervous[SP]about[SP]some[SP]oracle.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéen",
+    "texte_fr": "Mme Idéal enseigne ici depuis 11 ans,\nnon? Elle dit toujours des trucs\nbizarres, mais récemment elle\nest nerveuse à cause d'un oracle."
   },
   {
     "id": 8,
@@ -86,7 +86,7 @@
     "data_size": 282,
     "nom_orig": "Female[SP]student",
     "texte_orig": "Hey,[SP][U+1113]-kun![SP]Did[SP]you[SP]hear[SP]the[SP]rumor[SP]that\nthe[SP]principal's[SP]statue[SP]moves[SP]on[SP]its[SP]own?\nI[SP]like[SP]the[SP]guy,[SP]but[SP]that's[SP]super[SP]creepy.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lycéenne",
+    "texte_fr": "Hé, [U+1113]-kun! T'as entendu la rumeur\ncomme quoi la statue du dirlo bouge\ntoute seule? Je l'aime bien, mais\nc'est super flippant."
   }
 ]
