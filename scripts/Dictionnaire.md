@@ -26,3 +26,4 @@
 | Maia | Maia |
 | Mayan | Maya |
 | Last Batallion | Bataillon |
+| In Lak'ech | In Lak'ech |
