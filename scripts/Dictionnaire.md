@@ -21,7 +21,7 @@
 | Lady Scorpio | Dame Scorpion |
 | Prince Taurus | Prince Taureau |
 | Idealians | Idéaliens |
-| Führer | Fuhrer |
+| Fuhrer | Führer |
 | Grand Cross | Croix Cosmique/Croix |
 | Maia | Maia |
 | Mayan | Maya |
