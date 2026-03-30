@@ -7,7 +7,7 @@
     "nom_orig": "School[SP]paper[SP]writer",
     "texte_orig": "Our[SP]editor,[SP]who[SP]went[SP]to[SP]go[SP]investigate[SP]the\nlinks[SP]between[SP]the[SP]emblem[SP]curse[SP]and[SP]Cuss[SP]High,\nisn't[SP]back[SP]yet...",
     "nom_fr": "Rédacteur du journal scolaire",
-    "texte_fr": "Notre rédactrice, partie enquêter sur la malédiction de l'emblème et le lycée Kakasu,/nn'est pas encore revenue..."
+    "texte_fr": "Notre rédactrice est partie enquêter sur l'emblème et le lycée Kakasu,/nn'est pas encore revenue..."
   },
   {
     "id": 1,
@@ -57,7 +57,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Wow...[1205][001E][SP]So[SP]Hanakouji-san[SP]goes[SP]to[SP]Sevens...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Wow...[1205][001E] Donc Hanakouji va au Seven..."
+    "texte_fr": "Wow...[1205][001E] Donc va au Seven..."
   },
   {
     "id": 6,
@@ -77,7 +77,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "What?[SP]You[SP]saw[SP]Kozy...?[1205][001E][SP]Don't[SP]you[SP]know?[1205][001E]\nKozy[SP]is...",
     "nom_fr": "Étudiante",
-    "texte_fr": "Quoi ? Tu as vu Kozy... ?[1205][001E] Tu ne sais pas ?[1205][001E]\nKozy est..."
+    "texte_fr": "Quoi ? Tu as vu Kozy... ?[1205][001E] Tu sais pas ?[1205][001E]\nKozy est..."
   },
   {
     "id": 8,
@@ -87,7 +87,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What!?[1205][001E][SP]Ohhh...[SP]So[SP]you[SP]know[SP]her[SP]too!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Quoi !?[1205][001E] Ohhh... Tu la connais aussi !"
+    "texte_fr": "Quoi !?[1205][001E] Ohhh... Tu la connais !"
   },
   {
     "id": 9,
@@ -97,7 +97,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hanakouji-san[SP]isn't[SP]a[SP]raging[SP]bull[SP]like[SP]you.\nShe's[SP]a[SP]slim,[SP]beautiful,[SP]classy[SP]lady!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hanakouji n'est pas un taureau comme toi.\nC'est une dame mince, belle et élégante !"
+    "texte_fr": "n'est pas un taureau comme toi.\nDame mince, belle et élégante !"
   },
   {
     "id": 10,
@@ -147,7 +147,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "We[SP]broke[SP]up[SP]eventually,[SP]but[SP]I[SP]still[SP]can't\nforget[SP]her[SP]face[SP]when[SP]she[SP]cried[SP]and[SP]said,\n[1432][NULL][NULL][0014]Eikichi-kun,[SP]I[SP]can't[SP]bear[SP]to[SP]be[SP]apart![1432][NULL][NULL][0014]",
     "nom_fr": "Eikichi",
-    "texte_fr": "On s'est séparés, mais je n'oublie pas son visage en larmes quand elle a dit :\n[1432][NULL][NULL][0014]Eikichi-kun, je ne supporte pas qu'on se quitte ![1432][NULL][NULL][0014]"
+    "texte_fr": "On s'est séparés, mais je n'oublie pas son visage en larmes quand elle a dit :\n[1432][NULL][NULL][0014]Eikichi, je ne supporte pas qu'on se quitte ![1432][NULL][NULL][0014]"
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Wow...[1205][001E][SP]So[SP]Hanakouji-san[SP]is[SP]at[SP]Sevens...[1205][001E]\nJust[SP]wow...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Wow...[1205][001E] Donc Hanakouji est à Seven...[1205][001E]\nJuste wow..."
+    "texte_fr": "Wow...[1205][001E] Donc est à Seven...[1205][001E]\nJuste wow..."
   },
   {
     "id": 24,
@@ -257,7 +257,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]how's[SP]Hanakouji-san[SP]been?[1205][001E][SP]Her[SP]personality?[1205][U+000F]\nStill[SP]awesome,[SP]I'm[SP]sure.[1205][U+000F][SP]Her[SP]popularity?[1205][U+000F]\nStill[SP]up[SP]there,[SP]no[SP]doubt.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Alors, comment va Hanakouji ?[1205][U+000F] Sa personnalité ?[1205][U+000F]\nToujours géniale.[1205][U+000F] Sa popularité ?[1205][U+000F]\nToujours au top."
+    "texte_fr": "Alors, comment va ?[1205][U+000F] Sa personnalité ?[1205][U+000F]\nToujours géniale.[1205][U+000F] Sa popularité ?[1205][U+000F]\nToujours au top."
   },
   {
     "id": 26,
@@ -407,7 +407,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]hope[SP]Lisa's[SP]making[SP]the[SP]right[SP]choice.[1205][001E][SP]I[SP]know\nit[SP]sounds[SP]hokey,[SP]but[SP]friendship[SP]is[SP]magic.[1205][001E]\nI[SP]know[SP]you[SP]must[SP]have[SP]friends[SP]you[SP]care[SP]about.",
     "nom_fr": "Yukino",
-    "texte_fr": "J'espère que Lisa fait le bon choix.[1205][001E] Ça peut\nparaître idiot, mais l'amitié c'est magique.[1205][001E]\nTu as sûrement des amis qui comptent pour toi."
+    "texte_fr": "J'espère que Lisa fait le bon choix.[1205][001E] Ça peut\nparaître idiot, mais l'amitié c'est magique.[1205][001E]\nTu as des amis qui comptent pour toi."
   },
   {
     "id": 41,
@@ -477,7 +477,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Now[SP]that[SP]I'm[SP]b-back[SP]to[SP]normal,[SP]I've[SP]lost[SP]all\nmy[SP]c-c-confidence...[1205][U+000F][SP]I[SP]c-can't[SP]do[SP]it...",
     "nom_fr": "Étudiant",
-    "texte_fr": "Maintenant que je suis redevenu normal, j'ai perdu\ntoute confiance...[1205][U+000F] Je n'y arrive pas..."
+    "texte_fr": "Redevenu normal, j'ai perdu\ntoute confiance...[1205][U+000F] Je n'y arrive pas..."
   },
   {
     "id": 48,
@@ -497,7 +497,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "I[SP]guess[SP]they[SP]got[SP]a[SP]phone[SP]call[SP]and[SP]both[SP]rushed\nout[SP]together...",
     "nom_fr": "Étudiante bandée",
-    "texte_fr": "Je crois qu'ils ont reçu un appel et qu'ils sont partis\nen vitesse tous les deux…"
+    "texte_fr": "Je crois qu'ils ont eu un appel\net sont partis en vitesse…"
   },
   {
     "id": 50,
