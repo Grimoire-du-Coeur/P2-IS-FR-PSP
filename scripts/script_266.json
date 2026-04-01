@@ -7,7 +7,7 @@
     "nom_orig": "???",
     "texte_orig": "Hm?[SP][U+1112]-senpai...[1205][001E][SP]Have[SP]you[SP]seen[SP]Lisa?[1205][001E]\nShe[SP]was[SP]looking[SP]for[SP]you[SP]with[SP]a[SP]letter[SP]in\nher[SP]hand.[1205][001E][SP]You[SP]get[SP]the[SP]picture,[SP]I[SP]hope?",
     "nom_fr": "???",
-    "texte_fr": "Hm ?[U+1112]senpai...[1205][001E]Est-ce que tu as vu Lisa?[1205][001E]Elle est partie te chercher avec une lettre.[1205][001E]Tu comprends,ce que ça veut dire,j'espère?"
+    "texte_fr": "Hm?[U+1112]senpai..[1205][001E]Tu as vu Lisa?[1205][001E]Elle est partie te chercher avec une lettre.[1205][001E]Tu comprends,ce que ça veut dire,j'espère?"
   },
   {
     "id": 1,
@@ -17,7 +17,7 @@
     "nom_orig": "Mami",
     "texte_orig": "So[SP]don't[SP]be[SP]so[SP]harsh[SP]on[SP]Lisa.[SP]She's[SP]really[SP]into\nyou,[SP]but[SP]you're[SP]so[SP]cold[SP]around[SP]her.[SP]If[SP]you[SP]make\nher[SP]cry,[SP]I'll[SP]be[SP]forced[SP]to[SP]take[SP]action.",
     "nom_fr": "Mami",
-    "texte_fr": "Donc ne soit pas dur envers Lisa.Elle està fond sur\ntoi,mais t'es si froid quand t'es avec elle.Si tu la fais pleurer,je serai obligé de m'en prendre à toi"
+    "texte_fr": "Donc soit moins dur envers Lisa.Elle à fond sur\ntoi,mais t'es froid avec elle.Si tu la fais pleurer,je vais m'en prendre à toi"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "nom_orig": "???",
     "texte_orig": "Sheba's[SP]right![SP]If[SP]you[SP]make[SP]Lisa[SP]cry,[SP]I'll[SP]cry\ntoo![SP]We're[SP]best[SP]friends,[SP]after[SP]all!",
     "nom_fr": "???",
-    "texte_fr": "Sheba a raison!Si tu fais pleurer Lisa,je vais pleurer aussi On est meilleures amies après tout!"
+    "texte_fr": "Sheba a raison!Si tu la fais pleure,moi aussi.On est meilleures amies après tout!"
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@
     "nom_orig": "Mami",
     "texte_orig": "Lisa[SP]seemed[SP]pretty[SP]anxious,[SP]though.[1205][U+000F][SP]Hmm...[1205][U+000F]\nCould[SP]this[SP]be[SP]it?[1205][U+000F][SP]Ahaha...[SP]You'll[SP]say[SP]yes,\nwon't[SP]you?",
     "nom_fr": "Mami",
-    "texte_fr": "Lisa avait l'air quand même plutôt stressée.[1205][U+000F]Hm...[1205][U+000F]\nEst ce que c'est lié à ça ?[1205][U+000F]Ahaha..Tu diras oui dans tous les cas, non?"
+    "texte_fr": "Lisa avait l'air stressée.[1205][U+000F]Hm..[1205][U+000F]\nEst ce que c'est lié?[1205][U+000F]Ahaha..Tu diras oui dans tous les cas,non?"
   },
   {
     "id": 4,
@@ -97,7 +97,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "A-Are[SP]you[SP]and,[SP]umm,[SP]L-Lisa-san[SP]m-more[SP]than\nj-just[SP]friends?[SP]I-If[SP]you[SP]are,[SP]y-you're[SP]so\nlucky...[SP]I'm[SP]j-j-jealous...",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Est-ce-ce que toi,et umm,Lisa vous êtes plus\nque des amis ?Si c'est le cas t-t'as tellement de\nchance..Je suis j-jaloux.."
+    "texte_fr": "Est-ce-ce que toi,et umm,Lisa vous êtes plus\nqu'amis ?Si c'est le cas t-t'as tellement de\nchance..Je suis j-jaloux.."
   },
   {
     "id": 10,
@@ -157,7 +157,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "I-I[SP]can't[SP]believe[SP]you're[SP]actually[SP]talking[SP]to\nme...![1205][001E][SP]Y-You're[SP]looking[SP]for[SP]Ms.[SP]Saeko,[SP]right?[1205][001E]\nShe's[SP]at[SP]the[SP]bike[SP]stands,[SP]I[SP]think.[E1][E2]\n[E3][E4][NULL][NULL]\"School[SP]paper[SP]writer\nOur[SP]editor,[SP]Kozy,[SP]hasn't[SP]come[SP]back.[SP]She[SP]ran\nout,[SP]saying[SP]she[SP]was[SP]investigating[SP]the[SP]curse\nrumor...[1205][001E][SP]Chikarin[SP]isn't[SP]around[SP]either.[SP]Hmm...",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "J-je peux pas y croire,t'es en train de me\nparler...![1205][001E]Ah tu cherches Mme.Saeko non?[1205][001E]\nElle est à l'abri à vélos,je crois.[E1][E2]\n[E3][E4][NULL][NULL]\"Le directeur du journal de l'école\net notre éditeur,Kozy,n'est toujours pas revenue.Elle a \ndisparue elle enquêtait sur la rumeur\n de la malédiction..[1205][001E]Chikarin est introuvable aussi.Hmm.. "
+    "texte_fr": "J-j'y crois pas,tu me\nparles..![1205][001E]Ah tu cherches Mme.Saeko non?[1205][001E]\nElle est à l'abri à vélos,je crois.[E1][E2]\n[E3][E4][NULL][NULL]\"Le directeur du journal de l'école\net notre éditeur,Kozy,n'est toujours pas revenue.Elle a \ndisparue elle enquêtait sur la rumeur\n de la malédiction..[1205][001E]Chikarin est introuvable aussi.Hmm.. "
   },
   {
     "id": 16,
