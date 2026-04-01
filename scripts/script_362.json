@@ -6,8 +6,8 @@
     "data_size": 78,
     "nom_orig": "Maya",
     "texte_orig": "This[SP]is[SP]my[SP]place.[SP]Come[SP]on[SP]in.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "C'est chez moi. Entre."
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 174,
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP][U+1113]...[SP]Doesn't[SP]it[SP]make[SP]you[SP]kind[SP]of...\nnervous[SP]going[SP]into[SP]a[SP]girl's[SP]room?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Hé, [U+1113]... Ça te rend pas un peu...\nnerveux d'entrer dans la chambre d'une fille?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 112,
     "nom_orig": "Eikichi",
     "texte_orig": "Well,[SP]here[SP]we[SP]go,[SP]into[SP]the[SP]secret[SP]garden...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Bon, on y va, dans le jardin secret..."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 86,
     "nom_orig": "Maya",
     "texte_orig": "Aren't[SP]you[SP]exaggerating[SP]a[SP]little?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Tu n'exagères pas un peu?"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 300,
     "nom_orig": "Eikichi",
     "texte_orig": "Holy[SP]crap...[SP]It's[SP]a[SP]disaster[SP]area...[1205][U+000F][SP]Any[SP]guy\nshe[SP]took[SP]home[SP]to[SP]this[SP]would[SP]be[SP]out[SP]the[SP]door\nin[SP]seconds![1205][U+000F][SP]She[SP]needs[SP]a[SP]maid[SP]or[SP]something...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Bon sang... C'est une zone sinistrée...[1205][U+000F] N'importe\nquel mec qu'elle ramènerait ici partirait\nen courant![1205][U+000F] Elle aurait besoin d'une femme de ménage..."
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 244,
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]noticed[SP]we[SP]passed[SP]the[SP]Kounan[SP]PD[SP]on[SP]the[SP]way\nhere,[SP]but...[SP]Something[SP]seemed[SP]strange.[1205][U+000F]\nI[SP]wonder[SP]what[SP]happened.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "J'ai remarqué qu'on est passés devant le\ncommissariat de Kounan en venant ici, mais...\nQuelque chose semblait bizarre.[1205][U+000F] Je me demande ce qui s'est passé."
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 294,
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]can't[SP]believe[SP]they[SP]even[SP]hit[SP]the[SP]Kounan[SP]police\ndepartment![SP]That[SP]complete[SP]dick![SP]He[SP]was[SP]supposed\nto[SP]stick[SP]to[SP]the[SP]places[SP]in[SP]the[SP]riddles!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Je n'arrive pas à croire qu'ils ont même frappé\nle commissariat de Kounan! Quel connard!\nIl était censé s'en tenir aux lieux des énigmes!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 246,
     "nom_orig": "Eikichi",
     "texte_orig": "Th-That[SP]Ulala[SP]lady...[SP]She[SP]was[SP]pretty...\nextreme.[SP]Whoever[SP]says[SP]people[SP]tend[SP]to[SP]live\nup[SP]to[SP]their[SP]names[SP]was[SP]lying.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "C-Cette dame Ulala... Elle était plutôt...\nextrême. Celui qui dit que les gens ressemblent\nà leur prénom mentait."
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 264,
     "nom_orig": "Eikichi",
     "texte_orig": "Th-That[SP]Ulala[SP]lady[SP]sure[SP]looked[SP]scary[SP]when\nwe[SP]saw[SP]her[SP]after[SP]GOLD[SP]burned[SP]down...[1205][U+000F][SP]Like\nshe[SP]was[SP]taking[SP]names[SP]for[SP]later...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "C-Cette dame Ulala avait l'air vraiment effrayante\nquand on l'a vue après l'incendie de GOLD...[1205][U+000F]\nComme si elle prenait note pour plus tard..."
   },
   {
     "id": 9,
@@ -95,9 +95,9 @@
     "slot_size": 96,
     "data_size": 92,
     "nom_orig": "Eikichi",
-    "texte_orig": "Hey,[SP]I[SP]guess[SP]Ulala-san[SP]came[SP]home.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "texte_orig": "Hey,[SP]I[SP]guess[SP]Ulala[SP]came[SP]home.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Hé, je crois qu'Ulala est rentrée."
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 190,
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]I[SP]thought[SP]looters[SP]had[SP]broken[SP]in...[1205][U+000F]\nIs[SP]this[SP]what[SP]it[SP]looks[SP]like[SP]all[SP]the[SP]time?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Aïe! J'ai cru que des pilleurs étaient entrés...[1205][U+000F]\nC'est comme ça tout le temps?"
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 172,
     "nom_orig": "Ginko",
     "texte_orig": "There[SP]was[SP]smoke[SP]rising[SP]from[SP]the[SP]direction[SP]of\nthe[SP]Kounan[SP]PD...[1205][U+000F][SP]Y'think...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Il y avait de la fumée du côté du\ncommissariat de Kounan...[1205][U+000F] Tu crois que...?"
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 178,
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]hope[SP]everyone[SP]at[SP]the[SP]station's[SP]okay...[1205][U+000F]\nKing[SP]Leo's[SP]a[SP]real[SP]son[SP]of[SP]a[SP]bitch...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "J'espère que tout le monde au commissariat\nva bien...[1205][U+000F] King Leo est vraiment une ordure..."
   },
   {
     "id": 13,
@@ -136,8 +136,8 @@
     "data_size": 146,
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]hope[SP]your[SP]brother[SP]is[SP]okay,[SP][U+1113].\nIf[SP]he[SP]was[SP]there[SP]at[SP]the[SP]time...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "J'espère que ton frère va bien, [U+1113].\nS'il était là à ce moment-là..."
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 140,
     "nom_orig": "Ginko",
     "texte_orig": "I'm[SP]glad[SP]your[SP]brother[SP]was[SP]safe,[SP][U+1113].\nIt's[SP]a[SP]load[SP]off[SP]my[SP]mind.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Je suis soulagée que ton frère soit sain et\nsauf, [U+1113]. C'est un poids en moins."
   },
   {
     "id": 15,
@@ -155,9 +155,9 @@
     "slot_size": 132,
     "data_size": 128,
     "nom_orig": "Ginko",
-    "texte_orig": "Ulala-san,[SP]huh...?[SP]Maya-san[SP]has[SP]some\nstrange[SP]friends.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "texte_orig": "Ulala,[SP]huh...?[SP]Maya[SP]has[SP]some\nstrange[SP]friends.",
+    "nom_fr": "Ginko",
+    "texte_fr": "Ulala, hein...? Maya a des\namies plutôt étranges."
   },
   {
     "id": 16,
@@ -165,9 +165,9 @@
     "slot_size": 294,
     "data_size": 290,
     "nom_orig": "Ginko",
-    "texte_orig": "She[SP]was[SP]really[SP]pretty,[SP]though.[SP]She[SP]looked[SP]so\ngrown-up,[SP]and[SP]really[SP]wore[SP]her[SP]makeup[SP]well...[1205][U+000F]\nWait,[SP]she's[SP]like[SP]the[SP]opposite[SP]of[SP]Maya-san!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "texte_orig": "She[SP]was[SP]really[SP]pretty,[SP]though.[SP]She[SP]looked[SP]so\ngrown-up,[SP]and[SP]really[SP]wore[SP]her[SP]makeup[SP]well...[1205][U+000F]\nWait,[SP]she's[SP]like[SP]the[SP]opposite[SP]of[SP]Maya!",
+    "nom_fr": "Ginko",
+    "texte_fr": "Elle était vraiment jolie, quand même. Elle\navait l'air si mature et portait très bien\nson maquillage...[1205][U+000F] Attendez, c'est l'opposé de Maya!"
   },
   {
     "id": 17,
@@ -175,9 +175,9 @@
     "slot_size": 290,
     "data_size": 286,
     "nom_orig": "Ginko",
-    "texte_orig": "Seeing[SP]this[SP]room[SP]is[SP]even[SP]more[SP]shocking[SP]now[SP]that\nI[SP]know[SP]Maya-san[SP]was[SP]Big[SP]Maya.[SP]There's[SP]this[SP]huge\ngap[SP]between[SP]the[SP]image[SP]and[SP]reality...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "texte_orig": "Seeing[SP]this[SP]room[SP]is[SP]even[SP]more[SP]shocking[SP]now[SP]that\nI[SP]know[SP]Maya[SP]was[SP]Big[SP]Maya.[SP]There's[SP]this[SP]huge\ngap[SP]between[SP]the[SP]image[SP]and[SP]reality...",
+    "nom_fr": "Ginko",
+    "texte_fr": "Voir cette chambre est encore plus choquant\nmaintenant que je sais que Maya était\nMaya. L'écart image-réalité est immense..."
   },
   {
     "id": 18,
@@ -186,8 +186,8 @@
     "data_size": 264,
     "nom_orig": "Maya",
     "texte_orig": "My[SP]roommate's[SP]really[SP]well-organized.[1205][U+000F][SP]She's\nalways[SP]after[SP]me[SP]to[SP]clean[SP]up,[SP]but...[SP]Well...[1205][U+000F]\nWho[SP]has[SP]the[SP]time?[SP]Haha...[SP]ha...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ma colocataire est très ordonnée.[1205][U+000F] Elle est\ntoujours après moi pour ranger, mais... Bah...[1205][U+000F]\nQui a le temps? Haha... ha..."
   },
   {
     "id": 19,
@@ -196,8 +196,8 @@
     "data_size": 232,
     "nom_orig": "Maya",
     "texte_orig": "That[SP]fire[SP]won't[SP]stop[SP]even[SP]if[SP]it[SP]engulfs[SP]every\nliving[SP]thing...[SP]I[SP]can[SP]tell...[1205][U+000F][SP]His[SP]fire[SP]is\ntoo[SP]dangerous...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ce feu ne s'arrêterait pas même s'il\nengloutissait tout ce qui vit... Je le sens...[1205][U+000F]\nSon feu est trop dangereux..."
   },
   {
     "id": 20,
@@ -206,8 +206,8 @@
     "data_size": 256,
     "nom_orig": "Maya",
     "texte_orig": "We[SP]have[SP]to[SP]do[SP]something[SP]about[SP]it.[1205][U+000F][SP]We[SP]can't[SP]let\nit[SP]burn[SP]freely[SP]any[SP]longer.[SP]It[SP]has[SP]to[SP]be[SP]put\nout[SP]for[SP]good[SP]this[SP]time...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "On doit faire quelque chose.[1205][U+000F] On ne peut plus\nle laisser brûler librement. Il faut l'éteindre\npour de bon cette fois..."
   },
   {
     "id": 21,
@@ -216,8 +216,8 @@
     "data_size": 152,
     "nom_orig": "Maya",
     "texte_orig": "Wow,[SP]color[SP]me[SP]surprised.[SP]I[SP]didn't[SP]know\nUlala[SP]was[SP]a[SP]Persona-user...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Waouh, ça m'étonne. Je ne savais pas\nqu'Ulala était utilisatrice de Persona..."
   },
   {
     "id": 22,
@@ -226,8 +226,8 @@
     "data_size": 112,
     "nom_orig": "Maya",
     "texte_orig": "She[SP]went[SP]out[SP]after[SP]them.[SP]Think[SP]she'll[SP]be[SP]okay?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Elle est partie à leur poursuite. Vous croyez\nqu'elle va s'en sortir?"
   },
   {
     "id": 23,
@@ -236,8 +236,8 @@
     "data_size": 254,
     "nom_orig": "Maya",
     "texte_orig": "Oh[SP]man...[SP]Ulala[SP]must[SP]be[SP]pissed[SP]that[SP]GOLD[SP]burned\ndown...[1205][U+000F][SP]I[SP]hope[SP]she[SP]doesn't[SP]keep[SP]me[SP]up[SP]all[SP]night\nmoaning[SP]about[SP]it...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Oh non... Ulala doit être furieuse que GOLD\nait brûlé...[1205][U+000F] J'espère qu'elle ne va pas me\nkeepler éveillée toute la nuit à se plaindre..."
   },
   {
     "id": 24,
@@ -246,8 +246,8 @@
     "data_size": 286,
     "nom_orig": "Maya",
     "texte_orig": "Ulala's[SP]been[SP]smoking[SP]in[SP]here[SP]again...[1205][U+000F][SP]She\nalways[SP]goes[SP]back,[SP]forgets[SP]her[SP]cigarettes,[SP]and\nthen[SP]complains[SP]endlessly[SP]about[SP]losing[SP]them.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ulala a encore fumé ici...[1205][U+000F] Elle repart\ntoujours, oublie ses cigarettes, et se plaint\nensuite sans arrêt de les avoir perdues."
   },
   {
     "id": 25,
@@ -255,9 +255,9 @@
     "slot_size": 288,
     "data_size": 284,
     "nom_orig": "Yukino",
-    "texte_orig": "Maya-san[SP]lives[SP]here[SP]with[SP]her[SP]friend?[1205][U+000F][SP]And[SP]this\nis[SP]the[SP]result[SP]of[SP]two[SP]women[SP]living[SP]together?\nI[SP]see[SP]no[SP]boyfriends[SP]in[SP]their[SP]future...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "texte_orig": "Maya[SP]lives[SP]here[SP]with[SP]her[SP]friend?[1205][U+000F][SP]And[SP]this\nis[SP]the[SP]result[SP]of[SP]two[SP]women[SP]living[SP]together?\nI[SP]see[SP]no[SP]boyfriends[SP]in[SP]their[SP]future...",
+    "nom_fr": "Yukino",
+    "texte_fr": "Maya vit ici avec son amie?[1205][U+000F] Et c'est le\nrésultat de deux femmes vivant ensemble?\nJe les vois mal avoir des petits amis..."
   },
   {
     "id": 26,
@@ -266,8 +266,8 @@
     "data_size": 178,
     "nom_orig": "Yukino",
     "texte_orig": "They[SP]might[SP]have[SP]hit[SP]other[SP]places[SP]too,[SP]for[SP]all\nwe[SP]know...[SP]I'm[SP]getting[SP]worried.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Ils ont peut-être frappé d'autres endroits\naussi, pour ce qu'on en sait...\nÇa commence à m'inquiéter."
   },
   {
     "id": 27,
@@ -276,8 +276,8 @@
     "data_size": 262,
     "nom_orig": "Yukino",
     "texte_orig": "The[SP]fire[SP]department[SP]was[SP]his[SP]work[SP]too,[SP]right?\nDammit...[1205][U+000F][SP]If[SP]I[SP]had[SP]only[SP]known...[1205][U+000F][SP]I've[SP]never\nseen[SP]anyone[SP]play[SP]so[SP]dirty!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "La caserne de pompiers c'était lui aussi, non?\nMerde...[1205][U+000F] Si seulement j'avais su...[1205][U+000F] Je n'ai\njamais vu quelqu'un jouer aussi sale!"
   },
   {
     "id": 28,
@@ -286,8 +286,8 @@
     "data_size": 200,
     "nom_orig": "Yukino",
     "texte_orig": "That's[SP]an[SP]interesting[SP]opinion,[SP]Lisa.[SP]Tell[SP]me,\ndo[SP]these[SP][1432][NULL][NULL][0014]weird[SP]friends[1432][NULL][NULL][0014][SP]include[SP]me?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "C'est une opinion intéressante, Lisa. Dis-moi,\nces [1432][NULL][NULL][0014]amies bizarres[1432][NULL][NULL][0014] m'incluent-elles?"
   },
   {
     "id": 29,
@@ -296,8 +296,8 @@
     "data_size": 164,
     "nom_orig": "Yukino",
     "texte_orig": "Ulala's[SP]not[SP]back[SP]yet.[1205][U+000F][SP]I[SP]wonder[SP]if[SP]she's[SP]out\nlooking[SP]for[SP]the[SP]culprit?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Ulala n'est pas encore rentrée.[1205][U+000F] Elle est peut-être\npartie chercher le coupable?"
   },
   {
     "id": 30,
@@ -306,8 +306,8 @@
     "data_size": 252,
     "nom_orig": "Yukino",
     "texte_orig": "Ulala[SP]seems[SP]like[SP]a[SP]pretty[SP]heavy[SP]smoker.\nShe's[SP]gonna[SP]get[SP]nicotine[SP]all[SP]over[SP]this[SP]place.\nShouldn't[SP]she[SP]open[SP]a[SP]window?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Ulala semble fumer beaucoup.\nElle va nicoter tout l'appartement.\nElle devrait ouvrir une fenêtre, non?"
   },
   {
     "id": 31,
@@ -316,8 +316,8 @@
     "data_size": 176,
     "nom_orig": "Ulala",
     "texte_orig": "Whoo,[SP]Ma-ya![SP]It's[SP]about[SP]time[SP]you[SP]brought[SP]a[SP]cute\nguy[SP]home![SP]Hehe,[SP]just[SP]kidding.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ulala",
+    "texte_fr": "Whouhou, Ma-ya! Il était temps que tu ramènes\nun mignon à la maison! Héhé, je plaisante."
   },
   {
     "id": 32,
@@ -326,8 +326,8 @@
     "data_size": 276,
     "nom_orig": "Ulala",
     "texte_orig": "Didn't[SP]I[SP]see[SP]you[SP]at[SP]GOLD?[SP]Sorry[SP]about[SP]that.\nI[SP]was[SP]a[SP]little[SP]busy.[SP]I[SP]didn't[SP]even[SP]introduce\nmyself,[SP]did[SP]I?[SP]Well,[SP]nice[SP]to[SP]meet[SP]you.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ulala",
+    "texte_fr": "Je t'ai pas vu à GOLD? Désolée pour ça.\nJ'étais un peu occupée. Je me suis même pas\nprésentée, hein? Ravi de te rencontrer."
   },
   {
     "id": 33,
@@ -336,8 +336,8 @@
     "data_size": 208,
     "nom_orig": "Ulala",
     "texte_orig": "Man,[SP]first[SP]that[SP]putz[SP]escaped,[SP]and[SP]now[SP]these\nweird[SP]soldiers[SP]are[SP]here...[1205][U+000F][SP]Why[SP]am[SP]I[SP]so[SP]unlucky?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ulala",
+    "texte_fr": "Pfff, d'abord ce crétin s'est échappé, et\nmaintenant ces soldats bizarres...[1205][U+000F]\nPourquoi j'ai si peu de chance?"
   },
   {
     "id": 34,
@@ -346,8 +346,8 @@
     "data_size": 176,
     "nom_orig": "Ulala",
     "texte_orig": "Whoo,[SP]Ma-ya![SP]It's[SP]about[SP]time[SP]you[SP]brought[SP]a[SP]cute\nguy[SP]home![SP]Hehe,[SP]just[SP]kidding.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ulala",
+    "texte_fr": "Whouhou, Ma-ya! Il était temps que tu ramènes\nun mignon à la maison! Héhé, je plaisante."
   },
   {
     "id": 35,
@@ -356,8 +356,8 @@
     "data_size": 292,
     "nom_orig": "Ulala",
     "texte_orig": "Did[SP]I[SP]see[SP]you[SP]in[SP]front[SP]of[SP]Xibalba,[SP]too?[SP]Sorry\nabout[SP]that.[SP]I[SP]was[SP]a[SP]little[SP]busy.[SP]I[SP]didn't[SP]even\nintroduce[SP]myself,[SP]did[SP]I?[SP]Nice[SP]to[SP]meet[SP]you.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ulala",
+    "texte_fr": "Je t'ai vu devant Xibalba aussi? Désolée.\nJ'étais un peu occupée. Je me suis même pas\nprésentée, hein? Ravi de te rencontrer."
   },
   {
     "id": 36,
@@ -366,7 +366,7 @@
     "data_size": 588,
     "nom_orig": "Ulala",
     "texte_orig": "Man,[SP]first[SP]that[SP]putz[SP]escaped,[SP]and[SP]now[SP]these\nweird[SP]soldiers[SP]are[SP]here...[1205][U+000F][SP]Why[SP]am[SP]I[SP]so[SP]unlucky?[E1][E2][E3]>[SP]It's[SP]a[SP]new[SP]boom[SP]box.[SP]It's[SP]about[SP]the[SP]only\nclean[SP]thing[SP]in[SP]the[SP]room.[E1][E2][E3]>[SP]Play[SP]a[SP]CD?\n[U+1208][0002]Yes\nNo\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nWhoa,[SP][U+1113],[SP]that's[SP]my[SP]roommate's[SP]room.\nShe[SP]will[SP]literally[SP]kill[SP]you[SP]if[SP]you[SP]go[SP]in[SP]there.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ulala",
+    "texte_fr": "Pfff, d'abord ce crétin s'est échappé, et\nmaintenant ces soldats bizarres...[1205][U+000F] Pourquoi j'ai si\npeu de chance?[E1][E2][E3]> C'est une nouvelle chaîne. C'est à peu près\nla seule chose propre dans la chambre.[E1][E2][E3]> Jouer un CD?\n[U+1208][0002]Oui\nNon\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nHoula, [U+1113], c'est la chambre de ma colocataire.\nElle te tuera littéralement si tu entres là-dedans."
   }
 ]
