@@ -17,7 +17,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hahaha,[SP]I[SP]think[SP]we[SP]need[SP]to[SP]worry[SP]more[SP]about\nthe[SP]Last[SP]Battalion[SP]guys[SP]than[SP]the[SP]Sevens\nstudents[SP]at[SP]this[SP]rate.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hahaha,Je pense qu'on ferait mieux de s'inquièter  \npour les gars du Bataillon plus que des élèves de Sevens."
+    "texte_fr": "Hahaha,Je pense qu'on ferait mieux de s'inquièter  \npour le Bataillon plus que des élèves de Sevens."
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Elly-san[SP]must[SP]be[SP]what[SP]they[SP]mean[SP]when[SP]they\ntalk[SP]about[SP][1432][NULL][NULL][0014]the[SP]whole[SP]package.[1432][NULL][NULL][0014][1205][U+000F][SP]Though[SP]of\ncourse,[SP]the[SP]same[SP]could[SP]be[SP]said[SP]about[SP]me.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Elly doit être celle à qui ils font référence lorsqu'\nil parle de[1432][NULL][NULL][0014]l'idéale.[1432][NULL][NULL][0014][1205][U+000F]Même si  \névidemment on peut dire la même chose de moi."
+    "texte_fr": "Elly doit être celle à qui ils font référence lorsqu'\nil parle de[1432][NULL][NULL][0014]l'idéale.[1432][NULL][NULL][0014][1205][U+000F]Même si\n on peut dire la même chose de moi."
   },
   {
     "id": 3,
@@ -47,7 +47,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Oh![1205][U+000A][SP]Elly-san[SP]came[SP]too...[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nElly-san's[SP]the[SP]best.[SP]She's[SP]so[SP]pretty,[SP]and\nstrong,[SP]and[SP]smart...[1205][U+000F][SP]I[SP]want[SP]to[SP]be[SP]like[SP]her.",
     "nom_fr": "Ginko",
-    "texte_fr": "Oh![1205][U+000A]Elly est venue aussi...[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nElly est la meilleure.Elle est si belle,\nforte et intelligente...[1205][U+000F]Je veux être comme elle."
+    "texte_fr": "Oh![1205][U+000A]Elly est venue...[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nElly est la meilleure.Elle est belle,\nforte et intelligente..[1205][U+000F]Je veux être comme elle."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Ah,[SP]she[SP]must've[SP]come[SP]to[SP]save[SP]the[SP]students[SP]at\nSevens.[1205][U+000F][SP]Thank[SP]goodness...[SP]Everyone[SP]seems[SP]to\nbe[SP]okay[SP]here.",
     "nom_fr": "Maya",
-    "texte_fr": "Ah,elle a du venir pour sauver les élèves de\nSevens.[1205][U+000F]Dieu merci..Tout le monde semble\naller bien là-bas."
+    "texte_fr": "Ah,elle a du venir sauver les élèves de\nSevens.[1205][U+000F]Dieu merci..Tout le monde semble\naller bien là-bas."
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
     "nom_orig": "Jun",
     "texte_orig": "How[SP]strange...[1205][U+000F][SP]I[SP]feel[SP]like[SP]I[SP]know[SP]her[SP]very\nwell[SP]already.[1205][U+000F][SP]Could[SP]this[SP]be[SP]another[SP]effect\nof[SP]Yukino-san's[SP]Persona...?",
     "nom_fr": "Jun",
-    "texte_fr": "C'est bizzare...[1205][U+000F]J'ai l'impression de déja\nbien la connaître.[1205][U+000F]Est ce que cela pourrait être un\neffet de la Persona de Yukino?"
+    "texte_fr": "C'est bizzare..[1205][U+000F]J'ai l'impression de \ndéjà la connaître.[1205][U+000F]Est ce que cela peut être\nlié à la Persona de Yukino?"
   },
   {
     "id": 9,
@@ -97,7 +97,7 @@
     "nom_orig": "Elly",
     "texte_orig": "You're[SP]all[SP]safe![1205][U+000A][SP]I[SP]had[SP]heard[SP]that[SP]the[SP]Last\nBattalion[SP]invaded[SP]this[SP]school,[SP]so[SP]I[SP]rushed\nhere[SP]straight[SP]away.",
     "nom_fr": "Elly",
-    "texte_fr": "Vous êtes tous sain et sauf![1205][U+000A]J'ai compris que le  \nBataillon avait envahi l'école,donc\nj'ai foncé ici le plus vite que j'ai pu."
+    "texte_fr": "Vous êtes tous en vie![1205][U+000A]J'ai compris que le  \nBataillon a envahi l'école,donc\nj'ai foncé ici au plus vite."
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "nom_orig": "Elly",
     "texte_orig": "I[SP]have[SP]a[SP]fairly[SP]good[SP]sense[SP]of[SP]what's[SP]going[SP]on.\nI[SP]suggest[SP]you[SP]leave[SP]the[SP]school[SP]to[SP]us[SP]and[SP]go\nrescue[SP]the[SP]kidnapped[SP]teacher.",
     "nom_fr": "Elly",
-    "texte_fr": "J'ai une bonne compréhension globale de la situation.\nJe vous suggère de nous laisser l'école et  \naller secourir la prof kidnapée."
+    "texte_fr": "J'ai une bonne compréhension de la situation.\nJe vous suggère de nous laisser l'école et\naller secourir la prof kidnapée."
   },
   {
     "id": 11,
@@ -117,7 +117,7 @@
     "nom_orig": "Elly",
     "texte_orig": "Whew...[SP]It's[SP]been[SP]some[SP]time[SP]since[SP]a[SP]battle[SP]made\nme[SP]sweat[SP]that[SP]way.[1205][U+000A][SP]It's[SP]fortunate[SP]I[SP]stopped[SP]by\nthe[SP]Velvet[SP]Room[SP]beforehand.[1205][U+000F][SP]Are[SP]you[SP]all[SP]okay?",
     "nom_fr": "Elly",
-    "texte_fr": "Fiou..ça faisait longtemps qu'un combat m'a\nfait transpirer autant.[1205][U+000A]Hereusement que je suis passé par la\nchambre de velours avant de venir.[1205][U+000F]Est ce que tout le monde va bien?"
+    "texte_fr": "Fiou..ça faisait longtemp qu'un combat m'a\nfait transpirer autant.[1205][U+000A]Hereusement,j'ai été à la\nchambre de velours avant.[1205][U+000F]Tout le monde va bien?"
   },
   {
     "id": 12,
@@ -127,7 +127,7 @@
     "nom_orig": "Elly",
     "texte_orig": "That[SP]reminds[SP]me,[SP]have[SP]you[SP]met[SP]Brown[SP]and\nMaki[SP]yet?",
     "nom_fr": "Elly",
-    "texte_fr": "Ca me fait penser,est ce que vous avez vus Brown\net Maki?"
+    "texte_fr": "Ça me fait penser,vous avez vus Brown\net Maki?"
   },
   {
     "id": 13,
@@ -137,7 +137,7 @@
     "nom_orig": "Elly",
     "texte_orig": "We[SP]all[SP]came[SP]here[SP]together,[SP]so[SP]I[SP]expect[SP]they're\nsomewhere[SP]in[SP]the[SP]school.",
     "nom_fr": "Elly",
-    "texte_fr": "On est venu ici ensemble,donc je suppose qu'ils sont\nquelque part dans l'école."
+    "texte_fr": "On est venu ici ensemble,je suppose qu'ils sont\ndans l'école."
   },
   {
     "id": 14,
@@ -147,7 +147,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "If...[1205][U+0008][SP]If[SP]that[SP]lady[SP]hadn't[SP]come,[SP]wh-who[SP]knows\nwhat[SP]would've[SP]happened[SP]to[SP]us...[1205][U+000F][SP]Y-You[SP]have[SP]no\nidea[SP]how[SP]grateful[SP]I[SP]am[SP]for[SP]her!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Si...[1205][U+0008]Si cette femme n'était pas venue,q-qui sait ce\nqui aurait pu nous arriver..[1205][U+000F]V-Vous n'avez pas idée à quel point je lui suis reconnaisant!"
+    "texte_fr": "Si..[1205][U+0008]Si cette femme n'était pas venue,q-qui sait ce\nqui aurait pu nous arriver..[1205][U+000F]Vous n'avez pas idée, je lui dois la vie"
   },
   {
     "id": 15,
@@ -167,7 +167,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "The[SP]next[SP]issue[SP]of[SP]the[SP]Seven[SP]Sisters[SP]Times[SP]will\nbe[SP]about[SP]the[SP]mysterious[SP]beauty[SP]who[SP]drove[SP]off\nthe[SP]evil[SP]Last[SP]Battalion![1205][U+000F][SP]This[SP]is[SP]GOLD!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Le prochain numéro du Times des Seven Sisters aura pour sujet\nla mystérieuse beauté qui a fait fuir le mal que représente le Bataillon.[1205][U+000F]C'est de l'OR!"
+    "texte_fr": "Le prochain numéro du Times des Seven Sisters aura pour sujet\nla mystérieuse beauté qui a fait fuir le Bataillon.[1205][U+000F]C'est de l'OR!"
   },
   {
     "id": 17,
@@ -177,7 +177,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Oh![1205][U+000A][SP]You[SP]found[SP]Kozy-senpai?[1205][U+000F][SP]That's[SP]great[SP]news.\nWe[SP]were[SP]getting[SP]worried,[SP]since[SP]none[SP]of[SP]us\ncould[SP]reach[SP]her.",
     "nom_fr": "Lycéen",
-    "texte_fr": "Oh![1205][U+000A]Vous avez trouvés Kozy ?[1205][U+000F]C'est une bonne nouvelle.\nOn commençait à s'inquiéter,vu qu'aucun de nous\nn'arrivait à la joindre."
+    "texte_fr": "Oh![1205][U+000A]Vous avez trouvés Kozy?[1205][U+000F]C'est une bonne nouvelle.\nOn commençait à s'inquiéter,vu qu'on\nn'arrivait à la joindre."
   },
   {
     "id": 18,
@@ -187,6 +187,6 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "She's...[SP]She's[SP]amazing![1205][U+000A][SP]I'm[SP]moved[SP]to[SP]tears...[1205][U+000F]\nShe[SP]defeated[SP]all[SP]those[SP]hooligans[SP]with[SP]one\nyell[SP]of[SP][1432][NULL][NULL][0014]Persona![1432][NULL][NULL][0014][1205][U+000F][SP]But[SP]what's[SP]a[SP]Persona?",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Elle...Elle est géniale![1205][U+000A]Je suis émue jusqu'aux larmes..[1205][U+000F]\nElle a battues tous ses hooligans avec un seul[1432]\ncri[1432][NULL][NULL][0014]:PERSONA![1432][NULL][NULL][0014][1205][U+000F]Mais,c'est quoi une Persona ?"
+    "texte_fr": "Elle est géniale![1205][U+000A]Je suis émue..[1205][U+000F]\nElle a battues tous ses hooligans avec un seul[1432]\ncri[1432][NULL][NULL][0014]:PERSONA![1432][NULL][NULL][0014][1205][U+000F]Mais,c'est quoi une Persona?"
   }
 ]
