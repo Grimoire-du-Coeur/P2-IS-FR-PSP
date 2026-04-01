@@ -87,7 +87,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Remember[SP]how[SP]after[SP]the[SP]disease[SP]cleared[SP]up,\neveryone[SP]at[SP]Sevens[SP]was[SP]talking[SP]about[SP]what[SP]a\ngreat[SP]hero[SP]the[SP]principal[SP]was?[1205][U+000F][SP]It[SP]came[SP]true!",
     "nom_fr": "Maya",
-    "texte_fr": "Rapelle toi après la disparition du virus,\ntout Seven parlait du principal en véritable héros?[1205][U+000F]Je crois que la rumeur est devenue réélle!"
+    "texte_fr": "Souviens-toi, après le virus, tout Seven voyait\nle proviseur en héros ?[1205][U+000F] La rumeur est devenue réalité!"
   },
   {
     "id": 9,
@@ -97,7 +97,7 @@
     "nom_orig": "Maya",
     "texte_orig": "He's[SP]here[SP]too!?[1205][U+000F][SP]But[SP]he[SP]was[SP]in[SP]a[SP]different\nroom[SP]just[SP]a[SP]moment[SP]ago...[1205][U+000F][SP]Did[SP]he[SP]pass[SP]us\nsomewhere...?",
     "nom_fr": "Maya",
-    "texte_fr": "Il est ici?![1205][U+000F]Mais il sortait d'une autre\npièce il y a peu[1205][U+000F]Est ce qu'il nous a dépassé à un\nmoment?"
+    "texte_fr": "Il est là?![1205][U+000F]Mais il était ailleurs il y\na un instant...[1205][U+000F]Est-ce qu'il nous a dépassés?"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "nom_orig": "Maya",
     "texte_orig": "There's[SP]no[SP]doubt[SP]they[SP]took[SP]Ms.[SP]Ideal[SP]to[SP]the\nSilver[SP]River[SP]from[SP]the[SP]courtyard.[1205][U+000F][SP]Let's[SP]leave\nSevens[SP]to[SP]the[SP]principal[SP]and[SP]hurry[SP]after[SP]her.",
     "nom_fr": "Maya",
-    "texte_fr": "Il n'y a aucun doute,ils ont amenés Mme.Ideal à la Rivière Argenté par la cour.[1205][U+000F]On a qu'à laissé\nSeven au principal et foncer la rattraper."
+    "texte_fr": "C'est sûr, ils ont emmené Mme Ideal à la\nRivière d'Argent.[1205][U+000F] Laisse Seven au proviseur et fonce!"
   },
   {
     "id": 11,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Once[SP]we're[SP]sure[SP]we're[SP]ready,[SP]let's[SP]hurry[SP]to\nXibalba.[SP]We[SP]don't[SP]have[SP]much[SP]time[SP]left!",
     "nom_fr": "Maya",
-    "texte_fr": "Une fois prêt, on doit se dépêcher pour aller à\nXibalba.On a pas de temps à perdre!"
+    "texte_fr": "Une fois prêts, direction Xibalba.\nOn n'a plus de temps à perdre!"
   },
   {
     "id": 12,
@@ -127,7 +127,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Granted,[SP]you're[SP]the[SP]one[SP]who[SP]decides[SP]your[SP]own\npath[SP]in[SP]life.[1205][U+000F][SP]But[SP]your[SP]journey[SP]down[SP]that[SP]path\nis[SP]supported[SP]by[SP]many[SP]other[SP]people.",
     "nom_fr": "Jun",
-    "texte_fr": "Je l'admets,nous seul pouvont décider de notre vie[1205][U+000F]Mais la voie que l'on emprunte, n'est pas solitaire,\non est aidé par des personnes afin de la suivre"
+    "texte_fr": "On décide seul de sa vie,[1205][U+000F] mais d'autres nous\nsoutiennent tout au long du chemin."
   },
   {
     "id": 13,
@@ -177,7 +177,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "A[SP]pure[SP]body[SP]houses[SP]a[SP]pure[SP]mind,[SP]and[SP]a[SP]pure[SP]mind\nhouses[SP]a[SP]pure[SP]Persona![1205][U+000F][SP]You're[SP]ten[SP]years[SP]too\nearly[SP]to[SP]face[SP]me!",
     "nom_fr": "Principal Hanya",
-    "texte_fr": "Un esprit pur et un corps pur,un esprit pur\ncontient une Persona pure![1205][U+000F]Tu es arrivé bien trop tôt pour\nme faire face!"
+    "texte_fr": "Un esprit pur dans un corps pur crée une Persona\npure ![1205][U+000F] Tu n'es pas de taille face à moi!"
   },
   {
     "id": 18,
@@ -197,7 +197,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Well?[1205][U+0008][SP]What[SP]are[SP]you[SP]waiting[SP]for?[1205][U+000A][SP]Don't[SP]worry\nabout[SP]Sevens.[SP]Hurry[SP]and[SP]save[SP]Ms.[SP]Okamura!",
     "nom_fr": "Principal Hanya",
-    "texte_fr": "Alors?[1205][U+000F]Pourquoi vous restez la?[1205][U+000F]Ne vous inquiètez\npas pour Seven.Vite,sauvez Mme.Okamura!"
+    "texte_fr": "Alors ?[1205][U+000F] Qu'attendez-vous ?[1205][U+000F]\nOubliez Seven et sauvez vite Mme Okamura!"
   },
   {
     "id": 20,
@@ -247,6 +247,6 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "*sniff*[1205][U+000A][SP]I[SP]can[SP]hardly[SP]see[SP]through[SP]my[SP]tears...[1205][U+000F]\nI[SP]can't[SP]believe[SP]the[SP]principal[SP]saved[SP]us[SP]again![1205][U+000F]\nOh,[SP]Principal...[SP]I'm[SP]so[SP]glad[SP]you're[SP]safe...!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "*snif*[1205][U+000A]Je ne vois pas à travers mes larmes..[1205][U+000F]\nJe n'y crois pas, le proviseur nous a sauvés![1205][U+000F]\nOh, Proviseur je suis si hereuse de vous savoir en vie!"
+    "texte_fr": "*snif*[1205][U+000A]Mes larmes me troublent la vue...[1205][U+000F]\nLe proviseur nous a sauvés![1205][U+000F]\nMonsieur, je suis ravie que vous soyez en vie!"
   }
 ]
