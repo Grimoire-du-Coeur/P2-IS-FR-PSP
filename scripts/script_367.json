@@ -7,7 +7,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Yeesh,[SP]it[SP]costs[SP]this[SP]much[SP]for[SP]the[SP]fabric[SP]alone?\nTailor-made[SP]stuff[SP]sure[SP]costs[SP]a[SP]lot...[1205][U+000F][SP]Even[SP]I\ncan[SP]only[SP]dream[SP]of[SP]buying[SP]this[SP]stuff.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Houlà, ça coûte autant rien que pour le tissu ?\nLes vêtements sur mesure, c'est vraiment cher...[1205][U+000F]\nMême moi je peux juste en rêver."
+    "texte_fr": "Houlà, ça coûte autant rien que pour le tissu?\nLes vêtements sur mesure, c'est cher...[1205][U+000F]\nMême moi je peux juste en rêver."
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What[SP]the[SP]hell[SP]happened[SP]to[SP]him?[1205][U+000F][SP]He[SP]seems[SP]like\nhe's[SP]in[SP]a[SP]rough[SP]spot...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Qu'est-ce qui lui est arrivé?[1205][U+000F] Il a l'air\nd'être dans une sale situation..."
+    "texte_fr": "Qu'est-ce qui lui est arrivé?[1205][U+000F]\nIl a l'air dans une sale passe..."
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "If[SP]rumors[SP]can[SP]change[SP]your[SP]personality...[SP]then\nwhat[SP]happens[SP]to[SP]your[SP]actual[SP]self?[SP]Can[SP]rumors\nsteal[SP]that[SP]from[SP]you[SP]too...?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Si les rumeurs peuvent changer une personnalité...\nqu'arrive-t-il à votre vrai vous? Les rumeurs\npeuvent aussi vous le voler...?"
+    "texte_fr": "Si les rumeurs peuvent changer une personnalité,\nqu'arrive-t-il au vrai soi?\nElles peuvent aussi vous le voler...?"
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]Ixquic[SP]kid[SP]doesn't[SP]seem[SP]like[SP]she'll[SP]give\nup[SP]so[SP]easy.[SP]We[SP]should[SP]keep[SP]an[SP]eye[SP]out[SP]for[SP]her,\njust[SP]in[SP]case.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Cette gamine Ixquic n'a pas l'air du genre\nà lâcher facilement. On devrait garder un œil\nsur elle, au cas où."
+    "texte_fr": "Cette Ixquic n'a pas l'air du genre\nà lâcher. On devrait garder un œil\nsur elle."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "H-Hey,[SP]isn't[SP]that[SP]guy[SP]over[SP]there[SP]in[SP]the[SP]Masked\nCircle?[SP][1432][NULL][NULL][0014]New[SP]executive[1432][NULL][NULL][0014]?[SP]What's[SP]he[SP]mean?",
     "nom_fr": "Eikichi",
-    "texte_fr": "H-Hey, ce type là-bas, il est dans le Cercle\nMasqué? [1432][NULL][NULL][0014]Nouveau dirigeant[1432][NULL][NULL][0014]? Ça veut dire quoi?"
+    "texte_fr": "H-Hey, ce type là-bas est dans le Cercle\nMasqué? [1432][NULL][NULL][0014]Nouveau dirigeant[1432][NULL][NULL][0014]? Ça veut dire quoi?"
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]can't[SP]believe[SP]the[SP]chaos[SP]the[SP]Masked[SP]Circle\ncaused[SP]ended[SP]up[SP]helping[SP]the[SP]Last[SP]Battalion.\nPretty[SP]ironic,[SP]huh?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je n'arrive pas à croire que le chaos causé par\nle Cercle Masqué a fini par aider le Dernier Bataillon.\nAssez ironique, non?"
+    "texte_fr": "Le chaos du Cercle Masqué a aidé\nle Dernier Bataillon.\nAssez ironique, non?"
   },
   {
     "id": 7,
@@ -107,7 +107,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Ixquic,[SP]was[SP]it?[SP]I[SP]didn't[SP]know[SP]the[SP]Masked[SP]Circle\nlet[SP]kids[SP]sign[SP]up.[SP]What[SP]a[SP]strange[SP]group...",
     "nom_fr": "Ginko",
-    "texte_fr": "Ixquic, c'est ça? Je savais pas que le Cercle\nMasqué acceptait des enfants. Quel groupe bizarre..."
+    "texte_fr": "Ixquic, c'est ça? Je savais pas que le Cercle\nMasqué acceptait des gamins. Quel groupe bizarre..."
   },
   {
     "id": 11,
@@ -117,7 +117,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]did[SP]you[SP]catch[SP]what[SP]that[SP]artist[SP]was[SP]saying?\nI[SP]wonder[SP]how[SP]they're[SP]drawing[SP]us...[SP]I'm[SP]getting\nkind[SP]of[SP]worried[SP]now.",
     "nom_fr": "Ginko",
-    "texte_fr": "Hé, tu as entendu ce que disait cet artiste?\nJe me demande comment ils nous dessinent...\nÇa commence à m'inquiéter."
+    "texte_fr": "Hé, tu as entendu cet artiste?\nJe me demande comment ils nous dessinent...\nÇa m'inquiète."
   },
   {
     "id": 12,
@@ -127,7 +127,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "That[SP]guy's[SP]in[SP]the[SP]Masked[SP]Circle,[SP]right?\nDoes[SP]that[SP]mean[SP]there's[SP]already[SP]someone\nreplacing[SP]King[SP]Leo?[SP]No...[SP]That's[SP]too[SP]soon...",
     "nom_fr": "Ginko",
-    "texte_fr": "Ce type est dans le Cercle Masqué, non?\nÇa veut dire qu'il y a déjà quelqu'un pour\nremplacer King Leo? Non... C'est trop tôt..."
+    "texte_fr": "Ce type est dans le Cercle Masqué?\nDéjà un remplaçant pour King Leo?\nNon... C'est trop tôt..."
   },
   {
     "id": 13,
@@ -157,7 +157,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hahaha...[SP]That[SP]Yukki...[1205][U+000F][SP]I[SP]don't[SP]think[SP]she's\nthe[SP]type[SP]to[SP]keep[SP]anything[SP]secret.[SP]Though[SP]I'm\nhardly[SP]one[SP]to[SP]talk...",
     "nom_fr": "Maya",
-    "texte_fr": "Hahaha... Cette Yukki...[1205][U+000F] Je pense pas qu'elle\nsoit du genre à garder des secrets. Bien que\nje sois mal placée pour le dire..."
+    "texte_fr": "Hahaha... Cette Yukki...[1205][U+000F] Pas du genre\nà garder des secrets. Bien que je sois\nmal placée pour le dire..."
   },
   {
     "id": 16,
@@ -167,7 +167,7 @@
     "nom_orig": "Maya",
     "texte_orig": "People[SP]think[SP]the[SP]Masked[SP]Circle[SP]were[SP]the\nterrorists.[SP]So[SP]rumors[SP]spread[SP]that[SP]they[SP]were\ndangerous,[SP]and[SP]then[SP]they[SP]came[SP]true...",
     "nom_fr": "Maya",
-    "texte_fr": "Les gens pensent que le Cercle Masqué était\nles terroristes. Alors des rumeurs ont dit\nqu'ils étaient dangereux, et elles sont devenues vraies..."
+    "texte_fr": "Les gens pensent que le Cercle Masqué était\nles terroristes. Des rumeurs ont dit qu'ils\nétaient dangereux, et c'est devenu vrai..."
   },
   {
     "id": 17,
@@ -187,7 +187,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Rumors[SP]are[SP]changing[SP]reality[SP]almost[SP]too[SP]fast\nto[SP]follow.[SP]But[SP]if[SP]we[SP]can[SP]get[SP]at[SP]the[SP]root[SP]of[SP]it,\nmaybe[SP]we[SP]can[SP]turn[SP]everyone[SP]back[SP]to[SP]normal.",
     "nom_fr": "Maya",
-    "texte_fr": "Les rumeurs changent la réalité presque trop\nvite pour suivre. Mais si on trouve la source,\non pourra peut-être tout ramener à la normale."
+    "texte_fr": "Les rumeurs changent la réalité trop vite.\nMais si on trouve la source, on pourra\ntout ramener à la normale."
   },
   {
     "id": 19,
@@ -197,7 +197,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Come[SP]on,[SP]let's[SP]think[SP]positive![1205][U+000F][SP]No[SP]matter[SP]how\nbad[SP]things[SP]get,[SP]we[SP]can't[SP]be[SP]pessimistic.",
     "nom_fr": "Maya",
-    "texte_fr": "Allez, pensons positif![1205][U+000F] Peu importe à\nquel point les choses vont mal, on ne peut\npas être pessimistes."
+    "texte_fr": "Pensons positif![1205][U+000F] Peu importe\nà quel point les choses vont mal,\npas question d'être pessimistes."
   },
   {
     "id": 20,
@@ -207,7 +207,7 @@
     "nom_orig": "Maya",
     "texte_orig": "A[SP]moment[SP]of[SP]hesitation[SP]or[SP]worry[SP]may[SP]create\na[SP]false[SP]ideal.",
     "nom_fr": "Maya",
-    "texte_fr": "Un moment d'hésitation ou d'inquiétude\npeut créer un faux idéal."
+    "texte_fr": "Un moment d'hésitation\npeut créer un faux idéal."
   },
   {
     "id": 21,
@@ -217,7 +217,7 @@
     "nom_orig": "Maya",
     "texte_orig": "But[SP]Joker[SP]isn't[SP]particular.[SP]He'll[SP]grant[SP]even\nthose[SP]ideals.",
     "nom_fr": "Maya",
-    "texte_fr": "Mais Joker n'est pas difficile. Il exaucera\nmême ces idéaux-là."
+    "texte_fr": "Mais Joker n'est pas difficile.\nIl exaucera même ces idéaux."
   },
   {
     "id": 22,
@@ -227,7 +227,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]feel[SP]that's[SP]what's[SP]causing[SP]all[SP]these\nterrible[SP]tragedies...",
     "nom_fr": "Maya",
-    "texte_fr": "Je pense que c'est ce qui cause\ntoutes ces terribles tragédies..."
+    "texte_fr": "Je pense que c'est ce qui cause\ntoutes ces tragédies..."
   },
   {
     "id": 23,
@@ -237,7 +237,7 @@
     "nom_orig": "Maya",
     "texte_orig": "As[SP]long[SP]as[SP]humans[SP]retain[SP]their[SP]humanity,[SP]the\nMasked[SP]Circle[SP]will[SP]never[SP]go[SP]away.[SP]We[SP]can\nrecruit[SP]more[SP]and[SP]more[SP]executives.",
     "nom_fr": "Maya",
-    "texte_fr": "Tant que les humains garderont leur humanité,\nle Cercle Masqué ne disparaîtra jamais.\nIls peuvent recruter de plus en plus de nouveau gens."
+    "texte_fr": "Tant que les humains garderont leur humanité,\nle Cercle Masqué ne disparaîtra pas.\nIls recrutent toujours plus de monde."
   },
   {
     "id": 24,
@@ -247,7 +247,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It[SP]was[SP]humans,[SP]after[SP]all,[SP]who[SP]gave[SP]birth[SP]to\nthe[SP]Masked[SP]Circle...[SP]and[SP]its[SP]new[SP]executive...[1205][U+000F]\nHeh.",
     "nom_fr": "Maya",
-    "texte_fr": "C'est bien les humains, après tout, qui ont\ndonné naissance au Cercle Masqué... et à son\nnouveau dirigeant...[1205][U+000F] Heh."
+    "texte_fr": "Ce sont bien les humains qui ont créé\nle Cercle Masqué... et son nouveau dirigeant...[1205][U+000F]\nHeh."
   },
   {
     "id": 25,
@@ -257,7 +257,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I've[SP]been[SP]wondering...[SP]That[SP]army[SP]is[SP]so[SP]huge,\nthey[SP]must[SP]have[SP]a[SP]leader,[SP]right?",
     "nom_fr": "Maya",
-    "texte_fr": "Je me demandais... Cette armée est si grande,\nils doivent bien avoir un chef, non?"
+    "texte_fr": "Je me demandais... Cette armée est énorme,\nils ont bien un chef, non?"
   },
   {
     "id": 26,
@@ -277,7 +277,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Did[SP]you[SP]hear[SP]what[SP]Maya[SP]said?[SP]That[SP]was[SP]just[SP]an\nexaggerated[SP]slogan.[SP]Who[SP]knows[SP]what[SP]people[SP]will\nturn[SP]into[SP]rumors[SP]next?",
     "nom_fr": "Yukino",
-    "texte_fr": "Vous avez entendu Maya? C'était juste un\nslogan exagéré. Qui sait ce que les gens vont\nfaire circuler comme rumeur ensuite?"
+    "texte_fr": "Vous avez entendu Maya? Un slogan\nexagéré. Qui sait ce qu'on va\nfaire circuler comme rumeur ensuite?"
   },
   {
     "id": 28,
@@ -287,7 +287,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Maybe[SP]I[SP]should[SP]make[SP]him[SP]some[SP]clothes[SP]here[SP]and\ngive[SP]'em[SP]to[SP]him...[1205][U+000F][SP]Oh,[SP]but[SP]I[SP]don't[SP]know[SP]his\nsize.[1205][U+000F][SP]And[SP]if[SP]I[SP]ask,[SP]he'll[SP]know...[1205][U+000F][SP]Hmmm...",
     "nom_fr": "Yukino",
-    "texte_fr": "Je devrais peut-être lui faire des vêtements ici\net les lui offrir...[1205][U+000F] Oh, mais je ne connais pas\nsa taille.[1205][U+000F] Et si je demande, il saura...[1205][U+000F] Hmmm..."
+    "texte_fr": "Je devrais lui faire des habits ici\net les lui offrir...[1205][U+000F] Mais je ne connais pas\nsa taille.[1205][U+000F] Et si je demande, il saura...[1205][U+000F] Hmmm..."
   },
   {
     "id": 29,
@@ -307,7 +307,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "But...[SP]This[SP]is[SP]none[SP]of[SP]their[SP]fault[SP]except\nKing[SP]Leo's!",
     "nom_fr": "Yukino",
-    "texte_fr": "Mais... Ce n'est la faute de personne\nsauf de King Leo!"
+    "texte_fr": "Mais... C'est la faute\nde King Leo, pas la leur!"
   },
   {
     "id": 31,
@@ -327,7 +327,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "They[SP]didn't[SP]want[SP]that![SP]Man...[SP]People[SP]sure\nare[SP]clumsy.",
     "nom_fr": "Yukino",
-    "texte_fr": "Ils ne voulaient pas ça! Bon sang...\nLes gens sont vraiment maladroits."
+    "texte_fr": "Ils ne voulaient pas ça!\nLes gens sont maladroits."
   },
   {
     "id": 33,
@@ -347,7 +347,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "A[SP]new[SP]executive[SP]replacing[SP]King[SP]Leo,[SP]huh...?[1205][U+000F]\nFine![SP]They[SP]can[SP]serve[SP]up[SP]all[SP]the[SP]executives\nthey[SP]want,[SP]I'll[SP]turn[SP]'em[SP]all[SP]into[SP]hamburger.",
     "nom_fr": "Yukino",
-    "texte_fr": "Un nouveau dirigeant pour remplacer King Leo, hein...?[1205][U+000F]\nPas de problème! Qu'ils envoient tous les dirigeants\nqu'ils veulent, je les réduirai tous en bouillie."
+    "texte_fr": "Un nouveau dirigeant pour King Leo, hein?[1205][U+000F]\nPas de problème! Qu'ils envoient tous les dirigeants\nqu'ils veulent, je les réduirai en bouillie."
   },
   {
     "id": 35,
@@ -367,7 +367,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "The[SP]damage[SP]might[SP]have[SP]even[SP]been[SP]worse[SP]if\nthey[SP]resisted.",
     "nom_fr": "Yukino",
-    "texte_fr": "Les dégâts auraient peut-être même été pires\ns'ils avaient résisté."
+    "texte_fr": "Les dégâts auraient été pires\ns'ils avaient résisté."
   },
   {
     "id": 37,
@@ -377,7 +377,7 @@
     "nom_orig": "Man[SP]who[SP]became[SP]an[SP]English[SP]gentleman",
     "texte_orig": "I[SP]had[SP]always[SP]wanted[SP]to[SP]live[SP]as[SP]an[SP]English\ngentleman.[SP]I[SP]may[SP]be[SP]an[SP]office[SP]drone,[SP]but[SP]what\ncould[SP]a[SP]little[SP]elegant[SP]living[SP]hurt...?",
     "nom_fr": "Homme devenu gentleman anglais",
-    "texte_fr": "J'avais toujours voulu vivre comme un gentleman\nanglais. Je suis peut-être un simple employé,\nmais un peu de vie élégante ne peut pas faire de mal..."
+    "texte_fr": "J'avais toujours voulu vivre comme un gentleman\nanglais. Je suis un simple employé,\nmais un peu d'élégance ne peut pas faire de mal..."
   },
   {
     "id": 38,
@@ -397,7 +397,7 @@
     "nom_orig": "Man[SP]who[SP]became[SP]an[SP]English[SP]gentleman",
     "texte_orig": "I[SP]thought[SP]I[SP]must[SP]look[SP]the[SP]part[SP]and[SP]so[SP]came[SP]to\nhave[SP]a[SP]classic[SP]coat[SP]made[SP]for[SP]me.",
     "nom_fr": "Homme devenu gentleman anglais",
-    "texte_fr": "J'ai pensé qu'il fallait que j’en aie l’allure,\nalors je suis venu me faire confectionner un manteau classique."
+    "texte_fr": "Il fallait que j'en aie l'allure,\nalors je suis venu me faire\nconfectionner un manteau classique."
   },
   {
     "id": 40,
@@ -407,7 +407,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "What[SP]is[SP]the[SP]matter[SP]with[SP]this[SP]city!?[SP]Bawdy\nscenery![SP]The[SP]neverending[SP]hue[SP]and[SP]cry![SP]How[SP]can\nI[SP]be[SP]expected[SP]to[SP]live[SP]as[SP]an[SP]English[SP]gentleman!?",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "Qu'est-ce qui se passe dans cette ville!?\nDes paysages indécents! Le vacarme incessant!\nComment peut-on vivre comme un gentleman anglais!?"
+    "texte_fr": "Qu'est-ce qui se passe dans cette ville!?\nPaysages indécents! Vacarme incessant!\nComment vivre comme un gentleman anglais!?"
   },
   {
     "id": 41,
@@ -417,7 +417,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "B-But[SP]of[SP]course...[SP]I'll[SP]simply[SP]ask[SP]Joker[SP]to\neliminate[SP]this[SP]entire[SP]city[SP]and[SP]make[SP]it[SP]anew\ninto[SP]a[SP]nation[SP]where[SP]the[SP]Masked[SP]Circle[SP]reigns!",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "M-Mais bien sûr... Je vais simplement demander\nà Joker d'éliminer toute cette ville et d'en faire\nune nation où règne le Cercle Masqué!"
+    "texte_fr": "M-Mais bien sûr... Je vais demander à Joker\nd'éliminer cette ville et d'en faire\nune nation où règne le Cercle Masqué!"
   },
   {
     "id": 42,
@@ -427,7 +427,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Just[SP]who[SP]is[SP]this[SP]Last[SP]Battalion?[1205][U+000F][SP]I've[SP]never\nheard[SP]them[SP]mentioned[SP]in[SP]our[SP]meetings![SP]Are[SP]they\nan[SP]enemy[SP]of[SP]the[SP]Masked[SP]Circle...?",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "C'est qui ce Dernier Bataillon?[1205][U+000F] Je ne les ai\njamais entendus mentionner lors de nos réunions!\nSont-ils un ennemi du Cercle Masqué...?"
+    "texte_fr": "C'est qui ce Bataillon?[1205][U+000F] Jamais\nentendus lors de nos réunions!\nSont-ils ennemis du Cercle Masqué...?"
   },
   {
     "id": 43,
@@ -437,7 +437,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "A[SP]few[SP]children[SP]just[SP]came[SP]through.[SP]I[SP]see...\nThe[SP]five[SP]people[SP]in[SP]the[SP]composite[SP]sketches[SP]are\nheroes[SP]combating[SP]the[SP]Masked[SP]Circle...",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "Quelques enfants viennent de passer. Je vois...\nLes cinq personnes des portraits-robots sont\ndes héros qui combattent le Cercle Masqué..."
+    "texte_fr": "Des enfants viennent de passer. Je vois...\nLes cinq des portraits-robots sont\ndes héros qui combattent le Cercle Masqué..."
   },
   {
     "id": 44,
@@ -447,7 +447,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "...Dash[SP]it[SP]all![SP]That[SP]makes[SP]them[SP]my[SP]enemies!\nHow[SP]dare[SP]they!",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "...Diable! Cela fait d'eux mes ennemis!\nComment osent-ils!"
+    "texte_fr": "...Diable! Ce sont mes ennemis!\nComment osent-ils!"
   },
   {
     "id": 45,
@@ -457,7 +457,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Heheheh...[SP]We[SP]of[SP]the[SP]Masked[SP]Circle[SP]will[SP]come\nout[SP]on[SP]top![SP]Another[SP]member[SP]told[SP]me[SP]that[SP]we[SP]have\na[SP]new[SP]executive.[SP]The[SP]Last[SP]Battalion[SP]will[SP]cower!",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "Héhéhé... Nous du Cercle Masqué allons\nl'emporter! Un autre membre m'a dit qu'on a\nun nouveau dirigeant. Le Dernier Bataillon va trembler!"
+    "texte_fr": "Héhéhé... Le Cercle Masqué va l'emporter!\nUn membre m'a dit qu'on a un nouveau dirigeant.\nLe Bataillon va trembler!"
   },
   {
     "id": 46,
@@ -467,7 +467,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Hahahahaha...[1205][U+000A][SP]Ha?[1205][U+000A][SP]I'm[SP]certain[SP]I've[SP]seen[SP]you\npeople[SP]before...",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "Hahahahahaha...[1205][U+000A] Ha?[1205][U+000A] Je suis certain d'avoir\ndéjà vu ces gens quelque part..."
+    "texte_fr": "Hahahahahaha...[1205][U+000A] Ha?[1205][U+000A] Je suis certain\nd'avoir vu ces gens quelque part..."
   },
   {
     "id": 47,
@@ -477,7 +477,7 @@
     "nom_orig": "Middle-aged[SP]artist",
     "texte_orig": "Have[SP]you[SP]heard[SP]of[SP]the[SP]demon[SP]painter?[SP]He[SP]had\na[SP]talent[SP]for[SP]painting[SP]the[SP]two[SP]extremes[SP]of\ngod[SP]and[SP]demon.",
     "nom_fr": "Artiste d'âge mûr",
-    "texte_fr": "Avez-vous entendu parler du peintre démon?\nIl avait un talent pour peindre les deux extrêmes\ndu dieu et du démon."
+    "texte_fr": "Avez-vous entendu parler du peintre démon?\nIl peignait les deux extrêmes\ndu dieu et du démon."
   },
   {
     "id": 48,
@@ -487,7 +487,7 @@
     "nom_orig": "Middle-aged[SP]artist",
     "texte_orig": "I[SP]was[SP]a[SP]great[SP]admirer[SP]of[SP]his...[1205][U+000F][SP]But[SP]he[SP]went\nmissing[SP]many[SP]decades[SP]ago[SP]and[SP]has[SP]yet[SP]to[SP]be\nheard[SP]from[SP]since.",
     "nom_fr": "Artiste d'âge mûr",
-    "texte_fr": "J'étais un grand admirateur...[1205][U+000F] Mais il a disparu\nil y a plusieurs décennies et on n'a plus\neu de nouvelles depuis."
+    "texte_fr": "J'étais un grand admirateur...[1205][U+000F] Mais il a disparu\nil y a des décennies et on n'a plus\neu de nouvelles."
   },
   {
     "id": 49,
@@ -497,7 +497,7 @@
     "nom_orig": "Middle-aged[SP]artist",
     "texte_orig": "I[SP]heard[SP]the[SP]inhabitants[SP]of[SP]the[SP]netherworld[SP]that\nartist[SP]created[SP]had[SP]souls.",
     "nom_fr": "Artiste d'âge mûr",
-    "texte_fr": "J'ai entendu dire que les habitants du monde\nsouterrain que cet artiste avait créé\navaient des âmes."
+    "texte_fr": "J'ai entendu que les habitants du monde\nsouterrain créé par cet artiste\navaient des âmes."
   },
   {
     "id": 50,
@@ -507,7 +507,7 @@
     "nom_orig": "Middle-aged[SP]artist",
     "texte_orig": "Many[SP]tried[SP]to[SP]get[SP]their[SP]hands[SP]on[SP]his[SP]work,\nbut[SP]he[SP]accepted[SP]no[SP]praise[SP]and[SP]refused[SP]to[SP]put\na[SP]price[SP]tag[SP]on[SP]his[SP]pieces.\n[E3][E4][NULL][NULL]\"Middle-aged[SP]artist\nHe[SP]was[SP]a[SP]noble[SP]and[SP]proud[SP]artist.",
     "nom_fr": "Artiste d'âge mûr",
-    "texte_fr": "Beaucoup ont essayé de mettre la main sur\nson œuvre, mais il refusait les louanges\net refusait de mettre un prix sur ses toiles.\n[E3][E4][NULL][NULL]\"Artiste d'âge mûr\nC'était un artiste noble et fier."
+    "texte_fr": "Beaucoup ont voulu mettre la main sur son œuvre,\nmais il refusait louanges et prix.\n[E3][E4][NULL][NULL]\"Artiste d'âge mûr\nC'était un artiste noble et fier."
   },
   {
     "id": 51,
@@ -517,7 +517,7 @@
     "nom_orig": "Middle-aged[SP]artist",
     "texte_orig": "The[SP]genius[SP]demon[SP]painter...[SP]No[SP]one[SP]knows\nwhat[SP]happened[SP]in[SP]his[SP]last[SP]moments.",
     "nom_fr": "Artiste d'âge mûr",
-    "texte_fr": "Le génie peintre démon... Personne ne sait\nce qui s'est passé lors de ses derniers instants."
+    "texte_fr": "Le génie peintre démon... Personne ne sait\nce qui s'est passé à la fin."
   },
   {
     "id": 52,
@@ -527,7 +527,7 @@
     "nom_orig": "Middle-aged[SP]artist",
     "texte_orig": "He[SP]left[SP]only[SP]one[SP]painting[SP]before[SP]vanishing\nwithout[SP]a[SP]trace.",
     "nom_fr": "Artiste d'âge mûr",
-    "texte_fr": "Il n'a laissé qu'une seule toile avant de\ndisparaître sans laisser de trace."
+    "texte_fr": "Il n'a laissé qu'une toile\navant de disparaître sans trace."
   },
   {
     "id": 53,
@@ -537,7 +537,7 @@
     "nom_orig": "Middle-aged[SP]artist",
     "texte_orig": "His[SP]last[SP]work...[1205][U+000F][SP]It[SP]depicted[SP]a[SP]blue[SP]door\nagainst[SP]a[SP]white[SP]wall.",
     "nom_fr": "Artiste d'âge mûr",
-    "texte_fr": "Sa dernière œuvre...[1205][U+000F] Elle représentait\nune porte bleue sur un mur blanc."
+    "texte_fr": "Sa dernière œuvre...[1205][U+000F] Une porte bleue\nsur un mur blanc."
   },
   {
     "id": 54,
@@ -577,7 +577,7 @@
     "nom_orig": "Middle-aged[SP]artist",
     "texte_orig": "It's[SP]said[SP]that[SP]the[SP]demon[SP]painter[SP]sometimes\nappeared[SP]in[SP]the[SP]dreams[SP]of[SP]superior[SP]artists.\nI[SP]doubt[SP]he's[SP]part[SP]of[SP]the[SP]waking[SP]world[SP]anymore.",
     "nom_fr": "Artiste d'âge mûr",
-    "texte_fr": "On dit que le peintre démon apparaissait parfois\ndans les rêves des artistes supérieurs.\nJe doute qu'il fasse encore partie du monde éveillé."
+    "texte_fr": "On dit que le peintre démon apparaissait\ndans les rêves des artistes supérieurs.\nJe doute qu'il soit encore dans le monde éveillé."
   },
   {
     "id": 58,
@@ -587,7 +587,7 @@
     "nom_orig": "Middle-aged[SP]artist",
     "texte_orig": "The[SP]person[SP]who[SP]was[SP]just[SP]there[SP]abruptly[SP]said[SP]he\nwould[SP]defeat[SP]the[SP]Last[SP]Battalion[SP]and[SP]left.\nHe[SP]said[SP]he'd[SP]been[SP]ordered[SP]to[SP]by[SP]Joker...",
     "nom_fr": "Artiste d'âge mûr",
-    "texte_fr": "La personne qui était là vient de dire brusquement\nqu'elle allait vaincre le Dernier Bataillon et est partie.\nElle a dit avoir reçu l'ordre de Joker..."
+    "texte_fr": "La personne là vient de dire qu'elle allait\nvaincre le Bataillon et est partie.\nOrdre de Joker..."
   },
   {
     "id": 59,
@@ -597,7 +597,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "Welcome[SP]to[SP]London[SP]Clothier,[SP]inheritor[SP]of[SP]the\nfinest[SP]traditions[SP]of[SP]England.\n[U+1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]tailor\nNever[SP]mind\nLeave\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nWhat[SP]have[SP]you[SP]to[SP]offer[SP]me?\n[U+1208][U+0007][U+111F][U+1210]ĀUndisplayed[SP]selection\n[U+111F]Sell[SP]items\n[U+111F]Sell[SP]weapons\n[U+111F][U+1210]ĀSell[SP]head[SP]armor\n[U+111F]Sell[SP]armor\n[U+111F][U+1210]ĀSell[SP]leg[SP]armor\n[U+111F]Sell[SP]accessories\n[U+1109][E2][U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nYes?[SP]What's[SP]on[SP]your[SP]mind?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][U+121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][U+121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
     "nom_fr": "Tailleur",
-    "texte_fr": "Bienvenue chez London Clothier, héritier des\nplus fines traditions d'Angleterre.\n[U+1208][U+0005]Acheter des armures\nVendre des objets\nParler au tailleur\nLaisser tomber\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailleur\nQu'avez-vous à me proposer?\n[U+1208][U+0007][U+111F][U+1210]ĀSélection non affichée\n[U+111F]Vendre des objets\n[U+111F]Vendre des armes\n[U+111F][U+1210]ĀVendre armure de tête\n[U+111F]Vendre des armures\n[U+111F][U+1210]ĀVendre armure de jambes\n[U+111F]Vendre des accessoires\n[U+1109][E2][U+1109][E2][E3][E4][NULL][NULL]\"Tailleur\nOui? De quoi voulez-vous parler?\n[U+1208][U+0003]Parler\nRenseignements sur les achats\n[U+1210]ĀSélection non affichée\n[U+1109][E2][E3][U+121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Veuillez vérifier.\n-Kanada[E1][E2][E3][U+121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Veuillez vérifier.\n-Kanada"
+    "texte_fr": "Bienvenue chez London Clothier, héritier des\nplus fines traditions d'Angleterre.\n[U+1208][U+0005]Acheter des armures\nVendre des objets\nParler au tailleur\nLaisser tomber\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailleur\nQu'avez-vous à vendre?\n[U+1208][U+0007][U+111F][U+1210]ĀSélection non affichée\n[U+111F]Vendre des objets\n[U+111F]Vendre des armes\n[U+111F][U+1210]ĀVendre armure de tête\n[U+111F]Vendre des armures\n[U+111F][U+1210]ĀVendre armure de jambes\n[U+111F]Vendre des accessoires\n[U+1109][E2][U+1109][E2][E3][E4][NULL][NULL]\"Tailleur\nOui? De quoi parlez-vous?\n[U+1208][U+0003]Parler\nRenseignements achats\n[U+1210]ĀSélection non affichée\n[U+1109][E2][E3][U+121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit. Vérifiez.\n-Kanada[E1][E2][E3][U+121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit. Vérifiez.\n-Kanada"
   },
   {
     "id": 60,
@@ -607,7 +607,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "If[SP]I[SP]can[SP]help[SP]you[SP]with[SP]anything[SP]else[SP]at[SP]all,\nplease[SP]don't[SP]hesitate[SP]to[SP]ask.\n[U+1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]tailor\nNever[SP]mind\nLeave\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nWhat[SP]have[SP]you[SP]to[SP]offer[SP]me?\n[U+1208][U+0007][U+111F][U+1210]ĀUndisplayed[SP]selection\n[U+111F]Sell[SP]items\n[U+111F]Sell[SP]weapons\n[U+111F][U+1210]ĀSell[SP]head[SP]armor\n[U+111F]Sell[SP]armor\n[U+111F][U+1210]ĀSell[SP]leg[SP]armor\n[U+111F]Sell[SP]accessories\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nYes?[SP]What's[SP]on[SP]your[SP]mind?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nAh![SP]What[SP]a[SP]young[SP]customer![SP]Oh,[SP]pardon[SP]me,\nI[SP]didn't[SP]mean[SP]it[SP]that[SP]way.",
     "nom_fr": "Tailleur",
-    "texte_fr": "Si je puis vous être utile en quoi que ce soit,\nn'hésitez pas à me le faire savoir.\n[U+1208][U+0005]Acheter des armures\nVendre des objets\nParler au tailleur\nLaisser tomber\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailleur\nQu'avez-vous à me proposer?\n[U+1208][U+0007][U+111F][U+1210]ĀSélection non affichée\n[U+111F]Vendre des objets\n[U+111F]Vendre des armes\n[U+111F][U+1210]ĀVendre armure de tête\n[U+111F]Vendre des armures\n[U+111F][U+1210]ĀVendre armure de jambes\n[U+111F]Vendre des accessoires\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailleur\nOui? De quoi voulez-vous parler?\n[U+1208][U+0003]Parler\nRenseignements sur les achats\n[U+1210]ĀSélection non affichée\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailleur\nAh! Quel jeune client! Oh, pardonnez-moi,\nje ne voulais pas dire ça de cette façon."
+    "texte_fr": "Si je puis vous être utile, n'hésitez pas.\n[U+1208][U+0005]Acheter des armures\nVendre des objets\nParler au tailleur\nLaisser tomber\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailleur\nQu'avez-vous à vendre?\n[U+1208][U+0007][U+111F][U+1210]ĀSélection non affichée\n[U+111F]Vendre des objets\n[U+111F]Vendre des armes\n[U+111F][U+1210]ĀVendre armure de tête\n[U+111F]Vendre des armures\n[U+111F][U+1210]ĀVendre armure de jambes\n[U+111F]Vendre des accessoires\n[U+1109][E2][E3][E4][NULL][NULL]"Tailleur\nOui? De quoi parlez-vous?\n[U+1208][U+0003]Parler\nRenseignements achats\n[U+1210]ĀSélection non affichée\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailleur\nAh! Quel jeune client! Oh, pardon,\nce n'est pas ce que je voulais dire."
   },
   {
     "id": 61,
@@ -617,7 +617,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "But[SP]made-to-order[SP]outfits[SP]like[SP]ours[U+1121]are[SP]perceived\nas[SP]quite[SP]expensive.[SP]So[SP]our[SP]clientele[SP]runs[SP]older...",
     "nom_fr": "Tailleur",
-    "texte_fr": "Mais les tenues sur mesure comme les nôtres[U+1121]sont\nperçues comme assez chères. Notre clientèle\nest donc plutôt âgée..."
+    "texte_fr": "Mais nos tenues sur mesure[U+1121]sont perçues\ncomme chères. Notre clientèle\nest donc plutôt âgée..."
   },
   {
     "id": 62,
@@ -627,7 +627,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "The[SP]highest[SP]quality,[SP]that[SP]hand-made[SP]touch,\nand[SP]careful[SP]attention[SP]to[SP]the[SP]details[SP]our\ncustomers[SP]request[SP]are[SP]our[SP]bywords.",
     "nom_fr": "Tailleur",
-    "texte_fr": "La plus haute qualité, la touche artisanale\net l'attention soignée aux détails demandés\npar nos clients sont nos maîtres-mots."
+    "texte_fr": "La plus haute qualité, touche artisanale\net attention aux détails demandés\npar nos clients sont nos maîtres-mots."
   },
   {
     "id": 63,
@@ -647,7 +647,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "I'm[SP]surprised[SP]these[SP]terrorists[SP]are[SP]targeting\nour[SP]fair[SP]city.[SP]Rumor[SP]is,[SP]it[SP]was[SP]these[SP][1432][NULL][NULL][0014]Masked\nCircle[1432][NULL][NULL][0014][SP]beasts...[1205][U+000F][SP]There's[SP]one[SP]in[SP]every[SP]nation.",
     "nom_fr": "Tailleur",
-    "texte_fr": "Je suis surpris que ces terroristes ciblent\nnotre belle ville. La rumeur dit que c'était\nces [1432][NULL][NULL][0014]Cercle Masqué[1432][NULL][NULL][0014]...[1205][U+000F] Il y en a dans chaque nation."
+    "texte_fr": "Je suis surpris que des terroristes ciblent\nnotre ville. La rumeur dit que c'était\nle [1432][NULL][NULL][0014]Cercle Masqué[1432][NULL][NULL][0014]...[1205][U+000F] Il y en a partout."
   },
   {
     "id": 65,
@@ -657,7 +657,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "Are[SP]you[SP]buying[SP]armor[SP]to[SP]defend[SP]yourself[SP]from\nthe[SP]terroists[SP]as[SP]well?[SP]I[SP]hear[SP]this[SP]Masked[SP]Circle\nholds[SP]a[SP]human[SP]in[SP]no[SP]more[SP]esteem[SP]than[SP]a[SP]stone...",
     "nom_fr": "Tailleur",
-    "texte_fr": "Vous achetez aussi des armures pour vous protéger\ndes terroristes? Il paraît que ce Cercle Masqué\nn'accorde pas plus de valeur à un homme qu'à une pierre..."
+    "texte_fr": "Vous achetez des armures contre les terroristes?\nIl paraît que ce Cercle Masqué n'accorde\npas plus de valeur à un homme qu'à une pierre..."
   },
   {
     "id": 66,
@@ -667,7 +667,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "I[SP]wonder[SP]where[SP]the[SP]truth[SP]lies?[1205][U+000F][SP]Rumors[SP]are[SP]often\nstretched[SP]and[SP]tainted[SP]with[SP]outright[SP]fabrications.\nThey[SP]must[SP]be[SP]taken[SP]with[SP]a[SP]grain[SP]of[SP]salt...",
     "nom_fr": "Tailleur",
-    "texte_fr": "Je me demande où est la vérité?[1205][U+000F] Les rumeurs\nsont souvent amplifiées et teintées de pures\nfabrcations. Il faut les prendre avec précaution..."
+    "texte_fr": "Où est la vérité?[1205][U+000F] Les rumeurs sont souvent\namplifiées et teintées de fabrications.\nIl faut les prendre avec précaution..."
   },
   {
     "id": 67,
@@ -677,7 +677,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "Now,[SP]I've[SP]heard[SP]tell[SP]that[SP]this[SP]Last[SP]Battalion\nwas[SP]behind[SP]the[SP]attacks.[SP]Rumors[SP]change[SP]as[SP]often\nas[SP]a[SP]cat's[SP]eyes...",
     "nom_fr": "Tailleur",
-    "texte_fr": "On m'a dit que ce Dernier Bataillon était\nderrière les attaques. Les rumeurs changent\naussi souvent que les humeurs d'un chat..."
+    "texte_fr": "On m'a dit que le Dernier Bataillon\nétait derrière les attaques. Les rumeurs\nchangent comme les humeurs d'un chat..."
   },
   {
     "id": 68,
@@ -687,7 +687,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "Have[SP]you[SP]heard[SP]of[SP]the[SP]Last[SP]Battalion?[SP]The[SP]rumor\naround[SP]town[SP]now[SP]is[SP]that[SP]they[SP]are[SP]the[SP]true\nmasterminds[SP]of[SP]these[SP]attacks.",
     "nom_fr": "Tailleur",
-    "texte_fr": "Avez-vous entendu parler du Dernier Bataillon?\nLa rumeur en ville est qu'ils sont les vrais\ncerveaux de ces attaques."
+    "texte_fr": "Avez-vous entendu parler du Dernier Bataillon?\nLa rumeur est qu'ils sont les vrais\ncerveaux des attaques."
   },
   {
     "id": 69,
@@ -697,7 +697,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "They[SP]say[SP]where[SP]there's[SP]smoke,[SP]there's[SP]fire,[SP]but\nI[SP]wonder[SP]one[SP]draws[SP]that[SP]conclusion.[SP]It[SP]seems\nthe[SP]people[SP]of[SP]Sumaru[SP]are[SP]a[SP]bit[SP]confused.",
     "nom_fr": "Tailleur",
-    "texte_fr": "On dit qu'il n'y a pas de fumée sans feu, mais\nje me demande comment on tire cette conclusion.\nIl semble que les habitants de Sumaru soient un peu perdus."
+    "texte_fr": "Pas de fumée sans feu, mais comment tire-t-on\ncette conclusion? Les habitants de Sumaru\nsemblent un peu perdus."
   },
   {
     "id": 70,
@@ -707,7 +707,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "To[SP]think[SP]they'd[SP]bomb[SP]the[SP]Aerospace[SP]Museum...\nI've[SP]heard[SP]sketches[SP]of[SP]the[SP]involved[SP]parties\nare[SP]out.[SP]Hopefully[SP]this[SP]is[SP]nearing[SP]its[SP]end.",
     "nom_fr": "Tailleur",
-    "texte_fr": "Dire qu'ils ont bombardé le Musée de l'Aérospatiale...\nJ'ai entendu que des portraits-robots des suspects\ncirculent. Espérons que c'est bientôt fini."
+    "texte_fr": "Dire qu'ils ont bombardé le Musée...\nDes portraits-robots circulent.\nEspérons que c'est bientôt fini."
   },
   {
     "id": 71,
@@ -717,7 +717,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "Rumors[SP]are[SP]frightening[SP]things.[SP]The[SP]sketches\nwere[SP]only[SP]of[SP]material[SP]witnesses,[SP]yet[SP]people\ntalk[SP]as[SP]though[SP]they[SP]were[SP]the[SP]criminals.",
     "nom_fr": "Tailleur",
-    "texte_fr": "Les rumeurs sont des choses effrayantes. Les portraits\nne concernaient que des témoins, et pourtant\nles gens parlent d'eux comme de criminels."
+    "texte_fr": "Les rumeurs sont effrayantes. Les portraits\nne concernaient que des témoins, et pourtant\nles gens parlent d'eux comme de criminels."
   },
   {
     "id": 72,
@@ -747,7 +747,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "With[SP]the[SP]police[SP]rendered[SP]powerless,[SP]I'm[SP]sure\nhalf[SP]the[SP]Last[SP]Battalion's[SP]fight[SP]is[SP]already\nwon[SP]for[SP]them.",
     "nom_fr": "Tailleur",
-    "texte_fr": "Avec la police rendue impuissante, je suis sûr\nque la moitié du combat est déjà gagnée\npour le Dernier Bataillon."
+    "texte_fr": "Avec la police impuissante, la moitié\ndu combat est déjà gagnée\npour le Dernier Bataillon."
   },
   {
     "id": 75,
@@ -757,7 +757,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "In[SP]that[SP]light,[SP]perhaps[SP]they[SP]were[SP]the[SP]culprits\nbehind[SP]the[SP]terrorist[SP]attacks[SP]after[SP]all...",
     "nom_fr": "Tailleur",
-    "texte_fr": "Dans cette optique, ils étaient peut-être bien\nles coupables des attentats terroristes\naprès tout..."
+    "texte_fr": "Dans cette optique, ils étaient peut-être\nbien les coupables des attentats\naprès tout..."
   },
   {
     "id": 76,
@@ -767,7 +767,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "Well,[SP]what's[SP]done[SP]is[SP]done.[1205][U+000F][SP]You[SP]are[SP]the[SP]only\none[SP]who[SP]can[SP]protect[SP]yourself...[SP]Though[SP]I[SP]will\ndo[SP]what[SP]I[SP]can[SP]to[SP]assist[SP]you,[SP]of[SP]course.",
     "nom_fr": "Tailleur",
-    "texte_fr": "Bon, ce qui est fait est fait.[1205][U+000F] Vous êtes le seul\nà pouvoir vous protéger... Bien que je ferai\nce que je peux pour vous aider, bien sûr."
+    "texte_fr": "Ce qui est fait est fait.[1205][U+000F] Seul vous pouvez\nvous protéger... Bien que je ferai\nce que je peux pour vous aider."
   },
   {
     "id": 77,
@@ -787,7 +787,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "But[SP]you[SP]haven't[SP]anything[SP]to[SP]sell.",
     "nom_fr": "Tailleur",
-    "texte_fr": "Mais vous n'avez rien à vendre."
+    "texte_fr": "Vous n'avez rien à vendre."
   },
   {
     "id": 79,
@@ -797,6 +797,6 @@
     "nom_orig": "Tailor",
     "texte_orig": "All[SP]told,[SP]that[SP]will[SP]be[SP][U+120E][NULL][SP]yen.\nIs[SP]that[SP]satisfactory?\n[U+1208][0002]Yes\nNo\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailor\nNow[SP]then,[SP]about[SP]buying[SP]and[SP]selling...\n[E1][E2][E4][NULL][NULL]\"Tailor\nI'll[SP]first[SP]explain[SP]buying.[SP]If[SP]you[SP]choose[SP]to\n[1432][NULL][NULL][0014]Buy[SP]armor,[1432][NULL][NULL][0014][SP]you[SP]may[SP]browse[SP]our[SP]wares.\n[E1][E2][E4][NULL][NULL]\"Tailor\nBut[SP]some[SP]armor[SP]cannot[SP]be[SP]equipped[SP]by[SP]just\nanyone.[SP]To[SP]paraphrase[SP]a[SP]saying[SP]in[SP]my[SP]trade,\n[1432][NULL][NULL][0014]measure[SP]twice,[SP]buy[SP]once.[1432][NULL][NULL][0014]\n[E1][E2][E4][NULL][NULL]\"Tailor\nNext,[SP]selling.[SP]If[SP]you[SP]choose[SP][1432][NULL][NULL][0014]Sell[SP]items,[1432][NULL][NULL][0014]\nyou[SP]may[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.\n[E1][E2][E4][NULL][NULL]\"Tailor\nAfter[SP]that,[SP]choose[SP]a[SP]particular[SP]item[SP]and[SP]I'll\nbuy[SP]it[SP]at[SP]roughly[SP]half[SP]its[SP]original[SP]price.\n[E1][E2][E4][NULL][NULL]\"Tailor\nI[SP]won't[SP]buy[SP]anything[SP]you're[SP]wearing,[SP]and[SP]I\nwon't[SP]buy[SP]anything[SP]that[SP]seems[SP]too[SP]dear[SP]to[SP]you.\nI[SP]believe[SP]that[SP]covers[SP]everything.",
     "nom_fr": "Tailleur",
-    "texte_fr": "En tout, cela fera [U+120E][NULL] yens.\nCela vous convient?\n[U+1208][0002]Oui\nNon\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailleur\nBien, parlons achats et ventes...\n[E1][E2][E4][NULL][NULL]\"Tailleur\nJe vais d'abord expliquer les achats. Si vous choisissez\n[1432][NULL][NULL][0014]Acheter des armures,[1432][NULL][NULL][0014] vous pouvez parcourir nos articles.\n[E1][E2][E4][NULL][NULL]\"Tailleur\nMais certaines armures ne peuvent être portées\npar n'importe qui. Pour paraphraser un dicton\nde mon métier, [1432][NULL][NULL][0014]mesurez deux fois, achetez une.[1432][NULL][NULL][0014]\n[E1][E2][E4][NULL][NULL]\"Tailleur\nEnsuite, vendre. Si vous choisissez [1432][NULL][NULL][0014]Vendre des objets,[1432][NULL][NULL][0014]\nvous pouvez choisir un type d'objet à vendre.\n[E1][E2][E4][NULL][NULL]\"Tailleur\nEnsuite, choisissez un objet précis et je\nl'achèterai à environ la moitié de son prix d'origine.\n[E1][E2][E4][NULL][NULL]\"Tailleur\nJe n'achèterai pas ce que vous portez, ni\nce qui semble vous être trop précieux.\nJe crois que cela couvre tout."
+    "texte_fr": "En tout, cela fera [U+120E][NULL] yens.\nCela vous convient?\n[U+1208][0002]Oui\nNon\n[U+1109][E2][E3][E4][NULL][NULL]\"Tailleur\nBien, parlons achats et ventes...\n[E1][E2][E4][NULL][NULL]\"Tailleur\nD'abord les achats. Choisissez\n[1432][NULL][NULL][0014]Acheter des armures,[1432][NULL][NULL][0014] pour parcourir nos articles.\n[E1][E2][E4][NULL][NULL]\"Tailleur\nMais certaines armures ne peuvent être portées\npar tous. Comme on dit dans mon métier,\n[1432][NULL][NULL][0014]mesurez deux fois, achetez une.[1432][NULL][NULL][0014]\n[E1][E2][E4][NULL][NULL]\"Tailleur\nPour vendre, choisissez [1432][NULL][NULL][0014]Vendre des objets,[1432][NULL][NULL][0014]\npuis un type d'objet.\n[E1][E2][E4][NULL][NULL]\"Tailleur\nChoisissez un objet et je l'achèterai\nà environ la moitié du prix.\n[E1][E2][E4][NULL][NULL]\"Tailleur\nJe n'achète pas ce que vous portez\nni ce qui vous est précieux.\nJe crois que cela couvre tout."
   }
 ]
