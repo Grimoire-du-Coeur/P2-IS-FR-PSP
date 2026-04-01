@@ -7,7 +7,7 @@
     "nom_orig": "School[SP]paper[SP]writer",
     "texte_orig": "Our[SP]editor,[SP]who[SP]went[SP]to[SP]go[SP]investigate[SP]the\nlinks[SP]between[SP]the[SP]emblem[SP]curse[SP]and[SP]Cuss[SP]High,\nisn't[SP]back[SP]yet...",
     "nom_fr": "Rédacteur du journal scolaire",
-    "texte_fr": "Notre rédactrice est partie enquêter sur l'emblème et le lycée Kakasu,/nn'est pas encore revenue..."
+    "texte_fr": "Notre rédactrice enquête sur l'emblème et le lycée Kakasu,\nelle n'est pas encore revenue..."
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Don't[SP]worry.[SP]I'm[SP]sure[SP]she's[SP]somewhere[SP]dozing\noff[SP]again.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nH-Hey...![1205][001E][SP]Did[SP]you[SP]just[SP]say[SP][1432][NULL][NULL][0014]Miyabi[SP]Hanakouji[1432][NULL][NULL][0014]?\nYou[SP]know[SP]Hanakouji-san!?[1205][001E][SP]Tell[SP]me!",
     "nom_fr": "Étudiante",
-    "texte_fr": "Ne t'inquiète pas. Elle est sûrement en train de piquer un somme quelque part.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nH-Hey...![1205][001E] Tu viens de dire[1432][NULL][NULL][0014]Miyabi Hanakouji[1432][NULL][NULL][0014] ?\nTu connais Hanakouji !? Dis-moi !"
+    "texte_fr": "Pas d'inquiétude. Elle doit dormir quelque part.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nH-Hé...![1205][001E] Tu as dit [1432][NULL][NULL][0014]Miyabi Hanakouji[1432][NULL][NULL][0014] ?\nTu la connais !? Dis-moi !"
   },
   {
     "id": 3,
@@ -67,7 +67,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Haha...[1205][001E][SP]Wow...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Haha...[1205][001E] Wow..."
+    "texte_fr": "Ah...[1205][001E] Wow..."
   },
   {
     "id": 7,
@@ -137,7 +137,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "She's[SP]my[SP]ex-girlfriend![1205][001E][SP]We[SP]were[SP]dating[SP]in\ngrade[SP]school!",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est mon ex ![1205][001E] On sortait ensemble à l'école primaire !"
+    "texte_fr": "C'est mon ex![1205][001E] On sortait ensemble en primaire!"
   },
   {
     "id": 14,
@@ -147,7 +147,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "We[SP]broke[SP]up[SP]eventually,[SP]but[SP]I[SP]still[SP]can't\nforget[SP]her[SP]face[SP]when[SP]she[SP]cried[SP]and[SP]said,\n[1432][NULL][NULL][0014]Eikichi-kun,[SP]I[SP]can't[SP]bear[SP]to[SP]be[SP]apart![1432][NULL][NULL][0014]",
     "nom_fr": "Eikichi",
-    "texte_fr": "On s'est séparés, mais je n'oublie pas son visage en larmes quand elle a dit :\n[1432][NULL][NULL][0014]Eikichi, je ne supporte pas qu'on se quitte ![1432][NULL][NULL][0014]"
+    "texte_fr": "On a rompu, mais j'oublie pas son visage en larmes quand elle a dit :\n[1432][NULL][NULL][0014]Eikichi, je ne supporte pas qu'on se quitte ![1432][NULL][NULL][0014]"
   },
   {
     "id": 15,
@@ -547,7 +547,7 @@
     "nom_orig": "School[SP]paper[SP]writer",
     "texte_orig": "I[SP]never[SP]knew[SP]our[SP]editor[SP]and[SP]the[SP]Undie[SP]Boss[SP]used\nto[SP]be[SP]lovers...[SP]How[SP]strange[SP]fate[SP]can[SP]be.\nThis[SP]is[SP]a[SP]huge[SP]scoop![SP]Hmmm...",
     "nom_fr": "Rédacteur du journal scolaire",
-    "texte_fr": "Je savais pas que notre rédactrice et Undies Boss étaient amants... Le destin est étrange.\nUn énorme scoop ! Hmmm..."
+    "texte_fr": "J'ignorais que notre rédactrice et Undie Boss étaient ensemble... Quel destin !\nUn scoop énorme! Hmmm..."
   },
   {
     "id": 55,
@@ -557,7 +557,7 @@
     "nom_orig": "School[SP]paper[SP]writer",
     "texte_orig": "No,[SP]no...[SP]He's[SP]not[SP]listening[SP]to[SP]me[SP]at[SP]all!\nI[SP]want[SP]to[SP]interview[SP]him[SP]about[SP]his[SP]relationship\nwith[SP]our[SP]editor...",
     "nom_fr": "Rédacteur du journal scolaire",
-    "texte_fr": "Non, non... Il ne m'écoute pas du tout !\nJe veux l'interviewer sur sa relation\navec notre rédactrice..."
+    "texte_fr": "Non, non... Il ne m'écoute pas!\nJe veux l'interviewer sur sa relation\navec notre rédactrice..."
   },
   {
     "id": 56,
@@ -627,6 +627,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "Come[SP]to[SP]think[SP]of[SP]it,[SP]didn't[SP]someone[SP]say[SP]there\nwere[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge?[1205][U+000F][SP]I[SP]think\nthose'll[SP]be[SP]the[SP]last[SP]ones[SP]left.",
     "nom_fr": "Yukino",
-    "texte_fr": "En y repensant, quelqu'un n'a pas dit qu'il y avait\ndes emblèmes dans la salle des profs ?[1205][U+000F] Ce seront\nsûrement les derniers."
+    "texte_fr": "En repensant, quelqu'un n'a pas dit qu'il y avait\ndes emblèmes dans la salle des profs?[1205][U+000F] Ce seront\nsûrement les derniers."
   }
 ]
