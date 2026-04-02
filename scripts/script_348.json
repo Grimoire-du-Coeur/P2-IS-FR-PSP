@@ -6,8 +6,8 @@
     "data_size": 284,
     "nom_orig": "Eikichi",
     "texte_orig": "How[SP]about[SP]if[SP]I[SP]sign[SP]an[SP]autograph[SP]for[SP]you\ninstead,[SP]as[SP]a[SP]future[SP]rock[SP]star![1205][U+000F][SP]Do[SP]you[SP]have\nany[SP]paper?[1205][U+000F][SP]Maybe[SP]I[SP]could[SP]sign[SP]your[SP]back?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Et si je te signais un autographe plutôt,\nen tant que future rock star![1205][U+000F] Tu as du\npapier?[1205][U+000F] Je peux signer sur ton dos sinon?"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 190,
     "nom_orig": "Ginko",
     "texte_orig": "Hey...[1205][U+000F][SP]I'm[SP]not[SP]supposed[SP]to[SP]be[SP]standing[SP]here...[1205][U+000F]\nIs[SP]the[SP]BIT[SP]flagged?[SP]Please[SP]check!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Hé,[1205][U+000F] je suis pas censée me tenir là...[1205][U+000F]\nLe BIT est bien indiqué? Vérifiez merci!"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 300,
     "nom_orig": "Firefighter",
     "texte_orig": "Anywhere[SP]a[SP]crowd[SP]goes,[SP]trouble[SP]follows...[SP]All\nthe[SP]more[SP]so[SP]at[SP]a[SP]concert[SP]with[SP]screaming[SP]fans!\nWe[SP]must[SP]always[SP]be[SP]prepared[SP]for[SP]the[SP]worst!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Pompier",
+    "texte_fr": "Dès qu'il y a foule, des problèmes arrivent...\nSurtout dans un concert rempli de fans déchaînés!\nOn doit toujours se préparer au pire!"
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 308,
     "nom_orig": "Firefighter",
     "texte_orig": "Come[SP]on,[SP]everyone,[SP]let's[SP]all[SP]recite[SP]this[SP]year's\nfire[SP]safety[SP]motto![SP][1432][NULL][NULL][0014]If[SP]you[SP]see[SP]a[SP]firebug,[SP]swat\nit[SP]away[SP]with[SP]911![1432][NULL][NULL][0014][SP]All[SP]together[SP]now!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Pompier",
+    "texte_fr": "Allez, récitons la devise des pompiers!\n[1432][NULL][NULL][0014]Tu vois une punaise de feu, chasse-là\nen appelant le 18![1432][NULL][NULL][0014] Ensemble maintenant!"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 82,
     "nom_orig": "Maya",
     "texte_orig": "[1432][NULL][NULL][0014]If[SP]you[SP]see[SP]a[SP]firebug...[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "[1432][NULL][NULL][0014]Tu vois une punaise...[1432][NULL][NULL][0014]"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 86,
     "nom_orig": "Maya",
     "texte_orig": "......![1205][0014][SP]Come[SP]on,[SP]Yukki![SP]Say[SP]it!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "......![1205][0014] Allez Yukki! Dis-le!"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 106,
     "nom_orig": "Yukino",
     "texte_orig": "M-Maya-san,[SP]stop![SP]You're[SP]embarrassing[SP]us!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "M-Maya, arrête! Tu nous mets la honte!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 204,
     "nom_orig": "Firefighter",
     "texte_orig": "What[SP]a[SP]tragedy[SP]that[SP]I[SP]have[SP]to[SP]be[SP]on[SP]standby\nat[SP]a[SP]time[SP]like[SP]this![SP]I[SP]love[SP]idol[SP]singers!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Pompier",
+    "texte_fr": "Quelle tragédie de devoir rester en état\nd'alerte dans un tel moment! J'adore les idols!"
   },
   {
     "id": 8,
@@ -86,7 +86,7 @@
     "data_size": 126,
     "nom_orig": "Firefighter",
     "texte_orig": "The[SP]Muses[SP]show[SP]is[SP]so[SP]near...[SP]And[SP]yet[SP]so[SP]far...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Pompier",
+    "texte_fr": "Le show des Muses, si près et pourtant si loin..."
   }
 ]
