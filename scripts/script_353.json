@@ -8,7 +8,7 @@
     "texte_orig": "I[SP]dunno,[SP]what[SP]do[SP]you[SP]think,[SP][U+1113]?\nThe[SP]song's[SP]called[SP]Joker...[SP]They're[SP]being\nreally[SP]blatant[SP]about[SP]the[SP]whole[SP]thing.",
     "nom_fr": "Eikichi",
     "texte_fr": "T'en penses quoi, [U+1113]?\nLa chanson s'appelle Joker... Ils sont\nvraiment pas discrets."
-  },
+ [
   {
     "id": 1,
     "offset": 296158,
@@ -17,7 +17,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Relax.[SP]I'll[SP]get[SP]those[SP]two[SP]back[SP]to[SP]normal,\nalong[SP]with[SP]Shogo[SP]and[SP]them.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Calme-toi. Je vais les ramener à la normale,\navec Shogo et les autres."
+    "texte_fr": "Calme-toi. Je vais les ramener\nà la normale avec Shogo."
   },
   {
     "id": 2,
@@ -47,7 +47,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "...Or[SP]is[SP]that[SP]just[SP]wishful[SP]thinking?",
     "nom_fr": "Eikichi",
-    "texte_fr": "...Ou c'est juste du wishful thinking?"
+    "texte_fr": "...Ou c'est juste du rêve ?"
   },
   {
     "id": 5,
@@ -77,7 +77,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "If[SP]Maya-san's[SP]right,[SP]they[SP]might[SP]be[SP]collecting\nIdeal[SP]Energy[SP]somewhere[SP]else[SP]as[SP]we[SP]speak.",
     "nom_fr": "Ginko",
-    "texte_fr": "Si Maya-san a raison, ils collectent peut-être\nde l'Énergie Idéale ailleurs en ce moment."
+    "texte_fr": "Si Maya-san a raison, ils collectent\nde l'Énergie Idéale ailleurs en ce moment."
   },
   {
     "id": 8,
@@ -87,7 +87,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "That's...[1205][U+000F][SP]What[SP]do[SP]we[SP]do?[1205][U+000F][SP]We[SP]can't[SP]stop[SP]it...",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est...[1205][U+000F] Qu'est-ce qu'on fait?[1205][U+000F] On peut rien faire..."
+    "texte_fr": "C'est...[1205][U+000F] Qu'est-ce qu'on fait ?[1205][U+000F] On peut rien stopper..."
   },
   {
     "id": 9,
@@ -107,7 +107,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]hope[SP]you're[SP]right,[SP]Eikichi...[1205][U+000F][SP]But[SP]everyone's\nbuying[SP]the[SP]book.[SP]If[SP]it[SP]keeps[SP]coming[SP]true,\npeople[SP]will[SP]believe[SP]it[SP]more[SP]and[SP]more...",
     "nom_fr": "Ginko",
-    "texte_fr": "J'espère que t'as raison, Eikichi...[1205][U+000F] Mais tout le\nmonde achète le livre. S'il continue à\nse réaliser, les gens y croiront de plus en plus..."
+    "texte_fr": "J'espère, Eikichi...[1205][U+000F] Mais tout le monde\nachète le livre. S'il se réalise encore,\nles gens vont y croire de plus en plus..."
   },
   {
     "id": 11,
@@ -127,7 +127,7 @@
     "nom_orig": "Maya",
     "texte_orig": "[1432][NULL][NULL][0014]Joker,[1432][NULL][NULL][0014][SP]huh?[1205][U+000F][SP]What's[SP]the[SP]Masked[SP]Circle's[SP]game,\nmaking[SP]Lisa[SP]sing[SP]a[SP]song[SP]like[SP]that...?",
     "nom_fr": "Maya",
-    "texte_fr": "[1432][NULL][NULL][0014]Joker,[1432][NULL][NULL][0014] hein?[1205][U+000F] Quel est le jeu du Cercle masqué\nen faisant chanter une telle chanson à Lisa...?"
+    "texte_fr": "[1432][NULL][NULL][0014]Joker,[1432][NULL][NULL][0014] hein ?[1205][U+000F] Quel jeu joue le Cercle masqué\nen faisant chanter ça à Lisa... ?"
   },
   {
     "id": 13,
@@ -137,7 +137,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Lisa[SP]seems[SP]to[SP]be[SP]feeling[SP]better.[SP]Don't[SP]worry.\nI'm[SP]sure[SP]we[SP]can[SP]save[SP]those[SP]girls[SP]if[SP]we[SP]work\nhard[SP]at[SP]it.",
     "nom_fr": "Maya",
-    "texte_fr": "Lisa a l'air d'aller mieux. Ne t'inquiète pas.\nJe suis sûre qu'on peut sauver ces filles\nsi on s'en donne les moyens."
+    "texte_fr": "Lisa a l'air d'aller mieux. Ne t'inquiète pas.\nOn peut sauver ces filles\nsi on s'en donne les moyens."
   },
   {
     "id": 14,
@@ -247,7 +247,7 @@
     "nom_orig": "Aloof[SP]man",
     "texte_orig": "It's[SP]the[SP]Double[SP]Slash[SP]coffee[SP]that[SP]did[SP]it.\n[E1][E2][E4][NULL][NULL]\"Aloof[SP]man\nNothing[SP]like[SP]a[SP]good[SP]coffee[SP]break[SP]while\nsurfing[SP]the[SP]net.",
     "nom_fr": "Homme distant",
-    "texte_fr": "C'est le café du Double Slash qui m'a eu.\n[E1][E2][E4][NULL][NULL]\"Homme distant\nRien de tel qu'une bonne pause café\ndevant l'écran."
+    "texte_fr": "C'est le café du Double Slash qui m'a eu.\n[E1][E2][E4][NULL][NULL]\"Homme distant\nRien de tel qu'une pause café\ndevant l'écran."
   },
   {
     "id": 25,
@@ -277,7 +277,7 @@
     "nom_orig": "Aloof[SP]man",
     "texte_orig": "Hahaha...[SP]If[SP]they[SP]say[SP]so,[SP]I[SP]suppose[SP]it's[SP]true.\nSocietal[SP]misunderstandings[SP]can[SP]be[SP]scary.",
     "nom_fr": "Homme distant",
-    "texte_fr": "Hahaha... Si c'est ce qu'ils disent.\nLes malentendus collectifs peuvent faire peur."
+    "texte_fr": "Hahaha... Si c'est ce qu'ils disent.\nLes malentendus collectifs font peur."
   },
   {
     "id": 28,
@@ -287,7 +287,7 @@
     "nom_orig": "Aloof[SP]man",
     "texte_orig": "The[SP]In[SP]Lak'ech,[SP]huh...?[SP]They[SP]say[SP]when[SP]you're\ndesperate,[SP]you'll[SP]cling[SP]to[SP]anything,[SP]but[SP]isn't\nit[SP]important[SP]to[SP]keep[SP]a[SP]grip[SP]on[SP]reality?",
     "nom_fr": "Homme distant",
-    "texte_fr": "L'In Lak'ech, hein...? On dit que dans le désespoir\non s'accroche à n'importe quoi, mais\nfaut pas perdre le sens des réalités, non?"
+    "texte_fr": "L'In Lak'ech, hein... ? Dans le désespoir\non s'accroche à n'importe quoi, mais\nfaut pas perdre le sens des réalités, non ?"
   },
   {
     "id": 29,
@@ -317,7 +317,7 @@
     "nom_orig": "Pale[SP]man",
     "texte_orig": "Oh,[SP]are[SP]you[SP]a[SP]druggie?[SP]Me[SP]too...[SP]But[SP]I've[SP]been\nmore[SP]hooked[SP]on[SP]idols[SP]lately.[SP]I[SP]came[SP]to[SP]see[SP]the\nMuses[SP]show[SP]today.",
     "nom_fr": "Homme blême",
-    "texte_fr": "Oh, t'es accro aussi? Moi pareil...\nMais en ce moment c'est plutôt les idoles.\nJe viens voir le show des Muses aujourd'hui."
+    "texte_fr": "Oh, t'es accro aussi ? Moi pareil...\nMais en ce moment c'est les idoles.\nJe viens voir les Muses aujourd'hui."
   },
   {
     "id": 32,
@@ -327,7 +327,7 @@
     "nom_orig": "Pale[SP]man",
     "texte_orig": "But[SP]they[SP]sold[SP]out...[SP]And[SP]the[SP]scalpers[SP]are\ncharging[SP]obscene[SP]prices...[SP]So[SP]since[SP]I'm[SP]flat\nbroke,[SP]no[SP]Muses[SP]for[SP]me.",
     "nom_fr": "Homme blême",
-    "texte_fr": "Mais c'est sold out... Et les revendeurs\nfont des prix indécents... Comme je suis\nfauché, pas de Muses pour moi."
+    "texte_fr": "Mais c'est sold out... Les revendeurs\nfont des prix indécents... Je suis fauché,\nalors pas de Muses pour moi."
   },
   {
     "id": 33,
@@ -357,7 +357,7 @@
     "nom_orig": "Pale[SP]man",
     "texte_orig": "What[SP]is[SP]that[SP]guy[SP]saying!?[SP]Kids[SP]these[SP]days[SP]are\nsuch[SP]liars.[SP]Those[SP]five[SP]must[SP]be[SP]the[SP]terrorists!",
     "nom_fr": "Homme blême",
-    "texte_fr": "Qu'est-ce qu'il raconte!? Les gosses aujourd'hui\nsont de vrais menteurs. Ces cinq-là\nce sont les terroristes!"
+    "texte_fr": "Il raconte quoi !? Les gosses aujourd'hui\nne font que mentir. Ces cinq-là\nsont les terroristes !"
   },
   {
     "id": 36,
@@ -377,7 +377,7 @@
     "nom_orig": "Pale[SP]man",
     "texte_orig": "Heheh.[SP]Hehehe...[SP]Yeah,[SP]the[SP]In[SP]Lak'ech.[SP]I[SP]get\nit[SP]now.[SP]I[SP]can't[SP]depend[SP]on[SP]pills.",
     "nom_fr": "Homme blême",
-    "texte_fr": "Hihih. Hihihi... Ouais, l'In Lak'ech.\nJe comprends maintenant. Je peux pas\ndépendre des pilules."
+    "texte_fr": "Hihih... Ouais, l'In Lak'ech.\nJe peux pas dépendre des pilules."
   },
   {
     "id": 38,
@@ -397,7 +397,7 @@
     "nom_orig": "Pale[SP]man",
     "texte_orig": "See![SP]Told[SP]you[SP]so![SP]Xibalba[SP]exists!\n[E1][E2][E4][NULL][NULL]\"Pale[SP]man\nThat's[SP]why[SP]those[SP]people[SP]came![SP]Those[SP]stories\nin[SP]the[SP]In[SP]Lak'ech[SP]were[SP]true!",
     "nom_fr": "Homme blême",
-    "texte_fr": "Vous voyez! Je le savais! Xibalba existe!\n[E1][E2][E4][NULL][NULL]\"Homme blême\nC'est pour ça qu'ils sont venus!\nL'In Lak'ech disait vrai!"
+    "texte_fr": "Vous voyez ! Je le savais ! Xibalba existe !\n[E1][E2][E4][NULL][NULL]\"Homme blême\nC'est pour ça qu'ils sont venus !\nL'In Lak'ech disait vrai !"
   },
   {
     "id": 40,
@@ -407,7 +407,7 @@
     "nom_orig": "Pale[SP]man",
     "texte_orig": "B-But[SP]if[SP]you[SP]can't[SP]board[SP]Xibalba,[SP]what'll\nhappen[SP]then?\n[E1][E2][E4][NULL][NULL]\"Pale[SP]man\nWill[SP]I[SP]be[SP]left[SP]on[SP]Earth[SP]to[SP]die?[SP]No...\nThey[SP]can't[SP]leave[SP]me![SP]I[SP]don't[SP]want[SP]to[SP]die!",
     "nom_fr": "Homme blême",
-    "texte_fr": "M-Mais si on peut pas monter à bord de Xibalba,\nqu'est-ce qui va se passer?\n[E1][E2][E4][NULL][NULL]\"Homme blême\nJe vais rester sur Terre à mourir? Non...\nIls peuvent pas m'abandonner! Je veux pas mourir!"
+    "texte_fr": "M-Mais si on monte pas dans Xibalba ?\n[E1][E2][E4][NULL][NULL]\"Homme blême\nJe reste sur Terre à mourir ? Non...\nIls peuvent pas m'abandonner ! Je veux pas mourir !"
   },
   {
     "id": 41,
@@ -417,7 +417,7 @@
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "Heeheehee.[SP]Welcome[SP]to[SP]Satomi[SP]Tadashi's[SP]Aoba\nbranch![SP]What[SP]can[SP]I[SP]do[SP]for[SP]you?[SP]Heeheehee.\n[U+1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#1\n[U+1210]ĀView[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#1\nNow,[SP]what[SP]are[SP]you[SP]selling?\n[U+1208][U+0007][U+111F][U+1210]ĀUndisplayed[SP]selection\n[U+111F]Sell[SP]items\n[U+111F]Sell[SP]weapons\n[U+111F][U+1210]ĀSell[SP]head[SP]armor\n[U+111F]Sell[SP]armor\n[U+111F][U+1210]ĀSell[SP]leg[SP]armor\n[U+111F]Sell[SP]accessories\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#1\nSo[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#1\nHeeheehee.[SP]Anything[SP]else?\n[U+1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#1\n[U+1210]ĀView[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#1\nNow,[SP]what[SP]are[SP]you[SP]selling?\n[U+1208][U+0007][U+111F][U+1210]ĀUndisplayed[SP]selection\n[U+111F]Sell[SP]items\n[U+111F]Sell[SP]weapons\n[U+111F][U+1210]ĀSell[SP]head[SP]armor\n[U+111F]Sell[SP]armor\n[U+111F][U+1210]ĀSell[SP]leg[SP]armor\n[U+111F]Sell[SP]accessories\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#1\nSo[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#1\nGuess[SP]what?[SP]I'm[SP]the[SP]oldest[SP]of[SP]us[SP]seven[SP]Satomi\nsisters[SP]who[SP]run[SP]the[SP]Sumaru[SP]City[SP]stores.[SP]But[SP]we\nstill[SP]all[SP]look[SP]the[SP]same.",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Hihihi. Bienvenue chez Satomi Tadashi,\nbranch Aoba! Que puis-je pour vous? Hihihi.\n[U+1208][U+0006]Acheter\nVendre\nParler à la Sœur n°1\n[U+1210]ĀVoir les articles\nNon merci\nQuitter la boutique\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nQu'est-ce que vous vendez?\n[U+1208][U+0007][U+111F][U+1210]ĀSélection cachée\n[U+111F]Vendre des objets\n[U+111F]Vendre des armes\n[U+111F][U+1210]ĀVendre armure de tête\n[U+111F]Vendre des armures\n[U+111F][U+1210]ĀVendre armure de jambes\n[U+111F]Vendre des accessoires\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nDe quoi voulez-vous parler?\n[U+1208][U+0003]Parler\nRenseignements sur les achats\n[U+1210]ĀSélection cachée\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nHihihi. Autre chose?\n[U+1208][U+0006]Acheter\nVendre\nParler à la Sœur n°1\n[U+1210]ĀVoir les articles\nNon merci\nQuitter la boutique\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nQu'est-ce que vous vendez?\n[U+1208][U+0007][U+111F][U+1210]ĀSélection cachée\n[U+111F]Vendre des objets\n[U+111F]Vendre des armes\n[U+111F][U+1210]ĀVendre armure de tête\n[U+111F]Vendre des armures\n[U+111F][U+1210]ĀVendre armure de jambes\n[U+111F]Vendre des accessoires\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nDe quoi voulez-vous parler?\n[U+1208][U+0003]Parler\nRenseignements sur les achats\n[U+1210]ĀSélection cachée\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nSaviez-vous? Je suis l'aînée des sept sœurs\nSatomi qui gèrent les boutiques de Sumaru.\nPourtant on nous confond toujours!"
+    "texte_fr": "Hihihi. Bienvenue chez Satomi Tadashi\nbranche Aoba ! Je fais quoi pour vous ? Hihihi.\n[U+1208][U+0006]Acheter\nVendre\nParler à la Sœur n°1\n[U+1210]ĀVoir les articles\nNon merci\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nQu'est-ce que vous vendez ?\n[U+1208][U+0007][U+111F][U+1210]ĀSélection cachée\n[U+111F]Objets\n[U+111F]Armes\n[U+111F][U+1210]ĀArmure de tête\n[U+111F]Armures\n[U+111F][U+1210]ĀArmure de jambes\n[U+111F]Accessoires\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nDe quoi voulez-vous parler ?\n[U+1208][U+0003]Bavarder\nRenseignements\n[U+1210]ĀSélection cachée\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nHihihi. Autre chose ?\n[U+1208][U+0006]Acheter\nVendre\nParler à la Sœur n°1\n[U+1210]ĀVoir les articles\nNon merci\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nQu'est-ce que vous vendez ?\n[U+1208][U+0007][U+111F][U+1210]ĀSélection cachée\n[U+111F]Objets\n[U+111F]Armes\n[U+111F][U+1210]ĀArmure de tête\n[U+111F]Armures\n[U+111F][U+1210]ĀArmure de jambes\n[U+111F]Accessoires\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nDe quoi voulez-vous parler ?\n[U+1208][U+0003]Bavarder\nRenseignements\n[U+1210]ĀSélection cachée\n[U+1109][E2][E3][E4][NULL][NULL]\"Sœur n°1\nSaviez-vous ? Je suis l'aînée des sept sœurs\nSatomi des boutiques de Sumaru.\nPourtant on nous confond toutes !"
   },
   {
     "id": 42,
@@ -427,7 +427,7 @@
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "Well,[SP]I[SP]hope[SP]you[SP]stop[SP]by[SP]my[SP]sisters'\nbranches[SP]too![SP]Heeheehee.",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "J'espère que vous visiterez aussi\nles boutiques de mes sœurs! Hihihi."
+    "texte_fr": "Visitez aussi les boutiques\nde mes sœurs ! Hihihi."
   },
   {
     "id": 43,
@@ -437,7 +437,7 @@
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "Heeheehee.[SP]Our[SP]branch[SP]theme[SP]has[SP]a[SP]jazzy[SP]sound.\nIsn't[SP]that[SP]cool?",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Hihihi. Notre thème de boutique\na un son jazzy. C'est cool, non?"
+    "texte_fr": "Hihihi. Notre thème est jazzy.\nC'est cool, non ?"
   },
   {
     "id": 44,
@@ -447,7 +447,7 @@
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "The[SP]terrorists[SP]can[SP]attack[SP]all[SP]they[SP]want!\nAs[SP]long[SP]as[SP]we[SP]play[SP]this[SP]song,[SP]we'll[SP]get\ncustomers![SP]We'll[SP]never[SP]close[SP]up[SP]shop!",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Les terroristes peuvent attaquer tant qu'ils veulent!\nTant qu'on joue cette chanson on aura\ndes clients! On ne fermera jamais!"
+    "texte_fr": "Les terroristes peuvent attaquer !\nTant qu'on joue cette chanson on aura\ndes clients ! On ne ferme jamais !"
   },
   {
     "id": 45,
