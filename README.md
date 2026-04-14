@@ -26,9 +26,9 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 
 ## 📥 Comment jouer ?
 Le projet est actuellement en développement. Une fois une version stable disponible :
-    1. Téléchargez le **patch (.xdelta ou .ppf)** dans la section [Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases).
-    2. Appliquez le patch sur votre ISO originale à l'aide d'un outil comme **DeltaPatcher**.
-    3. Jouez sur votre PSP ou via l'émulateur PPSSPP.
+    > 1. Téléchargez le **patch (.xdelta ou .ppf)** dans la section [Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases).
+    > 2. Appliquez le patch sur votre ISO originale à l'aide d'un outil comme **DeltaPatcher**.
+    > 3. Jouez sur votre PSP ou via l'émulateur PPSSPP.
 
 ### Outil dédié au projet
 - [JsonVerify](https://github.com/Garloulou/JsonVerify) par **@Garloulou** - outil de validation des fichiers JSON traduits
