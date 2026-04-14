@@ -1,6 +1,6 @@
 # 🛠️ Toolkit de Traduction
 
-Ce document explique comment utiliser les scripts Python pour extraire, traduire et reconstruire l'ISO de Persona 2: Innocent Sin.
+Ce document explique comment fonctionne le tool Python, utile pour extraire, traduire et reconstruire l'ISO de Persona 2: Innocent Sin.
 
 ---
 
