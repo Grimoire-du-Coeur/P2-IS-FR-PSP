@@ -34,7 +34,7 @@ Le projet supporte le mod **HD UI for Persona 2 - Innocent Sin**, pour lequel no
 > Téléchargez le pack original : [HD UI on GameBanana](https://gamebanana.com/mods/308752) 
 > Appliquez notre patch FR (disponible bientôt) par-dessus.
 
-Un immense merci à [@racawr]([https://gamebanana.com/mods/308752](https://gamebanana.com/members/1865032) pour son travail incroyable et sa gentillesse.
+Un immense merci à [@racawr](https://gamebanana.com/members/1865032) pour son travail incroyable et sa gentillesse.
 
 ---
 
