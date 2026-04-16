@@ -1,3 +1,10 @@
+## 📺 Vidéo de présentation
+🎬 **[Clique ici pour voir la vidéo](https://youtu.be/wxEEJYjx2Sw)**
+
+![Miniature](https://img.youtube.com/vi/wxEEJYjx2Sw/maxresdefault.jpg)
+
+---
+
 # 🛠️ Toolkit de Traduction
 
 Ce document explique comment fonctionne le tool Python, utile pour extraire, traduire et reconstruire l'ISO de Persona 2: Innocent Sin.
