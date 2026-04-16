@@ -50,7 +50,8 @@ Un immense merci à [@racawr](https://gamebanana.com/members/1865032) pour son t
 * **Discord perso** : `@chenetulipe`
 * **Issues** : Pour signaler un bug dans la traduction.
 
-*Pour les développeurs et contributeurs, merci de consulter [DEVELOPER.md](./DEVELOPER.md).*
+*Pour les développeurs, merci de consulter [DEVELOPER.md](./DEVELOPER.md).*
+*Pour les contributeurs, merci de consulter [CONTRIBUTING.md](./CONTRIBUTING.md).*
 
 ## Licence & Crédits
 - **Atlus** : Développeur original du jeu.
