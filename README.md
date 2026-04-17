@@ -9,6 +9,13 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 
 ---
 
+## 📺 Vidéo de gameplay
+🎬 **[Clique ici pour voir la vidéo](https://youtu.be/rGHRMPw-bbo?is=M01bmaMMkRTUOaKS)**
+
+![Miniature](https://img.youtube.com/vi/rGHRMPw-bbo/maxresdefault.jpg)
+
+---
+
 ## Avancement
 | Contenu               | Progression  |
 |-----------------------|--------------|
