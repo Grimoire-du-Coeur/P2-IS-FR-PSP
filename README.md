@@ -52,13 +52,13 @@ Un immense merci à [@racawr](https://gamebanana.com/members/1865032) pour son t
 *Pour les contributeurs, merci de consulter [CONTRIBUTING.md](./CONTRIBUTING.md).*
 
 ## Licence & Crédits
-- **Atlus** : Développeur original du jeu.
-- **Equipe** : @chenetulipe, @Garloulou.
-- **Licence** : [CC BY-NC-SA 4.0](LICENSE) (libre d'utilisation et de modification,
-interdit à la vente, attribution obligatoire).
+- **Atlus / SEGA** : Développeurs originaux et ayants droit du jeu.
+- **Équipe** : @chenetulipe, @Garloulou.
+- **Licence du patch** : [CC BY-NC-SA 4.0](LICENSE) (libre d'utilisation et de modification, interdit à la vente, attribution obligatoire).
 
-> Persona 2: Innocent Sin est © Atlus. Ce projet est une traduction amateur à but non lucratif.
-Aucun fichier du jeu n'est distribué. Vous devez posséder votre propre copie du jeu.
+> *Persona 2: Innocent Sin* est une marque déposée de **© Atlus / SEGA**. Ce projet est une traduction amateur à but strictement non lucratif, réalisée par des fans pour des fans. 
+> 
+> Aucun fichier protégé par le droit d'auteur (iso, cpk, bin, etc.) n'est hébergé ou distribué sur ce dépôt. Le partage de tels fichiers est strictement interdit dans l'espace communautaire lié à ce projet.
 
 ---
 
