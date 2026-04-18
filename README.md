@@ -4,9 +4,9 @@
 Projet de traduction française amateur de Persona 2: Innocent Sin sur PSP.
 Ce dépôt contient les outils pour extraire, traduire et réinjecter les scripts du jeu.
 
-> ⚠️ Ce projet ne distribue aucun fichier du jeu.
-> 💿 Vous devez posséder votre propre image disque (ISO) extraite de votre UMD original.
-> 🇪🇺 La version supportée est Persona 2: Innocent Sin - PSP Europe (ULES01557)
+> - ⚠️ Ce projet ne distribue aucun fichier du jeu.
+> - 💿 Vous devez posséder votre propre image disque (ISO) extraite de votre UMD original.
+> - 🇪🇺 La version supportée est Persona 2: Innocent Sin - PSP Europe (ULES01557)
 
 ---
 
