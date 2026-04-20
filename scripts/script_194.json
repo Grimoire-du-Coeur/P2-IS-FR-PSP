@@ -7,7 +7,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Tch...[SP]We[SP]still[SP]haven't[SP]caught[SP]up[SP]to[SP]them...[1205][001E]\nMustache[SP]Man[SP]must[SP]be[SP]pretty[SP]far[SP]ahead.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Tch... On les a toujours pas rattrapé...[1205][001E]\nL'Homme à la moustache doit être bien devant."
+    "texte_fr": "Tch... On les a toujours pas rattrapés...[1205][001E]\nLe moustachu doit être bien devant."
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Jun",
     "texte_orig": "If[SP]he[SP]awakens[SP]Xibalba's[SP]inhabitants,[SP]it[SP]would\nbe[SP]a[SP]serious[SP]problem...",
     "nom_fr": "Jun",
-    "texte_fr": "S'il réveille les habitants de Xibalba, ça deviendrait\nun sérieux problème..."
+    "texte_fr": "S'il réveille les habitants de Xibalba, ca\nsera un gros problème..."
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hmm...[1205][001E][SP]What[SP]do[SP]you[SP]guys[SP]think?[SP]Are[SP]we\nclose[SP]to[SP]the[SP]goal[SP]or[SP]not?",
     "nom_fr": "Maya",
-    "texte_fr": "Hmm...[1205][001E] Qu'est-ce que vous-en pensez les gars ? Est-ce qu'on est\nproches du but ou pas?"
+    "texte_fr": "Hmm...[1205][001E] Vous en pensez quoi? On est\nproches du but ou pas?"
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Hm...?[1205][001E][SP]Well,[SP]given[SP]how[SP]long[SP]it[SP]took[SP]us[SP]to\nmake[SP]it[SP]this[SP]far,[SP]I[SP]assume[SP]they're[SP]much\nfurther[SP]ahead...",
     "nom_fr": "Jun",
-    "texte_fr": "Hm...?[1205][001E] Et bien, étant donné combien de temps il nous a pris pour\narriver jusque ici, je suppose qu'ils sont beacoup\nplus devant... "
+    "texte_fr": "Hm...[1205][001E] Vu le temps qu'on a mis pour\narriver ici, je pense qu'ils sont beacoup\nplus devant... "
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]don't[SP]really[SP]care...[1205][001E][SP]I[SP]just[SP]wish[SP]they'd\nhurry[SP]and[SP]show[SP]their[SP]faces...",
     "nom_fr": "Ginko",
-    "texte_fr": "J'en ai pas grand chose à faire...[1205][001E] J'aimerais juste qu'ils\nse dépêchent et se montrent..."
+    "texte_fr": "Je m'en fiche...[1205][001E] J'aimerais juste qu'ils\nse dépêchent de se montrer..."
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Uhhh,[SP]hard[SP]to[SP]say,[SP]but...[1205][001E][SP]We[SP]must[SP]be[SP]almost\ncaught[SP]up[SP]with[SP]them[SP]by[SP]now,[SP]right?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Uhhh, difficile à dire, mais...[1205][001E] On devrait bientôt les\nrattraper depuis le temps, pas vrai?"
+    "texte_fr": "Uhhh, je sais pas, mais...[1205][001E] On devrait bientôt\nles rattraper pas vrai?"
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Okay...[1205][001E][SP]So[SP]basically,[SP]Jun-kun[SP]thinks[SP]that\n[1432][NULL][NULL][0014]they're[SP]much[SP]further[SP]ahead[1432][NULL][NULL][0014]...",
     "nom_fr": "Maya",
-    "texte_fr": "Okay...[1205][001E] Donc à priori, Jun-kun pense qu'\n[1432][NULL][NULL][0014]ils sont beaucoup plus devant[1432][NULL][NULL][0014]..."
+    "texte_fr": "Okay...[1205][001E] Donc Jun-kun pense qu'\n[1432][NULL][NULL][0014]ils sont beaucoup plus devant[1432][NULL][NULL][0014]..."
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Bear[SP]with[SP]me[SP]just[SP]a[SP]little[SP]longer...[1205][001E]\nUmm,[SP]so[SP]this[SP]might[SP]sound[SP]vague,[SP]but...",
     "nom_fr": "Maya",
-    "texte_fr": "Supportes-moi encore un peu...[1205][001E]\nUmm, ça pourrait paraître un peu vague, mais..."
+    "texte_fr": "Patiente encore un peu...[1205][001E]\nCa pourrait paraître un peu vague, mais..."
   },
   {
     "id": 12,
@@ -127,7 +127,7 @@
     "nom_orig": "Maya",
     "texte_orig": "If[SP]I[SP]go[SP]by[SP]our[SP]guesses[SP]as[SP]to[SP]the[SP]distance\nleft,[SP]Jun-kun[SP]says[SP]far,[SP]I[SP]say[SP]close...[1205][001E][SP]and\nEikichi-kun[SP]is[SP]somewhere[SP]in[SP]between.",
     "nom_fr": "Maya",
-    "texte_fr": "Si je suis nos suppositions sur la distance qu'il\n reste, Jun-kun dit que c'est loin, je dis que c'est proche...[1205][001E] et\nEikichi-kun est un peu entre les deux."
+    "texte_fr": "D'après nos calculs, Jun dit que c'est\nloin, je dis que c'est proche...[1205][001E] et\nEikichi-kun est entre les deux."
   },
   {
     "id": 13,
@@ -137,7 +137,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Now...[1205][001E][SP]Whose[SP]guess[SP]do[SP]you[SP]agree[SP]with,\n[U+1113]-kun?",
     "nom_fr": "Maya",
-    "texte_fr": "Donc...[1205][001E] Avec qui t'es d'accord, \n[U+1113]-kun?"
+    "texte_fr": "Donc...[1205][001E] Avec qui t'es d'accord,\n[U+1113]-kun?"
   },
   {
     "id": 14,
@@ -147,7 +147,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Whose[SP]guess[SP]do[SP]you[SP]agree[SP]with,[SP][U+1113]-kun?\n[U+1208][U+0004]Agree[SP]with[SP]Jun\nAgree[SP]with[SP]Eikichi\nAgree[SP]with[SP]Maya\nAgree[SP]with[SP]Ginko\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nMeaning[SP]you[SP]think[SP]that[SP]we[SP]still[SP]have[SP]a[SP]lot\nof[SP]ground[SP]to[SP]cover[SP]before[SP]we[SP]catch[SP]them[SP]too?",
     "nom_fr": "Maya",
-    "texte_fr": "Avec qui t'es d'accord, [U+1113]-kun?\n[U+1208][U+0004]D'accord avec Jun\nD'accord avec Eikichi\nD'accord avec Maya\nD'accord avec Ginko\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nÇa veut dire que tu penses qu'on a encore beaucoup de\ntrajet avant qu'on les rattrape, toi aussi? "
+    "texte_fr": "Avec qui t'es d'accord, [U+1113]-kun?\n[U+1208][U+0004]Jun\nEikichi\nMaya\nGinko\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\nTu penses qu'on a encore beaucoup de trajet\navant qu'on les rattrape aussi?"
   },
   {
     "id": 15,
@@ -157,7 +157,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Our[SP]opinions[SP]are[SP]split[SP]now,[SP]2[SP]to[SP]1[SP]to[SP]1[SP]to[SP]1.\nCome[SP]on,[SP]let's[SP]see[SP]what[SP]happens...",
     "nom_fr": "Maya",
-    "texte_fr": "Nos opinions sont divisés maintenant, 2 contre 1 contre 1 contre 1.\nAllez, voyons ce qu'il se passe..."
+    "texte_fr": "Nos avis sont divisés, 2 contre 1 contre 1 contre 1.\nVoyons ce qu'il se passe..."
   },
   {
     "id": 16,
@@ -167,7 +167,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Meaning[SP]you[SP]think[SP]there's[SP]still[SP]a[SP]little[SP]way\nto[SP]go[SP]before[SP]we[SP]catch[SP]them[SP]too?",
     "nom_fr": "Maya",
-    "texte_fr": "Ça veut dire que tu penses qu'il y'a encore un peu\nde trajet avant qu'on les rattrape, toi aussi?"
+    "texte_fr": "Tu penses qu'on a encore beaucoup de trajet\navant qu'on les rattrape aussi?"
   },
   {
     "id": 17,
@@ -177,7 +177,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Our[SP]opinions[SP]are[SP]split[SP]now,[SP]2[SP]to[SP]1[SP]to[SP]1[SP]to[SP]1.\nCome[SP]on,[SP]let's[SP]see[SP]what[SP]happens...",
     "nom_fr": "Maya",
-    "texte_fr": "Nos opinions sont divisés maintenant, 2 contre 1 contre 1 contre 1.\nAllez, voyons ce qu'il se passe..."
+    "texte_fr": "Nos avis sont divisés, 2 contre 1 contre 1 contre 1.\nVoyons ce qu'il se passe..."
   },
   {
     "id": 18,
@@ -187,7 +187,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Meaning[SP]you[SP]think[SP]we've[SP]just[SP]about[SP]caught\nup[SP]to[SP]them[SP]too?",
     "nom_fr": "Maya",
-    "texte_fr": "Ça veut dire que tu penses qu'on les a presque\nrattrapé, toi aussi?"
+    "texte_fr": "On est encore loin de les rattraper?"
   },
   {
     "id": 19,
@@ -197,7 +197,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Our[SP]opinions[SP]are[SP]split[SP]now,[SP]2[SP]to[SP]1[SP]to[SP]1[SP]to[SP]1.\nCome[SP]on,[SP]let's[SP]see[SP]what[SP]happens...",
     "nom_fr": "Maya",
-    "texte_fr": "Nos opinions sont divisés maintenant, 2 contre 1 contre 1 contre 1.\nAllez, voyons ce qu'il se passe..."
+    "texte_fr": "Nos avis sont divisés, 2 contre 1 contre 1 contre 1.\nVoyons ce qu'il se passe..."
   },
   {
     "id": 20,
@@ -207,7 +207,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hmm...[1205][001E][SP]Two[SP]people[SP]who[SP]don't[SP]care...",
     "nom_fr": "Maya",
-    "texte_fr": "Hmm...[1205][001E] Deux personnes qui s'en fichent..."
+    "texte_fr": "Hm...[1205][001E] Deux indifférents..."
   },
   {
     "id": 21,
@@ -217,7 +217,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Our[SP]opinions[SP]are[SP]split[SP]now,[SP]2[SP]to[SP]1[SP]to[SP]1[SP]to[SP]1,\nbut...[1205][001E][SP]How[SP]will[SP]this[SP]play[SP]out...?[1205][001E][SP]Anyways,\nlet's[SP]go.",
     "nom_fr": "Maya",
-    "texte_fr": "Nos opinions sont divisés maintenant, 2 contre 1 contre 1 contre 1,\nmais...[1205][001E] Comment ça va se dérouler...?[1205][001E] Bref,\nallons-y. "
+    "texte_fr": "On n'est pas d'accord, 2 contre 1 contre 1 contre 1,\nmais...[1205][001E] Ca va finir comment?[1205][001E] Bon, on y va."
   },
   {
     "id": 22,
@@ -227,7 +227,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Is[SP]there[SP]a[SP]point[SP]to[SP]this?[SP]It's[SP]not[SP]like\nour[SP]opinion[SP]is[SP]going[SP]to[SP]come[SP]true.",
     "nom_fr": "Ginko",
-    "texte_fr": "Est-ce qu'il y'a un intérêt à ça? C'est pas comme si\nnos opinions allaient devenir réels."
+    "texte_fr": "Quel intérêt? Nos opinions ne vont pas devenir\n réels."
   },
   {
     "id": 23,
@@ -237,7 +237,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]keep[SP]thinking,[SP][1432][NULL][NULL][0014]I[SP]wish[SP]the[SP]next[SP]room[SP]was\na[SP]shower[SP]stall![1432][NULL][NULL][0014][SP]But[SP]it[SP]doesn't[SP]work.\nArrrgh...[SP]I[SP]wanna[SP]get[SP]cleaned[SP]up!",
     "nom_fr": "Ginko",
-    "texte_fr": "Je ne fais qu'y penser, [1432][NULL][NULL][0014] j'aimerais que la prochaine pièce soit\nune cabine de douche![1432][NULL][NULL][0014] Mais ça marche pas. \nArrrgh... J'ai envie de me doucher!"
+    "texte_fr": "Je me dis, [1432][NULL][NULL][0014]si seulement la prochaine pièce soit\nune douche![1432][NULL][NULL][0014] Mais ça marche pas.\nArgh... Je veux me doucher!"
   },
   {
     "id": 24,
@@ -247,7 +247,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Well,[SP]I[SP]don't[SP]know[SP]about[SP]that...[1205][001E][SP]I'm[SP]pretty\nsure[SP]our[SP]journey[SP]from[SP]here[SP]on[SP]will[SP]turn[SP]out\nthe[SP]way[SP][U+1113]-kun[SP]agreed[SP]with...",
     "nom_fr": "Maya",
-    "texte_fr": "Et bien, je sais pas trop à propos de ça...[1205][001E] Je suis quasi\nsûre que notre trajet va se dérouler comme [U+1113]-kun l'avait prévu\nà partir de maintenant..."
+    "texte_fr": "Je sais pas trop...[1205][001E] Je suis sûre que notre\ntrajet va se dérouler comme [U+1113]-kun l'a dit..."
   },
   {
     "id": 25,
@@ -257,7 +257,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]took[SP]a[SP]look[SP]at[SP]the[SP]In[SP]Lak'ech,[SP]and[SP]it[SP]said\nthat[SP]Xibalba[SP]in[SP]Mayan[SP]lore[SP]is[SP]composed[SP]of\nnine[SP]layers.[SP]Could[SP]this[SP]place[SP]be[SP]the[SP]same?",
     "nom_fr": "Maya",
-    "texte_fr": "J'ai regardé dans l'In Lak'ech, et ça dit\nque Xibalba dans la mythologie Maya, est composé de\nneuf couches. Est-ce que cet endroit pourrait-être pareil?"
+    "texte_fr": "Selon In Lak'ech, Xibalba dans la mythologie Maya,\naurait neuf couches. Est-ce que cet endroit serait similaire?"
   },
   {
     "id": 26,
@@ -277,7 +277,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I'll[SP]have[SP]you[SP]know[SP]I've[SP]been[SP]in[SP]a[SP]Quiz[SP]Bowl\nchampionship.[SP]Sure,[SP]I[SP]got[SP]disqualified[SP]in\nthe[SP]preliminary[SP]rounds,[SP]but...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je vous laisse savoir que j'ai été dans un championnat\nde Quiz Bowl. Bon, j'ai été disqualifié\naux rounds préliminaires, mais quand même..."
+    "texte_fr": "J'ai été dans un championnat de Quiz Bowl, hein! Bon,\nj'ai été disqualifié aux préliminaires, mais bon..."
   },
   {
     "id": 28,
@@ -287,7 +287,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Thinking[SP]back,[SP]from[SP]the[SP]Silver[SP]River[SP]to[SP]here,\neverything[SP]bad[SP]we[SP]imagined[SP]kept[SP]happening,\none[SP]after[SP]the[SP]next.",
     "nom_fr": "Eikichi",
-    "texte_fr": "En y pensant, de la Rivière d'Argent jusqu'ici, \ntoutes les mauvaises choses qu'on imaginait se déroulaient, \nl'une après l'autre."
+    "texte_fr": "En y pensant, de la Rivière Argentée jusqu'ici,\ntout le pire s'est enchaîné.."
   },
   {
     "id": 29,
@@ -297,7 +297,7 @@
     "nom_orig": "Jun",
     "texte_orig": "What[SP]could[SP]she[SP]mean...?[1205][001E][SP]Big[SP]Maya[SP]would[SP]never\nask[SP]things[SP]like[SP]that[SP]without[SP]some[SP]sort[SP]of\npurpose[SP]behind[SP]it...",
     "nom_fr": "Jun",
-    "texte_fr": "Qu'est-ce qu'elle pourrait dire...?[1205][001E] La grande Maya ne pourrait jamais\ndemander des choses comme ça sans\nmotifs derrière..."
+    "texte_fr": "Qu'est-ce qu'elle veut dire...?[1205][001E] Maya ne\ndemanderait jamais ca sans raison..."
   },
   {
     "id": 30,
@@ -307,6 +307,6 @@
     "nom_orig": "Jun",
     "texte_orig": "If[SP]only[SP]this[SP]were[SP]all[SP]a[SP]badcSP]dream.[SP]But[SP]that\nline[SP]of[SP]thinking[SP]is[SP]just[SP]me[SP]wishing[SP]I[SP]could\nescape[SP]my[SP]sins...",
     "nom_fr": "Jun",
-    "texte_fr": "Si seulement tout ça n'était qu'un mauvais rêve. Mais cette\nmanière de penser est juste moi entrain d'espérer pouvoir\néchapper mes pechés..."
+    "texte_fr": "Si seulement tout ça n'était qu'un cauchemar. Mais\nj'essaye juste d'échapper mes pechés..."
   }
 ]
