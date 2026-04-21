@@ -4,17 +4,26 @@
 Projet de traduction française amateur de Persona 2: Innocent Sin sur PSP.
 Ce dépôt contient les outils pour extraire, traduire et réinjecter les scripts du jeu.
 
-> ⚠️ Ce projet ne distribue aucun fichier du jeu.
-> Vous devez posséder votre propre ISO européenne (ULES01557).
+> - ⚠️ Ce projet ne distribue aucun fichier du jeu.
+> - 💿 Vous devez posséder votre propre image disque (ISO) extraite de votre UMD original.
+> - 🇪🇺 La version supportée est Persona 2: Innocent Sin - PSP Europe (ULES01557)
+
+---
+
+## 📺 Vidéo de gameplay
+🎬 **[Clique ici pour voir la vidéo](https://youtu.be/rGHRMPw-bbo?is=M01bmaMMkRTUOaKS)**
+
+![Miniature](https://img.youtube.com/vi/rGHRMPw-bbo/maxresdefault.jpg)
 
 ---
 
 ## Avancement
 | Contenu               | Progression  |
 |-----------------------|--------------|
-| [Scripts (dialogues)](https://github.com/chenetulipe/P2-FR-IS-PSP/tree/main/scripts)   |     304/399    |
+| [Scripts (Dialogues Histoire)](https://github.com/chenetulipe/P2-FR-IS-PSP/tree/main/scripts)   |     313/399    |
+| [Autres Scripts (CD shop, Dialogues Carte)](https://github.com/chenetulipe/P2-FR-IS-PSP/tree/main/AutreScript)  | 0/7 |
 | Police (accents FR)   |      ✅      |
-| Textures HD        | 34/42 |
+| Textures HD        | 35/42 |
 | ...                   | 🔄 |
 
 ## 📥 Comment jouer ?
@@ -22,9 +31,6 @@ Le projet est actuellement en développement. Une fois une version stable dispon
 > 1. Téléchargez le **patch (.xdelta)** dans la section [Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases).
 > 2. Appliquez le patch sur votre ISO originale à l'aide d'un outil comme **DeltaPatcher**.
 > 3. Jouez sur votre PSP ou via l'émulateur PPSSPP.
-
-### Outil dédié au projet
-- [JsonVerify](https://github.com/Garloulou/JsonVerify) par **@Garloulou** - outil de validation des fichiers JSON traduits
 
 ---
 
@@ -47,13 +53,13 @@ Un immense merci à [@racawr](https://gamebanana.com/members/1865032) pour son t
 *Pour les contributeurs, merci de consulter [CONTRIBUTING.md](./CONTRIBUTING.md).*
 
 ## Licence & Crédits
-- **Atlus** : Développeur original du jeu.
-- **Equipe** : @chenetulipe, @Garloulou.
-- **Licence** : [CC BY-NC-SA 4.0](LICENSE) (libre d'utilisation et de modification,
-interdit à la vente, attribution obligatoire).
+- **Atlus / SEGA** : Développeurs originaux et ayants droit du jeu.
+- **Équipe** : @chenetulipe, @Garloulou.
+- **Licence du patch** : [CC BY-NC-SA 4.0](LICENSE) (libre d'utilisation et de modification, interdit à la vente, attribution obligatoire).
 
-> Persona 2: Innocent Sin est © Atlus. Ce projet est une traduction amateur à but non lucratif.
-Aucun fichier du jeu n'est distribué. Vous devez posséder votre propre copie du jeu.
+> *Persona 2: Innocent Sin* est une marque déposée de **© Atlus / SEGA**. Ce projet est une traduction amateur à but strictement non lucratif, réalisée par des fans pour des fans. 
+> 
+> Aucun fichier protégé par le droit d'auteur (iso, cpk, bin, etc.) n'est hébergé ou distribué sur ce dépôt. Le partage de tels fichiers est strictement interdit dans l'espace communautaire lié à ce projet.
 
 ---
 
