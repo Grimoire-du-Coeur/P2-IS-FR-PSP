@@ -7,7 +7,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Huuuh?[SP]THAT[SP]lady's[SP]a[SP]model...?[1205][U+000F][SP]I-I[SP]thought\nmodels[SP]were[SP]more...[SP]slender[SP]and...[SP]willowy...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hein? CETTE nana est mannequin...?[1205][U+000F] Je croyais\nqu'elles étaient plus... minces et... élancées..."
+    "texte_fr": "Hein? ELLE est mannequin...?[1205][U+000F] Je les voyais\nplus... fines et... élancées..."
   },
   {
     "id": 1,
@@ -167,7 +167,7 @@
     "nom_orig": "Maya",
     "texte_orig": "The[SP]Oracle[SP]of[SP]Maia...[SP]End[SP]of[SP]Nahui-Ollin...\nWhat[SP]does[SP]it[SP]all[SP]mean?",
     "nom_fr": "Maya",
-    "texte_fr": "L'Oracle de Maia... La fin de Nahui-Ollin...\nQu'est-ce que ça veut dire?"
+    "texte_fr": "L'Oracle de Maia... La fin de Nahui-Ollin...\nCa veut dire quoi?"
   },
   {
     "id": 17,
@@ -227,7 +227,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "H-Hey,[SP]what[SP]happened[SP]to[SP]that[SP]lady?",
     "nom_fr": "Yukino",
-    "texte_fr": "H-Hé, qu'est-il arrivé à cette femme?"
+    "texte_fr": "H-Hé, que lui est-il arrivé?"
   },
   {
     "id": 23,
@@ -237,7 +237,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "King[SP]Leo[SP]said[SP]he'd[SP]fulfill[SP]the[SP]Oracle[SP]before\nthe[SP]End[SP]of[SP]Whatever.[SP]I[SP]wonder[SP]what[SP]happens\nafter[SP]that?",
     "nom_fr": "Yukino",
-    "texte_fr": "Le Roi Lion veut accomplir l'Oracle avant\nla Fin de je-sais-plus-quoi.\nQu'est-ce qui se passe après?"
+    "texte_fr": "Le Roi Lion veut finir l'Oracle avant\nla Fin de je-sais-plus-quoi.\nQu'est-ce qui se passe après?"
   },
   {
     "id": 24,
@@ -257,7 +257,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "If[SP]Ideal[SP]Energy[SP]is[SP]your[SP]dreaming[SP]heart,[SP]it\nshould[SP]be[SP]used[SP]to[SP]figure[SP]out[SP]the[SP]meaning[SP]of\nlife,[SP]not[SP]to[SP]become[SP]an[SP]Idealian.",
     "nom_fr": "Yukino",
-    "texte_fr": "Si l'Énergie Idéale c'est le cœur qui rêve,\nelle devrait servir à trouver le sens de la vie,\npas à devenir un Idéalien."
+    "texte_fr": "Si l'Énergie Idéale est le cœur qui rêve,\nelle devrait servir à trouver le sens de la vie,\npas à devenir un Idéalien."
   },
   {
     "id": 26,
@@ -307,7 +307,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "Wasn't[SP]there[SP]some[SP]self-professed[SP]model[SP]here?\nOr[SP]not...[SP]Oh,[SP]well.",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Y'avait pas une soi-disant mannequin?\nOu pas... Bah, peu importe."
+    "texte_fr": "Y'avait pas une soi-disant mannequin?\nOu pas... Bah."
   },
   {
     "id": 31,
@@ -427,7 +427,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Yes,[SP]I'm[SP]in[SP]the[SP]Masked[SP]Circle![SP]I[SP]asked[SP]Joker\nto[SP]make[SP]me[SP]a[SP]model![SP]Do[SP]you[SP]have[SP]a[SP]problem\nwith[SP]that!?[SP]Why!?",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Oui, je suis du Cercle masqué! J'ai demandé\nà Joker de faire de moi un mannequin!\nUn problème avec ça!? Pourquoi!?"
+    "texte_fr": "Oui, je suis du Cercle masqué! Joker m'a rendu\nmannequin! T'as un problème !?"
   },
   {
     "id": 43,
@@ -457,7 +457,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "Why,[SP]hello![SP]Welcome[SP]to[SP]Etheria.[SP]What[SP]can[SP]we\ndo[SP]for[SP]you[SP]today?",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Bonjour! Bienvenue chez Etheria.\nQue puis-je faire pour vous?"
+    "texte_fr": "Bienvenue chez Etheria! Que puis-je\nfaire pour vous?"
   },
   {
     "id": 46,
@@ -477,7 +477,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "Please[SP]stop[SP]by[SP]whenever[SP]you're[SP]feeling[SP]ill.\nUse[SP]Ether[SP]esthetics[SP]for[SP]clearer[SP]skin[SP]and\nbetter[SP]health.",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Revenez si vous ne vous sentez pas bien.\nL'esthétique éthérique pour une peau nette\net une meilleure santé."
+    "texte_fr": "Revenez en cas de malaise. L'esthétique éthérique\npour une peau nette et une meilleure\nsanté."
   },
   {
     "id": 48,
@@ -487,7 +487,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "Oh?[SP]But[SP]you[SP]all[SP]seem[SP]so[SP]healthy.[SP]I[SP]don't[SP]see\nthe[SP]need[SP]for[SP]any[SP]treatment[SP]at[SP]the[SP]moment...",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Oh? Vous semblez en pleine forme.\nJe ne vois pas l'utilité d'un soin\npour le moment..."
+    "texte_fr": "Oh? Vous semblez en pleine forme.\nJe ne vois pas l'utilité d'un soin\nmaintenant..."
   },
   {
     "id": 49,
@@ -507,7 +507,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "Okay![SP]Just[SP]relax...[1205][U+000F][SP]and[SP]let[SP]our[SP]shop's[SP]unique\ntreatment[SP]wash[SP]over[SP]you...[SP]Ether[SP]esthetics!",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Bien! Détendez-vous...[1205][U+000F] et laissez notre\nsoin exclusif vous envelopper...\nL'esthétique éthérique!"
+    "texte_fr": "Bien! Détendez-vous...[1205][U+000F] et laissez l'esthétique\néthérique vous envelopper..."
   },
   {
     "id": 51,
@@ -547,7 +547,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "Our[SP]Ether[SP]esthetics,[SP]brought[SP]to[SP]you[SP]with\nconfidence,[SP]is[SP]a[SP]revolutionary[SP]treatment\nthat[SP]mixes[SP]in[SP]elements[SP]of[SP]alchemy.\n[E1][E2][E4][NULL][NULL]\"Esthetician\nWho[SP]else[SP]does[SP]what[SP]we[SP]do,[SP]working[SP]with[SP]the\nether[SP]your[SP]very[SP]body[SP]is[SP]composed[SP]of?",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Notre esthétique éthérique est un traitement\nrévolutionnaire mêlant l'alchimie.\nNous vous le proposons en toute confiance.\n[E1][E2][E4][NULL][NULL]\"Esthéticienne\nQui travaille avec l'éther dont\nvotre corps est composé? Personne d'autre."
+    "texte_fr": "Notre esthétique éthérique est un traitement\nrévolutionnaire alchimique.\nNous vous le proposons en toute confiance.\n[E1][E2][E4][NULL][NULL]\"Esthéticienne\nQui travaille avec l'éther dont\nvotre corps est composé? Personne d'autre."
   },
   {
     "id": 55,
@@ -557,7 +557,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "That's[SP]right![SP]Nobody.[1205][U+000F][SP]And[SP]it's[SP]not[SP]just\nbeautifcation.\n[E1][E2][E4][NULL][NULL]\"Esthetician\nWe[SP]can[SP]heal[SP]anything,[SP]from[SP]wounds[SP]to[SP]illnesses.\nIt[SP]sounds[SP]too[SP]good[SP]to[SP]be[SP]true,[SP]but[SP]it[SP]isn't!\nToo[SP]good,[SP]I[SP]mean.[SP]It[SP]is[SP]true.",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Exactement! Personne.[1205][U+000F] Et ce n'est pas\nque de l'embellissement.\n[E1][E2][E4][NULL][NULL]\"Esthéticienne\nBlessures, maladies, nous soignons tout.\nÇa semble trop beau, mais c'est vrai!\nTrop beau je veux dire. Mais vrai."
+    "texte_fr": "Exactement! Personne.[1205][U+000F] Et ce n'est pas\nque de l'embellissement.\n[E1][E2][E4][NULL][NULL]\"Esthéticienne\nBlessures, maladies, nous soignons tout.\nÇa semble faux, mais non! Trop beau je veux\ndire. Mais vrai."
   },
   {
     "id": 56,
@@ -577,7 +577,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "Yes...[SP]All[SP]my[SP]cofounders[SP]quit,[SP]because[SP]they\nthought[SP]me[SP]mad...[SP]But[SP]I[SP]showed[SP]them![SP]Oh,[SP]how\nI[SP]showed[SP]them![SP]Ahahahahaha!",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Oui... mes cofondateurs sont partis,\nils me croyaient folle... Mais je leur ai montré!\nOh que je leur ai montré! Ahahahahaha!"
+    "texte_fr": "Oui... mes cofondateurs sont partis,\nils me croyaient folle... Mais je leur ai montré!\nOh que oui! Ahaha!"
   },
   {
     "id": 58,
