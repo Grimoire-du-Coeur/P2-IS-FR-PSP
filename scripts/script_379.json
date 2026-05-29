@@ -17,7 +17,7 @@
     "nom_orig": "Igor",
     "texte_orig": "We[SP]have[SP]been[SP]waiting[SP]for[SP]you[SP]at[SP]the[SP]command\nof[SP]our[SP]master,[SP]Philemon.[1205][001E][SP]My[SP]name[SP]is[SP]Igor.",
     "nom_fr": "Igor",
-    "texte_fr": "Nous vous attendions sur ordre\nde notre maître, Philemon.[1205][001E] Je suis Igor"
+    "texte_fr": "Nous vous attendions sur ordre\nde notre maître, Philémon.[1205][001E] Je suis Igor"
   },
   {
     "id": 2,
@@ -36,8 +36,8 @@
     "data_size": 178,
     "nom_orig": "Nameless",
     "texte_orig": "I[SP]am[SP]Nameless...[1205][001E][SP]A[SP]pianist[SP]who[SP]opens[SP]the\nshuttered[SP]doors[SP]of[SP]one's[SP]soul...",
-    "nom_fr": "Sans-Nom",
-    "texte_fr": "Je suis Sans-Nom...[1205][001E] Un pianiste qui ouvre\nles portes closes de l'âme..."
+    "nom_fr": "Nameless",
+    "texte_fr": "Je suis Nameless...[1205][001E] Un pianiste qui ouvre\nles portes closes de l'âme..."
   },
   {
     "id": 4,
@@ -46,7 +46,7 @@
     "data_size": 198,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "I'm[SP]a[SP]demon[SP]painter.[1205][001E][SP]My[SP]art[SP]depicts[SP]the[SP]gods\nand[SP]demons[SP]that[SP]dwell[SP]within[SP]man.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Je suis un peintre démon.[1205][001E] Mon art dépeint les dieux\net démons qui habitent l'homme."
   },
   {
@@ -1168,7 +1168,7 @@
     "texte_orig": "And[SP]should[SP]anger[SP]or[SP]fear[SP]reach[SP]their[SP]peak[SP]at\nthe[SP]same[SP]time[SP]as[SP]eagerness,[SP]another[SP]unusual\nresult[SP]will[SP]occur.",
     "nom_fr": "Igor",
     "texte_fr": "Et si colère ou peur atteignent leur pic en même\ntemps que l'enthousiasme, un autre résultat\ninhabituel se produira."
-  },  
+  },
   {
     "id": 117,
     "offset": 273104,
@@ -1326,7 +1326,7 @@
     "data_size": 210,
     "nom_orig": "Nameless",
     "texte_orig": "The[SP]music[SP]I[SP]create[SP]is[SP]meant[SP]to[SP]open[SP]the[SP]door\nto[SP]the[SP]soul[SP]for[SP]Persona-users[SP]like[SP]yourselves.",
-    "nom_fr": "Sans-Nom",
+    "nom_fr": "Nameless",
     "texte_fr": "La musique que je crée est destinée à ouvrir\nla porte de l'âme aux utilisateurs de Persona\ncomme vous."
   },
   {
@@ -1336,7 +1336,7 @@
     "data_size": 280,
     "nom_orig": "Nameless",
     "texte_orig": "To[SP]create[SP]it,[SP]I[SP]must[SP]confront[SP]what[SP]is[SP]in[SP]my\nheart.[1205][001E][SP]That[SP]is[SP]why[SP]90,000[SP]and[SP]155[SP]nights[SP]have\npassed[SP]since[SP]I[SP]closed[SP]my[SP]own[SP]eyes.",
-    "nom_fr": "Sans-Nom",
+    "nom_fr": "Nameless",
     "texte_fr": "Pour la créer, je dois affronter ce qui est dans\nmon cœur.[1205][001E] C'est pourquoi 90 000 et 155 nuits\nse sont écoulées depuis que j'ai fermé les yeux."
   },
   {
@@ -1346,7 +1346,7 @@
     "data_size": 638,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Anything[SP]else?\n[U+1208][U+0004]Request[SP]card\nTalk\nCancel\nLeave\n[U+1109][E2][E3][E4][NULL][NULL]\"Demon[SP]Painter\nOkay.[SP]What[SP]should[SP]we[SP]talk[SP]about?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]card[SP]creation\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Demon[SP]Painter\nI[SP]express[SP]my[SP]emotions[SP]through[SP]my[SP]art.\nI'm[SP]not[SP]much[SP]for[SP]chatting...[SP]But[SP]I[SP]think\nI[SP]can[SP]make[SP]an[SP]exception[SP]for[SP]you.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Autre chose ?\n[U+1208][U+0004]Demander une carte\nParler\nAnnuler\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Peintre Démon\nBien. De quoi voulez-vous parler ?\n[U+1208][U+0003]Parler\nRenseignements sur la création de cartes\n[U+1210]ĀSélection non affichée\n[U+1109][E2][E3][E4][NULL][NULL]\"Peintre Démon\nJ'exprime mes émotions à travers mon art.\nJe ne suis guère bavard... Mais je crois\npouvoir faire une exception pour vous."
   },
   {
@@ -1356,7 +1356,7 @@
     "data_size": 364,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "What[SP]did[SP]you[SP]want[SP]to[SP]ask[SP]about?\n[U+1208][U+0003]Free[SP]Tarot\nHow[SP]to[SP]obtain[SP]them\nHow[SP]to[SP]use[SP]them\n[U+1109][E2][E3][E4][NULL][NULL]\"Demon[SP]Painter\nFree[SP]Tarot[SP]Cards[SP]are[SP]special[SP]cards[SP]with[SP]nothing\ndrawn[SP]on[SP]them.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Sur quoi vouliez-vous me questionner ?\n[U+1208][U+0003]Tarot Libre\nComment en obtenir\nComment les utiliser\n[U+1109][E2][E3][E4][NULL][NULL]\"Peintre Démon\nLes Cartes Tarot Libres sont des cartes spéciales\nsans rien de dessiné dessus."
   },
   {
@@ -1366,7 +1366,7 @@
     "data_size": 182,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "They're[SP]mysterious[SP]cards[SP]that[SP]can[SP]be[SP]turned\ninto[SP]any[SP]type[SP]of[SP]Tarot[SP]Card.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Ce sont des cartes mystérieuses pouvant\nêtre transformées en n'importe quel type de Carte Tarot."
   },
   {
@@ -1376,7 +1376,7 @@
     "data_size": 172,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "I[SP]can[SP]draw[SP]on[SP]Free[SP]Tarot[SP]Cards[SP]and[SP]turn\nthem[SP]into[SP]something[SP]usable.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Je peux dessiner sur les Cartes Tarot Libres\net les rendre utilisables."
   },
   {
@@ -1386,7 +1386,7 @@
     "data_size": 140,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "If[SP]you[SP]find[SP]any[SP]Free[SP]Tarot[SP]Cards,[SP]bring[SP]them\nto[SP]me.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Si vous trouvez des Cartes Tarot Libres,\napportez-les-moi."
   },
   {
@@ -1396,7 +1396,7 @@
     "data_size": 172,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Every[SP]demon,[SP]no[SP]matter[SP]what[SP]type,[SP]might[SP]have\nsome[SP]Free[SP]Tarot[SP]Cards.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Tout démon, quel que soit son type, peut\navoir des Cartes Tarot Libres."
   },
   {
@@ -1406,7 +1406,7 @@
     "data_size": 256,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "But[SP]you[SP]can't[SP]get[SP]them[SP]through[SP]standard\nnegotiations.[SP]Free[SP]Tarot[SP]Cards[SP]are[SP]valuable\nto[SP]demons[SP]too,[SP]after[SP]all.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Mais vous ne pouvez pas les obtenir par\ndes négociations ordinaires. Les Cartes Tarot\nLibres ont aussi de la valeur pour les démons."
   },
   {
@@ -1416,7 +1416,7 @@
     "data_size": 266,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "No,[SP]to[SP]get[SP]Free[SP]Tarot[SP]Cards[SP]from[SP]demons,[SP]you\nhave[SP]to[SP]win[SP]their[SP]trust.[SP]Humans[SP]and[SP]demons[SP]are\nalike[SP]in[SP]that[SP]respect.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Pour obtenir des Cartes Tarot Libres des démons,\nvous devez gagner leur confiance. Humains\net démons se ressemblent en cela."
   },
   {
@@ -1426,7 +1426,7 @@
     "data_size": 236,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "In[SP]order[SP]to[SP]summon[SP]Personas,[SP]you[SP]just[SP]have[SP]to\ncollect[SP]Tarot[SP]Cards[SP]from[SP]demons[SP]of[SP]the[SP]same\nArcana...",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Pour invoquer des Personae, vous n'avez qu'à\ncollector des Cartes Tarot auprès de démons\ndu même Arcane..."
   },
   {
@@ -1436,7 +1436,7 @@
     "data_size": 230,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "The[SP]tricky[SP]thing[SP]is[SP]that[SP]there[SP]are[SP]some[SP]Arcanas\nof[SP]Persona[SP]that[SP]don't[SP]have[SP]corresponding[SP]demons.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "La difficulté est qu'il existe des Arcanes\nde Persona sans démons correspondants."
   },
   {
@@ -1446,7 +1446,7 @@
     "data_size": 266,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "So[SP]what[SP]do[SP]you[SP]do[SP]when[SP]you[SP]want[SP]to[SP]summon[SP]a\nPersona[SP]of[SP]that[SP]Arcana?[SP]Simple.[SP]That's[SP]where\nFree[SP]Tarot[SP]Cards[SP]come[SP]in.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Alors que faire pour invoquer un Persona de cet\nArcane ? Simple. C'est là qu'interviennent\nles Cartes Tarot Libres."
   },
   {
@@ -1456,7 +1456,7 @@
     "data_size": 296,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "You[SP]can[SP]use[SP]them[SP]to[SP]supplement[SP]the[SP]cards[SP]you[SP]need\nfor[SP]regular[SP]summonings,[SP]but[SP]you[SP]should[SP]be[SP]certain\nbefore[SP]you[SP]use[SP]them[SP]that[SP]way.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Vous pouvez les utiliser pour compléter les cartes\nnécessaires aux invocations ordinaires, mais assurez-vous\nd'être certain avant de les utiliser ainsi."
   },
   {
@@ -1466,7 +1466,7 @@
     "data_size": 212,
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "I'm[SP]always[SP]here.[SP]Come[SP]by[SP]if[SP]you[SP]ever[SP]feel[SP]like\nit.[SP]Time[SP]has[SP]no[SP]meaning[SP]here,[SP]after[SP]all.",
-    "nom_fr": "Peintre Démon",
+    "nom_fr": "Demon Painter",
     "texte_fr": "Je suis toujours là. Passez quand vous voulez.\nLe temps n'a pas de sens ici, après tout."
   },
   {
@@ -1607,7 +1607,7 @@
     "nom_orig": "Igor",
     "texte_orig": "I[SP]cannot[SP]hold[SP]on[SP]to[SP]any[SP]more[SP]Personas[SP]for[SP]you.",
     "nom_fr": "Igor",
-    "texte_fr": "Je ne peux plus conserver davantage de Personas pour vous."
+    "texte_fr": "Je ne peux plus conserver davantage de Personae pour vous."
   },
   {
     "id": 161,

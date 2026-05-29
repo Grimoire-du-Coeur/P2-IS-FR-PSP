@@ -697,7 +697,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "But[SP]no[SP]matter.[SP]My[SP]tale[SP]for[SP]you[SP]concerns[SP][E4][NULL][NULL][U+0006]Clair\nde[SP]Lune[E4][NULL][NULL][0002][SP]in[SP]Aoba,[SP]which[SP]sells[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][U+000F]\nTheir[SP][E4][NULL][NULL][U+0006]quality[SP]and[SP]prices[SP]are[SP]average[E4][NULL][NULL][0002].",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Peu importe. Voici mon récit sur [E4][NULL][NULL][U+0006]Clair de Lune\n[E4][NULL][NULL][0002] à Aoba, qui vend [E4][NULL][NULL][U+0006]de vraies armes[E4][NULL][NULL][0002].[1205][U+000F]\nLeur[SP][E4][NULL][NULL][U+0006]qualité et prix sont moyens"
+    "texte_fr": "Peu importe. Voici mon récit sur [E4][NULL][NULL][U+0006]Clair de Lune\n[E4][NULL][NULL][0002] à Aoba, qui vend [E4][NULL][NULL][U+0006]de vraies armes[E4][NULL][NULL][0002].[1205][U+000F]\nLeur [E4][NULL][NULL][U+0006]qualité et prix sont moyens"
   },
   {
     "id": 70,
@@ -717,7 +717,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "It[SP]would[SP]appear[SP][E4][NULL][NULL][U+0006]Jolly[SP]Roger[E4][NULL][NULL][0002][SP]sells[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][U+000F]\nI'm[SP]quite[SP]surprised[SP]that[SP]one[SP]so[SP]near[SP]to[SP]us[SP]would\nsell[SP][E4][NULL][NULL][U+0006]high-quality,[SP]high-price[SP]armaments[E4][NULL][NULL][0002].",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "On dit que[SP][E4][NULL][NULL][U+0006]Jolly Roger[E4][NULL][NULL][0002]vend [E4][NULL][NULL][U+0006]des armes[E4][NULL][NULL][0002].[1205][U+000F]\nJe suis surprise qu'ils vendent des armes\nde [SP][E4][NULL][NULL][U+0006]bonne qualité et puissance[E4][NULL][NULL][0002]."
+    "texte_fr": "On dit que [E4][NULL][NULL][U+0006]Jolly Roger[E4][NULL][NULL][0002]vend [E4][NULL][NULL][U+0006]des armes[E4][NULL][NULL][0002].[1205][U+000F]\nJe suis surprise qu'ils vendent des armes\nde  [E4][NULL][NULL][U+0006]bonne qualité et puissance[E4][NULL][NULL][0002]."
   },
   {
     "id": 72,
@@ -877,7 +877,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "And[SP]as[SP]soon[SP]as[SP]you[SP]said[SP]you'd[SP]read[SP]my[SP]fortune,\nI[SP]realized[SP]I[SP]was[SP]doing[SP]the[SP]same[SP]thing.[1205][U+000F][SP]Yeah...[1205][U+000F]\nI[SP]shouldn't[SP]be[SP]getting[SP]my[SP]answer[SP]like[SP]this.",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Quand tu as dit lire mon avenir, j'ai compris que je\nfaisais pareil.[1205][U+000F][SP]Oui...[1205][U+000F] Je ne devrais pas recevoir\nma réponse ainsi."
+    "texte_fr": "Quand tu as dit lire mon avenir, j'ai compris que je\nfaisais pareil.[1205][U+000F] Oui...[1205][U+000F] Je ne devrais pas recevoir\nma réponse ainsi."
   },
   {
     "id": 88,
@@ -1016,7 +1016,7 @@
     "data_size": 298,
     "nom_orig": "Cowardly[SP]man",
     "texte_orig": "I'll[SP]know[SP]what[SP]to[SP]do[SP]once[SP]I'm[SP]an[SP]Idealian.[1205][U+000F]\nI[SP]won't[SP]need[SP]to[SP]ask[SP]the[SP]fortune[SP]teller...\nI'll[SP]have[SP]my[SP]own[SP]confidence![1205][U+000F][SP]I[SP]can't[SP]wait!",
-    "nom_fr": "Homme Peureux",
+    "nom_fr": "Homme peureux",
     "texte_fr": "Je saurais quoi faire quand je serai un Idéalien.[1205][U+000F]\nPas besoin de la voyante... J'aurai confiance en moi!\n[1205][U+000F] J'ai trop hâte!"
   },
   {
@@ -1066,7 +1066,7 @@
     "data_size": 304,
     "nom_orig": "Young[SP]man",
     "texte_orig": "Inertia[SP]will[SP]blast[SP]everything[SP]away.[1205][U+000F][SP]The[SP]oceans,\nthe[SP]mountains,[SP]even[SP]the[SP]air.[1205][U+000F][SP]Yeah,[SP]that'd\ndefinitely[SP]qualify[SP]as[SP][1432][NULL][NULL][0014]annihilation.[1432][NULL][NULL][0014]",
-    "nom_fr": "Jeunne Homme",
+    "nom_fr": "Jeune homme",
     "texte_fr": "LInertie projettera tout au loin.[1205][U+000F] Les océans,\nles montagnes, et même l'air.[1205][U+000F] Ouais, ce serait clairement\nun [1432][NULL][NULL][0014]anéantissement[1432][NULL][NULL][0014]"
   },
   {

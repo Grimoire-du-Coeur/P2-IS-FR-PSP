@@ -247,7 +247,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Heeheehee.[SP]Anything[SP]else?\n[U+1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[U+1210]ĀView[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nNow,[SP]what[SP]are[SP]you[SP]selling?\n[U+1208][U+0007][U+111F][U+1210]ĀUndisplayed[SP]selection\n[U+111F]Sell[SP]items\n[U+111F]Sell[SP]weapons\n[U+111F][U+1210]ĀSell[SP]head[SP]armor\n[U+111F]Sell[SP]armor\n[U+111F][U+1210]ĀSell[SP]leg[SP]armor\n[U+111F]Sell[SP]accessories\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nSo[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\n*sniffle*[1205][001E][SP]My[SP]son[SP]decided[SP]to[SP]become[SP]a[SP]detective.\nHe's[SP]such[SP]a[SP]disgrace,[SP]I[SP]could[SP]cry.",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Hihi! Autre chose?\n[U+1208][U+0006]Acheter objets\nVendre objets\nPapoter\n[U+1210]ĀVoir objets\nNon\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nAlors, que voulez-vous vendre?\n[U+1208][U+0007][U+111F][U+1210]ĀNon affiché\n[U+111F]Vendre objets\n[U+111F]Vendre armes\n[U+111F][U+1210]ĀVendre casques\n[U+111F]Vendre armures\n[U+111F][U+1210]ĀVendre jambières\n[U+111F]Vendre accessoires\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nDe quoi voulez-vous parler?\n[U+1208][U+0003]Papoter\nRens. shopping\n[U+1210]ĀNon affiché\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\n*renifl*[1205][001E] Mon fils a décidé de devenir détective.\nC'est une telle honte, j'en pleurerais."
+    "texte_fr": "Hihi! Autre chose?\n[U+1208][U+0006]Acheter objets\nVendre objets\nPapoter\n[U+1210]ĀVoir objets\nNon\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister #3\nAlors, que voulez-vous vendre?\n[U+1208][U+0007][U+111F][U+1210]ĀNon affiché\n[U+111F]Vendre objets\n[U+111F]Vendre armes\n[U+111F][U+1210]ĀVendre casques\n[U+111F]Vendre armures\n[U+111F][U+1210]ĀVendre jambières\n[U+111F]Vendre accessoires\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister #3\nDe quoi voulez-vous parler?\n[U+1208][U+0003]Papoter\nRens. shopping\n[U+1210]ĀNon affiché\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister #3\n*renifl*[1205][001E] Mon fils a décidé de devenir détective.\nC'est une telle honte, j'en pleurerais."
   },
   {
     "id": 25,
@@ -377,7 +377,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Hehe...[SP]Sales[SP]of[SP]our[SP]armor[SP]are[SP]booming.\nThough[SP]that's[SP]to[SP]be[SP]expected...[SP]We[SP]are[SP]the\nnumber[SP]one[SP]brand[SP]in[SP]the[SP]world,[SP]after[SP]all!",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Héhé...[SP]Les[SP]ventes[SP]d'armures[SP]explosent.\nNormal...[SP]Nous[SP]sommes[SP]la[SP]première[SP]marque\nau[SP]monde,[SP]après[SP]tout!"
+    "texte_fr": "Héhé... Les ventes d'armures explosent.\nNormal... Nous sommes la première marque\nau monde, après tout!"
   },
   {
     "id": 38,
@@ -387,7 +387,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Even[SP]the[SP]dullest[SP]armor[SP]becomes[SP]a[SP]refined\nflower[SP]of[SP]steel[SP]in[SP]our[SP]hands.[SP]Buy[SP]without\nhesitation!",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Toute[SP]armure[SP]terne[SP]devient[SP]une[SP]belle\nfleur[SP]d'acier[SP]entre[SP]nos[SP]mains.\nAchetez[SP]sans[SP]hésiter!"
+    "texte_fr": "Toute armure terne devient une belle\nfleur d'acier entre nos mains.\nAchetez sans hésiter!"
   },
   {
     "id": 39,
@@ -397,7 +397,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "This[SP]wave[SP]of[SP]terror[SP]is[SP]no[SP]joke![SP]What[SP]would\nhappen[SP]if[SP]this[SP]shop[SP]burned[SP]down!?[SP]The[SP]whole\nworld[SP]would[SP]keenly[SP]feel[SP]its[SP]loss!",
     "nom_fr": "Vendeuse",
-    "texte_fr": "La[SP]terreur[SP]n'est[SP]pas[SP]une[SP]blague!\nSi[SP]cette[SP]boutique[SP]brûlait!?[SP]Le\nmonde[SP]entier[SP]en[SP]souffrirait!"
+    "texte_fr": "La terreur n'est pas une blague!\nSi cette boutique brûlait!? Le\nmonde entier en souffrirait!"
   },
   {
     "id": 40,
@@ -457,7 +457,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Heeheehee.[SP]Welcoooome![SP]What'll[SP]it[SP]be?\n[U+1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[U+1210]ĀView[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nSo,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[U+1208][U+0007][U+111F][U+1210]ĀUndisplayed[SP]selection\n[U+111F]Sell[SP]items\n[U+111F]Sell[SP]weapons\n[U+111F][U+1210]ĀSell[SP]head[SP]armor\n[U+111F]Sell[SP]armor\n[U+111F][U+1210]ĀSell[SP]leg[SP]armor\n[U+111F]Sell[SP]accessories\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nSo[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nOh,[SP]but[SP]you[SP]don't[SP]have[SP]anything[SP]you[SP]can[SP]sell.",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Hihi! Bienveenuue! Que puis-je faire pour vous?\n[U+1208][U+0006]Acheter objets\nVendre objets\nPapoter\n[U+1210]ĀVoir objets\nNon\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nAlors, que souhaitez-vous vendre?\n[U+1208][U+0007][U+111F][U+1210]ĀNon affiché\n[U+111F]Vendre objets\n[U+111F]Vendre armes\n[U+111F][U+1210]ĀVendre casques\n[U+111F]Vendre armures\n[U+111F][U+1210]ĀVendre jambières\n[U+111F]Vendre accessoires\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nDe quoi voulez-vous parler?\n[U+1208][U+0003]Papoter\nRens. shopping\n[U+1210]ĀNon affiché\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nOh, mais vous n'avez rien à vendre."
+    "texte_fr": "Hihi! Bienveenuue! Que puis-je faire pour vous?\n[U+1208][U+0006]Acheter objets\nVendre objets\nPapoter\n[U+1210]ĀVoir objets\nNon\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister #3\nAlors, que souhaitez-vous vendre?\n[U+1208][U+0007][U+111F][U+1210]ĀNon affiché\n[U+111F]Vendre objets\n[U+111F]Vendre armes\n[U+111F][U+1210]ĀVendre casques\n[U+111F]Vendre armures\n[U+111F][U+1210]ĀVendre jambières\n[U+111F]Vendre accessoires\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister #3\nDe quoi voulez-vous parler?\n[U+1208][U+0003]Papoter\nRens. shopping\n[U+1210]ĀNon affiché\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister #3\nOh, mais vous n'avez rien à vendre."
   },
   {
     "id": 46,
@@ -467,6 +467,6 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "The[SP]total[SP]comes[SP]to[SP][U+120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[U+1208][0002]Yes\nNo\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nHeeheehee.[SP]Okay,[SP]I'll[SP]tell[SP]you[SP]a[SP]little[SP]about\nshopping.\n[E1][E2][E4][NULL][NULL]\"Sister[SP]#3\nFirst,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.\n[E1][E2][E4][NULL][NULL]\"Sister[SP]#3\nOh,[SP]and[SP]there's[SP]a[SP]limit[SP]to[SP]how[SP]many[SP]of[SP]the\nsame[SP]item[SP]you[SP]can[SP]carry.\n[E1][E2][E4][NULL][NULL]\"Sister[SP]#3\nNext,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.\n[E1][E2][E4][NULL][NULL]\"Sister[SP]#3\nOur[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.\n[E1][E2][E4][NULL][NULL]\"Sister[SP]#3\nThat's[SP]about[SP]it.[SP]Heeheehee.",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Le total s'élève à [U+120E][NULL] yens.\nÇa vous va?\n[U+1208][0002]Oui\nNon\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister[SP]#3\nHihi! D'accord, je vais expliquer\nun peu le shopping.\n[E1][E2][E4][NULL][NULL]\"Sister[SP]#3\nD'abord, les achats. Sélectionnez [1432][NULL][NULL][0014]Acheter objets,[1432][NULL][NULL][0014]\npour choisir nos articles de bazar.\n[E1][E2][E4][NULL][NULL]\"Sister[SP]#3\nOh, il y a une limite pour\nle même objet que vous portez.\n[E1][E2][E4][NULL][NULL]\"Sister[SP]#3\nEnsuite, pour vendre. Sélectionnez [1432][NULL][NULL][0014]Vendre objets,[1432][NULL][NULL][0014]\npuis le type d'objet à vendre.\nEnfin, choisissez l'objet précis.\n[E1][E2][E4][NULL][NULL]\"Sister[SP]#3\nLa revente est à moitié prix.\nOn ne vend pas les objets équipés\nni certains objets spéciaux.\n[E1][E2][E4][NULL][NULL]\"Sister[SP]#3\nC'est tout. Hihi!"
+    "texte_fr": "Le total s'élève à [U+120E][NULL] yens.\nÇa vous va?\n[U+1208][0002]Oui\nNon\n[U+1109][E2][E3][E4][NULL][NULL]\"Sister #3\nHihi! D'accord, je vais expliquer\nun peu le shopping.\n[E1][E2][E4][NULL][NULL]\"Sister #3\nD'abord, les achats. Sélectionnez [1432][NULL][NULL][0014]Acheter objets,[1432][NULL][NULL][0014]\npour choisir nos articles de bazar.\n[E1][E2][E4][NULL][NULL]\"Sister #3\nOh, il y a une limite pour\nle même objet que vous portez.\n[E1][E2][E4][NULL][NULL]\"Sister #3\nEnsuite, pour vendre. Sélectionnez [1432][NULL][NULL][0014]Vendre objets,[1432][NULL][NULL][0014]\npuis le type d'objet à vendre.\nEnfin, choisissez l'objet précis.\n[E1][E2][E4][NULL][NULL]\"Sister #3\nLa revente est à moitié prix.\nOn ne vend pas les objets équipés\nni certains objets spéciaux.\n[E1][E2][E4][NULL][NULL]\"Sister #3\nC'est tout. Hihi!"
   }
 ]

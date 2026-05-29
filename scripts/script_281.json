@@ -227,7 +227,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah!?[SP]Was[SP]that[SP]couple[SP]over[SP]there[SP]talking\nabout[SP]Principal[SP]Hanya?",
     "nom_fr": "Ginko",
-    "texte_fr": "Aiyah!? Ce couple là-bas parlait\ndu directeur Hanya?"
+    "texte_fr": "Aiyah!? Ce couple là-bas parlait\ndu Proviseur Hanya?"
   },
   {
     "id": 23,
@@ -856,7 +856,7 @@
     "data_size": 324,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "I'm[SP]currently[SP]listening[SP]in[SP]on[SP]the[SP]murmurs[SP]of\nsociety.[SP]Listening[SP]to[SP]rumors[SP]teaches[SP]you[SP]the\nlies[SP]and[SP]deceptions[SP]of[SP]the[SP]world[SP]very[SP]clearly.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "J'écoute actuellement les murmures de\nla société. Écouter les rumeurs enseigne\nclairement les mensonges et tromperies du monde."
   },
   {
@@ -866,7 +866,7 @@
     "data_size": 260,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Would[SP]you[SP]mind[SP]telling[SP]me[SP]any[SP]interesting\nrumors[SP]you[SP]know?[SP]In[SP]return,[SP]I'll[SP]tell[SP]you\nthe[SP]ones[SP]I've[SP]heard.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Me raconter des rumeurs intéressantes?\nEn échange, je vous dirai\ncelles que j'ai entendues."
   },
   {
@@ -886,8 +886,8 @@
     "data_size": 1406,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]can[SP]this[SP]old[SP]man[SP]do[SP]for[SP]you[SP]today?\n[U+1208][U+0003][U+1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toku-san\nNever[SP]mind\n[U+1109][E2][E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nWhat[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[U+1208][U+0004][U+1210][U+0476]Weapon[SP]shop[SP]rumors\n[U+1210][U+0477]Armor[SP]shop[SP]rumors\n[U+1210][U+0478]Other[SP]rumors\nNone\n[U+1109][E2][E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nFor[SP]which[SP]region?\n[U+1208][U+0005][U+1210][U+046A]Rengedai\n[U+1210][U+046B]Yumezaki\n[U+1210][U+046C]Aoba\n[U+1210][U+046D]Kounan\nNone\n[U+1109][E2][E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nFor[SP]which[SP]region?\n[U+1208][U+0005][U+1210][U+046E]Rengedai\n[U+1210][U+046F]Yumezaki\n[U+1210][U+0470]Aoba\n[U+1210][U+0471]Kounan\nNone\n[U+1109][E2][E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nWhat[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[U+1208][U+0004][U+1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[U+1210][U+0473]Mu[SP]rumors\n[U+1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them\n[U+1109][E2][E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nThat[SP]rumor,[SP]eh...?[SP]All[SP]right.[SP]Well[SP]then,\nwould[SP]you[SP]mind[SP]sharing[SP]your[SP]own[SP]rumors\nwith[SP]me[SP]first?",
-    "nom_fr": "Toku-san le colporteur",
-    "texte_fr": "Que puis-je faire pour vous?\n[U+1208][U+0003][U+1210][U+0475]Demander des rumeurs\nParler avec Toku-san\nNon merci\n[U+1109][E2][E3][E4][NULL][NULL]\"Toku-san le colporteur\nQuel type de rumeur?\n[U+1208][U+0004][U+1210][U+0476]Rumeurs: armes\n[U+1210][U+0477]Rumeurs: armures\n[U+1210][U+0478]Autres rumeurs\nAucune\n[U+1109][E2][E3][E4][NULL][NULL]\"Toku-san le colporteur\nPour quelle région?\n[U+1208][U+0005][U+1210][U+046A]Rengedai\n[U+1210][U+046B]Yumezaki\n[U+1210][U+046C]Aoba\n[U+1210][U+046D]Kounan\nAucune\n[U+1109][E2][E3][E4][NULL][NULL]\"Toku-san le colporteur\nPour quelle région?\n[U+1208][U+0005][U+1210][U+046E]Rengedai\n[U+1210][U+046F]Yumezaki\n[U+1210][U+0470]Aoba\n[U+1210][U+0471]Kounan\nAucune\n[U+1109][E2][E3][E4][NULL][NULL]\"Toku-san le colporteur\nQuel type de rumeur?\n[U+1208][U+0004][U+1210][U+0472]Loteries de magazines\n[U+1210][U+0473]Rumeurs: Mu\n[U+1210][U+0474]Armes légendaires\nAucune\n[U+1109][E2][E3][E4][NULL][NULL]\"Toku-san le colporteur\nCette rumeur, hm...? Très bien. Alors,\npourriez-vous d'abord me raconter\nvos propres rumeurs?"
+    "nom_fr": "Toku-san l'informateur",
+    "texte_fr": "Que puis-je faire pour vous?\n[U+1208][U+0003][U+1210][U+0475]Demander des rumeurs\nParler avec Toku-san\nNon merci\n[U+1109][E2][E3][E4][NULL][NULL]\"Toku-san l'informateur\nQuel type de rumeur?\n[U+1208][U+0004][U+1210][U+0476]Rumeurs: armes\n[U+1210][U+0477]Rumeurs: armures\n[U+1210][U+0478]Autres rumeurs\nAucune\n[U+1109][E2][E3][E4][NULL][NULL]\"Toku-san l'informateur\nPour quelle région?\n[U+1208][U+0005][U+1210][U+046A]Rengedai\n[U+1210][U+046B]Yumezaki\n[U+1210][U+046C]Aoba\n[U+1210][U+046D]Kounan\nAucune\n[U+1109][E2][E3][E4][NULL][NULL]\"Toku-san l'informateur\nPour quelle région?\n[U+1208][U+0005][U+1210][U+046E]Rengedai\n[U+1210][U+046F]Yumezaki\n[U+1210][U+0470]Aoba\n[U+1210][U+0471]Kounan\nAucune\n[U+1109][E2][E3][E4][NULL][NULL]\"Toku-san l'informateur\nQuel type de rumeur?\n[U+1208][U+0004][U+1210][U+0472]Loteries de magazines\n[U+1210][U+0473]Rumeurs: Mu\n[U+1210][U+0474]Armes légendaires\nAucune\n[U+1109][E2][E3][E4][NULL][NULL]\"Toku-san l'informateur\nCette rumeur, hm...? Très bien. Alors,\npourriez-vous d'abord me raconter\nvos propres rumeurs?"
   },
   {
     "id": 89,
@@ -896,7 +896,7 @@
     "data_size": 246,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Hm...[1205][001E][SP]The[SP]principal[SP]of[SP]Sevens[SP]suddenly[SP]grew\nsome[SP]hair?[SP]That[SP]may[SP]have[SP]been[SP]his[SP]request\nto[SP]Joker.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Hm...[1205][001E] Le directeur de Seven aurait\npoussé des cheveux? C'était peut-être sa\nrequête à Joker."
   },
   {
@@ -906,7 +906,7 @@
     "data_size": 200,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Well,[SP]my[SP]turn[SP]then.[SP]Do[SP]you[SP]know[SP]of[SP]the[SP]mall\ncalled[SP]Lotus[SP]here[SP]in[SP]Rengedai?",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Mon tour. Connaissez-vous le centre\ncommercial Lotus à Rengedai?"
   },
   {
@@ -916,7 +916,7 @@
     "data_size": 354,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "The[SP]mysterious[SP]owner[SP]of[SP][E4][NULL][NULL][U+0006]Time[SP]Castle[E4][NULL][NULL][0002]...\nIt[SP]seems[SP]he's[SP]secretly[SP]selling[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002].\nTheir[SP][E4][NULL][NULL][U+0006]quality[SP]and[SP]price[SP]is[SP]average[E4][NULL][NULL][0002],[SP]I[SP]hear.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Le proprio de [E4][NULL][NULL][U+0006]Time Castle[E4][NULL][NULL][0002] vend en secret\nde [E4][NULL][NULL][U+0006]vraies armes[E4][NULL][NULL][0002]. Leur [E4][NULL][NULL][U+0006]qualité\net prix sont dans la moyenne[E4][NULL][NULL][0002], dit-on."
   },
   {
@@ -926,7 +926,7 @@
     "data_size": 332,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "He's[SP]a[SP]rather[SP]suspicious[SP]man[SP]who[SP]talks[SP]as[SP]if[SP]he\ncan[SP]see[SP]through[SP]people.[SP]He[SP]even[SP]calls[SP]himself\na[SP]Count...[SP]So[SP]this[SP]rumor[SP]comes[SP]as[SP]no[SP]surprise.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "C'est un homme assez suspect qui parle\ncomme s'il lisait dans les pensées. Il se\ndit même Comte... Cette rumeur ne m'étonne pas."
   },
   {
@@ -936,7 +936,7 @@
     "data_size": 278,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Hm?[SP]There's[SP]a[SP]real[SP]ghost[SP]in[SP]Sevens'[SP]clock\ntower?[SP]A[SP]school[SP]ghost[SP]story...[SP]Well,[SP]all\nright.[SP]Here's[SP]a[SP]story[SP]from[SP]me.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Hm? Un fantôme dans la tour de l'horloge\nde Seven? Bon. Voici ce que je sais."
   },
   {
@@ -946,7 +946,7 @@
     "data_size": 348,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Do[SP]you[SP]know[SP][E4][NULL][NULL][U+0006]Tony's[SP]Shop[E4][NULL][NULL][0002][SP]in[SP]Yumezaki?[SP]I[SP]hear\nhe[SP]sells[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002].[SP]His[SP][E4][NULL][NULL][U+0006]selection[SP]is[SP]good,\nbut[SP]the[SP]resale[SP]value[SP]there[SP]is[SP]low[E4][NULL][NULL][0002].",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Connaissez-vous [E4][NULL][NULL][U+0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki?\nIl vend de [E4][NULL][NULL][U+0006]vraies armes[E4][NULL][NULL][0002]. [E4][NULL][NULL][U+0006]Bon choix,\nmais faible valeur de revente[E4][NULL][NULL][0002]."
   },
   {
@@ -956,7 +956,7 @@
     "data_size": 318,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "I[SP]don't[SP]hear[SP]many[SP]nice[SP]rumors[SP]about[SP]him,[SP]you\nknow.[SP]Some[SP]even[SP]say[SP]he's[SP]part[SP]of[SP]some[SP]organized\ncrime[SP]group.[SP]Who[SP]knows?[SP]Maybe[SP]it's[SP]true.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Je n'entends pas beaucoup de bonnes rumeurs\nà son sujet. Certains disent même qu'il fait\npartie du crime organisé. Qui sait?"
   },
   {
@@ -966,7 +966,7 @@
     "data_size": 310,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "The[SP]Death[SP]Boss[SP]of[SP]Cuss[SP]High...[SP]is[SP]no[SP]longer\nthe[SP]Boss?[1205][U+000F][SP]Yes...[SP]the[SP]young[SP]ones[SP]might[SP]be\ninterested[SP]to[SP]know[SP]that.[SP]Okay,[SP]here's[SP]one.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Le Boss de la Mort de Kakasu...\nn'est plus le Boss?[1205][U+000F] Oui... les jeunes\npourraient être intéressés. Voici une rumeur."
   },
   {
@@ -976,7 +976,7 @@
     "data_size": 354,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Do[SP]you[SP]know[SP][E4][NULL][NULL][U+0006]Clair[SP]de[SP]Lune[E4][NULL][NULL][0002][SP]in[SP]Aoba?[SP]I[SP]hear\nyou[SP]can[SP]buy[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002][SP]there.[SP]The[SP][E4][NULL][NULL][U+0006]selection\nis[SP]bad,[SP]but[SP]the[SP]resale[SP]prices[SP]are[SP]good[E4][NULL][NULL][0002].",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Connaissez-vous [E4][NULL][NULL][U+0006]Clair de Lune[E4][NULL][NULL][0002] à Aoba?\nOn y achète de [E4][NULL][NULL][U+0006]vraies armes[E4][NULL][NULL][0002]. [E4][NULL][NULL][U+0006]Mauvais\nchoix, bons prix de revente[E4][NULL][NULL][0002]."
   },
   {
@@ -986,7 +986,7 @@
     "data_size": 326,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "I[SP]also[SP]hear[SP]the[SP]Garcon[SP]there[SP]drove[SP]away[SP]some\npunks[SP]who[SP]came[SP]with[SP]knives,[SP]and[SP]said[SP]he'd[SP]have\nrifles[SP]ready[SP]next[SP]time.[SP]He's[SP]no[SP]ordinary[SP]man.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "J'entends aussi que le garçon a chassé des\nvauriens armés et dit avoir des fusils\nla prochaine fois. Un homme redoutable."
   },
   {
@@ -996,7 +996,7 @@
     "data_size": 308,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What?[SP]That[SP]producer[SP]is[SP]actually[SP]part[SP]of[SP]the\nMasked[SP]Circle?[SP]Now[SP]that's[SP]useful[SP]information.\nI[SP]think[SP]I[SP]have[SP]a[SP]rumor[SP]worthy[SP]of[SP]that.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Quoi? Ce producteur fait partie du\nCercle masqué? Voilà une information utile.\nJe pense avoir une rumeur à la hauteur."
   },
   {
@@ -1006,7 +1006,7 @@
     "data_size": 364,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "There's[SP]a[SP]cafe[SP]called[SP][E4][NULL][NULL][U+0006]Jolly[SP]Roger[E4][NULL][NULL][0002][SP]in[SP]Kounan,\nwhere[SP]it[SP]seems[SP]you[SP]can[SP]buy[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][U+000F][SP]Rumor\nis[SP]their[SP][E4][NULL][NULL][U+0006]quality[SP]and[SP]price[SP]is[SP]average[E4][NULL][NULL][0002].",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Il y a un café [E4][NULL][NULL][U+0006]Jolly Roger[E4][NULL][NULL][0002] à Kounan\npour acheter de [E4][NULL][NULL][U+0006]vraies armes[E4][NULL][NULL][0002].[1205][U+000F] [E4][NULL][NULL][U+0006]Qualité\net prix dans la moyenne[E4][NULL][NULL][0002]."
   },
   {
@@ -1016,7 +1016,7 @@
     "data_size": 328,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "The[SP][1432][NULL][NULL][0014]Jolly[SP]Roger[1432][NULL][NULL][0014][SP]refers[SP]to[SP]the[SP]skull[SP]and\ncrossbones...[SP]Between[SP]the[SP]ship-like[SP]decor[SP]and\nhis[SP]clothing,[SP]the[SP]owner[SP]may[SP]be[SP]an[SP]ex-pirate.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Le [1432][NULL][NULL][0014]Jolly Roger[1432][NULL][NULL][0014] désigne le crâne et\nos croisés... Entre le décor marin et ses\nvêtements, le patron est peut-être un ex-pirate."
   },
   {
@@ -1026,7 +1026,7 @@
     "data_size": 304,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Oh...?[1205][001E][SP]Something[SP]terrible[SP]will[SP]happen[SP]when[SP]the\nclock[SP]at[SP]Sevens[SP]starts?[SP]Haha,[SP]I[SP]don't[SP]suppose\nthe[SP]world[SP]will[SP]end[SP]or[SP]anything.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Oh...?[1205][001E] Quelque chose de terrible quand\nl'horloge de Seven se remettra en marche?\nJ'espère que le monde ne va pas finir."
   },
   {
@@ -1036,7 +1036,7 @@
     "data_size": 226,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Well[SP]then,[SP]my[SP]turn.[SP]You're[SP]aware[SP]of[SP]the[SP]mall\ncalled[SP]Lotus[SP]here[SP]in[SP]Rengedai,[SP]I'm[SP]sure...",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Mon tour. Vous connaissez le centre\ncommercial Lotus à Rengedai, j'imagine..."
   },
   {
@@ -1046,7 +1046,7 @@
     "data_size": 374,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Do[SP]you[SP]know[SP]the[SP]boutique[SP][E4][NULL][NULL][U+0006]Rosa[SP]Candida[E4][NULL][NULL][0002]?[SP]It[SP]seems\nyou[SP]can[SP]actually[SP]buy[SP][E4][NULL][NULL][U+0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP]Rumor\nhas[SP]it[SP]their[SP][E4][NULL][NULL][U+0006]quality[SP]and[SP]prices[SP]are[SP]average[E4][NULL][NULL][0002].",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Connaissez-vous [E4][NULL][NULL][U+0006]Rosa Candida[E4][NULL][NULL][0002]? On y achète\nde [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002]. [E4][NULL][NULL][U+0006]Qualité\net prix dans la moyenne[E4][NULL][NULL][0002]."
   },
   {
@@ -1066,7 +1066,7 @@
     "data_size": 308,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "A[SP]secret[SP]lounge[SP]inside[SP]Zodiac,[SP]eh?[SP]I'd[SP]heard\nabout[SP]it,[SP]but[SP]to[SP]know[SP]it[SP]actually[SP]exists...\nAll[SP]right.[SP]Let[SP]me[SP]tell[SP]you[SP]what[SP]I[SP]know.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Un salon secret dans le Zodiac?\nJ'en avais entendu parler. Très bien.\nVoici ce que je sais."
   },
   {
@@ -1076,7 +1076,7 @@
     "data_size": 342,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Do[SP]you[SP]know[SP][E4][NULL][NULL][U+0006]Anima[SP]Mundi[E4][NULL][NULL][0002][SP]in[SP]Yumezaki?[SP]It[SP]seems\nthey[SP]sell[SP][E4][NULL][NULL][U+0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP]The[SP][E4][NULL][NULL][U+0006]quality[SP]and\nprice[SP]of[SP]their[SP]goods[SP]is[SP]normal[E4][NULL][NULL][0002].",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Connaissez-vous [E4][NULL][NULL][U+0006]Anima Mundi[E4][NULL][NULL][0002] à Yumezaki?\nIls vendent de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002]. [E4][NULL][NULL][U+0006]Qualité\net prix normaux[E4][NULL][NULL][0002]."
   },
   {
@@ -1086,7 +1086,7 @@
     "data_size": 260,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "It[SP]seems[SP]the[SP]saleswoman[SP]there[SP]told[SP]her[SP]customer\nthat[SP]this[SP]year's[SP]fashions[SP]will[SP]be[SP]modeled\nafter[SP]armor...",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Il semble que la vendeuse ait dit à sa cliente\nque les armures seront la mode de\nl'année..."
   },
   {
@@ -1096,8 +1096,8 @@
     "data_size": 712,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Ah,[SP]so[SP]this[SP]new[SP]Leader[SP]at[SP]Kasugayama[SP]used[SP]to\nbe[SP]the[SP]Death[SP]Boss'[SP]underling.[1205][U+000F][SP]The[SP]low[SP]overcomes\nthe[SP]high...[1205][U+000F][SP]All[SP]right,[SP]here's[SP]what[SP]I[SP]know.[E1][E2]\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nThere's[SP]a[SP]branch[SP]of[SP][E4][NULL][NULL][U+0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]in[SP]Aoba,[SP]and\nword[SP]is[SP]they[SP]sell[SP][E4][NULL][NULL][U+0006]real[SP]armor[E4][NULL][NULL][0002].[1205][U+000F][SP]Their[SP][E4][NULL][NULL][U+0006]selection\nis[SP]paltry,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]good[E4][NULL][NULL][0002].",
-    "nom_fr": "Toku-san le colporteur",
-    "texte_fr": "Ah, le nouveau Leader de Kasugayama était\nl'acolyte du Boss de la Mort.[1205][U+000F] Le bas\nsurpasse le haut...[1205][U+000F] Voici ce que je sais.[E1][E2]\n[E3][E4][NULL][NULL]\"Toku-san le colporteur\nIl y a une [E4][NULL][NULL][U+0006]Rosa Candida[E4][NULL][NULL][0002] à Aoba,\navec de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002].[1205][U+000F] [E4][NULL][NULL][U+0006]Mauvais choix\nmais bons prix de revente[E4][NULL][NULL][0002]."
+    "nom_fr": "Toku-san l'informateur",
+    "texte_fr": "Ah, le nouveau Leader de Kasugayama était\nl'acolyte du Boss de la Mort.[1205][U+000F] Le bas\nsurpasse le haut...[1205][U+000F] Voici ce que je sais.[E1][E2]\n[E3][E4][NULL][NULL]\"Toku-san l'informateur\nIl y a une [E4][NULL][NULL][U+0006]Rosa Candida[E4][NULL][NULL][0002] à Aoba,\navec de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002].[1205][U+000F] [E4][NULL][NULL][U+0006]Mauvais choix\nmais bons prix de revente[E4][NULL][NULL][0002]."
   },
   {
     "id": 110,
@@ -1106,7 +1106,7 @@
     "data_size": 332,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "The[SP]lucky[SP]cat[SP]statue[SP]at[SP]the[SP]Kuzunoha[SP]Detective\nAgency[SP]talks?[SP]Hahaha,[SP]I[SP]know[SP]some[SP]girls[SP]who'd\nbe[SP]delighted[SP]to[SP]hear[SP]it.[SP]Alright,[SP]here's[SP]one...",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "La statue de chance à l'Agence Kuzunoha\nparle? Hahaha, j'ai des amies qui adoreraient\nça. Très bien, en voici une..."
   },
   {
@@ -1116,7 +1116,7 @@
     "data_size": 388,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "There's[SP]a[SP]European-styled[SP]shop,[SP][E4][NULL][NULL][U+0006]London[SP]Clothier[E4][NULL][NULL][0002],\nin[SP]Kounan.[1205][U+000A][SP]You[SP]can[SP]buy[SP][E4][NULL][NULL][U+0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP][E4][NULL][NULL][U+0006]Their\nselection[SP]is[SP]good,[SP]but[SP]the[SP]resale[SP]value[SP]isn't[E4][NULL][NULL][0002].",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Il y a [E4][NULL][NULL][U+0006]London Clothier[E4][NULL][NULL][0002] à Kounan.\nOn y achète de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002]. [E4][NULL][NULL][U+0006]Bon\nchoix, faible valeur de revente[E4][NULL][NULL][0002]."
   },
   {
@@ -1136,7 +1136,7 @@
     "data_size": 304,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Tamaki[SP]at[SP]Kuzunoha[SP]Detective[SP]Agency[SP]is[SP]a[SP]real\nDevil[SP]Summoner?[SP]Is[SP]that[SP]an[SP]actual[SP]job?[SP]I've\nnever[SP]heard[SP]of[SP]it...[SP]Hmm.[SP]All[SP]right.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Tamaki de l'Agence Kuzunoha est une\nInvocatrice de Démons? C'est un vrai métier?\nJe n'en avais jamais entendu parler..."
   },
   {
@@ -1146,7 +1146,7 @@
     "data_size": 370,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "My[SP]turn.[SP]You[SP]know[SP]the[SP][E4][NULL][NULL][U+0006]magazine[SP]sweepstakes[E4][NULL][NULL][0002]?[SP]It\nseems[SP]people[SP]win[SP][E4][NULL][NULL][U+0006]real[SP]weapons[SP]and[SP]rare[SP]items[E4][NULL][NULL][0002].\nIt's[SP][E4][NULL][NULL][U+0006]hard[SP]to[SP]win,[SP]but[SP]the[SP]prizes[SP]are[SP]good[E4][NULL][NULL][0002].",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Mon tour. Les [E4][NULL][NULL][U+0006]loteries de magazines[E4][NULL][NULL][0002]?\nOn gagne de [E4][NULL][NULL][U+0006]vraies armes et objets rares[E4][NULL][NULL][0002].\n[E4][NULL][NULL][U+0006]Difficile à gagner, bons prix[E4][NULL][NULL][0002]."
   },
   {
@@ -1156,7 +1156,7 @@
     "data_size": 312,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Ah...[SP]So[SP]demons[SP]really[SP]do[SP]exist?[1205][001E][SP]Now[SP]that's\nfar-fetched.[SP]I[SP]personally[SP]think[SP]it's[SP]more\nlikely[SP]that[SP]evil[SP]lurks[SP]in[SP]people's[SP]hearts.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Ah... Les démons existent vraiment?[1205][001E]\nVoilà qui est tiré par les cheveux.\nJe pense que le mal réside dans les cœurs."
   },
   {
@@ -1166,7 +1166,7 @@
     "data_size": 190,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Well,[SP]my[SP]turn[SP]then.[SP]Do[SP]you[SP]know[SP]a[SP]large\narcade[SP]in[SP]Yumezaki[SP]called[SP]Mu?",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Mon tour. Connaissez-vous la grande\narcade Mu à Yumezaki?"
   },
   {
@@ -1196,7 +1196,7 @@
     "data_size": 280,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Why[SP]not[SP]ask[SP]the[SP]salesman[SP]at[SP]the[SP]sushi\nrestaurant?[SP]He[SP]knows[SP]a[SP]lot[SP]about[SP]rumors\ntoo...[SP]Perhaps[SP]he's[SP]heard[SP]something.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Pourquoi ne pas demander au vendeur\ndu restaurant de sushis? Il en sait long\nlui aussi sur les rumeurs."
   },
   {
@@ -1206,7 +1206,7 @@
     "data_size": 318,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Is[SP]this[SP]Masked[SP]Circle[SP]an[SP]organization[SP]of[SP]some\nsort?[SP]Very[SP]interesting...[1205][U+000F][SP]I[SP]hope[SP]you[SP]don't\nmind[SP]if[SP]I[SP]add[SP]this[SP]rumor[SP]to[SP]my[SP]collection.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Ce Cercle masqué est une organisation?\nTrès intéressant...[1205][U+000F] J'ajoute cette rumeur\nà ma collection, si vous permettez."
   },
   {
@@ -1216,7 +1216,7 @@
     "data_size": 314,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Parks[SP]are[SP]often[SP]called[SP]the[SP]oases[SP]of[SP]cities,\nand[SP]indeed,[SP]people[SP]who[SP]come[SP]here[SP]gain[SP]respite\nfrom[SP]their[SP]stress.[SP]It's[SP]healthy[SP]for[SP]them.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Les parcs sont souvent les oasis des villes,\net en effet, les gens qui viennent ici\ntrouvent un répit à leur stress."
   },
   {
@@ -1236,7 +1236,7 @@
     "data_size": 280,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "If[SP]you[SP]want[SP]to[SP]learn[SP]how[SP]the[SP]world[SP]works,\nopen[SP]your[SP]ears[SP]before[SP]you[SP]open[SP]a[SP]newspaper.\nYou'll[SP]learn[SP]a[SP]lot[SP]that[SP]way.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Pour comprendre le monde, tendez l'oreille\navant d'ouvrir un journal.\nVous apprendrez beaucoup."
   },
   {
@@ -1246,7 +1246,7 @@
     "data_size": 330,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "The[SP]creature[SP]called[SP]society[SP]is[SP]really[SP]just[SP]a\nherd[SP]of[SP]people.[SP]Pay[SP]attention[SP]to[SP]people's[SP]true\nintentions,[SP]rumors,[SP]and[SP]you[SP]gain[SP]understanding.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "La créature appelée société n'est qu'un\ntroupeau d'hommes. Écoutez leurs vraies\nintentions, les rumeurs, et vous comprendrez."
   },
   {
@@ -1256,7 +1256,7 @@
     "data_size": 310,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "With[SP]all[SP]the[SP]chaos[SP]lately,[SP]I[SP]haven't[SP]picked\nup[SP]any[SP]new[SP]rumors[SP]at[SP]all.[SP]Perhaps[SP]the[SP]time\nhas[SP]come[SP]for[SP]me[SP]to[SP]move[SP]on[SP]from[SP]this[SP]park.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Avec tout ce chaos récemment, je n'ai recueilli\naucune nouvelle rumeur. Peut-être est-il\ntemps pour moi de quitter ce parc."
   },
   {
@@ -1266,7 +1266,7 @@
     "data_size": 334,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "The[SP]Masked[SP]Circle[SP]is[SP]protecting[SP]the[SP]people...[1205][001E]\nJoker's[SP]actions[SP]seemed[SP]inconsistent[SP]at[SP]first,\nbut[SP]perhaps[SP]it's[SP]all[SP]driven[SP]by[SP]his[SP]conscience.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Le Cercle masqué protège les gens...[1205][001E]\nLes actions de Joker semblaient incohérentes\nau premier abord, mais sa conscience le guide."
   },
   {
@@ -1276,7 +1276,7 @@
     "data_size": 328,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "That's[SP]all[SP]the[SP]rumors[SP]I[SP]know[SP]of.[SP]I'll[SP]tell[SP]you\nmore[SP]when[SP]a[SP]new[SP]one[SP]comes[SP]in.[SP]Make[SP]sure[SP]you\nhave[SP]some[SP]interesting[SP]information[SP]ready[SP]for[SP]me!",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "C'est tout ce que je sais. Je vous en dirai\nplus quand j'aurai du nouveau. Ayez des\nrumeurs intéressantes pour moi!"
   },
   {
@@ -1286,7 +1286,7 @@
     "data_size": 244,
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "I[SP]see.[SP]Come[SP]back[SP]here[SP]if[SP]you[SP]want[SP]to[SP]hear[SP]my\nrumors.[SP]I'll[SP]always[SP]be[SP]here,[SP]looking[SP]up[SP]at\nthe[SP]sky.",
-    "nom_fr": "Toku-san le colporteur",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Je vois. Revenez si vous voulez\nentendre mes rumeurs. Je serai là,\nle regard vers le ciel."
   },
   {
@@ -1417,7 +1417,7 @@
     "nom_orig": "Cool[SP]guy",
     "texte_orig": "Was[SP]that[SP]guy[SP]just[SP]now[SP]Principal[SP]Hanya?[SP]I've\nseen[SP]him[SP]at[SP]the[SP]gatherings[SP]a[SP]few[SP]times...\nI[SP]wonder[SP]what[SP]happened.",
     "nom_fr": "Gars stylé",
-    "texte_fr": "C'était le directeur Hanya qui passait?\nJe l'ai vu aux rassemblements...\nJe me demande ce qui s'est passé."
+    "texte_fr": "C'était le Proviseur Hanya qui passait?\nJe l'ai vu aux rassemblements...\nJe me demande ce qui s'est passé."
   },
   {
     "id": 142,
@@ -1596,7 +1596,7 @@
     "data_size": 250,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "The[SP]statue[SP]of[SP]the[SP]principal[SP]at[SP]Sevens[SP]walks\non[SP]its[SP]own,[SP]right?[SP]A[SP]friend[SP]of[SP]a[SP]friend[SP]saw\nit[SP]happen.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "La statue du directeur de Seven se déplace\ntoute seule, non? Un ami d'un ami l'a vu."
   },
   {
@@ -1606,7 +1606,7 @@
     "data_size": 326,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "You[SP]go[SP]to[SP]Sevens,[SP]right?[SP]Looks[SP]like[SP]Kasugayama\nHigh[SP]is[SP]more[SP]popular[SP]with[SP]the[SP]girls[SP]lately.\nI[SP]wonder[SP]if[SP]they'll[SP]shake[SP]the[SP]Cuss[SP]High[SP]name.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Tu vas à Seven? Il paraît que Kasugayama\nest plus populaire chez les filles ces\ntemps-ci. Vont-ils se débarrasser du nom Kakasu?"
   },
   {
@@ -1616,7 +1616,7 @@
     "data_size": 262,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "The[SP]Kasuga[SP]Festival,[SP]huh?[1205][U+000F][SP]This[SP]is[SP]the[SP]first\ntime[SP]I[SP]can[SP]remember[SP]Cuss[SP]High[SP]getting[SP]this\nmuch[SP]attention.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Le Festival Kasuga, hm?[1205][U+000F] C'est la première fois\nque je me souviens que Kakasu attire\nautant d'attention."
   },
   {
@@ -1636,7 +1636,7 @@
     "data_size": 170,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Toku-san[SP]over[SP]there[SP]might[SP]know[SP]more[SP]about\nstuff[SP]like[SP]that.",
-    "nom_fr": "Étudiant",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Toku-san là-bas pourrait en\nsavoir plus sur ce genre de choses."
   },
   {
@@ -1646,7 +1646,7 @@
     "data_size": 306,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Aoba's[SP]outdoor[SP]concert[SP]hall[SP]is[SP]often[SP]used[SP]by\nfamous[SP]artists.[SP]It's[SP]pretty[SP]amazing[SP]that[SP]it'll\nbe[SP]the[SP]venue[SP]for[SP]their[SP]first[SP]show.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "La salle de concerts en plein air à Aoba\naccueille des artistes célèbres.\nImpressionnant que ce soit leur première scène."
   },
   {
@@ -1656,7 +1656,7 @@
     "data_size": 332,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "There[SP]was[SP]a[SP]rumor[SP]about[SP]the[SP]Masked[SP]Circle[SP]being\nbehind[SP]this[SP]terrorism,[SP]but[SP]is[SP]it[SP]true?[1205][U+000F][SP]I[SP]wonder\nif[SP]they're[SP]really[SP]an[SP]evil[SP]organization...",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il y avait une rumeur que le Cercle masqué\nétait derrière les attentats, mais c'est vrai?[1205][U+000F]\nSont-ils vraiment une organisation maléfique..."
   },
   {
@@ -1666,7 +1666,7 @@
     "data_size": 252,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "The[SP]new[SP]rumor[SP]going[SP]around[SP]is[SP]that[SP]this[SP]Last\nBattalion[SP]are[SP]the[SP]real[SP]terrorists.[SP]Do[SP]they\neven[SP]exist?",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "La nouvelle rumeur dit que ce Bataillon\nsont les vrais terroristes. Existent-ils\nvraiment?"
   },
   {
@@ -1676,7 +1676,7 @@
     "data_size": 260,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Apparently[SP]they[SP]released[SP]police[SP]sketches[SP]of\nthe[SP]terrorists.[SP]I[SP]hope[SP]this[SP]puts[SP]a[SP]stop[SP]to\nthe[SP]whole[SP]thing.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il paraît qu'ils ont publié des portraits-robots\ndes terroristes. J'espère que ça va mettre\nfin à tout ça."
   },
   {
@@ -1686,7 +1686,7 @@
     "data_size": 248,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]just[SP]went[SP]to[SP]the[SP]bookstore[SP]and[SP]that\nIn[SP]Lak'ech[SP]was[SP]all[SP]sold[SP]out.[SP]I[SP]guess[SP]it's\nreally[SP]caught[SP]on.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "À la librairie, l'In Lak'ech était épuisé.\nJe suppose qu'il a vraiment\npris de l'essor."
   },
   {
@@ -1696,7 +1696,7 @@
     "data_size": 296,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Those[SP]Last[SP]Battalion[SP]guys[SP]won't[SP]hesitate[SP]to\nattack[SP]even[SP]women[SP]and[SP]children![1205][U+000F][SP]They're[SP]like\nsome[SP]kind[SP]of[SP]killing[SP]machines!",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Ces gars du Bataillon n'hésitent pas à\nattaquer même les femmes et les enfants![1205][U+000F]\nDe vraies machines à tuer!"
   },
   {
@@ -1706,7 +1706,7 @@
     "data_size": 312,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Did[SP]you[SP]hear[SP]the[SP]rumor?[SP]That[SP]ghost[SP]Hanako[SP]is\nsupposedly[SP]haunting[SP]Sevens.[1205][U+000F][SP]It's[SP]kinda[SP]scary,\nbut[SP]I'd[SP]like[SP]to[SP]see[SP]it[SP]if[SP]it's[SP]real.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "T'as entendu la rumeur? Le fantôme Hanako\nhante paraît-il Seven.[1205][U+000F] C'est flippant,\nmais j'aimerais le voir si c'est vrai."
   },
   {
@@ -1716,7 +1716,7 @@
     "data_size": 190,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Did[SP]you[SP]know[SP]that[SP]toilet[SP]monster[SP]Bukimi[SP]is\nhaunting[SP]Kasugayama[SP]High?",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Tu sais que le monstre des toilettes Bukimi\nhante Kasugayama?"
   },
   {
@@ -1736,7 +1736,7 @@
     "data_size": 318,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "There's[SP]an[SP]idol's[SP]ghost[SP]haunting[SP]the[SP]outdoor\nconcert[SP]hall.[1205][U+000F][SP]I[SP]hear[SP]a[SP]lot[SP]of[SP]scary[SP]stories\nabout[SP]that[SP]place...[SP]like[SP]talking[SP]flowers.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il y a le fantôme d'une idole qui hante\nla salle de concerts en plein air.[1205][U+000F] J'entends\nbeaucoup d'histoires effrayantes sur ce lieu..."
   },
   {
@@ -1746,7 +1746,7 @@
     "data_size": 238,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "They[SP]say[SP]a[SP]cursed[SP]taxi[SP]was[SP]seen[SP]at[SP]the\nabandoned[SP]factory[SP]in[SP]Kounan.[1205][U+000F][SP]I[SP]wonder[SP]if\nit's[SP]true.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Un taxi maudit vu à l'usine\nabandonée de Kounan.[1205][U+000F] Je me demande\nsi c'est vrai."
   },
   {
@@ -1756,7 +1756,7 @@
     "data_size": 196,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Sounds[SP]like[SP]there's[SP]a[SP]cursed[SP]escort[SP]at[SP]the\nabandoned[SP]factory[SP]in[SP]Kounan.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il paraît qu'une escorte maudite rôde à\nl'usine abandonnée de Kounan."
   },
   {
@@ -1776,7 +1776,7 @@
     "data_size": 296,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Apparently[SP]Kuchisake-onna[SP]is[SP]appearing[SP]at\nMt.[SP]Iwato.[SP]But[SP]wasn't[SP]that[SP]an[SP]urban[SP]legend?\nWhat's[SP]it[SP]doing[SP]in[SP]the[SP]countryside?",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il paraît que Kuchisake-onna apparaît au\nmont Iwato. Mais c'était une légende urbaine?\nQue fait-elle à la campagne?"
   },
   {
@@ -1786,7 +1786,7 @@
     "data_size": 330,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "They[SP]say[SP]the[SP]Jumping[SP]Geezer[SP]has[SP]been[SP]seen[SP]at\nMt.[SP]Katatsumuri.[1205][U+000F][SP]I[SP]don't[SP]really[SP]know[SP]what[SP]that\nis...[SP]Is[SP]it[SP]basically[SP]what[SP]the[SP]name[SP]implies?",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "On dit que le Vieux Sauteur a été vu au\nmont Katatsumuri.[1205][U+000F] Je ne sais pas vraiment\nce que c'est... C'est ce que le nom implique?"
   },
   {
@@ -1796,7 +1796,7 @@
     "data_size": 314,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Yikes...[1205][U+000A][SP]I[SP]just[SP]heard[SP]a[SP]scary[SP]story...[1205][U+000F][SP]Hm?\nWhat[SP]was[SP]it[SP]about?[1205][U+000F][SP]I-It[SP]was[SP]about[SP]Kudan...[1205][U+000A]\nAt[SP]the[SP]abandoned[SP]factory...[SP]Brrrr...",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Aïe...[1205][U+000A] J'ai entendu une histoire\neffrayante...[1205][U+000F] C-C'était sur\nle Kudan...[1205][U+000A] À l'usine abandonnée... Brrr..."
   },
   {
@@ -1806,7 +1806,7 @@
     "data_size": 318,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]heard[SP]there's[SP]a[SP]secret[SP]CD[SP]at[SP]Giga[SP]Macho\nthat's[SP]not[SP]like[SP]ordinary[SP]CDs.[1205][U+000F][SP]I[SP]don't[SP]know\nthe[SP]details,[SP]but[SP]it's[SP]supposedly[SP]interesting.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il y a un CD secret chez Giga Macho\npas comme les autres.[1205][U+000F]\nJe ne connais pas les détails, mais c'est intéressant."
   },
   {
@@ -1816,7 +1816,7 @@
     "data_size": 190,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]hear[SP]the[SP]Dresser[SP]Hag[SP]has[SP]been[SP]showing[SP]up\nat[SP]the[SP]abandoned[SP]factory.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "J'entends que la Sorcière Habilleuse est\napparue à l'usine abandonnée."
   },
   {
@@ -1826,7 +1826,7 @@
     "data_size": 198,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "It[SP]yelled[SP]at[SP]some[SP]kid[SP]who[SP]wandered[SP]in[SP]there,\nsaying[SP][1432][NULL][NULL][0014]Get[SP]in[SP]here![1432][NULL][NULL][0014]",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Elle a crié après un gamin qui s'y était\naventuré: [1432][NULL][NULL][0014]Entre ici![1432][NULL][NULL][0014]"
   },
   {
@@ -1836,7 +1836,7 @@
     "data_size": 278,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Time[SP]Castle[SP]sells[SP]real[SP]weapons[SP]of\naverage[SP]quality[SP]and[SP]price.[SP]It's[SP]not[SP]just[SP]an\nantique[SP]shop[SP]after[SP]all.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Time Castle vend de vraies armes\nde qualité et prix moyens.\nCe n'est pas qu'une antiquaire."
   },
   {
@@ -1846,7 +1846,7 @@
     "data_size": 296,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Time[SP]Castle[SP]sells[SP]real[SP]weapons.\nTheir[SP]stuff[SP]is[SP]good,[SP]but[SP]expensive.[SP]It's[SP]not\njust[SP]an[SP]antique[SP]shop[SP]after[SP]all...",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Time Castle vend de vraies armes.\nBon choix mais cher. Ce n'est pas\nqu'une boutique d'antiquités."
   },
   {
@@ -1856,7 +1856,7 @@
     "data_size": 302,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Time[SP]Castle[SP]sells[SP]real[SP]weapons.\nTheir[SP]stuff[SP]is[SP]cheap,[SP]but[SP]low[SP]quality.\nIt's[SP]not[SP]just[SP]an[SP]antique[SP]shop[SP]after[SP]all...",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Time Castle vend de vraies armes.\nBon marché mais piètre qualité.\nCe n'est pas qu'une antiquaire."
   },
   {
@@ -1866,7 +1866,7 @@
     "data_size": 266,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Tony's[SP]Shop[SP]in[SP]Yumezaki[SP]sells[SP]real\nweapons.[SP]His[SP]selection[SP]is[SP]good,[SP]but[SP]the[SP]resale\nprice[SP]is[SP]low.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Tony's Shop à Yumezaki vend\nde vraies armes. Bon choix,\nmais faible valeur de revente."
   },
   {
@@ -1876,7 +1876,7 @@
     "data_size": 268,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Tony's[SP]Shop[SP]in[SP]Yumezaki[SP]sells[SP]real\nweapons.[SP]His[SP]prices[SP]are[SP]cheap,[SP]but[SP]his[SP]goods\nare[SP]low[SP]quality.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il paraît que Tony's Shop à Yumezaki\nvend de vraies armes. Ses prix sont bas\nmais la qualité laisse à désirer."
   },
   {
@@ -1886,7 +1886,7 @@
     "data_size": 248,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Tony's[SP]Shop[SP]in[SP]Yumezaki[SP]sells[SP]real\nweapons.[SP]The[SP]quality[SP]and[SP]prices[SP]are[SP]pretty\naverage.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Tony's Shop à Yumezaki vend\nde vraies armes. Qualité et\nprix dans la moyenne."
   },
   {
@@ -1896,7 +1896,7 @@
     "data_size": 252,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Tony's[SP]Shop[SP]in[SP]Yumezaki[SP]sells[SP]real\nweapons.[SP]They're[SP]good[SP]quality,[SP]but[SP]they're\nexpensive.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il paraît que Tony's Shop à Yumezaki\nvend de vraies armes. Bonne qualité,\nmais cher."
   },
   {
@@ -1906,7 +1906,7 @@
     "data_size": 282,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]heard[SP]they[SP]sell[SP]real[SP]weapons[SP]at[SP]Clair[SP]de\nLune[SP]in[SP]Aoba.[SP]Their[SP]selection's[SP]bad,[SP]but\ntheir[SP]resale[SP]prices[SP]are[SP]great.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "J'ai entendu qu'ils vendent de vraies armes\nau Clair de Lune à Aoba. Mauvais choix,\nmais excellent prix de revente."
   },
   {
@@ -1916,7 +1916,7 @@
     "data_size": 278,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]heard[SP]they[SP]sell[SP]real[SP]weapons[SP]at[SP]Clair[SP]de\nLune[SP]in[SP]Aoba.[SP]Their[SP]stuff[SP]is[SP]cheap,[SP]and[SP]not\nvery[SP]good[SP]quality[SP]either.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Clair de Lune à Aoba vend de vraies armes.\nLeurs articles sont bon marché\nmais de piètre qualité."
   },
   {
@@ -1926,7 +1926,7 @@
     "data_size": 256,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]heard[SP]they[SP]sell[SP]real[SP]weapons[SP]at[SP]Clair[SP]de\nLune[SP]in[SP]Aoba.[SP]Their[SP]goods[SP]are[SP]high[SP]quality,\nbut[SP]expensive.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "J'ai entendu qu'ils vendent de vraies armes\nau Clair de Lune à Aoba. Bonne qualité,\nmais cher."
   },
   {
@@ -1936,7 +1936,7 @@
     "data_size": 284,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]heard[SP]they[SP]sell[SP]real[SP]weapons[SP]at[SP]Clair[SP]de\nLune[SP]in[SP]Aoba.[SP]Their[SP]selection's[SP]good,\nbut[SP]they[SP]don't[SP]pay[SP]much[SP]on[SP]resale.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "J'ai entendu qu'ils vendent de vraies armes\nau Clair de Lune à Aoba. Bon choix,\nmais faible valeur de revente."
   },
   {
@@ -1946,7 +1946,7 @@
     "data_size": 280,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]heard[SP]they[SP]sell[SP]real[SP]weapons[SP]at[SP]Clair[SP]de\nLune[SP]in[SP]Aoba.[SP]The[SP]quality[SP]and[SP]price[SP]of[SP]their\ngoods[SP]are[SP]just[SP]average...",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Clair de Lune à Aoba vend de vraies armes.\nQualité et prix dans la moyenne..."
   },
   {
@@ -1956,7 +1956,7 @@
     "data_size": 324,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real\nweapons.[SP]I[SP]wonder[SP]if[SP]I[SP]should[SP]check[SP]'em[SP]out...\nTheir[SP]prices[SP]and[SP]quality[SP]seem[SP]pretty[SP]normal.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il paraît que le Jolly Roger à Kounan vend\nde vraies armes. Je devrais y jeter un œil...\nLeurs prix et qualité semblent dans la moyenne."
   },
   {
@@ -1966,7 +1966,7 @@
     "data_size": 312,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real\nweapons.[SP]I[SP]wonder[SP]if[SP]I[SP]should[SP]check[SP]'em[SP]out...\nTheir[SP]stuff[SP]is[SP]low[SP]quality,[SP]but[SP]cheap.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Jolly Roger à Kounan vend de vraies armes.\nJe devrais y aller...\nBas de gamme, mais bon marché."
   },
   {
@@ -1976,7 +1976,7 @@
     "data_size": 316,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real\nweapons.[SP]Should[SP]I[SP]check[SP]'em[SP]out...?[SP]Their\nselection's[SP]good,[SP]but[SP]the[SP]resale[SP]value[SP]isn't.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il paraît que le Jolly Roger à Kounan vend\nde vraies armes. Je devrais y aller...?\nBon choix, mais faible valeur de revente."
   },
   {
@@ -1986,7 +1986,7 @@
     "data_size": 318,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real\nweapons.[SP]Should[SP]I[SP]check[SP]'em[SP]out...?[SP]Their\nselection's[SP]poor,[SP]but[SP]the[SP]resale[SP]value's[SP]high.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il paraît que le Jolly Roger à Kounan vend\nde vraies armes. Je devrais y aller...?\nMauvais choix, mais bonne valeur de revente."
   },
   {
@@ -1996,7 +1996,7 @@
     "data_size": 324,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real\nweapons.[SP]I[SP]wonder[SP]if[SP]I[SP]should[SP]check[SP]'em[SP]out...\nThey[SP]cost[SP]a[SP]lot,[SP]but[SP]the[SP]quality's[SP]worth[SP]it.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il paraît que le Jolly Roger à Kounan vend\nde vraies armes. Je devrais y aller...\nCher, mais la qualité en vaut le prix."
   },
   {
@@ -2006,7 +2006,7 @@
     "data_size": 296,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Is[SP]it[SP]true[SP]that[SP]Rosa[SP]Candida[SP]sells[SP]real\narmor?[SP]What's[SP]this[SP]world[SP]coming[SP]to?[SP]Anyway,\ntheir[SP]prices[SP]and[SP]quality[SP]are[SP]average.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Rosa Candida vend vraiment de vraies armures?\nOù va ce monde? En tout cas,\nleurs prix et qualité sont dans la moyenne."
   },
   {
@@ -2016,7 +2016,7 @@
     "data_size": 282,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Is[SP]it[SP]true[SP]that[SP]Rosa[SP]Candida[SP]sells[SP]real\narmor?[SP]What's[SP]this[SP]world[SP]coming[SP]to?[SP]Their\nstuff[SP]is[SP]cheap,[SP]but[SP]low[SP]quality.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Rosa Candida vend vraiment de vraies armures?\nOù va ce monde? Leurs articles\nsont bon marché mais de piètre qualité."
   },
   {
@@ -2026,7 +2026,7 @@
     "data_size": 276,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Is[SP]it[SP]true[SP]that[SP]Rosa[SP]Candida[SP]sells[SP]real\narmor?[SP]What's[SP]this[SP]world[SP]coming[SP]to?[SP]Their\nstuff[SP]is[SP]good,[SP]but[SP]expensive.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Rosa Candida vend vraiment de vraies armures?\nOù va ce monde? Leurs articles\nsont de bonne qualité, mais chers."
   },
   {
@@ -2036,7 +2036,7 @@
     "data_size": 308,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "You[SP]can[SP]buy[SP]real[SP]armor[SP]at[SP]Anima[SP]Mundi[SP]in\nYumezaki,[SP]right?[SP]I[SP]should[SP]tell[SP]my[SP]friends.\nTheir[SP]stuff's[SP]quality[SP]and[SP]price[SP]is[SP]average.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "On peut acheter de vraies armures chez\nAnima Mundi à Yumezaki? Je devrais\nle dire à mes amis. Qualité et prix dans la moyenne."
   },
   {
@@ -2046,7 +2046,7 @@
     "data_size": 278,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "You[SP]can[SP]buy[SP]real[SP]armor[SP]at[SP]Anima[SP]Mundi[SP]in\nYumezaki,[SP]right?[SP]I[SP]should[SP]tell[SP]my[SP]friends.\nIt's[SP]cheap,[SP]but[SP]low[SP]quality.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures?\nJe devrais le dire à mes amis.\nBon marché mais piètre qualité."
   },
   {
@@ -2056,7 +2056,7 @@
     "data_size": 320,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "You[SP]can[SP]buy[SP]real[SP]armor[SP]at[SP]Anima[SP]Mundi[SP]in\nYumezaki,[SP]right?[SP]I[SP]should[SP]tell[SP]my[SP]friends.[SP]The\nselection's[SP]good,[SP]but[SP]not[SP]the[SP]buyback[SP]prices.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "On peut acheter de vraies armures chez\nAnima Mundi à Yumezaki? Je devrais le dire\nà mes amis. Bon choix, mais faible revente."
   },
   {
@@ -2066,7 +2066,7 @@
     "data_size": 292,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "You[SP]can[SP]buy[SP]real[SP]armor[SP]at[SP]Anima[SP]Mundi[SP]in\nYumezaki,[SP]right?[SP]I[SP]should[SP]tell[SP]my[SP]friends.\nTheir[SP]stuff[SP]is[SP]good,[SP]but[SP]expensive.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "On peut acheter de vraies armures chez\nAnima Mundi à Yumezaki? Je devrais\nle dire à mes amis. Bonne qualité, mais cher."
   },
   {
@@ -2076,7 +2076,7 @@
     "data_size": 282,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor,[SP]not\njust[SP]clothes.[SP]Their[SP]selection[SP]isn't[SP]good,\nbut[SP]the[SP]resale[SP]price[SP]is[SP]high.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Rosa Candida à Aoba vend de vraies armures,\npas que des vêtements. Mauvais choix,\nmais bonne valeur de revente."
   },
   {
@@ -2086,7 +2086,7 @@
     "data_size": 264,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor,[SP]not\njust[SP]clothes.[SP]The[SP]quality[SP]and[SP]price[SP]of[SP]their\nstuff[SP]is[SP]average.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Rosa Candida à Aoba vend de vraies armures.\nQualité et prix dans la moyenne."
   },
   {
@@ -2096,7 +2096,7 @@
     "data_size": 252,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor,[SP]not\njust[SP]clothes.[SP]Their[SP]stuff[SP]is[SP]good,[SP]but[SP]it's\nalso[SP]pricey.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Rosa Candida à Aoba vend de vraies armures,\npas que des vêtements. Bonne qualité,\nmais cher."
   },
   {
@@ -2106,7 +2106,7 @@
     "data_size": 250,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor,[SP]not\njust[SP]clothes.[SP]They're[SP]cheap,[SP]but[SP]not[SP]very\ngood[SP]quality.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Rosa Candida à Aoba vend de vraies armures,\npas que des vêtements. Bon marché,\nmais piètre qualité."
   },
   {
@@ -2116,7 +2116,7 @@
     "data_size": 278,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor,[SP]not\njust[SP]clothes.[SP]Their[SP]selection[SP]is[SP]good,[SP]but\ntheir[SP]resale[SP]value[SP]is[SP]low.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Rosa Candida à Aoba vend de vraies armures,\npas que des vêtements. Bon choix,\nmais faible valeur de revente."
   },
   {
@@ -2126,7 +2126,7 @@
     "data_size": 264,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Does[SP]London[SP]Clothier[SP]in[SP]Kounan[SP]tailor[SP]armor,\ntoo?[SP]Their[SP]selection[SP]is[SP]good,[SP]but[SP]their[SP]resale\nvalue[SP]is[SP]low.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "London Clothier à Kounan fait aussi des armures?\nBon choix, mais faible valeur\nde revente."
   },
   {
@@ -2136,7 +2136,7 @@
     "data_size": 244,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Does[SP]London[SP]Clothier[SP]in[SP]Kounan[SP]tailor[SP]armor,\ntoo?[SP]Their[SP]stuff[SP]is[SP]cheap,[SP]but[SP]the[SP]quality\nis[SP]low.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "London Clothier à Kounan fait des armures?\nBon marché,\nmais piètre qualité."
   },
   {
@@ -2146,7 +2146,7 @@
     "data_size": 288,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Does[SP]London[SP]Clothier[SP]in[SP]Kounan[SP]tailor[SP]armor,\ntoo?[SP]Their[SP]stuff[SP]is[SP]expensive,[SP]but[SP]it's[SP]as\nhigh[SP]quality[SP]as[SP]you'd[SP]expect.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "London Clothier à Kounan fait aussi des armures?\nLeurs articles sont chers, mais de\nqualité à la hauteur."
   },
   {
@@ -2156,7 +2156,7 @@
     "data_size": 250,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Does[SP]London[SP]Clothier[SP]in[SP]Kounan[SP]tailor[SP]armor,\ntoo?[SP]The[SP]quality[SP]and[SP]price[SP]of[SP]their[SP]stuff\nis[SP]average.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "London Clothier à Kounan fait des armures?\nQualité et prix dans la moyenne."
   },
   {
@@ -2166,7 +2166,7 @@
     "data_size": 284,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Does[SP]London[SP]Clothier[SP]in[SP]Kounan[SP]tailor[SP]armor,\ntoo?[SP]Their[SP]selection[SP]isn't[SP]that[SP]great,[SP]but\ntheir[SP]resale[SP]value[SP]is[SP]high.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "London Clothier à Kounan fait des armures?\nChoix pas extraordinaire,\nmais bonne valeur de revente."
   },
   {
@@ -2176,7 +2176,7 @@
     "data_size": 296,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]winners[SP]of[SP]the[SP]magazine[SP]sweepstakes\nget[SP]real[SP]weapons.[SP]I[SP]hear[SP]it's[SP]hard[SP]to[SP]win,[SP]but\nthe[SP]prizes[SP]are[SP]pretty[SP]nice.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Les gagnants des loteries de magazines\nreçoivent de vraies armes. Difficile\nde gagner, mais les prix sont bien."
   },
   {
@@ -2186,7 +2186,7 @@
     "data_size": 314,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]winners[SP]of[SP]the[SP]magazine[SP]sweepstakes\nget[SP]real[SP]weapons.[SP]I[SP]hear[SP]it's[SP]rare[SP]to[SP]win,[SP]but\nthe[SP]prizes[SP]are[SP]extremely[SP]rare[SP]stuff.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il paraît que les gagnants des loteries de\nmagazines reçoivent de vraies armes. Rare de\ngagner, mais les prix sont extrêmement rares."
   },
   {
@@ -2196,7 +2196,7 @@
     "data_size": 286,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]winners[SP]of[SP]the[SP]magazine[SP]sweepstakes\nget[SP]real[SP]weapons.[SP]It's[SP]easy[SP]to[SP]win,[SP]but[SP]you\nrarely[SP]get[SP]anything[SP]good.",
-    "nom_fr": "Étudiant",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Les gagnants des loteries de magazines\nreçoivent de vraies armes. Facile de\ngagner, mais rarement quelque chose de bien."
   },
   {
@@ -2236,7 +2236,7 @@
     "data_size": 218,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Shiraishi[SP]Ramen[SP]supposedly[SP]has[SP]a[SP]legendary\nweapon[SP]for[SP]sale.[SP]I[SP]wonder[SP]what[SP]it[SP]is...",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il paraît que Shiraishi Ramen vend une\narme légendaire. Je me demande ce que c'est..."
   },
   {
@@ -2246,7 +2246,7 @@
     "data_size": 278,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Clair[SP]de[SP]Lune[SP]is[SP]selling[SP]a[SP]legendary[SP]weapon,\nI[SP]hear.[SP]I[SP]wonder[SP]how[SP]much[SP]something[SP]like[SP]that\nwould[SP]set[SP]you[SP]back...",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Clair de Lune vend une arme légendaire,\nsemble-t-il. Je me demande ce qu'une telle\nchose coûterait..."
   },
   {
@@ -2256,7 +2256,7 @@
     "data_size": 306,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]hear[SP]there's[SP]a[SP]legendary[SP]weapon[SP]at[SP]Time\nCastle,[SP]but[SP]the[SP]owner[SP]denies[SP]it[SP]because[SP]he\nwants[SP]to[SP]jack[SP]up[SP]the[SP]prices[SP]on[SP]his[SP]goods.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "J'entends qu'il y a une arme légendaire à Time\nCastle, mais le patron le nie pour gonfler\nles prix de ses articles."
   },
   {
@@ -2266,7 +2266,7 @@
     "data_size": 292,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]heard[SP]Time[SP]Castle's[SP]legendary[SP]weapon[SP]hasn't\nbeen[SP]delivered[SP]yet.[SP]The[SP]seller[SP]is[SP]still[SP]waiting\nat[SP]the[SP]abandoned[SP]factory.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "L'arme légendaire de Time Castle\nn'a pas encore été livrée. Le vendeur\nattend encore à l'usine abandonnée."
   },
   {
@@ -2276,7 +2276,7 @@
     "data_size": 294,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "But[SP]you[SP]know[SP]that[SP]place[SP]is[SP]rumored[SP]to[SP]be\ninfested[SP]with[SP]monsters?[SP]Guess[SP]the[SP]Time[SP]Castle\nowner[SP]is[SP]too[SP]scared[SP]to[SP]go[SP]get[SP]it.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Mais cet endroit est infesté de monstres?\nLe patron de Time Castle a trop peur\nd'y aller la chercher."
   },
   {
@@ -2286,7 +2286,7 @@
     "data_size": 318,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "You[SP]know[SP]that[SP]legendary[SP]weapon[SP]at[SP]Time[SP]Castle?\nSounds[SP]like[SP]a[SP]demon[SP]stole[SP]it.[SP]Which[SP]is[SP]funny,\n'cause[SP]there's[SP]no[SP]such[SP]thing[SP]as[SP]demons.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Tu connais l'arme légendaire de Time Castle?\nIl paraît qu'un démon l'a volée. Ce qui est\ndrôle, c'est qu'il n'existe pas de démons."
   },
   {
@@ -2296,7 +2296,7 @@
     "data_size": 270,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "The[SP]legendary[SP]weapon[SP]at[SP]Time[SP]Castle[SP]was[SP]a\nflower,[SP]huh?[SP]I[SP]heard[SP]some[SP]unlucky-seeming\nwoman[SP]already[SP]bought[SP]it.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "L'arme légendaire de Time Castle était\nune fleur, hm? J'ai entendu qu'une femme\npeu chanceuse l'a déjà achetée."
   },
   {
@@ -2306,7 +2306,7 @@
     "data_size": 304,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "The[SP]legendary[SP]weapon[SP]at[SP]Time[SP]Castle[SP]was[SP]a\nflower,[SP]huh?[SP]I[SP]heard[SP]the[SP]owner[SP]gave[SP]it[SP]away\nas[SP]a[SP]present[SP]to[SP]a[SP]lady[SP]with[SP]short[SP]hair.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "L'arme légendaire de Time Castle était\nune fleur, hm? J'ai entendu que le patron\nl'a offerte à une dame aux cheveux courts."
   },
   {
@@ -2316,7 +2316,7 @@
     "data_size": 326,
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "The[SP]second[SP]floor[SP]of[SP]the[SP]secret[SP]lounge[SP]seems[SP]to\nbe[SP]a[SP]huge[SP]maze,[SP]for[SP]some[SP]reason.[SP]But[SP]I've[SP]heard\nsome[SP]people[SP]have[SP]found[SP]great[SP]stuff[SP]there.",
-    "nom_fr": "Étudiant désœuvré",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Le deuxième étage du salon secret\nserait un immense labyrinthe. Mais\ncertains y ont trouvé des merveilles."
   }
 ]
