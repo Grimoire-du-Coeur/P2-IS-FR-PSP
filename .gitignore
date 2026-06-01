@@ -1,3 +1,10 @@
 json_verify/
 project-roadmap.md
 scripts/harmonize_*.py
+
+# Prompts de travail Gemini (fichiers de chantier, non versionnés)
+AutreScript/prompts_gemini/
+
+# Fichiers temporaires / de test
+*.tmp
+file test
