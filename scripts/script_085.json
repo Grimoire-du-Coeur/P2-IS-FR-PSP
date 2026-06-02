@@ -17,7 +17,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "I[SP]see...[1205][001E][SP]So[SP]you[SP]weren't[SP]part[SP]of[SP]the\nLast[SP]Battalion.",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Je vois...[1205][001E] Vous n'étiez pas du\nLast Battalion."
+    "texte_fr": "Je vois...[1205][001E] Vous n'étiez pas du\nBataillon."
   },
   {
     "id": 2,
@@ -29,7 +29,7 @@
     "nom_fr": "Eikichi",
     "texte_fr": "On vous le demande...[1205][001E] C'est\nquoi ce... bata... lion... machin!?"
   },
- {
+  {
     "id": 3,
     "offset": 294392,
     "slot_size": 122,
@@ -59,7 +59,7 @@
     "nom_fr": "Yukino",
     "texte_fr": "On a répandu la rumeur, comme\nMaya l'a suggéré, mais...[1205][001E] Le reste\nest incertain. On devrait se préparer\nau pire."
   },
- {
+  {
     "id": 6,
     "offset": 294982,
     "slot_size": 94,
@@ -97,7 +97,7 @@
     "nom_orig": "Anchorwoman",
     "texte_orig": "In[SP]other[SP]news,[SP]there's[SP]a[SP]bizarre[SP]rumor\nmaking[SP]the[SP]rounds[SP]regarding[SP]this[SP]same\nterrorist[SP]spree.\n[E1][E2][E4][NULL][NULL]\"Anchorwoman\nSome[SP]are[SP]claiming[SP]that[SP]it[SP]was[SP]the[SP]work[SP]of\nthe[SP]remaining[SP]radicals[SP]of[SP]the[SP]Fuhrer[SP]seeking\nancient[SP]ruins[SP]hidden[SP]in[SP]Sumaru[SP]City...",
     "nom_fr": "Présentatrice",
-    "texte_fr": "Ailleurs, une étrange rumeur circule\nsur cette même vague de terrorisme.\n[E1][E2][E4][NULL][NULL]\"Présentatrice\nCertains affirment que c'est l'œuvre\ndes radicaux restants du Fuhrer,\ncherchant des ruines antiques cachées\ndans la ville de Sumaru..."
+    "texte_fr": "Ailleurs, une étrange rumeur circule\nsur cette même vague de terrorisme.\n[E1][E2][E4][NULL][NULL]\"Présentatrice\nCertains affirment que c'est l'œuvre\ndes radicaux restants du Führer,\ncherchant des ruines antiques cachées\ndans la ville de Sumaru..."
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "nom_orig": "International[SP]military[SP]analyst",
     "texte_orig": "That's[SP]preposterous![SP]There's[SP]no[SP]way[SP]this\n[1432][NULL][NULL][0014]Last[SP]Battalion[1432][NULL][NULL][0014][SP]could[SP]exist.[SP]It's[SP]a\nbaseless[SP]rumor,[SP]pure[SP]and[SP]simple.",
     "nom_fr": "Analyste militaire",
-    "texte_fr": "C'est absurde! Impossible que ce\n[1432][NULL][NULL][0014]Last Battalion[1432][NULL][NULL][0014] existe. C'est une\nrumeur infondée, purement et\nsimplement."
+    "texte_fr": "C'est absurde! Impossible que ce\n[1432][NULL][NULL][0014]Bataillon[1432][NULL][NULL][0014] existe. C'est une\nrumeur infondée, purement et\nsimplement."
   },
   {
     "id": 11,
@@ -117,7 +117,7 @@
     "nom_orig": "Occult[SP]magazine[SP]EIC",
     "texte_orig": "So[SP]you[SP]say,[SP]but[SP]there[SP]are[SP]accounts[SP]from\naround[SP]the[SP]globe[SP]hinting[SP]at[SP]its[SP]existence!\nReliable[SP]witnesses[SP]say[SP]the[SP]Fuhrer[SP]lives...",
     "nom_fr": "Éditeur Occulte",
-    "texte_fr": "Vous dites ça, mais des récits du\nmonde entier suggèrent qu'il\nexiste! Des témoins fiables disent\nque le Fuhrer vit..."
+    "texte_fr": "Vous dites ça, mais des récits du\nmonde entier suggèrent qu'il\nexiste! Des témoins fiables disent\nque le Führer vit..."
   },
   {
     "id": 12,
@@ -127,9 +127,9 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "They're[SP]right![SP]The[SP]Last[SP]Battalion[SP]does\nexist![SP]It[SP]was[SP]them[SP]who[SP]killed[SP]Kashihara!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Ils ont raison! Le Last Battalion\nexiste! Ce sont eux qui ont\ntué Kashihara!"
+    "texte_fr": "Ils ont raison! Le Bataillon\nexiste! Ce sont eux qui ont\ntué Kashihara!"
   },
- {
+  {
     "id": 13,
     "offset": 296988,
     "slot_size": 84,
@@ -167,7 +167,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "S-So[SP]that's[SP]it!?[1205][001E][SP]Then[SP]there's[SP]no[SP]denying[SP]that\nthe[SP]Masked[SP]Circle[SP]is[SP]the[SP]Last[SP]Battalion!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "A-Alors c'est ça!?[1205][001E] Il est donc\nindéniable que le Cercle masqué\nest le Last Battalion!"
+    "texte_fr": "A-Alors c'est ça!?[1205][001E] Il est donc\nindéniable que le Cercle masqué\nest le Bataillon!"
   },
   {
     "id": 17,
@@ -177,7 +177,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Last[SP]Battalion[SP]is[SP]an[SP]elite[SP]unit[SP]which\nhelped[SP]the[SP]Fuhrer[SP]escape[SP]in[SP]secret!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Le Last Battalion est l'unité\nqui a aidé le Fuhrer à\nfuir en secret!"
+    "texte_fr": "Le Bataillon est l'unité\nqui a aidé le Führer à\nfuir en secret!"
   },
   {
     "id": 18,
@@ -187,7 +187,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "An[SP]insane[SP]army[SP]with[SP]cutting-edge[SP]weaponry[SP]and\na[SP]powerful[SP]relic[SP]that[SP]absorbed[SP]Christ's[SP]blood,\nbent[SP]on[SP]enacting[SP]the[SP]Fuhrer's[SP]grudge!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Une armée folle avec des armes de\npointe et une relique ayant absorbé le\nsang du Christ, résolue à assouvir la\nrancune du Fuhrer!"
+    "texte_fr": "Une armée folle avec des armes de\npointe et une relique ayant absorbé le\nsang du Christ, résolue à assouvir la\nrancune du Führer!"
   },
   {
     "id": 19,
@@ -209,7 +209,7 @@
     "nom_fr": "Mme Idéale",
     "texte_fr": "Tout est dans ce livre... Ce qu'ils\nfont est conforme à l'Oracle de Maia\ndans l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014]!"
   },
- {
+  {
     "id": 21,
     "offset": 298624,
     "slot_size": 310,
@@ -219,7 +219,7 @@
     "nom_fr": "Mme Idéale",
     "texte_fr": "L'Oracle de Maia fut laissé par les\naliens Pléiadiens qui ont civilisé\nles humains...[1205][001E] C'est un message\nconfié par les Maians!"
   },
- {
+  {
     "id": 22,
     "offset": 298934,
     "slot_size": 82,
@@ -249,7 +249,7 @@
     "nom_fr": "Mme Idéale",
     "texte_fr": "Il y a des preuves mondiales de leur\nprésence passée! Cela prouve que\nl'humanité a été guidée par une\nrace avancée!"
   },
- {
+  {
     "id": 25,
     "offset": 299600,
     "slot_size": 222,
@@ -317,7 +317,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "T-Talk[SP]about[SP]a[SP]fertile[SP]imagination...[1205][001E]\nSo[SP]why[SP]is[SP]the[SP]Masked[SP]Circle[SP]and[SP]Last\nBattalion[SP]after[SP]this[SP]Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nBecause[SP]when[SP]the[SP]Oracle[SP]is[SP]fulfilled,\nXibalba[SP]and[SP]the[SP]crystal[SP]skulls[SP]will[SP]grant\nmankind's[SP]ultimate[SP]dream...",
     "nom_fr": "Tamaki",
-    "texte_fr": "Q-Quelle imagination...[1205][001E]\nPourquoi le Cercle masqué et le\nLast Battalion veulent ce Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Mme Idéale\nCar quand l'Oracle sera accompli,\nXibalba et les crânes de cristal\nexauceront le rêve de l'humanité..."
+    "texte_fr": "Q-Quelle imagination...[1205][001E]\nPourquoi le Cercle masqué et le\nBataillon veulent ce Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Mme Idéale\nCar quand l'Oracle sera accompli,\nXibalba et les crânes de cristal\nexauceront le rêve de l'humanité..."
   },
   {
     "id": 32,
@@ -377,7 +377,7 @@
     "nom_orig": "Occult[SP]magazine[SP]EIC",
     "texte_orig": "It's[SP]full[SP]of[SP]shocking[SP]truths,[SP]from[SP]the[SP]Last\nBattalion[SP]to[SP]a[SP]giant[SP]UFO[SP]that[SP]ties[SP]into[SP]these\nincidents.[SP]Read[SP]it,[SP]or[SP]you'll[SP]be[SP]missing[SP]out!",
     "nom_fr": "Éditeur Occulte",
-    "texte_fr": "Il est rempli de vérités choquantes,\ndu Last Battalion au gigantesque\nOVNI lié à ces incidents. Lisez-le,\nou vous raterez quelque chose!"
+    "texte_fr": "Il est rempli de vérités choquantes,\ndu Bataillon au gigantesque\nOVNI lié à ces incidents. Lisez-le,\nou vous raterez quelque chose!"
   },
   {
     "id": 38,
@@ -419,7 +419,7 @@
     "nom_fr": "Eikichi",
     "texte_fr": "Je t'ai dit, c'était un rêve..."
   },
- {
+  {
     "id": 42,
     "offset": 303970,
     "slot_size": 126,
@@ -509,7 +509,7 @@
     "nom_fr": "Maya",
     "texte_fr": "Hé... Quittons ce taudis pour le\nSanctuaire Alaya.[1205][001E] J'ai hâte\nd'entendre l'histoire que Lisa va\nnous y raconter..."
   },
- {
+  {
     "id": 51,
     "offset": 305800,
     "slot_size": 204,
@@ -557,9 +557,9 @@
     "nom_orig": "Yukino",
     "texte_orig": "Aliens...[SP]The[SP]Fuhrer...[1205][001E][SP]And[SP]now[SP]this[SP]about\n[1432][NULL][NULL][0014]playing[SP]the[SP]Masked[SP]Circle[1432][NULL][NULL][0014]...!?[1205][001E][SP]There's[SP]so\nmuch[SP]I[SP]don't[SP]understand...",
     "nom_fr": "Yukino",
-    "texte_fr": "Les aliens... Le Fuhrer...[1205][001E] Et\nmaintenant jouer au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]...!?[1205][001E]\nIl y a tant de choses que je saisis\npas..."
+    "texte_fr": "Les aliens... Le Führer...[1205][001E] Et\nmaintenant jouer au [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]...!?[1205][001E]\nIl y a tant de choses que je saisis\npas..."
   },
- {
+  {
     "id": 56,
     "offset": 306890,
     "slot_size": 278,
@@ -649,7 +649,7 @@
     "nom_fr": "Tamaki",
     "texte_fr": "Y a quelques règles! Une seule\nparticipation à la fois. Pas de\nnouvelles entrées tant que les résultats\nne sont pas là. C'est comme ça."
   },
- {
+  {
     "id": 65,
     "offset": 309936,
     "slot_size": 238,
@@ -747,7 +747,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What[SP]should[SP]I[SP]do...!?\n[U+1208][U+0003]Ask[SP]about[SP]the[SP]In[SP]Lak'ech\nAsk[SP]about[SP]the[SP]Last[SP]Battalion\nLeave[SP]her[SP]be\n[U+1109][E2][E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nWhat[SP]is[SP]it!?[SP]What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about\nthe[SP]In[SP]Lak'ech?",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Que dois-je faire...!?\n[U+1208][U+0003]L'In Lak'ech\nLe Last Battalion\nLa laisser seule\n[U+1109][E2][E3][E4][NULL][NULL]\"Mme Idéale\nQu'y a-t-il!? Que voulez-vous\nsavoir sur l'In Lak'ech?"
+    "texte_fr": "Que dois-je faire...!?\n[U+1208][U+0003]L'In Lak'ech\nLe Bataillon\nLa laisser seule\n[U+1109][E2][E3][E4][NULL][NULL]\"Mme Idéale\nQu'y a-t-il!? Que voulez-vous\nsavoir sur l'In Lak'ech?"
   },
   {
     "id": 75,
@@ -759,7 +759,7 @@
     "nom_fr": "Mme Idéale",
     "texte_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[U+1208][U+0005]Sur Kashihara\nSur Sudou\nLe contenu\nLes Maians\nL'Énergie Idéale\n[U+1109][E2][E3][E4][NULL][NULL]\"Mme Idéale\nIl enseignait l'histoire à Septs Sœurs.\nIl était tourmenté à l'idée que\nl'histoire qu'il enseignait soit fausse..."
   },
- {
+  {
     "id": 76,
     "offset": 313168,
     "slot_size": 218,
@@ -779,7 +779,7 @@
     "nom_fr": "Mme Idéale",
     "texte_fr": "Kashihara s'est toujours senti\nobservé en écrivant l'In Lak'ech!"
   },
- {
+  {
     "id": 78,
     "offset": 313586,
     "slot_size": 274,
@@ -787,7 +787,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "And[SP]then[SP]he[SP]was[SP]found[SP]dead,[SP]crushed[SP]between\nthe[SP]gears[SP]in[SP]the[SP]school's[SP]clock[SP]tower!\nThe[SP]Last[SP]Battalion[SP]killed[SP]Kashihara!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Et on l'a trouvé mort, écrasé par\nles engrenages de la tour de l'horloge!\nLe Last Battalion a tué Kashihara!"
+    "texte_fr": "Et on l'a trouvé mort, écrasé par\nles engrenages de la tour de l'horloge!\nLe Bataillon a tué Kashihara!"
   },
   {
     "id": 79,
@@ -837,7 +837,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Sudou-kun[SP]must[SP]have[SP]betrayed[SP]us[SP]and[SP]told[SP]the\nLast[SP]Battalion[SP]about[SP]Xibalba![SP]It's[SP]the[SP]only\nexplanation!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Sudou a dû nous trahir et parler de\nXibalba au Last Battalion! C'est\nla seule explication!"
+    "texte_fr": "Sudou a dû nous trahir et parler de\nXibalba au Bataillon! C'est\nla seule explication!"
   },
   {
     "id": 84,
@@ -849,7 +849,7 @@
     "nom_fr": "Mme Idéale",
     "texte_fr": "[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014] signifie [1432][NULL][NULL][0014]tu es un autre moi[1432][NULL][NULL][0014]\nen maya.[1205][001E] C'est ainsi qu'on dit de\nl'oracle canalisé par Sudou."
   },
- {
+  {
     "id": 85,
     "offset": 315438,
     "slot_size": 288,
@@ -889,7 +889,7 @@
     "nom_fr": "Mme Idéale",
     "texte_fr": "L'Oracle promet le retour de Xibalba\net la fin de tout! C'est pour cela\nque Kashihara a caché sa découverte,\net pourtant...!"
   },
- {
+  {
     "id": 89,
     "offset": 316556,
     "slot_size": 264,
@@ -939,7 +939,7 @@
     "nom_fr": "Mme Idéale",
     "texte_fr": "Aujourd'hui, ils dorment sous la\nville, absorbant l'Énergie Idéale en\nrêvant du jour où ils s'éveilleront!"
   },
- {
+  {
     "id": 94,
     "offset": 317886,
     "slot_size": 270,
@@ -969,7 +969,7 @@
     "nom_fr": "Mme Idéale",
     "texte_fr": "C'est la source de pouvoir Maiane...[1205][001E]\nLes crânes de cristal sont des Ooparts\nplacés dans notre histoire pour la\nrécolter!"
   },
- {
+  {
     "id": 97,
     "offset": 318744,
     "slot_size": 278,
@@ -997,7 +997,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]them?\n[U+1208][0002]About[SP]the[SP]Fuhrer\nAbout[SP]the[SP]Battalion[SP]itself\n[U+1109][E2][E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nThe[SP]greatest[SP]and[SP]worst[SP]dictator[SP]of[SP]the\ncentury![1205][001E][SP]You[SP]know[SP]that[SP]much,[SP]I[SP]hope.",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Que voulez-vous savoir?\n[U+1208][0002]Sur le Fuhrer\nSur le Battalion en lui-même\n[U+1109][E2][E3][E4][NULL][NULL]\"Mme Idéale\nLe plus grand et pire dictateur du\nsiècle![1205][001E] Vous savez au moins ça,\nj'espère."
+    "texte_fr": "Que voulez-vous savoir?\n[U+1208][0002]Sur le Führer\nSur le Battalion en lui-même\n[U+1109][E2][E3][E4][NULL][NULL]\"Mme Idéale\nLe plus grand et pire dictateur du\nsiècle![1205][001E] Vous savez au moins ça,\nj'espère."
   },
   {
     "id": 100,
@@ -1047,7 +1047,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Last[SP]Battalion[SP]lurks[SP]in[SP]a[SP]secret[SP]base\nsomewhere[SP]in[SP]the[SP]South[SP]Pole[SP]or[SP]South[SP]America,\nwhere[SP]they[SP]plot[SP]to[SP]fulfill[SP]the[SP]Fuhrer's[SP]goal!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Le Last Battalion se terre dans une\nbase secrète au Pôle Sud ou en\nAmérique du Sud, complotant pour\natteindre le but du Fuhrer!"
+    "texte_fr": "Le Bataillon se terre dans une\nbase secrète au Pôle Sud ou en\nAmérique du Sud, complotant pour\natteindre le but du Führer!"
   },
   {
     "id": 105,
@@ -1067,7 +1067,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]most[SP]fearsome[SP]of[SP]them[SP]are[SP]the[SP]core[SP]of\nthe[SP]Last[SP]Battalion...[SP]A[SP]secret[SP]unit[SP]called\nthe[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance...",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Les plus redoutables forment le\nnoyau du Last Battalion... Une unité\nsecrète appelée l'Ordre de la Sainte\nLance..."
+    "texte_fr": "Les plus redoutables forment le\nnoyau du Bataillon... Une unité\nsecrète appelée l'Ordre de la Sainte\nLance..."
   },
   {
     "id": 107,
@@ -1159,7 +1159,7 @@
     "nom_fr": "Statue de chat",
     "texte_fr": "100 yens, s'il te plaît, miaou[1432][NULL][NULL][U+0007]\n[U+1208][0002]Mettre 100 yens\nNe rien mettre\n[U+1109][E2][E3][E4][NULL][NULL]\"Statue de chat\nT'es fauché, miaou[1432][NULL][NULL][U+0007]\nMontre-moi un menteur, je te montrerai\nun voleur, miaou[1432][NULL][NULL][U+0007]\nSors d'ici, fsh[1432][NULL][NULL][U+0007]"
   },
- {
+  {
     "id": 116,
     "offset": 324810,
     "slot_size": 232,
@@ -1257,7 +1257,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "T-Take[SP]the[SP][E4][NULL][NULL][U+0006]In[SP]Lak'ech[E4][NULL][NULL][0002][SP]with[SP]you![SP]You[SP]are\nfighting[SP]the[SP]Masked[SP]Circle...[SP]or[SP]rather,\nthe[SP]Last[SP]Battalion,[SP]aren't[SP]you!?",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Prends l'[E4][NULL][NULL][U+0006]In Lak'ech[E4][NULL][NULL][0002]! Tu te bats\ncontre le Cercle masqué...\nou plutôt, contre le Last Battalion,\nn'est-ce pas!?"
+    "texte_fr": "Prends l'[E4][NULL][NULL][U+0006]In Lak'ech[E4][NULL][NULL][0002]! Tu te bats\ncontre le Cercle masqué...\nou plutôt, contre le Bataillon,\nn'est-ce pas!?"
   },
   {
     "id": 126,

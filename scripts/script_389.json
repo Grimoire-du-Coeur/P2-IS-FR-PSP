@@ -1,14 +1,14 @@
 [
   {
-  "id": 0,
-  "offset": 319262,
-  "slot_size": 878,
-  "data_size": 874,
-  "nom_orig": "Employee",
-  "texte_orig": "Hellooooo![1205][U+000F][SP]Welcome[SP]to[SP]the[SP]record[SP]store\nGIGA[SP]MACHOOOO![SP]State[SP]your[SP]business!\n[U+1208][U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store\n[U+1109][E2][E3][E4][NULL][NULL]\"Employee\nAlrighty![SP]Anything[SP]else?\n[U+1208][U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store\n[U+1109][E2][E3][E4][NULL][NULL]\"Employee\nWhat's[SP]on[SP]your[SP]mind?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]CDs\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Employee\nOoh![SP]Guess[SP]what![SP]I[SP]got[SP]to[SP]meet[SP]THE[SP]Ginji\nSasaki[SP]a[SP]minute[SP]ago![SP]Heheheh...[SP]It[SP]was\nawesome!",
-  "nom_fr": "Employé",
-  "texte_fr": "Bonjooouuuur ![1205][U+000F] Bienvenue au magasin de disques\nGIGA MACHO ! Dites-moi ce qu'il vous faut !\n[U+1208][U+0004]Acheter des CDs\nParler à l'employé\nLaisser tomber\nQuitter le magasin\n[U+1109][E2][E3][E4][NULL][NULL]\"Employé\nParfait ! Autre chose ?\n[U+1208][U+0004]Acheter des CDs\nParler à l'employé\nLaisser tomber\nQuitter le magasin\n[U+1109][E2][E3][E4][NULL][NULL]\"Employé\nDe quoi voulez-vous parler ?\n[U+1208][U+0003]Bavarder\nRenseignements sur les CDs\n[U+1210]ĀSélection non affichée\n[U+1109][E2][E3][E4][NULL][NULL]\"Employé\nOh ! Vous savez quoi ? J'ai rencontré LE Ginji\nSasaki il y a quelques minutes ! Héhéhé... C'était\ntrop bien !"
-  }
+    "id": 0,
+    "offset": 319262,
+    "slot_size": 878,
+    "data_size": 874,
+    "nom_orig": "Employee",
+    "texte_orig": "Hellooooo![1205][U+000F][SP]Welcome[SP]to[SP]the[SP]record[SP]store\nGIGA[SP]MACHOOOO![SP]State[SP]your[SP]business!\n[U+1208][U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store\n[U+1109][E2][E3][E4][NULL][NULL]\"Employee\nAlrighty![SP]Anything[SP]else?\n[U+1208][U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store\n[U+1109][E2][E3][E4][NULL][NULL]\"Employee\nWhat's[SP]on[SP]your[SP]mind?\n[U+1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]CDs\n[U+1210]ĀUndisplayed[SP]selection\n[U+1109][E2][E3][E4][NULL][NULL]\"Employee\nOoh![SP]Guess[SP]what![SP]I[SP]got[SP]to[SP]meet[SP]THE[SP]Ginji\nSasaki[SP]a[SP]minute[SP]ago![SP]Heheheh...[SP]It[SP]was\nawesome!",
+    "nom_fr": "Employé",
+    "texte_fr": "Bonjooouuuur ![1205][U+000F] Bienvenue au magasin de disques\nGIGA MACHO ! Dites-moi ce qu'il vous faut !\n[U+1208][U+0004]Acheter des CDs\nParler\nAnnuler\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Employé\nParfait ! Autre chose ?\n[U+1208][U+0004]Acheter des CDs\nParler\nAnnuler\nQuitter\n[U+1109][E2][E3][E4][NULL][NULL]\"Employé\nDe quoi voulez-vous parler ?\n[U+1208][U+0003]Bavarder\nInfos CDs\n[U+1210]ĀSél. non affichée\n[U+1109][E2][E3][E4][NULL][NULL]\"Employé\nOh ! Vous savez quoi ? J'ai rencontré LE Ginji\nSasaki il y a quelques minutes ! Héhéhé... C'était\ntrop bien !"
+  },
   {
     "id": 1,
     "offset": 320140,
@@ -27,7 +27,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Huh?[SP]Wait,[SP]what[SP]about[SP]the[SP]other[SP]girls?[1205][U+000F][SP]Weren't\nthere...[1205][U+000F][SP]Weird.[SP]I[SP]can't[SP]remember...",
     "nom_fr": "Employé",
-    "texte_fr": "Hein ? Attendez, et les autres filles ?[1205][U+000F] Il y avait\npas...[1205][U+000F] Bizarre. Je m'en souviens plus..."
+    "texte_fr": "Hein ? Et les autres filles ?[1205][U+000F] Il y avait\npas...[1205][U+000F] Bizarre. Je m'en souviens plus..."
   },
   {
     "id": 3,
@@ -37,7 +37,7 @@
     "nom_orig": "Employee",
     "texte_orig": "*sigh*[1205][U+000F][SP]We've[SP]lost[SP]so[SP]many[SP]customers[SP]to[SP]this\nawful[SP]terror[SP]wave...[1205][U+000F][SP]I[SP]should[SP]sue[SP]for\nobstruction[SP]of[SP]business.",
     "nom_fr": "Employé",
-    "texte_fr": "*soupir*[1205][U+000F] On a perdu tellement de clients\navec cette vague de terreur...[1205][U+000F] Je devrais\nporter plainte pour entrave au commerce."
+    "texte_fr": "*soupir*[1205][U+000F] Avec cette vague de terreur,\non a perdu tant de clients...[1205][U+000F]\nJe devrais porter plainte !"
   },
   {
     "id": 4,
@@ -47,7 +47,7 @@
     "nom_orig": "Employee",
     "texte_orig": "We[SP]have[SP]a[SP]new[SP]Secondo[SP]corner[SP]now.[SP]As[SP]hectic[SP]as\nthings[SP]are[SP]in[SP]this[SP]world,[SP]you[SP]should[SP]try[SP]and\nrelax[SP]with[SP]some[SP]tunes.",
     "nom_fr": "Employé",
-    "texte_fr": "On a un nouveau rayon Secondo maintenant. Aussi\nmouvementé que soit le monde en ce moment,\nessayez de vous détendre avec de la musique."
+    "texte_fr": "On a un nouveau rayon Secondo. Aussi\nmouvementé que soit le monde,\nessayez de vous détendre avec de la musique."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Hey,[SP]what[SP]do[SP]you[SP]think[SP]of[SP]the[SP]In[SP]Lak'ech?\nThink[SP]it's[SP]true?[1205][U+000F][SP]Well,[SP]I[SP]don't[SP]really[SP]care.",
     "nom_fr": "Employé",
-    "texte_fr": "Hé, qu'est-ce que vous pensez de l'In Lak'ech ?\nVous y croyez ?[1205][U+000F] Bah, moi je m'en fiche."
+    "texte_fr": "Hé, qu'est-ce vous pensez de l'In Lak'ech ?\nVous y croyez ?[1205][U+000F] Bah, moi je m'en fiche."
   },
   {
     "id": 6,
@@ -67,7 +67,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Man,[SP]you[SP]always[SP]have[SP]the[SP]best[SP]timing.[SP]We[SP]juuust\ngot[SP]in[SP]some[SP]new[SP]singles[SP]in[SP]the[SP]Terzo[SP]corner.[1205][U+000F]\nHere,[SP]come[SP]take[SP]a[SP]look.",
     "nom_fr": "Employé",
-    "texte_fr": "Wah, vous avez toujours le meilleur timing. On vient\njuuuste de recevoir de nouveaux singles dans le rayon Terzo.[1205][U+000F]\nTenez, venez jeter un œil."
+    "texte_fr": "Wah, vous tombez bien. On vient\njuuuste de recevoir des nouveaux singles\ndans le rayon Terzo.[1205][U+000F] Venez voir !"
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "nom_orig": "Employee",
     "texte_orig": "The[SP]city's[SP]a[SP]mess[SP]right[SP]now,[SP]but[SP]we[SP]did[SP]get\nour[SP]scheduled[SP]delivery[SP]of[SP]new[SP]material.[1205][U+000F][SP]I've\nfinally[SP]put[SP]together[SP]a[SP]Quarto[SP]corner.",
     "nom_fr": "Employé",
-    "texte_fr": "La ville est sens dessus dessous en ce moment,\nmais on a quand même reçu notre livraison de\nnouvelles sorties.[1205][U+000F] J'ai enfin monté un rayon Quarto."
+    "texte_fr": "La ville est sens dessus dessous,\nmais on a quand même reçu notre livraison\nde nouvelles sorties.[1205][U+000F] J'ai monté un rayon Quarto."
   },
   {
     "id": 8,
@@ -107,7 +107,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Something[SP]seems[SP]fishy[SP]about[SP]this,[SP]but...\nOh[SP]well.[1205][U+000F][SP]Anyway,[SP]I[SP]put[SP]it[SP]in[SP]the[SP]Quarto\ncorner.[SP]Take[SP]it[SP]off[SP]my[SP]hands,[SP]will[SP]ya?",
     "nom_fr": "Employé",
-    "texte_fr": "Y a un truc louche là-dedans, mais...\nBon.[1205][U+000F] De toute façon, je l'ai mis dans le rayon\nQuarto. Débarrassez-m'en, s'il vous plaît !"
+    "texte_fr": "Y a un truc louche là-dedans, mais...\nBon.[1205][U+000F] Je l'ai mis dans le rayon\nQuarto. Débarrassez-m'en, s'il vous plaît !"
   },
   {
     "id": 11,
@@ -127,7 +127,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Wow,[SP]you're[SP]something[SP]else.[1205][U+000F][SP]You've[SP]bought[SP]up\nevery[SP]CD[SP]in[SP]the[SP]shop![SP]Thanks,[SP]thanks,[SP]and[SP]in\ncase[SP]I[SP]forget,[SP]thanks!",
     "nom_fr": "Employé",
-    "texte_fr": "Waouh, vous êtes incroyable.[1205][U+000F] Vous avez acheté\ntous les CDs du magasin ! Merci, merci, et au\ncas où j'oublie, merci !"
+    "texte_fr": "Waouh, vous êtes incroyable.[1205][U+000F] Vous avez acheté\ntous les CDs ! Merci, merci, et au\ncas où j'oublie, merci !"
   },
   {
     "id": 13,
@@ -137,7 +137,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Okaaaaay![SP]A[SP]word[SP]on[SP]CDs!\n[E1][E2][E4][NULL][NULL]\"Employee\nIf[SP]you[SP]choose[SP][1432][NULL][NULL][0014]Buy[SP]CDs[1432][NULL][NULL][0014][SP]here,[SP]you[SP]can[SP]look\nthrough[SP]our[SP]unmatched[SP]selection[SP]of[SP]tunes!\n[E1][E2][E4][NULL][NULL]\"Employee\nWe[SP]get[SP]more[SP]singles[SP]over[SP]time,[SP]so[SP]make[SP]sure\nyou[SP]come[SP]by[SP]to[SP]check[SP]'em[SP]out.\n[E1][E2][E4][NULL][NULL]\"Employee\nOh,[SP]and[SP]you[SP]can[SP]play[SP]the[SP]CDs[SP]you[SP]buy[SP]on\na[SP]stereo.[SP]You've[SP]gotta[SP]know[SP]someone[SP]with\na[SP]boom[SP]box,[SP]right?",
     "nom_fr": "Employé",
-    "texte_fr": "Okaaay ! Un mot sur les CDs !\n[E1][E2][E4][NULL][NULL]\"Employé\nSi vous choisissez [1432][NULL][NULL][0014]Acheter des CDs[1432][NULL][NULL][0014] ici,\nvous pouvez parcourir notre sélection de musique\nsans pareille !\n[E1][E2][E4][NULL][NULL]\"Employé\nOn reçoit de nouveaux singles au fil du temps,\nalors revenez régulièrement les voir.\n[E1][E2][E4][NULL][NULL]\"Employé\nOh, et vous pouvez écouter les CDs achetés\nsur une chaîne. Vous connaissez forcément quelqu'un\navec une sono, non ?"
+    "texte_fr": "Okaaay ! Un mot sur les CDs !\n[E1][E2][E4][NULL][NULL]\"Employé\nChoisissez [1432][NULL][NULL][0014]Acheter des CDs[1432][NULL][NULL][0014] ici\npour parcourir notre sélection de musique\nsans pareille !\n[E1][E2][E4][NULL][NULL]\"Employé\nOn reçoit régulièrement de nouveaux singles,\nrevenez les voir.\n[E1][E2][E4][NULL][NULL]\"Employé\nOh, et vous pouvez écouter les CDs\nsur une chaîne. Vous connaissez quelqu'un\navec une sono, non ?"
   },
   {
     "id": 14,
@@ -147,7 +147,7 @@
     "nom_orig": "Employee",
     "texte_orig": "That'll[SP]be[SP][U+120E][NULL][SP]yen.\nYou[SP]wanna[SP]buy[SP]it...?\n[U+1208][0002]Yes\nNo\n[U+1109][E2][E3][E4][NULL][NULL]\"Employee\nWow,[SP]the[SP]Primo[SP]corner's[SP]all[SP]sold[SP]out!\nThanks[SP]for[SP]your[SP]patronage!",
     "nom_fr": "Employé",
-    "texte_fr": "Ça fera [U+120E][NULL] yens.\nVous voulez l'acheter... ?\n[U+1208][0002]Oui\nNon\n[U+1109][E2][E3][E4][NULL][NULL]\"Employé\nWaouh, le rayon Primo est épuisé !\nMerci de votre patronage !"
+    "texte_fr": "Ça fera [U+120E][NULL] yens.\nVous voulez l'acheter ?\n[U+1208][0002]Oui\nNon\n[U+1109][E2][E3][E4][NULL][NULL]\"Employé\nWaouh, le rayon Primo est épuisé !\nMerci de votre patronage !"
   },
   {
     "id": 15,
@@ -207,6 +207,6 @@
     "nom_orig": "Employee",
     "texte_orig": "Oh,[SP]this[SP]message[SP]shouldn't[SP]show[SP]up.",
     "nom_fr": "Employé",
-    "texte_fr": "Oh, ce message ne devrait pas s'afficher."
+    "texte_fr": "Ce message ne doit pas s'afficher."
   }
 ]
