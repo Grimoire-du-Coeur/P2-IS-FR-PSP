@@ -6,8 +6,8 @@
     "data_size": 70,
     "nom_orig": "[NULL][E4][NULL][NULL]\"Akari's[SP]voice",
     "texte_orig": "Hey,[SP]lady!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "[NULL][E4][NULL][NULL]\"Voix d'Akari",
+    "texte_fr": "Hé, dame !"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 96,
     "nom_orig": "Akari",
     "texte_orig": "The[SP]city's[SP]flying![SP]What's[SP]going[SP]on!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Akari",
+    "texte_fr": "La ville vole ! Que se passe-t-il?"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 136,
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "And...[1205][001E][SP]My[SP]Papa[SP]and[SP]Mama[SP]disappeared...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sosie de Jun",
+    "texte_fr": "Et...[1205][001E] Mon papa et maman ont disparu..."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 250,
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "When[SP]I[SP]think[SP]hard,[SP]I[SP]know[SP]I[SP]had[SP]a[SP]Mama[SP]and\nPapa...[1205][001E][SP]But[SP]now[SP]when[SP]I[SP]go[SP]home,[SP]I'll[SP]be\nall[SP]alone...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sosie de Jun",
+    "texte_fr": "Quand j'y pense, je sais que j'avais un papa\net une maman...[1205][001E] Mais si je rentre,\nje serai seul..."
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 200,
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "Papa[SP]and[SP]Mama[SP]were[SP]always[SP]fighting.\nBut...[1205][001E][SP]They[SP]were[SP]still[SP]my[SP]parents!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sosie de Jun",
+    "texte_fr": "Papa et maman se disputaient toujours.\nMais...[1205][001E] C'était quand même mes parents !"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 198,
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "Big[SP]Sis![SP]Big[SP]Bro![SP]Go[SP]beat[SP]the[SP]bad[SP]guys[SP]and\nbring[SP]back[SP]my[SP]Papa[SP]and[SP]Mama!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sosie de Jun",
+    "texte_fr": "Grande sœur ! Grand frère ! Battez les méchants\net ramenez mon papa et maman !"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 238,
     "nom_orig": "Maya",
     "texte_orig": "Don't[SP]worry,[SP]leave[SP]it[SP]to[SP]us![SP]We'll[SP]thrash\nthose[SP]bad[SP]guys[SP]in[SP]no[SP]time[SP]and[SP]make[SP]sure[SP]you\nget[SP]your[SP]parents[SP]back!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ne vous inquiétez pas, on s'en charge!\nOn va rosser ces méchants en deux temps\net ramener vos parents!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 150,
     "nom_orig": "Maya",
     "texte_orig": "Hey,[SP]kids![SP]Mind[SP]telling[SP]me[SP]what[SP]you[SP]want[SP]to\nbe[SP]when[SP]you[SP]grow[SP]up?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Hé, les gamins! C'est quoi votre\nrêve pour plus tard?"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 170,
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP]Big[SP]Maya...[SP]I[SP]don't[SP]think[SP]now's[SP]the[SP]time\nto[SP]ask[SP]stuff[SP]like[SP]that...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Hé, Grande Maya... C'est vraiment\nle bon moment pour ça...?"
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 132,
     "nom_orig": "Grade-schooler",
     "texte_orig": "I'm[SP]gonna[SP]go[SP]to[SP]Italy[SP]and[SP]be[SP]a[SP]soccer[SP]player!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Écolier",
+    "texte_fr": "Je vais aller en Italie et devenir\nfootballeur!"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 154,
     "nom_orig": "Grade-schooler",
     "texte_orig": "I'm[SP]gonna[SP]be[SP]a[SP]singer![SP]And[SP]I'm[SP]taking[SP]dance\nclasses[SP]too!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Écolier",
+    "texte_fr": "Je vais devenir chanteuse!\nEt je prends des cours de danse!"
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 212,
     "nom_orig": "Maya",
     "texte_orig": "Well,[SP]guess[SP]what?[SP]These[SP]guys[SP]are[SP]going[SP]to\nteach[SP]you[SP]a[SP]chant[SP]that'll[SP]make[SP]your[SP]dreams\ncome[SP]true!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Eh bien, devinez quoi? Ces gens vont\nvous apprendre un sort qui exaucera\nvos rêves!"
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 100,
     "nom_orig": "Jun",
     "texte_orig": "Um...[SP][1205][001E][SP]It's[SP]called[SP]the[SP]Persona[SP]Game...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Hum... [1205][001E] C'est le Persona Game..."
   },
   {
     "id": 13,
@@ -136,8 +136,8 @@
     "data_size": 94,
     "nom_orig": "Child",
     "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Enfant",
+    "texte_fr": "Persona, Persona, viens à nous."
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 94,
     "nom_orig": "Child",
     "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Enfant",
+    "texte_fr": "Persona, Persona, viens à nous."
   },
   {
     "id": 15,
@@ -156,8 +156,8 @@
     "data_size": 94,
     "nom_orig": "Child",
     "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Enfant",
+    "texte_fr": "Persona, Persona, viens à nous."
   },
   {
     "id": 16,
@@ -166,8 +166,8 @@
     "data_size": 200,
     "nom_orig": "Jun",
     "texte_orig": "I'll[SP]make[SP]sure[SP]to[SP]get[SP]your[SP]Papa[SP]and[SP]Mama[SP]back\nto[SP]normal.[SP]Here,[SP]as[SP]a[SP]token[SP]of[SP]my[SP]promise...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Je m'assure de ramener ton papa et\nta maman à la normale. En gage\nde ma promesse..."
   },
   {
     "id": 17,
@@ -176,8 +176,8 @@
     "data_size": 94,
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "What's[SP]this[SP]flower?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sosie de Jun",
+    "texte_fr": "C'est quelle fleur ?"
   },
   {
     "id": 18,
@@ -186,8 +186,8 @@
     "data_size": 64,
     "nom_orig": "Jun",
     "texte_orig": "It's[SP]a[SP]flower[SP]of[SP]hope.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Une fleur d'espoir."
   },
   {
     "id": 19,
@@ -196,8 +196,8 @@
     "data_size": 264,
     "nom_orig": "Jun",
     "texte_orig": "If[SP]the[SP]Ideal[SP]Energy[SP]stored[SP]in[SP]the[SP]five[SP]skulls\nis[SP]released,[SP]the[SP]people[SP]I[SP]turned[SP]into[SP]shadowmen\nmay[SP]be[SP]returned[SP]to[SP]normal...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Si l'Énergie Idéale des cinq crânes\nest libérée, les gens que j'ai\ntransformés en Ombres redeviendront normaux..."
   },
   {
     "id": 20,
@@ -206,8 +206,8 @@
     "data_size": 154,
     "nom_orig": "Jun",
     "texte_orig": "The[SP]skulls[SP]are[SP]the[SP]key[SP]and[SP]the[SP]power[SP]source\nfor[SP]activating[SP]Xibalba.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Les crânes sont la clé et la source\nd'énergie pour activer Xibalba."
   },
   {
     "id": 21,
@@ -216,8 +216,8 @@
     "data_size": 258,
     "nom_orig": "Jun",
     "texte_orig": "If[SP]we[SP]take[SP]back[SP]all[SP]the[SP]skulls[SP]and[SP]bring[SP]down\nXibalba[SP]before[SP]the[SP]Grand[SP]Cross[SP]happens,[SP]we[SP]can\nprevent[SP]further[SP]tragedy...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Si on récupère tous les crânes et abat Xibalba\navant la Croix Cosmique, on pourra\nprévenir d'autres tragédies..."
   },
   {
     "id": 22,
@@ -226,8 +226,8 @@
     "data_size": 262,
     "nom_orig": "Jun",
     "texte_orig": "By[SP]now,[SP]they'll[SP]have[SP]placed[SP]the[SP]skulls[SP]of\nearth,[SP]water,[SP]wind,[SP]and[SP]fire[SP]in[SP]their\nrespective[SP]shrines[SP]to[SP]control[SP]them[SP]there.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "D'ici là, ils auront placé les crânes de\nla terre, l'eau, le vent et le feu\ndans leurs sanctuaires respectifs."
   },
   {
     "id": 23,
@@ -236,8 +236,8 @@
     "data_size": 188,
     "nom_orig": "Jun",
     "texte_orig": "Our[SP]goal[SP]should[SP]be[SP]to[SP]first[SP]take[SP]back[SP]these\nfour[SP]skulls,[SP]and[SP]then[SP]take[SP]over[SP]Xibalba.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Notre objectif: récupérer ces quatre\ncrânes et prendre le contrôle de Xibalba."
   },
   {
     "id": 24,
@@ -246,8 +246,8 @@
     "data_size": 204,
     "nom_orig": "Jun",
     "texte_orig": "My[SP]father...[1205][001E][SP]should[SP]be[SP]chasing[SP]the[SP]Heaven[SP]Skull\nand[SP]the[SP]Fuhrer[SP]to[SP]the[SP]center[SP]of[SP]Xibalba...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Mon père...[1205][001E] devrait poursuivre le Crâne\nCéleste et le Führer jusqu'au centre de Xibalba..."
   },
   {
     "id": 25,
@@ -256,8 +256,8 @@
     "data_size": 248,
     "nom_orig": "Yukino",
     "texte_orig": "Sorry[SP]to[SP]spring[SP]this[SP]on[SP]you,[SP]guys...[1205][001E][SP]But[SP]I'm\ngonna[SP]part[SP]ways[SP]here.[SP]I've[SP]been[SP]thinking[SP]of\nstaying[SP]in[SP]the[SP]city.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Désolée de vous surprendre comme ça...[1205][001E] Mais\nje vais vous quitter ici. J'ai pensé\nrester en ville."
   },
   {
     "id": 26,
@@ -266,8 +266,8 @@
     "data_size": 292,
     "nom_orig": "Yukino",
     "texte_orig": "The[SP]battle[SP]between[SP]the[SP]Masked[SP]Circle[SP]and[SP]the\nLast[SP]Battalion[SP]is[SP]spilling[SP]over[SP]into[SP]the[SP]city.\nPeople[SP]might[SP]get[SP]caught[SP]in[SP]the[SP]crossfire.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "La bataille entre le Cercle masqué et le\nBataillon déborde en ville.\nDes civils pourraient être pris dans la tourmente."
   },
   {
     "id": 27,
@@ -276,8 +276,8 @@
     "data_size": 282,
     "nom_orig": "Yukino",
     "texte_orig": "And[SP]I[SP]thought[SP]if[SP]that[SP]happens,[SP]it'd[SP]be[SP]best[SP]to\nhave[SP]someone[SP]who[SP]can[SP]fight[SP]there[SP]to[SP]handle[SP]it.\nI[SP]don't[SP]want[SP]anyone[SP]else[SP]to[SP]die...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "J'ai pensé que si ça arrive, il vaudrait mieux\navoir quelqu'un pouvant se battre là-bas.\nJe ne veux plus personne qui meure..."
   },
   {
     "id": 28,
@@ -286,8 +286,8 @@
     "data_size": 238,
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]see[SP]what[SP]you[SP]mean,[SP]but...[1205][001E][SP]It's[SP]crazy[SP]to[SP]try\nand[SP]fight[SP]them[SP]alone[SP]and[SP]without[SP]a[SP]Persona,\neven[SP]for[SP]you!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Je vois ce que tu veux dire, mais...[1205][001E] C'est\nfou de les combattre seul et sans Persona,\nmême pour toi!"
   },
   {
     "id": 29,
@@ -296,8 +296,8 @@
     "data_size": 192,
     "nom_orig": "Anna",
     "texte_orig": "Don't[SP]worry,[SP]she[SP]won't[SP]be[SP]alone.[SP]I'll[SP]protect\nYukino...[SP]I[SP]won't[SP]let[SP]anyone[SP]touch[SP]her.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Anna",
+    "texte_fr": "Ne t'inquiète pas, elle ne sera\npas seule. Je veillerai sur Yukino..."
   },
   {
     "id": 30,
@@ -306,8 +306,8 @@
     "data_size": 178,
     "nom_orig": "Maya",
     "texte_orig": "Then[SP]there's[SP]nothing[SP]to[SP]worry[SP]about![SP]Take[SP]good\ncare[SP]of[SP]Yukki[SP]for[SP]us,[SP]Anna-san!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Alors rien à craindre! Prenez soin\nde Yukki pour nous, Anna-san!"
   },
   {
     "id": 31,
@@ -316,8 +316,8 @@
     "data_size": 236,
     "nom_orig": "Yukino",
     "texte_orig": "One[SP]thing,[SP]guys.[SP]If[SP]there[SP]ever[SP]comes[SP]a[SP]time\nwhen[SP]you[SP]need[SP]to[SP]ride[SP]something...[SP]Do[SP]NOT\nlet[SP]Maya-san[SP]drive!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Un truc, les gars. S'il arrivait\nque vous deviez vous déplacer...\nNe laissez JAMAIS Maya-san conduire!"
   },
   {
     "id": 32,
@@ -326,8 +326,8 @@
     "data_size": 104,
     "nom_orig": "Maya",
     "texte_orig": "Yukki![SP]How[SP]rude![SP]I'm[SP]an[SP]excellent[SP]driver!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Yukki! Quel culot!\nJe conduis très bien!"
   },
   {
     "id": 33,
@@ -336,8 +336,8 @@
     "data_size": 60,
     "nom_orig": "Akari's[SP]voice",
     "texte_orig": "Hey,[SP]lady!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Voix d'Akari",
+    "texte_fr": "Hé, dame !"
   },
   {
     "id": 34,
@@ -346,8 +346,8 @@
     "data_size": 96,
     "nom_orig": "Akari",
     "texte_orig": "The[SP]city's[SP]flying![SP]What's[SP]going[SP]on!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Akari",
+    "texte_fr": "La ville vole ! Que se passe-t-il?"
   },
   {
     "id": 35,
@@ -356,8 +356,8 @@
     "data_size": 136,
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "And...[1205][001E][SP]My[SP]Papa[SP]and[SP]Mama[SP]disappeared...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sosie de Jun",
+    "texte_fr": "Et...[1205][001E] Mon papa et maman ont disparu..."
   },
   {
     "id": 36,
@@ -366,8 +366,8 @@
     "data_size": 250,
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "When[SP]I[SP]think[SP]hard,[SP]I[SP]know[SP]I[SP]had[SP]a[SP]Mama[SP]and\nPapa...[1205][001E][SP]But[SP]now[SP]when[SP]I[SP]go[SP]home,[SP]I'll[SP]be\nall[SP]alone...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sosie de Jun",
+    "texte_fr": "Quand j'y pense, je sais que j'avais un papa\net une maman...[1205][001E] Mais si je rentre,\nje serai seul..."
   },
   {
     "id": 37,
@@ -376,8 +376,8 @@
     "data_size": 200,
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "Papa[SP]and[SP]Mama[SP]were[SP]always[SP]fighting.\nBut...[1205][001E][SP]They[SP]were[SP]still[SP]my[SP]parents!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sosie de Jun",
+    "texte_fr": "Papa et maman se disputaient toujours.\nMais...[1205][001E] C'était quand même mes parents !"
   },
   {
     "id": 38,
@@ -386,8 +386,8 @@
     "data_size": 198,
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "Big[SP]Sis![SP]Big[SP]Bro![SP]Go[SP]beat[SP]the[SP]bad[SP]guys[SP]and\nbring[SP]back[SP]my[SP]Papa[SP]and[SP]Mama!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sosie de Jun",
+    "texte_fr": "Grande sœur ! Grand frère ! Battez les méchants\net ramenez mon papa et maman !"
   },
   {
     "id": 39,
@@ -396,8 +396,8 @@
     "data_size": 238,
     "nom_orig": "Maya",
     "texte_orig": "Don't[SP]worry,[SP]leave[SP]it[SP]to[SP]us![SP]We'll[SP]thrash\nthose[SP]bad[SP]guys[SP]in[SP]no[SP]time[SP]and[SP]make[SP]sure[SP]you\nget[SP]your[SP]parents[SP]back!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ne vous inquiétez pas, on s'en charge!\nOn va rosser ces méchants en deux temps\net ramener vos parents!"
   },
   {
     "id": 40,
@@ -406,8 +406,8 @@
     "data_size": 150,
     "nom_orig": "Maya",
     "texte_orig": "Hey,[SP]kids![SP]Mind[SP]telling[SP]me[SP]what[SP]you[SP]want[SP]to\nbe[SP]when[SP]you[SP]grow[SP]up?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Hé, les gamins! C'est quoi votre\nrêve pour plus tard?"
   },
   {
     "id": 41,
@@ -416,8 +416,8 @@
     "data_size": 170,
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP]Big[SP]Maya...[SP]I[SP]don't[SP]think[SP]now's[SP]the[SP]time\nto[SP]ask[SP]stuff[SP]like[SP]that...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Hé, Grande Maya... C'est vraiment\nle bon moment pour ça...?"
   },
   {
     "id": 42,
@@ -426,8 +426,8 @@
     "data_size": 132,
     "nom_orig": "Grade-schooler",
     "texte_orig": "I'm[SP]gonna[SP]go[SP]to[SP]Italy[SP]and[SP]be[SP]a[SP]soccer[SP]player!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Écolier",
+    "texte_fr": "Je vais aller en Italie et devenir\nfootballeur!"
   },
   {
     "id": 43,
@@ -436,8 +436,8 @@
     "data_size": 154,
     "nom_orig": "Grade-schooler",
     "texte_orig": "I'm[SP]gonna[SP]be[SP]a[SP]singer![SP]And[SP]I'm[SP]taking[SP]dance\nclasses[SP]too!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Écolier",
+    "texte_fr": "Je vais devenir chanteuse!\nEt je prends des cours de danse!"
   },
   {
     "id": 44,
@@ -446,8 +446,8 @@
     "data_size": 212,
     "nom_orig": "Maya",
     "texte_orig": "Well,[SP]guess[SP]what?[SP]These[SP]guys[SP]are[SP]going[SP]to\nteach[SP]you[SP]a[SP]chant[SP]that'll[SP]make[SP]your[SP]dreams\ncome[SP]true!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Eh bien, devinez quoi? Ces gens vont\nvous apprendre un sort qui exaucera\nvos rêves!"
   },
   {
     "id": 45,
@@ -456,8 +456,8 @@
     "data_size": 100,
     "nom_orig": "Jun",
     "texte_orig": "Um...[SP][1205][001E][SP]It's[SP]called[SP]the[SP]Persona[SP]Game...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Hum... [1205][001E] C'est le Persona Game..."
   },
   {
     "id": 46,
@@ -466,8 +466,8 @@
     "data_size": 94,
     "nom_orig": "Child",
     "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Enfant",
+    "texte_fr": "Persona, Persona, viens à nous."
   },
   {
     "id": 47,
@@ -476,8 +476,8 @@
     "data_size": 94,
     "nom_orig": "Child",
     "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Enfant",
+    "texte_fr": "Persona, Persona, viens à nous."
   },
   {
     "id": 48,
@@ -486,8 +486,8 @@
     "data_size": 94,
     "nom_orig": "Child",
     "texte_orig": "Persona,[SP]Persona,[SP]please[SP]come[SP]here.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Enfant",
+    "texte_fr": "Persona, Persona, viens à nous."
   },
   {
     "id": 49,
@@ -496,8 +496,8 @@
     "data_size": 200,
     "nom_orig": "Jun",
     "texte_orig": "I'll[SP]make[SP]sure[SP]to[SP]get[SP]your[SP]Papa[SP]and[SP]Mama[SP]back\nto[SP]normal.[SP]Here,[SP]as[SP]a[SP]token[SP]of[SP]my[SP]promise...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Je m'assure de ramener ton papa et\nta maman à la normale. En gage\nde ma promesse..."
   },
   {
     "id": 50,
@@ -506,8 +506,8 @@
     "data_size": 94,
     "nom_orig": "Boy[SP]who[SP]resembles[SP]Jun",
     "texte_orig": "What's[SP]this[SP]flower?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sosie de Jun",
+    "texte_fr": "C'est quelle fleur ?"
   },
   {
     "id": 51,
@@ -516,8 +516,8 @@
     "data_size": 64,
     "nom_orig": "Jun",
     "texte_orig": "It's[SP]a[SP]flower[SP]of[SP]hope.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Une fleur d'espoir."
   },
   {
     "id": 52,
@@ -526,8 +526,8 @@
     "data_size": 264,
     "nom_orig": "Jun",
     "texte_orig": "If[SP]the[SP]Ideal[SP]Energy[SP]stored[SP]in[SP]the[SP]five[SP]skulls\nis[SP]released,[SP]the[SP]people[SP]I[SP]turned[SP]into[SP]shadowmen\nmay[SP]be[SP]returned[SP]to[SP]normal...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Si l'Énergie Idéale des cinq crânes\nest libérée, les gens que j'ai\ntransformés en Ombres redeviendront normaux..."
   },
   {
     "id": 53,
@@ -536,8 +536,8 @@
     "data_size": 154,
     "nom_orig": "Jun",
     "texte_orig": "The[SP]skulls[SP]are[SP]the[SP]key[SP]and[SP]the[SP]power[SP]source\nfor[SP]activating[SP]Xibalba.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Les crânes sont la clé et la source\nd'énergie pour activer Xibalba."
   },
   {
     "id": 54,
@@ -546,8 +546,8 @@
     "data_size": 258,
     "nom_orig": "Jun",
     "texte_orig": "If[SP]we[SP]take[SP]back[SP]all[SP]the[SP]skulls[SP]and[SP]bring[SP]down\nXibalba[SP]before[SP]the[SP]Grand[SP]Cross[SP]happens,[SP]we[SP]can\nprevent[SP]further[SP]tragedy...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Si on récupère tous les crânes et abat Xibalba\navant la Croix Cosmique, on pourra\nprévenir d'autres tragédies..."
   },
   {
     "id": 55,
@@ -556,8 +556,8 @@
     "data_size": 262,
     "nom_orig": "Jun",
     "texte_orig": "By[SP]now,[SP]they'll[SP]have[SP]placed[SP]the[SP]skulls[SP]of\nearth,[SP]water,[SP]wind,[SP]and[SP]fire[SP]in[SP]their\nrespective[SP]shrines[SP]to[SP]control[SP]them[SP]there.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "D'ici là, ils auront placé les crânes de\nla terre, l'eau, le vent et le feu\ndans leurs sanctuaires respectifs."
   },
   {
     "id": 56,
@@ -566,8 +566,8 @@
     "data_size": 188,
     "nom_orig": "Jun",
     "texte_orig": "Our[SP]goal[SP]should[SP]be[SP]to[SP]first[SP]take[SP]back[SP]these\nfour[SP]skulls,[SP]and[SP]then[SP]take[SP]over[SP]Xibalba.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Notre objectif: récupérer ces quatre\ncrânes et prendre le contrôle de Xibalba."
   },
   {
     "id": 57,
@@ -576,8 +576,8 @@
     "data_size": 204,
     "nom_orig": "Jun",
     "texte_orig": "My[SP]father...[1205][001E][SP]should[SP]be[SP]chasing[SP]the[SP]Heaven[SP]Skull\nand[SP]the[SP]Fuhrer[SP]to[SP]the[SP]center[SP]of[SP]Xibalba...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Mon père...[1205][001E] devrait poursuivre le Crâne\nCéleste et le Führer jusqu'au centre de Xibalba..."
   },
   {
     "id": 58,
@@ -586,8 +586,8 @@
     "data_size": 216,
     "nom_orig": "Ginko",
     "texte_orig": "Philemon[SP]told[SP]us[SP]to[SP]show[SP]the[SP]power[SP]of[SP]our\nfeelings[SP]that[SP]we've[SP]fostered[SP]for[SP]the[SP]last\nten[SP]years...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Philémon nous a dit de montrer\nla force de nos sentiments cultivés\ndurant ces dix ans..."
   },
   {
     "id": 59,
@@ -596,8 +596,8 @@
     "data_size": 270,
     "nom_orig": "Ginko",
     "texte_orig": "Well,[SP]I've[SP]got[SP]ten[SP]years'[SP]worth[SP]of[SP]unrequited\nlove[SP]power![SP]I[SP]hope[SP]the[SP]Masked[SP]Circle[SP]and[SP]the\nLast[SP]Battalion[SP]are[SP]ready[SP]for[SP]it!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Eh bien, j'ai dix ans d'amour non partagé\nen réserve! J'espère que le Cercle masqué\net le Bataillon sont prêts !"
   },
   {
     "id": 60,
@@ -606,8 +606,8 @@
     "data_size": 216,
     "nom_orig": "Ginko",
     "texte_orig": "Philemon[SP]told[SP]us[SP]to[SP]show[SP]the[SP]power[SP]of[SP]our\nfeelings[SP]that[SP]we've[SP]fostered[SP]for[SP]the[SP]last\nten[SP]years...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Philémon nous a dit de montrer\nla force de nos sentiments cultivés\ndurant ces dix ans..."
   },
   {
     "id": 61,
@@ -616,8 +616,8 @@
     "data_size": 284,
     "nom_orig": "Ginko",
     "texte_orig": "We're[SP]going[SP]in[SP]there[SP]to[SP]avenge[SP]Yukino-san,\nso[SP]we[SP]can't[SP]lose![SP]I[SP]hope[SP]the[SP]Masked[SP]Circle\nand[SP]Last[SP]Battalion[SP]are[SP]ready[SP]to[SP]get[SP]creamed!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "On entre là-dedans pour venger Yukino-san,\nalors on ne peut pas perdre! J'espère que\nle Cercle masqué et le Bataillon sont prêts!"
   },
   {
     "id": 62,
@@ -626,8 +626,8 @@
     "data_size": 270,
     "nom_orig": "Eikichi",
     "texte_orig": "We're[SP]finally[SP]reunited,[SP]all[SP]five[SP]of[SP]us...[1205][001E]\nI[SP]feel[SP]like[SP]nothing[SP]can[SP]stop[SP]me,[SP]Masked\nCircle[SP]or[SP]Last[SP]Battalion[SP]or[SP]whatever!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "On est enfin réunis, tous les cinq...[1205][001E]\nJe me sens invincible, que ce soit le\nCercle masqué ou le Bataillon!"
   },
   {
     "id": 63,
@@ -636,8 +636,8 @@
     "data_size": 270,
     "nom_orig": "Eikichi",
     "texte_orig": "We're[SP]finally[SP]reunited,[SP]all[SP]five[SP]of[SP]us...[1205][001E]\nI[SP]feel[SP]like[SP]nothing[SP]can[SP]stop[SP]me,[SP]Masked\nCircle[SP]or[SP]Last[SP]Battalion[SP]or[SP]whatever!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "On est enfin réunis, tous les cinq...[1205][001E]\nJe me sens invincible, que ce soit le\nCercle masqué ou le Bataillon!"
   },
   {
     "id": 64,
@@ -646,8 +646,8 @@
     "data_size": 190,
     "nom_orig": "Eikichi",
     "texte_orig": "Now[SP]if[SP]only[SP]Yukino-san[SP]were[SP]here,[SP]that'd[SP]be\nall[SP]there[SP]was[SP]to[SP]say[SP]on[SP]the[SP]matter...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Si seulement Yukino-san était là, ce\nserait parfait, rien de plus à dire..."
   },
   {
     "id": 65,
@@ -656,8 +656,8 @@
     "data_size": 178,
     "nom_orig": "Maya",
     "texte_orig": "Bringing[SP]mankind[SP]to[SP]Idealian...[SP]Is[SP]that[SP]really\nwhat[SP]Jun-kun's[SP]father[SP]wants...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Amener l'humanité en Idéaliens...\nC'est vraiment le souhait de son père...?"
   },
   {
     "id": 66,
@@ -666,8 +666,8 @@
     "data_size": 278,
     "nom_orig": "Maya",
     "texte_orig": "We[SP]should[SP]concentrate[SP]on[SP]gathering[SP]the[SP]skulls\nfor[SP]now.[SP]Jun-kun,[SP][U+1113]-kun...[SP]With[SP]you[SP]two\non[SP]our[SP]side,[SP]we'll[SP]be[SP]fine,[SP]come[SP]what[SP]may!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Concentrons-nous d'abord sur les crânes.\nJun-kun, [U+1113]-kun... Avec vous deux\nnous serons bien quoi qu'il arrive!"
   },
   {
     "id": 67,
@@ -676,8 +676,8 @@
     "data_size": 178,
     "nom_orig": "Maya",
     "texte_orig": "Bringing[SP]mankind[SP]to[SP]Idealian...[SP]Is[SP]that[SP]really\nwhat[SP]Jun-kun's[SP]father[SP]wants...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Amener l'humanité en Idéaliens...\nC'est vraiment le souhait de son père...?"
   },
   {
     "id": 68,
@@ -686,8 +686,8 @@
     "data_size": 256,
     "nom_orig": "Maya",
     "texte_orig": "We[SP]should[SP]concentrate[SP]on[SP]gathering[SP]the[SP]skulls\nfor[SP]now.[SP]We[SP]can't[SP]let[SP]Yukki[SP]down[SP]on[SP]her[SP]final\nwish[SP]she[SP]gave[SP]to[SP]Jun-kun!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Concentrons-nous d'abord sur les crânes.\nOn ne peut pas décevoir Yukki\naprès son dernier vœu pour Jun-kun!"
   },
   {
     "id": 69,
@@ -696,7 +696,7 @@
     "data_size": 260,
     "nom_orig": "Jun",
     "texte_orig": "Getting[SP]the[SP]four[SP]skulls[SP]back[SP]and[SP]taking[SP]over\nXibalba...[SP]It[SP]will[SP]be[SP]difficult,[SP]but[SP]there's\nno[SP]other[SP]way[SP]to[SP]save[SP]everyone.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Récupérer les quatre crânes et prendre\nXibalba... Ce sera difficile, mais c'est\nla seule façon de sauver tout le monde."
   }
 ]
