@@ -47,7 +47,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It's[SP]no[SP]one's[SP]fault[SP]that[SP]the[SP]city[SP]is[SP]so[SP]far\ngone[SP]now.[1205][U+000A][SP]Rumors[SP]are[SP]becoming[SP]reality...\nI[SP]think[SP]everyone[SP]was[SP]wrong[SP]in[SP]some[SP]way.",
     "nom_fr": "Maya",
-    "texte_fr": "L'état de la ville n'est la faute de\npersonne.[1205][U+000F] Les rumeurs deviennent réalité...\nChacun y a sa part de responsabilité."
+    "texte_fr": "L'état de la ville n'est la faute de\npersonne.[1205][U+000A] Les rumeurs deviennent réalité...\nChacun y a sa part de responsabilité."
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Rumors[SP]are[SP]the[SP]desire[SP]lurking[SP]in[SP]human[SP]hearts\ngiven[SP]form.[1205][U+000F][SP]Man[SP]has[SP]a[SP]dark[SP]side,[SP]alas...[1205][U+000F][SP]But\nhe[SP]is[SP]also[SP]capable[SP]of[SP]kindness[SP]and[SP]empathy.",
     "nom_fr": "Jun",
-    "texte_fr": "Les désirs cachés du coeur humain donnent forme\naux rumeurs.[1205][U+000F]L'humain a une part sombre...[1205][U+000F]\nMais aussi une part de bonté et d'empathie."
+    "texte_fr": "Les désirs cachés du coeur humain donnent forme\naux rumeurs.[1205][U+000F] L'humain a une part sombre...[1205][U+000F]\nMais aussi de la bonté et de l'empathie."
   },
   {
     "id": 7,
@@ -107,7 +107,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Huh?[1205][U+000F][SP]Legendary[SP]case?[1205][U+000F][SP]Yikes,[SP]you[SP]kids[SP]heard[SP]the\nrumor[SP]too?",
     "nom_fr": "Cheffe",
-    "texte_fr": "Que?[1205][U+000F]L'étui légendaire?[1205][U+000F]Vous connaissez la\nrumeur aussi?"
+    "texte_fr": "Que?[1205][U+000F] L'étui légendaire?[1205][U+000F] Vous la\nconnaissez aussi?"
   },
   {
     "id": 11,
@@ -127,7 +127,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Well,[SP]whoever[SP]it[SP]is,[SP]it's[SP]bull[SP]puckey.[1205][U+000F][SP]I[SP]don't\nhave[SP]anything[SP]like[SP]that[SP]here.",
     "nom_fr": "Cheffe",
-    "texte_fr": "Qui que ce soit, c'est sont des conneries.[1205][U+000F]\nJ'ai rien comme ça ici."
+    "texte_fr": "Qui que ce soit, ce sont des conneries.[1205][U+000F]\nJ'ai rien comme ça ici."
   },
   {
     "id": 13,
@@ -147,7 +147,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Sure,[SP]I[SP]sell[SP]weapons...[1205][U+000F][SP]But[SP]ramen[SP]is[SP]my[SP]main\nbusiness.[1205][U+000F][SP]And[SP]why[SP]a[SP]guitar[SP]case,[SP]anyway?",
     "nom_fr": "Cheffe",
-    "texte_fr": "J'vends des armes,[1205][U+000F] mais mon vrai job c'est\nles ramen.[1205][U+000F]Et pourquoi un étui à guitare?"
+    "texte_fr": "J'vends des armes,[1205][U+000F] mais mon vrai job,\nles ramen.[1205][U+000F] Pourquoi un étui à guitare?"
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
     "nom_orig": "Washout[SP]student",
     "texte_orig": "Not[SP]long[SP]after[SP]that,[SP]I[SP]started[SP]hearing[SP]these\ngunshots[SP]and[SP]screams...[1205][U+000F][SP]Ugh![SP]There's[SP]danger\neverywhere[SP]in[SP]this[SP]city,[SP]just[SP]like[SP]I[SP]thought.",
     "nom_fr": "Lycéen en échec",
-    "texte_fr": "Peu après, j'ai entendu des coups de feux et\ndes cris...[1205][U+000F] Ugh! Je savais qu'il y avait\ndu danger partout dans cette ville."
+    "texte_fr": "Peu après, j'ai entendu des coups de feu et\ndes cris...[1205][U+000F] Ugh! Je savais qu'il y avait\ndu danger partout dans cette ville."
   },
   {
     "id": 18,
@@ -197,7 +197,7 @@
     "nom_orig": "Bodyguard",
     "texte_orig": "Even[SP]worse[SP]are[SP]these[SP]horrible[SP]rumors[SP]going\naround[SP]about[SP]how[SP]it's[SP]gonna[SP]end[SP]down[SP]there.[1205][U+000F]\nI[SP]look[SP]like[SP]a[SP]saint[SP]next[SP]to[SP]these[SP]guys...",
     "nom_fr": "Garde du corps",
-    "texte_fr": "Le pire ce sont les rumeurs à propos de\ncomment ça va se finir en bas.[1205][U+000F]\nMême moi\nj'ai l'air d'un saint à côté d'eux..."
+    "texte_fr": "Le pire ce sont les rumeurs sur la fin du\nmonde là-bas.[1205][U+000F]\nMême moi j'ai l'air d'un saint à côté d'eux..."
   },
   {
     "id": 20,
@@ -207,7 +207,7 @@
     "nom_orig": "Bodyguard",
     "texte_orig": "The[SP]irony[SP]is,[SP]everything's[SP]turning[SP]out[SP]exactly\nthe[SP]way[SP]that[SP]goddamn[SP]In[SP]Lak'ech[SP]said[SP]it[SP]would.",
     "nom_fr": "Garde du corps",
-    "texte_fr": "Ironiquement, tout se déroule exactement comme\ncette merde d'In Lak'Ech l'a prédit..."
+    "texte_fr": "Ironiquement, tout se déroule exactement comme\ncette merde d'In Lak'ech l'a prédit..."
   },
   {
     "id": 21,
@@ -237,7 +237,7 @@
     "nom_orig": "Bodyguard",
     "texte_orig": "Seriously,[SP]how[SP]much[SP]worse[SP]can[SP]things[SP]get?[1205][U+000A][SP]When\nthe[SP]Grand[SP]Cross[SP]happens,[SP]some[SP]gravity[SP]warp[SP]is\ngonna[SP]stop[SP]the[SP]Earth's[SP]rotation.",
     "nom_fr": "Garde du corps",
-    "texte_fr": "À quel point ça peut empirer?[1205][U+000F] Quand la\nCroix Cosmique arrivera, une altération de gravité\nfigera la rotation terrestre."
+    "texte_fr": "À quel point ça peut empirer?[1205][U+000A] Quand la\nCroix Cosmique arrivera, une distorsion de gravité\nfigera la rotation terrestre."
   },
   {
     "id": 24,
@@ -307,7 +307,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Sheesh...[1205][U+000F][SP]It'd[SP]be[SP]pretty[SP]sad[SP]to[SP]go[SP]around[SP]with\nyou[SP]holdin'[SP]a[SP]grudge.[1205][U+000F][SP]Alright.[1205][U+000F][SP]You[SP]want[SP]the\nlegendary[SP]case?[1205][U+000F][SP]I[SP]got[SP]it[SP]right[SP]here.",
     "nom_fr": "Cheffe",
-    "texte_fr": "Tch...[1205][U+000F][1205][U+000F] Ça serait triste que tu restes\ntoujours rancunier après ça.[1205][U+000F] Très bien.[1205][U+000F]\nTu veux l'étui légendaire? Je l'ai juste là."
+    "texte_fr": "Tch...[1205][U+000F] Ça serait triste que tu restes\ntoujours rancunier après ça.[1205][U+000F] Très bien.[1205][U+000F]\nTu veux l'étui légendaire? Je l'ai juste là."
   },
   {
     "id": 31,
@@ -357,7 +357,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "If[SP]Eikichi[SP]taste-tests[SP]the[SP]new[SP]recipe[SP]for\nme...[1205][U+000F][SP]I'll[SP]sell[SP]you[SP]the[SP]legendary[SP]case.",
     "nom_fr": "Cheffe",
-    "texte_fr": "Si Eikichi testes ma nouvelle recette...[1205][U+000F]\nJe vous vendrais l'étui légendaire."
+    "texte_fr": "Si Eikichi teste ma nouvelle recette...[1205][U+000F]\nJe vous vendrai l'étui légendaire."
   },
   {
     "id": 36,
@@ -397,7 +397,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Hah![1205][U+000F][SP]That's[SP]the[SP]spirit,[SP]kid.[1205][U+000F][SP]I'll[SP]whip[SP]some\nup[SP]right[SP]now.[SP]Just[SP]give[SP]me[SP]a[SP]sec...",
     "nom_fr": "Cheffe",
-    "texte_fr": "Hah![1205][U+000F] J'aime mieux ça, gamin.[1205][U+000F] Je te prépares\nça. Patiente juste un peu..."
+    "texte_fr": "Hah![1205][U+000F] J'aime mieux ça, gamin.[1205][U+000F] Je te prépare\nça. Patiente juste un peu..."
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Great![SP]The[SP]deal's[SP]set,[SP]then.[SP]I'll[SP]add[SP]the\nlegendary[SP]case[SP]to[SP]the[SP]menu,[SP]so[SP]come[SP]buy[SP]it\nwhen[SP]you[SP]have[SP]enough[SP]money.",
     "nom_fr": "Cheffe",
-    "texte_fr": "Super, c'est réglé! J'ajouterais l'étui légendaire\nau menu, donc passez ici quand vous\naurez l'argent pour."
+    "texte_fr": "Super, c'est réglé! J'ajouterai l'étui légendaire\nau menu, donc passez ici quand vous\naurez l'argent pour."
   },
   {
     "id": 48,
@@ -497,7 +497,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Pff...[SP]What's[SP]with[SP]the[SP]cold[SP]shoulder?[1205][U+000F][SP]Fine.\nI[SP]won't[SP]ask[SP]you[SP]twice.[1205][U+000F][SP]The[SP]deal's[SP]off.",
     "nom_fr": "Cheffe",
-    "texte_fr": "Pff... Tu te dégonfles?[1205][U+000F] Bien. Je ne le\nredemanderais pas.[1205][U+000F] Je retire mon offre."
+    "texte_fr": "Pff... Tu te dégonfles?[1205][U+000F] Bien. Je ne le\nredemanderai pas.[1205][U+000F] Je retire mon offre."
   },
   {
     "id": 50,
@@ -517,7 +517,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Comes[SP]to[SP][U+120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?\n[U+1208][0002]Yes\nNo\n[U+1109][E2][E3][E4][NULL][NULL]\"Ma'am\nShoppin',[SP]huh?\n[E1][E2][E4][NULL][NULL]\"Ma'am\nLet[SP]me[SP]explain[SP]buyin'[SP]to[SP]you[SP]first.[SP]Choose\n[1432][NULL][NULL][0014]Buy[SP]weapons[1432][NULL][NULL][0014][SP]here[SP]and[SP]I'll[SP]sell[SP]you[SP]some.\n[E1][E2][E4][NULL][NULL]\"Ma'am\nEveryone[SP]has[SP]their[SP]own[SP]preferred[SP]type[SP]of\nweapon,[SP]so[SP]make[SP]sure[SP]you[SP]check[SP]who[SP]can[SP]use\nwhat[SP]before[SP]buyin'[SP]anything.\n[E1][E2][E4][NULL][NULL]\"Ma'am\nThen[SP]there's[SP]sellin'.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014]\nand[SP]then[SP]which[SP]kinda[SP]item[SP]you[SP]wanna[SP]sell.\nThen[SP]choose[SP]somethin'[SP]to[SP]sell[SP]me.\n[E1][E2][E4][NULL][NULL]\"Ma'am\nI'll[SP]pay[SP]around[SP]half[SP]of[SP]what[SP]you[SP]originally\npaid[SP]for[SP]stuff.[SP]I[SP]won't[SP]buy[SP]anything[SP]you've\ngot[SP]equipped[SP]or[SP]seems[SP]too[SP]important.\n[E1][E2][E4][NULL][NULL]\"Ma'am\nThat[SP]oughtta[SP]cover[SP]it.",
     "nom_fr": "Cheffe",
-    "texte_fr": "Ça fait [U+120E][NULL] yen.\nC'est bon pour toi?\n[U+1208][0002]Oui\nNon\n[U+1109][E2][E3][E4][NULL][NULL]\"Cheffe\nAcheter, hein?\n[E1][E2][E4][NULL][NULL]\"Cheffe\nJe vais d'abord t'expliquer comment acheter. Choisis\n[1432][NULL][NULL][0014]Acheter[1432][NULL][NULL][0014] et je te proposerais des armes.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nChacun a son type d'arme favori,\nDonc vérifie qui utilise quoi avant d'acheter\nquoi que ce soit.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nPuis y'a la vente. Choisis [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014]\npuis une catégorie d'objet à vendre.\nEnfin, choisis un truc à me vendre.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nJe paie environ la moitié du prix d'achat.\nJe n'achéterais aucun objet équipé sur toi\nou qui semble trop important.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nC'est à peu près tout."
+    "texte_fr": "Ça fait [U+120E][NULL] yen.\nC'est bon pour toi?\n[U+1208][0002]Oui\nNon\n[U+1109][E2][E3][E4][NULL][NULL]\"Cheffe\nAcheter, hein?\n[E1][E2][E4][NULL][NULL]\"Cheffe\nJe vais d'abord t'expliquer comment acheter. Choisis\n[1432][NULL][NULL][0014]Acheter[1432][NULL][NULL][0014] et je te proposerai des armes.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nChacun a son type d'arme favori,\ndonc vérifie qui utilise quoi avant d'acheter\nquoi que ce soit.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nPuis y'a la vente. Choisis [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014]\npuis une catégorie d'objet à vendre.\nEnfin, choisis un truc à me vendre.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nJe paie environ la moitié du prix d'achat.\nJe n'achèterai aucun objet équipé sur toi\nou qui semble trop important.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nC'est à peu près tout."
   },
   {
     "id": 52,
@@ -527,6 +527,6 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Thinkin'[SP]of[SP]dining[SP]in,[SP]huh?[SP]Select[SP][1432][NULL][NULL][0014]Dine[SP]in[1432][NULL][NULL][0014]\nhere[SP]if[SP]you[SP]want[SP]some[SP]of[SP]my[SP]ramen.\n[E1][E2][E4][NULL][NULL]\"Ma'am\nEatin'[SP]food[SP]gives[SP]you[SP]a[SP]little[SP]boost[SP]to[SP]your\nabilities[SP]for[SP]a[SP]while.[SP]Every[SP]restaurant\nhas[SP]different[SP]stuff,[SP]so[SP]try[SP]it[SP]out.\n[E1][E2][E4][NULL][NULL]\"Ma'am\nOnce[SP]you've[SP]had[SP]a[SP]meal,[SP]you[SP]can't[SP]dine[SP]in\nagain[SP]until[SP]the[SP]effect[SP]wears[SP]off.[SP]Pretty\nsimple,[SP]really.",
     "nom_fr": "Cheffe",
-    "texte_fr": "Envie de manger un bout, hein? Choisis [1432][NULL][NULL][0014]Manger[1432][NULL][NULL][0014]\npour goûter mes ramen.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nManger t'octroie un petit bonus de capacités\npour un temps. Chaque restaurant a ses spécialités,\ndonc essaie-les aussi.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nAprès ton repas, tu dois attendre que\nl'effet s'estompte pour manger à nouveau.\nC'est vraiment simple."
+    "texte_fr": "Envie de manger un bout, hein? Choisis [1432][NULL][NULL][0014]Manger[1432][NULL][NULL][0014]\npour goûter mes ramen.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nManger t'octroie un petit bonus de capacités\npour un temps. Chaque restaurant a ses spécialités,\ndonc essaie-les aussi.\n[E1][E2][E4][NULL][NULL]\"Cheffe\nAprès ton repas, tu dois attendre que\nl'effet s'estompe pour manger à nouveau.\nC'est vraiment simple."
   }
 ]
