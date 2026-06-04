@@ -37,7 +37,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It's[SP]all[SP]right,[SP]I'm...[SP]okay...\n[U+1208][0002][1432][NULL][NULL][0014]Cry[SP]if[SP]you[SP]need[SP]to.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It[SP]hurts,[SP]but[SP]stay[SP]strong.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\n*sob*[1205]<[SP]Aaaaaaaaaaaaah...!",
     "nom_fr": "Maya",
-    "texte_fr": "Ça va... je... ça va...\n[U+1208][0002][1432][NULL][NULL][0014]Pleure si tu dois.[1432][NULL][NULL][OO14]\n[1432][NULL][NULL][0014]Ça fait mal, mais tiens bon.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\n*sanglot*[1205]< Aaaaaaaaaaaaah...!"
+    "texte_fr": "Ça va... je... ça va...\n[U+1208][0002][1432][NULL][NULL][0014]Pleure si tu dois.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ça fait mal, mais tiens bon.[1432][NULL][NULL][0014]\n[U+1109][E2][E3][E4][NULL][NULL]\"Maya\n*sanglot*[1205]< Aaaaaaaaaaaaah...!"
   },
   {
     "id": 4,
@@ -67,7 +67,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Dad[SP]died[SP]pursuing[SP]his[SP]dream.[1205][001E][SP]All[SP]he[SP]left[SP]me\nwas[SP]this...",
     "nom_fr": "Maya",
-    "texte_fr": "Papa est mort\nson rêve.[1205][001E] Il ne m'a laissé\nque ça..."
+    "texte_fr": "Papa est mort pour son rêve.[1205][001E]\nIl ne m'a laissé que ça..."
   },
   {
     "id": 7,
@@ -77,7 +77,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That's[SP]why[SP]I...[SP]I[SP]wanted[SP]to[SP]be[SP]a[SP]successful\njournalist[SP]who[SP]could[SP]balance[SP]my[SP]work[SP]with\na[SP]family,[SP]the[SP]way[SP]he[SP]couldn't...",
     "nom_fr": "Maya",
-    "texte_fr": "C'est pour ça que je voulais\nréussir comme journaliste,\net concilier travail et\famille, contrrairement à lui..."
+    "texte_fr": "C'est pour ça que je voulais\nréussir comme journaliste,\net concilier travail et famille, contrairement à lui..."
   },
   {
     "id": 8,
@@ -147,7 +147,7 @@
     "nom_orig": "Jun",
     "texte_orig": "I[SP]won't[SP]forget...![1205][001E][SP]I[SP]won't[SP]ever[SP]forget[SP]my\nBig[SP]Maya,[SP]or[SP]anyone[SP]here,[SP]ever[SP]again!",
     "nom_fr": "Jun",
-    "texte_fr": "Je n'oublierai pas ![1205][001E] Jamais je n'oublierai\nma grande Maya, \nni personne ici !"
+    "texte_fr": "Je n'oublierai pas ![1205][001E] Jamais je n'oublierai\nma grande Maya,\nni personne ici !"
   },
   {
     "id": 15,
@@ -167,7 +167,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It's[SP]like...[SP]I've[SP]finally[SP]found[SP]where[SP]I[SP]belong.[1205][001E]\nThis[SP]is[SP]where[SP]my[SP]Persona[SP]has[SP]been[SP]guiding[SP]me\nfor[SP]the[SP]last[SP]ten[SP]years...",
     "nom_fr": "Maya",
-    "texte_fr": "C'est comme si...\nj'avais trouvée ma place.[1205][001E] C'est là que ma Persona\nme guide depuis\n10 ans..."
+    "texte_fr": "C'est comme si j'avais enfin\ntrouvé ma place.[1205][001E] C'est là que ma Persona\nme guide depuis dix ans..."
   },
   {
     "id": 17,
@@ -217,6 +217,6 @@
     "nom_orig": "Ginko",
     "texte_orig": "But[SP]that's[SP]not[SP]so[SP]bad,[SP]is[SP]it?[1205][001E][SP]There's[SP]nothing\nwrong[SP]with[SP]thinking[SP]that[SP]way...[SP]is[SP]there...?[1205][001E]\nMaybe[SP]I'm[SP]not[SP]that[SP]strong[SP]after[SP]all..",
     "nom_fr": "Ginko",
-    "texte_fr": "Mais ce n'est pas si mal,\nnon ?[1205][001E] Penser ainsi n'a rien\n de mauvais...[1205][001E]\nPeut-être que je ne suis\npas si forte..."
+    "texte_fr": "Mais ce n'est pas si mal,\nnon ?[1205][001E] Penser ainsi n'a rien\nde mauvais...[1205][001E]\nPeut-être que je ne suis\npas si forte..."
   }
 ]

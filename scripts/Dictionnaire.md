@@ -45,3 +45,4 @@
 | Lucky cat statue | Statue de chat |
 | Company president | PDG |
 | Concert staff | Personnel du concert *(Personnel si taille insuffisante)* |
+| The Exalted One | l'Exaltée |
