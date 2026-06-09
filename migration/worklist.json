@@ -6,9 +6,11 @@
     "script_004.json",
     "script_006.json",
     "script_007.json",
+    "script_008.json",
     "script_009.json",
     "script_011.json",
     "script_012.json",
+    "script_014.json",
     "script_015.json",
     "script_017.json",
     "script_019.json",
@@ -25,6 +27,7 @@
     "script_036.json",
     "script_038.json",
     "script_039.json",
+    "script_042.json",
     "script_046.json",
     "script_048.json",
     "script_049.json",
@@ -86,6 +89,7 @@
     "script_108.json",
     "script_109.json",
     "script_110.json",
+    "script_111.json",
     "script_112.json",
     "script_114.json",
     "script_117.json",
@@ -93,6 +97,7 @@
     "script_119.json",
     "script_120.json",
     "script_121.json",
+    "script_122.json",
     "script_123.json",
     "script_125.json",
     "script_126.json",
@@ -118,6 +123,7 @@
     "script_151.json",
     "script_152.json",
     "script_153.json",
+    "script_154.json",
     "script_155.json",
     "script_156.json",
     "script_158.json",
@@ -129,6 +135,7 @@
     "script_165.json",
     "script_166.json",
     "script_167.json",
+    "script_168.json",
     "script_169.json",
     "script_170.json",
     "script_171.json",
@@ -206,6 +213,7 @@
     "script_253.json",
     "script_254.json",
     "script_255.json",
+    "script_256.json",
     "script_257.json",
     "script_259.json",
     "script_260.json",
@@ -213,17 +221,20 @@
     "script_264.json",
     "script_266.json",
     "script_267.json",
+    "script_268.json",
     "script_269.json",
     "script_270.json",
     "script_271.json",
     "script_272.json",
     "script_273.json",
+    "script_276.json",
     "script_277.json",
     "script_280.json",
     "script_282.json",
     "script_284.json",
     "script_297.json",
     "script_300.json",
+    "script_301.json",
     "script_302.json",
     "script_303.json",
     "script_304.json",
@@ -242,16 +253,20 @@
     "script_341.json",
     "script_344.json",
     "script_345.json",
+    "script_347.json",
     "script_348.json",
     "script_357.json",
     "script_358.json",
     "script_363.json",
     "script_374.json",
+    "script_380.json",
     "script_384.json",
     "script_385.json",
     "script_386.json",
     "script_388.json",
     "script_392.json",
+    "script_394.json",
+    "script_396.json",
     "script_397.json",
     "script_398.json"
   ],
@@ -271,13 +286,6 @@
       "orphans": 1
     },
     {
-      "script": "script_008.json",
-      "auto": 37,
-      "pauses": 4,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_010.json",
       "auto": 43,
       "pauses": 3,
@@ -289,13 +297,6 @@
       "auto": 22,
       "pauses": 5,
       "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_014.json",
-      "auto": 52,
-      "pauses": 4,
-      "new_only": 0,
       "orphans": 0
     },
     {
@@ -376,13 +377,6 @@
       "orphans": 0
     },
     {
-      "script": "script_042.json",
-      "auto": 17,
-      "pauses": 4,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_043.json",
       "auto": 14,
       "pauses": 2,
@@ -432,13 +426,6 @@
       "orphans": 0
     },
     {
-      "script": "script_111.json",
-      "auto": 42,
-      "pauses": 3,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_113.json",
       "auto": 7,
       "pauses": 5,
@@ -457,13 +444,6 @@
       "auto": 10,
       "pauses": 3,
       "new_only": 2,
-      "orphans": 0
-    },
-    {
-      "script": "script_122.json",
-      "auto": 15,
-      "pauses": 3,
-      "new_only": 0,
       "orphans": 0
     },
     {
@@ -502,13 +482,6 @@
       "orphans": 0
     },
     {
-      "script": "script_154.json",
-      "auto": 1,
-      "pauses": 4,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_157.json",
       "auto": 31,
       "pauses": 2,
@@ -520,13 +493,6 @@
       "auto": 18,
       "pauses": 2,
       "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_168.json",
-      "auto": 5,
-      "pauses": 3,
-      "new_only": 0,
       "orphans": 0
     },
     {
@@ -600,13 +566,6 @@
       "orphans": 0
     },
     {
-      "script": "script_256.json",
-      "auto": 39,
-      "pauses": 4,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_258.json",
       "auto": 18,
       "pauses": 8,
@@ -635,13 +594,6 @@
       "orphans": 0
     },
     {
-      "script": "script_268.json",
-      "auto": 16,
-      "pauses": 3,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_274.json",
       "auto": 45,
       "pauses": 1,
@@ -653,13 +605,6 @@
       "auto": 8,
       "pauses": 1,
       "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_276.json",
-      "auto": 46,
-      "pauses": 3,
-      "new_only": 0,
       "orphans": 0
     },
     {
@@ -786,13 +731,6 @@
       "auto": 15,
       "pauses": 1,
       "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_301.json",
-      "auto": 32,
-      "pauses": 4,
-      "new_only": 0,
       "orphans": 0
     },
     {
@@ -985,13 +923,6 @@
       "orphans": 0
     },
     {
-      "script": "script_347.json",
-      "auto": 20,
-      "pauses": 3,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_349.json",
       "auto": 55,
       "pauses": 7,
@@ -1181,13 +1112,6 @@
       "orphans": 0
     },
     {
-      "script": "script_380.json",
-      "auto": 21,
-      "pauses": 3,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_381.json",
       "auto": 24,
       "pauses": 12,
@@ -1244,24 +1168,10 @@
       "orphans": 0
     },
     {
-      "script": "script_394.json",
-      "auto": 46,
-      "pauses": 3,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_395.json",
       "auto": 6,
       "pauses": 1,
       "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_396.json",
-      "auto": 59,
-      "pauses": 4,
-      "new_only": 0,
       "orphans": 0
     },
     {
