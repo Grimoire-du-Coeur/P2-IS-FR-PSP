@@ -117,8 +117,8 @@ def detect_code_renames(old, new):
         ne = new_by_id.get(oe["id"])
         if ne is None:
             continue
-        old_codes.update(extract_codes(convert_fr(oe["texte_orig"])))
-        new_codes.update(extract_codes(ne["texte_orig"]))
+        old_codes.update(extract_codes(convert_fr(oe.get("texte_orig", ""))))
+        new_codes.update(extract_codes(ne.get("texte_orig", "")))
     ancien_seul = {c: old_codes[c] - new_codes[c]
                    for c in old_codes if old_codes[c] > new_codes[c]}
     nouveau_seul = {c: new_codes[c] - old_codes[c]
