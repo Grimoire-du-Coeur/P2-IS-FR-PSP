@@ -16,7 +16,8 @@ class TestTransferScript(unittest.TestCase):
 
     def test_transfere_auto_et_signale_pauses(self):
         result = transfer_script(self.old, self.new)
-        data = json.load(open(self.new, encoding="utf-8"))
+        with open(self.new, encoding="utf-8") as f:
+            data = json.load(f)
 
         self.assertEqual(data[0]["texte_fr"], "Hep... On va où?")
         self.assertEqual(data[0]["nom_fr"], "Délinquant")
@@ -38,10 +39,28 @@ class TestTransferScript(unittest.TestCase):
 
     def test_erreur_si_nombre_entrees_different(self):
         bad = os.path.join(self.tmp, "bad.json")
-        json.dump(json.load(open(self.new, encoding="utf-8"))[:2],
-                  open(bad, "w", encoding="utf-8"))
+        with open(self.new, encoding="utf-8") as f:
+            entries = json.load(f)[:2]
+        with open(bad, "w", encoding="utf-8") as f:
+            json.dump(entries, f)
         with self.assertRaises(ValueError):
             transfer_script(self.old, bad)
+
+    def test_auto_n_efface_pas_une_valeur_nouvelle_existante(self):
+        old = [{"id": 0, "offset": 1, "slot_size": 40, "data_size": 36,
+                "nom_orig": "X", "texte_orig": "hi", "nom_fr": "Nom", "texte_fr": ""}]
+        new = [{"id": 0, "offset": 1, "data_size": 36, "slot_size": 40, "_term": [1],
+                "nom_orig": "X", "texte_orig": "hi", "nom_fr": "DejaNom", "texte_fr": "Deja traduit"}]
+        op = os.path.join(self.tmp, "o.json")
+        np = os.path.join(self.tmp, "n.json")
+        with open(op, "w", encoding="utf-8") as f:
+            json.dump(old, f)
+        with open(np, "w", encoding="utf-8") as f:
+            json.dump(new, f)
+        transfer_script(op, np)
+        with open(np, encoding="utf-8") as f:
+            data = json.load(f)
+        self.assertEqual(data[0]["texte_fr"], "Deja traduit")  # non efface
 
 from transfer import resolve_paths
 

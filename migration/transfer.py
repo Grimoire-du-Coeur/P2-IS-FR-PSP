@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
-import os, sys, json
+import os, sys, json, re as _re
 sys.path.insert(0, os.path.dirname(__file__))
 from core import decide, convert_fr           # noqa: E402
 from byte_budget import cost, budget           # noqa: E402
+
+_PROJ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 def _load(path):
@@ -38,8 +40,14 @@ def transfer_script(old_path, new_path):
         status, reason = decide(oe, ne)
 
         if status == "auto":
-            ne["nom_fr"] = convert_fr(oe.get("nom_fr", ""))
-            ne["texte_fr"] = convert_fr(oe.get("texte_fr", ""))
+            new_nom = convert_fr(oe.get("nom_fr", ""))
+            new_txt = convert_fr(oe.get("texte_fr", ""))
+            # Ne jamais ecraser une valeur deja presente cote nouveau par du vide
+            # (idempotence du re-run + cas ancien partiel : nom rempli, texte vide).
+            if new_nom or not ne.get("nom_fr", "").strip():
+                ne["nom_fr"] = new_nom
+            if new_txt or not ne.get("texte_fr", "").strip():
+                ne["texte_fr"] = new_txt
             report["auto"] += 1
         elif status == "untranslated":
             report["untranslated"] += 1
@@ -59,11 +67,6 @@ def transfer_script(old_path, new_path):
 
     _save(new_path, new)
     return report
-
-
-import re as _re
-
-_PROJ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 def resolve_paths(token, base=None):
