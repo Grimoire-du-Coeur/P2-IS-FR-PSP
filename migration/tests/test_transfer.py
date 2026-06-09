@@ -75,5 +75,22 @@ class TestResolvePaths(unittest.TestCase):
         self.assertTrue(old.endswith("scripts/script_042.json"))
         self.assertTrue(new.endswith("event_scripts/script_042.json"))
 
+from transfer import detect_code_renames
+
+class TestDetectRenames(unittest.TestCase):
+    def test_signale_un_code_inconnu_present_dans_ancien_mais_pas_nouveau(self):
+        old = [{"id": 0, "texte_orig": "a[U+9999]b", "nom_fr": "X", "texte_fr": "y"}]
+        new = [{"id": 0, "texte_orig": "a[8888]b", "nom_fr": "", "texte_fr": ""}]
+        diffs = detect_code_renames(old, new)
+        self.assertIn("[U+9999]", diffs["ancien_seul"])
+        self.assertIn("[8888]", diffs["nouveau_seul"])
+
+    def test_rien_a_signaler_si_seuls_les_renommages_connus(self):
+        old = [{"id": 0, "texte_orig": "a[U+1113]b", "nom_fr": "X", "texte_fr": "y"}]
+        new = [{"id": 0, "texte_orig": "a[1113]b", "nom_fr": "", "texte_fr": ""}]
+        diffs = detect_code_renames(old, new)
+        self.assertEqual(diffs["ancien_seul"], {})
+        self.assertEqual(diffs["nouveau_seul"], {})
+
 if __name__ == "__main__":
     unittest.main()

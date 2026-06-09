@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 import os, sys, json, re as _re
+from collections import Counter
 sys.path.insert(0, os.path.dirname(__file__))
-from core import decide, convert_fr           # noqa: E402
-from byte_budget import cost, budget           # noqa: E402
+from core import decide, convert_fr, extract_codes  # noqa: E402
+from byte_budget import cost, budget                # noqa: E402
 
 _PROJ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -104,6 +105,25 @@ def main(argv):
         report = transfer_script(old_path, new_path)
         print(format_report(token, report))
     return 0
+
+
+def detect_code_renames(old, new):
+    """Compare les multiset de codes (apres conversion connue) entre ancien et nouveau.
+    Retourne {ancien_seul: {code: n}, nouveau_seul: {code: n}}."""
+    old_codes = Counter()
+    new_codes = Counter()
+    new_by_id = {e["id"]: e for e in new}
+    for oe in old:
+        ne = new_by_id.get(oe["id"])
+        if ne is None:
+            continue
+        old_codes.update(extract_codes(convert_fr(oe["texte_orig"])))
+        new_codes.update(extract_codes(ne["texte_orig"]))
+    ancien_seul = {c: old_codes[c] - new_codes[c]
+                   for c in old_codes if old_codes[c] > new_codes[c]}
+    nouveau_seul = {c: new_codes[c] - old_codes[c]
+                    for c in new_codes if new_codes[c] > old_codes[c]}
+    return {"ancien_seul": ancien_seul, "nouveau_seul": nouveau_seul}
 
 
 if __name__ == "__main__":
