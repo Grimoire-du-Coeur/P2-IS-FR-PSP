@@ -14,6 +14,8 @@ def texte_nu(s):
 
 TRIGGERS = ["[1432]", "[1208]", "[E1]", "[E2]", "[E3]", "[E4]"]
 
+# Renommages connus ancien -> nouveau. Ordonner du plus long au plus court
+# si la liste grandit (sinon un prefixe pourrait corrompre un code plus long).
 _KNOWN_RENAMES = [("[U+1113]", "[1113]"), ("[U+1112]", "[1112]")]
 
 def has_trigger(s):
