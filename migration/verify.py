@@ -4,8 +4,11 @@ import json
 
 sys.path.insert(0, os.path.dirname(__file__))
 from byte_budget import cost, budget  # noqa: E402
+from core import _KNOWN_RENAMES               # noqa: E402
 
-_OLD_PLACEHOLDERS = ["[U+1113]", "[U+1112]"]
+# Tout code source de la map de renommage qui subsiste dans un FR transfere
+# est une erreur de conversion -> avertissement.
+_OLD_PLACEHOLDERS = [old for old, _new in _KNOWN_RENAMES]
 
 
 def _check_1432(texte):

@@ -34,6 +34,14 @@ class TestConvertFr(unittest.TestCase):
     def test_laisse_autres_codes(self):
         self.assertEqual(convert_fr("a[1205][U+000A]b"), "a[1205][U+000A]b")
 
+    def test_convertit_toute_la_famille(self):
+        self.assertEqual(convert_fr("a[U+1208]b[U+0002]c"), "a[1208]b[0002]c")
+        self.assertEqual(convert_fr("[U+1114][U+111F][U+121D]"), "[1114][111F][121D]")
+
+    def test_conserve_les_codes_hors_map(self):
+        # [U+1433] et [U+000A] ne sont PAS dans la map -> inchanges
+        self.assertEqual(convert_fr("x[U+1433]y[U+000A]z"), "x[U+1433]y[U+000A]z")
+
 class TestExtractCodes(unittest.TestCase):
     def test_liste_les_codes(self):
         self.assertEqual(extract_codes("a[1205][001E]b[NULL]"), ["[1205]", "[001E]", "[NULL]"])

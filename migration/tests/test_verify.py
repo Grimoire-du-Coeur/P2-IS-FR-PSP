@@ -48,6 +48,10 @@ class TestVerifyData(unittest.TestCase):
         res = verify_data([_entry(300, "X", "Oui[1432][NULL][NULL][0014]Non")])
         self.assertFalse(any("1432" in w for w in res["warnings"]))
 
+    def test_avertit_sur_code_famille_residuel(self):
+        res = verify_data([_entry(300, "X", "Choix [U+1208] menu")])
+        self.assertTrue(any("[U+1208]" in w for w in res["warnings"]))
+
 
 if __name__ == "__main__":
     unittest.main()

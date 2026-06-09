@@ -14,9 +14,24 @@ def texte_nu(s):
 
 TRIGGERS = ["[1432]", "[1208]", "[E1]", "[E2]", "[E3]", "[E4]"]
 
-# Renommages connus ancien -> nouveau. Ordonner du plus long au plus court
-# si la liste grandit (sinon un prefixe pourrait corrompre un code plus long).
-_KNOWN_RENAMES = [("[U+1113]", "[1113]"), ("[U+1112]", "[1112]")]
+# Renommages connus ancien -> nouveau (map data-driven validee : le nouveau
+# format retire U+ sur cette famille de codes, qui apparait aussi dans les texte_fr).
+# Ordonner du plus long au plus court si la liste grandit (un prefixe pourrait
+# corrompre un code plus long).
+_KNOWN_RENAMES = [
+    ("[U+0002]", "[0002]"),
+    ("[U+1107]", "[1107]"),
+    ("[U+1109]", "[1109]"),
+    ("[U+1112]", "[1112]"),
+    ("[U+1113]", "[1113]"),
+    ("[U+1114]", "[1114]"),
+    ("[U+111F]", "[111F]"),
+    ("[U+1121]", "[1121]"),
+    ("[U+1208]", "[1208]"),
+    ("[U+120E]", "[120E]"),
+    ("[U+1210]", "[1210]"),
+    ("[U+121D]", "[121D]"),
+]
 
 def has_trigger(s):
     """Vrai si s contient un code menu / question-reponse."""
