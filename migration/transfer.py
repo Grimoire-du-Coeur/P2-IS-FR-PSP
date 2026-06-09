@@ -2,7 +2,7 @@
 import os, sys, json, re as _re, difflib
 from collections import Counter
 sys.path.insert(0, os.path.dirname(__file__))
-from core import decide, convert_fr, extract_codes, texte_nu  # noqa: E402
+from core import decide, convert_fr, extract_codes, texte_nu, has_trigger  # noqa: E402
 from byte_budget import cost, budget                           # noqa: E402
 
 _PROJ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -58,7 +58,10 @@ def _process_pair(oe, ne, report):
 def _process_replace_pair(oe, ne, report):
     """Paire d'un bloc 'replace' : texte_nu diverge -> pause si l'ancien est traduit."""
     if oe.get("nom_fr", "").strip() or oe.get("texte_fr", "").strip():
-        _make_pause(oe, ne, "texte divergent", report)
+        reasons = ["texte divergent"]
+        if has_trigger(oe.get("texte_orig", "")) or has_trigger(ne.get("texte_orig", "")):
+            reasons.append("menu/Q-R")
+        _make_pause(oe, ne, " + ".join(reasons), report)
     else:
         report["untranslated"] += 1
 
@@ -148,6 +151,9 @@ def format_report(token, report):
     if report["orphans"]:
         ids = ", ".join(str(e["id"]) for e in report["orphans"])
         lines.append(f"\n-- {len(report['orphans'])} entrees ANCIENNES orphelines (ids: {ids})")
+    if report["new_only"] and report["orphans"]:
+        lines.append("\n  ⚠ orphelins ET new-only presents : possible mauvais "
+                     "appariement (meme contenu deplace) a reconcilier manuellement.")
     return "\n".join(lines)
 
 

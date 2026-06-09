@@ -86,6 +86,50 @@ class TestTransferScript(unittest.TestCase):
         self.assertEqual(len(result["orphans"]), 1)
         self.assertEqual(result["orphans"][0]["id"], 1)
 
+    def test_replace_avec_ancien_non_traduit_compte_untranslated(self):
+        # bloc replace ou l'ancien n'est PAS traduit -> untranslated, pas de pause
+        old = [{"id": 0, "offset": 1, "slot_size": 40, "data_size": 36,
+                "nom_orig": "A", "texte_orig": "Texte ancien divergent",
+                "nom_fr": "", "texte_fr": ""}]
+        new = [{"id": 0, "offset": 1, "data_size": 36, "slot_size": 40, "_term": [1],
+                "nom_orig": "A", "texte_orig": "Texte nouveau completement autre",
+                "nom_fr": "", "texte_fr": ""}]
+        op = os.path.join(self.tmp, "o.json")
+        np = os.path.join(self.tmp, "n.json")
+        with open(op, "w", encoding="utf-8") as f:
+            json.dump(old, f)
+        with open(np, "w", encoding="utf-8") as f:
+            json.dump(new, f)
+        result = transfer_script(op, np)
+        self.assertEqual(result["untranslated"], 1)
+        self.assertEqual(len(result["pauses"]), 0)
+
+    def test_reco_reason_inclut_menu_si_declencheur_dans_replace(self):
+        # bloc replace dont le nouveau contient [1432] -> reason doit mentionner menu/Q-R
+        old = [{"id": 0, "offset": 1, "slot_size": 90, "data_size": 86,
+                "nom_orig": "A", "texte_orig": "Question ancienne",
+                "nom_fr": "A", "texte_fr": "Trad"}]
+        new = [{"id": 0, "offset": 1, "data_size": 86, "slot_size": 90, "_term": [1],
+                "nom_orig": "A", "texte_orig": "Question nouvelle[1432][NULL][NULL][0014]Oui",
+                "nom_fr": "", "texte_fr": ""}]
+        op = os.path.join(self.tmp, "o.json")
+        np = os.path.join(self.tmp, "n.json")
+        with open(op, "w", encoding="utf-8") as f:
+            json.dump(old, f)
+        with open(np, "w", encoding="utf-8") as f:
+            json.dump(new, f)
+        result = transfer_script(op, np)
+        self.assertEqual(len(result["pauses"]), 1)
+        self.assertIn("menu/Q-R", result["pauses"][0]["reason"])
+
+    def test_format_report_signale_reconciliation(self):
+        from transfer import format_report
+        report = {"auto": 0, "untranslated": 0, "pauses": [],
+                  "new_only": [{"id": 5, "nom_orig": "X", "texte_orig": "y"}],
+                  "orphans": [{"id": 9, "nom_fr": "X", "texte_fr": "z"}]}
+        out = format_report("test", report)
+        self.assertIn("reconcilier", out)
+
     def test_auto_n_efface_pas_une_valeur_nouvelle_existante(self):
         old = [{"id": 0, "offset": 1, "slot_size": 40, "data_size": 36,
                 "nom_orig": "X", "texte_orig": "hi", "nom_fr": "Nom", "texte_fr": ""}]
