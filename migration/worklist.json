@@ -145,12 +145,15 @@
     "script_214.json",
     "script_215.json",
     "script_216.json",
+    "script_217.json",
+    "script_218.json",
     "script_219.json",
     "script_220.json",
     "script_221.json",
     "script_222.json",
     "script_224.json",
     "script_225.json",
+    "script_226.json",
     "script_227.json",
     "script_228.json",
     "script_229.json",
@@ -173,13 +176,18 @@
     "script_249.json",
     "script_251.json",
     "script_253.json",
+    "script_255.json",
     "script_257.json",
+    "script_259.json",
     "script_260.json",
     "script_262.json",
     "script_264.json",
+    "script_266.json",
     "script_267.json",
     "script_269.json",
+    "script_270.json",
     "script_271.json",
+    "script_272.json",
     "script_273.json",
     "script_282.json",
     "script_284.json",
@@ -712,31 +720,10 @@
       "orphans": 0
     },
     {
-      "script": "script_217.json",
-      "auto": 8,
-      "pauses": 1,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
-      "script": "script_218.json",
-      "auto": 10,
-      "pauses": 1,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_223.json",
       "auto": 5,
       "pauses": 4,
       "new_only": 7,
-      "orphans": 0
-    },
-    {
-      "script": "script_226.json",
-      "auto": 7,
-      "pauses": 1,
-      "new_only": 0,
       "orphans": 0
     },
     {
@@ -782,13 +769,6 @@
       "orphans": 0
     },
     {
-      "script": "script_255.json",
-      "auto": 5,
-      "pauses": 1,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_256.json",
       "auto": 39,
       "pauses": 4,
@@ -799,13 +779,6 @@
       "script": "script_258.json",
       "auto": 18,
       "pauses": 8,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
-      "script": "script_259.json",
-      "auto": 8,
-      "pauses": 1,
       "new_only": 0,
       "orphans": 0
     },
@@ -831,30 +804,9 @@
       "orphans": 0
     },
     {
-      "script": "script_266.json",
-      "auto": 17,
-      "pauses": 1,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_268.json",
       "auto": 16,
       "pauses": 3,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
-      "script": "script_270.json",
-      "auto": 34,
-      "pauses": 1,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
-      "script": "script_272.json",
-      "auto": 49,
-      "pauses": 1,
       "new_only": 0,
       "orphans": 0
     },
