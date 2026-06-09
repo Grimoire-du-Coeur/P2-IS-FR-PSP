@@ -2,14 +2,21 @@
   "fully_auto": [
     "script_000.json",
     "script_003.json",
+    "script_004.json",
     "script_006.json",
+    "script_007.json",
+    "script_009.json",
     "script_011.json",
     "script_015.json",
     "script_017.json",
+    "script_019.json",
+    "script_020.json",
     "script_021.json",
+    "script_022.json",
     "script_025.json",
     "script_026.json",
     "script_029.json",
+    "script_030.json",
     "script_032.json",
     "script_033.json",
     "script_035.json",
@@ -20,6 +27,7 @@
     "script_048.json",
     "script_049.json",
     "script_050.json",
+    "script_052.json",
     "script_053.json",
     "script_054.json",
     "script_055.json",
@@ -46,6 +54,7 @@
     "script_081.json",
     "script_082.json",
     "script_083.json",
+    "script_084.json",
     "script_086.json",
     "script_087.json",
     "script_088.json",
@@ -58,6 +67,7 @@
     "script_095.json",
     "script_096.json",
     "script_097.json",
+    "script_098.json",
     "script_099.json",
     "script_100.json",
     "script_101.json",
@@ -82,6 +92,7 @@
     "script_126.json",
     "script_127.json",
     "script_128.json",
+    "script_129.json",
     "script_130.json",
     "script_131.json",
     "script_132.json",
@@ -91,6 +102,7 @@
     "script_138.json",
     "script_139.json",
     "script_140.json",
+    "script_141.json",
     "script_144.json",
     "script_145.json",
     "script_146.json",
@@ -98,11 +110,14 @@
     "script_148.json",
     "script_150.json",
     "script_151.json",
+    "script_152.json",
     "script_153.json",
     "script_155.json",
+    "script_156.json",
     "script_158.json",
     "script_159.json",
     "script_160.json",
+    "script_161.json",
     "script_162.json",
     "script_164.json",
     "script_165.json",
@@ -241,13 +256,6 @@
       "orphans": 0
     },
     {
-      "script": "script_004.json",
-      "auto": 26,
-      "pauses": 2,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_005.json",
       "auto": 41,
       "pauses": 2,
@@ -255,23 +263,9 @@
       "orphans": 1
     },
     {
-      "script": "script_007.json",
-      "auto": 14,
-      "pauses": 2,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_008.json",
       "auto": 37,
       "pauses": 4,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
-      "script": "script_009.json",
-      "auto": 48,
-      "pauses": 2,
       "new_only": 0,
       "orphans": 0
     },
@@ -318,27 +312,6 @@
       "orphans": 0
     },
     {
-      "script": "script_019.json",
-      "auto": 21,
-      "pauses": 2,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
-      "script": "script_020.json",
-      "auto": 42,
-      "pauses": 2,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
-      "script": "script_022.json",
-      "auto": 27,
-      "pauses": 2,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_023.json",
       "auto": 12,
       "pauses": 1,
@@ -363,13 +336,6 @@
       "script": "script_028.json",
       "auto": 26,
       "pauses": 19,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
-      "script": "script_030.json",
-      "auto": 26,
-      "pauses": 2,
       "new_only": 0,
       "orphans": 0
     },
@@ -451,13 +417,6 @@
       "orphans": 0
     },
     {
-      "script": "script_052.json",
-      "auto": 11,
-      "pauses": 2,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_058.json",
       "auto": 5,
       "pauses": 3,
@@ -493,24 +452,10 @@
       "orphans": 0
     },
     {
-      "script": "script_084.json",
-      "auto": 37,
-      "pauses": 2,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_085.json",
       "auto": 103,
       "pauses": 24,
       "new_only": 21,
-      "orphans": 0
-    },
-    {
-      "script": "script_098.json",
-      "auto": 8,
-      "pauses": 2,
-      "new_only": 0,
       "orphans": 0
     },
     {
@@ -556,13 +501,6 @@
       "orphans": 0
     },
     {
-      "script": "script_129.json",
-      "auto": 11,
-      "pauses": 2,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_134.json",
       "auto": 8,
       "pauses": 4,
@@ -574,13 +512,6 @@
       "auto": 6,
       "pauses": 1,
       "new_only": 5,
-      "orphans": 0
-    },
-    {
-      "script": "script_141.json",
-      "auto": 35,
-      "pauses": 2,
-      "new_only": 0,
       "orphans": 0
     },
     {
@@ -598,23 +529,9 @@
       "orphans": 0
     },
     {
-      "script": "script_152.json",
-      "auto": 20,
-      "pauses": 2,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_154.json",
       "auto": 1,
       "pauses": 4,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
-      "script": "script_156.json",
-      "auto": 14,
-      "pauses": 2,
       "new_only": 0,
       "orphans": 0
     },
@@ -623,13 +540,6 @@
       "auto": 31,
       "pauses": 2,
       "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_161.json",
-      "auto": 6,
-      "pauses": 2,
-      "new_only": 0,
       "orphans": 0
     },
     {
