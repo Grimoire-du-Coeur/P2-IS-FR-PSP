@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-import os, sys, json, re as _re
+import os, sys, json, re as _re, difflib
 from collections import Counter
 sys.path.insert(0, os.path.dirname(__file__))
-from core import decide, convert_fr, extract_codes  # noqa: E402
-from byte_budget import cost, budget                # noqa: E402
+from core import decide, convert_fr, extract_codes, texte_nu  # noqa: E402
+from byte_budget import cost, budget                           # noqa: E402
 
 _PROJ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -19,52 +19,100 @@ def _save(path, data):
         f.write("\n")
 
 
+def _convert_pair(oe):
+    """(nom_fr, texte_fr) convertis depuis une entree ancienne."""
+    return convert_fr(oe.get("nom_fr", "")), convert_fr(oe.get("texte_fr", ""))
+
+
+def _make_pause(oe, ne, reason, report):
+    reco_nom, reco_txt = _convert_pair(oe)
+    report["pauses"].append({
+        "id": ne["id"],
+        "reason": reason,
+        "nom_orig": ne.get("nom_orig", ""),
+        "texte_orig_new": ne.get("texte_orig", ""),
+        "reco_nom_fr": reco_nom,
+        "reco_texte_fr": reco_txt,
+        "budget": budget(ne),
+        "reco_cost": cost(reco_nom, reco_txt),
+    })
+
+
+def _process_pair(oe, ne, report):
+    """Paire alignee (texte_nu identique) : applique decide()."""
+    status, reason = decide(oe, ne)
+    if status == "auto":
+        new_nom, new_txt = _convert_pair(oe)
+        # Ne jamais ecraser une valeur deja presente cote nouveau par du vide.
+        if new_nom or not ne.get("nom_fr", "").strip():
+            ne["nom_fr"] = new_nom
+        if new_txt or not ne.get("texte_fr", "").strip():
+            ne["texte_fr"] = new_txt
+        report["auto"] += 1
+    elif status == "untranslated":
+        report["untranslated"] += 1
+    else:
+        _make_pause(oe, ne, reason, report)
+
+
+def _process_replace_pair(oe, ne, report):
+    """Paire d'un bloc 'replace' : texte_nu diverge -> pause si l'ancien est traduit."""
+    if oe.get("nom_fr", "").strip() or oe.get("texte_fr", "").strip():
+        _make_pause(oe, ne, "texte divergent", report)
+    else:
+        report["untranslated"] += 1
+
+
+def _add_orphan(oe, report):
+    """Entree ancienne traduite sans contrepartie cote nouveau (FR sans destination)."""
+    if oe.get("nom_fr", "").strip() or oe.get("texte_fr", "").strip():
+        report["orphans"].append({
+            "id": oe["id"],
+            "nom_fr": oe.get("nom_fr", ""),
+            "texte_fr": oe.get("texte_fr", ""),
+        })
+
+
+def _add_new_only(ne, report):
+    """Entree nouvelle sans source ancienne (a traduire from scratch)."""
+    report["new_only"].append({
+        "id": ne["id"],
+        "nom_orig": ne.get("nom_orig", ""),
+        "texte_orig": ne.get("texte_orig", ""),
+    })
+
+
 def transfer_script(old_path, new_path):
-    """Transfere les entrees sures de old_path vers new_path (en place).
-    Retourne un rapport {auto, untranslated, pauses:[...]}."""
+    """Aligne ancien/nouveau par sous-sequence (texte normalise) et transfere
+    les entrees sures en place. Retourne un rapport
+    {auto, untranslated, pauses, new_only, orphans}."""
     old = _load(old_path)
     new = _load(new_path)
 
-    if len(old) != len(new):
-        raise ValueError(
-            f"Nombre d'entrees different : ancien={len(old)} nouveau={len(new)}"
-        )
+    old_nu = [texte_nu(e.get("texte_orig", "")) for e in old]
+    new_nu = [texte_nu(e.get("texte_orig", "")) for e in new]
 
-    old_by_id = {e["id"]: e for e in old}
-    if set(old_by_id) != {e["id"] for e in new}:
-        raise ValueError("Les ensembles d'id ne correspondent pas")
+    report = {"auto": 0, "untranslated": 0, "pauses": [], "new_only": [], "orphans": []}
 
-    report = {"auto": 0, "untranslated": 0, "pauses": []}
-
-    for ne in new:
-        oe = old_by_id[ne["id"]]
-        status, reason = decide(oe, ne)
-
-        if status == "auto":
-            new_nom = convert_fr(oe.get("nom_fr", ""))
-            new_txt = convert_fr(oe.get("texte_fr", ""))
-            # Ne jamais ecraser une valeur deja presente cote nouveau par du vide
-            # (idempotence du re-run + cas ancien partiel : nom rempli, texte vide).
-            if new_nom or not ne.get("nom_fr", "").strip():
-                ne["nom_fr"] = new_nom
-            if new_txt or not ne.get("texte_fr", "").strip():
-                ne["texte_fr"] = new_txt
-            report["auto"] += 1
-        elif status == "untranslated":
-            report["untranslated"] += 1
-        else:  # pause
-            reco_nom = convert_fr(oe.get("nom_fr", ""))
-            reco_txt = convert_fr(oe.get("texte_fr", ""))
-            report["pauses"].append({
-                "id": ne["id"],
-                "reason": reason,
-                "nom_orig": ne.get("nom_orig", ""),
-                "texte_orig_new": ne.get("texte_orig", ""),
-                "reco_nom_fr": reco_nom,
-                "reco_texte_fr": reco_txt,
-                "budget": budget(ne),
-                "reco_cost": cost(reco_nom, reco_txt),
-            })
+    sm = difflib.SequenceMatcher(a=old_nu, b=new_nu, autojunk=False)
+    for tag, i1, i2, j1, j2 in sm.get_opcodes():
+        if tag == "equal":
+            for k in range(i2 - i1):
+                _process_pair(old[i1 + k], new[j1 + k], report)
+        elif tag == "replace":
+            n_pair = min(i2 - i1, j2 - j1)
+            for k in range(n_pair):
+                _process_replace_pair(old[i1 + k], new[j1 + k], report)
+            for k in range(i1 + n_pair, i2):
+                _add_orphan(old[k], report)
+            for k in range(j1 + n_pair, j2):
+                _add_new_only(new[k], report)
+        elif tag == "delete":
+            for k in range(i1, i2):
+                _add_orphan(old[k], report)
+        elif tag == "insert":
+            for k in range(j1, j2):
+                _add_new_only(new[k], report)
 
     _save(new_path, new)
     return report
@@ -83,8 +131,9 @@ def resolve_paths(token, base=None):
 
 
 def format_report(token, report):
-    lines = [f"=== {token} : {report['auto']} auto, "
-             f"{len(report['pauses'])} pause, {report['untranslated']} a traduire ==="]
+    lines = [f"=== {token} : {report['auto']} auto, {len(report['pauses'])} pause, "
+             f"{report['untranslated']} a traduire, {len(report['new_only'])} new-only, "
+             f"{len(report['orphans'])} orphelins ==="]
     for p in report["pauses"]:
         over = "" if p["reco_cost"] != -1 and p["reco_cost"] <= p["budget"] else "  ⚠ DEPASSE"
         lines.append(f"\n-- PAUSE id={p['id']} ({p['reason']}){over}")
@@ -93,6 +142,12 @@ def format_report(token, report):
         lines.append(f"   RECO nom_fr   : {p['reco_nom_fr']}")
         lines.append(f"   RECO texte_fr : {p['reco_texte_fr']}")
         lines.append(f"   octets        : reco={p['reco_cost']} / budget={p['budget']}")
+    if report["new_only"]:
+        ids = ", ".join(str(e["id"]) for e in report["new_only"])
+        lines.append(f"\n-- {len(report['new_only'])} entrees NOUVELLES a traduire (ids: {ids})")
+    if report["orphans"]:
+        ids = ", ".join(str(e["id"]) for e in report["orphans"])
+        lines.append(f"\n-- {len(report['orphans'])} entrees ANCIENNES orphelines (ids: {ids})")
     return "\n".join(lines)
 
 

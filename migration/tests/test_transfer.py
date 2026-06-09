@@ -37,14 +37,54 @@ class TestTransferScript(unittest.TestCase):
         self.assertIn("budget", p)
         self.assertIn("reco_cost", p)
 
-    def test_erreur_si_nombre_entrees_different(self):
-        bad = os.path.join(self.tmp, "bad.json")
-        with open(self.new, encoding="utf-8") as f:
-            entries = json.load(f)[:2]
-        with open(bad, "w", encoding="utf-8") as f:
-            json.dump(entries, f)
-        with self.assertRaises(ValueError):
-            transfer_script(self.old, bad)
+    def test_compte_divergent_produit_new_only(self):
+        old = [{"id": 0, "offset": 1, "slot_size": 40, "data_size": 36,
+                "nom_orig": "A", "texte_orig": "Bonjour le monde",
+                "nom_fr": "A", "texte_fr": "Salut"}]
+        new = [
+            {"id": 0, "offset": 1, "data_size": 36, "slot_size": 40, "_term": [1],
+             "nom_orig": "A", "texte_orig": "Bonjour le monde", "nom_fr": "", "texte_fr": ""},
+            {"id": 1, "offset": 2, "data_size": 36, "slot_size": 40, "_term": [1],
+             "nom_orig": "B", "texte_orig": "Entree totalement nouvelle ici",
+             "nom_fr": "", "texte_fr": ""},
+        ]
+        op = os.path.join(self.tmp, "o.json")
+        np = os.path.join(self.tmp, "n.json")
+        with open(op, "w", encoding="utf-8") as f:
+            json.dump(old, f)
+        with open(np, "w", encoding="utf-8") as f:
+            json.dump(new, f)
+        result = transfer_script(op, np)
+        self.assertEqual(result["auto"], 1)
+        self.assertEqual(len(result["new_only"]), 1)
+        self.assertEqual(result["new_only"][0]["id"], 1)
+        with open(np, encoding="utf-8") as f:
+            data = json.load(f)
+        self.assertEqual(data[0]["texte_fr"], "Salut")
+        self.assertEqual(data[1]["texte_fr"], "")
+
+    def test_ancien_sans_contrepartie_devient_orphan(self):
+        old = [
+            {"id": 0, "offset": 1, "slot_size": 40, "data_size": 36,
+             "nom_orig": "A", "texte_orig": "Phrase A unique",
+             "nom_fr": "A", "texte_fr": "TradA"},
+            {"id": 1, "offset": 2, "slot_size": 40, "data_size": 36,
+             "nom_orig": "B", "texte_orig": "Phrase B disparue",
+             "nom_fr": "B", "texte_fr": "TradB"},
+        ]
+        new = [{"id": 0, "offset": 1, "data_size": 36, "slot_size": 40, "_term": [1],
+                "nom_orig": "A", "texte_orig": "Phrase A unique",
+                "nom_fr": "", "texte_fr": ""}]
+        op = os.path.join(self.tmp, "o.json")
+        np = os.path.join(self.tmp, "n.json")
+        with open(op, "w", encoding="utf-8") as f:
+            json.dump(old, f)
+        with open(np, "w", encoding="utf-8") as f:
+            json.dump(new, f)
+        result = transfer_script(op, np)
+        self.assertEqual(result["auto"], 1)
+        self.assertEqual(len(result["orphans"]), 1)
+        self.assertEqual(result["orphans"][0]["id"], 1)
 
     def test_auto_n_efface_pas_une_valeur_nouvelle_existante(self):
         old = [{"id": 0, "offset": 1, "slot_size": 40, "data_size": 36,
