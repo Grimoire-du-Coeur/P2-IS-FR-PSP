@@ -1,7 +1,7 @@
 # Migration des traductions vers le nouveau format `event_scripts`
 
 **Date :** 2026-06-09
-**Statut :** Design validé
+**Statut :** Design validé — **révisé 2026-06-09 (post-diagnostic, voir Annexe)**
 
 ## Contexte
 
@@ -131,3 +131,52 @@ adapté au nouveau format :
 - Limite effective = `data_size - 8` octets.
 - Onomatopées / expressions de choc : suspendre et demander.
 ```
+
+---
+
+## Annexe — Révision post-diagnostic (2026-06-09)
+
+Le diagnostic `scan_renames.py` (Tâche 10) a révélé deux réalités que le design
+initial n'anticipait pas. Deux décisions validées par l'utilisateur.
+
+### Révision 1 — Alignement par sous-séquence (remplace l'alignement id 1:1)
+
+**Constat :** 123 des 399 scripts ont un nombre d'entrées différent entre ancien
+et nouveau (dans 120 cas le nouveau en a *plus* : il intercale des entrées de
+dialogue/réponse supplémentaires). L'alignement par `id` 1:1 plantait
+(`ValueError`) sur ces 123 scripts, dont 119 sont traduits.
+
+**Décision :** `transfer_script` n'exige plus le même nombre d'entrées ni
+l'égalité des id. Il aligne les deux listes par **`difflib.SequenceMatcher`** sur
+le texte normalisé (`texte_nu`) :
+
+- blocs `equal` → paires 1:1 ; chaque paire passe par la logique `decide`
+  (auto / pause / untranslated) comme avant ;
+- blocs `replace` → on apparie par index où possible (pause avec reco depuis
+  l'ancien) ; ancien en surplus → `orphans` (FR sans destination, signalé) ;
+  nouveau en surplus → `new_only` (à traduire from scratch) ;
+- blocs `delete` (ancien sans contrepartie) → `orphans` ;
+- blocs `insert` (nouveau sans contrepartie) → `new_only`.
+
+Le rapport gagne deux catégories : `new_only` (entrées nouvelles à traduire) et
+`orphans` (entrées anciennes traduites dont le texte n'existe plus côté nouveau).
+Cette approche traite les 399 scripts d'un coup et dégrade proprement.
+
+### Révision 2 — Map de renommage de codes data-driven (étend convert_fr)
+
+**Constat :** le retrait de `U+` ne concerne pas que `[U+1113]`/`[U+1112]` ; c'est
+une famille. Ce n'est **pas** une règle de seuil (`[U+1433]` est conservé tel quel
+dans le nouveau format). Ces codes apparaissent aussi dans les `texte_fr`.
+
+**Règle exacte (data-driven) :** `[U+XXXX] → [XXXX]` si et seulement si le nouveau
+format utilise `[XXXX]` nu **et** n'utilise jamais `[U+XXXX]`.
+
+**Map figée dans `core.py` (`_KNOWN_RENAMES`), 12 entrées :**
+`[U+0002]→[0002]`, `[U+1107]→[1107]`, `[U+1109]→[1109]`, `[U+1112]→[1112]`,
+`[U+1113]→[1113]`, `[U+1114]→[1114]`, `[U+111F]→[111F]`, `[U+1121]→[1121]`,
+`[U+1208]→[1208]`, `[U+120E]→[120E]`, `[U+1210]→[1210]`, `[U+121D]→[121D]`.
+
+Tous les autres `[U+XXXX]` sont conservés tels quels. `verify.py` avertit si un
+code source de la map (un `[U+XXXX]` qui aurait dû être converti) subsiste dans un
+champ FR transféré. Un script générateur (réutilisant la logique de
+`scan_renames.py`) permet de régénérer/auditer la map.
