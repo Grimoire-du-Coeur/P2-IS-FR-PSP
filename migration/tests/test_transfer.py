@@ -43,5 +43,18 @@ class TestTransferScript(unittest.TestCase):
         with self.assertRaises(ValueError):
             transfer_script(self.old, bad)
 
+from transfer import resolve_paths
+
+class TestResolvePaths(unittest.TestCase):
+    def test_resout_numero_en_chemins(self):
+        old, new = resolve_paths("007", base="/proj")
+        self.assertEqual(old, "/proj/scripts/script_007.json")
+        self.assertEqual(new, "/proj/traduction/event_scripts/script_007.json")
+
+    def test_accepte_nom_complet(self):
+        old, new = resolve_paths("script_042", base="/proj")
+        self.assertTrue(old.endswith("scripts/script_042.json"))
+        self.assertTrue(new.endswith("event_scripts/script_042.json"))
+
 if __name__ == "__main__":
     unittest.main()
