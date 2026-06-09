@@ -29,3 +29,23 @@ def convert_fr(s):
 def extract_codes(s):
     """Liste ordonnee des codes [...] presents dans s."""
     return _CODE_RE.findall(s)
+
+def decide(old_e, new_e):
+    """Retourne (status, reason) : 'auto' | 'pause' | 'untranslated'."""
+    nom = old_e.get("nom_fr", "").strip()
+    txt = old_e.get("texte_fr", "").strip()
+    if not nom and not txt:
+        return ("untranslated", "ancien non traduit")
+
+    nu_match = texte_nu(old_e["texte_orig"]) == texte_nu(new_e["texte_orig"])
+    trig = has_trigger(old_e["texte_orig"]) or has_trigger(new_e["texte_orig"])
+
+    if nu_match and not trig:
+        return ("auto", "")
+
+    reasons = []
+    if not nu_match:
+        reasons.append("texte divergent")
+    if trig:
+        reasons.append("menu/Q-R")
+    return ("pause", " + ".join(reasons))
