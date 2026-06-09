@@ -60,8 +60,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "What[SP]do[SP]they[SP]call[SP]people[SP]like[SP]that[SP]lion[SP]guy?\nPolaroid?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nThat[SP]guy[SP]ran[SP]off[SP]the[SP]second[SP]he[SP]saw[SP]our[SP]faces!\nHe's[SP]suspicious,[SP]all[SP]right.[SP]Let's[SP]chase[SP]him\ndown,[SP][1113]!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "On dit quoi pour les types comme lui ?\nPolaroïd ?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nIl a détalé en nous voyant!\nC'est louche. Chopons-le, [1113]!"
   },
   {
     "id": 4,
@@ -108,8 +108,8 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Uh,[SP]Eikichi...[1205][001E][SP]You[SP]think[SP]he's[SP]trying[SP]to\nsay[SP][1432][NULL][NULL][0014]paranoid[1432][NULL][NULL][0014]?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Euh, Eikichi...[1205][001E] Tu penses qu'il veut\ndire [1432][NULL][NULL][0014]parano[1432][NULL][NULL][0014] ?"
   },
   {
     "id": 7,
@@ -124,7 +124,7 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "If[SP]that[SP]guy's[SP]in[SP]the[SP]Masked[SP]Circle,[SP]this[SP]is\nour[SP]chance[SP]to[SP]pump[SP]him[SP]for[SP]information[SP]about\nJoker.[SP]Let's[SP]hunt[SP]him[SP]down.\n[E1][E2][E3]>[SP]The[SP]locker[SP]contains[SP]a[SP]paper[SP]with[SP]the\nword[SP][1432][NULL][NULL][0014]stupid[1432][NULL][NULL][0014][SP]written[SP]on[SP]it...[1205][001E][SP]as[SP]well\nas[SP]a[SP][E4][NULL][NULL][U+0006]time[SP]bomb[E4][NULL][NULL][0002].[E4][NULL][NULL][0002]\n[E1][E2][E3]>[SP]There's[SP]nothing[SP]but[SP]a[SP][E4][NULL][NULL][U+0006]time[SP]bomb[E4][NULL][NULL][0002][SP]inside\nthe[SP]trash[SP]can.[E4][NULL][NULL][0002]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "S'il est du Cercle masqué, on peut lui\ntirer des infos sur Joker. Traquons-le.\n[E1][E2][E3]> Le casier contient un mot :\n[1432][NULL][NULL][0014]stupide[1432][NULL][NULL][0014]...[1205][001E] et une\n[E4][NULL][NULL][U+0006]bombe[E4][NULL][NULL][0002].[E4][NULL][NULL][0002]\n[E1][E2][E3]> Juste une [E4][NULL][NULL][U+0006]bombe[E4][NULL][NULL][0002] dans la poubelle.[E4][NULL][NULL][0002]"
   }
 ]
