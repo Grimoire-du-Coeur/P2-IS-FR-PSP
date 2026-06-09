@@ -1,0 +1,639 @@
+[
+  {
+    "id": 0,
+    "offset": 339206,
+    "data_size": 200,
+    "slot_size": 204,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "My[SP]mom[SP]wouldn't[SP]wear[SP]clothes[SP]like[SP]these...[1205][U+000F]\nHey,[SP]does[SP]your[SP]mom[SP]wear[SP]this[SP]stuff,[SP]Ginko?",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ma mère ne mettrait pas ces fringues...[1205][U+000F]\nHé, ta mère en porte, Ginko ?"
+  },
+  {
+    "id": 1,
+    "offset": 339410,
+    "data_size": 228,
+    "slot_size": 232,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "No[SP]way.[SP]She's[SP]always[SP]dressed[SP]in[SP]a[SP]kimono.[1205][U+000F]\nNot[SP]even[SP]native[SP]Japanese[SP]women[SP]have[SP]as[SP]many\nkimonos[SP]as[SP]her.",
+    "nom_fr": "Ginko",
+    "texte_fr": "Pas question. Elle est toujours en kimono.[1205][U+000F]\nMême les Japonaises n'en ont pas autant qu'elle."
+  },
+  {
+    "id": 2,
+    "offset": 339642,
+    "data_size": 120,
+    "slot_size": 124,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Hey,[SP]Jun.[1205][U+000A][SP]Does[SP]your[SP]mom[SP]wear[SP]clothes[SP]like[SP]these?",
+    "nom_fr": "Maya",
+    "texte_fr": "Hé, Jun.[1205][U+000A] Ta mère porte ce genre de vêtements ?"
+  },
+  {
+    "id": 3,
+    "offset": 339766,
+    "data_size": 104,
+    "slot_size": 108,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "My[SP]mother...[1205][U+000F][SP]I[SP]think[SP]she[SP]would,[SP]actually.",
+    "nom_fr": "Jun",
+    "texte_fr": "Ma mère...[1205][U+000F] Je crois que oui, en fait."
+  },
+  {
+    "id": 4,
+    "offset": 339874,
+    "data_size": 452,
+    "slot_size": 456,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Welcome.[1205][U+000A][SP]Like[SP]what[SP]you[SP]see?[1205][U+000A][SP]We[SP]only[SP]carry[SP]the\nmost[SP]beautiful[SP]clothing[SP]here.[1205][U+000F][SP]So[SP]feel[SP]free[SP]to\nbuy[SP]with[SP]confidence.\n[1208][U+0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
+    "nom_fr": "",
+    "texte_fr": "",
+    "question_orig": "Welcome.[1205][U+000A][SP]Like[SP]what[SP]you[SP]see?[1205][U+000A][SP]We[SP]only[SP]carry[SP]the\nmost[SP]beautiful[SP]clothing[SP]here.[1205][U+000F][SP]So[SP]feel[SP]free[SP]to\nbuy[SP]with[SP]confidence.",
+    "choix_orig": [
+      "[U+0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 5,
+    "offset": 340330,
+    "data_size": 330,
+    "slot_size": 334,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+    "nom_fr": "",
+    "texte_fr": "",
+    "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?",
+    "choix_orig": [
+      "[U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 6,
+    "offset": 340664,
+    "data_size": 454,
+    "slot_size": 458,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
+    "nom_fr": "",
+    "texte_fr": "",
+    "question_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?",
+    "choix_orig": [
+      "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 7,
+    "offset": 341122,
+    "data_size": 244,
+    "slot_size": 248,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Anything[SP]else?\n[1208][U+0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
+    "nom_fr": "",
+    "texte_fr": "",
+    "question_orig": "Anything[SP]else?",
+    "choix_orig": [
+      "[U+0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 8,
+    "offset": 341370,
+    "data_size": 330,
+    "slot_size": 334,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+    "nom_fr": "",
+    "texte_fr": "",
+    "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?",
+    "choix_orig": [
+      "[U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 9,
+    "offset": 341704,
+    "data_size": 454,
+    "slot_size": 458,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
+    "nom_fr": "",
+    "texte_fr": "",
+    "question_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?",
+    "choix_orig": [
+      "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 10,
+    "offset": 342162,
+    "data_size": 224,
+    "slot_size": 228,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Are[SP]you[SP]thrilled[SP]to[SP]become[SP]an[SP]Idealian[SP]soon?[1205][U+000F]\nHeheheh...[SP]You're[SP]misreading[SP]the[SP]whole\nsituation.",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Vous êtes impatients de devenir des Idéaliens ?[1205][U+000F]\nHihi... Vous faites fausse route,\nj'en ai peur."
+  },
+  {
+    "id": 11,
+    "offset": 342390,
+    "data_size": 268,
+    "slot_size": 272,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Dandelions[SP]will[SP]always[SP]be[SP]dandelions.[1205][U+000F][SP]They[SP]can\nevolve[SP]into[SP]Idealians,[SP]but[SP]they'll[SP]never[SP]be[SP]as\nbeautiful[SP]as[SP]we[SP]roses.",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Un pissenlit reste un pissenlit.[1205][U+000F] Ils peuvent\ndevenir des Idéaliens, mais jamais\naussi beaux que nous, les roses."
+  },
+  {
+    "id": 12,
+    "offset": 342662,
+    "data_size": 170,
+    "slot_size": 174,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Though...[SP]if[SP]you[SP]wear[SP]these[SP]clothes,[SP]perhaps\nyou'll[SP]approximate[SP]it...",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Cela dit... avec ces vêtements,\nvous vous en approcherez peut-être..."
+  },
+  {
+    "id": 13,
+    "offset": 342836,
+    "data_size": 286,
+    "slot_size": 290,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "If[SP]mankind[SP]is[SP]going[SP]to[SP]evolve[SP]into[SP]Idealians,\nwe[SP]need[SP]to[SP]do[SP]our[SP]part,[SP]as[SP]trendsetters[SP]leading\nthe[SP]way[SP]with[SP]the[SP]newest[SP]fashions.",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Si l'humanité doit évoluer en Idéaliens,\nnous devons montrer l'exemple, en tant que\nleaders de mode aux dernières tendances."
+  },
+  {
+    "id": 14,
+    "offset": 343126,
+    "data_size": 304,
+    "slot_size": 308,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "And[SP]so![1205][U+000A][SP]I[SP]present[SP]our[SP]newest[SP]armor.[1205][U+000F][SP]While[SP]you\nmay[SP]only[SP]be[SP]a[SP]dandelion,[SP]equip[SP]this[SP]and[SP]you'll\nbe[SP]one[SP]step[SP]closer[SP]to[SP]a[SP]beautiful[SP]rose.",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "C'est pourquoi ![1205][U+000A] Voici notre nouvelle armure.[1205][U+000F]\nMême un pissenlit, en la portant,\nse rapprochera d'une belle rose."
+  },
+  {
+    "id": 15,
+    "offset": 343434,
+    "data_size": 206,
+    "slot_size": 210,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Once[SP]you've[SP]seen[SP]our[SP]products,[SP]you[SP]won't[SP]want\nto[SP]shop[SP]anywhere[SP]else.[SP]Please[SP]come[SP]again.",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Une fois nos produits vus, vous ne voudrez\nplus acheter ailleurs. Revenez nous voir !"
+  },
+  {
+    "id": 16,
+    "offset": 343644,
+    "data_size": 196,
+    "slot_size": 200,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Chatty[SP]woman",
+    "texte_orig": "Hey,[SP]have[SP]you[SP]heard?[1205][U+000F][SP]The[SP]Last[SP]Battalion[SP]just\nstormed[SP]into[SP]that[SP]weird[SP]building.",
+    "nom_fr": "Femme bavarde",
+    "texte_fr": "Vous avez entendu ?[1205][U+000F] Le Bataillon vient d'envahir\nce bâtiment bizarre."
+  },
+  {
+    "id": 17,
+    "offset": 343844,
+    "data_size": 202,
+    "slot_size": 206,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Chatty[SP]woman",
+    "texte_orig": "I[SP]wonder[SP]what[SP]they're[SP]doing[SP]in[SP]there...[1205][U+000F]\nDon't[SP]you?[1205][U+000F][SP]You[SP]want[SP]to[SP]know[SP]too,[SP]right?",
+    "nom_fr": "Femme bavarde",
+    "texte_fr": "Je me demande ce qu'ils font dedans...[1205][U+000F]\nPas vous ?[1205][U+000F] Vous voulez savoir, non ?"
+  },
+  {
+    "id": 18,
+    "offset": 344050,
+    "data_size": 314,
+    "slot_size": 318,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Wealthy[SP]woman",
+    "texte_orig": "I've[SP]always[SP]wanted[SP]to[SP]be[SP]rich.[1205][U+000F][SP]I[SP]talk[SP]like[SP]this\nand[SP]wear[SP]expensive[SP]clothes,[SP]but[SP]really,[SP]we're\nin[SP]the[SP]red...[1205][U+000F][SP]I[SP]work[SP]to[SP]repay[SP]my[SP]debt...",
+    "nom_fr": "Femme aisée",
+    "texte_fr": "J'ai toujours voulu être riche.[1205][U+000F] Je parle ainsi\net porte des habits coûteux, mais en vrai\nje suis dans le rouge.[1205][U+000F] Je bosse pour payer."
+  },
+  {
+    "id": 19,
+    "offset": 344368,
+    "data_size": 156,
+    "slot_size": 160,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Wealthy[SP]woman",
+    "texte_orig": "Even[SP]if[SP]I[SP]evolve[SP]into[SP]an[SP]Idealian,[SP]that[SP]won't\nmake[SP]me[SP]rich.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 20,
+    "offset": 344528,
+    "data_size": 184,
+    "slot_size": 188,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Wealthy[SP]woman",
+    "texte_orig": "Will[SP]I[SP]at[SP]least[SP]be[SP]happy?[1205][U+000F][SP]Will[SP]I[SP]find[SP]true\njoy...[SP]a[SP]purpose[SP]to[SP]my[SP]life?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 21,
+    "offset": 344716,
+    "data_size": 184,
+    "slot_size": 188,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Wealthy[SP]woman",
+    "texte_orig": "Honestly,[SP]I[SP]don't[SP]know[SP]what[SP]happiness[SP]is,\nor[SP]unhappiness[SP]for[SP]that[SP]matter.",
+    "nom_fr": "Femme aisée",
+    "texte_fr": "Honnêtement, je ne sais pas ce qu'est le bonheur\nni le malheur d'ailleurs."
+  },
+  {
+    "id": 22,
+    "offset": 344904,
+    "data_size": 194,
+    "slot_size": 198,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Hey![1205][U+000A][SP]That's[SP]the[SP]dressing[SP]room.[1205][U+000A][SP]Don't[SP]go[SP]in\nthere[SP]if[SP]you[SP]don't[SP]need[SP]to[SP]use[SP]it.",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Hé ![1205][U+000A] C'est la cabine d'essayage.[1205][U+000A] N'entrez pas\nsi vous n'en avez pas besoin."
+  },
+  {
+    "id": 23,
+    "offset": 345102,
+    "data_size": 104,
+    "slot_size": 108,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Looks[SP]like[SP]you[SP]have[SP]nothing[SP]to[SP]sell.",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Vous n'avez rien à vendre."
+  },
+  {
+    "id": 24,
+    "offset": 345210,
+    "data_size": 132,
+    "slot_size": 136,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
+    "nom_fr": "",
+    "texte_fr": "",
+    "question_orig": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?",
+    "choix_orig": [
+      "Yes\nNo"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 25,
+    "offset": 345346,
+    "data_size": 102,
+    "slot_size": 106,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "You[SP]need[SP]me[SP]to[SP]explain[SP]how[SP]to[SP]shop?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 26,
+    "offset": 345452,
+    "data_size": 256,
+    "slot_size": 260,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 27,
+    "offset": 345712,
+    "data_size": 214,
+    "slot_size": 218,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Some[SP]armor[SP]will[SP]only[SP]fit[SP]certain[SP]individuals.\nBe[SP]sure[SP]to[SP]read[SP]the[SP]fine[SP]print[SP]before[SP]buying!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 28,
+    "offset": 345930,
+    "data_size": 294,
+    "slot_size": 298,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 29,
+    "offset": 346228,
+    "data_size": 308,
+    "slot_size": 312,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "The[SP]resale[SP]price[SP]is[SP]roughly[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you're[SP]wearing,\nor[SP]certain[SP]special[SP]items.[SP]That[SP]about[SP]does[SP]it.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 30,
+    "offset": 346540,
+    "data_size": 102,
+    "slot_size": 106,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "You[SP]need[SP]me[SP]to[SP]explain[SP]how[SP]to[SP]shop?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 31,
+    "offset": 346646,
+    "data_size": 256,
+    "slot_size": 260,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 32,
+    "offset": 346906,
+    "data_size": 214,
+    "slot_size": 218,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Some[SP]armor[SP]will[SP]only[SP]fit[SP]certain[SP]individuals.\nBe[SP]sure[SP]to[SP]read[SP]the[SP]fine[SP]print[SP]before[SP]buying!",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 33,
+    "offset": 347124,
+    "data_size": 140,
+    "slot_size": 144,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Apart[SP]from[SP]that,[SP]you[SP]can[SP]also[SP]buy[SP]accessories\nfrom[SP]us.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 34,
+    "offset": 347268,
+    "data_size": 176,
+    "slot_size": 180,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Some[SP]accessories[SP]have[SP]restrictions[SP]on[SP]who[SP]can\nequip[SP]them,[SP]so[SP]be[SP]careful.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 35,
+    "offset": 347448,
+    "data_size": 294,
+    "slot_size": 298,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 36,
+    "offset": 347746,
+    "data_size": 308,
+    "slot_size": 312,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Saleswoman",
+    "texte_orig": "The[SP]resale[SP]price[SP]is[SP]roughly[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you're[SP]wearing,\nor[SP]certain[SP]special[SP]items.[SP]That[SP]about[SP]does[SP]it.",
+    "nom_fr": "",
+    "texte_fr": ""
+  }
+]

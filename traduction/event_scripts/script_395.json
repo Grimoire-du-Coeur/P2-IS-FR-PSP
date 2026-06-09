@@ -1,0 +1,138 @@
+[
+  {
+    "id": 0,
+    "offset": 345366,
+    "data_size": 190,
+    "slot_size": 194,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Man,[SP]am[SP]I[SP]glad[SP]we[SP]won't[SP]need[SP]to[SP]go[SP]down[SP]those\nrapids[SP]ever[SP]again[SP]to[SP]get[SP]to[SP]Xibalba.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ravi de ne plus avoir à descendre ces\nrapides pour aller à Xibalba."
+  },
+  {
+    "id": 1,
+    "offset": 345560,
+    "data_size": 200,
+    "slot_size": 204,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Aiyah!?[1205][U+000F][SP]This[SP]is[SP]Class[SP]1-C[SP]at[SP]Sevens![1205][U+000F][SP]I[SP]can't\nbelieve[SP]Xibalba[SP]was[SP]hooked[SP]up[SP]to[SP]here...",
+    "nom_fr": "Ginko",
+    "texte_fr": "Aiyah!?[1205][U+000F] La 1-C de Seven ![1205][U+000F] Dire que\nXibalba était relié à cet endroit..."
+  },
+  {
+    "id": 2,
+    "offset": 345764,
+    "data_size": 226,
+    "slot_size": 230,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Hmm....[1205][U+000F][SP]I[SP]personally[SP]don't[SP]mind[SP]shooting[SP]the\nrapids[SP]every[SP]time...[1205][U+000F][SP]But[SP]I[SP]guess[SP]you[SP]don't\nagree,[SP]huh?",
+    "nom_fr": "Maya",
+    "texte_fr": "Hmm...[1205][U+000F] Descendre les rapides m'allait...\n[1205][U+000F]Mais vous n'êtes pas d'accord, hein ?"
+  },
+  {
+    "id": 3,
+    "offset": 345994,
+    "data_size": 346,
+    "slot_size": 350,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "Looks[SP]like[SP]the[SP]Last[SP]Battalion[SP]set[SP]this[SP]up.\nWith[SP]all[SP]due[SP]respect[SP]to[SP]Big[SP]Maya,[SP]I[SP]think[SP]it's\nsafer[SP]to[SP]use[SP]this[SP]to[SP]travel[SP]back[SP]and[SP]forth.[E1][E2][E3]>[SP]Warp[SP]to[SP]Xibalba?\n[1208][0002]Yes\nNo",
+    "nom_fr": "",
+    "texte_fr": "",
+    "question_orig": "Looks[SP]like[SP]the[SP]Last[SP]Battalion[SP]set[SP]this[SP]up.\nWith[SP]all[SP]due[SP]respect[SP]to[SP]Big[SP]Maya,[SP]I[SP]think[SP]it's\nsafer[SP]to[SP]use[SP]this[SP]to[SP]travel[SP]back[SP]and[SP]forth.[E1][E2][E3]>[SP]Warp[SP]to[SP]Xibalba?",
+    "choix_orig": [
+      "Yes\nNo"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 4,
+    "offset": 346344,
+    "data_size": 146,
+    "slot_size": 150,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Hahaha,[SP]and[SP]here[SP]comes[SP][1114].[SP]Take[SP]a[SP]look\naround.[SP]Look[SP]familiar?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 5,
+    "offset": 346494,
+    "data_size": 66,
+    "slot_size": 70,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko's[SP]voice",
+    "texte_orig": "Aiyaaaaaaaaah!",
+    "nom_fr": "Ginko",
+    "texte_fr": "Aiyaaaaaaaaah!"
+  },
+  {
+    "id": 6,
+    "offset": 346564,
+    "data_size": 54,
+    "slot_size": 58,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Uh...[1205][U+000F][SP]Ginko?",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Euh..[1205][U+000F]Ginko?"
+  },
+  {
+    "id": 7,
+    "offset": 346622,
+    "data_size": 188,
+    "slot_size": 192,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "*pant*[SP]*pant*[1205][U+000F][SP]Wh-What[SP]the[SP]hell[SP]were[SP]you\nthinking!?[SP]I[SP]thought[SP]I[SP]was[SP]dead[SP]for[SP]sure!",
+    "nom_fr": "Ginko",
+    "texte_fr": "*ha*... *ha*[1205][U+000F] Ça va pas !?\nJ'ai bien cru que j'allais y passer !"
+  }
+]

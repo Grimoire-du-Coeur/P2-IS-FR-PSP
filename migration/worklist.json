@@ -1,0 +1,1708 @@
+{
+  "fully_auto": [
+    "script_006.json",
+    "script_015.json",
+    "script_017.json",
+    "script_021.json",
+    "script_025.json",
+    "script_026.json",
+    "script_029.json",
+    "script_032.json",
+    "script_035.json",
+    "script_036.json",
+    "script_038.json",
+    "script_046.json",
+    "script_048.json",
+    "script_049.json",
+    "script_050.json",
+    "script_053.json",
+    "script_054.json",
+    "script_055.json",
+    "script_056.json",
+    "script_059.json",
+    "script_062.json",
+    "script_063.json",
+    "script_065.json",
+    "script_066.json",
+    "script_069.json",
+    "script_070.json",
+    "script_071.json",
+    "script_072.json",
+    "script_073.json",
+    "script_074.json",
+    "script_075.json",
+    "script_076.json",
+    "script_079.json",
+    "script_080.json",
+    "script_081.json",
+    "script_082.json",
+    "script_083.json",
+    "script_086.json",
+    "script_087.json",
+    "script_088.json",
+    "script_089.json",
+    "script_091.json",
+    "script_092.json",
+    "script_093.json",
+    "script_094.json",
+    "script_095.json",
+    "script_096.json",
+    "script_097.json",
+    "script_099.json",
+    "script_100.json",
+    "script_101.json",
+    "script_102.json",
+    "script_103.json",
+    "script_104.json",
+    "script_105.json",
+    "script_106.json",
+    "script_107.json",
+    "script_108.json",
+    "script_109.json",
+    "script_110.json",
+    "script_114.json",
+    "script_117.json",
+    "script_118.json",
+    "script_119.json",
+    "script_120.json",
+    "script_121.json",
+    "script_125.json",
+    "script_126.json",
+    "script_127.json",
+    "script_128.json",
+    "script_130.json",
+    "script_131.json",
+    "script_132.json",
+    "script_133.json",
+    "script_135.json",
+    "script_138.json",
+    "script_139.json",
+    "script_140.json",
+    "script_144.json",
+    "script_146.json",
+    "script_148.json",
+    "script_151.json",
+    "script_153.json",
+    "script_155.json",
+    "script_158.json",
+    "script_160.json",
+    "script_162.json",
+    "script_165.json",
+    "script_167.json",
+    "script_169.json",
+    "script_170.json",
+    "script_172.json",
+    "script_173.json",
+    "script_174.json",
+    "script_175.json",
+    "script_176.json",
+    "script_178.json",
+    "script_179.json",
+    "script_180.json",
+    "script_181.json",
+    "script_182.json",
+    "script_183.json",
+    "script_185.json",
+    "script_186.json",
+    "script_187.json",
+    "script_200.json",
+    "script_202.json",
+    "script_204.json",
+    "script_206.json",
+    "script_207.json",
+    "script_211.json",
+    "script_213.json",
+    "script_214.json",
+    "script_215.json",
+    "script_216.json",
+    "script_219.json",
+    "script_220.json",
+    "script_221.json",
+    "script_222.json",
+    "script_224.json",
+    "script_225.json",
+    "script_227.json",
+    "script_228.json",
+    "script_229.json",
+    "script_230.json",
+    "script_232.json",
+    "script_233.json",
+    "script_234.json",
+    "script_235.json",
+    "script_236.json",
+    "script_237.json",
+    "script_238.json",
+    "script_239.json",
+    "script_240.json",
+    "script_241.json",
+    "script_242.json",
+    "script_243.json",
+    "script_244.json",
+    "script_246.json",
+    "script_247.json",
+    "script_249.json",
+    "script_251.json",
+    "script_253.json",
+    "script_257.json",
+    "script_260.json",
+    "script_262.json",
+    "script_264.json",
+    "script_267.json",
+    "script_269.json",
+    "script_271.json",
+    "script_273.json",
+    "script_282.json",
+    "script_284.json",
+    "script_297.json",
+    "script_300.json",
+    "script_302.json",
+    "script_303.json",
+    "script_304.json",
+    "script_305.json",
+    "script_307.json",
+    "script_308.json",
+    "script_310.json",
+    "script_322.json",
+    "script_323.json",
+    "script_328.json",
+    "script_329.json",
+    "script_330.json",
+    "script_331.json",
+    "script_340.json",
+    "script_341.json",
+    "script_345.json",
+    "script_357.json",
+    "script_358.json",
+    "script_363.json",
+    "script_374.json",
+    "script_384.json",
+    "script_385.json",
+    "script_386.json",
+    "script_388.json",
+    "script_392.json",
+    "script_397.json",
+    "script_398.json"
+  ],
+  "partial": [
+    {
+      "script": "script_000.json",
+      "auto": 27,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_001.json",
+      "auto": 27,
+      "pauses": 11,
+      "new_only": 10,
+      "orphans": 0
+    },
+    {
+      "script": "script_002.json",
+      "auto": 26,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_003.json",
+      "auto": 7,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_004.json",
+      "auto": 26,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_005.json",
+      "auto": 41,
+      "pauses": 2,
+      "new_only": 1,
+      "orphans": 1
+    },
+    {
+      "script": "script_007.json",
+      "auto": 14,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_008.json",
+      "auto": 37,
+      "pauses": 4,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_009.json",
+      "auto": 48,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_010.json",
+      "auto": 43,
+      "pauses": 3,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_011.json",
+      "auto": 20,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_012.json",
+      "auto": 28,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_013.json",
+      "auto": 22,
+      "pauses": 5,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_014.json",
+      "auto": 52,
+      "pauses": 4,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_016.json",
+      "auto": 9,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_018.json",
+      "auto": 39,
+      "pauses": 3,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_019.json",
+      "auto": 21,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_020.json",
+      "auto": 42,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_022.json",
+      "auto": 27,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_023.json",
+      "auto": 12,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_024.json",
+      "auto": 25,
+      "pauses": 10,
+      "new_only": 5,
+      "orphans": 0
+    },
+    {
+      "script": "script_027.json",
+      "auto": 36,
+      "pauses": 5,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_028.json",
+      "auto": 26,
+      "pauses": 19,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_030.json",
+      "auto": 26,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_031.json",
+      "auto": 23,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_033.json",
+      "auto": 10,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_034.json",
+      "auto": 17,
+      "pauses": 5,
+      "new_only": 2,
+      "orphans": 0
+    },
+    {
+      "script": "script_037.json",
+      "auto": 5,
+      "pauses": 0,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_039.json",
+      "auto": 21,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_040.json",
+      "auto": 10,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_041.json",
+      "auto": 7,
+      "pauses": 2,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_042.json",
+      "auto": 17,
+      "pauses": 4,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_043.json",
+      "auto": 14,
+      "pauses": 2,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_044.json",
+      "auto": 17,
+      "pauses": 3,
+      "new_only": 2,
+      "orphans": 0
+    },
+    {
+      "script": "script_045.json",
+      "auto": 18,
+      "pauses": 2,
+      "new_only": 4,
+      "orphans": 0
+    },
+    {
+      "script": "script_047.json",
+      "auto": 17,
+      "pauses": 2,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_051.json",
+      "auto": 46,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_052.json",
+      "auto": 11,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_057.json",
+      "auto": 7,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_058.json",
+      "auto": 5,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_060.json",
+      "auto": 8,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_061.json",
+      "auto": 6,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_064.json",
+      "auto": 8,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_067.json",
+      "auto": 23,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_068.json",
+      "auto": 19,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_077.json",
+      "auto": 31,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_078.json",
+      "auto": 19,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_084.json",
+      "auto": 37,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_085.json",
+      "auto": 103,
+      "pauses": 24,
+      "new_only": 21,
+      "orphans": 0
+    },
+    {
+      "script": "script_090.json",
+      "auto": 2,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_098.json",
+      "auto": 8,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_111.json",
+      "auto": 42,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_112.json",
+      "auto": 14,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_113.json",
+      "auto": 7,
+      "pauses": 5,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_115.json",
+      "auto": 12,
+      "pauses": 2,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_116.json",
+      "auto": 10,
+      "pauses": 3,
+      "new_only": 2,
+      "orphans": 0
+    },
+    {
+      "script": "script_122.json",
+      "auto": 15,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_123.json",
+      "auto": 11,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_124.json",
+      "auto": 24,
+      "pauses": 4,
+      "new_only": 3,
+      "orphans": 0
+    },
+    {
+      "script": "script_129.json",
+      "auto": 11,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_134.json",
+      "auto": 8,
+      "pauses": 4,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_136.json",
+      "auto": 6,
+      "pauses": 1,
+      "new_only": 5,
+      "orphans": 0
+    },
+    {
+      "script": "script_137.json",
+      "auto": 3,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_141.json",
+      "auto": 35,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_142.json",
+      "auto": 36,
+      "pauses": 11,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_145.json",
+      "auto": 19,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_147.json",
+      "auto": 18,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_149.json",
+      "auto": 29,
+      "pauses": 5,
+      "new_only": 5,
+      "orphans": 0
+    },
+    {
+      "script": "script_150.json",
+      "auto": 32,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_152.json",
+      "auto": 20,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_154.json",
+      "auto": 1,
+      "pauses": 4,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_156.json",
+      "auto": 14,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_157.json",
+      "auto": 31,
+      "pauses": 2,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_159.json",
+      "auto": 19,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_161.json",
+      "auto": 6,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_163.json",
+      "auto": 18,
+      "pauses": 2,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_164.json",
+      "auto": 27,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_166.json",
+      "auto": 21,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_168.json",
+      "auto": 5,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_171.json",
+      "auto": 19,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_177.json",
+      "auto": 4,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_184.json",
+      "auto": 10,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_188.json",
+      "auto": 21,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_189.json",
+      "auto": 13,
+      "pauses": 2,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_190.json",
+      "auto": 19,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_191.json",
+      "auto": 4,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_192.json",
+      "auto": 6,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_193.json",
+      "auto": 14,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_194.json",
+      "auto": 26,
+      "pauses": 5,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_195.json",
+      "auto": 5,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_196.json",
+      "auto": 16,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_197.json",
+      "auto": 26,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_198.json",
+      "auto": 7,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_199.json",
+      "auto": 4,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_201.json",
+      "auto": 18,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_203.json",
+      "auto": 19,
+      "pauses": 6,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_205.json",
+      "auto": 18,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_208.json",
+      "auto": 22,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_209.json",
+      "auto": 19,
+      "pauses": 2,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_210.json",
+      "auto": 11,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_212.json",
+      "auto": 2,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_217.json",
+      "auto": 8,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_218.json",
+      "auto": 10,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_223.json",
+      "auto": 5,
+      "pauses": 4,
+      "new_only": 7,
+      "orphans": 0
+    },
+    {
+      "script": "script_226.json",
+      "auto": 7,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_231.json",
+      "auto": 7,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_245.json",
+      "auto": 0,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_248.json",
+      "auto": 32,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_250.json",
+      "auto": 44,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_252.json",
+      "auto": 16,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_254.json",
+      "auto": 39,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_255.json",
+      "auto": 5,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_256.json",
+      "auto": 39,
+      "pauses": 4,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_258.json",
+      "auto": 18,
+      "pauses": 8,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_259.json",
+      "auto": 8,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_261.json",
+      "auto": 105,
+      "pauses": 14,
+      "new_only": 13,
+      "orphans": 0
+    },
+    {
+      "script": "script_263.json",
+      "auto": 15,
+      "pauses": 7,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_265.json",
+      "auto": 38,
+      "pauses": 12,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_266.json",
+      "auto": 17,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_268.json",
+      "auto": 16,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_270.json",
+      "auto": 34,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_272.json",
+      "auto": 49,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_274.json",
+      "auto": 45,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_275.json",
+      "auto": 8,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_276.json",
+      "auto": 46,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_277.json",
+      "auto": 0,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_278.json",
+      "auto": 14,
+      "pauses": 3,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_279.json",
+      "auto": 39,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_280.json",
+      "auto": 28,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_281.json",
+      "auto": 213,
+      "pauses": 19,
+      "new_only": 5,
+      "orphans": 0
+    },
+    {
+      "script": "script_283.json",
+      "auto": 34,
+      "pauses": 20,
+      "new_only": 27,
+      "orphans": 0
+    },
+    {
+      "script": "script_285.json",
+      "auto": 131,
+      "pauses": 18,
+      "new_only": 5,
+      "orphans": 0
+    },
+    {
+      "script": "script_286.json",
+      "auto": 75,
+      "pauses": 4,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_287.json",
+      "auto": 24,
+      "pauses": 3,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_288.json",
+      "auto": 82,
+      "pauses": 11,
+      "new_only": 14,
+      "orphans": 0
+    },
+    {
+      "script": "script_289.json",
+      "auto": 45,
+      "pauses": 4,
+      "new_only": 15,
+      "orphans": 0
+    },
+    {
+      "script": "script_290.json",
+      "auto": 78,
+      "pauses": 7,
+      "new_only": 11,
+      "orphans": 0
+    },
+    {
+      "script": "script_291.json",
+      "auto": 29,
+      "pauses": 4,
+      "new_only": 10,
+      "orphans": 0
+    },
+    {
+      "script": "script_292.json",
+      "auto": 35,
+      "pauses": 12,
+      "new_only": 12,
+      "orphans": 0
+    },
+    {
+      "script": "script_293.json",
+      "auto": 21,
+      "pauses": 7,
+      "new_only": 16,
+      "orphans": 0
+    },
+    {
+      "script": "script_294.json",
+      "auto": 73,
+      "pauses": 11,
+      "new_only": 7,
+      "orphans": 0
+    },
+    {
+      "script": "script_295.json",
+      "auto": 29,
+      "pauses": 9,
+      "new_only": 13,
+      "orphans": 0
+    },
+    {
+      "script": "script_296.json",
+      "auto": 262,
+      "pauses": 25,
+      "new_only": 29,
+      "orphans": 0
+    },
+    {
+      "script": "script_298.json",
+      "auto": 20,
+      "pauses": 2,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_299.json",
+      "auto": 15,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_301.json",
+      "auto": 32,
+      "pauses": 4,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_306.json",
+      "auto": 20,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_309.json",
+      "auto": 33,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_311.json",
+      "auto": 79,
+      "pauses": 20,
+      "new_only": 20,
+      "orphans": 0
+    },
+    {
+      "script": "script_312.json",
+      "auto": 46,
+      "pauses": 7,
+      "new_only": 17,
+      "orphans": 0
+    },
+    {
+      "script": "script_313.json",
+      "auto": 72,
+      "pauses": 15,
+      "new_only": 13,
+      "orphans": 0
+    },
+    {
+      "script": "script_314.json",
+      "auto": 14,
+      "pauses": 3,
+      "new_only": 10,
+      "orphans": 0
+    },
+    {
+      "script": "script_315.json",
+      "auto": 69,
+      "pauses": 6,
+      "new_only": 13,
+      "orphans": 0
+    },
+    {
+      "script": "script_316.json",
+      "auto": 11,
+      "pauses": 3,
+      "new_only": 12,
+      "orphans": 0
+    },
+    {
+      "script": "script_317.json",
+      "auto": 81,
+      "pauses": 8,
+      "new_only": 9,
+      "orphans": 0
+    },
+    {
+      "script": "script_318.json",
+      "auto": 20,
+      "pauses": 4,
+      "new_only": 9,
+      "orphans": 0
+    },
+    {
+      "script": "script_319.json",
+      "auto": 145,
+      "pauses": 16,
+      "new_only": 20,
+      "orphans": 0
+    },
+    {
+      "script": "script_320.json",
+      "auto": 52,
+      "pauses": 13,
+      "new_only": 18,
+      "orphans": 0
+    },
+    {
+      "script": "script_321.json",
+      "auto": 73,
+      "pauses": 15,
+      "new_only": 22,
+      "orphans": 0
+    },
+    {
+      "script": "script_324.json",
+      "auto": 211,
+      "pauses": 17,
+      "new_only": 37,
+      "orphans": 0
+    },
+    {
+      "script": "script_325.json",
+      "auto": 108,
+      "pauses": 15,
+      "new_only": 13,
+      "orphans": 0
+    },
+    {
+      "script": "script_326.json",
+      "auto": 77,
+      "pauses": 6,
+      "new_only": 9,
+      "orphans": 0
+    },
+    {
+      "script": "script_327.json",
+      "auto": 12,
+      "pauses": 3,
+      "new_only": 10,
+      "orphans": 0
+    },
+    {
+      "script": "script_332.json",
+      "auto": 109,
+      "pauses": 10,
+      "new_only": 24,
+      "orphans": 0
+    },
+    {
+      "script": "script_333.json",
+      "auto": 44,
+      "pauses": 11,
+      "new_only": 27,
+      "orphans": 0
+    },
+    {
+      "script": "script_334.json",
+      "auto": 152,
+      "pauses": 11,
+      "new_only": 18,
+      "orphans": 0
+    },
+    {
+      "script": "script_335.json",
+      "auto": 15,
+      "pauses": 4,
+      "new_only": 18,
+      "orphans": 0
+    },
+    {
+      "script": "script_336.json",
+      "auto": 97,
+      "pauses": 5,
+      "new_only": 14,
+      "orphans": 0
+    },
+    {
+      "script": "script_337.json",
+      "auto": 12,
+      "pauses": 2,
+      "new_only": 12,
+      "orphans": 0
+    },
+    {
+      "script": "script_338.json",
+      "auto": 80,
+      "pauses": 8,
+      "new_only": 8,
+      "orphans": 0
+    },
+    {
+      "script": "script_339.json",
+      "auto": 18,
+      "pauses": 4,
+      "new_only": 8,
+      "orphans": 0
+    },
+    {
+      "script": "script_342.json",
+      "auto": 171,
+      "pauses": 29,
+      "new_only": 14,
+      "orphans": 0
+    },
+    {
+      "script": "script_343.json",
+      "auto": 56,
+      "pauses": 15,
+      "new_only": 12,
+      "orphans": 0
+    },
+    {
+      "script": "script_344.json",
+      "auto": 53,
+      "pauses": 1,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_346.json",
+      "auto": 79,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_347.json",
+      "auto": 20,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_348.json",
+      "auto": 7,
+      "pauses": 2,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_349.json",
+      "auto": 55,
+      "pauses": 7,
+      "new_only": 21,
+      "orphans": 0
+    },
+    {
+      "script": "script_350.json",
+      "auto": 49,
+      "pauses": 12,
+      "new_only": 23,
+      "orphans": 0
+    },
+    {
+      "script": "script_351.json",
+      "auto": 47,
+      "pauses": 11,
+      "new_only": 22,
+      "orphans": 0
+    },
+    {
+      "script": "script_352.json",
+      "auto": 16,
+      "pauses": 5,
+      "new_only": 16,
+      "orphans": 0
+    },
+    {
+      "script": "script_353.json",
+      "auto": 44,
+      "pauses": 8,
+      "new_only": 16,
+      "orphans": 0
+    },
+    {
+      "script": "script_354.json",
+      "auto": 12,
+      "pauses": 3,
+      "new_only": 13,
+      "orphans": 0
+    },
+    {
+      "script": "script_355.json",
+      "auto": 56,
+      "pauses": 8,
+      "new_only": 12,
+      "orphans": 0
+    },
+    {
+      "script": "script_356.json",
+      "auto": 21,
+      "pauses": 6,
+      "new_only": 9,
+      "orphans": 0
+    },
+    {
+      "script": "script_359.json",
+      "auto": 180,
+      "pauses": 18,
+      "new_only": 21,
+      "orphans": 0
+    },
+    {
+      "script": "script_360.json",
+      "auto": 120,
+      "pauses": 13,
+      "new_only": 19,
+      "orphans": 0
+    },
+    {
+      "script": "script_361.json",
+      "auto": 40,
+      "pauses": 9,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_362.json",
+      "auto": 30,
+      "pauses": 7,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_364.json",
+      "auto": 5,
+      "pauses": 0,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_365.json",
+      "auto": 47,
+      "pauses": 6,
+      "new_only": 18,
+      "orphans": 0
+    },
+    {
+      "script": "script_366.json",
+      "auto": 18,
+      "pauses": 5,
+      "new_only": 18,
+      "orphans": 0
+    },
+    {
+      "script": "script_367.json",
+      "auto": 74,
+      "pauses": 6,
+      "new_only": 11,
+      "orphans": 0
+    },
+    {
+      "script": "script_368.json",
+      "auto": 25,
+      "pauses": 5,
+      "new_only": 11,
+      "orphans": 0
+    },
+    {
+      "script": "script_369.json",
+      "auto": 53,
+      "pauses": 7,
+      "new_only": 16,
+      "orphans": 0
+    },
+    {
+      "script": "script_370.json",
+      "auto": 12,
+      "pauses": 3,
+      "new_only": 13,
+      "orphans": 0
+    },
+    {
+      "script": "script_371.json",
+      "auto": 99,
+      "pauses": 3,
+      "new_only": 7,
+      "orphans": 0
+    },
+    {
+      "script": "script_372.json",
+      "auto": 19,
+      "pauses": 3,
+      "new_only": 7,
+      "orphans": 0
+    },
+    {
+      "script": "script_373.json",
+      "auto": 208,
+      "pauses": 16,
+      "new_only": 36,
+      "orphans": 0
+    },
+    {
+      "script": "script_375.json",
+      "auto": 164,
+      "pauses": 18,
+      "new_only": 12,
+      "orphans": 0
+    },
+    {
+      "script": "script_376.json",
+      "auto": 95,
+      "pauses": 16,
+      "new_only": 12,
+      "orphans": 0
+    },
+    {
+      "script": "script_377.json",
+      "auto": 26,
+      "pauses": 3,
+      "new_only": 7,
+      "orphans": 0
+    },
+    {
+      "script": "script_378.json",
+      "auto": 24,
+      "pauses": 4,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_379.json",
+      "auto": 152,
+      "pauses": 9,
+      "new_only": 16,
+      "orphans": 0
+    },
+    {
+      "script": "script_380.json",
+      "auto": 21,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_381.json",
+      "auto": 24,
+      "pauses": 12,
+      "new_only": 13,
+      "orphans": 0
+    },
+    {
+      "script": "script_382.json",
+      "auto": 0,
+      "pauses": 0,
+      "new_only": 13,
+      "orphans": 0
+    },
+    {
+      "script": "script_383.json",
+      "auto": 2,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_387.json",
+      "auto": 12,
+      "pauses": 2,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_389.json",
+      "auto": 17,
+      "pauses": 4,
+      "new_only": 7,
+      "orphans": 0
+    },
+    {
+      "script": "script_390.json",
+      "auto": 3,
+      "pauses": 23,
+      "new_only": 73,
+      "orphans": 0
+    },
+    {
+      "script": "script_391.json",
+      "auto": 0,
+      "pauses": 3,
+      "new_only": 9,
+      "orphans": 0
+    },
+    {
+      "script": "script_393.json",
+      "auto": 1,
+      "pauses": 2,
+      "new_only": 2,
+      "orphans": 0
+    },
+    {
+      "script": "script_394.json",
+      "auto": 46,
+      "pauses": 3,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_395.json",
+      "auto": 6,
+      "pauses": 1,
+      "new_only": 1,
+      "orphans": 0
+    },
+    {
+      "script": "script_396.json",
+      "auto": 59,
+      "pauses": 4,
+      "new_only": 0,
+      "orphans": 0
+    },
+    {
+      "script": "script_143.json",
+      "auto": 69,
+      "pauses": 0,
+      "new_only": 0,
+      "orphans": 0,
+      "byte_errors": 1
+    }
+  ]
+}
