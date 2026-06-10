@@ -118,6 +118,7 @@
     "script_140.json",
     "script_141.json",
     "script_142.json",
+    "script_143.json",
     "script_144.json",
     "script_145.json",
     "script_146.json",
@@ -1125,14 +1126,6 @@
       "pauses": 1,
       "new_only": 1,
       "orphans": 0
-    },
-    {
-      "script": "script_143.json",
-      "auto": 69,
-      "pauses": 0,
-      "new_only": 0,
-      "orphans": 0,
-      "byte_errors": 1
     }
   ]
 }
