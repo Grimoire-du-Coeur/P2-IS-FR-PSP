@@ -48,6 +48,11 @@ class TestVerifyData(unittest.TestCase):
         res = verify_data([_entry(300, "X", "Oui[1432][NULL][NULL][0014]Non")])
         self.assertFalse(any("1432" in w for w in res["warnings"]))
 
+    def test_pas_d_avertissement_sur_variante_1432(self):
+        # [1432][NULL][NULL][U+0007] est une variante legitime (stylisation)
+        res = verify_data([_entry(300, "X", "miaou[1432][NULL][NULL][U+0007]")])
+        self.assertFalse(any("1432" in w for w in res["warnings"]))
+
     def test_avertit_sur_code_famille_residuel(self):
         res = verify_data([_entry(300, "X", "Choix [U+1208] menu")])
         self.assertTrue(any("[U+1208]" in w for w in res["warnings"]))

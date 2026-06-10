@@ -1,5 +1,6 @@
 import os
 import sys
+import re
 import json
 import glob
 import argparse
@@ -13,16 +14,22 @@ from core import _KNOWN_RENAMES               # noqa: E402
 _OLD_PLACEHOLDERS = [old for old, _new in _KNOWN_RENAMES]
 
 
+_1432_RE = re.compile(r'\[1432\]\[NULL\]\[NULL\]\[[^\]]+\]')
+
+
 def _check_1432(texte):
-    """Avertit si un [1432] n'est pas suivi de [NULL][NULL][0014]."""
+    """Avertit si un [1432] n'est pas suivi de [NULL][NULL][<code>].
+
+    Le code de fermeture varie : [0014] (menu Oui/Non), [U+0007] (stylisation),
+    etc. On valide donc la forme [1432][NULL][NULL][<un code>], pas un code precis."""
     warns = []
     idx = 0
     while True:
         i = texte.find("[1432]", idx)
         if i == -1:
             break
-        if not texte[i:].startswith("[1432][NULL][NULL][0014]"):
-            warns.append("structure [1432] incomplete (attendu [1432][NULL][NULL][0014])")
+        if not _1432_RE.match(texte[i:]):
+            warns.append("structure [1432] incomplete (attendu [1432][NULL][NULL][<code>])")
         idx = i + 6
     return warns
 
