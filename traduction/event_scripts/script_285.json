@@ -284,8 +284,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "For[SP]which[SP]region?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Toku-san l'informateur",
+    "texte_fr": "Quel endroit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
     "question_orig": "For[SP]which[SP]region?",
     "choix_orig": [
       "[U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone"
@@ -308,8 +308,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "For[SP]which[SP]region?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Toku-san l'informateur",
+    "texte_fr": "Quel endroit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
     "question_orig": "For[SP]which[SP]region?",
     "choix_orig": [
       "[U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone"
@@ -452,8 +452,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Do[SP]you[SP]know[SP][E4][NULL][NULL][U+0006]Tony's[SP]Shop[E4][NULL][NULL][0002][SP]in[SP]Yumezaki?[SP]I[SP]hear\nhe[SP]sells[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002].[SP]His[SP][E4][NULL][NULL][U+0006]selection[SP]is[SP]good,\nbut[SP]the[SP]resale[SP]value[SP]there[SP]is[SP]low[E4][NULL][NULL][0002].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Toku-san l'informateur",
+    "texte_fr": "Connais-tu [E4][NULL][NULL][U+0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki? Il\nvend de [E4][NULL][NULL][U+0006]vraies armes[E4][NULL][NULL][0002]. Il a [E4][NULL][NULL][U+0006]une bonne\nsélection, mais un prix de revente assez bas[E4][NULL][NULL][0002]."
   },
   {
     "id": 26,
@@ -612,8 +612,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Do[SP]you[SP]know[SP]the[SP]boutique[SP][E4][NULL][NULL][U+0006]Rosa[SP]Candida[E4][NULL][NULL][0002]?[SP]It[SP]seems\nyou[SP]can[SP]actually[SP]buy[SP][E4][NULL][NULL][U+0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP]Rumor\nhas[SP]it[SP]their[SP][E4][NULL][NULL][U+0006]quality[SP]and[SP]prices[SP]are[SP]average[E4][NULL][NULL][0002].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Toku-san l'informateur",
+    "texte_fr": "Tu vois cette boutique, [E4][NULL][NULL][U+0006]Rosa Candida[E4][NULL][NULL][0002]? On\ny achète de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002]. D'après la\nrumeur, les [E4][NULL][NULL][U+0006]prix et la qualité sont convenables[E4][NULL][NULL][0002]."
   },
   {
     "id": 36,
