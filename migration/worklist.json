@@ -1,5 +1,5 @@
 {
-  "fully_auto": [
+  "fully_complete": [
     "script_000.json",
     "script_002.json",
     "script_003.json",
@@ -12,24 +12,27 @@
     "script_012.json",
     "script_014.json",
     "script_015.json",
+    "script_016.json",
     "script_017.json",
     "script_019.json",
     "script_020.json",
     "script_021.json",
     "script_022.json",
     "script_025.json",
-    "script_026.json",
     "script_027.json",
     "script_028.json",
     "script_029.json",
     "script_030.json",
+    "script_031.json",
     "script_032.json",
     "script_033.json",
     "script_035.json",
     "script_036.json",
     "script_038.json",
     "script_039.json",
+    "script_041.json",
     "script_042.json",
+    "script_043.json",
     "script_046.json",
     "script_048.json",
     "script_049.json",
@@ -45,11 +48,11 @@
     "script_059.json",
     "script_060.json",
     "script_061.json",
-    "script_062.json",
     "script_063.json",
     "script_064.json",
     "script_065.json",
     "script_066.json",
+    "script_068.json",
     "script_069.json",
     "script_070.json",
     "script_071.json",
@@ -124,6 +127,7 @@
     "script_146.json",
     "script_147.json",
     "script_148.json",
+    "script_149.json",
     "script_150.json",
     "script_151.json",
     "script_152.json",
@@ -160,12 +164,13 @@
     "script_185.json",
     "script_186.json",
     "script_187.json",
+    "script_189.json",
     "script_190.json",
     "script_191.json",
     "script_192.json",
-    "script_193.json",
     "script_195.json",
     "script_196.json",
+    "script_197.json",
     "script_198.json",
     "script_199.json",
     "script_200.json",
@@ -177,6 +182,7 @@
     "script_206.json",
     "script_207.json",
     "script_208.json",
+    "script_210.json",
     "script_211.json",
     "script_212.json",
     "script_213.json",
@@ -196,6 +202,7 @@
     "script_228.json",
     "script_229.json",
     "script_230.json",
+    "script_231.json",
     "script_232.json",
     "script_233.json",
     "script_234.json",
@@ -223,7 +230,6 @@
     "script_257.json",
     "script_258.json",
     "script_259.json",
-    "script_260.json",
     "script_262.json",
     "script_263.json",
     "script_264.json",
@@ -236,18 +242,24 @@
     "script_271.json",
     "script_272.json",
     "script_273.json",
+    "script_274.json",
+    "script_275.json",
     "script_276.json",
     "script_277.json",
     "script_280.json",
     "script_282.json",
     "script_284.json",
+    "script_286.json",
+    "script_287.json",
     "script_297.json",
+    "script_299.json",
     "script_300.json",
     "script_301.json",
     "script_302.json",
     "script_303.json",
     "script_304.json",
     "script_305.json",
+    "script_306.json",
     "script_307.json",
     "script_308.json",
     "script_309.json",
@@ -262,6 +274,7 @@
     "script_341.json",
     "script_344.json",
     "script_345.json",
+    "script_346.json",
     "script_347.json",
     "script_348.json",
     "script_357.json",
@@ -269,863 +282,451 @@
     "script_363.json",
     "script_374.json",
     "script_380.json",
+    "script_383.json",
     "script_384.json",
     "script_385.json",
     "script_386.json",
     "script_388.json",
     "script_392.json",
-    "script_394.json",
-    "script_396.json",
     "script_397.json",
     "script_398.json"
   ],
   "partial": [
     {
       "script": "script_001.json",
-      "auto": 27,
-      "pauses": 11,
-      "new_only": 10,
-      "orphans": 0
+      "vides": 3
     },
     {
       "script": "script_005.json",
-      "auto": 41,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 1
+      "vides": 1
     },
     {
       "script": "script_010.json",
-      "auto": 43,
-      "pauses": 3,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 4
     },
     {
       "script": "script_013.json",
-      "auto": 22,
-      "pauses": 5,
-      "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_016.json",
-      "auto": 9,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_018.json",
-      "auto": 39,
-      "pauses": 3,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_023.json",
-      "auto": 12,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 3
     },
     {
       "script": "script_024.json",
-      "auto": 25,
-      "pauses": 10,
-      "new_only": 5,
-      "orphans": 0
+      "vides": 3
     },
     {
-      "script": "script_031.json",
-      "auto": 23,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "script": "script_026.json",
+      "vides": 2
     },
     {
       "script": "script_034.json",
-      "auto": 17,
-      "pauses": 5,
-      "new_only": 2,
-      "orphans": 0
+      "vides": 3
     },
     {
       "script": "script_037.json",
-      "auto": 5,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_040.json",
-      "auto": 10,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_041.json",
-      "auto": 7,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_043.json",
-      "auto": 14,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_044.json",
-      "auto": 17,
-      "pauses": 3,
-      "new_only": 2,
-      "orphans": 0
+      "vides": 2
     },
     {
       "script": "script_045.json",
-      "auto": 18,
-      "pauses": 0,
-      "new_only": 4,
-      "orphans": 0
+      "vides": 2
     },
     {
       "script": "script_047.json",
-      "auto": 17,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
+    },
+    {
+      "script": "script_062.json",
+      "vides": 16
     },
     {
       "script": "script_067.json",
-      "auto": 23,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_068.json",
-      "auto": 19,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_085.json",
-      "auto": 103,
-      "pauses": 24,
-      "new_only": 21,
-      "orphans": 0
+      "vides": 13
     },
     {
       "script": "script_115.json",
-      "auto": 12,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_116.json",
-      "auto": 10,
-      "pauses": 3,
-      "new_only": 2,
-      "orphans": 0
+      "vides": 3
     },
     {
       "script": "script_124.json",
-      "auto": 24,
-      "pauses": 4,
-      "new_only": 3,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_134.json",
-      "auto": 8,
-      "pauses": 4,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 3
     },
     {
       "script": "script_136.json",
-      "auto": 6,
-      "pauses": 0,
-      "new_only": 5,
-      "orphans": 0
-    },
-    {
-      "script": "script_149.json",
-      "auto": 29,
-      "pauses": 5,
-      "new_only": 5,
-      "orphans": 0
+      "vides": 5
     },
     {
       "script": "script_157.json",
-      "auto": 31,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_163.json",
-      "auto": 18,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_188.json",
-      "auto": 21,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
-      "script": "script_189.json",
-      "auto": 13,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "script": "script_193.json",
+      "vides": 1
     },
     {
       "script": "script_194.json",
-      "auto": 26,
-      "pauses": 5,
-      "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_197.json",
-      "auto": 26,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_209.json",
-      "auto": 19,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_210.json",
-      "auto": 11,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_223.json",
-      "auto": 5,
-      "pauses": 4,
-      "new_only": 7,
-      "orphans": 0
-    },
-    {
-      "script": "script_231.json",
-      "auto": 7,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 3
     },
     {
       "script": "script_245.json",
-      "auto": 0,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
+    },
+    {
+      "script": "script_260.json",
+      "vides": 33
     },
     {
       "script": "script_261.json",
-      "auto": 105,
-      "pauses": 14,
-      "new_only": 13,
-      "orphans": 0
-    },
-    {
-      "script": "script_274.json",
-      "auto": 45,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_275.json",
-      "auto": 8,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 10
     },
     {
       "script": "script_278.json",
-      "auto": 14,
-      "pauses": 3,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 2
     },
     {
       "script": "script_279.json",
-      "auto": 39,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_281.json",
-      "auto": 213,
-      "pauses": 19,
-      "new_only": 5,
-      "orphans": 0
+      "vides": 7
     },
     {
       "script": "script_283.json",
-      "auto": 34,
-      "pauses": 20,
-      "new_only": 27,
-      "orphans": 0
+      "vides": 21
     },
     {
       "script": "script_285.json",
-      "auto": 131,
-      "pauses": 18,
-      "new_only": 5,
-      "orphans": 0
-    },
-    {
-      "script": "script_286.json",
-      "auto": 75,
-      "pauses": 4,
-      "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_287.json",
-      "auto": 24,
-      "pauses": 3,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 18
     },
     {
       "script": "script_288.json",
-      "auto": 82,
-      "pauses": 11,
-      "new_only": 14,
-      "orphans": 0
+      "vides": 10
     },
     {
       "script": "script_289.json",
-      "auto": 45,
-      "pauses": 4,
-      "new_only": 15,
-      "orphans": 0
+      "vides": 5
     },
     {
       "script": "script_290.json",
-      "auto": 78,
-      "pauses": 7,
-      "new_only": 11,
-      "orphans": 0
+      "vides": 4
     },
     {
       "script": "script_291.json",
-      "auto": 29,
-      "pauses": 4,
-      "new_only": 10,
-      "orphans": 0
+      "vides": 8
     },
     {
       "script": "script_292.json",
-      "auto": 35,
-      "pauses": 12,
-      "new_only": 12,
-      "orphans": 0
+      "vides": 14
     },
     {
       "script": "script_293.json",
-      "auto": 21,
-      "pauses": 7,
-      "new_only": 16,
-      "orphans": 0
+      "vides": 11
     },
     {
       "script": "script_294.json",
-      "auto": 73,
-      "pauses": 11,
-      "new_only": 7,
-      "orphans": 0
+      "vides": 5
     },
     {
       "script": "script_295.json",
-      "auto": 29,
-      "pauses": 9,
-      "new_only": 13,
-      "orphans": 0
+      "vides": 5
     },
     {
       "script": "script_296.json",
-      "auto": 262,
-      "pauses": 25,
-      "new_only": 29,
-      "orphans": 0
+      "vides": 15
     },
     {
       "script": "script_298.json",
-      "auto": 20,
-      "pauses": 2,
-      "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_299.json",
-      "auto": 15,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
-    },
-    {
-      "script": "script_306.json",
-      "auto": 20,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_311.json",
-      "auto": 79,
-      "pauses": 20,
-      "new_only": 20,
-      "orphans": 0
+      "vides": 16
     },
     {
       "script": "script_312.json",
-      "auto": 46,
-      "pauses": 7,
-      "new_only": 17,
-      "orphans": 0
+      "vides": 15
     },
     {
       "script": "script_313.json",
-      "auto": 72,
-      "pauses": 15,
-      "new_only": 13,
-      "orphans": 0
+      "vides": 12
     },
     {
       "script": "script_314.json",
-      "auto": 14,
-      "pauses": 3,
-      "new_only": 10,
-      "orphans": 0
+      "vides": 6
     },
     {
       "script": "script_315.json",
-      "auto": 69,
-      "pauses": 6,
-      "new_only": 13,
-      "orphans": 0
+      "vides": 9
     },
     {
       "script": "script_316.json",
-      "auto": 11,
-      "pauses": 3,
-      "new_only": 12,
-      "orphans": 0
+      "vides": 7
     },
     {
       "script": "script_317.json",
-      "auto": 81,
-      "pauses": 8,
-      "new_only": 9,
-      "orphans": 0
+      "vides": 3
     },
     {
       "script": "script_318.json",
-      "auto": 20,
-      "pauses": 4,
-      "new_only": 9,
-      "orphans": 0
+      "vides": 5
     },
     {
       "script": "script_319.json",
-      "auto": 145,
-      "pauses": 16,
-      "new_only": 20,
-      "orphans": 0
+      "vides": 4
     },
     {
       "script": "script_320.json",
-      "auto": 52,
-      "pauses": 13,
-      "new_only": 18,
-      "orphans": 0
+      "vides": 8
     },
     {
       "script": "script_321.json",
-      "auto": 73,
-      "pauses": 15,
-      "new_only": 22,
-      "orphans": 0
+      "vides": 12
     },
     {
       "script": "script_324.json",
-      "auto": 211,
-      "pauses": 17,
-      "new_only": 37,
-      "orphans": 0
+      "vides": 30
     },
     {
       "script": "script_325.json",
-      "auto": 108,
-      "pauses": 15,
-      "new_only": 13,
-      "orphans": 0
+      "vides": 3
     },
     {
       "script": "script_326.json",
-      "auto": 77,
-      "pauses": 6,
-      "new_only": 9,
-      "orphans": 0
+      "vides": 11
     },
     {
       "script": "script_327.json",
-      "auto": 12,
-      "pauses": 3,
-      "new_only": 10,
-      "orphans": 0
+      "vides": 7
     },
     {
       "script": "script_332.json",
-      "auto": 109,
-      "pauses": 10,
-      "new_only": 24,
-      "orphans": 0
+      "vides": 24
     },
     {
       "script": "script_333.json",
-      "auto": 44,
-      "pauses": 11,
-      "new_only": 27,
-      "orphans": 0
+      "vides": 14
     },
     {
       "script": "script_334.json",
-      "auto": 152,
-      "pauses": 11,
-      "new_only": 18,
-      "orphans": 0
+      "vides": 7
     },
     {
       "script": "script_335.json",
-      "auto": 15,
-      "pauses": 4,
-      "new_only": 18,
-      "orphans": 0
+      "vides": 13
     },
     {
       "script": "script_336.json",
-      "auto": 97,
-      "pauses": 5,
-      "new_only": 14,
-      "orphans": 0
+      "vides": 7
     },
     {
       "script": "script_337.json",
-      "auto": 12,
-      "pauses": 2,
-      "new_only": 12,
-      "orphans": 0
+      "vides": 7
     },
     {
       "script": "script_338.json",
-      "auto": 80,
-      "pauses": 8,
-      "new_only": 8,
-      "orphans": 0
+      "vides": 4
     },
     {
       "script": "script_339.json",
-      "auto": 18,
-      "pauses": 4,
-      "new_only": 8,
-      "orphans": 0
+      "vides": 3
     },
     {
       "script": "script_342.json",
-      "auto": 171,
-      "pauses": 29,
-      "new_only": 14,
-      "orphans": 0
+      "vides": 11
     },
     {
       "script": "script_343.json",
-      "auto": 56,
-      "pauses": 15,
-      "new_only": 12,
-      "orphans": 0
-    },
-    {
-      "script": "script_346.json",
-      "auto": 79,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 7
     },
     {
       "script": "script_349.json",
-      "auto": 55,
-      "pauses": 7,
-      "new_only": 21,
-      "orphans": 0
+      "vides": 27
     },
     {
       "script": "script_350.json",
-      "auto": 49,
-      "pauses": 12,
-      "new_only": 23,
-      "orphans": 0
+      "vides": 25
     },
     {
       "script": "script_351.json",
-      "auto": 47,
-      "pauses": 11,
-      "new_only": 22,
-      "orphans": 0
+      "vides": 11
     },
     {
       "script": "script_352.json",
-      "auto": 16,
-      "pauses": 5,
-      "new_only": 16,
-      "orphans": 0
+      "vides": 10
     },
     {
       "script": "script_353.json",
-      "auto": 44,
-      "pauses": 8,
-      "new_only": 16,
-      "orphans": 0
+      "vides": 9
     },
     {
       "script": "script_354.json",
-      "auto": 12,
-      "pauses": 3,
-      "new_only": 13,
-      "orphans": 0
+      "vides": 6
     },
     {
       "script": "script_355.json",
-      "auto": 56,
-      "pauses": 8,
-      "new_only": 12,
-      "orphans": 0
+      "vides": 5
     },
     {
       "script": "script_356.json",
-      "auto": 21,
-      "pauses": 6,
-      "new_only": 9,
-      "orphans": 0
+      "vides": 6
     },
     {
       "script": "script_359.json",
-      "auto": 180,
-      "pauses": 18,
-      "new_only": 21,
-      "orphans": 0
+      "vides": 11
     },
     {
       "script": "script_360.json",
-      "auto": 120,
-      "pauses": 13,
-      "new_only": 19,
-      "orphans": 0
+      "vides": 11
     },
     {
       "script": "script_361.json",
-      "auto": 40,
-      "pauses": 9,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_362.json",
-      "auto": 30,
-      "pauses": 7,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 5
     },
     {
       "script": "script_364.json",
-      "auto": 5,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_365.json",
-      "auto": 47,
-      "pauses": 6,
-      "new_only": 18,
-      "orphans": 0
+      "vides": 13
     },
     {
       "script": "script_366.json",
-      "auto": 18,
-      "pauses": 5,
-      "new_only": 18,
-      "orphans": 0
+      "vides": 12
     },
     {
       "script": "script_367.json",
-      "auto": 74,
-      "pauses": 6,
-      "new_only": 11,
-      "orphans": 0
+      "vides": 8
     },
     {
       "script": "script_368.json",
-      "auto": 25,
-      "pauses": 5,
-      "new_only": 11,
-      "orphans": 0
+      "vides": 7
     },
     {
       "script": "script_369.json",
-      "auto": 53,
-      "pauses": 7,
-      "new_only": 16,
-      "orphans": 0
+      "vides": 14
     },
     {
       "script": "script_370.json",
-      "auto": 12,
-      "pauses": 3,
-      "new_only": 13,
-      "orphans": 0
+      "vides": 10
     },
     {
       "script": "script_371.json",
-      "auto": 99,
-      "pauses": 3,
-      "new_only": 7,
-      "orphans": 0
+      "vides": 4
     },
     {
       "script": "script_372.json",
-      "auto": 19,
-      "pauses": 3,
-      "new_only": 7,
-      "orphans": 0
+      "vides": 4
     },
     {
       "script": "script_373.json",
-      "auto": 208,
-      "pauses": 16,
-      "new_only": 36,
-      "orphans": 0
+      "vides": 26
     },
     {
       "script": "script_375.json",
-      "auto": 164,
-      "pauses": 18,
-      "new_only": 12,
-      "orphans": 0
+      "vides": 5
     },
     {
       "script": "script_376.json",
-      "auto": 95,
-      "pauses": 16,
-      "new_only": 12,
-      "orphans": 0
+      "vides": 11
     },
     {
       "script": "script_377.json",
-      "auto": 26,
-      "pauses": 3,
-      "new_only": 7,
-      "orphans": 0
+      "vides": 9
     },
     {
       "script": "script_378.json",
-      "auto": 24,
-      "pauses": 4,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
     },
     {
       "script": "script_379.json",
-      "auto": 152,
-      "pauses": 9,
-      "new_only": 16,
-      "orphans": 0
+      "vides": 13
     },
     {
       "script": "script_381.json",
-      "auto": 24,
-      "pauses": 12,
-      "new_only": 13,
-      "orphans": 0
+      "vides": 5
     },
     {
       "script": "script_382.json",
-      "auto": 0,
-      "pauses": 0,
-      "new_only": 13,
-      "orphans": 0
-    },
-    {
-      "script": "script_383.json",
-      "auto": 2,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 172
     },
     {
       "script": "script_387.json",
-      "auto": 12,
-      "pauses": 2,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 2
     },
     {
       "script": "script_389.json",
-      "auto": 17,
-      "pauses": 4,
-      "new_only": 7,
-      "orphans": 0
+      "vides": 6
     },
     {
       "script": "script_390.json",
-      "auto": 3,
-      "pauses": 23,
-      "new_only": 73,
-      "orphans": 0
+      "vides": 43
     },
     {
       "script": "script_391.json",
-      "auto": 0,
-      "pauses": 3,
-      "new_only": 9,
-      "orphans": 0
+      "vides": 6
     },
     {
       "script": "script_393.json",
-      "auto": 1,
-      "pauses": 2,
-      "new_only": 2,
-      "orphans": 0
+      "vides": 4
+    },
+    {
+      "script": "script_394.json",
+      "vides": 1
     },
     {
       "script": "script_395.json",
-      "auto": 6,
-      "pauses": 0,
-      "new_only": 1,
-      "orphans": 0
+      "vides": 1
+    },
+    {
+      "script": "script_396.json",
+      "vides": 2
     }
   ]
 }
