@@ -156,8 +156,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#14![SP][1432][NULL][NULL][0014]Sorry-ia[1432][NULL][NULL][0014][SP]means...[1205][001E]\nWell,[SP]you[SP]probably[SP]figured[SP]that[SP]one[SP]out.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Leçon de cantonais n°14! [1432][NULL][NULL][0014]Sorry-ia[1432][NULL][NULL][0014] veut dire...[1205][001E]\nBah, vous avez sans doute deviné."
   },
   {
     "id": 10,
@@ -172,8 +172,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#16![1205][001E][SP][1432][NULL][NULL][0014]Hai[1432][NULL][NULL][0014][SP]is[SP]used[SP]like\n[1432][NULL][NULL][0014]Okay![1432][NULL][NULL][0014][SP]when[SP]you[SP]want[SP]to[SP]agree[SP]with[SP]something.\nIt's[SP]pretty[SP]straightforward.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Leçon de cantonais n°16![1205][001E] [1432][NULL][NULL][0014]Hai[1432][NULL][NULL][0014] s'utilise comme\n[1432][NULL][NULL][0014]Okay![1432][NULL][NULL][0014] quand on est d'accord avec quelque chose.\nC'est plutôt simple."
   },
   {
     "id": 11,
@@ -395,8 +395,8 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "It[SP]doesn't[SP]look[SP]like[SP]they're[SP]hitting[SP]anywhere\nin[SP]Rengedai.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "On dirait qu'ils ne frappent nulle\npart dans Rengedai."
   },
   {
     "id": 25,
@@ -411,8 +411,8 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "We[SP]got[SP]lucky[SP]this[SP]time...[1205][U+000F][SP]We're[SP]not[SP]letting\nthem[SP]bomb[SP]one[SP]more[SP]building![SP]I'll[SP]stop[SP]every\none[SP]of[SP]them[SP]myself.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "On a eu de la chance...[1205][U+000F] On ne les laissera\npas détruire un autre bâtiment! Je les\narrêterai tous moi-même."
   },
   {
     "id": 26,
@@ -459,8 +459,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Anything[SP]else?\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Autre chose?\n[1208][U+0005]Acheter armures\nVendre objets\nParler\nRien\nQuitter",
     "question_orig": "Anything[SP]else?",
     "choix_orig": [
       "[U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -610,8 +610,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "The[SP]design[SP]of[SP]a[SP]piece[SP]of[SP]clothing[SP]isn't[SP]the\nonly[SP]thing[SP]that[SP]factors[SP]into[SP]its[SP]price.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Le design d'un vêtement n'est pas le\nseul facteur dans son prix."
   },
   {
     "id": 37,
@@ -626,8 +626,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "The[SP]material[SP]used,[SP]its[SP]durability,[SP]and[SP]its\ncomfort[SP]are[SP]all[SP]also[SP]important.[SP]You[SP]can[SP]say\nthe[SP]same[SP]for[SP]armor,[SP]too.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "La matière, sa durabilité et son\nconfort sont aussi importants. C'est la\nmême chose pour les armures."
   },
   {
     "id": 38,
@@ -1410,8 +1410,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Ah,[SP]welcome.[1205][U+000A][SP]We[SP]sell[SP]only[SP]the[SP]finest[SP]clothes\nhere.[1205][U+000F][SP]What[SP]do[SP]you[SP]think?[1205][U+000A][SP]Feel[SP]free[SP]to[SP]buy\nwithout[SP]hesitation!\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Ah, bienvenue.[1205][U+000A] Nous ne vendons que les plus\nbeaux vêtements ici.[1205][U+000F] Qu'en dites-vous?[1205][U+000A]\nAchetez sans hésiter!\n[1208][U+0005]Acheter armures\nVendre objets\nParler\nRien\nQuitter",
     "question_orig": "Ah,[SP]welcome.[1205][U+000A][SP]We[SP]sell[SP]only[SP]the[SP]finest[SP]clothes\nhere.[1205][U+000F][SP]What[SP]do[SP]you[SP]think?[1205][U+000A][SP]Feel[SP]free[SP]to[SP]buy\nwithout[SP]hesitation!",
     "choix_orig": [
       "[U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -1498,8 +1498,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Total de [120E][NULL] yens.\nOk?\n[1208][0002]Oui\nNon",
     "question_orig": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?",
     "choix_orig": [
       "Yes\nNo"
@@ -1521,8 +1521,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "You[SP]need[SP]me[SP]to[SP]explain[SP]how[SP]to[SP]shop?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Infos sur les achats?"
   },
   {
     "id": 92,
@@ -1536,8 +1536,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Commençons par acheter. Choisissez\n[1432][NULL][NULL][0014]Acheter armures[1432][NULL][NULL][0014] pour acheter parmi\nnotre stock d'armures incroyables."
   },
   {
     "id": 93,
@@ -1551,8 +1551,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Some[SP]armor[SP]will[SP]only[SP]fit[SP]certain[SP]individuals.\nBe[SP]sure[SP]to[SP]read[SP]the[SP]fine[SP]print[SP]before[SP]buying!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Certaines armures ne vont qu'à\ncertains individus. Vérifiez\nbien avant d'acheter!"
   },
   {
     "id": 94,
@@ -1566,8 +1566,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Ensuite, pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014]\npour choisir le type. Sélectionnez\npuis quoi vendre."
   },
   {
     "id": 95,
@@ -1582,7 +1582,7 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "The[SP]resale[SP]price[SP]is[SP]roughly[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you're[SP]wearing,\nor[SP]certain[SP]special[SP]items.[SP]That[SP]about[SP]does[SP]it.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "La revente est à moitié prix.\nLes objets équipés et\nspéciaux ne sont pas vendables. C'est tout."
   }
 ]

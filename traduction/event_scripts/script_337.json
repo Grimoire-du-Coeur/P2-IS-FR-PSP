@@ -364,8 +364,8 @@
     ],
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Sœur n°4",
+    "texte_fr": "Le total s'élève à [120E][NULL] yens.\nC'est d'accord ?\n[1208][0002]Oui\nNon",
     "question_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?",
     "choix_orig": [
       "Yes\nNo"
@@ -387,8 +387,8 @@
     ],
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "Heeheehee.[SP]Okay,[SP]I'll[SP]tell[SP]you[SP]a[SP]little[SP]about\nshopping.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°4",
+    "texte_fr": "Hihihi. Laissez-moi vous expliquer les achats."
   },
   {
     "id": 21,
@@ -402,8 +402,8 @@
     ],
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°4",
+    "texte_fr": "Pour acheter : sélectionnez [1432][NULL][NULL][0014]Acheter des objets[1432][NULL][NULL][0014]\net choisissez parmi nos articles."
   },
   {
     "id": 22,
@@ -417,8 +417,8 @@
     ],
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "Oh,[SP]and[SP]there's[SP]a[SP]limit[SP]to[SP]how[SP]many[SP]of[SP]the\nsame[SP]item[SP]you[SP]can[SP]carry.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°4",
+    "texte_fr": "Chaque objet a une limite de port."
   },
   {
     "id": 23,
@@ -432,8 +432,8 @@
     ],
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°4",
+    "texte_fr": "Pour vendre : choisissez [1432][NULL][NULL][0014]Vendre des objets,[1432][NULL][NULL][0014]\npuis le type d'objet, puis l'objet précis."
   },
   {
     "id": 24,
@@ -447,8 +447,8 @@
     ],
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "Our[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°4",
+    "texte_fr": "Revente à environ la moitié du prix.\nObjets équipés ou spéciaux non vendables."
   },
   {
     "id": 25,
@@ -463,7 +463,7 @@
     ],
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "That's[SP]about[SP]it.[SP]Heeheehee.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°4",
+    "texte_fr": "C'est tout. Hihihi."
   }
 ]

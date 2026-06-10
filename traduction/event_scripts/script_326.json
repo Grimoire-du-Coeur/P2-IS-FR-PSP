@@ -1428,8 +1428,8 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "That'll[SP]be[SP][120E][NULL][SP]yen.[SP]Is[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Gérant",
+    "texte_fr": "Ça fera [120E][NULL] yens. Ça vous va ?\n[1208][0002]Oui\nNon",
     "question_orig": "That'll[SP]be[SP][120E][NULL][SP]yen.[SP]Is[SP]that[SP]okay?",
     "choix_orig": [
       "Yes\nNo"
@@ -1466,8 +1466,8 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "Talk[SP]to[SP]me[SP]and[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]coins,[1432][NULL][NULL][0014][SP]and[SP]I'll\ngive[SP]you[SP]coins[SP]to[SP]play[SP]the[SP]games[SP]in[SP]exchange\nfor[SP]cash.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gérant",
+    "texte_fr": "Parlez-moi et choisissez [1432][NULL][NULL][0014]Acheter des jetons[1432][NULL][NULL][0014],\nje vous en donnerai pour jouer\ncontre de l'argent."
   },
   {
     "id": 89,
@@ -1496,8 +1496,8 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "What[SP]you[SP]can[SP]do[SP]is[SP]redeem[SP]them[SP]for[SP]prizes.\nTalk[SP]to[SP]me[SP]and[SP]select[SP][1432][NULL][NULL][0014]Redeem[SP]for[SP]prizes[1432][NULL][NULL][0014]\nwhen[SP]you[SP]want[SP]to[SP]do[SP]that.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gérant",
+    "texte_fr": "Vous pouvez les échanger contre des prix.\nParlez-moi et choisissez [1432][NULL][NULL][0014]Échanger des prix[1432][NULL][NULL][0014]\nquand vous le voudrez."
   },
   {
     "id": 91,
@@ -1512,7 +1512,7 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "You[SP]can[SP]only[SP]spend[SP]the[SP]coins[SP]you[SP]win[SP]here\non[SP]our[SP]prizes,[SP]so[SP]I'd[SP]advise[SP]you[SP]to[SP]use\nthem[SP]well.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gérant",
+    "texte_fr": "Vous ne pouvez les dépenser ici que\npour des prix, alors utilisez-les bien."
   }
 ]

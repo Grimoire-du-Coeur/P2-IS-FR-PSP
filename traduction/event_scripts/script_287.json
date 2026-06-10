@@ -252,8 +252,8 @@
     ],
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "Is[SP]there[SP]something[SP]you[SP]wish[SP]to[SP]discuss[SP]with[SP]me?\n[1208][U+0003]Ask[SP]about[SP]the[SP]sweepstakes\nTalk[SP]with[SP]Ginko's[SP]father\nNothing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Père de Ginko",
+    "texte_fr": "Avez-vous quelque chose à me dire?\n[1208][U+0003]Parler du tirage au sort\nParler avec le père de Ginko\nRien",
     "question_orig": "Is[SP]there[SP]something[SP]you[SP]wish[SP]to[SP]discuss[SP]with[SP]me?",
     "choix_orig": [
       "[U+0003]Ask[SP]about[SP]the[SP]sweepstakes\nTalk[SP]with[SP]Ginko's[SP]father\nNothing"
@@ -276,8 +276,8 @@
     ],
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]There[SP]have[SP]been[SP]no\ndeliveries...[SP]Are[SP]you[SP]early,[SP]perhaps?[SP]Why[SP]not\ncome[SP]back[SP]after[SP]the[SP]passing[SP]of[SP]some[SP]time?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Père de Lisa",
+    "texte_fr": "Le tirage au sort, vous dites? Il n'y a pas\neu de livraison... Êtes-vous en avance?\nRevenez après quelque temps, s'il vous plaît."
   },
   {
     "id": 17,
@@ -340,8 +340,8 @@
     ],
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.[SP]Sadly,\nyou[SP]were[SP]not[SP]a[SP]winner[SP]this[SP]time.[SP]We[SP]encourage\nyou[SP]to[SP]continue[SP]entering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Père de Ginko",
+    "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien sûr.\nOn vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]> Lettre\n[1432][NULL][NULL][0014]Merci de votre participation au tirage. Hélas,\nvous n'êtes pas gagnant cette fois. Nous vous\nencourageons à continuer![1432][NULL][NULL][0014]"
   },
   {
     "id": 21,
@@ -356,8 +356,8 @@
     ],
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.\nCongratulations![SP]You[SP]have[SP]been[SP]selected[SP]as\na[SP]winner![E1][E2][E3]>[SP][1432][NULL][NULL][0014]Please[SP]accept[SP]this[SP][E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nas[SP]your[SP]prize.[SP]We[SP]encourage[SP]you[SP]to[SP]continue\nentering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014][E1][E2][E3]>[SP]You[SP]have[SP]no[SP]room[SP]for[SP]another\n[E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Père de Ginko",
+    "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien sûr.\nOn vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]> Lettre\n[1432][NULL][NULL][0014]Merci de votre participation au tirage.\nFélicitations! Vous avez été sélectionné\ncomme gagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nen guise de prix. Continuez à participer![1432][NULL][NULL][0014][E1][E2][E3]> Vous n'avez pas de place\npour un(e) autre [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]..."
   },
   {
     "id": 22,

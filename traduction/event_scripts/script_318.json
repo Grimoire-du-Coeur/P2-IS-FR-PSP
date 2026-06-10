@@ -164,8 +164,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "M. Tomi",
+    "texte_fr": "De quoi souhaitez-vous parler?\n[1208][0002]Bavarder\nParler des soins",
     "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -187,8 +187,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "All[SP]right,[SP]I'll[SP]explain[SP]my[SP]practice.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Bien, voici ma pratique."
   },
   {
     "id": 11,
@@ -202,8 +202,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Select[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]here[SP]and[SP]through[SP]the[SP]wonder[SP]of[SP]my\nmassage[SP]technique,[SP]your[SP]HP,[SP]SP,[SP]and[SP]any[SP]status\nailments[SP]will[SP]be[SP]cured.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Choisissez [1432][NULL][NULL][0014]Soigner[1432][NULL][NULL][0014] ici et grâce à ma\ntechnique de massage, vos HP, SP et\naltérations d'état seront guéris."
   },
   {
     "id": 12,
@@ -233,8 +233,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "That's[SP]about[SP]it.[SP]Would[SP]you[SP]like[SP]to[SP]experience\nmy[SP]magic[SP]fingers[SP]for[SP]yourself[SP]now?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "M. Tomi",
+    "texte_fr": "C'est à peu près tout. Voulez-vous\nexpérimenter mes doigts magiques maintenant?"
   },
   {
     "id": 14,
@@ -297,8 +297,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Le soin coûtera 1 200 yens. Voulez-vous\nquand même y aller?\n[1208][0002]Oui\nNon",
     "question_orig": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?",
     "choix_orig": [
       "Yes\nNo"
@@ -321,8 +321,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Hm?[SP]But[SP]I[SP]just[SP]treated[SP]you.[SP]You're[SP]all[SP]in\nperfect[SP]health.[1205][U+000A][SP]There's[SP]no[SP]need[SP]for[SP]me[SP]to\ndo[SP]it[SP]again.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Hm? Mais je viens de vous soigner. Vous\nêtes tous en parfaite santé.[1205][U+000A]\nInutile de recommencer."
   },
   {
     "id": 19,
@@ -473,8 +473,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "M. Tomi",
+    "texte_fr": "De quoi souhaitez-vous parler?\n[1208][0002]Bavarder\nParler des soins",
     "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -528,8 +528,8 @@
     ],
     "nom_orig": "Old[SP]man",
     "texte_orig": "What's[SP]with[SP]the[SP]people[SP]in[SP]this[SP]city?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vieil homme",
+    "texte_fr": "C'est quoi ce délire ?"
   },
   {
     "id": 31,

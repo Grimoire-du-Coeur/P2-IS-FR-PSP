@@ -12,8 +12,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Heheh...[SP]Coming[SP]to[SP]a[SP]place[SP]like[SP]this[SP]is[SP]for\nchumps.[1205][001E][SP]I[SP]naturally[SP]release[SP]pheromones[SP]called\n[1432][NULL][NULL][0014]Pheroma[SP]XX,[1432][NULL][NULL][0014][SP]so[SP]I[SP]don't[SP]need[SP]any[SP]cologne.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Héhé... Venir ici c'est pour les nuls.[1205][001E]\nJ'émets des phéromones nommées [1432][NULL][NULL][0014]Pheroma XX[1432][NULL][NULL][0014],\nj'ai pas besoin d'eau de cologne."
   },
   {
     "id": 1,
@@ -380,8 +380,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "What[SP]will[SP]it[SP]be?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Miss[SP]Kaori\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Que désirez-vous?\n[1208][U+0004]Soin\nParler\nRien\nQuitter",
     "question_orig": "What[SP]will[SP]it[SP]be?",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]Miss[SP]Kaori\nNever[SP]mind\nLeave"
@@ -404,8 +404,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "And[SP]what[SP]do[SP]you[SP]propose[SP]we[SP]speak[SP]of?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "De quoi veut-on parler?\n[1208][0002]Discuter\nRens. soin",
     "question_orig": "And[SP]what[SP]do[SP]you[SP]propose[SP]we[SP]speak[SP]of?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -427,8 +427,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Healing[SP]it[SP]is,[SP]then.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Soin alors."
   },
   {
     "id": 26,
@@ -442,8 +442,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]here,[SP]your[SP]HP,[SP]SP,[SP]and\nstatus[SP]ailments[SP]such[SP]as[SP]poison[SP]will[SP]be\nhealed[SP]through[SP]breathing[SP]in[SP]fragrances.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "En choisissant [1432][NULL][NULL][0014]Soin[1432][NULL][NULL][0014], vos PV, SP\net altérations sont soignés en\nrespirant nos parfums."
   },
   {
     "id": 27,
@@ -458,8 +458,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "It[SP]does[SP]cost[SP]you,[SP]but[SP]since[SP]the[SP]healing[SP]aromas\naffect[SP]everyone,[SP]it's[SP]cheaper[SP]in[SP]the[SP]long[SP]run.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "C'est payant, mais comme ça\nagit sur tous, c'est économique."
   },
   {
     "id": 28,
@@ -506,8 +506,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Understood.[SP]Then[SP]it[SP]will[SP]be[SP]a[SP]group[SP]rate[SP]of\n1,200[SP]yen.[SP]Is[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Compris. Ça fera 1200 yens pour\nle groupe. D'accord?\n[1208][0002]Oui\nNon",
     "question_orig": "Understood.[SP]Then[SP]it[SP]will[SP]be[SP]a[SP]group[SP]rate[SP]of\n1,200[SP]yen.[SP]Is[SP]that[SP]all[SP]right?",
     "choix_orig": [
       "Yes\nNo"
@@ -530,8 +530,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Oh,[SP]no[SP]need.[SP]You're[SP]all[SP]quite[SP]healthy[SP]already.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Inutile. Vous êtes\ndéjà tous en santé."
   },
   {
     "id": 32,
@@ -834,8 +834,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "A[SP]woman[SP]who[SP]came[SP]here[SP]said[SP]this:[SP][1432][NULL][NULL][0014]I[SP]want[SP]to[SP]be\nan[SP]adult[SP]who[SP]can[SP]still[SP]trust[SP]in[SP]youth...[1432][NULL][NULL][0014]\nWell[SP]then,[SP]may[SP]your[SP]day[SP]be[SP]a[SP]wonderful[SP]one.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Une cliente a dit: [1432][NULL][NULL][0014]Je veux être\nune adulte qui fait encore confiance\nà la jeunesse...[1432][NULL][NULL][0014] Alors, excellente journée."
   },
   {
     "id": 51,
@@ -898,8 +898,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Miss[SP]Kaori\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Besoin d'autre chose?\n[1208][U+0004]Soin\nParler\nRien\nQuitter",
     "question_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]Miss[SP]Kaori\nNever[SP]mind\nLeave"
@@ -922,8 +922,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "And[SP]what[SP]do[SP]you[SP]propose[SP]we[SP]speak[SP]of?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "De quoi veut-on parler?\n[1208][0002]Discuter\nRens. soin",
     "question_orig": "And[SP]what[SP]do[SP]you[SP]propose[SP]we[SP]speak[SP]of?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -946,8 +946,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Pardon[SP]me,[SP]but[SP]it[SP]seems[SP]you[SP]don't[SP]have[SP]enough\nmoney.[SP]Please[SP]come[SP]again.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Pardon, mais vous manquez d'argent.\nRevenez plus tard."
   },
   {
     "id": 57,
@@ -1058,8 +1058,8 @@
     ],
     "nom_orig": "Older[SP]woman",
     "texte_orig": "[1432][NULL][NULL][0014]The[SP]lion's[SP]roar[SP]echoes[SP]far[SP]and[SP]wide...[1432][NULL][NULL][0014][1205][U+000F][SP]Is[SP]that\nhow[SP]it[SP]went?[1205][U+000F][SP]Some[SP]say[SP]that[SP]passage[SP]is[SP]about\nthe[SP]Leonids...[1205][U+000F][SP]Will[SP]it[SP]come[SP]true[SP]too...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Dame âgée",
+    "texte_fr": "[1432][NULL][NULL][0014]Le rugissement du lion résonne...[1432][NULL][NULL][0014][1205][U+000F]\nC'est ça?[1205][U+000F] Certains disent que ce\npassage concerne les Léonides...[1205][U+000F]\nÇa va aussi se réaliser...?"
   },
   {
     "id": 64,

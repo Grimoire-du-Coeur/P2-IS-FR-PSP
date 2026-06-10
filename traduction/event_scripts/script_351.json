@@ -283,8 +283,8 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "But...[SP]it's[SP]King[SP]Leo's[SP]fault[SP]this[SP]is[SP]all\nhappening[SP]to[SP]begin[SP]with!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Mais... c'est la faute du Roi Lion !"
   },
   {
     "id": 18,
@@ -347,8 +347,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Welcome.[1205][U+000A][SP]Like[SP]what[SP]you[SP]see?[1205][U+000A][SP]We[SP]only[SP]carry[SP]the\nmost[SP]beautiful[SP]clothing[SP]here.[1205][U+000F][SP]So[SP]feel[SP]free[SP]to\nbuy[SP]with[SP]confidence.\n[1208][U+0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Bienvenue.[1205][U+000A] Quelque chose vous plaît ?[1205][U+000A] Nous ne proposons que\nles plus beaux vêtements.[1205][U+000F] N'hésitez pas à\nacheter en toute confiance.\n[1208][U+0006]Acheter armures\n[1210][U+036A]Acheter accessoires\nVendre objets\nPapoter\nNon\nQuitter",
     "question_orig": "Welcome.[1205][U+000A][SP]Like[SP]what[SP]you[SP]see?[1205][U+000A][SP]We[SP]only[SP]carry[SP]the\nmost[SP]beautiful[SP]clothing[SP]here.[1205][U+000F][SP]So[SP]feel[SP]free[SP]to\nbuy[SP]with[SP]confidence.",
     "choix_orig": [
       "[U+0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -419,8 +419,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Anything[SP]else?\n[1208][U+0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Autre chose ?\n[1208][U+0006]Acheter armures\n[1210][U+036A]Acheter accessoires\nVendre objets\nPapoter\nNon\nQuitter",
     "question_orig": "Anything[SP]else?",
     "choix_orig": [
       "[U+0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -698,8 +698,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "You[SP]guys[SP]should[SP]be[SP]careful[SP]too.[SP]I[SP]heard[SP]they\nshow[SP]no[SP]mercy[SP]to[SP]women[SP]and[SP]children...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Soyez prudents vous aussi. Ils n'épargnent\nni les femmes ni les enfants..."
   },
   {
     "id": 41,
@@ -777,8 +777,8 @@
     ],
     "nom_orig": "Chatty[SP]woman",
     "texte_orig": "That[SP]Masked[SP]Circle[SP]everyone's[SP]talking[SP]about\nset[SP]fire[SP]to[SP]the[SP]concert[SP]hall[SP]and[SP]police\nstation.[SP]Such[SP]a[SP]frightening[SP]group...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Bavarde",
+    "texte_fr": "Ce Cercle masqué dont tout le monde parle\na incendié la salle de concert\net le commissariat. Quel groupe effrayant..."
   },
   {
     "id": 46,
@@ -792,8 +792,8 @@
     ],
     "nom_orig": "Chatty[SP]woman",
     "texte_orig": "Did[SP]you[SP]see?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Bavarde",
+    "texte_fr": "Vous avez vu ?"
   },
   {
     "id": 47,
@@ -808,8 +808,8 @@
     ],
     "nom_orig": "Chatty[SP]woman",
     "texte_orig": "There's[SP]a[SP]hidden[SP]treasure[SP]underneath[SP]this[SP]city.\nIt[SP]says[SP]so[SP]in[SP]the[SP]In[SP]Lak'ech.[SP]I'd[SP]never[SP]heard\nabout[SP]it[SP]before[SP]now!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Bavarde",
+    "texte_fr": "Il y a un trésor caché sous cette ville.\nC'est écrit dans l'In Lak'ech. Je n'en avais\njamais entendu parler avant !"
   },
   {
     "id": 48,
@@ -935,8 +935,8 @@
     ],
     "nom_orig": "Woman?",
     "texte_orig": "Even[SP]God[SP]makes[SP]mistakes[SP]sometimes.[SP]But[SP]I\ndon't[SP]mind.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme ?",
+    "texte_fr": "Même Dieu fait des erreurs. Mais ça\nm'est égal."
   },
   {
     "id": 56,
@@ -951,8 +951,8 @@
     ],
     "nom_orig": "Woman?",
     "texte_orig": "Thanks[SP]to[SP]his[SP]power,[SP]I[SP]had[SP]my[SP]thingie[SP]removed.\nNow[SP]my[SP]heart[SP]and[SP]body[SP]are[SP]both[SP]all[SP]woman.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme ?",
+    "texte_fr": "Grâce à son pouvoir, on m'a retiré mon truc.\nMaintenant cœur et corps sont féminins."
   },
   {
     "id": 57,
@@ -998,8 +998,8 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Whether[SP]it[SP]looks[SP]good[SP]or[SP]not,[SP]I[SP]don't[SP]have\na[SP]thingie,[SP]so[SP]of[SP]course[SP]I'm[SP]a[SP]woman!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Membre du Cercle",
+    "texte_fr": "Que ça plaise ou non, je n'ai plus mon truc,\nalors je suis une femme !"
   },
   {
     "id": 60,
@@ -1045,8 +1045,8 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I'll[SP]get[SP]my[SP]revenge[SP]on[SP]all[SP]the[SP]men[SP]in[SP]the[SP]world\nby[SP]tearing[SP]their[SP]thingies[SP]out[SP]too!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Membre du Cercle",
+    "texte_fr": "Je me vengerai de tous les hommes\nen leur arrachant leur truc aussi !"
   },
   {
     "id": 63,
@@ -1148,8 +1148,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "You[SP]need[SP]me[SP]to[SP]explain[SP]how[SP]to[SP]shop?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Vous avez besoin d'explications ?"
   },
   {
     "id": 69,
@@ -1163,8 +1163,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "D'accord... Les achats d'abord. Sélectionnez [1432][NULL][NULL][0014]Acheter\narmures[1432][NULL][NULL][0014] pour acquérir nos\nmagnifiques armures."
   },
   {
     "id": 70,
@@ -1178,8 +1178,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Some[SP]armor[SP]will[SP]only[SP]fit[SP]certain[SP]individuals.\nBe[SP]sure[SP]to[SP]read[SP]the[SP]fine[SP]print[SP]before[SP]buying!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Certaines armures ne conviennent qu'à\ncertaines personnes. Lisez avant d'acheter !"
   },
   {
     "id": 71,
@@ -1193,8 +1193,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Pour vendre : [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] puis\nchoisissez le type d'objet.\nEnfin, choisissez l'objet à vendre."
   },
   {
     "id": 72,
@@ -1209,8 +1209,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "The[SP]resale[SP]price[SP]is[SP]roughly[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you're[SP]wearing,\nor[SP]certain[SP]special[SP]items.[SP]That[SP]about[SP]does[SP]it.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Le prix de revente est environ la moitié.\nVous ne pouvez pas vendre ce que vous portez\nni certains objets spéciaux. Voilà."
   },
   {
     "id": 73,
@@ -1224,8 +1224,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "You[SP]need[SP]me[SP]to[SP]explain[SP]how[SP]to[SP]shop?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Vous avez besoin d'explications ?"
   },
   {
     "id": 74,
@@ -1239,8 +1239,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "D'accord... Les achats d'abord. Sélectionnez [1432][NULL][NULL][0014]Acheter\narmures[1432][NULL][NULL][0014] pour acquérir nos\nmagnifiques armures."
   },
   {
     "id": 75,
@@ -1254,8 +1254,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Some[SP]armor[SP]will[SP]only[SP]fit[SP]certain[SP]individuals.\nBe[SP]sure[SP]to[SP]read[SP]the[SP]fine[SP]print[SP]before[SP]buying!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Certaines armures ne conviennent qu'à\ncertaines personnes. Lisez avant d'acheter !"
   },
   {
     "id": 76,
@@ -1269,8 +1269,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Apart[SP]from[SP]that,[SP]you[SP]can[SP]also[SP]buy[SP]accessories\nfrom[SP]us.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Vous pouvez aussi acheter des accessoires."
   },
   {
     "id": 77,
@@ -1299,8 +1299,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Pour vendre : [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] puis\nchoisissez le type d'objet.\nEnfin, choisissez l'objet à vendre."
   },
   {
     "id": 79,
@@ -1315,7 +1315,7 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "The[SP]resale[SP]price[SP]is[SP]roughly[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you're[SP]wearing,\nor[SP]certain[SP]special[SP]items.[SP]That[SP]about[SP]does[SP]it.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Le prix de revente est environ la moitié.\nVous ne pouvez pas vendre ce que vous portez\nni certains objets spéciaux. Voilà."
   }
 ]

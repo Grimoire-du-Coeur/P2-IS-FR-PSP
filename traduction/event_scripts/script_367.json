@@ -92,8 +92,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "H-Hey,[SP]isn't[SP]that[SP]guy[SP]over[SP]there[SP]in[SP]the[SP]Masked\nCircle?[SP][1432][NULL][NULL][0014]New[SP]executive[1432][NULL][NULL][0014]?[SP]What's[SP]he[SP]mean?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "H-Hey, ce type là-bas est dans le Cercle\nMasqué? [1432][NULL][NULL][0014]Nouveau dirigeant[1432][NULL][NULL][0014]?"
   },
   {
     "id": 6,
@@ -956,8 +956,8 @@
     ],
     "nom_orig": "Tailor",
     "texte_orig": "Welcome[SP]to[SP]London[SP]Clothier,[SP]inheritor[SP]of[SP]the\nfinest[SP]traditions[SP]of[SP]England.\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]tailor\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Tailleur",
+    "texte_fr": "Bienvenue chez London Clothier,\nhéritier des traditions d'Angleterre.\n[1208][U+0005]Acheter armures\nVendre objets\nParler\nLaisser tomber\nQuitter",
     "question_orig": "Welcome[SP]to[SP]London[SP]Clothier,[SP]inheritor[SP]of[SP]the\nfinest[SP]traditions[SP]of[SP]England.",
     "choix_orig": [
       "[U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]tailor\nNever[SP]mind\nLeave"
@@ -1028,8 +1028,8 @@
     ],
     "nom_orig": "Tailor",
     "texte_orig": "If[SP]I[SP]can[SP]help[SP]you[SP]with[SP]anything[SP]else[SP]at[SP]all,\nplease[SP]don't[SP]hesitate[SP]to[SP]ask.\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]tailor\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Tailleur",
+    "texte_fr": "Si je puis vous être utile, dites-le.\n[1208][U+0005]Acheter armures\nVendre objets\nParler\nLaisser tomber\nQuitter",
     "question_orig": "If[SP]I[SP]can[SP]help[SP]you[SP]with[SP]anything[SP]else[SP]at[SP]all,\nplease[SP]don't[SP]hesitate[SP]to[SP]ask.",
     "choix_orig": [
       "[U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]tailor\nNever[SP]mind\nLeave"
@@ -1164,8 +1164,8 @@
     ],
     "nom_orig": "Tailor",
     "texte_orig": "I'm[SP]surprised[SP]these[SP]terrorists[SP]are[SP]targeting\nour[SP]fair[SP]city.[SP]Rumor[SP]is,[SP]it[SP]was[SP]these[SP][1432][NULL][NULL][0014]Masked\nCircle[1432][NULL][NULL][0014][SP]beasts...[1205][U+000F][SP]There's[SP]one[SP]in[SP]every[SP]nation.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tailleur",
+    "texte_fr": "Je suis surpris que des terroristes ciblent\nnotre ville. La rumeur dit que c'était\nle [1432][NULL][NULL][0014]Cercle Masqué[1432][NULL][NULL][0014]...[1205][U+000F] Il y en a partout."
   },
   {
     "id": 70,
@@ -1404,8 +1404,8 @@
     ],
     "nom_orig": "Tailor",
     "texte_orig": "All[SP]told,[SP]that[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]satisfactory?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Tailleur",
+    "texte_fr": "En tout, cela fera [120E][NULL] yens.\nCela vous convient?\n[1208][0002]Oui\nNon",
     "question_orig": "All[SP]told,[SP]that[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]satisfactory?",
     "choix_orig": [
       "Yes\nNo"
@@ -1427,8 +1427,8 @@
     ],
     "nom_orig": "Tailor",
     "texte_orig": "Now[SP]then,[SP]about[SP]buying[SP]and[SP]selling...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tailleur",
+    "texte_fr": "Bien, parlons achats et ventes..."
   },
   {
     "id": 86,
@@ -1472,8 +1472,8 @@
     ],
     "nom_orig": "Tailor",
     "texte_orig": "Next,[SP]selling.[SP]If[SP]you[SP]choose[SP][1432][NULL][NULL][0014]Sell[SP]items,[1432][NULL][NULL][0014]\nyou[SP]may[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tailleur",
+    "texte_fr": "Pour vendre, choisissez [1432][NULL][NULL][0014]Vendre des objets,[1432][NULL][NULL][0014]\npuis un type d'objet."
   },
   {
     "id": 89,
@@ -1487,8 +1487,8 @@
     ],
     "nom_orig": "Tailor",
     "texte_orig": "After[SP]that,[SP]choose[SP]a[SP]particular[SP]item[SP]and[SP]I'll\nbuy[SP]it[SP]at[SP]roughly[SP]half[SP]its[SP]original[SP]price.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tailleur",
+    "texte_fr": "Choisissez un objet et je l'achèterai\nà environ la moitié du prix."
   },
   {
     "id": 90,
@@ -1503,7 +1503,7 @@
     ],
     "nom_orig": "Tailor",
     "texte_orig": "I[SP]won't[SP]buy[SP]anything[SP]you're[SP]wearing,[SP]and[SP]I\nwon't[SP]buy[SP]anything[SP]that[SP]seems[SP]too[SP]dear[SP]to[SP]you.\nI[SP]believe[SP]that[SP]covers[SP]everything.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tailleur",
+    "texte_fr": "Je n'achète pas ce que vous portez\nni ce qui vous est précieux.\nJe crois que cela couvre tout."
   }
 ]

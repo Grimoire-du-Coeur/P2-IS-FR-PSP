@@ -59,8 +59,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "It[SP]won't[SP]matter[SP]anyway[SP]if[SP]we[SP]stop[SP]Jun's[SP]dad.[1205][U+000F]\nLet's[SP]just[SP]keep[SP]quiet[SP]about[SP]it.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Si on arrête le père de Jun, peu importe.[1205][U+000F]\nGardons ça pour nous."
   },
   {
     "id": 4,
@@ -203,8 +203,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "I[SP]wonder[SP]what[SP]Brown-san[SP]meant[SP]by[SP][1432][NULL][NULL][0014]tin[SP]men[1432][NULL][NULL][0014]...[1205][U+000F]\nDoes[SP]he[SP]know[SP]something...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Que veut dire Brown par [1432][NULL][NULL][0014]hommes de fer[1432][NULL][NULL][0014]...[1205][U+000F]\nIl saurait quelque chose ?"
   },
   {
     "id": 13,
@@ -250,8 +250,8 @@
     ],
     "nom_orig": "Jun",
     "texte_orig": "What's[SP]this[SP]feeling...?[1205][U+000F][SP]The[SP]Persona[SP]Yukino-san\ngave[SP]me[SP]is[SP]resonating...[1205][U+000F][SP]It's[SP]as[SP]if[SP]they're\ncalling[SP]to[SP]each[SP]other...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Qu'est-ce que c'est... ?[1205][U+000F] La Persona de\nYukino-san résonne...[1205][U+000F] Comme si elles\nse répondaient..."
   },
   {
     "id": 16,
@@ -298,8 +298,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "Welcome,[SP]Mister![SP]I'm[SP]a[SP]good[SP]exchange[SP]student.\nI[SP]make[SP]the[SP]accessories[SP]and[SP]for[SP]my[SP]living,\nI[SP]sell[SP]them.\n[1208][U+0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Tony",
+    "texte_fr": "Bienvenue ! Je suis étudiant étranger.\nJe fabrique des accessoires et les vends.\n[1208][U+0006][1210][U+03BB]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter",
     "question_orig": "Welcome,[SP]Mister![SP]I'm[SP]a[SP]good[SP]exchange[SP]student.\nI[SP]make[SP]the[SP]accessories[SP]and[SP]for[SP]my[SP]living,\nI[SP]sell[SP]them.",
     "choix_orig": [
       "[U+0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -370,8 +370,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "Haha,[SP]I'm[SP]a[SP]smuggler[SP]for[SP]the[SP]Silician[SP]Mafia.\nBut[SP]tell[SP]me,[SP]what's[SP]this[SP]they[SP]call[SP]a[SP]Silician\nMafia?[SP]Anyway,[SP]you[SP]want[SP]the[SP]weapons?\n[1208][U+0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Tony",
+    "texte_fr": "Haha, je suis passeur pour la Mafia sicilienne.\nMais dis-moi, c'est quoi cette Mafia\nsicilienne ? Enfin bon, tu veux des armes ?\n[1208][U+0006][1210][U+03BB]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter",
     "question_orig": "Haha,[SP]I'm[SP]a[SP]smuggler[SP]for[SP]the[SP]Silician[SP]Mafia.\nBut[SP]tell[SP]me,[SP]what's[SP]this[SP]they[SP]call[SP]a[SP]Silician\nMafia?[SP]Anyway,[SP]you[SP]want[SP]the[SP]weapons?",
     "choix_orig": [
       "[U+0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -442,8 +442,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "Okay,[SP]good,[SP]okay.[SP]You[SP]wanna[SP]anything[SP]else?\n[1208][U+0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Tony",
+    "texte_fr": "Okay, bien. Tu veux autre chose ?\n[1208][U+0006][1210][U+03BB]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter",
     "question_orig": "Okay,[SP]good,[SP]okay.[SP]You[SP]wanna[SP]anything[SP]else?",
     "choix_orig": [
       "[U+0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -514,8 +514,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "The[SP]city,[SP]how's[SP]it[SP]fly?[1205][U+000F][SP]I[SP]don'a[SP]think[SP]that[SP]kinda\nthing[SP]is[SP]possible![1205][U+000F][SP]I[SP]think[SP]I'ma[SP]gonna[SP]faint.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tony",
+    "texte_fr": "La ville vole ?[1205][U+000F] Pas possible !\n[1205][U+000F] Je crois que je vais m'évanouir."
   },
   {
     "id": 28,
@@ -754,8 +754,8 @@
     ],
     "nom_orig": "???",
     "texte_orig": "Though[SP]you[SP]already[SP]know[SP]who[SP]I[SP]am,[SP]right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "???",
+    "texte_fr": "Tu sais déjà qui je suis, non ?\n[1208][0002]Oui\nNon",
     "question_orig": "Though[SP]you[SP]already[SP]know[SP]who[SP]I[SP]am,[SP]right?",
     "choix_orig": [
       "Yes\nNo"
@@ -778,8 +778,8 @@
     ],
     "nom_orig": "???",
     "texte_orig": "'Course[SP]you[SP]do![SP]Everyone[SP]with[SP]a[SP]pulse[SP]these\ndays[SP]knows[SP]me,[SP]Brown,[SP]the[SP]hardest-working[SP]man\nin[SP]Japanese[SP]show[SP]business.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "???",
+    "texte_fr": "Bien sûr ! Tout le monde aujourd'hui me connaît,\nBrown, l'homme le plus bosseur du\nshow-biz japonais."
   },
   {
     "id": 44,
@@ -953,8 +953,8 @@
     ],
     "nom_orig": "Brown",
     "texte_orig": "Looks[SP]like[SP]they're[SP]still[SP]having[SP]it[SP]out[SP]inside\nthat[SP]temple.[1205][U+000F]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Brown",
+    "texte_fr": "On dirait qu'ils se battent encore\ndans ce temple.[1205][U+000F]"
   },
   {
     "id": 55,
@@ -969,8 +969,8 @@
     ],
     "nom_orig": "Brown",
     "texte_orig": "If[SP]we[SP]don't[SP]hurry[SP]and[SP]do[SP]something,[SP]those\ntin[SP]men[SP]are[SP]gonna[SP]kill[SP]somebody.[1205][U+000F][SP]Now,[SP]what\nto[SP]do...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Brown",
+    "texte_fr": "Si on n'agit pas vite, ces hommes de fer\nvont tuer quelqu'un.[1205][U+000F] Alors, que faire..."
   },
   {
     "id": 56,
@@ -1032,8 +1032,8 @@
     ],
     "nom_orig": "Maki",
     "texte_orig": "You[SP]should[SP]go[SP]do[SP]what[SP]you[SP]need[SP]to[SP]do[SP]in[SP]the\ntemples.[SP]We[SP]can't[SP]let[SP]them[SP]fulfill[SP]that[SP]Oracle.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maki",
+    "texte_fr": "Va faire ce qu'il faut dans les temples.\nIls ne doivent pas accomplir l'Oracle."
   },
   {
     "id": 60,
@@ -1064,8 +1064,8 @@
     ],
     "nom_orig": "Maki",
     "texte_orig": "Do[SP]you[SP]want[SP]it?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Maki",
+    "texte_fr": "Tu la veux ?\n[1208][0002]Oui\nNon",
     "question_orig": "Do[SP]you[SP]want[SP]it?",
     "choix_orig": [
       "Yes\nNo"
@@ -1088,8 +1088,8 @@
     ],
     "nom_orig": "Maki",
     "texte_orig": "A[SP]legendary[SP]flower?[1205][U+000F][SP]This?[1205][U+000F][SP]Huh...[SP]It[SP]doesn't\nlook[SP]like[SP]it...[1205][U+000F][SP]But[SP]stranger[SP]things[SP]have\nhappened.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maki",
+    "texte_fr": "Une fleur légendaire ?[1205][U+000F] Celle-là ?[1205][U+000F] Hmm...\nElle n'en a pas l'air...[1205][U+000F] Mais bon."
   },
   {
     "id": 63,
@@ -1191,8 +1191,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "Okay,[SP]I[SP]tell[SP]you[SP]about[SP]the[SP]shopping.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tony",
+    "texte_fr": "Voyons les achats."
   },
   {
     "id": 69,
@@ -1206,8 +1206,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "First,[SP]how[SP]to[SP]buy[SP]my[SP]things.[SP]You[SP]gotta[SP]start\nby[SP]choosing[SP][1432][NULL][NULL][0014]Buy[SP]accessories.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tony",
+    "texte_fr": "Pour les accessoires, commence\npar choisir [1432][NULL][NULL][0014]Accessoires.[1432][NULL][NULL][0014]"
   },
   {
     "id": 70,
@@ -1221,8 +1221,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "But[SP]notta[SP]everybody[SP]can[SP]wear[SP]all[SP]the[SP]things,\ncapisce?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tony",
+    "texte_fr": "Mais tout le monde peut pas tout porter,\ncapisce ?"
   },
   {
     "id": 71,
@@ -1267,8 +1267,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "That's[SP]about[SP]it.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tony",
+    "texte_fr": "Voilà tout."
   },
   {
     "id": 74,
@@ -1282,8 +1282,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "Okay,[SP]I[SP]tell[SP]you[SP]about[SP]the[SP]shopping.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tony",
+    "texte_fr": "Voyons les achats."
   },
   {
     "id": 75,
@@ -1297,8 +1297,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "First,[SP]how[SP]you[SP]buy.[SP]You[SP]choose[SP][1432][NULL][NULL][0014]Buy[SP]weapons,[1432][NULL][NULL][0014]\nyou[SP]can[SP]buy[SP]some'a[SP]my[SP]weapons.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tony",
+    "texte_fr": "D'abord, tu choisis [1432][NULL][NULL][0014]Armes,[1432][NULL][NULL][0014]\npour acheter des armes."
   },
   {
     "id": 76,
@@ -1312,8 +1312,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "Alla[SP]you[SP]use[SP]different[SP]kindsa[SP]weapons,[SP]so[SP]look\nclose[SP]before[SP]you[SP]buy.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tony",
+    "texte_fr": "Vous utilisez différentes armes,\nregarde bien avant d'acheter."
   },
   {
     "id": 77,
@@ -1327,8 +1327,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "First,[SP]how[SP]to[SP]buy[SP]my[SP]things.[SP]You[SP]gotta[SP]start\nby[SP]choosing[SP][1432][NULL][NULL][0014]Buy[SP]accessories.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tony",
+    "texte_fr": "Pour les accessoires, commence\npar choisir [1432][NULL][NULL][0014]Accessoires.[1432][NULL][NULL][0014]"
   },
   {
     "id": 78,
@@ -1342,8 +1342,8 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "But[SP]notta[SP]everybody[SP]can[SP]wear[SP]all[SP]the[SP]things,\ncapisce?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tony",
+    "texte_fr": "Mais tout le monde peut pas tout porter,\ncapisce ?"
   },
   {
     "id": 79,
@@ -1388,7 +1388,7 @@
     ],
     "nom_orig": "Tony",
     "texte_orig": "That's[SP]about[SP]it.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tony",
+    "texte_fr": "Voilà tout."
   }
 ]

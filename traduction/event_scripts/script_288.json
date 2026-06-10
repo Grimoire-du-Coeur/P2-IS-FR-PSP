@@ -204,8 +204,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#13![1205][001E][SP][1432][NULL][NULL][0014]Ng[SP]Hai[1432][NULL][NULL][0014][SP]means...[1205][U+000F]\nWell,[SP]it's[SP]kind[SP]of[SP]like,[SP][1432][NULL][NULL][0014]No[SP]no[SP]no[SP]no![1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Leçon de cantonais n°13 ![1205][001E] [1432][NULL][NULL][0014]Ng Hai[1432][NULL][NULL][0014] veut\ndire...[1205][U+000F] En gros, c'est [1432][NULL][NULL][0014]Non non non ![1432][NULL][NULL][0014]"
   },
   {
     "id": 13,
@@ -476,8 +476,8 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "[1432][NULL][NULL][0014]Time[SP]cannot[SP]be[SP]stopped.[SP]The[SP]past[SP]you've[SP]lost\ncannot[SP]be[SP]reclaimed,[1432][NULL][NULL][0014][SP]huh...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "[1432][NULL][NULL][0014]Le temps ne s'arrête pas. Le passé\nperdu ne peut être récupéré,[1432][NULL][NULL][0014] hein...?"
   },
   {
     "id": 30,
@@ -620,8 +620,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Is[SP]there[SP]anything[SP]else?\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Comte",
+    "texte_fr": "Autre chose ?\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets\nParler au Comte\nRien\nQuitter",
     "question_orig": "Is[SP]there[SP]anything[SP]else?",
     "choix_orig": [
       "[U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -1220,8 +1220,8 @@
     ],
     "nom_orig": "Nouveau-riche[SP]woman",
     "texte_orig": "[1432][NULL][NULL][0014]He[1432][NULL][NULL][0014]...?[1205][U+000F][SP]O-Oh[SP]yes,[SP]Takeshi...[1205][U+000F][SP]H-Haha...[SP]How\ncould[SP]I[SP]forget[SP]my[SP]own[SP]son's[SP]name...?[1205][U+000F][SP]I[SP]think\nI'm[SP]a[SP]little[SP]drunk[SP]off[SP]this[SP]sudden[SP]fortune.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Nouvelle riche",
+    "texte_fr": "[1432][NULL][NULL][0014]Il[1432][NULL][NULL][0014]... ?[1205][U+000F] O-Oh oui, Takeshi...[1205][U+000F] H-Haha... Comment\noublier le nom de mon fils... ?[1205][U+000F] Je crois que\nje suis un peu ivre de cette fortune."
   },
   {
     "id": 75,
@@ -1492,8 +1492,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Welcome[SP]to[SP]Time[SP]Castle...[1205][U+000A][SP]The[SP]onrush[SP]of[SP]time[SP]is\nswift[SP]and[SP]unceasing.[1205][U+000A][SP]Now,[SP]state[SP]your[SP]business.\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Comte",
+    "texte_fr": "Bienvenue au Time Castle...[1205][U+000A] Le temps\ns'écoule rapidement et sans cesse.[1205][U+000A]\nMaintenant, que voulez-vous ?\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets\nParler au Comte\nRien\nQuitter",
     "question_orig": "Welcome[SP]to[SP]Time[SP]Castle...[1205][U+000A][SP]The[SP]onrush[SP]of[SP]time[SP]is\nswift[SP]and[SP]unceasing.[1205][U+000A][SP]Now,[SP]state[SP]your[SP]business.",
     "choix_orig": [
       "[U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -1603,8 +1603,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "You[SP]want[SP]to[SP]hear[SP]about[SP]buying[SP]and[SP]selling?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Vous voulez des infos sur les achats ?"
   },
   {
     "id": 97,
@@ -1618,8 +1618,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "I'll[SP]explain[SP]first[SP]how[SP]to[SP]buy[SP]items.[SP]Select,\nfor[SP]example,[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can\npurchase[SP]that[SP]category[SP]of[SP]item.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Pour acheter, choisissez par exemple\n[1432][NULL][NULL][0014]Acheter accessoires[1432][NULL][NULL][0014] et vous\npourrez acheter cette catégorie."
   },
   {
     "id": 98,
@@ -1633,8 +1633,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Certain[SP]things[SP]can[SP]only[SP]be[SP]equipped[SP]by[SP]certain\nindividuals.[SP]Make[SP]sure[SP]you[SP]check[SP]these\nconditions[SP]before[SP]making[SP]your[SP]purchase.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Certaines choses ne peuvent être équipées\nque par certains. Vérifiez bien\nces conditions avant d'acheter."
   },
   {
     "id": 99,
@@ -1648,8 +1648,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Next,[SP]selling[SP]items.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and\nyou[SP]can[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Select\nan[SP]item[SP]type[SP]and[SP]then[SP]decide[SP]what[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Pour vendre, choisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014]\npour choisir le type d'objet.\nSélectionnez un type puis quoi vendre."
   },
   {
     "id": 100,
@@ -1664,8 +1664,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "The[SP]resale[SP]price[SP]is[SP]about[SP]50%[SP]of[SP]the[SP]original\nprice.[SP]Equipped[SP]items[SP]and[SP]certain[SP]special[SP]items\ncannot[SP]be[SP]sold.[SP]That[SP]should[SP]cover[SP]it,[SP]I[SP]think.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Le prix de revente est d'environ 50%\ndu prix initial. Les objets équipés et\nspéciaux ne peuvent être vendus. C'est tout."
   },
   {
     "id": 101,
@@ -1679,8 +1679,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "You[SP]want[SP]to[SP]hear[SP]about[SP]buying[SP]and[SP]selling?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Vous voulez des infos sur les achats ?"
   },
   {
     "id": 102,
@@ -1694,8 +1694,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "I'll[SP]explain[SP]first[SP]how[SP]to[SP]buy[SP]items.[SP]Select,\nfor[SP]example,[SP][1432][NULL][NULL][0014]Buy[SP]weapons[1432][NULL][NULL][0014][SP]at[SP]my[SP]store[SP]to\npurchase[SP]weapons.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Pour acheter, choisissez par exemple\n[1432][NULL][NULL][0014]Acheter armes[1432][NULL][NULL][0014] chez moi\npour acheter des armes."
   },
   {
     "id": 103,
@@ -1724,8 +1724,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Select[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase\naccessories.[SP]Again,[SP]certain[SP]things[SP]can[SP]only[SP]be\nequipped[SP]by[SP]certain[SP]individuals.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter accessoires[1432][NULL][NULL][0014] pour les\naccessoires. Là encore, certains objets ne\nsont équipables que par certains."
   },
   {
     "id": 105,
@@ -1739,8 +1739,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Next,[SP]selling[SP]items.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and\nyou[SP]can[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Select\nan[SP]item[SP]type[SP]and[SP]then[SP]decide[SP]what[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Pour vendre, choisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014]\npour choisir le type d'objet.\nSélectionnez un type puis quoi vendre."
   },
   {
     "id": 106,
@@ -1755,7 +1755,7 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "The[SP]resale[SP]price[SP]is[SP]about[SP]50%[SP]of[SP]the[SP]original\nprice.[SP]Equipped[SP]items[SP]and[SP]certain[SP]special[SP]items\ncannot[SP]be[SP]sold.[SP]That[SP]should[SP]cover[SP]it,[SP]I[SP]think.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Le prix de revente est d'environ 50%\ndu prix initial. Les objets équipés et\nspéciaux ne peuvent être vendus. C'est tout."
   }
 ]

@@ -140,8 +140,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "You've[SP]come...[SP]What[SP]business[SP]do[SP]you[SP]have[SP]with\nus[SP]today?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Vous êtes là... Que vous amène\naujourd'hui ?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\nQuitter l'agence",
     "question_orig": "You've[SP]come...[SP]What[SP]business[SP]do[SP]you[SP]have[SP]with\nus[SP]today?",
     "choix_orig": [
       "[U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency"
@@ -188,8 +188,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Anything[SP]else?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Autre chose ?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\nQuitter l'agence",
     "question_orig": "Anything[SP]else?",
     "choix_orig": [
       "[U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency"
@@ -236,8 +236,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "The[SP]Masked[SP]Circle...[1205][U+000F][SP]Could[SP]this[SP]be[SP]the\nPhantom...?[1205][U+000F][SP]No...[SP]It[SP]can't[SP]be...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Le Cercle masqué...[1205][U+000F] Serait-ce le\nFantôme... ?[1205][U+000F] Non... Impossible..."
   },
   {
     "id": 13,
@@ -284,8 +284,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "100 yens svp, miaou[1432][NULL][NULL][U+0007]\n100 yens svp, miaou[1432][NULL][NULL][U+0007]\n100 yens svp, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 16,
@@ -300,8 +300,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n[1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Statue de chat",
+    "texte_fr": "100 yens svp, miaou[1432][NULL][NULL][U+0007]\n[1208][0002]Donner 100 yens\nNe rien donner",
     "question_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]",
     "choix_orig": [
       "Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything"
@@ -324,8 +324,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Oh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][U+0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][U+0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Oh, t'es fauché, miaou[1432][NULL][NULL][U+0007]\nQui vole un œuf vole un bœuf, miaou[1432][NULL][NULL][U+0007]\nVa-t'en d'ici, fsssh[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 18,
@@ -340,8 +340,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][U+0007][1205][U+000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Ronron... C'est beau[1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 20 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nJ'en veux encore, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 19,
@@ -356,8 +356,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Meowvelous![1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][U+0007][1205][U+000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Miaourveilleux ![1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 50 fois, ronron[1432][NULL][NULL][U+0007][1205][U+000F]\nTu es si généreux, Monsieur[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 20,
@@ -372,8 +372,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Amazing,[SP]meow![1205][U+000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Superbe, miaou ![1205][U+000F]\nTu m'as nourri 80 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nT'as une idée en tête, miaou ?"
   },
   {
     "id": 21,
@@ -403,8 +403,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "I[SP]feel[SP]bad[SP]at[SP]being[SP]given[SP]so[SP]much,[SP]meow![1205][U+000F]\nSo[SP]I[SP]have[SP]a[SP]purresent[SP]for[SP]you!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Désolé de tant recevoir, miaou ![1205][U+000F]\nAlors voici un chadeau pour toi !"
   },
   {
     "id": 23,
@@ -435,8 +435,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Thank[SP]you,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Merci, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 25,
@@ -515,8 +515,8 @@
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Tamaki",
+    "texte_fr": "Salut ! Que puis-je pour vous ?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\nQuitter l'agence",
     "question_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?",
     "choix_orig": [
       "[U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency"
@@ -563,8 +563,8 @@
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Oh,[SP]did[SP]you[SP]check[SP]the[SP]ones[SP]you[SP]entered[SP]last\ntime?[SP]You[SP]get[SP]the[SP]prizes[SP]at[SP]Lisa-chan's[SP]house,\nso[SP]come[SP]back[SP]after[SP]you've[SP]seen[SP]if[SP]you[SP]won.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "As-tu vérifié tes dernières participations ?\nLes prix arrivent chez Lisa-chan,\nreviens quand tu auras vu si tu as gagné."
   },
   {
     "id": 32,
@@ -611,8 +611,8 @@
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Are[SP]you[SP]sure?\n[1208][0002]Yes\nNever[SP]mind",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Tamaki",
+    "texte_fr": "Sûr(e) ?\n[1208][0002]Oui\nAnnuler",
     "question_orig": "Are[SP]you[SP]sure?",
     "choix_orig": [
       "Yes\nNever[SP]mind"
@@ -635,8 +635,8 @@
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Gotcha![SP]I'll[SP]take[SP]care[SP]of[SP]sending[SP]them[SP]in.\nHope[SP]you[SP]win[SP]something!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tamaki",
+    "texte_fr": "Pigé ! Je les envoie.\nJ'espère que tu vas gagner !"
   },
   {
     "id": 36,
@@ -795,8 +795,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "That[SP]door[SP]doesn't[SP]open,[SP]meow[1432][NULL][NULL][U+0007]\nYou[SP]should[SP]stop[SP]trying,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "La porte est close, miaou[1432][NULL][NULL][U+0007]\nInutile d'essayer, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 46,
@@ -851,8 +851,8 @@
     ],
     "nom_orig": "Tadashi",
     "texte_orig": "Hehehe...[SP]What[SP]can[SP]I[SP]say?[SP]I'm[SP]a[SP]red-blooded\nmale[SP]and[SP]a[SP]sucker[SP]for[SP]cute[SP]girls.[SP]I[SP]hope[SP]they\nreveal[SP]the[SP]third[SP]girl[SP]soon...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Tadashi",
+    "texte_fr": "Héhéhé... Que dire ? J'adore les jolies\nfilles. J'espère qu'ils révéleront la\ntroisième bientôt..."
   },
   {
     "id": 49,
@@ -1266,8 +1266,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Want[SP]the[SP]lowdown[SP]on[SP]rumors?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Savoir sur les rumeurs ?"
   },
   {
     "id": 75,
@@ -1281,8 +1281,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Ask[SP]me[SP]to[SP]spread[SP]a[SP]rumor[SP]of[SP]your[SP]choice[SP]and\nI'll[SP]do[SP]it.[SP]Not[SP]for[SP]free,[SP]mind[SP]you.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Demandez-moi d'en répandre une.\nCe n'est pas gratuit."
   },
   {
     "id": 76,
@@ -1296,8 +1296,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "You'll[SP]need[SP]to[SP]bring[SP]me[SP]rumors[SP]you[SP]hear[SP]from\nrumormongers.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Apportez-moi les rumeurs des lanceurs."
   },
   {
     "id": 77,
@@ -1311,8 +1311,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "There[SP]are[SP]rumormongers[SP]everywhere[SP]in[SP]Sumaru.\nDig[SP]a[SP]little,[SP]and[SP]you'll[SP]find[SP]them.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Il y a des lanceurs partout\ndans Sumaru. Cherchez bien."
   },
   {
     "id": 78,
@@ -1326,8 +1326,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "You[SP]can[SP]remind[SP]yourself[SP]which[SP]rumors[SP]are\nalready[SP]circulating[SP]by[SP]asking[SP]me[SP]to[SP]check\nrumors.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Pour savoir quelles rumeurs\ncirculent, demandez-moi de vérifier."
   },
   {
     "id": 79,
@@ -1342,8 +1342,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Not[SP]only[SP]can[SP]you[SP]remember[SP]which[SP]rumors[SP]I've\nbeen[SP]putting[SP]out[SP]there[SP]for[SP]you,[SP]you[SP]can[SP]see\nwhich[SP]ones[SP]demons[SP]are[SP]spreading.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Vous verrez les rumeurs que j'ai\nlancées, et celles des démons."
   },
   {
     "id": 80,

@@ -344,8 +344,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "Hmmm.[SP]If[SP]you[SP]say[SP]so,[SP]I[SP]guess[SP]I[SP]can[SP]live[SP]with\nthese.[1205][001E][SP]Hey,[SP]wait[SP]a[SP]sec...[1205][001E][SP]Eyes[SP]up,[SP]mister!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Hmmm. Si tu le dis, je fais avec.\n[1205][001E] Hé, attends...[1205][001E] Regarde\nhaut, monsieur!"
   },
   {
     "id": 21,
@@ -440,8 +440,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "That[SP]teacher[SP]looked[SP]at[SP]the[SP]concert[SP]hall[SP]and\nsaid,[SP][1432][NULL][NULL][0014]foreign[SP]song[SP]ensue.[1432][NULL][NULL][0014][SP]Didn't[SP]Prince\nTaurus[SP]say[SP]something[SP]like[SP]that?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "La prof a regardé la salle et\na dit [1432][NULL][NULL][0014]foreign song ensue.[1432][NULL][NULL][0014].\nLe Prince Taureau n'a pas dit un\ntruc du genre?"
   },
   {
     "id": 27,
@@ -600,8 +600,8 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "What[SP]was[SP]it[SP]that[SP]teacher[SP]mistook[SP]us[SP]for?[1205][U+000A]\nI[SP]heard[SP]her[SP]say[SP][1432][NULL][NULL][0014]Last[1432][NULL][NULL][0014][SP]something...[1205][U+000F][SP]Didn't\nring[SP]any[SP]bells.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Pourquoi la prof nous a-t-elle pris?[1205][U+000A]\nElle a dit [1432][NULL][NULL][0014]Last[1432][NULL][NULL][0014] un truc...[1205][U+000F]\nÇa me dit rien du tout."
   },
   {
     "id": 37,
@@ -696,8 +696,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Now,[SP]where[SP]shall[SP]I[SP]relieve[SP]your[SP]tension[SP]today?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Où soulager vos tensions aujourd'hui?\n[1208][U+0004]Soin\nParler\nRien\nQuitter",
     "question_orig": "Now,[SP]where[SP]shall[SP]I[SP]relieve[SP]your[SP]tension[SP]today?",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -720,8 +720,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "M. Tomi",
+    "texte_fr": "De quoi veut-on parler?\n[1208][0002]Discuter\nRens. soin",
     "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -743,8 +743,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "All[SP]right,[SP]I'll[SP]explain[SP]my[SP]practice.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Très bien, voici ma méthode."
   },
   {
     "id": 45,
@@ -758,8 +758,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Select[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]here[SP]and[SP]through[SP]the[SP]wonder[SP]of[SP]my\nmassage[SP]technique,[SP]your[SP]HP,[SP]SP,[SP]and[SP]any[SP]status\nailments[SP]will[SP]be[SP]cured.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Sélectionnez [1432][NULL][NULL][0014]Soin[1432][NULL][NULL][0014] et grâce à ma\ntechnique de massage, vos PV, SP\net altérations seront guéris."
   },
   {
     "id": 46,
@@ -773,8 +773,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "My[SP]services[SP]are[SP]not[SP]cheap,[SP]but[SP]since[SP]they[SP]affect\neveryone,[SP]it'll[SP]save[SP]you[SP]money[SP]in[SP]the[SP]long[SP]run.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Mes services sont chers, mais comme\nça agit sur tous, c'est économique."
   },
   {
     "id": 47,
@@ -789,8 +789,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "That's[SP]about[SP]it.[SP]Would[SP]you[SP]like[SP]to[SP]experience\nmy[SP]magic[SP]fingers[SP]for[SP]yourself[SP]now?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "M. Tomi",
+    "texte_fr": "C'est tout. Voulez-vous tester\nmes doigts magiques maintenant?"
   },
   {
     "id": 48,
@@ -837,8 +837,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Le soin coûtera 1200 yens.\nVous voulez le faire?\n[1208][0002]Oui\nNon",
     "question_orig": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?",
     "choix_orig": [
       "Yes\nNo"
@@ -861,8 +861,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Hm?[SP]But[SP]I[SP]just[SP]treated[SP]you.[SP]You're[SP]all[SP]in\nperfect[SP]health.[1205][U+000A][SP]There's[SP]no[SP]need[SP]for[SP]me[SP]to\ndo[SP]it[SP]again.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Hm? Mais je viens de vous\nsoigner. Vous êtes en parfaite\nsanté.[1205][U+000A] Inutile\nde recommencer."
   },
   {
     "id": 52,
@@ -1213,8 +1213,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Autre chose?\n[1208][U+0004]Soin\nParler\nRien\nQuitter",
     "question_orig": "Anything[SP]else?",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -1237,8 +1237,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "M. Tomi",
+    "texte_fr": "De quoi veut-on parler?\n[1208][0002]Discuter\nRens. soin",
     "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -1261,8 +1261,8 @@
     ],
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Come[SP]again[SP]if[SP]you[SP]ever[SP]get[SP]tired.[1205][U+000A]\nThere's[SP]nothing[SP]these[SP]fingers[SP]can't[SP]cure![1205][U+000F]\nMagic[SP]fingers!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "M. Tomi",
+    "texte_fr": "Revenez si vous êtes fatigué.\n[1205][U+000A] Rien ne résiste à\nmes doigts![1205][U+000F] Doigts magiques!"
   },
   {
     "id": 76,

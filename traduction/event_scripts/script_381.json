@@ -28,8 +28,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Welcome,[SP]meow[1432][NULL][NULL][U+0007]\nWelcome,[SP]meow[1432][NULL][NULL][U+0007]\nWelcome,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Salut, miaou[1432][NULL][NULL][U+0007]\nSalut, miaou[1432][NULL][NULL][U+0007]\nSalut, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 2,
@@ -316,8 +316,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Order[SP]is[SP]important[SP]no[SP]matter[SP]what[SP]you're[SP]trying\nto[SP]accomplish.[SP]We[SP]do[SP]things[SP]by[SP]the[SP]book[SP]here.\n[1208][U+0004]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "L'ordre est important. Ici, on suit les règles.\n[1208][U+0004]Propager rumeurs\nVérifier rumeurs\nParler\nAnnuler",
     "question_orig": "Order[SP]is[SP]important[SP]no[SP]matter[SP]what[SP]you're[SP]trying\nto[SP]accomplish.[SP]We[SP]do[SP]things[SP]by[SP]the[SP]book[SP]here.",
     "choix_orig": [
       "[U+0004]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel"
@@ -340,8 +340,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "De quoi voulez-vous parler ?\n[1208][U+0003]Parler\nInfos rumeurs\n[1210][NULL]Sélection non affichée",
     "question_orig": "What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210]Non-displayed[SP]selection"
@@ -380,8 +380,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Anything[SP]else?\n[1208][U+0004]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Autre chose ?\n[1208][U+0004]Propager rumeurs\nVérifier rumeurs\nParler\nAnnuler",
     "question_orig": "Anything[SP]else?",
     "choix_orig": [
       "[U+0004]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel"
@@ -404,8 +404,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "De quoi voulez-vous parler ?\n[1208][U+0003]Parler\nInfos rumeurs\n[1210][NULL]Sélection non affichée",
     "question_orig": "What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210]Non-displayed[SP]selection"
@@ -428,8 +428,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "There's[SP]only[SP]one[SP]of[SP]you[SP]in[SP]the[SP]world...[1205][001E][SP]That's\njust[SP]plain[SP]common[SP]sense.[SP]But[SP]who[SP]can[SP]prove[SP]it?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Vous êtes unique dans ce monde...[1205][001E] C'est\ndu simple bon sens. Mais qui peut le prouver ?"
   },
   {
     "id": 25,
@@ -492,8 +492,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "100 yens, miaou[1432][NULL][NULL][U+0007]\n100 yens, miaou[1432][NULL][NULL][U+0007]\n100 yens, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 29,
@@ -508,8 +508,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n[1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Statue de chat",
+    "texte_fr": "100 yens, miaou[1432][NULL][NULL][U+0007]\n[1208][0002]Mettre 100 yens\nRien mettre",
     "question_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]",
     "choix_orig": [
       "Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything"
@@ -532,8 +532,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Oh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][U+0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][U+0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Oh, t'es fauché, miaou[1432][NULL][NULL][U+0007]\nMenteur un jour, voleur toujours, miaou[1432][NULL][NULL][U+0007]\nDégage d'ici[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 31,
@@ -548,8 +548,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][U+0007][1205][U+000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Rrron... Merci[1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 20 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nJ'en veux plus, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 32,
@@ -564,8 +564,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Meowvelous![1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][U+0007][1205][U+000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Miaougnifique ![1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 50 fois, rrron[1432][NULL][NULL][U+0007][1205][U+000F]\nTu es si généreux[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 33,
@@ -580,8 +580,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Amazing,[SP]meow![1205][U+000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Incroyable, miaou ![1205][U+000F]\n80 repas déja, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nT'as pas un agenda félin, miaou ?"
   },
   {
     "id": 34,
@@ -611,8 +611,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "I[SP]feel[SP]bad[SP]at[SP]being[SP]given[SP]so[SP]much,[SP]meow![1205][U+000F]\nSo[SP]I[SP]have[SP]a[SP]purresent[SP]for[SP]you!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Je me sens mal d'avoir tant reçu, miaou ![1205][U+000F]\nJ'ai un cadeau!"
   },
   {
     "id": 36,
@@ -643,8 +643,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Thank[SP]you,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Merci, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 38,
@@ -675,8 +675,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "That[SP]door[SP]doesn't[SP]open,[SP]meow[1432][NULL][NULL][U+0007]\nYou[SP]should[SP]stop[SP]trying,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Cette porte s'ouvre pas, miaou[1432][NULL][NULL][U+0007]\nArrête d'essayer, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 40,
@@ -721,8 +721,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Ask[SP]me[SP]to[SP]spread[SP]a[SP]rumor[SP]of[SP]your[SP]choice[SP]and\nI'll[SP]do[SP]it.[SP]Not[SP]for[SP]free,[SP]mind[SP]you.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Je peux propager la rumeur de votre choix\nmais pas gratuitement."
   },
   {
     "id": 43,
@@ -736,8 +736,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "You'll[SP]need[SP]to[SP]bring[SP]me[SP]rumors[SP]you[SP]hear[SP]from\nrumormongers.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Rammenez-en moi depuis de colporteurs de rumeurs."
   },
   {
     "id": 44,
@@ -751,8 +751,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "There[SP]are[SP]rumormongers[SP]everywhere[SP]in[SP]Sumaru.\nDig[SP]a[SP]little,[SP]and[SP]you'll[SP]find[SP]them.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Il y en a partout à Sumaru.\nCherchez et vous les trouverez."
   },
   {
     "id": 45,
@@ -766,8 +766,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "You[SP]can[SP]remind[SP]yourself[SP]which[SP]rumors[SP]are\nalready[SP]circulating[SP]by[SP]asking[SP]me[SP]to[SP]check\nrumors.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Je peux vérifier les rumeurs déjà\nconnues en me demandant de les vérifier."
   },
   {
     "id": 46,
@@ -782,8 +782,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Not[SP]only[SP]can[SP]you[SP]remember[SP]which[SP]rumors[SP]I've\nbeen[SP]putting[SP]out[SP]there[SP]for[SP]you,[SP]you[SP]can[SP]see\nwhich[SP]ones[SP]demons[SP]are[SP]spreading.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Je peux vous montrer mes rumeurs et celles\ndes démons aussi."
   },
   {
     "id": 47,

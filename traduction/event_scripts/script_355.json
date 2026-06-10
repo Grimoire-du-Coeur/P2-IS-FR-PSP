@@ -44,8 +44,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Is[SP]it[SP]English?[SP]Or[SP]French,[SP]maybe?\n[1208][U+0003][1432][NULL][NULL][0014]It's[SP]English.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]French.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]the[SP]voices.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Eikichi",
+    "texte_fr": "De l'anglais? Ou du français?\n[1208][U+0003][1432][NULL][NULL][0014]De l'anglais.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Du français.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Les voix.[1432][NULL][NULL][0014]",
     "question_orig": "Is[SP]it[SP]English?[SP]Or[SP]French,[SP]maybe?",
     "choix_orig": [
       "It's[SP]English.",
@@ -231,8 +231,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Jun...[SP]I[SP]don't[SP]want[SP]to[SP]evolve[SP]by[SP]sacrificing\nso[SP]many[SP]people...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Jun... Évoluer en sacrifiant autant\nde gens, je veux pas..."
   },
   {
     "id": 14,
@@ -247,8 +247,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Mee-ho[SP]and[SP]Sheba[SP]becoming[SP]shadowmen...\nThat's[SP]not[SP]my[SP]ideal.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Mee-ho et Sheba en Ombres...\nC'est pas mon idéal."
   },
   {
     "id": 15,
@@ -646,8 +646,8 @@
     ],
     "nom_orig": "Middle-aged[SP]woman",
     "texte_orig": "I[SP]wanted[SP]to[SP]escape[SP]my[SP]daily[SP]life[SP]and[SP]find[SP]a\nnew[SP]side[SP]of[SP]myself.[SP]That's[SP]why[SP]I[SP]came[SP]here...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme d'âge mûr",
+    "texte_fr": "Fuir le quotidien et découvrir\nun nouveau côté de moi. C'est pour ça..."
   },
   {
     "id": 40,
@@ -806,8 +806,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Tell[SP]us[SP]what[SP]brings[SP]you[SP]to[SP]our[SP]facility.\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Que puis-je faire pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne\nNon merci\nPartir",
     "question_orig": "Tell[SP]us[SP]what[SP]brings[SP]you[SP]to[SP]our[SP]facility.",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave"
@@ -830,8 +830,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Ask[SP]away.\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Je vous écoute.\n[1208][0002]Parler\nDemander les soins",
     "question_orig": "Ask[SP]away.",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -853,8 +853,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Okay![SP]I'll[SP]give[SP]you[SP]the[SP]general[SP]outline[SP]of\nhow[SP]we[SP]operate.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Très bien! Je vais vous expliquer\nnotre fonctionnement."
   },
   {
     "id": 52,
@@ -868,8 +868,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "If[SP]you[SP]request[SP]us[SP]to[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]you,[SP]you[SP]can\nrecover[SP]HP,[SP]SP,[SP]and[SP]be[SP]cured[SP]of[SP]any[SP]status\nailments[SP]such[SP]as[SP]poison.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "En demandant les [1432][NULL][NULL][0014]Soins[1432][NULL][NULL][0014], vous récupérez\nvos PV, PM et guérissez tout état\nalté­ré comme le poison."
   },
   {
     "id": 53,
@@ -884,8 +884,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "There[SP]is[SP]a[SP]cost[SP]involved,[SP]but[SP]our[SP]methods\naffect[SP]all[SP]of[SP]you[SP]at[SP]once.[SP]Believe[SP]me,[SP]in\nthe[SP]long[SP]run,[SP]you'll[SP]save[SP]money.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "C'est payant, mais ça soigne tout le groupe.\nCroyez-moi, vous y gagnerez\nà long terme."
   },
   {
     "id": 54,
@@ -932,8 +932,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Très bien. Ça fera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui\nNon",
     "question_orig": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?",
     "choix_orig": [
       "Yes\nNo"
@@ -1051,8 +1051,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Who[SP]else[SP]does[SP]what[SP]we[SP]do,[SP]working[SP]with[SP]the\nether[SP]your[SP]very[SP]body[SP]is[SP]composed[SP]of?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Qui travaille avec l'éther dont\nvotre corps est composé? Personne d'autre."
   },
   {
     "id": 64,
@@ -1082,8 +1082,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "We[SP]can[SP]heal[SP]anything,[SP]from[SP]wounds[SP]to[SP]illnesses.\nIt[SP]sounds[SP]too[SP]good[SP]to[SP]be[SP]true,[SP]but[SP]it[SP]isn't!\nToo[SP]good,[SP]I[SP]mean.[SP]It[SP]is[SP]true.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Blessures, maladies, nous soignons tout.\nÇa semble faux, mais non! Trop beau je veux\ndire. Mais vrai."
   },
   {
     "id": 66,
@@ -1210,8 +1210,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "May[SP]I[SP]help[SP]you[SP]with[SP]anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Autre chose pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne\nNon merci\nPartir",
     "question_orig": "May[SP]I[SP]help[SP]you[SP]with[SP]anything[SP]else?",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave"
@@ -1234,8 +1234,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Ask[SP]away.\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Je vous écoute.\n[1208][0002]Parler\nDemander les soins",
     "question_orig": "Ask[SP]away.",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -1258,7 +1258,7 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Ahh,[SP]I[SP]don't[SP]think[SP]you[SP]have[SP]enough[SP]money...\nRevolutionary[SP]treatment[SP]like[SP]ours[SP]doesn't\ncome[SP]cheap.[SP]My[SP]apologies.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Ahh, vous n'avez pas assez d'argent...\nUn tel traitement révolutionnaire\nne s'offre pas à bas prix. Désolée."
   }
 ]

@@ -332,8 +332,8 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "Huh?[SP]The[SP]city's[SP]flying?[SP]No![SP]Don't[SP]tell[SP]me!\nI'd[SP]already[SP]made[SP]up[SP]my[SP]mind[SP]to[SP]accept[SP]whatever\nfate[SP]deals[SP]me![SP]Though[SP]it's[SP]still[SP]depressing...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gérant",
+    "texte_fr": "Hein ? La ville vole ? Non ! Pas possible !\nJ'avais décidé d'accepter ce que\nle destin m'impose ! Même si c'est dur..."
   },
   {
     "id": 18,
@@ -364,8 +364,8 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "That'll[SP]be[SP][120E][NULL][SP]yen.[SP]Is[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Gérant",
+    "texte_fr": "Ça fera [120E][NULL] yens. D'accord ?\n[1208][0002]Oui\nNon",
     "question_orig": "That'll[SP]be[SP][120E][NULL][SP]yen.[SP]Is[SP]that[SP]okay?",
     "choix_orig": [
       "Yes\nNo"
@@ -387,8 +387,8 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "First[SP]off,[SP]we[SP]use[SP]coins[SP]for[SP]most[SP]things.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gérant",
+    "texte_fr": "On utilise des jetons pour presque tout."
   },
   {
     "id": 21,
@@ -402,8 +402,8 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "Talk[SP]to[SP]me[SP]and[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]coins,[1432][NULL][NULL][0014][SP]and[SP]I'll\ngive[SP]you[SP]coins[SP]to[SP]play[SP]the[SP]games[SP]in[SP]exchange\nfor[SP]cash.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gérant",
+    "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter des jetons,[1432][NULL][NULL][0014] et je vous\ndonne des jetons pour jouer contre\nde l'argent."
   },
   {
     "id": 22,
@@ -432,8 +432,8 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "What[SP]you[SP]can[SP]do[SP]is[SP]redeem[SP]them[SP]for[SP]prizes.\nTalk[SP]to[SP]me[SP]and[SP]select[SP][1432][NULL][NULL][0014]Redeem[SP]for[SP]prizes[1432][NULL][NULL][0014]\nwhen[SP]you[SP]want[SP]to[SP]do[SP]that.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gérant",
+    "texte_fr": "Vous pouvez les échanger contre des prix.\nChoisissez [1432][NULL][NULL][0014]Échanger contre des récompenses[1432][NULL][NULL][0014]\npour ce faire."
   },
   {
     "id": 24,
@@ -448,7 +448,7 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "You[SP]can[SP]only[SP]spend[SP]the[SP]coins[SP]you[SP]win[SP]here\non[SP]our[SP]prizes,[SP]so[SP]I'd[SP]advise[SP]you[SP]to[SP]use\nthem[SP]well.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gérant",
+    "texte_fr": "Les jetons ne valent que pour nos prix,\nutilisez-les bien."
   }
 ]

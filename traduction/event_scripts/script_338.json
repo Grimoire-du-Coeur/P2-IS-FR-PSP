@@ -811,8 +811,8 @@
     ],
     "nom_orig": "Expressionless[SP]woman",
     "texte_orig": "That[SP]song,[SP][1432][NULL][NULL][0014]Joker[1432][NULL][NULL][0014]...[1205][U+000F][SP]I[SP]bet[SP]it's[SP]just[SP]about\ngranting[SP]your[SP]ideals[SP]and[SP]such.[SP]Will[SP]it[SP]help\nme[SP]to[SP]find[SP]my[SP]own[SP]ideals...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme sans expression",
+    "texte_fr": "Cette chanson, [1432][NULL][NULL][0014]Joker[1432][NULL][NULL][0014]...[1205][U+000F] Je parie qu'elle\nparle d'idéaux exaucés. M'aidera-t-elle\nà trouver les miens ?"
   },
   {
     "id": 51,
@@ -843,8 +843,8 @@
     ],
     "nom_orig": "Expressionless[SP]woman",
     "texte_orig": "Hahaha.[SP]I[SP]know[SP]what[SP]my[SP]ideals[SP]are[SP]now.[SP][1432][NULL][NULL][0014]Please\ndon't[SP]let[SP]me[SP]get[SP]caught[SP]up[SP]in[SP]these[SP]attacks.[1432][NULL][NULL][0014]\nIdeals[SP]change[SP]depending[SP]on[SP]one's[SP]situation.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme sans expression",
+    "texte_fr": "Hahaha. Je connais mes idéaux maintenant.\n[1432][NULL][NULL][0014]Ne laissez pas ces attaques m'avoir.[1432][NULL][NULL][0014]\nLes idéaux changent selon la situation."
   },
   {
     "id": 53,
@@ -859,8 +859,8 @@
     ],
     "nom_orig": "Expressionless[SP]woman",
     "texte_orig": "The[SP]In[SP]Lak'ech[SP]is[SP]like[SP]a[SP]book[SP]filled[SP]with[SP]dreams.\nYou[SP]know[SP]how[SP]people[SP]go[SP]to[SP]seminars[SP]to\n[1432][NULL][NULL][0014]discover[SP]themselves[1432][NULL][NULL][0014]?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme sans expression",
+    "texte_fr": "In Lak'ech est un livre plein de rêves.\nTu sais, comme ces séminaires pour\n[1432][NULL][NULL][0014]se découvrir soi-même[1432][NULL][NULL][0014] ?"
   },
   {
     "id": 54,
@@ -987,8 +987,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "So,[SP]what're[SP]you[SP]in[SP]the[SP]mood[SP]for?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Bro\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mec",
+    "texte_fr": "So, what're you in the mood for?\n[1208][U+0004]Heal\nTalk to Bro\nNever mind\nLeave the store",
     "question_orig": "So,[SP]what're[SP]you[SP]in[SP]the[SP]mood[SP]for?",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]Bro\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -1011,8 +1011,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Oh[SP]yeah?[SP]What[SP]should[SP]we[SP]talk[SP]about?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mec",
+    "texte_fr": "Oh yeah? What should we talk about?\n[1208][0002]Make small talk\nAsk about healing",
     "question_orig": "Oh[SP]yeah?[SP]What[SP]should[SP]we[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -1034,8 +1034,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Sure,[SP]I'll[SP]tell[SP]you[SP]how[SP]this[SP]works.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mec",
+    "texte_fr": "Bien sûr, je t'explique."
   },
   {
     "id": 64,
@@ -1049,8 +1049,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Heal,[1432][NULL][NULL][0014][SP]our[SP]tanning[SP]beds[SP]will\nrestore[SP]your[SP]HP[SP]and[SP]SP,[SP]plus[SP]cure[SP]any[SP]status\nailments[SP]like[SP]poison[SP]in[SP]the[SP]bargain.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mec",
+    "texte_fr": "Si tu choisis [1432][NULL][NULL][0014]Soins[1432][NULL][NULL][0014], nos cabines te rendent tes PV et\nPC, et guérissent les poisons et autres trucs du genre."
   },
   {
     "id": 65,
@@ -1113,8 +1113,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Got[SP]it![SP]One[SP]healing[SP]course,[SP]coming[SP]right[SP]up.\nThe[SP]fee's[SP]1,200[SP]yen.[SP]Are[SP]you[SP]cool[SP]with[SP]that?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mec",
+    "texte_fr": "C'est parti ! Une séance de soins, une !\nÇa fera 1200 yens. T'es d'accord ?\n[1208][0002]Oui\nNon",
     "question_orig": "Got[SP]it![SP]One[SP]healing[SP]course,[SP]coming[SP]right[SP]up.\nThe[SP]fee's[SP]1,200[SP]yen.[SP]Are[SP]you[SP]cool[SP]with[SP]that?",
     "choix_orig": [
       "Yes\nNo"
@@ -1138,7 +1138,7 @@
     "nom_orig": "Kanada",
     "texte_orig": "This[SP]message[SP]shouldn't[SP]appear.\nIt's[SP]an[SP]error.",
     "nom_fr": "",
-    "texte_fr": ""
+    "texte_fr": "This message shouldn't appear.\nIt's an error."
   },
   {
     "id": 70,
@@ -1521,8 +1521,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Is[SP]that[SP]it[SP]for[SP]you?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Bro\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mec",
+    "texte_fr": "Is that it for you?\n[1208][U+0004]Heal\nTalk to Bro\nNever mind\nLeave the store",
     "question_orig": "Is[SP]that[SP]it[SP]for[SP]you?",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]Bro\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -1545,8 +1545,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Oh[SP]yeah?[SP]What[SP]should[SP]we[SP]talk[SP]about?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mec",
+    "texte_fr": "Oh yeah? What should we talk about?\n[1208][0002]Make small talk\nAsk about healing",
     "question_orig": "Oh[SP]yeah?[SP]What[SP]should[SP]we[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -1569,7 +1569,7 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Yikes![SP]C'mon,[SP]dude.[SP]You[SP]don't[SP]have[SP]enough[SP]money.[1205][U+000F]\nI[SP]can't[SP]let[SP]you[SP]use[SP]the[SP]tanning[SP]beds[SP]like[SP]this.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mec",
+    "texte_fr": "Ouille ! Mec, t'as pas assez d'argent.[1205][U+000F]\nJe peux pas te laisser les\nlits de bronzage comme ça."
   }
 ]

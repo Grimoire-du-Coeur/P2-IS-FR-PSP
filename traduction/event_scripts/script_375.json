@@ -124,8 +124,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "[1432][NULL][NULL][0014]Ancient[SP]traditions[1432][NULL][NULL][0014][SP]like[SP]fortune[SP]telling[SP]are\nnonsense.[SP]Just[SP]trust[SP]me[SP]and[SP]go[SP]check[SP]out[SP]the\nSakanoue[SP]Building.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "[1432][NULL][NULL][0014]Traditions ancestrales[1432][NULL][NULL][0014] comme la voyance,\nc'est du vent. Faites confiance\net allez au bâtiment Sakanoue."
   },
   {
     "id": 8,
@@ -140,8 +140,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "[1432][NULL][NULL][0014]Ancient[SP]traditions[1432][NULL][NULL][0014][SP]like[SP]fortune[SP]telling[SP]are\nnonsense.[SP]Just[SP]trust[SP]me[SP]and[SP]go[SP]check[SP]out[SP]the\nSakanoue[SP]Building.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "[1432][NULL][NULL][0014]Traditions ancestrales[1432][NULL][NULL][0014] comme la voyance,\nc'est du vent. Faites confiance\net allez au bâtiment Sakanoue."
   },
   {
     "id": 9,
@@ -204,8 +204,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Seriously,[SP]that[SP]guy[SP]never[SP]makes[SP]any[SP]sense[SP]to\nme.[1205][U+000F][SP]What's[SP]this[SP][1432][NULL][NULL][0014]crawling[SP]chaos[1432][NULL][NULL][0014][SP]about?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Sérieux, ce mec me comprend jamais.[1205][U+000F]\nC'est quoi ce [1432][NULL][NULL][0014]chaos rampant[1432][NULL][NULL][0014] ?"
   },
   {
     "id": 13,
@@ -892,8 +892,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "For[SP]what[SP]have[SP]you[SP]sought[SP]me[SP]out[SP]today?\n[1208][U+0005][1210][U+0475]Ask[SP]about[SP]rumors\nHear[SP]your[SP]fortune\nTalk[SP]to[SP]the[SP]Sumaru[SP]Genie\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Qu'est-ce qui vous amène aujourd'hui ?\n[1208][U+0005][1210][U+0475]Demander des rumeurs\nTirer les cartes\nParler à la Génie\nLaisser tomber\nPartir",
     "question_orig": "For[SP]what[SP]have[SP]you[SP]sought[SP]me[SP]out[SP]today?",
     "choix_orig": [
       "[U+0005][1210][U+0475]Ask[SP]about[SP]rumors\nHear[SP]your[SP]fortune\nTalk[SP]to[SP]the[SP]Sumaru[SP]Genie\nNever[SP]mind\nLeave"
@@ -916,8 +916,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "What[SP]do[SP]you[SP]propose[SP]we[SP]discuss?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]fortune[SP]telling",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "De quoi souhaitez-vous parler ?\n[1208][0002]Faire la causette\nParler de voyance",
     "question_orig": "What[SP]do[SP]you[SP]propose[SP]we[SP]discuss?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]fortune[SP]telling"
@@ -954,8 +954,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Ask[SP]to[SP][1432][NULL][NULL][0014]Hear[SP]your[SP]fortune[1432][NULL][NULL][0014][SP]and[SP]I[SP]will[SP]take\na[SP]glimpse[SP]into[SP]your[SP]future.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Choisissez [1432][NULL][NULL][0014]Tirer les cartes[1432][NULL][NULL][0014]\net j'entrerai dans votre avenir."
   },
   {
     "id": 59,
@@ -969,8 +969,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "The[SP]reading[SP]may[SP]result[SP]in[SP]good[SP]fortune[SP]or\nbad[SP]fortune[SP]for[SP]you.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "La lecture peut vous apporter\nbonne ou mauvaise fortune."
   },
   {
     "id": 60,
@@ -984,8 +984,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "I[SP]cannot[SP]peer[SP]into[SP]your[SP]future[SP]again[SP]until\nthe[SP]effect[SP]of[SP]the[SP]previous[SP]reading[SP]wears[SP]off.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Je ne peux pas scruter votre avenir\ntant que l'effet de la lecture\nprécédente n'a pas disparu."
   },
   {
     "id": 61,
@@ -1000,8 +1000,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "It[SP]is[SP]every[SP]man's[SP]decision[SP]to[SP]ask[SP]after[SP]his\nfuture.[SP]And[SP]I[SP]am[SP]not[SP]responsible[SP]for[SP]the\nvisions[SP]I[SP]see.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "C'est à chacun de décider s'il veut\nconnaître son avenir. Et je ne suis\npas responsable des visions reçues."
   },
   {
     "id": 62,
@@ -1320,8 +1320,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Very[SP]well.[1205][U+000F][SP]The[SP]price[SP]will[SP]be[SP]3,000[SP]yen.\nDo[SP]you[SP]still[SP]wish[SP]this?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Très bien.[1205][U+000F] Le prix sera de 3 000 yens.\nSouhaitez-vous toujours cela ?\n[1208][0002]Oui\nNon",
     "question_orig": "Very[SP]well.[1205][U+000F][SP]The[SP]price[SP]will[SP]be[SP]3,000[SP]yen.\nDo[SP]you[SP]still[SP]wish[SP]this?",
     "choix_orig": [
       "Yes\nNo"
@@ -1344,8 +1344,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Unfortunately,[SP]your[SP]coffers[SP]are[SP]drained.[1205][U+000F]\nA[SP]golden[SP]key[SP]opens[SP]every[SP]door,[SP]as[SP]they[SP]say.\nReturn[SP]to[SP]me[SP]in[SP]a[SP]wealthier[SP]future.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Malheureusement, votre bourse est vide.[1205][U+000F]\nComme on dit, l'argent ouvre toutes\nles portes. Revenez en étant plus fortuné."
   },
   {
     "id": 83,
@@ -1760,8 +1760,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Which[SP]stories[SP]would[SP]you[SP]have[SP]me[SP]tell?\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Quelles histoires souhaitez-vous ?\n[1208][U+0004][1210][U+0476]Rumeurs sur les armes\n[1210][U+0477]Rumeurs sur les armures\n[1210][U+0478]Autres rumeurs\nRien",
     "question_orig": "Which[SP]stories[SP]would[SP]you[SP]have[SP]me[SP]tell?",
     "choix_orig": [
       "[U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing"
@@ -1784,8 +1784,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Quel sera le cadre de mon récit ?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
     "question_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?",
     "choix_orig": [
       "[U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone"
@@ -1808,8 +1808,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Quel sera le cadre de mon récit ?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
     "question_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?",
     "choix_orig": [
       "[U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone"
@@ -1832,8 +1832,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Which[SP]tale[SP]shall[SP]I[SP]relate?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Quelle histoire souhaitez-vous ?\n[1208][U+0004][1210][U+0472]Rumeurs du Magazine\n[1210][U+0473]Rumeurs de Mu\n[1210][U+0474]Armes légendaires\nAucune",
     "question_orig": "Which[SP]tale[SP]shall[SP]I[SP]relate?",
     "choix_orig": [
       "[U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them"
@@ -1856,8 +1856,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Then[SP]I[SP]ask[SP]that[SP]you[SP]tell[SP]your[SP]own[SP]tale[SP]first.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Racontez d'abord votre propre histoire."
   },
   {
     "id": 113,
@@ -1888,8 +1888,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "They[SP]tell[SP]of[SP][E4][NULL][NULL][U+0006]Tony's[SP]Shop[E4][NULL][NULL][0002][SP]in[SP]Yumezaki,[SP]which\nsells[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][U+000F][SP]Their[SP][E4][NULL][NULL][U+0006]quality[SP]is[SP]exquisite,\nthough[SP]the[SP]prices[SP]are[SP]high[E4][NULL][NULL][0002].[SP]How[SP]dangerous...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "On dit que [E4][NULL][NULL][U+0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki\nvend de [E4][NULL][NULL][U+0006]vraies armes[E4][NULL][NULL][0002].[1205][U+000F] Leur [E4][NULL][NULL][U+0006]qualité\nest exquise, mais les prix sont élevés[E4][NULL][NULL][0002].\nQue c'est dangereux..."
   },
   {
     "id": 115,
@@ -1920,8 +1920,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "But[SP]no[SP]matter.[SP]My[SP]tale[SP]for[SP]you[SP]concerns[SP][E4][NULL][NULL][U+0006]Clair\nde[SP]Lune[E4][NULL][NULL][0002][SP]in[SP]Aoba,[SP]which[SP]sells[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][U+000F]\nTheir[SP][E4][NULL][NULL][U+0006]quality[SP]and[SP]prices[SP]are[SP]average[E4][NULL][NULL][0002].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Peu importe. Mon histoire concerne\n[E4][NULL][NULL][U+0006]Clair de Lune[E4][NULL][NULL][0002] à Aoba, qui vend\nde [E4][NULL][NULL][U+0006]vraies armes[E4][NULL][NULL][0002].[1205][U+000F] Leur [E4][NULL][NULL][U+0006]qualité et\nprix sont moyens[E4][NULL][NULL][0002]."
   },
   {
     "id": 117,
@@ -1952,8 +1952,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "It[SP]would[SP]appear[SP][E4][NULL][NULL][U+0006]Jolly[SP]Roger[E4][NULL][NULL][0002][SP]sells[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][U+000F]\nI'm[SP]quite[SP]surprised[SP]that[SP]one[SP]so[SP]near[SP]to[SP]us[SP]would\nsell[SP][E4][NULL][NULL][U+0006]high-quality,[SP]high-price[SP]armaments[E4][NULL][NULL][0002].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Il semble que [E4][NULL][NULL][U+0006]Jolly Roger[E4][NULL][NULL][0002] vende de\n[E4][NULL][NULL][U+0006]vraies armes[E4][NULL][NULL][0002].[1205][U+000F] Je suis surprise qu'un\nsi proche voisin vende des [E4][NULL][NULL][U+0006]armements\nde qualité, au prix fort[E4][NULL][NULL][0002]."
   },
   {
     "id": 119,
@@ -1984,8 +1984,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "I[SP]am[SP]told[SP]you[SP]can[SP]buy[SP][E4][NULL][NULL][U+0006]real[SP]armor[E4][NULL][NULL][0002][SP]at[SP][E4][NULL][NULL][U+0006]Anima[SP]Mundi[E4][NULL][NULL][0002]\nin[SP]Yumezaki.[1205][U+000F][SP]It's[SP][E4][NULL][NULL][U+0006]high[SP]quality,[SP]but[SP]expensive[E4][NULL][NULL][0002]...\nThough[SP]I[SP]haven't[SP]confirmed[SP]the[SP]tale[SP]for[SP]myself.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "On peut acheter de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002]\nchez [E4][NULL][NULL][U+0006]Anima Mundi[E4][NULL][NULL][0002] à Yumezaki.[1205][U+000F] C'est\n[E4][NULL][NULL][U+0006]haut de gamme, mais cher[E4][NULL][NULL][0002]...\nJe n'ai pas confirmé moi-même."
   },
   {
     "id": 121,
@@ -2032,8 +2032,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "The[SP][E4][NULL][NULL][U+0006]Aoba[SP]branch[SP]of[SP]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]appears[SP]to\nsell[SP][E4][NULL][NULL][U+0006]real[SP]armor[E4][NULL][NULL][0002].[1205][U+000F][SP]Their[SP][E4][NULL][NULL][U+0006]selection[SP]is[SP]impeccable,\nbut[SP]their[SP]resale[SP]prices[SP]are[SP]lacking[E4][NULL][NULL][0002].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "La [E4][NULL][NULL][U+0006]branche d'Aoba de Rosa Candida[E4][NULL][NULL][0002]\nvend de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002].[1205][U+000F] [E4][NULL][NULL][U+0006]Sélection\nirréprochable, mais prix de revente\ndécevants[E4][NULL][NULL][0002]."
   },
   {
     "id": 124,
@@ -2064,8 +2064,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "As[SP]for[SP]me,[SP]I[SP]tell[SP]the[SP]tale[SP]of[SP][E4][NULL][NULL][U+0006]London[SP]Clothier[E4][NULL][NULL][0002],\nwhich[SP]sells[SP][E4][NULL][NULL][U+0006]real[SP]armor[E4][NULL][NULL][0002].[1205][U+000F][SP]Their[SP][E4][NULL][NULL][U+0006]selection[SP]is\npoor,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]high[E4][NULL][NULL][0002].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Quant à moi, je conte [E4][NULL][NULL][U+0006]London\nClothier[E4][NULL][NULL][0002], qui vend de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002].[1205][U+000F]\n[E4][NULL][NULL][U+0006]Sélection pauvre, prix de\nrevente élevés[E4][NULL][NULL][0002]."
   },
   {
     "id": 126,
@@ -2208,8 +2208,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "It's[SP]kind[SP]of[SP]a[SP]long[SP]story...[SP]Is[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "C'est une longue histoire... Ça vous\nconvient ?\n[1208][0002]Oui\nNon",
     "question_orig": "It's[SP]kind[SP]of[SP]a[SP]long[SP]story...[SP]Is[SP]that[SP]okay?",
     "choix_orig": [
       "Yes\nNo"
@@ -2232,8 +2232,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Y-Yeah,[SP]I[SP]thought[SP]not.[1205][U+000F][SP]*cough*[SP]*ahem*[1205][U+000F]\nI've[SP]no[SP]idea[SP]what[SP]could[SP]have[SP]dazed[SP]me[SP]so.\nPlease,[SP]pay[SP]the[SP]episode[SP]no[SP]heed.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "O-Ouais, je m'en doutais.[1205][U+000F] *toux* *hem*[1205][U+000F]\nJe ne sais pas ce qui m'a pris.\nS'il vous plaît, n'en tenez pas compte."
   },
   {
     "id": 136,
@@ -2312,8 +2312,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "When[SP]I[SP]came[SP]to,[SP]I[SP]was[SP]here...[1205][U+000F][SP]This[SP][1432][NULL][NULL][0014]crystal[1432][NULL][NULL][0014]\nball[SP]is[SP]just[SP]glass.[SP]Everything[SP]I[SP]said,[SP]I[SP]made\nup...[1205][U+000F][SP]The[SP]thing[SP]is,[SP]it[SP]comes[SP]true[SP]anyway!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Génie de Sumaru",
+    "texte_fr": "Quand je suis revenu(e) à moi, j'étais\nici... Cette [1432][NULL][NULL][0014]boule de cristal[1432][NULL][NULL][0014]\nn'est que du verre. J'inventais...[1205][U+000F]\nSauf que ça se réalise quand même !"
   },
   {
     "id": 141,

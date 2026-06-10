@@ -140,8 +140,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "You[SP]still[SP]want[SP]something?\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Siffleur",
+    "texte_fr": "Tu veux encore autre chose?\n[1208][U+0005]Acheter  \nVendre    \nDiscuter        \nRien merci\nS'en aller",
     "question_orig": "You[SP]still[SP]want[SP]something?",
     "choix_orig": [
       "[U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -212,8 +212,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "Seems[SP]like[SP]they're[SP]still[SP]fighting[SP]inside[SP]that\nweird[SP]building...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Siffleur",
+    "texte_fr": "Ils se battent encore dans ce bâtiment\nétrange, on dirait..."
   },
   {
     "id": 12,
@@ -292,8 +292,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "Yeah,[SP]what[SP]do[SP]you[SP]want?\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Siffleur",
+    "texte_fr": "Ouais, tu veux quoi?\n[1208][U+0005]]Acheter  \nVendre    \nDiscuter        \nRien merci\nS'en aller",
     "question_orig": "Yeah,[SP]what[SP]do[SP]you[SP]want?",
     "choix_orig": [
       "[U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -412,8 +412,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Siffleur",
+    "texte_fr": "Ça fera [120E][NULL] yen.\n[1208][0002]Oui\nNon",
     "question_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.",
     "choix_orig": [
       "Yes\nNo"
@@ -450,8 +450,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "Only[SP]certain[SP]people[SP]can[SP]wear[SP]certain[SP]pieces\nof[SP]armor.[SP]Check[SP]before[SP]you[SP]buy[SP]anything,\nbecause[SP]all[SP]sales[SP]here[SP]are[SP]final.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Siffleur",
+    "texte_fr": "Chaque personne ne peut porter que certains\ntypes de pièces. Vérifie avant d'acheter,\ncar tu peux plus annuler après."
   },
   {
     "id": 25,
@@ -465,8 +465,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "Or[SP]you[SP]can[SP]choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]if[SP]you[SP]have\nsomething[SP]you[SP]want[SP]to[SP]get[SP]rid[SP]of.[SP]Pick[SP]which\nkind[SP]of[SP]item,[SP]then[SP]choose[SP]what[SP]you[SP]wanna[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Siffleur",
+    "texte_fr": "Sinon tu peux choisir [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014] si tu veux\nte débarrasser d'un truc, puis choisir le\ntype d'objet et quoi me vendre exactement."
   },
   {
     "id": 26,
@@ -481,7 +481,7 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "I[SP]pay[SP]about[SP]half[SP]the[SP]retail[SP]price.[SP]Them's[SP]the\nbreaks.[SP]And[SP]I[SP]won't[SP]buy[SP]anything[SP]you[SP]got\nequipped[SP]or[SP]anything[SP]I[SP]got[SP]no[SP]use[SP]for.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Siffleur",
+    "texte_fr": "Je paye environ la moitié du prix d'achat.\nC'est comme ça. Et j'achète rien qui est\néquipé sur toi ou qui m'est inutile."
   }
 ]

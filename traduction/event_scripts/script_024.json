@@ -60,8 +60,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "You[SP]know[SP]what[SP]they[SP]say:[SP][1432][NULL][NULL][0014]What's[SP]most\nimportant[SP]can't[SP]be[SP]seen[SP]with[SP]one's[SP]eyes.[1432][NULL][NULL][0014]\nRight,[SP][1113]-kun?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Vous savez ce qu'on dit: [1432][NULL][NULL][0014]L'essentiel est\ninvisible pour les yeux.[1432][NULL][NULL][0014]\nPas vrai, [1113]-kun?"
   },
   {
     "id": 4,
@@ -140,8 +140,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "But[SP]why[SP]is[SP]that?\n[1208][0002][1432][NULL][NULL][0014]You[SP]don't[SP]know[SP]where[SP]the[SP]exit[SP]is.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]There[SP]is[SP]no[SP]exit.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Maya",
+    "texte_fr": "Pourquoi?\n[1208][0002][1432][NULL][NULL][0014]Vous ignorez où est la sortie.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Il n'y a pas de sortie.[1432][NULL][NULL][0014]",
     "question_orig": "But[SP]why[SP]is[SP]that?",
     "choix_orig": [
       "You[SP]don't[SP]know[SP]where[SP]the[SP]exit[SP]is.",
@@ -182,8 +182,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "Has[SP]anyone[SP]escaped[SP]from[SP]this[SP]shelter?\n[1208][0002][1432][NULL][NULL][0014]Nope,[SP]no[SP]one.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]There[SP]was[SP]one[SP]person.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Maya",
+    "texte_fr": "Quelqu'un s'est-il déjà échappé?\n[1208][0002][1432][NULL][NULL][0014]Non, personne.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Il y a eu une personne.[1432][NULL][NULL][0014]",
     "question_orig": "Has[SP]anyone[SP]escaped[SP]from[SP]this[SP]shelter?",
     "choix_orig": [
       "Nope,[SP]no[SP]one.",
@@ -208,8 +208,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "And[SP]how[SP]did[SP]the[SP]person[SP]in[SP]the[SP]rumor[SP]escape?\nThey[SP]used[SP]a[SP]certain[SP]something,[SP]right?\nWhat[SP]was[SP]it?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Et comment cette personne a fait dans la\nrumeur? Elle a utilisé quelque chose, non?\nQuoi?"
   },
   {
     "id": 12,
@@ -250,8 +250,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "Now[SP]here's[SP]our[SP]problem,[SP]since[SP]we[SP]don't[SP]have\na[SP]mirror[SP]anymore...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Voilà notre problème, vu qu'on a plus\nde miroir..."
   },
   {
     "id": 14,
@@ -282,8 +282,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "What[SP]does[SP]a[SP]mirror[SP]reflect?\n[1208][0002][1432][NULL][NULL][0014]Everything[SP]in[SP]range.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Your[SP]own[SP]face.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Maya",
+    "texte_fr": "Que reflète un miroir?\n[1208][0002][1432][NULL][NULL][0014]Tout ce qui est à portée.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ton visage.[1432][NULL][NULL][0014]",
     "question_orig": "What[SP]does[SP]a[SP]mirror[SP]reflect?",
     "choix_orig": [
       "Everything[SP]in[SP]range.",
@@ -308,8 +308,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "Okay,[SP]and[SP]what[SP]do[SP]you[SP]mean[SP]by[SP][1432][NULL][NULL][0014]everything\nin[SP]range[1432][NULL][NULL][0014]!?[SP]Keep[SP]going...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Ok, que veux-tu dire par [1432][NULL][NULL][0014]tout ce qui\nest à portée[1432][NULL][NULL][0014]!? Continue..."
   },
   {
     "id": 17,
@@ -350,8 +350,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "I[SP]think[SP]whoever[SP]escaped[SP]in[SP]the[SP]rumor[SP]managed\nit[SP]by[SP]accident,[SP]but[SP]they[SP]did[SP]it[SP]by[SP]finding\nan[SP]exit[SP]reflected[SP]in[SP]the[SP]mirror!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Je pense que la personne de la rumeur a réussi\npar hasard, mais elle a trouvé une sortie\nreflétée dans le miroir!"
   },
   {
     "id": 19,
@@ -382,8 +382,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "Right![SP][1432][NULL][NULL][0014]Not[SP]knowing[1432][NULL][NULL][0014][SP]isn't[SP]the[SP]same[SP]thing\nas[SP][1432][NULL][NULL][0014]not[SP]existing[1432][NULL][NULL][0014]...[1205][001E][SP]That[SP]was[SP]just[SP]us[SP]jumping\nto[SP]conclusions.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Exact! [1432][NULL][NULL][0014]Ne pas savoir[1432][NULL][NULL][0014] n'est pas pareil\nque [1432][NULL][NULL][0014]ne pas exister[1432][NULL][NULL][0014]...[1205][001E]\nOn a juste sauté aux conclusions."
   },
   {
     "id": 21,
@@ -494,8 +494,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "Correct![SP]The[SP]reason[SP]we[SP]can't[SP]get[SP]out[SP]is\nbecause[SP]the[SP]rumor[SP]says[SP][1432][NULL][NULL][0014]no[SP]one[SP]knows[SP]where\nthe[SP]exit[SP]is.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Correct! On ne peut pas sortir car la rumeur\ndit que [1432][NULL][NULL][0014]personne ne sait où est\nla sortie.[1432][NULL][NULL][0014]"
   },
   {
     "id": 28,
@@ -542,8 +542,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "Though[SP]the[SP]rumor[SP]says[SP][1432][NULL][NULL][0014]no[SP]one[SP]knows[SP]where\nthe[SP]exit[SP]is,[1432][NULL][NULL][0014][SP]there[SP]was[SP]supposedly[SP]one\nperson[SP]who[SP]did[SP]escape...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Bien que la rumeur dise que [1432][NULL][NULL][0014]personne ne sait\noù est la sortie,[1432][NULL][NULL][0014] il y aurait une\npersonne qui a fui..."
   },
   {
     "id": 31,
@@ -590,8 +590,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "[1432][NULL][NULL][0014]No[SP]one[SP]knows[SP]where[SP]the[SP]exit[SP]is,[1432][NULL][NULL][0014][SP]so[SP]you\ncan't[SP]get[SP]out...[SP]But[SP]rumor[SP]has[SP]it[SP]that[SP]one\nperson[SP]got[SP]out[SP]by[SP]using[SP]a[SP]mirror.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "[1432][NULL][NULL][0014]Personne ne sait où est la sortie,[1432][NULL][NULL][0014] donc tu\nne sors pas. Mais la rumeur dit que\nquelqu'un est sorti avec un miroir."
   },
   {
     "id": 34,

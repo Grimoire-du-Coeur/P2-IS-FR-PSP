@@ -348,8 +348,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "He's[SP]never[SP]steered[SP]me[SP]wrong.[1205][U+000F][SP]Er...[SP]assuming\nBaofu[SP]is[SP]a[SP][1432][NULL][NULL][0014]he.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Il m'a jamais trompée.[1205][U+000F] Enfin...\nsi Baofu est un [1432][NULL][NULL][0014]il.[1432][NULL][NULL][0014]"
   },
   {
     "id": 22,
@@ -364,8 +364,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "[1432][NULL][NULL][0014]All[SP]descend[SP]with[SP]smiles[SP]to[SP]the[SP]netherworld[1432][NULL][NULL][0014]...[1205][001E]\nThere's[SP]a[SP]hint[SP]in[SP]there[SP]somewhere.[SP]Keep[SP]thinking\nabout[SP]it,[SP][1113]-kun.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "[1432][NULL][NULL][0014]Tous descendent en souriant aux enfers[1432][NULL][NULL][0014]...[1205][001E]\nIl y a un indice là-dedans. Continue\nd'y réfléchir, [1113]-kun."
   },
   {
     "id": 23,
@@ -588,8 +588,8 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "By[SP]the[SP]way,[SP]King[SP]Leo[SP]said[SP]the[SP][1432][NULL][NULL][0014]flames[SP]of\nexpiation[1432][NULL][NULL][0014][SP]were[SP]preparations[SP]for[SP]the\nGrand[SP]Cross.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Le Roi Lion a dit que les [1432][NULL][NULL][0014]flammes\nd'expiation[1432][NULL][NULL][0014] annoncent la Croix Cosmique."
   },
   {
     "id": 37,
@@ -636,8 +636,8 @@
     ],
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Hey.[1205][U+000F][SP]Surfing[SP]the[SP]net[SP]this[SP]early[SP]in[SP]the[SP]day?\nMust[SP]have[SP]a[SP]lot[SP]of[SP]time[SP]on[SP]your[SP]hands.[SP]Whatevs.\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Gamin fainéant",
+    "texte_fr": "Hé.[1205][U+000F] Tu surfes sur le net à cette heure?\nT'as que ça à faire. Bof.\n[1208][U+0004]Manger\nParler au gamin\nNon merci\nPartir",
     "question_orig": "Hey.[1205][U+000F][SP]Surfing[SP]the[SP]net[SP]this[SP]early[SP]in[SP]the[SP]day?\nMust[SP]have[SP]a[SP]lot[SP]of[SP]time[SP]on[SP]your[SP]hands.[SP]Whatevs.",
     "choix_orig": [
       "[U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave"
@@ -684,8 +684,8 @@
     ],
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Sure...[1205][U+000F][SP]Was[SP]that[SP]it?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Gamin fainéant",
+    "texte_fr": "Ouais...[1205][U+000F] C'est tout?\n[1208][U+0004]Manger\nParler au gamin\nNon merci\nPartir",
     "question_orig": "Sure...[1205][U+000F][SP]Was[SP]that[SP]it?",
     "choix_orig": [
       "[U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave"
@@ -732,8 +732,8 @@
     ],
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "What's[SP]this[SP]about[SP]Muses?[1205][U+000F][SP]Ginji[SP]Sasaki's[SP]pretty\npopular.[SP]If[SP]you[SP]like[SP]that[SP]stuff.[1205][U+000F][SP]You[SP]go[SP]to[SP]any\nstore[SP]in[SP]Sumaru,[SP]you'll[SP]hear[SP]one[SP]of[SP]his[SP]songs.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gamin fainéant",
+    "texte_fr": "Les Muses?[1205][U+000F] Ginji Sasaki est populaire.\nSi t'aimes ça.[1205][U+000F] Dans n'importe quel magasin\nde Sumaru, t'entends une de ses chansons."
   },
   {
     "id": 44,
@@ -1531,8 +1531,8 @@
     ],
     "nom_orig": "???",
     "texte_orig": "Looks[SP]like[SP]this[SP]is[SP]your[SP]first[SP]time[SP]here.[1205][U+000F]\nName's[SP]Baofu.[SP]I[SP]run[SP]this[SP]website.[E1][E2]Baofu\nAn[SP]online[SP]rumormonger[SP]with[SP]his[SP]own[SP]rumor[SP]site.\nNothing[SP]is[SP]known[SP]about[SP]him,[SP]but[SP]he[SP]seems[SP]to\nbe[SP]gathering[SP]rumors[SP]for[SP]a[SP]specific[SP]purpose.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "???",
+    "texte_fr": "C'est ta première fois ici.[1205][U+000F]\nMoi c'est Baofu. Je gère ce site.[E1][E2]Baofu\nColporteur de rumeurs en ligne avec son propre site.\nRien n'est connu de lui, mais il semble\ncollectecter des rumeurs dans un but précis."
   },
   {
     "id": 94,
@@ -1546,8 +1546,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "If[SP]you[SP]logged[SP]in[SP]here,[SP]you[SP]must[SP]want[SP]to[SP]hear\na[SP]rumor.[SP]Or[SP]have[SP]you[SP]got[SP]a[SP]tip[SP]for[SP]me?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Si tu t'es connecté, c'est pour entendre\nune rumeur. Ou t'as un tuyau pour moi?"
   },
   {
     "id": 95,
@@ -1561,8 +1561,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "Either's[SP]fine.[1205][U+000F][SP]If[SP]you[SP]know[SP]anything,[SP]will[SP]you\ntell[SP]me[SP]for[SP]some[SP]info[SP]in[SP]trade?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Peu importe.[1205][U+000F] Si tu sais quelque chose,\ntu me le dis contre des infos?"
   },
   {
     "id": 96,
@@ -1577,8 +1577,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "You're[SP]interested[SP]in[SP]rumors,[SP]aren't[SP]you?[1205][U+000F]\nSo[SP]am[SP]I.[1205][U+000F][SP]If[SP]you[SP]want,[SP]send[SP]me[SP]something.\nI'll[SP]be[SP]waiting[SP]to[SP]hear[SP]something[SP]worthwhile.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Les rumeurs t'intéressent, non?[1205][U+000F]\nMoi aussi.[1205][U+000F] Si tu veux, envoie-moi quelque chose.\nJ'attends quelque chose qui en vaut la peine."
   },
   {
     "id": 97,
@@ -1593,8 +1593,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "Hey,[SP]you're[SP]back.[E1][E2][E3]>[SP]Select[SP]an[SP]option.\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Baofu\nCancel\n[1109][E2][E3]>[SP]Select[SP]a[SP]topic.\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]subject.\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them\n[1109][E2][E3]>[SP]Verified.\nSubmit[SP]information.\nAfter[SP]entering,[SP]please[SP]wait.",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Tiens, de retour.[E1][E2][E3]> Choisissez une option.\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler à Baofu\nAnnuler\n[1109][E2][E3]> Choisissez un sujet.\n[1208][U+0004][1210][U+0476]Rumeurs armureries\n[1210][U+0477]Rumeurs armures\n[1210][U+0478]Autres rumeurs\nRien\n[1109][E2][E3]> Choisissez une région.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune\n[1109][E2][E3]> Choisissez une région.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nAucune\n[1109][E2][E3]> Choisissez un sujet.\n[1208][U+0004][1210][U+0472]Concours magazines\n[1210][U+0473]Rumeurs Mu\n[1210][U+0474]Armes légendaires\nAucun\n[1109][E2][E3]> Vérifié.\nSoumettre.\nPatientez après envoi.",
     "question_orig": "Hey,[SP]you're[SP]back.[E1][E2][E3]>[SP]Select[SP]an[SP]option.",
     "choix_orig": [
       "[U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Baofu\nCancel\n[1109][E2][E3]>[SP]Select[SP]a[SP]topic.\n[U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]subject.\n[U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them\n[1109][E2][E3]>[SP]Verified.\nSubmit[SP]information.\nAfter[SP]entering,[SP]please[SP]wait."
@@ -1616,8 +1616,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "Huh,[SP]so[SP]Cuss[SP]High[SP]got[SP]rid[SP]of[SP]the[SP]Boss[SP]system.\nKind[SP]of[SP]small-time,[SP]but[SP]oh[SP]well,[SP]a[SP]rumor's[SP]a\nrumor.[SP]Here's[SP]what[SP]I've[SP]got.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Ah, le Lycée Kakasu a supprimé le système de Boss.\nPetit, mais une rumeur reste une rumeur.\nVoilà ce que j'ai."
   },
   {
     "id": 99,
@@ -1647,8 +1647,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "Ginji[SP]Sasaki[SP]is[SP]in[SP]the[SP]Masked[SP]Circle?[SP]We're\ntalking[SP]about[SP]the[SP]same[SP]guy,[SP]right?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Ginji Sasaki est dans le Cercle masqué?\nOn parle bien du même type?"
   },
   {
     "id": 101,
@@ -1693,8 +1693,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "Oho...[1205][0014][SP]so[SP]the[SP]new[SP]Leader[SP]at[SP]Cuss[SP]High[SP]used[SP]to\nbe[SP]one[SP]of[SP]the[SP]old[SP]Boss'[SP]henchmen.[1205][U+000F][SP]O[SP]irony.[1205][U+000F]\nWell,[SP]here's[SP]my[SP]end[SP]of[SP]the[SP]deal.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Oho...[1205][0014] le nouveau chef du Lycée Kakasu\nétait un sbire de l'ancien Boss.[1205][U+000F] Quelle ironie.[1205][U+000F]\nVoilà ma part."
   },
   {
     "id": 104,
@@ -1724,8 +1724,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "...[1205][0014]The[SP]cat[SP]statue[SP]at[SP]the[SP]detective[SP]agency\ntalks.[1205][U+000F][SP]Where[SP]do[SP]you[SP]get[SP]this[SP]stuff?[1205][U+000F][SP]Fine,\nI'll[SP]give[SP]you[SP]something[SP]in[SP]return.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "...[1205][0014] La statue de chat à l'agence parle.[1205][U+000F]\nD'où tu sors ça?[1205][U+000F] Bon,\nvoilà quelque chose en échange."
   },
   {
     "id": 106,
@@ -1755,8 +1755,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "The[SP]brain[SP]is[SP]a[SP]bundle[SP]of[SP]nerve[SP]cells[SP]connected\nto[SP]each[SP]other,[SP]managing[SP]and[SP]controlling[SP]a[SP]vast\namount[SP]of[SP]information.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Le cerveau est un réseau de neurones\nreliés entre eux, gérant une quantité\nimmense d'informations."
   },
   {
     "id": 108,
@@ -1770,8 +1770,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "We're[SP]like[SP]those[SP]nerve[SP]cells.[1205][U+000F][SP]And[SP]it's[SP]the\nInternet[SP]that[SP]connects[SP]us.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Nous sommes ces neurones.[1205][U+000F] Et c'est\nInternet qui nous connecte."
   },
   {
     "id": 109,
@@ -1801,8 +1801,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "If[SP]so,[SP]maybe[SP]I'd[SP]put[SP]a[SP]little[SP]more[SP]stock[SP]in\nthe[SP]collective[SP]unconsciousness[SP]theory.[1205][U+000F]\nWe're[SP]all[SP]connected.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Si c'est le cas, je croirais plus\nen la théorie de l'inconscient collectif.[1205][U+000F]\nNous sommes tous connectés."
   },
   {
     "id": 111,
@@ -1816,8 +1816,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "With[SP]advances[SP]in[SP]media[SP]technology,[SP]people[SP]say\nthat[SP]we're[SP]drowning[SP]in[SP]information[SP]nowadays.\nBut[SP]that's[SP]just[SP]a[SP]misunderstanding.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Avec les avancées des médias, les gens disent\nqu'on se noie dans l'information.\nMais c'est un malentendu."
   },
   {
     "id": 112,
@@ -1831,8 +1831,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "What[SP]we're[SP]drowning[SP]in[SP]is[SP]useless[SP]information.\nThe[SP]signal[SP]and[SP]noise[SP]are[SP]all[SP]mixed[SP]together.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Ce dont on se noie, c'est l'information inutile.\nLe signal et le bruit sont mélangés."
   },
   {
     "id": 113,
@@ -1847,8 +1847,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "It's[SP]harder[SP]to[SP]see[SP]what's[SP]really[SP]valuable.[1205][U+000F]\nThat[SP]stuff's[SP]invisible[SP]to[SP]the[SP]eye...[SP]But[SP]you\ngotta[SP]chase[SP]it[SP]down.[1205][U+000F][SP]Wouldn't[SP]you[SP]agree?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Colporteur Baofu",
+    "texte_fr": "Plus difficile de voir ce qui a de la valeur.[1205][U+000F]\nÇa se voit pas à l'œil nu... Mais faut\nle traquer.[1205][U+000F] Tu es d'accord?"
   },
   {
     "id": 114,
@@ -1991,8 +1991,8 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Let's[SP]see...[1205][U+000F][SP][1432][NULL][NULL][0014]I'm[SP]super[SP]sure[SP]it[SP]was[SP]the[SP]Masked\nCircle,[SP]guys![SP]^_^v[1432][NULL][NULL][0014][1205][U+000F][SP]Hehe...[SP]Gonna[SP]use[SP]my[SP]girl\nmode[SP]for[SP]this...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Homme corpulent",
+    "texte_fr": "Voyons...[1205][U+000F] [1432][NULL][NULL][0014]C'est sûrement le Cercle masqué,\nles gars! ^_^v[1432][NULL][NULL][0014][1205][U+000F] Hehe...\nMode fille pour ça..."
   },
   {
     "id": 123,
@@ -2007,8 +2007,8 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "[1432][NULL][NULL][0014]Some[SP]kids[SP]just[SP]ran[SP]in[SP]here![SP]O.o[SP]They[SP]told[SP]me\nthe[SP]people[SP]in[SP]those[SP]sketches[SP]are[SP]heroes\nfighting[SP]the[SP]Masked[SP]Circle![SP]:O[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Homme corpulent",
+    "texte_fr": "[1432][NULL][NULL][0014]Des gamins ont débarqué! O.o\nIls disent que c'est les héros contre le\nCercle masqué sur les dessins! :O[1432][NULL][NULL][0014]"
   },
   {
     "id": 124,
@@ -3063,8 +3063,8 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "[1432][NULL][NULL][0014]Enter[SP]the[SP]magazine[SP]sweepstakes[SP]for[SP]your[SP]chance\nto[SP]win[SP]real[SP]weapons[1432][NULL][NULL][0014]...[1205][U+000F][SP]Huh.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Homme corpulent",
+    "texte_fr": "[1432][NULL][NULL][0014]Participez au concours du magazine\npour gagner des armes[1432][NULL][NULL][0014]...[1205][U+000F] Ah."
   },
   {
     "id": 190,
@@ -3111,8 +3111,8 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "[1432][NULL][NULL][0014]Enter[SP]the[SP]magazine[SP]sweepstakes[SP]for[SP]your[SP]chance\nto[SP]win[SP]real[SP]weapons[1432][NULL][NULL][0014]...[1205][U+000F][SP]Huh.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Homme corpulent",
+    "texte_fr": "[1432][NULL][NULL][0014]Participez au concours du magazine\npour gagner des armes[1432][NULL][NULL][0014]...[1205][U+000F] Ah."
   },
   {
     "id": 193,
@@ -3159,8 +3159,8 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "[1432][NULL][NULL][0014]Enter[SP]the[SP]magazine[SP]sweepstakes[SP]for[SP]your[SP]chance\nto[SP]win[SP]real[SP]weapons[1432][NULL][NULL][0014]...[1205][U+000F][SP]Huh.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Homme corpulent",
+    "texte_fr": "[1432][NULL][NULL][0014]Participez au concours du magazine\npour gagner des armes[1432][NULL][NULL][0014]...[1205][U+000F] Ah."
   },
   {
     "id": 196,
@@ -3486,8 +3486,8 @@
     ],
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "So[SP]you[SP]want[SP]me[SP]to[SP]tell[SP]you[SP]how[SP]to[SP]eat.\nOkay...[SP]Just[SP]choose[SP][1432][NULL][NULL][0014]Dine[SP]in.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gamin fainéant",
+    "texte_fr": "Tu sais pas comment manger?\nBon... Choisis [1432][NULL][NULL][0014]Manger.[1432][NULL][NULL][0014]"
   },
   {
     "id": 216,
@@ -3501,8 +3501,8 @@
     ],
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Food[SP]can[SP]raise[SP]your[SP]stats[SP]for[SP]a[SP]while.\nDifferent[SP]food[SP]does[SP]different[SP]things.\nAre[SP]you[SP]getting[SP]all[SP]this?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gamin fainéant",
+    "texte_fr": "La nourriture booste un peu tes stats.\nDifférents plats font différentes choses.\nCompris?"
   },
   {
     "id": 217,

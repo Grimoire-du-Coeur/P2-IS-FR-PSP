@@ -204,8 +204,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Is[SP]there[SP]anything[SP]else?\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Comte",
+    "texte_fr": "Autre chose?\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets\nPapoter\nNon\nQuitter",
     "question_orig": "Is[SP]there[SP]anything[SP]else?",
     "choix_orig": [
       "[U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -596,8 +596,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "My[SP]castle[SP]does[SP]handle[SP]the[SP]legendary[SP]flower.[1205][001E]\nBut[SP]it[SP]is[SP]a[SP]rare[SP]thing.[SP]I[SP]cannot[SP]part[SP]with[SP]it\neasily.[1205][001E][SP]If[SP]you[SP]doubled[SP]its[SP]price,[SP]then...\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nBuy[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Comte",
+    "texte_fr": "Mon château a bien cette fleur.[1205][001E]\nMais elle est rare. Dur de s'en\nséparer.[1205][001E] Si vous doubliez le prix...\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nAcheter objets\nPapoter\nNon\nQuitter",
     "question_orig": "My[SP]castle[SP]does[SP]handle[SP]the[SP]legendary[SP]flower.[1205][001E]\nBut[SP]it[SP]is[SP]a[SP]rare[SP]thing.[SP]I[SP]cannot[SP]part[SP]with[SP]it\neasily.[1205][001E][SP]If[SP]you[SP]doubled[SP]its[SP]price,[SP]then...",
     "choix_orig": [
       "[U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nBuy[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -620,8 +620,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Welcome[SP]to[SP]Time[SP]Castle...[1205][U+000A][SP]The[SP]onrush[SP]of[SP]time[SP]is\nswift[SP]and[SP]unceasing.[1205][U+000A][SP]Now,[SP]state[SP]your[SP]business.\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Comte",
+    "texte_fr": "Bienvenue au Château du Temps...[1205][U+000A]\nLe flot du temps est\nrapide.[1205][U+000A] Dites-moi votre requête.\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets\nPapoter\nNon\nQuitter",
     "question_orig": "Welcome[SP]to[SP]Time[SP]Castle...[1205][U+000A][SP]The[SP]onrush[SP]of[SP]time[SP]is\nswift[SP]and[SP]unceasing.[1205][U+000A][SP]Now,[SP]state[SP]your[SP]business.",
     "choix_orig": [
       "[U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -900,8 +900,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "That[SP]will[SP]be[SP]a[SP]total[SP]of[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Comte",
+    "texte_fr": "Total de [120E][NULL] yens.\nOk?\n[1208][0002]Oui\nNon",
     "question_orig": "That[SP]will[SP]be[SP]a[SP]total[SP]of[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?",
     "choix_orig": [
       "Yes\nNo"
@@ -923,8 +923,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "You[SP]want[SP]to[SP]hear[SP]about[SP]buying[SP]and[SP]selling?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Infos sur échanges?"
   },
   {
     "id": 54,
@@ -938,8 +938,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "I'll[SP]explain[SP]first[SP]how[SP]to[SP]buy[SP]items.[SP]Select,\nfor[SP]example,[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can\npurchase[SP]that[SP]category[SP]of[SP]item.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Pour acheter, choisissez par\nexemple [1432][NULL][NULL][0014]Acheter accessoires[1432][NULL][NULL][0014] pour\nacheter cette catégorie."
   },
   {
     "id": 55,
@@ -953,8 +953,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Certain[SP]things[SP]can[SP]only[SP]be[SP]equipped[SP]by[SP]certain\nindividuals.[SP]Make[SP]sure[SP]you[SP]check[SP]these\nconditions[SP]before[SP]making[SP]your[SP]purchase.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Certains équipements ne vont qu'à\ncertains individus. Vérifiez\navant tout achat."
   },
   {
     "id": 56,
@@ -968,8 +968,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Next,[SP]selling[SP]items.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and\nyou[SP]can[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Select\nan[SP]item[SP]type[SP]and[SP]then[SP]decide[SP]what[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014]\npour choisir le type. Sélectionnez\npuis quoi vendre."
   },
   {
     "id": 57,
@@ -984,8 +984,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "The[SP]resale[SP]price[SP]is[SP]about[SP]50%[SP]of[SP]the[SP]original\nprice.[SP]Equipped[SP]items[SP]and[SP]certain[SP]special[SP]items\ncannot[SP]be[SP]sold.[SP]That[SP]should[SP]cover[SP]it,[SP]I[SP]think.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Revente à 50% du prix.\nLes objets équipés et\nspéciaux ne sont pas vendables. C'est tout."
   },
   {
     "id": 58,
@@ -999,8 +999,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "You[SP]want[SP]to[SP]hear[SP]about[SP]buying[SP]and[SP]selling?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Infos sur échanges?"
   },
   {
     "id": 59,
@@ -1029,8 +1029,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Each[SP]of[SP]you[SP]can[SP]only[SP]use[SP]certain[SP]weapons.\nBe[SP]aware[SP]of[SP]that[SP]before[SP]you[SP]make[SP]your[SP]purchase.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Chacun ne peut utiliser que certaines\narmes. Gardez-le en tête\navant votre achat."
   },
   {
     "id": 61,
@@ -1044,8 +1044,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Select[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase\naccessories.[SP]Again,[SP]certain[SP]things[SP]can[SP]only[SP]be\nequipped[SP]by[SP]certain[SP]individuals.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter accessoires[1432][NULL][NULL][0014] pour\ndes accessoires. Là encore, certains objets\nne sont équipables que par certains."
   },
   {
     "id": 62,
@@ -1059,8 +1059,8 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "Next,[SP]selling[SP]items.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and\nyou[SP]can[SP]choose[SP]a[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Select\nan[SP]item[SP]type[SP]and[SP]then[SP]decide[SP]what[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014]\npour choisir le type. Sélectionnez\npuis quoi vendre."
   },
   {
     "id": 63,
@@ -1075,7 +1075,7 @@
     ],
     "nom_orig": "Count",
     "texte_orig": "The[SP]resale[SP]price[SP]is[SP]about[SP]50%[SP]of[SP]the[SP]original\nprice.[SP]Equipped[SP]items[SP]and[SP]certain[SP]special[SP]items\ncannot[SP]be[SP]sold.[SP]That[SP]should[SP]cover[SP]it,[SP]I[SP]think.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Comte",
+    "texte_fr": "Revente à 50% du prix.\nLes objets équipés et\nspéciaux ne sont pas vendables. C'est tout."
   }
 ]

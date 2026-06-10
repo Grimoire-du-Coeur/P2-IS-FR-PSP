@@ -59,8 +59,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "That[SP]reminds[SP]me,[SP]I[SP]remember[SP]now[SP]how[SP]Ms.[SP]Ideal\nwas[SP]always[SP]checking[SP]on[SP]the[SP]Narurato[SP]Stone.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Ah, ça me revient... Mme Ideal ne cessait\nde surveiller la Pierre Narurato."
   },
   {
     "id": 4,
@@ -75,8 +75,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "She[SP]knew[SP]this[SP]whole[SP]time[SP]that[SP]it[SP]would[SP]lead\nto[SP]the[SP]Silver[SP]River.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Elle savait depuis le début que ça mènerait\nau Fleuve d'Argent."
   },
   {
     "id": 5,
@@ -307,8 +307,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "And[SP]what[SP]do[SP]you[SP]propose[SP]we[SP]speak[SP]of?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "De quoi souhaitez-vous parler?\n[1208][0002]Papoter\nRens. soins",
     "question_orig": "And[SP]what[SP]do[SP]you[SP]propose[SP]we[SP]speak[SP]of?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -345,8 +345,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]here,[SP]your[SP]HP,[SP]SP,[SP]and\nstatus[SP]ailments[SP]such[SP]as[SP]poison[SP]will[SP]be\nhealed[SP]through[SP]breathing[SP]in[SP]fragrances.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Si vous choisissez [1432][NULL][NULL][0014]Soins[1432][NULL][NULL][0014] ici, vos HP, SP et\naltérations comme le poison seront\nsoignés en inhalant mes fragrances."
   },
   {
     "id": 21,
@@ -409,8 +409,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Understood.[SP]Then[SP]it[SP]will[SP]be[SP]a[SP]group[SP]rate[SP]of\n1,200[SP]yen.[SP]Is[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Très bien. Ce sera 1 200 yens\npour le groupe. C'est d'accord?\n[1208][0002]Oui\nNon",
     "question_orig": "Understood.[SP]Then[SP]it[SP]will[SP]be[SP]a[SP]group[SP]rate[SP]of\n1,200[SP]yen.[SP]Is[SP]that[SP]all[SP]right?",
     "choix_orig": [
       "Yes\nNo"
@@ -433,8 +433,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "The[SP]treatment[SP]is[SP]complete.[SP]Do[SP]you[SP]feel[SP]refreshed\nthrough[SP]the[SP]power[SP]of[SP]fragrances?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Le soin est terminé. Vous sentez-vous\nreposé grâce au pouvoir des fragrances?"
   },
   {
     "id": 26,
@@ -480,8 +480,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "It[SP]seems[SP]the[SP]Last[SP]Battalion[SP]attacked[SP]Sevens...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Il paraît que le Bataillon a attaqué Seven..."
   },
   {
     "id": 29,
@@ -496,8 +496,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Weren't[SP]there[SP]students[SP]and[SP]teachers[SP]still\ninside?[1205][U+000F][SP]I[SP]wonder[SP]if[SP]they're[SP]all[SP]right...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Il y avait encore des élèves et des profs\ndedans?[1205][U+000F] J'espère qu'ils vont bien..."
   },
   {
     "id": 30,
@@ -512,8 +512,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Miss[SP]Kaori\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Puis-je faire autre chose pour vous?\n[1208][U+0004]Soins\nParoter avec Mlle Kaori\nNon\nQuitter",
     "question_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]Miss[SP]Kaori\nNever[SP]mind\nLeave"
@@ -536,8 +536,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "And[SP]what[SP]do[SP]you[SP]propose[SP]we[SP]speak[SP]of?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "De quoi souhaitez-vous parler?\n[1208][0002]Papoter\nRens. soins",
     "question_orig": "And[SP]what[SP]do[SP]you[SP]propose[SP]we[SP]speak[SP]of?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -560,8 +560,8 @@
     ],
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Pardon[SP]me,[SP]but[SP]it[SP]seems[SP]you[SP]don't[SP]have[SP]enough\nmoney.[SP]Please[SP]come[SP]again.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mlle Kaori",
+    "texte_fr": "Excusez-moi, mais vous n'avez pas\nassez d'argent. Revenez nous voir."
   },
   {
     "id": 33,
@@ -591,8 +591,8 @@
     ],
     "nom_orig": "Older[SP]woman",
     "texte_orig": "Oh[SP]my,[SP]what[SP]should[SP]I[SP]do!?[1205][U+000A][SP]It's[SP]all[SP]happening\nin[SP]accordance[SP]with[SP]the[SP]In[SP]Lak'ech!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme âgée",
+    "texte_fr": "Oh là là, que faire?![1205][U+000A] Tout se passe\nconformément à l'In Lak'ech!"
   },
   {
     "id": 35,
@@ -607,8 +607,8 @@
     ],
     "nom_orig": "Older[SP]woman",
     "texte_orig": "Even[SP]this[SP]UFO[SP]actually[SP]exists...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme âgée",
+    "texte_fr": "Même cet OVNI existe vraiment..."
   },
   {
     "id": 36,
@@ -622,8 +622,8 @@
     ],
     "nom_orig": "Older[SP]woman",
     "texte_orig": "I[SP]can't[SP]just[SP]stand[SP]here![1205][U+000A][SP]Let's[SP]see,[SP]what's[SP]the\nnext[SP]part[SP]of[SP]the[SP]Oracle...[1205][U+000A][SP][1432][NULL][NULL][0014]Five[SP]skulls[SP]glow\nin[SP]the[SP]depths[SP]of[SP]the[SP]earth[1432][NULL][NULL][0014]?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme âgée",
+    "texte_fr": "Je ne peux pas rester là![1205][U+000A] Voyons, la suite\nde l'Oracle...[1205][U+000A] [1432][NULL][NULL][0014]Cinq crânes brillent\ndans les profondeurs de la terre[1432][NULL][NULL][0014]?"
   },
   {
     "id": 37,
@@ -669,8 +669,8 @@
     ],
     "nom_orig": "Older[SP]woman",
     "texte_orig": "Oh,[SP]yeah.[SP]I[SP]should[SP]tell[SP]my[SP]friend[SP]in[SP]Hirasaka.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme âgée",
+    "texte_fr": "Ah oui, je dois prévenir mon amie à Hirasaka."
   },
   {
     "id": 40,
@@ -685,8 +685,8 @@
     ],
     "nom_orig": "Older[SP]woman",
     "texte_orig": "Heeheehee,[SP]guess[SP]our[SP]little[SP]gossip[SP]sessions\nwon't[SP]be[SP]lacking[SP]in[SP]excitement[SP]anytime[SP]soon!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Femme âgée",
+    "texte_fr": "Hihihi, nos petites séances de commérages\nne manqueront pas d'animation de sitôt!"
   },
   {
     "id": 41,
@@ -828,8 +828,8 @@
     ],
     "nom_orig": "Young[SP]man",
     "texte_orig": "The[SP]fragrance[SP]lingering[SP]in[SP]this[SP]store[SP]can[SP]only\nbe[SP]the[SP]scent[SP]of[SP]the[SP]happiness[SP]that[SP]radiates\nfrom[SP]her.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jeune homme",
+    "texte_fr": "Le parfum de cette boutique ne\npeut être que celui du bonheur qui\nrayonne d'elle."
   },
   {
     "id": 50,

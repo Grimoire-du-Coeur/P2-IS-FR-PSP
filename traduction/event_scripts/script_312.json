@@ -140,8 +140,8 @@
     ],
     "nom_orig": "Ma'am",
     "texte_orig": "Hey[SP]there.[SP]What'll[SP]it[SP]be?\n[1208][U+0006]Buy[SP]weapons\nSell[SP]items\nDine[SP]in\nTalk[SP]to[SP]Ma'am\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Cheffe",
+    "texte_fr": "Salut. Ce sera quoi?\n[1208][U+0006]Acheter    \nVendre    \nManger \nDiscuter     \nRien merci\nFiler",
     "question_orig": "Hey[SP]there.[SP]What'll[SP]it[SP]be?",
     "choix_orig": [
       "[U+0006]Buy[SP]weapons\nSell[SP]items\nDine[SP]in\nTalk[SP]to[SP]Ma'am\nNever[SP]mind\nLeave"
@@ -212,8 +212,8 @@
     ],
     "nom_orig": "Ma'am",
     "texte_orig": "Anythin'[SP]else?\n[1208][U+0006]Buy[SP]weapons\nSell[SP]items\nDine[SP]in\nTalk[SP]to[SP]Ma'am\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Cheffe",
+    "texte_fr": "Autre chose?\n[1208][U+0006]Acheter    \nVendre    \nManger \nDiscuter     \nRien merci\nFiler",
     "question_orig": "Anythin'[SP]else?",
     "choix_orig": [
       "[U+0006]Buy[SP]weapons\nSell[SP]items\nDine[SP]in\nTalk[SP]to[SP]Ma'am\nNever[SP]mind\nLeave"
@@ -347,8 +347,8 @@
     ],
     "nom_orig": "Ma'am",
     "texte_orig": "Some[SP]people[SP]been[SP]sayin'[SP][E4][NULL][NULL][U+0006]I[SP]sell[SP]a[SP]legendary\ncase[SP]here[E4][NULL][NULL][0002],[SP]right?[1205][U+000F][SP]Who'd[SP]go[SP]startin'[SP]a[SP]rumor\nlike[SP]that?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Cheffe",
+    "texte_fr": "Certains disent [E4][NULL][NULL][U+0006]que je vends un étui\nlégendaire[E4][NULL][NULL][0002], pas vrai?[1205][U+000F] Qui a pu lancer\nune telle rumeur?"
   },
   {
     "id": 19,
@@ -763,8 +763,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "I'm[SP]begging[SP]you![SP]Say[SP]it[SP]ain't[SP]so!\n[1208][0002][1432][NULL][NULL][0014]Good[SP]luck.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Don't[SP]force[SP]yourself.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Pitié! Dis que tu le ferais pas!\n[1208][0002][1432][NULL][NULL][0014]Courage.  [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ne te forces pas.    [1432][NULL][NULL][0014]",
     "question_orig": "I'm[SP]begging[SP]you![SP]Say[SP]it[SP]ain't[SP]so!",
     "choix_orig": [
       "Good[SP]luck.",
@@ -789,8 +789,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Tch![SP]Fine![1205][U+000F][SP]You[SP]want[SP]me[SP]to[SP]eat[SP]it![1205][U+000F][SP]I'll[SP]eat[SP]it!\nI'll[SP]show[SP]you[SP]the[SP]Great[SP]Michel's[SP]iron[SP]stomach!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Tss! Bien![1205][U+000F] Si vous voulez![1205][U+000F] Je vais le manger!\nAdmirez l'estomac d'acier du Grand Michel!"
   },
   {
     "id": 46,
@@ -1066,8 +1066,8 @@
     ],
     "nom_orig": "Ma'am",
     "texte_orig": "Everyone[SP]has[SP]their[SP]own[SP]preferred[SP]type[SP]of\nweapon,[SP]so[SP]make[SP]sure[SP]you[SP]check[SP]who[SP]can[SP]use\nwhat[SP]before[SP]buyin'[SP]anything.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Cheffe",
+    "texte_fr": "Chacun a son type d'arme favori,\ndonc vérifie qui utilise quoi avant d'acheter\nquoi que ce soit."
   },
   {
     "id": 63,
@@ -1081,8 +1081,8 @@
     ],
     "nom_orig": "Ma'am",
     "texte_orig": "Then[SP]there's[SP]sellin'.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014]\nand[SP]then[SP]which[SP]kinda[SP]item[SP]you[SP]wanna[SP]sell.\nThen[SP]choose[SP]somethin'[SP]to[SP]sell[SP]me.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Cheffe",
+    "texte_fr": "Puis y'a la vente. Choisis [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014]\npuis une catégorie d'objet à vendre.\nEnfin, choisis un truc à me vendre."
   },
   {
     "id": 64,
@@ -1096,8 +1096,8 @@
     ],
     "nom_orig": "Ma'am",
     "texte_orig": "I'll[SP]pay[SP]around[SP]half[SP]of[SP]what[SP]you[SP]originally\npaid[SP]for[SP]stuff.[SP]I[SP]won't[SP]buy[SP]anything[SP]you've\ngot[SP]equipped[SP]or[SP]seems[SP]too[SP]important.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Cheffe",
+    "texte_fr": "Je paie environ la moitié du prix d'achat.\nJe n'achèterai aucun objet équipé sur toi\nou qui semble trop important."
   },
   {
     "id": 65,
@@ -1127,8 +1127,8 @@
     ],
     "nom_orig": "Ma'am",
     "texte_orig": "Thinkin'[SP]of[SP]dining[SP]in,[SP]huh?[SP]Select[SP][1432][NULL][NULL][0014]Dine[SP]in[1432][NULL][NULL][0014]\nhere[SP]if[SP]you[SP]want[SP]some[SP]of[SP]my[SP]ramen.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Cheffe",
+    "texte_fr": "Envie de manger un bout, hein? Choisis [1432][NULL][NULL][0014]Manger[1432][NULL][NULL][0014]\npour goûter mes ramen."
   },
   {
     "id": 67,

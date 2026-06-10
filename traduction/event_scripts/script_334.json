@@ -252,8 +252,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Wait[SP]a[SP]sec![1205][U+000F][SP]What[SP]do[SP]you[SP]mean,[SP][1432][NULL][NULL][0014]debut[1432][NULL][NULL][0014]?[1205][U+000F][SP]I[SP]don't\nknow[SP]what[SP]you're[SP]talking[SP]about.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Attends ![1205][U+000F] Que veux-tu dire par [1432][NULL][NULL][0014]début[1432][NULL][NULL][0014] ?[1205][U+000F]\nJe ne sais pas de quoi tu parles."
   },
   {
     "id": 16,
@@ -348,8 +348,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "[1432][NULL][NULL][0014]Creepy[1432][NULL][NULL][0014]'s[SP]going[SP]a[SP]little[SP]far...[1205][U+000F][SP]Although...\nI[SP]guess[SP]they're[SP]right...[1205][U+000F][SP]I[SP]mean,[SP]we[SP]did...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "[1432][NULL][NULL][0014]Glauque[1432][NULL][NULL][0014] va un peu loin...[1205][U+000F] Bien que...\nJe suppose qu'ils ont raison...[1205][U+000F] Enfin, on a..."
   },
   {
     "id": 22,
@@ -460,8 +460,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "[1432][NULL][NULL][0014]Debut[1432][NULL][NULL][0014]...?[1205][U+000F][SP]Did[SP]Lisa[SP]audition[SP]for[SP]anything?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "[1432][NULL][NULL][0014]Début[1432][NULL][NULL][0014]... ?[1205][U+000F] Lisa a passé une audition ?"
   },
   {
     "id": 29,
@@ -684,8 +684,8 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Didn't[SP]Hamya[SP]say[SP]something[SP]like[SP][1432][NULL][NULL][0014]Glory[SP]to[SP]the\nmask[1432][NULL][NULL][0014][SP]back[SP]at[SP]Sevens?[1205][U+000F][SP]Is[SP]this[SP]what[SP]that[SP]was\nabout...?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Hamya n'a pas dit quelque chose comme [1432][NULL][NULL][0014]Gloire au\nmasque[1432][NULL][NULL][0014] à Seven ?[1205][U+000F] Est-ce que c'était ça... ?"
   },
   {
     "id": 43,
@@ -844,8 +844,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Ah,[SP]welcome[SP]to[SP]Anima[SP]Mundi,[SP]where[SP]all[SP]fashion\nsprings[SP]from.[SP]How[SP]may[SP]I[SP]help[SP]you?\n[1208][U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Bienvenue à Anima Mundi, berceau\nde la mode. Que voulez-vous ?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre\nParler à la vendeuse\nRien\nQuitter",
     "question_orig": "Ah,[SP]welcome[SP]to[SP]Anima[SP]Mundi,[SP]where[SP]all[SP]fashion\nsprings[SP]from.[SP]How[SP]may[SP]I[SP]help[SP]you?",
     "choix_orig": [
       "[U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -916,8 +916,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Autre chose ?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre\nParler à la vendeuse\nRien\nQuitter",
     "question_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?",
     "choix_orig": [
       "[U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -988,8 +988,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Hm?[SP]You're[SP]a[SP]high[SP]school[SP]student...[SP]Sevens,\nright?[SP]Ah...[SP]I[SP]see...[SP]Oh,[SP]I[SP]was[SP]just\nappreciating[SP]how[SP]cute[SP]you[SP]are.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Hm? You're a high school student... Seven,\nright? Ah... I see... Oh, I was just\nappreciating how cute you are."
   },
   {
     "id": 59,
@@ -2716,8 +2716,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "That[SP]comes[SP]to[SP][120E][NULL].[SP]Is[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Ça fera [120E][NULL]. Ça vous va ?\n[1208][0002]Oui\nNon",
     "question_orig": "That[SP]comes[SP]to[SP][120E][NULL].[SP]Is[SP]that[SP]all[SP]right?",
     "choix_orig": [
       "Yes\nNo"
@@ -2739,8 +2739,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "All[SP]right,[SP]let[SP]me[SP]explain[SP]how[SP]we[SP]do[SP]things.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "All right, let me explain how we do things."
   },
   {
     "id": 168,
@@ -2754,8 +2754,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "First,[SP]you[SP]should[SP]know[SP]that[SP]you[SP]can[SP]buy[SP]armor\nhere[SP]by[SP]selecting[SP][1432][NULL][NULL][0014]Buy[SP]armor.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "First, you should know that you can buy armor\nhere by selecting [1432][NULL][NULL][0014]Buy armor.[1432][NULL][NULL][0014]"
   },
   {
     "id": 169,
@@ -2769,8 +2769,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Some[SP]armor[SP]can[SP]only[SP]be[SP]equipped[SP]by[SP]certain\npeople,[SP]so[SP]make[SP]sure[SP]to[SP]check[SP]before[SP]you[SP]buy.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Some armor can only be equipped by certain\npeople, so make sure to check before you buy."
   },
   {
     "id": 170,
@@ -2784,8 +2784,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Next,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]you'll\nbe[SP]prompted[SP]to[SP]select[SP]an[SP]item[SP]type.[SP]After[SP]that,\nchoose[SP]which[SP]item[SP]you[SP]want[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Next, selling. Choose [1432][NULL][NULL][0014]Sell items[1432][NULL][NULL][0014] and you'll\nbe prompted to select an item type. After that,\nchoose which item you want to sell."
   },
   {
     "id": 171,
@@ -2799,8 +2799,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "We[SP]normally[SP]pay[SP]around[SP]half[SP]the[SP]original[SP]price\nfor[SP]things[SP]you[SP]sell[SP]us.[SP]We[SP]don't[SP]take[SP]equipped\nitems[SP]or[SP]special[SP]items.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "We normally pay around half the original price\nfor things you sell us. We don't take equipped\nitems or special items."
   },
   {
     "id": 172,
@@ -2815,8 +2815,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "I[SP]think[SP]that[SP]covers[SP]everything.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "I think that covers everything."
   },
   {
     "id": 173,
@@ -2830,8 +2830,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "All[SP]right,[SP]let[SP]me[SP]explain[SP]how[SP]we[SP]do[SP]things.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "All right, let me explain how we do things."
   },
   {
     "id": 174,
@@ -2845,8 +2845,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "First,[SP]you[SP]should[SP]know[SP]that[SP]you[SP]can[SP]buy[SP]armor\nhere[SP]by[SP]selecting[SP][1432][NULL][NULL][0014]Buy[SP]armor.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "First, you should know that you can buy armor\nhere by selecting [1432][NULL][NULL][0014]Buy armor.[1432][NULL][NULL][0014]"
   },
   {
     "id": 175,
@@ -2860,8 +2860,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Some[SP]armor[SP]can[SP]only[SP]be[SP]equipped[SP]by[SP]certain\npeople,[SP]so[SP]make[SP]sure[SP]to[SP]check[SP]before[SP]you[SP]buy.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Some armor can only be equipped by certain\npeople, so make sure to check before you buy."
   },
   {
     "id": 176,
@@ -2875,8 +2875,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Shopping[SP]for[SP]accessories[SP]works[SP]the[SP]same[SP]way.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Shopping for accessories works the same way."
   },
   {
     "id": 177,
@@ -2890,8 +2890,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Be[SP]careful,[SP]since[SP]there[SP]are[SP]restrictions[SP]on\nwho[SP]can[SP]equip[SP]certain[SP]accessories.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Be careful, since there are restrictions on\nwho can equip certain accessories."
   },
   {
     "id": 178,
@@ -2905,8 +2905,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Last,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]you'll\nbe[SP]prompted[SP]to[SP]select[SP]an[SP]item[SP]type.[SP]After[SP]that,\nchoose[SP]which[SP]item[SP]you[SP]want[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Last, selling. Choose [1432][NULL][NULL][0014]Sell items[1432][NULL][NULL][0014] and you'll\nbe prompted to select an item type. After that,\nchoose which item you want to sell."
   },
   {
     "id": 179,
@@ -2920,8 +2920,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "We[SP]normally[SP]pay[SP]around[SP]half[SP]the[SP]original[SP]price\nfor[SP]things[SP]you[SP]sell[SP]us.[SP]We[SP]don't[SP]take[SP]equipped\nitems[SP]or[SP]special[SP]items.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "We normally pay around half the original price\nfor things you sell us. We don't take equipped\nitems or special items."
   },
   {
     "id": 180,
@@ -2936,7 +2936,7 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "I[SP]think[SP]that[SP]covers[SP]everything.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "I think that covers everything."
   }
 ]

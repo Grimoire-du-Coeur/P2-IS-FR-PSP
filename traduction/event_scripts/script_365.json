@@ -332,8 +332,8 @@
     ],
     "nom_orig": "Master",
     "texte_orig": "Welcome...[1205][U+000F][SP]What[SP]would[SP]you[SP]like?\n[1208][U+0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Maître",
+    "texte_fr": "Bienvenue...[1205][U+000F] Que souhaites-tu?\n[1208][U+0007][1210][U+03BD]Acheter    \n[1210][U+035C]Accessoires   \n[1210][U+03BD]Vendre    \nManger \nDiscuter          \nRien merci\nFiler",
     "question_orig": "Welcome...[1205][U+000F][SP]What[SP]would[SP]you[SP]like?",
     "choix_orig": [
       "[U+0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave"
@@ -404,8 +404,8 @@
     ],
     "nom_orig": "Master",
     "texte_orig": "Will[SP]that[SP]be[SP]all?\n[1208][U+0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Maître",
+    "texte_fr": "Ce sera tout?\n[1208][U+0007][1210][U+03BD]Acheter    \n[1210][U+035C]Accessoires   \n[1210][U+03BD]Vendre    \nManger \nDiscuter          \nRien merci\nFiler",
     "question_orig": "Will[SP]that[SP]be[SP]all?",
     "choix_orig": [
       "[U+0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave"
@@ -476,8 +476,8 @@
     ],
     "nom_orig": "Master",
     "texte_orig": "Everything[SP]here[SP]is[SP]a[SP]remnant[SP]of[SP]the[SP]ships[SP]\nthat[SP]lived[SP]on[SP]the[SP]boundless[SP]sea[SP]with[SP]me.[SP]They\nchased[SP]me[SP]to[SP]shore[SP]with[SP]the[SP]salty[SP]breeze...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maître",
+    "texte_fr": "Tout ici provient des bateaux qui m'ont\naccompagné en mer. La brise iodée les a\nguidé jusqu'à la rive où je me trouvais..."
   },
   {
     "id": 27,
@@ -978,8 +978,8 @@
     ],
     "nom_orig": "Master",
     "texte_orig": "They'll[SP]raise[SP]your[SP]stats[SP]for[SP]a[SP]limited[SP]time...\nThe[SP]effects[SP]are[SP]different[SP]between[SP]dishes.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maître",
+    "texte_fr": "Ils augmentent temporairement tes capacités...\nL'effet varie selon le plat."
   },
   {
     "id": 58,
@@ -1009,8 +1009,8 @@
     ],
     "nom_orig": "Master",
     "texte_orig": "Hmm...[SP]Buying[SP]and[SP]selling,[SP]eh?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maître",
+    "texte_fr": "Hmm acheter et vendre, hein?"
   },
   {
     "id": 60,
@@ -1024,8 +1024,8 @@
     ],
     "nom_orig": "Master",
     "texte_orig": "When[SP]you[SP]choose[SP][1432][NULL][NULL][0014]Buy[SP]weapons,[1432][NULL][NULL][0014][SP]I'll[SP]show[SP]you\nwhat[SP]I've[SP]got[SP]stocked.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maître",
+    "texte_fr": "Quand tu choisiras [1432][NULL][NULL][0014]Armes,[1432][NULL][NULL][0014] je te montrerais mon stock."
   },
   {
     "id": 61,
@@ -1054,8 +1054,8 @@
     ],
     "nom_orig": "Master",
     "texte_orig": "As[SP]for[SP]selling,[SP]first[SP]you'll[SP]need[SP]to[SP]choose\nwhich[SP]type[SP]of[SP]thing[SP]to[SP]sell,[SP]then[SP]show[SP]me\nthe[SP]actual[SP]item[SP]you're[SP]offering.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maître",
+    "texte_fr": "Pour la vente, sache que tu devras d'abord\nchoisir le type d'objet avant de me montrer\nun objet précis."
   },
   {
     "id": 63,
@@ -1085,8 +1085,8 @@
     ],
     "nom_orig": "Master",
     "texte_orig": "Hmm...[SP]Buying[SP]and[SP]selling,[SP]eh?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maître",
+    "texte_fr": "Hmm acheter et vendre, hein?"
   },
   {
     "id": 65,
@@ -1100,8 +1100,8 @@
     ],
     "nom_orig": "Master",
     "texte_orig": "When[SP]you[SP]choose[SP][1432][NULL][NULL][0014]Buy[SP]weapons,[1432][NULL][NULL][0014][SP]I'll[SP]show[SP]you\nwhat[SP]I've[SP]got[SP]stocked.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maître",
+    "texte_fr": "Quand tu choisiras [1432][NULL][NULL][0014]Armes,[1432][NULL][NULL][0014] je te montrerais mon stock."
   },
   {
     "id": 66,
@@ -1130,8 +1130,8 @@
     ],
     "nom_orig": "Master",
     "texte_orig": "Choosing[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]works[SP]the[SP]same[SP]way.\nAgain,[SP]certain[SP]accessories[SP]can[SP]only[SP]be[SP]used\nby[SP]certain[SP]people,[SP]so[SP]watch[SP]out[SP]for[SP]that.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maître",
+    "texte_fr": "Choisir [1432][NULL][NULL][0014]Accessoires[1432][NULL][NULL][0014] fait la même chose.\nLà aussi, certains accessoires sont exclusifs\nà certaines personnes, fais-y attention."
   },
   {
     "id": 68,
@@ -1145,8 +1145,8 @@
     ],
     "nom_orig": "Master",
     "texte_orig": "As[SP]for[SP]selling,[SP]first[SP]you'll[SP]need[SP]to[SP]choose\nwhich[SP]type[SP]of[SP]thing[SP]to[SP]sell,[SP]then[SP]show[SP]me\nthe[SP]actual[SP]item[SP]you're[SP]offering.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maître",
+    "texte_fr": "Pour la vente, sache que tu devras d'abord\nchoisir le type d'objet avant de me montrer\nun objet précis."
   },
   {
     "id": 69,

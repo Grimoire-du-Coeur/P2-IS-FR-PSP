@@ -107,8 +107,8 @@
     ],
     "nom_orig": "Jun",
     "texte_orig": "There[SP]was[SP]a[SP]profound[SP]emptiness[SP]in[SP]me...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Il y avait en moi un profond vide..."
   },
   {
     "id": 7,
@@ -123,8 +123,8 @@
     ],
     "nom_orig": "Jun",
     "texte_orig": "I[SP]thought[SP]it[SP]couldn't[SP]be[SP]filled[SP]unless[SP]I[SP]found\nmy[SP]purpose[SP]in[SP]life...[1205][U+000F][SP]But[SP]that[SP]wasn't[SP]it.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Je pensais qu'il ne pouvait être comblé\nque si je trouvais mon but...[1205][U+000F] Mais non."
   },
   {
     "id": 8,
@@ -243,8 +243,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Oh[SP]yeah?[SP]What[SP]should[SP]we[SP]talk[SP]about?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mec",
+    "texte_fr": "Ah ouais ? De quoi on parle ?\n[1208][0002]Papoter\nRenseigner sur les soins",
     "question_orig": "Oh[SP]yeah?[SP]What[SP]should[SP]we[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -266,8 +266,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Sure,[SP]I'll[SP]tell[SP]you[SP]how[SP]this[SP]works.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mec",
+    "texte_fr": "Bien sûr, je vais vous expliquer."
   },
   {
     "id": 16,
@@ -281,8 +281,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Heal,[1432][NULL][NULL][0014][SP]our[SP]tanning[SP]beds[SP]will\nrestore[SP]your[SP]HP[SP]and[SP]SP,[SP]plus[SP]cure[SP]any[SP]status\nailments[SP]like[SP]poison[SP]in[SP]the[SP]bargain.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mec",
+    "texte_fr": "Si vous choisissez [1432][NULL][NULL][0014]Soigner,[1432][NULL][NULL][0014] nos cabines UV\nrestaurent vos PV et PM, et soignent\nles altérations comme le poison."
   },
   {
     "id": 17,
@@ -297,8 +297,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Yeah,[SP]it's[SP]a[SP]little[SP]expensive,[SP]but[SP]since[SP]it\nheals[SP]all[SP]of[SP]you,[SP]it's[SP]cheaper[SP]in[SP]the[SP]end.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mec",
+    "texte_fr": "C'est un peu cher, mais ça soigne\ntout le monde, donc c'est rentable."
   },
   {
     "id": 18,
@@ -345,8 +345,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Got[SP]it![SP]One[SP]healing[SP]course,[SP]coming[SP]right[SP]up.\nThe[SP]fee's[SP]1,200[SP]yen.[SP]Are[SP]you[SP]cool[SP]with[SP]that?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mec",
+    "texte_fr": "Reçu ! Un soin tout de suite.\nTarif : 1 200 yens. Vous êtes ok ?\n[1208][0002]Oui\nNon",
     "question_orig": "Got[SP]it![SP]One[SP]healing[SP]course,[SP]coming[SP]right[SP]up.\nThe[SP]fee's[SP]1,200[SP]yen.[SP]Are[SP]you[SP]cool[SP]with[SP]that?",
     "choix_orig": [
       "Yes\nNo"
@@ -489,8 +489,8 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Oh[SP]yeah?[SP]What[SP]should[SP]we[SP]talk[SP]about?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mec",
+    "texte_fr": "Ah ouais ? De quoi on parle ?\n[1208][0002]Papoter\nRenseigner sur les soins",
     "question_orig": "Oh[SP]yeah?[SP]What[SP]should[SP]we[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
@@ -513,7 +513,7 @@
     ],
     "nom_orig": "Bro",
     "texte_orig": "Yikes![SP]C'mon,[SP]dude.[SP]You[SP]don't[SP]have[SP]enough[SP]money.[1205][U+000F]\nI[SP]can't[SP]let[SP]you[SP]use[SP]the[SP]tanning[SP]beds[SP]like[SP]this.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mec",
+    "texte_fr": "Aïe, mec. Vous n'avez pas assez d'argent.[1205][U+000F]\nJe ne peux pas vous laisser utiliser les cabines."
   }
 ]

@@ -139,8 +139,8 @@
     ],
     "nom_orig": "Pale[SP]man",
     "texte_orig": "The[SP]Earth[SP]will[SP]be[SP]destroyed.[1205][U+000A][SP]Too[SP]bad,[SP]so[SP]sad.[1205][U+000A]\nWe[SP]were[SP]chosen[SP]and[SP]the[SP]ones[SP]down[SP]there[SP]weren't.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Homme blême",
+    "texte_fr": "La Terre sera détruite.[1205][U+000A] Dommage.[1205][U+000A]\nNous sommes élus, pas eux là-bas."
   },
   {
     "id": 9,
@@ -155,8 +155,8 @@
     ],
     "nom_orig": "Pale[SP]man",
     "texte_orig": "My[SP]heart[SP]bleeds[SP]for[SP]them.[SP]But[SP]who[SP]can[SP]help[SP]it?[1205][U+000A]\nWe[SP]are[SP]the[SP]chosen[SP]ones![SP]Heheheh!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Homme blême",
+    "texte_fr": "J'ai de la peine pour eux. Mais qu'y faire?[1205][U+000A]\nNous sommes les élus! Heheheh!"
   },
   {
     "id": 10,
@@ -313,8 +313,8 @@
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "Ever[SP]since[SP]the[SP]city[SP]took[SP]to[SP]the[SP]sky,[SP]my[SP]sisters\nhave[SP]been[SP]on[SP]the[SP]horn[SP]nonstop.[1205][U+000F][SP]They're[SP]worried\nwe[SP]won't[SP]be[SP]able[SP]to[SP]take[SP]our[SP]chain[SP]nationwide.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°1",
+    "texte_fr": "Depuis que la ville a décollé, mes sœurs\nm'appellent sans arrêt.[1205][U+000F] Elles s'inquiètent\nde ne pas pouvoir ouvrir nos franchises."
   },
   {
     "id": 17,
@@ -393,8 +393,8 @@
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Sœur n°1",
+    "texte_fr": "Ça fait [120E][NULL] yens en tout.\nC'est bon pour vous?\n[1208][0002]Oui\nNon",
     "question_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?",
     "choix_orig": [
       "Yes\nNo"
@@ -416,8 +416,8 @@
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "Heeheehee.[SP]Okay,[SP]I'll[SP]tell[SP]you[SP]a[SP]little[SP]about\nshopping.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°1",
+    "texte_fr": "Hihihi. Je vais vous expliquer\nles achats."
   },
   {
     "id": 23,
@@ -431,8 +431,8 @@
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°1",
+    "texte_fr": "D'abord, acheter. Choisissez [1432][NULL][NULL][0014]Acheter[1432][NULL][NULL][0014]\npour parcourir nos articles."
   },
   {
     "id": 24,
@@ -446,8 +446,8 @@
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "Oh,[SP]and[SP]there's[SP]a[SP]limit[SP]to[SP]how[SP]many[SP]of[SP]the\nsame[SP]item[SP]you[SP]can[SP]carry.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°1",
+    "texte_fr": "Il y a une limite par type d'objet\nque vous pouvez porter."
   },
   {
     "id": 25,
@@ -461,8 +461,8 @@
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°1",
+    "texte_fr": "Ensuite, vendre. Choisissez [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014],\npuis le type d'objet, puis\nl'objet à nous vendre."
   },
   {
     "id": 26,
@@ -476,8 +476,8 @@
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "Our[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°1",
+    "texte_fr": "Nos prix de rachat sont environ la moitié\ndu prix d'origine. Les objets équipés\nne sont pas vendables, ni certains objets spéciaux."
   },
   {
     "id": 27,
@@ -492,7 +492,7 @@
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "That's[SP]about[SP]it.[SP]Heeheehee.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Sœur n°1",
+    "texte_fr": "Voilà! Hihihi."
   }
 ]

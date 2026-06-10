@@ -36,8 +36,8 @@
     ],
     "nom_orig": "Employee",
     "texte_orig": "Alrighty![SP]Anything[SP]else?\n[1208][U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Employé",
+    "texte_fr": "Parfait ! Autre chose ?\n[1208][U+0004]Acheter des CDs\nParler\nAnnuler\nQuitter",
     "question_orig": "Alrighty![SP]Anything[SP]else?",
     "choix_orig": [
       "[U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -228,8 +228,8 @@
     ],
     "nom_orig": "Employee",
     "texte_orig": "Now[SP]that's[SP]weird...[1205][U+000F][SP]Did[SP]we[SP]used[SP]to[SP]carry[SP]this\n[1432][NULL][NULL][0014]secret[SP]CD[1432][NULL][NULL][0014]?[1205][U+000F][SP]Huh,[SP]well,[SP]I[SP]see[SP]we[SP]have[SP]it[SP]in\nstock...[SP]so[SP]I[SP]guess[SP]we[SP]carry[SP]it[SP]now!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Employé",
+    "texte_fr": "C'est bizarre...[1205][U+000F] On avait ce\n[1432][NULL][NULL][0014]CD secret[1432][NULL][NULL][0014] en stock ?[1205][U+000F] Bah, je vois qu'on l'a\nen rayon... donc je suppose qu'on le vend !"
   },
   {
     "id": 13,
@@ -321,8 +321,8 @@
     ],
     "nom_orig": "Employee",
     "texte_orig": "We[SP]get[SP]more[SP]singles[SP]over[SP]time,[SP]so[SP]make[SP]sure\nyou[SP]come[SP]by[SP]to[SP]check[SP]'em[SP]out.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Employé",
+    "texte_fr": "On reçoit régulièrement de nouveaux singles,\nrevenez les voir."
   },
   {
     "id": 19,
@@ -337,8 +337,8 @@
     ],
     "nom_orig": "Employee",
     "texte_orig": "Oh,[SP]and[SP]you[SP]can[SP]play[SP]the[SP]CDs[SP]you[SP]buy[SP]on\na[SP]stereo.[SP]You've[SP]gotta[SP]know[SP]someone[SP]with\na[SP]boom[SP]box,[SP]right?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Employé",
+    "texte_fr": "Oh, et vous pouvez écouter les CDs\nsur une chaîne. Vous connaissez quelqu'un\navec une sono, non ?"
   },
   {
     "id": 20,
@@ -377,8 +377,8 @@
     ],
     "nom_orig": "Employee",
     "texte_orig": "Wow,[SP]the[SP]Primo[SP]corner's[SP]all[SP]sold[SP]out!\nThanks[SP]for[SP]your[SP]patronage!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Employé",
+    "texte_fr": "Waouh, le rayon Primo est épuisé !\nMerci de votre patronage !"
   },
   {
     "id": 22,

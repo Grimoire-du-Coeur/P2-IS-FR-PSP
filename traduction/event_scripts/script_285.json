@@ -332,8 +332,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Toku-san l'informateur",
+    "texte_fr": "Quel type de rumeur veux-tu entendre?[1208][U+0004][1210][U+0472]Loteries de magazines      \n\n[1210][U+0473]]Mu       \n[1210][U+0474]Arme légendaire        \nAucune",
     "question_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?",
     "choix_orig": [
       "[U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them"
@@ -932,8 +932,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Perhaps[SP]it's[SP]time[SP]to[SP]retire[SP]the[SP]very[SP]term\n[1432][NULL][NULL][0014]rumor[1432][NULL][NULL][0014][SP]in[SP]Sumaru[SP]City.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Toku-san l'informateur",
+    "texte_fr": "Il est peut-être temps de retirer le terme\n[1432][NULL][NULL][0014]rumeur[1432][NULL][NULL][0014] de Sumaru."
   },
   {
     "id": 56,
@@ -1284,8 +1284,8 @@
     ],
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "It[SP]yelled[SP]at[SP]some[SP]kid[SP]who[SP]wandered[SP]in[SP]there,\nsaying[SP][1432][NULL][NULL][0014]Get[SP]in[SP]here![1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Étudiant ennuyé",
+    "texte_fr": "Elle aurait crié [1432][NULL][NULL][0014]Viens là-dedans![1432][NULL][NULL][0014] à\nun môme qui passait par là."
   },
   {
     "id": 78,
@@ -2196,8 +2196,8 @@
     ],
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][U+000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][U+000F][SP][1432][NULL][NULL][0014]Vivalba[1432][NULL][NULL][0014][SP]is[SP]short[SP]for\n[1432][NULL][NULL][0014]Viva[SP]Xibalba.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Cultiste",
+    "texte_fr": "Nyarshtan Nyargashana Vivalba![1205][U+000F] Nyarshtan\nNyargashana Vivalba![1205][U+000F] [1432][NULL][NULL][0014]Vivalba[1432][NULL][NULL][0014] c'est pour\n[1432][NULL][NULL][0014]Viva Xibalba.[1432][NULL][NULL][0014]"
   },
   {
     "id": 135,
@@ -2212,8 +2212,8 @@
     ],
     "nom_orig": "Cultist",
     "texte_orig": "That[SP][1432][NULL][NULL][0014]Nyarshtan[SP]Nyargashanna[1432][NULL][NULL][0014][SP]chant...[1205][U+000F][SP]What\ndoes[SP]it[SP]mean?[1205][U+000F][SP]Even[SP]I[SP]don't[SP]know.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Cultiste",
+    "texte_fr": "Ce chant, [1432][NULL][NULL][0014]Nyarshtan Nyargashana[1432][NULL][NULL][0014]...[1205][U+000F] Ça\nveut dire quoi?[1205][U+000F] Je sais même pas."
   },
   {
     "id": 136,

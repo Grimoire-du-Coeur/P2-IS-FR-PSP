@@ -92,8 +92,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Ah,[SP]welcome[SP]to[SP]Anima[SP]Mundi,[SP]where[SP]all[SP]fashion\nsprings[SP]from.[SP]How[SP]may[SP]I[SP]help[SP]you?\n[1208][U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Bienvenue chez Anima Mundi. Que désirez-vous?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter le magasin",
     "question_orig": "Ah,[SP]welcome[SP]to[SP]Anima[SP]Mundi,[SP]where[SP]all[SP]fashion\nsprings[SP]from.[SP]How[SP]may[SP]I[SP]help[SP]you?",
     "choix_orig": [
       "[U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -236,8 +236,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Ugh...[1205][U+000A][SP]I[SP]can[SP]barely[SP]stand...[1205][U+000A][SP]I[SP]feel[SP]like[SP]I'm\ngoing[SP]to[SP]faint...[1205][U+000F][SP]Is[SP]the[SP]city[SP]actually[SP]flying?[1205][U+000F]\nI[SP]can't[SP]tell[SP]what's[SP]real[SP]and[SP]what's[SP]not...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Urgh...[1205][U+000A] Je tiens à peine debout...[1205][U+000A] J'ai l'impression\nde m'évanouir...[1205][U+000F] La ville vole vraiment?[1205][U+000F]\nJe ne sais plus ce qui est réel..."
   },
   {
     "id": 12,
@@ -412,8 +412,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "That[SP]comes[SP]to[SP][120E][NULL].[SP]Is[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Cela fait [120E][NULL]. C'est bien ça?\n[1208][0002]Oui\nNon",
     "question_orig": "That[SP]comes[SP]to[SP][120E][NULL].[SP]Is[SP]that[SP]all[SP]right?",
     "choix_orig": [
       "Yes\nNo"
@@ -480,8 +480,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Next,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]you'll\nbe[SP]prompted[SP]to[SP]select[SP]an[SP]item[SP]type.[SP]After[SP]that,\nchoose[SP]which[SP]item[SP]you[SP]want[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Ensuite, pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] et\nvous devrez sélectionner un type d'objet. Puis\nchoisissez l'objet à vendre."
   },
   {
     "id": 27,
@@ -511,8 +511,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "I[SP]think[SP]that[SP]covers[SP]everything.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Voilà tout."
   },
   {
     "id": 29,
@@ -571,8 +571,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Shopping[SP]for[SP]accessories[SP]works[SP]the[SP]same[SP]way.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Les accessoires s'achètent de la même façon."
   },
   {
     "id": 33,
@@ -586,8 +586,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Be[SP]careful,[SP]since[SP]there[SP]are[SP]restrictions[SP]on\nwho[SP]can[SP]equip[SP]certain[SP]accessories.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Attention, certains accessoires sont réservés\nà des personnages précis."
   },
   {
     "id": 34,
@@ -601,8 +601,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Last,[SP]selling.[SP]Choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]you'll\nbe[SP]prompted[SP]to[SP]select[SP]an[SP]item[SP]type.[SP]After[SP]that,\nchoose[SP]which[SP]item[SP]you[SP]want[SP]to[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Enfin, pour vendre. Choisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] et\nvous devrez sélectionner un type d'objet. Puis\nchoisissez l'objet à vendre."
   },
   {
     "id": 35,
@@ -632,7 +632,7 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "I[SP]think[SP]that[SP]covers[SP]everything.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Voilà tout."
   }
 ]

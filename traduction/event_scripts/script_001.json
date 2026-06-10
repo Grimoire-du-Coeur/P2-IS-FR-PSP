@@ -60,8 +60,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "Have[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?\n[1208][0002][1432][NULL][NULL][0014]Yeah,[SP]I've[SP]decided.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]yet.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "T'as une idée de ce que tu veux faire\nplus tard ?     \n[1208][0002][1432][NULL][NULL][0014]Ouais, j'ai décidé.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Rien... [1432][NULL][NULL][0014]",
     "question_orig": "Have[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?",
     "choix_orig": [
       "Yeah,[SP]I've[SP]decided.",
@@ -86,8 +86,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "And?[SP]Will[SP]you[SP]apply[SP]to[SP]college[SP]or[SP]go\njob[SP]hunting?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Et? Tu tentes l'université\nou chercher du boulot?"
   },
   {
     "id": 5,
@@ -128,8 +128,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "If[SP]you're[SP]just[SP]saying[SP]what[SP]you[SP]think\nI[SP]want[SP]to[SP]hear,[SP]think[SP]harder.[SP]Do[SP]you\nreally[SP]want[SP]to[SP]go[SP]to[SP]college?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Ne dis pas juste ce que\nje veux entendre\nT'as vraiment envie de l'université ?"
   },
   {
     "id": 7,
@@ -144,8 +144,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "Do[SP]you[SP]really[SP]want[SP]to[SP]go[SP]to[SP]college?\n[1208][0002][1432][NULL][NULL][0014]I[SP]seriously[SP]do.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Honestly,[SP]I[SP]don't[SP]know.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "T'as vraiment envie de l'université?\n[1208][0002][1432][NULL][NULL][0014]Oui, vraiment. [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]aucune idée.           [1432][NULL][NULL][0014]",
     "question_orig": "Do[SP]you[SP]really[SP]want[SP]to[SP]go[SP]to[SP]college?",
     "choix_orig": [
       "I[SP]seriously[SP]do.",
@@ -170,8 +170,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "If[SP]you're[SP]just[SP]saying[SP]what[SP]you[SP]think\nI[SP]want[SP]to[SP]hear,[SP]think[SP]harder.[SP]Do[SP]you\nreally[SP]want[SP]a[SP]job?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Si tu dis ce que tu crois que\nje veux entendre, réfléchis.\nT'as vraiment envie de bosser?"
   },
   {
     "id": 9,
@@ -186,8 +186,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "Do[SP]you[SP]really[SP]want[SP]a[SP]job?\n[1208][0002][1432][NULL][NULL][0014]I[SP]seriously[SP]do.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Honestly,[SP]I[SP]don't[SP]know.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Tu veux vraiment un job? \n[1208][0002][1432][NULL][NULL][0014]Oui, vraiment. [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Aucune idée.           [1432][NULL][NULL][0014]",
     "question_orig": "Do[SP]you[SP]really[SP]want[SP]a[SP]job?",
     "choix_orig": [
       "I[SP]seriously[SP]do.",
@@ -212,8 +212,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "Then...[SP]Tell[SP]me,[SP]and[SP]you[SP]don't[SP]have\nto[SP]get[SP]specific.[1205][001E][SP]Is[SP]there[SP]anything\nyou[SP]want[SP]to[SP]do?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Dis-moi... Sans entrer\ndans les détails.[1205][001E] Y'a quelque chose\nque t'as envie de faire ?"
   },
   {
     "id": 11,
@@ -228,8 +228,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "Is[SP]there[SP]anything[SP]you[SP]want[SP]to[SP]do?\n[1208][0002][1432][NULL][NULL][0014]Actually,[SP]there[SP]is.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]No,[SP]not[SP]yet.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Y a un truc que tu veux faire ?  \n[1208][0002][1432][NULL][NULL][0014]En vrai, ouais.    [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pas encore. [1432][NULL][NULL][0014]",
     "question_orig": "Is[SP]there[SP]anything[SP]you[SP]want[SP]to[SP]do?",
     "choix_orig": [
       "Actually,[SP]there[SP]is.",
@@ -254,8 +254,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "But[SP]you[SP]can't[SP]go[SP]on[SP]that[SP]way[SP]forever,\ncan[SP]you?[SP]What[SP]do[SP]you[SP]think?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Mais tu peux pas rester comme ça\néternellement. T'en penses quoi?"
   },
   {
     "id": 13,
@@ -270,8 +270,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "What[SP]do[SP]you[SP]think?\n[1208][0002][1432][NULL][NULL][0014]I'll[SP]balance[SP]dreams[SP]and[SP]life.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I[SP]don't[SP]think[SP]about[SP]it[SP]much.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "T'en penses quoi ?\n[1208][0002][1432][NULL][NULL][0014]Je mêlerai rêve et réalité.  [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]J'y pense pas trop.         [1432][NULL][NULL][0014]",
     "question_orig": "What[SP]do[SP]you[SP]think?",
     "choix_orig": [
       "I'll[SP]balance[SP]dreams[SP]and[SP]life.",
@@ -296,8 +296,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "But[SP]you[SP]can't[SP]go[SP]on[SP]that[SP]way[SP]forever,\ncan[SP]you?[SP]What[SP]do[SP]you[SP]think?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Mais tu peux pas rester comme ça\néternellement. T'en penses quoi?"
   },
   {
     "id": 15,
@@ -312,8 +312,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "What[SP]do[SP]you[SP]think?\n[1208][0002][1432][NULL][NULL][0014]I[SP]want[SP]to[SP]find[SP]my[SP]true[SP]goal.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I[SP]don't[SP]think[SP]about[SP]it[SP]much.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Qu'en penses-tu ? \n[1208][0002][1432][NULL][NULL][0014]Je cherche mon vrai objectif[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je n'y pense pas trop.      [1432][NULL][NULL][0014]",
     "question_orig": "What[SP]do[SP]you[SP]think?",
     "choix_orig": [
       "I[SP]want[SP]to[SP]find[SP]my[SP]true[SP]goal.",
@@ -338,8 +338,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "[1113]...[1205][001E][SP]Why[SP]do[SP]you[SP]put[SP]up[SP]walls[SP]like\nthat?[SP]You[SP]look[SP]like[SP]you're[SP]in[SP]so[SP]much[SP]pain\nthat[SP]I[SP]can't[SP]bear[SP]to[SP]see[SP]it...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "[1113]...[1205][001E] Pourquoi tu te restreints comme ça ?\nTu as l'air d'être en souffrance et je ne peux\nle supporter..."
   },
   {
     "id": 17,
@@ -514,8 +514,8 @@
     ],
     "nom_orig": "Lisa",
     "texte_orig": "Says[SP]here...\n[1432][NULL][NULL][0014][1113][SP][1112]:[SP]We're[SP]holding\na[SP]girl[SP]from[SP]your[SP]school[SP]hostage.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "C'est écrit...\n[1432][NULL][NULL][0014][1113] [1112] : On tient une fille de\nvotre lycée en otage.[1432][NULL][NULL][0014]"
   },
   {
     "id": 28,
@@ -530,8 +530,8 @@
     ],
     "nom_orig": "Lisa",
     "texte_orig": "[1432][NULL][NULL][0014]If[SP]you[SP]value[SP]her[SP]life,[SP]come[SP]to[SP]Sumaru\nPrison[SP]alone.[SP]-Kasugayama[SP]High[SP]Boss,\n[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]Michel[SP]Eikichi[1432][NULL][NULL][0014]...!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "[1432][NULL][NULL][0014]tu veux la sauver? Viens seul\nà la prison Sumaru.-Le boss de Kasugayama,\n            Michel Eikichi[1432][NULL][NULL][0014]...!?"
   },
   {
     "id": 29,
@@ -705,8 +705,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "I[SP]see...[1205][001E][SP]Well,[SP]there's[SP]no[SP]reason[SP]to\nrush[SP]this.[SP]Give[SP]your[SP]future[SP]the[SP]long,\ncareful[SP]consideration[SP]it[SP]deserves.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Je vois...[1205][001E] Pas besoin de se presser.\nPrends le temps qu'il faut pour\npenser à ton avenir."
   },
   {
     "id": 40,
@@ -721,8 +721,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "It[SP]doesn't[SP]matter[SP]when[SP]it[SP]comes[SP]to\npursuing[SP]your[SP]dreams[SP]if[SP]you're[SP]slow\nor[SP]fast,[SP]after[SP]all.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Pour suivre ses rêves, peu importe\nqu'on soit lent ou rapide, après tout."
   },
   {
     "id": 41,
@@ -768,8 +768,8 @@
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "I[SP]see...[1205][001E][SP]Well,[SP]at[SP]least[SP]you[SP]have[SP]a[SP]goal\nyou're[SP]working[SP]towards.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Je vois...[1205][001E] Et bien, au moins tu\nte fixes des objectifs."
   },
   {
     "id": 44,

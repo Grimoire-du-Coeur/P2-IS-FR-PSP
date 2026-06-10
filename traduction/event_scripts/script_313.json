@@ -27,8 +27,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Huh?[SP]What's[SP]my[SP]next[SP]move[SP]now[SP]that[SP]I'm[SP]not\na[SP]Boss[SP]anymore?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Heu? C'est quoi mon accroche vu que je suis plus Boss?"
   },
   {
     "id": 2,
@@ -106,8 +106,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Tch,[SP]the[SP]rumors[SP]are[SP]controlling[SP]everything.\nThis[SP]is[SP]seriously[SP]not[SP]cool.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Tss, les rumeurs contrôlent tout.\nC'est vraiment relou."
   },
   {
     "id": 7,
@@ -202,8 +202,8 @@
     ],
     "nom_orig": "Lisa",
     "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#1![SP][1432][NULL][NULL][0014]Lei[SP]Ho[1432][NULL][NULL][0014][SP]means\n[1432][NULL][NULL][0014]Hello.[1432][NULL][NULL][0014][SP]Useful,[SP]huh?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Lisa",
+    "texte_fr": "Leçon de Cantonais #1! [1432][NULL][NULL][0014]Lei Ho[1432][NULL][NULL][0014] signifie\n[1432][NULL][NULL][0014]Salut.[1432][NULL][NULL][0014] Pratique nan?"
   },
   {
     "id": 13,
@@ -234,8 +234,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#1![SP][1432][NULL][NULL][0014]Lei[SP]Ho[1432][NULL][NULL][0014][SP]means\n[1432][NULL][NULL][0014]Hello.[1432][NULL][NULL][0014][SP]Useful,[SP]huh?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Leçon de Cantonais #1! [1432][NULL][NULL][0014]Lei Ho[1432][NULL][NULL][0014] signifie\n[1432][NULL][NULL][0014]Salut.[1432][NULL][NULL][0014] Pratique nan?"
   },
   {
     "id": 15,
@@ -266,8 +266,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#17![1205][001E][SP][1432][NULL][NULL][0014]Baaibaai[1432][NULL][NULL][0014][SP]means\n[1432][NULL][NULL][0014]Goodbye.[1432][NULL][NULL][0014][SP]That[SP]one's[SP]pretty[SP]easy.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Lesson de Cantonais #17![1205][001E] [1432][NULL][NULL][0014]Baaibaai[1432][NULL][NULL][0014] signifie\n[1432][NULL][NULL][0014]Au revoir.[1432][NULL][NULL][0014] Facile, celui-là."
   },
   {
     "id": 17,
@@ -298,8 +298,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Hey[SP][1113],[SP]do[SP]you[SP]think[SP]this[SP][1432][NULL][NULL][0014]game[1432][NULL][NULL][0014][SP]thing\nhas[SP]anything[SP]to[SP]do[SP]with[SP]that[SP]Oracle?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Dis, [1113], tu penses pas que ce [1432][NULL][NULL][0014]jeu[1432][NULL][NULL][0014]\na un lien avec cet Oracle?"
   },
   {
     "id": 19,
@@ -586,8 +586,8 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "They[SP]say[SP][1432][NULL][NULL][0014]the[SP]best[SP]defense[SP]is[SP]a[SP]good[SP]offense,[1432][NULL][NULL][0014]\nbut[SP]fighting[SP]demons[SP]isn't[SP]that[SP]simple.[SP]Something\nto[SP]keep[SP]in[SP]mind.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "On dit que [1432][NULL][NULL][0014]la meilleur défense c'est l'attaque,[1432][NULL][NULL][0014]\nmais affronter des démons est bien plus délicat.\nPenses-y."
   },
   {
     "id": 37,
@@ -650,8 +650,8 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "King[SP]Leo[SP]did[SP]say[SP]it[SP]was[SP]his[SP]duty[SP]to[SP]light[SP]the\n[1432][NULL][NULL][0014]flames[SP]of[SP]expiation.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "Pour le Roi Lion c'est un devoir d'allumer le\n[1432][NULL][NULL][0014]feu de l'expiation.[1432][NULL][NULL][0014]"
   },
   {
     "id": 41,
@@ -746,8 +746,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "You[SP]still[SP]want[SP]something?\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Siffleur",
+    "texte_fr": "Tu veux encore autre chose?\n[1208][U+0005]Acheter  \nVendre    \nDiscuter        \nRien merci\nS'en aller",
     "question_orig": "You[SP]still[SP]want[SP]something?",
     "choix_orig": [
       "[U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -818,8 +818,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "Get[SP]outta[SP]here[SP]if[SP]you're[SP]just[SP]gonna[SP]browse.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Siffleur",
+    "texte_fr": "Sors de là si t'es juste venu regarder."
   },
   {
     "id": 50,
@@ -1345,8 +1345,8 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "The[SP]attempt[SP]on[SP]Smile[SP]Hirasaka[SP]was[SP]thwarted,\nbut[SP]the[SP]attacks[SP]will[SP]continue[SP]until[SP]every\nlast[SP]human[SP]in[SP]the[SP]city[SP]is[SP]incinerated.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Membre du Cercle Masqué",
+    "texte_fr": "L'attaque du Smile Hirasaka a été stoppée,\nmais les assauts s'enchaîneront jusqu'à\nl'incinération totale des habitants."
   },
   {
     "id": 83,
@@ -1489,8 +1489,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "Yeah,[SP]what[SP]do[SP]you[SP]want?\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Siffleur",
+    "texte_fr": "Ouais, tu veux quoi?\n[1208][U+0005]]Acheter  \nVendre    \nDiscuter        \nRien merci\nS'en aller",
     "question_orig": "Yeah,[SP]what[SP]do[SP]you[SP]want?",
     "choix_orig": [
       "[U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]Whistler\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -1577,8 +1577,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Siffleur",
+    "texte_fr": "Ça fera [120E][NULL] yen.\n[1208][0002]Oui\nNon",
     "question_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.",
     "choix_orig": [
       "Yes\nNo"
@@ -1615,8 +1615,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "Only[SP]certain[SP]people[SP]can[SP]wear[SP]certain[SP]pieces\nof[SP]armor.[SP]Check[SP]before[SP]you[SP]buy[SP]anything,\nbecause[SP]all[SP]sales[SP]here[SP]are[SP]final.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Siffleur",
+    "texte_fr": "Chaque personne ne peut porter que certains\ntypes de pièces. Vérifie avant d'acheter,\ncar tu peux plus annuler après."
   },
   {
     "id": 98,
@@ -1630,8 +1630,8 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "Or[SP]you[SP]can[SP]choose[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]if[SP]you[SP]have\nsomething[SP]you[SP]want[SP]to[SP]get[SP]rid[SP]of.[SP]Pick[SP]which\nkind[SP]of[SP]item,[SP]then[SP]choose[SP]what[SP]you[SP]wanna[SP]sell.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Siffleur",
+    "texte_fr": "Sinon tu peux choisir [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014] si tu veux\nte débarrasser d'un truc, puis choisir le\ntype d'objet et quoi me vendre exactement."
   },
   {
     "id": 99,
@@ -1646,7 +1646,7 @@
     ],
     "nom_orig": "Whistler",
     "texte_orig": "I[SP]pay[SP]about[SP]half[SP]the[SP]retail[SP]price.[SP]Them's[SP]the\nbreaks.[SP]And[SP]I[SP]won't[SP]buy[SP]anything[SP]you[SP]got\nequipped[SP]or[SP]anything[SP]I[SP]got[SP]no[SP]use[SP]for.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Siffleur",
+    "texte_fr": "Je paye environ la moitié du prix d'achat.\nC'est comme ça. Et j'achète rien qui est\néquipé sur toi ou qui m'est inutile."
   }
 ]

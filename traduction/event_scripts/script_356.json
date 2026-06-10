@@ -28,8 +28,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Usually,[SP]you[SP]hear[SP]about[SP]something,[SP]and[SP]you\nthink,[SP][1432][NULL][NULL][0014]Oh,[SP]well,[SP]if[SP]he[SP]said[SP]so,[1432][NULL][NULL][0014][SP]and[SP]assume\nit's[SP]the[SP]truth.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "D'habitude, on entend quelque chose, et on pense\n[1432][NULL][NULL][0014]Oh, si il le dit,[1432][NULL][NULL][0014] et on assume\nque c'est la vérité."
   },
   {
     "id": 2,
@@ -91,8 +91,8 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "There[SP]have[SP]been[SP]lots[SP]of[SP]cases[SP]where[SP]rumors[SP]came\ntrue[SP]before.[SP]Like[SP]the[SP]1970s[SP]energy[SP]crisis.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Des rumeurs sont devenues vraies. Comme\nla crise énergétique des années 70."
   },
   {
     "id": 6,
@@ -138,8 +138,8 @@
     ],
     "nom_orig": "Jun",
     "texte_orig": "Or[SP]rather,[SP]the[SP]desires[SP]and[SP]impulses[SP]buried\ndeep[SP]within[SP]people.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jun",
+    "texte_fr": "Ou plutôt, les désirs et pulsions enfouis\nau fond des gens."
   },
   {
     "id": 9,
@@ -314,8 +314,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Tell[SP]us[SP]what[SP]brings[SP]you[SP]to[SP]our[SP]facility.\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Que puis-je faire pour vous?\n[1208][U+0004]Soigner\nParler à l'esthéticienne\nLaisser tomber\nQuitter",
     "question_orig": "Tell[SP]us[SP]what[SP]brings[SP]you[SP]to[SP]our[SP]facility.",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave"
@@ -361,8 +361,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Okay![SP]I'll[SP]give[SP]you[SP]the[SP]general[SP]outline[SP]of\nhow[SP]we[SP]operate.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Okay! Je vais vous expliquer\nnotre fonctionnement."
   },
   {
     "id": 22,
@@ -392,8 +392,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "There[SP]is[SP]a[SP]cost[SP]involved,[SP]but[SP]our[SP]methods\naffect[SP]all[SP]of[SP]you[SP]at[SP]once.[SP]Believe[SP]me,[SP]in\nthe[SP]long[SP]run,[SP]you'll[SP]save[SP]money.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Il y a un coût, mais nos méthodes\nvous affectent tous à la fois. Croyez-moi,\nvous économiserez à long terme."
   },
   {
     "id": 24,
@@ -440,8 +440,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Bien. Ce sera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui\nNon",
     "question_orig": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?",
     "choix_orig": [
       "Yes\nNo"
@@ -560,8 +560,8 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "May[SP]I[SP]help[SP]you[SP]with[SP]anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler à l'esthéticienne\nLaisser tomber\nQuitter",
     "question_orig": "May[SP]I[SP]help[SP]you[SP]with[SP]anything[SP]else?",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave"
@@ -608,7 +608,7 @@
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Ahh,[SP]I[SP]don't[SP]think[SP]you[SP]have[SP]enough[SP]money...\nRevolutionary[SP]treatment[SP]like[SP]ours[SP]doesn't\ncome[SP]cheap.[SP]My[SP]apologies.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Ahh, vous n'avez pas assez\nd'argent... Nos soins révolutionnaires\nsont chers. Toutes mes excuses."
   }
 ]
