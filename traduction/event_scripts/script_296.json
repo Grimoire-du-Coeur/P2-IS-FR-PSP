@@ -3946,8 +3946,8 @@
     ],
     "nom_orig": "Nameless",
     "texte_orig": "The[SP][1432][NULL][NULL][0014]you[1432][NULL][NULL][0014][SP]I[SP]know[SP]and[SP]the[SP][1432][NULL][NULL][0014]you[1432][NULL][NULL][0014][SP]that[SP]you[SP]know\nyourself...[1205][U+000F][SP]Are[SP]they[SP]the[SP]same?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Nameless",
+    "texte_fr": "Le [1432][NULL][NULL][0014]vous[1432][NULL][NULL][0014] que je connais et le [1432][NULL][NULL][0014]vous[1432][NULL][NULL][0014]\nque vous connaissez...[1205][U+000F] Les mêmes ?"
   },
   {
     "id": 243,
@@ -4897,8 +4897,8 @@
     ],
     "nom_orig": "Igor",
     "texte_orig": "Welcome[SP]to[SP]the[SP]Velvet[SP]Room.\nHow[SP]may[SP]I[SP]be[SP]of[SP]service[SP]to[SP]you[SP]today?\n[1208][U+0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Igor",
+    "texte_fr": "Bienvenue dans la Chambre de Velours.\nQue puis-je pour vous?\n[1208][U+0007]Invoquer Persona\nPrendre Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
     "question_orig": "Welcome[SP]to[SP]the[SP]Velvet[SP]Room.\nHow[SP]may[SP]I[SP]be[SP]of[SP]service[SP]to[SP]you[SP]today?",
     "choix_orig": [
       "[U+0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave"
