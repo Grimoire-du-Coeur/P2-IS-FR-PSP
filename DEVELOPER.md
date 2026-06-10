@@ -178,12 +178,12 @@ Lance `p2is_fr_tool.py` et suis les 3 onglets dans l'ordre :
 ---
 
 ## 🧰 Outils du projet
-- [JsonVerify](https://github.com/Garloulou/JsonVerify) par **@Garloulou** validation des fichiers JSON traduits
+- [JsonVerify](https://github.com/Garloulou/JsonVerify) par **@Garloulou** - validation des fichiers JSON traduits
 
 ## 🔩 Outils tiers utilisés
-- [UMDGen](https://www.romhacking.net/utilities/1218/) : manipulation ISO PSP
-- [CriFsLib](https://github.com/Sewer56/CriFsV2Lib) : extraction CPK
-- [PPSSPP](https://www.ppsspp.org/) : émulation PSP pour les tests
+- [UMDGen](https://www.romhacking.net/utilities/1218/) - manipulation ISO PSP
+- [CriFsLib](https://github.com/Sewer56/CriFsV2Lib) - extraction CPK
+- [PPSSPP](https://www.ppsspp.org/) - émulation PSP pour les tests
 
 ---
 
