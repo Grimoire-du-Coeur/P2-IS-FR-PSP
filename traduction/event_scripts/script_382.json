@@ -556,8 +556,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]can[SP]I[SP]do[SP]for[SP]you[SP]today?\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toro\nNever[SP]mind",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Toro l'informateur",
+    "texte_fr": "Je peux vous aider?\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler avec Toro\nNon merci",
     "question_orig": "What[SP]can[SP]I[SP]do[SP]for[SP]you[SP]today?",
     "choix_orig": [
       "[U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toro\nNever[SP]mind"
@@ -604,8 +604,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Toro l'informateur",
+    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
     "question_orig": "For[SP]which[SP]area?",
     "choix_orig": [
       "[U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone"
@@ -628,8 +628,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Toro l'informateur",
+    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nAucun",
     "question_orig": "For[SP]which[SP]area?",
     "choix_orig": [
       "[U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone"
@@ -692,8 +692,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Whoa...[1205][001E][SP]The[SP]principal[SP]at[SP]Sevens[SP]suddenly[SP]grew\nsome[SP]hair?[SP]I[SP]wonder[SP]if[SP]that[SP]was[SP]his[SP]request\nfor[SP]Joker.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Toro l'informateur",
+    "texte_fr": "Ouah...[1205][001E] Le directeur de Seven\na poussé des cheveux? Sa requête\npour Joker, peut-être?"
   },
   {
     "id": 39,
@@ -804,8 +804,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "You[SP]know[SP]the[SP][E4][NULL][NULL][U+0006]Jolly[SP]Roger[E4][NULL][NULL][0002][SP]cafe[SP]in[SP]Kounan?[1205][U+000F]\nThey[SP]supposedly[SP]sell[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][U+000F][SP]Their\nselection[SP]is[SP][E4][NULL][NULL][U+0006]cheap[SP]and[SP]low[SP]quality[E4][NULL][NULL][0002].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Toro l'informateur",
+    "texte_fr": "Vous connaissez [E4][NULL][NULL][U+0006]Jolly Roger[E4][NULL][NULL][0002] à Kounan?[1205][U+000F]\nIls ont de [E4][NULL][NULL][U+0006]vraies armes[E4][NULL][NULL][0002].[1205][U+000F] Leur\nsélection est [E4][NULL][NULL][U+0006]bon marché, mauvaise qualité[E4][NULL][NULL][0002]."
   },
   {
     "id": 46,
@@ -980,8 +980,8 @@
     ],
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "You[SP]know[SP]those[SP][E4][NULL][NULL][U+0006]magazine[SP]sweepstakes[E4][NULL][NULL][0002]?[SP]I[SP]hear[SP]you\ncan[SP]win[SP][E4][NULL][NULL][U+0006]real[SP]weapons[SP]and[SP]rare[SP]items[E4][NULL][NULL][0002].[SP]They're\n[E4][NULL][NULL][U+0006]seldom[SP]won,[SP]but[SP]the[SP]prizes[SP]are[SP]very[SP]rare[E4][NULL][NULL][0002].",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Toro l'informateur",
+    "texte_fr": "Vous connaissez les [E4][NULL][NULL][U+0006]tirages de magazines[E4][NULL][NULL][0002]?\nOn peut gagner de [E4][NULL][NULL][U+0006]vraies armes et objets rares[E4][NULL][NULL][0002].\n[E4][NULL][NULL][U+0006]Peu gagnés, mais les lots sont rares[E4][NULL][NULL][0002]."
   },
   {
     "id": 57,
@@ -2810,8 +2810,8 @@
     ],
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Once[SP]you've[SP]had[SP]a[SP]plate,[SP]you[SP]won't[SP]be[SP]able[SP]to\neat[SP]again[SP]until[SP]the[SP]effect[SP]wears[SP]off.[SP]And[SP]that\nabout[SP]wraps[SP]it[SP]up!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Père d'Eikichi",
+    "texte_fr": "Une fois mangé, vous ne pourrez plus manger\navant que l'effet se dissipe.\nVoilà tout ce qu'il y a à savoir!"
   },
   {
     "id": 171,
