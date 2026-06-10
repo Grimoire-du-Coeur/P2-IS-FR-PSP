@@ -9,6 +9,8 @@ from recover import (split_speaker_segments, build_segment_index,
 # Bloc d'intro de locuteur reutilise dans les fixtures.
 _BLK = '[U+1109][E2][E3][E4][NULL][NULL]"Ms.[SP]Saeko\n'
 _BLK_FR = '[U+1109][E2][E3][E4][NULL][NULL]"Mme Saeko\n'
+# Meme bloc apres convert_fr ([U+1109] -> [1109]), tel qu'il sort de l'index.
+_BLK_FR_CONV = _BLK_FR.replace("[U+1109]", "[1109]")
 
 
 class TestSplit(unittest.TestCase):
@@ -62,6 +64,86 @@ class TestIndex(unittest.TestCase):
         }]
         idx = build_segment_index(old)
         self.assertEqual(idx["Bonjour le monde"], "Salut le monde")
+
+
+def _old_three_segments():
+    # 3 repliques dans une seule ancienne entree, 2 blocs locuteur.
+    return [{
+        "id": 0, "data_size": 600, "slot_size": 604,
+        "nom_orig": "Ms.[SP]Saeko", "nom_fr": "Mme Saeko",
+        "texte_orig": ("Listen[SP]up!\n" + _BLK + "Calm[SP]down.\n" + _BLK
+                       + "Now[SP]go[SP]home."),
+        "texte_fr": ("Ecoutez !\n" + _BLK_FR + "Du calme.\n" + _BLK_FR
+                     + "Rentrez chez vous."),
+    }]
+
+
+class TestSpans(unittest.TestCase):
+    def test_index_contient_la_plage_de_deux_segments(self):
+        # le nouveau format peut garder 2 repliques ensemble (delimiteur inclus) :
+        # la plage seg1+delim+seg2 doit etre indexee, avec le delimiteur FR dedans.
+        idx = build_segment_index(_old_three_segments())
+        nu_plage = 'Calm down. "Ms. Saeko Now go home.'
+        self.assertIn(nu_plage, idx)
+        self.assertEqual(idx[nu_plage],
+                         "Du calme.\n" + _BLK_FR_CONV + "Rentrez chez vous.")
+
+    def test_remplit_une_entree_couvrant_deux_segments(self):
+        new = [{"id": 0, "data_size": 300, "slot_size": 304,
+                "nom_orig": "Ms.[SP]Saeko",
+                "texte_orig": "Calm[SP]down.\n" + _BLK + "Now[SP]go[SP]home.",
+                "nom_fr": "", "texte_fr": ""}]
+        report = fill_from_segments(_old_three_segments(), new)
+        self.assertEqual(report["filled"], 1)
+        self.assertEqual(new[0]["texte_fr"],
+                         "Du calme.\n" + _BLK_FR_CONV + "Rentrez chez vous.")
+
+
+class TestCopieAnglaise(unittest.TestCase):
+    def test_n_indexe_pas_une_copie_anglaise(self):
+        # vieille entree "traduite" par copie de l'anglais : ne pas la propager.
+        old = [{"id": 0, "nom_orig": "Tamaki", "nom_fr": "Tamaki",
+                "texte_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?",
+                "texte_fr": "What can I help you with?"}]
+        idx = build_segment_index(old)
+        self.assertNotIn("What can I help you with?", idx)
+
+    def test_l_entree_reste_vide_pour_traduction_fraiche(self):
+        old = [{"id": 0, "nom_orig": "Tamaki", "nom_fr": "Tamaki",
+                "texte_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?",
+                "texte_fr": "What can I help you with?"}]
+        new = [{"id": 0, "data_size": 200, "slot_size": 204,
+                "nom_orig": "Tamaki",
+                "texte_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?",
+                "nom_fr": "", "texte_fr": ""}]
+        report = fill_from_segments(old, new)
+        self.assertIn(0, report["no_match"])
+        self.assertEqual(new[0]["texte_fr"], "")
+
+
+class TestGlobalFallback(unittest.TestCase):
+    def test_remplit_depuis_l_index_global_si_absent_du_script(self):
+        autre = [{"id": 0, "nom_orig": "Eikichi", "nom_fr": "Eikichi",
+                  "texte_orig": "See[SP]ya[SP]later!", "texte_fr": "A plus !"}]
+        new = [{"id": 0, "data_size": 200, "slot_size": 204,
+                "nom_orig": "Eikichi", "texte_orig": "See[SP]ya[SP]later!",
+                "nom_fr": "", "texte_fr": ""}]
+        report = fill_from_segments([], new,
+                                    extra_idx=build_segment_index(autre),
+                                    extra_names=build_name_map(autre))
+        self.assertEqual(report["filled"], 1)
+        self.assertEqual(new[0]["texte_fr"], "A plus !")
+        self.assertEqual(new[0]["nom_fr"], "Eikichi")
+
+    def test_le_meme_script_garde_la_priorite(self):
+        local = [{"id": 0, "nom_orig": "X", "nom_fr": "X",
+                  "texte_orig": "Hello", "texte_fr": "Salut"}]
+        autre_idx = {"Hello": "Bonjour"}
+        new = [{"id": 0, "data_size": 200, "slot_size": 204,
+                "nom_orig": "X", "texte_orig": "Hello",
+                "nom_fr": "", "texte_fr": ""}]
+        fill_from_segments(local, new, extra_idx=autre_idx)
+        self.assertEqual(new[0]["texte_fr"], "Salut")
 
 
 class TestFill(unittest.TestCase):

@@ -24,6 +24,20 @@ def split_speaker_segments(texte):
     return _DELIM.split(texte)
 
 
+def speaker_spans(texte):
+    """Toutes les plages contiguës de segments, delimiteurs INTERNES inclus.
+
+    Le nouveau format ne scinde pas a chaque bloc locuteur : une nouvelle entree
+    peut couvrir plusieurs repliques consecutives, blocs "Nom compris. On retourne
+    (plages, nb_delimiteurs) ; les plages i==j sont les segments simples."""
+    ms = list(_DELIM.finditer(texte))
+    starts = [0] + [m.end() for m in ms]
+    ends = [m.start() for m in ms] + [len(texte)]
+    n = len(starts)
+    return ([texte[starts[i]:ends[j]] for i in range(n) for j in range(i, n)],
+            len(ms))
+
+
 def _struct(s):
     return [c for c in extract_codes(s) if c in _STRUCT_CODES]
 
@@ -32,28 +46,32 @@ def build_segment_index(old):
     """{texte_nu(orig): convert_fr(fr)} depuis les anciennes entrees traduites.
 
     On indexe l'entree ENTIERE (cas ou le nouveau format garde l'ancienne entree
-    telle quelle) ET chacun de ses segments (cas ou le nouveau format l'a scindee
-    aux blocs d'intro de locuteur). Les codes des delimiteurs etant identiques dans
-    texte_orig et texte_fr, les deux se decoupent en autant de segments ; on ignore
-    le decoupage d'une entree si le compte differe."""
+    telle quelle) ET chaque plage contigue de segments (cas ou le nouveau format
+    l'a scindee a certains blocs d'intro de locuteur seulement). Les codes des
+    delimiteurs etant identiques dans texte_orig et texte_fr, les deux se decoupent
+    en autant de plages ; on ignore le decoupage d'une entree si le compte differe."""
     idx = {}
     for e in old:
         if not e.get("texte_fr", "").strip():
             continue
         to = e.get("texte_orig", "")
         tf = e.get("texte_fr", "")
+        # Vieille entree "traduite" par copie de l'anglais (trad jamais faite) :
+        # ne rien indexer, sinon on propagerait de l'anglais dans les texte_fr.
+        if texte_nu(to) == texte_nu(tf):
+            continue
         # 1) entree entiere
         nu = texte_nu(to)
         if nu and nu not in idx:
             idx[nu] = convert_fr(tf.strip())
-        # 2) segments
-        so = split_speaker_segments(to)
-        sf = split_speaker_segments(tf)
-        if len(so) != len(sf):
+        # 2) plages de segments
+        so, no_delim = speaker_spans(to)
+        sf, nf_delim = speaker_spans(tf)
+        if no_delim != nf_delim:
             continue
         for o, f in zip(so, sf):
             snu = texte_nu(o)
-            if snu and snu not in idx:
+            if snu and snu != texte_nu(f) and snu not in idx:
                 idx[snu] = convert_fr(f.strip())
     return idx
 
@@ -69,14 +87,18 @@ def build_name_map(old):
     return m
 
 
-def fill_from_segments(old, new):
+def fill_from_segments(old, new, extra_idx=None, extra_names=None):
     """Remplit les entrees NOUVELLES dont texte_fr est vide, depuis l'index de segments.
 
+    `extra_idx`/`extra_names` : index global (tous scripts confondus) consulte en
+    REPLI seulement — le meme script garde la priorite.
     Garde-fous : ne touche jamais une entree deja traduite ; n'ecrit que si la
     structure de balises correspond ET si le cout tient dans le budget.
     Retourne {filled, over_budget:[id], struct_diff:[id], no_match:[id]}."""
     idx = build_segment_index(old)
     names = build_name_map(old)
+    extra_idx = extra_idx or {}
+    extra_names = extra_names or {}
     report = {"filled": 0, "over_budget": [], "struct_diff": [], "no_match": []}
     for e in new:
         if e.get("texte_fr", "").strip():
@@ -84,11 +106,11 @@ def fill_from_segments(old, new):
         nu = texte_nu(e.get("texte_orig", ""))
         if not nu:
             continue
-        fr = idx.get(nu)
+        fr = idx.get(nu) or extra_idx.get(nu)
         if not fr:
             report["no_match"].append(e["id"])
             continue
-        nom = names.get(e.get("nom_orig", ""), "")
+        nom = names.get(e.get("nom_orig", "")) or extra_names.get(e.get("nom_orig", ""), "")
         if _struct(e.get("texte_orig", "")) != _struct(fr):
             report["struct_diff"].append(e["id"])
             continue
@@ -113,17 +135,30 @@ def _paths(token):
             os.path.join(_PROJ, "traduction", "event_scripts", name))
 
 
-def recover_file(old_path, new_path):
+def recover_file(old_path, new_path, extra_idx=None, extra_names=None):
     with open(old_path, encoding="utf-8") as f:
         old = json.load(f)
     with open(new_path, encoding="utf-8") as f:
         new = json.load(f)
-    report = fill_from_segments(old, new)
+    report = fill_from_segments(old, new, extra_idx, extra_names)
     if report["filled"]:
         with open(new_path, "w", encoding="utf-8") as f:
             json.dump(new, f, ensure_ascii=False, indent=2)
             f.write("\n")
     return report
+
+
+def build_global_index():
+    """Index (textes + noms) sur TOUT l'ancien scripts/, pour le repli inter-scripts."""
+    g_idx, g_names = {}, {}
+    for p in sorted(glob.glob(os.path.join(_PROJ, "scripts", "script_*.json"))):
+        with open(p, encoding="utf-8") as f:
+            old = json.load(f)
+        for nu, fr in build_segment_index(old).items():
+            g_idx.setdefault(nu, fr)
+        for no, nf in build_name_map(old).items():
+            g_names.setdefault(no, nf)
+    return g_idx, g_names
 
 
 def main(argv):
@@ -135,12 +170,13 @@ def main(argv):
         tokens = [os.path.basename(p) for p in tokens]
     else:
         tokens = argv
+    g_idx, g_names = build_global_index()
     tot = 0
     for tok in tokens:
         op, npth = _paths(tok)
         if not os.path.exists(npth):
             continue
-        r = recover_file(op, npth)
+        r = recover_file(op, npth, g_idx, g_names)
         tot += r["filled"]
         if r["filled"]:
             print(f"{os.path.basename(npth)}: +{r['filled']} recuperees "
