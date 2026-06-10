@@ -76,8 +76,8 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "You[SP]can't[SP]spell[SP][1432][NULL][NULL][0014]romantic[1432][NULL][NULL][0014][SP]without[SP][1432][NULL][NULL][0014]man[1432][NULL][NULL][0014]!\n[1113][SP]and[SP]I[SP]know[SP]what's[SP]up.[SP]I[SP]won't[SP]tell\nanyone[SP]what's[SP]in[SP]the[SP]box,[SP]so[SP]rest[SP]easy!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Pas de [1432][NULL][NULL][0014]romantisme[1432][NULL][NULL][0014] sans [1432][NULL][NULL][0014]homme[1432][NULL][NULL][0014]!\n[1113] et moi on a pigé. Je dirai\nrien sur la boîte, sois tranquille!"
   },
   {
     "id": 5,
@@ -108,8 +108,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#4![1205][001E][SP][1432][NULL][NULL][0014]Houshounah[1432][NULL][NULL][0014][SP]means\nthat[SP]you're[SP]sad[SP]or[SP]pained.[SP]Don't[SP]make[SP]me[SP]say\nit[SP]too[SP]often,[SP]okay?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Leçon n°4 de Lisa![1205][001E]\n[1432][NULL][NULL][0014]Houshounah[1432][NULL][NULL][0014] veut dire être\ntriste ou blessé. Ne m'oblige\npas à le répéter, ok?"
   },
   {
     "id": 7,
@@ -140,8 +140,8 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#8![1205][001E][SP][1432][NULL][NULL][0014]Chinyan[1432][NULL][NULL][0014]...\nmeans[SP]lover![SP]Did[SP]you[SP]know[SP]that?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Leçon cantonais 8 de Lisa![1205][001E]\n[1432][NULL][NULL][0014]Chinyan[1432][NULL][NULL][0014]... veut dire\namant! Tu savais?"
   },
   {
     "id": 9,
@@ -220,8 +220,8 @@
     ],
     "nom_orig": "Yukino",
     "texte_orig": "We[SP]keep[SP]having[SP]to[SP]fend[SP]off[SP]demons,[SP]but[SP]it\nseems[SP]like[SP]most[SP]people[SP]don't[SP]even[SP]notice.[1205][001E]\nLet's[SP]just[SP]keep[SP]calling[SP]them[SP][1432][NULL][NULL][0014]assassins.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Yukino",
+    "texte_fr": "On repousse des démons, mais\nla plupart des gens ne le\nremarquent pas.[1205][001E] Appelons-les\ntoujours [1432][NULL][NULL][0014]assassins.[1432][NULL][NULL][0014]"
   },
   {
     "id": 14,
@@ -284,8 +284,8 @@
     ],
     "nom_orig": "Caretaker",
     "texte_orig": "I'm[SP]sure[SP]he'll[SP]be[SP]back[SP]eventually.[SP]Want[SP]me[SP]to\ntake[SP]a[SP]look[SP]at[SP]your[SP]wounds[SP]while[SP]you're[SP]here?\n[1208][0002]Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4][NULL][NULL][0002]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Infirmière",
+    "texte_fr": "Il reviendra vite. Je regarde\nvos blessures tant que\nvous êtes là?\n[1208][0002]Oui\nNon\n[1109][E2][E3]> L'équipe de [1113] est guérie.[E4][NULL][NULL][0002]",
     "question_orig": "I'm[SP]sure[SP]he'll[SP]be[SP]back[SP]eventually.[SP]Want[SP]me[SP]to\ntake[SP]a[SP]look[SP]at[SP]your[SP]wounds[SP]while[SP]you're[SP]here?",
     "choix_orig": [
       "Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4]"
@@ -340,8 +340,8 @@
     ],
     "nom_orig": "Caretaker",
     "texte_orig": "Well,[SP]I'm[SP]sure[SP]he'll[SP]be[SP]along[SP]eventually.\nWant[SP]me[SP]to[SP]take[SP]a[SP]look[SP]at[SP]your[SP]wounds[SP]while\nyou're[SP]here?\n[1208][0002]Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4][NULL][NULL][0002]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Infirmière",
+    "texte_fr": "Il finira par revenir. Je\nregarde vos blessures pendant\nque vous êtes là?\n[1208][0002]Oui\nNon\n[1109][E2][E3]> L'équipe de [1113] est guérie.[E4][NULL][NULL][0002]",
     "question_orig": "Well,[SP]I'm[SP]sure[SP]he'll[SP]be[SP]along[SP]eventually.\nWant[SP]me[SP]to[SP]take[SP]a[SP]look[SP]at[SP]your[SP]wounds[SP]while\nyou're[SP]here?",
     "choix_orig": [
       "Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4]"
@@ -380,8 +380,8 @@
     ],
     "nom_orig": "Caretaker",
     "texte_orig": "You[SP]all[SP]seem[SP]tired.[SP]Want[SP]me[SP]to[SP]take[SP]a[SP]look\nat[SP]your[SP]wounds?\n[1208][0002]Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4][NULL][NULL][0002]",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Infirmière",
+    "texte_fr": "L'air fatigué. Je regarde\nvos blessures?\n[1208][0002]Oui\nNon\n[1109][E2][E3]> L'équipe de [1113] est guérie.[E4][NULL][NULL][0002]",
     "question_orig": "You[SP]all[SP]seem[SP]tired.[SP]Want[SP]me[SP]to[SP]take[SP]a[SP]look\nat[SP]your[SP]wounds?",
     "choix_orig": [
       "Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4]"
@@ -420,8 +420,8 @@
     ],
     "nom_orig": "Caretaker",
     "texte_orig": "Hohoho...[SP]That[SP]boy[SP]from[SP]Kasugayama[SP]High[SP]is\nso[SP]funny.[1205][U+000F][SP]I[SP]don't[SP]know[SP]why,[SP]but[SP]he[SP]said[SP]to\nme,[SP][1432][NULL][NULL][0014]Best[SP]of[SP]luck[SP]to[SP]you[SP]both.[1432][NULL][NULL][0014]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Infirmière",
+    "texte_fr": "Hohoho... Ce garçon de Kasugayama\nest si drôle.[1205][U+000F] Sans savoir\npourquoi, il m'a dit:\n[1432][NULL][NULL][0014]Bonne chance à vous deux.[1432][NULL][NULL][0014]"
   },
   {
     "id": 25,
