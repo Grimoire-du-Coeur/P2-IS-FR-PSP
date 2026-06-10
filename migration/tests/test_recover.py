@@ -54,6 +54,15 @@ class TestIndex(unittest.TestCase):
         m = build_name_map(_old_combined())
         self.assertEqual(m["Ms.[SP]Saeko"], "Mme Saeko")
 
+    def test_index_inclut_l_entree_entiere(self):
+        # une entree NON scindee doit etre retrouvable telle quelle
+        old = [{
+            "id": 0, "nom_orig": "X", "nom_fr": "X",
+            "texte_orig": "Bonjour[SP]le[SP]monde", "texte_fr": "Salut le monde",
+        }]
+        idx = build_segment_index(old)
+        self.assertEqual(idx["Bonjour le monde"], "Salut le monde")
+
 
 class TestFill(unittest.TestCase):
     def test_remplit_les_deux_entrees_scindees(self):

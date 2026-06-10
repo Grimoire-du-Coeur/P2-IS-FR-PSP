@@ -29,22 +29,32 @@ def _struct(s):
 
 
 def build_segment_index(old):
-    """{texte_nu(segment_orig): convert_fr(segment_fr)} depuis les anciennes entrees traduites.
+    """{texte_nu(orig): convert_fr(fr)} depuis les anciennes entrees traduites.
 
-    Les codes des delimiteurs etant identiques dans texte_orig et texte_fr, les deux
-    se decoupent en autant de segments ; on ignore une entree si le compte differe."""
+    On indexe l'entree ENTIERE (cas ou le nouveau format garde l'ancienne entree
+    telle quelle) ET chacun de ses segments (cas ou le nouveau format l'a scindee
+    aux blocs d'intro de locuteur). Les codes des delimiteurs etant identiques dans
+    texte_orig et texte_fr, les deux se decoupent en autant de segments ; on ignore
+    le decoupage d'une entree si le compte differe."""
     idx = {}
     for e in old:
         if not e.get("texte_fr", "").strip():
             continue
-        so = split_speaker_segments(e.get("texte_orig", ""))
-        sf = split_speaker_segments(e.get("texte_fr", ""))
+        to = e.get("texte_orig", "")
+        tf = e.get("texte_fr", "")
+        # 1) entree entiere
+        nu = texte_nu(to)
+        if nu and nu not in idx:
+            idx[nu] = convert_fr(tf.strip())
+        # 2) segments
+        so = split_speaker_segments(to)
+        sf = split_speaker_segments(tf)
         if len(so) != len(sf):
             continue
         for o, f in zip(so, sf):
-            nu = texte_nu(o)
-            if nu and nu not in idx:
-                idx[nu] = convert_fr(f.strip())
+            snu = texte_nu(o)
+            if snu and snu not in idx:
+                idx[snu] = convert_fr(f.strip())
     return idx
 
 
