@@ -181,13 +181,13 @@ Lance `p2is_fr_tool.py` et suis les 3 onglets dans l'ordre :
 - [JsonVerify](https://github.com/Garloulou/JsonVerify) par **@Garloulou** validation des fichiers JSON traduits
 
 ## 🔩 Outils tiers utilisés
-- [UMDGen](https://www.romhacking.net/utilities/1218/) manipulation ISO PSP
-- [CriFsLib](https://github.com/Sewer56/CriFsV2Lib) extraction CPK
-- [PPSSPP](https://www.ppsspp.org/) émulation PSP pour les tests
+- [UMDGen](https://www.romhacking.net/utilities/1218/) : manipulation ISO PSP
+- [CriFsLib](https://github.com/Sewer56/CriFsV2Lib) : extraction CPK
+- [PPSSPP](https://www.ppsspp.org/) : émulation PSP pour les tests
 
 ---
 
 ## 📚 Inspirations & Références
-- [P2-EP-PSP](https://github.com/sayucchin/P2-EP-PSP) par **sayucchin & équipe**
+- [P2-EP-PSP](https://github.com/sayucchin/P2-EP-PSP) : par **sayucchin & équipe**
   projet de traduction de Persona 2: Eternal Punishment PSP.
   L'analyse de leur code source (`event.rs`, `main.rs`) nous a permis de comprendre la structure de `event.bin` (gzip + table d'offsets). Nos outils ont été développés indépendamment en Python.
