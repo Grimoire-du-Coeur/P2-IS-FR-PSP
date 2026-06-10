@@ -19,6 +19,8 @@
     "script_022.json",
     "script_025.json",
     "script_026.json",
+    "script_027.json",
+    "script_028.json",
     "script_029.json",
     "script_030.json",
     "script_032.json",
@@ -91,6 +93,7 @@
     "script_110.json",
     "script_111.json",
     "script_112.json",
+    "script_113.json",
     "script_114.json",
     "script_117.json",
     "script_118.json",
@@ -114,6 +117,7 @@
     "script_139.json",
     "script_140.json",
     "script_141.json",
+    "script_142.json",
     "script_144.json",
     "script_145.json",
     "script_146.json",
@@ -166,6 +170,7 @@
     "script_200.json",
     "script_201.json",
     "script_202.json",
+    "script_203.json",
     "script_204.json",
     "script_205.json",
     "script_206.json",
@@ -215,10 +220,13 @@
     "script_255.json",
     "script_256.json",
     "script_257.json",
+    "script_258.json",
     "script_259.json",
     "script_260.json",
     "script_262.json",
+    "script_263.json",
     "script_264.json",
+    "script_265.json",
     "script_266.json",
     "script_267.json",
     "script_268.json",
@@ -328,20 +336,6 @@
       "orphans": 0
     },
     {
-      "script": "script_027.json",
-      "auto": 36,
-      "pauses": 5,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
-      "script": "script_028.json",
-      "auto": 26,
-      "pauses": 19,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_031.json",
       "auto": 23,
       "pauses": 1,
@@ -426,13 +420,6 @@
       "orphans": 0
     },
     {
-      "script": "script_113.json",
-      "auto": 7,
-      "pauses": 5,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_115.json",
       "auto": 12,
       "pauses": 2,
@@ -465,13 +452,6 @@
       "auto": 6,
       "pauses": 1,
       "new_only": 5,
-      "orphans": 0
-    },
-    {
-      "script": "script_142.json",
-      "auto": 36,
-      "pauses": 11,
-      "new_only": 0,
       "orphans": 0
     },
     {
@@ -524,13 +504,6 @@
       "orphans": 0
     },
     {
-      "script": "script_203.json",
-      "auto": 19,
-      "pauses": 6,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_209.json",
       "auto": 19,
       "pauses": 2,
@@ -566,31 +539,10 @@
       "orphans": 0
     },
     {
-      "script": "script_258.json",
-      "auto": 18,
-      "pauses": 8,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
       "script": "script_261.json",
       "auto": 105,
       "pauses": 14,
       "new_only": 13,
-      "orphans": 0
-    },
-    {
-      "script": "script_263.json",
-      "auto": 15,
-      "pauses": 7,
-      "new_only": 0,
-      "orphans": 0
-    },
-    {
-      "script": "script_265.json",
-      "auto": 38,
-      "pauses": 12,
-      "new_only": 0,
       "orphans": 0
     },
     {
