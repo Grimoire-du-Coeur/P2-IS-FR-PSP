@@ -419,8 +419,8 @@
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Use[SP]this[SP][E4][NULL][NULL][U+0004]Incense[SP]Set[E4][NULL][NULL][0002][SP]wisely,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Utilise ce [E4][NULL][NULL][U+0004]Set d'Encens[E4][NULL][NULL][0002], miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 24,
@@ -827,8 +827,8 @@
     ],
     "nom_orig": "Tadashi",
     "texte_orig": "Right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Tadashi",
+    "texte_fr": "Vrai?\n[1208][0002]Oui\nNon",
     "question_orig": "Right?",
     "choix_orig": [
       "Yes\nNo"
