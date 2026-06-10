@@ -73,7 +73,7 @@ ISO traduite ✅
 }
 ```
 
-> L'encodeur (`encode_bin_from_json`) lit `question_fr`/`choix_fr` en priorité et reconstruit `texte_fr` via `_rebuild_choice_body()`. `texte_fr` peut rester rempli — il sert de fallback si les nouveaux champs sont vides.
+> L'encodeur (`encode_bin_from_json`) lit `question_fr`/`choix_fr` en priorité et reconstruit `texte_fr` via `_rebuild_choice_body()`. `texte_fr` peut rester rempli, il sert de fallback si les nouveaux champs sont vides.
 
 ---
 
@@ -101,7 +101,7 @@ ISO traduite ✅
 ## ⚠️ Contraintes techniques des menus de choix
 
 ### 1. NL de fin de menu
-Le moteur PSP Atlus exige un `NL` (0x1101) juste avant le terminateur de chaque slot de menu. `encode_bin_from_json()` l'insère automatiquement — ne pas le mettre manuellement dans `texte_fr`.
+Le moteur PSP Atlus exige un `NL` (0x1101) juste avant le terminateur de chaque slot de menu. `encode_bin_from_json()` l'insère automatiquement, ne pas le mettre manuellement dans `texte_fr`.
 
 ### 2. Alignement des offsets
 Le moteur PSP stocke des **pointeurs absolus** vers chaque option de menu dans le bytecode compressé. `_align_menu_text()` insère automatiquement des `[SP]` invisibles entre la question FR et `[1208]` pour que les options restent aux mêmes offsets que dans le binaire original.
@@ -135,7 +135,7 @@ Les accents français sont remappés vers des glyphes japonais disponibles dans 
 | `É È Î Ô Û` | `Ņ Ũ £ ō ĵ` |
 | `Œ` | `Ǩ` |
 
-Tout autre caractère non listé dans `ACCENT_MAP` est encodé en UTF-16 LE brut — si le glyphe n'existe pas dans la police du jeu, il s'affiche incorrectement.
+Tout autre caractère non listé dans `ACCENT_MAP` est encodé en UTF-16 LE brut, si le glyphe n'existe pas dans la police du jeu, il s'affiche incorrectement.
 
 ---
 
@@ -171,23 +171,23 @@ python p2is_fr_tool.py
 
 ## 🖥️ Utilisation
 Lance `p2is_fr_tool.py` et suis les 3 onglets dans l'ordre :
-1. **Pipeline Extraction** — charge ton ISO et extrait les scripts en JSON
-2. **Traduction** — encode tes JSON traduits en `.bin`
-3. **Rebuild ISO** — réinjecte tout et génère l'ISO FR jouable
+1. **Pipeline Extraction** charge ton ISO et extrait les scripts en JSON
+2. **Traduction** encode tes JSON traduits en `.bin`
+3. **Rebuild ISO** réinjecte tout et génère l'ISO FR jouable
 
 ---
 
 ## 🧰 Outils du projet
-- [JsonVerify](https://github.com/Garloulou/JsonVerify) par **@Garloulou** — validation des fichiers JSON traduits
+- [JsonVerify](https://github.com/Garloulou/JsonVerify) par **@Garloulou** validation des fichiers JSON traduits
 
 ## 🔩 Outils tiers utilisés
-- [UMDGen](https://www.romhacking.net/utilities/1218/) — manipulation ISO PSP
-- [CriFsLib](https://github.com/Sewer56/CriFsV2Lib) — extraction CPK
-- [PPSSPP](https://www.ppsspp.org/) — émulation PSP pour les tests
+- [UMDGen](https://www.romhacking.net/utilities/1218/) manipulation ISO PSP
+- [CriFsLib](https://github.com/Sewer56/CriFsV2Lib) extraction CPK
+- [PPSSPP](https://www.ppsspp.org/) émulation PSP pour les tests
 
 ---
 
 ## 📚 Inspirations & Références
-- [P2-EP-PSP](https://github.com/sayucchin/P2-EP-PSP) par **sayucchin & équipe** —
+- [P2-EP-PSP](https://github.com/sayucchin/P2-EP-PSP) par **sayucchin & équipe**
   projet de traduction de Persona 2: Eternal Punishment PSP.
   L'analyse de leur code source (`event.rs`, `main.rs`) nous a permis de comprendre la structure de `event.bin` (gzip + table d'offsets). Nos outils ont été développés indépendamment en Python.
