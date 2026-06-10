@@ -164,8 +164,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Autre chose ?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter",
     "question_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?",
     "choix_orig": [
       "[U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -465,8 +465,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Some[SP]armor[SP]can[SP]only[SP]be[SP]equipped[SP]by[SP]certain\npeople,[SP]so[SP]make[SP]sure[SP]to[SP]check[SP]before[SP]you[SP]buy.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Certaines armures ne vont qu'à\ncertains personnages, vérifiez avant d'acheter."
   },
   {
     "id": 26,
@@ -556,8 +556,8 @@
     ],
     "nom_orig": "Saleswoman",
     "texte_orig": "Some[SP]armor[SP]can[SP]only[SP]be[SP]equipped[SP]by[SP]certain\npeople,[SP]so[SP]make[SP]sure[SP]to[SP]check[SP]before[SP]you[SP]buy.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Vendeuse",
+    "texte_fr": "Certaines armures ne vont qu'à\ncertains personnages, vérifiez avant d'acheter."
   },
   {
     "id": 32,
