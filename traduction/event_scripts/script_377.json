@@ -394,8 +394,8 @@
     ],
     "nom_orig": "Trish",
     "texte_orig": "Choose[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]here[SP]and[SP]I'll[SP]restore[SP]your[SP]HP[SP]and\nSP,[SP]plus[SP]cure[SP]any[SP]status[SP]ailments[SP]like[SP]poison.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Trish",
+    "texte_fr": "Choisis [1432][NULL][NULL][0014] Soigner[1432][NULL][NULL][0014] et je te rends PV et\nPC, et je guéris les effets négatifs, le poison."
   },
   {
     "id": 24,
@@ -546,8 +546,8 @@
     ],
     "nom_orig": "Trish",
     "texte_orig": "Anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Trish",
+    "texte_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler\nAnnuler\nQuitter",
     "question_orig": "Anything[SP]else?",
     "choix_orig": [
       "[U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave"
