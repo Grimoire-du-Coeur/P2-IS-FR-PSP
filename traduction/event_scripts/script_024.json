@@ -147,10 +147,10 @@
       "You[SP]don't[SP]know[SP]where[SP]the[SP]exit[SP]is.",
       "There[SP]is[SP]no[SP]exit."
     ],
-    "question_fr": "",
+    "question_fr": "Pourquoi?",
     "choix_fr": [
-      "",
-      ""
+      "Vous ignorez où est la sortie.",
+      "Il n'y a pas de sortie."
     ]
   },
   {
@@ -189,10 +189,10 @@
       "Nope,[SP]no[SP]one.",
       "There[SP]was[SP]one[SP]person."
     ],
-    "question_fr": "",
+    "question_fr": "Quelqu'un s'est-il déjà échappé?",
     "choix_fr": [
-      "",
-      ""
+      "Non, personne.",
+      "Il y a eu une personne."
     ]
   },
   {
@@ -231,10 +231,10 @@
       "A[SP]compass.",
       "A[SP]mirror."
     ],
-    "question_fr": "",
+    "question_fr": "C'était quoi?",
     "choix_fr": [
-      "",
-      ""
+      "Boussole.",
+      "Miroir."
     ]
   },
   {
@@ -289,10 +289,10 @@
       "Everything[SP]in[SP]range.",
       "Your[SP]own[SP]face."
     ],
-    "question_fr": "",
+    "question_fr": "Que reflète un miroir?",
     "choix_fr": [
-      "",
-      ""
+      "Tout ce qui est à portée.",
+      "Ton visage."
     ]
   },
   {
@@ -331,10 +331,10 @@
       "You[SP]can[SP]look[SP]up[SP]skirts?",
       "You[SP]can[SP]see[SP]things[SP]indirectly."
     ],
-    "question_fr": "",
+    "question_fr": "Continue...",
     "choix_fr": [
-      "",
-      ""
+      "Regarder sous les jupes?",
+      "Voir indirectement."
     ]
   },
   {
