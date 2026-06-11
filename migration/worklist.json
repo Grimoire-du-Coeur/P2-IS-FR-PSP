@@ -276,9 +276,13 @@
   "script_285.json",
   "script_286.json",
   "script_287.json",
+  "script_289.json",
+  "script_290.json",
+  "script_291.json",
   "script_292.json",
   "script_293.json",
   "script_295.json",
+  "script_296.json",
   "script_297.json",
   "script_298.json",
   "script_299.json",
@@ -293,30 +297,54 @@
   "script_308.json",
   "script_309.json",
   "script_310.json",
+  "script_311.json",
+  "script_312.json",
+  "script_313.json",
+  "script_314.json",
   "script_318.json",
+  "script_319.json",
+  "script_320.json",
+  "script_321.json",
   "script_322.json",
   "script_323.json",
   "script_324.json",
   "script_325.json",
+  "script_327.json",
   "script_328.json",
   "script_329.json",
   "script_330.json",
   "script_331.json",
+  "script_332.json",
+  "script_333.json",
+  "script_334.json",
+  "script_335.json",
+  "script_336.json",
+  "script_337.json",
   "script_338.json",
   "script_339.json",
   "script_340.json",
   "script_341.json",
+  "script_343.json",
   "script_344.json",
   "script_345.json",
   "script_346.json",
   "script_347.json",
   "script_348.json",
+  "script_350.json",
+  "script_351.json",
+  "script_352.json",
+  "script_353.json",
+  "script_354.json",
   "script_355.json",
   "script_356.json",
   "script_357.json",
   "script_358.json",
+  "script_359.json",
+  "script_360.json",
   "script_361.json",
   "script_363.json",
+  "script_367.json",
+  "script_368.json",
   "script_371.json",
   "script_372.json",
   "script_373.json",
@@ -325,7 +353,9 @@
   "script_376.json",
   "script_377.json",
   "script_378.json",
+  "script_379.json",
   "script_380.json",
+  "script_381.json",
   "script_382.json",
   "script_383.json",
   "script_384.json",
@@ -333,6 +363,7 @@
   "script_386.json",
   "script_387.json",
   "script_388.json",
+  "script_389.json",
   "script_390.json",
   "script_391.json",
   "script_392.json",
@@ -369,7 +400,7 @@
   },
   {
    "script": "script_085.json",
-   "vides": 4
+   "vides": 1
   },
   {
    "script": "script_134.json",
@@ -393,47 +424,15 @@
   },
   {
    "script": "script_288.json",
-   "vides": 5
-  },
-  {
-   "script": "script_289.json",
-   "vides": 4
-  },
-  {
-   "script": "script_290.json",
-   "vides": 4
-  },
-  {
-   "script": "script_291.json",
-   "vides": 4
+   "vides": 1
   },
   {
    "script": "script_294.json",
    "vides": 5
   },
   {
-   "script": "script_296.json",
-   "vides": 4
-  },
-  {
-   "script": "script_311.json",
-   "vides": 4
-  },
-  {
-   "script": "script_312.json",
-   "vides": 4
-  },
-  {
-   "script": "script_313.json",
-   "vides": 4
-  },
-  {
-   "script": "script_314.json",
-   "vides": 4
-  },
-  {
    "script": "script_315.json",
-   "vides": 3
+   "vides": 1
   },
   {
    "script": "script_316.json",
@@ -444,88 +443,16 @@
    "vides": 1
   },
   {
-   "script": "script_319.json",
-   "vides": 2
-  },
-  {
-   "script": "script_320.json",
-   "vides": 3
-  },
-  {
-   "script": "script_321.json",
-   "vides": 2
-  },
-  {
    "script": "script_326.json",
-   "vides": 5
-  },
-  {
-   "script": "script_327.json",
-   "vides": 4
-  },
-  {
-   "script": "script_332.json",
-   "vides": 6
-  },
-  {
-   "script": "script_333.json",
-   "vides": 6
-  },
-  {
-   "script": "script_334.json",
-   "vides": 4
-  },
-  {
-   "script": "script_335.json",
-   "vides": 4
-  },
-  {
-   "script": "script_336.json",
-   "vides": 2
-  },
-  {
-   "script": "script_337.json",
    "vides": 2
   },
   {
    "script": "script_342.json",
-   "vides": 3
-  },
-  {
-   "script": "script_343.json",
-   "vides": 3
+   "vides": 1
   },
   {
    "script": "script_349.json",
-   "vides": 5
-  },
-  {
-   "script": "script_350.json",
-   "vides": 4
-  },
-  {
-   "script": "script_351.json",
-   "vides": 4
-  },
-  {
-   "script": "script_352.json",
-   "vides": 4
-  },
-  {
-   "script": "script_353.json",
-   "vides": 2
-  },
-  {
-   "script": "script_354.json",
-   "vides": 2
-  },
-  {
-   "script": "script_359.json",
-   "vides": 3
-  },
-  {
-   "script": "script_360.json",
-   "vides": 3
+   "vides": 1
   },
   {
    "script": "script_362.json",
@@ -537,38 +464,18 @@
   },
   {
    "script": "script_365.json",
-   "vides": 4
+   "vides": 2
   },
   {
    "script": "script_366.json",
-   "vides": 4
-  },
-  {
-   "script": "script_367.json",
-   "vides": 4
-  },
-  {
-   "script": "script_368.json",
-   "vides": 4
+   "vides": 2
   },
   {
    "script": "script_369.json",
-   "vides": 2
+   "vides": 1
   },
   {
    "script": "script_370.json",
-   "vides": 2
-  },
-  {
-   "script": "script_379.json",
-   "vides": 4
-  },
-  {
-   "script": "script_381.json",
-   "vides": 2
-  },
-  {
-   "script": "script_389.json",
    "vides": 1
   },
   {

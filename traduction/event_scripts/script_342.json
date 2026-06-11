@@ -3196,8 +3196,8 @@
     ],
     "nom_orig": "Part-timer",
     "texte_orig": "But[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Intérimaire",
+    "texte_fr": "Mais de quoi parlerons-nous donc ?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_orig": "But[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?",
     "choix_orig": [
       "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection"
@@ -3515,7 +3515,7 @@
     "nom_orig": "Speaker[SP]name",
     "texte_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen,[SP]but[SP]will\nyou[SP]sell[SP]them?\n[1208][0002]Yes\nNo",
     "nom_fr": "",
-    "texte_fr": "",
+    "texte_fr": "Le total fait [120E][NULL] yens.\nVous les vendez ?\n[1208][0002]Oui\nNon",
     "question_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen,[SP]but[SP]will\nyou[SP]sell[SP]them?",
     "choix_orig": [
       "Yes\nNo"

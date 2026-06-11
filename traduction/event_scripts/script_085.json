@@ -963,8 +963,8 @@
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Tamaki",
+    "texte_fr": "Que puis-je faire ?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\n[1210][U+0159]Quitter l'agence",
     "question_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?",
     "choix_orig": [
       "[U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency"
@@ -2437,8 +2437,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là ?\n[1208][0002]Oui\nNon",
     "question_orig": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?",
     "choix_orig": [
       "Yes\nNo"
@@ -2461,8 +2461,8 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Chef Todoroki",
+    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant ?\n[1208][0002]Oui\nNon",
     "question_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?",
     "choix_orig": [
       "Yes\nNo"
