@@ -396,8 +396,8 @@
     ],
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Heeheehee.[SP]Anything[SP]else?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Hihihi. Autre chose ?\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien\nQuitter",
     "question_orig": "Heeheehee.[SP]Anything[SP]else?",
     "choix_orig": [
       "[U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -420,8 +420,8 @@
     ],
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Alors, tu vends quoi ?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?",
     "choix_orig": [
       "[U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories"
@@ -444,8 +444,8 @@
     ],
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Tu veux parler de quoi ?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
     "question_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection"
@@ -644,8 +644,8 @@
     ],
     "nom_orig": "Man",
     "texte_orig": "This[SP]isn't[SP]funny.[SP]How[SP]long[SP]are[SP]the[SP]terrorists\ngoing[SP]to[SP]keep[SP]this[SP]up?[SP]My[SP]daughter's[SP]cheered[SP]up\nnow,[SP]but[SP]I[SP]can't[SP]go[SP]home.[SP]Where[SP]are[SP]the[SP]police?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Homme",
+    "texte_fr": "C'est pas drôle. Les terroristes vont\ncontinuer longtemps ? Ma fille va mieux,\nmais je peux pas rentrer. Où est la police ?"
   },
   {
     "id": 39,
@@ -676,8 +676,8 @@
     ],
     "nom_orig": "Man",
     "texte_orig": "I-I'm[SP]worried[SP]about[SP]my[SP]family,[SP]but[SP]I[SP]can't[SP]go\nhome[SP]when[SP]it's[SP]this[SP]dangerous[SP]outside.[SP]Please...\nLet[SP]everyone[SP]be[SP]safe...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Homme",
+    "texte_fr": "J-Je m'inquiète pour ma famille, mais\nimpossible de rentrer avec ce danger...\nPitié... Que tous aillent bien..."
   },
   {
     "id": 41,
@@ -692,8 +692,8 @@
     ],
     "nom_orig": "Young[SP]man",
     "texte_orig": "Have[SP]you[SP]ever[SP]been[SP]to[SP]Kaori?[SP]Rumor[SP]has[SP]it[SP]their\naromatherapy[SP]is[SP]amazing.[SP]It[SP]can[SP]even[SP]cure\nwounds[SP]and[SP]sickness.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jeune homme",
+    "texte_fr": "Déjà allé chez Kaori ? On dit que leur\naromathérapie est incroyable. Elle\nsoignerait blessures et maladies."
   },
   {
     "id": 42,
@@ -708,8 +708,8 @@
     ],
     "nom_orig": "Young[SP]man",
     "texte_orig": "I[SP]go[SP]to[SP]Kaori[SP]a[SP]lot.[SP]I[SP]never[SP]knew[SP]aromatherapy\nworked[SP]so[SP]well![SP]It[SP]even[SP]heals[SP]injuries!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Jeune homme",
+    "texte_fr": "Je vais souvent chez Kaori. Leur aromathérapie\nguérit même les blessures !"
   },
   {
     "id": 43,
@@ -804,8 +804,8 @@
     ],
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Heeheehee.[SP]Welcoooome![SP]What'll[SP]it[SP]be?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Hihihi. Bienvenuuue ! Que désires-tu ?\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien\nQuitter",
     "question_orig": "Heeheehee.[SP]Welcoooome![SP]What'll[SP]it[SP]be?",
     "choix_orig": [
       "[U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store"
@@ -828,8 +828,8 @@
     ],
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Alors, que veux-tu vendre ?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories"
@@ -852,8 +852,8 @@
     ],
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Tu veux parler de quoi ?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
     "question_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection"
