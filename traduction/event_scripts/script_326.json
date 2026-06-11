@@ -1116,8 +1116,8 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?\n[1208][U+0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave\n[1109][E2]\n[E3][E4][NULL][NULL]\"Manager\nWhat[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][U+0005][1210][U+0100]Undisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Gérant",
+    "texte_fr": "Bienvenue au Mu. Échangez ici vos pièces\ncontre des prix. Alors ?\n[1208][U+0005]Acheter pièces\nÉchanger contre prix\nParler au gérant\nRien\nPartir\n[1109][E2]\n[E3][E4][NULL][NULL]\"Gérant\nQuels prix voulez-vous ?\n[1208][U+0005][1210][U+0100]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes",
     "question_orig": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?",
     "choix_orig": [
       "[U+0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave\n[1109][E2]\n[E3][E4]\"Manager\nWhat[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[U+0005][1210][U+0100]Undisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards"
@@ -1300,8 +1300,8 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "Everything's[SP]Muses[SP]this[SP]and[SP]Muses[SP]that[SP]these\ndays.[SP]They're[SP]not[SP]really[SP]my[SP]thing...[1205][U+000F][SP]Too[SP]young.[1205][U+000F]\nI[SP]can't[SP]relate[SP]to[SP]their[SP]songs...[SP]Hmm.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Gérant",
+    "texte_fr": "On n'entend plus que Muses par-ci, Muses\npar-là. C'est pas trop mon truc...[1205][U+000F] Trop\njeune.[1205][U+000F] Leurs chansons me parlent pas... Hmm."
   },
   {
     "id": 79,

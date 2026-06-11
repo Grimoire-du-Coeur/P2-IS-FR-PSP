@@ -3148,8 +3148,8 @@
     ],
     "nom_orig": "Part-timer",
     "texte_orig": "Welcome[SP]to[SP]Peace[SP]Diner.[SP]How[SP]may[SP]I[SP]serve[SP]you,\nsirrah?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave\n[1109][E2]\n\n[E3][E4][NULL][NULL]\"Part-timer\nBut[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
-    "nom_fr": "",
-    "texte_fr": "",
+    "nom_fr": "Intérimaire",
+    "texte_fr": "Bienvenue au Peace Diner.\nQue désirez-vous, maraud?\n[1208][U+0004]Manger \nDiscuter un peu       \nRien merci\nFiler\n[1109][E2]\n\n[E3][E4][NULL][NULL]\"Intérimaire\nMais de quoi parlerons-nous donc ?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_orig": "Welcome[SP]to[SP]Peace[SP]Diner.[SP]How[SP]may[SP]I[SP]serve[SP]you,\nsirrah?",
     "choix_orig": [
       "[U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave\n[1109][E2]\n\n[E3][E4]\"Part-timer\nBut[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?\n[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection"
