@@ -57,6 +57,7 @@
   "script_059.json",
   "script_060.json",
   "script_061.json",
+  "script_062.json",
   "script_063.json",
   "script_064.json",
   "script_065.json",
@@ -275,6 +276,8 @@
   "script_285.json",
   "script_286.json",
   "script_287.json",
+  "script_292.json",
+  "script_293.json",
   "script_295.json",
   "script_297.json",
   "script_298.json",
@@ -323,12 +326,14 @@
   "script_377.json",
   "script_378.json",
   "script_380.json",
+  "script_382.json",
   "script_383.json",
   "script_384.json",
   "script_385.json",
   "script_386.json",
   "script_387.json",
   "script_388.json",
+  "script_390.json",
   "script_391.json",
   "script_392.json",
   "script_393.json",
@@ -357,10 +362,6 @@
   {
    "script": "script_037.json",
    "vides": 1
-  },
-  {
-   "script": "script_062.json",
-   "vides": 16
   },
   {
    "script": "script_067.json",
@@ -407,14 +408,6 @@
    "vides": 4
   },
   {
-   "script": "script_292.json",
-   "vides": 10
-  },
-  {
-   "script": "script_293.json",
-   "vides": 6
-  },
-  {
    "script": "script_294.json",
    "vides": 5
   },
@@ -440,11 +433,11 @@
   },
   {
    "script": "script_315.json",
-   "vides": 7
+   "vides": 3
   },
   {
    "script": "script_316.json",
-   "vides": 6
+   "vides": 2
   },
   {
    "script": "script_317.json",
@@ -488,11 +481,11 @@
   },
   {
    "script": "script_336.json",
-   "vides": 6
+   "vides": 2
   },
   {
    "script": "script_337.json",
-   "vides": 6
+   "vides": 2
   },
   {
    "script": "script_342.json",
@@ -520,11 +513,11 @@
   },
   {
    "script": "script_353.json",
-   "vides": 6
+   "vides": 2
   },
   {
    "script": "script_354.json",
-   "vides": 6
+   "vides": 2
   },
   {
    "script": "script_359.json",
@@ -560,11 +553,11 @@
   },
   {
    "script": "script_369.json",
-   "vides": 6
+   "vides": 2
   },
   {
    "script": "script_370.json",
-   "vides": 6
+   "vides": 2
   },
   {
    "script": "script_379.json",
@@ -575,16 +568,8 @@
    "vides": 2
   },
   {
-   "script": "script_382.json",
-   "vides": 13
-  },
-  {
    "script": "script_389.json",
    "vides": 1
-  },
-  {
-   "script": "script_390.json",
-   "vides": 13
   },
   {
    "script": "script_396.json",
