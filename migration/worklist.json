@@ -249,6 +249,7 @@
   "script_258.json",
   "script_259.json",
   "script_260.json",
+  "script_261.json",
   "script_262.json",
   "script_263.json",
   "script_264.json",
@@ -292,6 +293,8 @@
   "script_318.json",
   "script_322.json",
   "script_323.json",
+  "script_324.json",
+  "script_325.json",
   "script_328.json",
   "script_329.json",
   "script_330.json",
@@ -313,6 +316,7 @@
   "script_363.json",
   "script_371.json",
   "script_372.json",
+  "script_373.json",
   "script_374.json",
   "script_375.json",
   "script_376.json",
@@ -381,10 +385,6 @@
   {
    "script": "script_223.json",
    "vides": 3
-  },
-  {
-   "script": "script_261.json",
-   "vides": 2
   },
   {
    "script": "script_283.json",
@@ -460,14 +460,6 @@
   },
   {
    "script": "script_321.json",
-   "vides": 3
-  },
-  {
-   "script": "script_324.json",
-   "vides": 20
-  },
-  {
-   "script": "script_325.json",
    "vides": 2
   },
   {
@@ -575,10 +567,6 @@
    "vides": 6
   },
   {
-   "script": "script_373.json",
-   "vides": 20
-  },
-  {
    "script": "script_379.json",
    "vides": 4
   },
@@ -588,7 +576,7 @@
   },
   {
    "script": "script_382.json",
-   "vides": 16
+   "vides": 13
   },
   {
    "script": "script_389.json",
