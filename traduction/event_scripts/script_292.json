@@ -1,0 +1,997 @@
+[
+  {
+    "id": 0,
+    "offset": 299326,
+    "data_size": 256,
+    "slot_size": 260,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Diet[SP]food[SP]is[SP]popular,[SP]but[SP]if[SP]you[SP]wanna[SP]lose\nweight,[SP]just[SP]don't[SP]eat.[SP]Then[SP]you[SP]can[SP]be[SP]like\nme[SP]and--[1205][001E]Uhh,[SP]never[SP]mind.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Les régimes, c'est bien, mais pour maigrir,\narrête de manger. Tu serais comme moi\net--[1205][001E]Euh, laisse tomber."
+  },
+  {
+    "id": 1,
+    "offset": 299586,
+    "data_size": 260,
+    "slot_size": 264,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "What's[SP]Ginko[SP]talking[SP]about?[1205][U+000A][SP]C'mon,[SP]trust[SP]us[SP]a\nlittle.[1205][U+000F][SP]I'll[SP]save[SP]both[SP]of[SP]'em,[SP]and[SP]I'll[SP]do[SP]it\nwith[SP]style[SP]and[SP]grace!",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Que raconte Ginko?[1205][U+000A] Allez, faites-nous\nconfiance![1205][U+000F] Je les sauverai toutes les deux\navec classe et élégance!"
+  },
+  {
+    "id": 2,
+    "offset": 299850,
+    "data_size": 548,
+    "slot_size": 552,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "If[SP]that[SP]rumor[SP]gets[SP]spread[SP]and[SP]becomes[SP]reality,\nthen[SP]we're[SP]gonna[SP]be...[1205][U+000F][SP]N-No[SP]way,[SP]that[SP]can't\nactually[SP]happen![E1][E2]\n\n[E3][E4][NULL][NULL]\"Eikichi\nI[SP]believe[SP]in[SP]Jun.[1205][U+000F][SP]No[SP]matter[SP]what[SP]rumors[SP]are\ngoing[SP]around,[SP]he's[SP]still[SP]himself.[SP]I'm[SP]sure\nhe'll[SP]come[SP]around[SP]once[SP]he[SP]sees[SP]Big[SP]Maya[SP]again.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Si la rumeur se répand et devient vraie,\non va...[1205][U+000F] N-Non, c'est impossible,\nça n'arrivera pas![E1][E2]\n\n[E3][E4][NULL][NULL]\"Eikichi\nJe crois en Jun.[1205][U+000F] Malgré les rumeurs,\nil reste lui-même. Il reviendra\nà la raison en revoyant grande Maya."
+  },
+  {
+    "id": 3,
+    "offset": 300402,
+    "data_size": 284,
+    "slot_size": 288,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Lisa",
+    "texte_orig": "Mee-ho[SP]brought[SP]some[SP]candy[SP]the[SP]other[SP]day[SP]that\nkeeps[SP]you[SP]from[SP]getting[SP]fat...[SP]I[SP]wonder[SP]if[SP]they\nhave[SP]it[SP]here.[1205]([SP]Huh?[SP]Is[SP]she[SP]a[SP]friend...?",
+    "nom_fr": "Lisa",
+    "texte_fr": "Mee-ho m'a apporté des bonbons l'autre jour qui\nempêchent de grossir... Je me demande s'ils\nen ont ici.[1205]( Hein? C'est une amie...?"
+  },
+  {
+    "id": 4,
+    "offset": 300690,
+    "data_size": 180,
+    "slot_size": 184,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Lisa",
+    "texte_orig": "Y-Yeah...[1205][001E][SP]I[SP]mean,[SP]I[SP]have[SP]lots[SP]of[SP]friends.[1205][001E]\nWe[SP]go[SP]out[SP]together[SP]all[SP]the[SP]time...",
+    "nom_fr": "Lisa",
+    "texte_fr": "O-Oui...[1205][001E] Enfin, j'ai plein d'amis.[1205][001E]\nOn sort ensemble tout le temps..."
+  },
+  {
+    "id": 5,
+    "offset": 300874,
+    "data_size": 286,
+    "slot_size": 290,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Mee-ho[SP]brought[SP]some[SP]candy[SP]the[SP]other[SP]day[SP]that\nkeeps[SP]you[SP]from[SP]getting[SP]fat...[SP]I[SP]wonder[SP]if[SP]they\nhave[SP]it[SP]here.[1205]([SP]Huh?[SP]Is[SP]she[SP]a[SP]friend...?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Mee-ho m'a apporté des bonbons l'autre jour qui\nempêchent de grossir... Je me demande s'ils\nen ont ici.[1205]( Hein? C'est une amie...?"
+  },
+  {
+    "id": 6,
+    "offset": 301164,
+    "data_size": 182,
+    "slot_size": 186,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Y-Yeah...[1205][001E][SP]I[SP]mean,[SP]I[SP]have[SP]lots[SP]of[SP]friends.[1205][001E]\nWe[SP]go[SP]out[SP]together[SP]all[SP]the[SP]time...",
+    "nom_fr": "Ginko",
+    "texte_fr": "O-Oui...[1205][001E] Enfin, j'ai plein d'amis.[1205][001E]\nOn sort ensemble tout le temps..."
+  },
+  {
+    "id": 7,
+    "offset": 301350,
+    "data_size": 322,
+    "slot_size": 326,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#15![1205][001E][SP][1432][NULL][NULL][0014]Seoi[SP]Lo[1432][NULL][NULL][0014][SP]is[SP]used\nwhen[SP]you're[SP]disappointed.[SP]It's[SP]kinda[SP]like,\n[1432][NULL][NULL][0014]What[SP]bad[SP]luck...[1432][NULL][NULL][0014][SP]or[SP][1432][NULL][NULL][0014]What[SP]a[SP]bummer...[1432][NULL][NULL][0014]",
+    "nom_fr": "Ginko",
+    "texte_fr": "Leçon de cantonais n°15![1205][001E] [1432][NULL][NULL][0014]Seoi Lo[1432][NULL][NULL][0014] s'utilise\nquand on est déçu. C'est comme,\n[1432][NULL][NULL][0014]Quelle malchance...[1432][NULL][NULL][0014] ou [1432][NULL][NULL][0014]Quelle poisse...[1432][NULL][NULL][0014]"
+  },
+  {
+    "id": 8,
+    "offset": 301676,
+    "data_size": 266,
+    "slot_size": 270,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "I[SP]wish[SP]there[SP]was[SP]some[SP]medicine[SP]that[SP]could[SP]cure\nshadowmen.[SP]Then[SP]Sheba[SP]and[SP]Mee-ho...[1205][U+000F][SP]and[SP]those\nother[SP]three[SP]could[SP]be[SP]saved.",
+    "nom_fr": "Ginko",
+    "texte_fr": "Si seulement il y avait un remède pour les Ombres.\nSheba, Mee-ho...[1205][U+000F] et ces\ntrois autres pourraient être sauvés."
+  },
+  {
+    "id": 9,
+    "offset": 301946,
+    "data_size": 116,
+    "slot_size": 120,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Do[SP]you[SP]think[SP]our[SP]rumor's[SP]been[SP]spread[SP]enough,\n[1113]?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Tu crois que notre rumeur a assez circulé,\n[1113]?"
+  },
+  {
+    "id": 10,
+    "offset": 302066,
+    "data_size": 274,
+    "slot_size": 278,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "What[SP]should[SP]we[SP]do...?[1205][U+000F][SP]If[SP]the[SP]people[SP]keep[SP]being\nafraid[SP]of[SP]the[SP]Masked[SP]Circle,[SP]won't[SP]Jun[SP]become\njust[SP]what[SP]the[SP]rumors[SP]say[SP]he[SP]is?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Que faire...?[1205][U+000F] Si les gens craignent\ntoujours le Cercle masqué, Jun ne deviendra-t-il\npas tel que le disent les rumeurs?"
+  },
+  {
+    "id": 11,
+    "offset": 302344,
+    "data_size": 280,
+    "slot_size": 284,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "That[SP]Lisa![SP]She's[SP]not[SP]fat[SP]at[SP]all.[SP]The[SP]bottom\nline[SP]is,[SP]you[SP]should[SP]eat[SP]what[SP]you[SP]want[SP]whenever\nyou[SP]feel[SP]like[SP]it![SP]That's[SP]the[SP]way[SP]to[SP]go.",
+    "nom_fr": "Maya",
+    "texte_fr": "Cette Lisa! Elle n'est pas grosse. L'important,\nc'est de manger ce qu'on veut, quand\non veut! C'est ça la vraie vie."
+  },
+  {
+    "id": 12,
+    "offset": 302628,
+    "data_size": 230,
+    "slot_size": 234,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "If[SP]you[SP]want[SP]to[SP]recover[SP]HP...[U+070F][1205][U+000F]\nHaha,[SP]I[SP]already[SP]know[SP]the[SP]lyrics[SP]by[SP]heart.\nThen[SP]use[SP]Medicine[SP]and[SP]Beads...[U+070F]",
+    "nom_fr": "Maya",
+    "texte_fr": "Pour récupérer des PV...[U+070F][1205][U+000F]\nHaha, je connais les paroles par cœur.\nPrenez Médicaments et Perles...[U+070F]"
+  },
+  {
+    "id": 13,
+    "offset": 302862,
+    "data_size": 276,
+    "slot_size": 280,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Ummm...[1205][U+000F][SP][1432][NULL][NULL][0014]Drink[SP]this[SP]for[SP]100[SP]times[SP]the[SP]energy...[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Refreshing![1432][NULL][NULL][0014][1205][U+000F][SP]Satomitan[SP]Z?[1205][U+000F][SP]Oooh,[SP]it[SP]comes[SP]in\na[SP]Super[SP]version?",
+    "nom_fr": "Maya",
+    "texte_fr": "Voyons...[1205][U+000F] [1432][NULL][NULL][0014]Pour 100 fois plus d'énergie...[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Rafraîchissant![1432][NULL][NULL][0014][1205][U+000F] Satomitan Z?[1205][U+000F] Ooh, il a\nune version Super?"
+  },
+  {
+    "id": 14,
+    "offset": 303142,
+    "data_size": 220,
+    "slot_size": 224,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Phew...[SP]Can[SP]people[SP]not[SP]get[SP]through[SP]the[SP]day\nwithout[SP]medicine[SP]anymore?[1205][U+000F][SP]Isn't[SP]that...\nkind[SP]of[SP]sad...?",
+    "nom_fr": "Maya",
+    "texte_fr": "Pfff... On ne peut plus vivre un jour sans\nmédicaments?[1205][U+000F] C'est pas un peu...\ntriste...?"
+  },
+  {
+    "id": 15,
+    "offset": 303366,
+    "data_size": 504,
+    "slot_size": 508,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Don't[SP]worry.[SP]The[SP]rumor[SP]has[SP]been[SP]spread.\nWhat's[SP]more...[SP]it's[SP]become[SP]reality.[1205][U+000F][SP]This[SP]is\nanother[SP]result[SP]that[SP]humanity[SP]desired.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nJun-kun...[1205][U+000A][SP]He's[SP]trying[SP]to[SP]carry[SP]the[SP]karma[SP]of\neveryone[SP]in[SP]the[SP]city[SP]by[SP]himself.[1205][U+000F][SP]He's[SP]too\nkind,[SP]really...",
+    "nom_fr": "Maya",
+    "texte_fr": "Rassurez-vous. La rumeur a été répandue.\nEt... elle est devenue réalité.[1205][U+000F] C'est\nun autre résultat voulu par l'humanité.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nJun-kun...[1205][U+000A] Il veut porter le karma\nde toute la ville seul.[1205][U+000F] Il est vraiment\ntrop gentil..."
+  },
+  {
+    "id": 16,
+    "offset": 303874,
+    "data_size": 258,
+    "slot_size": 262,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "We[SP]have[SP]to[SP]save[SP]him![1205][U+000F][SP]He[SP]doesn't[SP]need[SP]to[SP]suffer\nthrough[SP]this[SP]alone.[1205][U+000F][SP]I[SP]want[SP]to[SP]get[SP]Jun-kun[SP]back\nto[SP]his[SP]normal[SP]self...",
+    "nom_fr": "Maya",
+    "texte_fr": "Il faut le sauver![1205][U+000F] Il n'a pas besoin de souffrir\nseul comme ça.[1205][U+000F] Je veux retrouver Jun-kun\ntel qu'il était avant..."
+  },
+  {
+    "id": 17,
+    "offset": 304136,
+    "data_size": 268,
+    "slot_size": 272,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Maya-san[SP]sure[SP]eats[SP]a[SP]lot.[SP]The[SP]other[SP]day,[SP]she\ndragged[SP]me[SP]with[SP]her[SP]to[SP]all-you-can-eat[SP]ramen.\nI[SP]thought[SP]I[SP]was[SP]going[SP]to[SP]die...",
+    "nom_fr": "Yukino",
+    "texte_fr": "Maya mange vraiment beaucoup. Récemment,\nelle m'a traînée à un buffet de ramen.\nJ'ai cru que j'allais y passer..."
+  },
+  {
+    "id": 18,
+    "offset": 304408,
+    "data_size": 310,
+    "slot_size": 314,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Blurrgh...[1205][001E][SP]God,[SP]just[SP]remembering[SP]it[SP]makes[SP]me\nqueasy...[1205][001E][SP]And[SP]she's[SP]still[SP]thin![SP]She's[SP]famous\nat[SP]the[SP]office[SP]for[SP]her[SP][1432][NULL][NULL][0014]black[SP]hole[SP]stomach.[1432][NULL][NULL][0014]",
+    "nom_fr": "Yukino",
+    "texte_fr": "Beurk...[1205][001E] Y penser me donne la nausée...[1205][001E]\nEt elle reste mince! Elle est célèbre\nà la rédac pour son [1432][NULL][NULL][0014]estomac trou noir.[1432][NULL][NULL][0014]"
+  },
+  {
+    "id": 19,
+    "offset": 304722,
+    "data_size": 152,
+    "slot_size": 156,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "H-Hey,[SP]Maya-san.[SP]You're[SP]embarrassing[SP]us...\nCut[SP]it[SP]out,[SP]will[SP]you!",
+    "nom_fr": "Yukino",
+    "texte_fr": "H-Hé, Maya-san. Tu nous fais honte...\nArrête un peu!"
+  },
+  {
+    "id": 20,
+    "offset": 304878,
+    "data_size": 234,
+    "slot_size": 238,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "That[SP]guy's[SP]right.[SP]This[SP]is[SP]no[SP]different[SP]from\nrandom[SP]acts[SP]of[SP]violence.[SP]And[SP]King[SP]Leo[SP]still\ncalls[SP]it[SP]a[SP]game!?",
+    "nom_fr": "Yukino",
+    "texte_fr": "Il a raison. Ce n'est rien d'autre que\nde la violence gratuite. Et le Roi Lion\nappelle ça un jeu!?"
+  },
+  {
+    "id": 21,
+    "offset": 305116,
+    "data_size": 224,
+    "slot_size": 228,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "I[SP]don't[SP]feel[SP]like[SP]we've[SP]changed...[SP]So[SP]I[SP]think\nwe[SP]avoided[SP]becoming[SP]the[SP]culprits,[SP]like[SP]the\nrumor[SP]said.",
+    "nom_fr": "Yukino",
+    "texte_fr": "J'ai pas l'impression qu'on a changé...\nOn a évité de devenir les coupables\ndont parlait la rumeur."
+  },
+  {
+    "id": 22,
+    "offset": 305344,
+    "data_size": 286,
+    "slot_size": 290,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Rumors[SP]can[SP]even[SP]change[SP]someone's[SP]personality...\nTrying[SP]to[SP]save[SP]Jun[SP]right[SP]now[SP]is[SP]like[SP]going\nagainst[SP]everyone[SP]spreading[SP]those[SP]rumors.",
+    "nom_fr": "Yukino",
+    "texte_fr": "Les rumeurs peuvent altérer la personnalité...\nSauver Jun maintenant revient à\naffronter tous ceux qui les répandent."
+  },
+  {
+    "id": 23,
+    "offset": 305634,
+    "data_size": 82,
+    "slot_size": 86,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Are[SP]you[SP]prepared[SP]for[SP]that,[SP][1113]?",
+    "nom_fr": "Yukino",
+    "texte_fr": "Tu es prêt pour ça, [1113]?"
+  },
+  {
+    "id": 24,
+    "offset": 305720,
+    "data_size": 244,
+    "slot_size": 248,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "Heeheehee.[SP]Anything[SP]else?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Hihihi. Autre chose ?\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien\nQuitter",
+    "question_orig": "Heeheehee.[SP]Anything[SP]else?",
+    "choix_orig": [
+      "[U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 25,
+    "offset": 305968,
+    "data_size": 324,
+    "slot_size": 328,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Alors, tu vends quoi ?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "question_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?",
+    "choix_orig": [
+      "[U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 26,
+    "offset": 306296,
+    "data_size": 222,
+    "slot_size": 226,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Tu veux parler de quoi ?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
+    "question_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
+    "choix_orig": [
+      "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 27,
+    "offset": 306522,
+    "data_size": 198,
+    "slot_size": 202,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "*sniffle*[1205][001E][SP]My[SP]son[SP]decided[SP]to[SP]become[SP]a[SP]detective.\nHe's[SP]such[SP]a[SP]disgrace,[SP]I[SP]could[SP]cry.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "*renifl*[1205][001E] Mon fils veut devenir détective.\nC'est une telle honte, j'en pleurerais."
+  },
+  {
+    "id": 28,
+    "offset": 306724,
+    "data_size": 258,
+    "slot_size": 262,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "He[SP]doesn't[SP]save[SP]up,[SP]either.[SP]A[SP]fortune-teller\ntold[SP]me[SP]he'd[SP]be[SP]rich[SP]someday,[SP]so[SP]I[SP]spent[SP]a[SP]lot\nof[SP]time[SP]raising[SP]him...",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Il n'économise pas. Une voyante\na dit qu'il serait riche, alors j'ai\ninvesti beaucoup dans son éducation..."
+  },
+  {
+    "id": 29,
+    "offset": 306986,
+    "data_size": 292,
+    "slot_size": 296,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "We've[SP]been[SP]getting[SP]a[SP]lot[SP]of[SP]young[SP]customers\nlately.[SP]It[SP]must[SP]be[SP]madness[SP]over[SP]at[SP]our[SP]Yumezaki\nbranch.[SP]That's[SP]where[SP]they[SP]all[SP]hang[SP]out.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "On a beaucoup de jeunes clients dernièrement.\nÇa doit être la folie à notre succursale de Yumezaki.\nC'est là qu'ils traînent tous."
+  },
+  {
+    "id": 30,
+    "offset": 307282,
+    "data_size": 284,
+    "slot_size": 288,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "But[SP]our[SP]best[SP]sellers[SP]are[SP]diet[SP]food[SP]and[SP]hair\ngrowth[SP]formulas.[SP]Heeheehee...[SP]I[SP]think[SP]people\ncare[SP]too[SP]much[SP]about[SP]their[SP]appearances.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Nos meilleures ventes sont les produits\ndiététiques et les lotions capillaires.\nLes gens se soucient trop de leur look."
+  },
+  {
+    "id": 31,
+    "offset": 307570,
+    "data_size": 270,
+    "slot_size": 274,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "*sniff*[SP]Oh,[SP]how[SP]frightening[SP]this[SP]terrorism\nis![SP]Arson[SP]in[SP]any[SP]ward[SP]scares[SP]us,[SP]since[SP]we[SP]have\nbranches[SP]all[SP]over[SP]Sumaru[SP]City.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "*snif* Ce terrorisme m'effraie!\nLes incendies nous terrifient, car\nnos boutiques sont partout dans Sumaru."
+  },
+  {
+    "id": 32,
+    "offset": 307844,
+    "data_size": 302,
+    "slot_size": 306,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "*sniff*[SP]Watching[SP]the[SP]news[SP]now[SP]has[SP]me[SP]even[SP]more\nconfused.[SP]Are[SP]those[SP]five[SP]the[SP]terrorists?[SP]Are\nthey[SP]heroes?[SP]I[SP]wish[SP]they'd[SP]pick[SP]one.[SP]*sniff*",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "*snif* Les infos me perturbent encore\nplus. Ces cinq-là sont des terroristes?\nOu des héros? Choisissez un camp! *snif*"
+  },
+  {
+    "id": 33,
+    "offset": 308150,
+    "data_size": 246,
+    "slot_size": 250,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "Yikes![SP]Even[SP]the[SP]Masked[SP]Circle's[SP]out[SP]and[SP]about.[1205][U+000F]\nIt's[SP]a[SP]war[SP]zone[SP]out[SP]there![1205][U+000A][SP]I[SP]wonder[SP]if[SP]my\nTadashi's[SP]okay.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Aïe! Le Cercle masqué est de sortie.[1205][U+000F]\nC'est une zone de guerre dehors![1205][U+000A] J'espère\nque mon Tadashi va bien."
+  },
+  {
+    "id": 34,
+    "offset": 308400,
+    "data_size": 298,
+    "slot_size": 302,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "I[SP]hope[SP]he[SP]keeps[SP]a[SP]low[SP]profile,[SP]but[SP]I[SP]know[SP]my\nboy...[SP]He'll[SP]probably[SP]try[SP]something[SP]stupid.[1205][U+000F]\nI[SP]can't[SP]worry[SP]enough[SP]about[SP]him...[1205][U+000F][SP]*sniff*",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "J'espère qu'il est discret, mais je connais\nmon fils... Il va faire une bêtise.[1205][U+000F]\nJe m'inquiète tellement pour lui...[1205][U+000F] *snif*"
+  },
+  {
+    "id": 35,
+    "offset": 308702,
+    "data_size": 106,
+    "slot_size": 110,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "Thank[SP]you![SP]Come[SP]again[SP]soon![SP]Heeheehee.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Merci! Revenez vite! Hihi."
+  },
+  {
+    "id": 36,
+    "offset": 308812,
+    "data_size": 278,
+    "slot_size": 282,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Man",
+    "texte_orig": "My[SP]daughter[SP]won't[SP]leave[SP]her[SP]room,[SP]now[SP]she's\nasking[SP]me[SP]to[SP]get[SP]medicine[SP]for[SP]swelling...[1205][001E]\nIt's[SP]not[SP]her[SP]belly[SP]getting[SP]bigger,[SP]is[SP]it!?",
+    "nom_fr": "Homme",
+    "texte_fr": "Ma fille ne sort plus, et maintenant\nelle veut un remède contre les gonflements...[1205][001E]\nJ'espère que ce n'est pas son ventre!?"
+  },
+  {
+    "id": 37,
+    "offset": 309094,
+    "data_size": 278,
+    "slot_size": 282,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Man",
+    "texte_orig": "Guess[SP]my[SP]daughter[SP]had[SP]the[SP]Seven[SP]Sisters[SP]curse.\nThe[SP]swelling[SP]has[SP]gone[SP]down,[SP]but[SP]I'm[SP]just[SP]glad\nit[SP]wasn't[SP]her[SP]belly[SP]getting[SP]bigger...",
+    "nom_fr": "Homme",
+    "texte_fr": "Ma fille avait la malédiction des Seven.\nLe gonflement est parti, je suis soulagé\nque ce ne soit pas son ventre..."
+  },
+  {
+    "id": 38,
+    "offset": 309376,
+    "data_size": 300,
+    "slot_size": 304,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Man",
+    "texte_orig": "This[SP]isn't[SP]funny.[SP]How[SP]long[SP]are[SP]the[SP]terrorists\ngoing[SP]to[SP]keep[SP]this[SP]up?[SP]My[SP]daughter's[SP]cheered[SP]up\nnow,[SP]but[SP]I[SP]can't[SP]go[SP]home.[SP]Where[SP]are[SP]the[SP]police?",
+    "nom_fr": "Homme",
+    "texte_fr": "C'est pas drôle. Les terroristes vont\ncontinuer longtemps ? Ma fille va mieux,\nmais je peux pas rentrer. Où est la police ?"
+  },
+  {
+    "id": 39,
+    "offset": 309680,
+    "data_size": 262,
+    "slot_size": 266,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Man",
+    "texte_orig": "I[SP]think[SP]those[SP]five[SP]are[SP]the[SP]bombers.[SP]I[SP]mean,\nsix[SP]places[SP]have[SP]been[SP]hit[SP]already.[SP]That[SP]would\nbe[SP]impossible[SP]for[SP]a[SP]lone[SP]suspect.",
+    "nom_fr": "Homme",
+    "texte_fr": "Je crois que ces cinq-là posent les bombes.\nSix endroits ont été touchés. Impossible\npour un suspect isolé."
+  },
+  {
+    "id": 40,
+    "offset": 309946,
+    "data_size": 254,
+    "slot_size": 258,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Man",
+    "texte_orig": "I-I'm[SP]worried[SP]about[SP]my[SP]family,[SP]but[SP]I[SP]can't[SP]go\nhome[SP]when[SP]it's[SP]this[SP]dangerous[SP]outside.[SP]Please...\nLet[SP]everyone[SP]be[SP]safe...",
+    "nom_fr": "Homme",
+    "texte_fr": "J-Je m'inquiète pour ma famille, mais\nimpossible de rentrer avec ce danger...\nPitié... Que tous aillent bien..."
+  },
+  {
+    "id": 41,
+    "offset": 310204,
+    "data_size": 250,
+    "slot_size": 254,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "Have[SP]you[SP]ever[SP]been[SP]to[SP]Kaori?[SP]Rumor[SP]has[SP]it[SP]their\naromatherapy[SP]is[SP]amazing.[SP]It[SP]can[SP]even[SP]cure\nwounds[SP]and[SP]sickness.",
+    "nom_fr": "Jeune homme",
+    "texte_fr": "Déjà allé chez Kaori ? On dit que leur\naromathérapie est incroyable. Elle\nsoignerait blessures et maladies."
+  },
+  {
+    "id": 42,
+    "offset": 310458,
+    "data_size": 202,
+    "slot_size": 206,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "I[SP]go[SP]to[SP]Kaori[SP]a[SP]lot.[SP]I[SP]never[SP]knew[SP]aromatherapy\nworked[SP]so[SP]well![SP]It[SP]even[SP]heals[SP]injuries!",
+    "nom_fr": "Jeune homme",
+    "texte_fr": "Je vais souvent chez Kaori. Leur aromathérapie\nguérit même les blessures !"
+  },
+  {
+    "id": 43,
+    "offset": 310664,
+    "data_size": 204,
+    "slot_size": 208,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "Plus,[SP]the[SP]owner[SP]Kaori-san[SP]is[SP]beautiful,[SP]so[SP]tons\nof[SP]guys[SP]go[SP]there[SP]a[SP]lot[SP]just[SP]to[SP]see[SP]her.",
+    "nom_fr": "Jeune homme",
+    "texte_fr": "De plus, Kaori-san est belle, alors plein\nde gars y vont souvent juste pour la voir."
+  },
+  {
+    "id": 44,
+    "offset": 310872,
+    "data_size": 296,
+    "slot_size": 300,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "These[SP]bombings[SP]are[SP]random,[SP]right?[SP]This[SP]place\ncould[SP]be[SP]next...[SP]Ughh...[SP]My[SP]stomach's[SP]churning...\nI[SP]need[SP]aromatherapy,[SP]but[SP]I'm[SP]scared...",
+    "nom_fr": "Jeune homme",
+    "texte_fr": "Ces attentats sont aléatoires, non? Ici\npourrait être la prochaine cible... Ugh...\nJ'ai l'estomac noué... J'ai trop peur..."
+  },
+  {
+    "id": 45,
+    "offset": 311172,
+    "data_size": 230,
+    "slot_size": 234,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "My[SP]friends[SP]have[SP]a[SP]betting[SP]pool[SP]going[SP]on[SP]whether\nthe[SP]five[SP]guys[SP]on[SP]the[SP]news[SP]are[SP]the[SP]terrorists\nor[SP]not.",
+    "nom_fr": "Jeune homme",
+    "texte_fr": "Mes amis ont un pari en cours pour savoir si\nles cinq gars aux infos sont les terroristes\nou pas."
+  },
+  {
+    "id": 46,
+    "offset": 311406,
+    "data_size": 150,
+    "slot_size": 154,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "You[SP]want[SP]in?[SP]Right[SP]now,[SP]it's[SP]about[SP]five[SP]for,\nfive[SP]against...",
+    "nom_fr": "Jeune homme",
+    "texte_fr": "Tu paries? C'est du\ncinquante-cinquante..."
+  },
+  {
+    "id": 47,
+    "offset": 311560,
+    "data_size": 200,
+    "slot_size": 204,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Young[SP]man",
+    "texte_orig": "This[SP]is[SP]a[SP]pretty[SP]bad[SP]situation...[SP]I[SP]wonder[SP]if\nKaori-san[SP]is[SP]okay...[SP]I[SP]hope[SP]she's[SP]safe.",
+    "nom_fr": "Jeune homme",
+    "texte_fr": "C'est vraiment moche...\nJ'espère que Kaori-san va\nbien et qu'elle est en sécurité."
+  },
+  {
+    "id": 48,
+    "offset": 311764,
+    "data_size": 268,
+    "slot_size": 272,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "Heeheehee.[SP]Welcoooome![SP]What'll[SP]it[SP]be?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Hihihi. Bienvenuuue ! Que désires-tu ?\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien\nQuitter",
+    "question_orig": "Heeheehee.[SP]Welcoooome![SP]What'll[SP]it[SP]be?",
+    "choix_orig": [
+      "[U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 49,
+    "offset": 312036,
+    "data_size": 336,
+    "slot_size": 340,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Alors, que veux-tu vendre ?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "question_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?",
+    "choix_orig": [
+      "[U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 50,
+    "offset": 312376,
+    "data_size": 222,
+    "slot_size": 226,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Tu veux parler de quoi ?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
+    "question_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
+    "choix_orig": [
+      "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 51,
+    "offset": 312602,
+    "data_size": 120,
+    "slot_size": 124,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "Oh,[SP]but[SP]you[SP]don't[SP]have[SP]anything[SP]you[SP]can[SP]sell.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Oh, mais vous n'avez rien à vendre."
+  },
+  {
+    "id": 52,
+    "offset": 312726,
+    "data_size": 140,
+    "slot_size": 144,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Le total s'élève à [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui\nNon",
+    "question_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?",
+    "choix_orig": [
+      "Yes\nNo"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 53,
+    "offset": 312870,
+    "data_size": 140,
+    "slot_size": 144,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "Heeheehee.[SP]Okay,[SP]I'll[SP]tell[SP]you[SP]a[SP]little[SP]about\nshopping.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Hihi! D'accord, je vais expliquer\nun peu le shopping."
+  },
+  {
+    "id": 54,
+    "offset": 313014,
+    "data_size": 206,
+    "slot_size": 210,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "D'abord, les achats. Sélectionnez [1432][NULL][NULL][0014]Acheter objets,[1432][NULL][NULL][0014]\npour voir nos articles."
+  },
+  {
+    "id": 55,
+    "offset": 313224,
+    "data_size": 164,
+    "slot_size": 168,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "Oh,[SP]and[SP]there's[SP]a[SP]limit[SP]to[SP]how[SP]many[SP]of[SP]the\nsame[SP]item[SP]you[SP]can[SP]carry.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Oh, il y a une limite pour\nle même objet que vous portez."
+  },
+  {
+    "id": 56,
+    "offset": 313392,
+    "data_size": 292,
+    "slot_size": 296,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "Ensuite, pour vendre. Sélectionnez [1432][NULL][NULL][0014]Vendre objets,[1432][NULL][NULL][0014]\npuis le type d'objet à vendre.\nEnfin, choisissez l'objet précis."
+  },
+  {
+    "id": 57,
+    "offset": 313688,
+    "data_size": 308,
+    "slot_size": 312,
+    "_term": [
+      4358,
+      4354,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "Our[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "La revente est à moitié prix.\nOn ne vend pas les objets équipés\nni certains objets spéciaux."
+  },
+  {
+    "id": 58,
+    "offset": 314000,
+    "data_size": 84,
+    "slot_size": 88,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Sister[SP]#3",
+    "texte_orig": "That's[SP]about[SP]it.[SP]Heeheehee.",
+    "nom_fr": "Sœur n°3",
+    "texte_fr": "C'est tout. Hihi!"
+  }
+]

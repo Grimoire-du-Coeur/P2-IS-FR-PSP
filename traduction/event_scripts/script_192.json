@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "offset": 343738,
+    "data_size": 76,
+    "slot_size": 80,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "See[SP]you[SP]tomorrow![SP]Bye-bye!",
+    "nom_fr": "Ginko",
+    "texte_fr": "On se voit demain! À plus!"
+  },
+  {
+    "id": 1,
+    "offset": 343818,
+    "data_size": 32,
+    "slot_size": 36,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "......",
+    "nom_fr": "Jun",
+    "texte_fr": "..."
+  },
+  {
+    "id": 2,
+    "offset": 343854,
+    "data_size": 134,
+    "slot_size": 138,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "Ngh...[SP]Again...?[1205][001E][SP]Why?[SP]Why[SP]are[SP]we[SP]seeing\nthese[SP]things...?",
+    "nom_fr": "Jun",
+    "texte_fr": "Heu...Encore?[1205][001E] Pourquoi? Pourquoi on voit ces choses?"
+  },
+  {
+    "id": 3,
+    "offset": 343992,
+    "data_size": 388,
+    "slot_size": 392,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Isn't[SP]your[SP]mom[SP]gonna[SP]come[SP]pick[SP]you[SP]up,[SP]Jun-kun?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\n...[1205][001E]I[SP]wish...[1205][001E][SP]I[SP]wish[SP]you[SP]were[SP]my[SP]Mama,\nBig[SP]Sis...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nMama...[SP]She[SP]hates[SP]me...[1205][001E][SP]But[SP]Papa's[SP]really\ngreat![SP]I[SP]swear!",
+    "nom_fr": "Maya",
+    "texte_fr": "Ta maman vient pas te chercher, Jun-kun ?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\n...[1205][001E]J'aimerais...[1205][001E] que tu sois ma maman,\nSœurette...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nMaman me déteste...[1205][001E] Mais papa\nest super ! Je le jure !"
+  },
+  {
+    "id": 4,
+    "offset": 344384,
+    "data_size": 86,
+    "slot_size": 90,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Oh...[1205][001E][SP]Then[SP]I'll[SP]walk[SP]you[SP]home!",
+    "nom_fr": "Maya",
+    "texte_fr": "Oh...[1205][001E]Je t’accompagne !"
+  },
+  {
+    "id": 5,
+    "offset": 344474,
+    "data_size": 112,
+    "slot_size": 116,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "???",
+    "texte_orig": "Oh,[SP]hello...[1205][001E][SP]Thanks[SP]for[SP]looking[SP]after[SP]Jun...",
+    "nom_fr": "???",
+    "texte_fr": "Oh, bonjour... Merci de t’être occupé de Jun."
+  },
+  {
+    "id": 6,
+    "offset": 344590,
+    "data_size": 102,
+    "slot_size": 106,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "Grrk...![1205][001E][SP]Th-That's...[1205][001E][SP]Who[SP]is[SP]that...?",
+    "nom_fr": "Jun",
+    "texte_fr": "Rrr...!1205][001E]C'est...[1205][001E] C'est qui...?"
+  },
+  {
+    "id": 7,
+    "offset": 344696,
+    "data_size": 316,
+    "slot_size": 320,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Hello.[1205][001E][SP]Um...[SP]Are[SP]you[SP]Jun-kun's[SP]father?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nN-No...![1205][001E][SP]He's...[1205][001E][SP]He's[SP]my[SP]uncle!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun's[SP]uncle\n...[1205][001E]Come[SP]on...[SP]Let's[SP]go[SP]home.[SP]Jun...?",
+    "nom_fr": "Maya",
+    "texte_fr": "Bonjour.[1205][001E] Euh, vous êtes le père\nde Jun-kun ?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nN-Non...![1205][001E] C'est...[1205][001E] mon oncle !\n[E1][E2]\n[E3][E4][NULL][NULL]\"Oncle de Jun\n...[1205][001E]Allez, rentrons. Jun ?"
+  }
+]

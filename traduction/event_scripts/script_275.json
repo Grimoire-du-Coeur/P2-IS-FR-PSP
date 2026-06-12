@@ -1,0 +1,174 @@
+[
+  {
+    "id": 0,
+    "offset": 333966,
+    "data_size": 312,
+    "slot_size": 316,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "You[SP]know[SP]that[SP]Joker[SP]Game[SP]thing?[SP]I[SP]wonder[SP]if\nit's[SP]real...[1205][001E][SP]Oh,[SP]I[SP]just[SP]heard[SP]a[SP]rumor,[SP]is[SP]all.\nYour[SP]dreams[SP]come[SP]true,[SP]eh?[SP]Has[SP]that[SP]happened?",
+    "nom_fr": "Lycéen",
+    "texte_fr": "T'as entendu parler du Joker Game ?\nC'est vrai tout ça...[1205][001E] Bah, j'ai juste\nentendu une rumeur. Tes rêves se réalisent, non ?"
+  },
+  {
+    "id": 1,
+    "offset": 334282,
+    "data_size": 302,
+    "slot_size": 306,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Horror-loving[SP]girl",
+    "texte_orig": "Bleheheh...[SP]I'm[SP]gathering[SP]scaaary[SP]stories,\njust[SP]for[SP]you.[SP]The[SP]one[SP]I've[SP]got[SP]today[SP]is\nespecially[SP]spooktacular.[1205][001E][SP]Listen[SP]to[SP]this...",
+    "nom_fr": "Fille amateur d'horreur",
+    "texte_fr": "Bleheheh... Je collecte des histoires\neffrayantes pour toi. Celle d'aujourd'hui\nest vraiment terrifiante.[1205][001E] Écoute..."
+  },
+  {
+    "id": 2,
+    "offset": 334588,
+    "data_size": 322,
+    "slot_size": 326,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Horror-loving[SP]girl",
+    "texte_orig": "You[SP]know[SP]the[SP]statue[SP]of[SP]the[SP]principal[SP]in[SP]the\ncourtyard?[SP]When[SP]no[SP]one's[SP]looking...[1205]<[SP]it[SP]comes\nto[SP]life[SP]and[SP]walks[SP]around![SP]Eeeeeeeee![SP]Nooooooo!",
+    "nom_fr": "Fille amateur d'horreur",
+    "texte_fr": "Tu connais la statue du proviseur dans la cour ?\nQuand personne ne regarde...[1205]< elle s'anime\net se promène ! Aaaaaaah ! Nooooon !"
+  },
+  {
+    "id": 3,
+    "offset": 334914,
+    "data_size": 266,
+    "slot_size": 270,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Horror-loving[SP]girl",
+    "texte_orig": "Well...?[SP]Wasn't[SP]that[SP]scary?\n[1208][U+0003][1432][NULL][NULL][0014]Not[SP]at[SP]all.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Very[SP]scary,[SP]actually![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]as[SP]scary[SP]as[SP]you.[1432][NULL][NULL][0014]",
+    "nom_fr": "Fille amateur d'horreur",
+    "texte_fr": "Alors...? C'était pas effrayant ?\n[1208][U+0003][1432][NULL][NULL][0014]Pas du tout.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Si, vraiment ![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Moins que toi.[1432][NULL][NULL][0014]",
+    "question_orig": "Well...?[SP]Wasn't[SP]that[SP]scary?",
+    "choix_orig": [
+      "Not[SP]at[SP]all.",
+      "Very[SP]scary,[SP]actually!",
+      "Not[SP]as[SP]scary[SP]as[SP]you."
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 4,
+    "offset": 335184,
+    "data_size": 288,
+    "slot_size": 292,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Horror-loving[SP]girl",
+    "texte_orig": "Gwah![SP]I-It[SP]doesn't[SP]even[SP]make[SP]you[SP]blink...?\nIt's[SP]true...[SP]nothing[SP]scares[SP]you...[SP]That[SP]one\nnearly[SP]made[SP]me[SP]hide[SP]under[SP]my[SP]bed!",
+    "nom_fr": "Fille amateur d'horreur",
+    "texte_fr": "Gwah ! T-Tu n'as même pas cillé...?\nRien ne te fait peur... Moi,\nj'ai failli me cacher sous mon lit !"
+  },
+  {
+    "id": 5,
+    "offset": 335476,
+    "data_size": 322,
+    "slot_size": 326,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Horror-loving[SP]girl",
+    "texte_orig": "Bleheheh![SP]Even[SP]the[SP]fearless[SP][1113]-kun[SP]got\nfreaked[SP]out[SP]by[SP]that[SP]one![1205][001E][SP]Such[SP]an[SP]exquisite[1205][U+000A]\nfrisson...[1205][001E][SP]Don't[SP]worry...[1205][001E][SP]It's[SP]only[1205][U+000A][SP]a[SP]rumor...",
+    "nom_fr": "Fille amateur d'horreur",
+    "texte_fr": "Bleheheh ! Même l'intrépide [1113]-kun\na eu peur ![1205][001E] Quel frisson exquis...[1205][U+000A]\n[1205][001E] T'inquiète pas...[1205][001E] C'est juste[1205][U+000A] une rumeur..."
+  },
+  {
+    "id": 6,
+    "offset": 335802,
+    "data_size": 316,
+    "slot_size": 320,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Horror-loving[SP]girl",
+    "texte_orig": "Gosh![SP]I'm[SP]scary!?[SP]Really!?[SP]Now[SP]memories[SP]of[SP]me\nwill[SP]be[SP]burned[SP]into[SP]your[SP]brain...[SP]Bleheheh!\nBleheheheheh![1205][001E][SP]Such[SP]an[SP]exquisite[1205][U+000A][SP]frisson!",
+    "nom_fr": "Fille amateur d'horreur",
+    "texte_fr": "Oh ! Je suis effrayante !? Vraiment !?\nGravée dans ta mémoire... Bleheheh !\nBleheheheheh ![1205][001E] Quel frisson[1205][U+000A] exquis !"
+  },
+  {
+    "id": 7,
+    "offset": 336122,
+    "data_size": 244,
+    "slot_size": 248,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Bandaged[SP]male[SP]student",
+    "texte_orig": "H-Hey,[SP][1113]-kun.[SP]I[SP]heard[SP]Cuss[SP]High's\nUndie[SP]Boss[SP]is[SP]out[SP]to[SP]get[SP]you...[SP]D-Does[SP]that\nmake[SP]you[SP]nervous?",
+    "nom_fr": "Lycéen blessé",
+    "texte_fr": "H-Hé, [1113]-kun. J'ai entendu que le\nBoss du Lycée Kakasu en a après toi...\nÇ-Ça te stresse pas ?"
+  },
+  {
+    "id": 8,
+    "offset": 336370,
+    "data_size": 314,
+    "slot_size": 318,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Bandaged[SP]male[SP]student",
+    "texte_orig": "W-Well,[SP]um,[SP]I[SP]kinda[SP]wonder[SP]about[SP]the[SP]whole\nBoss[SP]thing,[SP]but[SP]loners[SP]like[SP]you[SP]are[SP]pretty\nrare[SP]now[SP]too.[SP]D-Don't[SP]make[SP]too[SP]many[SP]enemies.",
+    "nom_fr": "Lycéen blessé",
+    "texte_fr": "E-Enfin, cette histoire de Boss me dépasse,\nmais les solitaires comme toi sont rares.\nF-Fais gaffe à pas te faire trop d'ennemis."
+  },
+  {
+    "id": 9,
+    "offset": 336688,
+    "data_size": 312,
+    "slot_size": 316,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Bandaged[SP]female[SP]student",
+    "texte_orig": "[1113]-kun![SP]Did[SP]you[SP]hear[SP]the[SP]shocking[SP]news?\nTurns[SP]out[SP]this[SP]whole[SP]bizarre[SP]disease[SP]thing\nmight[SP]make[SP]them[SP]cancel[SP]the[SP]school[SP]festival...",
+    "nom_fr": "Lycéenne blessée",
+    "texte_fr": "[1113]-kun ! T'as entendu la nouvelle ?\nApparemment cette étrange maladie pourrait\nles forcer à annuler la fête scolaire..."
+  }
+]

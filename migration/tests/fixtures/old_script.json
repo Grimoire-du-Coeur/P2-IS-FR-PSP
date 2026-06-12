@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "offset": 100,
+    "slot_size": 40,
+    "data_size": 36,
+    "nom_orig": "Thug",
+    "texte_orig": "Yo...[SP]Goin'[SP]somewhere?",
+    "nom_fr": "Délinquant",
+    "texte_fr": "Hep... On va où?"
+  },
+  {
+    "id": 1,
+    "offset": 200,
+    "slot_size": 200,
+    "data_size": 196,
+    "nom_orig": "Hanya",
+    "texte_orig": "You're[SP]that[SP][U+1113][SP][U+1112].",
+    "nom_fr": "Hanya",
+    "texte_fr": "Tu es ce [U+1113] [U+1112]."
+  },
+  {
+    "id": 2,
+    "offset": 300,
+    "slot_size": 500,
+    "data_size": 496,
+    "nom_orig": "Eikichi",
+    "texte_orig": "Right![SP][E1][E2]Eikichi[SP]Mishina[E4][NULL][NULL][0002]",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Voilà![E1][E2]Eikichi Mishina[E4][NULL][NULL][0002]"
+  },
+  {
+    "id": 3,
+    "offset": 800,
+    "slot_size": 60,
+    "data_size": 56,
+    "nom_orig": "Voice",
+    "texte_orig": "......?",
+    "nom_fr": "",
+    "texte_fr": ""
+  }
+]
