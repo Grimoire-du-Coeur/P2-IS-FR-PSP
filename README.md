@@ -20,7 +20,7 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 | Contenu               | Progression  |
 |-----------------------|--------------|
 | [Scripts (Dialogues Histoire)](https://github.com/chenetulipe/P2-FR-IS-PSP/tree/main/scripts)   |     ✅    |
-| [Autres Scripts (CD shop, Dialogues Carte)](https://github.com/chenetulipe/P2-FR-IS-PSP/tree/main/AutreScript)  | 7/9 |
+| [Autres Scripts (CD shop, Dialogues Carte)](https://github.com/chenetulipe/P2-FR-IS-PSP/tree/main/AutreScript)  | 8/9 |
 | Police (accents FR)   |      ✅      |
 | Textures HD        | 35/42 |
 | ...                   | 🔄 |
