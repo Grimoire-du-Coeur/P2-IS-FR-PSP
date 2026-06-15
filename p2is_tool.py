@@ -898,6 +898,22 @@ def validate_all_scripts(scripts_json_dir: str, log_fn=None, progress_fn=None) -
         "problems":         all_problems,
     }
 
+
+def _needs_nl_suffix(term: list, texte_orig: str) -> bool:
+    """
+    Détermine si un NL (0x1101) doit être inséré entre le texte encodé
+    et le terminateur dans le slot binaire.
+
+    Règle observée sur event scripts et MMAP01-06 :
+    - E3 (0x1103) absent du terminateur → NL requis  (slots narratifs courts)
+    - Menu de choix [1208] → NL requis  (sentinel de fin de menu)
+    - E3 présent ET pas de menu → pas de NL  (slots avec E1 E2 E3 E4)
+    """
+    E3 = 0x1103
+    is_menu = '[1208]' in texte_orig or '[U+1208]' in texte_orig
+    return E3 not in term or is_menu
+
+
 # ── Encodage bin depuis JSON ──────────────────────────────────────────────────
 
 def _align_menu_text(nom_orig: str, texte_orig: str, nom_fr: str, t_fr: str) -> str:
@@ -939,7 +955,7 @@ def _align_menu_text(nom_orig: str, texte_orig: str, nom_fr: str, t_fr: str) -> 
 def encode_bin_from_json(bin_path: str, json_path: str, log_fn, out_path: str = None) -> str:
     """Réécrit les dialogues traduits dans le fichier .bin. Préserve le _term et le slot_size."""
     data  = bytearray(open(bin_path,"rb").read())
-    dlgs  = json.load(open(json_path, encoding="utf-8"))
+    dlgs  = json.loads(open(json_path, encoding="utf-8").read(), strict=False)
     ok = skip = kept = 0
     for d in dlgs:
         n_fr = d.get("nom_fr","").strip(); t_fr = d.get("texte_fr","").strip()
@@ -956,39 +972,35 @@ def encode_bin_from_json(bin_path: str, json_path: str, log_fn, out_path: str = 
                 kept += 1; continue
         elif not n_fr and not t_fr: kept += 1; continue
 
-        # Aligner les options de menu à leur offset original (fix pointeurs PSP absolus)
+        avail = d["data_size"] - 8
+        # NL avant terminateur : règle binaire universelle (event + MMAP + autres)
+        term = d.get("_term", [E1,E2,E3,E4])
+        nl_suffix = struct.pack("<H", NL) if _needs_nl_suffix(
+            term, d.get("texte_orig","")
+        ) else b""
+        # Aligner AVANT d'encoder (on a besoin d'avail pour le test d'alignement)
+        enc_pre = text_to_bytes('"' + n_fr + "\n" + t_fr)
         t_fr_aligned = _align_menu_text(
             d.get("nom_orig", ""), d.get("texte_orig", ""),
             n_fr, t_fr
         )
-        if t_fr_aligned == t_fr and ('[1208]' in t_fr or '[U+1208]' in t_fr):
-            # Vérifier si c'est parce que la question FR est trop longue
-            import re as _re
-            marker = '[U+1208]' if '[U+1208]' in t_fr else '[1208]'
-            pre_fr_enc = text_to_bytes('"' + n_fr + "\n" + t_fr.split(marker)[0])
-            pre_orig_enc = text_to_bytes('"' + d.get("nom_orig","").replace('[SP]',' ') + "\n" + d.get("texte_orig","").split('[1208]')[0])
-            if len(pre_fr_enc) > len(pre_orig_enc):
-                if log_fn: log_fn(
-                    f"  ⚠ [id {d['id']}] question FR trop longue de "
-                    f"{(len(pre_fr_enc)-len(pre_orig_enc))//2} mot(s) → "
-                    f"les choix seront décalés ! Raccourcir la question.", "warn"
-                )
-        t_fr = t_fr_aligned
-
-        enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
-        avail = d["data_size"] - 8
-        # Pour les slots de menu, le moteur PSP exige un NL (0x1101) juste
-        # avant le terminateur (il est dans le binaire original mais absent de texte_orig).
-        # On réserve ce NL dans le padding au lieu de mettre un SP.
-        is_menu = '[1208]' in d.get("texte_orig","") or '[U+1208]' in d.get("texte_orig","")
-        nl_suffix = struct.pack("<H", NL) if is_menu else b""
-        avail_for_enc = avail - len(nl_suffix) // 2
-        if len(enc) > avail - (1 if is_menu else 0) * 2:
+        enc_aligned = text_to_bytes('"' + n_fr + "\n" + t_fr_aligned)
+        if len(enc_aligned) + len(nl_suffix) <= avail:
+            enc = enc_aligned
+        else:
+            # Alignement impossible → garder sans align, warn si menu
+            enc = enc_pre
+            if '[1208]' in t_fr or '[U+1208]' in t_fr:
+                marker = '[U+1208]' if '[U+1208]' in t_fr else '[1208]'
+                pre_fr = text_to_bytes('"' + n_fr + "\n" + t_fr.split(marker)[0])
+                pre_or = text_to_bytes('"' + d.get("nom_orig","").replace('[SP]',' ') + "\n" + d.get("texte_orig","").split('[1208]')[0])
+                if len(pre_fr) > len(pre_or) and log_fn:
+                    log_fn(f"  ⚠ [id {d['id']}] question FR trop longue de {(len(pre_fr)-len(pre_or))//2} mot(s) → alignement désactivé.", "warn")
+        if len(enc) + len(nl_suffix) > avail:
             if log_fn: log_fn(f"  [id {d['id']}] trop long ({len(enc)}>{avail}), ignoré","warn")
             skip += 1; continue
-        sp_count = (avail - len(enc) - (1 if is_menu else 0) * 2) // 2
+        sp_count = (avail - len(enc) - len(nl_suffix)) // 2
         sp_pad = struct.pack("<H", SP) * sp_count
-        term = d.get("_term", [E1,E2,E3,E4])
         end_c = struct.pack("<HHHH",*term) if len(term)==4 else struct.pack("<HHH",*term) if len(term)==3 else struct.pack("<HHHH",E1,E2,E3,E4)
         null_gap = bytes(d["slot_size"] - d["data_size"])
         full = enc + sp_pad + nl_suffix + end_c + null_gap
@@ -1035,13 +1047,129 @@ def scan_bnp_bin(data: bytes, stem: str, out_dir: Path, log_fn) -> int:
     if log_fn: log_fn(f"  {stem.upper()}: {len(unique)} dialogues → {out_path.name}","ok")
     return len(unique)
 
+def _parse_cpk_utf(data: bytes, offset: int) -> list:
+    """Parse une table @UTF du CPK CRI (big-endian). Retourne une liste de dicts."""
+    if len(data) < offset + 8 or data[offset:offset+4] != b'@UTF':
+        return []
+    try:
+        rows_off    = struct.unpack_from('>I', data, offset+8)[0]
+        strings_off = struct.unpack_from('>I', data, offset+12)[0]
+        data_off    = struct.unpack_from('>I', data, offset+16)[0]
+        num_fields  = struct.unpack_from('>H', data, offset+22)[0]
+        row_stride  = struct.unpack_from('>H', data, offset+24)[0]
+        num_rows    = struct.unpack_from('>I', data, offset+26)[0]
+        base = offset + 8
+        str_base  = base + strings_off
+        data_base = base + data_off
+
+        def read_val(p, ftype):
+            if ftype == 0x00: return data[p], p+1
+            if ftype == 0x01: return struct.unpack_from('>b',  data, p)[0], p+1
+            if ftype == 0x02: return struct.unpack_from('>H',  data, p)[0], p+2
+            if ftype == 0x03: return struct.unpack_from('>h',  data, p)[0], p+2
+            if ftype == 0x04: return struct.unpack_from('>I',  data, p)[0], p+4
+            if ftype == 0x05: return struct.unpack_from('>i',  data, p)[0], p+4
+            if ftype == 0x06: return struct.unpack_from('>Q',  data, p)[0], p+8
+            if ftype == 0x07: return struct.unpack_from('>q',  data, p)[0], p+8
+            if ftype == 0x08: return struct.unpack_from('>f',  data, p)[0], p+4
+            if ftype == 0x0A:
+                soff = struct.unpack_from('>I', data, p)[0]
+                sp = str_base + soff; s = b''
+                while sp < len(data) and data[sp]: s += bytes([data[sp]]); sp += 1
+                return s.decode('utf-8','replace'), p+4
+            if ftype == 0x0B:
+                doff  = struct.unpack_from('>I', data, p)[0]
+                dsize = struct.unpack_from('>I', data, p+4)[0]
+                return None, p+8  # on ne lit pas les blobs
+            return None, p
+
+        fields = []; fp = offset + 30
+        for _ in range(num_fields):
+            flags = data[fp]; fp += 1
+            noff = struct.unpack_from('>I', data, fp)[0]; fp += 4
+            np2 = str_base + noff; name = b''
+            while np2 < len(data) and data[np2]: name += bytes([data[np2]]); np2 += 1
+            ftype = flags & 0x0F; storage = (flags >> 4) & 0x0F
+            default = None
+            if storage == 1: default, fp = read_val(fp, ftype)
+            fields.append((name.decode('utf-8','replace'), ftype, storage, default))
+
+        rows = []; rp = base + rows_off
+        for _ in range(num_rows):
+            row = {}
+            for name, ftype, storage, default in fields:
+                if storage == 1: row[name] = default
+                elif storage == 3: row[name], rp = read_val(rp, ftype)
+                else: row[name] = None
+            rows.append(row)
+        return rows
+    except Exception:
+        return []
+
+
+def _find_bnp_offsets_in_cpk(cpk_path: Path, targets: set, cpk_offset_in_iso: int) -> dict:
+    """Parse la table TOC du CPK CRI pour trouver les offsets des BNP cibles."""
+    if not cpk_path.exists():
+        return {}
+    try:
+        cpk = open(cpk_path, "rb").read()
+    except Exception:
+        return {}
+    if cpk[:4] != b'CPK ':
+        return {}
+    try:
+        # Lire TocOffset depuis le header CPK (@UTF à 0x10)
+        hdr_rows = _parse_cpk_utf(cpk, 0x10)
+        if not hdr_rows:
+            return {}
+        toc_off = hdr_rows[0].get('TocOffset')
+        content_off = hdr_rows[0].get('ContentOffset', 0) or 0
+        if toc_off is None:
+            return {}
+        # Lire la table TOC
+        toc_rows = _parse_cpk_utf(cpk, int(toc_off))
+        result = {}
+        for row in toc_rows:
+            fname = row.get('FileName', '') or ''
+            dname = row.get('DirName', '') or ''
+            file_off  = row.get('FileOffset')
+            file_size = row.get('FileSize')
+            ext_size  = row.get('ExtractSize')
+            if file_off is None or file_size is None:
+                continue
+            full_name = (dname + '/' + fname).lstrip('/').lower() if dname else fname.lower()
+            # Matcher avec les cibles (nom de fichier seul)
+            for tname in targets:
+                if fname.lower() == tname or full_name == tname:
+                    abs_off = int(content_off) + int(file_off)
+                    result[tname] = {
+                        "offset_in_cpk": abs_off,
+                        "offset_in_iso": cpk_offset_in_iso + abs_off,
+                        "size": int(ext_size if ext_size else file_size),
+                        "stored_size": int(file_size),
+                    }
+        return result
+    except Exception:
+        return {}
+
+
 def scan_cpk_files(cpk_dir_str: str, out_dir: Path, log_fn=None, progress_fn=None) -> dict:
-    """Scanne les fichiers cibles dans cpk_files/ et extrait leurs dialogues en JSON."""
+    """Scanne les fichiers cibles dans cpk_files/ et extrait leurs dialogues en JSON.
+    Parse la table TOC du CPK pour mémoriser les offsets précis des BNP."""
     cpk_dir = Path(cpk_dir_str); out_dir.mkdir(parents=True, exist_ok=True)
     targets = sorted(SCAN_TARGETS)
     fmap = {f.name.lower(): f for f in Path(cpk_dir_str).rglob("*") if f.is_file()}
     if log_fn: log_fn("Scan des fichiers de jeu…","head")
     total = []; done = []
+    offs = load_offsets()
+    cpk_offset_in_iso = offs.get("cpk_offset_in_iso", 0)
+    # Parser la TOC du CPK pour trouver les offsets précis
+    cpk_path = cpk_dir / "P2PT_ALL.cpk"
+    bnp_offsets = _find_bnp_offsets_in_cpk(cpk_path, set(targets), cpk_offset_in_iso)
+    if bnp_offsets:
+        if log_fn: log_fn(f"  TOC CPK parsée : {len(bnp_offsets)} BNP localisés","info")
+    else:
+        if log_fn: log_fn("  ⚠ TOC CPK non parsée — injection BNP désactivée","warn")
     for i, tname in enumerate(targets):
         if progress_fn: progress_fn((i+1)/len(targets))
         fp = fmap.get(tname)
@@ -1053,25 +1181,44 @@ def scan_cpk_files(cpk_dir_str: str, out_dir: Path, log_fn=None, progress_fn=Non
         n = scan_bnp_bin(raw, fp.stem, out_dir, log_fn)
         total.append(n)
         if n > 0: done.append(tname)
+    if bnp_offsets:
+        offs["bnp_offsets"] = bnp_offsets
+        save_offsets(offs)
     if log_fn: log_fn(f"  Total : {sum(total)} dialogues dans {len(done)} fichiers","ok")
     return {"total": sum(total), "files": done}
 
 
 # ── Rebuild event.bin ─────────────────────────────────────────────────────────
 
-def rebuild_event_bin(orig_event: bytes, scripts_fr_dir: Path, log_fn) -> bytes:
-    """Réinjecte les scripts traduits dans event.bin (recompresse en gzip)."""
+def rebuild_event_bin(orig_event: bytes, scripts_fr_dir: Path, log_fn,
+                      scripts_bin_dir: Path = None) -> bytes:
+    """Réinjecte les scripts traduits dans event.bin.
+    Les scripts sans version FR sont réinjectés depuis scripts_bin_dir (originaux),
+    afin que les 399 scripts soient toujours présents dans l'ISO.
+    """
     event = bytearray(orig_event); toc = []; i = 0
     while i+8 <= len(event):
         s = struct.unpack_from("<I",event,i)[0]; e = struct.unpack_from("<I",event,i+4)[0]
         if s == 0: break
         toc.append((s,e,i)); i += 8
-    patched = 0
+    patched = kept_orig = 0
     for idx,(start,end,tp) in enumerate(toc):
+        # 1. Chercher le script FR encodé
         fr = scripts_fr_dir / f"script_{idx:03d}_fr.bin"
         if not fr.exists(): fr = scripts_fr_dir / f"script_{idx}_fr.bin"
-        if not fr.exists(): continue
-        sc = open(fr,"rb").read()
+        if fr.exists():
+            sc = open(fr,"rb").read()
+        elif scripts_bin_dir is not None:
+            # Fallback : réinjecter le script original
+            orig = scripts_bin_dir / f"script_{idx:03d}.bin"
+            if not orig.exists(): orig = scripts_bin_dir / f"script_{idx}.bin"
+            if orig.exists():
+                sc = open(orig,"rb").read()
+                kept_orig += 1
+            else:
+                continue
+        else:
+            continue
         gz_buf = io.BytesIO()
         with gzip.GzipFile(filename=b"e0000.bin",mode="wb",fileobj=gz_buf,mtime=0) as gz: gz.write(sc)
         new_gz = gz_buf.getvalue()
@@ -1081,14 +1228,15 @@ def rebuild_event_bin(orig_event: bytes, scripts_fr_dir: Path, log_fn) -> bytes:
         event[start+len(new_gz):end]   = bytes((end-start)-len(new_gz))
         struct.pack_into("<I",event,tp+4,start+len(new_gz))
         patched += 1
-    if log_fn: log_fn(f"  {patched}/{len(toc)} scripts réinjectés","ok")
+    if log_fn: log_fn(f"  {patched}/{len(toc)} scripts réinjectés ({kept_orig} originaux conservés)","ok")
     return bytes(event)
 
 
 # ── Rebuild ISO ───────────────────────────────────────────────────────────────
 
-def rebuild_iso(iso_orig: str, event_data: bytes, out_iso: str, log_fn) -> bool:
-    """Patche event.bin dans une copie de l'ISO. L'original n'est jamais touché."""
+def rebuild_iso(iso_orig: str, event_data: bytes, out_iso: str, log_fn,
+                enc_dir: str = None) -> bool:
+    """Patche event.bin ET les BNP traduits (MMAP, F_BE…) dans une copie de l'ISO."""
     if log_fn: log_fn("Préparation du rebuild ISO…","info")
     offs = load_offsets(); pos = offs.get("event_offset_in_iso",-1)
     if pos != -1:
@@ -1099,12 +1247,282 @@ def rebuild_iso(iso_orig: str, event_data: bytes, out_iso: str, log_fn) -> bool:
             pos = -1
     if pos == -1:
         raise Exception("Offset event.bin inconnu.\n→ Relance les étapes A, B, C pour le recalculer.")
-    if log_fn: log_fn(f"  Injection à l'offset 0x{pos:08X}","info")
     shutil.copy(iso_orig, out_iso)
-    with open(out_iso,"r+b") as f: f.seek(pos); f.write(event_data)
+    with open(out_iso,"r+b") as f:
+        # ── Injection event.bin ──
+        if log_fn: log_fn(f"  event.bin → offset 0x{pos:08X}","info")
+        f.seek(pos); f.write(event_data)
+        # ── Injection BNP traduits (MMAP, F_BE, TM_EVE, CD_SHOP) ──
+        bnp_offsets = offs.get("bnp_offsets", {})
+        # Si les offsets ne sont pas mémorisés, les calculer maintenant
+        # depuis le CPK sauvegardé — pas besoin de repasser par le scan
+        if not bnp_offsets and enc_dir:
+            cpk_path = Path(enc_dir).parent / "cpk_files" / "P2PT_ALL.cpk"
+            if cpk_path.exists():
+                if log_fn: log_fn("  Offsets BNP non mémorisés → lecture TOC du CPK…","info")
+                bnp_offsets = _find_bnp_offsets_in_cpk(
+                    cpk_path, set(SCAN_TARGETS), offs.get("cpk_offset_in_iso", 0)
+                )
+                if bnp_offsets:
+                    offs["bnp_offsets"] = bnp_offsets
+                    save_offsets(offs)
+                    if log_fn: log_fn(f"  {len(bnp_offsets)} BNP localisés et mémorisés ✓","info")
+                else:
+                    if log_fn: log_fn("  ⚠ TOC CPK non parsée — BNP non injectés","warn")
+            else:
+                if log_fn: log_fn("  ⚠ P2PT_ALL.cpk introuvable dans cpk_files/ — BNP non injectés","warn")
+        if enc_dir and bnp_offsets:
+            enc = Path(enc_dir)
+            bnp_files = [
+                ("CD_SHOP.BIN", "cd_shop.bin"),
+                ("F_BE.BNP",    "f_be.bnp"),
+                ("TM_EVE.BNP",  "tm_eve.bnp"),
+                ("MMAP01.BNP",  "mmap01.bnp"),
+                ("MMAP02.BNP",  "mmap02.bnp"),
+                ("MMAP03.BNP",  "mmap03.bnp"),
+                ("MMAP04.BNP",  "mmap04.bnp"),
+                ("MMAP05.BNP",  "mmap05.bnp"),
+                ("MMAP06.BNP",  "mmap06.bnp"),
+            ]
+            for fn_enc, fn_key in bnp_files:
+                enc_path = enc / fn_enc
+                if not enc_path.exists():
+                    continue
+                meta = bnp_offsets.get(fn_key) or bnp_offsets.get(fn_key.upper())
+                if not meta:
+                    if log_fn: log_fn(f"  ⚠ {fn_enc} : offset introuvable dans la TOC","warn")
+                    continue
+                iso_off = meta["offset_in_iso"]
+                orig_size = meta["size"]
+                new_data = open(enc_path,"rb").read()
+                if len(new_data) > orig_size:
+                    if log_fn: log_fn(f"  ⚠ {fn_enc} trop grand ({len(new_data)} > {orig_size}), ignoré","warn")
+                    continue
+                f.seek(iso_off)
+                f.write(new_data)
+                if len(new_data) < orig_size:
+                    f.write(bytes(orig_size - len(new_data)))
+                if log_fn: log_fn(f"  {fn_enc} → offset 0x{iso_off:08X} ({len(new_data)} bytes)","info")
     sz = Path(out_iso).stat().st_size // 1024 // 1024
     if log_fn: log_fn(f"  ISO générée : {out_iso} ({sz} MB)","ok")
     return True
+
+
+
+# ── Encodage BNP (MMAP01-06, CD_SHOP) ────────────────────────────────────────
+
+def encode_bnp_from_json(bin_path: str, json_path: str, log_fn, out_path: str = None) -> str:
+    """
+    Réécrit les dialogues traduits dans un fichier BNP/BIN qui peut contenir
+    des blocs gzip embeddés (MMAP01-06).
+
+    Stratégie :
+    - Entrées sans _source (dialogues dans le BNP brut) → même logique que encode_bin_from_json
+    - Entrées avec _source="gz@0xOFFSET" → décompresser le bloc gzip à cet offset,
+      patcher le dialogue dedans, recompresser, réinjecter dans le BNP
+    """
+    data = bytearray(open(bin_path, "rb").read())
+    dlgs = json.loads(open(json_path, encoding="utf-8").read(), strict=False)
+
+    # Grouper les entrées par source
+    direct = []   # pas de _source : offset direct dans BNP
+    by_gz  = {}   # "gz@0xXXXX" → liste d'entrées
+
+    for d in dlgs:
+        src = d.get("_source", "")
+        if src.startswith("gz@"):
+            by_gz.setdefault(src, []).append(d)
+        else:
+            direct.append(d)
+
+    ok = skip = kept = 0
+
+    # ── 1. Entrées directes (même logique que encode_bin_from_json) ───────────
+    for d in direct:
+        n_fr = d.get("nom_fr","").strip(); t_fr = d.get("texte_fr","").strip()
+        choix_fr = d.get("choix_fr"); q_fr = d.get("question_fr","").strip()
+        if choix_fr is not None:
+            filled = [c for c in choix_fr if c.strip()]
+            if q_fr and filled:
+                t_fr = _rebuild_choice_body(q_fr, choix_fr)
+            elif not t_fr:
+                kept += 1; continue
+        elif not n_fr and not t_fr:
+            kept += 1; continue
+        t_fr = _align_menu_text(d.get("nom_orig",""), d.get("texte_orig",""), n_fr, t_fr)
+        enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+        avail = d["data_size"] - 8
+        is_menu = '[1208]' in d.get("texte_orig","") or '[U+1208]' in d.get("texte_orig","")
+        nl_sfx = struct.pack("<H", NL) if is_menu else b""
+        if len(enc) > avail - len(nl_sfx):
+            if log_fn: log_fn(f"  [id {d['id']}] trop long, ignoré", "warn")
+            skip += 1; continue
+        sp_pad = struct.pack("<H", SP) * ((avail - len(enc) - len(nl_sfx)) // 2)
+        term = d.get("_term", [E1,E2,E3,E4])
+        end_c = struct.pack("<HHHH",*term) if len(term)==4 else struct.pack("<HHH",*term) if len(term)==3 else struct.pack("<HHHH",E1,E2,E3,E4)
+        null_gap = bytes(d["slot_size"] - d["data_size"])
+        full = enc + sp_pad + nl_sfx + end_c + null_gap
+        if len(full) != d["slot_size"]: skip += 1; continue
+        data[d["offset"]:d["offset"]+d["slot_size"]] = full
+        ok += 1
+
+    # ── 2. Entrées dans des blocs gzip embeddés ───────────────────────────────
+    for src, entries in by_gz.items():
+        # Parser l'offset du bloc gzip dans le BNP : "gz@0x1A3F" → 0x1A3F
+        try:
+            gz_off = int(src.split("@")[1], 16)
+        except (IndexError, ValueError):
+            if log_fn: log_fn(f"  _source invalide : {src}", "err")
+            skip += len(entries); continue
+
+        # Trouver la fin du bloc gzip (gzip.decompress lit jusqu'à la fin naturelle)
+        try:
+            dec = bytearray(gzip.decompress(data[gz_off:]))
+        except Exception as e:
+            if log_fn: log_fn(f"  Erreur décompression {src} : {e}", "err")
+            skip += len(entries); continue
+
+        # Patcher chaque entrée dans le binaire décompressé
+        patched_in_gz = 0
+        for d in entries:
+            n_fr = d.get("nom_fr","").strip(); t_fr = d.get("texte_fr","").strip()
+            choix_fr = d.get("choix_fr"); q_fr = d.get("question_fr","").strip()
+            if choix_fr is not None:
+                filled = [c for c in choix_fr if c.strip()]
+                if q_fr and filled:
+                    t_fr = _rebuild_choice_body(q_fr, choix_fr)
+                elif not t_fr:
+                    kept += 1; continue
+            elif not n_fr and not t_fr:
+                kept += 1; continue
+            t_fr = _align_menu_text(d.get("nom_orig",""), d.get("texte_orig",""), n_fr, t_fr)
+            enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+            avail = d["data_size"] - 8
+            nl_sfx = struct.pack("<H", NL) if _needs_nl_suffix(
+                d.get("_term", [E1,E2,E3,E4]), d.get("texte_orig","")
+            ) else b""
+            if len(enc) + len(nl_sfx) > avail:
+                if log_fn: log_fn(f"  [id {d['id']}] trop long, ignoré", "warn")
+                skip += 1; continue
+            sp_pad = struct.pack("<H", SP) * ((avail - len(enc) - len(nl_sfx)) // 2)
+            term = d.get("_term", [E1,E2,E3,E4])
+            end_c = struct.pack("<HHHH",*term) if len(term)==4 else struct.pack("<HHH",*term) if len(term)==3 else struct.pack("<HHHH",E1,E2,E3,E4)
+            null_gap = bytes(d["slot_size"] - d["data_size"])
+            full = enc + sp_pad + nl_sfx + end_c + null_gap
+            if len(full) != d["slot_size"]: skip += 1; continue
+            dec[d["offset"]:d["offset"]+d["slot_size"]] = full
+            patched_in_gz += 1
+            ok += 1
+
+        if patched_in_gz == 0:
+            continue  # rien à réécrire dans ce bloc
+
+        # Recompresser et calculer la taille du bloc original dans le BNP
+        gz_buf = io.BytesIO()
+        with gzip.GzipFile(filename=b"", mode="wb", fileobj=gz_buf, mtime=0) as gz:
+            gz.write(bytes(dec))
+        new_gz = gz_buf.getvalue()
+
+        # Trouver la taille du bloc gzip original (lire jusqu'au prochain magic ou fin)
+        orig_end = gz_off + 10  # gzip header minimum
+        # Avancer jusqu'à trouver la fin du stream gzip original
+        try:
+            import io as _io
+            tmp = _io.BytesIO(data[gz_off:])
+            with gzip.GzipFile(fileobj=tmp) as _gz:
+                _gz.read()
+            orig_gz_size = tmp.tell()
+        except Exception:
+            orig_gz_size = len(new_gz)  # fallback
+
+        if len(new_gz) > orig_gz_size:
+            if log_fn: log_fn(f"  ⚠ {src} : bloc gzip FR trop grand ({len(new_gz)} > {orig_gz_size}), ignoré", "warn")
+            ok -= patched_in_gz; skip += patched_in_gz; continue
+
+        # Réinjecter : écrire new_gz + padding nul jusqu'à orig_gz_size
+        data[gz_off:gz_off+orig_gz_size] = new_gz + bytes(orig_gz_size - len(new_gz))
+
+    if out_path is None:
+        out_path = bin_path
+    Path(out_path).parent.mkdir(parents=True, exist_ok=True)
+    with open(out_path, "wb") as f:
+        f.write(data)
+    if log_fn: log_fn(f"  {ok} traduits · {skip} ignorés · {kept} conservés → {Path(out_path).name}", "ok")
+    return out_path
+
+
+# ── Encodage F_BE / TM_EVE ────────────────────────────────────────────────────
+
+def encode_fbe_slot(data: bytearray, offset: int, data_size: int, n_fr: str, t_fr: str) -> bool:
+    """
+    Réécrit un slot F_BE/TM_EVE avec la traduction FR.
+    Le format F_BE est : bytes d'animation intercalés avec du texte UTF-16 LE.
+    On préserve tous les bytes de contrôle/animation et on remplace uniquement
+    le texte ASCII (nom + dialogue) par le texte FR encodé.
+
+    Retourne True si l'écriture a réussi, False si le FR est trop long.
+    """
+    # Lire le slot original pour extraire la structure (positions des bytes ctrl)
+    end = min(offset + data_size, len(data))
+    # Reconstruire : nom_fr en UTF-16 LE + newline + texte_fr en UTF-16 LE
+    # On insère le guillemet d'ouverture comme dans le format original
+    enc_nom  = text_to_bytes(n_fr)
+    enc_text = text_to_bytes(t_fr)
+    # Structure F_BE : 0x0022 (") + nom + NL + texte + 0x1107 (fin)
+    new_content = (struct.pack("<H", 0x0022) +      # guillemet ouvrant
+                   enc_nom +
+                   struct.pack("<H", NL) +           # saut de ligne nom→texte
+                   enc_text +
+                   struct.pack("<H", 0x1107))        # marqueur fin de slot F_BE
+
+    # Vérifier que ça tient dans data_size (en conservant les bytes d'anim après 0x1107)
+    # On mesure l'espace disponible jusqu'à 0x1107 dans le slot original
+    orig_text_end = offset
+    i = offset
+    while i + 1 < end:
+        w = data[i] | (data[i+1] << 8)
+        if w == 0x1107: orig_text_end = i; break
+        if w == 0x1431: i += 7; continue  # sauter les bytes d'animation [E4]
+        i += 1 if (data[i] != 0x00 and data[i+1] != 0x00) else 2
+    else:
+        orig_text_end = end
+
+    avail = orig_text_end - offset
+    if len(new_content) > avail:
+        return False  # trop long
+
+    # Écrire le nouveau contenu + padding nul
+    data[offset:offset + len(new_content)] = new_content
+    data[offset + len(new_content):orig_text_end] = bytes(avail - len(new_content))
+    return True
+
+
+def encode_fbe_bnp_from_json(bin_path: str, json_path: str, log_fn, out_path: str = None) -> str:
+    """Réécrit les dialogues traduits dans un fichier F_BE.BNP ou TM_EVE.BNP."""
+    data = bytearray(open(bin_path, "rb").read())
+    dlgs = json.loads(open(json_path, encoding="utf-8").read(), strict=False)
+    ok = skip = kept = 0
+    # Dédupliquer par (offset, data_size) : plusieurs entrées JSON peuvent partager
+    # le même slot (différentes lignes du même slot F_BE)
+    done_slots = set()
+    for d in dlgs:
+        n_fr = d.get("nom_fr","").strip(); t_fr = d.get("texte_fr","").strip()
+        if not n_fr and not t_fr: kept += 1; continue
+        key = (d["offset"], d["data_size"])
+        if key in done_slots: continue  # déjà patché
+        success = encode_fbe_slot(data, d["offset"], d["data_size"], n_fr, t_fr)
+        if success:
+            done_slots.add(key); ok += 1
+        else:
+            if log_fn: log_fn(f"  [id {d['id']}] F_BE trop long, ignoré", "warn")
+            skip += 1
+    if out_path is None:
+        out_path = bin_path
+    Path(out_path).parent.mkdir(parents=True, exist_ok=True)
+    with open(out_path, "wb") as f:
+        f.write(data)
+    if log_fn: log_fn(f"  {ok} traduits · {skip} ignorés · {kept} conservés → {Path(out_path).name}", "ok")
+    return out_path
 
 
 # ── Encodage complet ──────────────────────────────────────────────────────────
@@ -1137,7 +1555,16 @@ def encode_all(trad_dir: str, cpk_dir: str, enc_dir: str, log_fn, progress_fn=No
             if log_fn: log_fn(f"  ✗ {on} introuvable dans cpk_files/","warn"); err_f.append(fn); continue
         try:
             if log_fn: log_fn(f"  Encodage {jn}…","info")
-            encode_bin_from_json(str(op),str(jp),log_fn,out_path=str(out/fn))
+            stem = Path(on).stem.lower()
+            if stem in ("f_be","tm_eve"):
+                # Format spécial F_BE/TM_EVE : bytes d'animation intercalés
+                encode_fbe_bnp_from_json(str(op),str(jp),log_fn,out_path=str(out/fn))
+            elif on.endswith(".bnp"):
+                # BNP avec blocs gzip embeddés (MMAP01-06)
+                encode_bnp_from_json(str(op),str(jp),log_fn,out_path=str(out/fn))
+            else:
+                # BIN direct (CD_SHOP.bin)
+                encode_bin_from_json(str(op),str(jp),log_fn,out_path=str(out/fn))
             ok_f.append(fn)
         except Exception as e:
             if log_fn: log_fn(f"  ✗ {fn} : {e}","err"); err_f.append(fn)
@@ -1161,7 +1588,7 @@ def encode_all(trad_dir: str, cpk_dir: str, enc_dir: str, log_fn, progress_fn=No
                     sc_ok += 1
                 except: pass
             if log_fn: log_fn(f"  {sc_ok} scripts encodés","info")
-            new_ev = rebuild_event_bin(ev, tmp, log_fn)
+            new_ev = rebuild_event_bin(ev, tmp, log_fn, scripts_bin_dir=tmp)
             with open(out/"event.bin","wb") as f: f.write(new_ev)
             ok_f.append("event.bin")
             if log_fn: log_fn("  ✓ event.bin reconstruit","ok")
@@ -2138,7 +2565,7 @@ class P2ISFRTool(ctk.CTk):
             self.after(0, lambda: self._pb_rb.set(0))
             ev_data = open(ev_fr, "rb").read()
             Path(out).parent.mkdir(parents=True, exist_ok=True)
-            rebuild_iso(iso, ev_data, out, self.log)
+            rebuild_iso(iso, ev_data, out, self.log, enc_dir=self._v_encin.get())
             self.after(0, lambda: self._pb_rb.set(1.0))
             sz = Path(out).stat().st_size // 1024 // 1024
             self.after(0, lambda: self._set_badge(self._b_rebuild, "ok", f"{sz} MB"))
