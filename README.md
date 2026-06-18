@@ -26,10 +26,27 @@ Ce dépôt contient les outils pour extraire, traduire et réinjecter les script
 | ...                   | 🔄 |
 
 ## 📥 Comment jouer ?
-Le projet est actuellement en développement. Une fois une version stable disponible :
+
+Le projet est actuellement en développement. Une première version **BÊTA** sera mise en ligne le **10 juillet** (sauf problème majeur). Cette version sera jouable du début à la fin, mais pourra encore contenir des fautes de traduction, des textes en anglais résiduels, ou des crashs. L'objectif est de recueillir vos retours afin de corriger ces problèmes pour la V1 finale.
+
+Pour l'installer une fois disponible :
 > 1. Téléchargez le **patch (.xdelta)** dans la section [Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases).
 > 2. Appliquez le patch sur votre ISO originale à l'aide d'un outil comme **DeltaPatcher**.
 > 3. Jouez sur votre PSP ou via l'émulateur PPSSPP.
+
+---
+
+## ⚠️ Clause de non-responsabilité
+
+Ce patch de traduction est fourni « en l’état », sans aucune garantie explicite ou implicite quant à son bon fonctionnement, sa stabilité ou sa compatibilité absolue avec toutes les configurations.
+
+Tous ceux qui utilisent ce patch le font à leurs propres risques. En appliquant ce patch sur votre ISO, vous acceptez que l'équipe du projet, ainsi que toute personne citée dans cette documentation, ne puisse en aucun cas être tenue responsable des éventuels dommages directs ou indirects pouvant en découler, notamment (mais sans s'y limiter) : la perte ou la corruption de vos données de sauvegarde, les plantages intempestifs, les bugs bloquants, les problèmes d'affichage ou de son, les ralentissements, ou tout dysfonctionnement plus grave pouvant aller jusqu'à l'instabilité de votre console PSP (ou de votre émulateur, tel que PPSSPP).
+
+Il est impératif de conserver une copie de sauvegarde de votre ISO d'origine ainsi que de vos fichiers de sauvegarde avant toute manipulation. Nous vous recommandons également de tester le patch sur une copie de travail plutôt que sur votre unique fichier de jeu.
+
+Notez que ce patch a été conçu et testé exclusivement pour la version européenne du jeu (**ULES01557**). Toute utilisation sur une autre version (américaine, japonaise, ou toute autre modification non officielle) est formellement déconseillée et pourrait entraîner des comportements inattendus pour lesquels nous ne pourrions apporter aucune assistance.
+
+En téléchargeant et en utilisant ce patch, vous reconnaissez avoir pris connaissance de l'intégralité de cette clause et l'accepter pleinement.
 
 ---
 
