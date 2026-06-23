@@ -142,10 +142,6 @@
     "texte_orig": "You've[SP]come...[SP]What[SP]business[SP]do[SP]you[SP]have[SP]with\nus[SP]today?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
     "texte_fr": "Vous êtes là... Que vous amène\naujourd'hui ?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\nQuitter l'agence",
-    "question_orig": "You've[SP]come...[SP]What[SP]business[SP]do[SP]you[SP]have[SP]with\nus[SP]today?",
-    "choix_orig": [
-      "[U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -166,10 +162,6 @@
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
     "texte_fr": "Qu'avez-vous en tête ?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Non-displayed selection",
-    "question_orig": "What's[SP]on[SP]your[SP]mind?",
-    "choix_orig": [
-      "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210]Non-displayed[SP]selection"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -190,10 +182,6 @@
     "texte_orig": "Anything[SP]else?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
     "texte_fr": "Autre chose ?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\nQuitter l'agence",
-    "question_orig": "Anything[SP]else?",
-    "choix_orig": [
-      "[U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -214,10 +202,6 @@
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
     "texte_fr": "Qu'avez-vous en tête ?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Non-displayed selection",
-    "question_orig": "What's[SP]on[SP]your[SP]mind?",
-    "choix_orig": [
-      "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210]Non-displayed[SP]selection"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -302,10 +286,6 @@
     "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n[1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything",
     "nom_fr": "Statue de chat",
     "texte_fr": "100 yens svp, miaou[1432][NULL][NULL][U+0007]\n[1208][0002]Donner 100 yens\nNe rien donner",
-    "question_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]",
-    "choix_orig": [
-      "Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -517,10 +497,6 @@
     "texte_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Tamaki",
     "texte_fr": "Salut ! Que puis-je pour vous ?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\nQuitter l'agence",
-    "question_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?",
-    "choix_orig": [
-      "[U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -541,10 +517,6 @@
     "texte_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing",
     "nom_fr": "Tamaki",
     "texte_fr": "Que puis-je pour vous ?\n[1208][U+0003]Bavarder\nSur les concours\nRien",
-    "question_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?",
-    "choix_orig": [
-      "[U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -613,10 +585,6 @@
     "texte_orig": "Are[SP]you[SP]sure?\n[1208][0002]Yes\nNever[SP]mind",
     "nom_fr": "Tamaki",
     "texte_fr": "Sûr(e) ?\n[1208][0002]Oui\nAnnuler",
-    "question_orig": "Are[SP]you[SP]sure?",
-    "choix_orig": [
-      "Yes\nNever[SP]mind"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -829,10 +797,6 @@
     "texte_orig": "Right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Tadashi",
     "texte_fr": "Vrai?\n[1208][0002]Oui\nNon",
-    "question_orig": "Right?",
-    "choix_orig": [
-      "Yes\nNo"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1360,10 +1324,6 @@
     "texte_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen.\nSell?\n[1208][0002]Yes\nNo",
     "nom_fr": "",
     "texte_fr": "Le total fait [120E][NULL] yens. Vendre ?\n[1208][0002]Oui\nNon",
-    "question_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen.\nSell?",
-    "choix_orig": [
-      "Yes\nNo"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1384,10 +1344,6 @@
     "texte_orig": "This[SP]one's[SP]on[SP]the[SP]house.[SP]You're[SP]sure[SP]that's\nwhat[SP]you[SP]want,[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
     "texte_fr": "Celle-là, c'est la maison qui régale.\nC'est bien ce que tu veux ?\n[1208][0002]Oui\nNon",
-    "question_orig": "This[SP]one's[SP]on[SP]the[SP]house.[SP]You're[SP]sure[SP]that's\nwhat[SP]you[SP]want,[SP]right?",
-    "choix_orig": [
-      "Yes\nNo"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1408,10 +1364,6 @@
     "texte_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
     "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant ?\n[1208][0002]Oui\nNon",
-    "question_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?",
-    "choix_orig": [
-      "Yes\nNo"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""

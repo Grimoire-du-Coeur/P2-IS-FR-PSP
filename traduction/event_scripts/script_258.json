@@ -286,10 +286,6 @@
     "texte_orig": "I'm[SP]sure[SP]he'll[SP]be[SP]back[SP]eventually.[SP]Want[SP]me[SP]to\ntake[SP]a[SP]look[SP]at[SP]your[SP]wounds[SP]while[SP]you're[SP]here?\n[1208][0002]Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4][NULL][NULL][0002]",
     "nom_fr": "Infirmière",
     "texte_fr": "Il reviendra vite. Je regarde\nvos blessures tant que\nvous êtes là?\n[1208][0002]Oui\nNon\n[1109][E2][E3]> L'équipe de [1113] est guérie.[E4][NULL][NULL][0002]",
-    "question_orig": "I'm[SP]sure[SP]he'll[SP]be[SP]back[SP]eventually.[SP]Want[SP]me[SP]to\ntake[SP]a[SP]look[SP]at[SP]your[SP]wounds[SP]while[SP]you're[SP]here?",
-    "choix_orig": [
-      "Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4]"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -342,10 +338,6 @@
     "texte_orig": "Well,[SP]I'm[SP]sure[SP]he'll[SP]be[SP]along[SP]eventually.\nWant[SP]me[SP]to[SP]take[SP]a[SP]look[SP]at[SP]your[SP]wounds[SP]while\nyou're[SP]here?\n[1208][0002]Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4][NULL][NULL][0002]",
     "nom_fr": "Infirmière",
     "texte_fr": "Il finira par revenir. Je\nregarde vos blessures pendant\nque vous êtes là?\n[1208][0002]Oui\nNon\n[1109][E2][E3]> L'équipe de [1113] est guérie.[E4][NULL][NULL][0002]",
-    "question_orig": "Well,[SP]I'm[SP]sure[SP]he'll[SP]be[SP]along[SP]eventually.\nWant[SP]me[SP]to[SP]take[SP]a[SP]look[SP]at[SP]your[SP]wounds[SP]while\nyou're[SP]here?",
-    "choix_orig": [
-      "Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4]"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -382,10 +374,6 @@
     "texte_orig": "You[SP]all[SP]seem[SP]tired.[SP]Want[SP]me[SP]to[SP]take[SP]a[SP]look\nat[SP]your[SP]wounds?\n[1208][0002]Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4][NULL][NULL][0002]",
     "nom_fr": "Infirmière",
     "texte_fr": "L'air fatigué. Je regarde\nvos blessures?\n[1208][0002]Oui\nNon\n[1109][E2][E3]> L'équipe de [1113] est guérie.[E4][NULL][NULL][0002]",
-    "question_orig": "You[SP]all[SP]seem[SP]tired.[SP]Want[SP]me[SP]to[SP]take[SP]a[SP]look\nat[SP]your[SP]wounds?",
-    "choix_orig": [
-      "Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4]"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""

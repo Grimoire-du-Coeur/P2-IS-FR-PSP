@@ -698,10 +698,6 @@
     "texte_orig": "Now,[SP]where[SP]shall[SP]I[SP]relieve[SP]your[SP]tension[SP]today?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "M. Tomi",
     "texte_fr": "Où soulager vos tensions aujourd'hui?\n[1208][U+0004]Soin\nParler\nRien\nQuitter",
-    "question_orig": "Now,[SP]where[SP]shall[SP]I[SP]relieve[SP]your[SP]tension[SP]today?",
-    "choix_orig": [
-      "[U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -722,10 +718,6 @@
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
     "nom_fr": "M. Tomi",
     "texte_fr": "De quoi veut-on parler?\n[1208][0002]Discuter\nRens. soin",
-    "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?",
-    "choix_orig": [
-      "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -839,10 +831,6 @@
     "texte_orig": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "M. Tomi",
     "texte_fr": "Le soin coûtera 1200 yens.\nVous voulez le faire?\n[1208][0002]Oui\nNon",
-    "question_orig": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?",
-    "choix_orig": [
-      "Yes\nNo"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1215,10 +1203,6 @@
     "texte_orig": "Anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "M. Tomi",
     "texte_fr": "Autre chose?\n[1208][U+0004]Soin\nParler\nRien\nQuitter",
-    "question_orig": "Anything[SP]else?",
-    "choix_orig": [
-      "[U+0004]Heal\nTalk[SP]to[SP]Mr.[SP]Tomi\nNever[SP]mind\nLeave[SP]the[SP]store"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1239,10 +1223,6 @@
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
     "nom_fr": "M. Tomi",
     "texte_fr": "De quoi veut-on parler?\n[1208][0002]Discuter\nRens. soin",
-    "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?",
-    "choix_orig": [
-      "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""

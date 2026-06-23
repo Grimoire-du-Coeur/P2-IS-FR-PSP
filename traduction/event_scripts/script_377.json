@@ -334,10 +334,6 @@
     "texte_orig": "What'll[SP]it[SP]be?[111F][1208][U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave",
     "nom_fr": "Trish",
     "texte_fr": "Quoi alors?[111F][1208][U+0004]Soigner\nParler\nAnnuler\nQuitter",
-    "question_orig": "What'll[SP]it[SP]be?[111F]",
-    "choix_orig": [
-      "[U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -358,10 +354,6 @@
     "texte_orig": "Yeah,[SP]whaddaya[SP]want?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
     "nom_fr": "Trish",
     "texte_fr": "Ouais, tu veux quoi?\n[1208][0002]Discuter\nInfos soins",
-    "question_orig": "Yeah,[SP]whaddaya[SP]want?",
-    "choix_orig": [
-      "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -460,10 +452,6 @@
     "texte_orig": "Yeah,[SP]that's[SP][120E][NULL][SP]yen.\nYou[SP]gonna[SP]pay[SP]up?\n[1208][0002]Yes\nNo",
     "nom_fr": "Trish",
     "texte_fr": "Ca fait [120E][NULL]yen.\nTu payes?\n[1208][0002]Oui\nNon",
-    "question_orig": "Yeah,[SP]that's[SP][120E][NULL][SP]yen.\nYou[SP]gonna[SP]pay[SP]up?",
-    "choix_orig": [
-      "Yes\nNo"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -548,10 +536,6 @@
     "texte_orig": "Anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave",
     "nom_fr": "Trish",
     "texte_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler\nAnnuler\nQuitter",
-    "question_orig": "Anything[SP]else?",
-    "choix_orig": [
-      "[U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
@@ -572,10 +556,6 @@
     "texte_orig": "Yeah,[SP]whaddaya[SP]want?\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
     "nom_fr": "Trish",
     "texte_fr": "Ouais, tu veux quoi?\n[1208][0002]Discuter\nInfos soins",
-    "question_orig": "Yeah,[SP]whaddaya[SP]want?",
-    "choix_orig": [
-      "Make[SP]small[SP]talk\nAsk[SP]about[SP]healing"
-    ],
     "question_fr": "",
     "choix_fr": [
       ""
