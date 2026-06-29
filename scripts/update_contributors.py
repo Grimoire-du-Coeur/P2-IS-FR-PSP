@@ -2,29 +2,38 @@ import json
 import urllib.request
 import os
 import time
+import sys
 
 REPO = "chenetulipe/P2-FR-IS-PSP"
 API_URL = f"https://api.github.com/repos/{REPO}/stats/contributors"
+TOKEN = os.environ.get("GITHUB_TOKEN")
 
 def fetch_stats(retries=5):
-    req = urllib.request.Request(API_URL, headers={'User-Agent': 'Mozilla/5.0'})
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    if TOKEN:
+        headers['Authorization'] = f"token {TOKEN}"
+        
+    req = urllib.request.Request(API_URL, headers=headers)
+    
     for i in range(retries):
         try:
             with urllib.request.urlopen(req) as response:
                 if response.status == 202:
+                    print("GitHub génère les statistiques en arrière-plan, attente de 5 secondes...")
                     time.sleep(5)
                     continue
                 data = json.loads(response.read().decode('utf-8'))
                 return data
         except Exception as e:
+            print(f"Erreur lors de la récupération des stats: {e}")
             time.sleep(2)
     return None
 
 def main():
     data = fetch_stats()
     if not data:
-        print("Impossible de récupérer les statistiques GitHub.")
-        return
+        print("Impossible de récupérer les statistiques GitHub (Limite de requêtes atteinte ou erreur).")
+        sys.exit(1)
 
     # Trier par total de commits décroissant (assure que le 1er a le plus de commits)
     data.sort(key=lambda x: x['total'], reverse=True)
@@ -79,7 +88,7 @@ def main():
     
     if not os.path.exists(filepath):
         print(f"Erreur: Le fichier {filepath} n'existe pas.")
-        return
+        sys.exit(1)
 
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -97,6 +106,7 @@ def main():
         print("CREDITS.md mis à jour avec succès !")
     else:
         print("Les balises <!-- STATS_START --> et <!-- STATS_END --> sont introuvables.")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
