@@ -8,7 +8,7 @@ REPO = "chenetulipe/P2-FR-IS-PSP"
 API_URL = f"https://api.github.com/repos/{REPO}/stats/contributors"
 TOKEN = os.environ.get("GITHUB_TOKEN")
 
-def fetch_stats(retries=15):
+def fetch_stats(retries=20):
     headers = {'User-Agent': 'Mozilla/5.0'}
     if TOKEN:
         headers['Authorization'] = f"Bearer {TOKEN}"
@@ -19,14 +19,14 @@ def fetch_stats(retries=15):
         try:
             with urllib.request.urlopen(req) as response:
                 if response.status == 202:
-                    print(f"[{i+1}/{retries}] GitHub génère les statistiques en arrière-plan, attente de 5 secondes...")
-                    time.sleep(5)
+                    print(f"[{i+1}/{retries}] GitHub génère les statistiques en arrière-plan, attente de 10 secondes...")
+                    time.sleep(10)
                     continue
                 data = json.loads(response.read().decode('utf-8'))
                 return data
         except Exception as e:
             print(f"Erreur lors de la récupération des stats: {e}")
-            time.sleep(5)
+            time.sleep(10)
     return None
 
 def main():
