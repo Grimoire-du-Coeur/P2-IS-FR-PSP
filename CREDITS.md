@@ -1,31 +1,37 @@
 <div align="center">
   
-# Crédits & Remerciements
+# 🤝 Crédits & Remerciements
   
 **Persona 2: Innocent Sin FR (PSP)**
 
 </div>
 
-<br/>
-
-Ce projet de traduction n'aurait jamais pu voir le jour sans le travail acharné, la passion et le dévouement de nos contributeurs. Cette page leur est dédiée.
+> [!NOTE]
+> Ce projet de traduction n'aurait jamais pu voir le jour sans le travail acharné, la passion et le dévouement de tous nos contributeurs. Cette page vous est dédiée !
 
 ---
 
-## L'Équipe Principale
+## 👑 L'Équipe Principale
 
-Voici les piliers du projet et leur rôle respectif :
+Voici les piliers du projet et leur rôle respectif au sein de l'équipe de traduction :
 
 | Contributeur | Rôle principal |
 |:---|:---|
-| **@chenetulipe** | 👑 Fondateur du projet. Responsable du romhacking, du développement technique et de la traduction. |
-| **@Garloulou** | 📖 Co-traductrice et adaptatrice. Soutien majeur sur la localisation des dialogues et des termes du jeu. |
-| **@Haaamza** | 💻 Responsable relecture. Créateur de la plateforme web de correction et traducteur. |
-| **@racawr** | 🎨 Auteure du mod d'origine "*HD UI for Persona 2 - Innocent Sin*" (Les textures ont servi de base à la version FR). |
+| **@chenetulipe** | 👑 **Fondateur.** Responsable du romhacking, du développement technique et de la traduction. |
+| **@Garloulou** | 📖 **Co-traductrice.** Soutien majeur sur la localisation des dialogues et des termes du jeu. |
+| **@Haaamza** | 💻 **Responsable Relecture.** Créateur de la plateforme web de correction et traducteur. |
 
 ---
 
-## Classement des Contributeurs (Mise à jour automatique)
+## 🌟 Remerciements Spéciaux
+
+Le projet inclut des éléments visuels HD qui n'auraient pas été possibles sans le travail préalable de la communauté internationale :
+
+* **@racawr** : Auteure du mod d'origine *"HD UI for Persona 2 - Innocent Sin"*. Ses formidables textures remasterisées ont servi de base à notre équipe pour la version française. Un immense merci pour l'autorisation d'utilisation !
+
+---
+
+## 🏆 Classement des Contributeurs (Auto)
 
 Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et ces graphiques (commits, ajouts et suppressions de lignes) sont récupérés directement depuis les serveurs de GitHub et mis à jour tout seuls de manière autonome !
 
@@ -132,7 +138,7 @@ pie title Top 10 - Lignes Supprimées
 
 ---
 
-## Bêta-Testeurs & Traqueurs de Bugs (BÊTA du 10 Juillet)
+## 🐛 Bêta-Testeurs & Traqueurs de Bugs (BÊTA du 10 Juillet)
 
 *Cette section se remplira à partir de la sortie de la BÊTA le 10 juillet 2026 !*
 
