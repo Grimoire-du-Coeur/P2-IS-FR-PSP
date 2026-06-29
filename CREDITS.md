@@ -1,8 +1,15 @@
 <div align="center">
   
-# 🤝 Crédits & Remerciements
+# Crédits & Remerciements
   
 **Persona 2: Innocent Sin FR (PSP)**
+
+  <br />
+  <img src="https://img.shields.io/badge/Statut-En%20Développement-orange?style=for-the-badge" alt="Statut" />
+  <img src="https://img.shields.io/badge/Plateforme-PSP-blue?style=for-the-badge&logo=playstation" alt="Plateforme" />
+  <img src="https://img.shields.io/badge/Langue-Français-green?style=for-the-badge" alt="Langue" />
+  <br />
+  <br />
 
 </div>
 
@@ -11,7 +18,7 @@
 
 ---
 
-## 👑 L'Équipe Principale
+## L'Équipe Principale
 
 Voici les piliers du projet et leur rôle respectif au sein de l'équipe de traduction :
 
@@ -23,7 +30,7 @@ Voici les piliers du projet et leur rôle respectif au sein de l'équipe de trad
 
 ---
 
-## 🌟 Remerciements Spéciaux
+## Remerciements Spéciaux
 
 Le projet inclut des éléments visuels HD qui n'auraient pas été possibles sans le travail préalable de la communauté internationale :
 
@@ -31,7 +38,7 @@ Le projet inclut des éléments visuels HD qui n'auraient pas été possibles sa
 
 ---
 
-## 🏆 Classement des Contributeurs (Auto)
+## Classement des Contributeurs (Auto)
 
 Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et ces graphiques (commits, ajouts et suppressions de lignes) sont récupérés directement depuis les serveurs de GitHub et mis à jour tout seuls de manière autonome !
 
@@ -138,7 +145,7 @@ pie title Top 10 - Lignes Supprimées
 
 ---
 
-## 🐛 Bêta-Testeurs & Traqueurs de Bugs (BÊTA du 10 Juillet)
+## Bêta-Testeurs & Traqueurs de Bugs (BÊTA du 10 Juillet)
 
 *Cette section se remplira à partir de la sortie de la BÊTA le 10 juillet 2026 !*
 
