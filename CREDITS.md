@@ -25,7 +25,7 @@ Voici les piliers du projet et leur rôle respectif au sein de l'équipe de trad
 | Contributeur | Rôle principal |
 |:---|:---|
 | **@chenetulipe** | 👑 **Fondateur.** Responsable du romhacking, du développement technique et de la traduction. |
-| **@Garloulou** | 📖 **Co-traductrice.** Soutien majeur sur la localisation des dialogues et des termes du jeu. |
+| **@Garloulou** | 📖 **Co-traducteur.** Soutien majeur sur la localisation des dialogues et des termes du jeu. |
 | **@Haaamza** | 💻 **Responsable Relecture.** Créateur de la plateforme web de correction et traducteur. |
 
 ---
