@@ -31,13 +31,13 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 
 <!-- STATS_START -->
 
-### 📈 Statistiques Globales du Code
+### Statistiques Globales du Code
 
 | Contributeur | 💾 Commits | ➕ Lignes Ajoutées | ➖ Lignes Supprimées |
 |:---|:---:|:---:|:---:|
 | **@HamzaKarrouchi** | 413 | +258448 | -35647 |
+| **@chenetulipe** | 197 | +178065 | -174922 |
 | **@claude** | 194 | +230413 | -8366 |
-| **@chenetulipe** | 193 | +177757 | -174910 |
 | **@Garloulou** | 49 | +767 | -515 |
 | **@Bicyclarv** | 46 | +3311 | -3311 |
 | **@hvnjo** | 42 | +2675 | -2676 |
@@ -81,13 +81,14 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **@Goulyz** | 1 | +27 | -27 |
 | **@Desseday** | 1 | +123 | -123 |
 
-### 📊 Répartition des Commits
+### Répartition des Contributions (Top 10)
 
+#### Volume de Commits
 ```mermaid
-pie title Volume de Commits par Contributeur
+pie title Top 10 - Commits
     "HamzaKarrouchi" : 413
+    "chenetulipe" : 197
     "claude" : 194
-    "chenetulipe" : 193
     "Garloulou" : 49
     "Bicyclarv" : 46
     "hvnjo" : 42
@@ -95,41 +96,36 @@ pie title Volume de Commits par Contributeur
     "ZePhyrOmZy" : 19
     "megidooo" : 18
     "gc-ultimate117" : 17
-    "Gyotre" : 16
-    "LeSoupeur" : 15
-    "ArsenetheIV" : 13
-    "Tausc0" : 12
-    "Seb180212" : 9
-    "FrankoPaulo" : 9
-    "IssaPagi" : 9
-    "vkt2rii" : 9
-    "Ethan-LDS" : 7
-    "All4nRL" : 6
-    "chaytheninja" : 5
-    "aurelien30" : 4
-    "MBG-May" : 4
-    "Kain-Highwind" : 4
-    "ZeldarioGitHub" : 3
-    "driftbyte4767" : 3
-    "Shrenpai" : 3
-    "LykeSama" : 2
-    "Diamondssb" : 2
-    "Neth6767" : 2
-    "Sammmu-L" : 2
-    "Door-dono" : 2
-    "Aniy22" : 2
-    "Astakoune" : 2
-    "nekorighthere" : 2
-    "chenetulipe2" : 2
-    "Xeriam" : 2
-    "MaelMinhAnh" : 1
-    "Aurinox6" : 1
-    "renaclerican" : 1
-    "Lomac29" : 1
-    "Adwara" : 1
-    "mae7interludes" : 1
-    "Goulyz" : 1
-    "Desseday" : 1
+```
+
+#### Lignes Ajoutées
+```mermaid
+pie title Top 10 - Lignes Ajoutées
+    "HamzaKarrouchi" : 258448
+    "claude" : 230413
+    "chenetulipe" : 178065
+    "ArsenetheIV" : 5584
+    "Bicyclarv" : 3311
+    "hvnjo" : 2675
+    "gc-ultimate117" : 1477
+    "Garloulou" : 767
+    "ZePhyrOmZy" : 403
+    "Fan2Shrek" : 395
+```
+
+#### Lignes Supprimées
+```mermaid
+pie title Top 10 - Lignes Supprimées
+    "chenetulipe" : 174922
+    "HamzaKarrouchi" : 35647
+    "claude" : 8366
+    "ArsenetheIV" : 6883
+    "Bicyclarv" : 3311
+    "hvnjo" : 2676
+    "gc-ultimate117" : 1477
+    "Garloulou" : 515
+    "ZePhyrOmZy" : 403
+    "megidooo" : 386
 ```
 
 <!-- STATS_END -->
