@@ -14,14 +14,14 @@ Ce projet de traduction n'aurait jamais pu voir le jour sans le travail acharné
 
 ## L'Équipe Principale
 
-Voici les piliers du projet et leur rôle dans la création du patch français :
+Voici les piliers du projet et leur rôle respectif :
 
 | Contributeur | Rôle principal |
 |:---|:---|
-| **@chenetulipe** | Fondateur, direction, outils Python (`p2is_fr_tool.py`), ingénierie inverse et traduction. |
-| **@Haaamza** | Lead Relecture, développement du site web interactif de relecture, traduction massive. |
-| **@Garloulou** | Traduction et adaptation des dialogues. |
-| **@racawr** | Auteur original du pack de textures HD (*HD UI for Persona 2 - Innocent Sin*). |
+| **@chenetulipe** | 👑 Fondateur du projet. Responsable du romhacking, du développement technique et de la traduction. |
+| **@Garloulou** | 📖 Co-traductrice et adaptatrice. Soutien majeur sur la localisation des dialogues et des termes du jeu. |
+| **@Haaamza** | 💻 Responsable relecture. Créateur de la plateforme web de correction et traducteur. |
+| **@racawr** | 🎨 Auteure du mod d'origine "*HD UI for Persona 2 - Innocent Sin*" (Les textures ont servi de base à la version FR). |
 
 ---
 

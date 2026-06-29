@@ -58,7 +58,7 @@ def main():
         total_commits = contributor['total']
         total_a = sum(week['a'] for week in contributor['weeks'])
         total_d = sum(week['d'] for week in contributor['weeks'])
-        stats_md += f"| **@{author}** | {total_commits} | +{total_a} | -{total_d} |\n"
+        stats_md += f"| **[@{author}](https://github.com/{author})** | {total_commits} | +{total_a} | -{total_d} |\n"
 
     graphs_md = "### Répartition des Contributions (Top 10)\n\n"
     
