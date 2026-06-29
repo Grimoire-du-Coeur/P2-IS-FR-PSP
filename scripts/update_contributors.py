@@ -8,10 +8,10 @@ REPO = "chenetulipe/P2-FR-IS-PSP"
 API_URL = f"https://api.github.com/repos/{REPO}/stats/contributors"
 TOKEN = os.environ.get("GITHUB_TOKEN")
 
-def fetch_stats(retries=5):
+def fetch_stats(retries=15):
     headers = {'User-Agent': 'Mozilla/5.0'}
     if TOKEN:
-        headers['Authorization'] = f"token {TOKEN}"
+        headers['Authorization'] = f"Bearer {TOKEN}"
         
     req = urllib.request.Request(API_URL, headers=headers)
     
@@ -19,21 +19,24 @@ def fetch_stats(retries=5):
         try:
             with urllib.request.urlopen(req) as response:
                 if response.status == 202:
-                    print("GitHub génère les statistiques en arrière-plan, attente de 5 secondes...")
+                    print(f"[{i+1}/{retries}] GitHub génère les statistiques en arrière-plan, attente de 5 secondes...")
                     time.sleep(5)
                     continue
                 data = json.loads(response.read().decode('utf-8'))
                 return data
         except Exception as e:
             print(f"Erreur lors de la récupération des stats: {e}")
-            time.sleep(2)
+            time.sleep(5)
     return None
 
 def main():
+    print("Début du script de récupération des statistiques...")
     data = fetch_stats()
     if not data:
-        print("Impossible de récupérer les statistiques GitHub (Limite de requêtes atteinte ou erreur).")
+        print("Erreur : Impossible de récupérer les statistiques GitHub après plusieurs tentatives.")
         sys.exit(1)
+
+    print("Statistiques récupérées avec succès. Traitement en cours...")
 
     # Trier par total de commits décroissant (assure que le 1er a le plus de commits)
     data.sort(key=lambda x: x['total'], reverse=True)
@@ -105,7 +108,7 @@ def main():
             f.write(new_content)
         print("CREDITS.md mis à jour avec succès !")
     else:
-        print("Les balises <!-- STATS_START --> et <!-- STATS_END --> sont introuvables.")
+        print("Erreur: Les balises <!-- STATS_START --> et <!-- STATS_END --> sont introuvables dans CREDITS.md.")
         sys.exit(1)
 
 if __name__ == "__main__":
