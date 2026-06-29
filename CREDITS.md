@@ -1,1 +1,149 @@
+<div align="center">
+  
+# Crédits & Remerciements
+  
+**Persona 2: Innocent Sin FR (PSP)**
 
+</div>
+
+<br/>
+
+Ce projet de traduction n'aurait jamais pu voir le jour sans le travail acharné, la passion et le dévouement de nos contributeurs. Cette page leur est dédiée.
+
+---
+
+## L'Équipe Principale
+
+Voici les piliers du projet et leur rôle dans la création du patch français :
+
+| Contributeur | Rôle principal |
+|:---|:---|
+| **@chenetulipe** | Fondateur, direction, outils Python (`p2is_fr_tool.py`), ingénierie inverse et traduction. |
+| **@Haaamza** | Lead Relecture, développement du site web interactif de relecture, traduction massive. |
+| **@Garloulou** | Traduction et adaptation des dialogues. |
+| **@racawr** | Auteur original du pack de textures HD (*HD UI for Persona 2 - Innocent Sin*). |
+
+---
+
+## Classement des Contributeurs (Mise à jour automatique)
+
+Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et ces graphiques (commits, ajouts et suppressions de lignes) sont récupérés directement depuis les serveurs de GitHub et mis à jour tout seuls de manière autonome !
+
+<!-- STATS_START -->
+
+### 📈 Statistiques Globales du Code
+
+| Contributeur | 💾 Commits | ➕ Lignes Ajoutées | ➖ Lignes Supprimées |
+|:---|:---:|:---:|:---:|
+| **@HamzaKarrouchi** | 413 | +258448 | -35647 |
+| **@claude** | 194 | +230413 | -8366 |
+| **@chenetulipe** | 193 | +177757 | -174910 |
+| **@Garloulou** | 49 | +767 | -515 |
+| **@Bicyclarv** | 46 | +3311 | -3311 |
+| **@hvnjo** | 42 | +2675 | -2676 |
+| **@Fan2Shrek** | 22 | +395 | -356 |
+| **@ZePhyrOmZy** | 19 | +403 | -403 |
+| **@megidooo** | 18 | +386 | -386 |
+| **@gc-ultimate117** | 17 | +1477 | -1477 |
+| **@Gyotre** | 16 | +355 | -352 |
+| **@LeSoupeur** | 15 | +163 | -163 |
+| **@ArsenetheIV** | 13 | +5584 | -6883 |
+| **@Tausc0** | 12 | +62 | -62 |
+| **@Seb180212** | 9 | +155 | -152 |
+| **@FrankoPaulo** | 9 | +117 | -117 |
+| **@IssaPagi** | 9 | +85 | -85 |
+| **@vkt2rii** | 9 | +308 | -309 |
+| **@Ethan-LDS** | 7 | +169 | -169 |
+| **@All4nRL** | 6 | +61 | -61 |
+| **@chaytheninja** | 5 | +100 | -99 |
+| **@aurelien30** | 4 | +132 | -132 |
+| **@MBG-May** | 4 | +185 | -184 |
+| **@Kain-Highwind** | 4 | +281 | -281 |
+| **@ZeldarioGitHub** | 3 | +53 | -53 |
+| **@driftbyte4767** | 3 | +284 | -284 |
+| **@Shrenpai** | 3 | +123 | -123 |
+| **@LykeSama** | 2 | +33 | -33 |
+| **@Diamondssb** | 2 | +45 | -45 |
+| **@Neth6767** | 2 | +85 | -85 |
+| **@Sammmu-L** | 2 | +22 | -22 |
+| **@Door-dono** | 2 | +39 | -39 |
+| **@Aniy22** | 2 | +25 | -25 |
+| **@Astakoune** | 2 | +65 | -65 |
+| **@nekorighthere** | 2 | +86 | -86 |
+| **@chenetulipe2** | 2 | +6 | -6 |
+| **@Xeriam** | 2 | +56 | -56 |
+| **@MaelMinhAnh** | 1 | +77 | -77 |
+| **@Aurinox6** | 1 | +59 | -59 |
+| **@renaclerican** | 1 | +29 | -29 |
+| **@Lomac29** | 1 | +20 | -20 |
+| **@Adwara** | 1 | +130 | -130 |
+| **@mae7interludes** | 1 | +109 | -109 |
+| **@Goulyz** | 1 | +27 | -27 |
+| **@Desseday** | 1 | +123 | -123 |
+
+### 📊 Répartition des Commits
+
+```mermaid
+pie title Volume de Commits par Contributeur
+    "HamzaKarrouchi" : 413
+    "claude" : 194
+    "chenetulipe" : 193
+    "Garloulou" : 49
+    "Bicyclarv" : 46
+    "hvnjo" : 42
+    "Fan2Shrek" : 22
+    "ZePhyrOmZy" : 19
+    "megidooo" : 18
+    "gc-ultimate117" : 17
+    "Gyotre" : 16
+    "LeSoupeur" : 15
+    "ArsenetheIV" : 13
+    "Tausc0" : 12
+    "Seb180212" : 9
+    "FrankoPaulo" : 9
+    "IssaPagi" : 9
+    "vkt2rii" : 9
+    "Ethan-LDS" : 7
+    "All4nRL" : 6
+    "chaytheninja" : 5
+    "aurelien30" : 4
+    "MBG-May" : 4
+    "Kain-Highwind" : 4
+    "ZeldarioGitHub" : 3
+    "driftbyte4767" : 3
+    "Shrenpai" : 3
+    "LykeSama" : 2
+    "Diamondssb" : 2
+    "Neth6767" : 2
+    "Sammmu-L" : 2
+    "Door-dono" : 2
+    "Aniy22" : 2
+    "Astakoune" : 2
+    "nekorighthere" : 2
+    "chenetulipe2" : 2
+    "Xeriam" : 2
+    "MaelMinhAnh" : 1
+    "Aurinox6" : 1
+    "renaclerican" : 1
+    "Lomac29" : 1
+    "Adwara" : 1
+    "mae7interludes" : 1
+    "Goulyz" : 1
+    "Desseday" : 1
+```
+
+<!-- STATS_END -->
+
+---
+
+## Bêta-Testeurs & Traqueurs de Bugs (BÊTA du 10 Juillet)
+
+*Cette section se remplira à partir de la sortie de la BÊTA le 10 juillet 2026 !*
+
+Un immense merci à tous les joueurs de l'ombre qui parcourent le jeu de fond en comble pour nous remonter la moindre faute de frappe, erreur de césure, ou plantage technique. Votre œil de lynx permet de peaufiner la version finale !
+
+| Pseudo (Discord / GitHub) | Zone d'expertise (Quêtes, Typo, Technique...) |
+|:---|:---|
+| *(Votre nom ici très bientôt !)* | - |
+| | |
+| | |
