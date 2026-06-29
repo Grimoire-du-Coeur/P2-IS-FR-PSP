@@ -15,7 +15,7 @@ Auteurs : chenetulipe & GarloulouLeAsriel
 GitHub  : https://github.com/chenetulipe/P2-FR-IS-PSP
 """
 
-import struct, json, gzip, io, os, re, shutil, threading, subprocess, platform
+import struct, json, gzip, io, os, re, shutil, threading, subprocess, platform, concurrent.futures
 from pathlib import Path
 import tkinter as tk
 from tkinter import filedialog, messagebox
@@ -482,6 +482,143 @@ def crilayla_decompress(data: bytes):
         return bytes(out)
     except: return None
 
+
+def crilayla_compress(data: bytes, header_size: int = 0, max_offset: int = 8191, target_size: int = 0, max_chain: int = 128) -> bytes:
+    """
+    Compresse des données au format CRILAYLA. Supporte les en-têtes non compressés
+    exigés par certains moteurs de jeu (ex: 256 octets pour les MMAP de Persona 2).
+    """
+    if header_size > len(data): header_size = len(data)
+    HEADER = header_size
+    n = len(data)
+
+    class BitWriter:
+        """Émule l'ordre exact de consommation de crilayla_decompress."""
+        def __init__(self):
+            self.out = bytearray()
+            self.pool = 0
+            self.nbits = 0
+            self.pending_literals = []
+
+        def _flush_pending(self):
+            while self.pending_literals:
+                self.out.append(self.pending_literals.pop(0))
+
+        def write_bit(self, b):
+            self.pool = (self.pool << 1) | b
+            self.nbits += 1
+            if self.nbits == 8:
+                self.out.append(self.pool)
+                self.pool = 0; self.nbits = 0
+
+        def write_bits(self, val, width):
+            for i in range(width - 1, -1, -1):
+                self.write_bit((val >> i) & 1)
+
+        def finish(self):
+            if self.nbits > 0:
+                self.out.append(self.pool << (8 - self.nbits))
+                self.nbits = 0
+            return bytes(self.out)
+
+    bw = BitWriter()
+    wp = n
+    MAX_CHAIN = max_chain
+    hash_table = [[] for _ in range(65536)]
+
+    def key_at(pos):
+        if pos < 3: return None
+        return (data[pos-1] << 8) | data[pos-2]
+
+    def record_position(pos):
+        k = key_at(pos)
+        if k is not None:
+            bucket = hash_table[k]
+            bucket.append(pos)
+            if len(bucket) > MAX_CHAIN: del bucket[0]
+
+    def find_best_match(pos):
+        best_len = 0; best_off = 0
+        k = key_at(pos)
+        if k is not None:
+            tested = 0
+            for ref in reversed(hash_table[k]):
+                if ref <= pos: continue
+                offset = ref - pos
+                if offset < 3 or offset - 3 > max_offset: continue
+                max_search_len = min(265, pos, ref)
+                if max_search_len < 2: continue
+                length = 0
+                while (length < max_search_len and
+                       data[pos - 1 - length] == data[ref - 1 - length]):
+                    length += 1
+                if length > best_len:
+                    best_len = length; best_off = offset - 3
+                    if best_len >= 265: break
+                tested += 1
+                if tested >= MAX_CHAIN: break
+        return best_len, best_off
+
+    while wp > HEADER:
+        best_len, best_off = find_best_match(wp)
+        if best_len >= 3 and wp - 1 > HEADER:
+            next_len, next_off = find_best_match(wp - 1)
+            if next_len > best_len + 1: best_len = 0
+            elif best_len <= 9 and wp - 2 > HEADER:
+                next2_len, _ = find_best_match(wp - 2)
+                if next2_len > best_len + 2: best_len = 0
+        if best_len == 3 and wp - 1 > HEADER:
+            next_len, _ = find_best_match(wp - 1)
+            if next_len >= 3: best_len = 0
+        positions_covered = max(best_len, 1) if best_len >= 3 else 1
+        for offset_back in range(positions_covered): record_position(wp - offset_back)
+        if best_len >= 3:
+            bw.write_bit(1)
+            bw.write_bits(best_off, 13)
+            
+            rem = best_len - 3
+            vle_lens = [2, 3, 5, 8]
+            for vle_level in vle_lens:
+                max_val = (1 << vle_level) - 1
+                if rem < max_val:
+                    bw.write_bits(rem, vle_level)
+                    break
+                else:
+                    bw.write_bits(max_val, vle_level)
+                    rem -= max_val
+            else:
+                while True:
+                    if rem < 255:
+                        bw.write_bits(rem, 8)
+                        break
+                    else:
+                        bw.write_bits(255, 8)
+                        rem -= 255
+                        
+            wp -= best_len
+        else:
+            bw.write_bit(0)
+            wp -= 1
+            bw.write_bits(data[wp], 8)
+
+    compressed = bw.finish()
+    stored = compressed[::-1]
+    header_bytes = data[:HEADER]
+    
+    pad = b''
+    csz = len(stored)
+    if target_size > 0:
+        current_size = 16 + len(stored) + len(header_bytes)
+        if current_size < target_size:
+            pad = b'\x00' * (target_size - current_size)
+            csz += len(pad)
+
+    # Format CRI PSP : CRILAYLA + unc + csz + pad + stored (bitstream) + header_bytes
+    return b'CRILAYLA' + struct.pack("<I", n - HEADER) + struct.pack("<I", csz) + pad + stored + header_bytes
+
+
+
+
 # ── Extraction CPK depuis ISO ─────────────────────────────────────────────────
 
 def extract_cpk_from_iso(iso_path: str, out_dir: Path, log_fn) -> str:
@@ -743,45 +880,64 @@ def migrate_choices_in_json(entries: list) -> list:
 
 
 
+def _decode_single_script(idx, scripts_dir, output_dir, log_fn):
+    bf = scripts_dir / f"script_{idx:03d}.bin"
+    if not bf.exists(): bf = scripts_dir / f"script_{idx}.bin"
+    if not bf.exists(): return None
+    
+    raw = open(bf, "rb").read()
+    if raw[:2] == b'\x1f\x8b':
+        try: raw = gzip.decompress(raw)
+        except: pass
+        
+    dlgs = find_dialogs(raw)
+    out_json = output_dir / f"script_{idx:03d}.json"
+    
+    # Si un JSON traduit existe déjà, préserver les traductions
+    if out_json.exists():
+        try:
+            existing = json.load(open(out_json, encoding="utf-8"))
+            by_offset = {e["offset"]: e for e in existing}
+            for d in dlgs:
+                prev = by_offset.get(d["offset"])
+                if prev:
+                    d["nom_fr"]   = prev.get("nom_fr", "")
+                    d["texte_fr"] = prev.get("texte_fr", "")
+                    if "choix_orig" in d:
+                        d["question_fr"] = prev.get("question_fr", "")
+                        # Récupérer choix_fr depuis prev si disponible, sinon depuis texte_fr
+                        prev_choix = prev.get("choix_fr")
+                        if prev_choix and len(prev_choix) == len(d["choix_orig"]):
+                            d["choix_fr"] = prev_choix
+        except Exception:
+            pass
+            
+    migrate_choices_in_json(dlgs)
+    with open(out_json, "w", encoding="utf-8") as f:
+        json.dump(dlgs, f, ensure_ascii=False, indent=2)
+        
+    if idx % 50 == 0 and log_fn:
+        log_fn(f"  script_{idx:03d} → {len(dlgs)} dialogues", "info")
+        
+    return len(dlgs)
+
+
 def decode_all_scripts(scripts_dir: Path, output_dir: Path, log_fn):
     """Décode tous les scripts_bin/*.bin en fichiers JSON prêts à traduire."""
     output_dir.mkdir(parents=True, exist_ok=True)
     total = vides = 0
-    for idx in range(399):
-        bf = scripts_dir / f"script_{idx:03d}.bin"
-        if not bf.exists(): bf = scripts_dir / f"script_{idx}.bin"
-        if not bf.exists(): continue
-        raw = open(bf, "rb").read()
-        if raw[:2] == b'\x1f\x8b':
-            try: raw = gzip.decompress(raw)
-            except: pass
-        dlgs = find_dialogs(raw)
-        out_json = output_dir / f"script_{idx:03d}.json"
-        # Si un JSON traduit existe déjà, préserver les traductions
-        if out_json.exists():
-            try:
-                existing = json.load(open(out_json, encoding="utf-8"))
-                by_offset = {e["offset"]: e for e in existing}
-                for d in dlgs:
-                    prev = by_offset.get(d["offset"])
-                    if prev:
-                        d["nom_fr"]   = prev.get("nom_fr", "")
-                        d["texte_fr"] = prev.get("texte_fr", "")
-                        if "choix_orig" in d:
-                            d["question_fr"] = prev.get("question_fr", "")
-                            # Récupérer choix_fr depuis prev si disponible, sinon depuis texte_fr
-                            prev_choix = prev.get("choix_fr")
-                            if prev_choix and len(prev_choix) == len(d["choix_orig"]):
-                                d["choix_fr"] = prev_choix
-            except Exception:
-                pass
-        migrate_choices_in_json(dlgs)
-        with open(out_json, "w", encoding="utf-8") as f:
-            json.dump(dlgs, f, ensure_ascii=False, indent=2)
-        total += 1
-        if not dlgs: vides += 1
-        if idx % 50 == 0 and log_fn: log_fn(f"  script_{idx:03d} → {len(dlgs)} dialogues", "info")
-    if log_fn: log_fn(f"  {total} scripts décodés ({vides} vides)", "ok")
+    
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
+        futures = [executor.submit(_decode_single_script, idx, scripts_dir, output_dir, log_fn) for idx in range(399)]
+        
+        for future in concurrent.futures.as_completed(futures):
+            res = future.result()
+            if res is not None:
+                total += 1
+                if res == 0:
+                    vides += 1
+
+    if log_fn: log_fn(f"  {total} scripts décodés ({vides} vides) via ThreadPool", "ok")
 
 
 
@@ -997,20 +1153,28 @@ def encode_bin_from_json(bin_path: str, json_path: str, log_fn, out_path: str = 
                 if len(pre_fr) > len(pre_or) and log_fn:
                     log_fn(f"  ⚠ [id {d['id']}] question FR trop longue de {(len(pre_fr)-len(pre_or))//2} mot(s) → alignement désactivé.", "warn")
         if len(enc) + len(nl_suffix) > avail:
-            if log_fn: log_fn(f"  [id {d['id']}] trop long ({len(enc)}>{avail}), ignoré","warn")
+            depassement = len(enc) + len(nl_suffix) - avail
+            if log_fn: log_fn(f"  [!] [DEPASSEMENT] [id {d['id']}] Texte FR trop long de {depassement} octets ({len(enc)} > {avail}). Texte ignore et version originale restauree.","warn")
             skip += 1; continue
-        sp_count = (avail - len(enc) - len(nl_suffix)) // 2
-        sp_pad = struct.pack("<H", SP) * sp_count
-        end_c = struct.pack("<HHHH",*term) if len(term)==4 else struct.pack("<HHH",*term) if len(term)==3 else struct.pack("<HHHH",E1,E2,E3,E4)
-        null_gap = bytes(d["slot_size"] - d["data_size"])
-        full = enc + sp_pad + nl_suffix + end_c + null_gap
+        pad_count = (avail - len(enc) - len(nl_suffix)) // 2
+        
+        # RETOUR AUX SOURCES : PADDING ESPACES INVISIBLES
+        # C'est la seule méthode qui ne casse ni le jeu, ni les choix (pas de ").
+        # Le moteur de script ne le verra jamais.
+        ghost_pad = b'\x20\x11' * pad_count
+        
+        end_c = b"".join(struct.pack("<H", t) for t in term)
+        null_gap_orig = data[d["offset"]+d["data_size"] : d["offset"]+d["slot_size"]]
+        
+        full = enc + ghost_pad + nl_suffix + end_c + null_gap_orig
+        
         if len(full) != d["slot_size"]: skip += 1; continue
         data[d["offset"]:d["offset"]+d["slot_size"]] = full
         ok += 1
     if out_path is None: out_path = bin_path
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)
     with open(out_path,"wb") as f: f.write(data)
-    if log_fn: log_fn(f"  {ok} traduits · {skip} ignorés · {kept} conservés → {Path(out_path).name}","ok")
+    if log_fn: log_fn(f"  [RESUME] {Path(out_path).name} : {ok} injectes avec succes, {skip} rejetes (trop longs), {kept} laisses en japonais.","ok")
     return out_path
 
 
@@ -1048,114 +1212,260 @@ def scan_bnp_bin(data: bytes, stem: str, out_dir: Path, log_fn) -> int:
     return len(unique)
 
 def _parse_cpk_utf(data: bytes, offset: int) -> list:
-    """Parse une table @UTF du CPK CRI (big-endian). Retourne une liste de dicts."""
-    if len(data) < offset + 8 or data[offset:offset+4] != b'@UTF':
+    """Parse une table @UTF du CPK CRI (big-endian, header 32 bytes)."""
+    if len(data) < offset + 32 or data[offset:offset+4] != b'@UTF':
         return []
     try:
-        rows_off    = struct.unpack_from('>I', data, offset+8)[0]
-        strings_off = struct.unpack_from('>I', data, offset+12)[0]
-        data_off    = struct.unpack_from('>I', data, offset+16)[0]
-        num_fields  = struct.unpack_from('>H', data, offset+22)[0]
-        row_stride  = struct.unpack_from('>H', data, offset+24)[0]
-        num_rows    = struct.unpack_from('>I', data, offset+26)[0]
-        base = offset + 8
-        str_base  = base + strings_off
-        data_base = base + data_off
+        base        = offset + 8  # base pour rows/strings/data offsets
+        rows_off    = struct.unpack_from('>I', data, offset+0x08)[0]
+        strings_off = struct.unpack_from('>I', data, offset+0x0C)[0]
+        data_off    = struct.unpack_from('>I', data, offset+0x10)[0]
+        num_cols    = struct.unpack_from('>H', data, offset+0x18)[0]
+        row_stride  = struct.unpack_from('>H', data, offset+0x1A)[0]
+        num_rows    = struct.unpack_from('>I', data, offset+0x1C)[0]
+        str_base    = base + strings_off
+        data_base   = base + data_off
+
+        def read_str(pos):
+            s = b''
+            while pos < len(data) and data[pos]: s += bytes([data[pos]]); pos += 1
+            return s.decode('utf-8', 'replace')
 
         def read_val(p, ftype):
-            if ftype == 0x00: return data[p], p+1
-            if ftype == 0x01: return struct.unpack_from('>b',  data, p)[0], p+1
-            if ftype == 0x02: return struct.unpack_from('>H',  data, p)[0], p+2
-            if ftype == 0x03: return struct.unpack_from('>h',  data, p)[0], p+2
-            if ftype == 0x04: return struct.unpack_from('>I',  data, p)[0], p+4
-            if ftype == 0x05: return struct.unpack_from('>i',  data, p)[0], p+4
-            if ftype == 0x06: return struct.unpack_from('>Q',  data, p)[0], p+8
-            if ftype == 0x07: return struct.unpack_from('>q',  data, p)[0], p+8
-            if ftype == 0x08: return struct.unpack_from('>f',  data, p)[0], p+4
+            if ftype == 0x00: return data[p] if p < len(data) else 0, p+1
+            if ftype == 0x01: return struct.unpack_from('>b', data, p)[0], p+1
+            if ftype == 0x02: return struct.unpack_from('>H', data, p)[0], p+2
+            if ftype == 0x03: return struct.unpack_from('>h', data, p)[0], p+2
+            if ftype == 0x04: return struct.unpack_from('>I', data, p)[0], p+4
+            if ftype == 0x05: return struct.unpack_from('>i', data, p)[0], p+4
+            if ftype == 0x06: return struct.unpack_from('>Q', data, p)[0], p+8
+            if ftype == 0x07: return struct.unpack_from('>q', data, p)[0], p+8
+            if ftype == 0x08: return struct.unpack_from('>f', data, p)[0], p+4
             if ftype == 0x0A:
-                soff = struct.unpack_from('>I', data, p)[0]
-                sp = str_base + soff; s = b''
-                while sp < len(data) and data[sp]: s += bytes([data[sp]]); sp += 1
-                return s.decode('utf-8','replace'), p+4
+                soff = struct.unpack_from('>I', data, p)[0]; p += 4
+                return read_str(str_base + soff), p
             if ftype == 0x0B:
                 doff  = struct.unpack_from('>I', data, p)[0]
                 dsize = struct.unpack_from('>I', data, p+4)[0]
-                return None, p+8  # on ne lit pas les blobs
+                return None, p+8
             return None, p
 
-        fields = []; fp = offset + 30
-        for _ in range(num_fields):
+        fields = []; fp = offset + 0x20
+        for _ in range(num_cols):
+            if fp + 5 > len(data): break
             flags = data[fp]; fp += 1
-            noff = struct.unpack_from('>I', data, fp)[0]; fp += 4
-            np2 = str_base + noff; name = b''
-            while np2 < len(data) and data[np2]: name += bytes([data[np2]]); np2 += 1
-            ftype = flags & 0x0F; storage = (flags >> 4) & 0x0F
+            name_soff = struct.unpack_from('>I', data, fp)[0]; fp += 4
+            name  = read_str(str_base + name_soff)
+            ftype   = flags & 0x0F
+            storage = (flags >> 4) & 0x0F
             default = None
-            if storage == 1: default, fp = read_val(fp, ftype)
-            fields.append((name.decode('utf-8','replace'), ftype, storage, default))
+            if storage == 1:  # valeur constante (pas de données dans la row)
+                default, fp = read_val(fp, ftype)
+            fields.append((name, ftype, storage, default))
 
-        rows = []; rp = base + rows_off
-        for _ in range(num_rows):
+        rows = []; rows_start = base + rows_off
+        for i in range(num_rows):
+            rp = rows_start + i * row_stride if row_stride else rows_start
             row = {}
             for name, ftype, storage, default in fields:
-                if storage == 1: row[name] = default
-                elif storage == 3: row[name], rp = read_val(rp, ftype)
-                else: row[name] = None
+                if storage == 1:   row[name] = default
+                elif storage in (3, 5):
+                    val, rp = read_val(rp, ftype)
+                    row[name] = val
             rows.append(row)
         return rows
     except Exception:
         return []
 
 
+def _read_cpk_header(data: bytes, cpk_off: int = 0) -> dict:
+    """Lit ContentOffset, TocOffset, TocSize depuis le CpkHeader @UTF."""
+    if len(data) < cpk_off + 0x30 or data[cpk_off:cpk_off+4] != b'CPK ':
+        return {}
+    utf_off = cpk_off + 0x10
+    if data[utf_off:utf_off+4] != b'@UTF':
+        return {}
+    try:
+        base     = utf_off + 8
+        rows_off = struct.unpack_from('>I', data, utf_off + 0x08)[0]
+        row_base = base + rows_off
+        if row_base + 40 > len(data):
+            return {}
+        content_off = struct.unpack_from('>Q', data, row_base + 8)[0]
+        content_sz  = struct.unpack_from('>Q', data, row_base + 16)[0]
+        toc_off     = struct.unpack_from('>Q', data, row_base + 24)[0]
+        toc_sz      = struct.unpack_from('>Q', data, row_base + 32)[0]
+        return {
+            'ContentOffset': content_off,
+            'ContentSize':   content_sz,
+            'TocOffset':     toc_off,
+            'TocSize':       toc_sz,
+        }
+    except Exception:
+        return {}
+
+
+def _find_bnp_offsets_in_iso(iso_path: str, cpk_dir: Path, targets: set,
+                              cpk_offset_in_iso: int) -> dict:
+    """Cherche chaque BNP dans l'ISO directement par ses bytes caractéristiques."""
+    if not iso_path or not Path(iso_path).exists():
+        return {}
+    result = {}
+    fmap = {f.name.lower(): f for f in cpk_dir.rglob("*") if f.is_file()}
+    try:
+        with open(iso_path, "rb") as iso_f:
+            iso_f.seek(0, 2); iso_size = iso_f.tell()
+            search_start = cpk_offset_in_iso
+            search_end   = iso_size
+            iso_f.seek(search_start)
+            cpk_data = iso_f.read(search_end - search_start)
+    except Exception:
+        return {}
+    used_positions = set()
+    for tname in targets:
+        fp = fmap.get(tname)
+        if not fp: continue
+        try:
+            raw = open(fp, "rb").read()
+        except Exception:
+            continue
+        signature = raw[:128]
+        check_off = min(4096, len(raw) - 64)
+        check_sig = raw[check_off:check_off+64] if check_off > 0 else b""
+        pos = -1
+        search_from = 0
+        while True:
+            candidate = cpk_data.find(signature, search_from)
+            if candidate == -1:
+                break
+            if candidate not in used_positions:
+                if check_sig and check_off > 0:
+                    if cpk_data[candidate+check_off:candidate+check_off+64] == check_sig:
+                        pos = candidate
+                        break
+                    search_from = candidate + 1
+                    continue
+                else:
+                    pos = candidate
+                    break
+            search_from = candidate + 1
+        if pos == -1:
+            pos = cpk_data.find(raw[:32])
+        if pos == -1 or pos in used_positions:
+            continue
+        used_positions.add(pos)
+        result[tname] = {
+            "offset_in_cpk": pos,
+            "offset_in_iso": search_start + pos,
+            "size": len(raw),
+        }
+    return result
+
+
+def _parse_cpk_toc_rows(toc_data: bytes, toc_utf_off: int) -> list:
+    """Parse la table TOC réelle de ce CPK Atlus PSP."""
+    if len(toc_data) < toc_utf_off + 0x20 or toc_data[toc_utf_off:toc_utf_off+4] != b'@UTF':
+        return []
+    try:
+        base        = toc_utf_off + 8
+        rows_off    = struct.unpack_from('>I', toc_data, toc_utf_off+0x08)[0]
+        strings_off = struct.unpack_from('>I', toc_data, toc_utf_off+0x0C)[0]
+        row_stride  = struct.unpack_from('>H', toc_data, toc_utf_off+0x1A)[0]
+        num_rows    = struct.unpack_from('>I', toc_data, toc_utf_off+0x1C)[0]
+        str_base    = base + strings_off
+        rows_start  = base + rows_off
+
+        def read_str(pos):
+            s = b''
+            while pos < len(toc_data) and toc_data[pos]:
+                s += bytes([toc_data[pos]]); pos += 1
+            return s.decode('utf-8', 'replace')
+
+        results = []
+        for i in range(num_rows):
+            rp = rows_start + i * row_stride
+            if rp + 20 > len(toc_data):
+                break
+            name_off  = struct.unpack_from('>I', toc_data, rp)[0]
+            file_size = struct.unpack_from('>I', toc_data, rp+4)[0]
+            ext_size  = struct.unpack_from('>I', toc_data, rp+8)[0]
+            file_off  = struct.unpack_from('>I', toc_data, rp+16)[0]
+            fname = read_str(str_base + name_off)
+            results.append({
+                'FileName': fname,
+                'FileOffset': file_off,
+                'FileSize': file_size,
+                'ExtractSize': ext_size,
+                'RowOffset': rp,
+            })
+        return results
+    except Exception:
+        return []
+
+
 def _find_bnp_offsets_in_cpk(cpk_path: Path, targets: set, cpk_offset_in_iso: int) -> dict:
-    """Parse la table TOC du CPK CRI pour trouver les offsets des BNP cibles."""
+    """Parse la table TOC du CPK pour trouver les offsets des BNP."""
     if not cpk_path.exists():
         return {}
     try:
-        cpk = open(cpk_path, "rb").read()
-    except Exception:
-        return {}
-    if cpk[:4] != b'CPK ':
-        return {}
-    try:
-        # Lire TocOffset depuis le header CPK (@UTF à 0x10)
-        hdr_rows = _parse_cpk_utf(cpk, 0x10)
-        if not hdr_rows:
+        with open(cpk_path, "rb") as f:
+            header = f.read(512)
+        if header[:4] != b'CPK ':
             return {}
-        toc_off = hdr_rows[0].get('TocOffset')
-        content_off = hdr_rows[0].get('ContentOffset', 0) or 0
-        if toc_off is None:
+        hdr_info = _read_cpk_header(header, 0)
+        toc_off = hdr_info.get('TocOffset')
+        toc_size = hdr_info.get('TocSize')
+        content_off = hdr_info.get('ContentOffset', 0) or 0
+        if not toc_off or not toc_size:
             return {}
-        # Lire la table TOC
-        toc_rows = _parse_cpk_utf(cpk, int(toc_off))
+        with open(cpk_path, "rb") as f:
+            f.seek(int(toc_off))
+            toc_data = f.read(int(toc_size) + 64)
+        toc_utf_off = None
+        for probe in (16, 0, 8):
+            if len(toc_data) > probe + 4 and toc_data[probe:probe+4] == b'@UTF':
+                toc_utf_off = probe; break
+        if toc_utf_off is None:
+            return {}
+        toc_rows = _parse_cpk_toc_rows(toc_data, toc_utf_off)
         result = {}
         for row in toc_rows:
-            fname = row.get('FileName', '') or ''
-            dname = row.get('DirName', '') or ''
-            file_off  = row.get('FileOffset')
-            file_size = row.get('FileSize')
-            ext_size  = row.get('ExtractSize')
-            if file_off is None or file_size is None:
-                continue
-            full_name = (dname + '/' + fname).lstrip('/').lower() if dname else fname.lower()
-            # Matcher avec les cibles (nom de fichier seul)
-            for tname in targets:
-                if fname.lower() == tname or full_name == tname:
-                    abs_off = int(content_off) + int(file_off)
-                    result[tname] = {
-                        "offset_in_cpk": abs_off,
-                        "offset_in_iso": cpk_offset_in_iso + abs_off,
-                        "size": int(ext_size if ext_size else file_size),
-                        "stored_size": int(file_size),
-                    }
+            fname = (row.get('FileName') or '').lower()
+            if fname in targets:
+                file_off  = row.get('FileOffset')
+                file_size = row.get('FileSize')
+                ext_size  = row.get('ExtractSize')
+                rp        = row.get('RowOffset')
+                if file_off is None or file_size is None or ext_size is None:
+                    continue
+                abs_iso_off = cpk_offset_in_iso + 0x3800 + file_off
+                result[fname] = {
+                    "offset_in_cpk": 0x3800 + file_off,
+                    "offset_in_iso": abs_iso_off,
+                    "size": ext_size,
+                    "stored_size": file_size,
+                    "toc_row_iso_off": cpk_offset_in_iso + int(toc_off) + rp
+                }
         return result
     except Exception:
         return {}
 
 
+def _bnp_offsets_look_valid(bnp_offsets: dict) -> bool:
+    """Détecte un cache corrompu."""
+    if not bnp_offsets:
+        return False
+    seen = {}
+    for tname, meta in bnp_offsets.items():
+        off = meta.get("offset_in_iso")
+        if off in seen:
+            return False
+        seen[off] = tname
+    return True
+
+
 def scan_cpk_files(cpk_dir_str: str, out_dir: Path, log_fn=None, progress_fn=None) -> dict:
-    """Scanne les fichiers cibles dans cpk_files/ et extrait leurs dialogues en JSON.
-    Parse la table TOC du CPK pour mémoriser les offsets précis des BNP."""
+    """Scanne les fichiers cibles dans cpk_files/ et extrait leurs dialogues en JSON."""
     cpk_dir = Path(cpk_dir_str); out_dir.mkdir(parents=True, exist_ok=True)
     targets = sorted(SCAN_TARGETS)
     fmap = {f.name.lower(): f for f in Path(cpk_dir_str).rglob("*") if f.is_file()}
@@ -1163,21 +1473,29 @@ def scan_cpk_files(cpk_dir_str: str, out_dir: Path, log_fn=None, progress_fn=Non
     total = []; done = []
     offs = load_offsets()
     cpk_offset_in_iso = offs.get("cpk_offset_in_iso", 0)
-    # Parser la TOC du CPK pour trouver les offsets précis
-    cpk_path = cpk_dir / "P2PT_ALL.cpk"
-    bnp_offsets = _find_bnp_offsets_in_cpk(cpk_path, set(targets), cpk_offset_in_iso)
-    if bnp_offsets:
-        if log_fn: log_fn(f"  TOC CPK parsée : {len(bnp_offsets)} BNP localisés","info")
-    else:
-        if log_fn: log_fn("  ⚠ TOC CPK non parsée — injection BNP désactivée","warn")
+    if not _bnp_offsets_look_valid(offs.get("bnp_offsets", {})):
+        offs.pop("bnp_offsets", None)
+    
+    # FORCE RECALCULATION DU CACHE POUR CORRIGER LE BUG DES 12KB
+    offs.pop("bnp_offsets", None)
+    
+    bnp_offsets = {}
+    cpk_candidates2 = [
+        cpk_dir.parent / "P2PT_ALL.cpk",
+        cpk_dir / "P2PT_ALL.cpk",
+    ]
+    cpk_path = next((p for p in cpk_candidates2 if p.exists()), None)
+    if cpk_path:
+        bnp_offsets = _find_bnp_offsets_in_cpk(cpk_path, set(targets), cpk_offset_in_iso)
+    if not bnp_offsets:
+        iso_path_str = offs.get("iso_path", "")
+        bnp_offsets = _find_bnp_offsets_in_iso(iso_path_str, cpk_dir, set(targets), cpk_offset_in_iso)
     for i, tname in enumerate(targets):
         if progress_fn: progress_fn((i+1)/len(targets))
         fp = fmap.get(tname)
-        if not fp:
-            if log_fn: log_fn(f"  ✗ {tname} — introuvable","warn"); continue
+        if not fp: continue
         try: raw = open(fp,"rb").read()
-        except Exception as e:
-            if log_fn: log_fn(f"  ✗ {tname} — erreur : {e}","err"); continue
+        except: continue
         n = scan_bnp_bin(raw, fp.stem, out_dir, log_fn)
         total.append(n)
         if n > 0: done.append(tname)
@@ -1192,10 +1510,7 @@ def scan_cpk_files(cpk_dir_str: str, out_dir: Path, log_fn=None, progress_fn=Non
 
 def rebuild_event_bin(orig_event: bytes, scripts_fr_dir: Path, log_fn,
                       scripts_bin_dir: Path = None) -> bytes:
-    """Réinjecte les scripts traduits dans event.bin.
-    Les scripts sans version FR sont réinjectés depuis scripts_bin_dir (originaux),
-    afin que les 399 scripts soient toujours présents dans l'ISO.
-    """
+    """Réinjecte les scripts traduits dans event.bin."""
     event = bytearray(orig_event); toc = []; i = 0
     while i+8 <= len(event):
         s = struct.unpack_from("<I",event,i)[0]; e = struct.unpack_from("<I",event,i+4)[0]
@@ -1203,41 +1518,86 @@ def rebuild_event_bin(orig_event: bytes, scripts_fr_dir: Path, log_fn,
         toc.append((s,e,i)); i += 8
     patched = kept_orig = 0
     for idx,(start,end,tp) in enumerate(toc):
-        # 1. Chercher le script FR encodé
         fr = scripts_fr_dir / f"script_{idx:03d}_fr.bin"
         if not fr.exists(): fr = scripts_fr_dir / f"script_{idx}_fr.bin"
         if fr.exists():
             sc = open(fr,"rb").read()
         elif scripts_bin_dir is not None:
-            # Fallback : réinjecter le script original
             orig = scripts_bin_dir / f"script_{idx:03d}.bin"
             if not orig.exists(): orig = scripts_bin_dir / f"script_{idx}.bin"
             if orig.exists():
                 sc = open(orig,"rb").read()
                 kept_orig += 1
-            else:
-                continue
-        else:
-            continue
+            else: continue
+        else: continue
         gz_buf = io.BytesIO()
         with gzip.GzipFile(filename=b"e0000.bin",mode="wb",fileobj=gz_buf,mtime=0) as gz: gz.write(sc)
         new_gz = gz_buf.getvalue()
-        if len(new_gz) > end-start:
-            if log_fn: log_fn(f"  [ignoré] script_{idx:03d} : trop grand","warn"); continue
+        if len(new_gz) > end-start: continue
         event[start:start+len(new_gz)] = new_gz
         event[start+len(new_gz):end]   = bytes((end-start)-len(new_gz))
-        struct.pack_into("<I",event,tp+4,start+len(new_gz))
+        # Ne PAS modifier l'index de fin (tp+4) ! Le jeu a besoin que end - start
+        # corresponde exactement à l'espace mémoire alloué, même s'il y a du padding !
         patched += 1
-    if log_fn: log_fn(f"  {patched}/{len(toc)} scripts réinjectés ({kept_orig} originaux conservés)","ok")
     return bytes(event)
 
 
 # ── Rebuild ISO ───────────────────────────────────────────────────────────────
 
+
+def update_iso_metadata(f, cpk_offset, new_end_offset, log_fn):
+    """
+    Hack de la taille de l'ISO et du CPK pour autoriser la lecture au-delà de la limite officielle.
+    """
+    if log_fn: log_fn("  [HACK] Application du hack ISO9660 et CPK Header...", "info")
+    import struct
+    try:
+        new_size = new_end_offset - cpk_offset
+        
+        # 1. Le CPK Header n'a PAS besoin d'etre patche !
+        # Le jeu lit sans probleme au-dela de sa propre ContentSize.
+        # Patch ContentSize, EnabledPackedSize, ou EnabledDataSize fait saturer la RAM de la PSP et freeze au logo !
+
+        # 2. Update Primary Volume Descriptor (PVD)
+        f.seek(16 * 2048)
+        pvd = bytearray(f.read(2048))
+        if pvd[:7] == b'\x01CD001\x01':
+            sectors = (new_end_offset + 2047) // 2048
+            pvd[80:88] = struct.pack('<I', sectors) + struct.pack('>I', sectors)
+            f.seek(16 * 2048)
+            f.write(pvd)
+        else:
+            if log_fn: log_fn("  [ERREUR] PVD ISO9660 introuvable.", "err")
+
+        # 3. Update Directory Entry for P2PT_ALL.CPK
+        f.seek(0)
+        iso_start = bytearray(f.read(2 * 1024 * 1024))
+        iso_start_lower = bytearray(iso_start).lower()
+        pos = 0
+        found = 0
+        while True:
+            pos = iso_start_lower.find(b'p2pt_all.cpk', pos)
+            if pos == -1: break
+            rec_start = pos - 33
+            if rec_start >= 0:
+                rec_len = iso_start[rec_start]
+                if rec_len >= 34:
+                    f.seek(rec_start + 10)
+                    f.write(struct.pack('<I', new_size))
+                    f.write(struct.pack('>I', new_size))
+                    found += 1
+            pos += 1
+        if found > 0:
+            if log_fn: log_fn(f"  [TOC PATCH] Limites ISO/CPK etendues virtuellement a {new_size//1024//1024} MB ({found} entrees) avec succes !", "ok")
+        else:
+            if log_fn: log_fn("  [ERREUR] Entree ISO9660 P2PT_ALL.CPK introuvable.", "err")
+
+    except Exception as e:
+        if log_fn: log_fn(f"  [ERREUR CRITIQUE] Echec du hack ISO9660: {e}", "err")
+
 def rebuild_iso(iso_orig: str, event_data: bytes, out_iso: str, log_fn,
                 enc_dir: str = None) -> bool:
-    """Patche event.bin ET les BNP traduits (MMAP, F_BE…) dans une copie de l'ISO."""
-    if log_fn: log_fn("Préparation du rebuild ISO…","info")
+    """Patche event.bin ET les BNP traduits."""
     offs = load_offsets(); pos = offs.get("event_offset_in_iso",-1)
     if pos != -1:
         with open(iso_orig,"rb") as f:
@@ -1247,30 +1607,37 @@ def rebuild_iso(iso_orig: str, event_data: bytes, out_iso: str, log_fn,
             pos = -1
     if pos == -1:
         raise Exception("Offset event.bin inconnu.\n→ Relance les étapes A, B, C pour le recalculer.")
+    max_iso_offset = 0
     shutil.copy(iso_orig, out_iso)
     with open(out_iso,"r+b") as f:
-        # ── Injection event.bin ──
         if log_fn: log_fn(f"  event.bin → offset 0x{pos:08X}","info")
         f.seek(pos); f.write(event_data)
-        # ── Injection BNP traduits (MMAP, F_BE, TM_EVE, CD_SHOP) ──
+        cpk_off_in_iso = offs.get("cpk_offset_in_iso", 0)
+        
+        # FORCE RECALCULATION DU CACHE
+        offs.pop("bnp_offsets", None)
+        
         bnp_offsets = offs.get("bnp_offsets", {})
-        # Si les offsets ne sont pas mémorisés, les calculer maintenant
-        # depuis le CPK sauvegardé — pas besoin de repasser par le scan
         if not bnp_offsets and enc_dir:
-            cpk_path = Path(enc_dir).parent / "cpk_files" / "P2PT_ALL.cpk"
-            if cpk_path.exists():
-                if log_fn: log_fn("  Offsets BNP non mémorisés → lecture TOC du CPK…","info")
-                bnp_offsets = _find_bnp_offsets_in_cpk(
-                    cpk_path, set(SCAN_TARGETS), offs.get("cpk_offset_in_iso", 0)
-                )
-                if bnp_offsets:
-                    offs["bnp_offsets"] = bnp_offsets
-                    save_offsets(offs)
-                    if log_fn: log_fn(f"  {len(bnp_offsets)} BNP localisés et mémorisés ✓","info")
-                else:
-                    if log_fn: log_fn("  ⚠ TOC CPK non parsée — BNP non injectés","warn")
-            else:
-                if log_fn: log_fn("  ⚠ P2PT_ALL.cpk introuvable dans cpk_files/ — BNP non injectés","warn")
+            work_dir = Path(enc_dir).parent
+            iso_orig_path = offs.get("iso_path", "")
+            cpk_candidates = [
+                work_dir / "P2PT_ALL.cpk",
+                Path(enc_dir) / "P2PT_ALL.cpk",
+                Path(iso_orig_path).parent / "P2PT_ALL.cpk" if iso_orig_path else Path("nonexistent"),
+            ]
+            cpk_path = next((p for p in cpk_candidates if p.exists()), None)
+            if cpk_path:
+                bnp_offsets = _find_bnp_offsets_in_cpk(cpk_path, set(SCAN_TARGETS), cpk_off_in_iso)
+            if not bnp_offsets:
+                cpk_files_dir = next((p for p in [work_dir / "cpk_files", Path(enc_dir) / "cpk_files"] if p.exists()), work_dir)
+                bnp_offsets = _find_bnp_offsets_in_iso(iso_orig_path, cpk_files_dir, set(SCAN_TARGETS), cpk_off_in_iso)
+        if bnp_offsets:
+            offs["bnp_offsets"] = bnp_offsets
+            save_offsets(offs)
+            if log_fn: log_fn(f"  {len(bnp_offsets)} BNP localisés ✓","info")
+        else:
+            if log_fn: log_fn("  ⚠ BNP introuvables dans l'ISO — MMAP/F_BE non injectés","warn")
         if enc_dir and bnp_offsets:
             enc = Path(enc_dir)
             bnp_files = [
@@ -1293,18 +1660,97 @@ def rebuild_iso(iso_orig: str, event_data: bytes, out_iso: str, log_fn,
                     if log_fn: log_fn(f"  ⚠ {fn_enc} : offset introuvable dans la TOC","warn")
                     continue
                 iso_off = meta["offset_in_iso"]
-                orig_size = meta["size"]
+                extract_size = meta["size"]          # taille réelle décompressée attendue
+                stored_size  = meta.get("stored_size", extract_size)  # espace réellement alloué dans le CPK
                 new_data = open(enc_path,"rb").read()
-                if len(new_data) > orig_size:
-                    if log_fn: log_fn(f"  ⚠ {fn_enc} trop grand ({len(new_data)} > {orig_size}), ignoré","warn")
-                    continue
+
+                # HACK SALVATEUR : On désactive la recompression CRILAYLA expérimentale qui corrompt le jeu.
+                # Si le fichier original était compressé, on va forcer le moteur du jeu (CRI) à le lire 
+                # en format non-compressé (BRUT) en écrivant FileSize == ExtractSize dans la TOC.
+                needs_compression = stored_size < extract_size
+                if needs_compression:
+                    if len(new_data) != extract_size:
+                        if log_fn: log_fn(
+                            f"  ⚠ {fn_enc} : taille décodée ({len(new_data)}) ≠ "
+                            f"taille attendue ({extract_size}), ignoré","warn")
+                        continue
+                    if log_fn: log_fn(f"  [INFO] Traitement de {fn_enc} sans recompression...","info")
+                    
+                    compressed = new_data  # Pas de compression ! On garde les données brutes.
+                    
+                    if len(compressed) > stored_size:
+                        if log_fn: log_fn(f"  [+] [TOC PATCH] {fn_enc} est trop volumineux ({len(compressed)} > {stored_size}), deplacement a la FIN de l'ISO !", "ok")
+                        f.seek(0, 2) # EOF
+                        padding = (2048 - (f.tell() % 2048)) % 2048
+                        if padding: f.write(b'\x00' * padding)
+                        
+                        iso_off = f.tell() # NOUVEL OFFSET DE FIN
+                        new_file_off = iso_off - (cpk_off_in_iso + 0x3800)
+                        
+                        # Met a jour FileOffset dans la TOC (U32 a toc_row_off + 16 ! PAS U64 a +12 !)
+                        toc_row_off = meta.get("toc_row_iso_off")
+                        if toc_row_off:
+                            f.seek(toc_row_off + 16)
+                            f.write(struct.pack(">I", new_file_off))
+                            
+                            # PATCH MAJEUR : On met à jour la limite de lecture du CPK (ContentSize)
+                            # Sinon, le jeu refuse de lire les fichiers au-delà de 254 Mo (écran noir)
+                            new_content_size = new_file_off + len(compressed)
+                            f.seek(cpk_off_in_iso)
+                            cpk_header = f.read(512)
+                            utf_off = 0x10
+                            base = utf_off + 8
+                            rows_off = struct.unpack_from('>I', cpk_header, utf_off + 0x08)[0]
+                            row_base = base + rows_off
+                            old_content_size = struct.unpack_from('>Q', cpk_header, row_base + 16)[0]
+                            
+                            if new_content_size > old_content_size:
+                                f.seek(cpk_off_in_iso + row_base + 16)
+                                f.write(struct.pack(">Q", new_content_size))
+                                if log_fn: log_fn(f"  [+] [TOC PATCH] ContentSize reculé de {old_content_size//1024//1024}MB à {new_content_size//1024//1024}MB", "ok")
+
+                        stored_size = len(compressed) # On leve la limite pour la suite du script
+                        max_iso_offset = max(max_iso_offset, iso_off + stored_size)
+                        
+                    # IMPORTANT: On ne padde plus ! On écrit le flux compressé nu.
+                    # Le padding causait un crash sur console à cause du bounds check strict.
+                    write_data = compressed
+                else:
+                    if len(new_data) > stored_size:
+                        if log_fn: log_fn(
+                            f"  ⚠ {fn_enc} trop grand ({len(new_data)} > {stored_size}), ignoré","warn")
+                        continue
+                    write_data = new_data
+
                 f.seek(iso_off)
-                f.write(new_data)
-                if len(new_data) < orig_size:
-                    f.write(bytes(orig_size - len(new_data)))
-                if log_fn: log_fn(f"  {fn_enc} → offset 0x{iso_off:08X} ({len(new_data)} bytes)","info")
+                f.write(write_data)
+                
+                # Fichiers non compressés ou trop courts : on nettoie les restes avec des zéros
+                # (uniquement derrière le fichier, là où le jeu ne les lira pas)
+                if len(write_data) < stored_size:
+                    f.write(b'\x00' * (stored_size - len(write_data)))
+
+                # MAGIE NOIRE : Mise à jour de la TOC de l'ISO en direct
+                # Si on a l'offset exact de la taille du fichier dans la TOC
+                toc_row_off = meta.get("toc_row_iso_off")
+                if toc_row_off:
+                    f.seek(toc_row_off + 4)  # FileSize
+                    f.write(struct.pack(">I", len(write_data)))
+                    f.seek(toc_row_off + 8)  # ExtractSize
+                    f.write(struct.pack(">I", len(new_data)))
+                    
+                    if log_fn: log_fn(f"  [TOC] Mise a jour de la table a l'adresse 0x{toc_row_off:08X} (Nouveau FileSize: {len(write_data)}, ExtractSize: {len(new_data)})", "info")
+                if log_fn: log_fn(f"  [>] INJECTION de {fn_enc} -> offset 0x{iso_off:08X} ({len(write_data)} / {stored_size} bytes) terminee.","info")
+                
+        if max_iso_offset > 0:
+            f.seek(0, 2)
+            rem = f.tell() % 2048
+            if rem != 0:
+                f.write(b'\x00' * (2048 - rem))
+            update_iso_metadata(f, cpk_off_in_iso, f.tell(), log_fn)
+
     sz = Path(out_iso).stat().st_size // 1024 // 1024
-    if log_fn: log_fn(f"  ISO générée : {out_iso} ({sz} MB)","ok")
+    if log_fn: log_fn(f"  [V] ISO modifiee generee avec succes : {out_iso} ({sz} MB)","ok")
     return True
 
 
@@ -1354,14 +1800,25 @@ def encode_bnp_from_json(bin_path: str, json_path: str, log_fn, out_path: str = 
         avail = d["data_size"] - 8
         is_menu = '[1208]' in d.get("texte_orig","") or '[U+1208]' in d.get("texte_orig","")
         nl_sfx = struct.pack("<H", NL) if is_menu else b""
+        
+        # TRONCATURE AUTOMATIQUE si le texte FR est trop long
         if len(enc) > avail - len(nl_sfx):
-            if log_fn: log_fn(f"  [id {d['id']}] trop long, ignoré", "warn")
-            skip += 1; continue
+            depassement = len(enc) - (avail - len(nl_sfx))
+            if log_fn: log_fn(f"  [!] [DEPASSEMENT] [id {d['id']}] Texte FR tronque de {depassement//2} caracteres.", "warn")
+            # On coupe le texte FR en retirant les caractères en trop à la fin
+            t_fr = t_fr[:-(depassement//2)]
+            enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+            
+            # Recalcul de sécurité au cas où (si des balises complexes ont été coupées)
+            while len(enc) > avail - len(nl_sfx) and len(t_fr) > 0:
+                t_fr = t_fr[:-1]
+                enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+
         sp_pad = struct.pack("<H", SP) * ((avail - len(enc) - len(nl_sfx)) // 2)
         term = d.get("_term", [E1,E2,E3,E4])
-        end_c = struct.pack("<HHHH",*term) if len(term)==4 else struct.pack("<HHH",*term) if len(term)==3 else struct.pack("<HHHH",E1,E2,E3,E4)
-        null_gap = bytes(d["slot_size"] - d["data_size"])
-        full = enc + sp_pad + nl_sfx + end_c + null_gap
+        end_c = b"".join(struct.pack("<H", t) for t in term)
+        null_gap_orig = data[d["offset"]+d["data_size"] : d["offset"]+d["slot_size"]]
+        full = enc + sp_pad + nl_sfx + end_c + null_gap_orig
         if len(full) != d["slot_size"]: skip += 1; continue
         data[d["offset"]:d["offset"]+d["slot_size"]] = full
         ok += 1
@@ -1406,9 +1863,9 @@ def encode_bnp_from_json(bin_path: str, json_path: str, log_fn, out_path: str = 
                 skip += 1; continue
             sp_pad = struct.pack("<H", SP) * ((avail - len(enc) - len(nl_sfx)) // 2)
             term = d.get("_term", [E1,E2,E3,E4])
-            end_c = struct.pack("<HHHH",*term) if len(term)==4 else struct.pack("<HHH",*term) if len(term)==3 else struct.pack("<HHHH",E1,E2,E3,E4)
-            null_gap = bytes(d["slot_size"] - d["data_size"])
-            full = enc + sp_pad + nl_sfx + end_c + null_gap
+            end_c = b"".join(struct.pack("<H", t) for t in term)
+            null_gap_orig = dec[d["offset"]+d["data_size"] : d["offset"]+d["slot_size"]]
+            full = enc + sp_pad + nl_sfx + end_c + null_gap_orig
             if len(full) != d["slot_size"]: skip += 1; continue
             dec[d["offset"]:d["offset"]+d["slot_size"]] = full
             patched_in_gz += 1
@@ -1453,79 +1910,123 @@ def encode_bnp_from_json(bin_path: str, json_path: str, log_fn, out_path: str = 
 
 # ── Encodage F_BE / TM_EVE ────────────────────────────────────────────────────
 
-def encode_fbe_slot(data: bytearray, offset: int, data_size: int, n_fr: str, t_fr: str) -> bool:
-    """
-    Réécrit un slot F_BE/TM_EVE avec la traduction FR.
-    Le format F_BE est : bytes d'animation intercalés avec du texte UTF-16 LE.
-    On préserve tous les bytes de contrôle/animation et on remplace uniquement
-    le texte ASCII (nom + dialogue) par le texte FR encodé.
+def encode_fbe_slot(data: bytearray, offset: int, data_size: int, n_fr: str, t_fr: str, term_list: list, log_fn=None, dlg_id=None) -> bool:
+    # 1. Trouver la fin EXACTE du dialogue d'origine dans la zone allouee
+    # Le dialogue s'arrete au premier 0x1107.
+    orig_end = offset
+    max_search = min(offset + data_size, len(data) - 1)
+    # L'espace total alloue pour ce dialogue est EXACTEMENT data_size
+    real_budget = data_size
 
-    Retourne True si l'écriture a réussi, False si le FR est trop long.
-    """
-    # Lire le slot original pour extraire la structure (positions des bytes ctrl)
-    end = min(offset + data_size, len(data))
-    # Reconstruire : nom_fr en UTF-16 LE + newline + texte_fr en UTF-16 LE
-    # On insère le guillemet d'ouverture comme dans le format original
-    enc_nom  = text_to_bytes(n_fr)
-    enc_text = text_to_bytes(t_fr)
-    # Structure F_BE : 0x0022 (") + nom + NL + texte + 0x1107 (fin)
-    new_content = (struct.pack("<H", 0x0022) +      # guillemet ouvrant
-                   enc_nom +
-                   struct.pack("<H", NL) +           # saut de ligne nom→texte
-                   enc_text +
-                   struct.pack("<H", 0x1107))        # marqueur fin de slot F_BE
+    # Extraction de tail_bytes (tout ce qui vient après [1107])
+    # ET récupération des animations [1431] perdues dans le texte !
+    tail_start = offset + data_size
+    idx = offset
+    lost_anims = b''
+    while idx < offset + data_size:
+        if idx + 1 >= offset + data_size: break
+        b0, b1 = data[idx], data[idx+1]
+        w = b0 | (b1 << 8)
+        if w == 0x1431:
+            lost_anims += data[idx:idx+7]
+            idx += 7; continue
+        if w == 0x1107:
+            tail_start = idx + 2
+            break
+        # Saut des tags texte normaux pour avancer
+        if b1 in (0x11, 0x14):
+            idx += 2; continue
+        if 0x20 <= b0 <= 0x7E and b1 == 0x00:
+            idx += 2; continue
+        idx += 2
 
-    # Vérifier que ça tient dans data_size (en conservant les bytes d'anim après 0x1107)
-    # On mesure l'espace disponible jusqu'à 0x1107 dans le slot original
-    orig_text_end = offset
-    i = offset
-    while i + 1 < end:
-        w = data[i] | (data[i+1] << 8)
-        if w == 0x1107: orig_text_end = i; break
-        if w == 0x1431: i += 7; continue  # sauter les bytes d'animation [E4]
-        i += 1 if (data[i] != 0x00 and data[i+1] != 0x00) else 2
+    # On cherche le End Event (31 14) dans la suite du buffer pour couper tail_bytes en deux !
+    # tail_part1 = la fin logique du script courant (ex: 06 11 02 11 03 11 31 14)
+    # tail_part2 = les scripts suivants caches dans le meme bloc (ex: Shadow Eikichi)
+    end_event_idx = -1
+    idx_search = tail_start
+    while idx_search < offset + data_size:
+        if idx_search + 1 >= offset + data_size: break
+        w = data[idx_search] | (data[idx_search+1] << 8)
+        if w == 0x1431:
+            end_event_idx = idx_search
+            break
+        idx_search += 2
+
+    if end_event_idx != -1:
+        tail_part1 = data[tail_start : end_event_idx + 2]
+        tail_part2 = data[end_event_idx + 2 : offset + data_size]
     else:
-        orig_text_end = end
+        tail_part1 = data[tail_start : offset + data_size]
+        tail_part2 = b''
 
-    avail = orig_text_end - offset
-    if len(new_content) > avail:
-        return False  # trop long
+    header_bytes = struct.pack("<H", 0x0022) + text_to_bytes(n_fr) + struct.pack("<H", NL)
+    trailer_bytes = struct.pack("<H", NL) + struct.pack("<H", 0x1107)
+    
+    overhead = len(header_bytes) + len(trailer_bytes) + len(tail_part1) + len(tail_part2) + len(lost_anims)
+    text_budget = real_budget - overhead
+    
+    if text_budget < 2: return False, 0
 
-    # Écrire le nouveau contenu + padding nul
-    data[offset:offset + len(new_content)] = new_content
-    data[offset + len(new_content):orig_text_end] = bytes(avail - len(new_content))
-    return True
+    t_bytes = text_to_bytes(t_fr)
+    if len(t_bytes) > text_budget:
+        depassement = len(t_bytes) - text_budget
+        if log_fn: log_fn(f"  [!] [TEXTE TRONQUE] [id {dlg_id}] Menu FR tronque de {depassement//2} caracteres.", "warn")
+        t_bytes = text_to_bytes(t_fr[:text_budget//2])
+
+    # AUCUN PADDING ! 
+    # Le moteur de script de F_BE génère ses pointeurs en scannant séquentiellement 
+    # les opcodes `31 14`. Si on insère le moindre octet de padding (même `00`), 
+    # le scanner va l'interpréter comme le début d'un nouveau dialogue, ce qui 
+    # causera le fameux crash "Invalid Memory Access" quand un Ennemi parlera !
+    
+    enc = header_bytes + t_bytes + lost_anims + trailer_bytes + tail_part1 + tail_part2
+    
+    # On remplace la portion d'origine par la nouvelle portion (qui sera plus petite)
+    data[offset:offset + data_size] = enc
+    
+    return True, len(enc)
 
 
 def encode_fbe_bnp_from_json(bin_path: str, json_path: str, log_fn, out_path: str = None) -> str:
-    """Réécrit les dialogues traduits dans un fichier F_BE.BNP ou TM_EVE.BNP."""
+    """Récrit les dialogues traduits dans un fichier F_BE.BNP ou TM_EVE.BNP."""
     data = bytearray(open(bin_path, "rb").read())
+    import json
     dlgs = json.loads(open(json_path, encoding="utf-8").read(), strict=False)
     ok = skip = kept = 0
-    # Dédupliquer par (offset, data_size) : plusieurs entrées JSON peuvent partager
-    # le même slot (différentes lignes du même slot F_BE)
     done_slots = set()
+    
+    # TRI IMPÉRATIF PAR OFFSET POUR GÉRER LE DELTA
+    dlgs.sort(key=lambda d: d["offset"])
+    delta = 0
+    
     for d in dlgs:
         n_fr = d.get("nom_fr","").strip(); t_fr = d.get("texte_fr","").strip()
         if not n_fr and not t_fr: kept += 1; continue
         key = (d["offset"], d["data_size"])
-        if key in done_slots: continue  # déjà patché
-        success = encode_fbe_slot(data, d["offset"], d["data_size"], n_fr, t_fr)
+        if key in done_slots: continue
+        term_list = d.get("_term", [])
+        
+        current_offset = d["offset"] + delta
+        success, new_size = encode_fbe_slot(data, current_offset, d["data_size"], n_fr, t_fr, term_list, log_fn, d.get("id"))
+        
         if success:
-            done_slots.add(key); ok += 1
+            done_slots.add(key)
+            ok += 1
+            delta += (new_size - d["data_size"])
         else:
-            if log_fn: log_fn(f"  [id {d['id']}] F_BE trop long, ignoré", "warn")
+            if log_fn: log_fn(f"  [!] [ERREUR F_BE] [id {d.get('id')}] Espace alloue insuffisant meme pour le nom ({d['data_size']} octets), ignore", "err")
             skip += 1
+            
     if out_path is None:
         out_path = bin_path
+    from pathlib import Path
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)
     with open(out_path, "wb") as f:
         f.write(data)
-    if log_fn: log_fn(f"  {ok} traduits · {skip} ignorés · {kept} conservés → {Path(out_path).name}", "ok")
+    if log_fn: log_fn(f"  [RESUME] {Path(out_path).name} : {ok} injectes, {skip} rejetes, {kept} laisses en japonais.", "ok")
     return out_path
 
-
-# ── Encodage complet ──────────────────────────────────────────────────────────
 
 def encode_all(trad_dir: str, cpk_dir: str, enc_dir: str, log_fn, progress_fn=None) -> dict:
     """Encode tous les JSON traduits en une seule passe (BNP/BIN + event.bin)."""
@@ -1567,7 +2068,7 @@ def encode_all(trad_dir: str, cpk_dir: str, enc_dir: str, log_fn, progress_fn=No
                 encode_bin_from_json(str(op),str(jp),log_fn,out_path=str(out/fn))
             ok_f.append(fn)
         except Exception as e:
-            if log_fn: log_fn(f"  ✗ {fn} : {e}","err"); err_f.append(fn)
+            if log_fn: log_fn(f"  [ERREUR CRITIQUE] Echec de l'encodage pour {fn} : {str(e)}","err"); err_f.append(fn)
     sj = jdir/"event_scripts"; ep = cmap.get("event.bin")
     if progress_fn: progress_fn((n-1)/n)
     if ep and sj.exists():
@@ -2111,6 +2612,12 @@ class P2ISFRTool(ctk.CTk):
         self._log_box.see("end")
         self._log_box.configure(state="disabled")
         self._log_box.update_idletasks()
+        try:
+            # Toujours ecrire dans le dossier de travail
+            log_file = self.W / "logs.txt"
+            with open(log_file, "a", encoding="utf-8") as f:
+                f.write(msg + "\n")
+        except: pass
 
     def _clear_log(self):
         self._log_box.configure(state="normal")
@@ -2559,13 +3066,27 @@ class P2ISFRTool(ctk.CTk):
             messagebox.showwarning(T("w_title"), T("w_no_encoded", p=enc)); return
         ev_fr = Path(enc) / "event.bin"
         if not ev_fr.exists():
-            messagebox.showwarning(T("w_title"), T("w_no_eventbin")); return
+            # FALLBACK : utiliser le event.bin original si le traduit n'existe pas
+            ev_orig = self.W / "event.bin"
+            if not ev_orig.exists():
+                messagebox.showwarning(T("w_title"), "Impossible de trouver event.bin (ni le traduit, ni l'original extrait à l'étape C)."); return
+            self.log("event.bin traduit absent, utilisation de l'original pour l'ISO...", "warn")
+            ev_fr = ev_orig
+
         def _w():
             self.after(0, lambda: self._set_badge(self._b_rebuild, "run", T("running")))
             self.after(0, lambda: self._pb_rb.set(0))
             ev_data = open(ev_fr, "rb").read()
             Path(out).parent.mkdir(parents=True, exist_ok=True)
-            rebuild_iso(iso, ev_data, out, self.log, enc_dir=self._v_encin.get())
+            
+            # Auto-logging list
+            def logged_log_fn(msg, type="info"):
+                self.log(msg, type)
+                
+            rebuild_iso(iso, ev_data, out, logged_log_fn, enc_dir=self._v_encin.get())
+            
+            # Plus de sauvegarde différée des logs car self.log le fait en direct
+
             self.after(0, lambda: self._pb_rb.set(1.0))
             sz = Path(out).stat().st_size // 1024 // 1024
             self.after(0, lambda: self._set_badge(self._b_rebuild, "ok", f"{sz} MB"))
