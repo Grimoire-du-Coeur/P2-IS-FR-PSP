@@ -9,3 +9,13 @@ AutreScript/prompts_gemini/
 *.tmp
 file test
 __pycache__/
+
+# Fichiers de jeu / Copyrightés (À NE JAMAIS VERSIONNER)
+*.iso
+*.ISO
+*.cpk
+*.CPK
+*.bin
+*.BIN
+*.bnp
+*.BNP
