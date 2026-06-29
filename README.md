@@ -86,7 +86,7 @@ La phase de relecture est ouverte pour traquer les fautes, harmoniser les noms e
 Vous pouvez y comparer le texte original avec la traduction (en respectant la limite d'octets de chaque ligne) et utiliser le [Dictionnaire de traduction](https://hamzakarrouchi.github.io/p2is-relecture/dictionnaire.html) pour assurer la cohérence. Une fois vos modifications effectuées, générez vos propositions depuis le site et postez-les dans le salon Discord `📄・scripts` (ou via une Pull Request sur GitHub).
 
 **Quel est le contenu de la version BÊTA du 10 juillet ?**
-Les 397 scripts de l'histoire principale sont 100 % traduits ! La version BÊTA prévue pour le 10 juillet sera donc jouable du début à la fin. Toutefois, puisqu'il s'agit d'une version de test, elle pourra encore contenir des fautes de traduction, des dialogues résiduels en anglais, ou de potentiels crashs. L'objectif de cette bêta est de récolter vos retours pour finaliser la version 1.0.
+Les 398 scripts de l'histoire principale (event.bin) sont 100 % traduits ! La version BÊTA prévue pour le 10 juillet sera donc jouable du début à la fin avec l'histoire intégralement en français. Si nous parvenons à résoudre les problèmes techniques d'ici là, les dialogues sur la carte 3D (MMAP) et les lignes de combat (F_BE) seront également inclus. Dans le cas contraire, la bêta ne contiendra que le fichier event.bin. Toutefois, puisqu'il s'agit d'une version de test, elle pourra encore contenir des fautes de traduction, quelques textes annexes en anglais ou de potentiels crashs. L'objectif de cette bêta est de récolter vos retours pour finaliser la version 1.0.
 
 ## Clause de Non-Responsabilité
 
