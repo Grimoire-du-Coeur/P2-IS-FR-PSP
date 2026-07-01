@@ -38,7 +38,7 @@ pie title Progression des 406 Scripts
 | Catégorie de fichiers | État Actuel | Nombre de fichiers |
 |-----------------------|-------------|:------------------:|
 | **Scripts d'Histoire** (`script_000` à `script_396`) | **Terminé** | 397 |
-| **Noms de zones 3D** (`MMAP01` à `06`) | **Terminé** | 6 |
+| **Scripts Carte** (`MMAP01` à `06`) | **Terminé** | 6 |
 | **Boutique de CDs** (`CD_SHOP`) | **Terminé** | 1 |
 | **Combats & Menus** (`F_BE`) | **Terminé** | 1 |
 | **Cinématiques narratives** (`TM_EVE`) | **En Cours** | 1 |
