@@ -36,11 +36,11 @@ pie title Progression des 406 Scripts
 
 | Catégorie | Fichiers | Statut Actuel |
 |-----------|:--------:|:-------------:|
-| **Scripts d'Histoire** (`script_000` à `script_396`) | 397 | Terminée |
-| **Scripts de Carte** (`MMAP01` à `06`) | 6 | Terminée |
-| **Boutique de CDs** (`CD_SHOP`) | 1 | Terminée |
-| **Combats & Menus** (`F_BE`) | 1 | Terminée |
-| **Cinématiques narratives** (`TM_EVE`) | 1 | En Cours |
+| **Scripts d'Histoire** (`script_000` à `script_396`) | 397 | [![Terminée](https://img.shields.io/badge/-Terminée-success?style=flat-square)](#) |
+| **Scripts de Carte** (`MMAP01` à `06`) | 6 | [![Terminée](https://img.shields.io/badge/-Terminée-success?style=flat-square)](#) |
+| **Boutique de CDs** (`CD_SHOP`) | 1 | [![Terminée](https://img.shields.io/badge/-Terminée-success?style=flat-square)](#) |
+| **Combats & Menus** (`F_BE`) | 1 | [![Terminée](https://img.shields.io/badge/-Terminée-success?style=flat-square)](#) |
+| **Cinématiques narratives** (`TM_EVE`) | 1 | [![En Cours](https://img.shields.io/badge/-En%20Cours-blue?style=flat-square)](#) |
 
 > [!IMPORTANT]
 > Le fichier `TM_EVE` est l'unique script nécessitant encore une intervention de traduction textuelle. La trame principale de l'histoire est achevée à 100 %.
