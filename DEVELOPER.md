@@ -1,6 +1,6 @@
 <div align="center">
   
-# Guide Développeur & Reverse Engineering
+# Guide Développeur & Base de Connaissances
   
 **Persona 2: Innocent Sin FR (PSP)**
 
@@ -12,11 +12,11 @@
 <br/>
 
 > [!NOTE]
-> Bienvenue dans la "Bible" technique du projet. Ce document s'adresse aux développeurs, programmeurs et romhackers. Il recense l'intégralité des connaissances acquises sur le moteur Atlus, les archives CRI Middleware, et documente l'architecture de notre outil de compilation maison (`p2is_tool`).
+> Bienvenue dans la documentation technique exhaustive du projet. Ce document s'adresse aux développeurs, programmeurs et romhackers. Il détaille l'architecture de notre outil de compilation maison (`p2is_tool`), les spécificités du moteur Atlus et le fonctionnement des archives CRI Middleware.
 
 ---
 
-## 📑 Sommaire
+## Sommaire
 1. [La Stack Technique (V2)](#la-stack-technique-v2)
 2. [Architecture et Pipeline de Compilation](#architecture-et-pipeline-de-compilation)
 3. [Gestion Mémoire et Algorithme du Delta](#gestion-mémoire-et-algorithme-du-delta)
@@ -26,78 +26,85 @@
 
 ---
 
-## 🚀 La Stack Technique (V2)
+## La Stack Technique (V2)
 
-L'outil centralisant toutes les étapes du romhacking a été modernisé pour devenir une véritable application web locale robuste et asynchrone, abandonnant le vieux script monolithique.
+L'outil de romhacking a été restructuré en une application web locale performante, asynchrone et modulaire.
 
-**Technologies utilisées :**
-- **Backend :** [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#) L'API ultra-rapide qui décompresse, parse, et recompile l'ISO en manipulant les pointeurs hexadécimaux.
-- **Frontend :** [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#) Une interface moderne et fluide offrant des logs en temps réel.
-- **Déploiement Automatisé :** L'outil se lance via un simple `start.bat` qui gère silencieusement l'installation des dépendances (Node.js/Python) pour offrir une expérience Plug & Play à l'utilisateur final.
+**Technologies employées :**
+- **Backend :** [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#) L'API se charge de la décompression, de l'analyse (parsing) et de la recompilation de l'ISO en manipulant directement les flux hexadécimaux.
+- **Frontend :** [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#) Une interface utilisateur réactive fournissant des retours visuels en temps réel.
+- **Déploiement Automatisé :** L'application est orchestrée via le fichier `start.bat` qui installe de façon autonome les dépendances nécessaires (Node.js et Python).
+
+### Dépendance Externe : CriFsLib
+L'extraction de l'archive principale du jeu (`P2PT_ALL.cpk`, environ 800 Mo) est déléguée à l'exécutable tiers `CriFsLib.GUI.exe` (développé par Sewer56). Ce choix garantit une extraction rapide et sécurisée du système de fichiers propriétaire de CRI Middleware.
 
 ---
 
-## ⚙️ Architecture et Pipeline de Compilation
+## Architecture et Pipeline de Compilation
 
-Le traitement complet de l'ISO s'effectue en 4 grandes étapes orchestrées par l'outil :
+Le traitement automatisé de l'ISO s'articule autour de quatre phases :
 
-1. **Extraction (Unpacking) :**
-   - Extraction de `P2PT_ALL.cpk` depuis l'ISO.
-   - Appel transparent à l'exécutable tiers `CriFsLib.GUI.exe` (par Sewer56) pour unpacker le CPK instantanément.
-   - Décompression LZSS (algorithme propriétaire `CRILAYLA`) des fichiers vitaux comme `event.bin`.
+1. **Extraction :**
+   - Isolement du fichier `P2PT_ALL.cpk` depuis l'ISO originale.
+   - Appel à CriFsLib pour dépaqueter l'archive.
+   - Décompression LZSS (algorithme `CRILAYLA`) des fichiers vitaux tels que `event.bin`.
+   - Découpage séquentiel des scripts (`script_000.bin` à `script_398.bin`).
 2. **Décodage (Parsing) :**
-   - L'API scanne le bytecode propriétaire d'Atlus et isole le texte japonais/anglais.
-   - Génération de fichiers de traduction `.json` structurés et sérialisés.
+   - L'API analyse le bytecode propriétaire d'Atlus et sépare les opcodes du texte original.
+   - Génération de fichiers `.json` clairs et normalisés destinés à la traduction.
 3. **Encodage (Injection) :**
-   - Lecture des traductions françaises depuis les JSON.
-   - L'API **recalcule intégralement les tables de pointeurs absolus** des fichiers modifiés (le français étant plus lourd en octets).
-   - Re-génération des binaires patchés.
+   - Lecture et validation des données JSON traduites.
+   - Application du remappage des accents français vers les ID VRAM.
+   - **Recalcul dynamique des tables de pointeurs absolus** afin d'accommoder les variations de longueur de texte.
+   - Génération des nouveaux fichiers binaires modifiés.
 4. **Rebuild (Compilation ISO) :**
-   - Compression LZSS des nouveaux scripts.
-   - Injection dans le CPK et mise à jour de sa TOC (Table of Contents).
-   - Patch LBA de l'ISO : L'archive a grossi, l'outil déplace intelligemment ses secteurs LBA à la fin de l'ISO 9660.
+   - Recompression LZSS des nouveaux scripts.
+   - Réinjection dans le CPK et actualisation stricte de la TOC (Table Of Contents).
+   - Patch LBA (Logical Block Addressing) de l'ISO 9660 : déplacement des secteurs de l'archive modifiée à la fin de l'image disque.
 
 ---
 
-## 🧠 Gestion Mémoire et Algorithme du Delta
+## Gestion Mémoire et Algorithme du Delta
 
-La plus grande contrainte du moteur est la disparité de gestion de la mémoire entre les fichiers.
+Le moteur de jeu Atlus gère la mémoire différemment selon le type de fichier, imposant des contraintes d'injection spécifiques.
 
 | Fichier | Gestion des Pointeurs | Contrainte Technique Majeure |
 |---------|-----------------------|------------------------------|
-| **`event.bin`** | Table d'Offsets Absolus en Header | Exige la recréation parfaite du Header. Réussi. |
-| **`F_BE.BNP`** | Scanner Séquentiel (Battle Engine) | **Le "Crash Philémon"**. L'ajout d'octets de padding (`00`) fait crasher l'interpréteur de scripts de combat. La solution réside dans l'Algorithme du Delta : tout compacter au bit près et décaler les adresses. |
+| **`event.bin`** | Table d'Offsets Absolus (En-tête) | Le moindre décalage provoque un crash. Le script reconstruit la table entière. |
+| **`F_BE.BNP`** | Scanner Séquentiel (Moteur de Combat) | L'ajout d'octets de padding (remplissage `00`) provoque le "Crash Philémon" (Invalid Memory Access). L'Algorithme du Delta est utilisé pour compacter l'espace binaire de manière séquentielle et sans padding. |
 
 ---
 
-## 🔠 Le Remappage Automatique des Accents
+## Le Remappage Automatique des Accents
 
-L'UTF-8 ou UTF-16 natif n'est pas supporté par le jeu. Atlus utilise un Shift-JIS customisé. 
-Pour introduire les accents français (`é, à, ç...`), nous avons modifié graphiquement la texture de la VRAM en écrasant des caractères asiatiques inutilisés.
+Atlus utilise un encodage Shift-JIS personnalisé. L'UTF-8 standard n'est pas interprété par le jeu.
+Pour permettre l'affichage des caractères français (`é, à, ç, etc.`), des caractères asiatiques inutilisés ont été écrasés graphiquement dans les textures de la police (VRAM) du jeu.
 
-La magie opère dans `src/config.py` via `ACCENT_MAP`. L'encodeur Python va parser la chaîne française du traducteur, intercepter chaque accent, et le remplacer par l'hexadécimal du "faux" caractère japonais correspondant. 
-**Résultat :** Les traducteurs tapent normalement, et le jeu affiche un français irréprochable.
-
----
-
-## 🧬 Opcodes et Bytecode Atlus
-
-L'interpréteur du jeu repose sur des opcodes de contrôle. L'outil les sanitarise sous forme de Tags textuels `[TAG]` :
-
-| Opcode Hex (Little Endian) | Tag Python | Effet Moteur |
-|----------------------------|------------|--------------|
-| `00 22` | `[START]` | Alloue la mémoire pour une nouvelle string. |
-| `11 07` | `[END]` | Vide le buffer d'affichage (Terminateur). |
-| `11 01` | `[NL]` | Force un retour à la ligne strict. |
-| `14 31` | `[ANIM]` | Déclenche un appel de fonction (Visage, Sprite, Script visuel). |
+Le fonctionnement est transparent pour l'utilisateur : le dictionnaire `ACCENT_MAP` défini dans `src/config.py` se charge de la substitution en amont. L'encodeur Python identifie la lettre française dans le JSON et injecte l'hexadécimal du caractère VRAM correspondant dans le fichier final.
 
 ---
 
-## 📂 Structure Modulaire du Code Source
+## Opcodes et Bytecode Atlus
 
-Le backend (`p2is_tool/src/`) est strictement organisé :
-- **`core/iso.py`** : Les algorithmes de manipulation de l'ISO 9660 et du patching LBA.
-- **`core/text.py`** : Le moteur de conversion String ↔ Shift-JIS Atlus et le dictionnaire `ACCENT_MAP`.
-- **`core/compression.py`** : Algorithmique bas niveau pour le LZSS `CRILAYLA`.
-- **`parsers/`** : Les heuristiques de détection de texte (ex: `bin_parser.py`, `fbe_parser.py`).
-- **`encoders/`** : Le nerf de la guerre. Les scripts qui reconstruisent les tables de pointeurs (`bin_encoder.py`).
+Le moteur lit des opcodes de contrôle spécifiques que l'outil de parsing convertit en balises textuelles (`[TAG]`) pour les protéger lors de la traduction :
+
+| Opcode Hex (Little Endian) | Tag Python | Fonction In-Game |
+|----------------------------|------------|------------------|
+| `00 22` | `[START]` | Initialise une nouvelle chaîne de caractères en mémoire. |
+| `11 07` | `[END]` | Termine la chaîne et réinitialise le buffer d'affichage. |
+| `11 01` | `[NL]` | Applique un retour à la ligne. |
+| `12 08` | `[CHOICE]` | Affiche les options d'un menu contextuel. |
+| `14 31` | `[ANIM]` | Déclenche un événement lié à l'animation ou à l'UI (ex. visages). |
+| `02 11` | `[WAIT]` | Instruction de pause (historiquement responsable de crashs si mal positionnée). |
+
+---
+
+## Structure Modulaire du Code Source
+
+Le backend Python localisé dans `p2is_tool/src/` suit une séparation stricte des responsabilités :
+
+- **`core/iso.py`** : Manipulation directe de l'ISO 9660, extraction des secteurs et patching LBA.
+- **`core/text.py`** : Moteur de conversion String ↔ Shift-JIS Atlus et intégration de `ACCENT_MAP`.
+- **`core/compression.py`** : Logique bas niveau des algorithmes de (dé)compression LZSS propriétaire `CRILAYLA`.
+- **`parsers/`** : Scripts spécialisés dans l'heuristique de détection de texte (ex. `bin_parser.py`, `fbe_parser.py`).
+- **`encoders/`** : Logique d'assemblage binaire, de reconstruction des tables de pointeurs et d'application de l'Algorithme du Delta.

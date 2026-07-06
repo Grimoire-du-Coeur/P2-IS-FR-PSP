@@ -12,68 +12,68 @@
 <br/>
 
 > [!CAUTION]
-> **Ce dictionnaire est la référence absolue du projet.** 
-> Afin de garantir une homogénéité parfaite tout au long de cette aventure de 50 heures, tout contributeur est tenu d'employer *exclusivement* ces termes validés par l'équipe de direction.
+> **Ce dictionnaire constitue la référence absolue du projet.** 
+> Afin de garantir une homogénéité linguistique parfaite tout au long du jeu, tout contributeur est tenu d'employer exclusivement ces termes, validés par l'équipe de direction.
 
 > [!TIP]
-> Raccourci `Ctrl+F` recommandé. Si vous traduisez sur le **[Site de Relecture P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/dictionnaire.html)**, ce dictionnaire est nativement intégré à votre espace de travail.
+> Raccourci `Ctrl+F` recommandé pour la navigation. Si vous opérez depuis le **[Site de Relecture P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/dictionnaire.html)**, ce dictionnaire est nativement intégré et vérifié de manière automatisée lors de votre saisie.
 
 ---
 
-## 👥 Groupes, Titres & Lore Principal
+## Groupes, Titres & Lore Principal
 
 | Terme Anglais (Original) | Traduction Française Validée | Remarques & Lore |
 |--------------------------|------------------------------|------------------|
-| **Persona** / **Personas** | Persona / Personae | Invariable au singulier. Pluriel archaïque. |
-| **Shadow** / **Shadowman** | Ombre / Ombre de [X] | Exemple : *Ombre de Maya*. |
-| **Masked circle** | Cercle masquillé | *Attention à l'espace.* |
-| **Masked Circle member** | Membre du Cercle masqué | |
+| **Persona** / **Personas** | Persona / Personae | Invariable au singulier. Pluriel archaïque latin imposé. |
+| **Shadow** / **Shadowman** | Ombre / Ombre de [X] | Exemple de contexte : *Ombre de Maya*. |
+| **Masked circle** | Cercle masqué | |
+| **Masked Circle member** | Membre du Cercle masqué | Budget de caractères strict. |
 | **Cursed star** | Étoile maudite | |
-| **King Leo** | Roi Lion | Titre du Cercle. |
-| **Queen Aquarius** | Reine Verseau | Titre du Cercle. |
-| **Lady Scorpio** | Dame Scorpion | Titre du Cercle. |
-| **Prince Taurus** | Prince Taureau | Titre du Cercle. |
+| **King Leo** | Roi Lion | Titre honorifique du Cercle. |
+| **Queen Aquarius** | Reine Verseau | Titre honorifique du Cercle. |
+| **Lady Scorpio** | Dame Scorpion | Titre honorifique du Cercle. |
+| **Prince Taurus** | Prince Taureau | Titre honorifique du Cercle. |
 | **Idealians** | Idéaliens | |
 | **Fuhrer** | Führer | |
 | **Grand Cross** | Croix Cosmique / Croix | |
-| **Last Batallion** | Bataillon | Raccourci assumé pour coller au budget texte. |
-| **In Lak'ech** | In Lak'ech | Mot inca conservé. |
+| **Last Batallion** | Bataillon | Raccourci assumé en raison des contraintes mémoires du moteur. |
+| **In Lak'ech** | In Lak'ech | Terminologie d'origine inca conservée telle quelle. |
 
 ---
 
-## 🏫 Lieux & Établissements
+## Lieux & Établissements
 
 | Terme Anglais (Original) | Traduction Française Validée | Remarques |
 |--------------------------|------------------------------|-----------|
-| **Cuss high** | Lycée Kasu | "Kasu" est le diminutif de Kasugayama. |
+| **Cuss high** | Lycée Kasu | "Kasu" est l'abréviation de Kasugayama. |
 | **Cuss High student** | Élève de Kasu | |
-| **Seven Sisters High** | Lycée Seven Sisters | Nom propre conservé. |
-| **Sevens** | Seven | Diminutif familier. |
+| **Seven Sisters High** | Lycée Seven Sisters | Dénomination propre conservée intacte. |
+| **Sevens** | Seven | Diminutif d'usage familier. |
 
 ---
 
-## 👤 Personnages Historiques & Titres de Civilité
+## Personnages Historiques & Titres de Civilité
 
 | Terme Anglais (Original) | Traduction Française Validée | Remarques |
 |--------------------------|------------------------------|-----------|
-| **Philemon** | Philémon | Accent obligatoire. |
-| **Demon Painter** | Demon Painter | Pseudo conservé intact en anglais. |
-| **Nameless** | Nameless | Pseudo conservé intact en anglais. |
+| **Philemon** | Philémon | Application obligatoire de l'accentuation. |
+| **Demon Painter** | Demon Painter | Pseudonyme conservé intact en anglais par décision créative. |
+| **Nameless** | Nameless | Pseudonyme conservé intact en anglais par décision créative. |
 | **Maia** / **Mayan** | Maia / Maya | |
 | **Longinus** | Longinus | |
 | **Principal Hanya** | Proviseur Hanya | |
 | **Chief Todoroki** | Chef Todoroki | |
 | **Ms. Ideal** | Mme Idéale | |
 | **The Exalted One** | L'Exaltée | |
-| **Big sis** | Sœurette | Affectif. |
+| **Big sis** | Sœurette | Terminologie d'ordre affectif. |
 
 ---
 
-## 🗣️ Civilités Génériques In-Game
+## Civilités Génériques In-Game
 
-| Terme Anglais | Traduction Française | Application |
-|---------------|----------------------|-------------|
-| **Mr.** | M. | Ne jamais utiliser *Mr.* en français. |
-| **Ms. / Miss** | Mme / Mlle | À adapter selon l'âge estimé du personnage. |
-| **Sailor suited girl** | Lycéenne | Archétype de PNJ. |
-| **Black-masked boy** | Garçon masqué | Archétype de PNJ. |
+| Terme Anglais (Original) | Traduction Française Validée | Application |
+|--------------------------|------------------------------|-------------|
+| **Mr.** | M. | Ne jamais utiliser *Mr.* dans le script français. |
+| **Ms. / Miss** | Mme / Mlle | L'usage dépend de l'âge estimé ou du statut marital du personnage. |
+| **Sailor suited girl** | Lycéenne | Archétype standard de PNJ. |
+| **Black-masked boy** | Garçon masqué | Archétype standard de PNJ. |

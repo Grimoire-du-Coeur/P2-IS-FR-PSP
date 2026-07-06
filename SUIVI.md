@@ -12,13 +12,13 @@
 <br/>
 
 > [!NOTE]
-> Cette page synthétise l'avancement global du projet de traduction. L'histoire principale est achevée, nous sommes dans les finitions et les tests qualité.
+> Cette page documente l'avancement global du projet de traduction. L'histoire principale est achevée, nous nous concentrons actuellement sur la phase d'Assurance Qualité (QA).
 
 ---
 
-## 📊 Graphique d'Avancement Global
+## Graphique d'Avancement Global
 
-Voici la répartition en direct des **406 fichiers scripts** gérant l'intégralité des textes du jeu :
+Voici la répartition des **406 fichiers scripts** gérant l'intégralité des textes du jeu :
 
 ```mermaid
 pie title Progression des 406 Scripts
@@ -28,28 +28,28 @@ pie title Progression des 406 Scripts
 ```
 
 > [!TIP]
-> **Les Scripts Vides (91) :** Ils correspondent à des événements ou des zones du jeu sans dialogue textuel (cinématiques muettes, triggers invisibles, chargements). Ils sont validés de fait.
+> **Les Scripts Vides (91) :** Ils correspondent à des événements, des déclencheurs invisibles ou des chargements ne contenant aucun texte. Ils sont considérés comme terminés d'office.
 
 ---
 
-## 📈 Détails de la Traduction
+## Détails de la Traduction
 
 | Catégorie | Fichiers | Statut Actuel |
 |-----------|:--------:|:-------------:|
-| **Scripts d'Histoire** (`script_000` à `script_396`) | 397 | ✅ **Terminé** |
-| **Scripts de Carte** (`MMAP01` à `06`) | 6 | ✅ **Terminé** |
-| **Boutique de CDs** (`CD_SHOP`) | 1 | ✅ **Terminé** |
-| **Combats & Menus** (`F_BE`) | 1 | ✅ **Terminé** |
-| **Cinématiques narratives** (`TM_EVE`) | 1 | 🔄 **En Cours** |
+| **Scripts d'Histoire** (`script_000` à `script_396`) | 397 | Terminée |
+| **Scripts de Carte** (`MMAP01` à `06`) | 6 | Terminée |
+| **Boutique de CDs** (`CD_SHOP`) | 1 | Terminée |
+| **Combats & Menus** (`F_BE`) | 1 | Terminée |
+| **Cinématiques narratives** (`TM_EVE`) | 1 | En Cours |
 
 > [!IMPORTANT]
-> Le seul fichier nécessitant encore du travail de traduction pure est `TM_EVE`. L'histoire principale est achevée à 100%.
+> Le fichier `TM_EVE` est l'unique script nécessitant encore une intervention de traduction textuelle. La trame principale de l'histoire est achevée à 100 %.
 
 ---
 
-## 🗓️ Phase de Relecture et Lancement
+## Phase de Relecture et Lancement
 
-Le projet est actuellement en pleine phase de vérification In-Game (QA).
+Le projet traverse actuellement la phase critique de vérification In-Game (Assurance Qualité).
 
 ```mermaid
 gantt
