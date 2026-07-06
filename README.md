@@ -217,3 +217,5 @@ Le projet est avant tout collaboratif. Vous pouvez suivre notre actualité, tél
    </picture>
   </a>
 </div>
+
+<!-- updated -->

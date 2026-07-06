@@ -5,9 +5,9 @@
 **Persona 2: Innocent Sin FR (PSP)**
 
   <br />
-  <img src="https://img.shields.io/badge/Statut-En%20Développement-orange?style=for-the-badge" alt="Statut" />
-  <img src="https://img.shields.io/badge/Plateforme-PSP-blue?style=for-the-badge&logo=playstation" alt="Plateforme" />
-  <img src="https://img.shields.io/badge/Langue-Français-green?style=for-the-badge" alt="Langue" />
+  [![Statut](https://img.shields.io/badge/Statut-En_Développement-e3b341?style=for-the-badge)](#)
+  [![Plateforme](https://img.shields.io/badge/Plateforme-PSP-103F91?style=for-the-badge&logo=playstation)](#)
+  [![Langue](https://img.shields.io/badge/Langue-Français-2ea043?style=for-the-badge)](#)
   <br />
   <br />
 
@@ -157,3 +157,5 @@ Un immense merci à tous les joueurs de l'ombre qui parcourent le jeu de fond en
 | *(Votre nom ici très bientôt !)* | - |
 | | |
 | | |
+
+<!-- updated -->
