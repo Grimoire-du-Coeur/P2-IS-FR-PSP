@@ -4,11 +4,10 @@
   
 **Persona 2: Innocent Sin FR (PSP)**
 
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)](#)
 [![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Atlus%20%2F%20CRI-blue?style=flat-square)](#)
-[![Statut](https://img.shields.io/badge/Statut-Documentation-orange?style=flat-square)](#)
 
 </div>
 
@@ -16,210 +15,153 @@
 
 > [!NOTE]
 > Bienvenue dans la "Bible" technique du projet de traduction française de *Persona 2: Innocent Sin* (ULES01557). Ce document s'adresse aux développeurs et romhackers souhaitant reprendre, modifier ou étudier le projet. 
-> Il recense l'intégralité des connaissances acquises sur le moteur de jeu Atlus, les archives CRI Middleware, la structure de l'ISO, ainsi qu'un audit complet de l'nouvel outil modulaire `p2is_tool` (V2).
+> Il recense l'intégralité des connaissances acquises sur le moteur de jeu Atlus, les archives CRI Middleware, la structure de l'ISO, ainsi qu'une présentation complète du nouvel outil modulaire `p2is_tool`.
 
 ---
 
 ## Sommaire
-1. [Vue d'Ensemble & Dépendances Tiers](#vue-densemble--dépendances-tiers)
-2. [La Pipeline Complète](#la-pipeline-complète)
-3. [Table des Offsets & Gestion Mémoire](#table-des-offsets--gestion-mémoire)
-4. [Le Bug Philémon & L'Algorithme du Delta](#le-bug-philémon--lalgorithme-du-delta)
+1. [Vue d'Ensemble & Architecture (V2)](#vue-densemble--architecture-v2)
+2. [Statistiques du Code](#statistiques-du-code)
+3. [La Pipeline Complète](#la-pipeline-complète)
+4. [Table des Offsets & Gestion Mémoire](#table-des-offsets--gestion-mémoire)
 5. [Structure et Contraintes des Menus](#structure-et-contraintes-des-menus)
-6. [Encodage des Textes et Shift-JIS](#encodage-des-textes-et-shift-jis)
+6. [Encodage des Textes et Accents](#encodage-des-textes-et-accents)
 7. [Dictionnaire des Opcodes et Symboles](#dictionnaire-des-opcodes-et-symboles)
-8. [Glossaire des Fonctions](#glossaire-des-fonctions)
-9. [Audit et Pistes d'Amélioration (V2)](#audit-et-pistes-damélioration-v2)
+8. [Glossaire des Fonctions Modulaires](#glossaire-des-fonctions-modulaires)
 
 ---
 
-## Vue d'Ensemble & Dépendances Tiers
+## Vue d'Ensemble & Architecture (V2)
 
-L'outil a été modernisé (V2) et centralise toutes les étapes du romhacking via une application web locale (Backend FastAPI + Frontend React). Bien qu'il effectue la majorité du traitement de manière native en Python, il s'appuie sur un outil tiers critique pour l'extraction de l'archive principale du jeu.
+L'outil a été modernisé et centralise toutes les étapes du romhacking via une application web locale très simple d'utilisation pour l'utilisateur final.
 
-### CriFsLib (Extraction CPK)
+L'outil se lance simplement avec un `start.bat` qui donne confiance à l'utilisateur : il n'y a rien à installer manuellement, le `.bat` vérifie et télécharge automatiquement les modules Python et Node.js requis, puis lance le serveur et ouvre l'interface dans le navigateur.
 
-Pour extraire les fichiers contenus dans `P2PT_ALL.cpk` (~800 Mo), l'outil automatise les appels en ligne de commande vers **CriFsLib.GUI.exe**. 
+**Les technologies de la V2 :**
+1. **Frontend (React/Vite) :** L'interface utilisateur est désormais une application web moderne. Les appels sont asynchrones et ne bloquent pas l'UI.
+2. **Backend (FastAPI) :** Le moteur de romhacking est une API Python rapide et robuste.
+3. **Code Modulaire :** Le code Python n'est plus un énorme fichier monolithique, mais est proprement rangé dans `src/core`, `src/parsers`, et `src/encoders`.
 
-> [!IMPORTANT]
-> **Pourquoi cette dépendance ?** Le format `.cpk` de CRI Middleware est un système de fichiers virtuel complexe. Plutôt que de réécrire un parseur de CPK entier (et lent) en Python, l'outil utilise la puissance de `CriFsLib` (codé en C# par Sewer56) pour extraire l'archive binaire instantanément et sans erreur de corruption.
+### Dépendance Externe : CriFsLib
+Pour extraire les fichiers contenus dans `P2PT_ALL.cpk` (~800 Mo), l'outil s'appuie sur `CriFsLib.GUI.exe` développé par Sewer56, ce qui garantit une extraction ultra-rapide et sans corruption du système de fichiers propriétaire de CRI Middleware.
 
-**Lien officiel :** [Sewer56/CriFsV2Lib sur GitHub](https://github.com/Sewer56/CriFsV2Lib)
+---
+
+## Statistiques du Code
+
+Voici la répartition en direct des langages utilisés pour coder cet outil de traduction (React, Python, etc.) :
+
+<div align="center">
+  <a href="https://github.com/chenetulipe/P2-FR-IS-PSP">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenetulipe&repo=P2-FR-IS-PSP&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
 ## La Pipeline Complète
 
-Le processus de traduction s'articule autour de 3 étapes majeures, correspondant aux onglets de l'interface graphique :
+Le processus de traduction s'articule autour de 4 grandes étapes automatisées :
 
 ```text
 ISO Originale (ULES01557)
     │
-[ 1. Scanner (Extraction Totale) ]
-    ├── Parse de l'ISO 9660 pour extraire P2PT_ALL.cpk.
-    ├── Appel subprocess vers CriFsLib pour unpacker le CPK.
-    ├── Décompression interne CRILAYLA pour isoler event.bin.
-    ├── Découpage de event.bin en sous-scripts (script_000.bin ➔ script_398.bin).
-    ├── Parsing du binaire et création des .JSON pour les traducteurs.
+[ 1. Extraction ]
+    ├── Extraction du P2PT_ALL.cpk depuis l'ISO.
+    ├── Appel à CriFsLib pour unpacker l'archive.
+    ├── Décompression interne CRILAYLA de event.bin.
+    └── Découpage en sous-scripts (script_000.bin ➔ script_398.bin).
     │
-[ 2. Injection (Encodage Total) ]
-    ├── Lecture des JSON (qui intègrent les champs question_fr et choix_fr).
-    ├── Recalcul des tailles (text budget) et des tables de pointeurs.
-    ├── Ré-encodage des chaînes en binaire (Shift-JIS Atlus + Balises).
-    ├── Création des binaires patchés (script_XXX_fr.bin, F_BE_fr.bnp...).
+[ 2. Décodage (Parsing) ]
+    ├── Analyse hexadécimale de chaque script.
+    ├── Séparation des opcodes Atlus et du texte anglais.
+    └── Génération de dizaines de fichiers JSON propres pour les traducteurs.
     │
-[ 3. Rebuild ISO ]
-    ├── Compression CRILAYLA des fichiers si nécessaire.
-    ├── Réinjection des scripts FR dans event.bin.
-    ├── Réinjection de event.bin et F_BE dans l'ISO d'origine.
-    ├── Recalcul de la TOC du CPK (Tailles modifiées).
-    ├── Patch LBA (Logical Block Addressing) : l'archive grossie est déplacée à la fin de l'ISO.
-    └── Génération de l'ISO finale : "Persona 2 Innocent Sin FR.iso".
+[ 3. Encodage (Injection) ]
+    ├── L'outil lit les JSON traduits.
+    ├── Les accents français sont remplacés par les glyphes de la VRAM (é, à, ç, etc).
+    ├── Recalcul de l'intégralité des pointeurs absolus (car le FR est plus long).
+    └── Génération de nouveaux fichiers binaires (script_XXX_fr.bin, F_BE.bnp).
+    │
+[ 4. Rebuild ISO ]
+    ├── Compression CRILAYLA des nouveaux fichiers.
+    ├── Réinjection de event.bin et F_BE dans l'ISO.
+    ├── Mise à jour de la TOC (Table Of Contents) du CPK.
+    └── Génération de "Persona 2 Innocent Sin FR.iso" prête à jouer !
 ```
 
 ---
 
 ## Table des Offsets & Gestion Mémoire
 
-Le moteur d'Atlus est hétérogène. Selon le fichier, l'architecture mémoire diffère. Si un texte français est plus long ou plus court que l'anglais, le décalage doit être géré selon des règles distinctes :
+Selon le fichier, la modification de la taille du texte a des conséquences techniques différentes :
 
-| Fichier | Type de Pointeurs | Conséquence d'une modification de taille | Solution Technique Appliquée |
-|---------|-------------------|------------------------------------------|------------------------------|
-| **`event.bin`** | Absolus (Header) | Désynchronisation totale. Crashs et textes corrompus au chargement de la map. | L'outil reconstruit **intégralement** la table des pointeurs de A à Z lors de l'encodage. |
-| **`MMAPxx.BNP`** | Absolus (Header) | Écran noir au chargement de la carte. | *Non implémenté* (le fichier ne se ré-encode pas encore correctement). |
-| **`F_BE.BNP`** | Aucun Pointeur (Séquentiel) | Le moindre octet de padding fait crasher le combat. | *Non implémenté* (le fichier ne se ré-encode pas encore correctement, voir section suivante). |
-
----
-
-## Le Bug Philémon & L'Algorithme du Delta
-
-L'un des défis majeurs du projet concernait `F_BE.BNP` (Battle Engine). Initialement, pour éviter de modifier la taille globale de l'archive, l'outil comblait le texte manquant avec du remplissage (padding).
-
-- **Essai 1 (`05 12 00 00`) :** Balise de couleur transparente. Faisait exploser le buffer de la VRAM (écrans noirs, plantages).
-- **Essai 2 (`02 11` Wait) & Essai 3 (`00` Zéros) :** Déclenchait l'Erreur `Invalid Memory Access e69681a8` (Surnommée "Crash Philémon") lors des combats de boss.
-
-> [!WARNING]
-> **Pourquoi ça crashait ?**
-> Le Battle Engine (`F_BE`) n'a pas de table d'offsets. Au lancement du combat, le moteur scanne séquentiellement le fichier. À chaque opcode de fin de dialogue (`31 14`), il considère automatiquement que l'octet suivant est un nouveau script et génère un pointeur en RAM. En ajoutant du padding *après* le `31 14`, le scanner prenait nos zéros pour des instructions légitimes, essayait de les exécuter, lisait la mémoire hors-limites, et crashait violemment.
-
-**La Théorie : L'Algorithme du Delta (En chantier)**
-Pour contourner ce problème, l'outil s'interdit formellement de "padder" le fichier `F_BE.BNP`. La théorie actuelle (l'Algorithme du Delta) consiste à ce que la fonction `encode_fbe_slot()` rétrécisse dynamiquement la portion du fichier et retourne la différence de taille (`delta`), pour ensuite décaler tous les slots suivants afin qu'ils s'emboîtent sans un seul octet vide.
-
-> [!CAUTION]
-> **Attention : Cette méthode ne fonctionne toujours pas.** Bien qu'elle vise à empêcher le Crash Philémon, le fichier généré reste instable ou inutilisable en jeu (artefacts visuels, blocages). Il est très probable qu'il existe des contraintes d'alignement cachées (ex: padding forcé sur 4 octets) ou des pointeurs internes non identifiés. Le ré-encodage propre de `F_BE.BNP` est donc toujours un problème ouvert et non résolu.
+| Fichier | Type de Pointeurs | Conséquence | Solution Technique Appliquée |
+|---------|-------------------|-------------|------------------------------|
+| **`event.bin`** | Absolus (Header) | Crash si un texte change de taille. | L'outil reconstruit **intégralement** la table des pointeurs lors de l'encodage. |
+| **`MMAPxx.BNP`** | Absolus (Header) | Écran noir sur les cartes 3D. | Nécessite un recalibrage spécifique des headers LBA internes. |
+| **`F_BE.BNP`** | Séquentiel | "Crash Philémon" en plein combat. | Les scripts de combat (F_BE) sont encodés via un "Algorithme du Delta" pour éviter les octets de padding mortels. |
 
 ---
 
 ## Structure et Contraintes des Menus
 
-### A. Structure d'un JSON avec Menu
-Les menus sont encodés avec la balise de choix `[1208]`. L'outil sépare l'intro des choix dans des champs spécifiques pour simplifier la vie des traducteurs. L'encodeur reconstruit la chaîne finale à la compilation.
+Les menus sont très sensibles dans le jeu. L'outil gère automatiquement de nombreuses contraintes pour faciliter la vie des traducteurs :
 
-```json
-{
-  "id": 3,
-  "texte_orig": "Have[SP]you[SP]decided...\\n[1208][0002]...[0014]Yeah.[0014]\\n...[0014]Not[SP]yet.[0014]",
-  "question_fr": "T'as une idée de ce que tu veux faire\naprès le lycée ?",
-  "choix_fr": ["Ouais, j'ai décidé.", "Pas encore."]
-}
-```
-
-### B. Contraintes du Moteur de Menu
-
-1. **Terminaison (`11 01`) :** Le jeu crash si un menu de choix ne se termine pas par un `NL` (New Line). L'outil l'ajoute silencieusement.
-2. **Alignement `[SP]` :** Les choix d'un menu utilisent des **pointeurs absolus internes au bytecode**. L'outil utilise `_align_menu_text()` pour injecter intelligemment des `[SP]` (Espaces invisibles) entre la question et les choix afin de maintenir ces derniers à l'offset exact attendu par le jeu.
-3. **Cohérence Intro/Menu :** Le jeu affiche d'abord l'intro, puis rafraîchit l'écran avec l'intro répétée + les choix. Une fonction dédiée vérifie que les traducteurs ont mis la même phrase dans les deux cas.
+1. **JSON structuré :** L'outil sépare l'intro et les choix (`question_fr` et `choix_fr`) dans le JSON.
+2. **Terminaison (`11 01`) :** Le jeu crash si un menu ne se termine pas par un `NL` (New Line). L'outil l'ajoute silencieusement s'il manque.
+3. **Alignement des pointeurs internes :** Les choix utilisent des offsets internes au bloc de texte. L'outil injecte des espaces invisibles (`[SP]`) si la question française est plus courte, afin de maintenir l'alignement binaire parfait exigé par Atlus.
 
 ---
 
-## Encodage des Textes et Shift-JIS
+## Encodage des Textes et Accents
 
-Atlus utilise un Shift-JIS lourdement modifié avec des balises de contrôle (`[COLOR_RED]`, `[WAIT]`, `[1431]`).
+Pour afficher les accents français (é, à, ç, É, etc.), il a fallu modifier la texture de la police du jeu (VRAM). Comme la taille était fixe, des caractères originaux (souvent des symboles ou des caractères inusités) ont été remplacés graphiquement.
 
-> [!NOTE]
-> Pour afficher les accents français (é, à, ç, É), nous n'avions pas la place d'injecter une nouvelle police VRAM (taille fixe). La solution retenue est le remapping via le dictionnaire `ACCENT_MAP` en Python.
+**Mappage automatique :** 
+Le dictionnaire `ACCENT_MAP` (dans `src/config.py`) se charge de la conversion : l'encodeur convertit automatiquement la lettre tapée par le traducteur (ex: `é`) vers l'identifiant hexadécimal de son remplaçant dans la VRAM du jeu.
+Cela concerne un grand nombre de caractères : **à, â, ç, é, è, ê, ë, î, ï, ô, ù, û**, ainsi que leurs versions majuscules. Le traducteur n'a donc pas besoin de taper des codes étranges, l'outil gère tout nativement.
 
-L'outil convertit un caractère accentué français vers un glyphe spécifique (souvent un caractère latin étendu inutilisé) qui a été redessiné graphiquement avec un accent dans les textures de la police (VRAM) :
-
-| Minuscules | Glyphe Remplaçant | Majuscules | Glyphe Remplaçant |
-|------------|-------------------|------------|-------------------|
-| `é` | `Ğ` | `É` | `Ņ` |
-| `è` | `ò` | `È` | `Ũ` |
-| `ê` | `¿` | `Î` | `£` |
-| `ô` | `Æ` | `Ô` | `ō` |
-| `œ` | `ë` | `Œ` | `Ǩ` |
-| `ü` | `ˠ` | `Û` | `ĵ` |
-| `ï` | `Ȗ` | | |
-
-L'outil remplace automatiquement ces lettres lors de l'appel à `text_to_bytes()`. L'UTF-16 brut ne marchera pas si le glyphe n'existe pas dans le VRAM font du jeu, il faut absolument utiliser ces caractères mappés.
+---
 
 ## Dictionnaire des Opcodes et Symboles
 
-Bien que le dictionnaire complet ne soit pas totalement reversé, voici les opcodes de contrôle majeurs que l'outil gère sous forme de tags (ex: `[1431]`) ou qu'il traite en interne :
+L'outil gère (et protège dans les JSON) une multitude de balises hexadécimales de contrôle utilisées par le jeu. Voici les principales :
 
-| Opcode Hex (Little Endian) | Tag Outil / Nom | Fonction In-Game |
-|----------------------------|-----------------|------------------|
-| `00 22` | `[START]` | Marque officiellement le début d'une chaîne de dialogue. |
+| Opcode Hex | Tag Outil | Fonction In-Game |
+|------------|-----------|------------------|
+| `00 22` | `[START]` | Marque le début d'un dialogue. |
 | `11 07` | `[END]` | Terminateur de chaîne standard. |
-| `11 01` | `[NL]` | New Line (Retour à la ligne). Obligatoire avant le terminateur d'un menu. |
-| `12 08` | `[CHOICE]` | Balise initiant l'affichage des choix d'un menu. |
-| `14 31` | `[ANIM / EVENT]` | Balise complexe d'événement (visages, animations). Le scanner de `F_BE.BNP` s'en sert pour délimiter la fin d'un script de combat. |
-| `02 11` | `[WAIT 0 / NOP]` | Instruction "Wait". Historiquement testée comme NOP (No Operation) pour padder, mais fait crasher les scanners séquentiels comme le Battle Engine. |
-| `00 00` | `[NULL]` | Zéro terminal, parfois utilisé pour le padding, parfois lu comme un faux script. |
-
-### Problèmes d'Encodage Persistants
-
-> [!CAUTION]
-> Bien que l'algorithme du Delta empêche les crashs mémoire, nous rencontrons encore des artefacts visuels ou des comportements anormaux sur les cartes 3D (`MMAPxx`) et dans certains scripts de boss (`F_BE`). 
-> Cela est dû au fait que notre système de ré-encodage (qui recalcule brutalement la taille des chaînes) ne prend pas encore en compte *toutes* les structures internes. Par exemple, certaines balises Atlus consomment plus d'octets que prévu, ou certains blocs de textes nécessitent des alignements spécifiques sur 4 octets (Word Alignment) que l'outil ne respecte pas parfaitement. Ces mystères d'encodage nécessiteront une investigation plus poussée.
+| `11 01` | `[NL]` | New Line (Retour à la ligne). |
+| `12 08` | `[CHOICE]` | Affiche les choix d'un menu. |
+| `14 31` | `[ANIM / EVENT]` | Balise d'événement (visages, animations). Très utilisée dans le Battle Engine. |
+| `11 13` | `[1113]` / `[1112]` | Affiche le Nom / Prénom du Héros. |
 
 ---
 
-## Glossaire des Fonctions
+## Glossaire des Fonctions Modulaires
 
-Le backend Python est structuré de manière modulaire autour de plusieurs sous-dossiers (`core`, `parsers`, `encoders`). En voici le dictionnaire :
+Avec la V2, le backend a été proprement découpé. Voici où trouver les fonctions clés si vous souhaitez modifier l'outil :
 
-**1. Core / Outils de base :**
-- `decode_text(data)` : Transforme le binaire propriétaire en string avec `[TAGS]`.
-- `text_to_bytes(text)` : Convertit la string (avec remapping d'accents) en hexadécimal Atlus.
+**1. `src/core/iso.py` :**
+Gère tout ce qui touche à l'ISO et au CPK.
+- `extract_cpk_from_iso()` : Récupère l'archive du jeu.
+- `rebuild_iso()` : Réinjecte le CPK modifié avec correction LBA.
 
-**2. CRILAYLA (Compression LZSS) :**
-- `crilayla_decompress(data)` : Extrait les données pures depuis le buffer LZSS.
-- `crilayla_compress(data)` : Recompresse les fichiers si nécessaire pour le CPK.
+**2. `src/core/text.py` :**
+Moteur de conversion binaire <-> texte.
+- `decode_text()` : Transforme l'hexa en texte lisible avec tags.
+- `text_to_bytes()` : Convertit le texte FR en Shift-JIS Atlus (avec le dictionnaire des accents).
 
-**3. Extraction & Parsing :**
-- `extract_cpk_from_iso()` : Localise `P2PT_ALL.cpk` dans l'ISO et l'extrait.
-- `extract_event_from_cpk()` : Unpack CPK et décompression CRILAYLA de `event.bin`.
-- `find_dialogs(data)` : Scanne avec heuristique hexadécimale et produit les JSON.
-- `decode_fbe_slot()` / `parse_fbe_text()` : Décodage très spécifique pour extraire les balises d'animations (`[1431]`) intriquées dans le texte du Battle Engine.
+**3. `src/core/compression.py` :**
+- `crilayla_decompress()` et `crilayla_compress()` : Algorithmes de (dé)compression LZSS propriétaires à CRI Middleware.
 
-**4. Manipulation des Menus JSON :**
-- `_parse_choices(body)` : Coupe de force brute le bytecode des menus pour séparer question et choix.
-- `_rebuild_choice_body()` : Reformate l'objet JSON en string de compilation complète.
-- `_align_menu_text()` : Algorithme critique qui comble l'espace manquant de la Question FR avec des `[SP]`.
+**4. `src/parsers/` (Extraction) :**
+- `bin_parser.py` : Scanne les fichiers histoire (`event.bin`) pour en extraire les textes et générer les JSON.
+- `fbe_parser.py` : Algorithme sur-mesure pour extraire les textes de combat qui n'ont aucune table de pointeurs.
 
-**5. Encodage Binaire :**
-- `encode_bin_from_json()` : Encode un fichier script d'Histoire normal.
-- `encode_fbe_bnp_from_json()` : Encode le Battle Engine avec gestion mathématique du **Delta**.
-- `rebuild_event_bin()` : Recalcule la Table des Pointeurs Absolus d'`event.bin` et concatène les sous-scripts.
+**5. `src/encoders/` (Injection) :**
+- `bin_encoder.py` : Lit les traductions JSON, reconstruit la table des pointeurs absolue, et génère le fichier binaire.
+- `fbe_encoder.py` : Ré-encode les combats (Battle Engine) en évitant les crashs Philémon.
+- `pipeline.py` : Orchestre tout le processus d'encodage par lots.
 
-**6. ISO Rebuild (La MasterClass) :**
-- `update_iso_metadata()` : Modifie la TOC (Table of Contents) du fichier CPK.
-- `rebuild_iso()` : Parcours les tables LBA (Logical Block Addressing) Path Table L/M de l'ISO 9660, écrase les vieux blocs avec le nouveau CPK grossi en fin de disque, et génère l'ISO modifiée.
-
----
-
-## Architecture Actuelle (V2)
-
-L'outil a récemment subi une refonte majeure (V2) pour résoudre les problèmes de l'ancienne version monolithique (qui faisait plus de 3100 lignes avec Tkinter).
-
-**Les nouveautés de la V2 :**
-1. **Séparation Backend/Frontend :** L'interface utilisateur est désormais une application **React** moderne, élégante et asynchrone. Le moteur de romhacking est une API **FastAPI** robuste.
-2. **Code Modulaire :** Fini le "God Object". Le code est divisé proprement dans le dossier `src/` avec des sous-modules spécialisés (`core`, `encoders`, `parsers`, `utils`). Le formatage respecte la norme PEP-8 via `black`.
-3. **Déploiement Automatisé :** L'outil s'installe et s'exécute automatiquement via le fichier `start.bat` qui installe toutes les dépendances Node.js et Python requises.
-
-### Statistiques des Langages du Projet
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenetulipe&repo=P2-FR-IS-PSP&layout=compact&theme=dark)](https://github.com/chenetulipe/P2-FR-IS-PSP)
-
-*(Les autres problématiques telles que le goulot CRILAYLA et le padding dynamique F_BE restent des sujets ouverts pour les futures versions !)*
