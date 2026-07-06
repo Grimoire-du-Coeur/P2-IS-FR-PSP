@@ -5,6 +5,8 @@
 **Persona 2: Innocent Sin FR (PSP)**
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
 [![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Atlus%20%2F%20CRI-blue?style=flat-square)](#)
 [![Statut](https://img.shields.io/badge/Statut-Documentation-orange?style=flat-square)](#)
 
@@ -14,7 +16,7 @@
 
 > [!NOTE]
 > Bienvenue dans la "Bible" technique du projet de traduction française de *Persona 2: Innocent Sin* (ULES01557). Ce document s'adresse aux développeurs et romhackers souhaitant reprendre, modifier ou étudier le projet. 
-> Il recense l'intégralité des connaissances acquises sur le moteur de jeu Atlus, les archives CRI Middleware, la structure de l'ISO, ainsi qu'un audit complet de l'outil `p2is_fr_tool.py`.
+> Il recense l'intégralité des connaissances acquises sur le moteur de jeu Atlus, les archives CRI Middleware, la structure de l'ISO, ainsi qu'un audit complet de l'nouvel outil modulaire `p2is_tool` (V2).
 
 ---
 
@@ -33,7 +35,7 @@
 
 ## Vue d'Ensemble & Dépendances Tiers
 
-L'outil centralise toutes les étapes du romhacking via une interface graphique (Tkinter). Bien qu'il effectue la majorité du traitement de manière native (in-memory en Python), il s'appuie sur un outil tiers critique pour l'extraction de l'archive principale du jeu.
+L'outil a été modernisé (V2) et centralise toutes les étapes du romhacking via une application web locale (Backend FastAPI + Frontend React). Bien qu'il effectue la majorité du traitement de manière native en Python, il s'appuie sur un outil tiers critique pour l'extraction de l'archive principale du jeu.
 
 ### CriFsLib (Extraction CPK)
 
@@ -175,7 +177,7 @@ Bien que le dictionnaire complet ne soit pas totalement reversé, voici les opco
 
 ## Glossaire des Fonctions
 
-L'outil actuel regroupe des dizaines de fonctions dans un unique fichier `p2is_fr_tool.py`. En voici le dictionnaire :
+Le backend Python est structuré de manière modulaire autour de plusieurs sous-dossiers (`core`, `parsers`, `encoders`). En voici le dictionnaire :
 
 **1. Core / Outils de base :**
 - `decode_text(data)` : Transforme le binaire propriétaire en string avec `[TAGS]`.
@@ -207,11 +209,17 @@ L'outil actuel regroupe des dizaines de fonctions dans un unique fichier `p2is_f
 
 ---
 
-## Audit et Pistes d'Amélioration (V2)
+## Architecture Actuelle (V2)
 
-Si l'outil doit être repris ou amélioré, plusieurs défauts d'architecture sont à corriger :
+L'outil a récemment subi une refonte majeure (V2) pour résoudre les problèmes de l'ancienne version monolithique (qui faisait plus de 3100 lignes avec Tkinter).
 
-1. **Architecture Monolithique (God Object) :** Le script de 3100 lignes contient le GUI (Tkinter), la compression binaire, la table LBA, et le traducteur. Le code doit être modularisé (`gui.py`, `iso_builder.py`, `text_engine.py`, `crilayla.py`).
-2. **Goulot d'étranglement CRILAYLA :** La décompression LZSS en pur Python prend de précieuses secondes et fait figer le GUI. Une extension C (`ctypes` / `cffi`) ou Cython devrait être implémentée pour la méthode `crilayla_decompress`.
-3. **Modifications In-Place & RAM (`bytearray`) :** Manipuler un `P2PT_ALL.cpk` de 800 Mo sous forme de `bytearray` et y insérer/supprimer des données provoque des décalages mémoires massifs (ralentissements). Utiliser `io.BytesIO` ou traiter le fichier par chunks est obligatoire pour une V2 propre.
-4. **Troncature "Tag-Aware" :** Actuellement, si le texte FR déborde du budget strict d'un slot binaire non extensible, le script le tronque aveuglément via un slice Python (`t_bytes = text_to_bytes(t_fr[:budget//2])`). Cela peut couper une chaîne au milieu d'une balise Atlus `[COLOR_RED]` et faire crasher le moteur. L'encodeur doit devenir conscient des balises ("Tag-Aware").
+**Les nouveautés de la V2 :**
+1. **Séparation Backend/Frontend :** L'interface utilisateur est désormais une application **React** moderne, élégante et asynchrone. Le moteur de romhacking est une API **FastAPI** robuste.
+2. **Code Modulaire :** Fini le "God Object". Le code est divisé proprement dans le dossier `src/` avec des sous-modules spécialisés (`core`, `encoders`, `parsers`, `utils`). Le formatage respecte la norme PEP-8 via `black`.
+3. **Déploiement Automatisé :** L'outil s'installe et s'exécute automatiquement via le fichier `start.bat` qui installe toutes les dépendances Node.js et Python requises.
+
+### Statistiques des Langages du Projet
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenetulipe&repo=P2-FR-IS-PSP&layout=compact&theme=dark)](https://github.com/chenetulipe/P2-FR-IS-PSP)
+
+*(Les autres problématiques telles que le goulot CRILAYLA et le padding dynamique F_BE restent des sujets ouverts pour les futures versions !)*

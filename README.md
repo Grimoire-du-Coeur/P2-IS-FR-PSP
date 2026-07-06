@@ -6,6 +6,8 @@
 
 [![Plateforme](https://img.shields.io/badge/Plateforme-PlayStation%20Portable-blue?style=flat-square&logo=playstation)](https://fr.wikipedia.org/wiki/PlayStation_Portable)
 [![Langage](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)](#)
+[![Langage](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
+[![Langage](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
 [![Statut](https://img.shields.io/badge/Statut-En%20D%C3%A9veloppement-orange?style=flat-square)](#)
 [![Dernier Commit](https://img.shields.io/github/last-commit/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=green)](https://github.com/chenetulipe/P2-FR-IS-PSP/commits/main)
 [![Issues](https://img.shields.io/github/issues/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=red)](https://github.com/chenetulipe/P2-FR-IS-PSP/issues)
