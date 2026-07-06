@@ -4,8 +4,10 @@
   
 **Persona 2: Innocent Sin FR (PSP)**
 
-[![Statut](https://img.shields.io/badge/Statut-Glossaire%20Validé-brightgreen?style=flat-square)](#)
-[![Rôle](https://img.shields.io/badge/Rôle-Référentiel%20Strict-red?style=flat-square)](#)
+<br/>
+
+[![Statut](https://img.shields.io/badge/Statut-Glossaire_Validé-2ea043?style=for-the-badge)](#)
+[![Rôle](https://img.shields.io/badge/Rôle-Référentiel_Strict-d73a49?style=for-the-badge)](#)
 
 </div>
 
@@ -13,17 +15,19 @@
 
 > [!CAUTION]
 > **Ce dictionnaire constitue la référence absolue du projet.** 
-> Afin de garantir une homogénéité linguistique parfaite tout au long du jeu, tout contributeur est tenu d'employer exclusivement ces termes, validés par l'équipe de direction.
+> Afin de garantir une homogénéité linguistique parfaite tout au long du jeu, tout contributeur est tenu d'employer exclusivement ces termes, rigoureusement validés par l'équipe de direction.
 
 > [!TIP]
 > Raccourci `Ctrl+F` recommandé pour la navigation. Si vous opérez depuis le **[Site de Relecture P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/dictionnaire.html)**, ce dictionnaire est nativement intégré et vérifié de manière automatisée lors de votre saisie.
+
+<br/>
 
 ---
 
 ## Groupes, Titres & Lore Principal
 
 | Terme Anglais (Original) | Traduction Française Validée | Remarques & Lore |
-|--------------------------|------------------------------|------------------|
+|:---|:---|:---|
 | **Persona** / **Personas** | Persona / Personae | Invariable au singulier. Pluriel archaïque latin imposé. |
 | **Shadow** / **Shadowman** | Ombre / Ombre de [X] | Exemple de contexte : *Ombre de Maya*. |
 | **Masked circle** | Cercle masqué | |
@@ -39,23 +43,27 @@
 | **Last Batallion** | Bataillon | Raccourci assumé en raison des contraintes mémoires du moteur. |
 | **In Lak'ech** | In Lak'ech | Terminologie d'origine inca conservée telle quelle. |
 
+<br/>
+
 ---
 
 ## Lieux & Établissements
 
 | Terme Anglais (Original) | Traduction Française Validée | Remarques |
-|--------------------------|------------------------------|-----------|
+|:---|:---|:---|
 | **Cuss high** | Lycée Kasu | "Kasu" est l'abréviation de Kasugayama. |
 | **Cuss High student** | Élève de Kasu | |
 | **Seven Sisters High** | Lycée Seven Sisters | Dénomination propre conservée intacte. |
 | **Sevens** | Seven | Diminutif d'usage familier. |
+
+<br/>
 
 ---
 
 ## Personnages Historiques & Titres de Civilité
 
 | Terme Anglais (Original) | Traduction Française Validée | Remarques |
-|--------------------------|------------------------------|-----------|
+|:---|:---|:---|
 | **Philemon** | Philémon | Application obligatoire de l'accentuation. |
 | **Demon Painter** | Demon Painter | Pseudonyme conservé intact en anglais par décision créative. |
 | **Nameless** | Nameless | Pseudonyme conservé intact en anglais par décision créative. |
@@ -67,12 +75,14 @@
 | **The Exalted One** | L'Exaltée | |
 | **Big sis** | Sœurette | Terminologie d'ordre affectif. |
 
+<br/>
+
 ---
 
 ## Civilités Génériques In-Game
 
 | Terme Anglais (Original) | Traduction Française Validée | Application |
-|--------------------------|------------------------------|-------------|
+|:---|:---|:---|
 | **Mr.** | M. | Ne jamais utiliser *Mr.* dans le script français. |
 | **Ms. / Miss** | Mme / Mlle | L'usage dépend de l'âge estimé ou du statut marital du personnage. |
 | **Sailor suited girl** | Lycéenne | Archétype standard de PNJ. |
