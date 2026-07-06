@@ -138,3 +138,5 @@ Le backend Python localisé dans `p2is_tool/src/` suit une séparation stricte d
 * ✦ **`core/compression.py`** : Logique bas niveau des algorithmes de décompression LZSS propriétaire `CRILAYLA`.
 * ✦ **`parsers/`** : Scripts spécialisés dans l'heuristique de détection de texte (ex. `bin_parser.py`).
 * ✦ **`encoders/`** : Logique d'assemblage binaire, de reconstruction des tables de pointeurs et d'application de l'Algorithme du Delta.
+
+<!-- updated -->

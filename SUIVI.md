@@ -80,3 +80,5 @@ gantt
     section Sortie
     Lancement Version BÊTA Publique   :milestone, 2026-07-10, 0d
 ```
+
+<!-- updated -->

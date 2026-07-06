@@ -87,3 +87,5 @@
 | **Ms. / Miss** | Mme / Mlle | L'usage dépend de l'âge estimé ou du statut marital du personnage. |
 | **Sailor suited girl** | Lycéenne | Archétype standard de PNJ. |
 | **Black-masked boy** | Garçon masqué | Archétype standard de PNJ. |
+
+<!-- updated -->

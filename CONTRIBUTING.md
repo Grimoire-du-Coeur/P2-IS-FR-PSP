@@ -102,3 +102,5 @@ Certains codes entre crochets ont un rôle technique dicté par le moteur du jeu
 
 > [!CAUTION]
 > **Codes structurels critiques :** Si un dialogue original contient des balises de contrôle de type `[NULL]`, `[1431]`, ou `[START]`, celles-ci doivent impérativement rester à leur position initiale. Elles régissent l'architecture de la mémoire.
+
+<!-- updated -->
