@@ -7,7 +7,7 @@
 <br/>
 
 [![Plateforme](https://img.shields.io/badge/PlayStation_Portable-103F91?style=for-the-badge&logo=playstation&logoColor=white)](https://fr.wikipedia.org/wiki/PlayStation_Portable)
-[![Statut](https://img.shields.io/badge/Statut-BÊTA_10_JUILLET-6b21a8?style=for-the-badge)](#)
+[![Statut](https://img.shields.io/badge/Statut-B%C3%8ATA_10_JUILLET-6b21a8?style=for-the-badge)](#)
 [![Site Officiel](https://img.shields.io/badge/Site_Web-personagrimoireducoeur.fr-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://personalegrimoireducoeur.fr/)
 
 <br/>
@@ -70,8 +70,8 @@ Voici l'état actuel de la traduction. Pour des statistiques plus détaillées (
 
 | Contenu du Jeu | Progression | Statut |
 |:---|:---:|:---:|
-| **Scripts (Dialogues Histoire)** | 100% | [![Terminé](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square)](#) |
-| **Police d'écriture (Accents FR)** | 100% | [![Terminé](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square)](#) |
+| **Scripts (Dialogues Histoire)** | 100% | [![Terminé](https://img.shields.io/badge/-Termin%C3%A9-2ea043?style=flat-square)](#) |
+| **Police d'écriture (Accents FR)** | 100% | [![Terminé](https://img.shields.io/badge/-Termin%C3%A9-2ea043?style=flat-square)](#) |
 | **Scripts (Boutiques, Carte)** | 8/9 | [![En cours](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square)](#) |
 | **Textures HD** | 35/42 | [![En cours](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square)](#) |
 | **Autres éléments (Menus)** | ~ | [![En cours](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square)](#) |
