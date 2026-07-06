@@ -1,19 +1,20 @@
 <div align="center">
   
-# Persona 2: Innocent Sin FR (PSP)
+# Persona 2: Innocent Sin FR
   
-**Projet de traduction française amateur de Persona 2: Innocent Sin sur PSP (ULES01557)**
+**Le patch de traduction française intégral (PSP - ULES01557)**
 
-[![Plateforme](https://img.shields.io/badge/Plateforme-PlayStation%20Portable-blue?style=flat-square&logo=playstation)](https://fr.wikipedia.org/wiki/PlayStation_Portable)
-[![Langage](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)](#)
-[![Langage](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
-[![Langage](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](#)
-[![Statut](https://img.shields.io/badge/Statut-En%20Développement-orange?style=flat-square)](#)
 <br/>
-[![Dernier Commit](https://img.shields.io/github/last-commit/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=green)](https://github.com/chenetulipe/P2-FR-IS-PSP/commits/main)
-[![Issues](https://img.shields.io/github/issues/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=red)](https://github.com/chenetulipe/P2-FR-IS-PSP/issues)
-[![Stars](https://img.shields.io/github/stars/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=gold)](https://github.com/chenetulipe/P2-FR-IS-PSP/stargazers)
-[![Licence](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Plateforme](https://img.shields.io/badge/PlayStation_Portable-103F91?style=for-the-badge&logo=playstation&logoColor=white)](https://fr.wikipedia.org/wiki/PlayStation_Portable)
+[![Statut](https://img.shields.io/badge/Statut-BÊTA_10_JUILLET-6b21a8?style=for-the-badge)](#)
+[![Site Officiel](https://img.shields.io/badge/Site_Web-personagrimoireducoeur.fr-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://personalegrimoireducoeur.fr/)
+
+<br/>
+
+[![Dernier Commit](https://img.shields.io/github/last-commit/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=2ea043)](https://github.com/chenetulipe/P2-FR-IS-PSP/commits/main)
+[![Issues](https://img.shields.io/github/issues/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=d73a49)](https://github.com/chenetulipe/P2-FR-IS-PSP/issues)
+[![Stars](https://img.shields.io/github/stars/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=e3b341)](https://github.com/chenetulipe/P2-FR-IS-PSP/stargazers)
 [![Discord](https://img.shields.io/discord/1400909421609095323?color=5865F2&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/rd4ckSWHNm)
 
 </div>
@@ -21,9 +22,12 @@
 <br/>
 
 > [!WARNING]
-> Ce projet ne distribue aucun fichier du jeu. Vous devez posséder votre propre image disque (ISO) extraite de votre UMD original. La version supportée est **Persona 2: Innocent Sin - PSP Europe (ULES01557)**.
+> **Clause de Tolérance Zéro**<br/>
+> Ce projet ne distribue **aucun fichier original du jeu ni ROM piratée**. Vous devez extraire légalement votre propre image disque (ISO) depuis votre UMD original. Ce patch est conçu **exclusivement** pour la version Europe (ULES01557). L'équipe ne peut être tenue responsable d'éventuels dommages liés à son utilisation.
 
-Ce dépôt centralise l'intégralité du projet : le patch de traduction, les outils de romhacking développés sur-mesure pour extraire et réinjecter les scripts, ainsi que toute la documentation technique relative au moteur du jeu.
+<br/>
+
+Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable, les outils de romhacking développés sur-mesure pour ce moteur, ainsi que la documentation technique complète du jeu.
 
 ---
 
@@ -31,13 +35,14 @@ Ce dépôt centralise l'intégralité du projet : le patch de traduction, les ou
 1. [Aperçu du Projet](#aperçu-du-projet)
 2. [État d'Avancement](#état-davancement)
 3. [Installation et Utilisation](#installation-et-utilisation)
-4. [L'Outil de Romhacking (p2is_tool)](#loutil-de-romhacking-p2is_tool)
+4. [L'Outil de Romhacking](#loutil-de-romhacking-p2is_tool)
 5. [Compatibilité Pack HD](#compatibilité-pack-hd)
 6. [Foire Aux Questions (FAQ)](#foire-aux-questions-faq)
-7. [Clause de Non-Responsabilité](#clause-de-non-responsabilité)
-8. [Documentation du Projet](#documentation-du-projet)
-9. [Contact et Communauté](#contact-et-communauté)
-10. [Licence et Crédits](#licence-et-crédits)
+7. [Documentation du Projet](#documentation-du-projet)
+8. [Communauté et Liens](#communauté-et-liens)
+9. [Licence et Crédits](#licence-et-crédits)
+
+<br/>
 
 ---
 
@@ -45,53 +50,90 @@ Ce dépôt centralise l'intégralité du projet : le patch de traduction, les ou
 
 <div align="center">
   <a href="https://youtu.be/rGHRMPw-bbo?si=vIguQ4_gXU1r-yoH">
-    <img src="https://img.youtube.com/vi/rGHRMPw-bbo/maxresdefault.jpg" alt="Vidéo de gameplay" width="800"/>
+    <img src="https://img.youtube.com/vi/rGHRMPw-bbo/maxresdefault.jpg" alt="Vidéo de gameplay" width="650" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   </a>
-  <p><i>Cliquez sur l'image pour voir un aperçu du jeu en français sur YouTube.</i></p>
+  <br/><br/>
+  <i>Cliquez sur l'image pour visionner un aperçu du jeu en français.</i>
 </div>
+
+<br/>
+
+---
 
 ## État d'Avancement
 
 Voici l'état actuel de la traduction. Pour des statistiques plus détaillées (graphiques et progression fichier par fichier), veuillez consulter le tableau de bord officiel : **[SUIVI.md](./SUIVI.md)**.
 
-| Contenu | Progression | Statut |
-|---------|:-----------:|:------:|
-| **Scripts (Dialogues Histoire)** | 100% | [![Terminé](https://img.shields.io/badge/-Terminé-success?style=flat-square)](#) |
-| **Scripts (Boutiques, Carte)** | 8/9 | [![En cours](https://img.shields.io/badge/-En%20cours-blue?style=flat-square)](#) |
-| **Police d'écriture (Accents FR)** | 100% | [![Terminé](https://img.shields.io/badge/-Terminé-success?style=flat-square)](#) |
-| **Textures HD** | 35/42 | [![En cours](https://img.shields.io/badge/-En%20cours-blue?style=flat-square)](#) |
-| **Autres éléments (Menus)** | ~ | [![En cours](https://img.shields.io/badge/-En%20cours-blue?style=flat-square)](#) |
+<br/>
+
+<div align="center">
+
+| Contenu du Jeu | Progression | Statut |
+|:---|:---:|:---:|
+| **Scripts (Dialogues Histoire)** | 100% | [![Terminé](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square)](#) |
+| **Police d'écriture (Accents FR)** | 100% | [![Terminé](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square)](#) |
+| **Scripts (Boutiques, Carte)** | 8/9 | [![En cours](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square)](#) |
+| **Textures HD** | 35/42 | [![En cours](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square)](#) |
+| **Autres éléments (Menus)** | ~ | [![En cours](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square)](#) |
+
+</div>
+
+<br/>
+
+---
 
 ## Installation et Utilisation
 
-Le projet est actuellement en développement. Une première version **BÊTA** sera mise en ligne le **10 juillet**. Cette version sera jouable du début à la fin. L'objectif principal de cette bêta est de recueillir vos retours pour affiner la version finale 1.0.
+Le projet est actuellement en développement très avancé. Une première version **BÊTA** publique sera mise en ligne le **10 juillet**. 
+
+Cette version sera jouable du début à la fin. L'objectif principal de cette bêta est de recueillir vos retours pour affiner la version finale 1.0.
 
 > [!NOTE]
-> **Procédure d'installation :**
+> **Procédure d'installation (à la sortie du patch) :**
+> 
 > 1. Téléchargez le patch au format `.xdelta` depuis la section [Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases).
-> 2. Appliquez le patch sur votre ISO originale (version Europe ULES01557) à l'aide d'un outil tel que DeltaPatcher ou xdelta UI.
-> 3. Lancez l'ISO modifiée sur votre console PSP (équipée d'un Custom Firmware) ou sur un émulateur tel que PPSSPP.
+> 2. Appliquez le patch sur votre ISO originale (`ULES01557`) à l'aide d'un outil tel que **DeltaPatcher** ou **xdelta UI**.
+> 3. Lancez l'ISO modifiée sur votre console PSP (équipée d'un Custom Firmware) ou sur l'émulateur **PPSSPP**.
+
+<br/>
+
+---
 
 ## L'Outil de Romhacking (p2is_tool)
 
-Le dossier `p2is_tool/` contient le code source de l'application de romhacking créée spécifiquement pour traduire Persona 2.
-Construit sur une architecture moderne (Backend FastAPI et Frontend React), l'outil s'installe et se lance automatiquement via le fichier `start.bat`.
+Le dossier `p2is_tool/` contient le code source de l'application de romhacking créée spécifiquement pour traduire Persona 2. 
+
+Construit sur une architecture moderne, l'outil s'installe et se lance automatiquement via le fichier `start.bat`.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langage-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+</div>
+
+<br/>
+
+---
 
 ## Compatibilité Pack HD
 
 Ce projet supporte officiellement le mod **HD UI for Persona 2 - Innocent Sin**. L'auteur nous a autorisé à le modifier. Conformément à notre accord, nous ne distribuons qu'un patch contenant les textures françaises modifiées.
 
 <details>
-<summary><b>► Voir la procédure d'installation du pack HD</b></summary>
+<summary><b>► Afficher la procédure d'installation du pack HD</b></summary>
 <br>
 
 1. Téléchargez le pack HD original : [HD UI on GameBanana](https://gamebanana.com/mods/308752).
 2. Installez-le dans le dossier de textures de votre émulateur PPSSPP.
 3. Appliquez notre patch de textures FR par-dessus les fichiers du pack HD original.
 
-*Un immense merci à [@racawr](https://gamebanana.com/members/1865032) pour son travail et son aimable autorisation.*
+*Un immense merci à [@racawr](https://gamebanana.com/members/1865032) pour son travail fantastique et son aimable autorisation.*
 
 </details>
+
+<br/>
+
+---
 
 ## Foire Aux Questions (FAQ)
 
@@ -104,9 +146,9 @@ Oui. Une vidéo explicative détaillée sortira sur la chaîne YouTube de <a hre
 <details>
 <summary><b>► Comment puis-je aider à la relecture du jeu ?</b></summary>
 <br>
-La phase de relecture est ouverte pour traquer les fautes, harmoniser les noms et améliorer les tournures de phrases. Un outil dédié a été développé par <a href="https://github.com/HamzaKarrouchi">Hamza</a> : <a href="https://hamzakarrouchi.github.io/p2is-relecture/">Site de relecture</a>. 
+La phase de relecture est ouverte pour traquer les fautes, harmoniser les noms et améliorer les tournures de phrases. Un outil dédié a été développé par <a href="https://github.com/HamzaKarrouchi">Hamza</a> : <a href="https://hamzakarrouchi.github.io/p2is-relecture/">Site de relecture en ligne</a>. 
 <br><br>
-Vous pouvez y comparer le texte original avec la traduction (en respectant la limite d'octets de chaque ligne) et utiliser le <a href="https://hamzakarrouchi.github.io/p2is-relecture/dictionnaire.html">Dictionnaire de traduction</a> pour assurer la cohérence. Une fois vos modifications effectuées, générez vos propositions depuis le site et postez-les dans le salon Discord <code>scripts</code> (ou via une Pull Request sur GitHub).
+Vous pouvez y comparer le texte original avec la traduction et utiliser le Dictionnaire pour assurer la cohérence. Une fois vos modifications effectuées, postez-les dans le salon Discord <code>scripts</code> (ou via une Pull Request sur GitHub).
 </details>
 
 <details>
@@ -114,48 +156,57 @@ Vous pouvez y comparer le texte original avec la traduction (en respectant la li
 <br>
 Les 398 scripts de l'histoire principale (event.bin) sont 100 % traduits. La version BÊTA prévue pour le 10 juillet sera donc jouable du début à la fin avec l'histoire intégralement en français.
 <br><br>
-Si nous parvenons à résoudre les problèmes techniques d'ici là, les dialogues sur la carte 3D (MMAP) et les lignes de combat (F_BE) seront également inclus. Dans le cas contraire, la bêta ne contiendra que le fichier event.bin. Toutefois, puisqu'il s'agit d'une version de test, elle pourra encore contenir des fautes de traduction, quelques textes annexes en anglais ou de potentiels crashs. L'objectif de cette bêta est de récolter vos retours pour finaliser la version 1.0.
+Si nous parvenons à résoudre certaines contraintes techniques du moteur Atlus d'ici là, les dialogues sur la carte 3D (MMAP) et les lignes de combat (F_BE) seront également inclus. Dans le cas contraire, la bêta ne contiendra que l'histoire.
 </details>
 
-## Clause de Non-Responsabilité
+<br/>
 
-> [!CAUTION]
-> Ce patch de traduction est fourni en l'état, sans aucune garantie quant à son bon fonctionnement, sa stabilité ou sa compatibilité avec toutes les configurations.
-
-L'équipe du projet ne peut en aucun cas être tenue responsable des éventuels dommages (perte ou corruption de sauvegardes, plantages, ralentissements, instabilité de la console ou de l'émulateur). Il est impératif de conserver une copie de sauvegarde de votre ISO d'origine ainsi que de vos fichiers de sauvegarde avant toute manipulation.
-
-En téléchargeant et en utilisant ce patch, vous acceptez pleinement cette clause.
+---
 
 ## Documentation du Projet
 
-Afin d'assurer la transparence et la pérennité du projet, la documentation complète a été structurée en plusieurs fichiers thématiques :
+Afin d'assurer la transparence et la pérennité du projet, la documentation technique et organisationnelle a été structurée en plusieurs documents de référence :
 
-* [![Doc](https://img.shields.io/badge/Doc-DEVELOPER.md-3670A0?style=flat-square)](./DEVELOPER.md) : L'architecture technique, le reverse-engineering du jeu et le fonctionnement de l'outil de compilation.
-* [![Doc](https://img.shields.io/badge/Doc-CONTRIBUTING.md-3670A0?style=flat-square)](./CONTRIBUTING.md) : Le guide pour rejoindre l'équipe de traduction et utiliser le site de relecture.
-* [![Doc](https://img.shields.io/badge/Doc-Dictionnaire.md-3670A0?style=flat-square)](./Dictionnaire.md) : Le glossaire officiel pour garantir la cohérence absolue des termes du jeu.
-* [![Doc](https://img.shields.io/badge/Doc-SUIVI.md-3670A0?style=flat-square)](./SUIVI.md) : Le tableau de bord et les statistiques détaillées de l'avancement.
-* [![Doc](https://img.shields.io/badge/Doc-CREDITS.md-3670A0?style=flat-square)](./CREDITS.md) : L'équipe principale, le classement des contributeurs et les remerciements.
+* **[DEVELOPER.md](./DEVELOPER.md)** : Architecture technique, reverse-engineering du jeu et fonctionnement du compilateur.
+* **[CONTRIBUTING.md](./CONTRIBUTING.md)** : Guide pour rejoindre l'équipe de traduction et utiliser l'interface de relecture.
+* **[Dictionnaire.md](./Dictionnaire.md)** : Le glossaire officiel pour garantir la cohérence absolue des termes du jeu.
+* **[SUIVI.md](./SUIVI.md)** : Tableau de bord et statistiques détaillées de l'avancement.
+* **[CREDITS.md](./CREDITS.md)** : Équipe principale, classement des contributeurs et remerciements.
 
-## Contact et Communauté
+<br/>
 
-Besoin d'aide ou envie de participer ? Vous pouvez nous contacter via ces canaux :
+---
 
-- **Serveur Discord** : [Rejoindre le projet](https://discord.gg/rd4ckSWHNm)
-- **Contact Discord** : `@chenetulipe`
-- **Adresse Mail** : `chenetulipe@personalegrimoireducoeur.fr`
-- **Signalement de Bugs** : Pour signaler une erreur de traduction ou un bug technique, veuillez ouvrir une [issue](https://github.com/chenetulipe/P2-FR-IS-PSP/issues) sur ce dépôt GitHub.
+## Communauté et Liens
+
+Le projet est avant tout collaboratif. Vous pouvez suivre notre actualité, télécharger les patchs ou venir discuter avec nous via ces canaux :
+
+* ✦ **Site Officiel :** [personalegrimoireducoeur.fr](https://personalegrimoireducoeur.fr/)
+* ✦ **Serveur Discord :** [Rejoindre l'équipe et la communauté](https://discord.gg/rd4ckSWHNm)
+* ✦ **Contact Projet :** `chenetulipe@personalegrimoireducoeur.fr`
+
+*Pour signaler une erreur de traduction ou un bug technique, veuillez ouvrir une [issue](https://github.com/chenetulipe/P2-FR-IS-PSP/issues) directement sur ce dépôt GitHub.*
+
+<br/>
+
+---
 
 ## Licence et Crédits
 
-**Atlus / SEGA** : Développeurs originaux et ayants droit du jeu.
+**Atlus / SEGA** : Développeurs originaux et ayants droit exclusifs du jeu.
 
-**Équipe de Traduction** : `@chenetulipe`, `@Garloulou`.
+**L'Équipe de Traduction Principale :** 
+* [@chenetulipe](https://github.com/chenetulipe) (Fondateur & Romhacking)
+* [@Garloulou](https://github.com/Garloulou) (Co-traduction)
+* [@HamzaKarrouchi](https://github.com/HamzaKarrouchi) (Développement Web & Relecture)
 
-**Licence du patch** : [CC BY-NC-SA 4.0](LICENSE) (Libre d'utilisation et de modification, interdit à la vente, attribution obligatoire).
+> [!CAUTION]
+> **Licence du Patch :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br/>
+> Libre d'utilisation et de modification. **La vente ou la monétisation de ce patch est strictement interdite.** Attribution obligatoire aux créateurs originaux.
 
-> *Persona 2: Innocent Sin* est une marque déposée de © Atlus / SEGA. Ce projet est une traduction amateur à but strictement non lucratif, réalisée par des fans pour des fans. Aucun fichier protégé par le droit d'auteur (iso, cpk, bin, etc.) n'est hébergé ou distribué sur ce dépôt. Le partage de tels fichiers est strictement interdit dans l'espace communautaire lié à ce projet.
+*Persona 2: Innocent Sin* est une marque déposée de © Atlus / SEGA. Ce projet est une traduction amateur à but strictement non lucratif, réalisée par des fans pour des fans. Aucun fichier protégé par le droit d'auteur n'est hébergé sur ce dépôt. Le partage d'ISO est strictement interdit dans l'espace communautaire lié à ce projet.
 
-## Star History
+<br/>
 
 <div align="center">
   <a href="https://www.star-history.com/?repos=chenetulipe%2FP2-FR-IS-PSP&type=date&legend=top-left">
