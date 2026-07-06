@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Statut](https://img.shields.io/badge/Statut-Glossaire_Validé-2ea043?style=for-the-badge)](#)
-[![Rôle](https://img.shields.io/badge/Rôle-Référentiel_Strict-d73a49?style=for-the-badge)](#)
+[![Statut](https://img.shields.io/badge/Statut-Glossaire_Valid%C3%A9-2ea043?style=for-the-badge)](#)
+[![Rôle](https://img.shields.io/badge/R%C3%B4le-R%C3%A9f%C3%A9rentiel_Strict-d73a49?style=for-the-badge)](#)
 
 </div>
 
