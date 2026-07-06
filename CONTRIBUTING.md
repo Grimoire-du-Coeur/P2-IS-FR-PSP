@@ -16,16 +16,15 @@
 
 ---
 
-## Sommaire
+## 📑 Sommaire
 1. [Le Site de Relecture (Recommandé)](#le-site-de-relecture-recommandé)
 2. [Soumettre ses propositions](#soumettre-ses-propositions)
 3. [Règles de Traduction et Accents](#règles-de-traduction-et-accents)
 4. [Balises et Codes Techniques](#balises-et-codes-techniques)
-5. [Structure Technique des JSON (Avancé)](#structure-technique-des-json-avancé)
 
 ---
 
-## Le Site de Relecture (Recommandé)
+## 🌐 Le Site de Relecture (Recommandé)
 
 Pour faciliter le travail de tous, un outil dédié a été développé par **@Haaamza**. Il permet de traduire, comparer et vérifier les textes sans avoir à manipuler manuellement les fichiers du jeu.
 
@@ -33,79 +32,50 @@ Pour faciliter le travail de tous, un outil dédié a été développé par **@H
 > **Lien de l'outil :** [Site de Relecture P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/)  
 > **Dictionnaire de Traduction :** [Dictionnaire P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/dictionnaire.html)
 
-**Avantages de l'outil :**
-- Il affiche le texte anglais original et te permet de saisir ta proposition en français directement.
-- Il calcule automatiquement la **limite d'octets** (le français étant souvent plus long que l'anglais, il est crucial de respecter l'espace mémoire alloué).
-- Il t'aide à vérifier la cohérence de tes choix avec le glossaire officiel.
+**Avantages de l'outil en ligne :**
+- Affiche le texte anglais et permet la saisie directe en français.
+- Calcule automatiquement la **limite d'octets** du moteur du jeu.
+- Connecté au glossaire officiel pour assurer la cohérence.
 
 ---
 
-## Soumettre ses propositions
+## 📬 Soumettre ses propositions
 
-Une fois tes modifications terminées sur le site de relecture, l'outil te permet de générer tes propositions finalisées. 
+Une fois tes modifications terminées sur le site, l'outil te génère tes propositions finalisées. Tu as deux options pour nous les transmettre :
 
-Tu as deux options pour nous les transmettre :
-1. **Discord (Le plus simple) :** Copie tes propositions générées par le site et colle-les directement dans le salon dédié `#📄・scripts` sur notre [serveur Discord](https://discord.gg/rd4ckSWHNm).
-2. **GitHub (Pour les habitués) :** Fork le dépôt, intègre tes modifications dans les fichiers JSON du dossier `traduction/event_scripts/` et ouvre une *Pull Request* avec le titre : `[Script XXX] Proposition de traduction`.
-
----
-
-## Règles de Traduction et Accents
-
-### Limite de Longueur
-Le français est environ 20–30 % plus long que l'anglais. Chaque dialogue possède un espace fixe alloué dans le code du jeu (`slot_size`). Si ta traduction dépasse cette limite, l'outil de ré-encodage l'ignorera et gardera l'anglais en jeu. **Sois concis et privilégie l'adaptation plutôt que le mot à mot.**
-
-### Espaces et Retours à la ligne
-- Le code `[SP]` dans le texte anglais représente un espace. Dans ta traduction française, utilise **un espace normal**.
-- Le code `\n` représente un vrai retour à la ligne. Pense à aérer tes textes s'ils sont trop longs pour l'écran de la PSP.
-
-### Accents Supportés
-L'équipe a modifié la police du jeu (VRAM) pour inclure certains caractères français. Tu peux utiliser librement ces accents dans tes traductions :
-`é è ê ô œ ü ï É È Î Ô Û Œ`
+1. **Discord (Le plus simple) :** Copie les textes générés et colle-les dans le salon `#📄・scripts` sur notre [serveur Discord](https://discord.gg/rd4ckSWHNm).
+2. **GitHub (Avancé) :** Fais un Fork du dépôt, modifie les fichiers JSON dans `traduction/event_scripts/` et ouvre une Pull Request titrée `[Script XXX] Proposition de traduction`.
 
 ---
 
-## Balises et Codes Techniques
+## ✍️ Règles de Traduction et Accents
 
-Certains codes entre crochets ont un rôle technique pour le moteur du jeu. **Ils doivent impérativement être conservés et placés judicieusement dans ta traduction.**
+### 📏 Limite de Longueur
+Le français est environ 20–30 % plus long que l'anglais. Chaque dialogue a un budget mémoire strict (`slot_size`). Si tu dépasses, le jeu plantera ou ignorera la phrase. **Sois concis, privilégie l'adaptation naturelle au mot-à-mot laborieux.**
 
-| Code / Balise | Signification | Comportement à adopter |
-|---------------|---------------|------------------------|
-| `[1205][001E]` | Pause d'animation | Conserve-le pour marquer une hésitation. (Ex: `Prends...[1205][001E] ma main...`) |
-| `[1113]` et `[1112]` | Prénom et Nom du Héros | Variables remplacées par le choix du joueur. Traite-les comme `{{Prénom}}` et `{{Nom}}`. |
+### ⌨️ Espaces et Retours à la ligne
+- Le code `[SP]` représente un espace. Utilise **un espace normal** dans ta traduction.
+- Le code `\n` représente un retour à la ligne. Aère tes textes pour l'écran de la PSP (maximum 3 lignes par boîte de dialogue).
+
+### ✨ Accents Supportés (100% Fonctionnels)
+Grâce à un système de remappage interne et une modification de la police VRAM, **absolument tous les accents français classiques sont supportés** !
+
+Tu peux taper naturellement sur ton clavier : 
+**`é, è, ê, ë, à, â, ç, î, ï, ô, ù, û`** (ainsi que les majuscules **`É, È, À, Ç`**, etc).
+
+L'outil s'occupe de la conversion magique en arrière-plan. Ne te prive pas de faire du vrai français propre !
+
+---
+
+## ⚙️ Balises et Codes Techniques
+
+Certains codes entre crochets ont un rôle technique. **Ne les supprime jamais.**
+
+| Balise | Signification | Comportement à adopter |
+|--------|---------------|------------------------|
+| `[1205][001E]` | Pause d'animation / Hésitation | Conserve-la. (Ex: `Prends...[1205][001E] ma main...`) |
+| `[1113]` / `[1112]` | Prénom / Nom du Héros | Traite-les comme des variables `{{Prénom}}`. |
+| `[COLOR_RED]` | Changement de couleur | Conserve-la autour du mot important. |
 
 > [!CAUTION]
-> **Codes interdits à la saisie manuelle :** Ne tape jamais `[E1]`, `[E2]`, `[E3]`, `[E4]`, `[NULL]`, `[1208]` ou `[0014]`. Ces codes structurels sont gérés automatiquement par notre compilateur ou sont réservés à l'architecture des menus.
-
----
-
-## Structure Technique des JSON (Avancé)
-
-Si tu choisis d'éditer manuellement les fichiers `.json` (sans passer par le site de relecture), voici les règles strictes à suivre :
-
-### Dialogues Classiques
-Ne modifie **que** les champs `nom_fr` et `texte_fr`. Ne touche jamais à l'ID, aux offsets, aux termes de fin (`_term`) ou au texte original.
-
-```json
-{
-  "nom_orig": "Thuggish[SP]student",
-  "texte_orig": "Yo...[SP]Goin'[SP]somewhere?",
-  "nom_fr": "Étudiant voyou",
-  "texte_fr": "Yo... Tu vas quelque part ?"
-}
-```
-
-### Menus de Choix
-Les dialogues contenant des choix pour le joueur utilisent des champs spécifiques (`question_fr` et `choix_fr`). **Ne traduis pas le champ `texte_fr` dans ce cas.**
-
-```json
-{
-  "question_orig": "Have[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?",
-  "choix_orig": ["Yeah,[SP]I've[SP]decided.", "Not[SP]yet."],
-  "question_fr": "T'as une idée de ce que tu veux faire\naprès le lycée ?",
-  "choix_fr": ["Ouais, j'ai décidé.", "Pas encore."]
-}
-```
-
-> [!WARNING]
-> Le champ `choix_fr` doit contenir **exactement le même nombre d'options** que l'original. Par ailleurs, la question française ne peut pas dépasser la longueur de la question anglaise sous peine de corrompre l'affichage du menu.
+> **Codes structurels :** Si un dialogue original contient des balises comme `[NULL]`, `[1431]`, ou `[START]`, laisse-les exactement là où elles sont. Elles gèrent l'architecture de la mémoire.
