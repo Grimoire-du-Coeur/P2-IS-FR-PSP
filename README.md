@@ -6,16 +6,16 @@
 
 <br/>
 
-[![Plateforme](https://img.shields.io/badge/PlayStation_Portable-103F91?style=for-the-badge&logo=playstation&logoColor=white)](https://fr.wikipedia.org/wiki/PlayStation_Portable)
-[![Statut](https://img.shields.io/badge/Statut-B%C3%8ATA_10_JUILLET-6b21a8?style=for-the-badge)](#)
-[![Site Officiel](https://img.shields.io/badge/Site_Web-personagrimoireducoeur.fr-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://personalegrimoireducoeur.fr/)
+<a href="https://fr.wikipedia.org/wiki/PlayStation_Portable"><img src="https://img.shields.io/badge/PlayStation_Portable-103F91?style=for-the-badge&logo=playstation&logoColor=white" alt="Plateforme" /></a>
+<img src="https://img.shields.io/badge/Statut-B%C3%8ATA_10_JUILLET-6b21a8?style=for-the-badge" alt="Statut" />
+<a href="https://personalegrimoireducoeur.fr/"><img src="https://img.shields.io/badge/Site_Web-personagrimoireducoeur.fr-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Site Officiel" /></a>
 
 <br/>
 
-[![Dernier Commit](https://img.shields.io/github/last-commit/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=2ea043)](https://github.com/chenetulipe/P2-FR-IS-PSP/commits/main)
-[![Issues](https://img.shields.io/github/issues/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=d73a49)](https://github.com/chenetulipe/P2-FR-IS-PSP/issues)
-[![Stars](https://img.shields.io/github/stars/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=e3b341)](https://github.com/chenetulipe/P2-FR-IS-PSP/stargazers)
-[![Discord](https://img.shields.io/discord/1400909421609095323?color=5865F2&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/rd4ckSWHNm)
+<a href="https://github.com/chenetulipe/P2-FR-IS-PSP/commits/main"><img src="https://img.shields.io/github/last-commit/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=2ea043" alt="Dernier Commit" /></a>
+<a href="https://github.com/chenetulipe/P2-FR-IS-PSP/issues"><img src="https://img.shields.io/github/issues/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=d73a49" alt="Issues" /></a>
+<a href="https://github.com/chenetulipe/P2-FR-IS-PSP/stargazers"><img src="https://img.shields.io/github/stars/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=e3b341" alt="Stars" /></a>
+<a href="https://discord.gg/rd4ckSWHNm"><img src="https://img.shields.io/discord/1400909421609095323?color=5865F2&label=Discord&logo=discord&logoColor=white&style=flat-square" alt="Discord" /></a>
 
 </div>
 
@@ -70,11 +70,11 @@ Voici l'état actuel de la traduction. Pour des statistiques plus détaillées (
 
 | Contenu du Jeu | Progression | Statut |
 |:---|:---:|:---:|
-| **Scripts (Dialogues Histoire)** | 100% | [![Terminé](https://img.shields.io/badge/-Termin%C3%A9-2ea043?style=flat-square)](#) |
-| **Police d'écriture (Accents FR)** | 100% | [![Terminé](https://img.shields.io/badge/-Termin%C3%A9-2ea043?style=flat-square)](#) |
-| **Scripts (Boutiques, Carte)** | 8/9 | [![En cours](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square)](#) |
-| **Textures HD** | 35/42 | [![En cours](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square)](#) |
-| **Autres éléments (Menus)** | ~ | [![En cours](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square)](#) |
+| **Scripts (Dialogues Histoire)** | 100% | <img src="https://img.shields.io/badge/-Termin%C3%A9-2ea043?style=flat-square" alt="Terminé" /> |
+| **Police d'écriture (Accents FR)** | 100% | <img src="https://img.shields.io/badge/-Termin%C3%A9-2ea043?style=flat-square" alt="Terminé" /> |
+| **Scripts (Boutiques, Carte)** | 8/9 | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Textures HD** | 35/42 | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Autres éléments (Menus)** | ~ | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
 
 </div>
 

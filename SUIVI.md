@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Statut](https://img.shields.io/badge/Statut-B%C3%8ATA_EN_APPROCHE-6b21a8?style=for-the-badge)](#)
-[![Progression](https://img.shields.io/badge/Progression-99%25-2ea043?style=for-the-badge)](#)
+<img src="https://img.shields.io/badge/Statut-B%C3%8ATA_EN_APPROCHE-6b21a8?style=for-the-badge" alt="Statut" />
+<img src="https://img.shields.io/badge/Progression-99%25-2ea043?style=for-the-badge" alt="Progression" />
 
 </div>
 
@@ -44,11 +44,11 @@ pie title Progression des 406 Scripts
 
 | Catégorie | Fichiers | Statut Actuel |
 |:---|:---:|:---:|
-| **Scripts d'Histoire** (`script_000` à `script_396`) | 397 | [![Terminée](https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square)](#) |
-| **Scripts de Carte** (`MMAP01` à `06`) | 6 | [![Terminée](https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square)](#) |
-| **Boutique de CDs** (`CD_SHOP`) | 1 | [![Terminée](https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square)](#) |
-| **Combats & Menus** (`F_BE`) | 1 | [![Terminée](https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square)](#) |
-| **Cinématiques narratives** (`TM_EVE`) | 1 | [![En Cours](https://img.shields.io/badge/-En%20Cours-0366d6?style=flat-square)](#) |
+| **Scripts d'Histoire** (`script_000` à `script_396`) | 397 | <img src="https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square" alt="Terminée" /> |
+| **Scripts de Carte** (`MMAP01` à `06`) | 6 | <img src="https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square" alt="Terminée" /> |
+| **Boutique de CDs** (`CD_SHOP`) | 1 | <img src="https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square" alt="Terminée" /> |
+| **Combats & Menus** (`F_BE`) | 1 | <img src="https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square" alt="Terminée" /> |
+| **Cinématiques narratives** (`TM_EVE`) | 1 | <img src="https://img.shields.io/badge/-En%20Cours-0366d6?style=flat-square" alt="En Cours" /> |
 
 </div>
 
