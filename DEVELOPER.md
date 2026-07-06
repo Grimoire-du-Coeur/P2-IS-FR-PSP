@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Statut](https://img.shields.io/badge/Statut-Documentation_Technique-0366d6?style=for-the-badge)](#)
-[![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-Atlus_%2F_CRI-d73a49?style=for-the-badge)](#)
+<img src="https://img.shields.io/badge/Statut-Documentation_Technique-0366d6?style=for-the-badge" alt="Statut" />
+<img src="https://img.shields.io/badge/Reverse_Engineering-Atlus_%2F_CRI-d73a49?style=for-the-badge" alt="Reverse Engineering" />
 
 </div>
 
