@@ -12,14 +12,13 @@
 <br/>
 
 > [!NOTE]
-> Cette page permet de suivre l'avancement du projet de traduction. 
-> Les données ci-dessous sont synchronisées avec notre [Tableau de Suivi Google Sheets](https://docs.google.com/spreadsheets/d/1d0MADmYznfH-R43RLZAHrngTT5flK9UTVt4wTzc10Uw/edit?usp=sharing).
+> Cette page documente l'avancement global du projet de traduction. L'histoire principale est achevée, nous nous concentrons actuellement sur la phase d'Assurance Qualité (QA).
 
 ---
 
 ## Graphique d'Avancement Global
 
-Voici la répartition actuelle des **406 fichiers scripts** extraits de l'ISO du jeu (données tirées du document officiel) :
+Voici la répartition des **406 fichiers scripts** gérant l'intégralité des textes du jeu :
 
 ```mermaid
 pie title Progression des 406 Scripts
@@ -29,32 +28,32 @@ pie title Progression des 406 Scripts
 ```
 
 > [!TIP]
-> **Les Scripts Vides (91) :** Ces fichiers correspondent à des événements ou des zones du jeu qui ne contiennent aucun dialogue textuel (cinématiques muettes, chargements, triggers invisibles, etc.). Ils ne nécessitent aucune traduction et sont considérés comme terminés.
+> **Les Scripts Vides (91) :** Ils correspondent à des événements, des déclencheurs invisibles ou des chargements ne contenant aucun texte. Ils sont considérés comme terminés d'office.
 
 ---
 
 ## Détails de la Traduction
 
-| Catégorie de fichiers | État Actuel | Nombre de fichiers |
-|-----------------------|-------------|:------------------:|
-| **Scripts d'Histoire** (`script_000` à `script_396`) | **Terminé** | 397 |
-| **Scripts Carte** (`MMAP01` à `06`) | **Terminé** | 6 |
-| **Boutique de CDs** (`CD_SHOP`) | **Terminé** | 1 |
-| **Combats & Menus** (`F_BE`) | **Terminé** | 1 |
-| **Cinématiques narratives** (`TM_EVE`) | **En Cours** | 1 |
+| Catégorie | Fichiers | Statut Actuel |
+|-----------|:--------:|:-------------:|
+| **Scripts d'Histoire** (`script_000` à `script_396`) | 397 | Terminée |
+| **Scripts de Carte** (`MMAP01` à `06`) | 6 | Terminée |
+| **Boutique de CDs** (`CD_SHOP`) | 1 | Terminée |
+| **Combats & Menus** (`F_BE`) | 1 | Terminée |
+| **Cinématiques narratives** (`TM_EVE`) | 1 | En Cours |
 
 > [!IMPORTANT]
-> L'histoire principale est **entièrement traduite** ! Le seul et unique script qui est encore noté "En Cours" est `TM_EVE`. Tout le reste est à 100%.
+> Le fichier `TM_EVE` est l'unique script nécessitant encore une intervention de traduction textuelle. La trame principale de l'histoire est achevée à 100 %.
 
 ---
 
-## Phase de Relecture (QA)
+## Phase de Relecture et Lancement
 
-Maintenant que la traduction brute est quasi complète, le projet est officiellement entré dans sa **phase de relecture globale**.
+Le projet traverse actuellement la phase critique de vérification In-Game (Assurance Qualité).
 
 ```mermaid
 gantt
-    title Planning vers la BÊTA
+    title Planning vers la Version BÊTA
     dateFormat  YYYY-MM-DD
     axisFormat  %d/%m
     
@@ -63,11 +62,9 @@ gantt
     Textes Annexes (F_BE...) :done,    des2, 2026-05-01, 2026-06-28
     Dernier fichier (TM_EVE) :active,  des3, 2026-06-25, 2026-07-05
     
-    section Relecture
-    Phase de Correction      :active,  rel1, 2026-06-20, 2026-07-09
+    section Qualité (QA)
+    Phase de Correction In-Game :active,  rel1, 2026-06-20, 2026-07-09
     
     section Sortie
-    Lancement Version BÊTA   :milestone, 2026-07-10, 0d
+    Lancement Version BÊTA Publique   :milestone, 2026-07-10, 0d
 ```
-
-Si tu souhaites nous aider à traquer les fautes, harmoniser les termes et perfectionner les dialogues avant la grande sortie du 10 juillet, consulte notre **[Guide de Contribution](./CONTRIBUTING.md)** et rejoins notre outil interactif !
