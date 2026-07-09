@@ -13,7 +13,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Haime...[SP]Seriously!?[SP]Why's[SP]an[SP]army[SP]invading\nfrom[SP]above!?",
     "nom_fr": "Ginko",
-    "texte_fr": "Haime... Sérieux? Pourquoi une armée nous tombe dessus?"
+    "texte_fr": "Haime... Sérieux? Pourquoi une armée nous\ntombe dessus?"
   },
   {
     "id": 1,
@@ -61,7 +61,7 @@
     "nom_orig": "Tamaki's[SP]voice",
     "texte_orig": "I'm[SP]afraid[SP]so![SP]The[SP]rumors[SP]about[SP]the[SP]Last\nBattalion[SP]are[SP]true!",
     "nom_fr": "Voix de Tamaki",
-    "texte_fr": "J’ai peur! Les rumeurs sur la dernière armé étaient vraies!"
+    "texte_fr": "J'ai peur! Les rumeurs sur le Bataillon\nétaient vraies!"
   },
   {
     "id": 4,
@@ -93,7 +93,7 @@
     "nom_orig": "Ms.[SP]Ideal's[SP]voice",
     "texte_orig": "Hello!?[SP]Listen[SP]to[SP]me![SP][1432][NULL][NULL][0014]Caracol[1432][NULL][NULL][0014][SP]means[SP]snail,\nor[SP]katatsumuri.",
     "nom_fr": "Voix de Mme. Ideal",
-    "texte_fr": "Allô!? Écoute-moi! [1432][NULL][NULL][0014]Caracol[1432][NULL][NULL][0014] = escargot (katatsumuri)."
+    "texte_fr": "Allô!? Écoute! [1432][NULL][NULL][0014]Caracol[1432][NULL][NULL][0014] signifie escargot\n(katatsumuri)."
   },
   {
     "id": 6,
@@ -109,7 +109,7 @@
     "nom_orig": "Ms.[SP]Ideal's[SP]voice",
     "texte_orig": "Kashihara[SP]said[SP]that[SP]the[SP]basis[SP]of[SP]the[SP]Caracol\nruins[SP]at[SP]Chichen[SP]Itza[SP]are[SP]at[SP]Mt.[SP]Katatsumuri!",
     "nom_fr": "Voix de Mme. Ideal",
-    "texte_fr": "Kashihara a dit que les bases des ruines de Caracol sont au mont Katatsumuri!"
+    "texte_fr": "Kashihara a dit que les bases des ruines\ndu Caracol étaient au mont Katatsumuri!"
   },
   {
     "id": 7,
@@ -156,7 +156,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Did[SP]you[SP]say[SP]Mt.[SP]Katatsumuri!?[1205][001E][SP]Shunsuke-san's\nat[SP]the[SP]temple[SP]there![SP]If[SP]anything[SP]happens[SP]to\nhim,[SP]I'll...!",
     "nom_fr": "Yukino",
-    "texte_fr": "Tu as dit M.Katatsumuri!? Shunsuke-san est au temps! S'il lui arrive quelque chose lui arrive, je...! "
+    "texte_fr": "Tu as dit M.Katatsumuri!?[1205][U+000F] Shunsuke est\nau temple! S'il lui arrive quelque chose,\nje...! "
   },
   {
     "id": 10,
@@ -172,7 +172,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Calm[SP]down,[SP]Yukki![SP]Fujii-san[SP]can[SP]take[SP]care[SP]of\nhimself,[SP]right?[SP]Rescuing[SP]him[SP]is[SP]just[SP]one[SP]more\nreason[SP]to[SP]hurry!",
     "nom_fr": "Maya",
-    "texte_fr": "Calme-toi, Yukki! Fujii-san sait se débrouiller tout seul, OK? C’est une raison de plus de se dépêcher!"
+    "texte_fr": "Calme-toi, Yukki! Fujii sait se débrouiller\ntout seul, pas vrai? C'est une raison de plus\nde se dépêcher!"
   },
   {
     "id": 11,
@@ -188,7 +188,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Rrrrgh,[SP]it's[SP]one[SP]thing[SP]after[SP]another...![1205][001E][SP]Fine!\nArmy[SP]or[SP]no[SP]army,[SP]we're[SP]goin'[SP]after[SP]them!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Arrgh, c’est l’un après l’autre...! Bon! Armée ou pas, on leur fonce dessus!"
+    "texte_fr": "Arrgh, les problèmes s'enchaînent...![1205][U+000F] Bon!\nArmée ou pas, on leur fonce dessus!"
   },
   {
     "id": 12,
@@ -204,7 +204,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "So[SP]Fujii-san[SP]is[SP]Yukino-san's[SP]sweetie...[1205][001E]\nLet's[SP]hurry,[SP][1113]!",
     "nom_fr": "Ginko",
-    "texte_fr": "Fujii-san est le chéri de Yukino-san... Allons-y, [1113]!"
+    "texte_fr": "Fujii est le chéri de Yukino...[1205][U+000F]\nAllons-y, [1113]!"
   },
   {
     "id": 13,
@@ -220,7 +220,7 @@
     "nom_orig": "Maya",
     "texte_orig": "If[SP]the[SP]Last[SP]Battalion's[SP]after[SP]what's[SP]in[SP]the\nIn[SP]Lak'ech...[1205][001E][SP]Jun-kun[SP]should[SP]be[SP]headed\nthere,[SP]too!",
     "nom_fr": "Maya",
-    "texte_fr": "Si la dernière armée cherche ce qui se cache dans l’In Lak’ech… Jun-kun doit être là-bas aussi."
+    "texte_fr": "Si le Bataillon cherche ce qui se\ncache dans l'In Lak'ech...[1205][U+000F] Jun doit être\nlà-bas aussi."
   },
   {
     "id": 14,
@@ -236,6 +236,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "Shunsuke-san...[1205][001E][SP]Please[SP]stay[SP]safe[SP]until[SP]I[SP]can\nget[SP]there...!",
     "nom_fr": "Yukino",
-    "texte_fr": "Shunsuke-san... Reste en sécurité jusqu’à mon arrivée!"
+    "texte_fr": "Shunsuke...[1205][U+000F] Pitié, reste en sécurité jusqu'à\nmon arrivée!"
   }
 ]

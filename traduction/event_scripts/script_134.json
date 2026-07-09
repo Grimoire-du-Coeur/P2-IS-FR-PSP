@@ -13,7 +13,7 @@
     "nom_orig": "Jun",
     "texte_orig": "*sob*[SP]Big[SP]Sis...[1205][001E][SP]I'm[SP]sorry...[SP]I'm[SP]sorry![1205][001E]\nI...[SP]I[SP]couldn't[SP]save[SP]you...",
     "nom_fr": "Jun",
-    "texte_fr": "*Snif* Soeurette...[1205][001E]Pardon... Pardon! Je... Je n'ai pas pu te sauver..."
+    "texte_fr": "*Snif* Soeurette...[1205][001E]Pardon... Pardon![1205][U+000F]\nJe... n'ai pas pu te sauver..."
   },
   {
     "id": 1,
@@ -45,7 +45,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That's[SP]right...[1205][001E][SP][1114][SP]tried[SP]to[SP]save\nBig[SP]Maya...[1205][001E][SP]We're[SP]to[SP]blame[SP]here![SP]You[SP]gotta\nremember!",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est vrai... [1205][001E][1114] a essayé de sauver Maya... [1205][001E]Ce n'était pas notre faute! Souviens toi!"
+    "texte_fr": "C'est vrai... [1205][001E][1114] a essayé de sauver\nMaya... [1205][001E]Ce n'était pas notre faute!\nSouviens toi!"
   },
   {
     "id": 3,
@@ -61,7 +61,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Jun-kun![1205][001E][SP]I'm[SP]alive,[SP]see?[SP]Please,[SP]you[SP]have\nto[SP]snap[SP]out[SP]of[SP]it...",
     "nom_fr": "Maya",
-    "texte_fr": "Jun! [1205][001E]Je suis en vie, tu vois? S'il-te-plaît, ressaisis-toi..."
+    "texte_fr": "Jun! [1205][001E]Je suis en vie, tu vois?\nS'il-te-plaît, ressaisis-toi..."
   },
   {
     "id": 4,
@@ -77,7 +77,7 @@
     "nom_orig": "Jun",
     "texte_orig": "That's[SP]a[SP]lie...[1205][001E][SP]There's[SP]no[SP]way[SP]you[SP]could[SP]be\nBig[SP]Sis![SP][1113][SP]killed[SP]her!",
     "nom_fr": "Jun",
-    "texte_fr": "C'est faux...[1205][001E]C'est impossible que tu sois soeurette![1113] l'a tuée! "
+    "texte_fr": "C'est faux...[1205][001E]C'est impossible que tu sois\nsoeurette![1113] l'a tuée! "
   },
   {
     "id": 5,
@@ -124,7 +124,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "[1432][NULL][NULL][0014]Regret[1432][NULL][NULL][0014]...[1205][001E][SP]Jun[SP]hasn't[SP]changed[SP]at[SP]all...[1205][001E]\nThe[SP]real[SP]Jun[SP]is[SP]still[SP]in[SP]there!",
     "nom_fr": "Ginko",
-    "texte_fr": "[1432][NULL][NULL][0014]Le regret...[1432][NULL][NULL][0014]... Jun n'a pas changé du tout... Le vrai Jun est toujours là!"
+    "texte_fr": "[1432][NULL][NULL][0014]Le regret...[1432][NULL][NULL][0014]... Jun n'a pas changé du tout...\nLe vrai Jun est toujours là!"
   },
   {
     "id": 8,
@@ -140,7 +140,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Jun[SP]was[SP]so[SP]nice![SP]He[SP]taught[SP]me[SP]a[SP]lot[SP]about[SP]the\nmeanings[SP]of[SP]flowers[SP]and[SP]about[SP]stars![SP]Please,\n[1113],[SP]you[SP]have[SP]to[SP]save[SP]him!",
     "nom_fr": "Ginko",
-    "texte_fr": "Jun était si gentil! Il m'a tant appris sur le sens des fleurs et sur les étoiles! S'il-te-plaît, [1113], sauve-le!"
+    "texte_fr": "Jun était si gentil! Il m'a tant appris\nsur le sens des fleurs et sur les étoiles!\nS'il-te-plaît, [1113], sauve-le!"
   },
   {
     "id": 9,
@@ -156,7 +156,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]remember[SP]Philemon[SP]telling[SP]us...[1205][001E][SP]we[SP]had\nto[SP]save[SP]Jun-kun[SP]from[SP]the[SP]clutches[SP]of[SP]the\n[1432][NULL][NULL][0014]Crawling[SP]Chaos[1432][NULL][NULL][0014]...",
     "nom_fr": "Maya",
-    "texte_fr": "Je me souviens, Philémon nous a dit...[1205][001E]Nous devons sauver Jun des griffes du [1432][NULL][NULL][0014] Chaos Rampant [1432][NULL][NULL][0014]..."
+    "texte_fr": "Je me souviens, Philémon nous a dit...[1205][001E]\nNous devons sauver Jun des griffes du\n[1432][NULL][NULL][0014] Chaos Rampant [1432][NULL][NULL][0014]..."
   },
   {
     "id": 10,
@@ -172,7 +172,7 @@
     "nom_orig": "Maya",
     "texte_orig": "What[SP]in[SP]the[SP]world[SP]is[SP]that?[1205][001E][SP]I[SP]bet[SP]it's[SP]what's\nmaking[SP]rumors[SP]into[SP]reality...[1205][001E][SP]And[SP]controlling\nJun-kun[SP]too...",
     "nom_fr": "Maya",
-    "texte_fr": "Qu'est-ce que c'est que ça?[1205][001E] Je parie que c'est ce qui réalise les rumeurs... Et ce qui contrôle Jun..."
+    "texte_fr": "Qu'est-ce que c'est que ça?[1205][001E] Je parie que\nc'est ce qui réalise les rumeurs...\nEt ce qui contrôle Jun..."
   },
   {
     "id": 11,
@@ -204,6 +204,6 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]memories[SP]from[SP]that[SP]summer[SP]are[SP]important\nto[SP]me...[1205][001E][SP]For[SP]Ginko[SP]and[SP]Big[SP]Maya,[SP]too.[SP]For[SP]all\nof[SP]us,[SP]really...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Les souvenirs de cet été là me sont chers...[1205][001E] À Ginko et Maya aussi. Pour nous tous, en fait..."
+    "texte_fr": "Les souvenirs de cet été là me sont\nchers...[1205][001E] À Ginko et Maya aussi.\nPour nous tous, en fait..."
   }
 ]
