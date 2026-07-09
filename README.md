@@ -36,11 +36,12 @@ Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable
 2. [État d'Avancement](#état-davancement)
 3. [Installation et Utilisation](#installation-et-utilisation)
 4. [L'Outil de Romhacking](#loutil-de-romhacking-p2is_tool)
-5. [Compatibilité Pack HD](#compatibilité-pack-hd)
-6. [Foire Aux Questions (FAQ)](#foire-aux-questions-faq)
-7. [Documentation du Projet](#documentation-du-projet)
-8. [Communauté et Liens](#communauté-et-liens)
-9. [Licence et Crédits](#licence-et-crédits)
+5. [Le Patcher Web](#le-patcher-web-p2is_patcher)
+6. [Compatibilité Pack HD](#compatibilité-pack-hd)
+7. [Foire Aux Questions (FAQ)](#foire-aux-questions-faq)
+8. [Documentation du Projet](#documentation-du-projet)
+9. [Communauté et Liens](#communauté-et-liens)
+10. [Licence et Crédits](#licence-et-crédits)
 
 <br/>
 
@@ -109,6 +110,22 @@ Construit sur une architecture moderne, l'outil s'installe et se lance automatiq
   <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Langage-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+</div>
+
+<br/>
+
+---
+
+## Le Patcher Web (p2is_patcher)
+
+Le dossier `p2is_patcher/` contient le code source de l'application web permettant aux joueurs d'appliquer le patch FR directement dans leur navigateur, sans aucun logiciel à installer.
+
+Construit sur une architecture autonome, l'outil s'exécute localement et se lance automatiquement via le fichier `lancer_patcher.bat`.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Moteur-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langage-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </div>
 
 <br/>
