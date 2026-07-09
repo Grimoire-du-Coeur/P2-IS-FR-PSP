@@ -180,6 +180,21 @@ Si nous parvenons à résoudre certaines contraintes techniques du moteur Atlus 
 
 ---
 
+## Clause de non-responsabilité :
+
+L'équipe de développement du projet P2-FR-IS-PSP décline toute responsabilité en cas de dommages matériels, logiciels, perte de données, ou dysfonctionnements divers pouvant survenir suite à l'utilisation de ce patch, du patcher web, de l'outil de romhacking ou du pack HD.
+
+Pour le moment, seule la plateforme PPSSPP est officiellement testée et recommandée pour utiliser ce patch de traduction.
+
+Recommandations impératives avant toute manipulation :
+- Conservez précieusement une sauvegarde (backup) de votre ISO originale ULES01557 avant d'appliquer le patch xdelta.
+- Sauvegardez vos fichiers de sauvegarde (saves) sur un support externe.
+- L'utilisation du patcher web se fait exclusivement en local dans votre navigateur ; nous ne collectons aucune donnée, mais vérifiez toujours que vous utilisez le fichier "lancer_patcher.bat" provenant de notre dépôt officiel.
+
+En téléchargeant, patchant et utilisant ce projet, vous reconnaissez avoir lu cette clause et acceptez de l'utiliser à vos propres risques.
+
+---
+
 ## Documentation du Projet
 
 Afin d'assurer la transparence et la pérennité du projet, la documentation technique et organisationnelle a été structurée en plusieurs documents de référence :
