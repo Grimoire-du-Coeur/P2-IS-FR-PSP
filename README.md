@@ -92,7 +92,7 @@ Cette version sera jouable du début à la fin. L'objectif principal de cette b�
 > **Procédure d'installation (à la sortie du patch) :**
 > 
 > 1. Téléchargez le patch au format `.xdelta` depuis la section [Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases).
-> 2. Appliquez le patch sur votre ISO originale (`ULES01557`) à l'aide d'un outil tel que **DeltaPatcher** ou **xdelta UI**.
+> 2. Appliquez le patch sur votre ISO originale (`ULES01557`) de préférence via notre **[Patcher Web P2IS FR](./p2is_patcher)** (simple, rapide, sans rien installer) ou à l'aide d'un outil externe tel que **DeltaPatcher**.
 > 3. Lancez l'ISO modifiée sur votre console PSP (équipée d'un Custom Firmware) ou sur l'émulateur **PPSSPP**.
 
 <br/>

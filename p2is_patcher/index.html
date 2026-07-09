@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Persona 2 IS Patch FR</title>
+  <meta name="description" content="Patcher en ligne pour Persona 2 Innocent Sin PSP — Traduction française officielle."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #0f172a;
+      color: #e2e8f0;
+      min-height: 100vh;
+      background-image:
+        radial-gradient(circle at 20% 20%, rgba(30, 58, 138, 0.45) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(14, 165, 233, 0.25) 0%, transparent 50%),
+        radial-gradient(circle at 50% 50%, rgba(99, 102, 241, 0.1) 0%, transparent 70%);
+      background-attachment: fixed;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 3rem 1rem 4rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+    .header-eyebrow {
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: rgba(148, 163, 184, 0.6);
+      margin-bottom: 0.75rem;
+    }
+    header h1 {
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      background: linear-gradient(135deg, #ffffff 0%, #93c5fd 55%, #60a5fa 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1.1;
+      margin-bottom: 0.6rem;
+    }
+    .header-subtitle {
+      font-size: 0.88rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: rgba(148, 163, 184, 0.55);
+    }
+
+    .card {
+      width: 100%;
+      max-width: 660px;
+      background: rgba(255, 255, 255, 0.045);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 1.5rem;
+      padding: 2.5rem;
+      box-shadow:
+        0 25px 50px rgba(0,0,0,0.5),
+        0 0 0 1px rgba(255,255,255,0.05) inset,
+        0 1px 0 rgba(255,255,255,0.12) inset;
+    }
+
+    .step { margin-bottom: 1.75rem; }
+    .step-label {
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+      margin-bottom: 0.65rem;
+    }
+    .step-num {
+      width: 26px; height: 26px;
+      border-radius: 50%;
+      background: rgba(99, 102, 241, 0.25);
+      border: 1px solid rgba(99, 102, 241, 0.45);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.72rem; font-weight: 700; color: #a5b4fc;
+      flex-shrink: 0;
+    }
+    .step-title { font-size: 0.93rem; font-weight: 600; color: #e2e8f0; }
+    .step-hint { font-size: 0.78rem; color: rgba(148,163,184,0.55); margin-left: auto; }
+
+    .drop-zone {
+      position: relative;
+      width: 100%;
+      border: 2px dashed rgba(99, 102, 241, 0.3);
+      border-radius: 0.875rem;
+      padding: 1.25rem 1.4rem;
+      background: rgba(15, 23, 42, 0.5);
+      transition: all 0.22s ease;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      overflow: hidden;
+    }
+    .drop-zone:hover, .drop-zone.over {
+      border-color: rgba(99, 102, 241, 0.65);
+      background: rgba(99, 102, 241, 0.07);
+    }
+    .drop-zone.loaded {
+      border-color: rgba(34, 197, 94, 0.45);
+      background: rgba(34, 197, 94, 0.05);
+    }
+    .drop-zone.err {
+      border-color: rgba(239, 68, 68, 0.5);
+    }
+    .drop-zone input[type=file] {
+      position: absolute; inset: 0;
+      opacity: 0; cursor: pointer;
+      width: 100%; height: 100%;
+    }
+    .drop-icon { font-size: 1.65rem; flex-shrink: 0; }
+    .drop-text strong {
+      display: block;
+      font-size: 0.88rem; font-weight: 600; color: #e2e8f0; margin-bottom: 0.12rem;
+    }
+    .drop-zone.loaded .drop-text strong { color: #86efac; }
+    .drop-text small { font-size: 0.76rem; color: rgba(148,163,184,0.6); }
+
+    .divider {
+      height: 1px;
+      background: rgba(255,255,255,0.07);
+      margin: 0.25rem 0 1.75rem;
+    }
+
+    .btn-apply {
+      width: 100%;
+      padding: 1rem 2rem;
+      font-family: 'Inter', sans-serif;
+      font-size: 1.05rem; font-weight: 700;
+      color: #fff;
+      background: linear-gradient(135deg, rgba(99,102,241,0.88), rgba(59,130,246,0.88));
+      border: 1px solid rgba(165,180,252,0.25);
+      border-radius: 0.875rem;
+      cursor: pointer;
+      transition: all 0.22s cubic-bezier(0.4,0,0.2,1);
+      box-shadow: 0 4px 15px rgba(99,102,241,0.3), 0 1px 0 rgba(255,255,255,0.12) inset;
+      position: relative; overflow: hidden;
+    }
+    .btn-apply::after {
+      content: ''; position: absolute; inset: 0;
+      background: linear-gradient(135deg, rgba(255,255,255,0.13) 0%, transparent 55%);
+      opacity: 0; transition: opacity 0.22s;
+    }
+    .btn-apply:hover:not(:disabled)::after { opacity: 1; }
+    .btn-apply:hover:not(:disabled) {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(99,102,241,0.45), 0 1px 0 rgba(255,255,255,0.12) inset;
+    }
+    .btn-apply:active:not(:disabled) { transform: translateY(0); }
+    .btn-apply:disabled { opacity: 0.3; cursor: not-allowed; transform: none; }
+
+    #status {
+      display: none;
+      margin-top: 1.25rem;
+      padding: 0.875rem 1.1rem;
+      border-radius: 0.75rem;
+      font-size: 0.88rem; font-weight: 500; line-height: 1.55;
+      white-space: pre-wrap;
+    }
+    #status.info { background: rgba(99,102,241,0.12); border: 1px solid rgba(99,102,241,0.3); color: #a5b4fc; display: block; }
+    #status.ok   { background: rgba(34,197,94,0.1);  border: 1px solid rgba(34,197,94,0.3);  color: #86efac; display: block; }
+    #status.err  { background: rgba(239,68,68,0.1);  border: 1px solid rgba(239,68,68,0.3);  color: #fca5a5; display: block; }
+
+    #progress-wrap { display: none; margin-top: 0.75rem; height: 5px; background: rgba(255,255,255,0.07); border-radius: 3px; overflow: hidden; }
+    #progress-bar { height: 100%; width: 0%; background: linear-gradient(90deg, #6366f1, #3b82f6); border-radius: 3px; transition: width 0.3s ease; }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .spinner {
+      display: inline-block; width: 16px; height: 16px;
+      border: 2px solid rgba(255,255,255,0.25); border-top-color: #fff;
+      border-radius: 50%; animation: spin 0.75s linear infinite;
+      vertical-align: middle; margin-right: 7px;
+    }
+
+    footer {
+      margin-top: 2.5rem; text-align: center;
+      color: rgba(148,163,184,0.4); font-size: 0.78rem; line-height: 1.9;
+    }
+    footer a { color: rgba(148,163,184,0.6); text-decoration: none; }
+    footer a:hover { color: #94a3b8; text-decoration: underline; }
+
+    @media (max-width: 580px) {
+      .card { padding: 1.5rem 1.1rem; }
+      header h1 { font-size: 1.9rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-eyebrow">Traduction Française Officielle</div>
+  <h1>Persona 2 IS Patch FR</h1>
+  <div class="header-subtitle">Innocent Sin PSP &nbsp;·&nbsp; Bêta v0.1</div>
+</header>
+
+<div class="card">
+
+  <!-- Step 1 -->
+  <div class="step">
+    <div class="step-label">
+      <div class="step-num">1</div>
+      <div class="step-title">Votre ISO original</div>
+      <div class="step-hint">Requis: ISO EU (ULES01557)</div>
+    </div>
+    <div class="drop-zone" id="zone-iso">
+      <input type="file" id="in-iso" accept=".iso,.bin,.img"/>
+      <div class="drop-icon">💿</div>
+      <div class="drop-text">
+        <strong id="iso-lbl">Glisser-déposer ou cliquer</strong>
+        <small>Fichier ISO de Persona 2 Innocent Sin EU (ULES01557)</small>
+      </div>
+    </div>
+  </div>
+
+  <!-- Step 2 -->
+  <div class="step">
+    <div class="step-label">
+      <div class="step-num">2</div>
+      <div class="step-title">Fichier Patch</div>
+      <div class="step-hint">.xdelta / .xdelta3</div>
+    </div>
+    <div class="drop-zone" id="zone-patch">
+      <input type="file" id="in-patch" accept=".xdelta,.xdelta3,.vcdiff,.patch"/>
+      <div class="drop-icon">🩹</div>
+      <div class="drop-text">
+        <strong id="patch-lbl">Glisser-déposer ou cliquer</strong>
+        <small>P2IS_FR_Beta_v0.1.xdelta</small>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <button class="btn-apply" id="btn" disabled>Appliquer le Patch</button>
+
+  <div id="status"></div>
+  <div id="progress-wrap"><div id="progress-bar"></div></div>
+
+</div>
+
+<footer>
+  Moteur XDelta3 (<a href="https://github.com/marco-calautti/DeltaPatcher" target="_blank" rel="noopener">DeltaPatcher par Marco Calautti</a> - GPL-2.0) ·
+  Interface Patcher FR (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>)<br/>
+  Traduction française de Persona 2 IS — Usage personnel uniquement.
+</footer>
+
+<!-- Service worker for streamsaver -->
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('./sw.js').catch(function(){});
+}
+
+var isoFile = null, patchFile = null, worker = null;
+
+function setStatus(msg, type) {
+  var el = document.getElementById('status');
+  el.className = type || '';
+  el.textContent = msg;
+  if (!type) el.style.display = 'none';
+}
+
+function setProgress(pct) {
+  var wrap = document.getElementById('progress-wrap');
+  var bar  = document.getElementById('progress-bar');
+  if (pct === null) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  bar.style.width = Math.min(100, pct) + '%';
+}
+
+function checkReady() {
+  document.getElementById('btn').disabled = !(isoFile && patchFile);
+}
+
+function setupZone(zoneId, inputId, lblId, extCheck, onOk) {
+  var zone  = document.getElementById(zoneId);
+  var input = document.getElementById(inputId);
+  var lbl   = document.getElementById(lblId);
+
+  function handleFile(f) {
+    if (extCheck && !extCheck(f.name)) {
+      zone.classList.add('err');
+      lbl.textContent = '❌ Fichier non reconnu : ' + f.name;
+      return;
+    }
+    zone.classList.remove('err');
+    zone.classList.add('loaded');
+    lbl.textContent = '✅ ' + f.name + ' (' + (f.size > 1048576 ? (f.size/1048576).toFixed(1)+' Mo' : (f.size/1024).toFixed(0)+' Ko') + ')';
+    onOk(f);
+    checkReady();
+  }
+
+  input.addEventListener('change', function() { if (this.files[0]) handleFile(this.files[0]); });
+  zone.addEventListener('dragover', function(e) { e.preventDefault(); zone.classList.add('over'); });
+  zone.addEventListener('dragleave', function() { zone.classList.remove('over'); });
+  zone.addEventListener('drop', function(e) {
+    e.preventDefault(); zone.classList.remove('over');
+    if (e.dataTransfer.files[0]) handleFile(e.dataTransfer.files[0]);
+  });
+}
+
+setupZone('zone-iso', 'in-iso', 'iso-lbl',
+  function(n) { return /\.(iso|bin|img)$/i.test(n); },
+  function(f) { isoFile = f; setStatus('ISO chargé : ' + f.name, 'info'); }
+);
+
+setupZone('zone-patch', 'in-patch', 'patch-lbl',
+  function(n) { return /\.(xdelta|xdelta3|vcdiff|patch)$/i.test(n); },
+  function(f) { patchFile = f; }
+);
+
+document.getElementById('btn').addEventListener('click', function() {
+  if (!isoFile || !patchFile) return;
+  if (worker) { worker.terminate(); worker = null; }
+
+  var btn = document.getElementById('btn');
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner"></span>Patch en cours…';
+  setStatus('Initialisation du moteur XDelta3 (WebAssembly)…', 'info');
+  setProgress(5);
+
+  var skipChecksum = false; // Always false, only EU ISO supported
+
+  // Generate output filename
+  var lastDot = isoFile.name.lastIndexOf('.');
+  var patchedName = lastDot === -1
+    ? isoFile.name + '-fr'
+    : isoFile.name.substring(0, lastDot) + '_FR' + isoFile.name.substring(lastDot);
+
+  var outputChunks = [];
+  var totalBytes = 0;
+  var startTime = Date.now();
+
+  worker = new Worker('./xdelta3.worker.js', { type: 'module' });
+
+  worker.onmessage = function(e) {
+    if (!e.data) return;
+    var data = e.data;
+
+    if (!data.final) {
+      // Chunk received
+      outputChunks.push(data.bytes);
+      totalBytes += data.bytes.length;
+      var elapsed = (Date.now() - startTime) / 1000;
+      var rate = totalBytes / elapsed / 1024;
+      setStatus(
+        'Patch en cours…\n' +
+        '  Données traitées : ' + (totalBytes / 1048576).toFixed(1) + ' Mo\n' +
+        '  Vitesse : ' + (rate > 1024 ? (rate/1024).toFixed(1)+' Mo/s' : rate.toFixed(0)+' Ko/s'),
+        'info'
+      );
+      setProgress(10 + Math.min(80, (totalBytes / isoFile.size) * 80));
+      return;
+    }
+
+    // Final message
+    worker = null;
+    if (data.error) {
+      var errMsg = '❌ Erreur lors du patch. L\'ISO fourni n\'est peut-être pas la version européenne (ULES01557) demandée.';
+      if (data.errorMessage) errMsg += '\n\nDétails : ' + data.errorMessage;
+      setStatus(errMsg, 'err');
+      setProgress(null);
+      btn.innerHTML = 'Appliquer le Patch';
+      btn.disabled = false;
+      return;
+    }
+
+    // Success — combine chunks and save
+    setProgress(95);
+    setStatus('Finalisation… création du fichier patché', 'info');
+    setTimeout(function() {
+      var blob = new Blob(outputChunks, { type: 'application/octet-stream' });
+      outputChunks = [];
+      var url = URL.createObjectURL(blob);
+      var a = document.createElement('a');
+      a.href = url; a.download = patchedName;
+      document.body.appendChild(a); a.click(); document.body.removeChild(a);
+      setTimeout(function() { URL.revokeObjectURL(url); }, 8000);
+
+      setProgress(100);
+      setStatus(
+        '✅ Patch appliqué avec succès !\n' +
+        '  Fichier : ' + patchedName + '\n' +
+        '  Taille : ' + (blob.size / 1048576).toFixed(2) + ' Mo\n' +
+        '  Le téléchargement a démarré automatiquement.',
+        'ok'
+      );
+      btn.innerHTML = 'Appliquer le Patch';
+      btn.disabled = false;
+      setTimeout(function() { setProgress(null); }, 2500);
+    }, 100);
+  };
+
+  worker.onerror = function(err) {
+    worker = null;
+    setStatus('❌ Erreur moteur XDelta3 : ' + (err.message || 'Erreur inconnue'), 'err');
+    setProgress(null);
+    btn.innerHTML = 'Appliquer le Patch';
+    btn.disabled = false;
+  };
+
+  worker.postMessage({
+    command: 'start',
+    sourceFile: isoFile,
+    patchFile: patchFile,
+    disableChecksum: skipChecksum
+  });
+});
+</script>
+</body>
+</html>
