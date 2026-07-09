@@ -9,8 +9,8 @@ Le code HTML, CSS et JavaScript gérant l'interface (incluant le fichier `index.
 - Ce composant est libre d'utilisation et de modification pour un usage non commercial, sous réserve d'attribuer le projet original et de partager les modifications sous la même licence.
 - La vente ou la monétisation de ce projet est **strictement interdite**.
 
-## 2. Moteur de Patcher (Basé sur DeltaPatcher / XDelta3)
-Le moteur sous-jacent qui applique le patch xdelta s'inspire et utilise les technologies open-source issues de l'écosystème XDelta.
+## 2. Moteur de Patcher (DeltaPatcher)
+Le moteur sous-jacent qui applique le patch xdelta utilise les technologies open-source issues du projet DeltaPatcher.
 
 - **Projet de référence :** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) par Marco Calautti
 - **Licence :** GPL-2.0 (GNU General Public License v2.0)

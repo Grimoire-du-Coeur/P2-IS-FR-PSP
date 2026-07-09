@@ -148,7 +148,7 @@ Le backend Python localisé dans `p2is_tool/src/` suit une séparation stricte d
 
 Afin de faciliter l'installation du patch FR par les joueurs sans nécessiter le téléchargement d'un logiciel tiers, un **Patcher Web** a été intégré au projet dans le dossier `p2is_patcher/`.
 
-* ✦ **Moteur :** [xdelta3](https://github.com/jmacd/xdelta) (écrit en C) compilé en WebAssembly (`xdelta3.wasm`) via **Emscripten** grâce aux technologies de l'écosystème DeltaPatcher (GPL-2.0).
+* ✦ **Moteur :** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) (GPL-2.0) compilé en WebAssembly (`xdelta3.wasm`) par Marco Calautti.
 * ✦ **Performance :** L'application tourne dans un Web Worker (`xdelta3.worker.js`) pour ne pas bloquer l'interface utilisateur.
 * ✦ **Gestion Mémoire :** Pour gérer des ISO de plus de 1 Go dans le navigateur sans saturer la RAM, le patcher utilise des *Streams* et un *Service Worker* (`sw.js` / `mitm.html`) permettant de sauvegarder le fichier de sortie au fur et à mesure de sa création.
 * ✦ **Architecture :** Le code frontend (HTML/CSS) respecte la charte graphique globale et s'exécute de façon entièrement locale et autonome.

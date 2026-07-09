@@ -231,10 +231,10 @@
     <div class="step-label">
       <div class="step-num">2</div>
       <div class="step-title">Fichier Patch</div>
-      <div class="step-hint">.xdelta / .xdelta3</div>
+      <div class="step-hint">.xdelta / .patch</div>
     </div>
     <div class="drop-zone" id="zone-patch">
-      <input type="file" id="in-patch" accept=".xdelta,.xdelta3,.vcdiff,.patch"/>
+      <input type="file" id="in-patch" accept=".xdelta,.vcdiff,.patch"/>
       <div class="drop-icon">🩹</div>
       <div class="drop-text">
         <strong id="patch-lbl">Glisser-déposer ou cliquer</strong>
@@ -253,7 +253,7 @@
 </div>
 
 <footer>
-  Moteur XDelta3 (<a href="https://github.com/marco-calautti/DeltaPatcher" target="_blank" rel="noopener">DeltaPatcher par Marco Calautti</a> - GPL-2.0) ·
+  Moteur : <a href="https://github.com/marco-calautti/DeltaPatcher" target="_blank" rel="noopener">DeltaPatcher par Marco Calautti</a> (GPL-2.0) ·
   Interface Patcher FR (<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>)<br/>
   Traduction française de Persona 2 IS — Usage personnel uniquement.
 </footer>
@@ -318,7 +318,7 @@ setupZone('zone-iso', 'in-iso', 'iso-lbl',
 );
 
 setupZone('zone-patch', 'in-patch', 'patch-lbl',
-  function(n) { return /\.(xdelta|xdelta3|vcdiff|patch)$/i.test(n); },
+  function(n) { return /\.(xdelta|vcdiff|patch)$/i.test(n); },
   function(f) { patchFile = f; }
 );
 
@@ -329,7 +329,7 @@ document.getElementById('btn').addEventListener('click', function() {
   var btn = document.getElementById('btn');
   btn.disabled = true;
   btn.innerHTML = '<span class="spinner"></span>Patch en cours…';
-  setStatus('Initialisation du moteur XDelta3 (WebAssembly)…', 'info');
+  setStatus('Initialisation du moteur DeltaPatcher (WebAssembly)…', 'info');
   setProgress(5);
 
   var skipChecksum = false; // Always false, only EU ISO supported
@@ -406,7 +406,7 @@ document.getElementById('btn').addEventListener('click', function() {
 
   worker.onerror = function(err) {
     worker = null;
-    setStatus('❌ Erreur moteur XDelta3 : ' + (err.message || 'Erreur inconnue'), 'err');
+    setStatus('❌ Erreur moteur DeltaPatcher : ' + (err.message || 'Erreur inconnue'), 'err');
     setProgress(null);
     btn.innerHTML = 'Appliquer le Patch';
     btn.disabled = false;
