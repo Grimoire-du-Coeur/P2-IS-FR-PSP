@@ -187,7 +187,7 @@ Si nous parvenons à résoudre certaines contraintes techniques du moteur Atlus 
 ## Clause de non‑responsabilité
 
 > [!CAUTION]
-> **L'équipe de développement du projet P2‑FR‑IS‑PSP (chenetulipe, Garloulou, HamzaKarrouchi et l'ensemble des contributeurs) décline toute responsabilité en cas de :**
+> **L'équipe de développement du projet P2‑FR‑IS‑PSP décline toute responsabilité en cas de :**
 > - dommages matériels ou logiciels,
 > - perte de données, corruption de sauvegarde ou de l'ISO,
 > - crashs, freeze, dysfonctionnements graphiques ou sonores,
