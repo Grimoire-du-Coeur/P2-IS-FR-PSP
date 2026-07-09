@@ -180,18 +180,40 @@ Si nous parvenons à résoudre certaines contraintes techniques du moteur Atlus 
 
 ---
 
-## Clause de non-responsabilité :
+<br/>
 
-L'équipe de développement du projet P2-FR-IS-PSP décline toute responsabilité en cas de dommages matériels, logiciels, perte de données, ou dysfonctionnements divers pouvant survenir suite à l'utilisation de ce patch, du patcher web, de l'outil de romhacking ou du pack HD.
+---
 
-Pour le moment, seule la plateforme PPSSPP est officiellement testée et recommandée pour utiliser ce patch de traduction.
+## Clause de non‑responsabilité
 
-Recommandations impératives avant toute manipulation :
-- Conservez précieusement une sauvegarde (backup) de votre ISO originale ULES01557 avant d'appliquer le patch xdelta.
-- Sauvegardez vos fichiers de sauvegarde (saves) sur un support externe.
-- L'utilisation du patcher web se fait exclusivement en local dans votre navigateur ; nous ne collectons aucune donnée, mais vérifiez toujours que vous utilisez le fichier "lancer_patcher.bat" provenant de notre dépôt officiel.
+> [!CAUTION]
+> **L'équipe de développement du projet P2‑FR‑IS‑PSP (chenetulipe, Garloulou, HamzaKarrouchi et l'ensemble des contributeurs) décline toute responsabilité en cas de :**
+> - dommages matériels ou logiciels,
+> - perte de données, corruption de sauvegarde ou de l'ISO,
+> - crashs, freeze, dysfonctionnements graphiques ou sonores,
+> - incompatibilité avec certains firmwares, plugins ou versions d'émulateurs,
+> - tout autre problème survenant suite à l'utilisation de ce patch, du patcher web, de l'outil de romhacking ou du pack HD.
 
-En téléchargeant, patchant et utilisant ce projet, vous reconnaissez avoir lu cette clause et acceptez de l'utiliser à vos propres risques.
+<br/>
+
+**Plateforme officiellement supportée**
+
+Pour le moment, seule la plateforme PPSSPP (PC, Android, macOS) est officiellement testée et recommandée.  
+L'ISO patchée peut techniquement fonctionner sur PSP console avec un Custom Firmware, mais nous n'avons pas mené de tests approfondis sur le matériel réel. L'utilisation sur PSP se fait donc à vos propres risques.
+
+<br/>
+
+**Recommandations impératives avant toute manipulation**
+
+- Conservez précieusement une sauvegarde (backup) de votre ISO originale `ULES01557` avant d'appliquer le patch `.xdelta`.
+- Sauvegardez vos fichiers de sauvegarde (saves) sur un support externe (PC, cloud, etc.) avant de lancer le jeu patché.
+- Utilisez exclusivement le patcher web officiel en lançant le fichier `lancer_patcher.bat` provenant de notre dépôt GitHub. Nous ne collectons aucune donnée, mais vérifiez toujours la provenance des fichiers pour éviter tout risque lié à des versions tierces.
+
+<br/>
+
+> En téléchargeant, patchant et utilisant ce projet, vous reconnaissez avoir lu cette clause et acceptez de l'utiliser à vos propres risques.
+
+<br/>
 
 ---
 
