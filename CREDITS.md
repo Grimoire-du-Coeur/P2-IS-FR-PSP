@@ -49,8 +49,8 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | Contributeur | 💾 Commits | ➕ Lignes Ajoutées | ➖ Lignes Supprimées |
 |:---|:---:|:---:|:---:|
 | **[@HamzaKarrouchi](https://github.com/HamzaKarrouchi)** | 413 | +258448 | -35647 |
-| **[@chenetulipe](https://github.com/chenetulipe)** | 220 | +187530 | -178972 |
-| **[@claude](https://github.com/claude)** | 194 | +230413 | -8366 |
+| **[@chenetulipe](https://github.com/chenetulipe)** | 226 | +188455 | -178996 |
+| **[@claude](https://github.com/claude)** | 195 | +230575 | -8528 |
 | **[@Garloulou](https://github.com/Garloulou)** | 49 | +767 | -515 |
 | **[@Bicyclarv](https://github.com/Bicyclarv)** | 46 | +3311 | -3311 |
 | **[@hvnjo](https://github.com/hvnjo)** | 42 | +2675 | -2676 |
@@ -61,39 +61,39 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@Gyotre](https://github.com/Gyotre)** | 16 | +355 | -352 |
 | **[@LeSoupeur](https://github.com/LeSoupeur)** | 15 | +163 | -163 |
 | **[@ArsenetheIV](https://github.com/ArsenetheIV)** | 13 | +5584 | -6883 |
+| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 12 | +225 | -228 |
 | **[@Tausc0](https://github.com/Tausc0)** | 12 | +62 | -62 |
-| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 11 | +209 | -212 |
-| **[@Seb180212](https://github.com/Seb180212)** | 9 | +155 | -152 |
 | **[@vkt2rii](https://github.com/vkt2rii)** | 9 | +308 | -309 |
-| **[@IssaPagi](https://github.com/IssaPagi)** | 9 | +85 | -85 |
+| **[@Seb180212](https://github.com/Seb180212)** | 9 | +155 | -152 |
 | **[@FrankoPaulo](https://github.com/FrankoPaulo)** | 9 | +117 | -117 |
+| **[@IssaPagi](https://github.com/IssaPagi)** | 9 | +85 | -85 |
 | **[@Ethan-LDS](https://github.com/Ethan-LDS)** | 7 | +169 | -169 |
 | **[@All4nRL](https://github.com/All4nRL)** | 6 | +61 | -61 |
 | **[@chaytheninja](https://github.com/chaytheninja)** | 5 | +100 | -99 |
 | **[@MBG-May](https://github.com/MBG-May)** | 4 | +185 | -184 |
-| **[@Kain-Highwind](https://github.com/Kain-Highwind)** | 4 | +281 | -281 |
 | **[@aurelien30](https://github.com/aurelien30)** | 4 | +132 | -132 |
-| **[@driftbyte4767](https://github.com/driftbyte4767)** | 3 | +284 | -284 |
+| **[@Kain-Highwind](https://github.com/Kain-Highwind)** | 4 | +281 | -281 |
 | **[@Shrenpai](https://github.com/Shrenpai)** | 3 | +123 | -123 |
 | **[@ZeldarioGitHub](https://github.com/ZeldarioGitHub)** | 3 | +53 | -53 |
-| **[@Aniy22](https://github.com/Aniy22)** | 2 | +25 | -25 |
-| **[@LykeSama](https://github.com/LykeSama)** | 2 | +33 | -33 |
-| **[@Diamondssb](https://github.com/Diamondssb)** | 2 | +45 | -45 |
-| **[@Neth6767](https://github.com/Neth6767)** | 2 | +85 | -85 |
-| **[@Sammmu-L](https://github.com/Sammmu-L)** | 2 | +22 | -22 |
-| **[@Astakoune](https://github.com/Astakoune)** | 2 | +65 | -65 |
+| **[@driftbyte4767](https://github.com/driftbyte4767)** | 3 | +284 | -284 |
 | **[@Door-dono](https://github.com/Door-dono)** | 2 | +39 | -39 |
+| **[@Astakoune](https://github.com/Astakoune)** | 2 | +65 | -65 |
+| **[@Sammmu-L](https://github.com/Sammmu-L)** | 2 | +22 | -22 |
 | **[@nekorighthere](https://github.com/nekorighthere)** | 2 | +86 | -86 |
 | **[@chenetulipe2](https://github.com/chenetulipe2)** | 2 | +6 | -6 |
+| **[@Diamondssb](https://github.com/Diamondssb)** | 2 | +45 | -45 |
+| **[@LykeSama](https://github.com/LykeSama)** | 2 | +33 | -33 |
+| **[@Aniy22](https://github.com/Aniy22)** | 2 | +25 | -25 |
+| **[@Neth6767](https://github.com/Neth6767)** | 2 | +85 | -85 |
 | **[@Xeriam](https://github.com/Xeriam)** | 2 | +56 | -56 |
-| **[@MaelMinhAnh](https://github.com/MaelMinhAnh)** | 1 | +77 | -77 |
 | **[@Aurinox6](https://github.com/Aurinox6)** | 1 | +59 | -59 |
-| **[@renaclerican](https://github.com/renaclerican)** | 1 | +29 | -29 |
-| **[@Goulyz](https://github.com/Goulyz)** | 1 | +27 | -27 |
-| **[@Lomac29](https://github.com/Lomac29)** | 1 | +20 | -20 |
-| **[@Adwara](https://github.com/Adwara)** | 1 | +130 | -130 |
-| **[@mae7interludes](https://github.com/mae7interludes)** | 1 | +109 | -109 |
 | **[@Desseday](https://github.com/Desseday)** | 1 | +123 | -123 |
+| **[@Lomac29](https://github.com/Lomac29)** | 1 | +20 | -20 |
+| **[@mae7interludes](https://github.com/mae7interludes)** | 1 | +109 | -109 |
+| **[@Adwara](https://github.com/Adwara)** | 1 | +130 | -130 |
+| **[@Goulyz](https://github.com/Goulyz)** | 1 | +27 | -27 |
+| **[@renaclerican](https://github.com/renaclerican)** | 1 | +29 | -29 |
+| **[@MaelMinhAnh](https://github.com/MaelMinhAnh)** | 1 | +77 | -77 |
 
 ### Répartition des Contributions (Top 10)
 
@@ -101,8 +101,8 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 ```mermaid
 pie title Top 10 - Commits
     "HamzaKarrouchi" : 413
-    "chenetulipe" : 220
-    "claude" : 194
+    "chenetulipe" : 226
+    "claude" : 195
     "Garloulou" : 49
     "Bicyclarv" : 46
     "hvnjo" : 42
@@ -116,8 +116,8 @@ pie title Top 10 - Commits
 ```mermaid
 pie title Top 10 - Lignes Ajoutées
     "HamzaKarrouchi" : 258448
-    "claude" : 230413
-    "chenetulipe" : 187530
+    "claude" : 230575
+    "chenetulipe" : 188455
     "ArsenetheIV" : 5584
     "Bicyclarv" : 3311
     "hvnjo" : 2675
@@ -130,9 +130,9 @@ pie title Top 10 - Lignes Ajoutées
 #### Lignes Supprimées
 ```mermaid
 pie title Top 10 - Lignes Supprimées
-    "chenetulipe" : 178972
+    "chenetulipe" : 178996
     "HamzaKarrouchi" : 35647
-    "claude" : 8366
+    "claude" : 8528
     "ArsenetheIV" : 6883
     "Bicyclarv" : 3311
     "hvnjo" : 2676
