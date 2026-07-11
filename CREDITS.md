@@ -146,9 +146,9 @@ pie title Top 10 - Lignes Supprimées
 
 ---
 
-## Bêta-Testeurs & Traqueurs de Bugs (BÊTA du 10 Juillet)
+## Bêta-Testeurs & Traqueurs de Bugs (BÊTA de Juillet 2026)
 
-*Cette section se remplira à partir de la sortie de la BÊTA le 10 juillet 2026 !*
+*Cette section se remplira au fur et à mesure grâce aux retours des joueurs sur la BÊTA !*
 
 Un immense merci à tous les joueurs de l'ombre qui parcourent le jeu de fond en comble pour nous remonter la moindre faute de frappe, erreur de césure, ou plantage technique. Votre œil de lynx permet de peaufiner la version finale !
 

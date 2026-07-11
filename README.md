@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://fr.wikipedia.org/wiki/PlayStation_Portable"><img src="https://img.shields.io/badge/PlayStation_Portable-103F91?style=for-the-badge&logo=playstation&logoColor=white" alt="Plateforme" /></a>
-<img src="https://img.shields.io/badge/Statut-B%C3%8ATA_10_JUILLET-6b21a8?style=for-the-badge" alt="Statut" />
+<img src="https://img.shields.io/badge/Statut-B%C3%8ATA_DISPONIBLE-6b21a8?style=for-the-badge" alt="Statut" />
 <a href="https://personalegrimoireducoeur.fr/"><img src="https://img.shields.io/badge/Site_Web-personagrimoireducoeur.fr-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Site Officiel" /></a>
 
 <br/>
@@ -39,9 +39,10 @@ Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable
 5. [Le Patcher Web](#le-patcher-web-p2is_patcher)
 6. [Compatibilité Pack HD](#compatibilité-pack-hd)
 7. [Foire Aux Questions (FAQ)](#foire-aux-questions-faq)
-8. [Documentation du Projet](#documentation-du-projet)
-9. [Communauté et Liens](#communauté-et-liens)
-10. [Licence et Crédits](#licence-et-crédits)
+8. [Clause de Non-Responsabilité](#clause-de-non-responsabilite)
+9. [Documentation du Projet](#documentation-du-projet)
+10. [Communauté et Liens](#communauté-et-liens)
+11. [Licence et Crédits](#licence-et-crédits)
 
 <br/>
 
@@ -85,14 +86,14 @@ Voici l'état actuel de la traduction. Pour des statistiques plus détaillées (
 
 ## Installation et Utilisation
 
-Le projet est actuellement en développement très avancé. Une première version **BÊTA** publique sera mise en ligne le **10 juillet**. 
+Le projet est actuellement en phase de **BÊTA publique**.
 
-Cette version sera jouable du début à la fin. L'objectif principal de cette bêta est de recueillir vos retours pour affiner la version finale 1.0.
+Cette version est jouable du début à la fin de l'histoire principale. L'objectif de cette bêta est de recueillir vos retours pour corriger les éventuels bugs avant la version finale 1.0.
 
 > [!NOTE]
-> **Procédure d'installation (à la sortie du patch) :**
+> **Procédure d'installation :**
 > 
-> 1. Téléchargez le patch au format `.xdelta` depuis la section [Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases).
+> 1. Téléchargez le dernier patch BÊTA au format `.xdelta` depuis la section **[Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases/tag/Patch-FR%2BPack-HD)**.
 > 2. Appliquez le patch sur votre ISO originale (`ULES01557`) de préférence via notre **[Patcher Web P2IS FR](./p2is_patcher)** (simple, rapide, sans rien installer) ou à l'aide d'un outil externe tel que **DeltaPatcher**.
 > 3. Lancez l'ISO modifiée sur votre console PSP (équipée d'un Custom Firmware) ou sur l'émulateur **PPSSPP**.
 
@@ -157,7 +158,7 @@ Ce projet supporte officiellement le mod **HD UI for Persona 2 - Innocent Sin**.
 <details>
 <summary><b>► Y aura-t-il un tutoriel vidéo pour installer le patch ?</b></summary>
 <br>
-Oui. Une vidéo explicative détaillée sortira sur la chaîne YouTube de <a href="https://www.youtube.com/@chenetulipe">chenetulipe</a> aux alentours de la date de sortie du patch (prévue pour le 10 juillet).
+Oui. Une vidéo explicative détaillée sortira sur la chaîne YouTube de <a href="https://www.youtube.com/@chenetulipe">chenetulipe</a> prochainement. En attendant, n'hésitez pas à demander de l'aide sur notre serveur Discord.
 </details>
 
 <details>
@@ -169,11 +170,11 @@ Vous pouvez y comparer le texte original avec la traduction et utiliser le Dicti
 </details>
 
 <details>
-<summary><b>► Quel est le contenu de la version BÊTA du 10 juillet ?</b></summary>
+<summary><b>► Quel est le contenu de la version BÊTA actuelle ?</b></summary>
 <br>
-Les 398 scripts de l'histoire principale (event.bin) sont 100 % traduits. La version BÊTA prévue pour le 10 juillet sera donc jouable du début à la fin avec l'histoire intégralement en français.
+Les 398 scripts de l'histoire principale (event.bin) sont 100 % traduits. La version BÊTA est donc jouable du début à la fin avec l'histoire intégralement en français.
 <br><br>
-Si nous parvenons à résoudre certaines contraintes techniques du moteur Atlus d'ici là, les dialogues sur la carte 3D (MMAP) et les lignes de combat (F_BE) seront également inclus. Dans le cas contraire, la bêta ne contiendra que l'histoire.
+Les dialogues sur la carte 3D (MMAP) et les lignes de combat (F_BE) sont en cours d'intégration et n'y figurent pas encore. L'objectif actuel est de repérer les bugs et les crashs dans l'histoire.
 </details>
 
 <br/>
@@ -184,15 +185,17 @@ Si nous parvenons à résoudre certaines contraintes techniques du moteur Atlus 
 
 ---
 
-## Clause de non‑responsabilité
+## Clause de Non-Responsabilité
 
 > [!CAUTION]
-> **L'équipe de développement du projet P2‑FR‑IS‑PSP décline toute responsabilité en cas de :**
-> - dommages matériels ou logiciels,
-> - perte de données, corruption de sauvegarde ou de l'ISO,
-> - crashs, freeze, dysfonctionnements graphiques ou sonores,
-> - incompatibilité avec certains firmwares, plugins ou versions d'émulateurs,
-> - tout autre problème survenant suite à l'utilisation de ce patch, du patcher web, de l'outil de romhacking ou du pack HD.
+> **Avertissement Légal & Technique**
+> 
+> L'équipe de développement du projet **P2‑FR‑IS‑PSP** décline formellement toute responsabilité en cas de :
+> - Dommages matériels, logiciels ou usure prématurée de vos appareils.
+> - Perte de données, corruption de sauvegardes (saves), ou corruption de votre fichier ISO.
+> - Crashs, blocages (freezes), ou dysfonctionnements graphiques/sonores rencontrés en jeu.
+> - Incompatibilité avec certains Custom Firmwares (CFW), plugins, ou versions spécifiques d'émulateurs.
+> - Tout autre problème direct ou indirect survenant suite à l'application du patch, à l'utilisation du patcher web, de l'outil de romhacking ou du pack de textures HD.
 
 <br/>
 
@@ -205,13 +208,13 @@ L'ISO patchée peut techniquement fonctionner sur PSP console avec un Custom Fir
 
 **Recommandations impératives avant toute manipulation**
 
-- Conservez précieusement une sauvegarde (backup) de votre ISO originale `ULES01557` avant d'appliquer le patch `.xdelta`.
-- Sauvegardez vos fichiers de sauvegarde (saves) sur un support externe (PC, cloud, etc.) avant de lancer le jeu patché.
-- Utilisez exclusivement le patcher web officiel en lançant le fichier `lancer_patcher.bat` provenant de notre dépôt GitHub. Nous ne collectons aucune donnée, mais vérifiez toujours la provenance des fichiers pour éviter tout risque lié à des versions tierces.
+- **Backup ISO :** Conservez précieusement une copie de sécurité de votre ISO originale `ULES01557` (non modifiée) avant de lui appliquer le patch `.xdelta`.
+- **Backup Sauvegardes :** Sauvegardez vos fichiers de sauvegarde (memory stick) sur un support externe (PC, cloud, clé USB) avant de lancer le jeu patché pour la première fois.
+- **Sécurité :** Utilisez exclusivement le patcher web officiel fourni sur notre dépôt GitHub. Nous ne collectons aucune donnée personnelle. Méfiez-vous des patchs ou exécutables téléchargés sur des sites tiers non officiels.
 
 <br/>
 
-> En téléchargeant, patchant et utilisant ce projet, vous reconnaissez avoir lu cette clause et acceptez de l'utiliser à vos propres risques.
+> En téléchargeant les fichiers, en patchant votre ISO et en jouant à cette version modifiée, vous reconnaissez avoir pris connaissance de la présente clause et acceptez d'utiliser ce patch **à vos propres risques et périls**.
 
 <br/>
 
