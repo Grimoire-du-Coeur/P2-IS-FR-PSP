@@ -60,8 +60,8 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@megidooo](https://github.com/megidooo)** | 18 | +386 | -386 |
 | **[@Gyotre](https://github.com/Gyotre)** | 16 | +355 | -352 |
 | **[@LeSoupeur](https://github.com/LeSoupeur)** | 15 | +163 | -163 |
+| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 13 | +249 | -252 |
 | **[@ArsenetheIV](https://github.com/ArsenetheIV)** | 13 | +5584 | -6883 |
-| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 12 | +225 | -228 |
 | **[@Tausc0](https://github.com/Tausc0)** | 12 | +62 | -62 |
 | **[@vkt2rii](https://github.com/vkt2rii)** | 9 | +308 | -309 |
 | **[@Seb180212](https://github.com/Seb180212)** | 9 | +155 | -152 |
