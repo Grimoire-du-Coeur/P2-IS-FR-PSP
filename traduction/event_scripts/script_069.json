@@ -1,50 +1,50 @@
 [
-  {
-    "id": 0,
-    "offset": 340890,
-    "data_size": 76,
-    "slot_size": 80,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Sailor-suited[SP]girl",
-    "texte_orig": "[1113]-kun![SP][1113]-kun!",
-    "nom_fr": "Lycéenne",
-    "texte_fr": "[1113]! [1113]!"
-  },
-  {
-    "id": 1,
-    "offset": 340970,
-    "data_size": 158,
-    "slot_size": 162,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Sailor-suited[SP]girl",
-    "texte_orig": "[1113]-kun,[SP]can[SP]you[SP]hear[SP]me!?[SP]Please...[1205][001E]\nAnswer[SP]me![SP][1113]-kun!",
-    "nom_fr": "Lycéenne",
-    "texte_fr": "[1113], tu m'entends!? S'il te plaît...[1205][001E]\nRéponds-moi! [1113]!"
-  },
-  {
-    "id": 2,
-    "offset": 341132,
-    "data_size": 146,
-    "slot_size": 150,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Insane[SP]young[SP]man",
-    "texte_orig": "Heh...[1205][001E][SP]Heehee...[1205][001E][SP]Hyahaha![1205][001E][SP]Hyaaaahahahahaaaa!",
-    "nom_fr": "Jeune homme fou",
-    "texte_fr": "Heh...[1205][001E] Heehee...[1205][001E] Hyahaha![1205][001E] Hyaaaahahahahaaaa!"
-  }
+    {
+        "id": 0,
+        "offset": 340890,
+        "data_size": 76,
+        "slot_size": 80,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Sailor-suited[SP]girl",
+        "texte_orig": "[1113]-kun![SP][1113]-kun!",
+        "nom_fr": "Lycéenne",
+        "texte_fr": "[1113]! [1113]!"
+    },
+    {
+        "id": 1,
+        "offset": 340970,
+        "data_size": 158,
+        "slot_size": 162,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Sailor-suited[SP]girl",
+        "texte_orig": "[1113]-kun,[SP]can[SP]you[SP]hear[SP]me!?[SP]Please...[1205][001E]\nAnswer[SP]me![SP][1113]-kun!",
+        "nom_fr": "Lycéenne",
+        "texte_fr": "[1113], tu m'entends!? S'il te plaît...[1205][001E]\nRéponds-moi! [1113]!"
+    },
+    {
+        "id": 2,
+        "offset": 341132,
+        "data_size": 146,
+        "slot_size": 150,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Insane[SP]young[SP]man",
+        "texte_orig": "Heh...[1205][001E][SP]Heehee...[1205][001E][SP]Hyahaha![1205][001E][SP]Hyaaaahahahahaaaa!",
+        "nom_fr": "Jeune homme fou",
+        "texte_fr": "Heh...[1205][001E] Heehee...[1205][001E] Hyahaha![1205][001E] \nHyaaaahahahahaaaa!"
+    }
 ]

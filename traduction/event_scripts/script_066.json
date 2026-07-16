@@ -1,114 +1,114 @@
 [
-  {
-    "id": 0,
-    "offset": 355274,
-    "data_size": 86,
-    "slot_size": 90,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "Dammit...[1205][001E][SP]We[SP]were[SP]too[SP]late!",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Bon sang...[1205][001E] Trop tard!"
-  },
-  {
-    "id": 1,
-    "offset": 355364,
-    "data_size": 124,
-    "slot_size": 128,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Yukino",
-    "texte_orig": "Anna![1205][001E][SP]She's[SP]not[SP]here...[SP]Why[SP]would[SP]she\ndo[SP]this!?",
-    "nom_fr": "Yukino",
-    "texte_fr": "Anna![1205][001E] Elle n'est pas là...\nPourquoi faire ça!?"
-  },
-  {
-    "id": 2,
-    "offset": 355492,
-    "data_size": 258,
-    "slot_size": 262,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Ginko",
-    "texte_orig": "Kehhei![SP]This[SP]is[SP]terrible![SP]What[SP]is[SP]this\nOracle[SP]of[SP]Maia,[SP]anyway,[SP]that[SP]makes[SP]the\nMasked[SP]Circle[SP]do[SP]such[SP]horrible[SP]things!?",
-    "nom_fr": "Ginko",
-    "texte_fr": "Purée! C'est terrible! C'est quoi cet\nOracle de Maia pour que le Cercle masqué\nfasse des choses aussi horribles!?"
-  },
-  {
-    "id": 3,
-    "offset": 355754,
-    "data_size": 188,
-    "slot_size": 192,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "Yasuo's[SP]dead,[SP]too...[1205][001E][SP]Does[SP]this[SP]mean[SP]we've\nhit[SP]a[SP]wall[SP]in[SP]our[SP]search[SP]for[SP]Joker!?",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Yasuo est mort aussi...[1205][001E] Sommes-nous\nbloqués dans la recherche de Joker!?"
-  },
-  {
-    "id": 4,
-    "offset": 355946,
-    "data_size": 298,
-    "slot_size": 302,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "Guys,[SP]wherever[SP]rumors[SP]are,[SP]Joker's[SP]there[SP]too,\nright?[SP]Let's[SP]go[SP]out[SP]in[SP]the[SP]city[SP]and[SP]ask[SP]people\nfor[SP]rumors[SP]about[SP]the[SP]Masked[SP]Circle[SP]and[SP]Joker!",
-    "nom_fr": "Maya",
-    "texte_fr": "Où il y a des rumeurs, Joker y est, non?\nAllons en ville demander aux gens s'ils ont\ndes rumeurs sur le Cercle masqué et Joker!"
-  },
-  {
-    "id": 5,
-    "offset": 356248,
-    "data_size": 92,
-    "slot_size": 96,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "I'm[SP]sure[SP]we'll[SP]learn[SP]something[SP]new!",
-    "nom_fr": "Maya",
-    "texte_fr": "On apprendra sûrement des trucs!"
-  },
-  {
-    "id": 6,
-    "offset": 356344,
-    "data_size": 180,
-    "slot_size": 184,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Yukino",
-    "texte_orig": "There[SP]must[SP]be[SP]a[SP]reason[SP]why[SP]Anna[SP]became[SP]an\nexecutive[SP]in[SP]the[SP]Masked[SP]Circle...[1205][001E]",
-    "nom_fr": "Yukino",
-    "texte_fr": "Il y a forcément une raison pour qu'Anna\nsoit cadre du Cercle masqué...[1205][001E]"
-  }
+    {
+        "id": 0,
+        "offset": 355274,
+        "data_size": 86,
+        "slot_size": 90,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "Dammit...[1205][001E][SP]We[SP]were[SP]too[SP]late!",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Bon sang...[1205][001E] Trop tard!"
+    },
+    {
+        "id": 1,
+        "offset": 355364,
+        "data_size": 124,
+        "slot_size": 128,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Yukino",
+        "texte_orig": "Anna![1205][001E][SP]She's[SP]not[SP]here...[SP]Why[SP]would[SP]she\ndo[SP]this!?",
+        "nom_fr": "Yukino",
+        "texte_fr": "Anna![1205][001E] Elle n'est pas là...\nPourquoi faire ça!?"
+    },
+    {
+        "id": 2,
+        "offset": 355492,
+        "data_size": 258,
+        "slot_size": 262,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Ginko",
+        "texte_orig": "Kehhei![SP]This[SP]is[SP]terrible![SP]What[SP]is[SP]this\nOracle[SP]of[SP]Maia,[SP]anyway,[SP]that[SP]makes[SP]the\nMasked[SP]Circle[SP]do[SP]such[SP]horrible[SP]things!?",
+        "nom_fr": "Ginko",
+        "texte_fr": "Purée! C'est terrible! C'est quoi cet\nOracle de Maia pour que le Cercle masqué\nfasse des choses aussi horribles!?"
+    },
+    {
+        "id": 3,
+        "offset": 355754,
+        "data_size": 188,
+        "slot_size": 192,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "Yasuo's[SP]dead,[SP]too...[1205][001E][SP]Does[SP]this[SP]mean[SP]we've\nhit[SP]a[SP]wall[SP]in[SP]our[SP]search[SP]for[SP]Joker!?",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Yasuo est mort aussi...[1205][001E] Sommes-nous\nbloqués dans la recherche de Joker!?"
+    },
+    {
+        "id": 4,
+        "offset": 355946,
+        "data_size": 298,
+        "slot_size": 302,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "Guys,[SP]wherever[SP]rumors[SP]are,[SP]Joker's[SP]there[SP]too,\nright?[SP]Let's[SP]go[SP]out[SP]in[SP]the[SP]city[SP]and[SP]ask[SP]people\nfor[SP]rumors[SP]about[SP]the[SP]Masked[SP]Circle[SP]and[SP]Joker!",
+        "nom_fr": "Maya",
+        "texte_fr": "Où il y a des rumeurs, Joker y est, non?\nAllons en ville demander aux gens s'ils \nont[1205][U+000F]\ndes rumeurs sur le Cercle masqué et Joker!"
+    },
+    {
+        "id": 5,
+        "offset": 356248,
+        "data_size": 92,
+        "slot_size": 96,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "I'm[SP]sure[SP]we'll[SP]learn[SP]something[SP]new!",
+        "nom_fr": "Maya",
+        "texte_fr": "On apprendra sûrement des trucs!"
+    },
+    {
+        "id": 6,
+        "offset": 356344,
+        "data_size": 180,
+        "slot_size": 184,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Yukino",
+        "texte_orig": "There[SP]must[SP]be[SP]a[SP]reason[SP]why[SP]Anna[SP]became[SP]an\nexecutive[SP]in[SP]the[SP]Masked[SP]Circle...[1205][001E]",
+        "nom_fr": "Yukino",
+        "texte_fr": "Il y a forcément une raison pour qu'Anna\nsoit cadre du Cercle masqué...[1205][001E]"
+    }
 ]

@@ -249,101 +249,88 @@ def encode_fbe_slot(
     log_fn=None,
     dlg_id=None,
 ) -> bool:
-    # 1. Trouver la fin EXACTE du dialogue d'origine dans la zone allouee
-    # Le dialogue s'arrete au premier 0x1107.
-    orig_end = offset
-    max_search = min(offset + data_size, len(data) - 1)
-    # L'espace total alloue pour ce dialogue est EXACTEMENT data_size
-    real_budget = data_size
-
-    # Extraction de tail_bytes (tout ce qui vient après [1107])
-    # ET récupération des animations [1431] perdues dans le texte !
-    tail_start = offset + data_size
-    idx = offset
-    lost_anims = b""
-    while idx < offset + data_size:
-        if idx + 1 >= offset + data_size:
+    from src.core.text import text_to_bytes
+    from src.config import SP, NL
+    
+    # Etape 1: Préparer les bytes FR
+    t_bytes_fr = text_to_bytes(t_fr)
+    fr_len = len(t_bytes_fr)
+    fr_idx = 0
+    
+    end = offset + data_size
+    i = offset
+    
+    # Etape 2: Remplacer le nom (on conserve la logique de remplacement en place)
+    # Dans la plupart des F_BE, on ne touche pas au nom, mais si on le fait, on a besoin
+    # de l'écraser proprement jusqu'au NL.
+    n_bytes_fr = text_to_bytes(n_fr)
+    n_len = len(n_bytes_fr)
+    n_idx = 0
+    
+    while i < end:
+        w = data[i] | (data[i+1] << 8)
+        if w == NL:
+            i += 2
             break
-        b0, b1 = data[idx], data[idx + 1]
+            
+        if n_idx < n_len:
+            data[i] = n_bytes_fr[n_idx]
+            data[i+1] = n_bytes_fr[n_idx+1]
+            n_idx += 2
+        else:
+            data[i] = 0x00
+            data[i+1] = 0x00
+        i += 2
+        
+    # Etape 3: Remplacer le texte en preservant TOUS les codes de controle et animations
+    while i < end:
+        if i + 1 >= end:
+            break
+            
+        b0, b1 = data[i], data[i+1]
         w = b0 | (b1 << 8)
-        if w == 0x1431:
-            lost_anims += data[idx : idx + 7]
-            idx += 7
-            continue
+        
         if w == 0x1107:
-            tail_start = idx + 2
+            # Fin du dialogue, on ne touche pas a la suite (tail_bytes) !
             break
-        # Saut des tags texte normaux pour avancer
-        if b1 in (0x11, 0x14):
-            idx += 2
-            continue
-        if 0x20 <= b0 <= 0x7E and b1 == 0x00:
-            idx += 2
-            continue
-        idx += 2
-
-    # On cherche le End Event (31 14) dans la suite du buffer pour couper tail_bytes en deux !
-    # tail_part1 = la fin logique du script courant (ex: 06 11 02 11 03 11 31 14)
-    # tail_part2 = les scripts suivants caches dans le meme bloc (ex: Shadow Eikichi)
-    end_event_idx = -1
-    idx_search = tail_start
-    while idx_search < offset + data_size:
-        if idx_search + 1 >= offset + data_size:
-            break
-        w = data[idx_search] | (data[idx_search + 1] << 8)
+            
         if w == 0x1431:
-            end_event_idx = idx_search
-            break
-        idx_search += 2
+            i += 7
+            continue
+            
+        # Identifier si c'est un caractere de texte valide
+        is_text = False
+        if 0x20 <= b0 <= 0x7E and b1 == 0x00:
+            is_text = True
+        elif 0x80 <= b0 <= 0xFF and b1 == 0x00:
+            is_text = True
+        elif w == SP or w == NL:
+            is_text = True
+            
+        if is_text:
+            if fr_idx < fr_len:
+                data[i] = t_bytes_fr[fr_idx]
+                data[i+1] = t_bytes_fr[fr_idx+1]
+                fr_idx += 2
+            else:
+                data[i] = (SP & 0xFF)
+                data[i+1] = ((SP >> 8) & 0xFF)
+            i += 2
+            continue
+            
+        # Si c'est une timing mark (1 octet)
+        if b0 != 0x00 and b1 != 0x00 and b1 not in (0x11, 0x14):
+            i += 1
+            continue
+            
+        # Sinon, c'est un code de controle (ou inconnu), on le saute en preservant ses octets
+        i += 2
 
-    if end_event_idx != -1:
-        tail_part1 = data[tail_start : end_event_idx + 2]
-        tail_part2 = data[end_event_idx + 2 : offset + data_size]
-    else:
-        tail_part1 = data[tail_start : offset + data_size]
-        tail_part2 = b""
-
-    header_bytes = text_to_bytes(n_fr) + struct.pack("<H", NL)
-    trailer_bytes = struct.pack("<H", NL) + struct.pack("<H", 0x1107)
-
-    overhead = (
-        len(header_bytes)
-        + len(trailer_bytes)
-        + len(tail_part1)
-        + len(tail_part2)
-        + len(lost_anims)
-    )
-    text_budget = real_budget - overhead
-
-    if text_budget < 2:
-        return False, 0
-
-    t_bytes = text_to_bytes(t_fr)
-    if len(t_bytes) > text_budget:
-        depassement = len(t_bytes) - text_budget
+        
+    if fr_idx < fr_len:
         if log_fn:
-            log_fn(
-                f"  [!] [TEXTE TRONQUE] [id {dlg_id}] Menu FR tronque de {depassement//2} caracteres.",
-                "warn",
-            )
-        t_bytes = text_to_bytes(t_fr[: text_budget // 2])
-
-    # Padding Intra-Texte avec des Espaces [SP]
-    # Ceci garantit que la taille du slot reste EXACTEMENT identique a l'originale,
-    # empechant le decalage des offsets absolus des modeles 3D dans le fichier BNP,
-    # tout en restant cache aux yeux du scanner script !
-    pad_len = text_budget - len(t_bytes)
-    t_bytes += struct.pack("<H", SP) * (pad_len // 2)
-
-    enc = header_bytes + t_bytes + lost_anims + trailer_bytes + tail_part1 + tail_part2
-
-    # Failsafe alignment (ne devrait jamais arriver si text_budget est pair)
-    if len(enc) < data_size:
-        enc += b"\x00" * (data_size - len(enc))
-
-    # On ecrase la portion d'origine sans modifier la taille du fichier !
-    data[offset : offset + data_size] = enc
-
+            log_fn(f"  [!] [TEXTE TRONQUE] [id {dlg_id}] Menu FR tronqué de {(fr_len - fr_idx)//2} char.", "warn")
+            
     return True
 
 
