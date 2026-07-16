@@ -64,7 +64,10 @@ Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable
 
 ## État d'Avancement
 
-Voici l'état actuel de la traduction. Pour des statistiques plus détaillées (graphiques et progression fichier par fichier), veuillez consulter le tableau de bord officiel : **[SUIVI.md](./SUIVI.md)**.
+Voici l'état actuel de la traduction. Pour des statistiques plus détaillées (graphiques et progression fichier par fichier), veuillez consulter :
+- **[Le Tableau de Bord Principal (SUIVI.md)](./SUIVI.md)**
+- **[Le Google Sheets Détaillé](https://docs.google.com/spreadsheets/d/1d0MADmYznfH-R43RLZAHrngTT5flK9UTVt4wTzc10Uw/edit?gid=0#gid=0)**
+- **[Le Suivi Technique & Bugs Connus (SUIVI_TECHNIQUE.md)](./SUIVI_TECHNIQUE.md)**
 
 <br/>
 
