@@ -1,98 +1,98 @@
 [
-    {
-        "id": 0,
-        "offset": 253982,
-        "data_size": 90,
-        "slot_size": 94,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "Hot![SP]Hot![SP]It's[SP]just[SP]like[SP][1114][SP]said!",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Ça brûûûle! Comme [1114] l'a dit!"
-    },
-    {
-        "id": 1,
-        "offset": 254076,
-        "data_size": 74,
-        "slot_size": 78,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "Hot![SP]Hot![SP]I[SP]told[SP]you[SP]so!",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Aaah! Je l'avais dit!"
-    },
-    {
-        "id": 2,
-        "offset": 254154,
-        "data_size": 58,
-        "slot_size": 62,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Jun",
-        "texte_orig": "The[SP]door[SP]won't[SP]open!",
-        "nom_fr": "Jun",
-        "texte_fr": "Ça ne s'ouvre pas!"
-    },
-    {
-        "id": 3,
-        "offset": 254216,
-        "data_size": 142,
-        "slot_size": 146,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Nooooo![SP]Are[SP]we[SP]gonna[SP]be[SP]crispy[SP]critters\nthis[SP]time[SP]for[SP]sure!?",
-        "nom_fr": "Ginko",
-        "texte_fr": "Noooon! On va vraiment finir\nen méchoui cette fois!?"
-    },
-    {
-        "id": 4,
-        "offset": 254362,
-        "data_size": 204,
-        "slot_size": 208,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "A[SP]cool[SP]head[SP]will[SP]stave[SP]off[SP]the[SP]heat!\nOur[SP]Personas[SP]will[SP]protect[SP]us![SP]Don't[SP]stop\nrunning,[SP]guys!",
-        "nom_fr": "Maya",
-        "texte_fr": "Contre la chaleur, gardez la tête froide!\nNos Personae nous protégerons! Alors courez!"
-    },
-    {
-        "id": 5,
-        "offset": 254570,
-        "data_size": 158,
-        "slot_size": 162,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "That's[SP]ridiculous...![SP]How[SP]are[SP]you[SP]always\nso[SP]optimistic,[SP]Big[SP]Maya!?",
-        "nom_fr": "Eikichi",
-        "texte_fr": "C'est ridicule...! Comment es-tu\ntoujours aussi optimiste, Maya!?"
-    }
+  {
+    "id": 0,
+    "offset": 253982,
+    "data_size": 90,
+    "slot_size": 94,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Hot![SP]Hot![SP]It's[SP]just[SP]like[SP][1114][SP]said!",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ça brûûûle! Comme [1114] l'a dit!"
+  },
+  {
+    "id": 1,
+    "offset": 254076,
+    "data_size": 74,
+    "slot_size": 78,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Hot![SP]Hot![SP]I[SP]told[SP]you[SP]so!",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Aaah! Je l'avais dit!"
+  },
+  {
+    "id": 2,
+    "offset": 254154,
+    "data_size": 58,
+    "slot_size": 62,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "The[SP]door[SP]won't[SP]open!",
+    "nom_fr": "Jun",
+    "texte_fr": "Ça ne s'ouvre pas!"
+  },
+  {
+    "id": 3,
+    "offset": 254216,
+    "data_size": 142,
+    "slot_size": 146,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Nooooo![SP]Are[SP]we[SP]gonna[SP]be[SP]crispy[SP]critters\nthis[SP]time[SP]for[SP]sure!?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Noooon! On va vraiment finir\nen méchoui cette fois!?"
+  },
+  {
+    "id": 4,
+    "offset": 254362,
+    "data_size": 204,
+    "slot_size": 208,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "A[SP]cool[SP]head[SP]will[SP]stave[SP]off[SP]the[SP]heat!\nOur[SP]Personas[SP]will[SP]protect[SP]us![SP]Don't[SP]stop\nrunning,[SP]guys!",
+    "nom_fr": "Maya",
+    "texte_fr": "Contre la chaleur, gardez la tête froide!\nNos Personae nous protégerons! Alors courez!"
+  },
+  {
+    "id": 5,
+    "offset": 254570,
+    "data_size": 158,
+    "slot_size": 162,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "That's[SP]ridiculous...![SP]How[SP]are[SP]you[SP]always\nso[SP]optimistic,[SP]Big[SP]Maya!?",
+    "nom_fr": "Eikichi",
+    "texte_fr": "C'est ridicule...! Comment es-tu\ntoujours aussi optimiste, Maya!?"
+  }
 ]

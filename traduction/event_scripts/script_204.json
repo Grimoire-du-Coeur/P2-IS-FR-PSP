@@ -1,162 +1,162 @@
 [
-    {
-        "id": 0,
-        "offset": 184822,
-        "data_size": 76,
-        "slot_size": 80,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Wh-What[SP]is[SP]this[SP]place...!?",
-        "nom_fr": "Ginko",
-        "texte_fr": "Quel est cette piéce...!?"
-    },
-    {
-        "id": 1,
-        "offset": 184902,
-        "data_size": 52,
-        "slot_size": 56,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Outer[SP]space...?",
-        "nom_fr": "Maya",
-        "texte_fr": "Le cosmos...?"
-    },
-    {
-        "id": 2,
-        "offset": 184958,
-        "data_size": 154,
-        "slot_size": 158,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "Dude...[1205][001E][SP]Doesn't[SP]this[SP]place[SP]remind[SP]you[SP]of\nanywhere[SP]we[SP]know...?",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Mec... Cet endroit te rappelle\npas quelque chose...?"
-    },
-    {
-        "id": 3,
-        "offset": 185116,
-        "data_size": 152,
-        "slot_size": 156,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Fuhrer",
-        "texte_orig": "Welcome[SP]to[SP]the[SP]heart[SP]of[SP]Xibalba...[1205][001E]\nI've[SP]been[SP]waiting[SP]for[SP]you.",
-        "nom_fr": "Führer",
-        "texte_fr": "Bienvenue au cœur de\nXibalba... Je vous attendais."
-    },
-    {
-        "id": 4,
-        "offset": 185272,
-        "data_size": 66,
-        "slot_size": 70,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Jun",
-        "texte_orig": "Where[SP]is[SP]that[SP]monster!?",
-        "nom_fr": "Jun",
-        "texte_fr": "Qui est ce monstre!?"
-    },
-    {
-        "id": 5,
-        "offset": 185342,
-        "data_size": 250,
-        "slot_size": 254,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Fuhrer",
-        "texte_orig": "What[SP]a[SP]terrible[SP]junge,[SP]referring[SP]to[SP]your\nfather[SP]that[SP]way.[SP]You'll[SP]never[SP]grow[SP]into[SP]a\nfine[SP]man[SP]if[SP]you[SP]keep[SP]that[SP]up.",
-        "nom_fr": "Führer",
-        "texte_fr": "Quel mauvais gamin, à parler ainsi\nde ton père. Tu ne deviendras\njamais un homme respectable."
-    },
-    {
-        "id": 6,
-        "offset": 185596,
-        "data_size": 212,
-        "slot_size": 216,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "We've[SP]beat[SP]your[SP]minions,[SP]the[SP]Masked[SP]Circle\nexecutives,[SP]everyone[SP]who[SP]can[SP]use[SP]the[SP]crystal\nskulls!",
-        "nom_fr": "Maya",
-        "texte_fr": "On a battu tes sbires, aux Cercle\nMasqué, tous ceux qui peuvent\nutiliser les crânes de cristal!"
-    },
-    {
-        "id": 7,
-        "offset": 185812,
-        "data_size": 256,
-        "slot_size": 260,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "We're[SP]the[SP]only[SP]ones[SP]left[SP]who[SP]can[SP]use[SP]them,\naren't[SP]we?[SP]So[SP]I[SP]don't[SP]think[SP]it's[SP]much[SP]use\nfor[SP]you[SP]to[SP]hold[SP]onto[SP]it[SP]anymore.",
-        "nom_fr": "Maya",
-        "texte_fr": "On est les seuls à pouvoir les\nutiliser, non? Alors, ça ne sert\nplus à rien que tu t’y accrochés."
-    },
-    {
-        "id": 8,
-        "offset": 186072,
-        "data_size": 246,
-        "slot_size": 250,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Fuhrer",
-        "texte_orig": "Heh...[SP]This[SP]thing[SP]has[SP]been[SP]meaningless[SP]from\nthe[SP]start,[SP]no[SP]matter[SP]who[SP]possesses[SP]it.[SP]If[SP]you\nwant[SP]it,[SP]it's[SP]yours.",
-        "nom_fr": "Führer",
-        "texte_fr": "Eh... Cette chose n’a jamais eu de\nsens, peu importe qui la possède.\nSi tu la veux, elle est à toi"
-    },
-    {
-        "id": 9,
-        "offset": 186322,
-        "data_size": 78,
-        "slot_size": 82,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Jun",
-        "texte_orig": "What...?[1205][001E][SP]What[SP]do[SP]you[SP]mean!?",
-        "nom_fr": "Jun",
-        "texte_fr": "Quoi? Où veux-tu en venir?!"
-    }
+  {
+    "id": 0,
+    "offset": 184822,
+    "data_size": 76,
+    "slot_size": 80,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Wh-What[SP]is[SP]this[SP]place...!?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Quel est cette piéce...!?"
+  },
+  {
+    "id": 1,
+    "offset": 184902,
+    "data_size": 52,
+    "slot_size": 56,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Outer[SP]space...?",
+    "nom_fr": "Maya",
+    "texte_fr": "Le cosmos...?"
+  },
+  {
+    "id": 2,
+    "offset": 184958,
+    "data_size": 154,
+    "slot_size": 158,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Dude...[1205][001E][SP]Doesn't[SP]this[SP]place[SP]remind[SP]you[SP]of\nanywhere[SP]we[SP]know...?",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Mec... Cet endroit te rappelle\npas quelque chose...?"
+  },
+  {
+    "id": 3,
+    "offset": 185116,
+    "data_size": 152,
+    "slot_size": 156,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Fuhrer",
+    "texte_orig": "Welcome[SP]to[SP]the[SP]heart[SP]of[SP]Xibalba...[1205][001E]\nI've[SP]been[SP]waiting[SP]for[SP]you.",
+    "nom_fr": "Führer",
+    "texte_fr": "Bienvenue au cœur de\nXibalba... Je vous attendais."
+  },
+  {
+    "id": 4,
+    "offset": 185272,
+    "data_size": 66,
+    "slot_size": 70,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "Where[SP]is[SP]that[SP]monster!?",
+    "nom_fr": "Jun",
+    "texte_fr": "Qui est ce monstre!?"
+  },
+  {
+    "id": 5,
+    "offset": 185342,
+    "data_size": 250,
+    "slot_size": 254,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Fuhrer",
+    "texte_orig": "What[SP]a[SP]terrible[SP]junge,[SP]referring[SP]to[SP]your\nfather[SP]that[SP]way.[SP]You'll[SP]never[SP]grow[SP]into[SP]a\nfine[SP]man[SP]if[SP]you[SP]keep[SP]that[SP]up.",
+    "nom_fr": "Führer",
+    "texte_fr": "Quel mauvais gamin, à parler ainsi\nde ton père. Tu ne deviendras\njamais un homme respectable."
+  },
+  {
+    "id": 6,
+    "offset": 185596,
+    "data_size": 212,
+    "slot_size": 216,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "We've[SP]beat[SP]your[SP]minions,[SP]the[SP]Masked[SP]Circle\nexecutives,[SP]everyone[SP]who[SP]can[SP]use[SP]the[SP]crystal\nskulls!",
+    "nom_fr": "Maya",
+    "texte_fr": "On a battu tes sbires, aux Cercle\nMasqué, tous ceux qui peuvent\nutiliser les crânes de cristal!"
+  },
+  {
+    "id": 7,
+    "offset": 185812,
+    "data_size": 256,
+    "slot_size": 260,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "We're[SP]the[SP]only[SP]ones[SP]left[SP]who[SP]can[SP]use[SP]them,\naren't[SP]we?[SP]So[SP]I[SP]don't[SP]think[SP]it's[SP]much[SP]use\nfor[SP]you[SP]to[SP]hold[SP]onto[SP]it[SP]anymore.",
+    "nom_fr": "Maya",
+    "texte_fr": "On est les seuls à pouvoir les\nutiliser, non? Alors, ça ne sert\nplus à rien que tu t’y accrochés."
+  },
+  {
+    "id": 8,
+    "offset": 186072,
+    "data_size": 246,
+    "slot_size": 250,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Fuhrer",
+    "texte_orig": "Heh...[SP]This[SP]thing[SP]has[SP]been[SP]meaningless[SP]from\nthe[SP]start,[SP]no[SP]matter[SP]who[SP]possesses[SP]it.[SP]If[SP]you\nwant[SP]it,[SP]it's[SP]yours.",
+    "nom_fr": "Führer",
+    "texte_fr": "Eh... Cette chose n’a jamais eu de\nsens, peu importe qui la possède.\nSi tu la veux, elle est à toi"
+  },
+  {
+    "id": 9,
+    "offset": 186322,
+    "data_size": 78,
+    "slot_size": 82,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "What...?[1205][001E][SP]What[SP]do[SP]you[SP]mean!?",
+    "nom_fr": "Jun",
+    "texte_fr": "Quoi? Où veux-tu en venir?!"
+  }
 ]

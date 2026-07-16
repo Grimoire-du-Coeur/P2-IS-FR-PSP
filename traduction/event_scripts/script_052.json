@@ -1,210 +1,210 @@
 [
-    {
-        "id": 0,
-        "offset": 267262,
-        "data_size": 80,
-        "slot_size": 84,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Oh,[SP]no![SP]I[SP]was[SP]too[SP]hard[SP]on[SP]her!",
-        "nom_fr": "Maya",
-        "texte_fr": "Ho, non! Trop dure avec elle!"
-    },
-    {
-        "id": 1,
-        "offset": 267346,
-        "data_size": 48,
-        "slot_size": 52,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "...All[SP]better!",
-        "nom_fr": "Maya",
-        "texte_fr": "Tout va bien!"
-    },
-    {
-        "id": 2,
-        "offset": 267398,
-        "data_size": 272,
-        "slot_size": 276,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "Is[SP]it[SP]okay[SP]to[SP]let[SP]this[SP]chica[SP]be?[SP]She[SP]didn't\nseem[SP]very[SP]sorry...[SP]I[SP]wouldn't[SP]be[SP]surprised\nif[SP]she[SP]came[SP]back[SP]to[SP]harass[SP]us[SP]again.",
-        "nom_fr": "Eikichi",
-        "texte_fr": "C'est bon de laisser cette fille? Elle ne\nsemblait pas désolée... Je ne serais pas\nsurpris[1205][U+000F] si elle revenait nous harceler."
-    },
-    {
-        "id": 3,
-        "offset": 267674,
-        "data_size": 266,
-        "slot_size": 270,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "She[SP]must[SP]never[SP]have[SP]had[SP]any[SP]proper[SP]adults\nplay[SP]with[SP]her...[1205][001E][SP]Don't[SP]worry![SP]If[SP]that[SP]ever\nhappens,[SP]I[SP]take[SP]full[SP]responsibility.",
-        "nom_fr": "Maya",
-        "texte_fr": "Elle n'a jamais dû avoir d'adultes\nresponsables pour jouer avec...[1205][001E] Ne paniquez\npas! Si [1205][U+000F] jamais ça arrive, j'assumerais."
-    },
-    {
-        "id": 4,
-        "offset": 267944,
-        "data_size": 130,
-        "slot_size": 134,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Elly's[SP]voice",
-        "texte_orig": "Hello,[SP]Yukino?[SP]Did[SP]you[SP]find[SP]the[SP]second\nriddle?",
-        "nom_fr": "Voix d'Elly",
-        "texte_fr": "Salut, Yukino? Tu as\ntrouvé la deuxième énigme?"
-    },
-    {
-        "id": 5,
-        "offset": 268078,
-        "data_size": 126,
-        "slot_size": 130,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "That[SP]you,[SP]Eriko?[SP]Yeah,[SP]we[SP]got[SP]it.\nThis[SP]one[SP]says...",
-        "nom_fr": "Yukino",
-        "texte_fr": "C'est toi, Eriko? Nous\nl'avons. Celle-ci dit..."
-    },
-    {
-        "id": 6,
-        "offset": 268208,
-        "data_size": 266,
-        "slot_size": 270,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Twelve[SP]beasts[SP]crown[SP]the[SP]Pleiades\nWhen[SP]the[SP]spring[SP]of[SP]death[SP]and[SP]rebirth[SP]gushes\nThe[SP]way[SP]to[SP]El[SP]Dorado[SP]opens[SP]from[SP]dream's[SP]cape",
-        "nom_fr": "Yukino",
-        "texte_fr": "12 bêtes couronnent le Pléiade Quand\njaillit la mort et la renaissance Le chemin\nd'El Dorado s'ouvre depuis cap [1205][U+000F] du rêve"
-    },
-    {
-        "id": 7,
-        "offset": 268478,
-        "data_size": 206,
-        "slot_size": 210,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Elly's[SP]voice",
-        "texte_orig": "Hmm...[SP]The[SP]first[SP]line[SP]is[SP]the[SP]same[SP]as[SP]before,\nso[SP]the[SP]only[SP]question[SP]is[SP]the[SP]rest[SP]of[SP]it.",
-        "nom_fr": "Voix d'Elly",
-        "texte_fr": "Hmm... La première ligne est la même, ainsi\nla question est le reste de l'énigme."
-    },
-    {
-        "id": 8,
-        "offset": 268688,
-        "data_size": 222,
-        "slot_size": 226,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Elly's[SP]voice",
-        "texte_orig": "Going[SP]by[SP]the[SP]same[SP]logic[SP]as[SP]before,[SP]the[SP]sign\nof[SP]water[SP]that[SP]presides[SP]over[SP]death[SP]and\nrebirth...",
-        "nom_fr": "Voix d'Elly",
-        "texte_fr": "En suivant la même logique, le signe de l'eau\nqui préside à la mort et à la renaissance..."
-    },
-    {
-        "id": 9,
-        "offset": 268914,
-        "data_size": 282,
-        "slot_size": 286,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Elly's[SP]voice",
-        "texte_orig": "That[SP]would[SP]be[SP]Scorpio.[SP]In[SP]other[SP]words,[SP]head\nnorth[SP]by[SP]northeast[SP]from[SP]Seven[SP]Sisters[SP]High,\nso[SP]the[SP]next[SP]target[SP]is[SP]in[SP]Yumezaki!",
-        "nom_fr": "Voix d'Elly",
-        "texte_fr": "Ce serait le Scorpion. Du coup, cap au\nnord-nord-est depuis le lycée de Septs Sœurs,[1205][U+000F]\nainsi la prochaine cible est Yumezaki!"
-    },
-    {
-        "id": 10,
-        "offset": 269200,
-        "data_size": 184,
-        "slot_size": 188,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Good[SP]job,[SP]Eriko![SP]We[SP]can[SP]take[SP]it[SP]from[SP]here\nnow[SP]that[SP]we[SP]have[SP]an[SP]idea[SP]where[SP]to[SP]go.",
-        "nom_fr": "Yukino",
-        "texte_fr": "Bien joué, Eriko! On prend le relais,\nnous avons une idée d'où aller."
-    },
-    {
-        "id": 11,
-        "offset": 269388,
-        "data_size": 116,
-        "slot_size": 120,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "The[SP]way[SP]to[SP]El[SP]Dorado[SP]opens[SP]from\ndream's[SP]cape...",
-        "nom_fr": "Maya",
-        "texte_fr": "Le chemin vers El Dorado depuis cap du rêve..."
-    },
-    {
-        "id": 12,
-        "offset": 269508,
-        "data_size": 236,
-        "slot_size": 240,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "El[SP]Dorado,[SP]huh?[SP]It[SP]translates[SP]to[SP][1432][NULL][NULL][0014]golden\none[1432][NULL][NULL][0014]...[SP]Is[SP]there[SP]anywhere[SP]in[SP]Yumezaki[SP]with\na[SP]name[SP]like[SP]that?",
-        "nom_fr": "Maya",
-        "texte_fr": "El Dorado, hein? Cela se traduit\npar [1432][NULL][NULL][0014]le doré[1432][NULL][NULL][0014]... Y'a un endroit à\nYumezaki avec un nom comme ça?"
-    }
+  {
+    "id": 0,
+    "offset": 267262,
+    "data_size": 80,
+    "slot_size": 84,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Oh,[SP]no![SP]I[SP]was[SP]too[SP]hard[SP]on[SP]her!",
+    "nom_fr": "Maya",
+    "texte_fr": "Ho, non! Trop dure avec elle!"
+  },
+  {
+    "id": 1,
+    "offset": 267346,
+    "data_size": 48,
+    "slot_size": 52,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "...All[SP]better!",
+    "nom_fr": "Maya",
+    "texte_fr": "Tout va bien!"
+  },
+  {
+    "id": 2,
+    "offset": 267398,
+    "data_size": 272,
+    "slot_size": 276,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Is[SP]it[SP]okay[SP]to[SP]let[SP]this[SP]chica[SP]be?[SP]She[SP]didn't\nseem[SP]very[SP]sorry...[SP]I[SP]wouldn't[SP]be[SP]surprised\nif[SP]she[SP]came[SP]back[SP]to[SP]harass[SP]us[SP]again.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "C'est bon de laisser cette fille? Elle ne\nsemblait pas désolée... Je ne serais pas\nsurpris[1205][U+000F] si elle revenait nous harceler."
+  },
+  {
+    "id": 3,
+    "offset": 267674,
+    "data_size": 266,
+    "slot_size": 270,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "She[SP]must[SP]never[SP]have[SP]had[SP]any[SP]proper[SP]adults\nplay[SP]with[SP]her...[1205][001E][SP]Don't[SP]worry![SP]If[SP]that[SP]ever\nhappens,[SP]I[SP]take[SP]full[SP]responsibility.",
+    "nom_fr": "Maya",
+    "texte_fr": "Elle n'a jamais dû avoir d'adultes\nresponsables pour jouer avec...[1205][001E] Ne paniquez\npas! Si [1205][U+000F] jamais ça arrive, j'assumerais."
+  },
+  {
+    "id": 4,
+    "offset": 267944,
+    "data_size": 130,
+    "slot_size": 134,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Elly's[SP]voice",
+    "texte_orig": "Hello,[SP]Yukino?[SP]Did[SP]you[SP]find[SP]the[SP]second\nriddle?",
+    "nom_fr": "Voix d'Elly",
+    "texte_fr": "Salut, Yukino? Tu as\ntrouvé la deuxième énigme?"
+  },
+  {
+    "id": 5,
+    "offset": 268078,
+    "data_size": 126,
+    "slot_size": 130,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "That[SP]you,[SP]Eriko?[SP]Yeah,[SP]we[SP]got[SP]it.\nThis[SP]one[SP]says...",
+    "nom_fr": "Yukino",
+    "texte_fr": "C'est toi, Eriko? Nous\nl'avons. Celle-ci dit..."
+  },
+  {
+    "id": 6,
+    "offset": 268208,
+    "data_size": 266,
+    "slot_size": 270,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Twelve[SP]beasts[SP]crown[SP]the[SP]Pleiades\nWhen[SP]the[SP]spring[SP]of[SP]death[SP]and[SP]rebirth[SP]gushes\nThe[SP]way[SP]to[SP]El[SP]Dorado[SP]opens[SP]from[SP]dream's[SP]cape",
+    "nom_fr": "Yukino",
+    "texte_fr": "12 bêtes couronnent le Pléiade Quand\njaillit la mort et la renaissance Le chemin\nd'El Dorado s'ouvre depuis cap [1205][U+000F] du rêve"
+  },
+  {
+    "id": 7,
+    "offset": 268478,
+    "data_size": 206,
+    "slot_size": 210,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Elly's[SP]voice",
+    "texte_orig": "Hmm...[SP]The[SP]first[SP]line[SP]is[SP]the[SP]same[SP]as[SP]before,\nso[SP]the[SP]only[SP]question[SP]is[SP]the[SP]rest[SP]of[SP]it.",
+    "nom_fr": "Voix d'Elly",
+    "texte_fr": "Hmm... La première ligne est la même, ainsi\nla question est le reste de l'énigme."
+  },
+  {
+    "id": 8,
+    "offset": 268688,
+    "data_size": 222,
+    "slot_size": 226,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Elly's[SP]voice",
+    "texte_orig": "Going[SP]by[SP]the[SP]same[SP]logic[SP]as[SP]before,[SP]the[SP]sign\nof[SP]water[SP]that[SP]presides[SP]over[SP]death[SP]and\nrebirth...",
+    "nom_fr": "Voix d'Elly",
+    "texte_fr": "En suivant la même logique, le signe de l'eau\nqui préside à la mort et à la renaissance..."
+  },
+  {
+    "id": 9,
+    "offset": 268914,
+    "data_size": 282,
+    "slot_size": 286,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Elly's[SP]voice",
+    "texte_orig": "That[SP]would[SP]be[SP]Scorpio.[SP]In[SP]other[SP]words,[SP]head\nnorth[SP]by[SP]northeast[SP]from[SP]Seven[SP]Sisters[SP]High,\nso[SP]the[SP]next[SP]target[SP]is[SP]in[SP]Yumezaki!",
+    "nom_fr": "Voix d'Elly",
+    "texte_fr": "Ce serait le Scorpion. Du coup, cap au\nnord-nord-est depuis le lycée de Septs Sœurs,[1205][U+000F]\nainsi la prochaine cible est Yumezaki!"
+  },
+  {
+    "id": 10,
+    "offset": 269200,
+    "data_size": 184,
+    "slot_size": 188,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Good[SP]job,[SP]Eriko![SP]We[SP]can[SP]take[SP]it[SP]from[SP]here\nnow[SP]that[SP]we[SP]have[SP]an[SP]idea[SP]where[SP]to[SP]go.",
+    "nom_fr": "Yukino",
+    "texte_fr": "Bien joué, Eriko! On prend le relais,\nnous avons une idée d'où aller."
+  },
+  {
+    "id": 11,
+    "offset": 269388,
+    "data_size": 116,
+    "slot_size": 120,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "The[SP]way[SP]to[SP]El[SP]Dorado[SP]opens[SP]from\ndream's[SP]cape...",
+    "nom_fr": "Maya",
+    "texte_fr": "Le chemin vers El Dorado depuis cap du rêve..."
+  },
+  {
+    "id": 12,
+    "offset": 269508,
+    "data_size": 236,
+    "slot_size": 240,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "El[SP]Dorado,[SP]huh?[SP]It[SP]translates[SP]to[SP][1432][NULL][NULL][0014]golden\none[1432][NULL][NULL][0014]...[SP]Is[SP]there[SP]anywhere[SP]in[SP]Yumezaki[SP]with\na[SP]name[SP]like[SP]that?",
+    "nom_fr": "Maya",
+    "texte_fr": "El Dorado, hein? Cela se traduit\npar [1432][NULL][NULL][0014]le doré[1432][NULL][NULL][0014]... Y'a un endroit à\nYumezaki avec un nom comme ça?"
+  }
 ]

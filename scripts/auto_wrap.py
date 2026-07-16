@@ -95,7 +95,7 @@ def process_all_jsons(folder_path):
                     
         if changed:
             with open(fpath, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=4)
+                json.dump(data, f, ensure_ascii=False, indent=2)
             count += 1
             
     return count

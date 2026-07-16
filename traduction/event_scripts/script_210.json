@@ -1,220 +1,220 @@
 [
-    {
-        "id": 0,
-        "offset": 375238,
-        "data_size": 190,
-        "slot_size": 194,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "Yo,[SP][1113]![SP]Ms.[SP]Saeko[SP]was[SP]looking[SP]for[SP]you.\nSomething[SP]about[SP]guidance[SP]counseling...",
-        "nom_fr": "Lycéen",
-        "texte_fr": "Yo, [1113]! Mme Saeko te cherchait.\nUn truc à propos de ton orientation..."
-    },
-    {
-        "id": 1,
-        "offset": 375432,
-        "data_size": 106,
-        "slot_size": 110,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "What's[SP]up?[SP]Your[SP]motorcycle[SP]busted?",
-        "nom_fr": "Lycéen",
-        "texte_fr": "Ça va? Ta moto est en panne?"
-    },
-    {
-        "id": 2,
-        "offset": 375542,
-        "data_size": 312,
-        "slot_size": 316,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "Yikes![SP]This[SP]looks[SP]bad.[SP]I[SP]know[SP]you're[SP]not[SP]that\ngood[SP]at[SP]fixing[SP]stuff,[SP]so[SP]you[SP]might[SP]wanna[SP]take\nthe[SP]train[SP]home.[SP]Well,[SP]I[SP]delivered[SP]my[SP]message.",
-        "nom_fr": "Lycéen",
-        "texte_fr": "Aïe, ça craint. Je sais que réparer des trucs\nc'est pas ta tasse de thé alors rentre[1205][U+000F] plutôt\nen train. Voilà, le message est passée."
-    },
-    {
-        "id": 3,
-        "offset": 375858,
-        "data_size": 162,
-        "slot_size": 166,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ms.[SP]Saeko",
-        "texte_orig": "Aha![SP]There[SP]you[SP]are,[SP][1113]![SP]You're[SP]not\ngetting[SP]away[SP]from[SP]me[SP]this[SP]time.",
-        "nom_fr": "Mme Saeko",
-        "texte_fr": "Ah! Te voilà [1113]! Tu ne\nm'échapperas pas cette fois."
-    },
-    {
-        "id": 4,
-        "offset": 376024,
-        "data_size": 226,
-        "slot_size": 230,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ms.[SP]Saeko",
-        "texte_orig": "Well[SP]then,[SP]let's[SP]get[SP]straight[SP]to[SP]business.\nHave[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?",
-        "nom_fr": "Mme Saeko",
-        "texte_fr": "Bon, venons-en au faits. As-tu décidé\nde ce que tu veux faire après le lycée?"
-    },
-    {
-        "id": 5,
-        "offset": 376254,
-        "data_size": 234,
-        "slot_size": 238,
-        "_term": [
-            4361,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ms.[SP]Saeko",
-        "texte_orig": "Have[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?\n[1208][0002][1432][NULL][NULL][0014]Yeah,[SP]I've[SP]decided.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]yet.[1432][NULL][NULL][0014]",
-        "nom_fr": "Mme Saeko",
-        "texte_fr": "As-tu décidé de ce que tu veux faire après\nle lycée?\n[1208][0002][1432][NULL][NULL][0014]Ouais, c'est bon.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Pas encore.[1432][NULL][NULL][0014]",
-        "question_orig": "Have[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?",
-        "choix_orig": [
-            "Yeah,[SP]I've[SP]decided.",
-            "Not[SP]yet."
-        ],
-        "question_fr": "As-tu décidé de ce que tu veux faire après le lycée?",
-        "choix_fr": [
-            "Ouais, c'est bon.",
-            "Pas encore."
-        ]
-    },
-    {
-        "id": 6,
-        "offset": 376492,
-        "data_size": 264,
-        "slot_size": 268,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ms.[SP]Saeko",
-        "texte_orig": "Is[SP]that[SP]so![SP]Well,[SP]that's[SP]all[SP]I[SP]needed[SP]to[SP]hear\nfor[SP]today.[SP]We[SP]can[SP]discuss[SP]it[SP]more[SP]tomorrow\nat[SP]your[SP]guidance[SP]interview.",
-        "nom_fr": "Mme Saeko",
-        "texte_fr": "Ah! C'est tout ce que je voulais savoir. On\nen reparlera demain lors de ton entretien."
-    },
-    {
-        "id": 7,
-        "offset": 376760,
-        "data_size": 230,
-        "slot_size": 234,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ms.[SP]Saeko",
-        "texte_orig": "I[SP]see.[SP]Well,[SP]there's[SP]no[SP]rush.[SP]It's[SP]your[SP]life,\nso[SP]think[SP]hard[SP]about[SP]it[SP]before[SP]you[SP]make[SP]your\ndecision.",
-        "nom_fr": "Mme Saeko",
-        "texte_fr": "Je vois. Rien ne presse après tout.\nC'est ta vie alors réfléchis-y bien\navant de faire ton choix."
-    },
-    {
-        "id": 8,
-        "offset": 376994,
-        "data_size": 34,
-        "slot_size": 38,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Lisa",
-        "texte_orig": "......",
-        "nom_fr": "Lisa",
-        "texte_fr": "......"
-    },
-    {
-        "id": 9,
-        "offset": 377032,
-        "data_size": 62,
-        "slot_size": 66,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Mami",
-        "texte_orig": "Hm?[SP]What's[SP]up,[SP]Lisa?",
-        "nom_fr": "Mami",
-        "texte_fr": "Hm? Un souci Lisa?"
-    },
-    {
-        "id": 10,
-        "offset": 377098,
-        "data_size": 172,
-        "slot_size": 176,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Lisa",
-        "texte_orig": "U-Umm...[1205][001E][SP]I-I[SP]was[SP]just[SP]waiting[SP]around![SP]I[SP]knew\nyou[SP]guys[SP]would[SP]show[SP]up[SP]soon!",
-        "nom_fr": "Lisa",
-        "texte_fr": "E-Euh...[1205][001E] J-Je vous attendais! Je\nsavais que vous finiriez par arriver!"
-    },
-    {
-        "id": 11,
-        "offset": 377274,
-        "data_size": 118,
-        "slot_size": 122,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Miho",
-        "texte_orig": "Oooh,[SP]it's[SP][1112]-senpai.[SP]He's[SP]gotten[SP]so\ncool[SP]lately!",
-        "nom_fr": "Miho",
-        "texte_fr": "Oooh, C'est [1112]. Il a trop\nla classe en ce moment!"
-    },
-    {
-        "id": 12,
-        "offset": 377396,
-        "data_size": 84,
-        "slot_size": 88,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Lisa",
-        "texte_orig": "Y-You[SP]think?[SP]He[SP]has[SP]weird[SP]hair.",
-        "nom_fr": "Lisa",
-        "texte_fr": "T-Tu penses? Il est mal coiffé."
-    }
+  {
+    "id": 0,
+    "offset": 375238,
+    "data_size": 190,
+    "slot_size": 194,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "Yo,[SP][1113]![SP]Ms.[SP]Saeko[SP]was[SP]looking[SP]for[SP]you.\nSomething[SP]about[SP]guidance[SP]counseling...",
+    "nom_fr": "Lycéen",
+    "texte_fr": "Yo, [1113]! Mme Saeko te cherchait.\nUn truc à propos de ton orientation..."
+  },
+  {
+    "id": 1,
+    "offset": 375432,
+    "data_size": 106,
+    "slot_size": 110,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "What's[SP]up?[SP]Your[SP]motorcycle[SP]busted?",
+    "nom_fr": "Lycéen",
+    "texte_fr": "Ça va? Ta moto est en panne?"
+  },
+  {
+    "id": 2,
+    "offset": 375542,
+    "data_size": 312,
+    "slot_size": 316,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "Yikes![SP]This[SP]looks[SP]bad.[SP]I[SP]know[SP]you're[SP]not[SP]that\ngood[SP]at[SP]fixing[SP]stuff,[SP]so[SP]you[SP]might[SP]wanna[SP]take\nthe[SP]train[SP]home.[SP]Well,[SP]I[SP]delivered[SP]my[SP]message.",
+    "nom_fr": "Lycéen",
+    "texte_fr": "Aïe, ça craint. Je sais que réparer des trucs\nc'est pas ta tasse de thé alors rentre[1205][U+000F] plutôt\nen train. Voilà, le message est passée."
+  },
+  {
+    "id": 3,
+    "offset": 375858,
+    "data_size": 162,
+    "slot_size": 166,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ms.[SP]Saeko",
+    "texte_orig": "Aha![SP]There[SP]you[SP]are,[SP][1113]![SP]You're[SP]not\ngetting[SP]away[SP]from[SP]me[SP]this[SP]time.",
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Ah! Te voilà [1113]! Tu ne\nm'échapperas pas cette fois."
+  },
+  {
+    "id": 4,
+    "offset": 376024,
+    "data_size": 226,
+    "slot_size": 230,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ms.[SP]Saeko",
+    "texte_orig": "Well[SP]then,[SP]let's[SP]get[SP]straight[SP]to[SP]business.\nHave[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?",
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Bon, venons-en au faits. As-tu décidé\nde ce que tu veux faire après le lycée?"
+  },
+  {
+    "id": 5,
+    "offset": 376254,
+    "data_size": 234,
+    "slot_size": 238,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ms.[SP]Saeko",
+    "texte_orig": "Have[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?\n[1208][0002][1432][NULL][NULL][0014]Yeah,[SP]I've[SP]decided.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]yet.[1432][NULL][NULL][0014]",
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "As-tu décidé de ce que tu veux faire après\nle lycée?\n[1208][0002][1432][NULL][NULL][0014]Ouais, c'est bon.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Pas encore.[1432][NULL][NULL][0014]",
+    "question_orig": "Have[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?",
+    "choix_orig": [
+      "Yeah,[SP]I've[SP]decided.",
+      "Not[SP]yet."
+    ],
+    "question_fr": "As-tu décidé de ce que tu veux faire après le lycée?",
+    "choix_fr": [
+      "Ouais, c'est bon.",
+      "Pas encore."
+    ]
+  },
+  {
+    "id": 6,
+    "offset": 376492,
+    "data_size": 264,
+    "slot_size": 268,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ms.[SP]Saeko",
+    "texte_orig": "Is[SP]that[SP]so![SP]Well,[SP]that's[SP]all[SP]I[SP]needed[SP]to[SP]hear\nfor[SP]today.[SP]We[SP]can[SP]discuss[SP]it[SP]more[SP]tomorrow\nat[SP]your[SP]guidance[SP]interview.",
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Ah! C'est tout ce que je voulais savoir. On\nen reparlera demain lors de ton entretien."
+  },
+  {
+    "id": 7,
+    "offset": 376760,
+    "data_size": 230,
+    "slot_size": 234,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ms.[SP]Saeko",
+    "texte_orig": "I[SP]see.[SP]Well,[SP]there's[SP]no[SP]rush.[SP]It's[SP]your[SP]life,\nso[SP]think[SP]hard[SP]about[SP]it[SP]before[SP]you[SP]make[SP]your\ndecision.",
+    "nom_fr": "Mme Saeko",
+    "texte_fr": "Je vois. Rien ne presse après tout.\nC'est ta vie alors réfléchis-y bien\navant de faire ton choix."
+  },
+  {
+    "id": 8,
+    "offset": 376994,
+    "data_size": 34,
+    "slot_size": 38,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Lisa",
+    "texte_orig": "......",
+    "nom_fr": "Lisa",
+    "texte_fr": "......"
+  },
+  {
+    "id": 9,
+    "offset": 377032,
+    "data_size": 62,
+    "slot_size": 66,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Mami",
+    "texte_orig": "Hm?[SP]What's[SP]up,[SP]Lisa?",
+    "nom_fr": "Mami",
+    "texte_fr": "Hm? Un souci Lisa?"
+  },
+  {
+    "id": 10,
+    "offset": 377098,
+    "data_size": 172,
+    "slot_size": 176,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Lisa",
+    "texte_orig": "U-Umm...[1205][001E][SP]I-I[SP]was[SP]just[SP]waiting[SP]around![SP]I[SP]knew\nyou[SP]guys[SP]would[SP]show[SP]up[SP]soon!",
+    "nom_fr": "Lisa",
+    "texte_fr": "E-Euh...[1205][001E] J-Je vous attendais! Je\nsavais que vous finiriez par arriver!"
+  },
+  {
+    "id": 11,
+    "offset": 377274,
+    "data_size": 118,
+    "slot_size": 122,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Miho",
+    "texte_orig": "Oooh,[SP]it's[SP][1112]-senpai.[SP]He's[SP]gotten[SP]so\ncool[SP]lately!",
+    "nom_fr": "Miho",
+    "texte_fr": "Oooh, C'est [1112]. Il a trop\nla classe en ce moment!"
+  },
+  {
+    "id": 12,
+    "offset": 377396,
+    "data_size": 84,
+    "slot_size": 88,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Lisa",
+    "texte_orig": "Y-You[SP]think?[SP]He[SP]has[SP]weird[SP]hair.",
+    "nom_fr": "Lisa",
+    "texte_fr": "T-Tu penses? Il est mal coiffé."
+  }
 ]

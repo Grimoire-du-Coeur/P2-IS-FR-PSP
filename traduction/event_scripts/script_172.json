@@ -1,98 +1,98 @@
 [
-    {
-        "id": 0,
-        "offset": 286206,
-        "data_size": 260,
-        "slot_size": 264,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "That[SP]Silver[SP]River[SP]thing[SP]is[SP]under[SP]here?\nI[SP]mean,[SP]I[SP]know[SP]there's[SP]a[SP]river[SP]right[SP]near\nit,[SP]but...[1205][001E][SP]This[SP]is[SP]too[SP]ridiculous.",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Je sais qu'il y a une rivière pas loin,\nmais cette Rivière d'Argent machinchose\njuste[1205][U+000F] là-dessous... C'est ridicule."
-    },
-    {
-        "id": 1,
-        "offset": 286470,
-        "data_size": 156,
-        "slot_size": 160,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Aiyah...[1205][001E][SP]I[SP]can't[SP]believe[SP]the[SP]Narurato[SP]Stone\nwas[SP]that[SP]important...",
-        "nom_fr": "Ginko",
-        "texte_fr": "Aiyah...[1205][001E] J'y crois pas, la Pierre\nNarurato était si cruciale..."
-    },
-    {
-        "id": 2,
-        "offset": 286630,
-        "data_size": 170,
-        "slot_size": 174,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Then[SP]again...[1205][001E][SP]I[SP]guess[SP]that's[SP]why[SP]you[SP]could\nalways[SP]find[SP]Ms.[SP]Ideal[SP]nearby.",
-        "nom_fr": "Ginko",
-        "texte_fr": "Enfin...[1205][001E] C'est pourquoi Mme Ideal\ntraînait toujours autour, j'imagine."
-    },
-    {
-        "id": 3,
-        "offset": 286804,
-        "data_size": 196,
-        "slot_size": 200,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Jun",
-        "texte_orig": "This[SP]is[SP]Heaven's[SP]Gate.[1205][001E][SP]Father[SP]believed[SP]that\nthe[SP]Silver[SP]River[SP]was[SP]the[SP]path[SP]to[SP]Xibalba...",
-        "nom_fr": "Jun",
-        "texte_fr": "Voici la Porte du Paradis.[1205][001E] D'après Père,\nla Rivière d'Argent menait à Xibalba..."
-    },
-    {
-        "id": 4,
-        "offset": 287004,
-        "data_size": 204,
-        "slot_size": 208,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Jun",
-        "texte_orig": "He[SP]said[SP]that[SP]underneath[SP]Sevens[SP]is[SP]the\nSilver[SP]River[SP]after[SP]it[SP]breaks[SP]off[SP]from\nTanabata[SP]River...",
-        "nom_fr": "Jun",
-        "texte_fr": "Il pensait qu'elle passait sous Seven et\nétait un défluent de la Rivière Tanabata..."
-    },
-    {
-        "id": 5,
-        "offset": 287212,
-        "data_size": 248,
-        "slot_size": 252,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Jun",
-        "texte_orig": "And[SP]that[SP]the[SP]Heaven's[SP]Gate[SP]that[SP]led[SP]to[SP]the\nunderground[SP]Silver[SP]River...[1205][001E][SP]It[SP]was[SP]supposed\nto[SP]be[SP]this[SP]Narurato[SP]Stone.",
-        "nom_fr": "Jun",
-        "texte_fr": "Et que la Porte du Paradis menant à\nla Rivière d'Argent sous terre...[1205][001E]\nétait censée être la Pierre Narurato."
-    }
+  {
+    "id": 0,
+    "offset": 286206,
+    "data_size": 260,
+    "slot_size": 264,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "That[SP]Silver[SP]River[SP]thing[SP]is[SP]under[SP]here?\nI[SP]mean,[SP]I[SP]know[SP]there's[SP]a[SP]river[SP]right[SP]near\nit,[SP]but...[1205][001E][SP]This[SP]is[SP]too[SP]ridiculous.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Je sais qu'il y a une rivière pas loin,\nmais cette Rivière d'Argent machinchose\njuste[1205][U+000F] là-dessous... C'est ridicule."
+  },
+  {
+    "id": 1,
+    "offset": 286470,
+    "data_size": 156,
+    "slot_size": 160,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Aiyah...[1205][001E][SP]I[SP]can't[SP]believe[SP]the[SP]Narurato[SP]Stone\nwas[SP]that[SP]important...",
+    "nom_fr": "Ginko",
+    "texte_fr": "Aiyah...[1205][001E] J'y crois pas, la Pierre\nNarurato était si cruciale..."
+  },
+  {
+    "id": 2,
+    "offset": 286630,
+    "data_size": 170,
+    "slot_size": 174,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Then[SP]again...[1205][001E][SP]I[SP]guess[SP]that's[SP]why[SP]you[SP]could\nalways[SP]find[SP]Ms.[SP]Ideal[SP]nearby.",
+    "nom_fr": "Ginko",
+    "texte_fr": "Enfin...[1205][001E] C'est pourquoi Mme Ideal\ntraînait toujours autour, j'imagine."
+  },
+  {
+    "id": 3,
+    "offset": 286804,
+    "data_size": 196,
+    "slot_size": 200,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "This[SP]is[SP]Heaven's[SP]Gate.[1205][001E][SP]Father[SP]believed[SP]that\nthe[SP]Silver[SP]River[SP]was[SP]the[SP]path[SP]to[SP]Xibalba...",
+    "nom_fr": "Jun",
+    "texte_fr": "Voici la Porte du Paradis.[1205][001E] D'après Père,\nla Rivière d'Argent menait à Xibalba..."
+  },
+  {
+    "id": 4,
+    "offset": 287004,
+    "data_size": 204,
+    "slot_size": 208,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "He[SP]said[SP]that[SP]underneath[SP]Sevens[SP]is[SP]the\nSilver[SP]River[SP]after[SP]it[SP]breaks[SP]off[SP]from\nTanabata[SP]River...",
+    "nom_fr": "Jun",
+    "texte_fr": "Il pensait qu'elle passait sous Seven et\nétait un défluent de la Rivière Tanabata..."
+  },
+  {
+    "id": 5,
+    "offset": 287212,
+    "data_size": 248,
+    "slot_size": 252,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "And[SP]that[SP]the[SP]Heaven's[SP]Gate[SP]that[SP]led[SP]to[SP]the\nunderground[SP]Silver[SP]River...[1205][001E][SP]It[SP]was[SP]supposed\nto[SP]be[SP]this[SP]Narurato[SP]Stone.",
+    "nom_fr": "Jun",
+    "texte_fr": "Et que la Porte du Paradis menant à\nla Rivière d'Argent sous terre...[1205][001E]\nétait censée être la Pierre Narurato."
+  }
 ]

@@ -1,34 +1,34 @@
 [
-    {
-        "id": 0,
-        "offset": 173338,
-        "data_size": 168,
-        "slot_size": 172,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "His[SP]mask...[SP]It[SP]isn't[SP]here...[1205][001E][SP]Don't[SP]tell[SP]me\nhe's[SP]been[SP]here?[SP]But[SP]why...?",
-        "nom_fr": "Ginko",
-        "texte_fr": "Son masque... Il n'est pas là...[1205][001E] Il\nest passé ici? Mais pourquoi...?"
-    },
-    {
-        "id": 1,
-        "offset": 173510,
-        "data_size": 126,
-        "slot_size": 130,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "This[SP]should[SP]be[SP]the[SP]place[SP]where[SP]he[SP]hid\nhis[SP]mask...",
-        "nom_fr": "Eikichi",
-        "texte_fr": "C'est ici qu'il avait caché son masque..."
-    }
+  {
+    "id": 0,
+    "offset": 173338,
+    "data_size": 168,
+    "slot_size": 172,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "His[SP]mask...[SP]It[SP]isn't[SP]here...[1205][001E][SP]Don't[SP]tell[SP]me\nhe's[SP]been[SP]here?[SP]But[SP]why...?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Son masque... Il n'est pas là...[1205][001E] Il\nest passé ici? Mais pourquoi...?"
+  },
+  {
+    "id": 1,
+    "offset": 173510,
+    "data_size": 126,
+    "slot_size": 130,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "This[SP]should[SP]be[SP]the[SP]place[SP]where[SP]he[SP]hid\nhis[SP]mask...",
+    "nom_fr": "Eikichi",
+    "texte_fr": "C'est ici qu'il avait caché son masque..."
+  }
 ]
