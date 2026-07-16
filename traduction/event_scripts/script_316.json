@@ -265,7 +265,7 @@
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Ah,[SP]yes,[SP]welcome![1205][U+000A][SP]We[SP]work[SP]hard[SP]to[SP]spread[SP]our\nchain[SP]throughout[SP]the[SP]country![1205][U+000F][SP]But[SP]that[SP]will\nnever[SP]happen[SP]now![SP]*sniff*\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#5\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Sœur n°5",
-    "texte_fr": "Ah,oui,bienvenue![1205][U+000A] On travaille dur pour\nétendre notre chaîne dans tout le pays![1205][U+000F]\nMais c'est fichu maintenant! *snif*\n[1208][U+0006]Acheter objets[1205][U+000F]\nVendre objets\nParler à Sœur n°5\n[1210][U+0100]Voir objets[1205][U+000F]\nRien\nQuitter",
+    "texte_fr": "Ah, oui, bienvenue![1205][U+000A] On travaille dur pour\nétendre notre chaîne dans tout le pays![1205][U+000F]\nMais c'est fichu maintenant! *snif*\n[1208][U+0006]Acheter objets[1205][U+000F]\nVendre objets\nParler à Sœur n°5\n[1210][U+0100]Voir objets[1205][U+000F]\nRien\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -341,7 +341,7 @@
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Sœur n°5",
-    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

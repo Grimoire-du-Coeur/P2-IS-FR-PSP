@@ -77,7 +77,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "It's[SP]like[SP]we're[SP]really[SP]on[SP]a[SP]ship.[SP]Just[SP]once...\nI[SP]wish[SP]I[SP]could[SP]board[SP]a[SP]ship[SP]like[SP]this[SP]with[SP]you\nand[SP]go[SP]somewhere.",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est comme être sur un vrai bateau. Un \njour..\nJ'aimerais partir sur un tel bateau avec [1205][U+000F]\ntoi,\nquelque part.."
+    "texte_fr": "C'est comme être sur un vrai bateau. Un \njour...\nJ'aimerais partir sur un tel bateau avec [1205][U+000F]\ntoi,\nquelque part.."
   },
   {
     "id": 5,
@@ -173,7 +173,7 @@
     "nom_orig": "Maya",
     "texte_orig": "They[SP]just[SP]built[SP]that[SP]Aerospace[SP]Museum.[SP]People\nPeople[SP]thought[SP]it[SP]didn't[SP]fit[SP]in[SP]Sumaru[SP]at[SP]first,\nbut[SP]it[SP]gets[SP]a[SP]lot[SP]of[SP]guests[SP]now.",
     "nom_fr": "Maya",
-    "texte_fr": "Quand le Musée de l'Aéronautique fut\nconstruit,les gens ont dit que ça jurait\ndans Sumaru. Désormais y'a foule de [1205][U+000F]\nvisiteurs."
+    "texte_fr": "Quand le Musée de l'Aéronautique fut\nconstruit, les gens ont dit que ça jurait\ndans Sumaru. Désormais y'a foule de [1205][U+000F]\nvisiteurs."
   },
   {
     "id": 11,
@@ -285,7 +285,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I'm[SP]always[SP]surprised[SP]by[SP]Maya-san's[SP]courage[SP]in\nthe[SP]face[SP]of[SP]danger.[SP]She's[SP]never[SP]piloted[SP]a\nblimp[SP]before![SP]At[SP]least[SP]I[SP]don't[SP]think[SP]so...",
     "nom_fr": "Yukino",
-    "texte_fr": "Le courage de Maya face au danger\nm'impressionne toujours. Elle a jamais\npiloté de[1205][U+000F]\ndirigeable avant! Je pense pas en tout\ncas.."
+    "texte_fr": "Le courage de Maya face au danger\nm'impressionne toujours. Elle a jamais \npiloté de[1205][U+000F]\ndirigeable avant! Je pense pas en tout \ncas..."
   },
   {
     "id": 18,
@@ -333,7 +333,7 @@
     "nom_orig": "Master",
     "texte_orig": "Welcome...[1205][U+000F][SP]What[SP]would[SP]you[SP]like?\n[1208][U+0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Bienvenue..[1205][U+000F] Que souhaites-tu?\n[1208][U+0007][1210][U+03BD]Acheter   \n[1210][U+035C]Accessoires   [1205][U+000F]\n[1210][U+03BD]Vendre   \nManger\nDiscuter          [1205][U+000F]\nRien merci\nFiler",
+    "texte_fr": "Bienvenue...[1205][U+000F] Que souhaites-tu?\n[1208][U+0007][1210][U+03BD]Acheter    \n[1210][U+035C]Accessoires   [1205][U+000F]\n[1210][U+03BD]Vendre    \nManger \nDiscuter          [1205][U+000F]\nRien merci\nFiler",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -393,7 +393,7 @@
     "nom_orig": "Master",
     "texte_orig": "Will[SP]that[SP]be[SP]all?\n[1208][U+0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Ce sera tout?\n[1208][U+0007][1210][U+03BD]Acheter   \n[1210][U+035C]Accessoires   [1205][U+000F]\n[1210][U+03BD]Vendre   \nManger\nDiscuter          [1205][U+000F]\nRien merci\nFiler",
+    "texte_fr": "Ce sera tout?\n[1208][U+0007][1210][U+03BD]Acheter    \n[1210][U+035C]Accessoires   [1205][U+000F]\n[1210][U+03BD]Vendre    \nManger \nDiscuter          [1205][U+000F]\nRien merci\nFiler",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -485,7 +485,7 @@
     "nom_orig": "Master",
     "texte_orig": "So[SP]there[SP]was[SP]no[SP]rest[SP]for[SP]me[SP]on[SP]land,[SP]either.\nIt[SP]seems[SP]Death[SP]is[SP]my[SP]only[SP]friend.[SP]That's[SP]why\nI[SP]take[SP]up[SP]arms...[SP]to[SP]stay[SP]alive...",
     "nom_fr": "Maître",
-    "texte_fr": "Même la terre ne m'offrait aucun répit.\nLa Mort serait ma seule amie.. C'est pour\nquoi[1205][U+000F]\nje prend les armes.. pour vivre.."
+    "texte_fr": "Même la terre ne m'offrait aucun répit.\nLa Mort serait ma seule amie... C'est pour\nquoi[1205][U+000F]\nje prend les armes... pour vivre..."
   },
   {
     "id": 29,
@@ -645,7 +645,7 @@
     "nom_orig": "Master",
     "texte_orig": "That's[SP]the[SP]only[SP]way[SP]to[SP]keep[SP]Death[SP]away.[SP]Trust\nin[SP]your[SP]heart's[SP]compass[SP]and[SP]take[SP]up[SP]the[SP]wheel\nwith[SP]no[SP]hesitation!",
     "nom_fr": "Maître",
-    "texte_fr": "C'est le seul moyen d'éloigner la Mort.\nCroyez en la boussole de vos coeurs et\ntournez[1205][U+000F]\nla barre sans hésiter!"
+    "texte_fr": "C'est le seul moyen d'éloigner la Mort.\nCroyez en la boussole de vos coeurs et \ntournez[1205][U+000F]\nla barre sans hésiter!"
   },
   {
     "id": 39,
@@ -693,7 +693,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "What,[SP]you're[SP]saying[SP]they[SP]were[SP]having[SP]a[SP]costume\nparty[SP]at[SP]the[SP]concert[SP]hall?[SP]I[SP]forget[SP]what[SP]was\ngoing[SP]on[SP]there,[SP]but[SP]it[SP]wasn't[SP]that.",
     "nom_fr": "Employé de bureau",
-    "texte_fr": "Quoi,tu dis qu'il y avait une fête\ncostumée à la salle de concert? Je me\nsouviens pas trop,mais c'était pas ça je [1205][U+000F]\ncrois."
+    "texte_fr": "Quoi, tu dis qu'il y avait une fête \ncostumée à la salle de concert? Je me \nsouviens pas trop, mais c'était pas ça je [1205][U+000F]\ncrois."
   },
   {
     "id": 42,
@@ -757,7 +757,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "Hahaha...[SP]What's[SP]wrong[SP]with[SP]me!?[SP]I[SP]can[SP]see\nan[SP]army...[SP]That's[SP]some[SP]delusion![SP]Maybe[SP]I\nshould[SP]go[SP]to[SP]Hiiragi[SP]Psychotherapy[SP]too...!",
     "nom_fr": "Employé de bureau",
-    "texte_fr": "Haha.. Je vais pas bien ou quoi!?\nJe vois une armée.. C'est une illusion!\nJe devrais aller à Hiiragi [1205][U+000F]\nPsychotherapy..!"
+    "texte_fr": "Haha... Je vais pas bien ou quoi!?\nJe vois une armée... C'est une illusion!\nJe devrais aller à Hiiragi [1205][U+000F]\nPsychotherapy...!"
   },
   {
     "id": 46,
@@ -837,7 +837,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I[SP]really[SP]saw[SP]a[SP]lion-masked[SP]guy[SP]outside[SP]the\nconcert[SP]hall![SP]If[SP]you[SP]don't[SP]believe[SP]me,[SP]I'll\nset[SP]fire[SP]to[SP]it![SP]Then[SP]you'll[SP]see![SP]Hah!",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "Y'a un type au masque de lion en\ndehors de la salle de concert! Si tu me\ncrois[1205][U+000F]\npas,j'y mettrais le feu! Tu verras! Hah!"
+    "texte_fr": "Y'a un type au masque de lion en\ndehors de la salle de concert! Si tu me \ncrois[1205][U+000F]\npas, j'y mettrais le feu! Tu verras! Hah!"
   },
   {
     "id": 51,
@@ -853,7 +853,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I[SP]told[SP]you,[SP]it[SP]wasn't[SP]a[SP]mistake![SP]The[SP]lion-\nmasked[SP]guy[SP]went[SP]into[SP]the[SP]Aerospace[SP]Museum!\nI[SP]saw[SP]it[SP]with[SP]my[SP]own[SP]perfectly[SP]good[SP]eyes!",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "Je t'ai dit,c'était pas une erreur! Le\ntype au masque de lion est entré dans le\nmusée![1205][U+000F]\nJe l'ai vu avec mes très bons yeux!"
+    "texte_fr": "Je t'ai dit, c'était pas une erreur! Le\ntype au masque de lion est entré dans le \nmusée![1205][U+000F]\nJe l'ai vu avec mes très bons yeux!"
   },
   {
     "id": 52,
@@ -917,7 +917,7 @@
     "nom_orig": "Master",
     "texte_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Maître",
-    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1150,7 +1150,7 @@
     "nom_orig": "Master",
     "texte_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Maître",
-    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

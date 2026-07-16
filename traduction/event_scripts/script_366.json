@@ -13,7 +13,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Big[SP]Maya[SP]said[SP]she[SP]loved[SP]the[SP]ocean...[1205][U+000F][SP]I[SP]like\nit[SP]too.[1205][U+000F][SP]I[SP]hope[SP]we[SP]can[SP]all[SP]go[SP]to[SP]the[SP]beach\nafter[SP]this[SP]is[SP]over.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Maya disait adorer l'océan..[1205][U+000F] Moi aussi.[1205][U+000F]\nJ'espère qu'on pourra aller tous ensemble \nà[1205][U+000F]\nla plage après ça."
+    "texte_fr": "Maya disait adorer l'océan...[1205][U+000F] Moi aussi.[1205][U+000F]\nJ'espère qu'on pourra aller tous ensemble \nà[1205][U+000F]\nla plage après ça."
   },
   {
     "id": 1,
@@ -173,7 +173,7 @@
     "nom_orig": "Jun",
     "texte_orig": "There's[SP]a[SP]lot[SP]I[SP]won't[SP]know[SP]until[SP]the[SP]time\ncomes,[SP]but[SP]I[SP]want[SP]to[SP]believe[SP]I'll[SP]do[SP]the[SP]right\nthing.[1205][U+000F][SP]I[SP]don't[SP]want[SP]to[SP]wear[SP]any[SP]more[SP]masks...",
     "nom_fr": "Jun",
-    "texte_fr": "Le moment venu j'ignorerai encore tant de\nchoses,mais je veux croire que je ferais\nle[1205][U+000F]\nbon choix.[1205][U+000F] Je ne veux plus porter de masque.."
+    "texte_fr": "Le moment venu j'ignorerai encore tant de\nchoses, mais je veux croire que je ferais \nle[1205][U+000F]\nbon choix.[1205][U+000F] Je ne veux plus porter de masque..."
   },
   {
     "id": 11,
@@ -189,7 +189,7 @@
     "nom_orig": "Master",
     "texte_orig": "Welcome...[1205][U+000F][SP]What[SP]would[SP]you[SP]like?\n[1208][U+0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Bienvenue..[1205][U+000F] Que souhaites-tu?\n[1208][U+0007][1210][U+03BD]Acheter   \n[1210][U+035C]Accessoires   [1205][U+000F]\n[1210][U+03BD]Vendre   \nManger\nDiscuter          [1205][U+000F]\nRien merci\nFiler",
+    "texte_fr": "Bienvenue...[1205][U+000F] Que souhaites-tu?\n[1208][U+0007][1210][U+03BD]Acheter    \n[1210][U+035C]Accessoires   [1205][U+000F]\n[1210][U+03BD]Vendre    \nManger \nDiscuter          [1205][U+000F]\nRien merci\nFiler",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -249,7 +249,7 @@
     "nom_orig": "Master",
     "texte_orig": "Will[SP]that[SP]be[SP]all?\n[1208][U+0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Ce sera tout?\n[1208][U+0007][1210][U+03BD]Acheter   \n[1210][U+035C]Accessoires   [1205][U+000F]\n[1210][U+03BD]Vendre   \nManger\nDiscuter          [1205][U+000F]\nRien merci\nFiler",
+    "texte_fr": "Ce sera tout?\n[1208][U+0007][1210][U+03BD]Acheter    \n[1210][U+035C]Accessoires   [1205][U+000F]\n[1210][U+03BD]Vendre    \nManger \nDiscuter          [1205][U+000F]\nRien merci\nFiler",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -325,7 +325,7 @@
     "nom_orig": "Master",
     "texte_orig": "Heh...[1205][U+0008][SP]A[SP]man[SP]needn't[SP]give[SP]any[SP]reasons[SP]for[SP]his\nstruggle.[1205][U+000A][SP]The[SP]light[SP]in[SP]his[SP]eyes[SP]says[SP]it[SP]all.[1205][U+000F]\nYou've[SP]got[SP]that[SP]light,[SP]boy.",
     "nom_fr": "Maître",
-    "texte_fr": "Hé..[1205][U+0008] Un homme n'a pas besoin d'expliquer\nses tourments.[1205][U+000A] L'éclat dans ses yeux\nrévèle[1205][U+000F]\ntout.[1205][U+000F] Tu l'as cet éclat,gamin."
+    "texte_fr": "Hé...[1205][U+0008] Un homme n'a pas besoin d'expliquer\nses tourments.[1205][U+000A] L'éclat dans ses yeux \nrévèle[1205][U+000F]\ntout.[1205][U+000F] Tu l'as cet éclat, gamin."
   },
   {
     "id": 19,
@@ -437,7 +437,7 @@
     "nom_orig": "Master",
     "texte_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Maître",
-    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -670,7 +670,7 @@
     "nom_orig": "Master",
     "texte_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Maître",
-    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

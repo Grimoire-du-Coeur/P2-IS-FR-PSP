@@ -1649,7 +1649,7 @@
     "nom_orig": "Maniac",
     "texte_orig": "My[SP]God...[SP]That[SP]thing's[SP]a[SP]collector's[SP]item!\nEvery[SP]superfan's[SP]envy![SP][E4][NULL][NULL][U+0006]Linda's[SP]Bra[E4][NULL][NULL][0002]...![1205][U+000F]\nW-Would[SP]you[SP]be[SP]willing[SP]to[SP]give[SP]it[SP]to[SP]me!?",
     "nom_fr": "Fan obsédé",
-    "texte_fr": "Mon Dieu.. C'est une pièce de collection \n!\nL'envie de tout super-fan![1205][U+000F]\nLe [E4][NULL][NULL][U+0006]soutien-gorge de Linda[E4][NULL][NULL][0002]..![1205][U+000F] Me le donner!?"
+    "texte_fr": "Mon Dieu... C'est une pièce de collection \n!\nL'envie de tout super-fan![1205][U+000F]\nLe [E4][NULL][NULL][U+0006]soutien-gorge de Linda[E4][NULL][NULL][0002]...![1205][U+000F] Me le donner!?"
   },
   {
     "id": 102,
@@ -1665,7 +1665,7 @@
     "nom_orig": "Maniac",
     "texte_orig": "I'm[SP]begging[SP]you!\n[1208][0002]Yes\nNo",
     "nom_fr": "Fan obsédé",
-    "texte_fr": "Pitié!\n[1208][0002]Oui\nN",
+    "texte_fr": "Pitié!\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1765,7 +1765,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Patronne",
-    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1922,7 +1922,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Patronne",
-    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

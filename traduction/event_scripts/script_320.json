@@ -796,7 +796,7 @@
     "nom_orig": "Tadashi",
     "texte_orig": "Right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Tadashi",
-    "texte_fr": "Vrai?\n[1208][0002]Oui\nN",
+    "texte_fr": "Vrai?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1323,7 +1323,7 @@
     "nom_orig": "Speaker[SP]name",
     "texte_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen.\nSell?\n[1208][0002]Yes\nNo",
     "nom_fr": "",
-    "texte_fr": "Le total fait [120E][NULL] yens. Vendre?\n[1208][0002]O",
+    "texte_fr": "Le total fait [120E][NULL] yens. Vendre?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1343,7 +1343,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "This[SP]one's[SP]on[SP]the[SP]house.[SP]You're[SP]sure[SP]that's\nwhat[SP]you[SP]want,[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Celle-là,c'est la maison qui régale.\nC'est bien ce que tu veux?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Celle-là, c'est la maison qui régale.\nC'est bien ce que tu veux?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1363,7 +1363,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

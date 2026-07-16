@@ -381,7 +381,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Please,[SP]ask[SP]away.\n[1208][U+0007]Summoning[SP]basics\nMystic[SP]change\nMutation\nContacting\nDemon[SP]personalities\nPrevious[SP]Page\n[1210][U+0100]Undisplayed[SP]selection/return",
     "nom_fr": "Igor",
-    "texte_fr": "Je vous écoute.\n[1208][U+0007]Bases d'invocation\nChangement mystique[1205][U+000F]\nMutation\nContact\nPersonnalité des démons[1205][U+000F]\nPage préc.\n[1210][U+0100]Sélection cachée/",
+    "texte_fr": "Je vous écoute.\n[1208][U+0007]Bases d'invocation\nChangement mystique[1205][U+000F]\nMutation\nContact\nPersonnalité des démons[1205][U+000F]\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -465,7 +465,7 @@
     "nom_orig": "Igor",
     "texte_orig": "To[SP][1432][NULL][NULL][0014]take[SP]on[1432][NULL][NULL][0014][SP]a[SP]Persona[SP]means[SP]for[SP]a[SP]Persona-\nuser[SP]such[SP]as[SP]yourself[SP]to[SP]accept[SP]it[SP]into[SP]you.\nJust[SP]having[SP]its[SP]card[SP]will[SP]do[SP]you[SP]no[SP]good.",
     "nom_fr": "Igor",
-    "texte_fr": "[1432][NULL][NULL][0014]Porter[1432][NULL][NULL][0014] un Persona signifie,pour un\nutilisateur\ncomme vous,l'accepter en soi.[1205][U+000F]\nPosséder sa carte seule ne vous servira à\nrien."
+    "texte_fr": "[1432][NULL][NULL][0014]Porter[1432][NULL][NULL][0014] un Persona signifie, pour un \nutilisateur\ncomme vous, l'accepter en soi.[1205][U+000F]\nPosséder sa carte seule ne vous servira à \nrien."
   },
   {
     "id": 28,
@@ -1281,7 +1281,7 @@
     "nom_orig": "Igor",
     "texte_orig": "If[SP]you[SP]wish[SP]it,[SP]I[SP]can[SP]add[SP]Incense[SP]Cards[SP]you\nfind[SP]when[SP]I[SP]summon[SP]a[SP]new[SP]Persona.",
     "nom_fr": "",
-    "texte_fr": "Si vous le souhaitez,je peux ajouter\ndes Cartes Encens lors d'une invocation."
+    "texte_fr": "Si vous le souhaitez, je peux ajouter\ndes Cartes Encens lors d'une invocation."
   },
   {
     "id": 79,
@@ -1409,7 +1409,7 @@
     "nom_orig": "Igor",
     "texte_orig": "I,[SP]too,[SP]have[SP]my[SP]limit,[SP]but[SP]I[SP]can[SP]hold[SP]onto\nPersonas[SP]in[SP]your[SP]possession[SP]along[SP]with[SP]newly\nsummoned[SP]Personas.",
     "nom_fr": "Igor",
-    "texte_fr": "J'ai mes limites,mais je peux garder les\nPersonae\nque vous possédez ainsi que les [1205][U+000F]\nnouvellement invoqué"
+    "texte_fr": "J'ai mes limites, mais je peux garder les \nPersonae\nque vous possédez ainsi que les [1205][U+000F]\nnouvellement invoqués."
   },
   {
     "id": 87,
@@ -1425,7 +1425,7 @@
     "nom_orig": "Igor",
     "texte_orig": "But[SP]if[SP]I[SP]am[SP]storing[SP]the[SP]maximum[SP]number[SP]of\ncards[SP]for[SP]you,[SP]I[SP]will[SP]not[SP]be[SP]able[SP]to[SP]summon\nany[SP]new[SP]Personas.[SP]Remember[SP]that...",
     "nom_fr": "Igor",
-    "texte_fr": "Mais si je conserve déjà le maximum\npour vous, je ne pourrai pas invoquer\nde nouveaux Personae. Gardez cela en [1205][U+000F]\ntête.."
+    "texte_fr": "Mais si je conserve déjà le maximum\npour vous, je ne pourrai pas invoquer\nde nouveaux Personae. Gardez cela en [1205][U+000F]\ntête..."
   },
   {
     "id": 88,
@@ -1585,7 +1585,7 @@
     "nom_orig": "Igor",
     "texte_orig": "This[SP]may[SP]be[SP]a[SP]weapon,[SP]a[SP]piece[SP]of[SP]armor,[SP]an\nitem...[SP]You[SP]can[SP]gain[SP]extremely[SP]rare[SP]things,\nobtainable[SP]only[SP]in[SP]this[SP]fashion.",
     "nom_fr": "Igor",
-    "texte_fr": "Ce peut être une arme,une armure,un\nobjet..\nVous pouvez obtenir des choses très rares[1205][U+000F]\nobtenaibles uniquement ainsi."
+    "texte_fr": "Ce peut être une arme, une armure, un \nobjet...\nVous pouvez obtenir des choses très rares[1205][U+000F]\nobtenaibles uniquement ainsi."
   },
   {
     "id": 98,
@@ -2257,7 +2257,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Anything[SP]else?\n[1208][U+0004]Request[SP]card\nTalk\nCancel\nLeave",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Autre chose?\n[1208][U+0004]Une carte\nParler[1205][U+000F]\nAnnuler\nQu",
+    "texte_fr": "Autre chose?\n[1208][U+0004]Une carte\nParler[1205][U+000F]\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2713,7 +2713,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Is[SP]this[SP]what[SP]you[SP]want?\n[1208][0002]Yes\nNo",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Vous voulez ça?\n[1208][0002]Oui\nN",
+    "texte_fr": "Vous voulez ça?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2733,7 +2733,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Will[SP]this[SP]Persona[SP]suffice?\n[1208][0002]Yes\nNo",
     "nom_fr": "Igor",
-    "texte_fr": "Ce Persona te convient?\n[1208][0002]Oui\nN",
+    "texte_fr": "Ce Persona te convient?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2753,7 +2753,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Will[SP]this[SP]Persona[SP]suffice?\n[1208][0002]Yes\nNo",
     "nom_fr": "Igor",
-    "texte_fr": "Ce Persona te convient?\n[1208][0002]Oui\nN",
+    "texte_fr": "Ce Persona te convient?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2789,7 +2789,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Are[SP]you[SP]sure[SP]you[SP]want[SP]to[SP]let[SP]go[SP]of[SP]this[SP]Persona?\n[1208][0002]Yes\nNo",
     "nom_fr": "Igor",
-    "texte_fr": "Êtes-vous sûr de vous séparer de ce\nPersona?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Êtes-vous sûr de vous séparer de ce \nPersona?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

@@ -77,7 +77,7 @@
     "nom_orig": "Maya",
     "texte_orig": "They[SP]must[SP]be[SP]desperate[SP]to[SP]believe[SP]that[SP]they[SP]can\nevolve[SP]and[SP]escape[SP]this[SP]world's[SP]destruction.[1205][U+000F]\nPeople...[1205][U+000F][SP]can[SP]be[SP]pitiful[SP]at[SP]times[SP]like[SP]this...",
     "nom_fr": "Maya",
-    "texte_fr": "Ils doivent être desespérés pour penser \npouvoir\névoluer et fuir la fin du monde.[1205][U+000F] Les gens..\npeuvent être pitoyables dans ces \nmoments-là.."
+    "texte_fr": "Ils doivent être desespérés pour penser \npouvoir\névoluer et fuir la fin du monde.[1205][U+000F] Les gens...\npeuvent être pitoyables dans ces \nmoments-là..."
   },
   {
     "id": 5,
@@ -221,7 +221,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Look[SP]at[SP]them.[SP]They're[SP]praying[SP]together[SP]in[SP]the\nhopes[SP]of[SP]evolving[SP]safely.[SP]Does[SP]the[SP]entire\nworld's[SP]destruction[SP]mean[SP]nothing[SP]to[SP]them...?",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Regarde-les. Ils prient ensemble dans\nl'espoir d'évoluer en sûreté. La \ndestruction du[1205][U+000F]\nmonde entier ne signifie rien pour eux..?"
+    "texte_fr": "Regarde-les. Ils prient ensemble dans\nl'espoir d'évoluer en sûreté. La \ndestruction du[1205][U+000F]\nmonde entier ne signifie rien pour eux...?"
   },
   {
     "id": 14,
@@ -277,7 +277,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "For[SP]which[SP]region?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel endroit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nR",
+    "texte_fr": "Quel endroit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -297,7 +297,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "For[SP]which[SP]region?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel endroit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nR",
+    "texte_fr": "Quel endroit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -433,7 +433,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Do[SP]you[SP]know[SP][E4][NULL][NULL][U+0006]Tony's[SP]Shop[E4][NULL][NULL][0002][SP]in[SP]Yumezaki?[SP]I[SP]hear\nhe[SP]sells[SP][E4][NULL][NULL][U+0006]real[SP]weapons[E4][NULL][NULL][0002].[SP]His[SP][E4][NULL][NULL][U+0006]selection[SP]is[SP]good,\nbut[SP]the[SP]resale[SP]value[SP]there[SP]is[SP]low[E4][NULL][NULL][0002].",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Connais-tu [E4][NULL][NULL][U+0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki? Il\nvend de [E4][NULL][NULL][U+0006]vraies armes[E4][NULL][NULL][0002]. Il a [E4][NULL][NULL][U+0006]une bonne\nsélection,mais un prix de revente assez [1205][U+000F]\nbas[E4][NULL][NULL][0002]."
+    "texte_fr": "Connais-tu [E4][NULL][NULL][U+0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki? Il\nvend de [E4][NULL][NULL][U+0006]vraies armes[E4][NULL][NULL][0002]. Il a [E4][NULL][NULL][U+0006]une bonne\nsélection, mais un prix de revente assez [1205][U+000F]\nbas[E4][NULL][NULL][0002]."
   },
   {
     "id": 26,
@@ -1617,7 +1617,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "You[SP]can[SP]buy[SP]real[SP]armor[SP]at[SP]Anima[SP]Mundi[SP]in\nYumezaki,[SP]right?[SP]I[SP]should[SP]tell[SP]my[SP]friends.\nIt's[SP]cheap,[SP]but[SP]low[SP]quality.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Anima Mundi à Yumezaki propose de\nvraies armures, non? Je dois prévenir mes \namis.[1205][U+000F]\nC'est miteux mais pas cher. ."
+    "texte_fr": "Anima Mundi à Yumezaki propose de\nvraies armures, non? Je dois prévenir mes \namis.[1205][U+000F]\nC'est miteux mais pas cher.."
   },
   {
     "id": 100,

@@ -269,7 +269,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]didn't[SP]expect[SP]Eikichi[SP]to[SP]react[SP]so[SP]violently\nto[SP]fish.[SP]It's[SP]like[SP]a[SP]conditioned[SP]response...\nOr[SP]is[SP]it[SP]more[SP]like[SP]animal[SP]imprinting?",
     "nom_fr": "Maya",
-    "texte_fr": "Je ne pensais pas qu'Eikichi réagirait\nautant au poisson. On dirait un réflexe\nconditionné.. Ou plutôt une empreinte[1205][U+000F]\nanimale?"
+    "texte_fr": "Je ne pensais pas qu'Eikichi réagirait\nautant au poisson. On dirait un réflexe\nconditionné... Ou plutôt une empreinte[1205][U+000F]\nanimale?"
   },
   {
     "id": 17,
@@ -581,7 +581,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nA",
+    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -601,7 +601,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki[1205][U+000F]\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nA",
+    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki[1205][U+000F]\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nAucun",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2657,7 +2657,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "It[SP]seems[SP]the[SP]second[SP]floor[SP]of[SP]Zodiac[SP]in[SP]Yumezaki\nis[SP]a[SP]huge[SP]maze.[SP]I[SP]heard[SP]some[SP]people[SP]exploring\nit[SP]found[SP]great[SP]stuff[SP]there.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Le second étage de Zodiac à Yumezaki\nserait un immense labyrinthe. Des\nexplorateurs[1205][U+000F]\ny auraient trouvé de bonnes choses."
+    "texte_fr": "Le second étage de Zodiac à Yumezaki\nserait un immense labyrinthe. Des \nexplorateurs[1205][U+000F]\ny auraient trouvé de bonnes choses."
   },
   {
     "id": 164,
@@ -2721,7 +2721,7 @@
     "nom_orig": "Speaker[SP]name",
     "texte_orig": "You[SP]don't[SP]have[SP]anything[SP]to[SP]sell.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi's[SP]dad\nThat[SP]comes[SP]to[SP][120E][NULL][SP]yen!\n[1208][0002]Yes\nNo",
     "nom_fr": "",
-    "texte_fr": "Vous n'avez rien à vendre.[E1][E2]\n[E3][E4][NULL][NULL]\"Père d'Eikichi\nÇa fera [120E][NULL] yens![1205][U+000F]\n[1208][0002]Oui\nN",
+    "texte_fr": "Vous n'avez rien à vendre.[E1][E2]\n[E3][E4][NULL][NULL]\"Père d'Eikichi\nÇa fera [120E][NULL] yens![1205][U+000F]\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2787,7 +2787,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "That[SP]comes[SP]to[SP][120E][NULL][SP]yen!\n[1208][0002]Yes\nNo",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça fait [120E][NULL] yens!\n[1208][0002]Oui\nN",
+    "texte_fr": "Ça fait [120E][NULL] yens!\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

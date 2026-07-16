@@ -1481,7 +1481,7 @@
     "nom_orig": "Count",
     "texte_orig": "Welcome[SP]to[SP]Time[SP]Castle...[1205][U+000A][SP]The[SP]onrush[SP]of[SP]time[SP]is\nswift[SP]and[SP]unceasing.[1205][U+000A][SP]Now,[SP]state[SP]your[SP]business.\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Comte",
-    "texte_fr": "Bienvenue au Time Castle..[1205][U+000A] Le temps\ns'écoule rapidement et sans cesse.[1205][U+000A]\nMaintenant,que voulez-vous?[1205][U+000F]\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets[1205][U+000F]\nParler au Comte\nRien\nQuitt",
+    "texte_fr": "Bienvenue au Time Castle...[1205][U+000A] Le temps\ns'écoule rapidement et sans cesse.[1205][U+000A]\nMaintenant, que voulez-vous?[1205][U+000F]\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets[1205][U+000F]\nParler au Comte\nRien\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1557,7 +1557,7 @@
     "nom_orig": "Count",
     "texte_orig": "That[SP]will[SP]be[SP]a[SP]total[SP]of[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Comte",
-    "texte_fr": "Total: [120E][NULL] yens.\nCela vous convient-il?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Total: [120E][NULL] yens.\nCela vous convient-il?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

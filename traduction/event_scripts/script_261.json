@@ -117,7 +117,7 @@
     "nom_orig": "Chef",
     "texte_orig": "Okay,[SP]then![1205][U+000A][SP]Anything[SP]else?\n[1208][U+0004]Dine[SP]in\nTalk[SP]with[SP]the[SP]chef\nCancel\nLeave",
     "nom_fr": "Chef",
-    "texte_fr": "Parfait![1205][U+000A] Autre chose?\n[1208][U+0004]Manger ici\nParler au chef[1205][U+000F]\nAnnuler\nPa",
+    "texte_fr": "Parfait![1205][U+000A] Autre chose?\n[1208][U+0004]Manger ici\nParler au chef[1205][U+000F]\nAnnuler\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -237,7 +237,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]can[SP]I[SP]do[SP]for[SP]you[SP]today?\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toro\nNever[SP]mind",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Que puis-je pour vous?\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler à Toro[1205][U+000F]\nNon ",
+    "texte_fr": "Que puis-je pour vous?\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler à Toro[1205][U+000F]\nNon merci",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -277,7 +277,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nA",
+    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -297,7 +297,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nA",
+    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2033,7 +2033,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "It[SP]seems[SP]the[SP]second[SP]floor[SP]of[SP]Zodiac[SP]in[SP]Yumezaki\nis[SP]a[SP]huge[SP]maze.[SP]I[SP]heard[SP]some[SP]people[SP]exploring\nit[SP]found[SP]great[SP]stuff[SP]there.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Le second étage de Zodiac à Yumezaki\nserait un immense labyrinthe. Des\nexplorateurs[1205][U+000F]\ny auraient trouvé de bonnes choses."
+    "texte_fr": "Le second étage de Zodiac à Yumezaki\nserait un immense labyrinthe. Des \nexplorateurs[1205][U+000F]\ny auraient trouvé de bonnes choses."
   },
   {
     "id": 125,
@@ -2081,7 +2081,7 @@
     "nom_orig": "Chef",
     "texte_orig": "That[SP]comes[SP]to[SP][120E][NULL][SP]yen!\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef",
-    "texte_fr": "Ça fait [120E][NULL] yens!\n[1208][0002]Oui\nN",
+    "texte_fr": "Ça fait [120E][NULL] yens!\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2131,7 +2131,7 @@
     "nom_orig": "Chef",
     "texte_orig": "Once[SP]you've[SP]had[SP]a[SP]plate,[SP]you[SP]won't[SP]be[SP]able[SP]to\neat[SP]again[SP]until[SP]the[SP]effect[SP]wears[SP]off.[SP]And[SP]that\nabout[SP]wraps[SP]it[SP]up!",
     "nom_fr": "Chef",
-    "texte_fr": "Une fois mangé,vous ne pourrez plus\nmanger\navant que l'effet se dissipe.[1205][U+000F]\nEt voilà tout ce qu'il y a à savoir!"
+    "texte_fr": "Une fois mangé, vous ne pourrez plus \nmanger\navant que l'effet se dissipe.[1205][U+000F]\nEt voilà tout ce qu'il y a à savoir!"
   },
   {
     "id": 131,
@@ -2147,7 +2147,7 @@
     "nom_orig": "Chef",
     "texte_orig": "That[SP]comes[SP]to[SP][120E][NULL][SP]yen!\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef",
-    "texte_fr": "Ça fait [120E][NULL] yens!\n[1208][0002]Oui\nN",
+    "texte_fr": "Ça fait [120E][NULL] yens!\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

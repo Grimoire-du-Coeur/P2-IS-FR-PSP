@@ -153,7 +153,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Some[SP]people[SP]got[SP]their[SP]ideals[SP]granted[SP]and[SP]some\nbecame[SP]shadowmen.[SP]Some[SP]people[SP]get[SP]to[SP]turn\ninto[SP]Idealians[SP]and[SP]some[SP]will[SP]die[SP]on[SP]Earth.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Certains ont leurs idéaux exaucés,\nd'autres\ndeviennent des Ombres. Certains deviennent[1205][U+000F]\ndes Idéaliens,d'autres meurent sur Terre."
+    "texte_fr": "Certains ont leurs idéaux exaucés, \nd'autres\ndeviennent des Ombres. Certains deviennent[1205][U+000F]\ndes Idéaliens, d'autres meurent sur Terre."
   },
   {
     "id": 9,
@@ -456,7 +456,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "If[SP]Ideal[SP]Energy[SP]is[SP]your[SP]dreaming[SP]heart,[SP]it\nshould[SP]be[SP]used[SP]to[SP]figure[SP]out[SP]the[SP]meaning[SP]of\nlife,[SP]not[SP]to[SP]become[SP]an[SP]Idealian.",
     "nom_fr": "Yukino",
-    "texte_fr": "Si l'Énergie Idéale est le cœur qui rêve,\nelle devrait servir à trouver le sens de\nla vie,[1205][U+000F]\npas à devenir un Idéalien."
+    "texte_fr": "Si l'Énergie Idéale est le cœur qui rêve,\nelle devrait servir à trouver le sens de \nla vie,[1205][U+000F]\npas à devenir un Idéalien."
   },
   {
     "id": 28,
@@ -727,7 +727,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Gaaaah![SP]Why[SP]do[SP]I[SP]have[SP]to[SP]go[SP]to[SP]an[SP]esthetic\nsalon!?[SP]I'm[SP]a[SP]model![SP]Now[SP]I'm[SP]wishing[SP]I[SP]asked\nhim[SP]to[SP]make[SP]me[SP]skinny[SP]instead!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Argh! Pourquoi un salon d'esthétique!?\nJe suis mannequin! J'aurais dû lui\ndemander[1205][U+000F]\nde me rendre mince à la place!"
+    "texte_fr": "Argh! Pourquoi un salon d'esthétique!?\nJe suis mannequin! J'aurais dû lui \ndemander[1205][U+000F]\nde me rendre mince à la place!"
   },
   {
     "id": 45,
@@ -807,7 +807,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "Tell[SP]us[SP]what[SP]brings[SP]you[SP]to[SP]our[SP]facility.\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Que puis-je faire pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne[1205][U+000F]\nNon merci\nP",
+    "texte_fr": "Que puis-je faire pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne[1205][U+000F]\nNon merci\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -925,7 +925,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?\n[1208][0002]Yes\nNo",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Très bien. Ça fera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Très bien. Ça fera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -977,7 +977,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "That[SP]concludes[SP]our[SP]treatment.[SP]How[SP]would[SP]you[SP]say\nthe[SP]Ether[SP]esthetics[SP]made[SP]you[SP]feel?[SP]Good?[SP]Great?",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Le soin est terminé. Comment vous\nsentez-vous\naprès l'esthétique éthérique?[1205][U+000F]\nBien? Très bie"
+    "texte_fr": "Le soin est terminé. Comment vous \nsentez-vous\naprès l'esthétique éthérique?[1205][U+000F]\nBien? Très bien?"
   },
   {
     "id": 60,
@@ -1199,7 +1199,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "May[SP]I[SP]help[SP]you[SP]with[SP]anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Autre chose pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne[1205][U+000F]\nNon merci\nP",
+    "texte_fr": "Autre chose pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne[1205][U+000F]\nNon merci\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""

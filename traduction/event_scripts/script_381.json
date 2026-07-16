@@ -445,7 +445,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Go[SP]see[SP]for[SP]yourself.[SP]If[SP]the[SP]rumor's[SP]come[SP]true,\nordering[SP]banana[SP]char[SP]siu[SP]ramen[SP]should[SP]get[SP]you\nweapons.",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Allez voir. Si la rumeur est réelle,ce\nramen\nau porc et à la banane devrait vous [1205][U+000F]\nprocurer\ndes arme"
+    "texte_fr": "Allez voir. Si la rumeur est réelle, ce \nramen\nau porc et à la banane devrait vous [1205][U+000F]\nprocurer\ndes armes."
   },
   {
     "id": 27,
@@ -779,7 +779,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -799,7 +799,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

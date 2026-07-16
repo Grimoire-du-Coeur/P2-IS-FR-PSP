@@ -77,7 +77,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]can't[SP]blame[SP]Ginko[SP]for[SP]worrying...[1205][001E][SP]I[SP]feel\nlike[SP]the[SP]weight[SP]of[SP]the[SP]world[SP]is[SP]being[SP]forced\non[SP]our[SP]shoulders.[SP]It[SP]kind[SP]of[SP]sucks.",
     "nom_fr": "Eikichi",
-    "texte_fr": "J'en veux pas à Ginko de s'inquiéter..[1205][001E]\nJ'ai l'impression de sentir tout le poids \ndu[1205][U+000F]\nmonde sur mes épaules. Et ça craint."
+    "texte_fr": "J'en veux pas à Ginko de s'inquiéter...[1205][001E]\nJ'ai l'impression de sentir tout le poids \ndu[1205][U+000F]\nmonde sur mes épaules. Et ça craint."
   },
   {
     "id": 5,
@@ -317,7 +317,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "What's[SP]up?[SP]Need[SP]something?\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Chikarin\nNever[SP]mind",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quoi d'neuf? Je peux t'aider?\n[1208][U+0003][1210][U+0475]Parlons rumeurs\nDiscuter un peu   [1205][U+000F]\nRien mer",
+    "texte_fr": "Quoi d'neuf? Je peux t'aider?\n[1208][U+0003][1210][U+0475]Parlons rumeurs \nDiscuter un peu   [1205][U+000F]\nRien merci",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -357,7 +357,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nR",
+    "texte_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -377,7 +377,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nR",
+    "texte_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -433,7 +433,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Sorry,[SP]what!?[SP]Principal[SP]Hanya's[SP]hair[SP]was[SP]real!?\nI[SP]was[SP]ready[SP]to[SP]risk[SP]my[SP]life[SP]to[SP]find[SP]that[SP]out,\nbut[SP]now[SP]I[SP]have[SP]a[SP]source!",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quoi?! Le Proviseur Hanya avait de vrais\ncheveux? J'aurais risqué ma vie pour le\nvérifier,[1205][U+000F]\nmais j'ai ma source désormai"
+    "texte_fr": "Quoi?! Le Proviseur Hanya avait de vrais\ncheveux? J'aurais risqué ma vie pour le \nvérifier,[1205][U+000F]\nmais j'ai ma source désormais!"
   },
   {
     "id": 26,
@@ -1041,7 +1041,7 @@
     "nom_orig": "Kazuya",
     "texte_orig": "I[SP]got[SP]this[SP]secondhand,[SP]but[SP]when[SP]the[SP]Grand[SP]Cross\nis[SP]done,[SP]the[SP]balance[SP]of[SP]gravity[SP]between[SP]the\nplanets[SP]is[SP]going[SP]to[SP]be[SP]thrown[SP]off.",
     "nom_fr": "Kazuya",
-    "texte_fr": "L'info est pas de moi,mais quand la\nCroix Cosmique se réalisera,l'équilibre\ngravitationnel entre les planètes [1205][U+000F]\ndisparaîtra."
+    "texte_fr": "L'info est pas de moi, mais quand la\nCroix Cosmique se réalisera, l'équilibre\ngravitationnel entre les planètes [1205][U+000F]\ndisparaîtra."
   },
   {
     "id": 64,
@@ -1169,7 +1169,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "Welcome[SP]to[SP]Peace[SP]Diner.[SP]How[SP]may[SP]I[SP]serve[SP]you,\nsirrah?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Bienvenue au Peace Diner.\nQue désirez-vous,maraud?\n[1208][U+0004]Manger [1205][U+000F]\nDiscuter un peu      \nRien merci\nFil",
+    "texte_fr": "Bienvenue au Peace Diner.\nQue désirez-vous, maraud?\n[1208][U+0004]Manger [1205][U+000F]\nDiscuter un peu       \nRien merci\nFiler",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1209,7 +1209,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "Will[SP]you[SP]be[SP]requiring[SP]anything[SP]else?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Requerriez-vous autre chose?\n[1208][U+0004]Manger\nDiscuter un peu       [1205][U+000F]\nRien merci\nFil",
+    "texte_fr": "Requerriez-vous autre chose?\n[1208][U+0004]Manger \nDiscuter un peu       [1205][U+000F]\nRien merci\nFiler",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1297,7 +1297,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "In[SP]all,[SP]that[SP]is[SP][120E][NULL][SP]yen.\n[1208][0002]Yes\nNo",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Cela fait [120E][NULL] yen.\n[1208][0002]Oui\nN",
+    "texte_fr": "Cela fait [120E][NULL] yen.\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1331,7 +1331,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "Each[SP]dish[SP]heightens[SP]one's[SP]powers[SP]temporarily.\nThe[SP]manner[SP]of[SP]this[SP]heightening[SP]differs[SP]from\ndish[SP]to[SP]dish.[SP]Why[SP]not[SP]try[SP]them[SP]all?",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Chaque plat élève votre pouvoir pour un\ntemps.\nLa nature de la hausse diffère selon le[1205][U+000F]\nplat. Pourquoi ne pas tout tester?"
+    "texte_fr": "Chaque plat élève votre pouvoir pour un \ntemps.\nLa nature de la hausse diffère selon le[1205][U+000F]\nplat. Pourquoi ne pas tout tester?"
   },
   {
     "id": 81,
@@ -1363,7 +1363,7 @@
     "nom_orig": "Speaker[SP]name",
     "texte_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen,[SP]but[SP]will\nyou[SP]sell[SP]them?\n[1208][0002]Yes\nNo",
     "nom_fr": "",
-    "texte_fr": "Le total fait [120E][NULL] yens.\nVous les vendez?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Le total fait [120E][NULL] yens.\nVous les vendez?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

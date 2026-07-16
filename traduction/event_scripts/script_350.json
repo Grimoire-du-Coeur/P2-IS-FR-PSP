@@ -93,7 +93,7 @@
     "nom_orig": "Maya",
     "texte_orig": "He[SP]did[SP]look[SP]kind[SP]of[SP]different,[SP]though...[SP]I[SP]mean,\ndid[SP]you[SP]see[SP]mine!?[SP]Those[SP]bloodshot[SP]eyes...\nDo[SP]I[SP]really[SP]look[SP]like[SP]that?",
     "nom_fr": "Maya",
-    "texte_fr": "Il avait l'air différent quand même..\nVous avez vu la mienne!? Ces yeux \ninjectés[1205][U+000F]\nde sang.. J'ai vraiment cet air?"
+    "texte_fr": "Il avait l'air différent quand même...\nVous avez vu la mienne!? Ces yeux \ninjectés[1205][U+000F]\nde sang... J'ai vraiment cet air?"
   },
   {
     "id": 6,
@@ -317,7 +317,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][U+000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][U+0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Bienvenue au Clair de Lune.[1205][U+000F]\nQue puis-je pour vous?\n[1208][U+0007][1210][U+03BC]Acheter armes[1205][U+000F]\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici[1205][U+000F]\nParler\nNon merci\nQu",
+    "texte_fr": "Bienvenue au Clair de Lune.[1205][U+000F]\nQue puis-je pour vous?\n[1208][U+0007][1210][U+03BC]Acheter armes[1205][U+000F]\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici[1205][U+000F]\nParler\nNon merci\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -377,7 +377,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][U+000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][U+0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Bienvenue au Clair de Lune.[1205][U+000F]\nQue puis-je pour vous?\n[1208][U+0007][1210][U+03BC]Acheter armes[1205][U+000F]\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici[1205][U+000F]\nParler\nNon merci\nQu",
+    "texte_fr": "Bienvenue au Clair de Lune.[1205][U+000F]\nQue puis-je pour vous?\n[1208][U+0007][1210][U+03BC]Acheter armes[1205][U+000F]\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici[1205][U+000F]\nParler\nNon merci\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1097,7 +1097,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "The[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]this[SP]acceptable?\n[1208][0002]Yes\nNo",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Total: [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Total: [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1375,7 +1375,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "The[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]this[SP]acceptable?\n[1208][0002]Yes\nNo",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Total: [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Total: [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

@@ -605,7 +605,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]bet[SP]both[SP]the[SP]Masked[SP]Circle[SP]and[SP]Last[SP]Battalion\nhave[SP]things[SP]to[SP]do[SP]before[SP]the[SP]Grand[SP]Cross![1205][U+000F]\nWe[SP]should[SP]hurry[SP]to[SP]Mt.[SP]Katatsumuri[SP]too.",
     "nom_fr": "Yukino",
-    "texte_fr": "Le Cercle masqué et le Bataillon ont des\nchoses\nà faire avant la Croix Cosmique![1205][U+000F]\nOn devrait se dépêcher vers le Mt.\nKatatsumuri."
+    "texte_fr": "Le Cercle masqué et le Bataillon ont des \nchoses\nà faire avant la Croix Cosmique![1205][U+000F]\nOn devrait se dépêcher vers le Mt. \nKatatsumuri."
   },
   {
     "id": 38,
@@ -677,7 +677,7 @@
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Sure...[1205][U+000F][SP]Was[SP]that[SP]it?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave",
     "nom_fr": "Gamin fainéant",
-    "texte_fr": "Ouais..[1205][U+000F] C'est tout?\n[1208][U+0004]Manger\nParler au gamin[1205][U+000F]\nNon merci\nPart",
+    "texte_fr": "Ouais...[1205][U+000F] C'est tout?\n[1208][U+0004]Manger\nParler au gamin[1205][U+000F]\nNon merci\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1373,7 +1373,7 @@
     "nom_orig": "Elly",
     "texte_orig": "The[SP]concert[SP]hall,[SP]Smile[SP]Hirasaka,[SP]GOLD,[SP]and[SP]the\nAerospace[SP]Museum[SP]form[SP]four[SP]points[SP]of[SP]a[SP]cross,\nwith[SP]Rengedai[SP]at[SP]the[SP]center.",
     "nom_fr": "Elly",
-    "texte_fr": "L'amphithéâtre,Smile Hirasaka,GOLD et\nle Musée de l'aérospatiale forment\nquatre points d'une croix,Rengedai au [1205][U+000F]\ncentre."
+    "texte_fr": "L'amphithéâtre, Smile Hirasaka, GOLD et\nle Musée de l'aérospatiale forment\nquatre points d'une croix, Rengedai au [1205][U+000F]\ncentre."
   },
   {
     "id": 85,
@@ -3412,7 +3412,7 @@
     "nom_orig": "Fat[SP]man",
     "texte_orig": "According[SP]to[SP]the[SP]rumors,[SP]the[SP]flowers[SP]at[SP]Aoba\nPark[SP]can[SP]talk.[SP]I[SP]hope[SP]that's[SP]just[SP]someone's\nfantasy--it'd[SP]be[SP]too[SP]scary[SP]if[SP]it[SP]was[SP]real.",
     "nom_fr": "Homme corpulent",
-    "texte_fr": "Selon les rumeurs,les fleurs du parc Aoba\nparlent. J'espère que c'est juste\nune fantaisie — trop flippant si c'est [1205][U+000F]\nvrai."
+    "texte_fr": "Selon les rumeurs, les fleurs du parc Aoba\nparlent. J'espère que c'est juste\nune fantaisie — trop flippant si c'est [1205][U+000F]\nvrai."
   },
   {
     "id": 213,
@@ -3444,7 +3444,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "That's[SP][120E][NULL][SP]yen[SP]in[SP]total.\nDo[SP]you[SP]want[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Ça fait [120E][NULL] yens.\nVous voulez ça?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Ça fait [120E][NULL] yens.\nVous voulez ça?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -3510,7 +3510,7 @@
     "nom_orig": "Speaker",
     "texte_orig": "It's[SP][120E][NULL][SP]yen[SP]total.[SP]Sell?\n[1208][0002]Yes\nNo",
     "nom_fr": "",
-    "texte_fr": "Total: [120E][NULL] yens. Vendre?\n[1208][0002]Oui\nN",
+    "texte_fr": "Total: [120E][NULL] yens. Vendre?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

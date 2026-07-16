@@ -420,7 +420,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -484,7 +484,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Ensuite,la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] puis\nchoisissez le type d'objet à vendre.[1205][U+000F]\nChoisissez enfin l'objet à vendre."
+    "texte_fr": "Ensuite, la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre \nobjets[1432][NULL][NULL][0014] puis\nchoisissez le type d'objet à vendre.[1205][U+000F]\nChoisissez enfin l'objet à vendre."
   },
   {
     "id": 29,
@@ -590,7 +590,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Ensuite,la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] puis\nchoisissez le type d'objet à vendre.[1205][U+000F]\nChoisissez enfin l'objet à vendre."
+    "texte_fr": "Ensuite, la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre \nobjets[1432][NULL][NULL][0014] puis\nchoisissez le type d'objet à vendre.[1205][U+000F]\nChoisissez enfin l'objet à vendre."
   },
   {
     "id": 36,

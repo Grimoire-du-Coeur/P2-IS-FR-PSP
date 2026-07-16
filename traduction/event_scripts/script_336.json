@@ -859,7 +859,7 @@
     "nom_orig": "Crybaby",
     "texte_orig": "Hey,[SP]did[SP]something[SP]happen[SP]at[SP]Zodiac?[SP]I[SP]saw[SP]tons\nof[SP]people[SP]running[SP]away[SP]from[SP]there...[SP]I[SP]hope\nMika-chan's[SP]okay...",
     "nom_fr": "Pleurnichard",
-    "texte_fr": "Un truc s'est passé au Zodiac?\nJ'ai vu plein de gens fuir\nl'endroit.. J'espère que[1205][U+000F]\nMika-chan va bien.."
+    "texte_fr": "Un truc s'est passé au Zodiac?\nJ'ai vu plein de gens fuir\nl'endroit... J'espère que[1205][U+000F]\nMika-chan va bien..."
   },
   {
     "id": 54,
@@ -1051,7 +1051,7 @@
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "Eeheehee.[SP]Hello,[SP]and[SP]welcome[SP]to[SP]Satomi[SP]Tadashi.[1205][U+000F]\nSo,[SP]what'll[SP]it[SP]be?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#4\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Sœur n°4",
-    "texte_fr": "Hihihi. Bonjour,bienvenue chez\nSatomi Tadashi.[1205][U+000F]\nAlors,que désires-tu?\n[1208][U+0006]Acheter objets[1205][U+000F]\nVendre objets\nParler à Sœur n°4\n[1210][U+0100]Voir objets[1205][U+000F]\nRien\nQuitter",
+    "texte_fr": "Hihihi. Bonjour, bienvenue chez\nSatomi Tadashi.[1205][U+000F]\nAlors, que désires-tu?\n[1208][U+0006]Acheter objets[1205][U+000F]\nVendre objets\nParler à Sœur n°4\n[1210][U+0100]Voir objets[1205][U+000F]\nRien\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1779,7 +1779,7 @@
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Sœur n°4",
-    "texte_fr": "Le total est de [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Le total est de [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1798,7 +1798,7 @@
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "Heeheehee.[SP]Okay,[SP]I'll[SP]tell[SP]you[SP]a[SP]little[SP]about\nshopping.",
     "nom_fr": "Sœur n°4",
-    "texte_fr": "Heeheehee. Okay,I'll tell you a little\nabout\nshopping."
+    "texte_fr": "Heeheehee. Okay, I'll tell you a little \nabout\nshopping."
   },
   {
     "id": 111,
@@ -1813,7 +1813,7 @@
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
     "nom_fr": "Sœur n°4",
-    "texte_fr": "First,buying things. If you select [1432][NULL][NULL][0014]Buy\nitems,[1432][NULL][NULL][0014]\nyou can choose from our sundries."
+    "texte_fr": "First, buying things. If you select [1432][NULL][NULL][0014]Buy \nitems,[1432][NULL][NULL][0014]\nyou can choose from our sundries."
   },
   {
     "id": 112,
@@ -1843,7 +1843,7 @@
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
     "nom_fr": "Sœur n°4",
-    "texte_fr": "Next,selling. Select [1432][NULL][NULL][0014]Sell items[1432][NULL][NULL][0014] first,\nand\nthen choose which type of item to sell. [1205][U+000F]\nThen\npick a particular item to sell "
+    "texte_fr": "Next, selling. Select [1432][NULL][NULL][0014]Sell items[1432][NULL][NULL][0014] first, \nand\nthen choose which type of item to sell. [1205][U+000F]\nThen\npick a particular item to sell us."
   },
   {
     "id": 114,
@@ -1858,7 +1858,7 @@
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "Our[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.",
     "nom_fr": "Sœur n°4",
-    "texte_fr": "Our resale prices are around half the\noriginal\nprice. You can't sell anything you have [1205][U+000F]\nequipped,\nand some special items are off-limits "
+    "texte_fr": "Our resale prices are around half the \noriginal\nprice. You can't sell anything you have [1205][U+000F]\nequipped,\nand some special items are off-limits too."
   },
   {
     "id": 115,

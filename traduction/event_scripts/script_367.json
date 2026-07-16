@@ -157,7 +157,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]can't[SP]believe[SP]even[SP]a[SP]guy[SP]like[SP]him[SP]was[SP]part\nof[SP]the[SP]Masked[SP]Circle...[SP]How[SP]many[SP]of[SP]them[SP]are\nthere?[SP]And[SP]will[SP]they[SP]all[SP]turn[SP]out[SP]like[SP]him?",
     "nom_fr": "Ginko",
-    "texte_fr": "Je n'arrive pas à croire qu'un type comme\nlui\nfaisait partie du Cercle Masqué.. Ils [1205][U+000F]\nsont combien?\nEt ils vont tous finir comme lu"
+    "texte_fr": "Je n'arrive pas à croire qu'un type comme \nlui\nfaisait partie du Cercle Masqué... Ils [1205][U+000F]\nsont combien?\nEt ils vont tous finir comme lui?"
   },
   {
     "id": 10,
@@ -269,7 +269,7 @@
     "nom_orig": "Maya",
     "texte_orig": "People[SP]think[SP]the[SP]Masked[SP]Circle[SP]were[SP]the\nterrorists.[SP]So[SP]rumors[SP]spread[SP]that[SP]they[SP]were\ndangerous,[SP]and[SP]then[SP]they[SP]came[SP]true...",
     "nom_fr": "Maya",
-    "texte_fr": "Les gens pensent que le Cercle Masqué\nétait des terroristes. Les rumeurs\nles disaient dangereux,et c'est devenu [1205][U+000F]\nvrai.."
+    "texte_fr": "Les gens pensent que le Cercle Masqué\nétait des terroristes. Les rumeurs\nles disaient dangereux, et c'est devenu [1205][U+000F]\nvrai..."
   },
   {
     "id": 17,
@@ -701,7 +701,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "A[SP]few[SP]children[SP]just[SP]came[SP]through.[SP]I[SP]see...\nThe[SP]five[SP]people[SP]in[SP]the[SP]composite[SP]sketches[SP]are\nheroes[SP]combating[SP]the[SP]Masked[SP]Circle...",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "Des enfants viennent de passer. Je vois..\nLes cinq des portraits-robots sont\ndes héros qui combattent le Cercle [1205][U+000F]\nMasqué.."
+    "texte_fr": "Des enfants viennent de passer. Je vois...\nLes cinq des portraits-robots sont\ndes héros qui combattent le Cercle [1205][U+000F]\nMasqué..."
   },
   {
     "id": 44,
@@ -1017,7 +1017,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "If[SP]I[SP]can[SP]help[SP]you[SP]with[SP]anything[SP]else[SP]at[SP]all,\nplease[SP]don't[SP]hesitate[SP]to[SP]ask.\n[1208][U+0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]tailor\nNever[SP]mind\nLeave",
     "nom_fr": "Tailleur",
-    "texte_fr": "Si je puis vous être utile,dites-le.\n[1208][U+0005]Acheter armures\nVendre objets[1205][U+000F]\nParler\nLaisser tomber\nQ",
+    "texte_fr": "Si je puis vous être utile, dites-le.\n[1208][U+0005]Acheter armures\nVendre objets[1205][U+000F]\nParler\nLaisser tomber\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1157,7 +1157,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "Are[SP]you[SP]buying[SP]armor[SP]to[SP]defend[SP]yourself[SP]from\nthe[SP]terroists[SP]as[SP]well?[SP]I[SP]hear[SP]this[SP]Masked[SP]Circle\nholds[SP]a[SP]human[SP]in[SP]no[SP]more[SP]esteem[SP]than[SP]a[SP]stone...",
     "nom_fr": "Tailleur",
-    "texte_fr": "Vous achetez des armures contre les\nterroristes?\nIl paraît que ce Cercle Masqué n'accorde[1205][U+000F]\npas plus de valeur à un homme qu'à une\npierre.."
+    "texte_fr": "Vous achetez des armures contre les \nterroristes?\nIl paraît que ce Cercle Masqué n'accorde[1205][U+000F]\npas plus de valeur à un homme qu'à une \npierre..."
   },
   {
     "id": 71,
@@ -1285,7 +1285,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "Oh[SP]dear...[SP]These[SP]situations[SP]are[SP]the[SP]province[SP]of\nthe[SP]police,[SP]yet[SP]they[SP]were[SP]removed[SP]from[SP]the\npicture[SP]at[SP]once.[1205][U+000F][SP]Though[SP]I[SP]mustn't[SP]criticize.",
     "nom_fr": "Tailleur",
-    "texte_fr": "Oh mon dieu.. Ces situations sont du\nressort\nde la police,et pourtant elle a été [1205][U+000F]\nécartée\nd'emblée.[1205][U+000F] Mais je ne dois pas critiquer."
+    "texte_fr": "Oh mon dieu... Ces situations sont du \nressort\nde la police, et pourtant elle a été [1205][U+000F]\nécartée\nd'emblée.[1205][U+000F] Mais je ne dois pas critiquer."
   },
   {
     "id": 79,
@@ -1381,7 +1381,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "All[SP]told,[SP]that[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]satisfactory?\n[1208][0002]Yes\nNo",
     "nom_fr": "Tailleur",
-    "texte_fr": "En tout,cela fera [120E][NULL] yens.\nCela vous convient?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "En tout, cela fera [120E][NULL] yens.\nCela vous convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

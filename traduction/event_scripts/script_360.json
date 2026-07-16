@@ -157,7 +157,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Sheba...[SP]Mee-ho...[1205][U+000F][SP]Can[SP]I[SP]really[SP]get[SP]them[SP]back?[1205][U+000F]\nAren't[SP]you[SP]worried,[SP]Eikichi?",
     "nom_fr": "",
-    "texte_fr": "Sheba.. Mee-ho..[1205][U+000F] Je peux vraiment les\nretrouver?[1205][U+000F] Tu t'inquiètes pas,Eikich"
+    "texte_fr": "Sheba... Mee-ho...[1205][U+000F] Je peux vraiment les\nretrouver?[1205][U+000F] Tu t'inquiètes pas, Eikichi?"
   },
   {
     "id": 10,
@@ -1606,7 +1606,7 @@
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I've[SP]never[SP]heard[SP]of[SP]armor[SP]as[SP]a[SP]fashion[SP]trend...\nBut[SP]Anima[SP]Mundi[SP]sells[SP]it.[1205][U+000F][SP]The[SP]quality[SP]of\ntheir[SP]stuff[SP]is[SP]low,[SP]but[SP]at[SP]least[SP]it's[SP]cheap.",
     "nom_fr": "Homme gros",
-    "texte_fr": "L'armure comme tendance mode, j'avais \njamais\nentendu ça.. Mais Anima Mundi en vend.[1205][U+000F]\nQualité basse, mais au moins c'est pas \ncher."
+    "texte_fr": "L'armure comme tendance mode, j'avais \njamais\nentendu ça... Mais Anima Mundi en vend.[1205][U+000F]\nQualité basse, mais au moins c'est pas \ncher."
   },
   {
     "id": 100,
@@ -2374,7 +2374,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "That's[SP][120E][NULL][SP]yen[SP]in[SP]total.\nDo[SP]you[SP]want[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Ça fait [120E][NULL] yens.\nVous le voulez?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Ça fait [120E][NULL] yens.\nVous le voulez?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2440,7 +2440,7 @@
     "nom_orig": "Speaker",
     "texte_orig": "It's[SP][120E][NULL][SP]yen[SP]total.[SP]Sell?\n[1208][0002]Yes\nNo",
     "nom_fr": "",
-    "texte_fr": "Total: [120E][NULL] yens. Vendre?\n[1208][0002]Oui\nN",
+    "texte_fr": "Total: [120E][NULL] yens. Vendre?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

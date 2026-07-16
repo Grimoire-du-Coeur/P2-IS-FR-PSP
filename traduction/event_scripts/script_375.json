@@ -893,7 +893,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "For[SP]what[SP]have[SP]you[SP]sought[SP]me[SP]out[SP]today?\n[1208][U+0005][1210][U+0475]Ask[SP]about[SP]rumors\nHear[SP]your[SP]fortune\nTalk[SP]to[SP]the[SP]Sumaru[SP]Genie\nNever[SP]mind\nLeave",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Qu'est-ce qui vous amène aujourd'hui?\n[1208][U+0005][1210][U+0475]Demander des rumeurs\nTirer les cartes[1205][U+000F]\nParler à la Génie\nLaisser tomber\nPa",
+    "texte_fr": "Qu'est-ce qui vous amène aujourd'hui?\n[1208][U+0005][1210][U+0475]Demander des rumeurs\nTirer les cartes[1205][U+000F]\nParler à la Génie\nLaisser tomber\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1313,7 +1313,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Very[SP]well.[1205][U+000F][SP]The[SP]price[SP]will[SP]be[SP]3,000[SP]yen.\nDo[SP]you[SP]still[SP]wish[SP]this?\n[1208][0002]Yes\nNo",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Très bien.[1205][U+000F] Le prix sera de 3 000 yens.\nSouhaitez-vous toujours cela?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "Très bien.[1205][U+000F] Le prix sera de 3 000 yens.\nSouhaitez-vous toujours cela?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1445,7 +1445,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "For[SP]the[SP]foreseeable[SP]future,[SP]your[SP]focus[SP]will[SP]be\nintensified.[SP]You[SP]will[SP]learn[SP]more[SP]from[SP]the[SP]world\naround[SP]you[SP]than[SP]normal.",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Pour les prochains temps,votre\nconcentration sera décuplée. Vous\napprendrez bien plus du monde autour[1205][U+000F]\nde vous que d'habitude."
+    "texte_fr": "Pour les prochains temps, votre\nconcentration sera décuplée. Vous\napprendrez bien plus du monde autour[1205][U+000F]\nde vous que d'habitude."
   },
   {
     "id": 90,
@@ -1769,7 +1769,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Quel sera le cadre de mon récit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nA",
+    "texte_fr": "Quel sera le cadre de mon récit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1789,7 +1789,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Quel sera le cadre de mon récit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nA",
+    "texte_fr": "Quel sera le cadre de mon récit?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2021,7 +2021,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "What?[SP]The[SP]lucky[SP]cat[SP]statue[SP]at[SP]the[SP]Kuzunoha\nDetective[SP]Agency[SP]talks?[SP]But[SP]isn't[SP]it[SP]a[SP]mere\nporcelain[SP]figure?[SP]Most[SP]peculiar...",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Quoi? La statue de chat porte-bonheur\nde l'Agence Kuzunoha parle? Mais ce\nn'est qu'une figurine en porcelaine?[1205][U+000F]\nTrès étrange.."
+    "texte_fr": "Quoi? La statue de chat porte-bonheur\nde l'Agence Kuzunoha parle? Mais ce\nn'est qu'une figurine en porcelaine?[1205][U+000F]\nTrès étrange..."
   },
   {
     "id": 125,
@@ -2181,7 +2181,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "It's[SP]kind[SP]of[SP]a[SP]long[SP]story...[SP]Is[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "C'est une longue histoire.. Ça vous\nconvient?\n[1208][0002]Oui[1205][U+000F]",
+    "texte_fr": "C'est une longue histoire... Ça vous\nconvient?\n[1208][0002]Oui[1205][U+000F]\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2889,7 +2889,7 @@
     "nom_orig": "Politician",
     "texte_orig": "That[SP]reminds[SP]me...[SP]The[SP]Genie[SP]here...[SP]You[SP]can't\nsee[SP]her[SP]face,[SP]but[SP]I[SP]feel[SP]like[SP]I've[SP]heard[SP]that\nvoice[SP]somewhere.[SP]Can't[SP]put[SP]my[SP]finger[SP]on[SP]it...",
     "nom_fr": "Politicien",
-    "texte_fr": "En parlant de ça.. La Génie ici..\nOn ne voit pas son visage mais cette\nvoix.. Je l'ai entendue quelque part[1205][U+000F]\nImpossible de savoir où.."
+    "texte_fr": "En parlant de ça... La Génie ici...\nOn ne voit pas son visage mais cette\nvoix... Je l'ai entendue quelque part[1205][U+000F]\nImpossible de savoir où..."
   },
   {
     "id": 179,
