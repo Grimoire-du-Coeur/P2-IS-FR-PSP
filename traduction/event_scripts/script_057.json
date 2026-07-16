@@ -1,130 +1,130 @@
 [
-  {
-    "id": 0,
-    "offset": 273580,
-    "data_size": 260,
-    "slot_size": 264,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "A[SP]barbell!?[SP]Th-This[SP]isn't[SP]funny...[SP]I'd[SP]be\ndead[SP]if[SP]that[SP]had[SP]landed[SP]on[SP]me!\n[E1][E2][E3][1121][E4][NULL][NULL]\"Maya\nG-Grazie,[SP][1113]-kun...[SP]I[SP]owe[SP]you[SP]one.",
-    "nom_fr": "Maya",
-    "texte_fr": "Un haltère!? C'est pas drôle... Je serais\nmorte s'il m'était tombé dessus!\n[E1][E2][E3][1121][E4][NULL][NULL]\"Maya\nGrazie, [1113]... Je t'en dois une."
-  },
-  {
-    "id": 1,
-    "offset": 273844,
-    "data_size": 170,
-    "slot_size": 174,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Ginko",
-    "texte_orig": "Aiyah![SP]There[SP]are[SP]bombs[SP]everywhere!\nWe[SP]don't[SP]have[SP]time[SP]to[SP]disarm[SP]them[SP]all.",
-    "nom_fr": "Ginko",
-    "texte_fr": "Oulah! Il y a des bombes!\nOn a pas le temps de toutes les désamorcer!"
-  },
-  {
-    "id": 2,
-    "offset": 274018,
-    "data_size": 246,
-    "slot_size": 250,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Ginko",
-    "texte_orig": "Was[SP]that[SP]guy[SP]a[SP]Masked[SP]Circle[SP]member[SP]too?\n...Didn't[SP]he[SP]look[SP]kinda[SP]cool?[SP]Not[SP]nearly\nas[SP]cool[SP]as[SP]you,[SP]of[SP]course,[SP][1113]!",
-    "nom_fr": "Ginko",
-    "texte_fr": "Ce type serait du Cercle masqué lui aussi ?\n...Il était cool non? Enfin, pas autant\nque toi bien sûr, [1113] !"
-  },
-  {
-    "id": 3,
-    "offset": 274268,
-    "data_size": 248,
-    "slot_size": 252,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "No[SP]riddles[SP]or[SP]transmitters[SP]here...[SP]Sheesh,\nI[SP]wish[SP]they'd[SP]put[SP]up[SP]some[SP]kinda[SP]sign[SP]to\nlet[SP]us[SP]know[SP]where[SP]they[SP]are.",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Ni devinettes ni d'émetteurs ici... Pfiouu,\nj'espère qu'ils ont mis une aide pour nous\nindiquer où ils sont."
-  },
-  {
-    "id": 4,
-    "offset": 274520,
-    "data_size": 224,
-    "slot_size": 228,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "That[SP]guy[SP]ran[SP]off[SP]the[SP]second[SP]he[SP]saw[SP]our[SP]faces!\nHe's[SP]suspicious,[SP]all[SP]right.[SP]Let's[SP]chase[SP]him\ndown,[SP][1113]!",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Ce mec s'est enfui à la seconde où il nous a vu !\nIl est méfiant, très bien. Pourchassons-le,\n[1113] !"
-  },
-  {
-    "id": 5,
-    "offset": 274748,
-    "data_size": 164,
-    "slot_size": 168,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "A[SP]barbell!?[SP]Th-This[SP]isn't[SP]funny...[SP]I'd[SP]be\ndead[SP]if[SP]that[SP]had[SP]landed[SP]on[SP]me!",
-    "nom_fr": "Maya",
-    "texte_fr": "Un haltère!? C'est pas drôle. Je serais\nmorte s'il était tombé sur moi!"
-  },
-  {
-    "id": 6,
-    "offset": 274916,
-    "data_size": 174,
-    "slot_size": 178,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "That[SP]guy...[1205][001E][SP]I[SP]feel[SP]like[SP]I've[SP]seen[SP]him\nsomewhere.[SP]Well,[SP]after[SP]him,[SP]I[SP]guess!",
-    "nom_fr": "Maya",
-    "texte_fr": "Cet homme...[1205][001E] J'ai l'impression\nde l'avoir déjà vu. Allez, on le suit !"
-  },
-  {
-    "id": 7,
-    "offset": 275094,
-    "data_size": 194,
-    "slot_size": 198,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Yukino",
-    "texte_orig": "Detonator...[SP]Detonator...[SP]Nothing[SP]but\ndetonators![SP]Ugh,[SP]this[SP]is[SP]getting[SP]on\nmy[SP]nerves!",
-    "nom_fr": "Yukino",
-    "texte_fr": "Détonateur... Détonateur... Que des\ndétonateurs ! Ugh, ça me tape\nsur les nerfs !"
-  }
+    {
+        "id": 0,
+        "offset": 273580,
+        "data_size": 260,
+        "slot_size": 264,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "A[SP]barbell!?[SP]Th-This[SP]isn't[SP]funny...[SP]I'd[SP]be\ndead[SP]if[SP]that[SP]had[SP]landed[SP]on[SP]me!\n[E1][E2][E3][1121][E4][NULL][NULL]\"Maya\nG-Grazie,[SP][1113]-kun...[SP]I[SP]owe[SP]you[SP]one.",
+        "nom_fr": "Maya",
+        "texte_fr": "Un haltère!? C'est pas drôle... Je serais\nmorte s'il m'était tombé dessus!\n[E1][E2][E3][1121][E4][NULL][NULL]\"Maya[1205][U+000F]\nGrazie, [1113]... Je t'en dois une."
+    },
+    {
+        "id": 1,
+        "offset": 273844,
+        "data_size": 170,
+        "slot_size": 174,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Ginko",
+        "texte_orig": "Aiyah![SP]There[SP]are[SP]bombs[SP]everywhere!\nWe[SP]don't[SP]have[SP]time[SP]to[SP]disarm[SP]them[SP]all.",
+        "nom_fr": "Ginko",
+        "texte_fr": "Oulah! Il y a des bombes!\nOn a pas le temps de toutes les \ndésamorcer!"
+    },
+    {
+        "id": 2,
+        "offset": 274018,
+        "data_size": 246,
+        "slot_size": 250,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Ginko",
+        "texte_orig": "Was[SP]that[SP]guy[SP]a[SP]Masked[SP]Circle[SP]member[SP]too?\n...Didn't[SP]he[SP]look[SP]kinda[SP]cool?[SP]Not[SP]nearly\nas[SP]cool[SP]as[SP]you,[SP]of[SP]course,[SP][1113]!",
+        "nom_fr": "Ginko",
+        "texte_fr": "Ce type serait du Cercle masqué lui aussi \n?\n...Il était cool non? Enfin, pas autant[1205][U+000F]\nque toi bien sûr, [1113] !"
+    },
+    {
+        "id": 3,
+        "offset": 274268,
+        "data_size": 248,
+        "slot_size": 252,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "No[SP]riddles[SP]or[SP]transmitters[SP]here...[SP]Sheesh,\nI[SP]wish[SP]they'd[SP]put[SP]up[SP]some[SP]kinda[SP]sign[SP]to\nlet[SP]us[SP]know[SP]where[SP]they[SP]are.",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Ni devinettes ni d'émetteurs ici... \nPfiouu,\nj'espère qu'ils ont mis une aide pour nous[1205][U+000F]\nindiquer où ils sont."
+    },
+    {
+        "id": 4,
+        "offset": 274520,
+        "data_size": 224,
+        "slot_size": 228,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "That[SP]guy[SP]ran[SP]off[SP]the[SP]second[SP]he[SP]saw[SP]our[SP]faces!\nHe's[SP]suspicious,[SP]all[SP]right.[SP]Let's[SP]chase[SP]him\ndown,[SP][1113]!",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Ce mec s'est enfui à la seconde où il nous\na vu !\nIl est méfiant, très bien. [1205][U+000F]\nPourchassons-le,\n[1113] !"
+    },
+    {
+        "id": 5,
+        "offset": 274748,
+        "data_size": 164,
+        "slot_size": 168,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "A[SP]barbell!?[SP]Th-This[SP]isn't[SP]funny...[SP]I'd[SP]be\ndead[SP]if[SP]that[SP]had[SP]landed[SP]on[SP]me!",
+        "nom_fr": "Maya",
+        "texte_fr": "Un haltère!? C'est pas drôle. Je serais\nmorte s'il était tombé sur moi!"
+    },
+    {
+        "id": 6,
+        "offset": 274916,
+        "data_size": 174,
+        "slot_size": 178,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "That[SP]guy...[1205][001E][SP]I[SP]feel[SP]like[SP]I've[SP]seen[SP]him\nsomewhere.[SP]Well,[SP]after[SP]him,[SP]I[SP]guess!",
+        "nom_fr": "Maya",
+        "texte_fr": "Cet homme...[1205][001E] J'ai l'impression\nde l'avoir déjà vu. Allez, on le suit !"
+    },
+    {
+        "id": 7,
+        "offset": 275094,
+        "data_size": 194,
+        "slot_size": 198,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Yukino",
+        "texte_orig": "Detonator...[SP]Detonator...[SP]Nothing[SP]but\ndetonators![SP]Ugh,[SP]this[SP]is[SP]getting[SP]on\nmy[SP]nerves!",
+        "nom_fr": "Yukino",
+        "texte_fr": "Détonateur... Détonateur... Que des\ndétonateurs ! Ugh, ça me tape\nsur les nerfs !"
+    }
 ]

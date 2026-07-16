@@ -986,6 +986,11 @@ def rebuild_iso(
                     )
 
                     if len(compressed) > stored_size:
+                        if fn_enc.upper() == "F_BE.BNP":
+                            if log_fn:
+                                log_fn(f"  [+] [INTERDIT] {fn_enc} est trop volumineux et le LBA hack est INTERDIT pour ce fichier. Crash Philémon evité !", "err")
+                            continue
+                            
                         if log_fn:
                             log_fn(
                                 f"  [+] [TOC PATCH] {fn_enc} est trop volumineux ({len(compressed)} > {stored_size}), deplacement a la FIN de l'ISO !",
