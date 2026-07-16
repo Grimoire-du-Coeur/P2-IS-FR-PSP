@@ -1,562 +1,562 @@
 [
-    {
-        "id": 0,
-        "offset": 353042,
-        "data_size": 168,
-        "slot_size": 172,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "[1113]...[SP]Don't[SP]worry[SP]about[SP]what[SP]I[SP]said\nearlier.[SP]I[SP]just[SP]had[SP]to[SP]speak[SP]my[SP]mind.",
-        "nom_fr": "Ginko",
-        "texte_fr": "[1113]... Oublie ce que j’ai dit, j’avais besoin\nde m’exprimer."
-    },
-    {
-        "id": 1,
-        "offset": 353214,
-        "data_size": 202,
-        "slot_size": 206,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "I[SP]don't[SP]want[SP]to[SP]be[SP]a[SP]drag[SP]on[SP]you...[1205][001E][SP]Ahaha...\nNot[SP]the[SP]best[SP]time[SP]to[SP]bring[SP]this[SP]up,[SP]is[SP]it?",
-        "nom_fr": "Ginko",
-        "texte_fr": "Je ne veux pas être un frein pour toi... \nAhaha... Pas le meilleur moment pour dire,\nhein?"
-    },
-    {
-        "id": 2,
-        "offset": 353420,
-        "data_size": 434,
-        "slot_size": 438,
-        "_term": [
-            4361,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Not[SP]the[SP]best[SP]time[SP]to[SP]bring[SP]this[SP]up,[SP]is[SP]it?\n[1208][U+0005][1432][NULL][NULL][0014]I'm[SP]glad[SP]you[SP]feel[SP]that[SP]way.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'm[SP]only[SP]interested[SP]in[SP]Maya.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'm[SP]only[SP]interested[SP]in[SP]Jun.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]My[SP]heart[SP]belongs[SP]to[SP]Eikichi![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]......[1432][NULL][NULL][0014]",
-        "nom_fr": "Ginko ",
-        "texte_fr": "Pas le meilleur moment pour ça, hein ?\n[1208][U+0005][1432][NULL][NULL][0014]Contente que tu penses ça.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je ne pense qu'à Maya.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Je ne pense qu'à Jun.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Mon cœur est à Eikichi ![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]......[1432][NULL][NULL][0014]",
-        "question_orig": "Not[SP]the[SP]best[SP]time[SP]to[SP]bring[SP]this[SP]up,[SP]is[SP]it?",
-        "choix_orig": [
-            "I'm[SP]glad[SP]you[SP]feel[SP]that[SP]way.",
-            "I'm[SP]only[SP]interested[SP]in[SP]Maya.",
-            "I'm[SP]only[SP]interested[SP]in[SP]Jun.",
-            "My[SP]heart[SP]belongs[SP]to[SP]Eikichi!",
-            "......"
-        ],
-        "question_fr": "",
-        "choix_fr": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "id": 3,
-        "offset": 353858,
-        "data_size": 148,
-        "slot_size": 152,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Huh...?[1205][001E][SP]Really...?[1205][001E][SP]I'm[SP]gonna[SP]hold[SP]you[SP]to\nthat,[SP]you[SP]know...",
-        "nom_fr": "Ginko",
-        "texte_fr": "Hein...?[1205][001E] Vraiment...?[1205][001E] Je te prends\nau mot, tu sais..."
-    },
-    {
-        "id": 4,
-        "offset": 354010,
-        "data_size": 188,
-        "slot_size": 192,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Ah...[SP]Ahahah![1205][001E][SP]I'm[SP]so[SP]happy[SP]that[SP]I'm[SP]getting\na[SP]little[SP]misty-eyed...[1205][001E][SP]E-Eheheh...",
-        "nom_fr": "Ginko",
-        "texte_fr": "Ah... Ahahah! Je suis si heureux que j'en \nai les yeux qui piquent... E-Eheh..."
-    },
-    {
-        "id": 5,
-        "offset": 354202,
-        "data_size": 206,
-        "slot_size": 210,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "I[SP]had[SP]a[SP]feeling[SP]you'd[SP]say[SP]that...[1205][001E][SP]Hey,[SP]it's[SP]okay.\nI'm[SP]not[SP]much[SP]now[SP]compared[SP]to[SP]Maya-chan.",
-        "nom_fr": "Ginko",
-        "texte_fr": "’avais le pressentiment que tu dirais \nça... Hé, c’est OK. Je vaux rien face à \nMaya-chan."
-    },
-    {
-        "id": 6,
-        "offset": 354412,
-        "data_size": 246,
-        "slot_size": 250,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "But[SP]someday,[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me...[1205][001E][SP]Hey,[SP]a\ngirl[SP]can[SP]dream,[SP]right?",
-        "nom_fr": "Ginko",
-        "texte_fr": "Mais un jour, je serai si incroyable que \ntu ne pourras pas m'ignorer... Hé, une \nfille peut rêver, non?"
-    },
-    {
-        "id": 7,
-        "offset": 354662,
-        "data_size": 246,
-        "slot_size": 250,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "S-Seriously...?[1205][001E][SP]Oh...[SP]Uh...[SP]Well,[SP]I[SP]don't[SP]know\nwhat[SP]to[SP]say[SP]to[SP]that...[SP]You're[SP]free[SP]to[SP]like\nwhoever[SP]you[SP]want...",
-        "nom_fr": "Ginko ",
-        "texte_fr": "S-Sérieusement… ? Oh… Euh… J’sais pas quoi\ndire… T’es libre d’aimer qui tu veux."
-    },
-    {
-        "id": 8,
-        "offset": 354912,
-        "data_size": 246,
-        "slot_size": 250,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "But[SP]someday,[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me...[1205][001E][SP]Hey,[SP]a\ngirl[SP]can[SP]dream,[SP]right?",
-        "nom_fr": "Ginko",
-        "texte_fr": "Mais un jour, je serai si incroyable que \ntu ne pourras pas m'ignorer... Hé, une \nfille peut rêver, non?"
-    },
-    {
-        "id": 9,
-        "offset": 355162,
-        "data_size": 90,
-        "slot_size": 94,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Oh,[SP]c'mon![1205][001E][SP]That's[SP]not[SP]funny,[SP][1113]!",
-        "nom_fr": "Ginko",
-        "texte_fr": "Hé! C’est pas drôle, [1113] !"
-    },
-    {
-        "id": 10,
-        "offset": 355256,
-        "data_size": 278,
-        "slot_size": 282,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "You're[SP]just[SP]trying[SP]to[SP]dodge[SP]the[SP]question,\nright?[SP]Well,[SP]someday[SP]I'll[SP]be[SP]such[SP]an[SP]awesome\ncatch[SP]that[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me!",
-        "nom_fr": "Ginko",
-        "texte_fr": "Tu essaies juste d’éviter la question, \nnon? Un jour, je serai si incroyable que \ntu ne pourras pas m’ignorer!"
-    },
-    {
-        "id": 11,
-        "offset": 355538,
-        "data_size": 178,
-        "slot_size": 182,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Heh,[SP]it's[SP]okay.[SP]Who[SP]wouldn't[SP]be[SP]at[SP]a[SP]loss\nafter[SP]hearing[SP]that[SP]out[SP]of[SP]the[SP]blue?",
-        "nom_fr": "Ginko",
-        "texte_fr": "Heh, c’est OK. Qui resterait pas perdu \naprès une déclaration?"
-    },
-    {
-        "id": 12,
-        "offset": 355720,
-        "data_size": 264,
-        "slot_size": 268,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "You're[SP]trying[SP]to[SP]dodge[SP]the[SP]question,[SP]huh?\nWell,[SP]someday[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me!",
-        "nom_fr": "Ginko",
-        "texte_fr": "Tu essaies juste d’éviter la question, \nnon? Un jour, je serai si incroyable que \ntu ne pourras pas m’ignorer!"
-    },
-    {
-        "id": 13,
-        "offset": 355988,
-        "data_size": 190,
-        "slot_size": 194,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "*whistle*[1205][001E][SP]She's[SP]as[SP]passionate[SP]as[SP]ever.\nIt's[SP]tough[SP]being[SP]a[SP]ladykiller,[SP]isn't[SP]it?",
-        "nom_fr": "Eikichi",
-        "texte_fr": "*siffle* Elle est toujours aussi \npassionnée. C’est dur d’être un séducteur,\nhein?"
-    },
-    {
-        "id": 14,
-        "offset": 356182,
-        "data_size": 138,
-        "slot_size": 142,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Jun",
-        "texte_orig": "Hahah...[1205][001E][SP]Lisa's[SP]still[SP]as[SP]blunt[SP]as[SP]I[SP]remember\nher[SP]to[SP]be...",
-        "nom_fr": "Jun",
-        "texte_fr": "Haha... Lisa est toujours directe, comme \ndans souvenir..."
-    },
-    {
-        "id": 15,
-        "offset": 356324,
-        "data_size": 158,
-        "slot_size": 162,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Seriously![SP]That[SP]was[SP]one[SP]hell[SP]of[SP]a[SP]confession...\nEven[SP]I[SP]was[SP]blushing!",
-        "nom_fr": "Maya",
-        "texte_fr": "Sérieux! C'était une sacré \ndéclaration...Même moi, j'ai rougi! "
-    },
-    {
-        "id": 16,
-        "offset": 356486,
-        "data_size": 150,
-        "slot_size": 154,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "I'm[SP]not[SP]letting[SP]a[SP]mopey[SP]guy[SP]and[SP]an[SP]old[SP]lady\nget[SP]the[SP]best[SP]of[SP]me!",
-        "nom_fr": "Ginko",
-        "texte_fr": "Je ne vais pas laisser un déprimé et une \nvieille me surpasser!"
-    },
-    {
-        "id": 17,
-        "offset": 356640,
-        "data_size": 150,
-        "slot_size": 154,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Oooh,[SP]are[SP]you[SP]declaring[SP]war?[SP]I'm[SP]not[SP]going\ndown[SP]without[SP]a[SP]fight!",
-        "nom_fr": "Maya",
-        "texte_fr": "Ooh, tu veux la guerre? Viens te battre!"
-    },
-    {
-        "id": 18,
-        "offset": 356794,
-        "data_size": 62,
-        "slot_size": 66,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Jun",
-        "texte_orig": "Now...[1205][001E][SP]Shall[SP]we...?",
-        "nom_fr": "Jun",
-        "texte_fr": "Maintenant. On y va?"
-    },
-    {
-        "id": 19,
-        "offset": 356860,
-        "data_size": 308,
-        "slot_size": 312,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Earth[SP]crystal[SP]skull",
-        "texte_orig": "I[SP]am[SP]the[SP]skull[SP]of[SP]everlasting[SP]earth...[1205][001E][SP]If[SP]my\nslumber[SP]is[SP]disturbed,[SP]water[SP]will[SP]run[SP]rampant\nand[SP]wind[SP]will[SP]have[SP]no[SP]destination...",
-        "nom_fr": "Crâne de cristal de la Terre",
-        "texte_fr": "Je suis le crâne de la terre \néternelle...Si mon sommeil est troublé, \nl’eau débordera et le vent errera sans [1205][U+000F]\nbut..."
-    },
-    {
-        "id": 20,
-        "offset": 357172,
-        "data_size": 122,
-        "slot_size": 126,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Now[SP]we[SP]have[SP]four[SP]skulls![SP]The[SP]next[SP]one's\nfinally--",
-        "nom_fr": "Ginko",
-        "texte_fr": "On a les 4 crânes! Et enfin le suivant--"
-    },
-    {
-        "id": 21,
-        "offset": 357298,
-        "data_size": 94,
-        "slot_size": 98,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "How[SP]are[SP]you[SP]getting[SP]reception...?",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Comment tu captes du réseau...?"
-    },
-    {
-        "id": 22,
-        "offset": 357396,
-        "data_size": 64,
-        "slot_size": 68,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Hello,[SP]Maya[SP]speaking.",
-        "nom_fr": "Maya",
-        "texte_fr": "Allô, c'est Maya."
-    },
-    {
-        "id": 23,
-        "offset": 357464,
-        "data_size": 150,
-        "slot_size": 154,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Tamaki's[SP]voice",
-        "texte_orig": "Maya-san!?[SP]Sorry[SP]to[SP]bother[SP]you,[SP]but[SP]we've\ngot[SP]trouble!",
-        "nom_fr": "Voix de Tamaki",
-        "texte_fr": "Maya?! Désolé de te déranger, mais on a \ndes ennuis!"
-    },
-    {
-        "id": 24,
-        "offset": 357618,
-        "data_size": 124,
-        "slot_size": 128,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Wh-Whoa![SP]What's[SP]wrong,[SP]Tamaki-san?\nCalm[SP]down[SP]and...",
-        "nom_fr": "Maya",
-        "texte_fr": "Wh-Whaou! Tamaki-san, calme-toi et..."
-    },
-    {
-        "id": 25,
-        "offset": 357746,
-        "data_size": 96,
-        "slot_size": 100,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "WHAT!?[SP]Prince[SP]Taurus[SP]took[SP]Ms.[SP]Ideal!?",
-        "nom_fr": "Maya",
-        "texte_fr": "QUOI!? Taureau a pris Mme Idéale!?"
-    },
-    {
-        "id": 26,
-        "offset": 357846,
-        "data_size": 244,
-        "slot_size": 248,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Tamaki's[SP]voice",
-        "texte_orig": "He[SP]struck[SP]when[SP]the[SP]Chief[SP]and[SP]I[SP]were[SP]out...\nSorry![SP]Tadashi[SP]was[SP]there,[SP]but[SP]he[SP]got[SP]creamed\npretty[SP]bad...",
-        "nom_fr": "Voix de Tamaki",
-        "texte_fr": "Ça a frappé pendant qu’on était sortis... \nDésolé, Tadashi était là, mais il s’est \nfait démolir..."
-    },
-    {
-        "id": 27,
-        "offset": 358094,
-        "data_size": 204,
-        "slot_size": 208,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Tamaki's[SP]voice",
-        "texte_orig": "And[SP]from[SP]what[SP]Tadashi[SP]said,[SP]that[SP]bull[SP]guy[SP]was\nsaying[SP]something[SP]about[SP]a[SP]sacrifice!",
-        "nom_fr": "Voix de Tamaki",
-        "texte_fr": "Et d'après Tadashi, ce type-taureau \nparlait d'un sacrifice!"
-    },
-    {
-        "id": 28,
-        "offset": 358302,
-        "data_size": 246,
-        "slot_size": 250,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Jun",
-        "texte_orig": "Of[SP]course...[SP]How[SP]careless[SP]of[SP]me.[1205][001E][SP]The[SP]woman[SP]who\nauthored[SP]the[SP]In[SP]Lak'ech[SP]with[SP]my[SP]father[SP]was\nnamed[SP]Maya[SP]Okamura...",
-        "nom_fr": "Jun",
-        "texte_fr": "Bien sûr... Quelle négligence de ma part. \nLa femme qui a écrit In Lak'ech avec mon \npère s'appelait Okamura..."
-    },
-    {
-        "id": 29,
-        "offset": 358552,
-        "data_size": 278,
-        "slot_size": 282,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Jun",
-        "texte_orig": "Father[SP]said[SP]she[SP]would[SP]be[SP]sacrificed[SP]when[SP]the\nOracle[SP]was[SP]fulfilled,[SP]as[SP]the[SP]one[SP]with[SP]Maian\nblood...[SP]She[SP]is[SP]the[SP][1432][NULL][NULL][0014]Maia[SP]Maiden.[1432][NULL][NULL][0014]",
-        "nom_fr": "Jun",
-        "texte_fr": "Selon Père, quand l'Oracle se réalisera,\ncelle en qui le sang maïen coule sera\nsacrifiée... Elle est la [1432][NULL][NULL][0014]Vierge Maia.[1432][NULL][NULL][0014]"
-    },
-    {
-        "id": 30,
-        "offset": 358834,
-        "data_size": 176,
-        "slot_size": 180,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "That[SP]perv's[SP]still[SP]alive!?[SP]What's[SP]he[SP]want[SP]a\nmiddle-aged[SP]lady[SP]like[SP]her[SP]for!?",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Ce pervers vit encore ?! Pourquoi une \nfemme mûre comme elle ?!"
-    },
-    {
-        "id": 31,
-        "offset": 359014,
-        "data_size": 276,
-        "slot_size": 280,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Jun",
-        "texte_orig": "Their[SP]destination[SP]is[SP]no[SP]doubt[SP]Xibalba.[SP]We\nshould[SP]be[SP]able[SP]to[SP]follow[SP]them[SP]through[SP]Heaven's\nGate[SP]at[SP]Sevens...[1205][001E][SP]the[SP]Narurato[SP]Stone.",
-        "nom_fr": "Jun",
-        "texte_fr": "Leur destination est sans doute Xibalba. \nOn peut les suivre par la Porte du Ciel à \nSeven... la Pierre Narurato."
-    },
-    {
-        "id": 32,
-        "offset": 359294,
-        "data_size": 122,
-        "slot_size": 126,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Aiyah!?[SP]That's[SP]the[SP]secret[SP]of[SP]the[SP]Narurato[SP]Stone!?",
-        "nom_fr": "Ginko",
-        "texte_fr": "Aie!? C'est le secret de la Pierre \nNarurato!?"
-    },
-    {
-        "id": 33,
-        "offset": 359420,
-        "data_size": 138,
-        "slot_size": 142,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Gotcha![SP]The[SP]sooner[SP]we[SP]leave[SP]the[SP]better.\nNext[SP]stop,[SP]Sevens!",
-        "nom_fr": "Maya",
-        "texte_fr": "Parfait ! Plus tôt on y va, mieux c’est. \nDirection Seven!"
-    }
+  {
+    "id": 0,
+    "offset": 353042,
+    "data_size": 168,
+    "slot_size": 172,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "[1113]...[SP]Don't[SP]worry[SP]about[SP]what[SP]I[SP]said\nearlier.[SP]I[SP]just[SP]had[SP]to[SP]speak[SP]my[SP]mind.",
+    "nom_fr": "Ginko",
+    "texte_fr": "[1113]... Oublie ce que j’ai dit, j’avais besoin\nde m’exprimer."
+  },
+  {
+    "id": 1,
+    "offset": 353214,
+    "data_size": 202,
+    "slot_size": 206,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "I[SP]don't[SP]want[SP]to[SP]be[SP]a[SP]drag[SP]on[SP]you...[1205][001E][SP]Ahaha...\nNot[SP]the[SP]best[SP]time[SP]to[SP]bring[SP]this[SP]up,[SP]is[SP]it?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Je ne veux pas être un frein pour toi... \nAhaha... Pas le meilleur moment pour dire,\nhein?"
+  },
+  {
+    "id": 2,
+    "offset": 353420,
+    "data_size": 434,
+    "slot_size": 438,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Not[SP]the[SP]best[SP]time[SP]to[SP]bring[SP]this[SP]up,[SP]is[SP]it?\n[1208][U+0005][1432][NULL][NULL][0014]I'm[SP]glad[SP]you[SP]feel[SP]that[SP]way.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'm[SP]only[SP]interested[SP]in[SP]Maya.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'm[SP]only[SP]interested[SP]in[SP]Jun.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]My[SP]heart[SP]belongs[SP]to[SP]Eikichi![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]......[1432][NULL][NULL][0014]",
+    "nom_fr": "Ginko ",
+    "texte_fr": "Pas le meilleur moment pour ça, hein?\n[1208][U+0005][1432][NULL][NULL][0014]Contente que tu penses ça.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Je ne pense qu'à Maya.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Je ne pense qu'à Jun.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Mon cœur est à Eikichi![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]......[1432][NULL][NULL][0014]",
+    "question_orig": "Not[SP]the[SP]best[SP]time[SP]to[SP]bring[SP]this[SP]up,[SP]is[SP]it?",
+    "choix_orig": [
+      "I'm[SP]glad[SP]you[SP]feel[SP]that[SP]way.",
+      "I'm[SP]only[SP]interested[SP]in[SP]Maya.",
+      "I'm[SP]only[SP]interested[SP]in[SP]Jun.",
+      "My[SP]heart[SP]belongs[SP]to[SP]Eikichi!",
+      "......"
+    ],
+    "question_fr": "",
+    "choix_fr": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 3,
+    "offset": 353858,
+    "data_size": 148,
+    "slot_size": 152,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Huh...?[1205][001E][SP]Really...?[1205][001E][SP]I'm[SP]gonna[SP]hold[SP]you[SP]to\nthat,[SP]you[SP]know...",
+    "nom_fr": "Ginko",
+    "texte_fr": "Hein...?[1205][001E] Vraiment...?[1205][001E] Je te prends\nau mot, tu sais..."
+  },
+  {
+    "id": 4,
+    "offset": 354010,
+    "data_size": 188,
+    "slot_size": 192,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Ah...[SP]Ahahah![1205][001E][SP]I'm[SP]so[SP]happy[SP]that[SP]I'm[SP]getting\na[SP]little[SP]misty-eyed...[1205][001E][SP]E-Eheheh...",
+    "nom_fr": "Ginko",
+    "texte_fr": "Ah... Ahahah! Je suis si heureux que j'en \nai les yeux qui piquent... E-Eheh..."
+  },
+  {
+    "id": 5,
+    "offset": 354202,
+    "data_size": 206,
+    "slot_size": 210,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "I[SP]had[SP]a[SP]feeling[SP]you'd[SP]say[SP]that...[1205][001E][SP]Hey,[SP]it's[SP]okay.\nI'm[SP]not[SP]much[SP]now[SP]compared[SP]to[SP]Maya-chan.",
+    "nom_fr": "Ginko",
+    "texte_fr": "’avais le pressentiment que tu dirais \nça... Hé, c’est OK. Je vaux rien face à \nMaya-chan."
+  },
+  {
+    "id": 6,
+    "offset": 354412,
+    "data_size": 246,
+    "slot_size": 250,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "But[SP]someday,[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me...[1205][001E][SP]Hey,[SP]a\ngirl[SP]can[SP]dream,[SP]right?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Mais un jour, je serai si incroyable que \ntu ne pourras pas m'ignorer... Hé, une \nfille peut rêver, non?"
+  },
+  {
+    "id": 7,
+    "offset": 354662,
+    "data_size": 246,
+    "slot_size": 250,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "S-Seriously...?[1205][001E][SP]Oh...[SP]Uh...[SP]Well,[SP]I[SP]don't[SP]know\nwhat[SP]to[SP]say[SP]to[SP]that...[SP]You're[SP]free[SP]to[SP]like\nwhoever[SP]you[SP]want...",
+    "nom_fr": "Ginko ",
+    "texte_fr": "S-Sérieusement…? Oh… Euh… J’sais pas quoi\ndire… T’es libre d’aimer qui tu veux."
+  },
+  {
+    "id": 8,
+    "offset": 354912,
+    "data_size": 246,
+    "slot_size": 250,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "But[SP]someday,[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me...[1205][001E][SP]Hey,[SP]a\ngirl[SP]can[SP]dream,[SP]right?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Mais un jour, je serai si incroyable que \ntu ne pourras pas m'ignorer... Hé, une \nfille peut rêver, non?"
+  },
+  {
+    "id": 9,
+    "offset": 355162,
+    "data_size": 90,
+    "slot_size": 94,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Oh,[SP]c'mon![1205][001E][SP]That's[SP]not[SP]funny,[SP][1113]!",
+    "nom_fr": "Ginko",
+    "texte_fr": "Hé! C’est pas drôle, [1113]!"
+  },
+  {
+    "id": 10,
+    "offset": 355256,
+    "data_size": 278,
+    "slot_size": 282,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "You're[SP]just[SP]trying[SP]to[SP]dodge[SP]the[SP]question,\nright?[SP]Well,[SP]someday[SP]I'll[SP]be[SP]such[SP]an[SP]awesome\ncatch[SP]that[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me!",
+    "nom_fr": "Ginko",
+    "texte_fr": "Tu essaies juste d’éviter la question, \nnon? Un jour, je serai si incroyable que \ntu ne pourras pas m’ignorer!"
+  },
+  {
+    "id": 11,
+    "offset": 355538,
+    "data_size": 178,
+    "slot_size": 182,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Heh,[SP]it's[SP]okay.[SP]Who[SP]wouldn't[SP]be[SP]at[SP]a[SP]loss\nafter[SP]hearing[SP]that[SP]out[SP]of[SP]the[SP]blue?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Heh, c’est OK. Qui resterait pas perdu \naprès une déclaration?"
+  },
+  {
+    "id": 12,
+    "offset": 355720,
+    "data_size": 264,
+    "slot_size": 268,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "You're[SP]trying[SP]to[SP]dodge[SP]the[SP]question,[SP]huh?\nWell,[SP]someday[SP]I'll[SP]be[SP]such[SP]an[SP]awesome[SP]catch\nthat[SP]you[SP]can't[SP]help[SP]but[SP]notice[SP]me!",
+    "nom_fr": "Ginko",
+    "texte_fr": "Tu essaies juste d’éviter la question, \nnon? Un jour, je serai si incroyable que \ntu ne pourras pas m’ignorer!"
+  },
+  {
+    "id": 13,
+    "offset": 355988,
+    "data_size": 190,
+    "slot_size": 194,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "*whistle*[1205][001E][SP]She's[SP]as[SP]passionate[SP]as[SP]ever.\nIt's[SP]tough[SP]being[SP]a[SP]ladykiller,[SP]isn't[SP]it?",
+    "nom_fr": "Eikichi",
+    "texte_fr": "*siffle* Elle est toujours aussi \npassionnée. C’est dur d’être un séducteur,\nhein?"
+  },
+  {
+    "id": 14,
+    "offset": 356182,
+    "data_size": 138,
+    "slot_size": 142,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "Hahah...[1205][001E][SP]Lisa's[SP]still[SP]as[SP]blunt[SP]as[SP]I[SP]remember\nher[SP]to[SP]be...",
+    "nom_fr": "Jun",
+    "texte_fr": "Haha... Lisa est toujours directe, comme \ndans souvenir..."
+  },
+  {
+    "id": 15,
+    "offset": 356324,
+    "data_size": 158,
+    "slot_size": 162,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Seriously![SP]That[SP]was[SP]one[SP]hell[SP]of[SP]a[SP]confession...\nEven[SP]I[SP]was[SP]blushing!",
+    "nom_fr": "Maya",
+    "texte_fr": "Sérieux! C'était une sacré \ndéclaration...Même moi, j'ai rougi! "
+  },
+  {
+    "id": 16,
+    "offset": 356486,
+    "data_size": 150,
+    "slot_size": 154,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "I'm[SP]not[SP]letting[SP]a[SP]mopey[SP]guy[SP]and[SP]an[SP]old[SP]lady\nget[SP]the[SP]best[SP]of[SP]me!",
+    "nom_fr": "Ginko",
+    "texte_fr": "Je ne vais pas laisser un déprimé et une \nvieille me surpasser!"
+  },
+  {
+    "id": 17,
+    "offset": 356640,
+    "data_size": 150,
+    "slot_size": 154,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Oooh,[SP]are[SP]you[SP]declaring[SP]war?[SP]I'm[SP]not[SP]going\ndown[SP]without[SP]a[SP]fight!",
+    "nom_fr": "Maya",
+    "texte_fr": "Ooh, tu veux la guerre? Viens te battre!"
+  },
+  {
+    "id": 18,
+    "offset": 356794,
+    "data_size": 62,
+    "slot_size": 66,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "Now...[1205][001E][SP]Shall[SP]we...?",
+    "nom_fr": "Jun",
+    "texte_fr": "Maintenant. On y va?"
+  },
+  {
+    "id": 19,
+    "offset": 356860,
+    "data_size": 308,
+    "slot_size": 312,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Earth[SP]crystal[SP]skull",
+    "texte_orig": "I[SP]am[SP]the[SP]skull[SP]of[SP]everlasting[SP]earth...[1205][001E][SP]If[SP]my\nslumber[SP]is[SP]disturbed,[SP]water[SP]will[SP]run[SP]rampant\nand[SP]wind[SP]will[SP]have[SP]no[SP]destination...",
+    "nom_fr": "Crâne de cristal de la Terre",
+    "texte_fr": "Je suis le crâne de la terre \néternelle...Si mon sommeil est troublé, \nl’eau débordera et le vent errera sans [1205][U+000F]\nbut..."
+  },
+  {
+    "id": 20,
+    "offset": 357172,
+    "data_size": 122,
+    "slot_size": 126,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Now[SP]we[SP]have[SP]four[SP]skulls![SP]The[SP]next[SP]one's\nfinally--",
+    "nom_fr": "Ginko",
+    "texte_fr": "On a les 4 crânes! Et enfin le suivant--"
+  },
+  {
+    "id": 21,
+    "offset": 357298,
+    "data_size": 94,
+    "slot_size": 98,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "How[SP]are[SP]you[SP]getting[SP]reception...?",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Comment tu captes du réseau...?"
+  },
+  {
+    "id": 22,
+    "offset": 357396,
+    "data_size": 64,
+    "slot_size": 68,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Hello,[SP]Maya[SP]speaking.",
+    "nom_fr": "Maya",
+    "texte_fr": "Allô, c'est Maya."
+  },
+  {
+    "id": 23,
+    "offset": 357464,
+    "data_size": 150,
+    "slot_size": 154,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Tamaki's[SP]voice",
+    "texte_orig": "Maya-san!?[SP]Sorry[SP]to[SP]bother[SP]you,[SP]but[SP]we've\ngot[SP]trouble!",
+    "nom_fr": "Voix de Tamaki",
+    "texte_fr": "Maya?! Désolé de te déranger, mais on a \ndes ennuis!"
+  },
+  {
+    "id": 24,
+    "offset": 357618,
+    "data_size": 124,
+    "slot_size": 128,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Wh-Whoa![SP]What's[SP]wrong,[SP]Tamaki-san?\nCalm[SP]down[SP]and...",
+    "nom_fr": "Maya",
+    "texte_fr": "Wh-Whaou! Tamaki-san, calme-toi et..."
+  },
+  {
+    "id": 25,
+    "offset": 357746,
+    "data_size": 96,
+    "slot_size": 100,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "WHAT!?[SP]Prince[SP]Taurus[SP]took[SP]Ms.[SP]Ideal!?",
+    "nom_fr": "Maya",
+    "texte_fr": "QUOI!? Taureau a pris Mme Idéale!?"
+  },
+  {
+    "id": 26,
+    "offset": 357846,
+    "data_size": 244,
+    "slot_size": 248,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Tamaki's[SP]voice",
+    "texte_orig": "He[SP]struck[SP]when[SP]the[SP]Chief[SP]and[SP]I[SP]were[SP]out...\nSorry![SP]Tadashi[SP]was[SP]there,[SP]but[SP]he[SP]got[SP]creamed\npretty[SP]bad...",
+    "nom_fr": "Voix de Tamaki",
+    "texte_fr": "Ça a frappé pendant qu’on était sortis... \nDésolé, Tadashi était là, mais il s’est \nfait démolir..."
+  },
+  {
+    "id": 27,
+    "offset": 358094,
+    "data_size": 204,
+    "slot_size": 208,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Tamaki's[SP]voice",
+    "texte_orig": "And[SP]from[SP]what[SP]Tadashi[SP]said,[SP]that[SP]bull[SP]guy[SP]was\nsaying[SP]something[SP]about[SP]a[SP]sacrifice!",
+    "nom_fr": "Voix de Tamaki",
+    "texte_fr": "Et d'après Tadashi, ce type-taureau \nparlait d'un sacrifice!"
+  },
+  {
+    "id": 28,
+    "offset": 358302,
+    "data_size": 246,
+    "slot_size": 250,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "Of[SP]course...[SP]How[SP]careless[SP]of[SP]me.[1205][001E][SP]The[SP]woman[SP]who\nauthored[SP]the[SP]In[SP]Lak'ech[SP]with[SP]my[SP]father[SP]was\nnamed[SP]Maya[SP]Okamura...",
+    "nom_fr": "Jun",
+    "texte_fr": "Bien sûr... Quelle négligence de ma part. \nLa femme qui a écrit In Lak'ech avec mon \npère s'appelait Okamura..."
+  },
+  {
+    "id": 29,
+    "offset": 358552,
+    "data_size": 278,
+    "slot_size": 282,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "Father[SP]said[SP]she[SP]would[SP]be[SP]sacrificed[SP]when[SP]the\nOracle[SP]was[SP]fulfilled,[SP]as[SP]the[SP]one[SP]with[SP]Maian\nblood...[SP]She[SP]is[SP]the[SP][1432][NULL][NULL][0014]Maia[SP]Maiden.[1432][NULL][NULL][0014]",
+    "nom_fr": "Jun",
+    "texte_fr": "Selon Père, quand l'Oracle se réalisera,\ncelle en qui le sang maïen coule sera\nsacrifiée... Elle est la [1432][NULL][NULL][0014]Vierge Maia.[1432][NULL][NULL][0014]"
+  },
+  {
+    "id": 30,
+    "offset": 358834,
+    "data_size": 176,
+    "slot_size": 180,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "That[SP]perv's[SP]still[SP]alive!?[SP]What's[SP]he[SP]want[SP]a\nmiddle-aged[SP]lady[SP]like[SP]her[SP]for!?",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ce pervers vit encore?! Pourquoi une \nfemme mûre comme elle?!"
+  },
+  {
+    "id": 31,
+    "offset": 359014,
+    "data_size": 276,
+    "slot_size": 280,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "Their[SP]destination[SP]is[SP]no[SP]doubt[SP]Xibalba.[SP]We\nshould[SP]be[SP]able[SP]to[SP]follow[SP]them[SP]through[SP]Heaven's\nGate[SP]at[SP]Sevens...[1205][001E][SP]the[SP]Narurato[SP]Stone.",
+    "nom_fr": "Jun",
+    "texte_fr": "Leur destination est sans doute Xibalba. \nOn peut les suivre par la Porte du Ciel à \nSeven... la Pierre Narurato."
+  },
+  {
+    "id": 32,
+    "offset": 359294,
+    "data_size": 122,
+    "slot_size": 126,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Aiyah!?[SP]That's[SP]the[SP]secret[SP]of[SP]the[SP]Narurato[SP]Stone!?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Aie!? C'est le secret de la Pierre \nNarurato!?"
+  },
+  {
+    "id": 33,
+    "offset": 359420,
+    "data_size": 138,
+    "slot_size": 142,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Gotcha![SP]The[SP]sooner[SP]we[SP]leave[SP]the[SP]better.\nNext[SP]stop,[SP]Sevens!",
+    "nom_fr": "Maya",
+    "texte_fr": "Parfait! Plus tôt on y va, mieux c’est. \nDirection Seven!"
+  }
 ]

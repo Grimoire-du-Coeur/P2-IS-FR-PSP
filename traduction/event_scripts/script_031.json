@@ -1,412 +1,412 @@
 [
-    {
-        "id": 0,
-        "offset": 333518,
-        "data_size": 126,
-        "slot_size": 130,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "This[SP]looks[SP]like[SP]the[SP]back[SP]door.[SP]So,[SP]how[SP]do\nwe[SP]get[SP]in?",
-        "nom_fr": "Maya",
-        "texte_fr": "On dirait la porte de derrière. Comment\non rentre?"
-    },
-    {
-        "id": 1,
-        "offset": 333648,
-        "data_size": 258,
-        "slot_size": 262,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Even[SP]if[SP]we[SP]lie[SP]and[SP]say[SP]we're[SP]here[SP]for[SP]an\ninterview,[SP]they'll[SP]find[SP]out[SP]once[SP]they\nrealize[SP]we[SP]don't[SP]have[SP]an[SP]appointment...",
-        "nom_fr": "Maya",
-        "texte_fr": "Même si on dit qu'on est là pour une\ninterview, ils vont le voir une fois \nqu'ils[1205][U+000F]\nverront qu'on n'a pas rendez-vous..."
-    },
-    {
-        "id": 2,
-        "offset": 333910,
-        "data_size": 250,
-        "slot_size": 254,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "Hey,[SP]gang![SP]There's[SP]some[SP]guys[SP]who[SP]look[SP]like\npart-time[SP]staff[SP]over[SP]there.[SP]They're[SP]slacking\non[SP]the[SP]job,[SP]seems[SP]like.",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Hé! Il y'a des gars qui ressemblent\nà du personnel par là. On dirait qu'ils se\nla coulent douce[1205][U+000F]\nau travail."
-    },
-    {
-        "id": 3,
-        "offset": 334164,
-        "data_size": 192,
-        "slot_size": 196,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Yeah,[SP]looks[SP]that[SP]way.[SP]But[SP]if[SP]they're[SP]part-\ntimers,[SP]they[SP]might[SP]have[SP]employee[SP]badges.",
-        "nom_fr": "Yukino",
-        "texte_fr": "Yep, on dirait. S'ils sont employés à \ntemps-\npartiel, ils ont peut-être des badges."
-    },
-    {
-        "id": 4,
-        "offset": 334360,
-        "data_size": 172,
-        "slot_size": 176,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Why[SP]don't[SP]we[SP]offer[SP]to[SP]buy[SP]'em?[SP]Just[SP]say[SP]that\nwe[SP]couldn't[SP]get[SP]concert[SP]tix.",
-        "nom_fr": "Yukino",
-        "texte_fr": "Pourquoi ne pas leur racheter? On dira\nqu'on n'a pas pu avoir de billets."
-    },
-    {
-        "id": 5,
-        "offset": 334536,
-        "data_size": 206,
-        "slot_size": 210,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Even[SP]if[SP]they[SP]try[SP]to[SP]gouge[SP]us[SP]a[SP]little,\neasier[SP]to[SP]grease[SP]some[SP]palms[SP]than[SP]start\na[SP]commotion.",
-        "nom_fr": "Yukino",
-        "texte_fr": "Puis s'ils nous arnaquent, vaut mieux\ngraisser des pattes plutôt que commencer\nun tumulte."
-    },
-    {
-        "id": 6,
-        "offset": 334746,
-        "data_size": 182,
-        "slot_size": 186,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Yeah,[SP]you're[SP]right.[SP]Okay,[SP]let's[SP]try[SP]Yukki's\nplan![SP][1113]-kun,[SP]will[SP]you[SP]do[SP]the[SP]honors?",
-        "nom_fr": "Maya",
-        "texte_fr": "Tu as raison. On s'en tiens au plan\n de Yukki! [U+113], nous feras-tu l'honneur?"
-    },
-    {
-        "id": 7,
-        "offset": 334932,
-        "data_size": 176,
-        "slot_size": 180,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Could[SP]you[SP]negotiate[SP]with[SP]them,[SP][1113]-kun?\nWe'll[SP]be[SP]waiting[SP]here,[SP]rooting[SP]for[SP]you!",
-        "nom_fr": "Maya",
-        "texte_fr": "Tu peux négocier avec eux, [1113]?\nOn attendra ici, en t'encourageant!"
-    },
-    {
-        "id": 8,
-        "offset": 335112,
-        "data_size": 218,
-        "slot_size": 222,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Alright,[SP]are[SP]we[SP]ready?[SP]Once[SP]we're[SP]in,[SP]we\nprobably[SP]won't[SP]be[SP]able[SP]to[SP]leave[SP]until\nwe've[SP]rescued[SP]Lisa.",
-        "nom_fr": "Maya",
-        "texte_fr": "Bien, prêts? Une fois à l'intérieur, on\nne pourra partir d'ici qu'une fois\nLisa sauvée."
-    },
-    {
-        "id": 9,
-        "offset": 335334,
-        "data_size": 258,
-        "slot_size": 262,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Jobs[SP]like[SP]this[SP]sound[SP]good.[SP]Who[SP]doesn't[SP]want\nto[SP]get[SP]paid[SP]and[SP]watch[SP]a[SP]concert?[SP]But[SP]the\nreality[SP]is,[SP]they're[SP]not[SP]so[SP]hot.",
-        "nom_fr": "Yukino",
-        "texte_fr": "Sympa ce boulot. Qui ne voudrait\npas être payé à assister à un concert? \nMais[1205][U+000F]\nbon, c'est que ca ne vend pas du rêve."
-    },
-    {
-        "id": 10,
-        "offset": 335596,
-        "data_size": 292,
-        "slot_size": 296,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Man,[SP]were[SP]those[SP]guys[SP]irresponsible,[SP]though!\nThey[SP]don't[SP]have[SP]what[SP]it[SP]takes[SP]to[SP]work[SP]a[SP]job.\nThough[SP]we[SP]were[SP]the[SP]ones[SP]who[SP]egged[SP]them[SP]on...",
-        "nom_fr": "Yukino",
-        "texte_fr": "Pff, ces types sont vraiment \nirresponsables!\nIls n'ont pas l'étoffe pour ce travail.[1205][U+000F]\nMême si c'est nous qui les avons \nencouragés..."
-    },
-    {
-        "id": 11,
-        "offset": 335892,
-        "data_size": 272,
-        "slot_size": 276,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "I'm[SP]sure[SP]there'll[SP]come[SP]a[SP]day[SP]when[SP]women[SP]all\nover[SP]Japan[SP]fawn[SP]over[SP]me[SP]as[SP]I[SP]play[SP]my[SP]own[SP]shows\nhere...[SP]I'll[SP]kick[SP]out[SP]the[SP]jams!",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Je suis sûr qu'un jour toutes les femmes à\ntravers le Japon m'aduleront pendant que \nje donnerais mes propres concerts[1205][U+000F]\nici!"
-    },
-    {
-        "id": 12,
-        "offset": 336168,
-        "data_size": 298,
-        "slot_size": 302,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "The[SP]big[SP]future[SP]star,[SP]going[SP]out[SP]to[SP]do[SP]grunt\nwork...[1205][001E][SP]I[SP]wanted[SP]to[SP]take[SP]the[SP]stage[SP]with[SP]pride,\nbut[SP]they[SP]say[SP]it's[SP]important[SP]to[SP]start[SP]small.",
-        "nom_fr": "Eikichi",
-        "texte_fr": "La future super star, qui part faire le \nsale\nboulot...[1205][001E] Je voulais monter sur scène avec[1205][U+000F]\nfierté,\nmais faut commencer par voir petit."
-    },
-    {
-        "id": 13,
-        "offset": 336470,
-        "data_size": 270,
-        "slot_size": 274,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "*sigh*[SP]Ughhhh...[1205][001E][SP]I[SP]drank[SP]too[SP]much[SP]at[SP]the\nclub[SP]party[SP]yesterday...[1205][001E][SP]I[SP]wish[SP]someone\nwould[SP]take[SP]over[SP]my[SP]shift[SP]today.",
-        "nom_fr": "Personnel",
-        "texte_fr": "*soupir* Ughhhh...[1205][001E] J'ai trop bu hier \nsoir...[1205][001E] Si seulement quelqu'un\npouvait prendre ma place aujourd'hui."
-    },
-    {
-        "id": 14,
-        "offset": 336744,
-        "data_size": 202,
-        "slot_size": 206,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "I[SP]was[SP]supposed[SP]to[SP]go[SP]to[SP]Olivia-chan's[SP]show\ntoday,[SP]but[SP]I[SP]suddenly[SP]got[SP]called[SP]up...",
-        "nom_fr": "Personnel",
-        "texte_fr": "J'étais censé pouvoir assister au concert \nd'aujourd'hui, mais on m'a appelé ici..."
-    },
-    {
-        "id": 15,
-        "offset": 336950,
-        "data_size": 170,
-        "slot_size": 174,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "I[SP]asked[SP]my[SP]friends,[SP]but[SP]they[SP]were[SP]all[SP]too\nbusy[SP]to[SP]cover[SP]for[SP]me...",
-        "nom_fr": "Personnel",
-        "texte_fr": "J'ai demandé à des amis, mais ils sont \ntous\noccupés pour me couvrir."
-    },
-    {
-        "id": 16,
-        "offset": 337124,
-        "data_size": 234,
-        "slot_size": 238,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "Hey,[SP]only[SP]staffers[SP]are[SP]allowed[SP]through[SP]here.\nI[SP]know[SP]it's[SP]annoying,[SP]but[SP]we[SP]have[SP]to[SP]do[SP]our\njob[SP]too.",
-        "nom_fr": "Personnel",
-        "texte_fr": "Hé, seul le staff est autorisé ici.\nJe sais que c'est ennuyant, mais on doit \nfaire notre[1205][U+000F]\nboulot."
-    },
-    {
-        "id": 17,
-        "offset": 337362,
-        "data_size": 294,
-        "slot_size": 298,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "Huh...?[SP]You[SP]don't[SP]mind[SP]taking[SP]over[SP]our\nshifts?[SP]You[SP]want[SP]to[SP]see[SP]the[SP]show[SP]but[SP]couldn't\nget[SP]tickets?[SP]Hrgh,[SP]this[SP]is[SP]weird[SP]timing...",
-        "nom_fr": "Personnel",
-        "texte_fr": "Euh...? Tu veux récupérer nos\ntâches? Tu veux voir le concert mais tu \nn'as pas pu[1205][U+000F]\navoir de tickets? Quelle drôle de \ncoincidence..."
-    },
-    {
-        "id": 18,
-        "offset": 337660,
-        "data_size": 208,
-        "slot_size": 212,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "We'd[SP]be[SP]in[SP]major[SP]trouble[SP]if[SP]they[SP]found[SP]out,\nbut...[SP]I[SP]really[SP]don't[SP]want[SP]to[SP]be[SP]here...",
-        "nom_fr": "Personnel",
-        "texte_fr": "Bonjour les ennuis si ils s'en \naperçoivent,\nmais...J'ai vraiment pas envie d'être [1205][U+000F]\nici..."
-    },
-    {
-        "id": 19,
-        "offset": 337872,
-        "data_size": 302,
-        "slot_size": 306,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "T-Tell[SP]you[SP]what,[SP]we'll[SP]sell[SP]you[SP]our[SP]employee\nbadges[SP]for[SP]10,000[SP]yen[SP]total.[SP]Considering[SP]the\nrisk[SP]for[SP]us,[SP]it's[SP]not[SP]much[SP]to[SP]ask,[SP]right?",
-        "nom_fr": "Personnel",
-        "texte_fr": "D-devine quoi, on va te vendre nos badges\nd'employés pour un total de 10,000 yen. Si\non considère le risque, ce n'est pas cher?"
-    },
-    {
-        "id": 20,
-        "offset": 338178,
-        "data_size": 184,
-        "slot_size": 188,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "Oh,[SP]did[SP]you[SP]get[SP]the[SP]money?[SP]Do[SP]you[SP]want[SP]to\nbuy[SP]our[SP]badges[SP]for[SP]10,000[SP]yen?",
-        "nom_fr": "Personnel",
-        "texte_fr": "Oh, tu as l'argent ? Tu souhaites\nacheter nos badges pour 10,000 yen?"
-    },
-    {
-        "id": 21,
-        "offset": 338366,
-        "data_size": 210,
-        "slot_size": 214,
-        "_term": [
-            4361,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "Do[SP]you[SP]want[SP]to[SP]buy[SP]our[SP]badges[SP]for[SP]10,000[SP]yen?\n[1208][0002][1432][NULL][NULL][0014]Yes.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Nah,[SP]never[SP]mind.[1432][NULL][NULL][0014]",
-        "nom_fr": "Personnel",
-        "texte_fr": "Tu veux acheter nos badges pour 10,000 \nyen?\n[1208][0002][1432][NULL][NULL][0014]Oui.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Nan, j'en veux plus.[1432][NULL][NULL][0014]",
-        "question_orig": "Do[SP]you[SP]want[SP]to[SP]buy[SP]our[SP]badges[SP]for[SP]10,000[SP]yen?",
-        "choix_orig": [
-            "Yes.",
-            "Nah,[SP]never[SP]mind."
-        ],
-        "question_fr": "Tu veux acheter nos badges pour 10,000 yen?",
-        "choix_fr": [
-            "Oui.",
-            "Nan, j'en veux plus."
-        ]
-    },
-    {
-        "id": 22,
-        "offset": 338580,
-        "data_size": 268,
-        "slot_size": 272,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "A-Alright,[SP]it's[SP]a[SP]deal.[SP]Here[SP]y'go,[SP]our\n[E4][NULL][NULL][U+0006]employee[SP]badges[E4][NULL][NULL][0002].[SP]Make[SP]sure[SP]you[SP]do[SP]your[SP]jobs!\nWe're[SP]counting[SP]on[SP]you!",
-        "nom_fr": "Personnel",
-        "texte_fr": "D'Acc-D'accord, c'est un marché. Voilà, \nnos\n[E4][NULL][NULL][U+0006]badges d'employés[E4][NULL][NULL][0002]. Fait du bon travail![1205][U+000F]\nOn compte sur toi!"
-    },
-    {
-        "id": 23,
-        "offset": 338852,
-        "data_size": 234,
-        "slot_size": 238,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "Oh,[SP]you[SP]don't[SP]have[SP]the[SP]money[SP]yet?[SP]Then[SP]I\ncan't[SP]sell[SP]these[SP]to[SP]you.[SP]Come[SP]back[SP]when\nyou[SP]have[SP]enough.",
-        "nom_fr": "Personnel",
-        "texte_fr": "Tu n'as pas encore l'argent? Dans ce cas \nje\nne peux pas te les vendres. Reviens quand[1205][U+000F]\ntu auras assez."
-    },
-    {
-        "id": 24,
-        "offset": 339090,
-        "data_size": 240,
-        "slot_size": 244,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Concert[SP]staff",
-        "texte_orig": "You[SP]changed[SP]your[SP]mind?[SP]That's[SP]too[SP]bad.\nOur[SP]offer's[SP]still[SP]on[SP]the[SP]table[SP]if[SP]you[SP]have\nthe[SP]money,[SP]though.",
-        "nom_fr": "Personnel",
-        "texte_fr": "Tu as changé d'avis? C'est dommage.\nNotre offre tient toujours si tu en as\nles moyens, bien sûr."
-    }
+  {
+    "id": 0,
+    "offset": 333518,
+    "data_size": 126,
+    "slot_size": 130,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "This[SP]looks[SP]like[SP]the[SP]back[SP]door.[SP]So,[SP]how[SP]do\nwe[SP]get[SP]in?",
+    "nom_fr": "Maya",
+    "texte_fr": "On dirait la porte de derrière. Comment\non rentre?"
+  },
+  {
+    "id": 1,
+    "offset": 333648,
+    "data_size": 258,
+    "slot_size": 262,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Even[SP]if[SP]we[SP]lie[SP]and[SP]say[SP]we're[SP]here[SP]for[SP]an\ninterview,[SP]they'll[SP]find[SP]out[SP]once[SP]they\nrealize[SP]we[SP]don't[SP]have[SP]an[SP]appointment...",
+    "nom_fr": "Maya",
+    "texte_fr": "Même si on dit qu'on est là pour une\ninterview, ils vont le voir une fois \nqu'ils[1205][U+000F]\nverront qu'on n'a pas rendez-vous..."
+  },
+  {
+    "id": 2,
+    "offset": 333910,
+    "data_size": 250,
+    "slot_size": 254,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Hey,[SP]gang![SP]There's[SP]some[SP]guys[SP]who[SP]look[SP]like\npart-time[SP]staff[SP]over[SP]there.[SP]They're[SP]slacking\non[SP]the[SP]job,[SP]seems[SP]like.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Hé! Il y'a des gars qui ressemblent\nà du personnel par là. On dirait qu'ils se\nla coulent douce[1205][U+000F]\nau travail."
+  },
+  {
+    "id": 3,
+    "offset": 334164,
+    "data_size": 192,
+    "slot_size": 196,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Yeah,[SP]looks[SP]that[SP]way.[SP]But[SP]if[SP]they're[SP]part-\ntimers,[SP]they[SP]might[SP]have[SP]employee[SP]badges.",
+    "nom_fr": "Yukino",
+    "texte_fr": "Yep, on dirait. S'ils sont employés à \ntemps-\npartiel, ils ont peut-être des badges."
+  },
+  {
+    "id": 4,
+    "offset": 334360,
+    "data_size": 172,
+    "slot_size": 176,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Why[SP]don't[SP]we[SP]offer[SP]to[SP]buy[SP]'em?[SP]Just[SP]say[SP]that\nwe[SP]couldn't[SP]get[SP]concert[SP]tix.",
+    "nom_fr": "Yukino",
+    "texte_fr": "Pourquoi ne pas leur racheter? On dira\nqu'on n'a pas pu avoir de billets."
+  },
+  {
+    "id": 5,
+    "offset": 334536,
+    "data_size": 206,
+    "slot_size": 210,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Even[SP]if[SP]they[SP]try[SP]to[SP]gouge[SP]us[SP]a[SP]little,\neasier[SP]to[SP]grease[SP]some[SP]palms[SP]than[SP]start\na[SP]commotion.",
+    "nom_fr": "Yukino",
+    "texte_fr": "Puis s'ils nous arnaquent, vaut mieux\ngraisser des pattes plutôt que commencer\nun tumulte."
+  },
+  {
+    "id": 6,
+    "offset": 334746,
+    "data_size": 182,
+    "slot_size": 186,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Yeah,[SP]you're[SP]right.[SP]Okay,[SP]let's[SP]try[SP]Yukki's\nplan![SP][1113]-kun,[SP]will[SP]you[SP]do[SP]the[SP]honors?",
+    "nom_fr": "Maya",
+    "texte_fr": "Tu as raison. On s'en tiens au plan\n de Yukki! [U+113], nous feras-tu l'honneur?"
+  },
+  {
+    "id": 7,
+    "offset": 334932,
+    "data_size": 176,
+    "slot_size": 180,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Could[SP]you[SP]negotiate[SP]with[SP]them,[SP][1113]-kun?\nWe'll[SP]be[SP]waiting[SP]here,[SP]rooting[SP]for[SP]you!",
+    "nom_fr": "Maya",
+    "texte_fr": "Tu peux négocier avec eux, [1113]?\nOn attendra ici, en t'encourageant!"
+  },
+  {
+    "id": 8,
+    "offset": 335112,
+    "data_size": 218,
+    "slot_size": 222,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Alright,[SP]are[SP]we[SP]ready?[SP]Once[SP]we're[SP]in,[SP]we\nprobably[SP]won't[SP]be[SP]able[SP]to[SP]leave[SP]until\nwe've[SP]rescued[SP]Lisa.",
+    "nom_fr": "Maya",
+    "texte_fr": "Bien, prêts? Une fois à l'intérieur, on\nne pourra partir d'ici qu'une fois\nLisa sauvée."
+  },
+  {
+    "id": 9,
+    "offset": 335334,
+    "data_size": 258,
+    "slot_size": 262,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Jobs[SP]like[SP]this[SP]sound[SP]good.[SP]Who[SP]doesn't[SP]want\nto[SP]get[SP]paid[SP]and[SP]watch[SP]a[SP]concert?[SP]But[SP]the\nreality[SP]is,[SP]they're[SP]not[SP]so[SP]hot.",
+    "nom_fr": "Yukino",
+    "texte_fr": "Sympa ce boulot. Qui ne voudrait\npas être payé à assister à un concert? \nMais[1205][U+000F]\nbon, c'est que ca ne vend pas du rêve."
+  },
+  {
+    "id": 10,
+    "offset": 335596,
+    "data_size": 292,
+    "slot_size": 296,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Man,[SP]were[SP]those[SP]guys[SP]irresponsible,[SP]though!\nThey[SP]don't[SP]have[SP]what[SP]it[SP]takes[SP]to[SP]work[SP]a[SP]job.\nThough[SP]we[SP]were[SP]the[SP]ones[SP]who[SP]egged[SP]them[SP]on...",
+    "nom_fr": "Yukino",
+    "texte_fr": "Pff, ces types sont vraiment \nirresponsables!\nIls n'ont pas l'étoffe pour ce travail.[1205][U+000F]\nMême si c'est nous qui les avons \nencouragés..."
+  },
+  {
+    "id": 11,
+    "offset": 335892,
+    "data_size": 272,
+    "slot_size": 276,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "I'm[SP]sure[SP]there'll[SP]come[SP]a[SP]day[SP]when[SP]women[SP]all\nover[SP]Japan[SP]fawn[SP]over[SP]me[SP]as[SP]I[SP]play[SP]my[SP]own[SP]shows\nhere...[SP]I'll[SP]kick[SP]out[SP]the[SP]jams!",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Je suis sûr qu'un jour toutes les femmes à\ntravers le Japon m'aduleront pendant que \nje donnerais mes propres concerts[1205][U+000F]\nici!"
+  },
+  {
+    "id": 12,
+    "offset": 336168,
+    "data_size": 298,
+    "slot_size": 302,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "The[SP]big[SP]future[SP]star,[SP]going[SP]out[SP]to[SP]do[SP]grunt\nwork...[1205][001E][SP]I[SP]wanted[SP]to[SP]take[SP]the[SP]stage[SP]with[SP]pride,\nbut[SP]they[SP]say[SP]it's[SP]important[SP]to[SP]start[SP]small.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "La future super star, qui part faire le \nsale\nboulot...[1205][001E] Je voulais monter sur scène avec[1205][U+000F]\nfierté,\nmais faut commencer par voir petit."
+  },
+  {
+    "id": 13,
+    "offset": 336470,
+    "data_size": 270,
+    "slot_size": 274,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "*sigh*[SP]Ughhhh...[1205][001E][SP]I[SP]drank[SP]too[SP]much[SP]at[SP]the\nclub[SP]party[SP]yesterday...[1205][001E][SP]I[SP]wish[SP]someone\nwould[SP]take[SP]over[SP]my[SP]shift[SP]today.",
+    "nom_fr": "Personnel",
+    "texte_fr": "*soupir* Ughhhh...[1205][001E] J'ai trop bu hier \nsoir...[1205][001E] Si seulement quelqu'un\npouvait prendre ma place aujourd'hui."
+  },
+  {
+    "id": 14,
+    "offset": 336744,
+    "data_size": 202,
+    "slot_size": 206,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "I[SP]was[SP]supposed[SP]to[SP]go[SP]to[SP]Olivia-chan's[SP]show\ntoday,[SP]but[SP]I[SP]suddenly[SP]got[SP]called[SP]up...",
+    "nom_fr": "Personnel",
+    "texte_fr": "J'étais censé pouvoir assister au concert \nd'aujourd'hui, mais on m'a appelé ici..."
+  },
+  {
+    "id": 15,
+    "offset": 336950,
+    "data_size": 170,
+    "slot_size": 174,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "I[SP]asked[SP]my[SP]friends,[SP]but[SP]they[SP]were[SP]all[SP]too\nbusy[SP]to[SP]cover[SP]for[SP]me...",
+    "nom_fr": "Personnel",
+    "texte_fr": "J'ai demandé à des amis, mais ils sont \ntous\noccupés pour me couvrir."
+  },
+  {
+    "id": 16,
+    "offset": 337124,
+    "data_size": 234,
+    "slot_size": 238,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "Hey,[SP]only[SP]staffers[SP]are[SP]allowed[SP]through[SP]here.\nI[SP]know[SP]it's[SP]annoying,[SP]but[SP]we[SP]have[SP]to[SP]do[SP]our\njob[SP]too.",
+    "nom_fr": "Personnel",
+    "texte_fr": "Hé, seul le staff est autorisé ici.\nJe sais que c'est ennuyant, mais on doit \nfaire notre[1205][U+000F]\nboulot."
+  },
+  {
+    "id": 17,
+    "offset": 337362,
+    "data_size": 294,
+    "slot_size": 298,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "Huh...?[SP]You[SP]don't[SP]mind[SP]taking[SP]over[SP]our\nshifts?[SP]You[SP]want[SP]to[SP]see[SP]the[SP]show[SP]but[SP]couldn't\nget[SP]tickets?[SP]Hrgh,[SP]this[SP]is[SP]weird[SP]timing...",
+    "nom_fr": "Personnel",
+    "texte_fr": "Euh...? Tu veux récupérer nos\ntâches? Tu veux voir le concert mais tu \nn'as pas pu[1205][U+000F]\navoir de tickets? Quelle drôle de \ncoincidence..."
+  },
+  {
+    "id": 18,
+    "offset": 337660,
+    "data_size": 208,
+    "slot_size": 212,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "We'd[SP]be[SP]in[SP]major[SP]trouble[SP]if[SP]they[SP]found[SP]out,\nbut...[SP]I[SP]really[SP]don't[SP]want[SP]to[SP]be[SP]here...",
+    "nom_fr": "Personnel",
+    "texte_fr": "Bonjour les ennuis si ils s'en \naperçoivent,\nmais...J'ai vraiment pas envie d'être [1205][U+000F]\nici..."
+  },
+  {
+    "id": 19,
+    "offset": 337872,
+    "data_size": 302,
+    "slot_size": 306,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "T-Tell[SP]you[SP]what,[SP]we'll[SP]sell[SP]you[SP]our[SP]employee\nbadges[SP]for[SP]10,000[SP]yen[SP]total.[SP]Considering[SP]the\nrisk[SP]for[SP]us,[SP]it's[SP]not[SP]much[SP]to[SP]ask,[SP]right?",
+    "nom_fr": "Personnel",
+    "texte_fr": "D-devine quoi, on va te vendre nos badges\nd'employés pour un total de 10,000 yen. Si\non considère le risque, ce n'est pas cher?"
+  },
+  {
+    "id": 20,
+    "offset": 338178,
+    "data_size": 184,
+    "slot_size": 188,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "Oh,[SP]did[SP]you[SP]get[SP]the[SP]money?[SP]Do[SP]you[SP]want[SP]to\nbuy[SP]our[SP]badges[SP]for[SP]10,000[SP]yen?",
+    "nom_fr": "Personnel",
+    "texte_fr": "Oh, tu as l'argent? Tu souhaites\nacheter nos badges pour 10,000 yen?"
+  },
+  {
+    "id": 21,
+    "offset": 338366,
+    "data_size": 210,
+    "slot_size": 214,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "Do[SP]you[SP]want[SP]to[SP]buy[SP]our[SP]badges[SP]for[SP]10,000[SP]yen?\n[1208][0002][1432][NULL][NULL][0014]Yes.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Nah,[SP]never[SP]mind.[1432][NULL][NULL][0014]",
+    "nom_fr": "Personnel",
+    "texte_fr": "Tu veux acheter nos badges pour 10,000 \nyen?\n[1208][0002][1432][NULL][NULL][0014]Oui.[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Nan, j'en veux plus.[1432][NULL][NULL][0014]",
+    "question_orig": "Do[SP]you[SP]want[SP]to[SP]buy[SP]our[SP]badges[SP]for[SP]10,000[SP]yen?",
+    "choix_orig": [
+      "Yes.",
+      "Nah,[SP]never[SP]mind."
+    ],
+    "question_fr": "Tu veux acheter nos badges pour 10,000 yen?",
+    "choix_fr": [
+      "Oui.",
+      "Nan, j'en veux plus."
+    ]
+  },
+  {
+    "id": 22,
+    "offset": 338580,
+    "data_size": 268,
+    "slot_size": 272,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "A-Alright,[SP]it's[SP]a[SP]deal.[SP]Here[SP]y'go,[SP]our\n[E4][NULL][NULL][U+0006]employee[SP]badges[E4][NULL][NULL][0002].[SP]Make[SP]sure[SP]you[SP]do[SP]your[SP]jobs!\nWe're[SP]counting[SP]on[SP]you!",
+    "nom_fr": "Personnel",
+    "texte_fr": "D'Acc-D'accord, c'est un marché. Voilà, \nnos\n[E4][NULL][NULL][U+0006]badges d'employés[E4][NULL][NULL][0002]. Fait du bon travail![1205][U+000F]\nOn compte sur toi!"
+  },
+  {
+    "id": 23,
+    "offset": 338852,
+    "data_size": 234,
+    "slot_size": 238,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "Oh,[SP]you[SP]don't[SP]have[SP]the[SP]money[SP]yet?[SP]Then[SP]I\ncan't[SP]sell[SP]these[SP]to[SP]you.[SP]Come[SP]back[SP]when\nyou[SP]have[SP]enough.",
+    "nom_fr": "Personnel",
+    "texte_fr": "Tu n'as pas encore l'argent? Dans ce cas \nje\nne peux pas te les vendres. Reviens quand[1205][U+000F]\ntu auras assez."
+  },
+  {
+    "id": 24,
+    "offset": 339090,
+    "data_size": 240,
+    "slot_size": 244,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "You[SP]changed[SP]your[SP]mind?[SP]That's[SP]too[SP]bad.\nOur[SP]offer's[SP]still[SP]on[SP]the[SP]table[SP]if[SP]you[SP]have\nthe[SP]money,[SP]though.",
+    "nom_fr": "Personnel",
+    "texte_fr": "Tu as changé d'avis? C'est dommage.\nNotre offre tient toujours si tu en as\nles moyens, bien sûr."
+  }
 ]
