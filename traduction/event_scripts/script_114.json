@@ -1,66 +1,66 @@
 [
-    {
-        "id": 0,
-        "offset": 158466,
-        "data_size": 246,
-        "slot_size": 250,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "This[SP]is[SP]where[SP]I[SP]spent[SP]that[SP]night[SP]with\n[1113]-kun...[1205][001E][SP]Where[SP]I[SP]played[SP]with[SP]you\nall...[1205][001E][SP]So[SP]many[SP]great[SP]memories[SP]here...",
-        "nom_fr": "Maya",
-        "texte_fr": "C'est ici que j'ai passé la nuit avec [1113]\n-kun... Où j'ai joué avec vous tous... \nTant de bons souvenirs ici..."
-    },
-    {
-        "id": 1,
-        "offset": 158716,
-        "data_size": 92,
-        "slot_size": 96,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "But[SP]we're[SP]still[SP]short[SP]one[SP]man...",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Mais il nous en manque un..."
-    },
-    {
-        "id": 2,
-        "offset": 158812,
-        "data_size": 152,
-        "slot_size": 156,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Yeah...[1205][001E][SP]Let's[SP]go[SP]get[SP]Jun![SP]We[SP]of[SP]the[SP]Masked\nCircle[SP]can[SP]do[SP]this!",
-        "nom_fr": "Ginko",
-        "texte_fr": "Ouais... Trouvons Jun! On est le Cercle \nMasqué, c'est possible!"
-    },
-    {
-        "id": 3,
-        "offset": 158968,
-        "data_size": 210,
-        "slot_size": 214,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Is[SP]this[SP]Tamaki?[SP]Good[SP]timing.[SP]We[SP]need[SP]to[SP]ask\nMs.[SP]Okamura[SP]something.[SP]Could[SP]you[SP]get[SP]her\non[SP]the--",
-        "nom_fr": "Yukino",
-        "texte_fr": "C'est Tamaki ? On doit demander quelque \nchose à Mme Okamura. Tu peux me mettre en \nrelation--"
-    }
+  {
+    "id": 0,
+    "offset": 158466,
+    "data_size": 246,
+    "slot_size": 250,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "This[SP]is[SP]where[SP]I[SP]spent[SP]that[SP]night[SP]with\n[1113]-kun...[1205][001E][SP]Where[SP]I[SP]played[SP]with[SP]you\nall...[1205][001E][SP]So[SP]many[SP]great[SP]memories[SP]here...",
+    "nom_fr": "Maya",
+    "texte_fr": "C'est ici que j'ai passé la nuit avec [1113]\n-kun... Où j'ai joué avec vous tous... \nTant de bons souvenirs ici..."
+  },
+  {
+    "id": 1,
+    "offset": 158716,
+    "data_size": 92,
+    "slot_size": 96,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "But[SP]we're[SP]still[SP]short[SP]one[SP]man...",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Mais il nous en manque un..."
+  },
+  {
+    "id": 2,
+    "offset": 158812,
+    "data_size": 152,
+    "slot_size": 156,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Yeah...[1205][001E][SP]Let's[SP]go[SP]get[SP]Jun![SP]We[SP]of[SP]the[SP]Masked\nCircle[SP]can[SP]do[SP]this!",
+    "nom_fr": "Ginko",
+    "texte_fr": "Ouais... Trouvons Jun! On est le Cercle \nMasqué, c'est possible!"
+  },
+  {
+    "id": 3,
+    "offset": 158968,
+    "data_size": 210,
+    "slot_size": 214,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Is[SP]this[SP]Tamaki?[SP]Good[SP]timing.[SP]We[SP]need[SP]to[SP]ask\nMs.[SP]Okamura[SP]something.[SP]Could[SP]you[SP]get[SP]her\non[SP]the--",
+    "nom_fr": "Yukino",
+    "texte_fr": "C'est Tamaki? On doit demander quelque \nchose à Mme Okamura. Tu peux me mettre en \nrelation--"
+  }
 ]

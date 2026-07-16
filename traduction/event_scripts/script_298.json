@@ -1,380 +1,380 @@
 [
-    {
-        "id": 0,
-        "offset": 269130,
-        "data_size": 236,
-        "slot_size": 240,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "By[SP]the[SP]way,[SP][1113],[SP]there's[SP]something[SP]I[SP]need\nto[SP]ask[SP]you[SP]before[SP]we[SP]beat[SP]the[SP]snot[SP]outta[SP]Yasuo.[1205][U+000F]\nIt's[SP]important.",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Au fait, [1113], j'ai quelque chose\nà te demander avant qu'on règle son\ncompte à Yasuo.[1205][U+000F] C'est important."
-    },
-    {
-        "id": 1,
-        "offset": 269370,
-        "data_size": 210,
-        "slot_size": 214,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "You,[SP]the[SP]big[SP]man[SP]on[SP]campus[SP]at[SP]Sevens,[SP]and[SP]me,\na[SP]raging[SP]studmuffin[SP]of[SP]beauty.[1205][U+000F][SP]Who's[SP]cooler?",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Toi, la grande star de Seven, et moi,\nle beau gosse absolu.[1205][U+000F] Qui est le plus cool?"
-    },
-    {
-        "id": 2,
-        "offset": 269584,
-        "data_size": 160,
-        "slot_size": 164,
-        "_term": [
-            4361,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "What[SP]do[SP]you[SP]think,[SP][1113]?\n[1208][0002][1432][NULL][NULL][0014]I'm[SP]cooler.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]You're[SP]cooler.[1432][NULL][NULL][0014]",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Qu'en penses-tu, [1113]?\n[1208][0002][1432][NULL][NULL][0014]Moi, le top.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Toi, le top.[1432][NULL][NULL][0014]",
-        "question_orig": "What[SP]do[SP]you[SP]think,[SP][1113]?",
-        "choix_orig": [
-            "I'm[SP]cooler.",
-            "You're[SP]cooler."
-        ],
-        "question_fr": "Qu'en penses-tu, [1113]?",
-        "choix_fr": [
-            "Moi, le top.",
-            "Toi, le top."
-        ]
-    },
-    {
-        "id": 3,
-        "offset": 269748,
-        "data_size": 198,
-        "slot_size": 202,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "Heheheh...[SP]So[SP]you[SP]want[SP]to[SP]be[SP]rivals,[SP]do[SP]you?[1205][U+000F]\nInteresting.[SP]Then[SP]may[SP]the[SP]best[SP]man[SP]win!",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Hihihi. Tu veux être rivaux?[1205][U+000F]\nIntéressant. Que le meilleur gagne!"
-    },
-    {
-        "id": 4,
-        "offset": 269950,
-        "data_size": 224,
-        "slot_size": 228,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "Wh-What?[1205][U+000F][SP]I[SP]wasn't[SP]expecting[SP]a[SP]quick[SP]answer[SP]like\nthat...[1205][U+000F][SP]W-Well,[SP]I'm[SP]not[SP]surprised[SP]you[SP]think[SP]so.",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Q-Quoi?[1205][U+000F] Je m'attendais pas à une\nréponse si rapide...[1205][U+000F] Enfin, ça\nm'étonne pas que tu le penses."
-    },
-    {
-        "id": 5,
-        "offset": 270178,
-        "data_size": 264,
-        "slot_size": 268,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "*sigh*[SP]I[SP]can't[SP]believe[SP]a[SP]young[SP]upstart[SP]would\ntry[SP]and[SP]compete[SP]with[SP]me...[1205][U+000F][SP]Though[SP]it[SP]wouldn't\nbe[SP]much[SP]fun[SP]if[SP]you[SP]didn't.",
-        "nom_fr": "Eikichi",
-        "texte_fr": "*soupir* Je reviens pas qu'un blanc-bec\nose me défier...[1205][U+000F] Mais ça serait\nmoins drôle si t'essayais pas."
-    },
-    {
-        "id": 6,
-        "offset": 270446,
-        "data_size": 282,
-        "slot_size": 286,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "Now[SP]that[SP][1113]'s[SP]faced[SP]facts,[SP]there's[SP]no[SP]one\nleft[SP]who[SP]can[SP]compete[SP]with[SP]me...[1205][U+000F][SP]Though[SP]I[SP]always\nfigured[SP]this[SP]would[SP]happen,[SP]of[SP]course.",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Maintenant que [1113] a reconnu les faits,\npersonne peut plus rivaliser avec\nmoi...[1205][U+000F] Comme je l'avais prévu, bien sûr."
-    },
-    {
-        "id": 7,
-        "offset": 270732,
-        "data_size": 236,
-        "slot_size": 240,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Wai![SP]Hey,[SP]we[SP]should[SP]try[SP]asking[SP]the[SP]guys[SP]here\nwhere[SP]their[SP]president[SP]is.[SP]I[SP]bet[SP]at[SP]least[SP]one\nof[SP]'em[SP]will[SP]know.",
-        "nom_fr": "Ginko",
-        "texte_fr": "Hé! On devrait demander aux gars ici\noù est leur président. Je parie qu'au\nmoins l'un d'eux saura."
-    },
-    {
-        "id": 8,
-        "offset": 270972,
-        "data_size": 288,
-        "slot_size": 292,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "I[SP]mean,[SP]that[SP]was[SP]more[SP]trouble[SP]than[SP]it[SP]had[SP]to[SP]be\nbecause[SP]Eikichi[SP]broke[SP]the[SP]walkie-talkie[SP]and[SP]the\nmirror.[SP]It[SP]wasn't[SP]my[SP]fault,[SP]right,[SP][1113]?",
-        "nom_fr": "Ginko",
-        "texte_fr": "C'est Eikichi qui a cassé le talkie-walkie\net le miroir, donc c'était plus compliqué\nque nécessaire. C'est pas ma faute, hein [1113]?"
-    },
-    {
-        "id": 9,
-        "offset": 271264,
-        "data_size": 158,
-        "slot_size": 162,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Seems[SP]like[SP]everyone[SP]already[SP]knows[SP]what[SP]happened\nat[SP]the[SP]secret[SP]lounge.",
-        "nom_fr": "Maya",
-        "texte_fr": "Tout le monde sait déjà\nce qui s'est passé au salon secret."
-    },
-    {
-        "id": 10,
-        "offset": 271426,
-        "data_size": 192,
-        "slot_size": 196,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "I[SP]don't[SP]think[SP]anyone[SP]claiming[SP]to[SP]be[SP]stronger\nthan[SP]Eikichi-kun[SP]will[SP]pop[SP]up[SP]for[SP]a[SP]while.",
-        "nom_fr": "Maya",
-        "texte_fr": "Je pense que personne va se prétendre\nplus fort qu'Eikichi-kun pendant un \nmoment."
-    },
-    {
-        "id": 11,
-        "offset": 271622,
-        "data_size": 296,
-        "slot_size": 300,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Looks[SP]like[SP]the[SP]president[SP]ordered[SP]him[SP]to[SP]lure[SP]us\nto[SP]the[SP]shelter.[1205][U+000F][SP]Well...[1205][U+000A][SP]I[SP]guess[SP]it[SP]wasn't[SP]really\nhis[SP]fault...[1205][U+000F][SP]We[SP]should[SP]forgive[SP]him.",
-        "nom_fr": "Maya",
-        "texte_fr": "Il semble que le président lui ait ordonné\nde nous attirer à l'abri.[1205][U+000F] Enfin...[1205][U+000A] c'était\npas sa faute...[1205][U+000F] On devrait lui pardonner."
-    },
-    {
-        "id": 12,
-        "offset": 271922,
-        "data_size": 180,
-        "slot_size": 184,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "C'mon,[SP][1113].[SP]That[SP]guy[SP]over[SP]there[SP]knows\nsomething[SP]about[SP]the[SP]president.[SP]Go[SP]ask[SP]him.",
-        "nom_fr": "Yukino",
-        "texte_fr": "Allez, [1113]. Ce type sait\nquelque chose sur le président. Va lui \ndemander."
-    },
-    {
-        "id": 13,
-        "offset": 272106,
-        "data_size": 298,
-        "slot_size": 302,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Sheesh,[SP]at[SP]least[SP]we[SP]made[SP]it[SP]out[SP]alive.[SP]But[SP]are\nEikichi[SP]and[SP]Lisa[SP]at[SP]least[SP]sorry[SP]about[SP]what[SP]they\ndid?[1205][U+000F][SP]From[SP]the[SP]looks[SP]of[SP]it...[SP]not[SP]really.",
-        "nom_fr": "Yukino",
-        "texte_fr": "Pfff, au moins on s'en est sortis vivants.\nMais Eikichi et Lisa regrettent-ils au \nmoins[1205][U+000F]\nce qu'ils ont fait?[1205][U+000F] On dirait bien que non."
-    },
-    {
-        "id": 14,
-        "offset": 272408,
-        "data_size": 236,
-        "slot_size": 240,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "Th-The[SP]president?[SP]I[SP]think...[SP]he's[SP]in[SP]the\nstudent[SP]council[SP]room.[SP]No,[SP]really![SP]It's[SP]on\nthe[SP]second[SP]floor!",
-        "nom_fr": "Élève",
-        "texte_fr": "L-Le président? Je crois qu'il est dans\nla salle du conseil. Non, vraiment!\nC'est au 2e étage!"
-    },
-    {
-        "id": 15,
-        "offset": 272648,
-        "data_size": 270,
-        "slot_size": 274,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "Um...[SP]The[SP]president[SP]was[SP]in[SP]Class[SP]2-4...[SP]B-But[SP]it\nlooks[SP]like[SP]he's[SP]wandering[SP]around...[SP]I-I[SP]think\nhe's[SP]in[SP]2-4[SP]right[SP]now!",
-        "nom_fr": "Élève",
-        "texte_fr": "Euh... Le président était en classe 2-4...\nM-Mais on dirait qu'il se balade...\nJ-Je crois qu'il est en 2-4 là!"
-    },
-    {
-        "id": 16,
-        "offset": 272922,
-        "data_size": 226,
-        "slot_size": 230,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "Er...[SP]Well...[SP]I[SP]saw[SP]the[SP]president[SP]in[SP]3-1,[SP]see.\nYeah,[SP]I[SP]saw[SP]it[SP]with[SP]my[SP]own[SP]eyes...[1205][U+000F][SP]Definitely.",
-        "nom_fr": "Élève",
-        "texte_fr": "Euh... Eh bien... J'ai vu le président\nen 3-1. Oui, de mes propres yeux...[1205][U+000F] Certain."
-    },
-    {
-        "id": 17,
-        "offset": 273152,
-        "data_size": 306,
-        "slot_size": 310,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "Um...[SP]Are[SP]you[SP]still[SP]looking[SP]for[SP]the[SP]president?\nI-I[SP]think[SP]you[SP]shouldn't...[SP]I-I[SP]mean,[SP]um...\nthe[SP]basement?[1205][U+000F][SP]I...[SP]saw[SP]him[SP]go[SP]down[SP]there...",
-        "nom_fr": "Élève",
-        "texte_fr": "Euh... Vous cherchez encore le président?\nJ-Je pense que vous devriez pas... J-Je \nveux[1205][U+000F]\ndire, euh... le sous-sol?[1205][U+000F] Je... l'ai vu descendre..."
-    },
-    {
-        "id": 18,
-        "offset": 273462,
-        "data_size": 230,
-        "slot_size": 234,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "Y-You[SP]guys!?[SP]You[SP]got[SP]out[SP]of[SP]the[SP]shelter!?\nOh,[SP]thank[SP]goodness...[SP]O-Oh,[SP]no,[SP]um...\nI'm[SP]really[SP]sorry.",
-        "nom_fr": "Élève",
-        "texte_fr": "V-Vous!? Vous êtes échappés de l'abri!?\nOh, Dieu merci... O-Oh non, euh...\nJe suis vraiment désolé."
-    },
-    {
-        "id": 19,
-        "offset": 273696,
-        "data_size": 292,
-        "slot_size": 296,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "The[SP]president[SP]ordered[SP]me[SP]to[SP]lure[SP]you[SP]all[SP]into\nthe[SP]shelter...[SP]I[SP]felt[SP]bad[SP]about[SP]it[SP]this[SP]whole\ntime...[SP]I'm[SP]so[SP]glad[SP]to[SP]see[SP]you[SP]safe!",
-        "nom_fr": "Élève",
-        "texte_fr": "Le président m'avait ordonné de vous \nattirer\ntous dans l'abri... Je me sentais si[1205][U+000F]\ncoupable... Je suis si soulagé de vous \nvoir sains!"
-    },
-    {
-        "id": 20,
-        "offset": 273992,
-        "data_size": 318,
-        "slot_size": 322,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "All[SP]schools[SP]have[SP]at[SP]least[SP]seven[SP]ghost[SP]stories,\nbut[SP]this[SP]place[SP]only[SP]has[SP]one.[SP][1432][NULL][NULL][0014]Once[SP]you're[SP]in[SP]the\nbomb[SP]shelter,[SP]you[SP]can't[SP]find[SP]the[SP]exit.[1432][NULL][NULL][0014]",
-        "nom_fr": "Élève",
-        "texte_fr": "Tous les lycées ont au moins sept légendes\nurbaines, mais ce lycée n'en a qu'une. [1432][NULL][NULL][0014]Une\nfois[1205][U+000F]\ndans l'abri, impossible de trouver la \nsortie.[1432][NULL][NULL][0014]"
-    },
-    {
-        "id": 21,
-        "offset": 274314,
-        "data_size": 296,
-        "slot_size": 300,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "When[SP]I[SP]first[SP]heard[SP]that[SP]story,[SP]I[SP]was[SP]so[SP]scared\nthat[SP]I[SP]never[SP]went[SP]near[SP]it...[SP]But[SP]now,[SP]I[SP]don't\nreally[SP]care...[SP]It's[SP]quiet[SP]in[SP]there...",
-        "nom_fr": "Élève",
-        "texte_fr": "Quand j'ai entendu ça, j'en avais\ntellement peur que j'en approchais pas...\nMais maintenant, je m'en fiche."
-    },
-    {
-        "id": 22,
-        "offset": 274614,
-        "data_size": 278,
-        "slot_size": 282,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Male[SP]student",
-        "texte_orig": "Huh?[SP]You[SP]guys[SP]made[SP]it[SP]out[SP]of[SP]the[SP]shelter?\nWonder[SP]if[SP]it[SP]wasn't[SP]true[SP]that[SP]people[SP]couldn't\nleave...[SP]Well...[1205][U+000F][SP]Like[SP]I[SP]care...",
-        "nom_fr": "Élève",
-        "texte_fr": "Hein? Vous vous êtes sortis de l'abri?\nC'était donc faux que les gens ne \npouvaient[1205][U+000F]\npas partir... Bah...[1205][U+000F] Je m'en fiche..."
-    }
+  {
+    "id": 0,
+    "offset": 269130,
+    "data_size": 236,
+    "slot_size": 240,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "By[SP]the[SP]way,[SP][1113],[SP]there's[SP]something[SP]I[SP]need\nto[SP]ask[SP]you[SP]before[SP]we[SP]beat[SP]the[SP]snot[SP]outta[SP]Yasuo.[1205][U+000F]\nIt's[SP]important.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Au fait, [1113], j'ai quelque chose\nà te demander avant qu'on règle son\ncompte à Yasuo.[1205][U+000F] C'est important."
+  },
+  {
+    "id": 1,
+    "offset": 269370,
+    "data_size": 210,
+    "slot_size": 214,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "You,[SP]the[SP]big[SP]man[SP]on[SP]campus[SP]at[SP]Sevens,[SP]and[SP]me,\na[SP]raging[SP]studmuffin[SP]of[SP]beauty.[1205][U+000F][SP]Who's[SP]cooler?",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Toi, la grande star de Seven, et moi,\nle beau gosse absolu.[1205][U+000F] Qui est le plus cool?"
+  },
+  {
+    "id": 2,
+    "offset": 269584,
+    "data_size": 160,
+    "slot_size": 164,
+    "_term": [
+      4361,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "What[SP]do[SP]you[SP]think,[SP][1113]?\n[1208][0002][1432][NULL][NULL][0014]I'm[SP]cooler.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]You're[SP]cooler.[1432][NULL][NULL][0014]",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Qu'en penses-tu, [1113]?\n[1208][0002][1432][NULL][NULL][0014]Moi, le top.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Toi, le top.[1432][NULL][NULL][0014]",
+    "question_orig": "What[SP]do[SP]you[SP]think,[SP][1113]?",
+    "choix_orig": [
+      "I'm[SP]cooler.",
+      "You're[SP]cooler."
+    ],
+    "question_fr": "Qu'en penses-tu, [1113]?",
+    "choix_fr": [
+      "Moi, le top.",
+      "Toi, le top."
+    ]
+  },
+  {
+    "id": 3,
+    "offset": 269748,
+    "data_size": 198,
+    "slot_size": 202,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Heheheh...[SP]So[SP]you[SP]want[SP]to[SP]be[SP]rivals,[SP]do[SP]you?[1205][U+000F]\nInteresting.[SP]Then[SP]may[SP]the[SP]best[SP]man[SP]win!",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Hihihi. Tu veux être rivaux?[1205][U+000F]\nIntéressant. Que le meilleur gagne!"
+  },
+  {
+    "id": 4,
+    "offset": 269950,
+    "data_size": 224,
+    "slot_size": 228,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Wh-What?[1205][U+000F][SP]I[SP]wasn't[SP]expecting[SP]a[SP]quick[SP]answer[SP]like\nthat...[1205][U+000F][SP]W-Well,[SP]I'm[SP]not[SP]surprised[SP]you[SP]think[SP]so.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Q-Quoi?[1205][U+000F] Je m'attendais pas à une\nréponse si rapide...[1205][U+000F] Enfin, ça\nm'étonne pas que tu le penses."
+  },
+  {
+    "id": 5,
+    "offset": 270178,
+    "data_size": 264,
+    "slot_size": 268,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "*sigh*[SP]I[SP]can't[SP]believe[SP]a[SP]young[SP]upstart[SP]would\ntry[SP]and[SP]compete[SP]with[SP]me...[1205][U+000F][SP]Though[SP]it[SP]wouldn't\nbe[SP]much[SP]fun[SP]if[SP]you[SP]didn't.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "*soupir* Je reviens pas qu'un blanc-bec\nose me défier...[1205][U+000F] Mais ça serait\nmoins drôle si t'essayais pas."
+  },
+  {
+    "id": 6,
+    "offset": 270446,
+    "data_size": 282,
+    "slot_size": 286,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Now[SP]that[SP][1113]'s[SP]faced[SP]facts,[SP]there's[SP]no[SP]one\nleft[SP]who[SP]can[SP]compete[SP]with[SP]me...[1205][U+000F][SP]Though[SP]I[SP]always\nfigured[SP]this[SP]would[SP]happen,[SP]of[SP]course.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Maintenant que [1113] a reconnu les faits,\npersonne peut plus rivaliser avec\nmoi...[1205][U+000F] Comme je l'avais prévu, bien sûr."
+  },
+  {
+    "id": 7,
+    "offset": 270732,
+    "data_size": 236,
+    "slot_size": 240,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Wai![SP]Hey,[SP]we[SP]should[SP]try[SP]asking[SP]the[SP]guys[SP]here\nwhere[SP]their[SP]president[SP]is.[SP]I[SP]bet[SP]at[SP]least[SP]one\nof[SP]'em[SP]will[SP]know.",
+    "nom_fr": "Ginko",
+    "texte_fr": "Hé! On devrait demander aux gars ici\noù est leur président. Je parie qu'au\nmoins l'un d'eux saura."
+  },
+  {
+    "id": 8,
+    "offset": 270972,
+    "data_size": 288,
+    "slot_size": 292,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "I[SP]mean,[SP]that[SP]was[SP]more[SP]trouble[SP]than[SP]it[SP]had[SP]to[SP]be\nbecause[SP]Eikichi[SP]broke[SP]the[SP]walkie-talkie[SP]and[SP]the\nmirror.[SP]It[SP]wasn't[SP]my[SP]fault,[SP]right,[SP][1113]?",
+    "nom_fr": "Ginko",
+    "texte_fr": "C'est Eikichi qui a cassé le talkie-walkie\net le miroir, donc c'était plus compliqué\nque nécessaire. C'est pas ma faute, hein [1113]?"
+  },
+  {
+    "id": 9,
+    "offset": 271264,
+    "data_size": 158,
+    "slot_size": 162,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Seems[SP]like[SP]everyone[SP]already[SP]knows[SP]what[SP]happened\nat[SP]the[SP]secret[SP]lounge.",
+    "nom_fr": "Maya",
+    "texte_fr": "Tout le monde sait déjà\nce qui s'est passé au salon secret."
+  },
+  {
+    "id": 10,
+    "offset": 271426,
+    "data_size": 192,
+    "slot_size": 196,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "I[SP]don't[SP]think[SP]anyone[SP]claiming[SP]to[SP]be[SP]stronger\nthan[SP]Eikichi-kun[SP]will[SP]pop[SP]up[SP]for[SP]a[SP]while.",
+    "nom_fr": "Maya",
+    "texte_fr": "Je pense que personne va se prétendre\nplus fort qu'Eikichi-kun pendant un \nmoment."
+  },
+  {
+    "id": 11,
+    "offset": 271622,
+    "data_size": 296,
+    "slot_size": 300,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Looks[SP]like[SP]the[SP]president[SP]ordered[SP]him[SP]to[SP]lure[SP]us\nto[SP]the[SP]shelter.[1205][U+000F][SP]Well...[1205][U+000A][SP]I[SP]guess[SP]it[SP]wasn't[SP]really\nhis[SP]fault...[1205][U+000F][SP]We[SP]should[SP]forgive[SP]him.",
+    "nom_fr": "Maya",
+    "texte_fr": "Il semble que le président lui ait ordonné\nde nous attirer à l'abri.[1205][U+000F] Enfin...[1205][U+000A] c'était\npas sa faute...[1205][U+000F] On devrait lui pardonner."
+  },
+  {
+    "id": 12,
+    "offset": 271922,
+    "data_size": 180,
+    "slot_size": 184,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "C'mon,[SP][1113].[SP]That[SP]guy[SP]over[SP]there[SP]knows\nsomething[SP]about[SP]the[SP]president.[SP]Go[SP]ask[SP]him.",
+    "nom_fr": "Yukino",
+    "texte_fr": "Allez, [1113]. Ce type sait\nquelque chose sur le président. Va lui \ndemander."
+  },
+  {
+    "id": 13,
+    "offset": 272106,
+    "data_size": 298,
+    "slot_size": 302,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Sheesh,[SP]at[SP]least[SP]we[SP]made[SP]it[SP]out[SP]alive.[SP]But[SP]are\nEikichi[SP]and[SP]Lisa[SP]at[SP]least[SP]sorry[SP]about[SP]what[SP]they\ndid?[1205][U+000F][SP]From[SP]the[SP]looks[SP]of[SP]it...[SP]not[SP]really.",
+    "nom_fr": "Yukino",
+    "texte_fr": "Pfff, au moins on s'en est sortis vivants.\nMais Eikichi et Lisa regrettent-ils au \nmoins[1205][U+000F]\nce qu'ils ont fait?[1205][U+000F] On dirait bien que non."
+  },
+  {
+    "id": 14,
+    "offset": 272408,
+    "data_size": 236,
+    "slot_size": 240,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "Th-The[SP]president?[SP]I[SP]think...[SP]he's[SP]in[SP]the\nstudent[SP]council[SP]room.[SP]No,[SP]really![SP]It's[SP]on\nthe[SP]second[SP]floor!",
+    "nom_fr": "Élève",
+    "texte_fr": "L-Le président? Je crois qu'il est dans\nla salle du conseil. Non, vraiment!\nC'est au 2e étage!"
+  },
+  {
+    "id": 15,
+    "offset": 272648,
+    "data_size": 270,
+    "slot_size": 274,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "Um...[SP]The[SP]president[SP]was[SP]in[SP]Class[SP]2-4...[SP]B-But[SP]it\nlooks[SP]like[SP]he's[SP]wandering[SP]around...[SP]I-I[SP]think\nhe's[SP]in[SP]2-4[SP]right[SP]now!",
+    "nom_fr": "Élève",
+    "texte_fr": "Euh... Le président était en classe 2-4...\nM-Mais on dirait qu'il se balade...\nJ-Je crois qu'il est en 2-4 là!"
+  },
+  {
+    "id": 16,
+    "offset": 272922,
+    "data_size": 226,
+    "slot_size": 230,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "Er...[SP]Well...[SP]I[SP]saw[SP]the[SP]president[SP]in[SP]3-1,[SP]see.\nYeah,[SP]I[SP]saw[SP]it[SP]with[SP]my[SP]own[SP]eyes...[1205][U+000F][SP]Definitely.",
+    "nom_fr": "Élève",
+    "texte_fr": "Euh... Eh bien... J'ai vu le président\nen 3-1. Oui, de mes propres yeux...[1205][U+000F] Certain."
+  },
+  {
+    "id": 17,
+    "offset": 273152,
+    "data_size": 306,
+    "slot_size": 310,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "Um...[SP]Are[SP]you[SP]still[SP]looking[SP]for[SP]the[SP]president?\nI-I[SP]think[SP]you[SP]shouldn't...[SP]I-I[SP]mean,[SP]um...\nthe[SP]basement?[1205][U+000F][SP]I...[SP]saw[SP]him[SP]go[SP]down[SP]there...",
+    "nom_fr": "Élève",
+    "texte_fr": "Euh.. Vous cherchez encore le président?\nJ-Je pense que vous devriez pas.. J-Je \nveux[1205][U+000F]\ndire, euh.. le sous-sol?[1205][U+000F] Je.. l'ai vu descendre.."
+  },
+  {
+    "id": 18,
+    "offset": 273462,
+    "data_size": 230,
+    "slot_size": 234,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "Y-You[SP]guys!?[SP]You[SP]got[SP]out[SP]of[SP]the[SP]shelter!?\nOh,[SP]thank[SP]goodness...[SP]O-Oh,[SP]no,[SP]um...\nI'm[SP]really[SP]sorry.",
+    "nom_fr": "Élève",
+    "texte_fr": "V-Vous!? Vous êtes échappés de l'abri!?\nOh, Dieu merci... O-Oh non, euh...\nJe suis vraiment désolé."
+  },
+  {
+    "id": 19,
+    "offset": 273696,
+    "data_size": 292,
+    "slot_size": 296,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "The[SP]president[SP]ordered[SP]me[SP]to[SP]lure[SP]you[SP]all[SP]into\nthe[SP]shelter...[SP]I[SP]felt[SP]bad[SP]about[SP]it[SP]this[SP]whole\ntime...[SP]I'm[SP]so[SP]glad[SP]to[SP]see[SP]you[SP]safe!",
+    "nom_fr": "Élève",
+    "texte_fr": "Le président m'avait ordonné de vous \nattirer\ntous dans l'abri.. Je me sentais si[1205][U+000F]\ncoupable.. Je suis si soulagé de vous \nvoir sains!"
+  },
+  {
+    "id": 20,
+    "offset": 273992,
+    "data_size": 318,
+    "slot_size": 322,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "All[SP]schools[SP]have[SP]at[SP]least[SP]seven[SP]ghost[SP]stories,\nbut[SP]this[SP]place[SP]only[SP]has[SP]one.[SP][1432][NULL][NULL][0014]Once[SP]you're[SP]in[SP]the\nbomb[SP]shelter,[SP]you[SP]can't[SP]find[SP]the[SP]exit.[1432][NULL][NULL][0014]",
+    "nom_fr": "Élève",
+    "texte_fr": "Tous les lycées ont au moins sept légendes\nurbaines, mais ce lycée n'en a qu'une. [1432][NULL][NULL][0014]Une\nfois[1205][U+000F]\ndans l'abri, impossible de trouver la \nsortie.[1432][NULL][NULL][0014]"
+  },
+  {
+    "id": 21,
+    "offset": 274314,
+    "data_size": 296,
+    "slot_size": 300,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "When[SP]I[SP]first[SP]heard[SP]that[SP]story,[SP]I[SP]was[SP]so[SP]scared\nthat[SP]I[SP]never[SP]went[SP]near[SP]it...[SP]But[SP]now,[SP]I[SP]don't\nreally[SP]care...[SP]It's[SP]quiet[SP]in[SP]there...",
+    "nom_fr": "Élève",
+    "texte_fr": "Quand j'ai entendu ça, j'en avais\ntellement peur que j'en approchais pas...\nMais maintenant, je m'en fiche."
+  },
+  {
+    "id": 22,
+    "offset": 274614,
+    "data_size": 278,
+    "slot_size": 282,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "Huh?[SP]You[SP]guys[SP]made[SP]it[SP]out[SP]of[SP]the[SP]shelter?\nWonder[SP]if[SP]it[SP]wasn't[SP]true[SP]that[SP]people[SP]couldn't\nleave...[SP]Well...[1205][U+000F][SP]Like[SP]I[SP]care...",
+    "nom_fr": "Élève",
+    "texte_fr": "Hein? Vous vous êtes sortis de l'abri?\nC'était donc faux que les gens ne \npouvaient[1205][U+000F]\npas partir... Bah...[1205][U+000F] Je m'en fiche..."
+  }
 ]

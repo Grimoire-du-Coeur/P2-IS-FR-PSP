@@ -1,82 +1,82 @@
 [
-    {
-        "id": 0,
-        "offset": 163494,
-        "data_size": 80,
-        "slot_size": 84,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Grade-schooler",
-        "texte_orig": "Help![SP]Someone[SP]help!",
-        "nom_fr": "Écolier",
-        "texte_fr": "Au secours! A l’aide!"
-    },
-    {
-        "id": 1,
-        "offset": 163578,
-        "data_size": 90,
-        "slot_size": 94,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Grade-schooler",
-        "texte_orig": "Hrrrrgh![SP]Nnnnngh![SP]Ugh...",
-        "nom_fr": "Écolier",
-        "texte_fr": "Hrrrrgh! Nnnnngh! Ugh..."
-    },
-    {
-        "id": 2,
-        "offset": 163672,
-        "data_size": 100,
-        "slot_size": 104,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "It's[SP]no[SP]good.[SP]The[SP]elevator's[SP]broken.",
-        "nom_fr": "Eikichi",
-        "texte_fr": "Ca ne va pas. L’ascenseur est cassé."
-    },
-    {
-        "id": 3,
-        "offset": 163776,
-        "data_size": 48,
-        "slot_size": 52,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Step[SP]aside.",
-        "nom_fr": "Yukino",
-        "texte_fr": "Écarte-toi."
-    },
-    {
-        "id": 4,
-        "offset": 163828,
-        "data_size": 222,
-        "slot_size": 226,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Talk[SP]about[SP]an[SP]odd[SP]situation...[SP]Oh[SP]well,\nwe'll[SP]just[SP]have[SP]to[SP]pull[SP]him[SP]out.[SP]I[SP]need\nyour[SP]help[SP]here,[SP][1113]!",
-        "nom_fr": "Yukino",
-        "texte_fr": "Tu parles d'une situation... Bon, on va \njuste le sortir de là. J’ai besoin de ton \naide là, [u+1113]!"
-    }
+  {
+    "id": 0,
+    "offset": 163494,
+    "data_size": 80,
+    "slot_size": 84,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Grade-schooler",
+    "texte_orig": "Help![SP]Someone[SP]help!",
+    "nom_fr": "Écolier",
+    "texte_fr": "Au secours! A l’aide!"
+  },
+  {
+    "id": 1,
+    "offset": 163578,
+    "data_size": 90,
+    "slot_size": 94,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Grade-schooler",
+    "texte_orig": "Hrrrrgh![SP]Nnnnngh![SP]Ugh...",
+    "nom_fr": "Écolier",
+    "texte_fr": "Hrrrrgh! Nnnnngh! Ugh..."
+  },
+  {
+    "id": 2,
+    "offset": 163672,
+    "data_size": 100,
+    "slot_size": 104,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "It's[SP]no[SP]good.[SP]The[SP]elevator's[SP]broken.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Ca ne va pas. L’ascenseur est cassé."
+  },
+  {
+    "id": 3,
+    "offset": 163776,
+    "data_size": 48,
+    "slot_size": 52,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Step[SP]aside.",
+    "nom_fr": "Yukino",
+    "texte_fr": "Écarte-toi."
+  },
+  {
+    "id": 4,
+    "offset": 163828,
+    "data_size": 222,
+    "slot_size": 226,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Talk[SP]about[SP]an[SP]odd[SP]situation...[SP]Oh[SP]well,\nwe'll[SP]just[SP]have[SP]to[SP]pull[SP]him[SP]out.[SP]I[SP]need\nyour[SP]help[SP]here,[SP][1113]!",
+    "nom_fr": "Yukino",
+    "texte_fr": "Tu parles d'une situation.. Bon, on va \njuste le sortir de là. J’ai besoin de ton \naide là, [u+1113]!"
+  }
 ]
