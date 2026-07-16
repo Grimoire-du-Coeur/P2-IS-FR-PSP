@@ -221,26 +221,26 @@ Il y a **199** vrais dépassements.
 | F_BE.json | 26 | 290 octets | 260 octets |
 | MMAP06.json | 277 | 244 octets | 242 octets |
 
-
 </details>
 
-## 2. Le Bug de la Cinématique de Philemon (Saut de Scène)
+## 2. Le Bug de la Cinématique de Philemon (Crash Philémon)
 
 ### Le problème
 Au début du jeu, lors de la scène de rencontre avec Eikichi, ce dernier s'énerve et invoque sa Persona. Normalement, la scène se poursuit (Lisa et Tatsuya invoquent aussi leur Persona, puis tous s'évanouissent). 
 **Bug actuel :** Dès qu'Eikichi s'énerve, le jeu saute brusquement à la cinématique de Philemon, qui s'affiche de manière décalée (glitch).
 
-### Explication Technique
-Ce problème est probablement lié à un bug d'encodage (dans F_BE.json ou un MMAP). Le moteur lit une balise erronée (ou un dépassement de tampon) qui agit comme un déclencheur involontaire sautant le script d'événement normal pour lancer la cinématique suivante. 
-Ces systèmes de codage différents rendent la suppression de certaines balises récalcitrantes très difficile sous peine de corrompre l'ordre d'exécution des événements.
+### Explication Technique (100% lié à F_BE)
+Ce bug est causé à 100% par le fichier **F_BE.BNP** (qui gère les combats et les événements liés aux combats). Comme expliqué dans le guide développeur, l'algorithme d'encodage peine avec ce fichier car **l'ajout d'octets de remplissage (padding `00`) provoque un *Invalid Memory Access***. 
+Ce problème de mémoire dérègle le jeu et force le moteur à sauter à une mauvaise adresse mémoire, chargeant par erreur la cinématique de Philemon.
 
-## 3. L'encodage des fichiers MMAP et F_BE
+## 3. L'encodage capricieux des fichiers MMAP et F_BE
 
 ### Le problème
-Contrairement à event.bin (les dialogues principaux) qui est relativement bien géré, les fichiers **MMAP** (noms des lieux, texte de la carte) et **F_BE** (menus de combat, UI) sont extrêmement capricieux :
-- Les longueurs maximales de ces textes sont codées en dur à plusieurs endroits.
+Contrairement à `event.bin` (les dialogues principaux) qui est relativement bien géré, les fichiers annexes sont très instables :
+- **MMAP** : Ce sont les fichiers qui gèrent les dialogues lorsque l'on se déplace sur la carte en 3D.
+- **F_BE** : Ce sont les fichiers qui gèrent le système de combat et certains événements en combat (Scanner Séquentiel).
 - Ils n'utilisent pas exactement les mêmes tables de caractères ou les mêmes règles de saut de ligne.
-- Toute modification un peu trop longue fait crasher l'ISO ou provoque des glitchs graphiques.
+- Toute modification mal encodée (notamment l'ajout de padding) fait crasher l'ISO ou provoque des glitchs graphiques comme le "Crash Philémon".
 
 ### Ce qu'il faut faire
 - Garder les textes des menus (F_BE) et de la carte (MMAP) **aussi courts que possible**, idéalement de la même longueur exacte que l'anglais.
