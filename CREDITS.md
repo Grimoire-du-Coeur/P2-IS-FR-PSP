@@ -57,8 +57,8 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@gc-ultimate117](https://github.com/gc-ultimate117)** | 26 | +1503 | -1503 |
 | **[@Fan2Shrek](https://github.com/Fan2Shrek)** | 22 | +395 | -356 |
 | **[@ZePhyrOmZy](https://github.com/ZePhyrOmZy)** | 19 | +403 | -403 |
+| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 18 | +288 | -291 |
 | **[@megidooo](https://github.com/megidooo)** | 18 | +386 | -386 |
-| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 17 | +272 | -275 |
 | **[@Gyotre](https://github.com/Gyotre)** | 16 | +355 | -352 |
 | **[@LeSoupeur](https://github.com/LeSoupeur)** | 15 | +163 | -163 |
 | **[@ArsenetheIV](https://github.com/ArsenetheIV)** | 13 | +5584 | -6883 |
@@ -109,7 +109,7 @@ pie title Top 10 - Commits
     "gc-ultimate117" : 26
     "Fan2Shrek" : 22
     "ZePhyrOmZy" : 19
-    "megidooo" : 18
+    "github-actions[bot]" : 18
 ```
 
 #### Lignes Ajoutées
