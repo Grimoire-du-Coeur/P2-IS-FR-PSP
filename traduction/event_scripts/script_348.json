@@ -29,7 +29,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Hey...[1205][U+000F][SP]I'm[SP]not[SP]supposed[SP]to[SP]be[SP]standing[SP]here...[1205][U+000F]\nIs[SP]the[SP]BIT[SP]flagged?[SP]Please[SP]check!",
         "nom_fr": "Ginko",
-        "texte_fr": "Hé,[1205][U+000F] je suis pas censée me tenir là...[1205][U+000F]\nLe BIT est bien indiqué? Vérifiez merci!"
+        "texte_fr": "Hé,[1205][U+000F] je suis pas censée me tenir là...[1205][U+000F] Le\nBIT est bien indiqué? Vérifiez merci!"
     },
     {
         "id": 2,
@@ -45,7 +45,7 @@
         "nom_orig": "Firefighter",
         "texte_orig": "Anywhere[SP]a[SP]crowd[SP]goes,[SP]trouble[SP]follows...[SP]All\nthe[SP]more[SP]so[SP]at[SP]a[SP]concert[SP]with[SP]screaming[SP]fans!\nWe[SP]must[SP]always[SP]be[SP]prepared[SP]for[SP]the[SP]worst!",
         "nom_fr": "Pompier",
-        "texte_fr": "Dès qu'il y a foule, des problèmes \narrivent...\nSurtout dans un concert rempli de fans [1205][U+000F]\ndéchaînés!\nOn doit toujours se préparer au pire!"
+        "texte_fr": "Dès qu'il y a foule, des problèmes arrivent...\nSurtout dans un concert rempli de fans [1205][U+000F]\ndéchaînés! On doit toujours se préparer au\npire!"
     },
     {
         "id": 3,
@@ -125,7 +125,7 @@
         "nom_orig": "Firefighter",
         "texte_orig": "What[SP]a[SP]tragedy[SP]that[SP]I[SP]have[SP]to[SP]be[SP]on[SP]standby\nat[SP]a[SP]time[SP]like[SP]this![SP]I[SP]love[SP]idol[SP]singers!",
         "nom_fr": "Pompier",
-        "texte_fr": "Quelle tragédie de devoir rester en état\nd'alerte dans un tel moment! J'adore les \nidols!"
+        "texte_fr": "Quelle tragédie de devoir rester en état\nd'alerte dans un tel moment! J'adore les\nidols!"
     },
     {
         "id": 8,
@@ -141,6 +141,6 @@
         "nom_orig": "Firefighter",
         "texte_orig": "The[SP]Muses[SP]show[SP]is[SP]so[SP]near...[SP]And[SP]yet[SP]so[SP]far...",
         "nom_fr": "Pompier",
-        "texte_fr": "Le show des Muses, si près et pourtant si \nloin..."
+        "texte_fr": "Le show des Muses, si près\net pourtant si loin..."
     }
 ]

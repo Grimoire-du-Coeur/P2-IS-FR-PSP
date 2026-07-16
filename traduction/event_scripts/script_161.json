@@ -13,7 +13,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Ahahaha![SP]You[SP]Yisi![SP]None[SP]of[SP]that[SP]sounds[SP]right\nif[SP]you[SP]ask[SP]me!",
         "nom_fr": "Ginko",
-        "texte_fr": "Ahahaha! Dis donc, Yisi! Tout ça\nme paraît faux!"
+        "texte_fr": "Ahahaha! Dis donc, Yisi!\nTout ça me paraît faux!"
     },
     {
         "id": 1,
@@ -29,7 +29,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "What's[SP]that[SP]supposed[SP]to[SP]mean!?[SP][1432][NULL][NULL][0014]Quiet[1432][NULL][NULL][0014]!?\nSince[SP]when!?[SP]And[SP]I[SP]hate[SP]criminals!",
         "nom_fr": "Michel",
-        "texte_fr": "Hein!? [1432][NULL][NULL][0014]Silence[1432][NULL][NULL][0014]!? Depuis quand!? Je hais \nles criminels!"
+        "texte_fr": "Hein!? [1432][NULL][NULL][0014]Silence[1432][NULL][NULL][0014]!? Depuis\nquand!? Je hais les criminels!"
     },
     {
         "id": 2,
@@ -45,7 +45,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "And[SP]cruel...?[SP]I[SP]think[SP]I'm[SP]more[SP]easily[SP]moved\nto[SP]tears[SP]by[SP]suffering...[SP]Dominant...[SP]Hmm,[SP]but\nI[SP]quit[SP]being[SP]Boss...",
         "nom_fr": "Michel",
-        "texte_fr": "Et cruel...? Je suis plutôt ému par la \nsouffrance...\nDominant... Hum, mais[1205][U+000F]\nj'ai arrêté d'être Boss..."
+        "texte_fr": "Et cruel...? Je suis plutôt ému par\nla souffrance... Dominant... Hum,\nmais[1205][U+000F] j'ai arrêté d'être Boss..."
     },
     {
         "id": 3,
@@ -77,7 +77,7 @@
         "nom_orig": "Maya",
         "texte_orig": "The[SP]dead[SP]will[SP]never[SP]return[SP]to[SP]life...[1205][001E]\nThere's[SP]no[SP]coming[SP]back[SP]from[SP]that...",
         "nom_fr": "Maya",
-        "texte_fr": "Les morts ne reviennent jamais à la vie...[1205][001E]\nOn ne revient pas de là..."
+        "texte_fr": "Les morts ne reviennent jamais à la\nvie...[1205][001E] On ne revient pas de là..."
     },
     {
         "id": 5,
@@ -93,7 +93,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Ah...!?[1205][001E][SP]A-Are[SP]we[SP]done[SP]chatting?[SP]Okay,[SP]then,\nlet's[SP]go!",
         "nom_fr": "Maya",
-        "texte_fr": "Ah...!?[1205][001E] On a fini de papoter? Bon, alors,\nallons-y!"
+        "texte_fr": "Ah...!?[1205][001E] On a fini de papoter?\nBon, alors, allons-y!"
     },
     {
         "id": 6,
@@ -109,7 +109,7 @@
         "nom_orig": "Jun",
         "texte_orig": "Scorpio...[1205][001E][SP]It's[SP]associated[SP]with[SP]the[SP]element\nof[SP]water[SP]and[SP]symbolizes[SP]death[SP]and[SP]rebirth,\nas[SP]well[SP]as[SP]sexual[SP]attraction[SP]and[SP]dominance...",
         "nom_fr": "Jun",
-        "texte_fr": "Scorpion...[1205][001E] Associé à l'eau,\nil symbolise mort et renaissance,\nainsi que l'attirance sexuelle et la [1205][U+000F]\ndomination..."
+        "texte_fr": "Scorpion...[1205][001E] Associé à l'eau, il symbolise\nmort et renaissance, ainsi que\nl'attirance sexuelle et la [1205][U+000F] domination..."
     },
     {
         "id": 7,
@@ -125,6 +125,6 @@
         "nom_orig": "Jun",
         "texte_orig": "They[SP]can[SP]also[SP]be[SP]quiet,[SP]cruel,[SP]and[SP]criminal,\nbut[SP]I[SP]think[SP]Michel[SP]has[SP]put[SP]those[SP]qualities\nbehind[SP]him...\n[E1][E2][E3]>[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.",
         "nom_fr": "Jun",
-        "texte_fr": "Ils peuvent être silencieux, cruels, \ncriminels, mais Michel a laissé ça \nderrière...[1205][U+000F]\n[E1][E2][E3]> Une inscription sur le relief."
+        "texte_fr": "Ils peuvent être silencieux, cruels,\ncriminels, mais Michel a laissé ça\nderrière...[1205][U+000F] [E1][E2][E3]> Une inscription sur le relief."
     }
 ]

@@ -13,7 +13,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Check[SP]it[SP]out,[SP][1114].[SP]That[SP]guy[SP]looks[SP]like\nhe's[SP]gonna[SP]throw[SP]up.[SP]I[SP]wonder[SP]what's[SP]wrong?",
         "nom_fr": "Eikichi",
-        "texte_fr": "Mate un peu, [1114]. On dirait que ce\ngars va gerber. Je me demande pourquoi."
+        "texte_fr": "Mate un peu, [1114]. On dirait que ce gars\nva gerber. Je me demande pourquoi."
     },
     {
         "id": 1,
@@ -45,7 +45,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Oh[SP]yeah...[1205][U+000A][SP]I[SP]was[SP]wondering[SP]something,[SP]Jun.[1205][U+000F]\nThe[SP]city's[SP]flying[SP]now,[SP]right?[1205][U+000F][SP]So[SP]why[SP]isn't\nthe[SP]air[SP]thinner[SP]or[SP]colder?",
         "nom_fr": "Ginko",
-        "texte_fr": "Dis...[1205][U+000A] J'avais une question, Jun.[1205][U+000F]\nSi la ville vole, pourquoi la pression et\nla température sont pas plus basses?"
+        "texte_fr": "Dis...[1205][U+000A] J'avais une question, Jun.[1205][U+000F] Si\nla ville vole, pourquoi la pression et\nla température sont pas plus basses?"
     },
     {
         "id": 3,
@@ -93,7 +93,7 @@
         "nom_orig": "Maya",
         "texte_orig": "It's[SP]too[SP]bad...[SP]We[SP]had[SP]it[SP]all[SP]wrong.[1205][U+000F][SP]Kudan\nwas[SP]just[SP]a[SP]nickname[SP]for[SP]his[SP]friend...",
         "nom_fr": "Maya",
-        "texte_fr": "Mince... On avait faux sur tout.[1205][U+000F]Kudan\nétait juste le surnom de son ami..."
+        "texte_fr": "Mince... On avait faux sur tout.[1205][U+000F] Kudan\nétait juste le surnom de son ami..."
     },
     {
         "id": 6,
@@ -109,7 +109,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Man...[1205][U+000F][SP]Some[SP]journalist[SP]I[SP]am[SP]for[SP]not[SP]asking\nmore[SP]closely[SP]about[SP]it.[SP]I[SP]need[SP]to[SP]go[SP]back\nto[SP]J-school...",
         "nom_fr": "Maya",
-        "texte_fr": "Pff...[1205][U+000F] Je me prétend journaliste et\nne me renseigne pas assez. Je dois\nretourner à mon école..."
+        "texte_fr": "Pff...[1205][U+000F] Je me prétend journaliste\net ne me renseigne pas assez. Je\ndois retourner à mon école..."
     },
     {
         "id": 7,
@@ -125,7 +125,7 @@
         "nom_orig": "Jun",
         "texte_orig": "Xibalba[SP]is[SP]said[SP]to[SP]be[SP]the[SP]starship[SP]that[SP]brought\nthe[SP]Mayans[SP]here.[1205][U+000F][SP]It[SP]was[SP]built[SP]to[SP]accommodate\nthem.",
         "nom_fr": "Jun",
-        "texte_fr": "Xibalba serait l'astronef qui a amené les\nMayas ici.[1205][U+000F] Il fut donc construit pour\nles accommoder."
+        "texte_fr": "Xibalba serait l'astronef qui a\namené les Mayas ici.[1205][U+000F] Il fut donc\nconstruit pour les accommoder."
     },
     {
         "id": 8,
@@ -141,7 +141,7 @@
         "nom_orig": "Receptionist",
         "texte_orig": "Aww,[SP]where[SP]did[SP]those[SP]two[SP]go...?[1205][U+000F][SP]First[SP]Ms.\nKurosu,[SP]the[SP]actress,[SP]and[SP]now[SP]even[SP]Brown's\ngone[SP]missing.",
         "nom_fr": "Réception",
-        "texte_fr": "Aww, où sont passés ces deux-là...?[1205][U+000F]\nD'abord Mme Kurosu, l'actrice, puis Brown \nont[1205][U+000F]\ndisparu."
+        "texte_fr": "Aww, où sont passés ces deux-là...?[1205][U+000F] D'abord\nMme Kurosu, l'actrice, puis Brown ont[1205][U+000F] disparu."
     },
     {
         "id": 9,
@@ -157,7 +157,7 @@
         "nom_orig": "Staff",
         "texte_orig": "Hey,[SP]what's[SP]going[SP]on?[1205][U+000F][SP]The[SP]city's[SP]flying,[SP]there\nare[SP]temples[SP]popping[SP]up[SP]all[SP]over...[SP]Someone[SP]tell\nme[SP]what's[SP]happening!",
         "nom_fr": "Personnel",
-        "texte_fr": "Hé, il se passe quoi?[1205][U+000F] La ville vole,\ndes temples apparaissent partout... Qu'on\nm'explique tout ce bazar!"
+        "texte_fr": "Hé, il se passe quoi?[1205][U+000F] La ville vole,\ndes temples apparaissent partout...\nQu'on m'explique tout ce bazar!"
     },
     {
         "id": 10,
@@ -173,7 +173,7 @@
         "nom_orig": "Staff",
         "texte_orig": "Do[SP]the[SP]sponsors[SP]want[SP]us[SP]to[SP]keep[SP]broadcasting\nlike[SP]this?[SP]We've[SP]already[SP]had[SP]three[SP]news[SP]vans\ntotaled[SP]by[SP]those[SP]soldiers!",
         "nom_fr": "Personnel",
-        "texte_fr": "Les sponsors veulent qu'on continue la\ndiffusion là? Ces soldats nous ont déjà\npris trois de nos nouveaux vans!"
+        "texte_fr": "Les sponsors veulent qu'on continue\nla diffusion là? Ces soldats nous ont\ndéjà pris trois de nos nouveaux vans!"
     },
     {
         "id": 11,
@@ -221,7 +221,7 @@
         "nom_orig": "Receptionist",
         "texte_orig": "I'm[SP]sorry,[SP]but[SP]the[SP]upper[SP]floors[SP]are[SP]restricted\nto[SP]employees[SP]only.[SP]Please[SP]refrain[SP]from[SP]using\nthe[SP]elevator.",
         "nom_fr": "Réception",
-        "texte_fr": "Navré, mais les étages supérieurs sont\nréservés aux employés. Merci de ne pas\nutiliser l'ascenseur."
+        "texte_fr": "Navré, mais les étages supérieurs\nsont réservés aux employés. Merci\nde ne pas utiliser l'ascenseur."
     },
     {
         "id": 14,
@@ -237,7 +237,7 @@
         "nom_orig": "Receptionist",
         "texte_orig": "I'm[SP]sorry,[SP]but[SP]the[SP]upper[SP]floors[SP]are[SP]restricted\nto[SP]employees[SP]only.[SP]Please[SP]refrain[SP]from[SP]using\nthe[SP]elevator.[E1][E2][E3]>[SP]It's[SP]a[SP]model[SP]of[SP]Sumaru[SP]TV.[SP]Every[SP]last[SP]detail\nis[SP]carefully[SP]replicated.[E1][E2][E3]>[SP]Monday,[SP]7PM-8PM\n[1432][NULL][NULL][0014]It's[SP]Brown![1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]variety[SP]show[SP]hosted[SP]by\nthe[SP]multitalented[SP]Brown.[E1][E2][E3]>[SP]Tuesday,[SP]10PM-11PM\n[1432][NULL][NULL][0014]Super[SP]Shoppers[1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]shopping[SP]program[SP]where[SP]they\ndemonstrate[SP]and[SP]sell[SP]various[SP]products.[E1][E2][E3]>[SP]Wednesday,[SP]11AM-12PM\n[1432][NULL][NULL][0014]What's[SP]Your[SP]Take?[1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]panel[SP]show[SP]that[SP]analyzes\nissues[SP]and[SP]thinks[SP]of[SP]ways[SP]to[SP]resolve[SP]them.[E1][E2][E3]>[SP]Thursday,[SP]6PM-6:30PM\n[1432][NULL][NULL][0014]Golden[SP]Battler[SP]Lightron[1432][NULL][NULL][0014]\nA[SP]cartoon[SP]where[SP]a[SP]justice-loving[SP]boy[SP]turns\ninto[SP]the[SP]Golden[SP]Battler[SP]to[SP]fight[SP]evil.[E1][E2][E3]>[SP]Friday,[SP]8PM-9PM\n[1432][NULL][NULL][0014]I'm[SP]Talking[SP]Here![1432][NULL][NULL][0014]\nA[SP]talk[SP]show[SP]hosted[SP]by[SP]Junko[SP]Kurosu.[SP]Her[SP]sharp\ntongue[SP]seems[SP]to[SP]have[SP]many[SP]fans.[E1][E2][E3]>[SP]Saturday,[SP]9PM-10PM\n[1432][NULL][NULL][0014]Rainbow[SP]Joe[1432][NULL][NULL][0014]\nA[SP]drama[SP]starring[SP]an[SP]assassin[SP]named[SP]Joe[SP]with\nseven[SP]different[SP]personalities.",
         "nom_fr": "Réception",
-        "texte_fr": "Navré, mais les étages supérieurs sont\nréservés aux employés. Merci de ne pas\nutiliser l'ascenseur.[E1][E2][E3]> C'est un modèle de [1205][U+000F]\nSumaru TV. Chaque\ndétail a été répliqué avec soin.[E1][E2][E3]> Lundi, \n19H-20H[1205][U+000F]\n[1432][NULL][NULL][0014]La Minute de Brown![1432][NULL][NULL][0014]\nUne émission de variété présentée par le\npolyvalent Brown.[E1][E2][E3]> Mardi, 22H-23H[1205][U+000F]\n[1432][NULL][NULL][0014]TV-Shopping[1432][NULL][NULL][0014]\nUn programme de télé-achat qui présente et\nvend des produits.[E1][E2][E3]> Mercredi, 11H-12H[1205][U+000F]\n[1432][NULL][NULL][0014]C votre avis?[1432][NULL][NULL][0014]\nUne émission où on analyse et imagine\ndes solutions à des problématiques [1205][U+000F]\nvariées.[E1][E2][E3]> Jeudi, 18H-18:30H\n[1432][NULL][NULL][0014]Lightron, Combattant du Carat[1432][NULL][NULL][0014]\nUn dessin animé où un jeune justicier se[1205][U+000F]\ntransforme en Combattant Doré pour \naffronter le mal.[E1][E2][E3]> Vendredi, 20H-21H\n[1432][NULL][NULL][0014]Je suis en direct![1432][NULL][NULL][0014][1205][U+000F]\nUne émission-débat présentée par Junko \nKurosu.\nSon franc-parler semble attirer bien des [1205][U+000F]\nfans.[E1][E2][E3]>Samedi, 21H-22H\n[1432][NULL][NULL][0014]Le Jour où Joe a Basculé[1432][NULL][NULL][0014]\nUn drame avec un assassin qui possède[1205][U+000F]\nsept personalités différentes."
+        "texte_fr": "Navré, mais les étages supérieurs sont\nréservés aux employés. Merci de ne pas\nutiliser l'ascenseur.[E1][E2][E3]> C'est un modèle de [1205][U+000F]\nSumaru TV. Chaque détail a été répliqué avec\nsoin.[E1][E2][E3]> Lundi, 19H-20H[1205][U+000F] [1432][NULL][NULL][0014]La Minute de Brown![1432][NULL][NULL][0014] Une\némission de variété présentée par le\npolyvalent Brown.[E1][E2][E3]> Mardi, 22H-23H[1205][U+000F] [1432][NULL][NULL][0014]TV-Shopping[1432][NULL][NULL][0014]\nUn programme de télé-achat qui présente et\nvend des produits.[E1][E2][E3]> Mercredi, 11H-12H[1205][U+000F] [1432][NULL][NULL][0014]C votre\navis?[1432][NULL][NULL][0014] Une émission où on analyse et imagine\ndes solutions à des problématiques [1205][U+000F] variées.[E1][E2][E3]>\nJeudi, 18H-18:30H [1432][NULL][NULL][0014]Lightron, Combattant du\nCarat[1432][NULL][NULL][0014] Un dessin animé où un jeune justicier se[1205][U+000F]\ntransforme en Combattant Doré pour affronter\nle mal.[E1][E2][E3]> Vendredi, 20H-21H [1432][NULL][NULL][0014]Je suis en direct![1432][NULL][NULL][0014][1205][U+000F]\nUne émission-débat présentée par Junko Kurosu.\nSon franc-parler semble attirer bien des [1205][U+000F]\nfans.[E1][E2][E3]>Samedi, 21H-22H [1432][NULL][NULL][0014]Le Jour où Joe a Basculé[1432][NULL][NULL][0014]\nUn drame avec un assassin qui possède[1205][U+000F] sept\npersonalités différentes."
     },
     {
         "id": 15,
@@ -253,7 +253,7 @@
         "nom_orig": "Pale[SP]man",
         "texte_orig": "Scariest[SP]story[SP]I[SP]ever[SP]heard...[1205][U+000F][SP]What[SP]kind[SP]of\nstory,[SP]you[SP]ask?[1205][U+000F][SP]No![1205][U+000F][SP]I'm[SP]trying[SP]to[SP]forget\nabout[SP][E4][NULL][NULL][U+0006]Kudan[E4][NULL][NULL][0002][SP]at[SP]the[SP]abandoned[SP]factory...",
         "nom_fr": "Homme pâle",
-        "texte_fr": "Jamais entendu un truc aussi badant...[1205][U+000F] Tu\nveux savoir quoi?[1205][U+000F] Non![1205][U+000F] J'essaie\nd'oublier [E4][NULL][NULL][U+0006]Kudan[E4][NULL][NULL][0002] dans l'usine abandonnée..."
+        "texte_fr": "Jamais entendu un truc aussi badant...[1205][U+000F] Tu\nveux savoir quoi?[1205][U+000F] Non![1205][U+000F] J'essaie d'oublier\n[E4][NULL][NULL][U+0006]Kudan[E4][NULL][NULL][0002] dans l'usine abandonnée..."
     },
     {
         "id": 16,
@@ -269,7 +269,7 @@
         "nom_orig": "Pale[SP]man",
         "texte_orig": "I[SP]wonder[SP]what[SP]happened[SP]with[SP]Kudan[SP]and[SP]the\nabandoned[SP]factory...[1205][U+000F][SP]Sorry,[SP]just[SP]talking[SP]to\nmyself[SP]there.",
         "nom_fr": "Homme pâle",
-        "texte_fr": "Je me demande ce qui est arrivé à\nKudan dans l'usine abandonnée...[1205][U+000F] Pardon, je\nparle tout seul."
+        "texte_fr": "Je me demande ce qui est arrivé à\nKudan dans l'usine abandonnée...[1205][U+000F]\nPardon, je parle tout seul."
     },
     {
         "id": 17,
@@ -285,7 +285,7 @@
         "nom_orig": "Pale[SP]man",
         "texte_orig": "What[SP]the[SP]hell[SP]is[SP]this?[1205][U+000F][SP]Ugh,[SP]that's[SP]disgusting![1205][U+000F]\nHuh?[SP]What[SP]do[SP]you[SP]mean,[SP]I[SP]asked[SP]for[SP]this?[1205][U+000F]\nThis[SP]is[SP]Kudan...?",
         "nom_fr": "Homme pâle",
-        "texte_fr": "Qu'est-ce que?[1205][U+000F] Urk, c'est immonde![1205][U+000F]\nHein? Comment ça, c'est moi qui l'ai \ndemandé?[1205][U+000F]\nC'est Kudan, ça...?"
+        "texte_fr": "Qu'est-ce que?[1205][U+000F] Urk, c'est immonde![1205][U+000F]\nHein? Comment ça, c'est moi qui\nl'ai demandé?[1205][U+000F] C'est Kudan, ça...?"
     },
     {
         "id": 18,
@@ -301,7 +301,7 @@
         "nom_orig": "Pale[SP]man",
         "texte_orig": "No,[SP]Kudan's[SP]a[SP]friend[SP]of[SP]mine[SP]I[SP]met[SP]at[SP]the\nabandoned[SP]factory.[SP]He[SP]told[SP]me[SP]the[SP]scariest\nstory[SP]I[SP]ever[SP]heard.",
         "nom_fr": "Homme pâle",
-        "texte_fr": "Non, Kudan est un ami que rencontré\ndans l'usine abandonnée. Il m'a raconté \nune[1205][U+000F]\nhistoire terrifiante."
+        "texte_fr": "Non, Kudan est un ami que rencontré\ndans l'usine abandonnée. Il m'a\nraconté une[1205][U+000F] histoire terrifiante."
     },
     {
         "id": 19,
@@ -349,7 +349,7 @@
         "nom_orig": "Pale[SP]man",
         "texte_orig": "Ugh...[1205][U+000F][SP]Thinking[SP]about[SP]that[SP]makes[SP]me[SP]even[SP]more\nscared.[SP]Gahhh...[1205][U+000F][SP]I[SP]don't[SP]wanna[SP]think[SP]about\nKudan[SP]anymore...",
         "nom_fr": "Homme pâle",
-        "texte_fr": "Ugh...[1205][U+000F] Y penser m'effraie encore\nplus. Gahhh...[1205][U+000F] Plus envie de penser\nà Kudan..."
+        "texte_fr": "Ugh...[1205][U+000F] Y penser m'effraie encore plus.\nGahhh...[1205][U+000F] Plus envie de penser à Kudan..."
     },
     {
         "id": 22,
@@ -365,6 +365,6 @@
         "nom_orig": "Pale[SP]man",
         "texte_orig": "Sorry[SP]about[SP]the[SP]misunderstanding.[1205][U+000F][SP]I[SP]was[SP]scared,\ntoo![SP]I[SP]hope[SP]you[SP]forgive[SP]me.[1205][U+000F][SP]But[SP]wow...[SP]I[SP]can't\nbelieve[SP]this[SP]is[SP]happening...",
         "nom_fr": "Homme pâle",
-        "texte_fr": "Désolé du malentendu.[1205][U+000F] J'avais peur aussi!\nVous m'excuserez, j'espère.[1205][U+000F] Mais wow, je peux\npas croire ce qui s'est passé..."
+        "texte_fr": "Désolé du malentendu.[1205][U+000F] J'avais peur aussi!\nVous m'excuserez, j'espère.[1205][U+000F] Mais wow, je\npeux pas croire ce qui s'est passé..."
     }
 ]

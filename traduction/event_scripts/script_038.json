@@ -1,98 +1,98 @@
 [
-  {
-    "id": 0,
-    "offset": 187546,
-    "data_size": 116,
-    "slot_size": 120,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "I[SP]didn't[SP]know[SP]Ginko[SP]was[SP]that[SP]stressed[SP]out...",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Je savais pas que Ginko était\nsi stressée..."
-  },
-  {
-    "id": 1,
-    "offset": 187666,
-    "data_size": 208,
-    "slot_size": 212,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Yukino",
-    "texte_orig": "I[SP]can[SP]kind[SP]of[SP]relate...[1205][001E][SP]Getting[SP]pushed\naround[SP]and[SP]ignored[SP]just[SP]'cause[SP]you're\ndifferent...",
-    "nom_fr": "Yukino",
-    "texte_fr": "Je compatis un peu...[1205][001E] Se faire\nbousculer et ignorer juste parce\nqu'on est différent..."
-  },
-  {
-    "id": 2,
-    "offset": 187878,
-    "data_size": 106,
-    "slot_size": 110,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Ginko's[SP]voice[E4][NULL][NULL][0002]",
-    "texte_orig": "I[SP]need[SP]to[SP]think[SP]about[SP]this...",
-    "nom_fr": "Voix de Ginko[E4][NULL][NULL][0002]",
-    "texte_fr": "Faut que j'y réfléchisse..."
-  },
-  {
-    "id": 3,
-    "offset": 187988,
-    "data_size": 198,
-    "slot_size": 202,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "Hey,[SP][1113]![SP]Ginko[SP]went[SP]with[SP]them!\nThey're[SP]gonna[SP]trick[SP]her[SP]into[SP]betraying\nus[SP]at[SP]this[SP]rate!",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Hé, [1113]! Ginko est partie!\nIls vont la manipuler pour\nqu'elle nous trahisse!"
-  },
-  {
-    "id": 4,
-    "offset": 188190,
-    "data_size": 278,
-    "slot_size": 282,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "Have[SP]some[SP]faith[SP]in[SP]Lisa...[1205][001E][SP]Dreams[SP]aren't[SP]a\ncrutch[SP]you[SP]can[SP]lean[SP]on[SP]or[SP]a[SP]gift[SP]you[SP]can[SP]be\ngiven.[SP]I'm[SP]sure[SP]she'll[SP]figure[SP]that[SP]out.",
-    "nom_fr": "Maya",
-    "texte_fr": "Faites confiance à Lisa...[1205][001E] Un rêve n'est\npas une béquille ni un cadeau qu'on\nreçoit. Je suis sûre qu'elle comprendra."
-  },
-  {
-    "id": 5,
-    "offset": 188472,
-    "data_size": 154,
-    "slot_size": 158,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Shift[SP]boss",
-    "texte_orig": "Hey,[SP]you[SP]four![SP]What're[SP]you[SP]part-timers\nlounging[SP]around[SP]for!?",
-    "nom_fr": "Chef",
-    "texte_fr": "Hé, vous quatre! Pourquoi\nvous glandez, les\nintérimaires!?"
-  }
+    {
+        "id": 0,
+        "offset": 187546,
+        "data_size": 116,
+        "slot_size": 120,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "I[SP]didn't[SP]know[SP]Ginko[SP]was[SP]that[SP]stressed[SP]out...",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Je savais pas que Ginko était si stressée..."
+    },
+    {
+        "id": 1,
+        "offset": 187666,
+        "data_size": 208,
+        "slot_size": 212,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Yukino",
+        "texte_orig": "I[SP]can[SP]kind[SP]of[SP]relate...[1205][001E][SP]Getting[SP]pushed\naround[SP]and[SP]ignored[SP]just[SP]'cause[SP]you're\ndifferent...",
+        "nom_fr": "Yukino",
+        "texte_fr": "Je compatis un peu...[1205][001E] Se faire bousculer et\nignorer juste parce qu'on est différent..."
+    },
+    {
+        "id": 2,
+        "offset": 187878,
+        "data_size": 106,
+        "slot_size": 110,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Ginko's[SP]voice[E4][NULL][NULL][0002]",
+        "texte_orig": "I[SP]need[SP]to[SP]think[SP]about[SP]this...",
+        "nom_fr": "Voix de Ginko[E4][NULL][NULL][0002]",
+        "texte_fr": "Faut que j'y réfléchisse..."
+    },
+    {
+        "id": 3,
+        "offset": 187988,
+        "data_size": 198,
+        "slot_size": 202,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "Hey,[SP][1113]![SP]Ginko[SP]went[SP]with[SP]them!\nThey're[SP]gonna[SP]trick[SP]her[SP]into[SP]betraying\nus[SP]at[SP]this[SP]rate!",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Hé, [1113]! Ginko est partie! Ils vont\nla manipuler pour qu'elle nous trahisse!"
+    },
+    {
+        "id": 4,
+        "offset": 188190,
+        "data_size": 278,
+        "slot_size": 282,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "Have[SP]some[SP]faith[SP]in[SP]Lisa...[1205][001E][SP]Dreams[SP]aren't[SP]a\ncrutch[SP]you[SP]can[SP]lean[SP]on[SP]or[SP]a[SP]gift[SP]you[SP]can[SP]be\ngiven.[SP]I'm[SP]sure[SP]she'll[SP]figure[SP]that[SP]out.",
+        "nom_fr": "Maya",
+        "texte_fr": "Faites confiance à Lisa...[1205][001E] Un rêve n'est\npas une béquille ni un cadeau qu'on\nreçoit. Je suis sûre qu'elle comprendra."
+    },
+    {
+        "id": 5,
+        "offset": 188472,
+        "data_size": 154,
+        "slot_size": 158,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Shift[SP]boss",
+        "texte_orig": "Hey,[SP]you[SP]four![SP]What're[SP]you[SP]part-timers\nlounging[SP]around[SP]for!?",
+        "nom_fr": "Chef",
+        "texte_fr": "Hé, vous quatre! Pourquoi vous\nglandez, les intérimaires!?"
+    }
 ]

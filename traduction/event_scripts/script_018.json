@@ -13,7 +13,7 @@
         "nom_orig": "Leader",
         "texte_orig": "Oh[SP]man,[SP]check[SP]it[SP]out![SP]The[SP]Boss![SP]What're[SP]you\nholdin'[SP]your[SP]stomach[SP]for?[SP]Gotta[SP]take[SP]a[SP]shit?\nWant[SP]me[SP]to[SP]drop[SP]your[SP]drawers[SP]for[SP]you?",
         "nom_fr": "Leader",
-        "texte_fr": "Oh mec, matez un peu ça! Le Boss! Pourquoi\ntu\nte tiens le bide comme ça? Envie de chier?[1205][U+000F]\nTu veux que je te baisse ton froc?"
+        "texte_fr": "Oh mec, matez un peu ça! Le Boss! Pourquoi\ntu te tiens le bide comme ça? Envie de\nchier?[1205][U+000F] Tu veux que je te baisse ton froc?"
     },
     {
         "id": 1,
@@ -29,7 +29,7 @@
         "nom_orig": "Leader",
         "texte_orig": "Easy[SP]there![SP]You[SP]know[SP]what's[SP]gonna[SP]happen[SP]to\nthis[SP]chick[SP]if[SP]you[SP]bring[SP]out[SP]your[SP]death\nspirit,[SP]right...?",
         "nom_fr": "Leader",
-        "texte_fr": "Doucement! Tu sais ce qui va arriver à\ncette meuf si tu sors ton esprit\nde la mort, pas vrai...?"
+        "texte_fr": "Doucement! Tu sais ce qui va\narriver à cette meuf si tu sors ton\nesprit de la mort, pas vrai...?"
     },
     {
         "id": 2,
@@ -45,7 +45,7 @@
         "nom_orig": "Cuss[SP]High[SP]student",
         "texte_orig": "Heheh![SP]You[SP]ain't[SP]shit[SP]without[SP]that[SP]death\nspirit[SP]of[SP]yours!",
         "nom_fr": "Élève de Kasu",
-        "texte_fr": "Héhé! T'es rien du tout sans ton\nesprit de la mort!"
+        "texte_fr": "Héhé! T'es rien du tout\nsans ton esprit de la mort!"
     },
     {
         "id": 3,
@@ -61,7 +61,7 @@
         "nom_orig": "Cuss[SP]High[SP]student",
         "texte_orig": "What's[SP]with[SP]your[SP][1432][NULL][NULL][0014]I[SP]won't[SP]allow[SP]any\nbullying[SP]of[SP]the[SP]weak[1432][NULL][NULL][0014][SP]crap?[SP]You[SP]only[SP]said\nthat[SP]'cause[SP]YOU'RE[SP]weak!",
         "nom_fr": "Élève de Kasu",
-        "texte_fr": "Ces conneries de [1432][NULL][NULL][0014]je tolère pas\nle harcèlement[1432][NULL][NULL][0014]? Tu disais\nça car T'ES faible!"
+        "texte_fr": "Ces conneries de [1432][NULL][NULL][0014]je tolère pas le\nharcèlement[1432][NULL][NULL][0014]? Tu disais ça car T'ES faible!"
     },
     {
         "id": 4,
@@ -77,7 +77,7 @@
         "nom_orig": "Cuss[SP]High[SP]student",
         "texte_orig": "That[SP][1432][NULL][NULL][0014]gathering[1432][NULL][NULL][0014][SP]stuff[SP]seemed[SP]like[SP]a[SP]pain[SP]in\nthe[SP]ass,[SP]but[SP]I'm[SP]glad[SP]I[SP]came[SP]if[SP]it[SP]meant\nseeing[SP]something[SP]this[SP]awesome!",
         "nom_fr": "Élève de Kasu",
-        "texte_fr": "Ce [1432][NULL][NULL][0014]rassemblement[1432][NULL][NULL][0014] avait l'air\nchiant, mais ravi d'être venu\npour voir un truc aussi génial!"
+        "texte_fr": "Ce [1432][NULL][NULL][0014]rassemblement[1432][NULL][NULL][0014] avait l'air chiant, mais ravi\nd'être venu pour voir un truc aussi génial!"
     },
     {
         "id": 5,
@@ -93,7 +93,7 @@
         "nom_orig": "Leader",
         "texte_orig": "Sheesh,[SP]you're[SP]a[SP]mess.[SP]Is[SP]Fatty[SP]here[SP]really\nthat[SP]important[SP]to[SP]ya?",
         "nom_fr": "Leader",
-        "texte_fr": "T'es amoché. Bouboule\nici compte tant pour toi?"
+        "texte_fr": "T'es amoché. Bouboule ici\ncompte tant pour toi?"
     },
     {
         "id": 6,
@@ -125,7 +125,7 @@
         "nom_orig": "Leader",
         "texte_orig": "Huh!?[SP]What're[SP]you[SP]talking[SP]about?\nHanakouji's--",
         "nom_fr": "Leader",
-        "texte_fr": "Hein!? De quoi tu parles?\nHanakouji est--"
+        "texte_fr": "Hein!? De quoi tu parles? Hanakouji est--"
     },
     {
         "id": 8,
@@ -157,7 +157,7 @@
         "nom_orig": "Leader",
         "texte_orig": "Ahyahahahahaha![SP]You[SP]didn't[SP]know!?\nThis[SP]hambeast[SP]here[SP]IS[SP]Miyabi[SP]Hanakouji!",
         "nom_fr": "Leader",
-        "texte_fr": "Ahahah! Tu savais pas!?\nLa grosse ici EST Miyabi Hanakouji!"
+        "texte_fr": "Ahahah! Tu savais pas!? La\ngrosse ici EST Miyabi Hanakouji!"
     },
     {
         "id": 10,
@@ -205,7 +205,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Why...[1205][001E][SP]Why[SP]did[SP]you[SP]never[SP]say[SP]anything!?\nI-I...",
         "nom_fr": "Eikichi",
-        "texte_fr": "Pourquoi...[1205][001E] Pourquoi avoir rien dit!?\nJ-Je..."
+        "texte_fr": "Pourquoi...[1205][001E] Pourquoi avoir rien dit!? J-Je..."
     },
     {
         "id": 13,
@@ -301,7 +301,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "You[SP]bastard...[1205][001E][SP]Say[SP]whatever[SP]you[SP]want[SP]about\nme,[SP]I[SP]don't[SP]care.[1205][001E][SP]But[SP]anyone[SP]who[SP]laughs[SP]at\nher[SP]is[SP]a[SP]dead[SP]man!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Enfoiré...[1205][001E] Dis ce que tu veux sur\nmoi, je m'en fous.[1205][001E] Mais quiconque se moque\nd'elle est un homme mort!"
+        "texte_fr": "Enfoiré...[1205][001E] Dis ce que tu veux sur\nmoi, je m'en fous.[1205][001E] Mais quiconque\nse moque d'elle est un homme mort!"
     },
     {
         "id": 19,
@@ -381,7 +381,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "That[SP]Hiroki[SP]guy's[SP]the[SP]worst![SP]Alright,[SP]I'm\ngonna[SP]bust[SP]out[SP]my[SP]Persona[SP]and--",
         "nom_fr": "Ginko",
-        "texte_fr": "Ce Hiroki est le pire de tous! Très bien, \nje\nvais sortir ma Persona et--"
+        "texte_fr": "Ce Hiroki est le pire de tous! Très\nbien, je vais sortir ma Persona et--"
     },
     {
         "id": 24,
@@ -397,7 +397,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "Wait![SP]We[SP]storm[SP]in[SP]there,[SP]we[SP]hurt\nEikichi's[SP]pride.",
         "nom_fr": "Yukino",
-        "texte_fr": "Attends! Ça blesserait\nla fierté de Eikichi."
+        "texte_fr": "Attends! Ça blesserait la fierté de Eikichi."
     },
     {
         "id": 25,
@@ -413,7 +413,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "I[SP]know[SP]it's[SP]tough[SP]to[SP]watch...[1205][001E][SP]But[SP]this[SP]is\nhis[SP]moment!",
         "nom_fr": "Yukino",
-        "texte_fr": "C'est dur à voir...[1205][001E] Mais\nc'est son combat!"
+        "texte_fr": "C'est dur à voir...[1205][001E] Mais c'est son combat!"
     },
     {
         "id": 26,
@@ -429,7 +429,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "You[SP]want[SP]us[SP]to[SP]just[SP]sit[SP]back...!?[SP]Fanna!\nNo[SP]way![SP]Let's[SP]go[SP]save[SP]them,[SP][1113]!",
         "nom_fr": "Ginko",
-        "texte_fr": "Rien faire...!? Sérieux!\nJamais! Allons les aider, [1113]!"
+        "texte_fr": "Rien faire...!? Sérieux! Jamais!\nAllons les aider, [1113]!"
     },
     {
         "id": 27,
@@ -481,7 +481,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Yeah,[SP]yeah,[SP]don't[SP]get[SP]the[SP]wrong[SP]idea!\nWe[SP]came[SP]to[SP]save[SP]Kozy,[SP]so[SP]remember--",
         "nom_fr": "Ginko",
-        "texte_fr": "Te fais pas d'idées!\nOn est juste là pour Kozy, alors--"
+        "texte_fr": "Te fais pas d'idées! On est\njuste là pour Kozy, alors--"
     },
     {
         "id": 30,
@@ -513,7 +513,7 @@
         "nom_orig": "Leader",
         "texte_orig": "You[SP]bastards...[SP]How[SP]dare[SP]you[SP]make[SP]a[SP]fool\noutta[SP]me...[1205][001E][SP]Check[SP]this!",
         "nom_fr": "Leader",
-        "texte_fr": "Enfoirés... Comment osez-vous vous\nfoutre de moi...[1205][001E] Matez ça!"
+        "texte_fr": "Enfoirés... Comment osez-vous\nvous foutre de moi...[1205][001E] Matez ça!"
     },
     {
         "id": 32,
@@ -529,7 +529,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "All[SP]right,[SP]Hiroki.[1205][001E][SP]You[SP]got[SP]me.[SP]Do[SP]your[SP]worst.\nJust[SP]let[SP]her[SP]go.",
         "nom_fr": "Eikichi",
-        "texte_fr": "Ok, Hiroki.[1205][001E] Tu m'as eu. Fais de ton\npire. Mais lâche-la."
+        "texte_fr": "Ok, Hiroki.[1205][001E] Tu m'as eu. Fais\nde ton pire. Mais lâche-la."
     },
     {
         "id": 33,
@@ -641,7 +641,7 @@
         "nom_orig": "Leader",
         "texte_orig": "*pant*[SP]*pant*[1205][001E][SP]That's[SP]right,[SP]dammit![SP]The\nLeader[SP]is[SP]stronger[SP]than[SP]the[SP]Boss,[SP]you[SP]hear!?",
         "nom_fr": "Leader",
-        "texte_fr": "*halète* *halète*[1205][001E] C'est ça, bordel! Le\nLeader est plus fort que le Boss, \nt'entends!?"
+        "texte_fr": "*halète* *halète*[1205][001E] C'est ça, bordel! Le Leader\nest plus fort que le Boss, t'entends!?"
     },
     {
         "id": 40,
@@ -673,7 +673,7 @@
         "nom_orig": "Leader",
         "texte_orig": "...Uh?",
         "nom_fr": "Leader",
-        "texte_fr": "...Eh?"
+        "texte_fr": "... Eh?"
     },
     {
         "id": 42,
@@ -689,6 +689,6 @@
         "nom_orig": "Eikichi",
         "texte_orig": "The[SP]Leader[SP]might[SP]be[SP]stronger[SP]than[SP]the[SP]Boss,\nbut[SP]there's[SP]no[SP]way[SP]Hiroki[SP]Sugimoto[SP]is[SP]ever\nstronger[SP]than[SP]Eikichi[SP]Mishina!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Le Leader bat peut-être le Boss,\nmais jamais Hiroki Sugimoto ne sera\nplus fort qu'Eikichi Mishina!"
+        "texte_fr": "Le Leader bat peut-être le Boss,\nmais jamais Hiroki Sugimoto ne\nsera plus fort qu'Eikichi Mishina!"
     }
 ]

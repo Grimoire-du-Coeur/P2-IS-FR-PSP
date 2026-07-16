@@ -13,7 +13,7 @@
         "nom_orig": "Ginji-sounding[SP]man",
         "texte_orig": "Ahaha...[SP]My[SP]darling[SP]butterflies...[1205][001E][SP]The[SP]energy\nfrom[SP]your[SP]ideals[SP]will[SP]bring[SP]fruition[SP]to[SP]the\nMasked[SP]Circle's[SP]dreams...",
         "nom_fr": "Voix de Ginji",
-        "texte_fr": "Ahaha... Mes jolis papillons...[1205][001E] L'énergie\nde vos idéaux va concrétiser les rêves\ndu Cercle Masqué..."
+        "texte_fr": "Ahaha... Mes jolis papillons...[1205][001E]\nL'énergie de vos idéaux va concrétiser\nles rêves du Cercle Masqué..."
     },
     {
         "id": 1,
@@ -29,7 +29,7 @@
         "nom_orig": "Ginji-sounding[SP]man",
         "texte_orig": "Flutter[SP]even[SP]harder[SP]now...[SP]Higher...\nand[SP]further...[1205][001E][SP]Don't[SP]let[SP]those[SP]dreams\nbe[SP]exhausted...",
         "nom_fr": "Voix de Ginji",
-        "texte_fr": "Voletez encore plus fort... Plus haut...\net plus loin...[1205][001E] Ne laissez pas ces rêves\ns'épuiser..."
+        "texte_fr": "Voletez encore plus fort... Plus\nhaut... et plus loin...[1205][001E] Ne laissez\npas ces rêves s'épuiser..."
     },
     {
         "id": 2,
@@ -45,7 +45,7 @@
         "nom_orig": "Mami[1121]&[SP]Miho",
         "texte_orig": "Glory[SP]to[SP]the[SP]Mask...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Prince[SP]Taurus\nI,[SP]Ginji[SP]Sasaki...[1205][001E][SP]rather,[SP]Prince[SP]Taurus,\nwould[SP]like[SP]to[SP]introduce[SP]a[SP]new[SP]member[SP]to\nyour[SP]group.",
         "nom_fr": "Mami[1121]& Miho",
-        "texte_fr": "Gloire au Masque...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Prince Taureau[1205][U+000F]\nGinji Sasaki...[1205][001E] ou plutôt\nPrince Taureau, vous présente\nun nouveau membre."
+        "texte_fr": "Gloire au Masque... [E1][E2] [E3][E4][NULL][NULL]\"Prince Taureau[1205][U+000F]\nGinji Sasaki...[1205][001E] ou plutôt Prince Taureau,\nvous présente un nouveau membre."
     },
     {
         "id": 3,
@@ -61,7 +61,7 @@
         "nom_orig": "Prince[SP]Taurus",
         "texte_orig": "Now,[SP]Lisa-kun...[1205][001E][SP]Call[SP]Master[SP]Joker.",
         "nom_fr": "Prince Taureau",
-        "texte_fr": "Lisa...[1205][001E] Appelle\nMaître Joker."
+        "texte_fr": "Lisa...[1205][001E] Appelle Maître Joker."
     },
     {
         "id": 4,
@@ -93,7 +93,7 @@
         "nom_orig": "Miho",
         "texte_orig": "The[SP]three[SP]of[SP]us[SP]promised[SP]to[SP]become[SP]idols\ntogether,[SP]right?",
         "nom_fr": "Miho",
-        "texte_fr": "On a promis de devenir idoles toutes\nles trois, non?"
+        "texte_fr": "On a promis de devenir idoles\ntoutes les trois, non?"
     },
     {
         "id": 6,
@@ -157,7 +157,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "[1113][SP]and[SP]the[SP]others[SP]are[SP]my[SP]friends[SP]too...\nI[SP]can't[SP]betray[SP]them![1205][001E][SP]Plus...[SP]I[SP]can't[SP]be[SP]happy\nliving[SP]a[SP]secondhand[SP]dream!",
         "nom_fr": "Ginko",
-        "texte_fr": "[1113] et les autres sont aussi mes amis...\nJe peux pas les trahir![1205][001E] Et je refuse\nde vivre un rêve d'emprunt!"
+        "texte_fr": "[1113]et les autres sont aussi mes\namis... Je peux pas les trahir![1205][001E] Et je\nrefuse de vivre un rêve d'emprunt!"
     },
     {
         "id": 10,
@@ -173,6 +173,6 @@
         "nom_orig": "Ginko",
         "texte_orig": "Maya-san[SP]and[SP]the[SP]others[SP]will[SP]be[SP]here\nsoon![SP]You[SP]don't[SP]have[SP]to[SP]stay![SP]We[SP]can[SP]get\nout[SP]of[SP]here[SP]together!",
         "nom_fr": "Ginko",
-        "texte_fr": "Maya-san et les autres arrivent! Vous\nn'avez pas à rester! On peut sortir\nd'ici ensemble!"
+        "texte_fr": "Maya-san et les autres arrivent! Vous n'avez\npas à rester! On peut sortir d'ici ensemble!"
     }
 ]

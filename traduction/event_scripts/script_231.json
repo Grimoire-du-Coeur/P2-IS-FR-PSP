@@ -1,156 +1,156 @@
 [
-  {
-    "id": 0,
-    "offset": 255470,
-    "data_size": 144,
-    "slot_size": 148,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Jun",
-    "texte_orig": "Look[SP]at[SP]the[SP]size[SP]of[SP]it...[1205][001E][SP]I[SP]can't[SP]even[SP]make\nout[SP]the[SP]ceiling.",
-    "nom_fr": "Jun",
-    "texte_fr": "Regarde sa taille...[1205][001E] Je ne vois même\npas le plafond."
-  },
-  {
-    "id": 1,
-    "offset": 255618,
-    "data_size": 278,
-    "slot_size": 282,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "That's[SP]odd,[SP]though.[SP]They[SP]know[SP]we're[SP]after\nthem...[1205][001E][SP]So[SP]isn't[SP]it[SP]a[SP]little[SP]too[SP]quiet?\nThere's[SP]not[SP]even[SP]a[SP]welcoming[SP]committee[SP]here.",
-    "nom_fr": "Maya",
-    "texte_fr": "C'est étrange quand même. Ils savent\nqu'on les chasse...[1205][001E] Pourquoi c'est si \ncalme?[1205][U+000F]\nIl n'y a personne pour nous accueillir."
-  },
-  {
-    "id": 2,
-    "offset": 255900,
-    "data_size": 256,
-    "slot_size": 260,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Ginko",
-    "texte_orig": "This[SP]spaceship[SP]can[SP]carry[SP]an[SP]entire[SP]city,\nso[SP]I[SP]bet[SP]it[SP]has[SP]tons[SP]of[SP]high-tech[SP]traps.\nEveryone[SP]probably[SP]fell[SP]for[SP]them...",
-    "nom_fr": "Ginko",
-    "texte_fr": "Ce vaisseau peut porter une ville entière,\nje parie qu'il y a pleins de pièges.\nTout le monde a dû tomber dedans..."
-  },
-  {
-    "id": 3,
-    "offset": 256160,
-    "data_size": 218,
-    "slot_size": 222,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "Hmm...[1205][001E][SP]I[SP]doubt[SP]they[SP]ALL[SP]died,[SP]but[SP]you're\nright,[SP]there[SP]must[SP]be[SP]some[SP]pretty[SP]devious\ntraps[SP]in[SP]here.",
-    "nom_fr": "Maya",
-    "texte_fr": "Umm...[1205][001E] Je doute qu'ils soient TOUS morts, \nmais\ntu as raison, il doit y avoir des pièges[1205][U+000F]\n ici."
-  },
-  {
-    "id": 4,
-    "offset": 256382,
-    "data_size": 64,
-    "slot_size": 68,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "Like[SP]what[SP]exactly?",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Quoi par exemple?"
-  },
-  {
-    "id": 5,
-    "offset": 256450,
-    "data_size": 170,
-    "slot_size": 174,
-    "_term": [
-      4361,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "Like[SP]what[SP]exactly?\n[1208][0002][1432][NULL][NULL][0014]Lasers,[SP]maybe.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]A[SP]superheated[SP]room.[1432][NULL][NULL][0014]",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Comme quoi?\n[1208][0002][1432][NULL][NULL][0014]Des lasers?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Une pièce brûlante.[1432][NULL][NULL][0014]",
-    "question_orig": "Like[SP]what[SP]exactly?",
-    "choix_orig": [
-      "Lasers,[SP]maybe.",
-      "A[SP]superheated[SP]room."
-    ],
-    "question_fr": "Comme quoi?",
-    "choix_fr": [
-      "Des lasers?",
-      "Une pièce brûlante."
-    ]
-  },
-  {
-    "id": 6,
-    "offset": 256624,
-    "data_size": 248,
-    "slot_size": 252,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Jun",
-    "texte_orig": "Whatever[SP]it[SP]is,[SP]we[SP]can't[SP]just[SP]stand[SP]here.\nWe[SP]need[SP]to[SP]get[SP]the[SP]Heaven[SP]Skull[SP]so[SP]we[SP]can\nput[SP]the[SP]city[SP]back[SP]to[SP]normal...",
-    "nom_fr": "Jun",
-    "texte_fr": "Quoique ce soit, on doit bouger.\nOn doit récupérer le Crâne du Paradis pour\nrendre[1205][U+000F]\nà la ville son état normal..."
-  },
-  {
-    "id": 7,
-    "offset": 256876,
-    "data_size": 38,
-    "slot_size": 42,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Jun",
-    "texte_orig": "Let's[SP]go!",
-    "nom_fr": "Jun",
-    "texte_fr": "Allons-y!"
-  },
-  {
-    "id": 8,
-    "offset": 256918,
-    "data_size": 248,
-    "slot_size": 252,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Jun",
-    "texte_orig": "Whatever[SP]it[SP]is,[SP]we[SP]can't[SP]just[SP]stand[SP]here.\nWe[SP]need[SP]to[SP]get[SP]the[SP]Heaven[SP]Skull[SP]so[SP]we[SP]can\nput[SP]the[SP]city[SP]back[SP]to[SP]normal...",
-    "nom_fr": "Jun",
-    "texte_fr": "Quoique ce soit, on doit bouger.\nOn doit récupérer le Crâne du Paradis pour\nrendre[1205][U+000F]\nà la ville son état normal..."
-  }
+    {
+        "id": 0,
+        "offset": 255470,
+        "data_size": 144,
+        "slot_size": 148,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Jun",
+        "texte_orig": "Look[SP]at[SP]the[SP]size[SP]of[SP]it...[1205][001E][SP]I[SP]can't[SP]even[SP]make\nout[SP]the[SP]ceiling.",
+        "nom_fr": "Jun",
+        "texte_fr": "Regarde sa taille...[1205][001E] Je ne\nvois même pas le plafond."
+    },
+    {
+        "id": 1,
+        "offset": 255618,
+        "data_size": 278,
+        "slot_size": 282,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "That's[SP]odd,[SP]though.[SP]They[SP]know[SP]we're[SP]after\nthem...[1205][001E][SP]So[SP]isn't[SP]it[SP]a[SP]little[SP]too[SP]quiet?\nThere's[SP]not[SP]even[SP]a[SP]welcoming[SP]committee[SP]here.",
+        "nom_fr": "Maya",
+        "texte_fr": "C'est étrange quand même. Ils savent qu'on\nles chasse...[1205][001E] Pourquoi c'est si calme?[1205][U+000F] Il\nn'y a personne pour nous accueillir."
+    },
+    {
+        "id": 2,
+        "offset": 255900,
+        "data_size": 256,
+        "slot_size": 260,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Ginko",
+        "texte_orig": "This[SP]spaceship[SP]can[SP]carry[SP]an[SP]entire[SP]city,\nso[SP]I[SP]bet[SP]it[SP]has[SP]tons[SP]of[SP]high-tech[SP]traps.\nEveryone[SP]probably[SP]fell[SP]for[SP]them...",
+        "nom_fr": "Ginko",
+        "texte_fr": "Ce vaisseau peut porter une ville entière,\nje parie qu'il y a pleins de pièges. Tout\nle monde a dû tomber dedans..."
+    },
+    {
+        "id": 3,
+        "offset": 256160,
+        "data_size": 218,
+        "slot_size": 222,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "Hmm...[1205][001E][SP]I[SP]doubt[SP]they[SP]ALL[SP]died,[SP]but[SP]you're\nright,[SP]there[SP]must[SP]be[SP]some[SP]pretty[SP]devious\ntraps[SP]in[SP]here.",
+        "nom_fr": "Maya",
+        "texte_fr": "Umm...[1205][001E] Je doute qu'ils soient TOUS morts, mais\ntu as raison, il doit y avoir des pièges[1205][U+000F] ici."
+    },
+    {
+        "id": 4,
+        "offset": 256382,
+        "data_size": 64,
+        "slot_size": 68,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "Like[SP]what[SP]exactly?",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Quoi par exemple?"
+    },
+    {
+        "id": 5,
+        "offset": 256450,
+        "data_size": 170,
+        "slot_size": 174,
+        "_term": [
+            4361,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "Like[SP]what[SP]exactly?\n[1208][0002][1432][NULL][NULL][0014]Lasers,[SP]maybe.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]A[SP]superheated[SP]room.[1432][NULL][NULL][0014]",
+        "nom_fr": "Eikichi",
+        "texte_fr": "Comme quoi?\n[1208][0002][1432][NULL][NULL][0014]Des lasers?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Une pièce brûlante.[1432][NULL][NULL][0014]",
+        "question_orig": "Like[SP]what[SP]exactly?",
+        "choix_orig": [
+            "Lasers,[SP]maybe.",
+            "A[SP]superheated[SP]room."
+        ],
+        "question_fr": "Comme quoi?",
+        "choix_fr": [
+            "Des lasers?",
+            "Une pièce brûlante."
+        ]
+    },
+    {
+        "id": 6,
+        "offset": 256624,
+        "data_size": 248,
+        "slot_size": 252,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Jun",
+        "texte_orig": "Whatever[SP]it[SP]is,[SP]we[SP]can't[SP]just[SP]stand[SP]here.\nWe[SP]need[SP]to[SP]get[SP]the[SP]Heaven[SP]Skull[SP]so[SP]we[SP]can\nput[SP]the[SP]city[SP]back[SP]to[SP]normal...",
+        "nom_fr": "Jun",
+        "texte_fr": "Quoique ce soit, on doit bouger. On\ndoit récupérer le Crâne du Paradis pour\nrendre[1205][U+000F] à la ville son état normal..."
+    },
+    {
+        "id": 7,
+        "offset": 256876,
+        "data_size": 38,
+        "slot_size": 42,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Jun",
+        "texte_orig": "Let's[SP]go!",
+        "nom_fr": "Jun",
+        "texte_fr": "Allons-y!"
+    },
+    {
+        "id": 8,
+        "offset": 256918,
+        "data_size": 248,
+        "slot_size": 252,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Jun",
+        "texte_orig": "Whatever[SP]it[SP]is,[SP]we[SP]can't[SP]just[SP]stand[SP]here.\nWe[SP]need[SP]to[SP]get[SP]the[SP]Heaven[SP]Skull[SP]so[SP]we[SP]can\nput[SP]the[SP]city[SP]back[SP]to[SP]normal...",
+        "nom_fr": "Jun",
+        "texte_fr": "Quoique ce soit, on doit bouger. On\ndoit récupérer le Crâne du Paradis pour\nrendre[1205][U+000F] à la ville son état normal..."
+    }
 ]

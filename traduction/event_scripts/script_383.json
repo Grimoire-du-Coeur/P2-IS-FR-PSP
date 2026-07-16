@@ -1,65 +1,65 @@
 [
-  {
-    "id": 0,
-    "offset": 333134,
-    "data_size": 90,
-    "slot_size": 94,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "My[SP]HP[SP]is[SP]currently[SP][120E][NULL].\nSP[SP]is[SP][120E][U+0001].",
-    "nom_fr": "Eikichi",
-    "texte_fr": "J'ai [120E][NULL] PV et [120E][U+0001] PC."
-  },
-  {
-    "id": 1,
-    "offset": 333228,
-    "data_size": 84,
-    "slot_size": 88,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Lisa",
-    "texte_orig": "My[SP]HP[SP]is[SP]currently[SP][120E][NULL].\nSP[SP]is[SP][120E][U+0001].",
-    "nom_fr": "Lisa",
-    "texte_fr": "J'ai [120E][NULL] PV et [120E][U+0001] PC."
-  },
-  {
-    "id": 2,
-    "offset": 333316,
-    "data_size": 82,
-    "slot_size": 86,
-    "_term": [
-      4358,
-      4354,
-      5169
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "My[SP]HP[SP]is[SP]currently[SP][120E][NULL].\nSP[SP]is[SP][120E][0002].",
-    "nom_fr": "Maya",
-    "texte_fr": "J'ai [120E][NULL] PV et [120E][0002] PC."
-  },
-  {
-    "id": 3,
-    "offset": 333402,
-    "data_size": 74,
-    "slot_size": 78,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Maya",
-    "texte_orig": "[1113]-kun's[SP]HP[SP]is[SP][120E][U+0001].\nSP[SP]is[SP][120E][U+0003].",
-    "nom_fr": "Maya",
-    "texte_fr": "[1113] a [120E][U+0001] HP et\n[120E][U+0003] PC."
-  }
+    {
+        "id": 0,
+        "offset": 333134,
+        "data_size": 90,
+        "slot_size": 94,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Eikichi",
+        "texte_orig": "My[SP]HP[SP]is[SP]currently[SP][120E][NULL].\nSP[SP]is[SP][120E][U+0001].",
+        "nom_fr": "Eikichi",
+        "texte_fr": "J'ai [120E][NULL] PV et [120E][U+0001] PC."
+    },
+    {
+        "id": 1,
+        "offset": 333228,
+        "data_size": 84,
+        "slot_size": 88,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Lisa",
+        "texte_orig": "My[SP]HP[SP]is[SP]currently[SP][120E][NULL].\nSP[SP]is[SP][120E][U+0001].",
+        "nom_fr": "Lisa",
+        "texte_fr": "J'ai [120E][NULL] PV et [120E][U+0001] PC."
+    },
+    {
+        "id": 2,
+        "offset": 333316,
+        "data_size": 82,
+        "slot_size": 86,
+        "_term": [
+            4358,
+            4354,
+            5169
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "My[SP]HP[SP]is[SP]currently[SP][120E][NULL].\nSP[SP]is[SP][120E][0002].",
+        "nom_fr": "Maya",
+        "texte_fr": "J'ai [120E][NULL] PV et [120E][0002] PC."
+    },
+    {
+        "id": 3,
+        "offset": 333402,
+        "data_size": 74,
+        "slot_size": 78,
+        "_term": [
+            4358,
+            4354,
+            4355,
+            5169
+        ],
+        "nom_orig": "Maya",
+        "texte_orig": "[1113]-kun's[SP]HP[SP]is[SP][120E][U+0001].\nSP[SP]is[SP][120E][U+0003].",
+        "nom_fr": "Maya",
+        "texte_fr": "[1113] a [120E][U+0001] HP et [120E][U+0003] PC."
+    }
 ]

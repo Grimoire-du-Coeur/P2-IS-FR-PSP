@@ -13,7 +13,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Dude...[1205][001E][SP]This[SP]box[SP]has[SP]ropes[SP]and[SP]candles[SP]in[SP]it...[1205][001E]\nNah,[SP]never[SP]mind.[SP]Get[SP]your[SP]mind[SP]out[SP]of[SP]the\ngutter,[SP]Eikichi!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Mec...[1205][001E] Des cordes et des bougies dans\ncette boîte...[1205][001E] Non, oublie. Sors ça de\nta tête, Eikichi!"
+        "texte_fr": "Mec...[1205][001E] Des cordes et des bougies\ndans cette boîte...[1205][001E] Non, oublie.\nSors ça de ta tête, Eikichi!"
     },
     {
         "id": 1,
@@ -29,7 +29,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Sturdy[SP]ropes[SP]and[SP]candles...[1205][001E][SP]A[SP]man[SP]and\na[SP]woman...[1205][001E][SP]N-No,[SP]there's[SP]probably[SP]a[SP]perfectly\ngood[SP]explanation.[SP]There's[SP]gotta[SP]be!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Cordes solides et bougies...[1205][001E] Un homme\net une femme...[1205][001E] N-Non, il y a\nsûrement une très bonne explication.[1205][U+000F]\nIl le faut!"
+        "texte_fr": "Cordes solides et bougies...[1205][001E] Un homme\net une femme...[1205][001E] N-Non, il y a sûrement\nune très bonne explication.[1205][U+000F] Il le faut!"
     },
     {
         "id": 2,
@@ -45,7 +45,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Yep,[SP]we[SP]found[SP]the[SP]key,[SP]Gramps...[1205][001E][SP]Sooo...\nAbout[SP]that[SP]box...[1205][001E][SP]Aaaah,[SP]forget[SP]it!\nI[SP]can't[SP]bring[SP]myself[SP]to[SP]ask!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Ouais, on a la clé, pépé...[1205][001E] Alors...\nCette boîte...[1205][001E] Aaaah, oublie!\nJ'ose pas demander!"
+        "texte_fr": "Ouais, on a la clé, pépé...[1205][001E] Alors... Cette\nboîte...[1205][001E] Aaaah, oublie! J'ose pas demander!"
     },
     {
         "id": 3,
@@ -61,7 +61,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "I[SP]get[SP]you[SP]now,[SP]Gramps...[1205][001E][SP]Old[SP]or[SP]young,\na[SP]man[SP]is[SP]a[SP]man[SP]is[SP]a[SP]man!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Je pige, pépé...[1205][001E] Vieux ou jeune,\nun homme est un homme!"
+        "texte_fr": "Je pige, pépé...[1205][001E] Vieux ou\njeune, un homme est un homme!"
     },
     {
         "id": 4,
@@ -77,7 +77,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "You[SP]can't[SP]spell[SP][1432][NULL][NULL][0014]romantic[1432][NULL][NULL][0014][SP]without[SP][1432][NULL][NULL][0014]man[1432][NULL][NULL][0014]!\n[1113][SP]and[SP]I[SP]know[SP]what's[SP]up.[SP]I[SP]won't[SP]tell\nanyone[SP]what's[SP]in[SP]the[SP]box,[SP]so[SP]rest[SP]easy!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Pas de [1432][NULL][NULL][0014]romantisme[1432][NULL][NULL][0014] sans [1432][NULL][NULL][0014]homme[1432][NULL][NULL][0014]!\n[1113] et moi on a pigé. Je dirai\nrien sur la boîte, sois tranquille!"
+        "texte_fr": "Pas de [1432][NULL][NULL][0014]romantisme[1432][NULL][NULL][0014] sans [1432][NULL][NULL][0014]homme[1432][NULL][NULL][0014]!\n[1113]et moi on a pigé. Je dirai\nrien sur la boîte, sois tranquille!"
     },
     {
         "id": 5,
@@ -93,7 +93,7 @@
         "nom_orig": "Lisa",
         "texte_orig": "Gwuh!?[1205][001E][SP]This[SP]is[SP]a[SP]poster[SP]of[SP]Sayuri[SP]Yoshikawa...[1205][001E]\nGramps[SP]here[SP]has[SP]the[SP]same[SP]taste[SP]in[SP]women[SP]as\nmy[SP]pervy[SP]old[SP]man...",
         "nom_fr": "Lisa",
-        "texte_fr": "Hein!?[1205][001E] Un poster de Sayuri\nYoshikawa...[1205][001E] Pépé a les mêmes\ngoûts que mon père pervers..."
+        "texte_fr": "Hein!?[1205][001E] Un poster de Sayuri Yoshikawa...[1205][001E] Pépé\na les mêmes goûts que mon père pervers..."
     },
     {
         "id": 6,
@@ -109,7 +109,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#4![1205][001E][SP][1432][NULL][NULL][0014]Houshounah[1432][NULL][NULL][0014][SP]means\nthat[SP]you're[SP]sad[SP]or[SP]pained.[SP]Don't[SP]make[SP]me[SP]say\nit[SP]too[SP]often,[SP]okay?",
         "nom_fr": "Ginko",
-        "texte_fr": "Leçon n°4 de Lisa![1205][001E]\n[1432][NULL][NULL][0014]Houshounah[1432][NULL][NULL][0014] veut dire être\ntriste ou blessé. Ne m'oblige[1205][U+000F]\npas à le répéter, ok?"
+        "texte_fr": "Leçon n°4 de Lisa![1205][001E] [1432][NULL][NULL][0014]Houshounah[1432][NULL][NULL][0014]\nveut dire être triste ou blessé.\nNe m'oblige[1205][U+000F] pas à le répéter, ok?"
     },
     {
         "id": 7,
@@ -125,7 +125,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Helloooo...?[SP]Wai[SP]Wai?[1205][001E][SP]We[SP]told[SP]you[SP]already,\nwe[SP]found[SP]the[SP]key.[1205][001E][SP]It[SP]was[SP]hanging[SP]on[SP]your\nneck![SP]Like[SP]this![SP]Remember!?",
         "nom_fr": "Ginko",
-        "texte_fr": "Alooors...? Wai Wai?[1205][001E] On l'a déjà dit,\non a la clé.[1205][001E] Elle pendait\nà ton cou! Comme ça! Tu[1205][U+000F]\nt'en souviens!?"
+        "texte_fr": "Alooors...? Wai Wai?[1205][001E] On l'a déjà\ndit, on a la clé.[1205][001E] Elle pendait à ton\ncou! Comme ça! Tu[1205][U+000F] t'en souviens!?"
     },
     {
         "id": 8,
@@ -141,7 +141,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#8![1205][001E][SP][1432][NULL][NULL][0014]Chinyan[1432][NULL][NULL][0014]...\nmeans[SP]lover![SP]Did[SP]you[SP]know[SP]that?",
         "nom_fr": "Ginko",
-        "texte_fr": "Leçon cantonais 8 de Lisa![1205][001E]\n[1432][NULL][NULL][0014]Chinyan[1432][NULL][NULL][0014]... veut dire\namant! Tu savais?"
+        "texte_fr": "Leçon cantonais 8 de Lisa![1205][001E] [1432][NULL][NULL][0014]Chinyan[1432][NULL][NULL][0014]...\nveut dire amant! Tu savais?"
     },
     {
         "id": 9,
@@ -157,7 +157,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Looks[SP]like[SP]nothing[SP]here[SP]has[SP]an[SP]emblem[SP]on[SP]it.[1205][001E]\nShouldn't[SP]we[SP]keep[SP]searching[SP]elsewhere?",
         "nom_fr": "Maya",
-        "texte_fr": "Rien ici n'a d'emblème.[1205][001E]\nOn devrait chercher\nailleurs, non?"
+        "texte_fr": "Rien ici n'a d'emblème.[1205][001E] On\ndevrait chercher ailleurs, non?"
     },
     {
         "id": 10,
@@ -173,7 +173,7 @@
         "nom_orig": "Maya",
         "texte_orig": "I[SP]wonder[SP]who's[SP]in[SP]charge[SP]of[SP]the[SP]clock[SP]tower\nkeys...[SP]I[SP]assume[SP]the[SP]teachers[SP]would[SP]know.",
         "nom_fr": "Maya",
-        "texte_fr": "Qui a les clés de la tour de\nl'horloge...? Je suppose que\nles profs le savent."
+        "texte_fr": "Qui a les clés de la tour de l'horloge...?\nJe suppose que les profs le savent."
     },
     {
         "id": 11,
@@ -189,7 +189,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Well,[SP]now[SP]we[SP]can[SP]get[SP]into[SP]the[SP]clock[SP]tower.[1205][001E]\nQuestion[SP]is,[SP]what's[SP]that[SP]principal[SP]going[SP]to[SP]do\nnext?[1205][001E][SP]We[SP]should[SP]be[SP]careful,[SP][1113]-kun.",
         "nom_fr": "Maya",
-        "texte_fr": "Bien, on peut entrer dans la tour\nde l'horloge.[1205][001E] La question c'est,\nque va faire ce dirlo ensuite?[1205][001E][1205][U+000F]\nPrudence, [1113]-kun."
+        "texte_fr": "Bien, on peut entrer dans la tour de\nl'horloge.[1205][001E] La question c'est, que va faire\nce dirlo ensuite?[1205][001E][1205][U+000F] Prudence, [1113]-kun."
     },
     {
         "id": 12,
@@ -205,7 +205,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Geez,[SP]the[SP]curse[SP]sure[SP]lifted[SP]quick.[1205][001E][SP]I[SP]was[SP]half\njoking[SP]when[SP]I[SP]suggested[SP]it,[SP]but[SP]could[SP]this\nmean[SP]rumors[SP]really[SP]are[SP]becoming[SP]reality?",
         "nom_fr": "Maya",
-        "texte_fr": "La malédiction s'est vite levée.[1205][001E]\nJe plaisantais à moitié, mais ça\nveut dire que les rumeurs[1205][U+000F]\ndeviennent réalité?"
+        "texte_fr": "La malédiction s'est vite levée.[1205][001E] Je\nplaisantais à moitié, mais ça veut dire\nque les rumeurs[1205][U+000F] deviennent réalité?"
     },
     {
         "id": 13,
@@ -221,7 +221,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "We[SP]keep[SP]having[SP]to[SP]fend[SP]off[SP]demons,[SP]but[SP]it\nseems[SP]like[SP]most[SP]people[SP]don't[SP]even[SP]notice.[1205][001E]\nLet's[SP]just[SP]keep[SP]calling[SP]them[SP][1432][NULL][NULL][0014]assassins.[1432][NULL][NULL][0014]",
         "nom_fr": "Yukino",
-        "texte_fr": "On repousse des démons, mais\nla plupart des gens ne le\nremarquent pas.[1205][001E] Appelons-les[1205][U+000F]\ntoujours [1432][NULL][NULL][0014]assassins.[1432][NULL][NULL][0014]"
+        "texte_fr": "On repousse des démons, mais la\nplupart des gens ne le remarquent\npas.[1205][001E] Appelons-les[1205][U+000F] toujours [1432][NULL][NULL][0014]assassins.[1432][NULL][NULL][0014]"
     },
     {
         "id": 14,
@@ -237,7 +237,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "That[SP]Hamya[SP]has[SP]a[SP]key[SP]too,[SP]right?[1205][001E][SP]So[SP]I'll[SP]get\nto[SP]see[SP]him[SP]at[SP]last...[1205][001E][SP]It's[SP]been[SP]three[SP]years,\nso[SP]I[SP]gotta[SP]make[SP]this[SP]count.[1205][001E][SP]Heheheheh...",
         "nom_fr": "Yukino",
-        "texte_fr": "Ce Hamya a une clé aussi, non?[1205][001E]\nJe vais enfin le voir...[1205][001E]\nÇa fait trois ans, alors il[1205][U+000F]\nfaut que ça compte.[1205][001E]\nHéhéhéhé..."
+        "texte_fr": "Ce Hamya a une clé aussi, non?[1205][001E] Je vais\nenfin le voir...[1205][001E] Ça fait trois ans,\nalors il[1205][U+000F] faut que ça compte.[1205][001E] Héhéhéhé..."
     },
     {
         "id": 15,
@@ -253,7 +253,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "Rumors[SP]becoming[SP]reality?[1205][001E][SP]It[SP]sounds[SP]absurd,\nbut[SP]what[SP]happened[SP]back[SP]then[SP]seemed[SP]just[SP]as\nnonsensical.[SP]We'll[SP]just[SP]have[SP]to[SP]roll[SP]with[SP]it.",
         "nom_fr": "Yukino",
-        "texte_fr": "Les rumeurs deviennent réalité?[1205][001E]\nC'est absurde, mais ce qui s'est passé\nà l'époque l'était tout autant.[1205][U+000F]\nOn va devoir faire avec."
+        "texte_fr": "Les rumeurs deviennent réalité?[1205][001E] C'est\nabsurde, mais ce qui s'est passé à l'époque\nl'était tout autant.[1205][U+000F] On va devoir faire avec."
     },
     {
         "id": 16,
@@ -269,7 +269,7 @@
         "nom_orig": "Caretaker",
         "texte_orig": "Hohoho,[SP]do[SP]you[SP]need[SP]Granpa[SP]for[SP]something?\nHe[SP]left.[SP]Said[SP]something[SP]about[SP]the[SP]big[SP]clock.",
         "nom_fr": "Infirmière",
-        "texte_fr": "Hohoho, besoin de pépé pour un\ntruc? Il est parti.\nIl a parlé de la grande horloge."
+        "texte_fr": "Hohoho, besoin de pépé pour un truc? Il est\nparti. Il a parlé de la grande horloge."
     },
     {
         "id": 17,
@@ -305,7 +305,7 @@
         "nom_orig": "Caretaker",
         "texte_orig": "Oh?[SP]Well,[SP]if[SP]you[SP]get[SP]hurt,[SP]come[SP]see[SP]me[SP]here.\nI'll[SP]take[SP]care[SP]of[SP]you.",
         "nom_fr": "Infirmière",
-        "texte_fr": "Oh? Si vous êtes blessés,\nvenez me voir ici.\nJe vous soignerai."
+        "texte_fr": "Oh? Si vous êtes blessés, venez\nme voir ici. Je vous soignerai."
     },
     {
         "id": 19,
@@ -321,7 +321,7 @@
         "nom_orig": "Caretaker",
         "texte_orig": "Hohoho...[SP]If[SP]you're[SP]looking[SP]for[SP]Granpa,[SP]he's\nnot[SP]back[SP]yet.[SP]I[SP]hope[SP]he[SP]didn't[SP]collapse\nsomewhere...",
         "nom_fr": "Infirmière",
-        "texte_fr": "Hohoho... Pépé n'est pas encore\nrentré. J'espère qu'il ne s'est\npas évanoui quelque part..."
+        "texte_fr": "Hohoho... Pépé n'est pas encore rentré.\nJ'espère qu'il ne s'est pas évanoui quelque\npart..."
     },
     {
         "id": 20,
@@ -357,7 +357,7 @@
         "nom_orig": "Caretaker",
         "texte_orig": "Oh?[SP]Well,[SP]if[SP]you[SP]get[SP]hurt,[SP]come[SP]see[SP]me[SP]here.\nI'll[SP]take[SP]care[SP]of[SP]you.",
         "nom_fr": "Infirmière",
-        "texte_fr": "Oh? Si vous êtes blessés,\nvenez me voir ici.\nJe vous soignerai."
+        "texte_fr": "Oh? Si vous êtes blessés, venez\nme voir ici. Je vous soignerai."
     },
     {
         "id": 22,
@@ -409,7 +409,7 @@
         "nom_orig": "Caretaker",
         "texte_orig": "Hohoho...[SP]That[SP]boy[SP]from[SP]Kasugayama[SP]High[SP]is\nso[SP]funny.[1205][U+000F][SP]I[SP]don't[SP]know[SP]why,[SP]but[SP]he[SP]said[SP]to\nme,[SP][1432][NULL][NULL][0014]Best[SP]of[SP]luck[SP]to[SP]you[SP]both.[1432][NULL][NULL][0014]",
         "nom_fr": "Infirmière",
-        "texte_fr": "Hohoho... Ce garçon de Kasugayama\nest si drôle.[1205][U+000F] Sans savoir\npourquoi, il m'a dit:\n[1432][NULL][NULL][0014]Bonne chance à vous deux.[1432][NULL][NULL][0014]"
+        "texte_fr": "Hohoho... Ce garçon de Kasugayama est\nsi drôle.[1205][U+000F] Sans savoir pourquoi, il\nm'a dit: [1432][NULL][NULL][0014]Bonne chance à vous deux.[1432][NULL][NULL][0014]"
     },
     {
         "id": 25,
@@ -425,6 +425,6 @@
         "nom_orig": "Janitor",
         "texte_orig": "Huh...[SP]So[SP]it[SP]was[SP]around[SP]my[SP]neck...[SP]It's[SP]no\npicnic,[SP]getting[SP]old.[SP]By[SP]the[SP]way,[SP]did[SP]you\nfind[SP]the[SP]key[SP]you[SP]were[SP]looking[SP]for?",
         "nom_fr": "Concierge",
-        "texte_fr": "Hein... Elle était à mon cou...\nC'est dur de vieillir. Au fait,\navez-vous trouvé la clé[1205][U+000F]\nque vous cherchiez?"
+        "texte_fr": "Hein... Elle était à mon cou... C'est\ndur de vieillir. Au fait, avez-vous\ntrouvé la clé[1205][U+000F] que vous cherchiez?"
     }
 ]

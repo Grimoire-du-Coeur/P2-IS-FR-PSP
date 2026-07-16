@@ -13,7 +13,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Leave[SP]me[SP]to[SP]deal[SP]with[SP]this[SP]fine[SP]honey.\nI'll[SP]have[SP]her[SP]wrapped[SP]around[SP]my[SP]finger[SP]in\nno[SP]time[SP]with[SP]my[SP]can't-miss[SP]schmoozing.",
         "nom_fr": "Michel",
-        "texte_fr": "Laissez-moi gérer cette perle.\nJe l'aurai dans ma poche en deux temps,\ntrois mouvements avec mon baratin [1205][U+000F]\ninfaillible."
+        "texte_fr": "Laissez-moi gérer cette perle. Je l'aurai\ndans ma poche en deux temps, trois\nmouvements avec mon baratin [1205][U+000F] infaillible."
     },
     {
         "id": 1,
@@ -77,7 +77,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "What's[SP]the[SP]matter,[SP][1113]?[1205][001E]\nHuh?[SP]That[SP]sound...",
         "nom_fr": "Yukino",
-        "texte_fr": "Quoi de neuf, [1113]?[1205][001E]\nHein? Ce bruit..."
+        "texte_fr": "Quoi de neuf, [1113]?[1205][001E] Hein? Ce bruit..."
     },
     {
         "id": 5,
@@ -93,7 +93,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Here[SP]they[SP]are![SP]A[SP][E4][NULL][NULL][U+0006]riddle[E4][NULL][NULL][0002][SP]and[SP]a[SP][E4][NULL][NULL][U+0006]remote\ntransmitter[E4][NULL][NULL][0002]!",
         "nom_fr": "Maya",
-        "texte_fr": "Là! Une [E4][NULL][NULL][U+0006]énigme[E4][NULL][NULL][0002] et un [E4][NULL][NULL][U+0006]détonateur à distance[E4][NULL][NULL][0002]\n!"
+        "texte_fr": "Là! Une [E4][NULL][NULL][U+0006]énigme[E4][NULL][NULL][0002] et un [E4][NULL][NULL][U+0006]détonateur à distance[E4][NULL][NULL][0002] !"
     },
     {
         "id": 6,
@@ -189,7 +189,7 @@
         "nom_orig": "Maya",
         "texte_orig": "E-Excuse[SP]me![SP]That[SP]transmitter[SP]in[SP]your\npail...[SP]Where[SP]did[SP]you[SP]find[SP]it!?",
         "nom_fr": "Maya",
-        "texte_fr": "Excusez moi! Ce détonateur dans votre \nseau... Où l'avez-vous trouvé!?"
+        "texte_fr": "Excusez moi! Ce détonateur dans votre\nseau... Où l'avez-vous trouvé!?"
     },
     {
         "id": 12,
@@ -205,7 +205,7 @@
         "nom_orig": "Cleaning[SP]lady",
         "texte_orig": "Oh,[SP]this[SP]clock?[SP]I[SP]fished[SP]it[SP]out[SP]of[SP]the[SP]trash\nin[SP]the[SP]men's[SP]room[SP]a[SP]minute[SP]ago.[SP]Perfectly\ngood[SP]clock,[SP]don't[SP]know[SP]why[SP]it[SP]was[SP]there...",
         "nom_fr": "Femme de ménage",
-        "texte_fr": "Cette pendule? Je l'ai sortie de la \npoubelle\ndes toilettes des hommes. En parfait état,[1205][U+000F]\npourquoi elle était là..."
+        "texte_fr": "Cette pendule? Je l'ai sortie de la\npoubelle des toilettes des hommes. En\nparfait état,[1205][U+000F] pourquoi elle était là..."
     },
     {
         "id": 13,
@@ -221,7 +221,7 @@
         "nom_orig": "Maya",
         "texte_orig": "That's[SP]not[SP]a[SP]clock![SP]It's[SP]a[SP]timed[SP]detonator\nfor[SP]a[SP]bomb![SP]You[SP]need[SP]to[SP]give[SP]that[SP]to[SP]us\nright[SP]away!",
         "nom_fr": "Maya",
-        "texte_fr": "C'est un détonateur à minuterie pour \nbombe! Donnez-le-nous vite!"
+        "texte_fr": "C'est un détonateur à minuterie\npour bombe! Donnez-le-nous vite!"
     },
     {
         "id": 14,
@@ -237,7 +237,7 @@
         "nom_orig": "Cleaning[SP]lady",
         "texte_orig": "What[SP]nonsense[SP]is[SP]this[SP]now?[SP]You[SP]just[SP]want\nmy[SP]clock![SP]Well,[SP]too[SP]bad,[SP]because[SP]you're[SP]not\nfooling[SP]me!",
         "nom_fr": "Femme de ménage",
-        "texte_fr": "Balivernes! Vous voulez ma pendule.\nVous ne m'aurez pas!"
+        "texte_fr": "Balivernes! Vous voulez ma\npendule. Vous ne m'aurez pas!"
     },
     {
         "id": 15,
@@ -285,7 +285,7 @@
         "nom_orig": "Cleaning[SP]lady",
         "texte_orig": "A[SP]man[SP]in[SP]the[SP]women's[SP]stalls!?[SP]How[SP]dare[SP]you!\nGet[SP]out[SP]of[SP]there,[SP]you[SP]pig!",
         "nom_fr": "Femme de ménage",
-        "texte_fr": "Un homme aux toilettes des femmes!? \nComment osez vous!\nDehors!"
+        "texte_fr": "Un homme aux toilettes des femmes!?\nComment osez vous! Dehors!"
     },
     {
         "id": 18,
@@ -317,7 +317,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "Looks[SP]like[SP]an[SP]assassin[SP]from[SP]the[SP]Masked\nCircle.[SP]Careful,[SP]everyone!",
         "nom_fr": "Yukino",
-        "texte_fr": "On dirait un assassin du Cercle Masqué.\nAttention tout le monde!"
+        "texte_fr": "On dirait un assassin du Cercle\nMasqué. Attention tout le monde!"
     },
     {
         "id": 20,
@@ -333,7 +333,7 @@
         "nom_orig": "???",
         "texte_orig": "My[SP]name[SP]is[SP]Belphegor...[SP]the[SP]seeker[SP]of\nharmony[SP]on[SP]Earth,[SP]and[SP]Duke[SP]of[SP]Hell\npresiding[SP]over[SP]indolence...",
         "nom_fr": "???",
-        "texte_fr": "Mon nom est Belphegor, chercheur \nd'harmonie terrestre,\nDuc de l'Enfer, maître de la paresse..."
+        "texte_fr": "Mon nom est Belphegor, chercheur\nd'harmonie terrestre, Duc de\nl'Enfer, maître de la paresse..."
     },
     {
         "id": 21,
@@ -381,7 +381,7 @@
         "nom_orig": "Cosplayer[SP]girl",
         "texte_orig": "I[SP]am[SP]Ixquic,[SP]reincarnated[SP]warrior[SP]of[SP]the\nMasked[SP]Circle!",
         "nom_fr": "Cosplayeuse",
-        "texte_fr": "Je suis Ixquic, guerrière réincarnée du\nCercle Masqué!"
+        "texte_fr": "Je suis Ixquic, guerrière\nréincarnée du Cercle Masqué!"
     },
     {
         "id": 24,
@@ -397,7 +397,7 @@
         "nom_orig": "Ixquic",
         "texte_orig": "Heyyy,[SP]everyone![SP]The[SP]evil[SP]demon[SP]tamers[SP]are\nhere,[SP]just[SP]like[SP]the[SP]great[SP]King[SP]Leo's[SP]oracle\nsaid[SP]they'd[SP]be!",
         "nom_fr": "Ixquic",
-        "texte_fr": "Heeey, les gars! Les vils dompteurs de \ndémons sont\nlà, comme l'annonçait l'oracle du grand [1205][U+000F]\nRoi Lion!"
+        "texte_fr": "Heeey, les gars! Les vils dompteurs\nde démons sont là, comme l'annonçait\nl'oracle du grand [1205][U+000F] Roi Lion!"
     },
     {
         "id": 25,
@@ -413,7 +413,7 @@
         "nom_orig": "Leo[SP]troop",
         "texte_orig": "Glory[SP]to[SP]the[SP]Mask![E1][E2]\n[E3][E4][NULL][NULL]\"Ixquic\nYou[SP]fiendish[SP]demon[SP]tamers[SP]who[SP]seek[SP]to\ndestroy[SP]the[SP]world!",
         "nom_fr": "Troupe Leo",
-        "texte_fr": "Gloire au Masque![E1][E2]\n[E3][E4][NULL][NULL]\"Ixquic\nDompteurs de démons, vous voulez détruire [1205][U+000F]\nle monde!"
+        "texte_fr": "Gloire au Masque![E1][E2] [E3][E4][NULL][NULL]\"Ixquic Dompteurs de\ndémons, vous voulez détruire [1205][U+000F] le monde!"
     },
     {
         "id": 26,
@@ -477,7 +477,7 @@
         "nom_orig": "Ixquic",
         "texte_orig": "The[SP]magical[SP]warrior[SP]Ixquic,[SP]reincarnated\nsince[SP]time[SP]immemorial,[SP]will[SP]whoop[SP]your[SP]ass\nwith[SP]divine[SP]retribution!",
         "nom_fr": "Ixquic",
-        "texte_fr": "Moi, Ixquic, guerrière réincarnée,\nje vais vous botter le cul par rétribution\ndivine!"
+        "texte_fr": "Moi, Ixquic, guerrière réincarnée, je vais\nvous botter le cul par rétribution divine!"
     },
     {
         "id": 30,
@@ -493,7 +493,7 @@
         "nom_orig": "Ixquic",
         "texte_orig": "Demon[SP]tamers![SP]Be[SP]banished[SP]to[SP]the[SP]darkness\nfrom[SP]whence[SP]you[SP]came!",
         "nom_fr": "Ixquic",
-        "texte_fr": "Dompteurs! Retournez aux ténèbres d'où \nvous venez!"
+        "texte_fr": "Dompteurs! Retournez aux\nténèbres d'où vous venez!"
     },
     {
         "id": 31,
@@ -525,7 +525,7 @@
         "nom_orig": "Belphegor",
         "texte_orig": "Master...[SP]It[SP]seems[SP]they're[SP]paying[SP]us[SP]no[SP]heed.",
         "nom_fr": "Belphegor",
-        "texte_fr": "Maître... Ils semblent ne pas nous \nécouter."
+        "texte_fr": "Maître... Ils semblent ne pas nous écouter."
     },
     {
         "id": 33,
@@ -541,7 +541,7 @@
         "nom_orig": "Ixquic",
         "texte_orig": "YO![SP]DEMON[SP]TAMERS![SP]Don't[SP]turn[SP]your[SP]back[SP]on\na[SP]reincarnated[SP]warrior[SP]of[SP]the[SP]Masked[SP]Circle!",
         "nom_fr": "Ixquic",
-        "texte_fr": "HÉ! Ne fuyez pas une guerrière du Cercle \nMasqué!"
+        "texte_fr": "HÉ! Ne fuyez pas une\nguerrière du Cercle Masqué!"
     },
     {
         "id": 34,
@@ -557,7 +557,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Be[SP]a[SP]good[SP]girl[SP]and[SP]don't[SP]get[SP]in[SP]our[SP]way,\nm'kay,[SP]sweetie?[SP]You[SP]should[SP]hurry[SP]out[SP]of\nhere[SP]too!",
         "nom_fr": "Maya",
-        "texte_fr": "Sois une fille sage et ne nous gêne pas.\nToi aussi, va-t'en vite!"
+        "texte_fr": "Sois une fille sage et ne nous\ngêne pas. Toi aussi, va-t'en vite!"
     },
     {
         "id": 35,
@@ -573,7 +573,7 @@
         "nom_orig": "Ixquic",
         "texte_orig": "Did[SP]you[SP]hear[SP]that,[SP]Belphie!?[SP]This[SP]old[SP]hag\nis[SP]treating[SP]a[SP]magical[SP]warrior[SP]like[SP]a[SP]plain\nol'[SP]little[SP]girl!",
         "nom_fr": "Ixquic",
-        "texte_fr": "T'entends, Belphie? La vieille me prend \npour une gamine!"
+        "texte_fr": "T'entends, Belphie? La vieille\nme prend pour une gamine!"
     },
     {
         "id": 36,
@@ -605,7 +605,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Hoisamuro![SP]You[SP]did[SP]it![SP]That's[SP]our[SP][1113]!\nI[SP]knew[SP]you[SP]could[SP]do[SP]it!",
         "nom_fr": "Ginko",
-        "texte_fr": "Yay! T'as réussi! C'est notre [1113]!\nJe le savais!"
+        "texte_fr": "Yay! T'as réussi! C'est\nnotre [1113]! Je le savais!"
     },
     {
         "id": 38,
@@ -621,7 +621,7 @@
         "nom_orig": "Belphegor",
         "texte_orig": "Looks[SP]like[SP]they've[SP]disabled[SP]the[SP]transmitter\nafter[SP]all![SP]What[SP]should[SP]we[SP]do,[SP]Master?",
         "nom_fr": "Belphegor",
-        "texte_fr": "On dirait qu'ils ont désamorcé le \ndétonateur\nfinalement! Que fait-on, Maître?"
+        "texte_fr": "On dirait qu'ils ont désamorcé le\ndétonateur finalement! Que fait-on, Maître?"
     },
     {
         "id": 39,
@@ -637,7 +637,7 @@
         "nom_orig": "Ixquic",
         "texte_orig": "...[1205][001E]Now[SP]I'm[SP]mad![SP]If[SP]that's[SP]how[SP]it's[SP]gonna\nbe,[SP]I'll[SP]blow[SP]the[SP]whole[SP]building[SP]with[SP]this\nremote[SP]transmitter!",
         "nom_fr": "Ixquic",
-        "texte_fr": "...[1205][001E]J'suis en colère! Je fais tout sauter \navec ce détonateur!"
+        "texte_fr": "...[1205][001E] J'suis en colère! Je fais\ntout sauter avec ce détonateur!"
     },
     {
         "id": 40,
@@ -653,7 +653,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Stop[SP]that[SP]right[SP]now![SP]If[SP]this[SP]building[SP]goes,\nyou'll[SP]die[SP]along[SP]with[SP]it!",
         "nom_fr": "Maya",
-        "texte_fr": "Arrête ça tout de suite! Si l'immeuble \nsaute,\ntu mourras avec lui!"
+        "texte_fr": "Arrête ça tout de suite! Si l'immeuble\nsaute, tu mourras avec lui!"
     },
     {
         "id": 41,
@@ -685,7 +685,7 @@
         "nom_orig": "Ixquic",
         "texte_orig": "My[SP]family[SP]and[SP]classes[SP]are[SP]all[SP]just[SP]a[SP]pain...[1205][001E]\nThere's[SP]nothing[SP]good[SP]about[SP]being[SP]alive!",
         "nom_fr": "Ixquic",
-        "texte_fr": "Ma famille, les cours, tout est chiant...[1205][001E]\nY a rien de bien dans la vie!"
+        "texte_fr": "Ma famille, les cours, tout est\nchiant...[1205][001E] Y a rien de bien dans la vie!"
     },
     {
         "id": 43,
@@ -701,7 +701,7 @@
         "nom_orig": "Ixquic",
         "texte_orig": "The[SP]reincarnated[SP]warrior[SP]Ixquic[SP]lives[SP]for\njustice,[SP]and[SP]she'll[SP]die[SP]for[SP]it[SP]too!\nOnly[SP]that[SP]will[SP]satisfy[SP]me!",
         "nom_fr": "Ixquic",
-        "texte_fr": "La guerrière réincarnée Ixquic vit et \nmourra pour la justice.\nC'est ma seule joie!"
+        "texte_fr": "La guerrière réincarnée Ixquic vit et mourra\npour la justice. C'est ma seule joie!"
     },
     {
         "id": 44,
@@ -717,7 +717,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Don't...[1205][001E][SP]Don't[SP]you[SP]ever[SP]treat[SP]death[SP]like\na[SP]joke!",
         "nom_fr": "Maya",
-        "texte_fr": "Ne...[1205][001E] Ne prends jamais la mort à la \nlégère!"
+        "texte_fr": "Ne...[1205][001E] Ne prends jamais la mort à la légère!"
     },
     {
         "id": 45,
@@ -733,7 +733,7 @@
         "nom_orig": "Maya",
         "texte_orig": "You[SP]have[SP]the[SP]power[SP]to[SP]change[SP]your[SP]own\nenvironment![SP]Your[SP]own[SP]future!",
         "nom_fr": "Maya",
-        "texte_fr": "Tu peux changer ton environnement, ton \navenir!"
+        "texte_fr": "Tu peux changer ton environnement, ton avenir!"
     },
     {
         "id": 46,
@@ -749,7 +749,7 @@
         "nom_orig": "Maya",
         "texte_orig": "Shrugging[SP]that[SP]off[SP]and[SP]saying[SP]you'd[SP]rather\ndie[SP]just[SP]shows[SP]how[SP]immature[SP]you[SP]are!",
         "nom_fr": "Maya",
-        "texte_fr": "Ignorer ça et dire que tu préfères mourir,\nça montre juste ton immaturité!"
+        "texte_fr": "Ignorer ça et dire que tu préfères\nmourir, ça montre juste ton immaturité!"
     },
     {
         "id": 47,
@@ -781,6 +781,6 @@
         "nom_orig": "Ixquic",
         "texte_orig": "...NOT![SP]You're[SP]totally[SP]senile[SP]if[SP]you[SP]thought\nI'd[SP]listen[SP]to[SP]that![SP]My[SP]generation[SP]HATES\nbeing[SP]preached[SP]at!",
         "nom_fr": "Ixquic",
-        "texte_fr": "...NON! Tu es totalement sénile! Ma \ngénération déteste les sermons!"
+        "texte_fr": "... NON! Tu es totalement sénile!\nMa génération déteste les sermons!"
     }
 ]

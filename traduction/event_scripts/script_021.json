@@ -29,7 +29,7 @@
         "nom_orig": "Maya",
         "texte_orig": "No[SP]one[SP]knows[SP]where[SP]the[SP]exit[SP]is,[SP]huh...?[1205][001E]\nNo[SP]one[SP]knows...[SP]Hmm...",
         "nom_fr": "Maya",
-        "texte_fr": "Personne ne sait où est la\nsortie...[1205][001E] Hmm..."
+        "texte_fr": "Personne ne sait où est la sortie...[1205][001E] Hmm..."
     },
     {
         "id": 2,
@@ -45,7 +45,7 @@
         "nom_orig": "Maya",
         "texte_orig": "A[SP]mirror...[1205][001E][SP]One[SP]rumor[SP]that[SP]no[SP]one[SP]knows[SP]where\nthe[SP]exit[SP]is,[SP]and[SP]one[SP]about[SP]someone[SP]escaping\nwith[SP]a[SP]mirror...",
         "nom_fr": "Maya",
-        "texte_fr": "Un miroir...[1205][001E] Une rumeur dit\nque la sortie est inconnue, l'autre qu'on\npeut fuir avec un miroir..."
+        "texte_fr": "Un miroir...[1205][001E] Une rumeur dit que\nla sortie est inconnue, l'autre\nqu'on peut fuir avec un miroir..."
     },
     {
         "id": 3,
@@ -61,7 +61,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "There's[SP]a[SP]door,[SP]but[SP]there's[SP]no[SP]way[SP]it's[SP]the\nexit.[1205][001E][SP]The[SP]rumor[SP]is[SP]that[SP]no[SP]one[SP]knows[SP]where\nthe[SP]exit[SP]is...",
         "nom_fr": "Eikichi",
-        "texte_fr": "Y'a une porte, mais ça peut pas\nêtre la sortie.[1205][001E] La rumeur dit\nque personne ne la connaît..."
+        "texte_fr": "Y'a une porte, mais ça peut pas être la\nsortie.[1205][001E] La rumeur dit que personne ne la\nconnaît..."
     },
     {
         "id": 4,
@@ -77,7 +77,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Noooooo![SP]Here[SP]again!?[SP]There's[SP]no[SP]exit\nanywhere!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Nooon! Ici aussi!? Il y a la sortie\nnulle part!"
+        "texte_fr": "Nooon! Ici aussi!? Il y\na la sortie nulle part!"
     },
     {
         "id": 5,
@@ -93,7 +93,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "There[SP]was[SP]that[SP]rumor[SP]that[SP]someone[SP]with[SP]a\nmirror[SP]got[SP]out,[SP]but...[1205][001E][SP]If[SP]there's[SP]no[SP]exit,\nwe're[SP]screwed.[1205][001E][SP]Could[SP]this[SP]be[SP]it[SP]for[SP]us...?",
         "nom_fr": "Eikichi",
-        "texte_fr": "Il y a la rumeur de celui qui a fui avec\nun miroir, mais...[1205][001E] Sans sortie, on est\nfoutus.[1205][001E] C'est la fin pour nous...?"
+        "texte_fr": "Il y a la rumeur de celui qui a fui\navec un miroir, mais...[1205][001E] Sans sortie, on\nest foutus.[1205][001E] C'est la fin pour nous...?"
     },
     {
         "id": 6,
@@ -125,7 +125,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Houshounah...[SP]I'm[SP]so[SP]thirsty,[SP][1113]...\nBut[SP]I[SP]don't[SP]wanna[SP]drink[SP]that[SP]gross[SP]water!",
         "nom_fr": "Ginko",
-        "texte_fr": "Houshounah... J'ai soif, [1113]...\nMais je boirai pas cette\neau dégueu!"
+        "texte_fr": "Houshounah... J'ai soif, [1113]...\nMais je boirai pas cette eau dégueu!"
     },
     {
         "id": 8,
@@ -141,7 +141,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "*gulp*[SP]Maybe...[1205][001E][SP]Wait,[SP]no![SP]Ugh![SP]I'd[SP]die[SP]if\nI[SP]drank[SP]something[SP]that[SP]nasty!",
         "nom_fr": "Ginko",
-        "texte_fr": "*glou* Peut-être...[1205][001E] Non! Agh!\nJe préfère mourir que\nboire ce truc!"
+        "texte_fr": "*glou* Peut-être...[1205][001E] Non! Agh! Je\npréfère mourir que boire ce truc!"
     },
     {
         "id": 9,
@@ -173,7 +173,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "*sigh*[SP]Don't[SP]be[SP]such[SP]a[SP]lightweight.[SP]Relax...[1205][001E]\nYou[SP]can[SP]tell[SP]by[SP]the[SP]bugs[SP]in[SP]it[SP]that[SP]this\nwater's[SP]perfectly[SP]drinkable.",
         "nom_fr": "Yukino",
-        "texte_fr": "*soupire* Ne fais pas ta chochotte.\nRelax...[1205][001E] Vu les insectes qui\ny nagent, cette eau est très saine."
+        "texte_fr": "*soupire* Ne fais pas ta chochotte.\nRelax...[1205][001E] Vu les insectes qui y\nnagent, cette eau est très saine."
     },
     {
         "id": 11,
@@ -189,7 +189,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "I[SP]think[SP]we[SP]might've[SP]underestimated[SP]that[SP]Yasuo\nguy...[1205][001E][SP]The[SP]bedrock's[SP]thick[SP]enough[SP]that[SP]we\ncan't[SP]dig[SP]our[SP]way[SP]out[SP]with[SP]our[SP]Personas.",
         "nom_fr": "Yukino",
-        "texte_fr": "Je crois qu'on a sous-estimé ce Yasuo...[1205][001E]\nLe sol est assez épais pour nous empêcher\nde creuser avec nos Personae."
+        "texte_fr": "Je crois qu'on a sous-estimé ce Yasuo...[1205][001E]\nLe sol est assez épais pour nous\nempêcher de creuser avec nos Personae."
     },
     {
         "id": 12,
@@ -205,6 +205,6 @@
         "nom_orig": "Maya",
         "texte_orig": "[1113]-kun,[SP]isn't[SP]that[SP]the[SP]door[SP]we[SP]came\nthrough[SP]a[SP]minute[SP]ago?[SP]Let's[SP]try[SP]going[SP]out\nthrough[SP]the[SP]other[SP]door.",
         "nom_fr": "Maya",
-        "texte_fr": "[1113]-kun, n'est-ce pas la porte par\nlaquelle on vient de passer? Essayons de \nsortir par[1205][U+000F]\nl'autre porte."
+        "texte_fr": "[1113]-kun, n'est-ce pas la porte\npar laquelle on vient de passer?\nEssayons de sortir par[1205][U+000F] l'autre porte."
     }
 ]

@@ -12,7 +12,7 @@
         "nom_orig": "Eikichi's[SP]voice",
         "texte_orig": "Ladies[SP]aaaaand[SP]gentlemeeeeen![SP]Our[SP]show[SP]for\nyou[SP]tonight[SP]iiiiis...!",
         "nom_fr": "Voix d'Eikichi",
-        "texte_fr": "Mesdames et messieuuuurs! Au programme ce \nsoiiiir..."
+        "texte_fr": "Mesdames et messieuuuurs!\nAu programme ce soiiiir..."
     },
     {
         "id": 1,
@@ -28,7 +28,7 @@
         "nom_orig": "Eikichi's[SP]voice",
         "texte_orig": "A[SP]romantic[SP]farce[SP]starring[SP]the[SP]incredible,\nunbelievable[SP]blockhead,[SP]Eikichi-kun!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko's[SP]voice\nWhat's[SP]with[SP]you?[SP]The[SP]rest[SP]of[SP]us[SP]already[SP]know\nwhat[SP]a[SP]blockhead[SP]you[SP]are,[SP]y'know...",
         "nom_fr": "Voix d'Eikichi",
-        "texte_fr": "La romance pathétique de l'incroyable \nabruti,\nEikichiiii![1205][U+000F]\n[E1][E2]\n[E3][E4][NULL][NULL]\"Voix de Ginko\nNon mais ça va pas? On sait[1205][U+000F]\ndéjà que t'es un abruti fini..."
+        "texte_fr": "La romance pathétique de l'incroyable abruti,\nEikichiiii![1205][U+000F] [E1][E2] [E3][E4][NULL][NULL]\"Voix de Ginko Non mais ça va\npas? On sait[1205][U+000F] déjà que t'es un abruti fini..."
     },
     {
         "id": 2,
@@ -44,7 +44,7 @@
         "nom_orig": "Eikichi's[SP]voice",
         "texte_orig": "You[SP]idiot![SP]Why[SP]would[SP]I[SP]say[SP]that[SP]about[SP]myself!?",
         "nom_fr": "Voix d'Eikichi",
-        "texte_fr": "Idiote! Pourquoi je m'insulterais \nmoi-même!?"
+        "texte_fr": "Idiote! Pourquoi je m'insulterais moi-même!?"
     },
     {
         "id": 3,
@@ -92,7 +92,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "What[SP]is[SP]this!?[SP]What's[SP]going[SP]on!?[SP]Why[SP]are[SP]you\nwith[SP]that[SP]fake...?[1205][001E][SP]A-And[SP]you've[SP]lost[SP]weight...",
         "nom_fr": "Eikichi",
-        "texte_fr": "Il se passe quoi, bon sang?! Pourquoi\nt'es avec\nmon ombre...?[1205][001E] T-t'as maigri, d'ailleurs..."
+        "texte_fr": "Il se passe quoi, bon sang?! Pourquoi t'es\navec mon ombre...?[1205][001E] T-t'as maigri,\nd'ailleurs..."
     },
     {
         "id": 6,
@@ -108,7 +108,7 @@
         "nom_orig": "Shadow[SP]Eikichi",
         "texte_orig": "Ms.[SP]Miyabi[SP]here[SP]joined[SP]the[SP]Masked[SP]Circle!\nBut[SP]whoa[SP]there![SP]Don't[SP]jump[SP]down[SP]her[SP]throat!\nYou're[SP]the[SP]one[SP]that[SP]drove[SP]her[SP]to[SP]it.",
         "nom_fr": "Ombre d'Eikichi",
-        "texte_fr": "Mme Miyabi ci-présente a rejoint le Cercle\nMasqué!\nMais du calme! C'est ta faute, donc ne[1205][U+000F]\nsoit pas trop dur avec elle."
+        "texte_fr": "Mme Miyabi ci-présente a rejoint le Cercle\nMasqué! Mais du calme! C'est ta faute,\ndonc ne[1205][U+000F] soit pas trop dur avec elle."
     },
     {
         "id": 7,
@@ -140,7 +140,7 @@
         "nom_orig": "Miyabi",
         "texte_orig": "I'm[SP]sorry,[SP]Eikichi-kun...![1205][001E][SP]Ever[SP]since[SP]I[SP]was\nlittle,[SP]I...[1205][001E][SP]liked[SP]you...",
         "nom_fr": "Miyabi",
-        "texte_fr": "Je suis désolée, Eikichi![1205][001E] Depuis toute\npetite, Je...[1205][001E] je t'aimais..."
+        "texte_fr": "Je suis désolée, Eikichi![1205][001E] Depuis\ntoute petite, Je...[1205][001E] je t'aimais..."
     },
     {
         "id": 9,
@@ -156,7 +156,7 @@
         "nom_orig": "Miyabi",
         "texte_orig": "But...[SP]in[SP]public...[SP]I[SP]was[SP]so[SP]embarrassed...[1205][001E]\nI[SP]said[SP]such[SP]cruel[SP]things...[1205][001E][SP]I[SP]hurt[SP]you...",
         "nom_fr": "Miyabi",
-        "texte_fr": "Mais en public, j'avais trop honte...[1205][001E]\nJe t'ai blessé...[1205][001E] et dit des choses \natroces..."
+        "texte_fr": "Mais en public, j'avais trop honte...[1205][001E] Je\nt'ai blessé...[1205][001E] et dit des choses atroces..."
     },
     {
         "id": 10,
@@ -172,7 +172,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "B-But[SP]why[SP]did[SP]you[SP]join[SP]the[SP]Masked[SP]Circle...!?",
         "nom_fr": "Eikichi",
-        "texte_fr": "Mais pourquoi rejoindre le Cercle \nMasqué...!?"
+        "texte_fr": "Mais pourquoi rejoindre le Cercle Masqué...!?"
     },
     {
         "id": 11,
@@ -188,7 +188,7 @@
         "nom_orig": "Shadow[SP]Eikichi",
         "texte_orig": "No,[SP]no,[SP]no...[1205][001E][SP]You[SP]really[SP]don't[SP]understand\na[SP]lady's[SP]feelings,[SP]do[SP]you?",
         "nom_fr": "Ombre d'Eikichi",
-        "texte_fr": "Pff...[1205][001E]Tu ne comprend rien aux sentiments\nde cette dame, hein?"
+        "texte_fr": "Pff...[1205][001E] Tu ne comprend rien aux\nsentiments de cette dame, hein?"
     },
     {
         "id": 12,
@@ -204,7 +204,7 @@
         "nom_orig": "Shadow[SP]Eikichi",
         "texte_orig": "How[SP]would[SP]you[SP]feel[SP]if[SP]the[SP]guy[SP]you[SP]told,\n[1432][NULL][NULL][0014]I[SP]hate[SP]you[SP]because[SP]you're[SP]fat![1432][NULL][NULL][0014][SP]showed\nup[SP]again,[SP]much[SP]skinnier[SP]than[SP]you?",
         "nom_fr": "Ombre d'Eikichi",
-        "texte_fr": "Imagine la scène, le garçon à qui tu as \ndit,\n[1432][NULL][NULL][0014]Je te hais, gros lard![1432][NULL][NULL][0014] réapparaît,[1205][U+000F]\nbien plus svelte que toi?"
+        "texte_fr": "Imagine la scène, le garçon à qui tu\nas dit, [1432][NULL][NULL][0014]Je te hais, gros lard![1432][NULL][NULL][0014]\nréapparaît,[1205][U+000F] bien plus svelte que toi?"
     },
     {
         "id": 13,
@@ -220,7 +220,7 @@
         "nom_orig": "Shadow[SP]Eikichi",
         "texte_orig": "And[SP]not[SP]only[SP]that,[SP]he'd[SP]become[SP]insufferably\nsnide[SP]and[SP]hypocritically[SP]narcissistic.",
         "nom_fr": "Ombre d'Eikichi",
-        "texte_fr": "Et en plus, le voilà devenu horriblement \nsarcastique, hypocrite et narcissique."
+        "texte_fr": "Et en plus, le voilà devenu horriblement\nsarcastique, hypocrite et narcissique."
     },
     {
         "id": 14,
@@ -236,7 +236,7 @@
         "nom_orig": "Shadow[SP]Eikichi",
         "texte_orig": "Since[SP]she'd[SP]plumped[SP]up[SP]to[SP]make[SP]up[SP]for[SP]what\nshe[SP]did,[SP]she's[SP]too[SP]ashamed[SP]to[SP]show[SP]her[SP]face\nanymore.[SP]Get[SP]it?",
         "nom_fr": "Ombre d'Eikichi",
-        "texte_fr": "Devenue enrobée dans l'espoir de se \nracheter,\nelle a maintenant trop honte pour te faire[1205][U+000F]\nface.\nPigé?"
+        "texte_fr": "Devenue enrobée dans l'espoir de se\nracheter, elle a maintenant trop\nhonte pour te faire[1205][U+000F] face. Pigé?"
     },
     {
         "id": 15,
@@ -252,7 +252,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Is[SP]that[SP]true...?[1205][001E][SP]You[SP]didn't[SP]want[SP]me[SP]to[SP]see\nyou...[1205][001E][SP]So[SP]you[SP]wouldn't[SP]tell[SP]me[SP]your[SP]name[SP]and\navoided[SP]me[SP]all[SP]the[SP]time...",
         "nom_fr": "Eikichi",
-        "texte_fr": "C'est vrai...?[1205][001E] Tu m'a évité, et tu n'a pas\nvoulu me donner ton nom...[1205][001E]Pour que je ne \nte reconnaisse pas..."
+        "texte_fr": "C'est vrai...?[1205][001E] Tu m'a évité, et tu\nn'a pas voulu me donner ton nom...[1205][001E]\nPour que je ne te reconnaisse pas..."
     },
     {
         "id": 16,
@@ -284,7 +284,7 @@
         "nom_orig": "Shadow[SP]Eikichi",
         "texte_orig": "And[SP]look[SP]how[SP]beautiful[SP]you've[SP]become!\nYou're[SP]my[SP]brown-eyed[SP]girl[SP]now![1205][001E]",
         "nom_fr": "Ombre d'Eikichi",
-        "texte_fr": "Regarde-toi! Tu es devenue ma jolie copine\naux yeux marrons![1205][001E]"
+        "texte_fr": "Regarde-toi! Tu es devenue ma\njolie copine aux yeux marrons![1205][001E]"
     },
     {
         "id": 18,
@@ -300,7 +300,7 @@
         "nom_orig": "Shadow[SP]Eikichi",
         "texte_orig": "Forget[SP]this[SP]heartless[SP]dick.[SP]He[SP]said[SP]he\ncan't[SP]forgive[SP]you[SP]anyway...",
         "nom_fr": "Ombre d'Eikichi",
-        "texte_fr": "Oublie ce sale con insensible. Il ne te \npardonnera jamais..."
+        "texte_fr": "Oublie ce sale con insensible.\nIl ne te pardonnera jamais..."
     },
     {
         "id": 19,

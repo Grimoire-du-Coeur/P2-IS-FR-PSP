@@ -29,7 +29,7 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "Pleeeease![SP]We[SP]really[SP]want[SP]your[SP]autograph!",
         "nom_fr": "Lycéenne",
-        "texte_fr": "Steuplééé! On veut vraiment ton \nautographe!"
+        "texte_fr": "Steuplééé! On veut vraiment ton autographe!"
     },
     {
         "id": 2,
@@ -125,7 +125,7 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "C'mon,[SP]don't[SP]play[SP]dumb.[1205][U+000F][SP]It[SP]was[SP]so[SP]obvious\nby[SP]that[SP]poster!",
         "nom_fr": "Lycéenne",
-        "texte_fr": "Roh, fais pas genre.[1205][U+000F] C'était tellement\névident sur l'affiche!"
+        "texte_fr": "Roh, fais pas genre.[1205][U+000F] C'était\ntellement évident sur l'affiche!"
     },
     {
         "id": 8,
@@ -141,7 +141,7 @@
         "nom_orig": "Male[SP]student",
         "texte_orig": "Congrats[SP]on[SP]your[SP]public[SP]debut![1205][U+000F][SP]So[SP]when's[SP]the\nbig[SP]announcement?[1205][U+000F][SP]There's[SP]no[SP]sense[SP]keeping[SP]it\na[SP]secret[SP]between[SP]you[SP]three[SP]anymore...",
         "nom_fr": "Lycéen",
-        "texte_fr": "Bravo pour tes débuts sur scène![1205][U+000F] À quand\nla grande annonce?[1205][U+000F] Ça sert plus à rien de\ngarder le secret entre vous trois..."
+        "texte_fr": "Bravo pour tes débuts sur scène![1205][U+000F] À quand\nla grande annonce?[1205][U+000F] Ça sert plus à rien\nde garder le secret entre vous trois..."
     },
     {
         "id": 9,
@@ -157,7 +157,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Debut?[1205][U+000F][SP]Poster?[1205][U+000F][SP]Wait[SP]a[SP]second,[SP]what[SP]the[SP]hell\nare[SP]you[SP]talking[SP]about?",
         "nom_fr": "Ginko",
-        "texte_fr": "Débuts?[1205][U+000F] Affiche?[1205][U+000F] Une seconde, de quoi vous\nparlez au juste?"
+        "texte_fr": "Débuts?[1205][U+000F] Affiche?[1205][U+000F] Une seconde,\nde quoi vous parlez au juste?"
     },
     {
         "id": 10,
@@ -173,7 +173,7 @@
         "nom_orig": "Male[SP]student",
         "texte_orig": "Aww,[SP]okay...[1205][U+000F][SP]So[SP]you[SP]still[SP]gotta[SP]keep[SP]it\na[SP]secret.",
         "nom_fr": "Lycéen",
-        "texte_fr": "Oh, d'accord...[1205][U+000F] Tu vas garder ça secret\nalors."
+        "texte_fr": "Oh, d'accord...[1205][U+000F] Tu vas garder ça secret alors."
     },
     {
         "id": 11,
@@ -205,6 +205,6 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "We'll[SP]totally[SP]be[SP]rooting[SP]for[SP]you,[SP]though![1205][U+000F]\nI[SP]hope[SP]your[SP]group[SP]can[SP]help[SP]restore[SP]Sevens'\nreputation!",
         "nom_fr": "Lycéenne",
-        "texte_fr": "On va t'encourager à fond![1205][U+000F] J'espère que\nton groupe aidera à restaurer la \nréputation[1205][U+000F]\nde Seven!"
+        "texte_fr": "On va t'encourager à fond![1205][U+000F]\nJ'espère que ton groupe aidera à\nrestaurer la réputation[1205][U+000F] de Seven!"
     }
 ]

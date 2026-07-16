@@ -13,7 +13,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "What[SP]the[SP]hell!?[SP]If[SP]you[SP]want[SP]my[SP]emblem,[SP]come[SP]and\nget[SP]it[SP]yourself![SP]You[SP]just[SP]want[SP]other[SP]people[SP]to\nsolve[SP]your[SP]problems![E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nSheesh...[1205][001E][SP]How[SP]come[SP]I[SP]gotta[SP]deal[SP]with[SP]your\nschool's[SP]problems[SP]too?[1205][001E][SP]I'm[SP]too[SP]damn[SP]nice,\nis[SP]why.[SP]Don't[SP]you[SP]think?",
         "nom_fr": "Eikichi",
-        "texte_fr": "C'est quoi ce bordel!?[E1][E2] Si tu veux mon \ninsigne,\nviens le prendre! Tu veux juste que les [1205][U+000F]\nautres\nrèglent tes soucis!\n[E3][E4][NULL][NULL]\"Eikichi[1205][U+000F]\nPfff...[1205][001E] Pourquoi je dois gérer les\nproblèmes de ton bahut?[1205][001E] Je suis trop\nsympa. Vous trouvez pas?"
+        "texte_fr": "C'est quoi ce bordel!?[E1][E2] Si tu veux mon insigne,\nviens le prendre! Tu veux juste que les [1205][U+000F]\nautres règlent tes soucis! [E3][E4][NULL][NULL]\"Eikichi[1205][U+000F] Pfff...[1205][001E]\nPourquoi je dois gérer les problèmes de ton\nbahut?[1205][001E] Je suis trop sympa. Vous trouvez pas?"
     },
     {
         "id": 1,
@@ -45,7 +45,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Hey,[SP][1113],[SP]are[SP]all[SP]the[SP]dudes[SP]at[SP]your\nschool[SP]puffed-up[SP]candyasses[SP]like[SP]this!?[1205][001E]\nYou[SP]better[SP]get[SP]'em[SP]in[SP]line,[SP]like[SP]I[SP]do!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Hé, [1113], tous les mecs de ton lycée sont\ndes chochottes comme lui!?[1205][001E] Tu ferais\nbien de les recadrer, comme moi!"
+        "texte_fr": "Hé, [1113], tous les mecs de ton lycée\nsont des chochottes comme lui!?[1205][001E] Tu\nferais bien de les recadrer, comme moi!"
     },
     {
         "id": 3,
@@ -61,7 +61,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Gaaaah![SP]I[SP]can't[SP]stand[SP]this[SP]guy[SP]any[SP]longer!\nTransfer[SP]the[SP]son[SP]of[SP]a[SP]bitch[SP]to[SP]my[SP]school[SP]right\nnow[SP]and[SP]I'll[SP]straighten[SP]him[SP]out[SP]myself!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Raaaah! J'en peux plus de ce mec!\nTransférez cet enfoiré dans mon lycée tout\nde[1205][U+000F]\nsuite et je vais le redresser moi-même!"
+        "texte_fr": "Raaaah! J'en peux plus de ce mec!\nTransférez cet enfoiré dans mon lycée tout\nde[1205][U+000F] suite et je vais le redresser moi-même!"
     },
     {
         "id": 4,
@@ -77,7 +77,7 @@
         "nom_orig": "Lisa",
         "texte_orig": "It's[SP]not[SP]like[SP]whining[SP]and[SP]begging[SP]will[SP]keep\nthe[SP]curse[SP]away.[SP]What[SP]a[SP]dick.",
         "nom_fr": "Lisa",
-        "texte_fr": "Pleurnicher et supplier n'éloignera pas\nla malédiction. Quel con."
+        "texte_fr": "Pleurnicher et supplier n'éloignera\npas la malédiction. Quel con."
     },
     {
         "id": 5,
@@ -109,7 +109,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "If[SP]my[SP]face[SP]or[SP][1113]'s[SP]gets[SP]messed[SP]up,\nI'll[SP]mess[SP]yours[SP]up[SP]even[SP]worse!",
         "nom_fr": "Ginko",
-        "texte_fr": "Si mon visage ou celui de [1113] est\nruiné, je ruinerai le tien!"
+        "texte_fr": "Si mon visage ou celui de [1113]\nest ruiné, je ruinerai le tien!"
     },
     {
         "id": 7,
@@ -125,7 +125,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Hey,[SP]Undie[SP]Boss![SP]Don't[SP]treat[SP]us[SP]the[SP]same[SP]as\nthese[SP]idiots![SP]It's[SP]not[SP]like[SP][1113]'s[SP]the\nBoss[SP]of[SP]Sevens[SP]or[SP]anything!",
         "nom_fr": "Ginko",
-        "texte_fr": "Hé, Boss en slip! Ne nous traite pas\ncomme ces idiots! [1113] n'est pas\nle Boss de Seven!"
+        "texte_fr": "Hé, Boss en slip! Ne nous traite pas comme ces\nidiots! [1113] n'est pas le Boss de Seven!"
     },
     {
         "id": 8,
@@ -141,7 +141,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "Hey,[SP][1113]?[SP]You[SP]think[SP]the[SP]Undie[SP]Boss[SP]is\nsincere[SP]about[SP]being[SP]a[SP]leader?[1205][001E][SP]Guys[SP]like[SP]him\nare[SP]pretty[SP]rare[SP]these[SP]days.",
         "nom_fr": "Ginko",
-        "texte_fr": "[1113]? Le Boss en slip est un\nvrai leader?[1205][001E] Les mecs\ncomme lui sont rares de nos jours."
+        "texte_fr": "[1113]? Le Boss en slip est un vrai leader?[1205][001E]\nLes mecs comme lui sont rares de nos jours."
     },
     {
         "id": 9,
@@ -173,7 +173,7 @@
         "nom_orig": "Maya",
         "texte_orig": "I[SP]think[SP]Eikichi-kun[SP]wants[SP]to[SP]say[SP]the[SP]same\nthing[SP]as[SP]Yukki,[SP]he[SP]just[SP]doesn't[SP]know[SP]how\nto[SP]say[SP]it[SP]that[SP]well.",
         "nom_fr": "Maya",
-        "texte_fr": "Je pense qu'Eikichi-kun veut dire la\nmême chose que Yukki, il ne sait juste\npas comment le formuler."
+        "texte_fr": "Je pense qu'Eikichi-kun veut dire\nla même chose que Yukki, il ne sait\njuste pas comment le formuler."
     },
     {
         "id": 11,
@@ -189,7 +189,7 @@
         "nom_orig": "Maya",
         "texte_orig": "It[SP]used[SP]to[SP]be[SP]that[SP]a[SP]Boss[SP]was[SP]the[SP]law.[SP]He\ndrew[SP]the[SP]line,[SP]so[SP]things[SP]didn't[SP]go[SP]too[SP]far.[1205](\nI[SP]think[SP]Eikichi-kun[SP]is[SP]pretty[SP]cool!",
         "nom_fr": "Maya",
-        "texte_fr": "Avant, la loi c'était le Boss. Il fixait\nles limites pour ne pas aller trop\nloin.[1205]( Je trouve Eikichi-kun cool!"
+        "texte_fr": "Avant, la loi c'était le Boss. Il\nfixait les limites pour ne pas aller\ntrop loin.[1205]( Je trouve Eikichi-kun cool!"
     },
     {
         "id": 12,
@@ -221,7 +221,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "What[SP]good[SP]is[SP]some[SP]emblem[SP]gonna[SP]do[SP]you!?\nYou[SP]still[SP]got[SP]options.[1205]([SP]If[SP]you're[SP]gonna[SP]whine,\ndo[SP]it[SP]after[SP]you've[SP]exhausted[SP]them[SP]all!",
         "nom_fr": "Yukino",
-        "texte_fr": "À quoi va te servir un emblème!? Tu\nas d'autres options.[1205]( Si tu dois\npleurnicher, fais-le après les avoir[1205][U+000F]\ntoutes épuisées!"
+        "texte_fr": "À quoi va te servir un emblème!? Tu as\nd'autres options.[1205]( Si tu dois pleurnicher,\nfais-le après les avoir[1205][U+000F] toutes épuisées!"
     },
     {
         "id": 14,
@@ -237,7 +237,7 @@
         "nom_orig": "Yukino",
         "texte_orig": "Setting[SP]an[SP]example[SP]is[SP]a[SP]lot[SP]harder[SP]than[SP]it\nlooks.[1205][001E][SP]He[SP]may[SP]not[SP]seem[SP]like[SP]it,[SP]but[SP]I'm[SP]sure\nhe's[SP]been[SP]through[SP]a[SP]lot.",
         "nom_fr": "Yukino",
-        "texte_fr": "Montrer l'exemple est très dur.[1205][001E] Malgré\nles apparences, je suis sûre qu'il a vécu\nbeaucoup de choses."
+        "texte_fr": "Montrer l'exemple est très dur.[1205][001E]\nMalgré les apparences, je suis sûre\nqu'il a vécu beaucoup de choses."
     },
     {
         "id": 15,
@@ -253,7 +253,7 @@
         "nom_orig": "Male[SP]student",
         "texte_orig": "P-Please,[SP]Senpai![SP]Take[SP]that[SP]guy's[SP]Cuss[SP]High\nemblem![SP]If[SP]you[SP]give[SP]it[SP]to[SP]us,[SP]it[SP]should\nprotect[SP]us[SP]from[SP]the[SP]curse!",
         "nom_fr": "Lycéen",
-        "texte_fr": "Senpai, pitié! Prenez l'insigne du Lycée\nKakasu de ce gars! Si on l'a, ça\ndevrait nous protéger!"
+        "texte_fr": "Senpai, pitié! Prenez l'insigne\ndu Lycée Kakasu de ce gars! Si on\nl'a, ça devrait nous protéger!"
     },
     {
         "id": 16,
@@ -269,7 +269,7 @@
         "nom_orig": "Male[SP]student",
         "texte_orig": "You[SP]don't[SP]want[SP]to[SP]get[SP]sick[SP]either,[SP]do[SP]you?\nIt's[SP]not[SP]like[SP]he'll[SP]give[SP]it[SP]to[SP]us[SP]if[SP]we[SP]ask\nnicely.[SP]C'mon,[SP]you're[SP]strong,[SP]you[SP]can[SP]do[SP]it!",
         "nom_fr": "Lycéen",
-        "texte_fr": "Vous voulez pas tomber malade non plus?\nIl nous le donnera pas gentiment.\nAllez, vous êtes fort, vous pouvez le [1205][U+000F]\nfaire!"
+        "texte_fr": "Vous voulez pas tomber malade non plus?\nIl nous le donnera pas gentiment. Allez,\nvous êtes fort, vous pouvez le [1205][U+000F] faire!"
     },
     {
         "id": 17,
@@ -285,7 +285,7 @@
         "nom_orig": "Ill[SP]male[SP]student",
         "texte_orig": "Waaaaah![SP]Noooo![1205][001E][SP]Th-The[SP]curse![SP]It's[SP]got[SP]me!\nTh-This[SP]is[SP]all[SP]your[SP]fault,[SP]Senpai!",
         "nom_fr": "Lycéen malade",
-        "texte_fr": "Waaah! Noooon![1205][001E] L-La malédiction\nm'a eu! C-C'est votre\nfaute, Senpai!"
+        "texte_fr": "Waaah! Noooon![1205][001E] L-La malédiction m'a\neu! C-C'est votre faute, Senpai!"
     },
     {
         "id": 18,
@@ -301,7 +301,7 @@
         "nom_orig": "Ill[SP]male[SP]student",
         "texte_orig": "Please[SP]let[SP]me[SP]have[SP]your[SP]emblem![SP]I[SP]can[SP]pay!\nJust[SP]name[SP]your[SP]price![SP]Please![SP]Pleeeeease!?",
         "nom_fr": "Lycéen malade",
-        "texte_fr": "Pitié, donnez-moi votre insigne!\nJe paierai le prix fort!\nPitié! Pitiééééééé!?"
+        "texte_fr": "Pitié, donnez-moi votre insigne! Je\npaierai le prix fort! Pitié! Pitiééééééé!?"
     },
     {
         "id": 19,
@@ -317,7 +317,7 @@
         "nom_orig": "Male[SP]student",
         "texte_orig": "The[SP]curse[SP]is[SP]lifted![SP]It's[SP]all[SP]thanks[SP]to[SP]the\nprincipal![SP]He's[SP]nothing[SP]like[SP]SOME[SP]people[SP]here\nwho[SP]are[SP]all[SP]talk.[SP]Isn't[SP]that[SP]so,[SP]Senpai?",
         "nom_fr": "Lycéen",
-        "texte_fr": "Malédiction levée! Tout ça grâce au\ndirlo! Rien à voir avec CERTAINS\nici qui ne font que parler.[1205][U+000F]\nN'est-ce pas, Senpai?"
+        "texte_fr": "Malédiction levée! Tout ça grâce au\ndirlo! Rien à voir avec CERTAINS ici qui\nne font que parler.[1205][U+000F] N'est-ce pas, Senpai?"
     },
     {
         "id": 20,
@@ -333,7 +333,7 @@
         "nom_orig": "Male[SP]student",
         "texte_orig": "The[SP]curse[SP]is[SP]lifted![SP]It's[SP]all[SP]thanks[SP]to[SP]the\nprincipal![SP]If[SP]only[SP]a[SP]certain[SP]someone[SP]who's\nall[SP]talk[SP]had[SP]died[SP]in[SP]his[SP]place.[SP]Eh,[SP]Senpai?",
         "nom_fr": "Lycéen",
-        "texte_fr": "Malédiction levée! C'est grâce au\ndirlo! Si seulement un certain\nbeau parleur était mort à[1205][U+000F]\nsa place. Hein, Senpai?"
+        "texte_fr": "Malédiction levée! C'est grâce au dirlo!\nSi seulement un certain beau parleur\nétait mort à[1205][U+000F] sa place. Hein, Senpai?"
     },
     {
         "id": 21,
@@ -365,7 +365,7 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "W-We[SP]need[SP]to[SP]destroy[SP]the[SP]emblems![SP]I-I[SP]can't\nget[SP]sick![SP]There's[SP]no[SP]way[SP]I'm[SP]letting[SP]my\nboyfriend[SP]see[SP]me[SP]all[SP]bandaged[SP]up!",
         "nom_fr": "Lycéenne",
-        "texte_fr": "O-On doit détruire les emblèmes! J-Je peux\npas tomber malade! Hors de question que\nmon copain me voie toute bandée!"
+        "texte_fr": "O-On doit détruire les emblèmes! J-Je\npeux pas tomber malade! Hors de question\nque mon copain me voie toute bandée!"
     },
     {
         "id": 23,
@@ -381,7 +381,7 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "You[SP]destroyed[SP]the[SP]last[SP]emblem[SP]here![SP]Now[SP]go\ndestroy[SP]the[SP]ones[SP]in[SP]the[SP]other[SP]rooms!",
         "nom_fr": "Lycéenne",
-        "texte_fr": "Dernier insigne détruit ici!\nAllez détruire ceux des\nautres pièces!"
+        "texte_fr": "Dernier insigne détruit ici! Allez\ndétruire ceux des autres pièces!"
     },
     {
         "id": 24,
@@ -397,7 +397,7 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "Gotta[SP]hurry...[1205][U+0008][SP]Gotta[SP]hurry...[1205][U+000A][SP]Umm,[SP]where[SP]else\ndid[SP]I[SP]see[SP]'em?[1205][U+000F][SP]Oh,[SP]right,[SP]the[SP]teachers'\nlounge![1205][U+000F][SP]There's[SP]emblems[SP]there[SP]too!",
         "nom_fr": "Lycéenne",
-        "texte_fr": "Faut se dépêcher...[1205][U+0008] Vite...[1205][U+000A] Euh, où en\nai-je vu d'autres?[1205][U+000F] Ah, la salle\ndes profs![1205][U+000F] Y'a des insignes là-bas!"
+        "texte_fr": "Faut se dépêcher...[1205][U+0008] Vite...[1205][U+000A] Euh, où\nen ai-je vu d'autres?[1205][U+000F] Ah, la salle\ndes profs![1205][U+000F] Y'a des insignes là-bas!"
     },
     {
         "id": 25,
@@ -413,7 +413,7 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "If[SP]you[SP]don't[SP]hurry,[SP]I'll[SP]get[SP]sick[SP]too![1205][U+000A]\nPlease[SP]go[SP]destroy[SP]the[SP]emblems[SP]in[SP]the\nteachers'[SP]lounge!",
         "nom_fr": "Lycéenne",
-        "texte_fr": "Dépêchez-vous ou je serai malade![1205][U+000A]\nAllez détruire les insignes\ndans la salle des profs!"
+        "texte_fr": "Dépêchez-vous ou je serai malade![1205][U+000A] Allez\ndétruire les insignes dans la salle des profs!"
     },
     {
         "id": 26,
@@ -429,7 +429,7 @@
         "nom_orig": "Ill[SP]female[SP]student",
         "texte_orig": "It's[SP]all[SP]over...[SP]I'm[SP]gonna[SP]get[SP]dumped[SP]for\nsure...[SP]*sniffle*[SP]I[SP]know![SP]I[SP]can[SP]ask[SP]Joker\nto[SP]fix[SP]this...",
         "nom_fr": "Lycéenne malade",
-        "texte_fr": "C'est fini... Il va me larguer...\n[ONOMATOPÉE] Je sais! Le Joker\npeut arranger ça..."
+        "texte_fr": "C'est fini... Il va me larguer... [ONOMATOPÉE]\nJe sais! Le Joker peut arranger ça..."
     },
     {
         "id": 27,
@@ -477,7 +477,7 @@
         "nom_orig": "Bandaged[SP]male[SP]student",
         "texte_orig": "Oh,[SP]I[SP]get[SP]it![SP]You[SP]two[SP]are[SP]bros[SP]now.[SP]Sounds[SP]like\nthe[SP]rumors[SP]about[SP]your[SP]exploits[SP]are[SP]true!",
         "nom_fr": "Lycéen bandé",
-        "texte_fr": "Oh, je pige! Vous êtes potes maintenant.\nOn dirait que les rumeurs sur vos exploits\nsont vraies!"
+        "texte_fr": "Oh, je pige! Vous êtes potes\nmaintenant. On dirait que les rumeurs\nsur vos exploits sont vraies!"
     },
     {
         "id": 30,
@@ -493,7 +493,7 @@
         "nom_orig": "Bandaged[SP]male[SP]student",
         "texte_orig": "I[SP]just[SP]remembered[SP]something[SP]creepy,[SP]Senpai.\nThe[SP]janitor[SP]said[SP]before[SP]that[SP][1432][NULL][NULL][0014]the[SP]world[SP]will\nperish[SP]if[SP]the[SP]clock[SP]starts[1432][NULL][NULL][0014]!",
         "nom_fr": "Lycéen bandé",
-        "texte_fr": "Je viens de me rappeler un truc flippant,\nSenpai. Le concierge a dit avant que\n[1432][NULL][NULL][0014]le monde périra si l'horloge démarre[1432][NULL][NULL][0014]!"
+        "texte_fr": "Je viens de me rappeler un truc flippant,\nSenpai. Le concierge a dit avant que [1432][NULL][NULL][0014]le\nmonde périra si l'horloge démarre[1432][NULL][NULL][0014]!"
     },
     {
         "id": 31,
@@ -509,7 +509,7 @@
         "nom_orig": "Bandaged[SP]male[SP]student",
         "texte_orig": "I[SP]didn't[SP]believe[SP]him,[SP]of[SP]course,[SP]but[SP]look\nwhat's[SP]happened[SP]ever[SP]since[SP]it[SP]started[SP]ticking\nagain.[SP]Could[SP]it[SP]have[SP]been[SP]true...?",
         "nom_fr": "Lycéen bandé",
-        "texte_fr": "Je ne l'ai pas cru, bien sûr, mais\nregardez ce qui se passe depuis qu'elle\nrefait tic-tac. Se pourrait-il que[1205][U+000F]\nce soit vrai...?"
+        "texte_fr": "Je ne l'ai pas cru, bien sûr, mais regardez\nce qui se passe depuis qu'elle refait\ntic-tac. Se pourrait-il que[1205][U+000F] ce soit vrai...?"
     },
     {
         "id": 32,
@@ -541,7 +541,7 @@
         "nom_orig": "Male[SP]student",
         "texte_orig": "There's[SP]some[SP]guy[SP]called[SP]Toro[SP]who[SP]knows[SP]more\nabout[SP]it.[SP]But[SP]isn't[SP]Rosa[SP]Candida[SP]a[SP]boutique?\nSounds[SP]fishy[SP]to[SP]me...",
         "nom_fr": "Lycéen",
-        "texte_fr": "Y'a un gars nommé Toro qui en sait plus.\nMais Rosa Candida n'est pas une boutique?\nÇa me paraît louche..."
+        "texte_fr": "Y'a un gars nommé Toro qui en sait\nplus. Mais Rosa Candida n'est pas\nune boutique? Ça me paraît louche..."
     },
     {
         "id": 34,
@@ -557,7 +557,7 @@
         "nom_orig": "Bandaged[SP]female[SP]student",
         "texte_orig": "Ever[SP]since[SP]that[SP]clock[SP]started,[SP]the[SP]whole\nschool's[SP]like,[SP]panicking?[SP]I[SP]wanna[SP]leave,[SP]but\nthe[SP]principal[SP]says[SP]no?[SP]And[SP]I[SP]like[SP]him,[SP]so...?",
         "nom_fr": "Lycéenne bandée",
-        "texte_fr": "Depuis que l'horloge a démarré, genre,\ntout le bahut panique? Je veux partir,\nmais le dirlo a dit non? Et comme je[1205][U+000F]\nl'aime bien, alors...?"
+        "texte_fr": "Depuis que l'horloge a démarré, genre, tout le\nbahut panique? Je veux partir, mais le dirlo a\ndit non? Et comme je[1205][U+000F] l'aime bien, alors...?"
     },
     {
         "id": 35,
@@ -573,7 +573,7 @@
         "nom_orig": "Bandaged[SP]female[SP]student",
         "texte_orig": "It's[SP]like,[SP]everyone's[SP]looking[SP]for[SP]emblems?\nBut[SP]I'm[SP]like,[SP]who[SP]cares,[SP]'cause[SP]I'm[SP]cursed\nalready.[SP]Like,[SP]haha,[SP]you[SP]guys[SP]are[SP]screwed!",
         "nom_fr": "Lycéenne bandée",
-        "texte_fr": "Genre, tous cherchent des insignes?\nMoi je m'en fiche, je suis\ndéjà maudite. Genre, haha,[1205][U+000F]\nvous êtes tous foutus!"
+        "texte_fr": "Genre, tous cherchent des insignes? Moi\nje m'en fiche, je suis déjà maudite.\nGenre, haha,[1205][U+000F] vous êtes tous foutus!"
     },
     {
         "id": 36,
@@ -589,7 +589,7 @@
         "nom_orig": "Bandaged[SP]female[SP]student",
         "texte_orig": "This[SP]sucks[SP]like,[SP]pretty[SP]hardcore,[SP]but[SP]the\nprincipal[SP]told[SP]us[SP]to[SP]do[SP]it?[SP]It's[SP]like,[SP]whoa,\nI[SP]don't[SP]even[SP]know[SP]how[SP]to[SP]clean,[SP]y'know?",
         "nom_fr": "Lycéenne bandée",
-        "texte_fr": "C'est genre super nul, mais le dirlo nous \na\ndit de le faire? C'est genre, whoa, je [1205][U+000F]\nsais\nmême pas comment nettoyer, tu vois?"
+        "texte_fr": "C'est genre super nul, mais le dirlo nous\na dit de le faire? C'est genre, whoa, je [1205][U+000F]\nsais même pas comment nettoyer, tu vois?"
     },
     {
         "id": 37,
@@ -605,7 +605,7 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "So,[SP]like,[SP]the[SP]curse[SP]is[SP]gone?[SP]And[SP]I'm[SP]totally\ncute[SP]again?[SP]I'm[SP]super[SP]lucky[SP]and[SP]junk.",
         "nom_fr": "Lycéenne",
-        "texte_fr": "Genre, la malédiction est finie?\nJe suis de nouveau mignonne?\nJ'ai trop de bol."
+        "texte_fr": "Genre, la malédiction est finie? Je suis\nde nouveau mignonne? J'ai trop de bol."
     },
     {
         "id": 38,
@@ -621,7 +621,7 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "You[SP]destroyed[SP]the[SP]last[SP]emblem[SP]here![SP]Now[SP]go\ndestroy[SP]the[SP]ones[SP]in[SP]the[SP]other[SP]rooms!",
         "nom_fr": "Lycéenne",
-        "texte_fr": "Dernier insigne détruit ici!\nAllez détruire ceux des\nautres pièces!"
+        "texte_fr": "Dernier insigne détruit ici! Allez\ndétruire ceux des autres pièces!"
     },
     {
         "id": 39,
@@ -637,7 +637,7 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "Gotta[SP]hurry...[1205][U+0008][SP]Gotta[SP]hurry...[1205][U+000A][SP]Umm,[SP]where[SP]else\ndid[SP]I[SP]see[SP]'em?[1205][U+000F][SP]Oh,[SP]right,[SP]the[SP]teachers'\nlounge![1205][U+000F][SP]There's[SP]emblems[SP]there[SP]too!",
         "nom_fr": "Lycéenne",
-        "texte_fr": "Faut se dépêcher...[1205][U+0008] Vite...[1205][U+000A] Euh, où en\nai-je vu d'autres?[1205][U+000F] Ah, la salle\ndes profs![1205][U+000F] Y'a des insignes là-bas!"
+        "texte_fr": "Faut se dépêcher...[1205][U+0008] Vite...[1205][U+000A] Euh, où\nen ai-je vu d'autres?[1205][U+000F] Ah, la salle\ndes profs![1205][U+000F] Y'a des insignes là-bas!"
     },
     {
         "id": 40,
@@ -653,6 +653,6 @@
         "nom_orig": "Female[SP]student",
         "texte_orig": "If[SP]you[SP]don't[SP]hurry,[SP]I'll[SP]get[SP]sick[SP]too![1205][U+000A]\nPlease[SP]go[SP]destroy[SP]the[SP]emblems[SP]in[SP]the\nteachers'[SP]lounge!",
         "nom_fr": "Lycéenne",
-        "texte_fr": "Dépêchez-vous ou je serai malade![1205][U+000A]\nAllez détruire les insignes\ndans la salle des profs!"
+        "texte_fr": "Dépêchez-vous ou je serai malade![1205][U+000A] Allez\ndétruire les insignes dans la salle des profs!"
     }
 ]

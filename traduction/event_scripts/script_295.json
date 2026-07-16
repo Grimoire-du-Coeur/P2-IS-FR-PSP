@@ -13,7 +13,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "The[SP]Last[SP]Battalion[SP]and[SP]the[SP]Masked[SP]Circle[SP]are\nboth[SP]in[SP]that[SP]temple...[1205][U+000F][SP]This[SP]isn't[SP]gonna[SP]be\neasy,[SP]is[SP]it?",
         "nom_fr": "Eikichi",
-        "texte_fr": "Le Bataillon et le Cercle masqué sont\ntous les deux dans ce temple...[1205][U+000F] Ça\nva pas être simple, hein?"
+        "texte_fr": "Le Bataillon et le Cercle masqué\nsont tous les deux dans ce temple...[1205][U+000F]\nÇa va pas être simple, hein?"
     },
     {
         "id": 1,
@@ -29,7 +29,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Tch,[SP]now[SP]it[SP]makes[SP]sense.[SP]The[SP]Last[SP]Battalion[SP]guys\nrushed[SP]to[SP]Mt.[SP]Katatsumuri[SP]to[SP]start[SP]the[SP]Rings[SP]of\nTime[SP]and[SP]open[SP]the[SP]way[SP]to[SP]Xibalba!",
         "nom_fr": "Eikichi",
-        "texte_fr": "Tch, ça s'explique. Le Bataillon a foncé\nau mont Katatsumuri pour lancer les \nAnneaux[1205][U+000F]\ndu Temps et ouvrir la voie vers Xibalba!"
+        "texte_fr": "Tch, ça s'explique. Le Bataillon a foncé au\nmont Katatsumuri pour lancer les Anneaux[1205][U+000F] du\nTemps et ouvrir la voie vers Xibalba!"
     },
     {
         "id": 2,
@@ -76,7 +76,7 @@
         "nom_orig": "Ginko",
         "texte_orig": "She[SP]knew[SP]this[SP]whole[SP]time[SP]that[SP]it[SP]would[SP]lead\nto[SP]the[SP]Silver[SP]River.",
         "nom_fr": "Ginko",
-        "texte_fr": "Elle savait depuis le début que ça \nmènerait\nau Fleuve d'Argent."
+        "texte_fr": "Elle savait depuis le début que\nça mènerait au Fleuve d'Argent."
     },
     {
         "id": 5,
@@ -108,7 +108,7 @@
         "nom_orig": "Maya",
         "texte_orig": "The[SP]next[SP]part[SP]of[SP]the[SP]Oracle[SP]can't[SP]be[SP]fulfilled\nuntil[SP]one[SP]side[SP]has[SP]all[SP]the[SP]skulls,[SP]right?[1205][U+000F][SP]So[SP]I\nthink[SP]we[SP]still[SP]have[SP]a[SP]chance.",
         "nom_fr": "Maya",
-        "texte_fr": "La suite de l'Oracle ne peut s'accomplir\nque si l'un d'eux a tous les crânes, non?[1205][U+000F]\nOn a encore notre chance."
+        "texte_fr": "La suite de l'Oracle ne peut s'accomplir\nque si l'un d'eux a tous les crânes,\nnon?[1205][U+000F] On a encore notre chance."
     },
     {
         "id": 7,
@@ -140,7 +140,7 @@
         "nom_orig": "Jun",
         "texte_orig": "The[SP]Masked[SP]Circle[SP]is[SP]fighting[SP]under[SP]my[SP]orders.[1205][U+000F]\nAt[SP]this[SP]rate,[SP]they'll[SP]all[SP]be[SP]killed.[SP]We[SP]must\nhurry[SP]and[SP]stop[SP]this[SP]war.",
         "nom_fr": "Jun",
-        "texte_fr": "Le Cercle masqué combat sur mes ordres.[1205][U+000F]\nÀ ce rythme, ils vont tous mourir. Il faut\nvite mettre fin à cette guerre."
+        "texte_fr": "Le Cercle masqué combat sur mes ordres.[1205][U+000F]\nÀ ce rythme, ils vont tous mourir. Il\nfaut vite mettre fin à cette guerre."
     },
     {
         "id": 9,
@@ -156,7 +156,7 @@
         "nom_orig": "Jun",
         "texte_orig": "The[SP]Narurato[SP]Stone[SP]is[SP]a[SP]heavenly[SP]gate[SP]connecting\nto[SP]the[SP]Silver[SP]River,[SP]which[SP]leads[SP]to[SP]Xibalba.",
         "nom_fr": "Jun",
-        "texte_fr": "La Pierre Narurato est une porte céleste\nreliée au Fleuve d'Argent, qui mène à \nXibalba."
+        "texte_fr": "La Pierre Narurato est une porte céleste\nreliée au Fleuve d'Argent, qui mène à Xibalba."
     },
     {
         "id": 10,
@@ -188,7 +188,7 @@
         "nom_orig": "Jun",
         "texte_orig": "He[SP]assumed[SP]the[SP]Silver[SP]River[SP]branching[SP]from[SP]the\nTanabata[SP]River[SP]would[SP]be[SP]underground,[SP]and[SP]came\nto[SP]the[SP]conclusion[SP]that[SP]it[SP]led[SP]to[SP]Xibalba.",
         "nom_fr": "Jun",
-        "texte_fr": "Il pensait que le Fleuve d'Argent, branche\nde la Rivière Tanabata, coulerait sous\nterre et mènerait ainsi à Xibalba."
+        "texte_fr": "Il pensait que le Fleuve d'Argent,\nbranche de la Rivière Tanabata, coulerait\nsous terre et mènerait ainsi à Xibalba."
     },
     {
         "id": 12,
@@ -204,7 +204,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "Hello,[SP]and[SP]welcome.[SP]What[SP]fragrance[SP]have[SP]you\ncome[SP]for[SP]today?",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Bonjour et bienvenue. Quel parfum\nvous amène aujourd'hui?"
+        "texte_fr": "Bonjour et bienvenue. Quel\nparfum vous amène aujourd'hui?"
     },
     {
         "id": 13,
@@ -220,7 +220,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "Legendary[SP]weapon?[SP]Yes,[SP]I[SP]did[SP]buy[SP]a[SP]flower[SP]from\nthe[SP]Count[SP]at[SP]Time[SP]Castle,[SP]but...[1205][U+000F][SP]You[SP]mean[SP]to\nsay[SP]the[SP]flower[SP]was[SP]this[SP]weapon?",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Une arme légendaire? J'ai bien acheté une\nfleur au Comte du Château du Temps, \nmais...[1205][U+000F]\nCette fleur était cette arme?"
+        "texte_fr": "Une arme légendaire? J'ai bien acheté\nune fleur au Comte du Château du Temps,\nmais...[1205][U+000F] Cette fleur était cette arme?"
     },
     {
         "id": 14,
@@ -236,7 +236,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "Oh[SP]no...[SP]I'm[SP]so[SP]sorry.[SP]I[SP]already[SP]used[SP]that\nflower...[1205][U+000F][SP]Its[SP]fragrance[SP]of[SP]good[SP]fortune[SP]will\nheal[SP]people's[SP]wounds...",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Oh non... Je suis désolée. J'ai déjà\nutilisé cette fleur...[1205][U+000F] Son parfum\nbéni soigne les blessures..."
+        "texte_fr": "Oh non... Je suis désolée. J'ai\ndéjà utilisé cette fleur...[1205][U+000F] Son\nparfum béni soigne les blessures..."
     },
     {
         "id": 15,
@@ -252,7 +252,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "But[SP]you[SP]say[SP]you[SP]desperately[SP]needed[SP]that[SP]flower?[1205][0014]\nI[SP]understand...",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Vous aviez absolument besoin de cette \nfleur?[1205][0014]\nJe comprends..."
+        "texte_fr": "Vous aviez absolument besoin de\ncette fleur?[1205][0014] Je comprends..."
     },
     {
         "id": 16,
@@ -268,7 +268,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "Then[SP]from[SP]now[SP]on,[SP]when[SP]you[SP]visit,[SP]I[SP]will[SP]share\nthe[SP]legendary[SP]flower's[SP]fragrance[SP]at[SP]no[SP]cost...[1205][U+000F]\nI[SP]hope[SP]that[SP]excuses[SP]my[SP]mistake...",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Dorénavant, à chaque visite, je partagerai\nle parfum de la fleur légendaire sans \nfrais...[1205][U+000F]\nJ'espère que ça répare mon erreur..."
+        "texte_fr": "Dorénavant, à chaque visite, je partagerai le\nparfum de la fleur légendaire sans frais...[1205][U+000F]\nJ'espère que ça répare mon erreur..."
     },
     {
         "id": 17,
@@ -338,7 +338,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Heal[1432][NULL][NULL][0014][SP]here,[SP]your[SP]HP,[SP]SP,[SP]and\nstatus[SP]ailments[SP]such[SP]as[SP]poison[SP]will[SP]be\nhealed[SP]through[SP]breathing[SP]in[SP]fragrances.",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Si vous choisissez [1432][NULL][NULL][0014]Soins[1432][NULL][NULL][0014] ici, vos HP, SP \net\naltérations comme le poison seront[1205][U+000F]\nsoignés en inhalant mes fragrances."
+        "texte_fr": "Si vous choisissez [1432][NULL][NULL][0014]Soins[1432][NULL][NULL][0014] ici, vos HP, SP\net altérations comme le poison seront[1205][U+000F]\nsoignés en inhalant mes fragrances."
     },
     {
         "id": 21,
@@ -354,7 +354,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "It[SP]does[SP]cost[SP]you,[SP]but[SP]since[SP]the[SP]healing[SP]aromas\naffect[SP]everyone,[SP]it's[SP]cheaper[SP]in[SP]the[SP]long[SP]run.",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Cela a un coût, mais comme les arômes\nsoignent tout le groupe, c'est plus\néconomique."
+        "texte_fr": "Cela a un coût, mais comme les arômes soignent\ntout le groupe, c'est plus économique."
     },
     {
         "id": 22,
@@ -454,7 +454,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "I[SP]believe[SP]man[SP]is[SP]perfectly[SP]capable[SP]of[SP]finding\nhappiness.[1205][U+000A][SP]I[SP]only[SP]want[SP]a[SP]quiet[SP]life[SP]amidst[SP]the\nfragrances,[SP]in[SP]this[SP]store[SP]he[SP]dreamed[SP]of...",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Je crois que l'homme est tout à fait\ncapable de trouver le bonheur.[1205][U+000A] Je veux\njuste une vie paisible, dans sa [1205][U+000F]\nboutique..."
+        "texte_fr": "Je crois que l'homme est tout à fait capable\nde trouver le bonheur.[1205][U+000A] Je veux juste une vie\npaisible, dans sa [1205][U+000F] boutique..."
     },
     {
         "id": 28,
@@ -469,7 +469,7 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "It[SP]seems[SP]the[SP]Last[SP]Battalion[SP]attacked[SP]Sevens...",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Il paraît que le Bataillon a attaqué \nSeven..."
+        "texte_fr": "Il paraît que le Bataillon a attaqué Seven..."
     },
     {
         "id": 29,
@@ -572,7 +572,7 @@
         "nom_orig": "Older[SP]woman",
         "texte_orig": "Oh[SP]my,[SP]what[SP]should[SP]I[SP]do!?[1205][U+000A][SP]It's[SP]all[SP]happening\nin[SP]accordance[SP]with[SP]the[SP]In[SP]Lak'ech!",
         "nom_fr": "Femme âgée",
-        "texte_fr": "Oh là là, que faire?![1205][U+000A] Tout se passe\nconformément à l'In Lak'ech!"
+        "texte_fr": "Oh là là, que faire?![1205][U+000A] Tout se\npasse conformément à l'In Lak'ech!"
     },
     {
         "id": 35,
@@ -603,7 +603,7 @@
         "nom_orig": "Older[SP]woman",
         "texte_orig": "I[SP]can't[SP]just[SP]stand[SP]here![1205][U+000A][SP]Let's[SP]see,[SP]what's[SP]the\nnext[SP]part[SP]of[SP]the[SP]Oracle...[1205][U+000A][SP][1432][NULL][NULL][0014]Five[SP]skulls[SP]glow\nin[SP]the[SP]depths[SP]of[SP]the[SP]earth[1432][NULL][NULL][0014]?",
         "nom_fr": "Femme âgée",
-        "texte_fr": "Je ne peux pas rester là![1205][U+000A] Voyons, la suite\nde l'Oracle...[1205][U+000A] [1432][NULL][NULL][0014]Cinq crânes brillent\ndans les profondeurs de la terre[1432][NULL][NULL][0014]?"
+        "texte_fr": "Je ne peux pas rester là![1205][U+000A] Voyons, la\nsuite de l'Oracle...[1205][U+000A] [1432][NULL][NULL][0014]Cinq crânes brillent\ndans les profondeurs de la terre[1432][NULL][NULL][0014]?"
     },
     {
         "id": 37,
@@ -619,7 +619,7 @@
         "nom_orig": "Older[SP]woman",
         "texte_orig": "Hmm...[SP]I[SP]bet[SP]that[SP]will[SP]happen[SP]soon,[SP]too...[1205][U+000A]\nBut[SP]what[SP]could[SP]it[SP]mean?",
         "nom_fr": "Femme âgée",
-        "texte_fr": "Hmm... Ça va sûrement arriver bientôt...[1205][U+000A]\nMais ça signifie quoi?"
+        "texte_fr": "Hmm... Ça va sûrement arriver\nbientôt...[1205][U+000A] Mais ça signifie quoi?"
     },
     {
         "id": 38,
@@ -635,7 +635,7 @@
         "nom_orig": "Older[SP]woman",
         "texte_orig": "I[SP]bet[SP]that[SP]light[SP]coming[SP]from[SP]Sevens[SP]is[SP]part[SP]of\nthe[SP]Oracle[SP]too![SP]It[SP]proves[SP]the[SP]moment[SP]of[SP]our\nevolution[SP]is[SP]just[SP]around[SP]the[SP]corner!",
         "nom_fr": "Femme âgée",
-        "texte_fr": "Cette lumière venant de Seven fait partie\nde l'Oracle aussi! La preuve que notre\névolution est toute proche!"
+        "texte_fr": "Cette lumière venant de Seven fait\npartie de l'Oracle aussi! La preuve\nque notre évolution est toute proche!"
     },
     {
         "id": 39,
@@ -650,7 +650,7 @@
         "nom_orig": "Older[SP]woman",
         "texte_orig": "Oh,[SP]yeah.[SP]I[SP]should[SP]tell[SP]my[SP]friend[SP]in[SP]Hirasaka.",
         "nom_fr": "Femme âgée",
-        "texte_fr": "Ah oui, je dois prévenir mon amie à \nHirasaka."
+        "texte_fr": "Ah oui, je dois prévenir mon amie à Hirasaka."
     },
     {
         "id": 40,
@@ -682,7 +682,7 @@
         "nom_orig": "Concerned[SP]mother",
         "texte_orig": "Have[SP]you[SP]seen[SP]them[SP]yet?[SP]Some[SP]mysterious\nbuildings[SP]have[SP]appeared[SP]at[SP]the[SP]locations\nof[SP]those[SP]arson[SP]incidents.",
         "nom_fr": "Mère inquiète",
-        "texte_fr": "Vous les avez vus? Des bâtiments \nmystérieux\nsont apparus aux endroits des incendies[1205][U+000F]\ncriminels."
+        "texte_fr": "Vous les avez vus? Des bâtiments\nmystérieux sont apparus aux\nendroits des incendies[1205][U+000F] criminels."
     },
     {
         "id": 42,
@@ -698,7 +698,7 @@
         "nom_orig": "Concerned[SP]mother",
         "texte_orig": "From[SP]what[SP]I've[SP]heard,[SP]those[SP]Last[SP]Battalion\nsoldiers[SP]have[SP]gone[SP]inside[SP]them...[1205][U+000F][SP]What[SP]are\nthey[SP]after[SP]in[SP]there?",
         "nom_fr": "Mère inquiète",
-        "texte_fr": "D'après ce que j'ai entendu, les soldats\ndu Bataillon sont entrés dedans...[1205][U+000F]\nQue cherchent-ils là-dedans?"
+        "texte_fr": "D'après ce que j'ai entendu, les\nsoldats du Bataillon sont entrés\ndedans...[1205][U+000F] Que cherchent-ils là-dedans?"
     },
     {
         "id": 43,
@@ -714,7 +714,7 @@
         "nom_orig": "Concerned[SP]mother",
         "texte_orig": "This[SP]is[SP]no[SP]laughing[SP]matter![1205][U+000A][SP]Those[SP]soldiers[SP]have\neven[SP]broken[SP]into[SP]Sevens[SP]now!",
         "nom_fr": "Mère inquiète",
-        "texte_fr": "C'est grave![1205][U+000A] Ces soldats ont même envahi\nSeven maintenant!"
+        "texte_fr": "C'est grave![1205][U+000A] Ces soldats ont\nmême envahi Seven maintenant!"
     },
     {
         "id": 44,
@@ -730,7 +730,7 @@
         "nom_orig": "Concerned[SP]mother",
         "texte_orig": "It's[SP]unconscionable[SP]that[SP]they'd[SP]break[SP]into[SP]a\nplace[SP]of[SP]learning[SP]with[SP]loaded[SP]weapons![1205][U+000A][SP]Are[SP]they\ngoing[SP]to[SP]steal[SP]even[SP]our[SP]children's[SP]education!?",
         "nom_fr": "Mère inquiète",
-        "texte_fr": "C'est inadmissible de forcer l'entrée d'un\nlieu d'enseignement avec des armes![1205][U+000A] Ils\nvont voler jusqu'à l'éducation de nos [1205][U+000F]\nenfants!?"
+        "texte_fr": "C'est inadmissible de forcer l'entrée d'un\nlieu d'enseignement avec des armes![1205][U+000A] Ils vont\nvoler jusqu'à l'éducation de nos [1205][U+000F] enfants!?"
     },
     {
         "id": 45,
@@ -762,7 +762,7 @@
         "nom_orig": "Young[SP]man",
         "texte_orig": "B-But[SP]I[SP]won't[SP]run.[1205][U+000A][SP]I'll[SP]protect[SP]Miss[SP]Kaori[SP]from\nthe[SP]wind,[SP]the[SP]cold,[SP]and[SP]the[SP]soldiers[SP]like[SP]a\nlittle[SP]glass[SP]globe.",
         "nom_fr": "Jeune homme",
-        "texte_fr": "M-Mais je ne fuirai pas.[1205][U+000A] Je protègerai\nMlle Kaori du vent, du froid et des \nsoldats,[1205][U+000F]\ncomme un globe de verre."
+        "texte_fr": "M-Mais je ne fuirai pas.[1205][U+000A] Je protègerai\nMlle Kaori du vent, du froid et des\nsoldats,[1205][U+000F] comme un globe de verre."
     },
     {
         "id": 47,
@@ -778,7 +778,7 @@
         "nom_orig": "Young[SP]man",
         "texte_orig": "This[SP]place[SP]isn't[SP]safe[SP]either,[SP]with[SP]those[SP]guys\naround...[1205][U+000A][SP]But[SP]for[SP]her[SP]to[SP]worry[SP]about[SP]Sevens\neven[SP]now...[1205][U+000A][SP]Ah,[SP]Miss[SP]Kaori[SP]is[SP]so[SP]considerate!",
         "nom_fr": "Jeune homme",
-        "texte_fr": "C'est pas sûr ici non plus, avec ces\ntypes...[1205][U+000A] Mais qu'elle s'inquiète pour \nSeven[1205][U+000F]\nmême maintenant...[1205][U+000A] Mlle Kaori est si \nattentionnée!"
+        "texte_fr": "C'est pas sûr ici non plus, avec ces types...[1205][U+000A]\nMais qu'elle s'inquiète pour Seven[1205][U+000F] même\nmaintenant...[1205][U+000A] Mlle Kaori est si attentionnée!"
     },
     {
         "id": 48,
@@ -809,7 +809,7 @@
         "nom_orig": "Young[SP]man",
         "texte_orig": "The[SP]fragrance[SP]lingering[SP]in[SP]this[SP]store[SP]can[SP]only\nbe[SP]the[SP]scent[SP]of[SP]the[SP]happiness[SP]that[SP]radiates\nfrom[SP]her.",
         "nom_fr": "Jeune homme",
-        "texte_fr": "Le parfum de cette boutique ne\npeut être que celui du bonheur qui\nrayonne d'elle."
+        "texte_fr": "Le parfum de cette boutique ne peut être\nque celui du bonheur qui rayonne d'elle."
     },
     {
         "id": 50,
@@ -825,6 +825,6 @@
         "nom_orig": "Miss[SP]Kaori",
         "texte_orig": "Then[SP]today,[SP]the[SP]fragrance[SP]of[SP]ylang-ylang...[1205][U+000F][SP]It's\na[SP]tree[SP]valued[SP]for[SP]its[SP]perfume.[1205][U+000A][SP]The[SP]sweet,[SP]heavy\nfragrances[SP]is[SP]good[SP]for[SP]the[SP]mind[SP]and[SP]body.",
         "nom_fr": "Mlle Kaori",
-        "texte_fr": "Aujourd'hui, le parfum d'ylang-ylang...[1205][U+000F]\nUn arbre précieux pour son parfum.[1205][U+000A]\nSes douces fragrances apaisent l'esprit et[1205][U+000F]\nle corps."
+        "texte_fr": "Aujourd'hui, le parfum d'ylang-ylang...[1205][U+000F] Un\narbre précieux pour son parfum.[1205][U+000A] Ses douces\nfragrances apaisent l'esprit et[1205][U+000F] le corps."
     }
 ]
