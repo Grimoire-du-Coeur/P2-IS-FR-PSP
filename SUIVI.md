@@ -16,7 +16,11 @@
 > [!NOTE]
 > Cette page documente l'avancement global du projet de traduction. L'histoire principale est achevée, nous nous concentrons actuellement sur la phase d'Assurance Qualité (QA) et la relecture finale In-Game.
 
-<br/>
+<div align="center">
+  <a href="https://docs.google.com/spreadsheets/d/1d0MADmYznfH-R43RLZAHrngTT5flK9UTVt4wTzc10Uw/edit?gid=0#gid=0"><b>📊 Suivi Détaillé sur Google Sheets</b></a> | <a href="./SUIVI_TECHNIQUE.md"><b>🛠️ Problèmes Connus & Bugs</b></a>
+</div>
+
+<br>
 
 ---
 
@@ -45,7 +49,7 @@ pie title Progression des 406 Scripts
 | Catégorie | Fichiers | Statut Actuel |
 |:---|:---:|:---:|
 | **Scripts d'Histoire** (`script_000` à `script_396`) | 397 | <img src="https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square" alt="Terminée" /> |
-| **Scripts de Carte** (`MMAP01` à `06`) | 6 | <img src="https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square" alt="Terminée" /> |
+| **Scripts de Carte** (`MMAP01` à `06`) | 5/6 | <img src="https://img.shields.io/badge/-En%20Cours-0366d6?style=flat-square" alt="En Cours" /> |
 | **Boutique de CDs** (`CD_SHOP`) | 1 | <img src="https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square" alt="Terminée" /> |
 | **Combats & Menus** (`F_BE`) | 1 | <img src="https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square" alt="Terminée" /> |
 | **Cinématiques narratives** (`TM_EVE`) | 1 | <img src="https://img.shields.io/badge/-En%20Cours-0366d6?style=flat-square" alt="En Cours" /> |
