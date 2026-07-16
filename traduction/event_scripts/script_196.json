@@ -45,7 +45,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Jun-kun,[SP]don't[SP]let[SP]them[SP]get[SP]under[SP]your[SP]skin...[1205][001E]\nYou[SP]need[SP]to[SP]focus[SP]on[SP]stopping[SP]your[SP]father\nand[SP]returning[SP]the[SP]city[SP]to[SP]normal!",
     "nom_fr": "Maya",
-    "texte_fr": "Jun-kun, ne te laisse pas déstabiliser...[1205][001E]\nConcentre-toi sur l'arrêt de ton père\net le retour à la normale de la ville!"
+    "texte_fr": "Jun-kun, ne te laisse pas déstabiliser...[1205][001E]\nConcentre-toi sur l'arrêt de ton père et\nle retour à la normale de la ville!"
   },
   {
     "id": 3,
@@ -109,7 +109,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Maya-chan's[SP]acting[SP]strange...[1205][001E][SP]And[SP]Jun's\nmemories[SP]still[SP]seem[SP]a[SP]little[SP]mixed[SP]up.\nIs[SP]everything[SP]okay?",
     "nom_fr": "Ginko",
-    "texte_fr": "Maya agit bizarrement...[1205][001E] Et les souvenirs\nde Jun sont encore un peu embrouillés.\nTout va bien?"
+    "texte_fr": "Maya agit bizarrement...[1205][001E] Et les\nsouvenirs de Jun sont encore un\npeu embrouillés. Tout va bien?"
   },
   {
     "id": 7,
@@ -125,7 +125,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Whatever[SP]you[SP]think[SP]of,[SP]happens...[1205][001E][SP]So[SP]that's\nwhy[SP]Maya-chan[SP]had[SP]the[SP]argument[SP]with[SP]that\nwhite[SP]suit[SP]about[SP]who[SP]was[SP]stronger.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nYes,[SP]we'll[SP]find[SP]Jun-kun's[SP]father[SP]next.\nYou[SP]think[SP]so[SP]too,[SP]right,[SP][1113]-kun?\nRight?",
     "nom_fr": "Ginko",
-    "texte_fr": "Tout ce qu'on pense, ça arrive...[1205][001E] C'est\npourquoi Maya s'est disputée avec\nce type en blanc sur qui était le plus [1205][U+000F]\nfort.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya[1205][U+000F]\nOui, on va trouver le père de Jun.\nTu le penses aussi, [1113]-kun?\nN'est-ce pas?"
+    "texte_fr": "Tout ce qu'on pense, ça arrive...[1205][001E] C'est\npourquoi Maya s'est disputée avec ce type\nen blanc sur qui était le plus [1205][U+000F] fort. [E1][E2]\n[E3][E4][NULL][NULL]\"Maya[1205][U+000F] Oui, on va trouver le père de Jun. Tu\nle penses aussi, [1113]-kun? N'est-ce pas?"
   },
   {
     "id": 8,
@@ -157,7 +157,7 @@
     "nom_orig": "Maya",
     "texte_orig": "[1113]-kun...[1205][001E][SP]Don't[SP]you[SP]feel[SP]something...\nbuzzing...?",
     "nom_fr": "Maya",
-    "texte_fr": "[1113]-kun...[1205][001E] Tu ne\nsens pas un bourdonnement...?"
+    "texte_fr": "[1113]-kun...[1205][001E] Tu ne sens\npas un bourdonnement...?"
   },
   {
     "id": 10,
@@ -189,7 +189,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]secret[SP]of[SP]Xibalba,[SP]huh?[SP]Hmmm...[SP]Could[SP]it\nbe[SP]that[SP]this[SP]is[SP]all[SP]just[SP]a[SP]dream?[1205][001E][SP]Nahhh...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le secret de Xibalba, hein? Hmm...\nEt si tout ça n'était qu'un rêve?[1205][001E] Nan..."
+    "texte_fr": "Le secret de Xibalba, hein? Hmm... Et\nsi tout ça n'était qu'un rêve?[1205][001E] Nan..."
   },
   {
     "id": 12,
@@ -205,7 +205,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Sure,[SP]it'd[SP]make[SP]it[SP]easier[SP]on[SP]us[SP]if[SP]the[SP]stuff\nwe[SP]thought[SP]about[SP]came[SP]true[SP]immediately.[SP]But\nthen[SP]where[SP]would[SP]the[SP]challenge[SP]be?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ouais, ce serait plus simple si tout ce\nqu'on pense se réalisait direct. Mais\nalors, où serait le défi?"
+    "texte_fr": "Ouais, ce serait plus simple si tout\nce qu'on pense se réalisait direct.\nMais alors, où serait le défi?"
   },
   {
     "id": 13,
@@ -221,7 +221,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Me,[SP]I[SP]like[SP]the[SP]sense[SP]of[SP]accomplishment,\nthe[SP]pride[SP]in[SP]living,[SP]that[SP]comes[SP]from[SP]working\nfor[SP]the[SP]things[SP]we[SP]imagine.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Moi, j'aime ce sentiment \nd'accomplissement,\nla fierté d'avoir vécu, qui vient du [1205][U+000F]\ntravail\nfourni pour nos rêves."
+    "texte_fr": "Moi, j'aime ce sentiment d'accomplissement,\nla fierté d'avoir vécu, qui vient du [1205][U+000F]\ntravail fourni pour nos rêves."
   },
   {
     "id": 14,
@@ -237,7 +237,7 @@
     "nom_orig": "Jun",
     "texte_orig": "I[SP]haven't[SP]seen[SP]her[SP]in[SP]a[SP]while,[SP]but[SP]my[SP]mother\nshould[SP]be[SP]living[SP]happily[SP]with[SP]her[SP]lover...",
     "nom_fr": "Jun",
-    "texte_fr": "Je ne l'ai pas vue depuis longtemps, mais\nma mère doit vivre heureuse avec son \namant..."
+    "texte_fr": "Je ne l'ai pas vue depuis longtemps, mais ma\nmère doit vivre heureuse avec son amant..."
   },
   {
     "id": 15,
@@ -285,6 +285,6 @@
     "nom_orig": "Jun",
     "texte_orig": "Big[SP]Maya's[SP]right...[1205][001E][SP]Joy,[SP]sadness,[SP]fear,\ndespair...[1205][001E][SP]Just[SP]standing[SP]around,[SP]I[SP]can[SP]feel\nall[SP]these[SP]emotions[SP]flowing[SP]into[SP]me...",
     "nom_fr": "Jun",
-    "texte_fr": "Grande Maya a raison...[1205][001E] Joie, tristesse,\npeur, désespoir...[1205][001E] Je ressens\ntoutes ces émotions qui affluent en moi..."
+    "texte_fr": "Grande Maya a raison...[1205][001E] Joie, tristesse,\npeur, désespoir...[1205][001E] Je ressens toutes ces\némotions qui affluent en moi..."
   }
 ]

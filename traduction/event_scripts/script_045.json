@@ -45,7 +45,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "These[SP]are[SP]the[SP]guys[SP]I[SP]told[SP]you[SP]about[SP]over[SP]the\nphone.[SP]My[SP]partner[SP]Maya[1205][U+000F],[SP]Lisa[1205][U+000F],[SP]Eikichi[1205][U+000F],[SP]and[1205][U+000F]\n[1113].",
     "nom_fr": "Yukino",
-    "texte_fr": "Voici ceux dont je t'ai parlé.\nMa partenaire Maya[1205][U+000F], Lisa[1205][U+000F],\nEikichi[1205][U+000F] et [1205][U+000F][1113]."
+    "texte_fr": "Voici ceux dont je t'ai parlé. Ma\npartenaire Maya[1205][U+000F], Lisa[1205][U+000F], Eikichi[1205][U+000F] et [1205][U+000F][1113]."
   },
   {
     "id": 3,
@@ -77,7 +77,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Sorry[SP]to[SP]cut[SP]right[SP]to[SP]the[SP]point,[SP]Eriko,\nbut[SP]that[SP]stuff[SP]I[SP]told[SP]you[SP]about...",
     "nom_fr": "Yukino",
-    "texte_fr": "Désolée d'être directe\nEriko, mais ce dont on\na parlé au téléphone..."
+    "texte_fr": "Désolée d'être directe Eriko, mais\nce dont on a parlé au téléphone..."
   },
   {
     "id": 5,
@@ -93,7 +93,7 @@
     "nom_orig": "Elly",
     "texte_orig": "Sure.[SP]I[SP]was[SP]thinking[SP]it[SP]over[SP]on[SP]my[SP]way[SP]here.",
     "nom_fr": "Elly",
-    "texte_fr": "Bien sûr. J'y réfléchissais\nsur le chemin."
+    "texte_fr": "Bien sûr. J'y réfléchissais sur le chemin."
   },
   {
     "id": 6,
@@ -109,7 +109,7 @@
     "nom_orig": "Elly",
     "texte_orig": "Would[SP]everyone[SP]mind[SP]taking[SP]a[SP]look[SP]at[SP]this\nmonitor?",
     "nom_fr": "Elly",
-    "texte_fr": "Tout le monde peut regarder\nce moniteur?"
+    "texte_fr": "Tout le monde peut regarder ce moniteur?"
   },
   {
     "id": 7,
@@ -124,7 +124,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "That's...[1205][001E][SP]an[SP]overhead[SP]view[SP]of[SP]Sumaru[SP]City,\nyeah?",
     "nom_fr": "Yukino",
-    "texte_fr": "Une...[1205][001E] une vue aérienne de Sumaru\nCity?"
+    "texte_fr": "Une...[1205][001E] une vue aérienne de Sumaru City?"
   },
   {
     "id": 8,
@@ -154,7 +154,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Twelve[SP]beasts[SP]crown[SP]the[SP]Pleiades\nWhen[SP]the[SP]winds[SP]of[SP]change[SP]blow\nAll[SP]descend[SP]with[SP]smiles[SP]to[SP]the[SP]netherworld...",
     "nom_fr": "Maya",
-    "texte_fr": "Douze bêtes règnent sur les Pléiades\nAu vent du changement\nTous descendent en souriant[1205][U+000F]\nvers l'enfer..."
+    "texte_fr": "Douze bêtes règnent sur les Pléiades\nAu vent du changement Tous descendent\nen souriant[1205][U+000F] vers l'enfer..."
   },
   {
     "id": 10,
@@ -201,7 +201,7 @@
     "nom_orig": "Elly",
     "texte_orig": "That's[SP]right![SP]From[SP]the[SP]first[SP]line[SP]of[SP]the\nriddle,[SP]we[SP]know[SP]to[SP]draw[SP]the[SP]Zodiac[SP]circle\nwith[SP]Seven[SP]Sisters[SP]High[SP]at[SP]the[SP]center!",
     "nom_fr": "Elly",
-    "texte_fr": "C'est ça! D'après la première ligne,\non doit tracer le cercle du Zodiaque\navec le lycée Seven Sisters au[1205][U+000F]\ncentre!"
+    "texte_fr": "C'est ça! D'après la première ligne,\non doit tracer le cercle du Zodiaque\navec le lycée Seven Sisters au[1205][U+000F] centre!"
   },
   {
     "id": 13,
@@ -217,7 +217,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Okay,[SP]then[SP]what[SP]about[SP]the[SP]next[SP]part?[SP]What's\n[1432][NULL][NULL][0014]When[SP]the[SP]winds[SP]of[SP]change[SP]blow[1432][NULL][NULL][0014][SP]supposed\nto[SP]mean!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "D'accord, et pour la suite? Ça\nveut dire quoi, [1432][NULL][NULL][0014]Au\nvent du changement[1432][NULL][NULL][0014]!?"
+    "texte_fr": "D'accord, et pour la suite? Ça veut\ndire quoi, [1432][NULL][NULL][0014]Au vent du changement[1432][NULL][NULL][0014]!?"
   },
   {
     "id": 14,
@@ -233,7 +233,7 @@
     "nom_orig": "Elly",
     "texte_orig": "The[SP]second[SP]line[SP]most[SP]likely[SP]indicates[SP]a\ndirection.[1205][001E][SP]There's[SP]a[SP]particular[SP]wind[SP]sign\nthat[SP]presides[SP]over[SP]aspects[SP]of[SP]change...",
     "nom_fr": "Elly",
-    "texte_fr": "La seconde ligne indique sûrement\nune direction.[1205][001E] Un signe de vent\nparticulier préside aux aspects[1205][U+000F]\ndu changement..."
+    "texte_fr": "La seconde ligne indique sûrement une\ndirection.[1205][001E] Un signe de vent particulier\npréside aux aspects[1205][U+000F] du changement..."
   },
   {
     "id": 15,
@@ -249,7 +249,7 @@
     "nom_orig": "Elly",
     "texte_orig": "That[SP]would[SP]be[SP]Aquarius.[SP]On[SP]the[SP]circle,[SP]that's\nwest-by-northwest[SP]from[SP]Seven[SP]Sisters[SP]High...\nSo[SP]the[SP]next[SP]target[SP]is[SP]Hirasaka!",
     "nom_fr": "Elly",
-    "texte_fr": "C'est le Verseau. Sur le cercle,\nc'est au Nord-Ouest de Seven...\nLa prochaine cible est donc[1205][U+000F]\nHirasaka!"
+    "texte_fr": "C'est le Verseau. Sur le cercle,\nc'est au Nord-Ouest de Seven... La\nprochaine cible est donc[1205][U+000F] Hirasaka!"
   },
   {
     "id": 16,
@@ -281,7 +281,7 @@
     "nom_orig": "Maya",
     "texte_orig": "All[SP]descend[SP]with[SP]smiles[SP]to[SP]the[SP]netherworld...",
     "nom_fr": "Maya",
-    "texte_fr": "Tous vont vers l'au-delà\navec le sourire..."
+    "texte_fr": "Tous vont vers l'au-delà avec le sourire..."
   },
   {
     "id": 18,
@@ -313,7 +313,7 @@
     "nom_orig": "Elly",
     "texte_orig": "Spoken[SP]like[SP]a[SP]trained[SP]journalist![SP]There's[SP]no\ndoubt[SP]that[SP]the[SP]third[SP]line[SP]is[SP]a[SP]riddle[SP]as[SP]to\nthe[SP]exact[SP]location[SP]in[SP]Hirasaka.",
     "nom_fr": "Elly",
-    "texte_fr": "Paroles de journaliste! Aucun doute,\nla troisième ligne cache le lieu\nexact dans Hirasaka."
+    "texte_fr": "Paroles de journaliste! Aucun doute, la\ntroisième ligne cache le lieu exact dans\nHirasaka."
   },
   {
     "id": 20,
@@ -329,7 +329,7 @@
     "nom_orig": "Elly",
     "texte_orig": "Unfortunately,[SP]I'm[SP]not[SP]that[SP]familiar[SP]with\nSumaru[SP]City's[SP]environs.[1205][U+000F][SP]So[SP]I[SP]can't[SP]deduce\nanything[SP]further[SP]as[SP]yet...",
     "nom_fr": "Elly",
-    "texte_fr": "Hélas, je connais mal les\nenvirons de Sumaru City.[1205][U+000F]\nJe ne peux rien déduire\nde plus pour le moment..."
+    "texte_fr": "Hélas, je connais mal les environs\nde Sumaru City.[1205][U+000F] Je ne peux rien\ndéduire de plus pour le moment..."
   },
   {
     "id": 21,
@@ -361,7 +361,7 @@
     "nom_orig": "Elly",
     "texte_orig": "You're[SP]quite[SP]welcome.[SP]I'll[SP]stay[SP]here[SP]and\nponder[SP]the[SP]Masked[SP]Circle[SP]and[SP]their[SP]riddle\na[SP]little[SP]more.",
     "nom_fr": "Elly",
-    "texte_fr": "Je t'en prie. Je vais rester ici\npour approfondir l'énigme du\nCercle Masqué."
+    "texte_fr": "Je t'en prie. Je vais rester ici pour\napprofondir l'énigme du Cercle Masqué."
   },
   {
     "id": 23,
@@ -377,6 +377,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "We're[SP]counting[SP]on[SP]you,[SP]Eriko.[SP]Your[SP]insight\nwill[SP]help[SP]us[SP]see[SP]things[SP]we'd[SP]overlook.",
     "nom_fr": "Yukino",
-    "texte_fr": "On compte sur toi, Eriko. Ton\nintuition nous aidera à voir ce\nqui nous échappe."
+    "texte_fr": "On compte sur toi, Eriko. Ton intuition\nnous aidera à voir ce qui nous échappe."
   }
 ]

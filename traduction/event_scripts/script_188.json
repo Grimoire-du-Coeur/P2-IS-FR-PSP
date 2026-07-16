@@ -13,7 +13,7 @@
     "nom_orig": "Maya's[SP]father's[SP]voice",
     "texte_orig": "Listen[SP]closely,[SP]Maya...[1205][001E][SP]Journalism[SP]is[SP]a[SP]job\nyou[SP]can[SP]be[SP]proud[SP]of.[SP]Society[SP]needs[SP]us...",
     "nom_fr": "Voix du père de Maya",
-    "texte_fr": "Ecoute, Maya...[1205][001E] Le journalisme\nest un métier noble.\nOn a besoin de nous..."
+    "texte_fr": "Ecoute, Maya...[1205][001E] Le journalisme est un\nmétier noble. On a besoin de nous..."
   },
   {
     "id": 1,
@@ -29,7 +29,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That's[SP]why...[1205][001E][SP]I'm[SP]gonna[SP]be[SP]a[SP]reporter[SP]who\npasses[SP]down[SP]dreams[SP]to[SP]everyone...",
     "nom_fr": "Maya",
-    "texte_fr": "C'est pour ça...[1205][001E] Je veux être\nreporter et transmettre\ndes rêves à tous..."
+    "texte_fr": "C'est pour ça...[1205][001E] Je veux être reporter\net transmettre des rêves à tous..."
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I'm...[SP]I'm[SP]sorry...[1205]<[SP]It's[SP]all[SP]right,\nI'm...[SP]okay...",
     "nom_fr": "Maya",
-    "texte_fr": "Je... désolé...[1205]< Ça va,\nje... ça va..."
+    "texte_fr": "Je... désolé...[1205]< Ça va, je... ça va..."
   },
   {
     "id": 3,
@@ -119,7 +119,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]went[SP]into[SP]the[SP]same[SP]line[SP]of[SP]work[SP]as[SP]my[SP]dad...[1205][001E]\nMaybe[SP]I[SP]was[SP]trying[SP]to[SP]outdo[SP]him...",
     "nom_fr": "Maya",
-    "texte_fr": "J'ai suivi le métier de\nmon père...[1205][001E] Peut-être pour le\ndépasser..."
+    "texte_fr": "J'ai suivi le métier de mon père...[1205][001E]\nPeut-être pour le dépasser..."
   },
   {
     "id": 7,
@@ -151,7 +151,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That's[SP]why[SP]I...[SP]I[SP]wanted[SP]to[SP]be[SP]a[SP]successful\njournalist[SP]who[SP]could[SP]balance[SP]my[SP]work[SP]with\na[SP]family,[SP]the[SP]way[SP]he[SP]couldn't...",
     "nom_fr": "Maya",
-    "texte_fr": "C'est pour ça que je voulais\nréussir comme journaliste,\net concilier travail et famille, [1205][U+000F]\ncontrairement à lui..."
+    "texte_fr": "C'est pour ça que je voulais réussir\ncomme journaliste, et concilier travail\net famille, [1205][U+000F] contrairement à lui..."
   },
   {
     "id": 9,
@@ -167,7 +167,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Have[SP]you...[1205][001E][SP]ever[SP]heard[SP]this[SP]poem[SP]before?",
     "nom_fr": "Maya",
-    "texte_fr": "Tu as...[1205][001E] déjà entendu\nce poème?"
+    "texte_fr": "Tu as...[1205][001E] déjà entendu ce poème?"
   },
   {
     "id": 10,
@@ -183,7 +183,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Worse[SP]than[SP]alone[SP]/[SP]Exiled.[1205][001E]\nWorse[SP]than[SP]exiled[SP]/[SP]Dead.[1205][001E]\nWorse[SP]than[SP]dead[SP]/[SP]Forgotten.",
     "nom_fr": "Maya",
-    "texte_fr": "Pire que seul / Exilé.[1205][001E]\nPire qu'exilé / Mort.[1205][001E]\nPire que mort / Oublié."
+    "texte_fr": "Pire que seul / Exilé.[1205][001E] Pire qu'exilé\n/ Mort.[1205][001E] Pire que mort / Oublié."
   },
   {
     "id": 11,
@@ -199,7 +199,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "What[SP]does[SP]it[SP]take[SP]to[SP]prove[SP]you[SP]were[SP]ever\nalive...?[1205][001E][SP]Even[SP]if[SP]you[SP]die,[SP]as[SP]long[SP]as[SP]you're\nremembered,[SP]you'll[SP]live[SP]on[SP]as[SP]a[SP]memory...",
     "nom_fr": "Ginko",
-    "texte_fr": "Que faut-il pour prouver\nqu'on a vécu...?[1205][001E] Même mort, si on est\nsouvenu, on continue[1205][U+000F]\ncomme souvenir..."
+    "texte_fr": "Que faut-il pour prouver qu'on a\nvécu...?[1205][001E] Même mort, si on est souvenu,\non continue[1205][U+000F] comme souvenir..."
   },
   {
     "id": 12,
@@ -215,7 +215,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "But[SP]then,[SP]if[SP]you're[SP]forgotten...[1205][001E][SP]That's[SP]really\nno[SP]different[SP]from[SP]being[SP]dead...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mais si on est oublié...[1205][001E] Ce n'est pas si \ndifférent\nd'être mort..."
+    "texte_fr": "Mais si on est oublié...[1205][001E] Ce n'est\npas si différent d'être mort..."
   },
   {
     "id": 13,
@@ -231,7 +231,7 @@
     "nom_orig": "Jun",
     "texte_orig": "No[SP]man[SP]is[SP]an[SP]island...[1205][001E][SP]So[SP]we[SP]try[SP]to[SP]imprint\nour[SP]existence[SP]in[SP]others...[1205][001E][SP]Following[SP]one's\ndream[SP]may[SP]be[SP]one[SP]way[SP]of[SP]doing[SP]so.",
     "nom_fr": "Jun",
-    "texte_fr": "Nul n'est une île...[1205][001E] On cherche à laisser\nune trace en autrui...[1205][001E] Suivre ses rêves\npeut y aider."
+    "texte_fr": "Nul n'est une île...[1205][001E] On cherche\nà laisser une trace en autrui...[1205][001E]\nSuivre ses rêves peut y aider."
   },
   {
     "id": 14,
@@ -247,7 +247,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That's[SP]how[SP]it[SP]was[SP]with[SP]me.[1205][001E][SP]If[SP]you[SP]guys[SP]had\nreally[SP]forgotten[SP]about[SP]me...[1205][001E][SP]I[SP]might[SP]not[SP]be\nhere[SP]right[SP]now...",
     "nom_fr": "Maya",
-    "texte_fr": "C'était pareil pour moi.[1205][001E] Si vous m'aviez \nvraiment\noubliée...[1205][001E] Je ne serais peut-être[1205][U+000F]\npas là..."
+    "texte_fr": "C'était pareil pour moi.[1205][001E] Si vous\nm'aviez vraiment oubliée...[1205][001E] Je\nne serais peut-être[1205][U+000F] pas là..."
   },
   {
     "id": 15,
@@ -263,7 +263,7 @@
     "nom_orig": "Jun",
     "texte_orig": "I[SP]won't[SP]forget...![1205][001E][SP]I[SP]won't[SP]ever[SP]forget[SP]my\nBig[SP]Maya,[SP]or[SP]anyone[SP]here,[SP]ever[SP]again!",
     "nom_fr": "Jun",
-    "texte_fr": "Je n'oublierai pas![1205][001E] Jamais je n'oublierai\nma grande Maya,\nni personne ici!"
+    "texte_fr": "Je n'oublierai pas![1205][001E] Jamais je n'oublierai\nma grande Maya, ni personne ici!"
   },
   {
     "id": 16,
@@ -295,7 +295,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It's[SP]like...[SP]I've[SP]finally[SP]found[SP]where[SP]I[SP]belong.[1205][001E]\nThis[SP]is[SP]where[SP]my[SP]Persona[SP]has[SP]been[SP]guiding[SP]me\nfor[SP]the[SP]last[SP]ten[SP]years...",
     "nom_fr": "Maya",
-    "texte_fr": "C'est comme si j'avais enfin\ntrouvé ma place.[1205][001E] C'est là que ma Persona\nme guide depuis dix ans..."
+    "texte_fr": "C'est comme si j'avais enfin\ntrouvé ma place.[1205][001E] C'est là que ma\nPersona me guide depuis dix ans..."
   },
   {
     "id": 18,
@@ -311,7 +311,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]don't[SP]want[SP]anyone[SP]else[SP]to[SP]suffer...[1205][001E]\nWe[SP]need[SP]to[SP]hurry[SP]and[SP]put[SP]an[SP]end[SP]to[SP]this.",
     "nom_fr": "Maya",
-    "texte_fr": "Je ne veux plus que\nquelqu'un souffre...[1205][001E] On doit vite en \nfinir."
+    "texte_fr": "Je ne veux plus que quelqu'un\nsouffre...[1205][001E] On doit vite en finir."
   },
   {
     "id": 19,
@@ -327,7 +327,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Dreaming[SP]of[SP]becoming[SP]a[SP]big[SP]star...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Rêver de devenir\nune star..."
+    "texte_fr": "Rêver de devenir une star..."
   },
   {
     "id": 20,
@@ -343,7 +343,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Wearing[SP]trendy[SP]clothes[SP]and[SP]chasing[SP]after[SP]the\nlatest[SP]fashion[SP]is[SP]the[SP]same[SP]thing...[1205][001E][SP]Everyone's\ndesperate[SP]to[SP]carve[SP]out[SP]their[SP]own[SP]niche.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Suivre la mode et\nporter des vêtements\nbranchés, c'est pareil...[1205][001E] Chacun veut se [1205][U+000F]\nfaire\nune place."
+    "texte_fr": "Suivre la mode et porter des\nvêtements branchés, c'est pareil...[1205][001E]\nChacun veut se [1205][U+000F] faire une place."
   },
   {
     "id": 21,
@@ -359,7 +359,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "The[SP]reason[SP]why[SP]people[SP]fall[SP]in[SP]love[SP]and[SP]chase\ndreams[SP]is[SP]because[SP]they[SP]want[SP]to[SP]be[SP]remembered...",
     "nom_fr": "Ginko",
-    "texte_fr": "On aime et suit ses rêves\npour ne pas disparaître\ndes mémoires..."
+    "texte_fr": "On aime et suit ses rêves pour ne\npas disparaître des mémoires..."
   },
   {
     "id": 22,
@@ -375,6 +375,6 @@
     "nom_orig": "Ginko",
     "texte_orig": "But[SP]that's[SP]not[SP]so[SP]bad,[SP]is[SP]it?[1205][001E][SP]There's[SP]nothing\nwrong[SP]with[SP]thinking[SP]that[SP]way...[SP]is[SP]there...?[1205][001E]\nMaybe[SP]I'm[SP]not[SP]that[SP]strong[SP]after[SP]all..",
     "nom_fr": "Ginko",
-    "texte_fr": "Mais ce n'est pas si mal,\nnon?[1205][001E] Penser ainsi n'a rien\nde mauvais...[1205][001E][1205][U+000F]\nPeut-être que je ne suis\npas si forte..."
+    "texte_fr": "Mais ce n'est pas si mal, non?[1205][001E] Penser\nainsi n'a rien de mauvais...[1205][001E][1205][U+000F] Peut-être\nque je ne suis pas si forte..."
   }
 ]

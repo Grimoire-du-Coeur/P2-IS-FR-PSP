@@ -29,7 +29,7 @@
     "nom_orig": "Takeshi",
     "texte_orig": "Five[SP]king-size[SP]burgers,[SP]one[SP]medium[SP]pizza,\nsix[SP]pieces[SP]of[SP]fried[SP]chicken,[SP]and[SP]three[SP]cakes...\nNo[SP]ordinary[SP]fatty[SP]could[SP]eat[SP]that[SP]much.",
     "nom_fr": "Takeshi",
-    "texte_fr": "Cinq maxi-burgers, une pizza, six morceaux\nde poulet frit, et trois gâteaux...\nC'est pas normal de manger autant."
+    "texte_fr": "Cinq maxi-burgers, une pizza, six morceaux\nde poulet frit, et trois gâteaux... C'est\npas normal de manger autant."
   },
   {
     "id": 2,
@@ -76,7 +76,7 @@
     "nom_orig": "Ken",
     "texte_orig": "She[SP]ate[SP]three[SP]parfaits,[SP]too.[SP]Seriously,[SP]the\ngirl[SP]has[SP]no[SP]shame!",
     "nom_fr": "Ken",
-    "texte_fr": "Elle a mangé trois parfaits. Sérieux,\nelle est sans-gêne!"
+    "texte_fr": "Elle a mangé trois parfaits.\nSérieux, elle est sans-gêne!"
   },
   {
     "id": 5,
@@ -92,7 +92,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Yyyyeah,[SP]that's[SP]not[SP]what[SP]I[SP]wanted[SP]to[SP]ask\nabout.[SP]You[SP]know[SP]what[SP]I'm[SP]getting[SP]at,[SP]right?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ouaiiis, c'est pas ça que je voulais \ndemander.\nVous voyez où je veux en venir, non?"
+    "texte_fr": "Ouaiiis, c'est pas ça que je voulais demander.\nVous voyez où je veux en venir, non?"
   },
   {
     "id": 6,
@@ -107,7 +107,7 @@
     "nom_orig": "Shogo",
     "texte_orig": "We[SP]know![SP]We're[SP]the[SP]ones[SP]who[SP]took[SP]this[SP]chick\nto[SP]where[SP]you[SP]work,[SP]Michel-san!",
     "nom_fr": "Shogo",
-    "texte_fr": "On voit, oui! On a ramené cette meuf sur \nton\nlieu de travail, Michel!"
+    "texte_fr": "On voit, oui! On a ramené cette meuf\nsur ton lieu de travail, Michel!"
   },
   {
     "id": 7,
@@ -123,7 +123,7 @@
     "nom_orig": "Shogo",
     "texte_orig": "We'll[SP]pay[SP]for[SP]the[SP]stuff[SP]she[SP]ate![SP]So...[SP]um...\nMichel-san?",
     "nom_fr": "Shogo",
-    "texte_fr": "On paiera ce qu'elle a mangé! Donc...\nhum... Michel?"
+    "texte_fr": "On paiera ce qu'elle a mangé!\nDonc... hum... Michel?"
   },
   {
     "id": 8,
@@ -169,7 +169,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You[SP]told[SP]me[SP]you[SP]brought[SP]this[SP]fatty[SP]to[SP]see[SP]me\nbecause[SP]she[SP]was[SP]a[SP]huge[SP]fan[SP]of[SP]mine...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Vous m'avez dit avoir ramenée cette \nempâtée\nici car elle était super fan de moi..."
+    "texte_fr": "Vous m'avez dit avoir ramenée cette empâtée\nici car elle était super fan de moi..."
   },
   {
     "id": 11,
@@ -185,7 +185,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "Thanks[SP]for[SP]the[SP]food.[SP]Whew...[SP]I'm[SP]stuffed.\n*burp*[SP]Oh,[SP]my,[SP]excuse[SP]me.",
     "nom_fr": "Kozy",
-    "texte_fr": "Merci pour le repas. Fiou... Chuis pleine.\n*burp* Oh, excusez-moi."
+    "texte_fr": "Merci pour le repas. Fiou... Chuis\npleine. *burp* Oh, excusez-moi."
   },
   {
     "id": 12,
@@ -248,7 +248,7 @@
     "nom_orig": "Ken",
     "texte_orig": "If[SP][1113][SP]hasn't[SP]shown[SP]up,[SP]that[SP]means...\nTakeshi![SP]I[SP]bet[SP]the[SP]challenge[SP]you[SP]wrote[SP]to\nhim[SP]made[SP]no[SP]sense!",
     "nom_fr": "Ken",
-    "texte_fr": "Si [1113] s'est pas pointé, alors...\nTakeshi! Je parie que ton défi\nétait incompréhensible!"
+    "texte_fr": "Si [1113] s'est pas pointé, alors... Takeshi!\nJe parie que ton défi était incompréhensible!"
   },
   {
     "id": 16,
@@ -279,7 +279,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "And[SP]what's[SP]this[SP]about[SP]a[SP]challenge...?\nWhat[SP]the[SP]hell[SP]are[SP]you[SP]guys[SP]up[SP]to[SP]behind\nmy[SP]back!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Et c'est quoi ce défi...?\nQu'est-ce que vous manigancez derrière mon\ndos?"
+    "texte_fr": "Et c'est quoi ce défi...? Qu'est-ce\nque vous manigancez derrière mon dos?"
   },
   {
     "id": 18,
@@ -311,7 +311,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Huh...[SP]So[SP]that's[SP]what's[SP]going[SP]on[SP]here?\nIs[SP]that[SP]bluehair[SP]stupid[SP]or[SP]something!?",
     "nom_fr": "Lisa",
-    "texte_fr": "Huh... Donc c'est ça qui se passe?\nCe mec à la tignasse bleue est débile ou?"
+    "texte_fr": "Huh... Donc c'est ça qui se passe? Ce\nmec à la tignasse bleue est débile ou?"
   },
   {
     "id": 20,
@@ -390,7 +390,7 @@
     "nom_orig": "Ken",
     "texte_orig": "Who'd[SP]want[SP]to[SP]try[SP]anything[SP]funny[SP]with[SP]a\nfatso[SP]like[SP]her!?[SP]Well,[SP]we[SP]did[SP]treat[SP]her[SP]to\ndinner,[SP]but...",
     "nom_fr": "Ken",
-    "texte_fr": "Qui essaierait quoi que ce soit avec\ncette empotée!? Enfin, on lui a payé le\ndîner, mais..."
+    "texte_fr": "Qui essaierait quoi que ce soit avec cette\nempotée!? Enfin, on lui a payé le dîner,\nmais..."
   },
   {
     "id": 25,
@@ -406,7 +406,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Can[SP]it,[SP]flunky![SP]Hey![SP]Bluehair![SP]Are[SP]you\nMichel[SP]Eikichi?",
     "nom_fr": "Lisa",
-    "texte_fr": "La ferme! Hé! Tignasse bleue! T'es\nMichel Eikichi?"
+    "texte_fr": "La ferme! Hé! Tignasse\nbleue! T'es Michel Eikichi?"
   },
   {
     "id": 26,
@@ -421,7 +421,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Indeed,[SP]I[SP]am[SP]Kasugayama[SP]High's[SP]most[SP]handsome\nand[SP]capable[SP]man...[SP]Lover[SP]of[SP]all[SP]ladies[SP]far\nand[SP]wide...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Moui, l'homme le plus beau et capable\ndu Lycée Kasugayama... Épris de toutes les\ndames..."
+    "texte_fr": "Moui, l'homme le plus beau et capable du Lycée\nKasugayama... Épris de toutes les dames..."
   },
   {
     "id": 27,
@@ -437,7 +437,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]one![SP]The[SP]only![SP]Michel...![SP]And[SP]from[SP]this\nmoment[SP]on,[SP]you're[SP]a[SP]bird[SP]trapped[SP]in[SP]the[SP]cage\nof[SP]my[SP]love...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le seul! L'unique! Michel...! Désormais, \nte\nvoilà oiseau piégé dans la[1205][U+000F]\ncage de mon amour..."
+    "texte_fr": "Le seul! L'unique! Michel...! Désormais, te\nvoilà oiseau piégé dans la[1205][U+000F] cage de mon\namour..."
   },
   {
     "id": 28,
@@ -453,7 +453,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "...Are[SP]you...",
     "nom_fr": "Lisa",
-    "texte_fr": "...Tu as..."
+    "texte_fr": "... Tu as..."
   },
   {
     "id": 29,
@@ -483,7 +483,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Is[SP]it[SP]my[SP]hips?[SP]My[SP]fingers?[SP]My[SP]eyes?[SP]My[SP]hot,\nhot[SP]body[SP]that[SP]sends[SP]your[SP]poor[SP]heart[SP]beating\nin[SP]3/4[SP]time...?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mes hanches? Mes doigts? Mes yeux?\nMon corps si sexy qui fait battre ton\ncoeur en mesure 3/4...?"
+    "texte_fr": "Mes hanches? Mes doigts? Mes yeux?\nMon corps si sexy qui fait battre\nton coeur en mesure 3/4...?"
   },
   {
     "id": 31,
@@ -499,7 +499,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I'm[SP]sorry,[SP]babe...[SP]Don't[SP]hate[SP]me[SP]because\nI'm[SP]beautiful...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pardon, bébé... Ne me hais pas à cause de\nma beauté..."
+    "texte_fr": "Pardon, bébé... Ne me hais\npas à cause de ma beauté..."
   },
   {
     "id": 32,
@@ -515,7 +515,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "...completely[SP]out[SP]of[SP]your[SP]mind?",
     "nom_fr": "Lisa",
-    "texte_fr": "...un énorme pète au casque?"
+    "texte_fr": "... un énorme pète au casque?"
   },
   {
     "id": 33,
@@ -547,7 +547,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Come[SP]on![SP]Don't[SP]act[SP]all[SP]high[SP]and[SP]mighty[SP]when\nyou're[SP]just[SP]a[SP]coward[SP]who[SP]hides[SP]behind[SP]a\nkidnapped[SP]girl!",
     "nom_fr": "Lisa",
-    "texte_fr": "Allez! Fais pas le mec classe quand t'es\nun trouillard qui se cache derrière une\nfille kidnappée!"
+    "texte_fr": "Allez! Fais pas le mec classe quand\nt'es un trouillard qui se cache\nderrière une fille kidnappée!"
   },
   {
     "id": 35,
@@ -562,7 +562,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Are[SP]you[SP]listening[SP]to[SP]a[SP]word[SP]I[SP]said!?[SP]I[SP]don't\nrecall[SP]taking[SP]any[SP]hostages,[SP]and[SP]I[SP]certainly\nnever[SP]invited[SP][1113][SP]here!",
     "nom_fr": "Eikichi",
-    "texte_fr": "T'as écouté un mot de ce que j'ai dit!?\nJ'ai pas souvenir d'avoir pris d'otages, \nni[1205][U+000F]\nd'avoir invité [1113] ici!"
+    "texte_fr": "T'as écouté un mot de ce que j'ai dit!?\nJ'ai pas souvenir d'avoir pris d'otages,\nni[1205][U+000F] d'avoir invité [1113] ici!"
   },
   {
     "id": 36,
@@ -578,7 +578,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I've[SP]had[SP]enough[SP]of[SP]these[SP]baseless\naccusations,[SP]ugly!",
     "nom_fr": "Eikichi",
-    "texte_fr": "J'ai assez de tes accusations bidon,\nle thon!"
+    "texte_fr": "J'ai assez de tes accusations bidon, le thon!"
   },
   {
     "id": 37,
@@ -593,7 +593,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Kehhei![SP]That[SP]was[SP]the[SP]last[SP]straw,[SP]you[SP]stuck-up\nslimebag!",
     "nom_fr": "Lisa",
-    "texte_fr": "Kehhei! C'était la goutte de trop, gros\nblaireau!"
+    "texte_fr": "Kehhei! C'était la goutte\nde trop, gros blaireau!"
   },
   {
     "id": 38,
@@ -623,7 +623,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "She[SP]said[SP]Michel[SP]Eikichi[SP]at[SP]Cuss[SP]High,[SP]the[SP]big\nshot[SP]Boss,[SP]got[SP]that[SP]way[SP]by[SP]yanking[SP]people's\npants[SP]down.",
     "nom_fr": "Lisa",
-    "texte_fr": "Michel Eikichi de Kakasu, le boss \nincontesté,\naurait eu sa place en baissant[1205][U+000F]\nles pantalons des gens."
+    "texte_fr": "Michel Eikichi de Kakasu, le boss\nincontesté, aurait eu sa place en\nbaissant[1205][U+000F] les pantalons des gens."
   },
   {
     "id": 40,
@@ -670,7 +670,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You...[SP]little...[SP]Who[SP]the[SP]hell[SP]are[SP]you,\nanyway!?[SP]Showing[SP]up[SP]out[SP]of[SP]nowhere[SP]and\nbitching[SP]us[SP]out!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Sale... petite... T'es qui au juste!?\nTu sors de nulle part et tu nous\ncraches dessus!"
+    "texte_fr": "Sale... petite... T'es qui au juste!? Tu sors\nde nulle part et tu nous craches dessus!"
   },
   {
     "id": 43,
@@ -686,7 +686,7 @@
     "nom_orig": "Ken",
     "texte_orig": "Um...[SP]We're[SP]real[SP]sorry,[SP]Michel-san!\nIt's[SP]all[SP]our[SP]fault!",
     "nom_fr": "Ken",
-    "texte_fr": "Um... On est super désolés, Michel!\nC'est notre faute!"
+    "texte_fr": "Um... On est super désolés,\nMichel! C'est notre faute!"
   },
   {
     "id": 44,
@@ -718,7 +718,7 @@
     "nom_orig": "Shogo",
     "texte_orig": "We...[SP]We[SP]brought[SP]Kozy-san[SP]here[SP]and[SP]sent\na[SP]challenge[SP]to[SP][1113][SP][1112][SP]to[SP]call\nhim[SP]out!",
     "nom_fr": "Shogo",
-    "texte_fr": "On... On a emmené Kozy ici et envoyé\nun défi à [1113] [1112] pour\nl'appâter!"
+    "texte_fr": "On... On a emmené Kozy ici et envoyé\nun défi à [1113] [1112] pour l'appâter!"
   },
   {
     "id": 46,
@@ -733,7 +733,7 @@
     "nom_orig": "Takeshi",
     "texte_orig": "We[SP]were[SP]looking[SP]for[SP]recruits[SP]for[SP]Gas[SP]Chamber,\nMichel-san's[SP]band.",
     "nom_fr": "Takeshi",
-    "texte_fr": "On cherchait des recrues pour Gas Chamber,\nle groupe de Michel."
+    "texte_fr": "On cherchait des recrues pour Gas\nChamber, le groupe de Michel."
   },
   {
     "id": 47,
@@ -748,7 +748,7 @@
     "nom_orig": "Takeshi",
     "texte_orig": "We[SP]made[SP]sure[SP]to[SP]follow[SP]your[SP]directions[SP]and\nfind[SP]someone[SP]who's[SP]pretty[SP]cool,[SP]but[SP]not[SP]as\ncool[SP]as[SP]you...",
     "nom_fr": "Takeshi",
-    "texte_fr": "On s'est assurés de suivre tes ordres\net de trouver un type super cool, mais\npas autant que toi..."
+    "texte_fr": "On s'est assurés de suivre tes\nordres et de trouver un type super\ncool, mais pas autant que toi..."
   },
   {
     "id": 48,
@@ -764,7 +764,7 @@
     "nom_orig": "Takeshi",
     "texte_orig": "...But[SP]there[SP]was[SP]no[SP]one[SP]like[SP]that.",
     "nom_fr": "Takeshi",
-    "texte_fr": "...Personne ne correspondait."
+    "texte_fr": "... Personne ne correspondait."
   },
   {
     "id": 49,
@@ -780,7 +780,7 @@
     "nom_orig": "Shogo",
     "texte_orig": "Yeah,[SP]like,[SP]we[SP]found[SP]tons[SP]of[SP]people[SP]who[SP]were\ncooler[SP]than--",
     "nom_fr": "Shogo",
-    "texte_fr": "Ouais, genre, on a trouvé plein de gens\nplus cools que--"
+    "texte_fr": "Ouais, genre, on a trouvé\nplein de gens plus cools que--"
   },
   {
     "id": 50,
@@ -811,7 +811,7 @@
     "nom_orig": "Ken",
     "texte_orig": "N-Nothing![SP]Anyway,[SP]that's[SP]why[SP]I[SP]suggested\nbringing[SP]in[SP][1113]-san.[SP]You've[SP]wanted[SP]him\nas[SP]an[SP]underling[SP]for[SP]a[SP]while[SP]now!",
     "nom_fr": "Ken",
-    "texte_fr": "N-non rien! Bref, voilà pourquoi j'ai \nsuggéré\nde ramener [1113]. Tu voulais en[1205][U+000F]\nfaire un larbin, en plus!"
+    "texte_fr": "N-non rien! Bref, voilà pourquoi\nj'ai suggéré de ramener [1113]. Tu\nvoulais en[1205][U+000F] faire un larbin, en plus!"
   },
   {
     "id": 52,
@@ -827,7 +827,7 @@
     "nom_orig": "Ken",
     "texte_orig": "But[SP]after[SP]what[SP]we[SP]all[SP]hear[SP]about[SP][1113]-san\nback[SP]in[SP]middle[SP]school,[SP]we[SP]knew[SP]he[SP]wouldn't\njoin[SP]that[SP]easy,[SP]so...",
     "nom_fr": "Ken",
-    "texte_fr": "Sauf qu'après ce qu'on a entendu sur [1113]\nau collège, on savait qu'il viendrait pas\ncomme ça, donc..."
+    "texte_fr": "Sauf qu'après ce qu'on a entendu sur\n[1113]au collège, on savait qu'il\nviendrait pas comme ça, donc..."
   },
   {
     "id": 53,
@@ -858,7 +858,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You[SP]numbskulls![SP]I'm[SP]constantly[SP]telling[SP]you\nnever[SP]to[SP]do[SP]cowardly[SP]shit[SP]like[SP]that!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Abrutis! J'arrête pas de vous dire de pas\nfaire ces trucs de lâches!"
+    "texte_fr": "Abrutis! J'arrête pas de vous dire\nde pas faire ces trucs de lâches!"
   },
   {
     "id": 55,
@@ -889,7 +889,7 @@
     "nom_orig": "Ken",
     "texte_orig": "But[SP]it's[SP]not[SP]easy[SP]to[SP]take[SP]someone[SP]as[SP]strong\nas[SP]him[SP]hostage...",
     "nom_fr": "Ken",
-    "texte_fr": "Mais c'est dur de prendre un mec\naussi fort en otage..."
+    "texte_fr": "Mais c'est dur de prendre un\nmec aussi fort en otage..."
   },
   {
     "id": 57,
@@ -905,7 +905,7 @@
     "nom_orig": "Shogo",
     "texte_orig": "That's[SP]when[SP]this[SP]fatt--I[SP]mean,[SP]this[SP]chick\ncame[SP]to[SP]interview[SP]us[SP]about[SP]the[SP][1432][NULL][NULL][0014]emblem\ncurse[1432][NULL][NULL][0014]...",
     "nom_fr": "Shogo",
-    "texte_fr": "Puis la gros--Euh, la meuf est venue\nnous inteviewer sur [1432][NULL][NULL][0014]la malédiction de\nl'emblème[1432][NULL][NULL][0014]..."
+    "texte_fr": "Puis la gros--Euh, la meuf est venue nous\ninteviewer sur [1432][NULL][NULL][0014]la malédiction de l'emblème[1432][NULL][NULL][0014]..."
   },
   {
     "id": 58,
@@ -921,7 +921,7 @@
     "nom_orig": "Takeshi",
     "texte_orig": "We[SP]told[SP]her[SP]sure,[SP]and[SP]asked[SP]her[SP]to[SP]come\nwith[SP]us.",
     "nom_fr": "Takeshi",
-    "texte_fr": "On a accepté et demandé qu'elle nous\nsuive."
+    "texte_fr": "On a accepté et demandé qu'elle nous suive."
   },
   {
     "id": 59,
@@ -984,7 +984,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "But,[SP]uh...[SP]Does[SP]this[SP]mean[SP]I[SP]won't[SP]learn\nanything[SP]about[SP]the[SP]mystery[SP]of[SP]the[SP]emblem\ncurse[SP]here?",
     "nom_fr": "Kozy",
-    "texte_fr": "Mais, heu... Du coup j'apprendrais\nrien sur la malédiction de l'emblème\nici?"
+    "texte_fr": "Mais, heu... Du coup j'apprendrais rien\nsur la malédiction de l'emblème ici?"
   },
   {
     "id": 63,
@@ -1000,7 +1000,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "Then[SP]do[SP]you[SP]mind[SP]if[SP]I[SP]excuse[SP]myself?\nThanks[SP]for[SP]the[SP]food,[SP]anyway.",
     "nom_fr": "Kozy",
-    "texte_fr": "Bon, je peux y aller?\nMerci pour le repas, bien sûr."
+    "texte_fr": "Bon, je peux y aller? Merci\npour le repas, bien sûr."
   },
   {
     "id": 64,
@@ -1031,7 +1031,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "*sigh*[SP]I[SP]guess[SP]everything's[SP]fine,[SP]then...\nLet's[SP]go[SP]back,[SP][1113].\n[1121]",
     "nom_fr": "Lisa",
-    "texte_fr": "*soupir* Bah tout va bien, j'imagine...\nRentrons, [1113]."
+    "texte_fr": "*soupir* Bah tout va bien,\nj'imagine... Rentrons, [1113]."
   },
   {
     "id": 66,
@@ -1047,7 +1047,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "I[SP]feel[SP]like[SP]an[SP]idiot[SP]for[SP]thinking[SP]these[SP]losers\ncould[SP]be[SP]the[SP]ones[SP]behind[SP]the[SP]curse...",
     "nom_fr": "Lisa",
-    "texte_fr": "Je me sens idiote d'avoir cru que\nces nullos étaient derrière la \nmalédiction..."
+    "texte_fr": "Je me sens idiote d'avoir cru que ces\nnullos étaient derrière la malédiction..."
   },
   {
     "id": 67,
@@ -1094,7 +1094,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Hmph![SP]I[SP]bet[SP]it's[SP]not[SP]even[SP]a[SP]band.[SP]I[SP]bet[SP]you\njust[SP]sing[SP]perverted[SP]songs[SP]about[SP]how[SP]great\nyou[SP]are[SP]while[SP]flailing[SP]around[SP]like[SP]a[SP]spaz.",
     "nom_fr": "Lisa",
-    "texte_fr": "Pff! Je parie que ton groupe est\nbidon. Genre, tu chantes des perversités \nsur[1205][U+000F]\nta génialitude en gigotant comme un \ncrétin."
+    "texte_fr": "Pff! Je parie que ton groupe est bidon.\nGenre, tu chantes des perversités sur[1205][U+000F] ta\ngénialitude en gigotant comme un crétin."
   },
   {
     "id": 70,
@@ -1125,7 +1125,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You[SP]bastards...[SP]How[SP]dare[SP]you[SP]make[SP]fun[SP]of[SP]me...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Enfoirés... Comment osez-vous vous \nmoquer..."
+    "texte_fr": "Enfoirés... Comment osez-vous vous moquer..."
   },
   {
     "id": 72,
@@ -1141,7 +1141,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I'll[SP]show[SP]you[SP]why[SP]they[SP]call[SP]me[SP]the[SP]Death[SP]Boss\nof[SP]Kasugayama[SP]H--",
     "nom_fr": "Eikichi",
-    "texte_fr": "Tu vas voir pourquoi on me nomme le\nBoss Mortel du Lycée K--"
+    "texte_fr": "Tu vas voir pourquoi on me nomme\nle Boss Mortel du Lycée K--"
   },
   {
     "id": 73,
@@ -1156,7 +1156,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Ooooh,[SP]did[SP]I[SP]hit[SP]a[SP]nerve?[SP]Did[SP]someone[SP]lose\ntheir[SP]temper?[SP]Hey,[SP]Undie[SP]Boss,[SP]are[SP]you[SP]gonna\npull[SP]my[SP]pants[SP]down[SP]too?",
     "nom_fr": "Lisa",
-    "texte_fr": "Ooooh, j'ai fait mouche? Tu perds ton\nsang-froid? Hé, Boss des Calbutes, tu vas\ndescendre mon pantalon aussi?"
+    "texte_fr": "Ooooh, j'ai fait mouche? Tu perds ton\nsang-froid? Hé, Boss des Calbutes, tu\nvas descendre mon pantalon aussi?"
   },
   {
     "id": 74,
@@ -1172,7 +1172,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Kaumena![SP]Save[SP]me,[SP][1113]![SP]The[SP]Pervert[SP]Boss\nis[SP]looking[SP]at[SP]me[SP]funny!",
     "nom_fr": "Lisa",
-    "texte_fr": "Kaumena! Aide-moi, [1113] Le Boss Pervert\nme regarde bizarrement!"
+    "texte_fr": "Kaumena! Aide-moi, [1113] Le Boss\nPervert me regarde bizarrement!"
   },
   {
     "id": 75,

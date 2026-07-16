@@ -13,7 +13,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]knew[SP]it...[1205][001E][SP]The[SP]color's[SP]different,[SP]but[SP]apart\nfrom[SP]that[SP]this[SP]is[SP]the[SP]same[SP]skull[SP]Joker[SP]had.",
     "nom_fr": "Ginko",
-    "texte_fr": "Je le savais...[1205][001E]La couleur diffère\nmais c'est bien le même crâne qu'avait\nJoker."
+    "texte_fr": "Je le savais...[1205][001E] La couleur diffère mais\nc'est bien le même crâne qu'avait Joker."
   },
   {
     "id": 1,
@@ -45,7 +45,7 @@
     "nom_orig": "Yasuo",
     "texte_orig": "Y-Yeah!?[SP]Stop![SP]Forgive[SP]me,[SP]please!\nI'm[SP]a[SP]pacifist!",
     "nom_fr": "Yasuo",
-    "texte_fr": "O-oui!? Pardonnez moi je suis\npacifiste!"
+    "texte_fr": "O-oui!? Pardonnez moi je suis pacifiste!"
   },
   {
     "id": 3,
@@ -93,7 +93,7 @@
     "nom_orig": "Yasuo",
     "texte_orig": "But[SP]there's[SP]a[SP]rule[SP]that[SP]anyone[SP]who[SP]joins[SP]the\nMasked[SP]Circle[SP]must[SP]present[SP]its[SP]executives[SP]with\nIdeal[SP]Energy,[SP]derived[SP]from[SP]dreaming[SP]hearts.",
     "nom_fr": "Yasuo",
-    "texte_fr": "Mais une règle stipule que toute personne\nayant rejoint le Cercle Masqué doit \napporter de[1205][U+000F]\nl'Énergie idéale issue de coeurs rêveurs."
+    "texte_fr": "Mais une règle stipule que toute personne\nayant rejoint le Cercle Masqué doit apporter\nde[1205][U+000F] l'Énergie idéale issue de coeurs rêveurs."
   },
   {
     "id": 6,
@@ -125,7 +125,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That's...[1205][001E][SP]from[SP]some[SP]kid's[SP]game[SP]that[SP]shows[SP]up\nin[SP]my[SP]dreams...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ça vient...[1205][001E]d'un jeu apparaissant dans\nmes rêves..."
+    "texte_fr": "Ça vient...[1205][001E] d'un jeu\napparaissant dans mes rêves..."
   },
   {
     "id": 8,
@@ -157,7 +157,7 @@
     "nom_orig": "Maya",
     "texte_orig": "And[SP]Lady[SP]Scorpio[SP]is[SP]an[SP]executive[SP]of[SP]this\n[1432][NULL][NULL][0014]Masked[SP]Circle[1432][NULL][NULL][0014]?",
     "nom_fr": "Maya",
-    "texte_fr": "Et Dame Scorpion est dirigeante du\n[1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]?"
+    "texte_fr": "Et Dame Scorpion est\ndirigeante du [1432][NULL][NULL][0014]Cercle masqué[1432][NULL][NULL][0014]?"
   },
   {
     "id": 10,
@@ -173,7 +173,7 @@
     "nom_orig": "Yasuo",
     "texte_orig": "If[SP]the[SP]masquerade[SP]had[SP]succeeded[SP]and[SP]I[SP]gave\nenough[SP]energy[SP]to[SP]the[SP]Lady,[SP]I[SP]thought[SP]I'd[SP]reach\na[SP]higher[SP]position[SP]in[SP]the[SP]Masked[SP]Circle...",
     "nom_fr": "Yasuo",
-    "texte_fr": "Si tout s'était passé comme prévu et\nque j'avais donné assez d'énergie à Lady,\nj'aurais pu être promu au sein du Cercle [1205][U+000F]\nMasqué..."
+    "texte_fr": "Si tout s'était passé comme prévu et que\nj'avais donné assez d'énergie à Lady, j'aurais\npu être promu au sein du Cercle [1205][U+000F] Masqué..."
   },
   {
     "id": 11,
@@ -221,7 +221,7 @@
     "nom_orig": "Yasuo",
     "texte_orig": "I[SP]didn't[SP]plan[SP]on[SP]them[SP]becoming[SP]shadowmen!\nAll[SP]I[SP]wanted[SP]was[SP]to[SP]dispose[SP]of[SP]my[SP]competitors\nfor[SP]student[SP]council[SP]president!",
     "nom_fr": "Yasuo",
-    "texte_fr": "Je voulais pas les transformer en ombres!\nJe voulais juste me débarrasser de la \nconcurrence[1205][U+000F]\npour le BDE."
+    "texte_fr": "Je voulais pas les transformer en\nombres! Je voulais juste me débarrasser\nde la concurrence[1205][U+000F] pour le BDE."
   },
   {
     "id": 14,
@@ -253,7 +253,7 @@
     "nom_orig": "???",
     "texte_orig": "...A[SP]non-executive[SP]like[SP]you[SP]could[SP]never\ncontrol[SP]the[SP]crystal[SP]skull.",
     "nom_fr": "???",
-    "texte_fr": "Une personne de ton rang n'aurait jamais \npu\nle contrôler."
+    "texte_fr": "Une personne de ton rang\nn'aurait jamais pu le contrôler."
   },
   {
     "id": 16,
@@ -269,7 +269,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "That[SP]feeling[SP]again...[1205][001E][SP]Anna!?",
     "nom_fr": "Yukino",
-    "texte_fr": "Cette sensation...[1205][001E]Anna!?"
+    "texte_fr": "Cette sensation...[1205][001E] Anna!?"
   },
   {
     "id": 17,
@@ -285,7 +285,7 @@
     "nom_orig": "Lady[SP]Scorpio",
     "texte_orig": "...Yukino[SP]Mayuzumi?[SP]You're[SP]still[SP]here.",
     "nom_fr": "Dame Scorpion",
-    "texte_fr": "...Yukino Mayuzumi? T'es toujours là."
+    "texte_fr": "... Yukino Mayuzumi? T'es toujours là."
   },
   {
     "id": 18,
@@ -317,7 +317,7 @@
     "nom_orig": "Lady[SP]Scorpio",
     "texte_orig": "This[SP]skull[SP]can[SP]only[SP]be[SP]controlled[SP]by[SP]those\nbearing[SP]the[SP]constellation[SP]of[SP]the[SP]holy[SP]cross.",
     "nom_fr": "Dame Scorpion",
-    "texte_fr": "Ce crâne n'obéit qu'aux porteurs de la\nconstellation de la sainte croix."
+    "texte_fr": "Ce crâne n'obéit qu'aux porteurs de\nla constellation de la sainte croix."
   },
   {
     "id": 20,
@@ -333,7 +333,7 @@
     "nom_orig": "Lady[SP]Scorpio",
     "texte_orig": "...Is[SP]this[SP]all?",
     "nom_fr": "Dame Scorpion",
-    "texte_fr": "...C'est tout?"
+    "texte_fr": "... C'est tout?"
   },
   {
     "id": 21,
@@ -349,7 +349,7 @@
     "nom_orig": "???",
     "texte_orig": "Of[SP]course.[SP]A[SP]typical[SP]person's[SP]energy[SP]level[SP]is\npaltry[SP]at[SP]best.[SP]That's[SP]why[SP]the[SP]Exalted[SP]One\nis[SP]granting[SP]people[SP]their[SP]ideals.",
     "nom_fr": "???",
-    "texte_fr": "Évidemment. L'énergie d'une personne \nordinaire est\ndérisoire. C'est pourquoi l'Exalté offre [1205][U+000F]\naux\ngens leur idéal."
+    "texte_fr": "Évidemment. L'énergie d'une personne\nordinaire est dérisoire. C'est pourquoi\nl'Exalté offre [1205][U+000F] aux gens leur idéal."
   },
   {
     "id": 22,
@@ -413,7 +413,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Wh...[SP]Who[SP]the[SP]hell[SP]are[SP]you!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Que...T'es qui bordel!?"
+    "texte_fr": "Que... T'es qui bordel!?"
   },
   {
     "id": 26,
@@ -429,7 +429,7 @@
     "nom_orig": "King[SP]Leo",
     "texte_orig": "I[SP]am[SP]called[SP]King[SP]Leo![SP]I[SP]am[SP]highest[SP]of[SP]the\nfour[SP]executives[SP]of[SP]the[SP]Masked[SP]Circle,[SP]bearing\nthe[SP]sign[SP]of[SP]Leo.",
     "nom_fr": "Roi Lion",
-    "texte_fr": "On me nomme Roi Léo! Je suis le plus\npuissant des 4 dirigents du Cercle Masqué\nporteur du signe du Lion."
+    "texte_fr": "On me nomme Roi Léo! Je suis le plus\npuissant des 4 dirigents du Cercle\nMasqué porteur du signe du Lion."
   },
   {
     "id": 27,
@@ -445,7 +445,7 @@
     "nom_orig": "King[SP]Leo",
     "texte_orig": "For[SP]one[SP]so[SP]lowly[SP]to[SP]confess[SP]Masked[SP]Circle\nbusiness[SP]to[SP]outsiders[SP]and[SP]abandon[SP]the\nshadowed[SP]festival...[SP]You[SP]deserve[SP]death!\n[E1][E2]\n[E3][E4][NULL][NULL]\"King[SP]Leo\nI[SP]could[SP]say[SP]the[SP]same[SP]about[SP]you,[SP]Lady.[SP]What[SP]do\nyou[SP]have[SP]to[SP]say[SP]in[SP]your[SP]defense[SP]after[SP]the\nrecent[SP]debacles?",
     "nom_fr": "Roi Lion",
-    "texte_fr": "Oser trahir le Cercle Masqué et\nabandonner le festival des ombres...\nTu mérites la mort![E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Roi Lion\nJe pourrais dire pareil pour vous, Lady.\nQu'avez vous à dire après vos récents[1205][U+000F]\néchecs?"
+    "texte_fr": "Oser trahir le Cercle Masqué et\nabandonner le festival des ombres... Tu\nmérites la mort![E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Roi Lion Je pourrais\ndire pareil pour vous, Lady. Qu'avez\nvous à dire après vos récents[1205][U+000F] échecs?"
   },
   {
     "id": 28,
@@ -461,7 +461,7 @@
     "nom_orig": "King[SP]Leo",
     "texte_orig": "Not[SP]only[SP]did[SP]you[SP]let[SP]the[SP]wild[SP]dance[SP]slide,\nyou[SP]abandoned[SP]the[SP]shadowed[SP]festival[SP]to\nvermin.\n[E1][E2]\n[E3][E4][NULL][NULL]\"King[SP]Leo\nIf[SP]you[SP]wish[SP]to[SP]be[SP]present[SP]to[SP]witness[SP]the\nfulfillment[SP]of[SP]the[SP]Oracle[SP]of[SP]Maia,[SP]I[SP]suggest\nyou[SP]accept[SP]the[SP]Exalted[SP]One's[SP]punishment...",
     "nom_fr": "Roi Lion",
-    "texte_fr": "Non seulement tu as ignoré la danse\nsauvage, mais tu as livré le festival des\nombres aux vermines![E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Roi Lion\nSi tu veux assister à l'accomplissement\nde l'Oracle de Maia, alors accepte la[1205][U+000F]\npunition de l'Exalté"
+    "texte_fr": "Non seulement tu as ignoré la danse\nsauvage, mais tu as livré le festival des\nombres aux vermines![E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Roi Lion Si tu veux\nassister à l'accomplissement de l'Oracle de\nMaia, alors accepte la[1205][U+000F] punition de l'Exalté"
   },
   {
     "id": 29,
@@ -477,7 +477,7 @@
     "nom_orig": "Lady[SP]Scorpio",
     "texte_orig": "...Yukino[SP]is[SP]mine.[SP]Leave[SP]her[SP]alone.",
     "nom_fr": "Dame Scorpion",
-    "texte_fr": "...Yukino m'appartient.\nLaisse la."
+    "texte_fr": "... Yukino m'appartient. Laisse la."
   },
   {
     "id": 30,
@@ -493,7 +493,7 @@
     "nom_orig": "King[SP]Leo",
     "texte_orig": "...[1205][001E]Very[SP]well.[SP]But[SP]you[SP]will[SP]deal[SP]with[SP]the\nconsequences[SP]of[SP]the[SP]party's[SP]interruption.",
     "nom_fr": "Roi Lion",
-    "texte_fr": "...[1205][001E]Très bien. Mais tu paieras pour\navoir interrompu le festival."
+    "texte_fr": "...[1205][001E] Très bien. Mais tu paieras\npour avoir interrompu le festival."
   },
   {
     "id": 31,
@@ -525,7 +525,7 @@
     "nom_orig": "King[SP]Leo",
     "texte_orig": "Cursed[SP]Star...[1205][001E][SP]I[SP]will[SP]see[SP]you[SP]and[SP]the[SP]witch\nsent[SP]to[SP]Purgatory,[SP]just[SP]as[SP]the[SP]lowly[SP]one[SP]was\na[SP]moment[SP]ago.",
     "nom_fr": "Roi Lion",
-    "texte_fr": "Étoile maudite...Toi et la sorcière \nenvoyée\nau purgatoire finirez comme le misérable[1205][U+000F]\nde tout à l'heure."
+    "texte_fr": "Étoile maudite... Toi et la sorcière\nenvoyée au purgatoire finirez comme\nle misérable[1205][U+000F] de tout à l'heure."
   },
   {
     "id": 33,
@@ -557,7 +557,7 @@
     "nom_orig": "King[SP]Leo",
     "texte_orig": "Hahaha...[SP]No[SP]matter[SP]how[SP]much[SP]you[SP]struggle,[SP]you\ncan't[SP]escape[SP]the[SP]fate[SP]the[SP]Exalted[SP]One[SP]has[SP]in\nstore[SP]for[SP]you![SP]Hyaaaahahahahahaahaaaaa!",
     "nom_fr": "Roi Lion",
-    "texte_fr": "Hahaha... Peu importe tes efforts,\ntu ne peux échapper au destin que l'Exalté\nte réserve. Hyaaahahaha!"
+    "texte_fr": "Hahaha... Peu importe tes efforts,\ntu ne peux échapper au destin que\nl'Exalté te réserve. Hyaaahahaha!"
   },
   {
     "id": 35,
@@ -589,7 +589,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]this[SP]King[SP]Leo[SP]guy[SP]has[SP]been[SP]stalking[SP]you\nfor[SP]years,[SP]Maya-san!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Alors ce Roi Lion te traque depuis\ndes anées Maya!?"
+    "texte_fr": "Alors ce Roi Lion te traque\ndepuis des anées Maya!?"
   },
   {
     "id": 37,
@@ -605,7 +605,7 @@
     "nom_orig": "Maya",
     "texte_orig": "My[SP]Persona[SP]told[SP]me[SP]so...[SP]It's[SP]him![SP]There's\nno[SP]mistaking[SP]it!",
     "nom_fr": "Maya",
-    "texte_fr": "Ma persona me l'a dit...\nC'est bien lui!"
+    "texte_fr": "Ma persona me l'a dit... C'est bien lui!"
   },
   {
     "id": 38,
@@ -621,7 +621,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "A[SP]pyromaniac...[1205][001E][SP]Kehhei![SP]That's[SP]the[SP]worst!",
     "nom_fr": "Ginko",
-    "texte_fr": "Un pyromane...[1205][001E]C'est Kehhei!\nBordel!"
+    "texte_fr": "Un pyromane...[1205][001E] C'est Kehhei! Bordel!"
   },
   {
     "id": 39,
@@ -637,7 +637,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Don't[SP]worry...[SP]I'm[SP]okay[SP]now.[SP]We[SP]need[SP]to\nthink[SP]about[SP]what[SP]to[SP]do[SP]next...",
     "nom_fr": "Maya",
-    "texte_fr": "Ne t'inquiète pas... Je vais bien \nmaintenant,\npensons à la suite..."
+    "texte_fr": "Ne t'inquiète pas... Je vais bien\nmaintenant, pensons à la suite..."
   },
   {
     "id": 40,
@@ -653,6 +653,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "Remember[SP]how[SP]that[SP]King[SP]guy[SP]told[SP]Anna[SP]to\n[1432][NULL][NULL][0014]deal[SP]with[SP]the[SP]consequences[1432][NULL][NULL][0014]?[1205][001E][SP]That's[SP]been\nbugging[SP]me[SP]ever[SP]since...",
     "nom_fr": "Yukino",
-    "texte_fr": "Ce roi a dit à Anna de [1432][NULL][NULL][0014]faire face\naux conséquences[1432][NULL][NULL][0014]?[1205][001E] Ça me travaille \ndepuis..."
+    "texte_fr": "Ce roi a dit à Anna de [1432][NULL][NULL][0014]faire face aux\nconséquences[1432][NULL][NULL][0014]?[1205][001E] Ça me travaille depuis..."
   }
 ]

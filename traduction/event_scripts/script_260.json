@@ -13,7 +13,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].It's[SP]movin'.[E1][E2]\n[E3][E4][NULL][NULL]\"Lisa\nYep.[SP]It's[SP]movin'.",
     "nom_fr": "Eikichi",
-    "texte_fr": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].Ça bouge.[E1][E2]\n[E3][E4][NULL][NULL]\"Lisa\nOuais. Ça bouge."
+    "texte_fr": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F]. Ça bouge.[E1][E2] [E3][E4][NULL][NULL]\"Lisa Ouais. Ça bouge."
   },
   {
     "id": 1,
@@ -45,7 +45,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].So[SP]that[SP]settles[SP]it?",
     "nom_fr": "Eikichi",
-    "texte_fr": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].Alors c'est sûr?"
+    "texte_fr": ".[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F].[1205][U+000F]. Alors c'est sûr?"
   },
   {
     "id": 3,
@@ -93,7 +93,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Gaaaaah![SP]Hell[SP]no![SP]That's[SP]impossible![SP]How[SP]could\nsomething[SP]this[SP]ridiculous[SP]actually[SP]happen!?[1205][001E]\nM-My[SP]3,000[SP]yen...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Gaaaah! Impossible! Comment un truc\naussi ridicule peut arriver!?[1205][001E]\nM-Mes 3000 yens..."
+    "texte_fr": "Gaaaah! Impossible! Comment un truc aussi\nridicule peut arriver!?[1205][001E] M-Mes 3000 yens..."
   },
   {
     "id": 6,
@@ -109,7 +109,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "It's[SP]like[SP]we[SP]heard![SP]Rumors[SP]are[SP]coming[SP]true.[1205][001E]\nWoohoo,[SP]I'm[SP]3,000[SP]yen[SP]richer[SP]now![SP]Let's[SP]go\nget[SP]some[SP]dinner,[SP][1113]!",
     "nom_fr": "Lisa",
-    "texte_fr": "Comme on disait! Les rumeurs se \nréalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi![1205][U+000F]\nAllons dîner, [1113]!"
+    "texte_fr": "Comme on disait! Les rumeurs se\nréalisent.[1205][001E] Youhou, 3000 yens de plus\npour moi![1205][U+000F] Allons dîner, [1113]!"
   },
   {
     "id": 7,
@@ -125,7 +125,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "It's[SP]like[SP]we[SP]heard![SP]Rumors[SP]are[SP]coming[SP]true.[1205][001E]\nWoohoo,[SP]I'm[SP]3,000[SP]yen[SP]richer[SP]now![SP]Let's[SP]go\nget[SP]some[SP]dinner,[SP][1113]![E1][E2][E3]>[SP]Narurato[SP]Stone\nA[SP]megalith[SP]that[SP]was[SP]excavated[SP]when[SP]the[SP]school\nwas[SP]first[SP]built.[SP]It's[SP]made[SP]of[SP]thamatite[SP]and\npossesses[SP]an[SP]abnormal[SP]magnetism.\n[E1][E2]>[SP]Legend[SP]has[SP]it[SP]that[SP]it's[SP]a[SP]guardian[SP]stone\nin[SP]which[SP]the[SP]heavenly[SP]being[SP]Hiremon[SP]sealed\nthe[SP]evil[SP]demon[SP]Narurato[SP]Hotefu.[E1][E2][E3]>[SP]Statue[SP]in[SP]honor[SP]of[SP]Principal[SP]Hanya\n[1432][NULL][NULL][0014]Look[SP]at[SP]me![SP]Follow[SP]me![SP]Don't[SP]rely[SP]on[SP]me![1432][NULL][NULL][0014]\nis[SP]the[SP]rather[SP]contradictory[SP]quote[SP]written[SP]here.\nLooking[SP]at[SP]it[SP]makes[SP]you[SP]inexplicably[SP]angry...",
     "nom_fr": "Ginko",
-    "texte_fr": "Comme on disait! Les rumeurs se \nréalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi![1205][U+000F]\nAllons dîner, [1113]![E1][E2][E3]> Pierre Narurato\nUn mégalithe déterré à la construction\ndu lycée. Fait de thamatite, il possède[1205][U+000F]\nun magnétisme anormal.\n[E1][E2]> La légende dit que c'est une pierre\ngardienne où l'être céleste Hiremon a[1205][U+000F]\nscellé le démon Narurato Hotefu.[E1][E2][E3]> Statue \nen l'honneur du directeur Hanya\n[1432][NULL][NULL][0014]Regardez-moi! Suivez-moi! Ne comptez pas[1205][U+000F]\nsur moi![1432][NULL][NULL][0014]\nest la citation contradictoire écrite ici.\nLa regarder vous met étrangement en [1205][U+000F]\ncolère..."
+    "texte_fr": "Comme on disait! Les rumeurs se réalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi![1205][U+000F] Allons\ndîner, [1113]![E1][E2][E3]> Pierre Narurato Un mégalithe\ndéterré à la construction du lycée. Fait de\nthamatite, il possède[1205][U+000F] un magnétisme anormal.\n[E1][E2]> La légende dit que c'est une pierre\ngardienne où l'être céleste Hiremon a[1205][U+000F] scellé\nle démon Narurato Hotefu.[E1][E2][E3]> Statue en\nl'honneur du directeur Hanya [1432][NULL][NULL][0014]Regardez-moi!\nSuivez-moi! Ne comptez pas[1205][U+000F] sur moi![1432][NULL][NULL][0014] est la\ncitation contradictoire écrite ici. La\nregarder vous met étrangement en [1205][U+000F] colère..."
   },
   {
     "id": 8,
@@ -141,7 +141,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Alright,[SP]alright![1205][001E][SP]I[SP]admit[SP]it![SP]Rumors[SP]are\ncoming[SP]true![SP]Dammit...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ça va, ça va![1205][001E] J'avoue! Les rumeurs\nse réalisent! Bon sang..."
+    "texte_fr": "Ça va, ça va![1205][001E] J'avoue! Les\nrumeurs se réalisent! Bon sang..."
   },
   {
     "id": 9,
@@ -157,7 +157,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "A[SP]memorial[SP]service[SP]for[SP]the[SP]principal?[1205][001E][SP]Uh-oh...\nThis[SP]is[SP]because[SP]of[SP]what[SP]you[SP]said,[SP][1113].\nI'm[SP]washing[SP]my[SP]hands[SP]of[SP]this[SP]one!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Une cérémonie pour le directeur?[1205][001E] Oh oh...\nC'est à cause de ce que t'as dit, [1113].\nJe m'en lave les mains!"
+    "texte_fr": "Une cérémonie pour le directeur?[1205][001E] Oh\noh... C'est à cause de ce que t'as\ndit, [1113]. Je m'en lave les mains!"
   },
   {
     "id": 10,
@@ -173,7 +173,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]lady's[SP]called[SP]Ms.[SP]Ideal,[SP]right?[1205][U+000F][SP]She[SP]seems\nlike[SP]a[SP]pretty[SP]weird[SP]teacher.[SP]Like[SP]she'd[SP]be[SP]more\nat[SP]home[SP]as[SP]an[SP]archaeologist...[SP]or[SP]a[SP]ninja.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Cette dame, c'est Mme Idéale, non?[1205][U+000F] Elle a\nl'air d'une prof bizarre. Elle ferait \nmieux[1205][U+000F]\narchéologue... ou ninja."
+    "texte_fr": "Cette dame, c'est Mme Idéale, non?[1205][U+000F]\nElle a l'air d'une prof bizarre. Elle\nferait mieux[1205][U+000F] archéologue... ou ninja."
   },
   {
     "id": 11,
@@ -189,7 +189,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "I[SP]think[SP]that[SP]stubborn[SP]Undie[SP]Boss[SP]finally[SP]gets\nwhat's[SP]going[SP]on.[1205][001E][SP]I'm[SP]glad[SP]I[SP]made[SP]that[SP]bet[SP]with\nhim[SP]on[SP]the[SP]way[SP]here!",
     "nom_fr": "Lisa",
-    "texte_fr": "Je crois que ce têtu de Boss des Calbutes\na enfin compris.[1205][001E] Contente d'avoir parié\navec lui en venant!"
+    "texte_fr": "Je crois que ce têtu de Boss des\nCalbutes a enfin compris.[1205][001E] Contente\nd'avoir parié avec lui en venant!"
   },
   {
     "id": 12,
@@ -205,7 +205,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]think[SP]that[SP]stubborn[SP]Undie[SP]Boss[SP]finally[SP]gets\nwhat's[SP]going[SP]on.[1205][001E][SP]I'm[SP]glad[SP]I[SP]made[SP]that[SP]bet[SP]with\nhim[SP]on[SP]the[SP]way[SP]here!",
     "nom_fr": "Ginko",
-    "texte_fr": "Je crois que ce têtu de Boss des Calbutes\na enfin compris.[1205][001E] Contente d'avoir parié\navec lui en venant!"
+    "texte_fr": "Je crois que ce têtu de Boss des\nCalbutes a enfin compris.[1205][001E] Contente\nd'avoir parié avec lui en venant!"
   },
   {
     "id": 13,
@@ -269,7 +269,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Yikes...[1205][001E][SP]I[SP]think[SP]it's[SP]a[SP]little[SP]late[SP]now[SP]to\nstart[SP]suggesting[SP]he[SP]lived...",
     "nom_fr": "Maya",
-    "texte_fr": "Oh là là...[1205][001E] C'est un peu tard pour\nsuggérer qu'il a survécu..."
+    "texte_fr": "Oh là là...[1205][001E] C'est un peu tard\npour suggérer qu'il a survécu..."
   },
   {
     "id": 17,
@@ -285,7 +285,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Well,[SP]so[SP]what!?[SP]Nothing[SP]we[SP]can[SP]do[SP]now![1205][001E][SP]No[SP]use\ncrying[SP]over[SP]spilt[SP]milk,[SP]I[SP]guess.[1205][001E][SP]It[SP]was[SP]just\nanother[SP]student[SP]prank...",
     "nom_fr": "Maya",
-    "texte_fr": "Et alors!? On n'y peut plus rien![1205][001E] Ce qui\nest fait est fait.[1205][001E] C'était juste une\nblague de lycéens..."
+    "texte_fr": "Et alors!? On n'y peut plus rien![1205][001E]\nCe qui est fait est fait.[1205][001E] C'était\njuste une blague de lycéens..."
   },
   {
     "id": 18,
@@ -349,7 +349,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "By[SP]the[SP]way,[SP][1113]...[SP]Is[SP]that[SP]big[SP]rock[SP]a\nHiremon[SP]Stone?[1205][001E][SP]We[SP]had[SP]something[SP]like[SP]it[SP]at\nSt.[SP]Hermelin[SP]too...",
     "nom_fr": "Yukino",
-    "texte_fr": "Au fait, [1113]... Ce rocher, c'est une\nPierre Hiremon?[1205][001E] On avait pareil\nà St. Hermelin..."
+    "texte_fr": "Au fait, [1113]... Ce rocher, c'est une\nPierre Hiremon?[1205][001E] On avait pareil à St.\nHermelin..."
   },
   {
     "id": 22,
@@ -365,7 +365,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Huh?[SP]It's[SP]the[SP]Narurato[SP]Stone?[1205][001E][SP]Really...\nI[SP]guess[SP]it[SP]does[SP]seem[SP]different[SP]from[SP]the[SP]one\nI[SP]remember...[SP]It[SP]creeps[SP]me[SP]out[SP]a[SP]little.",
     "nom_fr": "Yukino",
-    "texte_fr": "Hein? C'est la Pierre Narurato?[1205][001E] Ah \noui...\nElle est différente de celle de mes[1205][U+000F]\nsouvenirs... Elle me met mal à l'aise."
+    "texte_fr": "Hein? C'est la Pierre Narurato?[1205][001E] Ah oui...\nElle est différente de celle de mes[1205][U+000F]\nsouvenirs... Elle me met mal à l'aise."
   },
   {
     "id": 23,
@@ -397,7 +397,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Huh?[SP]It's[SP]the[SP]Narurato[SP]Stone?[1205][001E][SP]Really...\nI[SP]guess[SP]it[SP]does[SP]seem[SP]different[SP]from[SP]the[SP]one\nI[SP]remember...[SP]It[SP]creeps[SP]me[SP]out[SP]a[SP]little.",
     "nom_fr": "Yukino",
-    "texte_fr": "Hein? C'est la Pierre Narurato?[1205][001E] Ah \noui...\nElle est différente de celle de mes[1205][U+000F]\nsouvenirs... Elle me met mal à l'aise."
+    "texte_fr": "Hein? C'est la Pierre Narurato?[1205][001E] Ah oui...\nElle est différente de celle de mes[1205][U+000F]\nsouvenirs... Elle me met mal à l'aise."
   },
   {
     "id": 25,
@@ -413,7 +413,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "C-Could[SP]the[SP]Narurato[SP]Stone[SP]be[SP]affecting[SP]the\nstatue...?[1205][001E][SP]Th-This[SP]is[SP]terrible...[1205][001E][SP]Kashihara,\nwhat[SP]should[SP]I[SP]do...?",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "L-La Pierre Narurato affecterait la\nstatue...?[1205][001E] C-C'est terrible...[1205][001E]\nKashihara, que dois-je faire...?"
+    "texte_fr": "L-La Pierre Narurato affecterait\nla statue...?[1205][001E] C-C'est terrible...[1205][001E]\nKashihara, que dois-je faire...?"
   },
   {
     "id": 26,
@@ -445,7 +445,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "[1432][NULL][NULL][0014]Why[1432][NULL][NULL][0014]...!?[1205][001E][SP]L-Look[SP]at[SP]the[SP]statue![SP]I-It's[SP]walking\naround![SP]D-Don't[SP]you[SP]think[SP]that's[SP]dangerous!?",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "[1432][NULL][NULL][0014]Pourquoi[1432][NULL][NULL][0014]...!?[1205][001E] R-Regardez la statue!\nE-Elle se balade! C-C'est dangereux, non \n!?"
+    "texte_fr": "[1432][NULL][NULL][0014]Pourquoi[1432][NULL][NULL][0014]...!?[1205][001E] R-Regardez la statue! E-Elle\nse balade! C-C'est dangereux, non !?"
   },
   {
     "id": 28,
@@ -525,6 +525,6 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Thank[SP]you,[SP]Principal[SP]Hanya![SP]And[SP]farewell!\nAs[SP]we[SP]look[SP]with[SP]reverence\nOn[SP]our[SP]teacher's[SP]elegance[E1][E2]\n[E3][E4][NULL][NULL]\"Female[SP]student\nIt[SP]was[SP]thanks[SP]to[SP]our[SP]Principal[SP]that[SP]the\ncurse[SP]was[SP]lifted...[SP]Sevens[SP]is[SP]saved!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Merci, directeur Hanya! Et adieu!\nNous contemplons avec révérence\nDe notre maître l'élégance[E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Lycéenne\nC'est grâce au directeur que la \nmalédiction[1205][U+000F]\nest levée... Seven est sauvé!"
+    "texte_fr": "Merci, directeur Hanya! Et adieu! Nous\ncontemplons avec révérence De notre maître\nl'élégance[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Lycéenne C'est grâce au directeur\nque la malédiction[1205][U+000F] est levée... Seven est\nsauvé!"
   }
 ]

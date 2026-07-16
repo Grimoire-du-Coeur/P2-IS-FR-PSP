@@ -13,7 +13,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That's[SP]frickin'[SP]lowdown,[SP]man![SP]This[SP]isn't\nwhat[SP]you[SP]promised!",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est un coup bas, mec!\nC'est pas ce qu'il avait promis!"
+    "texte_fr": "C'est un coup bas, mec! C'est\npas ce qu'il avait promis!"
   },
   {
     "id": 1,
@@ -45,7 +45,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Ngh...[1205][001E][SP]I've[SP]had[SP]enough[SP]of[SP]this!\nLet[SP]go[SP]of[SP]that[SP]girl!",
     "nom_fr": "Maya",
-    "texte_fr": "Urgh...[1205][001E] J'en ai assez!\nLâchez cette fille!"
+    "texte_fr": "Urgh...[1205][001E] J'en ai assez! Lâchez cette fille!"
   },
   {
     "id": 3,
@@ -77,7 +77,7 @@
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "I[SP]refuse[SP]to[SP]wait[SP]until[SP]the[SP]End[SP]of[SP]Nahui-\nOllin...[1205][001E][SP]Burn[SP]to[SP]ashes[SP]here,[SP]as[SP]befits\na[SP]witch[SP]like[SP]you!",
     "nom_fr": "Tatsuya Sudou",
-    "texte_fr": "Je n'attendrai pas la Fin\ndu Nahui-Ollin...[1205][001E] Brûle\nen cendres, comme une sorcière!"
+    "texte_fr": "Je n'attendrai pas la Fin du Nahui-Ollin...[1205][001E]\nBrûle en cendres, comme une sorcière!"
   },
   {
     "id": 5,
@@ -109,7 +109,7 @@
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "The[SP]fulfillment[SP]of[SP]the[SP]Oracle[SP]of[SP]Maia...[1205][001E]\nWhat[SP]the[SP]Exalted[SP]One[SP]truly[SP]desires[SP]is[SP]the\nmeans[SP]to[SP]sublimate[SP]mankind[SP]to[SP]the[SP]Idealians.",
     "nom_fr": "Tatsuya Sudou",
-    "texte_fr": "L'accomplissement de l'Oracle de Maia...[1205][001E]\nCe que l'Exaltée désire vraiment,\nc'est de sublimer l'humanité en Idéaliens."
+    "texte_fr": "L'accomplissement de l'Oracle de Maia...[1205][001E]\nCe que l'Exaltée désire vraiment, c'est\nde sublimer l'humanité en Idéaliens."
   },
   {
     "id": 7,
@@ -141,7 +141,7 @@
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "From[SP]that[SP]day[SP]forth,[SP]we[SP]members[SP]of[SP]the[SP]new\nrace[SP]will[SP]be[SP]close[SP]to[SP]gods![1205][001E][SP]This[SP]rotten[SP]world\nwill[SP]be[SP]obliterated!",
     "nom_fr": "Tatsuya Sudou",
-    "texte_fr": "À partir de ce jour, nous, la nouvelle\nrace, serons proches des dieux![1205][001E]\nCe monde pourri sera anéanti!"
+    "texte_fr": "À partir de ce jour, nous, la\nnouvelle race, serons proches des\ndieux![1205][001E] Ce monde pourri sera anéanti!"
   },
   {
     "id": 9,
@@ -189,7 +189,7 @@
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "You[SP]still[SP]do[SP]not[SP]remember?[SP]Humans[SP]take[SP]so\nreadily[SP]to[SP]extremes.[SP]It's[SP]only[SP]natural\nthat[SP]the[SP]memory[SP]of[SP]Maia[SP]has[SP]been[SP]lost...",
     "nom_fr": "Tatsuya Sudou",
-    "texte_fr": "Tu ne te souviens toujours pas? Les \nhumains\nvont vite aux extrêmes. Il est naturel[1205][U+000F]\nque le souvenir de Maia soit perdu..."
+    "texte_fr": "Tu ne te souviens toujours pas? Les humains\nvont vite aux extrêmes. Il est naturel[1205][U+000F] que\nle souvenir de Maia soit perdu..."
   },
   {
     "id": 12,
@@ -205,7 +205,7 @@
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "The[SP]Exalted[SP]One's[SP]face[SP]beneath[SP]the[SP]mask[SP]is\nas[SP]beautiful[SP]as[SP]a[SP]goddess...",
     "nom_fr": "Tatsuya Sudou",
-    "texte_fr": "Le visage de l'Exaltée sous le masque\nest d'une beauté divine..."
+    "texte_fr": "Le visage de l'Exaltée sous le\nmasque est d'une beauté divine..."
   },
   {
     "id": 13,
@@ -221,7 +221,7 @@
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "I[SP]have[SP]my[SP]orders[SP]from[SP]the[SP]Exalted[SP]One:\nto[SP]take[SP]revenge[SP]on[SP]you[SP]who[SP]have[SP]hindered\nour[SP]progress!",
     "nom_fr": "Tatsuya Sudou",
-    "texte_fr": "J'ai mes ordres de l'Exaltée:\nme venger de ceux qui ont entravé\nnotre progression!"
+    "texte_fr": "J'ai mes ordres de l'Exaltée: me venger de\nceux qui ont entravé notre progression!"
   },
   {
     "id": 14,
@@ -237,7 +237,7 @@
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "[1432][NULL][NULL][0014]Remember[SP]that[SP]summer[SP]day[SP]ten[SP]years[SP]ago...[1432][NULL][NULL][0014]\nA[SP]message[SP]from[SP]the[SP]Exalted[SP]One!",
     "nom_fr": "Tatsuya Sudou",
-    "texte_fr": "[1432][NULL][NULL][0014]Souviens-toi de cet été, il y a dix ans...[1432][NULL][NULL][0014]\nUn message de l'Exaltée!"
+    "texte_fr": "[1432][NULL][NULL][0014]Souviens-toi de cet été, il y a dix\nans...[1432][NULL][NULL][0014] Un message de l'Exaltée!"
   },
   {
     "id": 15,
@@ -285,7 +285,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "And[SP]where[SP]do[SP]you[SP]think[SP]you're[SP]going!?\nThere's[SP]no[SP]escape[SP]for[SP]you!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Et tu crois aller où comme ça!?\nTu ne t'en tireras pas!"
+    "texte_fr": "Et tu crois aller où comme\nça!? Tu ne t'en tireras pas!"
   },
   {
     "id": 18,
@@ -301,7 +301,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "The[SP]observatory[SP]restaurant[SP]is[SP]moving!?\n...That's[SP]right![SP]The[SP]kids'[SP]rumor!",
     "nom_fr": "Yukino",
-    "texte_fr": "L'observatoire-restaurant bouge!?\n...C'est ça, la rumeur des gosses!"
+    "texte_fr": "L'observatoire-restaurant bouge!?\n... C'est ça, la rumeur des gosses!"
   },
   {
     "id": 19,

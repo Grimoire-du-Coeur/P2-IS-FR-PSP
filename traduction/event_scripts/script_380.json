@@ -13,7 +13,7 @@
     "nom_orig": "???",
     "texte_orig": "Blauch...[1205][001E][SP]O-Okay,[SP]I[SP]ate[SP]the[SP]strawberry[SP]tanmen...[1205][001E]\nN-Now[SP]let's[SP]get[SP]down[SP]to[SP]business...",
     "nom_fr": "???",
-    "texte_fr": "Blauch...[1205][001E] B-Bon, j'ai mangé le tanmen \nfraise...[1205][001E]\nBon, aux choses sérieuses..."
+    "texte_fr": "Blauch...[1205][001E] B-Bon, j'ai mangé le tanmen\nfraise...[1205][001E] Bon, aux choses sérieuses..."
   },
   {
     "id": 1,
@@ -61,7 +61,7 @@
     "nom_orig": "Tadashi",
     "texte_orig": "I[SP]must've[SP]just[SP]ordered[SP]the[SP]wrong[SP]thing...\nI[SP]heard[SP]it[SP]was[SP]something[SP]disgusting.[1205][001E][SP]What[SP]about\nthe[SP]sweet[SP]red[SP]bean[SP]gyoza?",
     "nom_fr": "Tadashi",
-    "texte_fr": "J'ai dû commander le mauvais truc...\nJ'ai entendu que c'était dégoûtant.[1205][001E]\nEt les gyoza aux haricots rouges sucrés?"
+    "texte_fr": "J'ai dû commander le mauvais truc...\nJ'ai entendu que c'était dégoûtant.[1205][001E] Et\nles gyoza aux haricots rouges sucrés?"
   },
   {
     "id": 4,
@@ -93,7 +93,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Why[SP]me...?[1205][001E][SP]One[SP]banana[SP]char[SP]siu[SP]ramen,[SP]Ma'am!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pourquoi moi...?[1205][001E] Un ramen\nchar siu banane!"
+    "texte_fr": "Pourquoi moi...?[1205][001E] Un ramen char siu banane!"
   },
   {
     "id": 6,
@@ -125,7 +125,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "I[SP]knew[SP]this[SP]day[SP]would[SP]come,[SP]Eikichi...[1205][001E][SP]These\nweapons[SP]are[SP]on[SP]the[SP]house,[SP]as[SP]a[SP]farewell[SP]gift.[1205][001E]\nHmmm...[SP]Let's[SP]see...",
     "nom_fr": "Patronne",
-    "texte_fr": "Je savais que ce jour viendrait, \nEikichi...[1205][001E]\nCes armes sont offertes, adieu.[1205][001E][1205][U+000F]\nHmmm... Voyons voir..."
+    "texte_fr": "Je savais que ce jour viendrait,\nEikichi...[1205][001E] Ces armes sont offertes,\nadieu.[1205][001E][1205][U+000F] Hmmm... Voyons voir..."
   },
   {
     "id": 8,
@@ -141,7 +141,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Eikichi,[SP]you[SP]get[SP]a[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0007]Standard[SP]Case[E4][NULL][NULL][0002].[1205][U+000F][SP]Mr.[SP]Cool\nhere[SP]gets[SP]a[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0006]Misericorde[E4][NULL][NULL][0002]...[1205][U+000F][SP]And[SP]I'll[SP]throw[SP]in\nsome[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0008]Leather[SP]Gloves[E4][NULL][NULL][0002][SP]for[SP]the[SP]girl.",
     "nom_fr": "Patronne",
-    "texte_fr": "Eikichi: [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0007]Mallette standard[E4][NULL][NULL][0002].[1205][U+000F] M. le\ncool: [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0006]Miséricorde[E4][NULL][NULL][0002]...[1205][U+000F] Et\ndes [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0008]Gants en cuir[E4][NULL][NULL][0002] pour la fille."
+    "texte_fr": "Eikichi: [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0007]Mallette standard[E4][NULL][NULL][0002].[1205][U+000F] M. le cool:\n[E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0006]Miséricorde[E4][NULL][NULL][0002]...[1205][U+000F] Et des [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0008]Gants en cuir[E4][NULL][NULL][0002] pour la\nfille."
   },
   {
     "id": 9,
@@ -157,7 +157,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "But[SP]rules[SP]are[SP]rules.[1205][U+000F][SP]You[SP]have[SP]to[SP]eat[SP]what[SP]you\nordered,[SP]or[SP]I'll[SP]pretend[SP]this[SP]never[SP]happened.",
     "nom_fr": "Patronne",
-    "texte_fr": "Règles sont règles.[1205][U+000F]\nTu dois manger ce que tu as commandé,\nsinon ça n'a pas eu lieu."
+    "texte_fr": "Règles sont règles.[1205][U+000F] Tu dois manger ce que\ntu as commandé, sinon ça n'a pas eu lieu."
   },
   {
     "id": 10,
@@ -173,7 +173,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "There![SP]I[SP]choked[SP]it[SP]down![SP]Take[SP]that![1205][001E]\nBluuuuuurrghhhh...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Voilà! J'ai avalé ça! Dans ta face![1205][001E]\nBluuuurghhhh..."
+    "texte_fr": "Voilà! J'ai avalé ça! Dans\nta face![1205][001E] Bluuuurghhhh..."
   },
   {
     "id": 11,
@@ -189,7 +189,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "Big[SP]news,[SP]everyone![SP]I[SP]talked[SP]to[SP]someone[SP]who\nwitnessed[SP]Principal[SP]Hanya[SP]with[SP]a[SP]mysterious\nmasked[SP]figure!",
     "nom_fr": "Kozy",
-    "texte_fr": "Grande nouvelle! Quelqu'un a vu\nle proviseur Hanya avec\nun mystérieux personnage masqué!"
+    "texte_fr": "Grande nouvelle! Quelqu'un a vu le proviseur\nHanya avec un mystérieux personnage masqué!"
   },
   {
     "id": 12,
@@ -221,7 +221,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Let's[SP]go[SP]back[SP]to[SP]Sevens,[SP][1113]![SP]Hanya[SP]might\nknow[SP]something[SP]about[SP]Joker!",
     "nom_fr": "Lisa",
-    "texte_fr": "On va à Seven, [1113]! Hanya\nsait peut-être quelque chose sur Joker!"
+    "texte_fr": "On va à Seven, [1113]! Hanya sait\npeut-être quelque chose sur Joker!"
   },
   {
     "id": 14,
@@ -253,7 +253,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]lady's[SP]always[SP]teasing[SP]her[SP]customers[SP]out\nof[SP]boredom.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Elle s'amuse toujours à faire\nmarcher ses clients."
+    "texte_fr": "Elle s'amuse toujours à\nfaire marcher ses clients."
   },
   {
     "id": 16,
@@ -269,7 +269,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I've[SP]known[SP]her[SP]since[SP]I[SP]was[SP]a[SP]kid,[SP]so[SP]I'm[SP]pretty\nfamiliar[SP]with[SP]this[SP]place.[SP]And[SP]I[SP]know[SP]there's[SP]no\nway[SP]you[SP]can[SP]buy[SP]weapons[SP]here.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je la connais depuis que je suis gamin,\ndonc je connais bien cet endroit. Et je\nsais qu'on ne peut pas acheter d'armes [1205][U+000F]\nici."
+    "texte_fr": "Je la connais depuis que je suis gamin, donc\nje connais bien cet endroit. Et je sais\nqu'on ne peut pas acheter d'armes [1205][U+000F] ici."
   },
   {
     "id": 17,
@@ -285,7 +285,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Did[SP]he[SP]say,[SP][1432][NULL][NULL][0014]secret[SP]dish,[1432][NULL][NULL][0014][SP][1113]?[SP]That[SP]must\nbe[SP]the[SP]password[SP]you[SP]need[SP]to[SP]buy[SP]weapons.[SP]Let's\ngo[SP]ask[SP]the[SP]Chief[SP]what[SP]it[SP]is!",
     "nom_fr": "Lisa",
-    "texte_fr": "Il a dit [1432][NULL][NULL][0014]plat secret,[1432][NULL][NULL][0014] [1113]? C'est\nsûrement le mot de passe pour acheter des\narmes. Allons demander au Chef!"
+    "texte_fr": "Il a dit [1432][NULL][NULL][0014]plat secret,[1432][NULL][NULL][0014] [1113]? C'est\nsûrement le mot de passe pour acheter\ndes armes. Allons demander au Chef!"
   },
   {
     "id": 18,
@@ -349,7 +349,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "I[SP]was[SP]actually[SP]the[SP]third[SP]wife[SP]of[SP]an[SP]Arabian\noil[SP]tycoon,[SP]so[SP]I[SP]don't[SP]sell[SP]weapons.",
     "nom_fr": "Patronne",
-    "texte_fr": "J'étais la 3ème épouse d'un magnat\npétrolier arabe, je ne vends\npas d'armes."
+    "texte_fr": "J'étais la 3ème épouse d'un magnat\npétrolier arabe, je ne vends pas d'armes."
   },
   {
     "id": 22,
@@ -365,7 +365,7 @@
     "nom_orig": "Washout[SP]student",
     "texte_orig": "Maaaan,[SP]what[SP]a[SP]surprise.[1205][U+000F][SP]I[SP]can't[SP]believe[SP]you\ncan[SP]eat[SP]stuff[SP]like[SP]that.[1205][U+000F][SP]The[SP]city[SP]sure[SP]is\na[SP]scary[SP]place.",
     "nom_fr": "Lycéen raté",
-    "texte_fr": "Maaaan, quelle surprise.[1205][U+000F] J'arrive pas\nà croire que tu manges des trucs\ncomme ça.[1205][U+000F] La ville est flippante."
+    "texte_fr": "Maaaan, quelle surprise.[1205][U+000F] J'arrive\npas à croire que tu manges des trucs\ncomme ça.[1205][U+000F] La ville est flippante."
   },
   {
     "id": 23,
@@ -381,6 +381,6 @@
     "nom_orig": "Ordinary[SP]man",
     "texte_orig": "Ahhhahahaha![SP]She's[SP]pulling[SP]the[SP]wool[SP]over[SP]your\neyes,[SP]kid![SP]I[SP]can't[SP]believe[SP]you're[SP]falling[SP]for\nher[SP]wild[SP]stories.",
     "nom_fr": "Homme ordinaire",
-    "texte_fr": "Ahhhahahahah! Elle t'en fait voir,\ngamin! J'arrive pas à croire\nque tu tombes dans ses histoires."
+    "texte_fr": "Ahhhahahahah! Elle t'en fait voir,\ngamin! J'arrive pas à croire que\ntu tombes dans ses histoires."
   }
 ]

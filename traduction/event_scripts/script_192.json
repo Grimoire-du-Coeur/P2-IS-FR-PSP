@@ -45,7 +45,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Ngh...[SP]Again...?[1205][001E][SP]Why?[SP]Why[SP]are[SP]we[SP]seeing\nthese[SP]things...?",
     "nom_fr": "Jun",
-    "texte_fr": "Heu...Encore?[1205][001E] Pourquoi? Pourquoi on voit \nces choses?"
+    "texte_fr": "Heu... Encore?[1205][001E] Pourquoi?\nPourquoi on voit ces choses?"
   },
   {
     "id": 3,
@@ -61,7 +61,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Isn't[SP]your[SP]mom[SP]gonna[SP]come[SP]pick[SP]you[SP]up,[SP]Jun-kun?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\n...[1205][001E]I[SP]wish...[1205][001E][SP]I[SP]wish[SP]you[SP]were[SP]my[SP]Mama,\nBig[SP]Sis...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nMama...[SP]She[SP]hates[SP]me...[1205][001E][SP]But[SP]Papa's[SP]really\ngreat![SP]I[SP]swear!",
     "nom_fr": "Maya",
-    "texte_fr": "Ta maman vient pas te chercher, Jun-kun?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun[1205][U+000F]\n...[1205][001E]J'aimerais...[1205][001E] que tu sois ma maman,\nSœurette...\n[E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Jun\nMaman me déteste...[1205][001E] Mais papa\nest super! Je le jure!"
+    "texte_fr": "Ta maman vient pas te chercher, Jun-kun? [E1][E2]\n[E3][E4][NULL][NULL]\"Jun[1205][U+000F] ...[1205][001E] J'aimerais...[1205][001E] que tu sois ma\nmaman, Sœurette... [E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Jun Maman me\ndéteste...[1205][001E] Mais papa est super! Je le jure!"
   },
   {
     "id": 4,
@@ -77,7 +77,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Oh...[1205][001E][SP]Then[SP]I'll[SP]walk[SP]you[SP]home!",
     "nom_fr": "Maya",
-    "texte_fr": "Oh...[1205][001E]Je t’accompagne!"
+    "texte_fr": "Oh...[1205][001E] Je t’accompagne!"
   },
   {
     "id": 5,
@@ -93,7 +93,7 @@
     "nom_orig": "???",
     "texte_orig": "Oh,[SP]hello...[1205][001E][SP]Thanks[SP]for[SP]looking[SP]after[SP]Jun...",
     "nom_fr": "???",
-    "texte_fr": "Oh, bonjour... Merci de t’être occupé de \nJun."
+    "texte_fr": "Oh, bonjour... Merci de t’être occupé de Jun."
   },
   {
     "id": 6,
@@ -125,6 +125,6 @@
     "nom_orig": "Maya",
     "texte_orig": "Hello.[1205][001E][SP]Um...[SP]Are[SP]you[SP]Jun-kun's[SP]father?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nN-No...![1205][001E][SP]He's...[1205][001E][SP]He's[SP]my[SP]uncle!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun's[SP]uncle\n...[1205][001E]Come[SP]on...[SP]Let's[SP]go[SP]home.[SP]Jun...?",
     "nom_fr": "Maya",
-    "texte_fr": "Bonjour.[1205][001E] Euh, vous êtes le père\nde Jun-kun?\n[E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Jun\nN-Non...![1205][001E] C'est...[1205][001E] mon oncle!\n[E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Oncle de Jun\n...[1205][001E]Allez, rentrons. Jun?"
+    "texte_fr": "Bonjour.[1205][001E] Euh, vous êtes le père de Jun-kun?\n[E1][E2][1205][U+000F][E3][E4][NULL][NULL]\"Jun N-Non...![1205][001E] C'est...[1205][001E] mon oncle! [E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Oncle\nde Jun ...[1205][001E] Allez, rentrons. Jun?"
   }
 ]

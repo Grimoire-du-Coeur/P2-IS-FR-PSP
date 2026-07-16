@@ -61,7 +61,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You[SP]were[SP]nice[SP]when[SP]everyone[SP]else[SP]made[SP]fun[SP]of\nme...[SP]I[SP]fell[SP]in[SP]love[SP]with[SP]the[SP]girl[SP]who[SP]didn't\ntreat[SP]me[SP]different[SP]from[SP]anyone[SP]else...[1205][001E]",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est de cette fille si gentille, \nqui me traitait comme les autres même \nquand on[1205][U+000F]\nm'humiliait que je suis tombé amoureux...[1205][001E]"
+    "texte_fr": "C'est de cette fille si gentille, qui me\ntraitait comme les autres même quand on[1205][U+000F]\nm'humiliait que je suis tombé amoureux...[1205][001E]"
   },
   {
     "id": 4,
@@ -77,7 +77,7 @@
     "nom_orig": "Miyabi",
     "texte_orig": "Thank[SP]you...[1205][001E][SP]Thank[SP]you...",
     "nom_fr": "Miyabi",
-    "texte_fr": "Merci, Eikichi...[1205][001E]Merci..."
+    "texte_fr": "Merci, Eikichi...[1205][001E] Merci..."
   },
   {
     "id": 5,
@@ -93,7 +93,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Whew,[SP]is[SP]it[SP]just[SP]me[SP]or[SP]is[SP]it[SP]getting[SP]hot[SP]in[SP]here!",
     "nom_fr": "Ginko",
-    "texte_fr": "Ouh, c'est moi ou il fait chaud, d'un \ncoup?"
+    "texte_fr": "Ouh, c'est moi ou il fait chaud, d'un coup?"
   },
   {
     "id": 6,
@@ -125,7 +125,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Eikichi-kun's[SP]Manliness[SP]increased[SP]by[SP]10!\nNow[SP]if[SP]you[SP]can[SP]get[SP]past[SP]your[SP]hangup[SP]about\nyour[SP]dad,[SP]you'll[SP]be[SP]all[SP]set.",
     "nom_fr": "Maya",
-    "texte_fr": "Ta statistique de virilité augmente de 10!\nPlus qu'à gérer les embrouilles avec ton \npère[1205][U+000F],\n et tu seras bon."
+    "texte_fr": "Ta statistique de virilité augmente de\n10! Plus qu'à gérer les embrouilles\navec ton père[1205][U+000F], et tu seras bon."
   },
   {
     "id": 8,
@@ -141,7 +141,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Awww,[SP]why'd[SP]you[SP]have[SP]to[SP]bring[SP]him[SP]up?\nEverything[SP]was[SP]going[SP]so[SP]well...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mayaaa... pourquoi tu parles de ça? C'est\ncensé être mon moment..."
+    "texte_fr": "Mayaaa... pourquoi tu parles de\nça? C'est censé être mon moment..."
   },
   {
     "id": 9,
@@ -157,7 +157,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Now...[1205][001E][SP]Shall[SP]we...?",
     "nom_fr": "Jun",
-    "texte_fr": "Bon...[1205][001E]On y va...?"
+    "texte_fr": "Bon...[1205][001E] On y va...?"
   },
   {
     "id": 10,
@@ -189,7 +189,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Sorry,[SP]Miyabi...[1205][001E][SP]There's[SP]still[SP]some[SP]stuff\nI[SP]need[SP]to[SP]take[SP]care[SP]of.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pardon, Miyabi...[1205][001E] Il me reste encore des\ntrucs à gérer."
+    "texte_fr": "Pardon, Miyabi...[1205][001E] Il me reste\nencore des trucs à gérer."
   },
   {
     "id": 12,
@@ -221,7 +221,7 @@
     "nom_orig": "Water[SP]crystal[SP]skull",
     "texte_orig": "I[SP]am[SP]the[SP]skull[SP]of[SP]the[SP]still[SP]waters...[1205][001E][SP]If[SP]my\nslumber[SP]is[SP]disturbed,[SP]fire's[SP]wrath[SP]will[SP]grow\nstronger[SP]and[SP]the[SP]earth[SP]will[SP]be[SP]parched...",
     "nom_fr": "Crâne de crystal d'eau",
-    "texte_fr": "Je suis le crâne des eaux dormantes...[1205][001E] \nTroubler\nmon sommeil libérera le feu, tandis que la[1205][U+000F]\nterre finira assêchée..."
+    "texte_fr": "Je suis le crâne des eaux dormantes...[1205][001E]\nTroubler mon sommeil libérera le feu,\ntandis que la[1205][U+000F] terre finira assêchée..."
   },
   {
     "id": 14,
@@ -237,7 +237,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "We've[SP]got[SP]four[SP]skulls[SP]now...[1205][001E][SP]There's[SP]only\none[SP]left[SP]for[SP]us[SP]to--",
     "nom_fr": "Eikichi",
-    "texte_fr": "On a les quatre crânes...[1205][001E] Plus qu'un à\nrécupérer pour--"
+    "texte_fr": "On a les quatre crânes...[1205][001E]\nPlus qu'un à récupérer pour--"
   },
   {
     "id": 15,
@@ -285,7 +285,7 @@
     "nom_orig": "Tamaki's[SP]voice",
     "texte_orig": "Maya-san!?[SP]Sorry[SP]to[SP]bother[SP]you,[SP]but[SP]we've\ngot[SP]trouble!",
     "nom_fr": "Voix de Tamaki",
-    "texte_fr": "Maya!? Pardon de te déranger, on a un\nproblème!"
+    "texte_fr": "Maya!? Pardon de te\ndéranger, on a un problème!"
   },
   {
     "id": 18,
@@ -301,7 +301,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Wh-Whoa![SP]What's[SP]wrong,[SP]Tamaki-san?\nCalm[SP]down[SP]and...",
     "nom_fr": "Maya",
-    "texte_fr": "A-attend! Calme-toi, Tamaki. \nQuel est le-"
+    "texte_fr": "A-attend! Calme-toi, Tamaki. Quel est le-"
   },
   {
     "id": 19,
@@ -333,7 +333,7 @@
     "nom_orig": "Tamaki's[SP]voice",
     "texte_orig": "He[SP]struck[SP]when[SP]the[SP]Chief[SP]and[SP]I[SP]were[SP]out...\nSorry![SP]Tadashi[SP]was[SP]there,[SP]but[SP]he[SP]got[SP]creamed\npretty[SP]bad...",
     "nom_fr": "Voix de Tamaki",
-    "texte_fr": "Il a dû attendre qu'on s'absente pour \nfrapper...\nTadashi était là, mais il a pris une[1205][U+000F]\ndéculottée..."
+    "texte_fr": "Il a dû attendre qu'on s'absente\npour frapper... Tadashi était là,\nmais il a pris une[1205][U+000F] déculottée..."
   },
   {
     "id": 21,
@@ -349,7 +349,7 @@
     "nom_orig": "Tamaki's[SP]voice",
     "texte_orig": "And[SP]from[SP]what[SP]Tadashi[SP]said,[SP]that[SP]bull[SP]guy[SP]was\nsaying[SP]something[SP]about[SP]a[SP]sacrifice!",
     "nom_fr": "Voix de Tamaki",
-    "texte_fr": "Et d'après Tadashi, le Prince Taureau a \nparlé\nd'un sacrifice ou quelque chose!"
+    "texte_fr": "Et d'après Tadashi, le Prince Taureau a\nparlé d'un sacrifice ou quelque chose!"
   },
   {
     "id": 22,
@@ -365,7 +365,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Of[SP]course...[SP]How[SP]careless[SP]of[SP]me.[1205][001E][SP]The[SP]woman[SP]who\nauthored[SP]the[SP]In[SP]Lak'ech[SP]with[SP]my[SP]father[SP]was\nnamed[SP]Maya[SP]Okamura...",
     "nom_fr": "Jun",
-    "texte_fr": "Mais oui... Celle qui a co-écrit l'In \nLak'ech\navec Père...[1205][001E] s'appelait Maya Okamura![1205][U+000F]\nJ'ai manqué de vigilance..."
+    "texte_fr": "Mais oui... Celle qui a co-écrit l'In\nLak'ech avec Père...[1205][001E] s'appelait Maya\nOkamura![1205][U+000F] J'ai manqué de vigilance..."
   },
   {
     "id": 23,
@@ -381,7 +381,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Father[SP]said[SP]she[SP]would[SP]be[SP]sacrificed[SP]when[SP]the\nOracle[SP]was[SP]fulfilled,[SP]as[SP]the[SP]one[SP]with[SP]Maian\nblood...[SP]She[SP]is[SP]the[SP][1432][NULL][NULL][0014]Maia[SP]Maiden.[1432][NULL][NULL][0014]",
     "nom_fr": "Jun",
-    "texte_fr": "Selon Père, quand l'Oracle se réalisera,\ncelle en qui le sang maïen coule sera \nsacrifiée... Elle est la [1432][NULL][NULL][0014]Vierge Maia.[1432][NULL][NULL][0014]"
+    "texte_fr": "Selon Père, quand l'Oracle se réalisera,\ncelle en qui le sang maïen coule sera\nsacrifiée... Elle est la [1432][NULL][NULL][0014]Vierge Maia.[1432][NULL][NULL][0014]"
   },
   {
     "id": 24,
@@ -397,7 +397,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]perv's[SP]still[SP]alive!?[SP]What's[SP]he[SP]want[SP]a\nmiddle-aged[SP]lady[SP]like[SP]her[SP]for!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ce pervert est encore vivant!? Pourquoi il\na besoin d'une vieille!?"
+    "texte_fr": "Ce pervert est encore vivant!?\nPourquoi il a besoin d'une vieille!?"
   },
   {
     "id": 25,
@@ -429,7 +429,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah!?[SP]That's[SP]the[SP]secret[SP]of[SP]the[SP]Narurato[SP]Stone!?",
     "nom_fr": "Ginko",
-    "texte_fr": "Aiyah!? C'est le secret de la Pierre \nNarurato!?"
+    "texte_fr": "Aiyah!? C'est le secret\nde la Pierre Narurato!?"
   },
   {
     "id": 27,
@@ -445,6 +445,6 @@
     "nom_orig": "Maya",
     "texte_orig": "Gotcha![SP]The[SP]sooner[SP]we[SP]leave[SP]the[SP]better.\nNext[SP]stop,[SP]Sevens!",
     "nom_fr": "Maya",
-    "texte_fr": "Compris! Partons dès que possible.\nProchain arrêt, Seven!"
+    "texte_fr": "Compris! Partons dès que\npossible. Prochain arrêt, Seven!"
   }
 ]

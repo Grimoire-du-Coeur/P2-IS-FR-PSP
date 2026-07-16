@@ -13,7 +13,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]think[SP]the[SP]old[SP]guy's[SP]right.[1205][U+000A][SP]Being[SP]happy[SP]and\nbeing[SP]an[SP]Idealian[SP]are[SP]two[SP]different[SP]things.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je crois que le vieux a raison.[1205][U+000A] Être \nheureux\net être un Idéalien, c'est pas pareil."
+    "texte_fr": "Je crois que le vieux a raison.[1205][U+000A] Être heureux\net être un Idéalien, c'est pas pareil."
   },
   {
     "id": 1,
@@ -29,7 +29,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "It[SP]does[SP]seem[SP]weird,[SP]not[SP]having[SP]any[SP]problems[SP]at\nall...[1205][U+000F][SP]It's[SP]like[SP]being[SP]dead...[1205][U+000F][SP]Or[SP]not[SP]human,\nat[SP]the[SP]very[SP]least.",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est étrange, n'avoir aucun problème...[1205][U+000F]\nC'est comme être mort...[1205][U+000F] Ou du moins\npas vraiment humain."
+    "texte_fr": "C'est étrange, n'avoir aucun\nproblème...[1205][U+000F] C'est comme être mort...[1205][U+000F]\nOu du moins pas vraiment humain."
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "nom_orig": "Maya",
     "texte_orig": "As[SP]long[SP]as[SP]man[SP]lives,[SP]he'll[SP]suffer[SP]and[SP]face\nhardships.[1205][U+000F][SP]But[SP]life[SP]goes[SP]on...[SP]I[SP]think[SP]that's\nhow[SP]we[SP]can[SP]find[SP]our[SP]true[SP]reasons[SP]for[SP]living...",
     "nom_fr": "Maya",
-    "texte_fr": "Tant que l'homme vivra, il souffrira et\naffrontera des épreuves.[1205][U+000F] La vie continue...\nC'est ainsi qu'on trouve ses raisons de \nvivre."
+    "texte_fr": "Tant que l'homme vivra, il souffrira et\naffrontera des épreuves.[1205][U+000F] La vie continue...\nC'est ainsi qu'on trouve ses raisons de vivre."
   },
   {
     "id": 3,
@@ -77,7 +77,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Nobody[SP]wants[SP]problems,[SP]or[SP]suffering...[SP]or[SP]sorrow.[1205][U+000F]\nI[SP]thought[SP]I'd[SP]get[SP]rid[SP]of[SP]all[SP]those[SP]things.",
     "nom_fr": "Jun",
-    "texte_fr": "Personne ne veut de problèmes, ni\nde souffrance... ni de chagrin.[1205][U+000F]\nJe voulais effacer ça."
+    "texte_fr": "Personne ne veut de problèmes, ni de\nsouffrance... ni de chagrin.[1205][U+000F] Je voulais\neffacer ça."
   },
   {
     "id": 5,
@@ -93,7 +93,7 @@
     "nom_orig": "Jun",
     "texte_orig": "But...[SP]Is[SP]happiness[SP]just[SP]the[SP]absence[SP]of[SP]sadness?[1205][U+000F]\nIf[SP]one[SP]doesn't[SP]face[SP]sadness,[SP]can[SP]one[SP]laugh...?[1205][U+000F]\nIn[SP]all[SP]honesty,[SP]I[SP]haven't[SP]found[SP]the[SP]answer[SP]yet.",
     "nom_fr": "Jun",
-    "texte_fr": "Mais... Le bonheur, c'est l'absence de \ntristesse?[1205][U+000F]\nSans jamais la connaître, peut-on rire?[1205][U+000F]\nFranchement, je n'ai pas la réponse."
+    "texte_fr": "Mais... Le bonheur, c'est l'absence de\ntristesse?[1205][U+000F] Sans jamais la connaître, peut-on\nrire?[1205][U+000F] Franchement, je n'ai pas la réponse."
   },
   {
     "id": 6,
@@ -210,7 +210,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "My[SP]services[SP]are[SP]not[SP]cheap,[SP]but[SP]since[SP]they[SP]affect\neveryone,[SP]it'll[SP]save[SP]you[SP]money[SP]in[SP]the[SP]long[SP]run.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Mes services ne sont pas donnés, mais\ncomme ils touchent tout le groupe,\nvous économisez."
+    "texte_fr": "Mes services ne sont pas donnés, mais comme\nils touchent tout le groupe, vous économisez."
   },
   {
     "id": 13,
@@ -226,7 +226,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "That's[SP]about[SP]it.[SP]Would[SP]you[SP]like[SP]to[SP]experience\nmy[SP]magic[SP]fingers[SP]for[SP]yourself[SP]now?",
     "nom_fr": "M. Tomi",
-    "texte_fr": "C'est à peu près tout. Voulez-vous\nexpérimenter mes doigts magiques \nmaintenant?"
+    "texte_fr": "C'est à peu près tout. Voulez-vous\nexpérimenter mes doigts magiques maintenant?"
   },
   {
     "id": 14,
@@ -242,7 +242,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Come[SP]again[SP]if[SP]you[SP]ever[SP]get[SP]tired.[1205][U+000A]\nThere's[SP]nothing[SP]these[SP]fingers[SP]can't[SP]cure![1205][U+000F]\nMagic[SP]fingers!",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Revenez si vous êtes fatigués.[1205][U+000A]\nCes doigts peuvent tout guérir![1205][U+000F]\nDoigts magiques!"
+    "texte_fr": "Revenez si vous êtes fatigués.[1205][U+000A] Ces doigts\npeuvent tout guérir![1205][U+000F] Doigts magiques!"
   },
   {
     "id": 15,
@@ -258,7 +258,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Hm?[SP]But[SP]you're[SP]all[SP]in[SP]perfect[SP]health.[1205][U+000F][SP]Overdoing\nit[SP]is[SP]worse[SP]than[SP]underdoing[SP]it.[1205][U+000A][SP]There's[SP]no[SP]need\nfor[SP]me[SP]to[SP]treat[SP]you.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Hm? Mais vous êtes tous en parfaite santé.[1205][U+000F]\nTrop de soins nuit autant que pas assez.[1205][U+000A]\nPas lieu de vous traiter."
+    "texte_fr": "Hm? Mais vous êtes tous en parfaite\nsanté.[1205][U+000F] Trop de soins nuit autant que\npas assez.[1205][U+000A] Pas lieu de vous traiter."
   },
   {
     "id": 16,
@@ -274,7 +274,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Oh[SP]my,[SP]this[SP]is[SP]terrible.[1205][U+000A][SP]Your[SP]spine's[SP]extremely\ncrooked.[1205][U+000A][SP]You'll[SP]need[SP]that[SP]straightened[SP]out.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Oh là là, c'est grave.[1205][U+000A] Votre colonne\nest terriblement courbée.[1205][U+000A]\nIl faut redresser ça."
+    "texte_fr": "Oh là là, c'est grave.[1205][U+000A] Votre colonne est\nterriblement courbée.[1205][U+000A] Il faut redresser ça."
   },
   {
     "id": 17,
@@ -310,7 +310,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Hm?[SP]But[SP]I[SP]just[SP]treated[SP]you.[SP]You're[SP]all[SP]in\nperfect[SP]health.[1205][U+000A][SP]There's[SP]no[SP]need[SP]for[SP]me[SP]to\ndo[SP]it[SP]again.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Hm? Mais je viens de vous soigner. Vous\nêtes tous en parfaite santé.[1205][U+000A]\nInutile de recommencer."
+    "texte_fr": "Hm? Mais je viens de vous soigner. Vous êtes\ntous en parfaite santé.[1205][U+000A] Inutile de\nrecommencer."
   },
   {
     "id": 19,
@@ -326,7 +326,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Oh[SP]dear...[1205][U+000A][SP]But[SP]those[SP]wounds[SP]will[SP]be[SP]healed[SP]in\nan[SP]instant[SP]once[SP]my[SP]magic[SP]fingers[SP]do[SP]their[SP]work![1205][U+000F]\nDon't[SP]overexert[SP]yourself,[SP]now.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Oh là...[1205][U+000A] Mais ces blessures seront guéries\nen un instant avec mes doigts magiques![1205][U+000F]\nNe vous surmenez pas, quand même."
+    "texte_fr": "Oh là...[1205][U+000A] Mais ces blessures seront guéries\nen un instant avec mes doigts magiques![1205][U+000F] Ne\nvous surmenez pas, quand même."
   },
   {
     "id": 20,
@@ -342,7 +342,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Right[SP]away![1205][U+000A][SP]Let[SP]me[SP]just[SP]make[SP]some[SP]markings[SP]with\nthis[SP]pen,[SP]and[SP]then...[1205][U+000F][SP]Here[SP]goes![1205][U+000A][SP]My[SP]trump[SP]card![1205][U+000A]\nThe[SP]MAGIC[SP]FINGERRRRS!",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Tout de suite![1205][U+000A] Laissez-moi faire quelques\nmarques avec ce stylo, et...[1205][U+000F] Voilà![1205][U+000A]\nMon atout maître![1205][U+000A]\nLes DOIGTS MAGIQUES!"
+    "texte_fr": "Tout de suite![1205][U+000A] Laissez-moi faire quelques\nmarques avec ce stylo, et...[1205][U+000F] Voilà![1205][U+000A] Mon\natout maître![1205][U+000A] Les DOIGTS MAGIQUES!"
   },
   {
     "id": 21,
@@ -358,7 +358,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Whew...[SP]Treatment[SP]complete.[SP]How[SP]did[SP]you[SP]like\nthe[SP]subtle[SP]touch[SP]of[SP]my[SP]magic[SP]fingers?",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Ouf... Soin terminé. Qu'avez-vous pensé\ndu toucher délicat de mes doigts magiques?"
+    "texte_fr": "Ouf... Soin terminé. Qu'avez-vous pensé du\ntoucher délicat de mes doigts magiques?"
   },
   {
     "id": 22,
@@ -374,7 +374,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Magic[SP]fingers![1205][U+000A][SP]They[SP]say[SP]everyone's[SP]troubles\nwill[SP]be[SP]over[SP]once[SP]they[SP]become[SP]Idealians...",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Doigts magiques![1205][U+000A] On dit que tous les\nproblèmes disparaissent en devenant \nIdéaliens..."
+    "texte_fr": "Doigts magiques![1205][U+000A] On dit que tous les problèmes\ndisparaissent en devenant Idéaliens..."
   },
   {
     "id": 23,
@@ -390,7 +390,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Does[SP]that[SP]include[SP]their[SP]troubles[SP]with[SP]tense\nmuscles,[SP]too?",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Y compris les problèmes de muscles\ntendus?"
+    "texte_fr": "Y compris les problèmes de muscles tendus?"
   },
   {
     "id": 24,
@@ -406,7 +406,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Then[SP]I'm[SP]against[SP]it![1205][U+000F][SP]It's[SP]that[SP]ache[SP]in[SP]your\nmuscles[SP]you[SP]get[SP]after[SP]a[SP]hard[SP]day's[SP]work[SP]that\nproves[SP]you're[SP]alive.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Alors je suis contre![1205][U+000F] C'est cette douleur\nmusculaire après une longue journée\nqui prouve qu'on est en vie."
+    "texte_fr": "Alors je suis contre![1205][U+000F] C'est cette\ndouleur musculaire après une longue\njournée qui prouve qu'on est en vie."
   },
   {
     "id": 25,
@@ -422,7 +422,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Without[SP]that,[SP]there[SP]won't[SP]be[SP]much[SP]satisfaction\nin[SP]a[SP]job[SP]well[SP]done.[1205][U+000F][SP]There[SP]won't[SP]be[SP]much\nsatisfaction[SP]in[SP]my[SP]job,[SP]either...",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Sans ça, il n'y a guère de satisfaction\naprès un travail bien fait.[1205][U+000F] Et mon propre\ntravail n'aurait plus grand sens."
+    "texte_fr": "Sans ça, il n'y a guère de satisfaction\naprès un travail bien fait.[1205][U+000F] Et mon\npropre travail n'aurait plus grand sens."
   },
   {
     "id": 26,
@@ -478,7 +478,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Hmmm![1205][U+000A][SP]Unfortunately,[SP]you're[SP]lacking[SP]in[SP]funds.[1205][U+000F]\nI[SP]can't[SP]treat[SP]you[SP]without[SP]proper[SP]payment.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Hmm![1205][U+000A] Malheureusement, vous n'avez pas\nassez d'argent.[1205][U+000F] Pas de soin\nsans paiement."
+    "texte_fr": "Hmm![1205][U+000A] Malheureusement, vous n'avez pas\nassez d'argent.[1205][U+000F] Pas de soin sans paiement."
   },
   {
     "id": 29,
@@ -494,7 +494,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Come[SP]again[SP]if[SP]you[SP]ever[SP]get[SP]tired.[1205][U+000A]\nThere's[SP]nothing[SP]these[SP]fingers[SP]can't[SP]cure![1205][U+000F]\nMagic[SP]fingers!",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Revenez si vous êtes fatigués.[1205][U+000A]\nCes doigts peuvent tout guérir![1205][U+000F]\nDoigts magiques!"
+    "texte_fr": "Revenez si vous êtes fatigués.[1205][U+000A] Ces doigts\npeuvent tout guérir![1205][U+000F] Doigts magiques!"
   },
   {
     "id": 30,
@@ -525,7 +525,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "Everyone's[SP]ranting[SP]about[SP][1432][NULL][NULL][0014]Idealians[1432][NULL][NULL][0014][SP]this[SP]and\n[1432][NULL][NULL][0014]Idealians[1432][NULL][NULL][0014][SP]that![SP]Something's[SP]wrong[SP]with[SP]them!",
     "nom_fr": "Vieil homme",
-    "texte_fr": "On parle des [1432][NULL][NULL][0014]Idéaliens[1432][NULL][NULL][0014]\npar-ci, des [1432][NULL][NULL][0014]Idéaliens[1432][NULL][NULL][0014] par-là!\nUn truc cloche chez eux!"
+    "texte_fr": "On parle des [1432][NULL][NULL][0014]Idéaliens[1432][NULL][NULL][0014] par-ci, des\n[1432][NULL][NULL][0014]Idéaliens[1432][NULL][NULL][0014] par-là! Un truc cloche chez eux!"
   },
   {
     "id": 32,
@@ -541,6 +541,6 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "I[SP]say[SP]no[SP]thanks.[SP]I[SP]didn't[SP]live[SP]this[SP]long[SP]just[SP]to\nevolve[SP]into[SP]something[SP]else.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Non merci. Je n'ai pas vécu si longtemps\npour évoluer en autre chose."
+    "texte_fr": "Non merci. Je n'ai pas vécu si\nlongtemps pour évoluer en autre chose."
   }
 ]

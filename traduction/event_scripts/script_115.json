@@ -13,7 +13,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Haime...[SP]Seriously!?[SP]Why's[SP]an[SP]army[SP]invading\nfrom[SP]above!?",
     "nom_fr": "Ginko",
-    "texte_fr": "Haime... Sérieux? Pourquoi une armée nous\ntombe dessus?"
+    "texte_fr": "Haime... Sérieux? Pourquoi\nune armée nous tombe dessus?"
   },
   {
     "id": 1,
@@ -45,7 +45,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Y...[SP]Yeah,[SP]I'm[SP]here.[SP]Don't[SP]tell[SP]me[SP]that's...",
     "nom_fr": "Yukino",
-    "texte_fr": "O...Oui, je suis ici. Ne me dit pas que..."
+    "texte_fr": "O... Oui, je suis ici. Ne me dit pas que..."
   },
   {
     "id": 3,
@@ -61,7 +61,7 @@
     "nom_orig": "Tamaki's[SP]voice",
     "texte_orig": "I'm[SP]afraid[SP]so![SP]The[SP]rumors[SP]about[SP]the[SP]Last\nBattalion[SP]are[SP]true!",
     "nom_fr": "Voix de Tamaki",
-    "texte_fr": "J'ai peur! Les rumeurs sur le Bataillon\nétaient vraies!"
+    "texte_fr": "J'ai peur! Les rumeurs sur\nle Bataillon étaient vraies!"
   },
   {
     "id": 4,
@@ -93,7 +93,7 @@
     "nom_orig": "Ms.[SP]Ideal's[SP]voice",
     "texte_orig": "Hello!?[SP]Listen[SP]to[SP]me![SP][1432][NULL][NULL][0014]Caracol[1432][NULL][NULL][0014][SP]means[SP]snail,\nor[SP]katatsumuri.",
     "nom_fr": "Voix de Mme. Ideal",
-    "texte_fr": "Allô!? Écoute! [1432][NULL][NULL][0014]Caracol[1432][NULL][NULL][0014] signifie escargot\n(katatsumuri)."
+    "texte_fr": "Allô!? Écoute! [1432][NULL][NULL][0014]Caracol[1432][NULL][NULL][0014] signifie\nescargot (katatsumuri)."
   },
   {
     "id": 6,
@@ -124,7 +124,7 @@
     "nom_orig": "Ms.[SP]Ideal's[SP]voice",
     "texte_orig": "The[SP]Last[SP]Battalion[SP]is[SP]after[SP]the[SP]Rings[SP]of\nTime[SP]at[SP]the[SP]Caracol!",
     "nom_fr": "Voix de Mme. Ideal",
-    "texte_fr": "Le Bataillon cherche les Anneaux du\nTemps au Caracol!"
+    "texte_fr": "Le Bataillon cherche les\nAnneaux du Temps au Caracol!"
   },
   {
     "id": 8,
@@ -140,7 +140,7 @@
     "nom_orig": "Ms.[SP]Ideal's[SP]voice",
     "texte_orig": "If[SP]the[SP]Rings[SP]of[SP]Time[SP]are[SP]set[SP]in[SP]motion,\nthe[SP]world...[1205][001E][SP]You[SP]must[SP]get[SP]to[SP]the[SP]Caracol\nat[SP]once![SP]Don't[SP]let[SP]them[SP]near[SP]the[SP]Rings!",
     "nom_fr": "Voix de Mme Idéale",
-    "texte_fr": "Si les Anneaux du Temps s'activent,\nle monde...[1205][001E] File au Caracol, vite!\nNe les laisse pas approcher des Anneaux!"
+    "texte_fr": "Si les Anneaux du Temps s'activent,\nle monde...[1205][001E] File au Caracol, vite! Ne\nles laisse pas approcher des Anneaux!"
   },
   {
     "id": 9,
@@ -156,7 +156,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Did[SP]you[SP]say[SP]Mt.[SP]Katatsumuri!?[1205][001E][SP]Shunsuke-san's\nat[SP]the[SP]temple[SP]there![SP]If[SP]anything[SP]happens[SP]to\nhim,[SP]I'll...!",
     "nom_fr": "Yukino",
-    "texte_fr": "Tu as dit M.Katatsumuri!?[1205][U+000F] Shunsuke est\nau temple! S'il lui arrive quelque chose,\nje...! "
+    "texte_fr": "Tu as dit M. Katatsumuri!?[1205][U+000F] Shunsuke est au\ntemple! S'il lui arrive quelque chose, je...!"
   },
   {
     "id": 10,
@@ -172,7 +172,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Calm[SP]down,[SP]Yukki![SP]Fujii-san[SP]can[SP]take[SP]care[SP]of\nhimself,[SP]right?[SP]Rescuing[SP]him[SP]is[SP]just[SP]one[SP]more\nreason[SP]to[SP]hurry!",
     "nom_fr": "Maya",
-    "texte_fr": "Calme-toi, Yukki! Fujii sait se \ndébrouiller\ntout seul, pas vrai? C'est une raison de [1205][U+000F]\nplus\nde se dépêcher!"
+    "texte_fr": "Calme-toi, Yukki! Fujii sait se\ndébrouiller tout seul, pas vrai? C'est\nune raison de [1205][U+000F] plus de se dépêcher!"
   },
   {
     "id": 11,
@@ -188,7 +188,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Rrrrgh,[SP]it's[SP]one[SP]thing[SP]after[SP]another...![1205][001E][SP]Fine!\nArmy[SP]or[SP]no[SP]army,[SP]we're[SP]goin'[SP]after[SP]them!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Arrgh, les problèmes s'enchaînent...![1205][U+000F] Bon!\nArmée ou pas, on leur fonce dessus!"
+    "texte_fr": "Arrgh, les problèmes s'enchaînent...![1205][U+000F]\nBon! Armée ou pas, on leur fonce dessus!"
   },
   {
     "id": 12,
@@ -204,7 +204,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "So[SP]Fujii-san[SP]is[SP]Yukino-san's[SP]sweetie...[1205][001E]\nLet's[SP]hurry,[SP][1113]!",
     "nom_fr": "Ginko",
-    "texte_fr": "Fujii est le chéri de Yukino...[1205][U+000F]\nAllons-y, [1113]!"
+    "texte_fr": "Fujii est le chéri de\nYukino...[1205][U+000F] Allons-y, [1113]!"
   },
   {
     "id": 13,
@@ -220,7 +220,7 @@
     "nom_orig": "Maya",
     "texte_orig": "If[SP]the[SP]Last[SP]Battalion's[SP]after[SP]what's[SP]in[SP]the\nIn[SP]Lak'ech...[1205][001E][SP]Jun-kun[SP]should[SP]be[SP]headed\nthere,[SP]too!",
     "nom_fr": "Maya",
-    "texte_fr": "Si le Bataillon cherche ce qui se\ncache dans l'In Lak'ech...[1205][U+000F] Jun doit être\nlà-bas aussi."
+    "texte_fr": "Si le Bataillon cherche ce qui se cache dans\nl'In Lak'ech...[1205][U+000F] Jun doit être là-bas aussi."
   },
   {
     "id": 14,
@@ -236,6 +236,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "Shunsuke-san...[1205][001E][SP]Please[SP]stay[SP]safe[SP]until[SP]I[SP]can\nget[SP]there...!",
     "nom_fr": "Yukino",
-    "texte_fr": "Shunsuke...[1205][U+000F] Pitié, reste en sécurité jusqu'à\nmon arrivée!"
+    "texte_fr": "Shunsuke...[1205][U+000F] Pitié, reste en\nsécurité jusqu'à mon arrivée!"
   }
 ]

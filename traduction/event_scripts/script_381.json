@@ -13,7 +13,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "You[SP]have[SP]too[SP]many[SP]Incense[SP]sets,[SP]meow![SP]I[SP]can't\ngive[SP]you[SP]any[SP]more,[SP]meow!",
     "nom_fr": "Statue de chat",
-    "texte_fr": "T'as dèja trop d'Encens, miaou! Je peux \npas\nen donner plus, miaou!"
+    "texte_fr": "T'as dèja trop d'Encens, miaou! Je\npeux pas en donner plus, miaou!"
   },
   {
     "id": 1,
@@ -29,7 +29,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Welcome,[SP]meow[1432][NULL][NULL][U+0007]\nWelcome,[SP]meow[1432][NULL][NULL][U+0007]\nWelcome,[SP]meow[1432][NULL][NULL][U+0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Salut, miaou[1432][NULL][NULL][U+0007]\nSalut, miaou[1432][NULL][NULL][U+0007]\nSalut, miaou[1432][NULL][NULL][U+0007]"
+    "texte_fr": "Salut, miaou[1432][NULL][NULL][U+0007] Salut, miaou[1432][NULL][NULL][U+0007] Salut, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Th-That[SP]thing[SP]scared[SP]me...[SP]What[SP]the[SP]hell\nis[SP]this?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ce truc m'a fait peur... C'est quoi\nce machin?"
+    "texte_fr": "Ce truc m'a fait peur... C'est quoi ce machin?"
   },
   {
     "id": 3,
@@ -61,7 +61,7 @@
     "nom_orig": "???",
     "texte_orig": "Welcome![SP]Is[SP]there[SP]something[SP]we[SP]can[SP]help\nyou[SP]with?",
     "nom_fr": "???",
-    "texte_fr": "Bonjour! Est-ce qu'on peut\nvous aider?"
+    "texte_fr": "Bonjour! Est-ce qu'on peut vous aider?"
   },
   {
     "id": 4,
@@ -77,7 +77,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Oh,[SP]no,[SP]we[SP]just[SP]had[SP]a[SP]question...[1205][001E][SP]Can[SP]we[SP]see\nthe[SP]chief[SP]detective?",
     "nom_fr": "Lisa",
-    "texte_fr": "Non, juste une question...[1205][001E] On peut\nvoir le chef enquêteur?"
+    "texte_fr": "Non, juste une question...[1205][001E] On\npeut voir le chef enquêteur?"
   },
   {
     "id": 5,
@@ -93,7 +93,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Aiyah![SP]Then[SP]the[SP]rumors[SP]about[SP]the[SP]secret[SP]dish\nand[SP]the[SP]weapons[SP]dealing...",
     "nom_fr": "Lisa",
-    "texte_fr": "Quoi?! Alors les rumeurs sur le plat \nsecret\net le trafic d'armes..."
+    "texte_fr": "Quoi?! Alors les rumeurs sur le\nplat secret et le trafic d'armes..."
   },
   {
     "id": 6,
@@ -125,7 +125,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "We[SP]didn't[SP]spread[SP]them[SP]exactly...[SP]We[SP]just[SP]told\nhim,[SP]and[SP]Tadashi[SP]ran[SP]his[SP]big[SP]mouth.",
     "nom_fr": "Tamaki",
-    "texte_fr": "On n'a rien propagé... On lui a juste dit,\net Tadashi a eu la langue longue."
+    "texte_fr": "On n'a rien propagé... On lui a juste\ndit, et Tadashi a eu la langue longue."
   },
   {
     "id": 8,
@@ -141,7 +141,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]knew[SP]it[SP]was[SP]something[SP]like[SP]that...[1205][001E][SP]Anyway,\nit's[SP]not[SP]like[SP]rumors[SP]can[SP]magically[SP]come[SP]true.\nLike[SP]Joker.[SP]He[SP]must[SP]have[SP]always[SP]existed.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je m'en doutais...[1205][001E] De toute façon,\nles rumeurs ne deviennent pas réalité \ncomme par magie.[1205][U+000F]\nComme Joker. Il a toujours dû exister"
+    "texte_fr": "Je m'en doutais...[1205][001E] De toute façon, les\nrumeurs ne deviennent pas réalité comme par\nmagie.[1205][U+000F] Comme Joker. Il a toujours dû exister"
   },
   {
     "id": 9,
@@ -173,7 +173,7 @@
     "nom_orig": "???",
     "texte_orig": "I[SP]see...[1205][001E][SP]The[SP]unusual[SP]incidents[SP]lately[SP]would\nmake[SP]more[SP]sense[SP]if[SP]rumors[SP]were[SP]indeed[SP]becoming\nreality...",
     "nom_fr": "???",
-    "texte_fr": "Je vois...[1205][001E] Tout les incidents \ns'expliqueraient\nsi les rumeurs étaient réelles"
+    "texte_fr": "Je vois...[1205][001E] Tout les incidents s'expliqueraient\nsi les rumeurs étaient réelles"
   },
   {
     "id": 11,
@@ -189,7 +189,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Well?[SP]Do[SP]you[SP]want[SP]us[SP]to[SP]spread[SP]the[SP]rumor[SP]about\nwhat[SP]the[SP]secret[SP]dish[SP]is?",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Bon, vous voulez qu'on propage la rumeur \nsur\nle plat secret?"
+    "texte_fr": "Bon, vous voulez qu'on propage\nla rumeur sur le plat secret?"
   },
   {
     "id": 12,
@@ -205,7 +205,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Yeah![SP]If[SP]rumors[SP]are[SP]coming[SP]true,[SP]we[SP]can[SP]spread\nrumors[SP]that[SP]work[SP]in[SP]our[SP]favor!",
     "nom_fr": "Lisa",
-    "texte_fr": "Ouais! Si les rumeurs se réalisent, on \npeut\nen profiter!"
+    "texte_fr": "Ouais! Si les rumeurs se\nréalisent, on peut en profiter!"
   },
   {
     "id": 13,
@@ -221,7 +221,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "I'll[SP]do[SP]this[SP]one[SP]for[SP]free,[SP]but[SP]I'll[SP]need[SP]you\nto[SP]file[SP]an[SP]official[SP]request.",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Je ferai ça gratuitement, mais il me \nfaudra\nune demande officielle."
+    "texte_fr": "Je ferai ça gratuitement, mais il\nme faudra une demande officielle."
   },
   {
     "id": 14,
@@ -253,7 +253,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Let's[SP]have[SP]them[SP]spread[SP]the[SP]rumor.[SP]We[SP]have[SP]to\ntake[SP]any[SP]advantage[SP]we[SP]can[SP]get.",
     "nom_fr": "Lisa",
-    "texte_fr": "Faisons propager la rumeur par eux. On\ndoit profiter de chaque avantage."
+    "texte_fr": "Faisons propager la rumeur par eux.\nOn doit profiter de chaque avantage."
   },
   {
     "id": 16,
@@ -269,7 +269,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Off[SP]to[SP]Shiraishi[SP]Ramen![SP]Let's[SP]go[SP]see[SP]if[SP]the\nrumor[SP]came[SP]true![SP]I'm[SP]sure[SP]it[SP]must[SP]have!",
     "nom_fr": "Lisa",
-    "texte_fr": "Direction, Ramen Shiraishi! Allons voir \nsi\nca s'est réalisé!"
+    "texte_fr": "Direction, Ramen Shiraishi!\nAllons voir si ca s'est réalisé!"
   },
   {
     "id": 17,
@@ -285,7 +285,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "Talk[SP]to[SP]the[SP]Chief[SP]to[SP]request[SP]a[SP]rumor[SP]job.\nHe[SP]likes[SP]the[SP]paperwork[SP]filled[SP]in...",
     "nom_fr": "Tamaki",
-    "texte_fr": "Demandez au Chef. Il aime les formulaires\nbien remplis..."
+    "texte_fr": "Demandez au Chef. Il aime les\nformulaires bien remplis..."
   },
   {
     "id": 18,
@@ -301,7 +301,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "The[SP]rumor's[SP]spread![SP]Now[SP]just[SP]watch[SP]it[SP]unfold.[1205][U+000F]\nOh,[SP]but[SP]make[SP]sure[SP]that[SP]clown[SP]doesn't[SP]hear[SP]what\nthe[SP]secret[SP]dish[SP]is,[SP]okay?",
     "nom_fr": "Tamaki",
-    "texte_fr": "La rumeur est lancée! Observez le \ndéroulement\n.[1205][U+000F] Ah, mais ne laissez pas ce clown \napprendre quel\nest le plat secret."
+    "texte_fr": "La rumeur est lancée! Observez le\ndéroulement .[1205][U+000F] Ah, mais ne laissez pas ce\nclown apprendre quel est le plat secret."
   },
   {
     "id": 19,
@@ -357,7 +357,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Have[SP]you[SP]seen[SP]the[SP]results[SP]of[SP]the[SP]rumor[SP]at\nShiraishi[SP]Ramen?[SP]I'd[SP]rather[SP]not[SP]spread[SP]any\nmore[SP]until[SP]you've[SP]checked[SP]up[SP]on[SP]that[SP]one.",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Avez-vous vu les résultats de la rumeur au\nRamen Shiraishi? Je n'en propage pas \nd'autres[1205][U+000F]\navant que vous vérifiiez celle-là."
+    "texte_fr": "Avez-vous vu les résultats de la rumeur au\nRamen Shiraishi? Je n'en propage pas\nd'autres[1205][U+000F] avant que vous vérifiiez celle-là."
   },
   {
     "id": 22,
@@ -413,7 +413,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "There's[SP]only[SP]one[SP]of[SP]you[SP]in[SP]the[SP]world...[1205][001E][SP]That's\njust[SP]plain[SP]common[SP]sense.[SP]But[SP]who[SP]can[SP]prove[SP]it?",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Vous êtes unique dans ce monde...[1205][001E] C'est\ndu simple bon sens. Mais qui peut le \nprouver?"
+    "texte_fr": "Vous êtes unique dans ce monde...[1205][001E] C'est du\nsimple bon sens. Mais qui peut le prouver?"
   },
   {
     "id": 25,
@@ -429,7 +429,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "It's[SP]the[SP]same[SP]way[SP]with[SP]rumors.[SP]They[SP]can't[SP]be\nproved,[SP]and[SP]yet...[1205][001E][SP]Would[SP]it[SP]be[SP]so[SP]strange[SP]if\nthey[SP]started[SP]coming[SP]true?",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Les rumeurs, c'est pareil. On ne peut pas\nles prouver, et pourtant...[1205][001E] Elles \npourraient[1205][U+000F]\ndevenir réelles."
+    "texte_fr": "Les rumeurs, c'est pareil. On ne\npeut pas les prouver, et pourtant...[1205][001E]\nElles pourraient[1205][U+000F] devenir réelles."
   },
   {
     "id": 26,
@@ -445,7 +445,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Go[SP]see[SP]for[SP]yourself.[SP]If[SP]the[SP]rumor's[SP]come[SP]true,\nordering[SP]banana[SP]char[SP]siu[SP]ramen[SP]should[SP]get[SP]you\nweapons.",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Allez voir. Si la rumeur est réelle, ce \nramen\nau porc et à la banane devrait vous [1205][U+000F]\nprocurer\ndes armes."
+    "texte_fr": "Allez voir. Si la rumeur est réelle,\nce ramen au porc et à la banane\ndevrait vous [1205][U+000F] procurer des armes."
   },
   {
     "id": 27,
@@ -461,7 +461,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Well?[SP]Hurry[SP]up[SP]and[SP]choose[SP]the[SP]rumor[SP]you[SP]want\nto[SP]spread.",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Alors? Dépêchez de choisir celle\nqui sera propagée."
+    "texte_fr": "Alors? Dépêchez de choisir\ncelle qui sera propagée."
   },
   {
     "id": 28,
@@ -477,7 +477,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "100 yens, miaou[1432][NULL][NULL][U+0007]\n100 yens, miaou[1432][NULL][NULL][U+0007]\n100 yens, miaou[1432][NULL][NULL][U+0007]"
+    "texte_fr": "100 yens, miaou[1432][NULL][NULL][U+0007] 100 yens,\nmiaou[1432][NULL][NULL][U+0007] 100 yens, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 29,
@@ -513,7 +513,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Oh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][U+0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][U+0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][U+0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Oh, t'es fauché, miaou[1432][NULL][NULL][U+0007]\nMenteur un jour, voleur toujours, miaou[1432][NULL][NULL][U+0007]\nDégage d'ici[1432][NULL][NULL][U+0007]"
+    "texte_fr": "Oh, t'es fauché, miaou[1432][NULL][NULL][U+0007] Menteur un jour,\nvoleur toujours, miaou[1432][NULL][NULL][U+0007] Dégage d'ici[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 31,
@@ -529,7 +529,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][U+0007][1205][U+000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][U+0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Rrron... Merci[1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 20 fois, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nJ'en veux plus, miaou[1432][NULL][NULL][U+0007]"
+    "texte_fr": "Rrron... Merci[1432][NULL][NULL][U+0007][1205][U+000F] Tu m'as nourri 20\nfois, miaou[1432][NULL][NULL][U+0007][1205][U+000F] J'en veux plus, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 32,
@@ -545,7 +545,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Meowvelous![1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][U+0007][1205][U+000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][U+0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Miaougnifique![1432][NULL][NULL][U+0007][1205][U+000F]\nTu m'as nourri 50 fois, rrron[1432][NULL][NULL][U+0007][1205][U+000F]\nTu es si généreux[1432][NULL][NULL][U+0007]"
+    "texte_fr": "Miaougnifique![1432][NULL][NULL][U+0007][1205][U+000F] Tu m'as nourri 50\nfois, rrron[1432][NULL][NULL][U+0007][1205][U+000F] Tu es si généreux[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 33,
@@ -561,7 +561,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Amazing,[SP]meow![1205][U+000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Incroyable, miaou![1205][U+000F]\n80 repas déja, miaou[1432][NULL][NULL][U+0007][1205][U+000F]\nT'as pas un agenda félin, miaou?"
+    "texte_fr": "Incroyable, miaou![1205][U+000F] 80 repas déja,\nmiaou[1432][NULL][NULL][U+0007][1205][U+000F] T'as pas un agenda félin, miaou?"
   },
   {
     "id": 34,
@@ -577,7 +577,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "The[SP]time[SP]has[SP]finally[SP]come,[SP]meow...[1205][U+000F]\nAn[SP]even[SP]100[SP]feedings...[1205][U+000F]\nI've[SP]collected[SP]10,000[SP]yen,[SP]meow!",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Le moment est venu, miaou...[1205][U+000F]\nPile 100 fois nourri...[1205][U+000F]\nJ'ai collecté 10 000 yens, miaou!"
+    "texte_fr": "Le moment est venu, miaou...[1205][U+000F] Pile 100 fois\nnourri...[1205][U+000F] J'ai collecté 10 000 yens, miaou!"
   },
   {
     "id": 35,
@@ -592,7 +592,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "I[SP]feel[SP]bad[SP]at[SP]being[SP]given[SP]so[SP]much,[SP]meow![1205][U+000F]\nSo[SP]I[SP]have[SP]a[SP]purresent[SP]for[SP]you!",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Je me sens mal d'avoir tant reçu, miaou![1205][U+000F]\nJ'ai un cadeau!"
+    "texte_fr": "Je me sens mal d'avoir tant\nreçu, miaou![1205][U+000F] J'ai un cadeau!"
   },
   {
     "id": 36,
@@ -640,7 +640,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "...[1205][U+000F]Cheaps-cat!",
     "nom_fr": "Statue de chat",
-    "texte_fr": "...[1205][U+000F]Radin!"
+    "texte_fr": "...[1205][U+000F] Radin!"
   },
   {
     "id": 39,
@@ -656,7 +656,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "That[SP]door[SP]doesn't[SP]open,[SP]meow[1432][NULL][NULL][U+0007]\nYou[SP]should[SP]stop[SP]trying,[SP]meow[1432][NULL][NULL][U+0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Cette porte s'ouvre pas, miaou[1432][NULL][NULL][U+0007]\nArrête d'essayer, miaou[1432][NULL][NULL][U+0007]"
+    "texte_fr": "Cette porte s'ouvre pas,\nmiaou[1432][NULL][NULL][U+0007] Arrête d'essayer, miaou[1432][NULL][NULL][U+0007]"
   },
   {
     "id": 40,
@@ -702,7 +702,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Ask[SP]me[SP]to[SP]spread[SP]a[SP]rumor[SP]of[SP]your[SP]choice[SP]and\nI'll[SP]do[SP]it.[SP]Not[SP]for[SP]free,[SP]mind[SP]you.",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Je peux propager la rumeur de votre choix\nmais pas gratuitement."
+    "texte_fr": "Je peux propager la rumeur de\nvotre choix mais pas gratuitement."
   },
   {
     "id": 43,
@@ -717,7 +717,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "You'll[SP]need[SP]to[SP]bring[SP]me[SP]rumors[SP]you[SP]hear[SP]from\nrumormongers.",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Rammenez-en moi depuis de colporteurs de \nrumeurs."
+    "texte_fr": "Rammenez-en moi depuis de\ncolporteurs de rumeurs."
   },
   {
     "id": 44,
@@ -763,7 +763,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Not[SP]only[SP]can[SP]you[SP]remember[SP]which[SP]rumors[SP]I've\nbeen[SP]putting[SP]out[SP]there[SP]for[SP]you,[SP]you[SP]can[SP]see\nwhich[SP]ones[SP]demons[SP]are[SP]spreading.",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Je peux vous montrer mes rumeurs et celles\ndes démons aussi."
+    "texte_fr": "Je peux vous montrer mes rumeurs\net celles des démons aussi."
   },
   {
     "id": 47,

@@ -12,7 +12,7 @@
     "nom_orig": "???",
     "texte_orig": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]Sumaru[SP]City's[SP]Climax[SP]Theater![U+07EA]\nIs[SP]this[SP]your[SP]first[SP]time[SP]here?",
     "nom_fr": "???",
-    "texte_fr": "Et... Action!\nBienvenue au Théâtre Climax de Sumaru![U+07EA]\nC'est votre première visite?"
+    "texte_fr": "Et... Action! Bienvenue au Théâtre Climax\nde Sumaru![U+07EA] C'est votre première visite?"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "???",
     "texte_orig": "My[SP]name[SP]is[SP]Mitsugi,[SP]and[SP]I'll[SP]be[SP]your[SP]guide\nto[SP]the[SP]theater.[SP]Nice[SP]to[SP]meet[SP]you!",
     "nom_fr": "???",
-    "texte_fr": "Je m'appelle Mitsugi, votre guide\ndu théâtre. Enchanté!"
+    "texte_fr": "Je m'appelle Mitsugi, votre\nguide du théâtre. Enchanté!"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Here[SP]you[SP]can[SP]view[SP]films[SP]using[SP]the[SP]most\nadvanced[SP]technologies[SP]available.",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Ici, des films grâce aux technologies\nles plus avancées."
+    "texte_fr": "Ici, des films grâce aux\ntechnologies les plus avancées."
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "They[SP]say[SP]that[SP]the[SP]pictures[SP]are[SP]so[SP]clear[SP]and\ncrisp[SP]that[SP]it[SP]feels[SP]almost[SP]as[SP]if[SP]you're\n[E4][NULL][NULL][U+0006]really[SP]experiencing[SP]the[SP]events[SP]of[SP]the[SP]film[E4][NULL][NULL][0002]!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "On dit que les images sont si nettes qu'on\na\nl'impression de[E4][NULL][NULL][U+0006]vraiment vivre les [1205][U+000F]\névénements du film[E4][NULL][NULL][0002]!"
+    "texte_fr": "On dit que les images sont si nettes\nqu'on a l'impression de[E4][NULL][NULL][U+0006]vraiment\nvivre les [1205][U+000F] événements du film[E4][NULL][NULL][0002]!"
   },
   {
     "id": 4,
@@ -72,7 +72,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "You'll[SP]also[SP]earn[SP]points[SP]each[SP]time[SP]you[SP]watch\na[SP]movie[SP]all[SP]the[SP]way[SP]to[SP]the[SP]end.[SP]These[SP]points\nwill[SP]add[SP]up!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous gagnez aussi des points à chaque film\nregardé jusqu'à la fin.\nCes points s'accumulent!"
+    "texte_fr": "Vous gagnez aussi des points à chaque film\nregardé jusqu'à la fin. Ces points\ns'accumulent!"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Your[SP]membership[SP]level[SP]is[SP]determined[SP]by[SP]the\namount[SP]of[SP]points[SP]you[SP]have.[SP]You'll[SP]start[SP]at\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Black[SP]Raspberry[E4][NULL][NULL][0002][1432][NULL][NULL][0014][SP]and[SP]work[SP]your[SP]way[SP]up!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Votre niveau dépend de vos points.\nVous commencez à\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise Noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et montez les échelons!"
+    "texte_fr": "Votre niveau dépend de vos points. Vous\ncommencez à [1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise Noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et montez les\néchelons!"
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "And,[SP]of[SP]course,[SP]the[SP]better[SP]a[SP]patron[SP]you[SP]are,\nthe[SP]happier[SP]I'll[SP]be[SP]to[SP]see[SP]you[SP]visiting[SP]our\ntheater[SP]again[SP]and[SP]again.[SP]Have[SP]fun!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Et bien sûr, plus vous êtes fidèle,\nplus je serai heureux de vous revoir.\nAmusez-vous bien!"
+    "texte_fr": "Et bien sûr, plus vous êtes fidèle, plus je\nserai heureux de vous revoir. Amusez-vous\nbien!"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "...What?[SP]Wasn't[SP]my[SP]impeccable[SP]service\nand[SP]masterful[SP]explanation[SP]enough?\nYou've[SP]got[SP]to[SP]be[SP]joking.",
     "nom_fr": "Mitsugi",
-    "texte_fr": "...Quoi? Mon service irréprochable\net mon explication magistrale ne suffisent\npas?[1205][U+000F]\nVous plaisantez."
+    "texte_fr": "... Quoi? Mon service irréprochable\net mon explication magistrale ne\nsuffisent pas?[1205][U+000F] Vous plaisantez."
   },
   {
     "id": 8,
@@ -133,7 +133,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "We're[SP]already[SP]giving[SP]you[SP]the[SP]unparalleled\nexperience[SP]of[SP]seeing[SP]the[SP]most[SP]realistic[SP]movies\nknown[SP]to[SP]man![SP]What[SP]more[SP]could[SP]you[SP]want?",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "On vous offre déjà l'expérience sans égale\ndes films les plus réalistes qui soient!\nQue voulez-vous de plus?"
+    "texte_fr": "On vous offre déjà l'expérience sans\négale des films les plus réalistes\nqui soient! Que voulez-vous de plus?"
   },
   {
     "id": 9,
@@ -148,7 +148,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Annnnnnd...[SP]Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Et... Action!\nBienvenue au Théâtre Climax de Sumaru!"
+    "texte_fr": "Et... Action! Bienvenue au\nThéâtre Climax de Sumaru!"
   },
   {
     "id": 10,
@@ -164,7 +164,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Oh,[SP]aren't[SP]you[SP][1113][SP][1112]?\nYou[SP]were[SP]here[SP]just[SP]the[SP]other[SP]day.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Ah, [1113] [1112]!\nVous étiez là l'autre jour."
+    "texte_fr": "Ah, [1113] [1112]! Vous étiez là l'autre jour."
   },
   {
     "id": 11,
@@ -179,7 +179,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Et... Action!\nBienvenue au Théâtre Climax!"
+    "texte_fr": "Et... Action! Bienvenue au Théâtre Climax!"
   },
   {
     "id": 12,
@@ -195,7 +195,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Oh,[SP]it's[SP][1113]![SP]You[SP]became[SP]a\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member[SP]the[SP]other[SP]day,\nisn't[SP]that[SP]right?",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Ah, [1113]! Devenu membre\nde niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] l'autre jour, n'est-ce pas?"
+    "texte_fr": "Ah, [1113]! Devenu membre de niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] l'autre jour, n'est-ce pas?"
   },
   {
     "id": 13,
@@ -210,7 +210,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Et... Action!\nBienvenue au Théâtre Climax!"
+    "texte_fr": "Et... Action! Bienvenue au Théâtre Climax!"
   },
   {
     "id": 14,
@@ -226,7 +226,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "You're[SP][1113],[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member.\nThank[SP]you[SP]for[SP]your[SP]continued[SP]patronage.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous êtes [1113], membre de niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002].\nMerci de votre fidélité."
+    "texte_fr": "Vous êtes [1113], membre de\nniveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]. Merci de votre fidélité."
   },
   {
     "id": 15,
@@ -256,7 +256,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Ah,[SP]you're[SP][1113],[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nmember.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Ah, [1113], membre\nniveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
+    "texte_fr": "Ah, [1113], membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
   },
   {
     "id": 17,
@@ -272,7 +272,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "If[SP]you[SP]have[SP]any[SP]loose[SP]items[SP]that[SP]you'd[SP]like\nus[SP]to[SP]keep,[SP]let[SP]us[SP]know.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Si vous avez des effets à déposer,\ndites-le-nous."
+    "texte_fr": "Si vous avez des effets à\ndéposer, dites-le-nous."
   },
   {
     "id": 18,
@@ -287,7 +287,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "*gasp*[SP]Oh,[SP]excuse[SP]me![SP]...Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "...Hem!...Action!\nBienvenue au Théâtre Climax de Sumaru!"
+    "texte_fr": "... Hem!... Action! Bienvenue\nau Théâtre Climax de Sumaru!"
   },
   {
     "id": 19,
@@ -318,7 +318,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Action!\nBienvenue au théâtre Climax!"
+    "texte_fr": "Action! Bienvenue au théâtre Climax!"
   },
   {
     "id": 21,
@@ -333,7 +333,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel[SP]of[SP]membership.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous êtes M. [1113], de niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
+    "texte_fr": "Vous êtes M. [1113], de niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
   },
   {
     "id": 22,
@@ -349,7 +349,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Thank[SP]you[SP]so[SP]much[SP]for[SP]your[SP]continued[SP]patronage\nof[SP]our[SP]theater!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Merci infiniment de votre fidélité\nà notre théâtre!"
+    "texte_fr": "Merci infiniment de votre\nfidélité à notre théâtre!"
   },
   {
     "id": 23,
@@ -364,7 +364,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Action!\nBienvenue au théâtre Climax!"
+    "texte_fr": "Action! Bienvenue au théâtre Climax!"
   },
   {
     "id": 24,
@@ -410,7 +410,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Action!\nWelcome[SP]to[SP]the[SP]Sumaru[SP]Climax[SP]Theater![U+07EA]",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Action!\nBienvenue au théâtre Climax!"
+    "texte_fr": "Action! Bienvenue au théâtre Climax!"
   },
   {
     "id": 27,
@@ -518,7 +518,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Entering[SP]frame,[SP]stage[SP]left...\nMr.[SP][1113],[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]club\nmember.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Entrée en scène, côté cour...\nM. [1113], niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
+    "texte_fr": "Entrée en scène, côté cour...\nM. [1113], niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
   },
   {
     "id": 34,
@@ -533,7 +533,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Thank[SP]you[SP]so[SP]much[SP]for[SP]your[SP]patronage.\nI[SP]have[SP]a[SP]very[SP]good[SP]memory[SP]for[SP]these[SP]things!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Merci de votre fidélité.\nJ'ai une bonne mémoire pour ça!"
+    "texte_fr": "Merci de votre fidélité. J'ai\nune bonne mémoire pour ça!"
   },
   {
     "id": 35,
@@ -549,7 +549,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "The[SP]names[SP]of[SP]the[SP]various[SP]membership[SP]levels[SP]get\ngrander[SP]and[SP]grander[SP]as[SP]you[SP]earn[SP]points.\nPlease[SP]keep[SP]coming[SP]to[SP]our[SP]shows!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Les noms des niveaux deviennent\nde plus en plus grandioses avec les \npoints.[1205][U+000F]\nContinuez à venir!"
+    "texte_fr": "Les noms des niveaux deviennent\nde plus en plus grandioses avec\nles points.[1205][U+000F] Continuez à venir!"
   },
   {
     "id": 36,
@@ -579,7 +579,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "[1432][NULL][NULL][0014]A[SP]MAN,[SP]viewed[SP]from[SP]behind.[SP]In[SP]the[SP]background,\na[SP]tireless[SP]WOMAN[SP]working[SP]in[SP]a[SP]theater.[SP]MAN\napproaches.[SP]She[SP]turns.[SP]CLOSE-UP[SP]on[SP]WOMAN's[SP]smile.[1432][NULL][NULL][0014]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "[1432][NULL][NULL][0014]UN HOMME, vu de dos. Une FEMME\ntravaille en fond. L'HOMME s'approche,\nelle se retourne. GROS PLAN sur son [1205][U+000F]\nsourire.[1432][NULL][NULL][0014]"
+    "texte_fr": "[1432][NULL][NULL][0014]UN HOMME, vu de dos. Une FEMME travaille\nen fond. L'HOMME s'approche, elle se\nretourne. GROS PLAN sur son [1205][U+000F] sourire.[1432][NULL][NULL][0014]"
   },
   {
     "id": 38,
@@ -609,7 +609,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Your[SP]club[SP]member[SP]rank[SP]has[SP]gone[SP]up!\nCongratulations.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Votre rang a augmenté!\nFélicitations."
+    "texte_fr": "Votre rang a augmenté! Félicitations."
   },
   {
     "id": 40,
@@ -625,7 +625,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Oh...[SP]What[SP]I[SP]said[SP]as[SP]you[SP]walked[SP]in?\nI[SP]have[SP]no[SP]recollection[SP]of[SP]it[SP]at[SP]this[SP]time.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Oh... Ce que j'ai dit à votre arrivée?\nJe n'en ai aucun souvenir."
+    "texte_fr": "Oh... Ce que j'ai dit à votre\narrivée? Je n'en ai aucun souvenir."
   },
   {
     "id": 41,
@@ -655,7 +655,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "[1432][NULL][NULL][0014]A[SP]WOMAN[SP]is[SP]busily[SP]working.[SP]She[SP]fidgets,[SP]waiting\nfor[SP]something.[SP]PAN[SP]UP[SP]to[SP]her[SP]face.[SP]Her[SP]eyes\nsuddenly[SP]light[SP]up.[SP]Enter...[1432][NULL][NULL][0014]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "[1432][NULL][NULL][0014]Une FEMME affairée.\nElle s'agite, attendant. PANORAMIQUE.\nSes yeux s'illuminent. Entrée en scène...[1432][NULL][NULL][0014]"
+    "texte_fr": "[1432][NULL][NULL][0014]Une FEMME affairée. Elle s'agite,\nattendant. PANORAMIQUE. Ses yeux\ns'illuminent. Entrée en scène...[1432][NULL][NULL][0014]"
   },
   {
     "id": 43,
@@ -670,7 +670,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Why,[SP]if[SP]it[SP]isn't[SP]Mr.[SP][1113],[SP]our[SP]newest\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Tiens, M. [1113]! Notre nouveau\nmembre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
+    "texte_fr": "Tiens, M. [1113]! Notre\nnouveau membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
   },
   {
     "id": 44,
@@ -685,7 +685,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Thank[SP]you[SP]for[SP]your[SP]patronage.\nYou're[SP]like[SP]a[SP]regular[SP]now!\nI'm[SP]very[SP]happy[SP]for[SP]you.",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Merci de votre fidélité.\nVous êtes presque un habitué!\nJe suis très content pour vous."
+    "texte_fr": "Merci de votre fidélité. Vous êtes presque\nun habitué! Je suis très content pour vous."
   },
   {
     "id": 45,
@@ -700,7 +700,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "You're[SP]the[SP]only[SP]one[SP]who[SP]talks[SP]to[SP]me[SP]about\nsomething[SP]other[SP]than[SP]work,[SP]so[SP]you're[SP]very\neasy[SP]to[SP]remember.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous êtes le seul qui me parle d'autre \nchose,\nalors vous êtes facile à retenir."
+    "texte_fr": "Vous êtes le seul qui me parle d'autre\nchose, alors vous êtes facile à retenir."
   },
   {
     "id": 46,
@@ -716,7 +716,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "I'm[SP]very[SP]pleased[SP]to[SP]be[SP]of[SP]service[SP]to[SP]you.\nHmm?[SP]Monologue?[SP]What[SP]monologue?",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "C'est un plaisir.\nHm? Monologue? Quel monologue?"
+    "texte_fr": "C'est un plaisir. Hm?\nMonologue? Quel monologue?"
   },
   {
     "id": 47,
@@ -746,7 +746,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "[1432][NULL][NULL][0014]Another[SP]day[SP]at[SP]the[SP]movies.[SP]The[SP]WOMAN[SP]at[SP]the\ncounter[SP]glances[SP]out[SP]the[SP]window.[SP]She[SP]seems[SP]to[SP]be\nwaiting[SP]for[SP]someone.[SP]And[SP]then,[SP]as[SP]always...[1432][NULL][NULL][0014]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "[1432][NULL][NULL][0014]Encore une journée. La FEMME au guichet\nregarde par la fenêtre. Elle semble \nattendre[1205][U+000F]\nquelqu'un. Et puis, comme toujours...[1432][NULL][NULL][0014]"
+    "texte_fr": "[1432][NULL][NULL][0014]Encore une journée. La FEMME au guichet\nregarde par la fenêtre. Elle semble attendre[1205][U+000F]\nquelqu'un. Et puis, comme toujours...[1432][NULL][NULL][0014]"
   },
   {
     "id": 49,
@@ -761,7 +761,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "*Ahem*[SP]Welcome.\nYou've[SP]become[SP]a[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level\nclub[SP]member.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "*Hem* Bienvenue.\nVous avez atteint le niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
+    "texte_fr": "*Hem* Bienvenue. Vous\navez atteint le niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
   },
   {
     "id": 50,
@@ -776,7 +776,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "I[SP]thought[SP]you'd[SP]be[SP]here[SP]soon.\nOh,[SP]not[SP]that[SP]I[SP]was[SP]waiting[SP]for[SP]you[SP]or[SP]anything.\nI[SP]was[SP]just[SP]thinking[SP]about[SP]it.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Je savais que vous viendriez bientôt.\nOh, pas que je vous attendais.\nJ'y pensais, c'est tout."
+    "texte_fr": "Je savais que vous viendriez\nbientôt. Oh, pas que je vous\nattendais. J'y pensais, c'est tout."
   },
   {
     "id": 51,
@@ -822,7 +822,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "[1432][NULL][NULL][0014]CLOSE-UP[SP]on[SP]the[SP]WOMAN's[SP]face.[SP]She[SP]stares\npensively[SP]out[SP]the[SP]window.[SP]She[SP]realizes[SP]that[SP]she's\nbeen[SP]thinking[SP]about[SP]the[SP]MAN[SP]more[SP]and[SP]more...[1432][NULL][NULL][0014]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "[1432][NULL][NULL][0014]GROS PLAN sur le visage de la FEMME. Elle \nregarde,\npensive, par la fenêtre. Elle réalise [1205][U+000F]\nqu'elle pense\nde plus en plus à l'HOMME...[1432][NULL][NULL][0014]"
+    "texte_fr": "[1432][NULL][NULL][0014]GROS PLAN sur le visage de la FEMME. Elle\nregarde, pensive, par la fenêtre. Elle réalise\n[1205][U+000F]qu'elle pense de plus en plus à l'HOMME...[1432][NULL][NULL][0014]"
   },
   {
     "id": 54,
@@ -837,7 +837,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "[1432][NULL][NULL][0014]She[SP]is[SP]startled[SP]when[SP]the[SP]MAN[SP]appears,[SP]but[SP]he\ndoesn't[SP]realize[SP]that[SP]he[SP]has[SP]surprised[SP]her.\nAnd[SP]then,[SP]as[SP]always...[1432][NULL][NULL][0014]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "[1432][NULL][NULL][0014]Elle est surprise quand l'HOMME apparaît, \nmais il\nne s'en rend pas compte.[1205][U+000F]\nEt puis, comme toujours...[1432][NULL][NULL][0014]"
+    "texte_fr": "[1432][NULL][NULL][0014]Elle est surprise quand l'HOMME\napparaît, mais il ne s'en rend pas\ncompte.[1205][U+000F] Et puis, comme toujours...[1432][NULL][NULL][0014]"
   },
   {
     "id": 55,
@@ -867,7 +867,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "You've[SP]finally[SP]become[SP]a[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level\nmember[SP]our[SP]club.[SP]I[SP]expected[SP]nothing[SP]less.\nCongratulations.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous êtes enfin membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nde notre club. Je n'attendais pas moins.\nBravo."
+    "texte_fr": "Vous êtes enfin membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] de notre\nclub. Je n'attendais pas moins. Bravo."
   },
   {
     "id": 57,
@@ -882,7 +882,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "All[SP]of[SP]the[SP]workers[SP]here[SP]have[SP]been[SP]talking\nabout[SP]you.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Tous les employés parlent\nde vous."
+    "texte_fr": "Tous les employés parlent de vous."
   },
   {
     "id": 58,
@@ -897,7 +897,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Well,[SP]I[SP]knew[SP]this[SP]would[SP]happen[SP]from[SP]the[SP]very\nbeginning!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Je savais que ça arriverait\ndès le début!"
+    "texte_fr": "Je savais que ça arriverait dès le début!"
   },
   {
     "id": 59,
@@ -913,7 +913,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Everyone[SP]else[SP]is[SP]just[SP]jumping[SP]on[SP]my[SP]bandwagon...\nSo[SP]to[SP]speak.[SP]Hehe.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Tout le monde monte dans mon train...\nPour ainsi dire. Héhé."
+    "texte_fr": "Tout le monde monte dans mon\ntrain... Pour ainsi dire. Héhé."
   },
   {
     "id": 60,
@@ -943,7 +943,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "[1432][NULL][NULL][0014]The[SP]WOMAN,[SP]from[SP]behind.[SP]She[SP]is[SP]working[SP]busily,\nand[SP]the[SP]sounds[SP]of[SP]footsteps[SP]play[SP]over[SP]the[SP]general\nrush[SP]of[SP]the[SP]city.[1432][NULL][NULL][0014]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "[1432][NULL][NULL][0014]La FEMME, de dos. Elle travaille avec \nardeur,\nle bruit de pas se mêle à l'agitation[1205][U+000F]\nde la ville.[1432][NULL][NULL][0014]"
+    "texte_fr": "[1432][NULL][NULL][0014]La FEMME, de dos. Elle travaille\navec ardeur, le bruit de pas se\nmêle à l'agitation[1205][U+000F] de la ville.[1432][NULL][NULL][0014]"
   },
   {
     "id": 62,
@@ -958,7 +958,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "[1432][NULL][NULL][0014]She[SP]hears[SP]the[SP]footsteps[SP]and[SP]turns[SP]around,[SP]sure\nthat[SP]it[SP]is[SP]him:[SP]the[SP]man[SP]whose[SP]name[SP]is[SP]famous[SP]in\nthe[SP]theater,[SP]who's[SP]making[SP]his[SP]way[SP]into[SP]her[SP]heart.[1432][NULL][NULL][0014]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "[1432][NULL][NULL][0014]Elle entend les pas et se retourne, \ncertaine\nque c'est lui: l'homme célèbre au [1205][U+000F]\nthéâtre,\nqui gagne sa place dans son cœur.[1432][NULL][NULL][0014]"
+    "texte_fr": "[1432][NULL][NULL][0014]Elle entend les pas et se retourne,\ncertaine que c'est lui: l'homme célèbre au [1205][U+000F]\nthéâtre, qui gagne sa place dans son cœur.[1432][NULL][NULL][0014]"
   },
   {
     "id": 63,
@@ -973,7 +973,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Congratulations,[SP]Mr.[SP][1113].[SP]You're[SP]the[SP]first\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member[SP]in[SP]the[SP]history[SP]of\nthis[SP]theater!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Félicitations, M. [1113]. Premier\nmembre de niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] de l'histoire\nde ce théâtre!"
+    "texte_fr": "Félicitations, M. [1113]. Premier membre\nde niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] de l'histoire de ce théâtre!"
   },
   {
     "id": 64,
@@ -988,7 +988,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "It[SP]wasn't[SP]too[SP]long[SP]ago[SP]when[SP]you[SP]first[SP]entered[SP]my\nframe.",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Récemment, vous faisiez\nvotre première entrée dans mon cadre."
+    "texte_fr": "Récemment, vous faisiez votre\npremière entrée dans mon cadre."
   },
   {
     "id": 65,
@@ -1003,7 +1003,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "And[SP]now[SP]you're[SP]a[SP]major[SP]character[SP]in[SP]the[SP]jobs[SP]of\nthe[SP]people[SP]who[SP]work[SP]here.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous êtes maintenant un personnage clé\ndu quotidien de nos équipes."
+    "texte_fr": "Vous êtes maintenant un personnage\nclé du quotidien de nos équipes."
   },
   {
     "id": 66,
@@ -1034,7 +1034,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Please[SP]continue[SP]to[SP]support[SP]our[SP]theater.\nI'll[SP]be[SP]following[SP]you,[SP]too.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Continuez à soutenir notre théâtre.\nJe vous suivrai de près."
+    "texte_fr": "Continuez à soutenir notre\nthéâtre. Je vous suivrai de près."
   },
   {
     "id": 68,
@@ -1065,7 +1065,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "This[SP]message[SP]should[SP]never[SP]appear.\nBUG[SP]IT!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Ne devrait pas s'afficher.\nBUG!"
+    "texte_fr": "Ne devrait pas s'afficher. BUG!"
   },
   {
     "id": 70,
@@ -1326,7 +1326,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Annnnnnd...[SP]Cut![SP]Good[SP]job!\nLet[SP]me[SP]add[SP]your[SP]points[SP]to[SP]your[SP]account.",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Et... Coupez! Bon travail!\nPoints crédités sur votre compte."
+    "texte_fr": "Et... Coupez! Bon travail! Points\ncrédités sur votre compte."
   },
   {
     "id": 83,
@@ -1358,7 +1358,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "...Cut![SP]That[SP]was[SP]a[SP]bit[SP]of[SP]a[SP]disappointment...\nI'll[SP]be[SP]waiting[SP]for[SP]you[SP]to[SP]return.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "...Coupez! C'est un peu décevant...\nJ'attendrai votre retour."
+    "texte_fr": "... Coupez! C'est un peu décevant...\nJ'attendrai votre retour."
   },
   {
     "id": 85,
@@ -1424,7 +1424,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "You[SP]can[SP]leave[SP]your[SP]seat[SP]while[SP]the[SP]film[SP]is[SP]showing,\nbut[SP]if[SP]you[SP]do,[SP]you[SP]will[SP]not[SP]earn[SP]points[SP]for\nwatching[SP]it.[SP]Please[SP]be[SP]careful.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous pouvez quitter votre siège,\nmais vous ne gagnerez pas de points.\nFaites attention."
+    "texte_fr": "Vous pouvez quitter votre siège, mais vous\nne gagnerez pas de points. Faites attention."
   },
   {
     "id": 89,
@@ -1439,7 +1439,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "You[SP]would[SP]like[SP]to[SP]learn[SP]more[SP]about[SP]the[SP]ranking\nsystem?[SP]Very[SP]well,[SP]I'll[SP]explain[SP]it.",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Vous voulez en savoir plus sur le \nclassement?\nTrès bien, je vous explique."
+    "texte_fr": "Vous voulez en savoir plus sur le\nclassement? Très bien, je vous explique."
   },
   {
     "id": 90,
@@ -1454,7 +1454,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "From[SP]the[SP]bottom,[SP]the[SP]ranks[SP]are:\nBlack[SP]Raspberry,[SP]White[SP]Glove,[SP]Bronze[SP]Man...",
     "nom_fr": "Mitsugi",
-    "texte_fr": "De bas en haut, les niveaux sont:\nFramboise Noire, Gant Blanc, Homme de \nBronze..."
+    "texte_fr": "De bas en haut, les niveaux sont: Framboise\nNoire, Gant Blanc, Homme de Bronze..."
   },
   {
     "id": 91,
@@ -1469,7 +1469,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Silver[SP]Palm,[SP]Golden[SP]Bear,[SP]and[SP]our[SP]highest[SP]honor,\nPlatinum[SP]Lion.",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Palme d'Argent, Ours d'Or, et notre plus \nhaute\ndistinction, le Lion de Platine."
+    "texte_fr": "Palme d'Argent, Ours d'Or, et notre plus\nhaute distinction, le Lion de Platine."
   },
   {
     "id": 92,
@@ -1484,7 +1484,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "In[SP]order[SP]to[SP]raise[SP]your[SP]member[SP]rank,[SP]you[SP]will[SP]need\nto[SP]watch[SP]films[SP]all[SP]the[SP]way[SP]through[SP]to[SP]the[SP]end.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Pour monter en rang, vous devrez regarder\nles films jusqu'à la fin."
+    "texte_fr": "Pour monter en rang, vous devrez\nregarder les films jusqu'à la fin."
   },
   {
     "id": 93,
@@ -1500,7 +1500,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Please[SP]try[SP]to[SP]raise[SP]your[SP]ranking[SP]as[SP]high[SP]as\nyou[SP]can![SP]You[SP]won't[SP]earn[SP]any[SP]money[SP]or[SP]items\nor[SP]anything,[SP]but[SP]it's[SP]fun!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Essayez de monter le plus haut possible!\nVous ne gagnez ni argent ni objets,\nmais c'est amusant!"
+    "texte_fr": "Essayez de monter le plus haut\npossible! Vous ne gagnez ni argent\nni objets, mais c'est amusant!"
   },
   {
     "id": 94,
@@ -1516,7 +1516,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Well[SP]then,[SP]I'll[SP]be[SP]waiting[SP]for[SP]you[SP]the[SP]next\ntime[SP]you[SP]come[SP]to[SP]see[SP]a[SP]film.\nAnnnnnd...[SP]Fade[SP]out!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Je vous attendrai pour votre prochain \nfilm.\nEt... Fondu au noir!"
+    "texte_fr": "Je vous attendrai pour votre\nprochain film. Et... Fondu au noir!"
   },
   {
     "id": 95,

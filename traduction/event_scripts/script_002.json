@@ -29,7 +29,7 @@
     "nom_orig": "???",
     "texte_orig": "...[1205][U+000A]...[1205][U+000A]...[1205][U+000A]Gah!",
     "nom_fr": "???",
-    "texte_fr": "...[1205][U+000A]...[1205][U+000A]...[1205][U+000A]Gah!"
+    "texte_fr": "...[1205][U+000A]...[1205][U+000A]...[1205][U+000A] Gah!"
   },
   {
     "id": 2,
@@ -76,7 +76,7 @@
     "nom_orig": "Shogo",
     "texte_orig": "Y-Yeah.[SP]If[SP]we[SP]wait[SP]just[SP]a[SP]little[SP]longer,\nI'm[SP]sure[SP][1113][SP]will[SP]show!",
     "nom_fr": "Shogo",
-    "texte_fr": "O-Ouais. Si on attend encore un peu,\n[1113] va se pointer!"
+    "texte_fr": "O-Ouais. Si on attend encore\nun peu, [1113] va se pointer!"
   },
   {
     "id": 5,
@@ -108,7 +108,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hey...[1205][001E][SP]What's[SP]this[SP]about[SP][1113]?\nWhat[SP]are[SP]you[SP]three[SP]scheming?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hé...[1205][001E] C'est quoi ce délire avec [1113]?\nVous manigancez quoi?"
+    "texte_fr": "Hé...[1205][001E] C'est quoi ce délire avec\n[1113]? Vous manigancez quoi?"
   },
   {
     "id": 7,
@@ -268,7 +268,7 @@
     "nom_orig": "Ken",
     "texte_orig": "We[SP]thought[SP][1113]-san[SP]would[SP]be[SP]a[SP]good\nfit.[1205][001E][SP]And[SP]he's[SP]reliable,[SP]so[SP]we[SP]thought\nyou'd[SP]be[SP]happy[SP]to[SP]have[SP]him[SP]aboard...",
     "nom_fr": "Ken",
-    "texte_fr": "On s'est dit que [1113]-san ferait\nl'affaire.[1205][001E] Et il est fiable, alors on a\npensé que ça vous ferait plaisir..."
+    "texte_fr": "On s'est dit que [1113]-san ferait\nl'affaire.[1205][001E] Et il est fiable, alors on\na pensé que ça vous ferait plaisir..."
   },
   {
     "id": 17,
@@ -284,7 +284,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Y-You[SP]guys...[1205][001E][SP]You[SP]knew[SP]what[SP]would\nhappen[SP]if[SP]you[SP]violated[SP]Bro[SP]Code[SP]and\nyou[SP]still...",
     "nom_fr": "Eikichi",
-    "texte_fr": "L-Les gars...[1205][001E] Vous saviez ce qui arrive\nsi on brise le Code\net vous l'avez fait..."
+    "texte_fr": "L-Les gars...[1205][001E] Vous saviez ce qui arrive si\non brise le Code et vous l'avez fait..."
   },
   {
     "id": 18,
@@ -300,7 +300,7 @@
     "nom_orig": "Shogo,[SP]Ken[SP]&[SP]Takeshi",
     "texte_orig": "Yes,[SP]sir![SP][1432][NULL][NULL][0014]Cowardice[SP]is[SP]unbefitting[SP]of[SP]a\nreal[SP]man![1432][NULL][NULL][0014][SP]We'll[SP]take[SP]whatever[SP]punishment\nyou[SP]have[SP]in[SP]store!",
     "nom_fr": "Shogo, Ken & Takeshi",
-    "texte_fr": "Oui, chef! [1432][NULL][NULL][0014]La lâcheté est indigne\nd'un vrai homme![1432][NULL][NULL][0014] On acceptera\nn'importe quelle punition!"
+    "texte_fr": "Oui, chef! [1432][NULL][NULL][0014]La lâcheté est indigne d'un vrai\nhomme![1432][NULL][NULL][0014] On acceptera n'importe quelle punition!"
   },
   {
     "id": 19,
@@ -316,7 +316,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "Um...[SP]So[SP]that[SP]stuff[SP]about[SP]telling[SP]me[SP]the\nmystery[SP]of[SP]the[SP]emblem[SP]curse...[1205][001E][SP]Was[SP]that\nall[SP]a[SP]lie?[SP]If[SP]so,[SP]then[SP]I'm[SP]going[SP]to[SP]go.",
     "nom_fr": "Kozy",
-    "texte_fr": "Euh... Donc l'histoire sur le mystère\nde la malédiction...[1205][001E] C'était un mensonge?\nSi c'est le cas, je m'en vais."
+    "texte_fr": "Euh... Donc l'histoire sur le mystère de\nla malédiction...[1205][001E] C'était un mensonge?\nSi c'est le cas, je m'en vais."
   },
   {
     "id": 20,
@@ -332,7 +332,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "*sigh*[1205][001E][SP]We[SP]should[SP]go[SP]too,[SP][1113].[SP]This[SP]is\nso[SP]stupid[SP]I[SP]might[SP]cry.",
     "nom_fr": "Lisa",
-    "texte_fr": "*pff*[1205][001E] Viens, [1113].\nC'est si bête."
+    "texte_fr": "*pff*[1205][001E] Viens, [1113]. C'est si bête."
   },
   {
     "id": 21,
@@ -364,7 +364,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]hate[SP]to[SP]stoop[SP]this[SP]low...[1205][001E][SP]But[SP]for[SP]the\nsake[SP]of[SP]my[SP]bros,[SP]I[SP]can't[SP]let[SP]you[SP]go\nthat[SP]easily.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je déteste m'abaisser à ça...[1205][001E] Mais pour\nmes potes, je peux pas te laisser\npartir."
+    "texte_fr": "Je déteste m'abaisser à ça...[1205][001E] Mais pour\nmes potes, je peux pas te laisser partir."
   },
   {
     "id": 23,
@@ -396,7 +396,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "[1432][NULL][NULL][0014]Death[SP]Boss[1432][NULL][NULL][0014]!?[SP]More[SP]like[SP]Undie[SP]Boss!",
     "nom_fr": "Lisa",
-    "texte_fr": "[1432][NULL][NULL][0014]Boss mortel[1432][NULL][NULL][0014]!?\nBoss des Calbutes!"
+    "texte_fr": "[1432][NULL][NULL][0014]Boss mortel[1432][NULL][NULL][0014]!? Boss des Calbutes!"
   },
   {
     "id": 25,
@@ -412,7 +412,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "I've[SP]heard[SP]the[SP]rumors![SP]You[SP]became\nBoss[SP]by[SP]pantsing[SP]people,[SP]didn't[SP]you?",
     "nom_fr": "Lisa",
-    "texte_fr": "Je connais la rumeur! T'es devenu Boss\nen baissant les frocs, non?"
+    "texte_fr": "Je connais la rumeur! T'es devenu\nBoss en baissant les frocs, non?"
   },
   {
     "id": 26,

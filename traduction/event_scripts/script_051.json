@@ -1,786 +1,786 @@
 [
-    {
-        "id": 0,
-        "offset": 295106,
-        "data_size": 266,
-        "slot_size": 270,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "Leave[SP]me[SP]to[SP]deal[SP]with[SP]this[SP]fine[SP]honey.\nI'll[SP]have[SP]her[SP]wrapped[SP]around[SP]my[SP]finger[SP]in\nno[SP]time[SP]with[SP]my[SP]can't-miss[SP]schmoozing.",
-        "nom_fr": "Michel",
-        "texte_fr": "Laissez-moi gérer cette perle.\nJe l'aurai dans ma poche en deux temps,\ntrois mouvements avec mon baratin [1205][U+000F]\ninfaillible."
-    },
-    {
-        "id": 1,
-        "offset": 295376,
-        "data_size": 252,
-        "slot_size": 256,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Cleaning[SP]lady",
-        "texte_orig": "You[SP]can[SP]put[SP]on[SP]all[SP]the[SP]makeup[SP]you[SP]want[SP]to\ntry[SP]to[SP]sneak[SP]a[SP]peek[SP]into[SP]the[SP]ladies'[SP]room...\nBut[SP]I'm[SP]not[SP]fooled!",
-        "nom_fr": "Femme de ménage",
-        "texte_fr": "Maquille-toi tant que tu veux pour\nvoir les toilettes des femmes...\nMais je ne suis pas dupe!"
-    },
-    {
-        "id": 2,
-        "offset": 295632,
-        "data_size": 196,
-        "slot_size": 200,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "Hon,[SP]how[SP]many[SP]times[SP]do[SP]I[SP]have[SP]to[SP]say[SP]it?\nI'm[SP]not[SP]a[SP]pervert,[SP]I'm[SP]a[SP]rock[SP]'n[SP]roll[SP]star!",
-        "nom_fr": "Michel",
-        "texte_fr": "Combien de fois faut-il que je le dise?\nJe suis une rockstar, pas un vicieux!"
-    },
-    {
-        "id": 3,
-        "offset": 295832,
-        "data_size": 62,
-        "slot_size": 66,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "You're[SP]still[SP]at[SP]it?",
-        "nom_fr": "Ginko",
-        "texte_fr": "T'encore là-dessus?"
-    },
-    {
-        "id": 4,
-        "offset": 295898,
-        "data_size": 108,
-        "slot_size": 112,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "What's[SP]the[SP]matter,[SP][1113]?[1205][001E]\nHuh?[SP]That[SP]sound...",
-        "nom_fr": "Yukino",
-        "texte_fr": "Quoi de neuf, [1113]?[1205][001E]\nHein? Ce bruit..."
-    },
-    {
-        "id": 5,
-        "offset": 296010,
-        "data_size": 152,
-        "slot_size": 156,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Here[SP]they[SP]are![SP]A[SP][E4][NULL][NULL][U+0006]riddle[E4][NULL][NULL][0002][SP]and[SP]a[SP][E4][NULL][NULL][U+0006]remote\ntransmitter[E4][NULL][NULL][0002]!",
-        "nom_fr": "Maya",
-        "texte_fr": "Là! Une [E4][NULL][NULL][U+0006]énigme[E4][NULL][NULL][0002] et un [E4][NULL][NULL][U+0006]détonateur à distance[E4][NULL][NULL][0002]\n!"
-    },
-    {
-        "id": 6,
-        "offset": 296166,
-        "data_size": 78,
-        "slot_size": 82,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "How[SP]much[SP]time[SP]do[SP]we[SP]have!?",
-        "nom_fr": "Yukino",
-        "texte_fr": "Temps restant?"
-    },
-    {
-        "id": 7,
-        "offset": 296248,
-        "data_size": 66,
-        "slot_size": 70,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Um...[SP]F-Five[SP]minutes!?",
-        "nom_fr": "Maya",
-        "texte_fr": "Euh... Cinq minutes!?"
-    },
-    {
-        "id": 8,
-        "offset": 296318,
-        "data_size": 80,
-        "slot_size": 84,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "How[SP]did[SP]you[SP]not[SP]notice[SP]this!?",
-        "nom_fr": "Ginko",
-        "texte_fr": "Comment t'as pas vu ça?"
-    },
-    {
-        "id": 9,
-        "offset": 296402,
-        "data_size": 92,
-        "slot_size": 96,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Eikichi",
-        "texte_orig": "H-H-How[SP]was[SP]I[SP]supposed[SP]to[SP]know!?",
-        "nom_fr": "Michel",
-        "texte_fr": "C'était écrit quelque part!?"
-    },
-    {
-        "id": 10,
-        "offset": 296498,
-        "data_size": 154,
-        "slot_size": 158,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Cleaning[SP]lady",
-        "texte_orig": "You[SP]sure[SP]are[SP]a[SP]strange[SP]bunch.[SP]What's[SP]all\nthis[SP]fuss[SP]about?",
-        "nom_fr": "Femme de ménage",
-        "texte_fr": "Drôle de bande. C'est quoi tout ce bruit?"
-    },
-    {
-        "id": 11,
-        "offset": 296656,
-        "data_size": 160,
-        "slot_size": 164,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "E-Excuse[SP]me![SP]That[SP]transmitter[SP]in[SP]your\npail...[SP]Where[SP]did[SP]you[SP]find[SP]it!?",
-        "nom_fr": "Maya",
-        "texte_fr": "Excusez moi! Ce détonateur dans votre \nseau... Où l'avez-vous trouvé!?"
-    },
-    {
-        "id": 12,
-        "offset": 296820,
-        "data_size": 298,
-        "slot_size": 302,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Cleaning[SP]lady",
-        "texte_orig": "Oh,[SP]this[SP]clock?[SP]I[SP]fished[SP]it[SP]out[SP]of[SP]the[SP]trash\nin[SP]the[SP]men's[SP]room[SP]a[SP]minute[SP]ago.[SP]Perfectly\ngood[SP]clock,[SP]don't[SP]know[SP]why[SP]it[SP]was[SP]there...",
-        "nom_fr": "Femme de ménage",
-        "texte_fr": "Cette pendule? Je l'ai sortie de la \npoubelle\ndes toilettes des hommes. En parfait état,[1205][U+000F]\npourquoi elle était là..."
-    },
-    {
-        "id": 13,
-        "offset": 297122,
-        "data_size": 208,
-        "slot_size": 212,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "That's[SP]not[SP]a[SP]clock![SP]It's[SP]a[SP]timed[SP]detonator\nfor[SP]a[SP]bomb![SP]You[SP]need[SP]to[SP]give[SP]that[SP]to[SP]us\nright[SP]away!",
-        "nom_fr": "Maya",
-        "texte_fr": "C'est un détonateur à minuterie pour \nbombe! Donnez-le-nous vite!"
-    },
-    {
-        "id": 14,
-        "offset": 297334,
-        "data_size": 232,
-        "slot_size": 236,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Cleaning[SP]lady",
-        "texte_orig": "What[SP]nonsense[SP]is[SP]this[SP]now?[SP]You[SP]just[SP]want\nmy[SP]clock![SP]Well,[SP]too[SP]bad,[SP]because[SP]you're[SP]not\nfooling[SP]me!",
-        "nom_fr": "Femme de ménage",
-        "texte_fr": "Balivernes! Vous voulez ma pendule.\nVous ne m'aurez pas!"
-    },
-    {
-        "id": 15,
-        "offset": 297570,
-        "data_size": 168,
-        "slot_size": 172,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "This[SP]is[SP]an[SP]emergency,[SP]so[SP]we[SP]have[SP]no[SP]choice.\nWe'll[SP]have[SP]to[SP]resort[SP]to[SP]force!",
-        "nom_fr": "Maya",
-        "texte_fr": "C'est une urgence, on a pas le choix.\nOn va devoir employer la force!"
-    },
-    {
-        "id": 16,
-        "offset": 297742,
-        "data_size": 44,
-        "slot_size": 48,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "???",
-        "texte_orig": "Hahahahaha...",
-        "nom_fr": "???",
-        "texte_fr": "Hahahaha..."
-    },
-    {
-        "id": 17,
-        "offset": 297790,
-        "data_size": 178,
-        "slot_size": 182,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Cleaning[SP]lady",
-        "texte_orig": "A[SP]man[SP]in[SP]the[SP]women's[SP]stalls!?[SP]How[SP]dare[SP]you!\nGet[SP]out[SP]of[SP]there,[SP]you[SP]pig!",
-        "nom_fr": "Femme de ménage",
-        "texte_fr": "Un homme aux toilettes des femmes!? \nComment osez vous!\nDehors!"
-    },
-    {
-        "id": 18,
-        "offset": 297972,
-        "data_size": 72,
-        "slot_size": 76,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Cleaning[SP]lady",
-        "texte_orig": "I-It's[SP]a[SP]monster!",
-        "nom_fr": "Femme de ménage",
-        "texte_fr": "U-Un monstre!"
-    },
-    {
-        "id": 19,
-        "offset": 298048,
-        "data_size": 154,
-        "slot_size": 158,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Yukino",
-        "texte_orig": "Looks[SP]like[SP]an[SP]assassin[SP]from[SP]the[SP]Masked\nCircle.[SP]Careful,[SP]everyone!",
-        "nom_fr": "Yukino",
-        "texte_fr": "On dirait un assassin du Cercle Masqué.\nAttention tout le monde!"
-    },
-    {
-        "id": 20,
-        "offset": 298206,
-        "data_size": 218,
-        "slot_size": 222,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "???",
-        "texte_orig": "My[SP]name[SP]is[SP]Belphegor...[SP]the[SP]seeker[SP]of\nharmony[SP]on[SP]Earth,[SP]and[SP]Duke[SP]of[SP]Hell\npresiding[SP]over[SP]indolence...",
-        "nom_fr": "???",
-        "texte_fr": "Mon nom est Belphegor, chercheur \nd'harmonie terrestre,\nDuc de l'Enfer, maître de la paresse..."
-    },
-    {
-        "id": 21,
-        "offset": 298428,
-        "data_size": 134,
-        "slot_size": 138,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Belphegor",
-        "texte_orig": "You[SP]won't[SP]be[SP]taking[SP]that[SP]transmitter!\nCome[SP]out,[SP]men!",
-        "nom_fr": "Belphegor",
-        "texte_fr": "Vous n'aurez pas ce détonateur!\nSortez, mes hommes!"
-    },
-    {
-        "id": 22,
-        "offset": 298566,
-        "data_size": 122,
-        "slot_size": 126,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Belphegor",
-        "texte_orig": "Master,[SP]that's[SP]your[SP]cue...[1205]<[SP]Master![1205][001E][SP]MASTER!",
-        "nom_fr": "Belphegor",
-        "texte_fr": "Maître, c'est à vous...[1205]< Maître![1205][001E] MAÎTRE!"
-    },
-    {
-        "id": 23,
-        "offset": 298692,
-        "data_size": 150,
-        "slot_size": 154,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Cosplayer[SP]girl",
-        "texte_orig": "I[SP]am[SP]Ixquic,[SP]reincarnated[SP]warrior[SP]of[SP]the\nMasked[SP]Circle!",
-        "nom_fr": "Cosplayeuse",
-        "texte_fr": "Je suis Ixquic, guerrière réincarnée du\nCercle Masqué!"
-    },
-    {
-        "id": 24,
-        "offset": 299134,
-        "data_size": 228,
-        "slot_size": 232,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "Heyyy,[SP]everyone![SP]The[SP]evil[SP]demon[SP]tamers[SP]are\nhere,[SP]just[SP]like[SP]the[SP]great[SP]King[SP]Leo's[SP]oracle\nsaid[SP]they'd[SP]be!",
-        "nom_fr": "Ixquic",
-        "texte_fr": "Heeey, les gars! Les vils dompteurs de \ndémons sont\nlà, comme l'annonçait l'oracle du grand [1205][U+000F]\nRoi Lion!"
-    },
-    {
-        "id": 25,
-        "offset": 299366,
-        "data_size": 208,
-        "slot_size": 212,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Leo[SP]troop",
-        "texte_orig": "Glory[SP]to[SP]the[SP]Mask![E1][E2]\n[E3][E4][NULL][NULL]\"Ixquic\nYou[SP]fiendish[SP]demon[SP]tamers[SP]who[SP]seek[SP]to\ndestroy[SP]the[SP]world!",
-        "nom_fr": "Troupe Leo",
-        "texte_fr": "Gloire au Masque![E1][E2]\n[E3][E4][NULL][NULL]\"Ixquic\nDompteurs de démons, vous voulez détruire [1205][U+000F]\nle monde!"
-    },
-    {
-        "id": 26,
-        "offset": 299578,
-        "data_size": 116,
-        "slot_size": 120,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "You...[1205][U+000A][SP]uh...[1205][U+000A][SP]umm...[1205][U+000A][SP]hm?[1205][001E][SP]Hold[SP]on[SP]a[SP]sec.",
-        "nom_fr": "Ixquic",
-        "texte_fr": "Vous...[1205][U+000A] euh...[1205][U+000A] hum...[1205][U+000A] hein?[1205][001E] Attendez."
-    },
-    {
-        "id": 27,
-        "offset": 299698,
-        "data_size": 98,
-        "slot_size": 102,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "Hey,[SP]um,[SP]Belphie?[SP]What[SP]does[SP]this[SP]say?",
-        "nom_fr": "Ixquic",
-        "texte_fr": "Hep, euh, Belphie? Ça dit quoi là?"
-    },
-    {
-        "id": 28,
-        "offset": 299800,
-        "data_size": 112,
-        "slot_size": 116,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Belphegor",
-        "texte_orig": "That[SP]would[SP]be[SP][1432][NULL][NULL][0014]immemorial,[1432][NULL][NULL][0014][SP]Master.",
-        "nom_fr": "Belphegor",
-        "texte_fr": "[1432][NULL][NULL][0014]Immemoriale[1432][NULL][NULL][0014], Maître."
-    },
-    {
-        "id": 29,
-        "offset": 299916,
-        "data_size": 240,
-        "slot_size": 244,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "The[SP]magical[SP]warrior[SP]Ixquic,[SP]reincarnated\nsince[SP]time[SP]immemorial,[SP]will[SP]whoop[SP]your[SP]ass\nwith[SP]divine[SP]retribution!",
-        "nom_fr": "Ixquic",
-        "texte_fr": "Moi, Ixquic, guerrière réincarnée,\nje vais vous botter le cul par rétribution\ndivine!"
-    },
-    {
-        "id": 30,
-        "offset": 300160,
-        "data_size": 150,
-        "slot_size": 154,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "Demon[SP]tamers![SP]Be[SP]banished[SP]to[SP]the[SP]darkness\nfrom[SP]whence[SP]you[SP]came!",
-        "nom_fr": "Ixquic",
-        "texte_fr": "Dompteurs! Retournez aux ténèbres d'où \nvous venez!"
-    },
-    {
-        "id": 31,
-        "offset": 300314,
-        "data_size": 66,
-        "slot_size": 70,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Leo[SP]troop",
-        "texte_orig": "Glory[SP]to[SP]the[SP]Mask!",
-        "nom_fr": "Troupe",
-        "texte_fr": "Gloire au Masque!"
-    },
-    {
-        "id": 32,
-        "offset": 300384,
-        "data_size": 120,
-        "slot_size": 124,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Belphegor",
-        "texte_orig": "Master...[SP]It[SP]seems[SP]they're[SP]paying[SP]us[SP]no[SP]heed.",
-        "nom_fr": "Belphegor",
-        "texte_fr": "Maître... Ils semblent ne pas nous \nécouter."
-    },
-    {
-        "id": 33,
-        "offset": 300508,
-        "data_size": 196,
-        "slot_size": 200,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "YO![SP]DEMON[SP]TAMERS![SP]Don't[SP]turn[SP]your[SP]back[SP]on\na[SP]reincarnated[SP]warrior[SP]of[SP]the[SP]Masked[SP]Circle!",
-        "nom_fr": "Ixquic",
-        "texte_fr": "HÉ! Ne fuyez pas une guerrière du Cercle \nMasqué!"
-    },
-    {
-        "id": 34,
-        "offset": 300708,
-        "data_size": 200,
-        "slot_size": 204,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Be[SP]a[SP]good[SP]girl[SP]and[SP]don't[SP]get[SP]in[SP]our[SP]way,\nm'kay,[SP]sweetie?[SP]You[SP]should[SP]hurry[SP]out[SP]of\nhere[SP]too!",
-        "nom_fr": "Maya",
-        "texte_fr": "Sois une fille sage et ne nous gêne pas.\nToi aussi, va-t'en vite!"
-    },
-    {
-        "id": 35,
-        "offset": 300912,
-        "data_size": 226,
-        "slot_size": 230,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "Did[SP]you[SP]hear[SP]that,[SP]Belphie!?[SP]This[SP]old[SP]hag\nis[SP]treating[SP]a[SP]magical[SP]warrior[SP]like[SP]a[SP]plain\nol'[SP]little[SP]girl!",
-        "nom_fr": "Ixquic",
-        "texte_fr": "T'entends, Belphie? La vieille me prend \npour une gamine!"
-    },
-    {
-        "id": 36,
-        "offset": 301142,
-        "data_size": 48,
-        "slot_size": 52,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "O-Old[SP]hag...!?",
-        "nom_fr": "Maya",
-        "texte_fr": "Vieille...!?"
-    },
-    {
-        "id": 37,
-        "offset": 301194,
-        "data_size": 142,
-        "slot_size": 146,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ginko",
-        "texte_orig": "Hoisamuro![SP]You[SP]did[SP]it![SP]That's[SP]our[SP][1113]!\nI[SP]knew[SP]you[SP]could[SP]do[SP]it!",
-        "nom_fr": "Ginko",
-        "texte_fr": "Yay! T'as réussi! C'est notre [1113]!\nJe le savais!"
-    },
-    {
-        "id": 38,
-        "offset": 301340,
-        "data_size": 192,
-        "slot_size": 196,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Belphegor",
-        "texte_orig": "Looks[SP]like[SP]they've[SP]disabled[SP]the[SP]transmitter\nafter[SP]all![SP]What[SP]should[SP]we[SP]do,[SP]Master?",
-        "nom_fr": "Belphegor",
-        "texte_fr": "On dirait qu'ils ont désamorcé le \ndétonateur\nfinalement! Que fait-on, Maître?"
-    },
-    {
-        "id": 39,
-        "offset": 301536,
-        "data_size": 234,
-        "slot_size": 238,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "...[1205][001E]Now[SP]I'm[SP]mad![SP]If[SP]that's[SP]how[SP]it's[SP]gonna\nbe,[SP]I'll[SP]blow[SP]the[SP]whole[SP]building[SP]with[SP]this\nremote[SP]transmitter!",
-        "nom_fr": "Ixquic",
-        "texte_fr": "...[1205][001E]J'suis en colère! Je fais tout sauter \navec ce détonateur!"
-    },
-    {
-        "id": 40,
-        "offset": 301774,
-        "data_size": 158,
-        "slot_size": 162,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Stop[SP]that[SP]right[SP]now![SP]If[SP]this[SP]building[SP]goes,\nyou'll[SP]die[SP]along[SP]with[SP]it!",
-        "nom_fr": "Maya",
-        "texte_fr": "Arrête ça tout de suite! Si l'immeuble \nsaute,\ntu mourras avec lui!"
-    },
-    {
-        "id": 41,
-        "offset": 301936,
-        "data_size": 60,
-        "slot_size": 64,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "Psh,[SP]I[SP]don't[SP]care.",
-        "nom_fr": "Ixquic",
-        "texte_fr": "J'm'en fous."
-    },
-    {
-        "id": 42,
-        "offset": 302000,
-        "data_size": 198,
-        "slot_size": 202,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "My[SP]family[SP]and[SP]classes[SP]are[SP]all[SP]just[SP]a[SP]pain...[1205][001E]\nThere's[SP]nothing[SP]good[SP]about[SP]being[SP]alive!",
-        "nom_fr": "Ixquic",
-        "texte_fr": "Ma famille, les cours, tout est chiant...[1205][001E]\nY a rien de bien dans la vie!"
-    },
-    {
-        "id": 43,
-        "offset": 302202,
-        "data_size": 232,
-        "slot_size": 236,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "The[SP]reincarnated[SP]warrior[SP]Ixquic[SP]lives[SP]for\njustice,[SP]and[SP]she'll[SP]die[SP]for[SP]it[SP]too!\nOnly[SP]that[SP]will[SP]satisfy[SP]me!",
-        "nom_fr": "Ixquic",
-        "texte_fr": "La guerrière réincarnée Ixquic vit et \nmourra pour la justice.\nC'est ma seule joie!"
-    },
-    {
-        "id": 44,
-        "offset": 302438,
-        "data_size": 122,
-        "slot_size": 126,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Don't...[1205][001E][SP]Don't[SP]you[SP]ever[SP]treat[SP]death[SP]like\na[SP]joke!",
-        "nom_fr": "Maya",
-        "texte_fr": "Ne...[1205][001E] Ne prends jamais la mort à la \nlégère!"
-    },
-    {
-        "id": 45,
-        "offset": 302564,
-        "data_size": 156,
-        "slot_size": 160,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "You[SP]have[SP]the[SP]power[SP]to[SP]change[SP]your[SP]own\nenvironment![SP]Your[SP]own[SP]future!",
-        "nom_fr": "Maya",
-        "texte_fr": "Tu peux changer ton environnement, ton \navenir!"
-    },
-    {
-        "id": 46,
-        "offset": 302724,
-        "data_size": 180,
-        "slot_size": 184,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Maya",
-        "texte_orig": "Shrugging[SP]that[SP]off[SP]and[SP]saying[SP]you'd[SP]rather\ndie[SP]just[SP]shows[SP]how[SP]immature[SP]you[SP]are!",
-        "nom_fr": "Maya",
-        "texte_fr": "Ignorer ça et dire que tu préfères mourir,\nça montre juste ton immaturité!"
-    },
-    {
-        "id": 47,
-        "offset": 302908,
-        "data_size": 60,
-        "slot_size": 64,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "Huh,[SP]good[SP]point...",
-        "nom_fr": "Ixquic",
-        "texte_fr": "Huh, pas faux..."
-    },
-    {
-        "id": 48,
-        "offset": 302972,
-        "data_size": 230,
-        "slot_size": 234,
-        "_term": [
-            4358,
-            4354,
-            4355,
-            5169
-        ],
-        "nom_orig": "Ixquic",
-        "texte_orig": "...NOT![SP]You're[SP]totally[SP]senile[SP]if[SP]you[SP]thought\nI'd[SP]listen[SP]to[SP]that![SP]My[SP]generation[SP]HATES\nbeing[SP]preached[SP]at!",
-        "nom_fr": "Ixquic",
-        "texte_fr": "...NON! Tu es totalement sénile! Ma \ngénération déteste les sermons!"
-    }
+  {
+    "id": 0,
+    "offset": 295106,
+    "data_size": 266,
+    "slot_size": 270,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Leave[SP]me[SP]to[SP]deal[SP]with[SP]this[SP]fine[SP]honey.\nI'll[SP]have[SP]her[SP]wrapped[SP]around[SP]my[SP]finger[SP]in\nno[SP]time[SP]with[SP]my[SP]can't-miss[SP]schmoozing.",
+    "nom_fr": "Michel",
+    "texte_fr": "Laissez-moi gérer cette perle. Je l'aurai\ndans ma poche en deux temps, trois\nmouvements avec mon baratin [1205][U+000F] infaillible."
+  },
+  {
+    "id": 1,
+    "offset": 295376,
+    "data_size": 252,
+    "slot_size": 256,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Cleaning[SP]lady",
+    "texte_orig": "You[SP]can[SP]put[SP]on[SP]all[SP]the[SP]makeup[SP]you[SP]want[SP]to\ntry[SP]to[SP]sneak[SP]a[SP]peek[SP]into[SP]the[SP]ladies'[SP]room...\nBut[SP]I'm[SP]not[SP]fooled!",
+    "nom_fr": "Femme de ménage",
+    "texte_fr": "Maquille-toi tant que tu veux pour\nvoir les toilettes des femmes...\nMais je ne suis pas dupe!"
+  },
+  {
+    "id": 2,
+    "offset": 295632,
+    "data_size": 196,
+    "slot_size": 200,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Hon,[SP]how[SP]many[SP]times[SP]do[SP]I[SP]have[SP]to[SP]say[SP]it?\nI'm[SP]not[SP]a[SP]pervert,[SP]I'm[SP]a[SP]rock[SP]'n[SP]roll[SP]star!",
+    "nom_fr": "Michel",
+    "texte_fr": "Combien de fois faut-il que je le dise?\nJe suis une rockstar, pas un vicieux!"
+  },
+  {
+    "id": 3,
+    "offset": 295832,
+    "data_size": 62,
+    "slot_size": 66,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "You're[SP]still[SP]at[SP]it?",
+    "nom_fr": "Ginko",
+    "texte_fr": "T'encore là-dessus?"
+  },
+  {
+    "id": 4,
+    "offset": 295898,
+    "data_size": 108,
+    "slot_size": 112,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "What's[SP]the[SP]matter,[SP][1113]?[1205][001E]\nHuh?[SP]That[SP]sound...",
+    "nom_fr": "Yukino",
+    "texte_fr": "Quoi de neuf, [1113]?[1205][001E] Hein? Ce bruit..."
+  },
+  {
+    "id": 5,
+    "offset": 296010,
+    "data_size": 152,
+    "slot_size": 156,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Here[SP]they[SP]are![SP]A[SP][E4][NULL][NULL][U+0006]riddle[E4][NULL][NULL][0002][SP]and[SP]a[SP][E4][NULL][NULL][U+0006]remote\ntransmitter[E4][NULL][NULL][0002]!",
+    "nom_fr": "Maya",
+    "texte_fr": "Là! Une [E4][NULL][NULL][U+0006]énigme[E4][NULL][NULL][0002] et un [E4][NULL][NULL][U+0006]détonateur à distance[E4][NULL][NULL][0002] !"
+  },
+  {
+    "id": 6,
+    "offset": 296166,
+    "data_size": 78,
+    "slot_size": 82,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "How[SP]much[SP]time[SP]do[SP]we[SP]have!?",
+    "nom_fr": "Yukino",
+    "texte_fr": "Temps restant?"
+  },
+  {
+    "id": 7,
+    "offset": 296248,
+    "data_size": 66,
+    "slot_size": 70,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Um...[SP]F-Five[SP]minutes!?",
+    "nom_fr": "Maya",
+    "texte_fr": "Euh... Cinq minutes!?"
+  },
+  {
+    "id": 8,
+    "offset": 296318,
+    "data_size": 80,
+    "slot_size": 84,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "How[SP]did[SP]you[SP]not[SP]notice[SP]this!?",
+    "nom_fr": "Ginko",
+    "texte_fr": "Comment t'as pas vu ça?"
+  },
+  {
+    "id": 9,
+    "offset": 296402,
+    "data_size": 92,
+    "slot_size": 96,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "H-H-How[SP]was[SP]I[SP]supposed[SP]to[SP]know!?",
+    "nom_fr": "Michel",
+    "texte_fr": "C'était écrit quelque part!?"
+  },
+  {
+    "id": 10,
+    "offset": 296498,
+    "data_size": 154,
+    "slot_size": 158,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Cleaning[SP]lady",
+    "texte_orig": "You[SP]sure[SP]are[SP]a[SP]strange[SP]bunch.[SP]What's[SP]all\nthis[SP]fuss[SP]about?",
+    "nom_fr": "Femme de ménage",
+    "texte_fr": "Drôle de bande. C'est quoi tout ce bruit?"
+  },
+  {
+    "id": 11,
+    "offset": 296656,
+    "data_size": 160,
+    "slot_size": 164,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "E-Excuse[SP]me![SP]That[SP]transmitter[SP]in[SP]your\npail...[SP]Where[SP]did[SP]you[SP]find[SP]it!?",
+    "nom_fr": "Maya",
+    "texte_fr": "Excusez moi! Ce détonateur dans votre\nseau... Où l'avez-vous trouvé!?"
+  },
+  {
+    "id": 12,
+    "offset": 296820,
+    "data_size": 298,
+    "slot_size": 302,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Cleaning[SP]lady",
+    "texte_orig": "Oh,[SP]this[SP]clock?[SP]I[SP]fished[SP]it[SP]out[SP]of[SP]the[SP]trash\nin[SP]the[SP]men's[SP]room[SP]a[SP]minute[SP]ago.[SP]Perfectly\ngood[SP]clock,[SP]don't[SP]know[SP]why[SP]it[SP]was[SP]there...",
+    "nom_fr": "Femme de ménage",
+    "texte_fr": "Cette pendule? Je l'ai sortie de la\npoubelle des toilettes des hommes. En\nparfait état,[1205][U+000F] pourquoi elle était là..."
+  },
+  {
+    "id": 13,
+    "offset": 297122,
+    "data_size": 208,
+    "slot_size": 212,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "That's[SP]not[SP]a[SP]clock![SP]It's[SP]a[SP]timed[SP]detonator\nfor[SP]a[SP]bomb![SP]You[SP]need[SP]to[SP]give[SP]that[SP]to[SP]us\nright[SP]away!",
+    "nom_fr": "Maya",
+    "texte_fr": "C'est un détonateur à minuterie\npour bombe! Donnez-le-nous vite!"
+  },
+  {
+    "id": 14,
+    "offset": 297334,
+    "data_size": 232,
+    "slot_size": 236,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Cleaning[SP]lady",
+    "texte_orig": "What[SP]nonsense[SP]is[SP]this[SP]now?[SP]You[SP]just[SP]want\nmy[SP]clock![SP]Well,[SP]too[SP]bad,[SP]because[SP]you're[SP]not\nfooling[SP]me!",
+    "nom_fr": "Femme de ménage",
+    "texte_fr": "Balivernes! Vous voulez ma\npendule. Vous ne m'aurez pas!"
+  },
+  {
+    "id": 15,
+    "offset": 297570,
+    "data_size": 168,
+    "slot_size": 172,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "This[SP]is[SP]an[SP]emergency,[SP]so[SP]we[SP]have[SP]no[SP]choice.\nWe'll[SP]have[SP]to[SP]resort[SP]to[SP]force!",
+    "nom_fr": "Maya",
+    "texte_fr": "C'est une urgence, on a pas le choix.\nOn va devoir employer la force!"
+  },
+  {
+    "id": 16,
+    "offset": 297742,
+    "data_size": 44,
+    "slot_size": 48,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "???",
+    "texte_orig": "Hahahahaha...",
+    "nom_fr": "???",
+    "texte_fr": "Hahahaha..."
+  },
+  {
+    "id": 17,
+    "offset": 297790,
+    "data_size": 178,
+    "slot_size": 182,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Cleaning[SP]lady",
+    "texte_orig": "A[SP]man[SP]in[SP]the[SP]women's[SP]stalls!?[SP]How[SP]dare[SP]you!\nGet[SP]out[SP]of[SP]there,[SP]you[SP]pig!",
+    "nom_fr": "Femme de ménage",
+    "texte_fr": "Un homme aux toilettes des femmes!?\nComment osez vous! Dehors!"
+  },
+  {
+    "id": 18,
+    "offset": 297972,
+    "data_size": 72,
+    "slot_size": 76,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Cleaning[SP]lady",
+    "texte_orig": "I-It's[SP]a[SP]monster!",
+    "nom_fr": "Femme de ménage",
+    "texte_fr": "U-Un monstre!"
+  },
+  {
+    "id": 19,
+    "offset": 298048,
+    "data_size": 154,
+    "slot_size": 158,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Looks[SP]like[SP]an[SP]assassin[SP]from[SP]the[SP]Masked\nCircle.[SP]Careful,[SP]everyone!",
+    "nom_fr": "Yukino",
+    "texte_fr": "On dirait un assassin du Cercle\nMasqué. Attention tout le monde!"
+  },
+  {
+    "id": 20,
+    "offset": 298206,
+    "data_size": 218,
+    "slot_size": 222,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "???",
+    "texte_orig": "My[SP]name[SP]is[SP]Belphegor...[SP]the[SP]seeker[SP]of\nharmony[SP]on[SP]Earth,[SP]and[SP]Duke[SP]of[SP]Hell\npresiding[SP]over[SP]indolence...",
+    "nom_fr": "???",
+    "texte_fr": "Mon nom est Belphegor, chercheur\nd'harmonie terrestre, Duc de\nl'Enfer, maître de la paresse..."
+  },
+  {
+    "id": 21,
+    "offset": 298428,
+    "data_size": 134,
+    "slot_size": 138,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Belphegor",
+    "texte_orig": "You[SP]won't[SP]be[SP]taking[SP]that[SP]transmitter!\nCome[SP]out,[SP]men!",
+    "nom_fr": "Belphegor",
+    "texte_fr": "Vous n'aurez pas ce détonateur!\nSortez, mes hommes!"
+  },
+  {
+    "id": 22,
+    "offset": 298566,
+    "data_size": 122,
+    "slot_size": 126,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Belphegor",
+    "texte_orig": "Master,[SP]that's[SP]your[SP]cue...[1205]<[SP]Master![1205][001E][SP]MASTER!",
+    "nom_fr": "Belphegor",
+    "texte_fr": "Maître, c'est à vous...[1205]< Maître![1205][001E] MAÎTRE!"
+  },
+  {
+    "id": 23,
+    "offset": 298692,
+    "data_size": 150,
+    "slot_size": 154,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Cosplayer[SP]girl",
+    "texte_orig": "I[SP]am[SP]Ixquic,[SP]reincarnated[SP]warrior[SP]of[SP]the\nMasked[SP]Circle!",
+    "nom_fr": "Cosplayeuse",
+    "texte_fr": "Je suis Ixquic, guerrière\nréincarnée du Cercle Masqué!"
+  },
+  {
+    "id": 24,
+    "offset": 299134,
+    "data_size": 228,
+    "slot_size": 232,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "Heyyy,[SP]everyone![SP]The[SP]evil[SP]demon[SP]tamers[SP]are\nhere,[SP]just[SP]like[SP]the[SP]great[SP]King[SP]Leo's[SP]oracle\nsaid[SP]they'd[SP]be!",
+    "nom_fr": "Ixquic",
+    "texte_fr": "Heeey, les gars! Les vils dompteurs\nde démons sont là, comme l'annonçait\nl'oracle du grand [1205][U+000F] Roi Lion!"
+  },
+  {
+    "id": 25,
+    "offset": 299366,
+    "data_size": 208,
+    "slot_size": 212,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Leo[SP]troop",
+    "texte_orig": "Glory[SP]to[SP]the[SP]Mask![E1][E2]\n[E3][E4][NULL][NULL]\"Ixquic\nYou[SP]fiendish[SP]demon[SP]tamers[SP]who[SP]seek[SP]to\ndestroy[SP]the[SP]world!",
+    "nom_fr": "Troupe Leo",
+    "texte_fr": "Gloire au Masque![E1][E2] [E3][E4][NULL][NULL]\"Ixquic Dompteurs de\ndémons, vous voulez détruire [1205][U+000F] le monde!"
+  },
+  {
+    "id": 26,
+    "offset": 299578,
+    "data_size": 116,
+    "slot_size": 120,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "You...[1205][U+000A][SP]uh...[1205][U+000A][SP]umm...[1205][U+000A][SP]hm?[1205][001E][SP]Hold[SP]on[SP]a[SP]sec.",
+    "nom_fr": "Ixquic",
+    "texte_fr": "Vous...[1205][U+000A] euh...[1205][U+000A] hum...[1205][U+000A] hein?[1205][001E] Attendez."
+  },
+  {
+    "id": 27,
+    "offset": 299698,
+    "data_size": 98,
+    "slot_size": 102,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "Hey,[SP]um,[SP]Belphie?[SP]What[SP]does[SP]this[SP]say?",
+    "nom_fr": "Ixquic",
+    "texte_fr": "Hep, euh, Belphie? Ça dit quoi là?"
+  },
+  {
+    "id": 28,
+    "offset": 299800,
+    "data_size": 112,
+    "slot_size": 116,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Belphegor",
+    "texte_orig": "That[SP]would[SP]be[SP][1432][NULL][NULL][0014]immemorial,[1432][NULL][NULL][0014][SP]Master.",
+    "nom_fr": "Belphegor",
+    "texte_fr": "[1432][NULL][NULL][0014]Immemoriale[1432][NULL][NULL][0014], Maître."
+  },
+  {
+    "id": 29,
+    "offset": 299916,
+    "data_size": 240,
+    "slot_size": 244,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "The[SP]magical[SP]warrior[SP]Ixquic,[SP]reincarnated\nsince[SP]time[SP]immemorial,[SP]will[SP]whoop[SP]your[SP]ass\nwith[SP]divine[SP]retribution!",
+    "nom_fr": "Ixquic",
+    "texte_fr": "Moi, Ixquic, guerrière réincarnée, je vais\nvous botter le cul par rétribution divine!"
+  },
+  {
+    "id": 30,
+    "offset": 300160,
+    "data_size": 150,
+    "slot_size": 154,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "Demon[SP]tamers![SP]Be[SP]banished[SP]to[SP]the[SP]darkness\nfrom[SP]whence[SP]you[SP]came!",
+    "nom_fr": "Ixquic",
+    "texte_fr": "Dompteurs! Retournez aux\nténèbres d'où vous venez!"
+  },
+  {
+    "id": 31,
+    "offset": 300314,
+    "data_size": 66,
+    "slot_size": 70,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Leo[SP]troop",
+    "texte_orig": "Glory[SP]to[SP]the[SP]Mask!",
+    "nom_fr": "Troupe",
+    "texte_fr": "Gloire au Masque!"
+  },
+  {
+    "id": 32,
+    "offset": 300384,
+    "data_size": 120,
+    "slot_size": 124,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Belphegor",
+    "texte_orig": "Master...[SP]It[SP]seems[SP]they're[SP]paying[SP]us[SP]no[SP]heed.",
+    "nom_fr": "Belphegor",
+    "texte_fr": "Maître... Ils semblent ne pas nous écouter."
+  },
+  {
+    "id": 33,
+    "offset": 300508,
+    "data_size": 196,
+    "slot_size": 200,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "YO![SP]DEMON[SP]TAMERS![SP]Don't[SP]turn[SP]your[SP]back[SP]on\na[SP]reincarnated[SP]warrior[SP]of[SP]the[SP]Masked[SP]Circle!",
+    "nom_fr": "Ixquic",
+    "texte_fr": "HÉ! Ne fuyez pas une\nguerrière du Cercle Masqué!"
+  },
+  {
+    "id": 34,
+    "offset": 300708,
+    "data_size": 200,
+    "slot_size": 204,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Be[SP]a[SP]good[SP]girl[SP]and[SP]don't[SP]get[SP]in[SP]our[SP]way,\nm'kay,[SP]sweetie?[SP]You[SP]should[SP]hurry[SP]out[SP]of\nhere[SP]too!",
+    "nom_fr": "Maya",
+    "texte_fr": "Sois une fille sage et ne nous\ngêne pas. Toi aussi, va-t'en vite!"
+  },
+  {
+    "id": 35,
+    "offset": 300912,
+    "data_size": 226,
+    "slot_size": 230,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "Did[SP]you[SP]hear[SP]that,[SP]Belphie!?[SP]This[SP]old[SP]hag\nis[SP]treating[SP]a[SP]magical[SP]warrior[SP]like[SP]a[SP]plain\nol'[SP]little[SP]girl!",
+    "nom_fr": "Ixquic",
+    "texte_fr": "T'entends, Belphie? La vieille\nme prend pour une gamine!"
+  },
+  {
+    "id": 36,
+    "offset": 301142,
+    "data_size": 48,
+    "slot_size": 52,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "O-Old[SP]hag...!?",
+    "nom_fr": "Maya",
+    "texte_fr": "Vieille...!?"
+  },
+  {
+    "id": 37,
+    "offset": 301194,
+    "data_size": 142,
+    "slot_size": 146,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "Hoisamuro![SP]You[SP]did[SP]it![SP]That's[SP]our[SP][1113]!\nI[SP]knew[SP]you[SP]could[SP]do[SP]it!",
+    "nom_fr": "Ginko",
+    "texte_fr": "Yay! T'as réussi! C'est\nnotre [1113]! Je le savais!"
+  },
+  {
+    "id": 38,
+    "offset": 301340,
+    "data_size": 192,
+    "slot_size": 196,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Belphegor",
+    "texte_orig": "Looks[SP]like[SP]they've[SP]disabled[SP]the[SP]transmitter\nafter[SP]all![SP]What[SP]should[SP]we[SP]do,[SP]Master?",
+    "nom_fr": "Belphegor",
+    "texte_fr": "On dirait qu'ils ont désamorcé le\ndétonateur finalement! Que fait-on, Maître?"
+  },
+  {
+    "id": 39,
+    "offset": 301536,
+    "data_size": 234,
+    "slot_size": 238,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "...[1205][001E]Now[SP]I'm[SP]mad![SP]If[SP]that's[SP]how[SP]it's[SP]gonna\nbe,[SP]I'll[SP]blow[SP]the[SP]whole[SP]building[SP]with[SP]this\nremote[SP]transmitter!",
+    "nom_fr": "Ixquic",
+    "texte_fr": "...[1205][001E] J'suis en colère! Je fais\ntout sauter avec ce détonateur!"
+  },
+  {
+    "id": 40,
+    "offset": 301774,
+    "data_size": 158,
+    "slot_size": 162,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Stop[SP]that[SP]right[SP]now![SP]If[SP]this[SP]building[SP]goes,\nyou'll[SP]die[SP]along[SP]with[SP]it!",
+    "nom_fr": "Maya",
+    "texte_fr": "Arrête ça tout de suite! Si l'immeuble\nsaute, tu mourras avec lui!"
+  },
+  {
+    "id": 41,
+    "offset": 301936,
+    "data_size": 60,
+    "slot_size": 64,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "Psh,[SP]I[SP]don't[SP]care.",
+    "nom_fr": "Ixquic",
+    "texte_fr": "J'm'en fous."
+  },
+  {
+    "id": 42,
+    "offset": 302000,
+    "data_size": 198,
+    "slot_size": 202,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "My[SP]family[SP]and[SP]classes[SP]are[SP]all[SP]just[SP]a[SP]pain...[1205][001E]\nThere's[SP]nothing[SP]good[SP]about[SP]being[SP]alive!",
+    "nom_fr": "Ixquic",
+    "texte_fr": "Ma famille, les cours, tout est\nchiant...[1205][001E] Y a rien de bien dans la vie!"
+  },
+  {
+    "id": 43,
+    "offset": 302202,
+    "data_size": 232,
+    "slot_size": 236,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "The[SP]reincarnated[SP]warrior[SP]Ixquic[SP]lives[SP]for\njustice,[SP]and[SP]she'll[SP]die[SP]for[SP]it[SP]too!\nOnly[SP]that[SP]will[SP]satisfy[SP]me!",
+    "nom_fr": "Ixquic",
+    "texte_fr": "La guerrière réincarnée Ixquic vit et mourra\npour la justice. C'est ma seule joie!"
+  },
+  {
+    "id": 44,
+    "offset": 302438,
+    "data_size": 122,
+    "slot_size": 126,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Don't...[1205][001E][SP]Don't[SP]you[SP]ever[SP]treat[SP]death[SP]like\na[SP]joke!",
+    "nom_fr": "Maya",
+    "texte_fr": "Ne...[1205][001E] Ne prends jamais la mort à la légère!"
+  },
+  {
+    "id": 45,
+    "offset": 302564,
+    "data_size": 156,
+    "slot_size": 160,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "You[SP]have[SP]the[SP]power[SP]to[SP]change[SP]your[SP]own\nenvironment![SP]Your[SP]own[SP]future!",
+    "nom_fr": "Maya",
+    "texte_fr": "Tu peux changer ton environnement, ton avenir!"
+  },
+  {
+    "id": 46,
+    "offset": 302724,
+    "data_size": 180,
+    "slot_size": 184,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Shrugging[SP]that[SP]off[SP]and[SP]saying[SP]you'd[SP]rather\ndie[SP]just[SP]shows[SP]how[SP]immature[SP]you[SP]are!",
+    "nom_fr": "Maya",
+    "texte_fr": "Ignorer ça et dire que tu préfères\nmourir, ça montre juste ton immaturité!"
+  },
+  {
+    "id": 47,
+    "offset": 302908,
+    "data_size": 60,
+    "slot_size": 64,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "Huh,[SP]good[SP]point...",
+    "nom_fr": "Ixquic",
+    "texte_fr": "Huh, pas faux..."
+  },
+  {
+    "id": 48,
+    "offset": 302972,
+    "data_size": 230,
+    "slot_size": 234,
+    "_term": [
+      4358,
+      4354,
+      4355,
+      5169
+    ],
+    "nom_orig": "Ixquic",
+    "texte_orig": "...NOT![SP]You're[SP]totally[SP]senile[SP]if[SP]you[SP]thought\nI'd[SP]listen[SP]to[SP]that![SP]My[SP]generation[SP]HATES\nbeing[SP]preached[SP]at!",
+    "nom_fr": "Ixquic",
+    "texte_fr": "... NON! Tu es totalement sénile!\nMa génération déteste les sermons!"
+  }
 ]

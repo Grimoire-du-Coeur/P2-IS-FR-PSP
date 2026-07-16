@@ -45,7 +45,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP][1114][SP]I[SP]knew[SP]then[SP]was[SP]a[SP]lot[SP]more\nenergetic...[1205][001E][SP]It's[SP]probably[SP]our[SP]fault[SP]that\nyou[SP]became[SP]so[SP]distant.[1205][001E]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le [1114] que j'ai connu était plus\nénergique...[1205][001E] C'est sûrement notre faute si\ntu es devenu si froid.[1205][001E]"
+    "texte_fr": "Le [1114] que j'ai connu était plus\nénergique...[1205][001E] C'est sûrement notre\nfaute si tu es devenu si froid.[1205][001E]"
   },
   {
     "id": 3,
@@ -61,7 +61,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]know[SP]that[SP]words[SP]can[SP]never[SP]be[SP]enough...[1205][001E]\nBut[SP]there's[SP]nothing[SP]else[SP]I[SP]can[SP]do[SP]now\nbesides[SP]apologize.[1205][001E][SP]I'm[SP]so[SP]sorry...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je sais que les mots ne font pas tous...[1205][001E]\nMais je n'ai aucun autre choix que de\nm'excuser.[1205][001E] Je suis désolé..."
+    "texte_fr": "Je sais que les mots ne font pas\ntous...[1205][001E] Mais je n'ai aucun autre choix\nque de m'excuser.[1205][001E] Je suis désolé..."
   },
   {
     "id": 4,
@@ -77,7 +77,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Do[SP]you[SP]know[SP]what[SP]the[SP]most[SP]convenient[SP]phrase\nin[SP]the[SP]world[SP]is?",
     "nom_fr": "Maya",
-    "texte_fr": "Tu connais la phrase la plus utile au \nmonde?"
+    "texte_fr": "Tu connais la phrase la plus utile au monde?"
   },
   {
     "id": 5,
@@ -93,7 +93,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It's[SP][1432][NULL][NULL][0014]I'm[SP]sorry.[1432][NULL][NULL][0014][1205][001E][SP]Anyone[SP]who[SP]hears[SP]that[SP]is\nobligated[SP]to[SP]forgive,[SP]no[SP]matter[SP]how[SP]hurt[SP]or\nangry[SP]they[SP]may[SP]be...",
     "nom_fr": "Maya",
-    "texte_fr": "C'est [1432][NULL][NULL][0014]Je suis désolé.[1432][NULL][NULL][0014][1205][001E] Quiconque qui entend\nça,\nqu'il soit blessé ou en colère, se doit[1205][U+000F]\nde pardonner..."
+    "texte_fr": "C'est [1432][NULL][NULL][0014]Je suis désolé.[1432][NULL][NULL][0014][1205][001E] Quiconque qui\nentend ça, qu'il soit blessé ou en\ncolère, se doit[1205][U+000F] de pardonner..."
   },
   {
     "id": 6,
@@ -109,7 +109,7 @@
     "nom_orig": "Maya",
     "texte_orig": "There's[SP]no[SP]more[SP]disgusting[SP]phrase[SP]in[SP]all[SP]the\nworld.[SP]It's[SP]used[SP]to[SP]displace[SP]your[SP]suffering\nonto[SP]others[SP]so[SP]you[SP]can[SP]escape[SP]your[SP]sins...",
     "nom_fr": "Maya",
-    "texte_fr": "Il n'y a pas plus ignoble comme phrase. \nElle\nest utilisé pour échapper à tes pécher [1205][U+000F]\ntout\nen les léguant à autrui..."
+    "texte_fr": "Il n'y a pas plus ignoble comme phrase.\nElle est utilisé pour échapper à tes\npécher [1205][U+000F] tout en les léguant à autrui..."
   },
   {
     "id": 7,
@@ -125,7 +125,7 @@
     "nom_orig": "Maya",
     "texte_orig": "The[SP]moment[SP]you[SP]employ[SP]it,[SP]your[SP]suffering\nbecomes[SP]the[SP]other[SP]person's.[SP]A[SP]thing[SP]can[SP]be\nunforgivable,[SP]but[SP]oh,[SP]if[SP]they[SP]apologize...",
     "nom_fr": "Maya",
-    "texte_fr": "Tes souffrances deviennent les leurs\nau moment où tu l'emploi. Une chose peu \nêtre[1205][U+000F]\nimpardonable mais bon, si on est désolé..."
+    "texte_fr": "Tes souffrances deviennent les leurs au\nmoment où tu l'emploi. Une chose peu être[1205][U+000F]\nimpardonable mais bon, si on est désolé..."
   },
   {
     "id": 8,
@@ -157,6 +157,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "[1432][NULL][NULL][0014]I'm[SP]sorry[1432][NULL][NULL][0014][SP]is[SP]a[SP]disgusting[SP]phrase...?\nI[SP]don't[SP]think[SP]so.",
     "nom_fr": "Yukino",
-    "texte_fr": "[1432][NULL][NULL][0014]Je suis désolé[1432][NULL][NULL][0014], une phrase ignoble...? Je \ncrois pas."
+    "texte_fr": "[1432][NULL][NULL][0014]Je suis désolé[1432][NULL][NULL][0014], une phrase\nignoble...? Je crois pas."
   }
 ]

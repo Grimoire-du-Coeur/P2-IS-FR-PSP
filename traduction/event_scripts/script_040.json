@@ -13,7 +13,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I...[SP]I[SP]never[SP]believed[SP]in[SP]my[SP]friends...[1205][001E]\nBut[SP]Sheba[SP]and[SP]Mee-ho[SP]believed[SP]in[SP]me...[1205][001E]\nI...[SP]I...!",
     "nom_fr": "Ginko",
-    "texte_fr": "J'ai jamais cru en mes amis...[1205][001E]\nMais Sheba et Mee-ho croyaient en\nmoi...[1205][001E] Je... Je...!"
+    "texte_fr": "J'ai jamais cru en mes amis...[1205][001E] Mais Sheba\net Mee-ho croyaient en moi...[1205][001E] Je... Je...!"
   },
   {
     "id": 1,
@@ -29,7 +29,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I'll[SP]take[SP]Sheba[SP]with[SP]me,[SP][1113]!\nLet's[SP]hurry[SP]and[SP]get[SP]out!",
     "nom_fr": "Ginko",
-    "texte_fr": "Je prends Sheba avec moi, [1113]!\nVite, sortons d'ici!"
+    "texte_fr": "Je prends Sheba avec moi,\n[1113]! Vite, sortons d'ici!"
   },
   {
     "id": 2,
@@ -60,7 +60,7 @@
     "nom_orig": "Maya",
     "texte_orig": "You[SP]tried[SP]to[SP]protect[SP]them,[SP]right?[SP]Don't\nworry...[SP]Once[SP]they[SP]wake[SP]up,[SP]I'm[SP]sure[SP]all\nwill[SP]be[SP]forgiven.",
     "nom_fr": "Maya",
-    "texte_fr": "Tu as essayé de les protéger, non?\nNe t'en fais pas... À leur réveil,\nelles te pardonneront."
+    "texte_fr": "Tu as essayé de les protéger, non? Ne t'en\nfais pas... À leur réveil, elles te\npardonneront."
   },
   {
     "id": 4,
@@ -108,7 +108,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Okay,[SP]we[SP]need[SP]to[SP]provide[SP]cover[SP]for[SP]Ginko\nand[SP]Maya-san!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ok, on doit couvrir Ginko\net Maya-san!"
+    "texte_fr": "Ok, on doit couvrir Ginko et Maya-san!"
   },
   {
     "id": 7,
@@ -124,7 +124,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "[1113]![SP]There's[SP]no[SP]time.[SP]Whoever's[SP]left\nneeds[SP]to[SP]be[SP]evacuated[SP]so[SP]we[SP]can[SP]hurry[SP]and\nfind[SP]the[SP]next[SP]target!",
     "nom_fr": "Yukino",
-    "texte_fr": "[1113]! Pas le temps. Évacuons ceux qui\nrestent pour trouver vite la\nprochaine cible!"
+    "texte_fr": "[1113]! Pas le temps. Évacuons ceux qui\nrestent pour trouver vite la prochaine cible!"
   },
   {
     "id": 8,
@@ -156,7 +156,7 @@
     "nom_orig": "Mami[SP]shadowman",
     "texte_orig": "Promised...[SP]with[SP]Lisa...[1205][001E][SP]My...[SP]dream...[1205][001E]\nNo[SP]more...",
     "nom_fr": "Ombre de Mami",
-    "texte_fr": "La promesse... avec Lisa...[1205][001E] Mon... rêve...[1205][001E]\nFini..."
+    "texte_fr": "La promesse... avec Lisa...[1205][001E]\nMon... rêve...[1205][001E] Fini..."
   },
   {
     "id": 10,
@@ -188,6 +188,6 @@
     "nom_orig": "Miho[SP]shadowman",
     "texte_orig": "Lisa's[SP]crying...[1205][001E][SP]I[SP]guess...[SP]it[SP]doesn't\nmatter...",
     "nom_fr": "Ombre de Miho",
-    "texte_fr": "Lisa pleure...[1205][001E] Ça n'a... plus\nd'importance..."
+    "texte_fr": "Lisa pleure...[1205][001E] Ça n'a... plus d'importance..."
   }
 ]
