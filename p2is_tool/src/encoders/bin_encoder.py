@@ -272,9 +272,9 @@ def encode_bin_from_json(
 
         n_fr = n_fr_input or d.get("nom_orig", "").strip()
 
-        avail = d["data_size"] - 8
-        # NL avant terminateur : règle binaire universelle (event + MMAP + autres)
         term = d.get("_term", [E1, E2, E3, E4])
+        avail = d["data_size"] - (len(term) * 2)
+        # NL avant terminateur : règle binaire universelle (event + MMAP + autres)
         nl_suffix = (
             struct.pack("<H", NL)
             if _needs_nl_suffix(term, d.get("texte_orig", ""))
@@ -398,7 +398,8 @@ def encode_bnp_from_json(
             d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
         )
         enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
-        avail = d["data_size"] - 8
+        term = d.get("_term", [E1, E2, E3, E4])
+        avail = d["data_size"] - (len(term) * 2)
         is_menu = "[1208]" in d.get("texte_orig", "") or "[U+1208]" in d.get(
             "texte_orig", ""
         )
@@ -422,8 +423,6 @@ def encode_bnp_from_json(
                 enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
 
         pad_len = avail - len(enc) - len(nl_sfx)
-        sp_pad = b""
-        term = d.get("_term", [E1, E2, E3, E4])
         end_c = b"".join(struct.pack("<H", t) for t in term)
         null_gap_orig = data[
             d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
@@ -482,7 +481,8 @@ def encode_bnp_from_json(
                 d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
             )
             enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
-            avail = d["data_size"] - 8
+            term = d.get("_term", [E1, E2, E3, E4])
+            avail = d["data_size"] - (len(term) * 2)
             nl_sfx = (
                 struct.pack("<H", NL)
                 if _needs_nl_suffix(
@@ -495,13 +495,13 @@ def encode_bnp_from_json(
                     log_fn(f"  [id {d['id']}] trop long, ignoré", "warn")
                 skip += 1
                 continue
-            sp_pad = struct.pack("<H", SP) * ((avail - len(enc) - len(nl_sfx)) // 2)
+            pad_len = avail - len(enc) - len(nl_sfx)
             term = d.get("_term", [E1, E2, E3, E4])
             end_c = b"".join(struct.pack("<H", t) for t in term)
             null_gap_orig = dec[
                 d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
             ]
-            full = enc + sp_pad + nl_sfx + end_c + null_gap_orig
+            full = enc + nl_sfx + end_c + null_gap_orig + b"\x00" * pad_len
             if len(full) != d["slot_size"]:
                 skip += 1
                 continue
