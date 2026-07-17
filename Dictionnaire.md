@@ -40,6 +40,7 @@
 | **Idealians** | Idéaliens | |
 | **Fuhrer** | Führer | |
 | **Grand Cross** | Croix Cosmique / Croix | |
+| **Joker Game** | Jeu du Joker | |
 | **Last Batallion** | Bataillon | Raccourci assumé en raison des contraintes mémoires du moteur. |
 | **In Lak'ech** | In Lak'ech | Terminologie d'origine inca conservée telle quelle. |
 
@@ -66,6 +67,7 @@
 |:---|:---|:---|
 | **Philemon** | Philémon | Application obligatoire de l'accentuation. |
 | **Demon Painter** | Demon Painter | Pseudonyme conservé intact en anglais par décision créative. |
+| **Undie Boss** | Boss des calbutes | |
 | **Nameless** | Nameless | Pseudonyme conservé intact en anglais par décision créative. |
 | **Maia** / **Mayan** | Maia / Maya | |
 | **Longinus** | Longinus | |
