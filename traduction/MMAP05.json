@@ -12,7 +12,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Is[SP]the[SP]Exalted[SP]One[SP]up[SP]there?[1205][U+000F][SP]I[SP]hear[SP]gunshots\nand[SP]yells[SP]from[SP]the[SP]summit...[1205][0014][SP]The[SP]battle[SP]must\nbe[SP]raging[SP]on.",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "L'Exalté est là-haut?[1205][U+000F] J'entends des coups\nde feu du sommet...[1205][0014] La bataille fait rage."
+    "texte_fr": "L'Exalté est là-haut ?[1205][U+000F] J'entends\ndes coups de feu du sommet...[1205][0014]\nLa bataille fait rage."
   },
   {
     "id": 1,
@@ -28,7 +28,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "But[SP]those[SP]soldiers[SP]are[SP]guarding[SP]the[SP]mountain\npath[SP]and[SP]no[SP]one[SP]can[SP]get[SP]through.[1205][U+000F][SP]They've[SP]even\ntaken[SP]over[SP]the[SP]cable[SP]car![1205][U+000A][SP]What[SP]should[SP]we[SP]do!?",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Ces soldats gardent le chemin de montagne[1205][U+000F] et\npersonne ne peut passer.[1205][U+000A] Ils ont même pris\nle téléphérique![1205][U+000A] Qu'est-ce qu'on fait!?"
+    "texte_fr": "Ces soldats gardent le chemin de montagne[1205][U+000F]\net personne ne peut passer.[1205][U+000A] Ils ont même\npris le téléphérique ![1205][U+000A] Qu'est-ce qu'on fait !?"
   },
   {
     "id": 2,
@@ -43,7 +43,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Hey![SP]Did[SP]you[SP]see[SP]those[SP]meteors?[1205][U+000F][SP]Those[SP]were[SP]the\nLeonids...[1205][U+000A][SP]The[SP]lion's[SP]roar![1205][U+000A][SP]Hahaha,[SP]another\nstep[SP]in[SP]the[SP]Oracle[SP]fulfilled!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Hé! Ces météores?[1205][U+000F] C'était les\nLéonides...[1205][U+000A] Rugissement du lion!\n[1205][U+000A]Hahaha, encore une étape de l'Oracle!"
+    "texte_fr": "Hé ! Ces météores ?[1205][U+000F] C'était\nles Léonides...[1205][U+000A] Rugissement du lion !\n[1205][U+000A]Hahaha, encore une étape de l'Oracle !"
   },
   {
     "id": 3,
@@ -59,7 +59,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "The[SP]Exalted[SP]One[SP]still[SP]lives![1205][U+000A][SP]We[SP]will[SP]evolve\ninto[SP]Idealians,[SP]just[SP]as[SP]the[SP]In[SP]Lak'ech[SP]has\nforetold!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "L'Exalté vit encore![1205][U+000A] Nous évoluerons en\nIdéaliens, comme l'In Lak'ech l'a prédit!"
+    "texte_fr": "L'Exalté vit encore ![1205][U+000A] Nous évoluerons\nen Idéaliens, comme l'In Lak'ech\nl'a prédit !"
   },
   {
     "id": 4,
@@ -74,7 +74,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "Walking[SP]along,[SP]checking[SP]out[SP]the[SP]scenery...[1205][U+000F]\nMountain[SP]climbing[SP]like[SP]usual,[SP]heigh-ho...\nHm?[SP]Aaaaaaaaaaaah!",
     "nom_fr": "Randonneur",
-    "texte_fr": "Je me promenais admirant le\npaysage...[1205][U+000F] Je grimpais comme d'hab,\ntra-la-la... Hm? Aaaaaaaaaaaah!"
+    "texte_fr": "Je me promenais admirant le paysage...[1205][U+000F]\nJe grimpais comme d'hab, tra-la-la...\nHm ? Aaaaaaaaaaaah !"
   },
   {
     "id": 5,
@@ -89,7 +89,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "...Bam,[SP]just[SP]like[SP]that.[SP]Suddenly[SP]these[SP]soldiers\nwith[SP]scary[SP]weapons[SP]came[SP]up[SP]the[SP]mountain[SP]and[SP]I\nbarely[SP]got[SP]back[SP]down[SP]here[SP]with[SP]my[SP]life.",
     "nom_fr": "Randonneur",
-    "texte_fr": "... Et d'un coup. Des soldats armés\njusqu'aux dents ont grimpé la montagne\net je me suis à peine sorti vivant."
+    "texte_fr": "...Et d'un coup. Des soldats armés jusqu'aux\ndents ont grimpé la montagne et je me\nsuis à peine sorti vivant."
   },
   {
     "id": 6,
@@ -105,7 +105,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "Geez,[SP]and[SP]I[SP]was[SP]having[SP]a[SP]nice[SP]hike[SP]before[SP]those\nguys[SP]showed[SP]up![SP]What's[SP]their[SP]problem!?",
     "nom_fr": "Randonneur",
-    "texte_fr": "Pfff, j'avais une belle rando avant\nça! C'est quoi leur problème!?"
+    "texte_fr": "Pfff, j'avais une belle rando avant ça !\nC'est quoi leur problème !?"
   },
   {
     "id": 7,
@@ -120,7 +120,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "Oh![1205][U+0008][SP]I[SP]almost[SP]forgot[SP]the[SP]important[SP]part.[1205][U+000A][SP]The\nwhole[SP]reason[SP]I[SP]was[SP]hiking[SP]on[SP]Mt.[SP]Katatsumuri!",
     "nom_fr": "Randonneur",
-    "texte_fr": "Oh![1205][U+0008] J'avais presque oublié l'essentiel.[1205][U+000A]\nMon vrai but sur le Mont Katatsumuri!"
+    "texte_fr": "Oh ![1205][U+0008] J'avais presque oublié l'essentiel.[1205][U+000A]\nMon vrai but sur le Mont Katatsumuri !"
   },
   {
     "id": 8,
@@ -135,7 +135,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "Huh?[1205][U+000A][SP]You[SP]really[SP]want[SP]to[SP]know?",
     "nom_fr": "Randonneur",
-    "texte_fr": "Hein?[1205][U+000A] Vraiment?"
+    "texte_fr": "Hein ?[1205][U+000A] Vraiment ?"
   },
   {
     "id": 9,
@@ -150,7 +150,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "The[SP][E4][NULL][NULL][U+0006]Jumping[SP]Geezer[E4][NULL][NULL][0002],[SP]man![1205][U+000A][SP]The[SP]Jumping[SP]Geezer![1205][U+000A]\nI[SP]saw[SP]an[SP]old[SP]man[SP]hopping[SP]from[SP]branch[SP]to[SP]branch\nlast[SP]time[SP]I[SP]was[SP]here.[1205][U+000A][SP]No[SP]kidding![1205][U+000A]",
     "nom_fr": "Randonneur",
-    "texte_fr": "Le [E4][NULL][NULL][U+0006]Vieux Sauteur[E4][NULL][NULL][0002], c'est lui![1205][U+000A] Le Vieux\nSauteur![1205][U+000A] J'ai vu un vieux sauter de\nbranche en branche l'autre fois. Sérieux![1205][U+000A]"
+    "texte_fr": "Le [E4][NULL][NULL][U+0006]Vieux Sauteur[E4][NULL][NULL][0002], c'est lui ![1205][U+000A]\nLe Vieux Sauteur ![1205][U+000A] J'ai vu un vieux sauter\nde branche en branche l'autre fois. Sérieux ![1205][U+000A]"
   },
   {
     "id": 10,
@@ -165,7 +165,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "The[SP]only[SP]guy[SP]that[SP]old[SP]who[SP]could[SP]do[SP]that[SP]would\nbe[SP]the[SP]real[SP]Jumping[SP]Geezer,[SP]right?[1205][U+000F][SP]I[SP]couldn't\nbelieve[SP]my[SP]luck,[SP]seeing[SP]him[SP]in[SP]person.",
     "nom_fr": "Randonneur",
-    "texte_fr": "Un gars aussi vieux qui fait ça,\nseul le vrai Vieux Sauteur le peut![1205][U+000F]\nJ'arrive pas à croire ma chance!"
+    "texte_fr": "Un gars aussi vieux qui fait ça, seul\nle vrai Vieux Sauteur le peut ![1205][U+000F]\nJ'arrive pas à croire ma chance !"
   },
   {
     "id": 11,
@@ -180,7 +180,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "That's[SP]why[SP]I[SP]wanted[SP]to[SP]get[SP]some[SP]photographic\nevidence,[SP]and[SP]maybe[SP]a[SP]commemorative[SP]picture\nfor[SP]myself.",
     "nom_fr": "Randonneur",
-    "texte_fr": "Voilà pourquoi je voulais une preuve\nphotographique, et peut-être une photo pour\nmoi."
+    "texte_fr": "Voilà pourquoi je voulais une preuve\nphotographique, et peut-être une photo\npour moi."
   },
   {
     "id": 12,
@@ -211,7 +211,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "Hey,[SP]could[SP]you[SP]get[SP]some[SP]kind[SP]of[SP]evidence[SP]or\nproof[SP]for[SP]me[SP]that[SP]Jumping[SP]Geezer[SP]exists?[1205][U+000F][SP]I'll\ngive[SP]you[SP]a[SP]proper[SP]reward![1205][U+000F][SP]Pleeeeeease!",
     "nom_fr": "Randonneur",
-    "texte_fr": "Hé, vous pourriez me rapporter une preuve[1205][U+000F]\nque le Vieux Sauteur existe?[1205][U+000F] Je vous\ndonne une récompense! S'il vous plaîîît!"
+    "texte_fr": "Hé, vous pourriez me rapporter une preuve[1205][U+000F]\nque le Vieux Sauteur existe ?[1205][U+000F]\nJe vous donne une récompense ! S'il vous plaîîît !"
   },
   {
     "id": 14,
@@ -227,7 +227,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "Jumping[SP]Geezer[SP]is[SP]somewhere[SP]in[SP]Mt.[SP]Katatsumuri.[1205][U+000F]\nBring[SP]back[SP]some[SP]proof[SP]he[SP]exists![1205][U+000F][SP]I'll[SP]give[SP]you\na[SP]proper[SP]reward,[SP]so[SP]pleeeeeease!",
     "nom_fr": "Randonneur",
-    "texte_fr": "Le Vieux Sauteur est sur le Mont\nKatatsumuri.[1205][U+000F] Ramenez-moi une preuve![1205][U+000F]\nJe vous récompense, s'il vous plaîîît!"
+    "texte_fr": "Le Vieux Sauteur est sur le Mont\nKatatsumuri.[1205][U+000F] Ramenez-moi une preuve ![1205][U+000F]\nJe vous récompense, s'il vous plaîîît !"
   },
   {
     "id": 15,
@@ -242,7 +242,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "Wait[SP]a[SP]second...[1205][U+000F][SP]Are[SP]those[SP]the[SP][E4][NULL][NULL][U+0006]Jumping[SP]Geta[E4][NULL][NULL][0002]\nthat[SP]the[SP]Jumping[SP]Geezer[SP]wore?",
     "nom_fr": "Randonneur",
-    "texte_fr": "Attendez...[1205][U+000F] Ce sont les [E4][NULL][NULL][U+0006]Geta\nSauteurs[E4][NULL][NULL][0002] du Vieux Sauteur?"
+    "texte_fr": "Attendez...[1205][U+000F] Ce sont les [E4][NULL][NULL][U+0006]Geta Sauteurs[E4][NULL][NULL][0002]\ndu Vieux Sauteur ?"
   },
   {
     "id": 16,
@@ -257,7 +257,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "Ooooooh![1205][U+000F][SP]You[SP]really[SP]got[SP]them[SP]for[SP]me!?[1205][U+000F][SP]Ahhhh,\nthis[SP]is[SP]even[SP]better[SP]than[SP]a[SP]photo![1205][U+000F][SP]Thank[SP]you!\nOh,[SP]this[SP]is[SP]so[SP]great!",
     "nom_fr": "Randonneur",
-    "texte_fr": "Ooooooh![1205][U+000F] Vous les avez eus!?[1205][U+000F]\nAhhhh, c'est encore mieux qu'une\nphoto![1205][U+000F] Merci! Oh, c'est trop bien!"
+    "texte_fr": "Ooooooh ![1205][U+000F] Vous les avez eus !?[1205][U+000F]\nAhhhh, c'est encore mieux qu'une photo ![1205][U+000F]\nMerci ! Oh, c'est trop bien !"
   },
   {
     "id": 17,
@@ -273,7 +273,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "Here,[SP]have[SP]a[SP]little[SP]something[SP]for[SP]your[SP]trouble.\nIt's[SP]a[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0004]Holylight[SP]Card[E4][NULL][NULL][0002].[SP]I[SP]want[SP]you[SP]to[SP]have[SP]it!",
     "nom_fr": "Randonneur",
-    "texte_fr": "Tenez, voici quelque chose pour vous.\nC'est une [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0004]Carte Lumière[E4][NULL][NULL][0002]. Je vous l'offre!"
+    "texte_fr": "Tenez, voici quelque chose pour vous.\nC'est une [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0004]Carte Lumière[E4][NULL][NULL][0002]. Je vous l'offre !"
   },
   {
     "id": 18,
@@ -289,7 +289,7 @@
     "nom_orig": "Hiker",
     "texte_orig": "Heheheh,[SP]so[SP]these[SP]are[SP]the[SP]Jumping[SP]Geta...[1205][U+000F]\nCan[SP]I[SP]move[SP]as[SP]fast[SP]as[SP]that[SP]old[SP]man[SP]with[SP]these\non?[1205][U+000F][SP]Maybe[SP]I[SP]should[SP]give[SP]'em[SP]a[SP]try.",
     "nom_fr": "Randonneur",
-    "texte_fr": "Héhéhé, ce sont les Geta Sauteurs...[1205][U+000F]\nJe peux bouger aussi vite que ce vieux\navec eux?[1205][U+000F] Je devrais les essayer."
+    "texte_fr": "Héhéhé, ce sont les Geta Sauteurs...[1205][U+000F]\nJe peux bouger aussi vite que ce vieux\navec eux ?[1205][U+000F] Je devrais les essayer."
   },
   {
     "id": 19,
@@ -305,7 +305,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Yeesh,[SP]the[SP]Last[SP]Battalion's[SP]here[SP]too.[SP]If[SP]we\ntook[SP]the[SP]cable[SP]car,[SP]it'd[SP]be[SP]a[SP]quick[SP]trip[SP]up\nto[SP]the[SP]summit...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Punaise, le Bataillon est là aussi.\nSi on prenait le téléphérique, on\nserait vite au sommet..."
+    "texte_fr": "Punaise, le Bataillon est là aussi. Si on\nprenait le téléphérique, on serait\nvite au sommet..."
   },
   {
     "id": 20,
@@ -321,7 +321,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP][1113],[SP]it[SP]looks[SP]like[SP]we[SP]can[SP]use[SP]this\ncable[SP]car.",
     "nom_fr": "Ginko",
-    "texte_fr": "Hé, [U+1113], on peut utiliser ce téléphérique!"
+    "texte_fr": "Hé, [U+1113], on peut utiliser\nce téléphérique !"
   },
   {
     "id": 21,
@@ -337,6 +337,6 @@
     "nom_orig": "Ginko",
     "texte_orig": "Should[SP]we[SP]ride[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Ginko",
-    "texte_fr": "On le prend?\n[1208][0002]Oui\nNon"
+    "texte_fr": "On le prend ?\n[1208][0002]Oui\nNon"
   }
 ]

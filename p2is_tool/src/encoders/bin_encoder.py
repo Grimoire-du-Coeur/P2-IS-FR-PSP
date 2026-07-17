@@ -272,9 +272,9 @@ def encode_bin_from_json(
 
         n_fr = n_fr_input or d.get("nom_orig", "").strip()
 
-        avail = d["data_size"] - 8
-        # NL avant terminateur : règle binaire universelle (event + MMAP + autres)
         term = d.get("_term", [E1, E2, E3, E4])
+        avail = d["data_size"] - (len(term) * 2)
+        # NL avant terminateur : règle binaire universelle (event + MMAP + autres)
         nl_suffix = (
             struct.pack("<H", NL)
             if _needs_nl_suffix(term, d.get("texte_orig", ""))
@@ -309,19 +309,30 @@ def encode_bin_from_json(
             depassement = len(enc) + len(nl_suffix) - avail
             if log_fn:
                 log_fn(
-                    f"  [!] [DEPASSEMENT] [id {d['id']}] Texte FR trop long de {depassement} octets ({len(enc)} > {avail}). Texte ignore et version originale restauree.",
+                    f"  [!] [DEPASSEMENT] [id {d['id']}] Texte FR trop long de {depassement} octets ({len(enc)} > {avail}). Troncature automatique.",
                     "warn",
                 )
-            skip += 1
-            continue
-        sp_pad = struct.pack("<H", SP) * ((avail - len(enc) - len(nl_suffix)) // 2)
+            import re
+            tokens = re.split(r'(\[[a-zA-Z0-9+\-_]+\]|\s)', t_fr)
+            tokens = [t for t in tokens if t]
+            
+            while tokens and len(text_to_bytes('"' + n_fr + "\n" + ''.join(tokens))) > avail - len(nl_suffix):
+                tokens.pop()
+                
+            t_fr = ''.join(tokens)
+            enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+            
+        pad_len = avail - len(enc) - len(nl_suffix)
+        if pad_len < 0:
+            pad_len = 0
 
         end_c = b"".join(struct.pack("<H", t) for t in term)
         null_gap_orig = data[
             d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
         ]
 
-        full = enc + sp_pad + nl_suffix + end_c + null_gap_orig
+        e3_pad = struct.pack("<H", E3) * (pad_len // 2)
+        full = enc + nl_suffix + end_c + e3_pad + null_gap_orig
 
         if len(full) != d["slot_size"]:
             skip += 1
@@ -398,37 +409,39 @@ def encode_bnp_from_json(
             d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
         )
         enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
-        avail = d["data_size"] - 8
+        term = d.get("_term", [E1, E2, E3, E4])
+        avail = d["data_size"] - (len(term) * 2)
         is_menu = "[1208]" in d.get("texte_orig", "") or "[U+1208]" in d.get(
             "texte_orig", ""
         )
         nl_sfx = struct.pack("<H", NL) if is_menu else b""
 
-        # TRONCATURE AUTOMATIQUE si le texte FR est trop long
+        # TRONCATURE AUTOMATIQUE SÉCURISÉE si le texte FR est trop long
         if len(enc) > avail - len(nl_sfx):
             depassement = len(enc) - (avail - len(nl_sfx))
             if log_fn:
                 log_fn(
-                    f"  [!] [DEPASSEMENT] [id {d['id']}] Texte FR tronque de {depassement//2} caracteres.",
+                    f"  [!] [DEPASSEMENT] [id {d['id']}] Texte FR trop long de {depassement//2} caracteres.",
                     "warn",
                 )
-            # On coupe le texte FR en retirant les caractères en trop à la fin
-            t_fr = t_fr[: -(depassement // 2)]
+            
+            import re
+            tokens = re.split(r'(\[[a-zA-Z0-9+\-_]+\]|\s)', t_fr)
+            tokens = [t for t in tokens if t]
+            
+            while tokens and len(text_to_bytes('"' + n_fr + "\n" + ''.join(tokens))) > avail - len(nl_sfx):
+                tokens.pop()
+                
+            t_fr = ''.join(tokens)
             enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
 
-            # Recalcul de sécurité au cas où (si des balises complexes ont été coupées)
-            while len(enc) > avail - len(nl_sfx) and len(t_fr) > 0:
-                t_fr = t_fr[:-1]
-                enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
-
         pad_len = avail - len(enc) - len(nl_sfx)
-        sp_pad = b""
-        term = d.get("_term", [E1, E2, E3, E4])
         end_c = b"".join(struct.pack("<H", t) for t in term)
         null_gap_orig = data[
             d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
         ]
-        full = enc + nl_sfx + end_c + null_gap_orig + b"\x00" * pad_len
+        e3_pad = struct.pack("<H", E3) * (pad_len // 2)
+        full = enc + nl_sfx + end_c + e3_pad + null_gap_orig
         if len(full) != d["slot_size"]:
             skip += 1
             continue
@@ -482,7 +495,8 @@ def encode_bnp_from_json(
                 d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
             )
             enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
-            avail = d["data_size"] - 8
+            term = d.get("_term", [E1, E2, E3, E4])
+            avail = d["data_size"] - (len(term) * 2)
             nl_sfx = (
                 struct.pack("<H", NL)
                 if _needs_nl_suffix(
@@ -492,16 +506,28 @@ def encode_bnp_from_json(
             )
             if len(enc) + len(nl_sfx) > avail:
                 if log_fn:
-                    log_fn(f"  [id {d['id']}] trop long, ignoré", "warn")
-                skip += 1
-                continue
-            sp_pad = struct.pack("<H", SP) * ((avail - len(enc) - len(nl_sfx)) // 2)
+                    log_fn(f"  [id {d['id']}] trop long, troncature automatique", "warn")
+                
+                import re
+                tokens = re.split(r'(\[[a-zA-Z0-9+\-_]+\]|\s)', t_fr)
+                tokens = [t for t in tokens if t]
+                
+                while tokens and len(text_to_bytes('"' + n_fr + "\n" + ''.join(tokens))) > avail - len(nl_sfx):
+                    tokens.pop()
+                    
+                t_fr = ''.join(tokens)
+                enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+                
+            pad_len = avail - len(enc) - len(nl_sfx)
+            if pad_len < 0:
+                pad_len = 0
             term = d.get("_term", [E1, E2, E3, E4])
             end_c = b"".join(struct.pack("<H", t) for t in term)
             null_gap_orig = dec[
                 d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
             ]
-            full = enc + sp_pad + nl_sfx + end_c + null_gap_orig
+            e3_pad = struct.pack("<H", E3) * (pad_len // 2)
+            full = enc + nl_sfx + end_c + e3_pad + null_gap_orig
             if len(full) != d["slot_size"]:
                 skip += 1
                 continue
