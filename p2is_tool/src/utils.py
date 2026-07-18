@@ -310,8 +310,8 @@ ACCENT_MAP = [
     ("Û", "ĵ"),
     ("œ", "ë"),
     ("Œ", "Ǩ"),
-    ("ü", "ˠ"),
-    ("ï", "Ȗ"),
+    ("ü", "Ȗ"),
+    ("ï", "ˠ"),
 ]
 
 # Magic bytes de fichiers binaires non-dialogue
