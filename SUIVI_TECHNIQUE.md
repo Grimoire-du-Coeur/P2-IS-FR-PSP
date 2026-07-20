@@ -244,7 +244,6 @@ Contrairement à `event.bin` (les dialogues principaux) qui est relativement bie
 
 ### Ce qu'il faut faire
 - Garder les textes des menus (F_BE) et de la carte (MMAP) **aussi courts que possible**, idéalement de la même longueur exacte que l'anglais.
-- **Rappel :** Le fichier MMAP03 est actuellement **non traduit** et devra être traité avec les mêmes précautions.
 
 ## 4. Finalisation de TM_EVE.json
 
