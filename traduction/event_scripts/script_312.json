@@ -404,7 +404,7 @@
     "nom_orig": "Washout[SP]student",
     "texte_orig": "Man,[SP]I[SP]just[SP]saw[SP]something[SP]that[SP]scared[SP]the[SP]life\nout[SP]of[SP]me.[1205][U+000F][SP]You[SP]know[SP]how[SP]that[SP]weird[SP]building\nshowed[SP]up[SP]where[SP]Smile[SP]Hirasaka[SP]was?[E1][E2]\n[E3][E4][NULL][NULL]\"Washout[SP]student\nTons[SP]of[SP]those[SP]soldiers[SP]from[SP]the[SP]Last[SP]Whatever\nwent[SP]in[SP]there.[1205][U+000F][SP]Then[SP]the[SP]Masked[SP]Circle[SP]guys\nrushed[SP]in[SP]to[SP]follow[SP]them.",
     "nom_fr": "Lycéen en échec",
-    "texte_fr": "Mec, j'ai vu un truc terrifiant.[1205][U+000F] Tu vois cet\nimmeuble bizarre là où était le Smile\nHirasaka?[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Lycéen en échec Pleins de soldats\ndu Bata-truc y sont entrés.[1205][U+000F] Et juste après les\ngars du Cercle Masqué les ont suivis dedans."
+    "texte_fr": "Mec, j'ai vu un truc terrifiant.[1205][U+000F] Tu vois cet\nimmeuble bizarre là où était le Smile\nHirasaka?[E1][E2]\n[E3][E4][NULL][NULL]\"Lycéen en échec Pleins de soldats\ndu Bata-truc y sont entrés.[1205][U+000F] Et juste après les\ngars du Cercle Masqué les ont suivis dedans."
   },
   {
     "id": 24,
@@ -862,7 +862,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "...Fine...[1205][U+000F][SP]It[SP]doesn't[SP]change[SP]anything...[1205][U+000F]\nAlright,[SP]here[SP]goes![E1][E2][E3]\n>[SP]Eikichi[SP]is[SP]eating...[1107][E2][E3][E4][NULL][NULL]\"Eikichi\nI[SP]ate[SP]it...[1205][U+000F][SP]the[SP]yogurt...[1205][U+000F][SP]ramen...[1205][U+000F]\nUrrrp...!",
     "nom_fr": "Eikichi",
-    "texte_fr": "... D'accord...[1205][U+000F] Bah, ça change rien...[1205][U+000F] Bien,\nc'est parti![E1][E2][E3] > Eikichi mange...[1107][E2][E3][E4][NULL][NULL]\"Eikichi[1205][U+000F] J'ai\nfini...[1205][U+000F] le Ramen...[1205][U+000F] au Yaourt...[1205][U+000F] Beuurp...!"
+    "texte_fr": "... D'accord...[1205][U+000F] Bah, ça change rien...[1205][U+000F] Bien,\nc'est parti![E3] > Eikichi mange...[1107][E2][E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi[1205][U+000F] J'ai\nfini...[1205][U+000F] le Ramen...[1205][U+000F] au Yaourt...[1205][U+000F] Beuurp...!"
   },
   {
     "id": 52,
