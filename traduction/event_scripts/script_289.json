@@ -205,7 +205,7 @@
     "nom_orig": "Count",
     "texte_orig": "Is[SP]there[SP]anything[SP]else?\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Comte",
-    "texte_fr": "Autre chose?\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires[1205][U+000F]\nVendre objets\nPapoter\nNon[1205][U+000F]\nQuitter",
+    "texte_fr": "Autre chose?\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets\nPapoter\nNon\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -225,7 +225,7 @@
     "nom_orig": "Count",
     "texte_orig": "And[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Comte",
-    "texte_fr": "Et que voudriez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Et que voudriez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -245,7 +245,7 @@
     "nom_orig": "Count",
     "texte_orig": "And[SP]what[SP]do[SP]you[SP]wish[SP]to[SP]discuss?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
     "nom_fr": "Comte",
-    "texte_fr": "Et de quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002][1205][U+000F]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+    "texte_fr": "Et de quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -585,7 +585,7 @@
     "nom_orig": "Count",
     "texte_orig": "My[SP]castle[SP]does[SP]handle[SP]the[SP]legendary[SP]flower.[1205][001E]\nBut[SP]it[SP]is[SP]a[SP]rare[SP]thing.[SP]I[SP]cannot[SP]part[SP]with[SP]it\neasily.[1205][001E][SP]If[SP]you[SP]doubled[SP]its[SP]price,[SP]then...\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nBuy[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Comte",
-    "texte_fr": "Mon château a bien cette fleur.[1205][001E]\nMais elle est rare. Dur de s'en\nséparer.[1205][001E] Si vous doubliez le prix...[1205][U+000F]\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nAcheter objets[1205][U+000F]\nPapoter\nNon\nQuitter",
+    "texte_fr": "Mon château a bien cette fleur.[1205][001E]\nMais elle est rare. Dur de s'en\nséparer.[1205][001E] Si vous doubliez le prix...[1205][U+000F]\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nAcheter objets\nPapoter\nNon\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -605,7 +605,7 @@
     "nom_orig": "Count",
     "texte_orig": "Welcome[SP]to[SP]Time[SP]Castle...[1205][U+000A][SP]The[SP]onrush[SP]of[SP]time[SP]is\nswift[SP]and[SP]unceasing.[1205][U+000A][SP]Now,[SP]state[SP]your[SP]business.\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Comte",
-    "texte_fr": "Bienvenue au Château du Temps...[1205][U+000A]\nLe flot du temps est\nrapide.[1205][U+000A] Dites-moi votre requête.[1205][U+000F]\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets[1205][U+000F]\nPapoter\nNon\nQuitter",
+    "texte_fr": "Bienvenue au Château du Temps...[1205][U+000A]\nLe flot du temps est\nrapide.[1205][U+000A] Dites-moi votre requête.[1205][U+000F]\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets\nPapoter\nNon\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -625,7 +625,7 @@
     "nom_orig": "Count",
     "texte_orig": "And[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Comte",
-    "texte_fr": "Et que voudriez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Sell armor[1205][U+000F]\n[111F][1210][U+0100][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Et que voudriez-vous vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Sell armor\n[111F][1210][U+0100][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -645,7 +645,7 @@
     "nom_orig": "Count",
     "texte_orig": "And[SP]what[SP]do[SP]you[SP]wish[SP]to[SP]discuss?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
     "nom_fr": "Comte",
-    "texte_fr": "Et de quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002][1205][U+000F]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+    "texte_fr": "Et de quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -873,7 +873,7 @@
     "nom_orig": "Count",
     "texte_orig": "That[SP]will[SP]be[SP]a[SP]total[SP]of[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Comte",
-    "texte_fr": "Total de [120E][NULL] yens.\nOk?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Total de [120E][NULL] yens.\nOk?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

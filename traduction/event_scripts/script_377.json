@@ -333,7 +333,7 @@
     "nom_orig": "Trish",
     "texte_orig": "What'll[SP]it[SP]be?[111F][1208][U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave",
     "nom_fr": "Trish",
-    "texte_fr": "Quoi alors?[111F][1208][U+0004]Soigner\nParler\nAnnuler[1205][U+000F]\nQuitter",
+    "texte_fr": "Quoi alors?[111F][1208][U+0004]Soigner\nParler\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -451,7 +451,7 @@
     "nom_orig": "Trish",
     "texte_orig": "Yeah,[SP]that's[SP][120E][NULL][SP]yen.\nYou[SP]gonna[SP]pay[SP]up?\n[1208][0002]Yes\nNo",
     "nom_fr": "Trish",
-    "texte_fr": "Ca fait [120E][NULL]yen.\nTu payes?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Ca fait [120E][NULL]yen.\nTu payes?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -535,7 +535,7 @@
     "nom_orig": "Trish",
     "texte_orig": "Anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave",
     "nom_fr": "Trish",
-    "texte_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler[1205][U+000F]\nAnnuler\nQuitter",
+    "texte_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""

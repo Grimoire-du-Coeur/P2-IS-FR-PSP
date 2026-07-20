@@ -637,7 +637,7 @@
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Hey.[1205][U+000F][SP]Surfing[SP]the[SP]net[SP]this[SP]early[SP]in[SP]the[SP]day?\nMust[SP]have[SP]a[SP]lot[SP]of[SP]time[SP]on[SP]your[SP]hands.[SP]Whatevs.\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave",
     "nom_fr": "Gamin fainéant",
-    "texte_fr": "Hé.[1205][U+000F] Tu surfes sur le net à cette heure?\nT'as que ça à faire. Bof.\n[1208][U+0004]Manger[1205][U+000F]\nParler au gamin\nNon merci\nPartir",
+    "texte_fr": "Hé.[1205][U+000F] Tu surfes sur le net à cette heure?\nT'as que ça à faire. Bof.\n[1208][U+0004]Manger\nParler au gamin\nNon merci\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -657,7 +657,7 @@
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Yeah,[SP]what's[SP]up.\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Gamin fainéant",
-    "texte_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -677,7 +677,7 @@
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Sure...[1205][U+000F][SP]Was[SP]that[SP]it?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]lazy[SP]boy\nNever[SP]mind\nLeave",
     "nom_fr": "Gamin fainéant",
-    "texte_fr": "Ouais...[1205][U+000F] C'est tout?\n[1208][U+0004]Manger\nParler au gamin[1205][U+000F]\nNon merci\nPartir",
+    "texte_fr": "Ouais...[1205][U+000F] C'est tout?\n[1208][U+0004]Manger\nParler au gamin\nNon merci\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -697,7 +697,7 @@
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Yeah,[SP]what's[SP]up.\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Gamin fainéant",
-    "texte_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ouais, quoi?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1578,7 +1578,7 @@
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "Hey,[SP]you're[SP]back.[E1][E2][E3]>[SP]Select[SP]an[SP]option.\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Baofu\nCancel\n[1109][E2][E3]>[SP]Select[SP]a[SP]topic.\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]subject.\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them\n[1109][E2][E3]>[SP]Verified.\nSubmit[SP]information.\nAfter[SP]entering,[SP]please[SP]wait.",
     "nom_fr": "Colporteur Baofu",
-    "texte_fr": "Tiens, de retour.[E1][E2][E3]> Choisissez une option.\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler à Baofu[1205][U+000F]\nAnnuler\n[1109][E2][E3]> Choisissez un sujet.\n[1208][U+0004][1210][U+0476]Rumeurs armureries[1205][U+000F]\n[1210][U+0477]Rumeurs armures\n[1210][U+0478]Autres rumeurs\nRien[1205][U+000F]\n[1109][E2][E3]> Choisissez une région.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune[1205][U+000F]\n[1109][E2][E3]> Choisissez une région.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki[1205][U+000F]\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nAucune[1205][U+000F]\n[1109][E2][E3]> Choisissez un sujet.\n[1208][U+0004][1210][U+0472]Concours magazines\n[1210][U+0473]Rumeurs Mu[1205][U+000F]\n[1210][U+0474]Armes légendaires\nAucun\n[1109][E2][E3]> Vérifié.[1205][U+000F]\nSoumettre.\nPatientez après envoi.",
+    "texte_fr": "Tiens, de retour.[E1][E2][E3]> Choisissez une option.\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler à Baofu\nAnnuler\n[1109][E2][E3]> Choisissez un sujet.\n[1208][U+0004][1210][U+0476]Rumeurs armureries\n[1210][U+0477]Rumeurs armures\n[1210][U+0478]Autres rumeurs\nRien\n[1109][E2][E3]> Choisissez une région.\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune\n[1109][E2][E3]> Choisissez une région.\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nAucune\n[1109][E2][E3]> Choisissez un sujet.\n[1208][U+0004][1210][U+0472]Concours magazines\n[1210][U+0473]Rumeurs Mu\n[1210][U+0474]Armes légendaires\nAucun\n[1109][E2][E3]> Vérifié.\nSoumettre.\nPatientez après envoi.",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -3444,7 +3444,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "That's[SP][120E][NULL][SP]yen[SP]in[SP]total.\nDo[SP]you[SP]want[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Ça fait [120E][NULL] yens.\nVous voulez ça?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Ça fait [120E][NULL] yens.\nVous voulez ça?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

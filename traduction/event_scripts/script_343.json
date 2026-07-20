@@ -317,7 +317,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "What's[SP]up?[SP]Need[SP]something?\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Chikarin\nNever[SP]mind",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quoi d'neuf? Je peux t'aider?\n[1208][U+0003][1210][U+0475]Parlons rumeurs \nDiscuter un peu   [1205][U+000F]\nRien merci",
+    "texte_fr": "Quoi d'neuf? Je peux t'aider?\n[1208][U+0003][1210][U+0475]Parlons rumeurs \nDiscuter un peu   \nRien merci",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -337,7 +337,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]kind[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel type de rumeur t'intéresse?\n[1208][U+0004][1210][U+0476]Magasin d'armes   \n[1210][U+0477]Magasin d'armures[1205][U+000F]\n[1210][U+0478]Autres      \nAucun",
+    "texte_fr": "Quel type de rumeur t'intéresse?\n[1208][U+0004][1210][U+0476]Magasin d'armes   \n[1210][U+0477]Magasin d'armures\n[1210][U+0478]Autres      \nAucun",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -357,7 +357,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
+    "texte_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -377,7 +377,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
+    "texte_fr": "Quel endroit t'intéresse?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -397,7 +397,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]one[SP]do[SP]you[SP]want[SP]the[SP]details[SP]on?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "De quelle rumeur tu veux avoir les \ndétails?\n[1208][U+0004][1210][U+0472]Loteries de magazines      [1205][U+000F]\n[1210][U+0473]Mu       \n[1210][U+0474]Arme légendaire        \nAucune",
+    "texte_fr": "De quelle rumeur tu veux avoir les \ndétails?\n[1208][U+0004][1210][U+0472]Loteries de magazines      \n[1210][U+0473]Mu       \n[1210][U+0474]Arme légendaire        \nAucune",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1169,7 +1169,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "Welcome[SP]to[SP]Peace[SP]Diner.[SP]How[SP]may[SP]I[SP]serve[SP]you,\nsirrah?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Bienvenue au Peace Diner.\nQue désirez-vous, maraud?\n[1208][U+0004]Manger [1205][U+000F]\nDiscuter un peu       \nRien merci\nFiler",
+    "texte_fr": "Bienvenue au Peace Diner.\nQue désirez-vous, maraud?\n[1208][U+0004]Manger \nDiscuter un peu       \nRien merci\nFiler",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1189,7 +1189,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "But[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Mais de quoi parlerons-nous donc?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Mais de quoi parlerons-nous donc?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1209,7 +1209,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "Will[SP]you[SP]be[SP]requiring[SP]anything[SP]else?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Requerriez-vous autre chose?\n[1208][U+0004]Manger \nDiscuter un peu       [1205][U+000F]\nRien merci\nFiler",
+    "texte_fr": "Requerriez-vous autre chose?\n[1208][U+0004]Manger \nDiscuter un peu       \nRien merci\nFiler",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1229,7 +1229,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "But[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Mais de quoi parlerons-nous donc?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Mais de quoi parlerons-nous donc?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1363,7 +1363,7 @@
     "nom_orig": "Speaker[SP]name",
     "texte_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen,[SP]but[SP]will\nyou[SP]sell[SP]them?\n[1208][0002]Yes\nNo",
     "nom_fr": "",
-    "texte_fr": "Le total fait [120E][NULL] yens.\nVous les vendez?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Le total fait [120E][NULL] yens.\nVous les vendez?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

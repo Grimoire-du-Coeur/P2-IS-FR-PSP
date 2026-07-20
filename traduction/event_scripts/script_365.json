@@ -333,7 +333,7 @@
     "nom_orig": "Master",
     "texte_orig": "Welcome...[1205][U+000F][SP]What[SP]would[SP]you[SP]like?\n[1208][U+0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Bienvenue...[1205][U+000F] Que souhaites-tu?\n[1208][U+0007][1210][U+03BD]Acheter    \n[1210][U+035C]Accessoires   [1205][U+000F]\n[1210][U+03BD]Vendre    \nManger \nDiscuter          [1205][U+000F]\nRien merci\nFiler",
+    "texte_fr": "Bienvenue...[1205][U+000F] Que souhaites-tu?\n[1208][U+0007][1210][U+03BD]Acheter    \n[1210][U+035C]Accessoires   \n[1210][U+03BD]Vendre    \nManger \nDiscuter          \nRien merci\nFiler",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -353,7 +353,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]have[SP]you[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Maître",
-    "texte_fr": "Qu'avez-vous à vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Qu'avez-vous à vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -373,7 +373,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?\n[1208][U+0004]Make[SP]small[SP]talk\n[1210][U+03BD]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
     "nom_fr": "Maître",
-    "texte_fr": "De quoi parler?\n[1208][U+0004]Bavarder\n[1210][U+03BD]Parler boutique[1205][U+000F]\nParler du repas\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002][1205][U+000F]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada",
+    "texte_fr": "De quoi parler?\n[1208][U+0004]Bavarder\n[1210][U+03BD]Parler boutique\nParler du repas\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -393,7 +393,7 @@
     "nom_orig": "Master",
     "texte_orig": "Will[SP]that[SP]be[SP]all?\n[1208][U+0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Ce sera tout?\n[1208][U+0007][1210][U+03BD]Acheter    \n[1210][U+035C]Accessoires   [1205][U+000F]\n[1210][U+03BD]Vendre    \nManger \nDiscuter          [1205][U+000F]\nRien merci\nFiler",
+    "texte_fr": "Ce sera tout?\n[1208][U+0007][1210][U+03BD]Acheter    \n[1210][U+035C]Accessoires   \n[1210][U+03BD]Vendre    \nManger \nDiscuter          \nRien merci\nFiler",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -413,7 +413,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]have[SP]you[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Maître",
-    "texte_fr": "Qu'avez-vous à vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Qu'avez-vous à vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -433,7 +433,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?\n[1208][U+0004]Make[SP]small[SP]talk\n[1210][U+03BD]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Maître",
-    "texte_fr": "De quoi parler?\n[1208][U+0004]Bavarder\n[1210][U+03BD]Parler boutique[1205][U+000F]\nParler du repas\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "De quoi parler?\n[1208][U+0004]Bavarder\n[1210][U+03BD]Parler boutique\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -917,7 +917,7 @@
     "nom_orig": "Master",
     "texte_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Maître",
-    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1150,7 +1150,7 @@
     "nom_orig": "Master",
     "texte_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Maître",
-    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

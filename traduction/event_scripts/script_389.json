@@ -13,7 +13,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Hellooooo![1205][U+000F][SP]Welcome[SP]to[SP]the[SP]record[SP]store\nGIGA[SP]MACHOOOO![SP]State[SP]your[SP]business!\n[1208][U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Employé",
-    "texte_fr": "Bonjooouuuur![1205][U+000F] Bienvenue au magasin de disques\nGIGA MACHO! Que vous faut-il?\n[1208][U+0004]Acheter des CDs[1205][U+000F]\nParler\nAnnuler\nQuitter",
+    "texte_fr": "Bonjooouuuur![1205][U+000F] Bienvenue au magasin de disques\nGIGA MACHO! Que vous faut-il?\n[1208][U+0004]Acheter des CDs\nParler\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -33,7 +33,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Alrighty![SP]Anything[SP]else?\n[1208][U+0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Employé",
-    "texte_fr": "Parfait! Autre chose?\n[1208][U+0004]Acheter des CDs\nParler[1205][U+000F]\nAnnuler\nQuitter",
+    "texte_fr": "Parfait! Autre chose?\n[1208][U+0004]Acheter des CDs\nParler\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -53,7 +53,7 @@
     "nom_orig": "Employee",
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]CDs\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Employé",
-    "texte_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nParler des CD[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nParler des CD\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -342,7 +342,7 @@
     "nom_orig": "Employee",
     "texte_orig": "That'll[SP]be[SP][120E][NULL][SP]yen.\nYou[SP]wanna[SP]buy[SP]it...?\n[1208][0002]Yes\nNo",
     "nom_fr": "Employé",
-    "texte_fr": "Ça fera [120E][NULL] yens.\nVous l'achetez?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Ça fera [120E][NULL] yens.\nVous l'achetez?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

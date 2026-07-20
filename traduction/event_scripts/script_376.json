@@ -317,7 +317,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "For[SP]what[SP]have[SP]you[SP]sought[SP]me[SP]out[SP]today?\n[1208][U+0005][1210][U+0475]Ask[SP]about[SP]rumors\nHear[SP]your[SP]fortune\nTalk[SP]to[SP]the[SP]Sumaru[SP]Genie\nNever[SP]mind\nLeave",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Que veux-tu?\n[1208][U+0005][1210][U+0475]Les rumeurs\nécoute ta destinée[1205][U+000F]\nParle avec la Génie\nLaisse tomber\nQuitter",
+    "texte_fr": "Que veux-tu?\n[1208][U+0005][1210][U+0475]Les rumeurs\nécoute ta destinée\nParle avec la Génie\nLaisse tomber\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -737,7 +737,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Very[SP]well.[1205][U+000F][SP]The[SP]price[SP]will[SP]be[SP]3,000[SP]yen.\nDo[SP]you[SP]still[SP]wish[SP]this?\n[1208][0002]Yes\nNo",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Très bien.[1205][U+000F] 3,000 yen.\nToujours d'accord?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Très bien.[1205][U+000F] 3,000 yen.\nToujours d'accord?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1173,7 +1173,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Which[SP]stories[SP]would[SP]you[SP]have[SP]me[SP]tell?\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Que veux-tu savoir?\n[1208][U+0004][1210][U+0476]Magasins d'armes\n[1210][U+0477]Magasins d'armures[1205][U+000F]\n[1210][U+0478]Autre\nRien",
+    "texte_fr": "Que veux-tu savoir?\n[1208][U+0004][1210][U+0476]Magasins d'armes\n[1210][U+0477]Magasins d'armures\n[1210][U+0478]Autre\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1193,7 +1193,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Cadre de l'histoire?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
+    "texte_fr": "Cadre de l'histoire?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1213,7 +1213,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Cadre de l'histoire?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
+    "texte_fr": "Cadre de l'histoire?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1233,7 +1233,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Which[SP]tale[SP]shall[SP]I[SP]relate?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Quel récit raconter?\n[1208][U+0004][1210][U+0472]Concours de magazine\n[1210][U+0473]Rumeurs de Mu[1205][U+000F]\n[1210][U+0474]Armes légendaires\nAucun",
+    "texte_fr": "Quel récit raconter?\n[1208][U+0004][1210][U+0472]Concours de magazine\n[1210][U+0473]Rumeurs de Mu\n[1210][U+0474]Armes légendaires\nAucun",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1573,7 +1573,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "I[SP]just[SP]want[SP]someone[SP]to[SP]make[SP]the[SP]decision\nfor[SP]me![SP]Please,[SP]read[SP]my[SP]fortune!\n[1208][0002]Read[SP]it\nDon't[SP]read[SP]it",
     "nom_fr": "Génie Sumaru, colporteuse de rumeurs",
-    "texte_fr": "Je veux juste que quelqu'un décide pour \nmoi! Lis mon avenir!\n[1208][0002]Lis-le[1205][U+000F]\nNe le lis pas",
+    "texte_fr": "Je veux juste que quelqu'un décide pour \nmoi! Lis mon avenir!\n[1208][0002]Lis-le\nNe le lis pas",
     "question_fr": "",
     "choix_fr": [
       ""
