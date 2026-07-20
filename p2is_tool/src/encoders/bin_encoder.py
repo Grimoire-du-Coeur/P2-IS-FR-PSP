@@ -331,7 +331,7 @@ def encode_bin_from_json(
             d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
         ]
 
-        null_pad = b'\x00' * pad_len
+        null_pad = struct.pack("<H", 0x1106) * (pad_len // 2)
         full = enc + nl_suffix + end_c + null_pad + null_gap_orig
 
         if len(full) != d["slot_size"]:
@@ -440,7 +440,7 @@ def encode_bnp_from_json(
         null_gap_orig = data[
             d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
         ]
-        null_pad = b'\x00' * pad_len
+        null_pad = struct.pack("<H", 0x1106) * (pad_len // 2)
         full = enc + nl_sfx + end_c + null_pad + null_gap_orig
         if len(full) != d["slot_size"]:
             skip += 1
@@ -526,7 +526,7 @@ def encode_bnp_from_json(
             null_gap_orig = dec[
                 d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
             ]
-            null_pad = b'\x00' * pad_len
+            null_pad = struct.pack("<H", 0x1106) * (pad_len // 2)
             full = enc + nl_sfx + end_c + null_pad + null_gap_orig
             if len(full) != d["slot_size"]:
                 skip += 1
