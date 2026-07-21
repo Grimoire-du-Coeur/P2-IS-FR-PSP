@@ -1,22 +1,31 @@
-json_verify/
-project-roadmap.md
-scripts/harmonize_*.py
-
-# Prompts de travail Gemini (fichiers de chantier, non versionnés)
-AutreScript/prompts_gemini/
-
-# Fichiers temporaires / de test
-*.tmp
-file test
-__pycache__/
-
-# Fichiers de jeu / Copyrightés (À NE JAMAIS VERSIONNER)
+# --- GAME FILES & ROMS (Copyrighted) ---
 *.iso
-*.ISO
+*.cso
 *.cpk
-*.CPK
-*.bin
-*.BIN
 *.bnp
-*.BNP
+*.bin
+*.dat
+*.pmf
+*.sfo
+EBOOT.BIN
+BOOT.BIN
+
+# --- ENVIRONMENT & DEPENDENCIES ---
 node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+*.temp
+*.log
+
+# --- OS GENERATED ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- INTERNAL SCRIPTS & DRAFTS ---
+AutreScript/prompts_gemini/
+json_verify/
+scripts/harmonize_*.py
+project-roadmap.md
