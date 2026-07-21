@@ -371,17 +371,12 @@ def _valid_name(data: bytes, offset: int) -> bool:
 
 def _needs_nl_suffix(term: list, texte_orig: str) -> bool:
     """
-    Détermine si un NL (0x1101) doit être inséré entre le texte encodé
-    et le terminateur dans le slot binaire.
-
-    Règle observée sur event scripts et MMAP01-06 :
-    - E3 (0x1103) absent du terminateur → NL requis  (slots narratifs courts)
-    - Menu de choix [1208] → NL requis  (sentinel de fin de menu)
-    - E3 présent ET pas de menu → pas de NL  (slots avec E1 E2 E3 E4)
+    Détermine si un dialogue a besoin d'un [NL] (0x1101) final avant le terminateur.
+    Tous les dialogues du jeu (menus, standards, boutiques, combats)
+    se terminent par 0x1101 juste avant le terminateur (E1 E2 E3 E4, etc).
+    Si le 0x1101 est manquant, le jeu ne s'arrête pas de lire et affiche ΓΓΓ (0x0000).
     """
-    E3 = 0x1103
-    is_menu = "[1208]" in texte_orig or "[U+1208]" in texte_orig
-    return E3 not in term or is_menu
+    return True
 
 
 # ── Encodage bin depuis JSON ──────────────────────────────────────────────────

@@ -331,8 +331,11 @@ def encode_bin_from_json(
             d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
         ]
 
-        null_pad = struct.pack("<H", 0x1106) * (pad_len // 2)
-        full = enc + nl_suffix + end_c + null_pad + null_gap_orig
+        # PAD AVANT LE TERMINATEUR avec des espaces (0x1120) pour que le texte soit juste plus long
+        # et que le moteur de script atterrisse sur le bon opcode suivant !
+        # Le padding après le terminateur (0x0000) plantait le jeu car exécuté comme opcode par le moteur.
+        null_pad = struct.pack("<H", 0x1120) * (pad_len // 2)
+        full = enc + null_pad + nl_suffix + end_c + null_gap_orig
 
         if len(full) != d["slot_size"]:
             skip += 1
@@ -440,8 +443,8 @@ def encode_bnp_from_json(
         null_gap_orig = data[
             d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
         ]
-        null_pad = struct.pack("<H", 0x1106) * (pad_len // 2)
-        full = enc + nl_sfx + end_c + null_pad + null_gap_orig
+        null_pad = struct.pack("<H", 0x1120) * (pad_len // 2)
+        full = enc + null_pad + nl_sfx + end_c + null_gap_orig
         if len(full) != d["slot_size"]:
             skip += 1
             continue
@@ -526,8 +529,8 @@ def encode_bnp_from_json(
             null_gap_orig = dec[
                 d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
             ]
-            null_pad = struct.pack("<H", 0x1106) * (pad_len // 2)
-            full = enc + nl_sfx + end_c + null_pad + null_gap_orig
+            null_pad = struct.pack("<H", 0x1120) * (pad_len // 2)
+            full = enc + null_pad + nl_sfx + end_c + null_gap_orig
             if len(full) != d["slot_size"]:
                 skip += 1
                 continue
