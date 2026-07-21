@@ -19,7 +19,7 @@ import struct, json, gzip, io, os, re, shutil, threading, subprocess, platform, 
 from pathlib import Path
 import tkinter as tk
 from src.config import *
-from src.core.text import _needs_nl_suffix, _align_menu_text
+from src.core.text import _needs_nl_suffix, _align_menu_text, _align_mid_text
 from src.config import _lang, _theme_name
 from src.core.text import text_to_bytes
 from src.parsers.bin_parser import find_dialogs, _rebuild_choice_body
@@ -285,6 +285,9 @@ def encode_bin_from_json(
         t_fr_aligned = _align_menu_text(
             d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
         )
+        t_fr_aligned = _align_mid_text(
+            d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr_aligned
+        )
         enc_aligned = text_to_bytes('"' + n_fr + "\n" + t_fr_aligned)
         if len(enc_aligned) + len(nl_suffix) <= avail:
             enc = enc_aligned
@@ -411,6 +414,9 @@ def encode_bnp_from_json(
         t_fr = _align_menu_text(
             d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
         )
+        t_fr = _align_mid_text(
+            d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
+        )
         enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
         term = d.get("_term", [E1, E2, E3, E4])
         avail = d["data_size"] - (len(term) * 2)
@@ -495,6 +501,9 @@ def encode_bnp_from_json(
 
             n_fr = n_fr_input or d.get("nom_orig", "").strip()
             t_fr = _align_menu_text(
+                d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
+            )
+            t_fr = _align_mid_text(
                 d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
             )
             enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
