@@ -61,7 +61,7 @@
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
     "nom_fr": "Père de Lisa",
-    "texte_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer.[1205][U+000F] Viens, ta leçon de thé\ncommence."
+    "texte_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer.[1205][U+000F] Viens, ta leçon de thé[1101]commence."
   },
   {
     "id": 4,
@@ -93,7 +93,7 @@
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
     "nom_fr": "Père de Lisa",
-    "texte_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer.[1205][U+000F] Viens, ta leçon de thé\ncommence."
+    "texte_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer.[1205][U+000F] Viens, ta leçon de thé[1101]commence."
   },
   {
     "id": 6,
@@ -401,7 +401,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.[SP]Sadly,\nyou[SP]were[SP]not[SP]a[SP]winner[SP]this[SP]time.[SP]We[SP]encourage\nyou[SP]to[SP]continue[SP]entering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014]",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci\na été livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre[1205][U+000F]\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nMalheureusement, vous n'êtes pas gagnant\ncette fois. Tentez à nouveau votre chance![1432][NULL][NULL][0014]"
+    "texte_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci\na été livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre[1205][U+000F]\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nMalheureusement, vous n'êtes pas gagnant[1101]cette fois. Tentez à nouveau votre chance![1432][NULL][NULL][0014]"
   },
   {
     "id": 25,
@@ -417,7 +417,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.\nCongratulations![SP]You[SP]have[SP]been[SP]selected[SP]as\na[SP]winner![E1][E2][E3]>[SP][1432][NULL][NULL][0014]Please[SP]accept[SP]this[SP][E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nas[SP]your[SP]prize.[SP]We[SP]encourage[SP]you[SP]to[SP]continue\nentering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014][E1][E2][E3]>[SP]You[SP]have[SP]no[SP]room[SP]for[SP]another\n[E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci a\nété livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre[1205][U+000F]\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nFélicitations! Vous avez été sélectionné\ngagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter ceci [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002][1205][U+000F] en guise\nde prix. Tentez à nouveau votre chance![1432][NULL][NULL][0014][E1][E2][E3]>\nVous n'avez plus de place pour un autre[1205][U+000F] [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]..."
+    "texte_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci a\nété livré ici. Tenez, prenez-le.[E1][E2][E3]> Lettre[1205][U+000F]\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nFélicitations! Vous avez été sélectionné[1101]gagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter ceci [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002][1205][U+000F] en guise\nde prix. Tentez à nouveau votre chance![1432][NULL][NULL][0014][E1][E2][E3]>\nVous n'avez plus de place pour un autre[1205][U+000F] [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]..."
   },
   {
     "id": 26,

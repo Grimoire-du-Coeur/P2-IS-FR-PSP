@@ -29,7 +29,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Dude,[SP]there's[SP]a[SP]manager[SP]behind[SP]the[SP]counter.\nLooks[SP]like[SP]he's[SP]exchanging[SP]coins...[SP]Did[SP]this\nplace[SP]really[SP]turn[SP]into[SP]a[SP]casino?[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nAll[SP]forms[SP]of[SP]gambling[SP]are[SP]forbidden[SP]at[SP]Cuss\nHigh.[SP]It[SP]was[SP]a[SP]school[SP]rule,[SP]but[SP]I[SP]clamped\ndown[SP]on[SP]it[SP]too.[SP]It's[SP]bad[SP]for[SP]the[SP]students.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mec, il y a un gérant derrière le comptoir.\nIl échange des jetons... Cet endroit[1205][U+000F] est\nvraiment devenu un casino?[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\nTout\njeu d'argent est interdit à [1205][U+000F] Kasugayama.\nC'était le règlement, mais j'ai sévi aussi.[1205][U+000F]\nC'est mauvais pour les élèves."
+    "texte_fr": "Mec, il y a un gérant derrière le comptoir.\nIl échange des jetons... Cet endroit[1205][U+000F] est\nvraiment devenu un casino?[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\nTout\njeu d'argent est interdit à [1205][U+000F] Kasugayama.[1101]C'était le règlement, mais j'ai sévi aussi.[1205][U+000F]\nC'est mauvais pour les élèves."
   },
   {
     "id": 2,
@@ -461,7 +461,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]can't[SP]believe[SP]you[SP]took[SP]the[SP]time[SP]to[SP]spread[SP]the\nrumor[SP]to[SP]turn[SP]this[SP]place[SP]into[SP]a[SP]casino.[1205][U+000F][SP]*sigh*\nOh[SP]well...[1205][U+000F][SP]Try[SP]not[SP]to[SP]waste[SP]too[SP]much[SP]money.",
     "nom_fr": "Yukino",
-    "texte_fr": "J'y crois pas que tu aies pris le temps de\nlancer la rumeur pour faire d'ici un casino.[1205][U+000F]\n*soupir* Bref...[1205][U+000F] Essaie de ne pas trop\ngaspiller."
+    "texte_fr": "J'y crois pas que tu aies pris le temps de\nlancer la rumeur pour faire d'ici un casino.[1205][U+000F]\n*soupir* Bref...[1205][U+000F] Essaie de ne pas trop[1101]gaspiller."
   },
   {
     "id": 29,
@@ -477,7 +477,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Just[SP]between[SP]you[SP]and[SP]me,[SP]Maya-san's[SP]really[SP]bad\nat[SP]Rock,[SP]Paper,[SP]Scissors.[SP]She[SP]has[SP]a[SP]bad[SP]habit\nof[SP]always[SP]playing[SP]scissors.[SP]Play[SP]her[SP]and[SP]see.",
     "nom_fr": "Yukino",
-    "texte_fr": "Entre nous, Maya-san est vraiment nulle à\nPierre-Feuille-Ciseaux. Elle a la fâcheuse[1205][U+000F]\nhabitude de jouer ciseaux. Joue avec elle pour\nvoir."
+    "texte_fr": "Entre nous, Maya-san est vraiment nulle à\nPierre-Feuille-Ciseaux. Elle a la fâcheuse[1205][U+000F]\nhabitude de jouer ciseaux. Joue avec elle pour[1101]voir."
   },
   {
     "id": 30,
@@ -1053,7 +1053,7 @@
     "nom_orig": "Inveterate[SP]gambler",
     "texte_orig": "Ever[SP]hear[SP]of[SP]Russian[SP]roulette?[SP]It's[SP]the[SP]ultimate\nform[SP]of[SP]gambling,[SP]where[SP]your[SP]own[SP]life[SP]is[SP]on[SP]the\nline.[SP]I'll[SP]bet[SP]on[SP]whether[SP]Mu[SP]gets[SP]bombed...",
     "nom_fr": "Joueur invétéré",
-    "texte_fr": "T'as entendu parler de la roulette russe?\nC'est la forme ultime du pari, où ta vie est[1205][U+000F]\nen jeu. Je parie sur si Mu se fera\nbombarder..."
+    "texte_fr": "T'as entendu parler de la roulette russe?\nC'est la forme ultime du pari, où ta vie est[1205][U+000F]\nen jeu. Je parie sur si Mu se fera[1101]bombarder..."
   },
   {
     "id": 66,

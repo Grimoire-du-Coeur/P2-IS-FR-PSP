@@ -29,7 +29,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "A[SP]traditional[SP]haori[SP]coat[SP]and[SP]a[SP]Japanese-style\nhome...[SP]I[SP]wonder[SP]what[SP]he[SP]thinks[SP]is[SP]so[SP]great\nabout[SP]this[SP]country.[SP]I[SP]don't[SP]get[SP]it[SP]at[SP]all.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Un haori traditionnel et une maison\njaponaise... Je me demande ce qu'il trouve si [1205][U+000F]\nformidable dans ce pays. Je n'y comprends\nrien."
+    "texte_fr": "Un haori traditionnel et une maison\njaponaise... Je me demande ce qu'il trouve si [1205][U+000F]\nformidable dans ce pays. Je n'y comprends[1101]rien."
   },
   {
     "id": 2,
@@ -797,7 +797,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Maya-san,[SP]are[SP]you[SP]sure[SP]letting[SP]that[SP]Ixquic[SP]girl\ngo[SP]was[SP]the[SP]right[SP]thing[SP]to[SP]do?[SP]I[SP]have[SP]a[SP]sinking\nfeeling[SP]she'll[SP]be[SP]back[SP]to[SP]harass[SP]us[SP]again...",
     "nom_fr": "Yukino",
-    "texte_fr": "Maya-san, tu es sûre qu'il était juste de\nlaisser cette Ixquic partir? J'ai un mauvais [1205][U+000F]\npressentiment qu'elle reviendra nous\nharceler..."
+    "texte_fr": "Maya-san, tu es sûre qu'il était juste de\nlaisser cette Ixquic partir? J'ai un mauvais [1205][U+000F]\npressentiment qu'elle reviendra nous[1101]harceler..."
   },
   {
     "id": 50,
@@ -977,7 +977,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.[SP]Sadly,\nyou[SP]were[SP]not[SP]a[SP]winner[SP]this[SP]time.[SP]We[SP]encourage\nyou[SP]to[SP]continue[SP]entering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014]",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]>\n[1205][U+000F]Lettre [1432][NULL][NULL][0014]Merci de votre participation au\ntirage. Hélas,[1205][U+000F] vous n'êtes pas gagnant cette\nfois. Nous vous encourageons à continuer![1432][NULL][NULL][0014]"
+    "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]>\n[1205][U+000F]Lettre [1432][NULL][NULL][0014]Merci de votre participation au\ntirage. Hélas,[1205][U+000F] vous n'êtes pas gagnant cette[1101]fois. Nous vous encourageons à continuer![1432][NULL][NULL][0014]"
   },
   {
     "id": 61,
@@ -993,7 +993,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.[E1][E2][E3]>[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.\nCongratulations![SP]You[SP]have[SP]been[SP]selected[SP]as\na[SP]winner![E1][E2][E3]>[SP][1432][NULL][NULL][0014]Please[SP]accept[SP]this[SP][E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nas[SP]your[SP]prize.[SP]We[SP]encourage[SP]you[SP]to[SP]continue\nentering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014][E1][E2][E3]>[SP]You[SP]have[SP]no[SP]room[SP]for[SP]another\n[E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]...",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]>\n[1205][U+000F]Lettre [1432][NULL][NULL][0014]Merci de votre participation au\ntirage. Félicitations! Vous avez été\nsélectionné[1205][U+000F] comme gagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nen guise de prix. Continuez à participer![1432][NULL][NULL][0014][E1][E2][E3]>\nVous n'avez pas de place[1205][U+000F] pour un(e) autre [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]..."
+    "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le.[E1][E2][E3]>\n[1205][U+000F]Lettre [1432][NULL][NULL][0014]Merci de votre participation au\ntirage. Félicitations! Vous avez été[1101]sélectionné[1205][U+000F] comme gagnant![E1][E2][E3]> [1432][NULL][NULL][0014]Veuillez accepter [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]\nen guise de prix. Continuez à participer![1432][NULL][NULL][0014][E1][E2][E3]>\nVous n'avez pas de place[1205][U+000F] pour un(e) autre [E4][NULL][NULL][U+0004][120E][NULL][E4][NULL][NULL][0002]..."
   },
   {
     "id": 62,
@@ -1105,7 +1105,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "Don't[SP]you[SP]think[SP]Japanese[SP]dances[SP]are[SP]better?\nAs[SP]the[SP]young[SP]will[SP]shape[SP]this[SP]country's[SP]future,\nI[SP]wish[SP]they[SP]were[SP]better[SP]learned[SP]in[SP]its[SP]ways...",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "La danse japonaise n'est-elle pas préférable?\nLes jeunes façonneront l'avenir du pays,[1205][U+000F]\nj'aurais aimé qu'ils maîtrisent ses\ntraditions..."
+    "texte_fr": "La danse japonaise n'est-elle pas préférable?\nLes jeunes façonneront l'avenir du pays,[1205][U+000F]\nj'aurais aimé qu'ils maîtrisent ses[1101]traditions..."
   },
   {
     "id": 69,
@@ -1201,7 +1201,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "I[SP]believe[SP]Lisa[SP]has[SP]learned[SP]something[SP]vital.[SP]It\nis[SP]a[SP]father's[SP]duty[SP]to[SP]silently[SP]let[SP]her[SP]have[SP]her\nway...[SP]I[SP]pray[SP]for[SP]your[SP]safe[SP]return,[SP]my[SP]daughter.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Je crois que Lisa a appris quelque\nchose vital. C'est le devoir d'un\npère de la laisser[1205][U+000F] agir en silence...\nJe prie pour ton retour, ma fille."
+    "texte_fr": "Je crois que Lisa a appris quelque\nchose vital. C'est le devoir d'un\npère de la laisser[1205][U+000F] agir en silence...[1101]Je prie pour ton retour, ma fille."
   },
   {
     "id": 75,
@@ -1217,7 +1217,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "I[SP]hear[SP]of[SP]a[SP]small[SP]band[SP]who[SP]stopped[SP]the[SP]bombing\nof[SP]Smile[SP]Hirasaka.[SP]That[SP]willingness[SP]to[SP]risk\ntheir[SP]lives...[SP]They[SP]are[SP]true[SP]children[SP]of[SP]Japan!",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "J'entends parler d'un petit groupe qui a\nstoppé l'attentat de Smile Hirasaka. Vouloir[1205][U+000F]\nrisquer leurs vies... De vrais enfants du\nJapon!"
+    "texte_fr": "J'entends parler d'un petit groupe qui a\nstoppé l'attentat de Smile Hirasaka. Vouloir[1205][U+000F]\nrisquer leurs vies... De vrais enfants du[1101]Japon!"
   },
   {
     "id": 76,

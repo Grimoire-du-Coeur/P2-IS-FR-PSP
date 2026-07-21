@@ -125,7 +125,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "It's[SP]like[SP]we[SP]heard![SP]Rumors[SP]are[SP]coming[SP]true.[1205][001E]\nWoohoo,[SP]I'm[SP]3,000[SP]yen[SP]richer[SP]now![SP]Let's[SP]go\nget[SP]some[SP]dinner,[SP][1113]![E1][E2][E3]>[SP]Narurato[SP]Stone\nA[SP]megalith[SP]that[SP]was[SP]excavated[SP]when[SP]the[SP]school\nwas[SP]first[SP]built.[SP]It's[SP]made[SP]of[SP]thamatite[SP]and\npossesses[SP]an[SP]abnormal[SP]magnetism.\n[E1][E2]>[SP]Legend[SP]has[SP]it[SP]that[SP]it's[SP]a[SP]guardian[SP]stone\nin[SP]which[SP]the[SP]heavenly[SP]being[SP]Hiremon[SP]sealed\nthe[SP]evil[SP]demon[SP]Narurato[SP]Hotefu.[E1][E2][E3]>[SP]Statue[SP]in[SP]honor[SP]of[SP]Principal[SP]Hanya\n[1432][NULL][NULL][0014]Look[SP]at[SP]me![SP]Follow[SP]me![SP]Don't[SP]rely[SP]on[SP]me![1432][NULL][NULL][0014]\nis[SP]the[SP]rather[SP]contradictory[SP]quote[SP]written[SP]here.\nLooking[SP]at[SP]it[SP]makes[SP]you[SP]inexplicably[SP]angry...",
     "nom_fr": "Ginko",
-    "texte_fr": "Comme on disait! Les rumeurs se réalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi![1205][U+000F] Allons\ndîner, [1113]![E1][E2][E3]> Pierre Narurato Un mégalithe\ndéterré à la construction du lycée. Fait de\nthamatite, il possède[1205][U+000F] un magnétisme anormal.\n[E1][E2]> La légende dit que c'est une pierre\ngardienne où l'être céleste Hiremon a[1205][U+000F] scellé\nle démon Narurato Hotefu.[E1][E2][E3]> Statue en\nl'honneur du directeur Hanya [1432][NULL][NULL][0014]Regardez-moi!\nSuivez-moi! Ne comptez pas[1205][U+000F] sur moi![1432][NULL][NULL][0014] est la\ncitation contradictoire écrite ici. La\nregarder vous met étrangement en [1205][U+000F] colère..."
+    "texte_fr": "Comme on disait! Les rumeurs se réalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi![1205][U+000F] Allons\ndîner, [1113]![E1][E2][E3]> Pierre Narurato Un mégalithe\ndéterré à la construction du lycée. Fait de\nthamatite, il possède[1205][U+000F] un magnétisme anormal.[1101][E1][E2]> La légende dit que c'est une pierre\ngardienne où l'être céleste Hiremon a[1205][U+000F] scellé\nle démon Narurato Hotefu.[E1][E2][E3]> Statue en\nl'honneur du directeur Hanya [1432][NULL][NULL][0014]Regardez-moi!\nSuivez-moi! Ne comptez pas[1205][U+000F] sur moi![1432][NULL][NULL][0014] est la[1101]citation contradictoire écrite ici. La\nregarder vous met étrangement en [1205][U+000F] colère..."
   },
   {
     "id": 8,
@@ -525,6 +525,6 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Thank[SP]you,[SP]Principal[SP]Hanya![SP]And[SP]farewell!\nAs[SP]we[SP]look[SP]with[SP]reverence\nOn[SP]our[SP]teacher's[SP]elegance[E1][E2]\n[E3][E4][NULL][NULL]\"Female[SP]student\nIt[SP]was[SP]thanks[SP]to[SP]our[SP]Principal[SP]that[SP]the\ncurse[SP]was[SP]lifted...[SP]Sevens[SP]is[SP]saved!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Merci, directeur Hanya! Et adieu! Nous\ncontemplons avec révérence De notre maître\nl'élégance[E1][E2]\n[E3][E4][NULL][NULL]\"Lycéen\nne C'est grâce au directeur\nque la malédiction[1205][U+000F] est levée... Seven est\nsauvé!"
+    "texte_fr": "Merci, directeur Hanya! Et adieu! Nous\ncontemplons avec révérence De notre maître\nl'élégance[E1][E2]\n[E3][E4][NULL][NULL]\"Lycéen\nne C'est grâce au directeur\nque la malédiction[1205][U+000F] est levée... Seven est[1101]sauvé!"
   }
 ]
