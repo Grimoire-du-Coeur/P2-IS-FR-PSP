@@ -604,7 +604,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Crises[SP]are[SP]prerequisites[SP]for[SP]the[SP]evolution[SP]of\nany[SP]species.[SP]Only[SP]those[SP]who[SP]overcome[SP]the[SP]crisis\nwill[SP]greet[SP]the[SP]new[SP]era.[SP]Those[SP]that[SP]don't,[SP]die.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nAren't[SP]humans[SP]the[SP]contradictory[SP]ones,[SP]thinking\nthat[SP]prosperity[SP]and[SP]survival[SP]are[SP]all?[SP]Have[SP]they\nforgotten[SP]the[SP]laws[SP]of[SP]evolution?[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nI[SP]think[SP]Jun-kun's[SP]objective[SP]has[SP]been[SP]twisted\nby[SP]the[SP]power[SP]of[SP]rumors,[SP]too...[1205][U+000F][SP]But[SP]is[SP]that[SP]also\nthe[SP]reason[SP]they[SP]went[SP]public[SP]with[SP]that[SP]book...?",
     "nom_fr": "Maya",
-    "texte_fr": "Les crises sont des prérequis à l'évolution de\ntoute espèce. Seuls ceux qui les[1205][U+000F] surmontent\naccèdent à la nouvelle ère.[E1][E2] [E3][E4][NULL][NULL]\"Maya Les humains\nne sont-ils pas [1205][U+000F] contradictoires à penser que\nprospérité et survie sont tout?[1205][U+000F] Auraient-ils\noublié les lois de l'évolution?[E1][E2] [E3][E4][NULL][NULL]\"Maya[1205][U+000F] Je pense\nque l'objectif de Jun-kun a été déformé par le\npouvoir des rumeurs...[1205][U+000F] Mais est-ce pour ça\nqu'ils ont publié ce livre...?"
+    "texte_fr": "Les crises sont des prérequis à l'évolution de\ntoute espèce. Seuls ceux qui les[1205][U+000F] surmontent\naccèdent à la nouvelle ère.[E1][E2] [E3][E4][NULL][NULL]\"Maya\nLes humains\nne sont-ils pas [1205][U+000F] contradictoires à penser que[1101]prospérité et survie sont tout?[1205][U+000F] Auraient-ils\noublié les lois de l'évolution?[E1][E2] [E3][E4][NULL][NULL]\"Maya\n[1205][U+000F] Je pense\nque l'objectif de Jun-kun a été déformé par le[1101]pouvoir des rumeurs...[1205][U+000F] Mais est-ce pour ça\nqu'ils ont publié ce livre...?"
   },
   {
     "id": 38,
@@ -843,7 +843,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Hey[SP]there.[SP]What'll[SP]it[SP]be?\n[1208][U+0006]Buy[SP]weapons\nSell[SP]items\nDine[SP]in\nTalk[SP]to[SP]Ma'am\nNever[SP]mind\nLeave",
     "nom_fr": "Patronne",
-    "texte_fr": "Bonjour. Ce sera quoi?\n[1208][U+0006]Acheter armes\nVendre[1205][U+000F]\nManger ici\nParler\nNon merci[1205][U+000F]\nPartir",
+    "texte_fr": "Bonjour. Ce sera quoi?\n[1208][U+0006]Acheter armes\nVendre\nManger ici\nParler\nNon merci\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -863,7 +863,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "What're[SP]you[SP]selling?\n[1208][U+0007][1210][U+0100]Undisplayed[SP]selection\nSell[SP]items\nSell[SP]weapons\n[1210][U+0100]Sell[SP]head[SP]armor\nSell[SP]armor\n[1210][U+0100]Sell[SP]leg[SP]armor\nSell[SP]accessories",
     "nom_fr": "Patronne",
-    "texte_fr": "Tu vends quoi?\n[1208][U+0007][1210][U+0100]Sélection cachée\nObjets[1205][U+000F]\nArmes\n[1210][U+0100]Armure de tête\nSell armor[1205][U+000F]\n[1210][U+0100]Armure de jambes\nAccessoires",
+    "texte_fr": "Tu vends quoi?\n[1208][U+0007][1210][U+0100]Sélection cachée\nObjets\nArmes\n[1210][U+0100]Armure de tête\nSell armor\n[1210][U+0100]Armure de jambes\nAccessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -883,7 +883,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Patronne",
-    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][U+0004]Bavarder\nParler boutique[1205][U+000F]\nParler du repas\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][U+0004]Bavarder\nParler boutique\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -903,7 +903,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Anythin'[SP]else?\n[1208][U+0006]Buy[SP]weapons\nSell[SP]items\nDine[SP]in\nTalk[SP]to[SP]Ma'am\nNever[SP]mind\nLeave",
     "nom_fr": "Patronne",
-    "texte_fr": "Autre chose?\n[1208][U+0006]Acheter armes\nVendre[1205][U+000F]\nManger ici\nParler\nNon merci[1205][U+000F]\nPartir",
+    "texte_fr": "Autre chose?\n[1208][U+0006]Acheter armes\nVendre\nManger ici\nParler\nNon merci\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -923,7 +923,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "What're[SP]you[SP]selling?\n[1208][U+0007][1210][U+0100]Undisplayed[SP]selection\nSell[SP]items\nSell[SP]weapons\n[1210][U+0100]Sell[SP]head[SP]armor\nSell[SP]armor\n[1210][U+0100]Sell[SP]leg[SP]armor\nSell[SP]accessories",
     "nom_fr": "Patronne",
-    "texte_fr": "Tu vends quoi?\n[1208][U+0007][1210][U+0100]Sélection cachée\nObjets[1205][U+000F]\nArmes\n[1210][U+0100]Armure de tête\nSell armor[1205][U+000F]\n[1210][U+0100]Armure de jambes\nAccessoires",
+    "texte_fr": "Tu vends quoi?\n[1208][U+0007][1210][U+0100]Sélection cachée\nObjets\nArmes\n[1210][U+0100]Armure de tête\nSell armor\n[1210][U+0100]Armure de jambes\nAccessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -943,7 +943,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Patronne",
-    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][U+0004]Bavarder\nParler boutique[1205][U+000F]\nParler du repas\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][U+0004]Bavarder\nParler boutique\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1251,7 +1251,7 @@
     "nom_orig": "Washout[SP]student",
     "texte_orig": "Well,[SP]don't[SP]that[SP]beat[SP]all?[SP]Ma'am[SP]really[SP]was[SP]an\nex-spy.[SP]City[SP]folk[SP]never[SP]fail[SP]to[SP]surprise[SP]me.[E1][E2]\n[E3][E4][NULL][NULL]\"Washout[SP]student\nMa'am's[SP]stories[SP]are[SP]always[SP]so[SP]interesting.[1205][U+000F]\nEspecially[SP]lately,[SP]they[SP]seem[SP]to[SP]be[SP]even[SP]more\nplausible!",
     "nom_fr": "Lycéen raté",
-    "texte_fr": "Ben ça alors! La patronne était espionne.\nLes gens de la ville m'étonneront\ntoujours.[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Étudiant raté Ses histoires\nsont fascinantes.[1205][U+000F] Ces derniers temps,\nelles semblent de plus en plus crédibles!"
+    "texte_fr": "Ben ça alors! La patronne était espionne.\nLes gens de la ville m'étonneront\ntoujours.[E1][E2]\n[E3][E4][NULL][NULL]\"Étudiant raté\nSes histoires\nsont fascinantes.[1205][U+000F] Ces derniers temps,\nelles semblent de plus en plus crédibles!"
   },
   {
     "id": 77,
@@ -1765,7 +1765,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Patronne",
-    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1922,7 +1922,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Patronne",
-    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

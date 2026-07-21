@@ -157,7 +157,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "A-Are[SP]you[SP]and,[SP]umm,[SP]L-Lisa-san[SP]m-more[SP]than\nj-just[SP]friends?[SP]I-If[SP]you[SP]are,[SP]y-you're[SP]so\nlucky...[SP]I'm[SP]j-j-jealous...",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Est-ce-ce que toi, et umm, Lisa vous êtes\nplus qu'amis? Si c'est le cas t-t'as\ntellement [1205][U+000F] de chance.. Je suis j-jaloux.."
+    "texte_fr": "Est-ce-ce que toi, et umm, Lisa vous êtes\nplus qu'amis? Si c'est le cas t-t'as\ntellement de chance.. Je suis j-jaloux.."
   },
   {
     "id": 10,
@@ -189,7 +189,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "You'd[SP]take[SP]the[SP]time[SP]to[SP]talk[SP]to[SP]someone[SP]like[SP]me,\nSenpai?[SP]Glad[SP]I[SP]dragged[SP]myself[SP]to[SP]school[SP]today...[1205][001E]\nMs.[SP]Saeko?[SP]I[SP]saw[SP]her[SP]on[SP]the[SP]first[SP]floor.",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Tu viens vraiment me parler? Senpai? Contente\nd'avoir pu me tirer hors du lit aujourd'hui...[1205][001E][1205][U+000F]\nMme. Saeko? Je crois l'ai vu au premier étage"
+    "texte_fr": "Tu viens vraiment me parler? Senpai? Contente\nd'avoir pu me tirer hors du lit aujourd'hui...[1101]\nMme. Saeko? Je crois l'avoir vue\nau premier étage"
   },
   {
     "id": 12,
@@ -253,7 +253,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "I-I[SP]can't[SP]believe[SP]you're[SP]actually[SP]talking[SP]to\nme...![1205][001E][SP]Y-You're[SP]looking[SP]for[SP]Ms.[SP]Saeko,[SP]right?[1205][001E]\nShe's[SP]at[SP]the[SP]bike[SP]stands,[SP]I[SP]think.[E1][E2]\n[E3][E4][NULL][NULL]\"School[SP]paper[SP]writer\nOur[SP]editor,[SP]Kozy,[SP]hasn't[SP]come[SP]back.[SP]She[SP]ran\nout,[SP]saying[SP]she[SP]was[SP]investigating[SP]the[SP]curse\nrumor...[1205][001E][SP]Chikarin[SP]isn't[SP]around[SP]either.[SP]Hmm...",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "J-j'y crois pas, tu me parles..![1205][001E] Ah tu\ncherches Mme. Saeko non?[1205][001E] Elle est à l'abri\nà vélos, je crois.[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Le directeur du journal\nde l'école et notre éditeur, Kozy, n'est\ntoujours pas revenue. Elle a [1205][U+000F] disparue elle\nenquêtait sur la rumeur de la malédiction..[1205][001E]\nChikarin est introuvable aussi. Hmm.."
+    "texte_fr": "J-j'y crois pas, tu me parles..![1205][001E] Ah tu\ncherches Mme. Saeko non?[1205][001E] Elle est à l'abri\nà vélos, je crois.[E1][E2]\n[E3][E4][NULL][NULL]\"Journaliste de l'école\net notre éditeur, Kozy, n'est toujours\npas revenue.[1101]\nElle a disparu alors qu'elle enquêtait\nsur la rumeur de la malédiction...[1101]Chikarin est introuvable aussi. Hmm.."
   },
   {
     "id": 16,
@@ -285,6 +285,6 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Argh...[1205][001E][SP]I[SP]should've[SP]hooked[SP]up[SP]with[SP]a[SP]Cuss[SP]High\nguy,[SP]even[SP]if[SP]he[SP]was[SP]ugly.[SP]Then[SP]I[SP]could've[SP]had\none[SP]of[SP]their[SP]evil-repelling[SP]emblems.",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Argh.[1205][001E] J'aurais du être en date avec un mec\nde Kakasu, même si il est moche. J'aurais\npu avoir [1205][U+000F] une de leurs emblêmes exorcisant"
+    "texte_fr": "Argh.[1205][001E] J'aurais du être en date avec un mec\nde Kakasu, même si il est moche.[1101]\nJ'aurais pu avoir une de leurs\nemblêmes exorcisants."
   }
 ]

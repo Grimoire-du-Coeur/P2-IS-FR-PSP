@@ -29,7 +29,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]remember[SP]when[SP]this[SP]place[SP]got[SP]a[SP]writeup[SP]in[SP]our\nsister[SP]magazine,[SP]Gourmet[SP]King.[1205][001E][SP]It[SP]got[SP]three[SP]stars\nfor[SP]its[SP]price,[SP]flavor,[SP]and[SP]generous[SP]portions.",
     "nom_fr": "Maya",
-    "texte_fr": "Cet endroit a été mentionné dans notre\nmagazine partenaire, Gourmet King.[1205][001E] Trois\nétoiles pour le prix, la saveur et les [1205][U+000F]\nportions."
+    "texte_fr": "Cet endroit a été mentionné dans notre\nmagazine partenaire, Gourmet King.[1205][001E] Trois\nétoiles pour le prix, la saveur et les [1101]portions."
   },
   {
     "id": 2,
@@ -77,7 +77,7 @@
     "nom_orig": "Chef",
     "texte_orig": "Hey[SP]there,[SP]kids![SP]I've[SP]got[SP]some[SP]nice[SP]fish\nin[SP]today.[SP]Eat[SP]up,[SP]eat[SP]up![SP]It[SP]won't[SP]cost[SP]much!\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]chef\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Chef",
-    "texte_fr": "Bienvenue les jeunes! Beau poisson\naujourd'hui. Mangez, mangez! C'est pas \ncher![1205][U+000F]\n[1208][U+0004]Manger ici\nParler au chef\nNon merci[1205][U+000F]\nSortir",
+    "texte_fr": "Bienvenue les jeunes! Beau poisson\naujourd'hui. Mangez, mangez! C'est pas \ncher![1205][U+000F]\n[1208][U+0004]Manger ici\nParler au chef\nNon merci\nSortir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -97,7 +97,7 @@
     "nom_orig": "Chef",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Chef",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -117,7 +117,7 @@
     "nom_orig": "Chef",
     "texte_orig": "Okay,[SP]then![1205][U+000A][SP]Anything[SP]else?\n[1208][U+0004]Dine[SP]in\nTalk[SP]with[SP]the[SP]chef\nCancel\nLeave",
     "nom_fr": "Chef",
-    "texte_fr": "Parfait![1205][U+000A] Autre chose?\n[1208][U+0004]Manger ici\nParler au chef[1205][U+000F]\nAnnuler\nPartir",
+    "texte_fr": "Parfait![1205][U+000A] Autre chose?\n[1208][U+0004]Manger ici\nParler au chef\nAnnuler\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -137,7 +137,7 @@
     "nom_orig": "Chef",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Chef",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -237,7 +237,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]can[SP]I[SP]do[SP]for[SP]you[SP]today?\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toro\nNever[SP]mind",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Que puis-je pour vous?\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler à Toro[1205][U+000F]\nNon merci",
+    "texte_fr": "Que puis-je pour vous?\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler à Toro\nNon merci",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -257,7 +257,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Sur quoi?\n[1208][U+0004][1210][U+0476]Rumeurs armureries\n[1210][U+0477]Rumeurs armures[1205][U+000F]\n[1210][U+0478]Autres rumeurs\nRien",
+    "texte_fr": "Sur quoi?\n[1208][U+0004][1210][U+0476]Rumeurs armureries\n[1210][U+0477]Rumeurs armures\n[1210][U+0478]Autres rumeurs\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -277,7 +277,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
+    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -297,7 +297,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
+    "texte_fr": "Secteur?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -317,7 +317,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Sur quoi?\n[1208][U+0004][1210][U+0472]Tirages de magazines\n[1210][U+0473]Rumeurs sur Mu[1205][U+000F]\n[1210][U+0474]Armes légendaires\nAucune",
+    "texte_fr": "Sur quoi?\n[1208][U+0004][1210][U+0472]Tirages de magazines\n[1210][U+0473]Rumeurs sur Mu\n[1210][U+0474]Armes légendaires\nAucune",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1217,7 +1217,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "There've[SP]been[SP]sightings[SP]of[SP]the[SP]Jumping[SP]Geezer\nat[SP]Mt.[SP]Katatsumuri.[SP]I[SP]thought[SP]it[SP]showed[SP]up[SP]on\nroads[SP]and[SP]tunnels...[SP]add[SP]mountains[SP]to[SP]the[SP]list.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "On a aperçu le Vieux Sauteur au Mont\nKatatsumuri. Je croyais qu'il apparaissait sur\nles routes et tunnels... Ajoutons les [1205][U+000F]\nmontagnes."
+    "texte_fr": "On a aperçu le Vieux Sauteur au Mont\nKatatsumuri. Je croyais qu'il apparaissait sur\nles routes et tunnels... Ajoutons les [1101]montagnes."
   },
   {
     "id": 74,
@@ -1233,7 +1233,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Gah...[1205][U+000F][SP]I[SP]heard[SP]something[SP]awful...[1205][U+000F][SP]K-Kudan's...\nKudan's[SP]at[SP]the[SP]abandoned[SP]factory...[1205][U+000F][SP]No,[SP]I[SP]don't\nwant[SP]to[SP]think[SP]about[SP]it![E1][E2]\n\n\n[E3][E4][NULL][NULL]\"Sushi[SP]Royalty\nYou[SP]know[SP]about[SP]Giga[SP]Macho's[SP]secret[SP]CD?[1205][U+000F]\nI[SP]hear[SP]there[SP]is[SP]one.[SP]I'd[SP]love[SP]to[SP]know[SP]what\nkind[SP]of[SP]tracks[SP]are[SP]on[SP]it.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Argh...[1205][U+000F] J'ai entendu quelque chose\nd'horrible...[1205][U+000F] K-Kudan... Kudan est à\nl'usine abandonnée...[1205][U+000F] Non, je ne veux pas\ny penser![E1][E2] [1205][U+000F] [E3][E4][NULL][NULL]\"Sushi Royalty Vous savez pour\nle CD de Giga Macho?[1205][U+000F] On dit qu'il existe.\nJe veux savoir quels morceaux sont dessus."
+    "texte_fr": "Argh...[1205][U+000F] J'ai ouï quelque chose\nd'horrible...[1205][U+000F] Kudan... Kudan est à\nl'usine abandonnée...[1205][U+000F] Non, j'veux pas[1101]y penser![E1][E2]\n[E3][E4][NULL][NULL]\"Sushi Royalty\nVous savez pour\nle CD de Giga Macho?[1205][U+000F] On dit qu'il existe.[1101]Je veux savoir quels morceaux sont dessus."
   },
   {
     "id": 75,

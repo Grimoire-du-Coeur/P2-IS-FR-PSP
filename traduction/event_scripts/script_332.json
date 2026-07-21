@@ -635,7 +635,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It's[SP]man's[SP]eternal[SP]dream[SP]to[SP]ascend[SP]into[SP]the\nstate[SP]of[SP]Idealian.[SP]Only[SP]Xibalba[SP]can[SP]grant[SP]it.\nEveryone[SP]will[SP]be[SP]wishing[SP]for[SP]its[SP]emergence.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nJoker...[SP]Or[SP]Jun-kun,[SP]rather,[SP]is[SP]planning\nsomething[SP]at[SP]Mt.[SP]Katatsumuri.[SP]His[SP]executives\nwill[SP]be[SP]with[SP]him[SP]there.",
     "nom_fr": "Maya",
-    "texte_fr": "C'est le rêve éternel de l'homme de devenir\nun Idéalien. Seul Xibalba le peut. Tous\nespèrent son avènement.[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Maya Joker... Enfin\nJun-kun, prépare un truc au Mt. Katatsumuri.\nSes cadres seront[1205][U+000F] avec lui là-bas."
+    "texte_fr": "C'est le rêve éternel de l'homme de devenir\nun Idéalien. Seul Xibalba le peut. Tous\nespèrent son avènement.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nJoker... Enfin\nJun-kun, prépare un truc au Mt. Katatsumuri.[1101]Ses cadres seront[1205][U+000F] avec lui là-bas."
   },
   {
     "id": 40,
@@ -827,7 +827,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Welcome,[SP]Mister![SP]I'm[SP]a[SP]good[SP]exchange[SP]student.\nI[SP]make[SP]the[SP]accessories[SP]and[SP]for[SP]my[SP]living,\nI[SP]sell[SP]them.\n[1208][U+0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Tony",
-    "texte_fr": "Bienvenue, M'sieur! Je suis bon étudiant\nétranger. Je fabrique et vends\nces bijoux pour vivre.[1205][U+000F]\n[1208][U+0006][1210][U+03BB]Acheter armes\nAcheter accessoires\nVendre objets[1205][U+000F]\nParler à Tony\nRien\nPartir",
+    "texte_fr": "Bienvenue, M'sieur! Je suis bon étudiant\nétranger. Je fabrique et vends\nces bijoux pour vivre.[1205][U+000F]\n[1208][U+0006][1210][U+03BB]Acheter armes\nAcheter accessoires\nVendre objets\nParler à Tony\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -847,7 +847,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]sell[SP]me?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Tony",
-    "texte_fr": "Tu veux me vendre quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Tu veux me vendre quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -867,7 +867,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Tony",
-    "texte_fr": "De quoi qu'on parle?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "De quoi qu'on parle?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -887,7 +887,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Haha,[SP]I'm[SP]a[SP]smuggler[SP]for[SP]the[SP]Silician[SP]Mafia.\nBut[SP]tell[SP]me,[SP]what's[SP]this[SP]they[SP]call[SP]a[SP]Silician\nMafia?[SP]Anyway,[SP]you[SP]want[SP]the[SP]weapons?\n[1208][U+0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Tony",
-    "texte_fr": "Haha, je suis passeur pour la mafia\nSilicienne. Mais dis-moi, c'est quoi cette\nMafia[1205][U+000F]\nSilicienne? Bref, tu veux des armes?\n[1208][U+0006][1210][U+03BB]Acheter armes\nAcheter accessoires[1205][U+000F]\nVendre objets\nParler à Tony\nRien[1205][U+000F]\nPartir",
+    "texte_fr": "Haha, je suis passeur pour la mafia\nSilicienne. Mais dis-moi, c'est quoi cette\nMafia[1205][U+000F]\nSilicienne? Bref, tu veux des armes?\n[1208][U+0006][1210][U+03BB]Acheter armes\nAcheter accessoires\nVendre objets\nParler à Tony\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -907,7 +907,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]sell[SP]me?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Tony",
-    "texte_fr": "Tu veux me vendre quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Tu veux me vendre quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -927,7 +927,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
     "nom_fr": "Tony",
-    "texte_fr": "De quoi qu'on parle?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+    "texte_fr": "De quoi qu'on parle?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -947,7 +947,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Okay,[SP]good,[SP]okay.[SP]You[SP]wanna[SP]anything[SP]else?\n[1208][U+0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Tony",
-    "texte_fr": "Okay. Tu veux autre chose?\n[1208][U+0006][1210][U+03BB]Buy weapons\nBuy accessories[1205][U+000F]\nSell items\nTalk to Tony\nNever mind[1205][U+000F]\nLeave the store",
+    "texte_fr": "Okay. Tu veux autre chose?\n[1208][U+0006][1210][U+03BB]Buy weapons\nBuy accessories\nSell items\nTalk to Tony\nNever mind\nLeave the store",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -967,7 +967,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]sell[SP]me?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Tony",
-    "texte_fr": "Tu veux me vendre quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Tu veux me vendre quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -987,7 +987,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Tony",
-    "texte_fr": "De quoi qu'on parle?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "De quoi qu'on parle?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1583,7 +1583,7 @@
     "nom_orig": "Pappy",
     "texte_orig": "Ha...[SP]Haha...[SP]I'm[SP]on[SP]my[SP]first[SP]date[SP]today.\nShe[SP]suddenly[SP]asked[SP]me[SP]out...[SP]I'm[SP]so[SP]nervous!\nShe's[SP]the[SP]one[SP]who[SP]suggested[SP]we[SP]come[SP]here,[SP]too.[E1][E2]\n\n[E3][E4][NULL][NULL]\"Pappy\nI[SP]thought[SP]I[SP]had[SP]no[SP]chance[SP]with[SP]her[SP]because\nshe'd[SP]always[SP]avoid[SP]me...[SP]This[SP]feels[SP]like[SP]a\ndream[SP]come[SP]true![SP]Somebody[SP]pinch[SP]me!",
     "nom_fr": "Papy",
-    "texte_fr": "Ha... Haha... C'est mon premier rancard.\nElle me l'a demandé... Je suis si nerveux\n![1205][U+000F] C'est elle qui a suggéré cet endroit.[E1][E2]\n[E3][E4][NULL][NULL]\"Pappy[1205][U+000F] Je croyais ne faire aucune chance\navec elle, elle m'évitait... C'est comme\nun rêve [1205][U+000F] devenu réalité! Pincez-moi!"
+    "texte_fr": "Ha... Haha... C'est mon premier rancard.\nElle me l'a demandé... Je suis si nerveux\n![1205][U+000F] C'est elle qui a suggéré cet endroit.[E1][E2]\n[E3][E4][NULL][NULL]\"Pappy\n[1205][U+000F] Je croyais ne faire aucune chance\navec elle, elle m'évitait... C'est comme[1101]un rêve [1205][U+000F] devenu réalité! Pincez-moi!"
   },
   {
     "id": 97,

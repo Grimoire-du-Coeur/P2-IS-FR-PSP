@@ -861,7 +861,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Heh.[SP]Soon[SP]the[SP]people[SP]of[SP]this[SP]city[SP]will[SP]realize\nthe[SP]truths[SP]of[SP]the[SP]In[SP]Lak'ech[SP]and[SP]will[SP]wait[SP]for\nthe[SP]promised[SP]hour.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nThat,[SP]after[SP]all,[SP]is[SP]why[SP]the[SP]Masked[SP]Circle\ngranted[SP]people's[SP]ideals.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nThe[SP]Masked[SP]Circle[SP]is[SP]made[SP]of[SP]normal[SP]people,\nwhen[SP]you[SP]get[SP]down[SP]to[SP]it.[1205][U+000F][SP]They'll[SP]never[SP]stand\na[SP]chance[SP]against[SP]the[SP]Last[SP]Battalion...",
     "nom_fr": "Maya",
-    "texte_fr": "Pfff. Bientôt, les habitants de cette ville\nreconnaîtront les vérités de l'In Lak'ech[1205][U+000F] et\nattendront l'heure promise.[E1][E2] [E3][E4][NULL][NULL]\"Maya C'est bien\npour ça que le Cercle masqué[1205][U+000F] a exaucé les\nidéaux des gens.[E1][E2] [E3][E4][NULL][NULL]\"Maya Le Cercle masqué n'est\ncomposé que de gens[1205][U+000F] normaux, tout bien\nconsidéré.[1205][U+000F] Il ne pourra jamais tenir face au\nBataillon..."
+    "texte_fr": "Pfff. Bientôt, les gens d'ici\nreconnaîtront les vérités de l'In Lak'ech[1205][U+000F] et\nattendront l'heure promise.[E1][E2] [E3][E4][NULL][NULL]\"Maya\nC'est bien\npour ça que le Cercle masqué[1205][U+000F] a exaucé les[1101]idéaux des gens.[E1][E2] [E3][E4][NULL][NULL]\"Maya\nLe Cercle masqué n'est\ncomposé que de gens[1205][U+000F] normaux, tout bien[1101]considéré.[1205][U+000F] Il ne pourra jamais tenir face au\nBataillon..."
   },
   {
     "id": 54,
@@ -1373,7 +1373,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "I'm[SP]currently[SP]listening[SP]in[SP]on[SP]the[SP]murmurs[SP]of\nsociety.[SP]Listening[SP]to[SP]rumors[SP]teaches[SP]you[SP]the\nlies[SP]and[SP]deceptions[SP]of[SP]the[SP]world[SP]very[SP]clearly.",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "J'écoute actuellement les murmures de la\nsociété. Écouter les rumeurs enseigne\nclairement les mensonges et tromperies du [1205][U+000F]\nmonde."
+    "texte_fr": "J'écoute actuellement les murmures de la\nsociété. Écouter les rumeurs enseigne\nclairement les mensonges et tromperies du [1101]monde."
   },
   {
     "id": 86,
@@ -1421,7 +1421,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]can[SP]this[SP]old[SP]man[SP]do[SP]for[SP]you[SP]today?\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toku-san\nNever[SP]mind",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Que puis-je faire pour vous?\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler avec Toku-san[1205][U+000F]\nNon merci",
+    "texte_fr": "Que puis-je faire pour vous?\n[1208][U+0003][1210][U+0475]Demander des rumeurs\nParler avec Toku-san\nNon merci",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1441,7 +1441,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNone",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel type de rumeur?\n[1208][U+0004][1210][U+0476]Rumeurs: armes\n[1210][U+0477]Rumeurs: armures[1205][U+000F]\n[1210][U+0478]Autres rumeurs\nAucune",
+    "texte_fr": "Quel type de rumeur?\n[1208][U+0004][1210][U+0476]Rumeurs: armes\n[1210][U+0477]Rumeurs: armures\n[1210][U+0478]Autres rumeurs\nAucune",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1461,7 +1461,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "For[SP]which[SP]region?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Région?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
+    "texte_fr": "Région?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1481,7 +1481,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "For[SP]which[SP]region?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Région?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
+    "texte_fr": "Région?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1501,7 +1501,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel type de rumeur?\n[1208][U+0004][1210][U+0472]Loteries de magazines\n[1210][U+0473]Rumeurs: Mu[1205][U+000F]\n[1210][U+0474]Armes légendaires\nAucune",
+    "texte_fr": "Quel type de rumeur?\n[1208][U+0004][1210][U+0472]Loteries de magazines\n[1210][U+0473]Rumeurs: Mu\n[1210][U+0474]Armes légendaires\nAucune",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1729,7 +1729,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "The[SP][1432][NULL][NULL][0014]Jolly[SP]Roger[1432][NULL][NULL][0014][SP]refers[SP]to[SP]the[SP]skull[SP]and\ncrossbones...[SP]Between[SP]the[SP]ship-like[SP]decor[SP]and\nhis[SP]clothing,[SP]the[SP]owner[SP]may[SP]be[SP]an[SP]ex-pirate.",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Le [1432][NULL][NULL][0014]Jolly Roger[1432][NULL][NULL][0014] désigne le crâne et os\ncroisés... Entre le décor marin et ses\nvêtements, le patron est peut-être un [1205][U+000F]\nex-pirate."
+    "texte_fr": "Le [1432][NULL][NULL][0014]Jolly Roger[1432][NULL][NULL][0014] désigne le crâne et os\ncroisés... Entre le décor marin et ses\nvêtements, le patron est peut-être un [1101]ex-pirate."
   },
   {
     "id": 107,
@@ -1857,7 +1857,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Ah,[SP]so[SP]this[SP]new[SP]Leader[SP]at[SP]Kasugayama[SP]used[SP]to\nbe[SP]the[SP]Death[SP]Boss'[SP]underling.[1205][U+000F][SP]The[SP]low[SP]overcomes\nthe[SP]high...[1205][U+000F][SP]All[SP]right,[SP]here's[SP]what[SP]I[SP]know.[E1][E2]\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nThere's[SP]a[SP]branch[SP]of[SP][E4][NULL][NULL][U+0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]in[SP]Aoba,[SP]and\nword[SP]is[SP]they[SP]sell[SP][E4][NULL][NULL][U+0006]real[SP]armor[E4][NULL][NULL][0002].[1205][U+000F][SP]Their[SP][E4][NULL][NULL][U+0006]selection\nis[SP]paltry,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]good[E4][NULL][NULL][0002].",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Ah, le nouveau Leader de Kasugayama était\nl'acolyte du Boss de la Mort.[1205][U+000F] Le bas\nsurpasse le haut...[1205][U+000F] Voici ce que je sais.[E1][E2]\n[E3][E4][NULL][NULL]\"Toku-san l'informateur Il y a une [E4][NULL][NULL][U+0006]Rosa\nCandida[E4][NULL][NULL][0002] à Aoba,[1205][U+000F] avec de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002].[1205][U+000F]\n[E4][NULL][NULL][U+0006]Mauvais choix mais bons prix de revente[E4][NULL][NULL][0002]."
+    "texte_fr": "Ah, le nouveau Leader de Kasugayama était\nl'acolyte du Boss de la Mort.[1205][U+000F] Le bas\nsurpasse le haut...[1205][U+000F] Voici ce que je sais.[E1][E2]\n[E3][E4][NULL][NULL]\"Toku-san l'informateur\nIl y a une [E4][NULL][NULL][U+0006]Rosa\nCandida[E4][NULL][NULL][0002] à Aoba,[1205][U+000F] avec de [E4][NULL][NULL][U+0006]vraies armures[E4][NULL][NULL][0002].[1101][E4][NULL][NULL][U+0006]Mauvais choix mais bons prix de revente[E4][NULL][NULL][0002]."
   },
   {
     "id": 115,
@@ -2225,7 +2225,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "C'mon,[SP]let's[SP]go[SP]see[SP]the[SP]Kasuga[SP]Festival.[1205][U+000F][SP]It'll\nbe[SP]sooo[SP]much[SP]fun![1205][U+000A][SP]I'm[SP]like,[SP]totally[SP]over[SP]this\npark[SP]already.[E1][E2]\n[E3][E4][NULL][NULL]\"Young[SP]woman\nGinji[SP]Sasaki[SP]is[SP]producing[SP]a[SP]new[SP]group,[SP]right?[1205][U+000F]\nHis[SP]songs[SP]are[SP]the[SP]best![SP]I'm[SP]sooooo[SP]looking\nforward[SP]to[SP]it!",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Allez, on va voir le Festival Kasuga.[1205][U+000F] Ce\nsera trop fun![1205][U+000A] J'en ai trop marre de ce parc\nde toute façon.[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Jeune femme Ginji Sasaki\nproduit un nouveau groupe, non?[1205][U+000F] Ses chansons\nsont trop bien! J'ai trop hâte de voir ça!"
+    "texte_fr": "Allez, on va voir le Festival Kasuga.[1205][U+000F] Ce\nsera trop fun![1205][U+000A] J'en ai trop marre de ce parc\nde toute façon.[E1][E2]\n[E3][E4][NULL][NULL]\"Jeune femme\nGinji Sasaki\nproduit un nouveau groupe, non?[1205][U+000F] Ses chansons[1101]sont trop bien! J'ai trop hâte de voir ça!"
   },
   {
     "id": 138,
@@ -2321,7 +2321,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "Naoya...[1205][U+000A][SP]You[SP]gave[SP]everything[SP]you[SP]had[SP]to[SP]save\nme...[1205][U+000F][SP]You're[SP]the[SP]only[SP]guy[SP]for[SP]me[SP]after[SP]all.[1205][U+000F]\nLet's[SP]make[SP]up[SP]once[SP]you[SP]get[SP]better,[SP]okay?",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Naoya...[1205][U+000A] Tu as tout donné pour me sauver...[1205][U+000F]\nT'es vraiment le seul pour moi.[1205][U+000F]\nRéconcilions-nous quand tu iras mieux,\nd'accord?"
+    "texte_fr": "Naoya...[1205][U+000A] Tu as tout donné pour me sauver...[1205][U+000F]\nT'es vraiment le seul pour moi.[1205][U+000F]\nRéconcilions-nous quand tu iras mieux,[1101]d'accord?"
   },
   {
     "id": 144,
@@ -2577,7 +2577,7 @@
     "nom_orig": "Young[SP]male[SP]shadowman",
     "texte_orig": "Having[SP]your[SP]ideals[SP]granted[SP]is[SP]nothing[SP]special...[1205][001E]\nI[SP]thought[SP]it'd[SP]change[SP]my[SP]life...[1205][001E][SP]But[SP]everything\nis[SP]too[SP]much[SP]of[SP]a[SP]pain[SP]to[SP]bother[SP]with[SP]now...[1205][001E]",
     "nom_fr": "Jeune homme-ombre",
-    "texte_fr": "Avoir ses idéaux exaucés n'a rien de\nspécial...[1205][001E] Je pensais que ça changerait ma\nvie...[1205][001E] [1205][U+000F] Mais tout me pèse trop pour que\nj'agisse...[1205][001E]"
+    "texte_fr": "Avoir ses idéaux exaucés n'a rien de\nspécial...[1205][001E] Je pensais que ça changerait ma\nvie...[1205][001E] [1205][U+000F] Mais tout me pèse trop pour que[1101]j'agisse...[1205][001E]"
   },
   {
     "id": 160,
@@ -2737,7 +2737,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Aoba's[SP]outdoor[SP]concert[SP]hall[SP]is[SP]often[SP]used[SP]by\nfamous[SP]artists.[SP]It's[SP]pretty[SP]amazing[SP]that[SP]it'll\nbe[SP]the[SP]venue[SP]for[SP]their[SP]first[SP]show.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "La salle de concerts en plein air à Aoba\naccueille des artistes célèbres.\nImpressionnant que ce soit leur première [1205][U+000F]\nscène."
+    "texte_fr": "La salle de concerts en plein air à Aoba\naccueille des artistes célèbres.\nImpressionnant que ce soit leur première [1101]scène."
   },
   {
     "id": 170,
@@ -2753,7 +2753,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "There[SP]was[SP]a[SP]rumor[SP]about[SP]the[SP]Masked[SP]Circle[SP]being\nbehind[SP]this[SP]terrorism,[SP]but[SP]is[SP]it[SP]true?[1205][U+000F][SP]I[SP]wonder\nif[SP]they're[SP]really[SP]an[SP]evil[SP]organization...",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Il y avait une rumeur que le Cercle masqué\nétait derrière les attentats, mais c'est vrai?[1205][U+000F]\nSont-ils vraiment une organisation\nmaléfique..."
+    "texte_fr": "Il y avait une rumeur que le Cercle masqué\nétait derrière les attentats, mais c'est vrai?[1205][U+000F]\nSont-ils vraiment une organisation[1101]maléfique..."
   },
   {
     "id": 171,
@@ -2881,7 +2881,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "There's[SP]an[SP]idol's[SP]ghost[SP]haunting[SP]the[SP]outdoor\nconcert[SP]hall.[1205][U+000F][SP]I[SP]hear[SP]a[SP]lot[SP]of[SP]scary[SP]stories\nabout[SP]that[SP]place...[SP]like[SP]talking[SP]flowers.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Il y a le fantôme d'une idole qui hante la\nsalle de concerts en plein air.[1205][U+000F] J'entends\nbeaucoup d'histoires effrayantes sur ce\nlieu..."
+    "texte_fr": "Il y a le fantôme d'une idole qui hante la\nsalle de concerts en plein air.[1205][U+000F] J'entends\nbeaucoup d'histoires effrayantes sur ce[1101]lieu..."
   },
   {
     "id": 179,
@@ -3233,7 +3233,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real\nweapons.[SP]I[SP]wonder[SP]if[SP]I[SP]should[SP]check[SP]'em[SP]out...\nTheir[SP]prices[SP]and[SP]quality[SP]seem[SP]pretty[SP]normal.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Il paraît que le Jolly Roger à Kounan vend de\nvraies armes. Je devrais y jeter un œil...[1205][U+000F]\nLeurs prix et qualité semblent dans la\nmoyenne."
+    "texte_fr": "Il paraît que le Jolly Roger à Kounan vend de\nvraies armes. Je devrais y jeter un œil...[1205][U+000F]\nLeurs prix et qualité semblent dans la[1101]moyenne."
   },
   {
     "id": 201,

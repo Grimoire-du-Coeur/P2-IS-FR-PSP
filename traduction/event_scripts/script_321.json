@@ -189,7 +189,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Tamaki",
-    "texte_fr": "Hello there! What can I help you with?\n[1208][U+0004]Enter magazine sweepstakes\nTalk to Tamaki[1205][U+000F]\nNothing\nLeave the detective agency",
+    "texte_fr": "Hello there! What can I help you with?\n[1208][U+0004]Enter magazine sweepstakes\nTalk to Tamaki\nNothing\nLeave the detective agency",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -209,7 +209,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Tamaki",
-    "texte_fr": "What can I help you with?\n[1208][U+0004]Enter magazine sweepstakes\nTalk to Tamaki[1205][U+000F]\nNothing\nLeave the detective agency",
+    "texte_fr": "What can I help you with?\n[1208][U+0004]Enter magazine sweepstakes\nTalk to Tamaki\nNothing\nLeave the detective agency",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -229,7 +229,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing",
     "nom_fr": "Tamaki",
-    "texte_fr": "What do you want to talk about?\n[1208][U+0003]Make small talk\nAsk about the sweepstakes[1205][U+000F]\nNothing",
+    "texte_fr": "What do you want to talk about?\n[1208][U+0003]Make small talk\nAsk about the sweepstakes\nNothing",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -621,7 +621,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "You've[SP]come...[SP]What[SP]business[SP]do[SP]you[SP]have[SP]with\nus[SP]today?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "You've come... What business do you have \nwith\nus today?[1205][U+000F]\n[1208][U+0005]Spread rumors\nCheck rumors\nTalk with the Chief[1205][U+000F]\nCancel\nLeave the detective agency",
+    "texte_fr": "You've come... What business do you have \nwith\nus today?[1205][U+000F]\n[1208][U+0005]Spread rumors\nCheck rumors\nTalk with the Chief\nCancel\nLeave the detective agency",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -641,7 +641,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "What's on your mind?\n[1208][U+0003]Make small talk\nAsk about rumors[1205][U+000F]\n[1210][NULL]Non-displayed selection",
+    "texte_fr": "What's on your mind?\n[1208][U+0003]Make small talk\nAsk about rumors\n[1210][NULL]Non-displayed selection",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -661,7 +661,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "I'm[SP]sorry[SP]for[SP]what[SP]happened[SP]to[SP]that[SP]teacher.\nLooks[SP]like[SP]Tadashi[SP]took[SP]quite[SP]a[SP]beating...[1205][U+000F]\nSo,[SP]do[SP]you[SP]need[SP]me[SP]to[SP]spread[SP]any[SP]rumors?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Désolé pour ce qui est arrivé à ce\nprof. On dirait que Tadashi a pris une\nraclée...[1205][U+000F] Une rumeur à répandre?\n[1208][U+0005]Spread rumors\nCheck rumors[1205][U+000F]\nTalk with the Chief\nCancel\nLeave the detective agency",
+    "texte_fr": "Désolé pour ce qui est arrivé à ce\nprof. On dirait que Tadashi a pris une\nraclée...[1205][U+000F] Une rumeur à répandre?\n[1208][U+0005]Spread rumors\nCheck rumors\nTalk with the Chief\nCancel\nLeave the detective agency",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -681,7 +681,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "What's on your mind?\n[1208][U+0003]Make small talk\nAsk about rumors[1205][U+000F]\n[1210][NULL]Non-displayed selection",
+    "texte_fr": "What's on your mind?\n[1208][U+0003]Make small talk\nAsk about rumors\n[1210][NULL]Non-displayed selection",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -701,7 +701,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Anything[SP]else?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Anything else?\n[1208][U+0005]Spread rumors\nCheck rumors[1205][U+000F]\nTalk with the Chief\nCancel\nLeave the detective agency",
+    "texte_fr": "Anything else?\n[1208][U+0005]Spread rumors\nCheck rumors\nTalk with the Chief\nCancel\nLeave the detective agency",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -721,7 +721,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "What's on your mind?\n[1208][U+0003]Make small talk\nAsk about rumors[1205][U+000F]\n[1210][NULL]Non-displayed selection",
+    "texte_fr": "What's on your mind?\n[1208][U+0003]Make small talk\nAsk about rumors\n[1210][NULL]Non-displayed selection",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1096,7 +1096,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What[SP]should[SP]I[SP]do...!?\n[1208][U+0003]Ask[SP]about[SP]the[SP]In[SP]Lak'ech\nAsk[SP]about[SP]the[SP]Last[SP]Battalion\nLeave[SP]her[SP]be",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Que dois-je faire...!?\n[1208][U+0003]L'In Lak'ech\nLe Bataillon[1205][U+000F]\nLa laisser seule",
+    "texte_fr": "Que dois-je faire...!?\n[1208][U+0003]L'In Lak'ech\nLe Bataillon\nLa laisser seule",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1132,7 +1132,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]the[SP]In[SP]Lak'ech?\n[1208][U+0005]About[SP]Kashihara\nAbout[SP]Sudou\nAbout[SP]its[SP]contents\nAbout[SP]Maians\nAbout[SP]Ideal[SP]Energy",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][U+0005]Sur Kashihara\nSur Sudou[1205][U+000F]\nLe contenu\nLes Maïens\nL'Énergie Idéale",
+    "texte_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][U+0005]Sur Kashihara\nSur Sudou\nLe contenu\nLes Maïens\nL'Énergie Idéale",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1807,7 +1807,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1827,7 +1827,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

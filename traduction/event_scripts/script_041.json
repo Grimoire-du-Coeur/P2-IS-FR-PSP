@@ -45,7 +45,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "C'mon,[SP][1113],[SP]let's[SP]go[SP]save[SP]her!\n[1208][U+0003][1432][NULL][NULL][0014]Let's[SP]wait[SP]and[SP]see[SP]what[SP]happens.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Let's[SP]go[SP]rescue[SP]her![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Let[SP]me[SP]think[SP]about[SP]this...[1432][NULL][NULL][0014]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Allez, [1113], allons la sauver!\n[1208][U+0003][1432][NULL][NULL][0014]Attendons de voir.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Allons la sauver![1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]Laisse-moi réfléchir...[1432][NULL][NULL][0014]",
+    "texte_fr": "Allez, [1113], allons la sauver!\n[1208][U+0003][1432][NULL][NULL][0014]Attendons de voir.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Allons la sauver![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Laisse-moi réfléchir...[1432][NULL][NULL][0014]",
     "question_orig": "C'mon,[SP][1113],[SP]let's[SP]go[SP]save[SP]her!",
     "choix_orig": [
       "Let's[SP]wait[SP]and[SP]see[SP]what[SP]happens.",
@@ -153,7 +153,7 @@
     "nom_orig": "Concert[SP]staff",
     "texte_orig": "We're[SP]supposed[SP]to[SP]be[SP]guarding[SP]the[SP]inside\nof[SP]the[SP]concert[SP]hall,[SP]so[SP]you[SP]can't[SP]go[SP]out\nthere.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Concert[SP]staff\nThis[SP]job[SP]can[SP]get[SP]rough.[SP]We[SP]put[SP]ourselves[SP]on\nthe[SP]line[SP]to[SP]hold[SP]back[SP]the[SP]raving[SP]crowds.\nYou[SP]better[SP]be[SP]ready.",
     "nom_fr": "Personnel du concert",
-    "texte_fr": "On est sensé être gardiens à l'interieur\ndu hall, donc tu ne peux pas sortir ici.[1205][U+000F]\n[E1][E2][E3][E4][NULL][NULL]\"Personel du concert Ce travail est\ndûr. On se met[1205][U+000F] sur la ligne pour retenir\nles foules. T'as interêt à être prêt."
+    "texte_fr": "On est sensé être gardiens à l'interieur\ndu hall, donc tu peux pas sortir ici.[1205][U+000F]\n[E1][E2][E3][E4][NULL][NULL]\"Personel du concert\nCe travail est\ndûr. On se met[1205][U+000F] sur la ligne pour retenir\nles foules. T'as interêt à être prêt."
   },
   {
     "id": 9,

@@ -45,7 +45,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "If[SP]that[SP]rumor[SP]gets[SP]spread[SP]and[SP]becomes[SP]reality,\nthen[SP]we're[SP]gonna[SP]be...[1205][U+000F][SP]N-No[SP]way,[SP]that[SP]can't\nactually[SP]happen![E1][E2]\n\n[E3][E4][NULL][NULL]\"Eikichi\nI[SP]believe[SP]in[SP]Jun.[1205][U+000F][SP]No[SP]matter[SP]what[SP]rumors[SP]are\ngoing[SP]around,[SP]he's[SP]still[SP]himself.[SP]I'm[SP]sure\nhe'll[SP]come[SP]around[SP]once[SP]he[SP]sees[SP]Big[SP]Maya[SP]again.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Si la rumeur se répand et devient vraie, on\nva...[1205][U+000F] N-Non, c'est impossible, ça n'arrivera\npas![E1][E2] [1205][U+000F] [E3][E4][NULL][NULL]\"Eikichi Je crois en Jun.[1205][U+000F] Malgré les\nrumeurs, il reste lui-même. Il reviendra à\nla raison en revoyant grande Maya."
+    "texte_fr": "Si la rumeur se répand et devient vraie, on\nva...[1205][U+000F] N-Non, c'est impossible, ça n'arrivera\npas![E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nJe crois en Jun.[1205][U+000F] Malgré les\nrumeurs, il reste lui-même. Il reviendra à[1101]la raison en revoyant grande Maya."
   },
   {
     "id": 3,
@@ -253,7 +253,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Don't[SP]worry.[SP]The[SP]rumor[SP]has[SP]been[SP]spread.\nWhat's[SP]more...[SP]it's[SP]become[SP]reality.[1205][U+000F][SP]This[SP]is\nanother[SP]result[SP]that[SP]humanity[SP]desired.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nJun-kun...[1205][U+000A][SP]He's[SP]trying[SP]to[SP]carry[SP]the[SP]karma[SP]of\neveryone[SP]in[SP]the[SP]city[SP]by[SP]himself.[1205][U+000F][SP]He's[SP]too\nkind,[SP]really...",
     "nom_fr": "Maya",
-    "texte_fr": "Rassurez-vous. La rumeur a été répandue.\nEt... elle est devenue réalité.[1205][U+000F] C'est un\nautre résultat voulu par l'humanité.[E1][E2] [E3][E4][NULL][NULL]\"Maya[1205][U+000F]\nJun-kun...[1205][U+000A] Il veut porter le karma de toute\nla ville seul.[1205][U+000F] Il est vraiment trop gentil..."
+    "texte_fr": "Rassurez-vous. La rumeur a été répandue.\nEt... elle est devenue réalité.[1205][U+000F] C'est un\nautre résultat voulu par l'humanité.[E1][E2] [E3][E4][NULL][NULL]\"Maya\n[1205][U+000F]\nJun-kun...[1205][U+000A] Il veut porter le karma de toute[1101]la ville seul.[1205][U+000F] Il est vraiment trop gentil..."
   },
   {
     "id": 16,
@@ -397,7 +397,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Heeheehee.[SP]Anything[SP]else?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Hihihi. Autre chose?\n[1208][U+0006]Acheter objets\nVendre objets[1205][U+000F]\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien[1205][U+000F]\nQuitter",
+    "texte_fr": "Hihihi. Autre chose?\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -417,7 +417,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Alors, tu vends quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Alors, tu vends quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -437,7 +437,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -793,7 +793,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Heeheehee.[SP]Welcoooome![SP]What'll[SP]it[SP]be?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#3\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Hihihi. Bienvenuuue! Que désires-tu?\n[1208][U+0006]Acheter objets\nVendre objets[1205][U+000F]\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien[1205][U+000F]\nQuitter",
+    "texte_fr": "Hihihi. Bienvenuuue! Que désires-tu?\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°3\n[1210][U+0100]Voir objets\nRien\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -813,7 +813,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Alors, que veux-tu vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Alors, que veux-tu vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -833,7 +833,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -869,7 +869,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Le total s'élève à [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Le total s'élève à [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

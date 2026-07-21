@@ -221,7 +221,7 @@
     "nom_orig": "Maya",
     "texte_orig": "This[SP]song...[1205][U+000F][SP]It's[SP]intolerable![1205][U+000F][SP]Let's[SP]leave\nthis[SP]place[SP]at[SP]once,[SP][1113]-kun![E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nThis[SP]brings[SP]back[SP]memories...[1205][001E][SP]This[SP]place[SP]was[SP]a\nhuge[SP]help[SP]for[SP]me[SP]and[SP]my[SP]friends[SP]when[SP]we[SP]were\nyounger.[1205][001E][SP]It[SP]was[SP]fun,[SP]despite[SP]everything.",
     "nom_fr": "Maya",
-    "texte_fr": "Cette chanson...[1205][U+000F] Insupportable![1205][U+000F] Partons\nd'ici tout de suite, [1113]![E1][E2] [E3][E4][NULL][NULL]\"Yukino[1205][U+000F] Cela\nme rappelle des souvenirs...[1205][001E] Cet endroit a\nbeaucoup aidé mes amis et moi dans[1205][U+000F] notre\njeunesse.[1205][001E] C'était bien, malgré tout."
+    "texte_fr": "Cette chanson...[1205][U+000F] Insupportable![1205][U+000F] Partons\nd'ici tout de suite, [1113]![E1][E2] [E3][E4][NULL][NULL]\"Yukino\nCela\nme rappelle des souvenirs...[1205][001E] Cet endroit a\nbeaucoup aidé mes amis et moi dans[1205][U+000F] notre[1101]jeunesse.[1205][001E] C'était bien, malgré tout."
   },
   {
     "id": 14,
@@ -285,7 +285,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Is[SP]there[SP]anything[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][U+0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
     "nom_fr": "Igor",
-    "texte_fr": "Puis-je vous être utile?\n[1208][U+0007]Invoquer Persona\nPorter Persona[1205][U+000F]\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor[1205][U+000F]\nAnnuler\nQuitter",
+    "texte_fr": "Puis-je vous être utile?\n[1208][U+0007]Invoquer Persona\nPorter Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -341,7 +341,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Please,[SP]ask[SP]away.\n[1208][U+0007]Personas\nTaking[SP]on[SP]and[SP]invoking\nArcanas\nPersona[SP]growth\nPersona[SP]compatibility\nNext[SP]Page\n[1210][U+0100]Undisplayed[SP]selection/return",
     "nom_fr": "Igor",
-    "texte_fr": "Je vous écoute.\n[1208][U+0007]Personae\nObtention, invocation[1205][U+000F]\nArcanes\nCroissance\nCompatibilité[1205][U+000F]\nPage suivante\n[1210][U+0100]Sélection cachée/retour",
+    "texte_fr": "Je vous écoute.\n[1208][U+0007]Personae\nObtention, invocation\nArcanes\nCroissance\nCompatibilité\nPage suivante\n[1210][U+0100]Sélection cachée/retour",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -361,7 +361,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Please,[SP]ask[SP]away.\n[1208][U+0008]Tarot[SP]Cards\nMaterial[SP]Cards\nSkill[SP]Cards\nIncense[SP]Cards\nPersona[SP]Cards\nNext[SP]Page\nPrevious[SP]Page\n[1210][U+0100]Undisplayed[SP]selection/return",
     "nom_fr": "Igor",
-    "texte_fr": "Allez-y.\n[1208][U+0008]Cartes Tarot\nCartes Matériaux[1205][U+000F]\nCartes Compétences\nCartes Encens\nCartes Persona[1205][U+000F]\nPage suiv.\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
+    "texte_fr": "Allez-y.\n[1208][U+0008]Cartes Tarot\nCartes Matériaux\nCartes Compétences\nCartes Encens\nCartes Persona\nPage suiv.\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -381,7 +381,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Please,[SP]ask[SP]away.\n[1208][U+0007]Summoning[SP]basics\nMystic[SP]change\nMutation\nContacting\nDemon[SP]personalities\nPrevious[SP]Page\n[1210][U+0100]Undisplayed[SP]selection/return",
     "nom_fr": "Igor",
-    "texte_fr": "Je vous écoute.\n[1208][U+0007]Bases d'invocation\nChangement mystique[1205][U+000F]\nMutation\nContact\nPersonnalité des démons[1205][U+000F]\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
+    "texte_fr": "Je vous écoute.\n[1208][U+0007]Bases d'invocation\nChangement mystique\nMutation\nContact\nPersonnalité des démons\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -465,7 +465,7 @@
     "nom_orig": "Igor",
     "texte_orig": "To[SP][1432][NULL][NULL][0014]take[SP]on[1432][NULL][NULL][0014][SP]a[SP]Persona[SP]means[SP]for[SP]a[SP]Persona-\nuser[SP]such[SP]as[SP]yourself[SP]to[SP]accept[SP]it[SP]into[SP]you.\nJust[SP]having[SP]its[SP]card[SP]will[SP]do[SP]you[SP]no[SP]good.",
     "nom_fr": "Igor",
-    "texte_fr": "[1432][NULL][NULL][0014]Porter[1432][NULL][NULL][0014] un Persona signifie, pour un\nutilisateur comme vous, l'accepter en soi.[1205][U+000F]\nPosséder sa carte seule ne vous servira à\nrien."
+    "texte_fr": "[1432][NULL][NULL][0014]Porter[1432][NULL][NULL][0014] un Persona signifie, pour un\nutilisateur comme vous, l'accepter en soi.[1205][U+000F]\nPosséder sa carte seule ne vous servira à[1101]rien."
   },
   {
     "id": 28,
@@ -2257,7 +2257,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Anything[SP]else?\n[1208][U+0004]Request[SP]card\nTalk\nCancel\nLeave",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Autre chose?\n[1208][U+0004]Une carte\nParler[1205][U+000F]\nAnnuler\nQuitter",
+    "texte_fr": "Autre chose?\n[1208][U+0004]Une carte\nParler\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2277,7 +2277,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Okay.[SP]What[SP]should[SP]we[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]card[SP]creation\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Bien. De quoi parle-t-on?\n[1208][U+0003]Bavarder\nParler création de cartes[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Bien. De quoi parle-t-on?\n[1208][U+0003]Bavarder\nParler création de cartes\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2313,7 +2313,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "What[SP]did[SP]you[SP]want[SP]to[SP]ask[SP]about?\n[1208][U+0003]Free[SP]Tarot\nHow[SP]to[SP]obtain[SP]them\nHow[SP]to[SP]use[SP]them",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Sur quoi me questionner?\n[1208][U+0003]Tarot Libre\nComment en obtenir[1205][U+000F]\nComment les utiliser",
+    "texte_fr": "Sur quoi me questionner?\n[1208][U+0003]Tarot Libre\nComment en obtenir\nComment les utiliser",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2653,7 +2653,7 @@
     "nom_orig": "Igor",
     "texte_orig": "How[SP]may[SP]I[SP]be[SP]of[SP]service[SP]to[SP]you[SP]today?\n[1208][U+0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
     "nom_fr": "Igor",
-    "texte_fr": "En quoi puis-je vous être utile?\n[1208][U+0007]Invoquer Persona\nPorter Persona[1205][U+000F]\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor[1205][U+000F]\nAnnuler\nQuitter",
+    "texte_fr": "En quoi puis-je vous être utile?\n[1208][U+0007]Invoquer Persona\nPorter Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2673,7 +2673,7 @@
     "nom_orig": "Igor",
     "texte_orig": "This[SP]room[SP]is[SP]between[SP]dream[SP]and[SP]reality...\nBehind[SP]a[SP]door[SP]that[SP]can[SP]only[SP]be[SP]seen[SP]by[SP]the\nhighly[SP]attuned.[1205]<[SP]How[SP]may[SP]I[SP]assist[SP]you?\n[1208][U+0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
     "nom_fr": "Igor",
-    "texte_fr": "Entre rêve et réalité...\nDerrière une porte invisible\naux esprits très éveillés.[1205]< Puis-je vous [1205][U+000F]\naider?\n[1208][U+0007]Invoquer Persona\nPorter Persona[1205][U+000F]\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor[1205][U+000F]\nAnnuler\nQuitter",
+    "texte_fr": "Entre rêve et réalité...\nDerrière une porte invisible\naux esprits très éveillés.[1205]< Puis-je vous [1205][U+000F]\naider?\n[1208][U+0007]Invoquer Persona\nPorter Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2693,7 +2693,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "The[SP]Tarot[SP]is[SP]a[SP]model[SP]of[SP]the[SP]heart.[SP]One's[SP]heart\naffects[SP]one's[SP]destiny.[1205][001E][SP]Now,[SP]would[SP]you[SP]like[SP]me\nto[SP]paint[SP]you[SP]something?\n[1208][U+0004]Request[SP]card\nTalk\nCancel\nLeave",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Le Tarot est un modèle du cœur.\nLe cœur influence le destin.[1205][001E] Voulez-vous \nque je[1205][U+000F]\npeigne quelque chose?\n[1208][U+0004]Demander une carte\nParler[1205][U+000F]\nAnnuler\nQuitter",
+    "texte_fr": "Le Tarot est un modèle du cœur.\nLe cœur influence le destin.[1205][001E] Voulez-vous \nque je[1205][U+000F]\npeigne quelque chose?\n[1208][U+0004]Demander une carte\nParler\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2789,7 +2789,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Are[SP]you[SP]sure[SP]you[SP]want[SP]to[SP]let[SP]go[SP]of[SP]this[SP]Persona?\n[1208][0002]Yes\nNo",
     "nom_fr": "Igor",
-    "texte_fr": "Êtes-vous sûr de vous séparer de ce \nPersona?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Êtes-vous sûr de vous séparer de ce \nPersona?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

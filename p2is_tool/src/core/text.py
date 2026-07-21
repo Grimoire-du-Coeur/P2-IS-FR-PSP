@@ -371,17 +371,12 @@ def _valid_name(data: bytes, offset: int) -> bool:
 
 def _needs_nl_suffix(term: list, texte_orig: str) -> bool:
     """
-    Détermine si un NL (0x1101) doit être inséré entre le texte encodé
-    et le terminateur dans le slot binaire.
-
-    Règle observée sur event scripts et MMAP01-06 :
-    - E3 (0x1103) absent du terminateur → NL requis  (slots narratifs courts)
-    - Menu de choix [1208] → NL requis  (sentinel de fin de menu)
-    - E3 présent ET pas de menu → pas de NL  (slots avec E1 E2 E3 E4)
+    Détermine si un dialogue a besoin d'un [NL] (0x1101) final avant le terminateur.
+    Tous les dialogues du jeu (menus, standards, boutiques, combats)
+    se terminent par 0x1101 juste avant le terminateur (E1 E2 E3 E4, etc).
+    Si le 0x1101 est manquant, le jeu ne s'arrête pas de lire et affiche ΓΓΓ (0x0000).
     """
-    E3 = 0x1103
-    is_menu = "[1208]" in texte_orig or "[U+1208]" in texte_orig
-    return E3 not in term or is_menu
+    return True
 
 
 # ── Encodage bin depuis JSON ──────────────────────────────────────────────────
@@ -422,4 +417,37 @@ def _align_menu_text(nom_orig: str, texte_orig: str, nom_fr: str, t_fr: str) -> 
 
     # diff doit être pair (mots de 2 bytes)
     n_sp = diff // 2
-    return t_fr.replace(marker_fr, "[SP]" * n_sp + "[1208]", 1)
+    return t_fr.replace(marker_fr, "[SP]" * n_sp + marker_fr, 1)
+
+def _align_mid_text(nom_orig: str, texte_orig: str, nom_fr: str, t_fr: str) -> str:
+    """
+    Pour les slots qui contiennent un changement de dialogue mid-text via [NULL][NULL]",
+    insère du padding SP pour réaligner le pointeur interne du jeu.
+    """
+    if '[NULL][NULL]"' not in t_fr or '[NULL][NULL]"' not in texte_orig:
+        return t_fr
+
+    nom_orig_clean = nom_orig.replace("[SP]", " ")
+    
+    parts_orig = texte_orig.split('[NULL][NULL]"')
+    parts_fr = t_fr.split('[NULL][NULL]"')
+    
+    out_fr = parts_fr[0]
+    
+    for i in range(1, len(parts_orig)):
+        if i >= len(parts_fr): break
+        
+        pre_orig = '[NULL][NULL]"'.join(parts_orig[:i])
+        pre_fr = '[NULL][NULL]"'.join(parts_fr[:i])
+        
+        orig_off = len(text_to_bytes('"' + nom_orig_clean + "\n" + pre_orig))
+        fr_off = len(text_to_bytes('"' + nom_fr + "\n" + out_fr))
+        
+        diff = orig_off - fr_off
+        if diff > 0:
+            n_sp = diff // 2
+            out_fr += "[SP]" * n_sp
+            
+        out_fr += '[NULL][NULL]"' + parts_fr[i]
+        
+    return out_fr

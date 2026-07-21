@@ -492,7 +492,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "But[SP]the[SP]ancient[SP]Maians[SP]that[SP]thrived[SP]here[SP]died\nin[SP]an[SP]intergalactic[SP]civil[SP]war...[1205][001E][SP]The[SP]victors[SP]were\nthe[SP]Bolontiku[SP]race[SP]that[SP]controls[SP]Xibalba...",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Mais les anciens Maïens d'ici sont morts dans\nune guerre civile intergalactique...[1205][001E] Les\nvainqueurs,[1205][U+000F] les Bolontiku, contrôlent\nXibalba..."
+    "texte_fr": "Mais les anciens Maïens d'ici sont morts dans\nune guerre civile intergalactique...[1205][001E] Les\nvainqueurs,[1205][U+000F] les Bolontiku, contrôlent[1101]Xibalba..."
   },
   {
     "id": 31,
@@ -524,7 +524,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "T-Talk[SP]about[SP]a[SP]fertile[SP]imagination...[1205][001E]\nSo[SP]why[SP]is[SP]the[SP]Masked[SP]Circle[SP]and[SP]Last\nBattalion[SP]after[SP]this[SP]Xibalba?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ms.[SP]Ideal\nBecause[SP]when[SP]the[SP]Oracle[SP]is[SP]fulfilled,\nXibalba[SP]and[SP]the[SP]crystal[SP]skulls[SP]will[SP]grant\nmankind's[SP]ultimate[SP]dream...",
     "nom_fr": "Tamaki",
-    "texte_fr": "Q-Quelle imagination...[1205][001E] Pourquoi le Cercle\nmasqué et le Bataillon veulent ce Xibalba?[1205][U+000F]\n[E1][E2][E3][E4][NULL][NULL]\"Mme Idéale Car quand l'Oracle sera\naccompli,[1205][U+000F] Xibalba et les crânes de cristal\nexauceront le rêve de l'humanité..."
+    "texte_fr": "Q-Quelle imagination...[1205][001E] Pourquoi le Cercle\nmasqué et le Bataillon veulent ce Xibalba?[1205][U+000F]\n[E1][E2][E3][E4][NULL][NULL]\"Mme Idéale\nCar quand l'Oracle sera\naccompli,[1205][U+000F] Xibalba et les crânes de cristal\nexauceront le rêve de l'humanité..."
   },
   {
     "id": 33,
@@ -620,7 +620,7 @@
     "nom_orig": "Occult[SP]magazine[SP]EIC",
     "texte_orig": "It's[SP]full[SP]of[SP]shocking[SP]truths,[SP]from[SP]the[SP]Last\nBattalion[SP]to[SP]a[SP]giant[SP]UFO[SP]that[SP]ties[SP]into[SP]these\nincidents.[SP]Read[SP]it,[SP]or[SP]you'll[SP]be[SP]missing[SP]out!",
     "nom_fr": "Éditeur Occulte",
-    "texte_fr": "Il est rempli de vérités choquantes, du\nBataillon au gigantesque OVNI lié à ces\nincidents. Lisez-le,[1205][U+000F] ou vous raterez quelque\nchose!"
+    "texte_fr": "Il est rempli de vérités choquantes, du\nBataillon au gigantesque OVNI lié à ces\nincidents. Lisez-le,[1205][U+000F] ou vous raterez quelque[1101]chose!"
   },
   {
     "id": 39,
@@ -940,7 +940,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Tamaki",
-    "texte_fr": "Bonjour! Que puis-je faire?\n[1208][U+0004]Participer aux concours\nParler à Tamaki[1205][U+000F]\nRien\nQuitter l'agence",
+    "texte_fr": "Bonjour! Que puis-je faire?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\nQuitter l'agence",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -960,7 +960,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Tamaki",
-    "texte_fr": "Que puis-je faire?\n[1208][U+0004]Participer aux concours\nParler à Tamaki[1205][U+000F]\nRien\n[1210][U+0159]Quitter l'agence",
+    "texte_fr": "Que puis-je faire?\n[1208][U+0004]Participer aux concours\nParler à Tamaki\nRien\n[1210][U+0159]Quitter l'agence",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -980,7 +980,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing",
     "nom_fr": "Tamaki",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nSur les concours[1205][U+000F]\nRien",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nSur les concours\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1292,7 +1292,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What[SP]should[SP]I[SP]do...!?\n[1208][U+0003]Ask[SP]about[SP]the[SP]In[SP]Lak'ech\nAsk[SP]about[SP]the[SP]Last[SP]Battalion\nLeave[SP]her[SP]be",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Que dois-je faire...!?\n[1208][U+0003]L'In Lak'ech\nLe Bataillon[1205][U+000F]\nLa laisser seule",
+    "texte_fr": "Que dois-je faire...!?\n[1208][U+0003]L'In Lak'ech\nLe Bataillon\nLa laisser seule",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1328,7 +1328,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]the[SP]In[SP]Lak'ech?\n[1208][U+0005]About[SP]Kashihara\nAbout[SP]Sudou\nAbout[SP]its[SP]contents\nAbout[SP]Maians\nAbout[SP]Ideal[SP]Energy",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][U+0005]Sur Kashihara\nSur Sudou[1205][U+000F]\nLe contenu\nLes Maïens\nL'Énergie Idéale",
+    "texte_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][U+0005]Sur Kashihara\nSur Sudou\nLe contenu\nLes Maïens\nL'Énergie Idéale",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1784,7 +1784,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "He[SP]said[SP]so[SP]himself![1205][001E][SP]He's[SP]an[SP]immortal[SP]sorcerer\nwho[SP]learned[SP]magic[SP]from[SP]Mayan[SP]mystics.[SP]He\ncraved[SP]the[SP]secrets[SP]of[SP]ruins[SP]around[SP]the[SP]world!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Il l'a dit! C'est un sorcier immortel ayant\nappris la magie de mystiques mayas. Il\nconvoitait les secrets des[1205][U+000F] ruines du monde\nentier!"
+    "texte_fr": "Il l'a dit! C'est un sorcier immortel ayant\nappris la magie de mystiques mayas. Il\nconvoitait les secrets des[1205][U+000F] ruines du monde[1101]entier!"
   },
   {
     "id": 110,
@@ -1928,7 +1928,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "The[SP]Masked[SP]Circle[SP]and[SP]the[SP]Last[SP]Battalion...[1205][001E]\nThis[SP]could[SP]be[SP]a[SP]problem.[1205][001E][SP]Now,[SP]what[SP]business\ndo[SP]you[SP]have[SP]with[SP]us[SP]today?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Le Cercle masqué et le Bataillon...[1205][001E]\nÇa pourrait être un problème.[1205][001E] Alors,\nquelle affaire vous amène?[1205][U+000F]\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef[1205][U+000F]\nAnnuler\n[1210][U+0159]Quitter l'agence",
+    "texte_fr": "Le Cercle masqué et le Bataillon...[1205][001E]\nÇa pourrait être un problème.[1205][001E] Alors,\nquelle affaire vous amène?[1205][U+000F]\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\n[1210][U+0159]Quitter l'agence",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1948,7 +1948,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs[1205][U+000F]\n[1210][NULL]Sélection cachée",
+    "texte_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1968,7 +1968,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Anything[SP]else?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[1210][U+0159]Leave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Autre chose?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs[1205][U+000F]\nParler au Chef\nAnnuler\nQuitter l'agence",
+    "texte_fr": "Autre chose?\n[1208][U+0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\nQuitter l'agence",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1988,7 +1988,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs[1205][U+000F]\n[1210][NULL]Sélection cachée",
+    "texte_fr": "Qu'avez-vous en tête?\n[1208][U+0003]Bavarder\nSur les rumeurs\n[1210][NULL]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2390,7 +2390,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2410,7 +2410,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""

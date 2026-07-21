@@ -19,7 +19,7 @@ import struct, json, gzip, io, os, re, shutil, threading, subprocess, platform, 
 from pathlib import Path
 import tkinter as tk
 from src.config import *
-from src.core.text import _needs_nl_suffix, _align_menu_text
+from src.core.text import _needs_nl_suffix, _align_menu_text, _align_mid_text
 from src.config import _lang, _theme_name
 from src.core.text import text_to_bytes
 from src.parsers.bin_parser import find_dialogs, _rebuild_choice_body
@@ -282,29 +282,28 @@ def encode_bin_from_json(
         )
         # Aligner AVANT d'encoder (on a besoin d'avail pour le test d'alignement)
         enc_pre = text_to_bytes('"' + n_fr + "\n" + t_fr)
-        t_fr_aligned = _align_menu_text(
+        t_fr = _align_menu_text(
             d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
         )
-        enc_aligned = text_to_bytes('"' + n_fr + "\n" + t_fr_aligned)
-        if len(enc_aligned) + len(nl_suffix) <= avail:
-            enc = enc_aligned
-        else:
-            # Alignement impossible → garder sans align, warn si menu
-            enc = enc_pre
-            if "[1208]" in t_fr or "[U+1208]" in t_fr:
-                marker = "[U+1208]" if "[U+1208]" in t_fr else "[1208]"
-                pre_fr = text_to_bytes('"' + n_fr + "\n" + t_fr.split(marker)[0])
-                pre_or = text_to_bytes(
-                    '"'
-                    + d.get("nom_orig", "").replace("[SP]", " ")
-                    + "\n"
-                    + d.get("texte_orig", "").split("[1208]")[0]
+        t_fr = _align_mid_text(
+            d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
+        )
+        enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+        
+        if "[1208]" in t_fr or "[U+1208]" in t_fr:
+            marker = "[U+1208]" if "[U+1208]" in t_fr else "[1208]"
+            pre_fr = text_to_bytes('"' + n_fr + "\n" + t_fr.split(marker)[0])
+            pre_or = text_to_bytes(
+                '"'
+                + d.get("nom_orig", "").replace("[SP]", " ")
+                + "\n"
+                + d.get("texte_orig", "").split("[1208]")[0]
+            )
+            if len(pre_fr) > len(pre_or) and log_fn:
+                log_fn(
+                    f"  ⚠ [id {d['id']}] question FR trop longue de {(len(pre_fr)-len(pre_or))//2} mot(s) → alignement désactivé.",
+                    "warn",
                 )
-                if len(pre_fr) > len(pre_or) and log_fn:
-                    log_fn(
-                        f"  ⚠ [id {d['id']}] question FR trop longue de {(len(pre_fr)-len(pre_or))//2} mot(s) → alignement désactivé.",
-                        "warn",
-                    )
         if len(enc) + len(nl_suffix) > avail:
             depassement = len(enc) + len(nl_suffix) - avail
             if log_fn:
@@ -331,8 +330,11 @@ def encode_bin_from_json(
             d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
         ]
 
-        e3_pad = struct.pack("<H", E3) * (pad_len // 2)
-        full = enc + nl_suffix + end_c + e3_pad + null_gap_orig
+        # PAD AVANT LE TERMINATEUR avec des espaces (0x1120) pour que le texte soit juste plus long
+        # et que le moteur de script atterrisse sur le bon opcode suivant !
+        # Le padding après le terminateur (0x0000) plantait le jeu car exécuté comme opcode par le moteur.
+        null_pad = struct.pack("<H", 0x1120) * (pad_len // 2)
+        full = enc + null_pad + nl_suffix + end_c + null_gap_orig
 
         if len(full) != d["slot_size"]:
             skip += 1
@@ -408,6 +410,9 @@ def encode_bnp_from_json(
         t_fr = _align_menu_text(
             d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
         )
+        t_fr = _align_mid_text(
+            d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
+        )
         enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
         term = d.get("_term", [E1, E2, E3, E4])
         avail = d["data_size"] - (len(term) * 2)
@@ -440,8 +445,8 @@ def encode_bnp_from_json(
         null_gap_orig = data[
             d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
         ]
-        e3_pad = struct.pack("<H", E3) * (pad_len // 2)
-        full = enc + nl_sfx + end_c + e3_pad + null_gap_orig
+        null_pad = struct.pack("<H", 0x1120) * (pad_len // 2)
+        full = enc + null_pad + nl_sfx + end_c + null_gap_orig
         if len(full) != d["slot_size"]:
             skip += 1
             continue
@@ -494,6 +499,9 @@ def encode_bnp_from_json(
             t_fr = _align_menu_text(
                 d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
             )
+            t_fr = _align_mid_text(
+                d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
+            )
             enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
             term = d.get("_term", [E1, E2, E3, E4])
             avail = d["data_size"] - (len(term) * 2)
@@ -526,8 +534,8 @@ def encode_bnp_from_json(
             null_gap_orig = dec[
                 d["offset"] + d["data_size"] : d["offset"] + d["slot_size"]
             ]
-            e3_pad = struct.pack("<H", E3) * (pad_len // 2)
-            full = enc + nl_sfx + end_c + e3_pad + null_gap_orig
+            null_pad = struct.pack("<H", 0x1120) * (pad_len // 2)
+            full = enc + null_pad + nl_sfx + end_c + null_gap_orig
             if len(full) != d["slot_size"]:
                 skip += 1
                 continue

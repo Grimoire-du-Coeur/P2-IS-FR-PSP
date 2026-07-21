@@ -109,7 +109,7 @@
     "nom_orig": "Teacher's[SP]ghost",
     "texte_orig": "I[SP]said...[1205][001E][SP]that[SP]time...[1205][001E][SP]must[SP]not[SP]be[SP]set\nfree...[1205][001E][SP]I[SP]said[SP]it...[1205][001E][SP]so[SP]often...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHe[SP]disappeared![1205][001E][SP]But...[SP]I[SP]feel[SP]like[SP]I've...",
     "nom_fr": "Fantôme du prof",
-    "texte_fr": "J'ai dit...[1205][001E] le temps...[1205][001E] pas libéré...[1205][001E]\nJe l'ai dit... [E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Maya Disparu![1205][001E]\nMais... j'ai l'impression..."
+    "texte_fr": "J'ai dit...[1205][001E] le temps...[1205][001E] pas libéré...[1205][001E]\nJe l'ai dit...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nDisparu![1205][001E]\nMais... j'ai l'impression..."
   },
   {
     "id": 7,
@@ -381,7 +381,7 @@
     "nom_orig": "Joker",
     "texte_orig": "The[SP]seven[SP]Pleaides[SP]set[SP]the[SP]frozen[SP]time[SP]free...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Joker\nRevenge[SP]isn't[SP]my[SP]only[SP]motive.",
     "nom_fr": "Joker",
-    "texte_fr": "Les Pléiades ont libéré le temps... [E1][E2] [E3][E4][NULL][NULL]\"Joker[1205][U+000F]\nLa vengeance n'est pas mon seul mobile."
+    "texte_fr": "Les Pléiades ont libéré le temps... [E1][E2] [E3][E4][NULL][NULL]\"Joker\n[1205][U+000F]\nLa vengeance n'est pas mon seul mobile."
   },
   {
     "id": 24,

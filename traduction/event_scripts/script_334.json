@@ -333,7 +333,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Wai,[SP][1113].[1205][U+000F][SP]Isn't[SP]that[SP]girl[SP]in[SP]the[SP]Masked\nCircle?[SP]Think[SP]she[SP]knows[SP]what[SP]the[SP]next[SP]target\nwill[SP]be?[E1][E2]\n\n[E3][E4][NULL][NULL]\"Ginko\nYou[SP]know[SP]how[SP]King[SP]Leo[SP]always[SP]wears[SP]a[SP]mask?\nI[SP]bet[SP]it's[SP]because[SP]he's[SP]trying[SP]to[SP]hide[SP]how\nbutt-ugly[SP]he[SP]is.",
     "nom_fr": "Ginko",
-    "texte_fr": "Attends, [1113].[1205][U+000F] Elle est du Cercle masqué?\nSait-elle la prochaine cible?[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Ginko You know\nhow Roi Lion always wears a mask?[1205][U+000F] I bet it's\nbecause he's trying to hide how butt-ugly he\nis."
+    "texte_fr": "Attends, [1113].[1205][U+000F] Elle est du Cercle masqué?\nSait-elle la prochaine cible?[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nYou know\nhow Roi Lion always wears a mask?[1205][U+000F] I bet it's[1101]because he's trying to hide how butt-ugly he\nis."
   },
   {
     "id": 21,
@@ -605,7 +605,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Bringing[SP]destruction[SP]on[SP]their[SP]own[SP]heads[SP]through\nthe[SP]rumors[SP]they[SP]spread...[1205][U+000F][SP]What[SP]humans[SP]need[SP]is\nnot[SP]salvation,[SP]but[SP]evolution.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nIsn't[SP]the[SP]Last[SP]Battalion[SP]headed[SP]to[SP]Mt.\nKatatsumuri?[SP]If[SP]we[SP]do[SP]something[SP]about[SP]that,\nthe[SP]Last[SP]Battalion[SP]might[SP]disappear[SP]too!",
     "nom_fr": "Maya",
-    "texte_fr": "S'attirer la destruction par leurs propres\nrumeurs...[1205][U+000F] L'homme a besoin d'évolution, pas\nde salut.[E1][E2] [E3][E4][NULL][NULL]\"Maya[1205][U+000F] Isn't the Bataillon headed\nto Mt. Katatsumuri? If we do something about\nthat,[1205][U+000F] the Bataillon might disappear too!"
+    "texte_fr": "S'attirer la destruction par leurs propres\nrumeurs...[1205][U+000F] L'homme a besoin d'évolution, pas\nde salut.[E1][E2] [E3][E4][NULL][NULL]\"Maya\n[1205][U+000F] Isn't the Bataillon headed\nto Mt. Katatsumuri? If we do something about[1101]that,[1205][U+000F] the Bataillon might disappear too!"
   },
   {
     "id": 38,
@@ -845,7 +845,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Ah,[SP]welcome[SP]to[SP]Anima[SP]Mundi,[SP]where[SP]all[SP]fashion\nsprings[SP]from.[SP]How[SP]may[SP]I[SP]help[SP]you?\n[1208][U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bienvenue à Anima Mundi, berceau\nde la mode. Que voulez-vous?\n[1208][U+0006]Acheter armure[1205][U+000F]\n[1210][U+0364]Acheter accessoires\nVendre\nParler à la vendeuse[1205][U+000F]\nRien\nQuitter",
+    "texte_fr": "Bienvenue à Anima Mundi, berceau\nde la mode. Que voulez-vous?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre\nParler à la vendeuse\nRien\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -865,7 +865,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Et que vendrez-vous?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Et que vendrez-vous?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -885,7 +885,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "What[SP]is[SP]it[SP]you[SP]want[SP]to[SP]discuss?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
     "nom_fr": "Vendeuse",
-    "texte_fr": "De quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.[1205][U+000F]\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+    "texte_fr": "De quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -905,7 +905,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][U+0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Autre chose?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires[1205][U+000F]\nVendre\nParler à la vendeuse\nRien[1205][U+000F]\nQuitter",
+    "texte_fr": "Autre chose?\n[1208][U+0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre\nParler à la vendeuse\nRien\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -925,7 +925,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Et que vendrez-vous?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets[1205][U+000F]\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure[1205][U+000F]\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Et que vendrez-vous?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -945,7 +945,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "What[SP]is[SP]it[SP]you[SP]wish[SP]to[SP]discuss?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Vendeuse",
-    "texte_fr": "De quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "De quoi voulez-vous discuter?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1253,7 +1253,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "It's[SP]that[SP]kind[SP]of[SP]thinking[SP]that[SP]keeps[SP]me[SP]from\nsleeping[SP]at[SP]night.[1205][U+000F][SP]Although...[SP]You[SP]must[SP]have\nyour[SP]reasons.[SP]So[SP]I'll[SP]keep[SP]selling[SP]you[SP]armor.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "C'est ce genre de pensées qui m'empêche de\ndormir.[1205][U+000F] Bien que... Vous avez vos raisons.\nAlors je continuerai à vous vendre des\narmures."
+    "texte_fr": "C'est ce genre de pensées qui m'empêche de\ndormir.[1205][U+000F] Bien que... Vous avez vos raisons.\nAlors je continuerai à vous vendre des[1101]armures."
   },
   {
     "id": 77,
@@ -1349,7 +1349,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Huh...[SP]I[SP]remember[SP]Lisa-san[SP]being[SP]part[SP]of[SP]Muses.[1205][U+000F]\nBut[SP]I[SP]don't[SP]remember[SP]who[SP]else[SP]there[SP]was.[SP]Oh\nwell,[SP]it's[SP]not[SP]as[SP]if[SP]I[SP]cared[SP]who[SP]they[SP]were.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Huh... Je me souviens que Lisa-san faisait\npartie de Muses.[1205][U+000F] Mais je ne sais plus qui\nd'autre y était. Tant pis, je m'en fiche un\npeu."
+    "texte_fr": "Huh... Je me souviens que Lisa-san faisait\npartie de Muses.[1205][U+000F] Mais je ne sais plus qui\nd'autre y était. Tant pis, je m'en fiche un[1101]peu."
   },
   {
     "id": 83,
@@ -1445,7 +1445,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "I've[SP]had[SP]more[SP]people[SP]wanting[SP]armor[SP]lately.[1121]Is[SP]it\nbecause[SP]of[SP]all[SP]the[SP]attacks?[SP]I[SP]don't[SP]blame[SP]them\nfor[SP]being[SP]nervous,[SP]since[SP]the[SP]police[SP]were[SP]hit.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "J'ai eu plus de gens voulant des armures.[1121]\nEst-ce à cause des attaques? Je ne les blâme\npas[1205][U+000F] d'être nerveux, vu que la police a été\ntouchée."
+    "texte_fr": "J'ai eu plus de gens voulant des armures.[1121]\nEst-ce à cause des attaques? Je ne les blâme\npas[1205][U+000F] d'être nerveux, vu que la police a été[1101]touchée."
   },
   {
     "id": 89,
@@ -2421,7 +2421,7 @@
     "nom_orig": "Akemi",
     "texte_orig": "Did[SP]you[SP]know[SP]those[SP]Muses[SP]girls[SP]are[SP]recording\nat[SP]Mu[SP]right[SP]now?[SP]Looks[SP]like[SP]there's[SP]tons[SP]of\npricks[SP]there...[SP]Heheheheh.[E1][E2]\n\n[E3][E4][NULL][NULL]\"Akemi\nI'm[SP]not[SP]really[SP]friends[SP]with[SP]those[SP]girls.\nAll[SP]girls[SP]nowadays[SP]are[SP]like[SP]that,[SP]huh?[SP]They\nact[SP]like[SP]they[SP]like[SP]you...[SP]but[SP]they[SP]don't...",
     "nom_fr": "Akemi",
-    "texte_fr": "Muses enregistre à Mu? Il y a des tonnes de\nconnards là-bas... Héhé.[E1][E2] [1205][U+000F] [E3][E4][NULL][NULL]\"Akemi I'm not\nreally friends with those girls. All girls\nnowadays are like that, huh? [1205][U+000F] They act like\nthey like you... but they don't..."
+    "texte_fr": "Muses enregistre à Mu? Il y a des tonnes de\nconnards là-bas... Héhé.[E1][E2]\n[E3][E4][NULL][NULL]\"Akemi\nI'm not\nreally friends with those girls. All girls[1101]nowadays are like that, huh? [1205][U+000F] They act like\nthey like you... but they don't..."
   },
   {
     "id": 150,
@@ -2597,7 +2597,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "If[SP]the[SP]In[SP]Lak'ech[SP]is[SP]right...[SP]Then[SP]I[SP]can[SP]start\nover[SP]again...[SP]in[SP]body[SP]and[SP]mind...[SP]I[SP]can[SP]become\nthe[SP]woman[SP]I[SP]want[SP]to[SP]be...[SP]Heheheh...",
     "nom_fr": "Membre du Cercle",
-    "texte_fr": "Si In Lak'ech a raison... Alors je peux\nrecommencer... de corps et d'esprit... Je peux\ndevenir la femme que je veux [1205][U+000F] être...\nHéhéhé..."
+    "texte_fr": "Si In Lak'ech a raison... Alors je peux\nrecommencer... de corps et d'esprit... Je peux\ndevenir la femme que je veux [1205][U+000F] être...[1101]Héhéhé..."
   },
   {
     "id": 161,

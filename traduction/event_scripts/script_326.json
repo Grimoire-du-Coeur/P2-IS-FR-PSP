@@ -29,7 +29,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Dude,[SP]there's[SP]a[SP]manager[SP]behind[SP]the[SP]counter.\nLooks[SP]like[SP]he's[SP]exchanging[SP]coins...[SP]Did[SP]this\nplace[SP]really[SP]turn[SP]into[SP]a[SP]casino?[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nAll[SP]forms[SP]of[SP]gambling[SP]are[SP]forbidden[SP]at[SP]Cuss\nHigh.[SP]It[SP]was[SP]a[SP]school[SP]rule,[SP]but[SP]I[SP]clamped\ndown[SP]on[SP]it[SP]too.[SP]It's[SP]bad[SP]for[SP]the[SP]students.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mec, il y a un gérant derrière le comptoir.\nIl échange des jetons... Cet endroit[1205][U+000F] est\nvraiment devenu un casino?[E1][E2] [E3][E4][NULL][NULL]\"Eikichi Tout\njeu d'argent est interdit à [1205][U+000F] Kasugayama.\nC'était le règlement, mais j'ai sévi aussi.[1205][U+000F]\nC'est mauvais pour les élèves."
+    "texte_fr": "Mec, il y a un gérant derrière le comptoir.\nIl échange des jetons... Cet endroit[1205][U+000F] est\nvraiment devenu un casino?[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\nTout\njeu d'argent est interdit à [1205][U+000F] Kasugayama.[1101]C'était le règlement, mais j'ai sévi aussi.[1205][U+000F]\nC'est mauvais pour les élèves."
   },
   {
     "id": 2,
@@ -397,7 +397,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Heh.[SP]What[SP]have[SP]you[SP]come[SP]here[SP]for?[1205][U+000F][SP]To[SP]try[SP]and\nescape[SP]the[SP]resurfacing[SP]memories?[1205][U+000F][SP]Sorry[SP]to[SP]say,\nbut[SP]that[SP]won't[SP]be[SP]possible.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nDon't[SP]worry,[SP]Yukki.[SP]I'm[SP]sure[SP]Fujii-san[SP]will[SP]be\njust[SP]fine.[SP]C'mon,[SP]you[SP]need[SP]to[SP]calm[SP]down.",
     "nom_fr": "Maya",
-    "texte_fr": "Hé. Que viens-tu faire ici?[1205][U+000F] Tenter de fuir\nles souvenirs qui refont surface?[1205][U+000F] Désolée\nde te le dire, mais c'est impossible.[E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Maya T'en fais pas, Yukki. Je suis sûre\nque Fujii-san[1205][U+000F] ira bien. Allez, calme-toi."
+    "texte_fr": "Hé. Que viens-tu faire ici?[1205][U+000F] Tenter d'fuir\nles souvenirs qui refont surface?[1205][U+000F] Désolée,\nmais c'est impossible.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nT'en fais pas, Yukki. Je suis sûre\nque Fujii-san[1205][U+000F] ira bien. Allez, calme-toi."
   },
   {
     "id": 25,
@@ -461,7 +461,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]can't[SP]believe[SP]you[SP]took[SP]the[SP]time[SP]to[SP]spread[SP]the\nrumor[SP]to[SP]turn[SP]this[SP]place[SP]into[SP]a[SP]casino.[1205][U+000F][SP]*sigh*\nOh[SP]well...[1205][U+000F][SP]Try[SP]not[SP]to[SP]waste[SP]too[SP]much[SP]money.",
     "nom_fr": "Yukino",
-    "texte_fr": "J'y crois pas que tu aies pris le temps de\nlancer la rumeur pour faire d'ici un casino.[1205][U+000F]\n*soupir* Bref...[1205][U+000F] Essaie de ne pas trop\ngaspiller."
+    "texte_fr": "J'y crois pas que tu aies pris le temps de\nlancer la rumeur pour faire d'ici un casino.[1205][U+000F]\n*soupir* Bref...[1205][U+000F] Essaie de ne pas trop[1101]gaspiller."
   },
   {
     "id": 29,
@@ -477,7 +477,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Just[SP]between[SP]you[SP]and[SP]me,[SP]Maya-san's[SP]really[SP]bad\nat[SP]Rock,[SP]Paper,[SP]Scissors.[SP]She[SP]has[SP]a[SP]bad[SP]habit\nof[SP]always[SP]playing[SP]scissors.[SP]Play[SP]her[SP]and[SP]see.",
     "nom_fr": "Yukino",
-    "texte_fr": "Entre nous, Maya-san est vraiment nulle à\nPierre-Feuille-Ciseaux. Elle a la fâcheuse[1205][U+000F]\nhabitude de jouer ciseaux. Joue avec elle pour\nvoir."
+    "texte_fr": "Entre nous, Maya-san est vraiment nulle à\nPierre-Feuille-Ciseaux. Elle a la fâcheuse[1205][U+000F]\nhabitude de jouer ciseaux. Joue avec elle pour[1101]voir."
   },
   {
     "id": 30,
@@ -1053,7 +1053,7 @@
     "nom_orig": "Inveterate[SP]gambler",
     "texte_orig": "Ever[SP]hear[SP]of[SP]Russian[SP]roulette?[SP]It's[SP]the[SP]ultimate\nform[SP]of[SP]gambling,[SP]where[SP]your[SP]own[SP]life[SP]is[SP]on[SP]the\nline.[SP]I'll[SP]bet[SP]on[SP]whether[SP]Mu[SP]gets[SP]bombed...",
     "nom_fr": "Joueur invétéré",
-    "texte_fr": "T'as entendu parler de la roulette russe?\nC'est la forme ultime du pari, où ta vie est[1205][U+000F]\nen jeu. Je parie sur si Mu se fera\nbombarder..."
+    "texte_fr": "T'as entendu parler de la roulette russe?\nC'est la forme ultime du pari, où ta vie est[1205][U+000F]\nen jeu. Je parie sur si Mu se fera[1101]bombarder..."
   },
   {
     "id": 66,
@@ -1117,7 +1117,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?\n[1208][U+0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave\n[1109][E2]\n[E3][E4][NULL][NULL]\"Manager\nWhat[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][U+0005][1210][U+0100]Undisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
     "nom_fr": "Gérant",
-    "texte_fr": "Bienvenue au Mu. Échangez ici vos pièces\ncontre des prix. Alors?\n[1208][U+0005]Acheter pièces[1205][U+000F]\nÉchanger contre prix\nParler au gérant\nRien[1205][U+000F]\nPartir\n[1109][E2]\n[E3][E4][NULL][NULL]\"Gérant[1205][U+000F]\nQuels prix voulez-vous?\n[1208][U+0005][1210][U+0100]Sélection cachée\nContre objets[1205][U+000F]\nContre armes\nContre accessoires\nContre cartes",
+    "texte_fr": "Bienvenue au Mu. Échangez ici vos pièces\ncontre des prix. Alors?\n[1208][U+0005]Acheter pièces\nÉchanger contre prix\nParler au gérant\nRien\nPartir\n[1109][E2]\n[E3][E4][NULL][NULL]\"Gérant\nQuels prix voulez-vous?\n[1208][U+0005][1210][U+0100]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1137,7 +1137,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3]>[SP]The[SP]manager[SP]has[SP]stepped[SP]out...",
     "nom_fr": "Gérant",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nParler pièces et prix[1205][U+000F]\n[1210][U+0100]Sélection cachée\n[1109][E2][E3]> Le gérant s'est absenté...",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nParler pièces et prix\n[1210][U+0100]Sélection cachée\n[1109][E2][E3]> Le gérant s'est absenté...",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1157,7 +1157,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What?[SP]You[SP]still[SP]want[SP]something?[1205][U+000F]\n...Nah,[SP]just[SP]kidding.[SP]What'll[SP]it[SP]be?\n[1208][U+0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave",
     "nom_fr": "Gérant",
-    "texte_fr": "Quoi? Encore un truc?[1205][U+000F]\n...Non, je rigole. Vous voulez?\n[1208][U+0005]Acheter des jetons[1205][U+000F]\nÉchanger des prix\nParler au gérant\nPeu importe[1205][U+000F]\nQuitter",
+    "texte_fr": "Quoi? Encore un truc?[1205][U+000F]\n...Non, je rigole. Vous voulez?\n[1208][U+0005]Acheter des jetons\nÉchanger des prix\nParler au gérant\nPeu importe\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1177,7 +1177,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][U+0005][1210][U+0100]Undisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
     "nom_fr": "Gérant",
-    "texte_fr": "Quels prix voulez-vous?\n[1208][U+0005][1210][U+0100]Sélection cachée\nContre objets[1205][U+000F]\nContre armes\nContre accessoires\nContre cartes",
+    "texte_fr": "Quels prix voulez-vous?\n[1208][U+0005][1210][U+0100]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1197,7 +1197,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Gérant",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nParler pièces et prix[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][U+0003]Bavarder\nParler pièces et prix\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""

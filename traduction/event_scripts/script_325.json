@@ -237,7 +237,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Ah,[SP]so[SP]you[SP]guys[SP]are[SP]safe[SP]too![1205][U+000F][SP]Sheesh,[SP]first\nthat[SP]huge[SP]quake,[SP]and[SP]now[SP]the[SP]city's[SP]flying...\nWhat[SP]in[SP]the[SP]world's[SP]going[SP]on?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ah, vous êtes sains et saufs![1205][U+000F] D'abord le\nséisme, puis la ville vole...\nQue se passe-t-il?[1205][U+000F]\n[1208][U+0004]Manger sur place\nParler au père\nPeu importe[1205][U+000F]\nQuitter",
+    "texte_fr": "Ah, vous êtes sains et saufs![1205][U+000F] D'abord le\nséisme, puis la ville vole...\nQue se passe-t-il?[1205][U+000F]\n[1208][U+0004]Manger sur place\nParler au père\nPeu importe\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -257,7 +257,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -277,7 +277,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Today[SP]I[SP]recommend...[1205][U+000F][SP]Well,[SP]everything![1205][U+000A]\nIt's[SP]all[SP]fresh![SP]Now,[SP]what'll[SP]you[SP]have?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Je recommande...[1205][U+000F] Eh bien, tout![1205][U+000A]\nTout est frais! Que prendrez-vous?\n[1208][U+0004]Manger sur place[1205][U+000F]\nParler au père\nPeu importe\nQuitter",
+    "texte_fr": "Je recommande...[1205][U+000F] Eh bien, tout![1205][U+000A]\nTout est frais! Que prendrez-vous?\n[1208][U+0004]Manger sur place\nParler au père\nPeu importe\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -297,7 +297,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -445,7 +445,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]can[SP]I[SP]do[SP]for[SP]you[SP]today?\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toro\nNever[SP]mind",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Que voulez-vous?\n[1208][U+0003][1210][U+0475]Rumeurs\nParler[1205][U+000F]\nRien",
+    "texte_fr": "Que voulez-vous?\n[1208][U+0003][1210][U+0475]Rumeurs\nParler\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -465,7 +465,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Que savoir?\n[1208][U+0004][1210][U+0476]Armureries\n[1210][U+0477]Protections[1205][U+000F]\n[1210][U+0478]Autres\nRien",
+    "texte_fr": "Que savoir?\n[1208][U+0004][1210][U+0476]Armureries\n[1210][U+0477]Protections\n[1210][U+0478]Autres\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -485,7 +485,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Où?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRetour",
+    "texte_fr": "Où?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRetour",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -505,7 +505,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Où?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRetour",
+    "texte_fr": "Où?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nRetour",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -525,7 +525,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Que savoir?\n[1208][U+0004][1210][U+0472]Concours\n[1210][U+0473]Rumeurs Mu[1205][U+000F]\n[1210][U+0474]Arme légendaire\nRien",
+    "texte_fr": "Que savoir?\n[1208][U+0004][1210][U+0472]Concours\n[1210][U+0473]Rumeurs Mu\n[1210][U+0474]Arme légendaire\nRien",
     "question_fr": "",
     "choix_fr": [
       ""

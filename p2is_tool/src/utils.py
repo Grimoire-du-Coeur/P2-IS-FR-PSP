@@ -243,12 +243,26 @@ def _offsets_path():
 
 
 def save_offsets(data: dict):
-    """Persiste les offsets ISO/CPK/event.bin entre les sessions."""
-    p = _offsets_path()
-    if p:
-        Path(p).parent.mkdir(parents=True, exist_ok=True)
-        with open(p, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2)
+    # Convert any Path objects to strings before saving
+    clean_data = {}
+    for k, v in data.items():
+        if hasattr(k, "__fspath__"):
+            k = str(k)
+        if hasattr(v, "__fspath__"):
+            v = str(v)
+        elif isinstance(v, dict):
+            new_v = {}
+            for k2, v2 in v.items():
+                if hasattr(k2, "__fspath__"):
+                    k2 = str(k2)
+                if hasattr(v2, "__fspath__"):
+                    v2 = str(v2)
+                new_v[k2] = v2
+            v = new_v
+        clean_data[k] = v
+
+    with open(_offsets_path(), "w", encoding="utf-8") as f:
+        json.dump(clean_data, f, indent=2)
 
 
 def load_offsets() -> dict:

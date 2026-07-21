@@ -333,7 +333,7 @@
     "nom_orig": "Trish",
     "texte_orig": "What'll[SP]it[SP]be?[111F][1208][U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave",
     "nom_fr": "Trish",
-    "texte_fr": "Quoi alors?[111F][1208][U+0004]Soigner\nParler\nAnnuler[1205][U+000F]\nQuitter",
+    "texte_fr": "Quoi alors?[111F][1208][U+0004]Soigner\nParler\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -403,7 +403,7 @@
     "nom_orig": "Trish",
     "texte_orig": "My[SP]fees[SP]depend[SP]on[SP]the[SP]current[SP]market[SP]value[SP]for\nhealing,[SP]but[SP]I[SP]do[SP]cure[SP]everyone,[SP]so[SP]you[SP]might\nsave[SP]a[SP]little[SP]in[SP]the[SP]long[SP]run.[E1][E2][E3]>[SP]Error\nNo[SP]BIT[SP]found[SP]to[SP]jump[SP]to.[SP]Please[SP]contact[SP]Kanada.\nOr[SP]more[SP]likely[SP]your[SP]QA[SP]lead.",
     "nom_fr": "Trish",
-    "texte_fr": "Mes tarifs dépendent de la valeur du\nmarché pour les soins, mais je soigne tout\nle monde, donc tu [1205][U+000F] pourras économiser un\npeu au final.[E1][E2][E3]> Erreur Aucun BIT de saut.\nContactez Kanada,[1205][U+000F] ou plutôt votre chef QA."
+    "texte_fr": "Mes tarifs dépendent de la valeur du\nmarché pour les soins, mais je soigne tout\nle monde, donc tu [1205][U+000F] pourras économiser un[1101]peu au final.[E1][E2][E3]> Erreur Aucun BIT de saut.\nContactez Kanada,[1205][U+000F] ou plutôt votre chef QA."
   },
   {
     "id": 25,
@@ -451,7 +451,7 @@
     "nom_orig": "Trish",
     "texte_orig": "Yeah,[SP]that's[SP][120E][NULL][SP]yen.\nYou[SP]gonna[SP]pay[SP]up?\n[1208][0002]Yes\nNo",
     "nom_fr": "Trish",
-    "texte_fr": "Ca fait [120E][NULL]yen.\nTu payes?\n[1208][0002]Oui[1205][U+000F]\nNon",
+    "texte_fr": "Ca fait [120E][NULL]yen.\nTu payes?\n[1208][0002]Oui\nNon",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -535,7 +535,7 @@
     "nom_orig": "Trish",
     "texte_orig": "Anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]Trish\nCancel\nLeave",
     "nom_fr": "Trish",
-    "texte_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler[1205][U+000F]\nAnnuler\nQuitter",
+    "texte_fr": "Autre chose?\n[1208][U+0004]Soigner\nParler\nAnnuler\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""

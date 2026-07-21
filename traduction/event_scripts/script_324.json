@@ -221,7 +221,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]bet[SP]if[SP]I[SP]told[SP]Daddy-o[SP]I[SP]stopped[SP]the[SP]bombing,\nhe[SP]wouldn't[SP]believe[SP]me.[SP]He'd[SP]probably[SP]just\nsmack[SP]me[SP]again.[SP]Well,[SP]he[SP]can[SP]say[SP]what[SP]he[SP]wants.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Si je dis à mon père que j'ai arrêté\nl'attentat, il ne me croira pas. Il va juste\nme frapper encore.[1205][U+000F] Bref, qu'il dise ce qu'il\nveut."
+    "texte_fr": "Si je dis à mon père que j'ai arrêté\nl'attentat, il ne me croira pas. Il va juste\nme frapper encore.[1205][U+000F] Bref, qu'il dise ce qu'il[1101]veut."
   },
   {
     "id": 14,
@@ -317,7 +317,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Snrk...[SP]Ahahahahah![1205][001E][SP]You[SP]Yisi![SP]That's[SP]hilarious![1205][001E]\nCostume[SP]practice?[SP]You[SP]always[SP]dress[SP]like[SP]that![E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nHaime!?[SP]Seriously!?[SP]The[SP]Undie[SP]Boss[SP]lives[SP]in\nfear[SP]of[SP]his[SP]dad!?",
     "nom_fr": "Lisa",
-    "texte_fr": "Pfft... Ahahaha![1205][001E] You Yisi! C'est tordant![1205][001E]\nQuel costume? Tu t'habilles toujours\ncomme ça![E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Ginko Haime!? Sérieux!? Le\nBoss en Caleçon a peur de son père!?"
+    "texte_fr": "Pfft... Ahahaha![1205][001E] You Yisi! C'est tordant![1205][001E]\nQuel costume? Tu t'habilles toujours\ncomme ça![E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nHaime!? Sérieux!? Le\nBoss en Caleçon a peur de son père!?"
   },
   {
     "id": 20,
@@ -349,7 +349,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]guess[SP]Maya-san[SP]really[SP]likes[SP]crab.[SP]But[SP]what's\nthis[SP][1432][NULL][NULL][0014]silent[SP]crab[1432][NULL][NULL][0014][SP]thing?[SP]Is[SP]it[SP]because[SP]people\nget[SP]all[SP]quiet[SP]when[SP]they[SP]eat[SP]crab?[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nKehhei![1205][U+000F][SP]That[SP]Undie[SP]Boss[SP]up[SP]and[SP]went[SP]off[SP]on\nhis[SP]own.[SP]How[SP]reckless[SP]can[SP]he[SP]be?",
     "nom_fr": "Ginko",
-    "texte_fr": "Maya adore vraiment le crabe. Mais c'est quoi\nce [1432][NULL][NULL][0014]crabe silencieux[1432][NULL][NULL][0014]? C'est car on se tait en\nen mangeant?[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Ginko Kehhei![1205][U+000F] Ce Boss en Caleçon\nest parti seul. À quel point est-il imprudent?"
+    "texte_fr": "Maya adore vraiment le crabe. Mais c'est quoi\nce [1432][NULL][NULL][0014]crabe silencieux[1432][NULL][NULL][0014]? C'est car on se tait en\nen mangeant?[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nKehhei![1205][U+000F] Ce Boss en Caleçon\nest parti seul. À quel point est-il imprudent?"
   },
   {
     "id": 22,
@@ -861,7 +861,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Poor[SP]thing.[1205][U+000F][SP]I[SP]know.[SP]You're[SP]desperate[SP]to[SP]again\nbury[SP]the[SP]memories[SP]of[SP]the[SP]past[SP]that[SP]threaten\nto[SP]claw[SP]to[SP]the[SP]surface...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nThat's[SP]why[SP]you're[SP]anxious.[1205][U+000F][SP]But[SP]once[SP]those\nmemories[SP]are[SP]freed,[SP]you'll[SP]be[SP]released[SP]from\nyour[SP]suffering.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nNow,[SP]let's[SP]go[SP]remember[SP]everything.[1205][U+000F][SP]Heh...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nWhere[SP]in[SP]Mt.[SP]Katatsumuri[SP]would[SP]Fujii-san[SP]be...?\nI[SP]wonder[SP]if[SP]Yukki[SP]has[SP]any[SP]suggestions.",
     "nom_fr": "Maya",
-    "texte_fr": "Ma pauvre.[1205][U+000F] Je sais. Tu veux désespérément\nenfouir tes souvenirs du passé qui veulent\nrefaire surface...[E1][E2][1205][U+000F] [E3][E4][NULL][NULL]\"Maya C'est pour ça que tu\nangoisses.[1205][U+000F] Mais une fois ces souvenirs\nlibérés, tu seras libre de tes souffrances.[E1][E2][1205][U+000F]\n[E3][E4][NULL][NULL]\"Maya Maintenant, allons tout nous rappeler.[1205][U+000F]\nHéhé...[E1][E2] [E3][E4][NULL][NULL]\"Maya Où Fujii-san pourrait-il être[1205][U+000F] au\nMont Katatsumuri...? Je me demande si Yukki a\nune idée."
+    "texte_fr": "Ma pauvre.[1205][U+000F] Je sais. Tu veux désespérément\nenfouir tes souvenirs du passé qui veulent\nrefaire surface...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nC'est pour ça que tu\nangoisses.[1205][U+000F] Mais une fois ces souvenirs[1101]libérés, tu seras libre de tes souffrances.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nMaintenant, allons tout nous rappeler.[1205][U+000F]\nHéhé...[E1][E2] [E3][E4][NULL][NULL]\"Maya\nOù Fujii-san pourrait-il être[1205][U+000F] au\nMont Katatsumuri...? Je me demande si Yukki a[1101]une idée."
   },
   {
     "id": 54,
@@ -1229,7 +1229,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Oh,[SP]so[SP]you're[SP]a[SP]friend[SP]of[SP]my[SP]son![SP]C'mon,\neat[SP]up![SP]I've[SP]got[SP]some[SP]great[SP]fish[SP]in!\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Oh, t'es un ami de mon fils! Allez,\nmange! J'ai du super poisson!\n[1208][U+0004]Manger ici[1205][U+000F]\nParler au père\nRien\nPartir",
+    "texte_fr": "Oh, t'es un ami de mon fils! Allez,\nmange! J'ai du super poisson!\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1249,7 +1249,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1269,7 +1269,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Ah,[SP]welcome,[SP]welcome![SP]Thanks[SP]for[SP]coming!\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ah, bienvenue, bienvenue! Merci\nd'être venus!\n[1208][U+0004]Manger ici[1205][U+000F]\nParler au père\nRien\nPartir",
+    "texte_fr": "Ah, bienvenue, bienvenue! Merci\nd'être venus!\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1289,7 +1289,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1309,7 +1309,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "WELCOME![1205][U+000F][SP]How[SP]about[SP]that?[SP]Sounded[SP]great,\ndidn't[SP]it?[SP]You[SP]gotta[SP]greet[SP]your[SP]customers\nwith[SP]your[SP]whole[SP]heart[SP]and[SP]soul[SP]like[SP]that.\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "BIENVENUE![1205][U+000F] Alors, pas mal, hein?\nFaut accueillir les clients avec tout\nson cœur, comme ça.[1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien[1205][U+000F]\nPartir",
+    "texte_fr": "BIENVENUE![1205][U+000F] Alors, pas mal, hein?\nFaut accueillir les clients avec tout\nson cœur, comme ça.[1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1329,7 +1329,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1349,7 +1349,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Ah![SP]Welcome,[SP]welcome![1205][U+000F][SP]What's[SP]this?[SP]You're\nlooking[SP]more[SP]gallant[SP]by[SP]the[SP]day![1205][U+000F][SP]My[SP]fool\nof[SP]a[SP]son[SP]still[SP]looks[SP]the[SP]same,[SP]though.\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ah! Bienvenue, bienvenue![1205][U+000F] Eh bien?\nT'es plus fringant de jour en jour![1205][U+000F]\nMon idiot de fils, lui, change pas.\n[1208][U+0004]Manger ici[1205][U+000F]\nParler au père\nRien\nPartir",
+    "texte_fr": "Ah! Bienvenue, bienvenue![1205][U+000F] Eh bien?\nT'es plus fringant de jour en jour![1205][U+000F]\nMon idiot de fils, lui, change pas.\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1369,7 +1369,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1389,7 +1389,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Welcome,[SP]welcome![1205][U+000F][SP]You[SP]kids[SP]came[SP]at[SP]a[SP]great\ntime.[SP]I[SP]just[SP]prepared[SP]a[SP]fresh[SP]catch.\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Bienvenue, bienvenue![1205][U+000F] Vous tombez\nbien, les jeunes. La pêche est toute\nfraîche.[1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien[1205][U+000F]\nPartir",
+    "texte_fr": "Bienvenue, bienvenue![1205][U+000F] Vous tombez\nbien, les jeunes. La pêche est toute\nfraîche.[1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1409,7 +1409,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1429,7 +1429,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Ah![SP]Welcome,[SP]welcome![SP]Sorry[SP]about[SP]the[SP]fuss.\nThat[SP]customer[SP]there[SP]suddenly[SP]blew[SP]a[SP]gasket.\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ah! Bienvenue, bienvenue! Désolé pour\nle raffut. Ce client a pété un plomb\nd'un coup.[1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien[1205][U+000F]\nPartir",
+    "texte_fr": "Ah! Bienvenue, bienvenue! Désolé pour\nle raffut. Ce client a pété un plomb\nd'un coup.[1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1449,7 +1449,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1469,7 +1469,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Welcome,[SP]welcome![1205][U+000F][SP]We'll[SP]be[SP]open[SP]come[SP]what\nmay![SP]If[SP]we[SP]wasted[SP]time[SP]worrying[SP]about[SP]the\nworld[SP]outside,[SP]our[SP]fish[SP]would[SP]rot!\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Bienvenue, bienvenue![1205][U+000F] On reste ouverts\nquoi qu'il arrive! À s'inquiéter du monde\nextérieur, le poisson pourrirait![1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien[1205][U+000F]\nPartir",
+    "texte_fr": "Bienvenue, bienvenue![1205][U+000F] On reste ouverts\nquoi qu'il arrive! À s'inquiéter du monde\nextérieur, le poisson pourrirait![1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1489,7 +1489,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1509,7 +1509,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Yo![SP]Welcome![1205][U+000F][SP]You're[SP]pretty[SP]brave,[SP]going[SP]out\nat[SP]a[SP]time[SP]like[SP]this.[SP]Well,[SP]youth[SP]should[SP]be\na[SP]little[SP]reckless,[SP]I[SP]say!\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Yo! Bienvenue![1205][U+000F] T'es courageux de\nsortir en ce moment. La jeunesse\ndoit être insouciante, je dis![1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien[1205][U+000F]\nPartir",
+    "texte_fr": "Yo! Bienvenue![1205][U+000F] T'es courageux de\nsortir en ce moment. La jeunesse\ndoit être insouciante, je dis![1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1529,7 +1529,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1549,7 +1549,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Welcome,[SP]wel...come...[1205][U+000F][SP]H-Hey,[SP]what's[SP]wrong?\nWhy[SP]the[SP]long[SP]faces?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Bienvenue, bien...venue...[1205][U+000F] H-Hé,\nqu'y a-t-il? Pourquoi ces têtes?\n[1208][U+0004]Manger ici[1205][U+000F]\nParler au père\nRien\nPartir",
+    "texte_fr": "Bienvenue, bien...venue...[1205][U+000F] H-Hé,\nqu'y a-t-il? Pourquoi ces têtes?\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1569,7 +1569,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1589,7 +1589,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Welcome,[SP]welcome?[SP]Oh,[SP]just[SP]you[SP]two[SP]today?[1205][U+000F]\nLooks[SP]like[SP]someone's[SP]making[SP]his[SP]move!\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Bienvenue? Oh, juste vous\ndeux aujourd'hui?[1205][U+000F] On dirait que\nquelqu'un fait le premier pas!\n[1208][U+0004]Manger ici[1205][U+000F]\nParler au père\nRien\nPartir",
+    "texte_fr": "Bienvenue? Oh, juste vous\ndeux aujourd'hui?[1205][U+000F] On dirait que\nquelqu'un fait le premier pas!\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1609,7 +1609,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1629,7 +1629,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Ah,[SP]thanks[SP]for[SP]coming![SP]Feel[SP]free[SP]to[SP]relax\nand[SP]stay[SP]as[SP]long[SP]as[SP]you[SP]need.\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ah, merci d'être venus! Détendez-vous\net restez aussi longtemps que voulu.\n[1208][U+0004]Manger ici[1205][U+000F]\nParler au père\nRien\nPartir",
+    "texte_fr": "Ah, merci d'être venus! Détendez-vous\net restez aussi longtemps que voulu.\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1649,7 +1649,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1669,7 +1669,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Welcome,[SP]welcome![SP]Ah,[SP]you're[SP]safe!\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Bienvenue, bienvenue! Ah, vous\nêtes saufs!\n[1208][U+0004]Manger ici[1205][U+000F]\nParler au père\nRien\nPartir",
+    "texte_fr": "Bienvenue, bienvenue! Ah, vous\nêtes saufs!\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1689,7 +1689,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1709,7 +1709,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Today[SP]I[SP]recommend...[1205][U+000F][SP]Well,[SP]everything![1205][U+000A]\nIt's[SP]all[SP]fresh![SP]Now,[SP]what'll[SP]you[SP]have?\n[1208][U+0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Aujourd'hui je recommande...[1205][U+000F] Eh bien,\ntout![1205][U+000A] C'est tout frais! Que\nvoulez-vous?[1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien[1205][U+000F]\nPartir",
+    "texte_fr": "Aujourd'hui je recommande...[1205][U+000F] Eh bien,\ntout![1205][U+000A] C'est tout frais! Que\nvoulez-vous?[1205][U+000F]\n[1208][U+0004]Manger ici\nParler au père\nRien\nPartir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1729,7 +1729,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas[1205][U+000F]\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][U+0003]Bavarder\nParler du repas\n[1210][U+0100]Sélection cachée",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2133,7 +2133,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]can[SP]I[SP]do[SP]for[SP]you[SP]today?\n[1208][U+0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toro\nNever[SP]mind",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Que puis-je pour toi?\n[1208][U+0003][1210][U+0475]Sur les rumeurs\nParler à Toro[1205][U+000F]\nLaisse tomber",
+    "texte_fr": "Que puis-je pour toi?\n[1208][U+0003][1210][U+0475]Sur les rumeurs\nParler à Toro\nLaisse tomber",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2153,7 +2153,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][U+0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Que veux-tu savoir?\n[1208][U+0004][1210][U+0476]Rumeurs d'armes\n[1210][U+0477]Rumeurs d'armures[1205][U+000F]\n[1210][U+0478]Autres rumeurs\nRien",
+    "texte_fr": "Que veux-tu savoir?\n[1208][U+0004][1210][U+0476]Rumeurs d'armes\n[1210][U+0477]Rumeurs d'armures\n[1210][U+0478]Autres rumeurs\nRien",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2173,7 +2173,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Zone?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
+    "texte_fr": "Zone?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2193,7 +2193,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][U+0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Zone?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki[1205][U+000F]\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
+    "texte_fr": "Zone?\n[1208][U+0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucune",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2213,7 +2213,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][U+0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Que veux-tu savoir?\n[1208][U+0004][1210][U+0472]Rumeurs jeux-concours\n[1210][U+0473]Rumeurs de Mu[1205][U+000F]\n[1210][U+0474]Rumeurs arme légendaire\nAucune d'elles",
+    "texte_fr": "Que veux-tu savoir?\n[1208][U+0004][1210][U+0472]Rumeurs jeux-concours\n[1210][U+0473]Rumeurs de Mu\n[1210][U+0474]Rumeurs arme légendaire\nAucune d'elles",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -2937,7 +2937,7 @@
     "nom_orig": "Company[SP]president",
     "texte_orig": "Hahaha.[1205][U+000F][SP]I[SP]hear[SP]there's[SP]going[SP]to[SP]be[SP]a[SP]masquerade\nas[SP]part[SP]of[SP]Cuss[SP]High's[SP]school[SP]festival.[1205][U+000F][SP]Kids\nsure[SP]come[SP]up[SP]with[SP]some[SP]interesting[SP]ideas.",
     "nom_fr": "PDG",
-    "texte_fr": "Hahaha.[1205][U+000F] J'ai entendu dire qu'il y aura une\nmascarade pour le festival de Lycée Kakasu.[1205][U+000F]\nCes enfants ont des idées vraiment\nintéressantes."
+    "texte_fr": "Hahaha.[1205][U+000F] J'ai entendu dire qu'il y aura une\nmascarade pour le festival de Lycée Kakasu.[1205][U+000F]\nCes enfants ont des idées vraiment[1101]intéressantes."
   },
   {
     "id": 176,
@@ -4185,7 +4185,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Seems[SP]Time[SP]Castle[SP]doesn't[SP]have[SP]their[SP]legendary\nweapon[SP]yet.[SP]The[SP]owner's[SP]scared[SP]of[SP]monsters[SP]and\ncan't[SP]go[SP]get[SP]it[SP]from[SP]the[SP]abandoned[SP]factory.",
     "nom_fr": "Royauté du Sushi",
-    "texte_fr": "On dirait que le Time Castle n'a pas encore\nl'arme légendaire. Le proprio a peur des\nmonstres et ne[1205][U+000F] peut aller à l'usine\nabandonnée."
+    "texte_fr": "On dirait que le Time Castle n'a pas encore\nl'arme légendaire. Le proprio a peur des\nmonstres et ne[1205][U+000F] peut aller à l'usine[1101]abandonnée."
   },
   {
     "id": 254,
