@@ -282,32 +282,28 @@ def encode_bin_from_json(
         )
         # Aligner AVANT d'encoder (on a besoin d'avail pour le test d'alignement)
         enc_pre = text_to_bytes('"' + n_fr + "\n" + t_fr)
-        t_fr_aligned = _align_menu_text(
+        t_fr = _align_menu_text(
             d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
         )
-        t_fr_aligned = _align_mid_text(
-            d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr_aligned
+        t_fr = _align_mid_text(
+            d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
         )
-        enc_aligned = text_to_bytes('"' + n_fr + "\n" + t_fr_aligned)
-        if len(enc_aligned) + len(nl_suffix) <= avail:
-            enc = enc_aligned
-        else:
-            # Alignement impossible → garder sans align, warn si menu
-            enc = enc_pre
-            if "[1208]" in t_fr or "[U+1208]" in t_fr:
-                marker = "[U+1208]" if "[U+1208]" in t_fr else "[1208]"
-                pre_fr = text_to_bytes('"' + n_fr + "\n" + t_fr.split(marker)[0])
-                pre_or = text_to_bytes(
-                    '"'
-                    + d.get("nom_orig", "").replace("[SP]", " ")
-                    + "\n"
-                    + d.get("texte_orig", "").split("[1208]")[0]
+        enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+        
+        if "[1208]" in t_fr or "[U+1208]" in t_fr:
+            marker = "[U+1208]" if "[U+1208]" in t_fr else "[1208]"
+            pre_fr = text_to_bytes('"' + n_fr + "\n" + t_fr.split(marker)[0])
+            pre_or = text_to_bytes(
+                '"'
+                + d.get("nom_orig", "").replace("[SP]", " ")
+                + "\n"
+                + d.get("texte_orig", "").split("[1208]")[0]
+            )
+            if len(pre_fr) > len(pre_or) and log_fn:
+                log_fn(
+                    f"  ⚠ [id {d['id']}] question FR trop longue de {(len(pre_fr)-len(pre_or))//2} mot(s) → alignement désactivé.",
+                    "warn",
                 )
-                if len(pre_fr) > len(pre_or) and log_fn:
-                    log_fn(
-                        f"  ⚠ [id {d['id']}] question FR trop longue de {(len(pre_fr)-len(pre_or))//2} mot(s) → alignement désactivé.",
-                        "warn",
-                    )
         if len(enc) + len(nl_suffix) > avail:
             depassement = len(enc) + len(nl_suffix) - avail
             if log_fn:
