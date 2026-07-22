@@ -77,7 +77,7 @@
     "nom_orig": "Janitor",
     "texte_orig": "No![SP]Something[SP]awful[SP]will[SP]happen![SP]Before\nhe[SP]died,[SP]that[SP]teacher[SP]said,[SP][1432][NULL][NULL][0014]The[SP]world\nwill[SP]end[SP]if[SP]time[SP]is[SP]not[SP]stopped.[1432][NULL][NULL][0014]",
     "nom_fr": "Concierge",
-    "texte_fr": "Non! Un malheur va arriver! Avant\nsa mort, le prof a dit: [1432][NULL][NULL][0014]Le monde\nfinira si on n'arrête pas le temps.[1432][NULL][NULL][0014]"
+    "texte_fr": "Non! Un malheur va arriver! Avant\nsa mort, le prof a dit: [1432][NULL][NULL][0014]Le monde\ns'éteindra si on n'arrête pas le temps.[1432][NULL][NULL][0014]"
   },
   {
     "id": 5,
@@ -141,7 +141,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "What's[SP]gotten[SP]into[SP]Ms.[SP]Ideal?[SP]Can[SP]this\nday[SP]get[SP]any[SP]crazier!?",
     "nom_fr": "Lycéen",
-    "texte_fr": "Qu'est-ce qui prend à Mme Ideal?\nCette journée peut être pire!?"
+    "texte_fr": "Qu'est-ce qui prend à Mme Ideal?\nCette journée s'empire!"
   },
   {
     "id": 9,
@@ -157,7 +157,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "The[SP]big[SP]clock's[SP]started[SP]again,[SP]so...\nI'd[SP]say[SP]yes!",
     "nom_fr": "Lycéen",
-    "texte_fr": "La grande horloge a redémarré,\nalors... je dirais oui!"
+    "texte_fr": "La grande horloge a redémarré,\nalors... je pense, oui!"
   },
   {
     "id": 10,
@@ -205,7 +205,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Oh[SP]god![SP]Y-Your[SP]face...!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Oh dieu! T-Ton visage...!"
+    "texte_fr": "Mon Dieu! T-Ton visage...!"
   },
   {
     "id": 13,
@@ -253,6 +253,6 @@
     "nom_orig": "Lisa",
     "texte_orig": "Kehhei!?[SP]What's[SP]going[SP]on!?[SP]Does[SP]this[SP]mean\nit[SP]isn't[SP]enough[SP]to[SP]take[SP]the[SP]emblems[SP]off\nour[SP]uniforms!?",
     "nom_fr": "Lisa",
-    "texte_fr": "Quoi!? Qu'est-ce qui se passe!?\nEnlever les emblèmes de nos\nuniformes n'est donc pas suffisant!?"
+    "texte_fr": "Quoi!? Qu'est-ce qui se passe!?\nEnlever les emblèmes de nos\nuniformes n'était pas suffisant!?"
   }
 ]

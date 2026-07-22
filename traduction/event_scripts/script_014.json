@@ -29,7 +29,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]Noriko's[SP]here[SP]too!?",
     "nom_fr": "Ginko",
-    "texte_fr": "Aiya! Noriko est là!?"
+    "texte_fr": "Aiyah! Noriko est là!?"
   },
   {
     "id": 2,
@@ -61,7 +61,7 @@
     "nom_orig": "Noriko",
     "texte_orig": "Sister,[SP]no![SP]You[SP]can't[SP]keep[SP]that[SP]up[SP]or\nit'll[SP]ruin[SP]your[SP]health[SP]even[SP]worse!\nThen[SP]you'll[SP]never[SP]run[SP]again...",
     "nom_fr": "Noriko",
-    "texte_fr": "Grande sœur, non! Arrête ça ou ta santé va\nempirer! Tu ne pourras plus jamais courir..."
+    "texte_fr": "Grande sœur, non! Arrête ça ou ta santé va\nempirer! Et tu ne pourras plus jamais \ncourir..."
   },
   {
     "id": 4,
@@ -237,7 +237,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "Whoa,[SP]whoa,[SP]what's[SP]with[SP]the[SP]preaching\nin[SP]our[SP]place?[SP]You[SP]think[SP]you're[SP]hot[SP]shit\nor[SP]something!?",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "Whoa, whoa, c'est quoi ces prêches chez nous?\nTu te prends pour la reine du monde ou quoi!?"
+    "texte_fr": "Whoa, whoa, t'as quoi à prêcher chez nous?\nTu te prends pour la reine du monde\nou quoi!?"
   },
   {
     "id": 15,
@@ -253,7 +253,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "You[SP]mopes[SP]are[SP]Sevens[SP]students,[SP]yeah?\nBetter[SP]head[SP]straight[SP]home[SP]after[SP]school\nor[SP]your[SP]scaaary[SP]principal's[SP]gonna[SP]get[SP]ya!",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "Vous êtes du lycée des Sept Sœurs, hein?\nRentrez direct après les cours ou votre\neffrayant directeur va vous choper!"
+    "texte_fr": "Vous êtes du lycée Sevens, hein?\nRentrez direct après les cours ou votre\nterriiiifiant directeur va vous choper!"
   },
   {
     "id": 16,
@@ -269,7 +269,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That's[SP]enough,[SP]everyone![1205][001E][SP]I[SP]think[SP]we[SP]all\nneed[SP]to[SP]be[SP]shinier,[SP]happier[SP]people[SP]here.\nYou[SP]don't[SP]want[SP]to[SP]make[SP]me[SP]mad,[SP]do[SP]you?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ça suffit![1205][001E] Je pense qu'on doit\ntous être plus radieux et heureux\nici. Me fâchez pas, compris?"
+    "texte_fr": "Ça suffit![1205][001E] Je pense qu'on devrait tous être plus\nradieux et heureux ici. Vous ne voudriez\npas me mettre en colère, si?"
   },
   {
     "id": 17,
@@ -317,7 +317,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What...?[1205][001E][SP]You[SP]want[SP]to[SP]repeat[SP]that,\nyou[SP]worthless[SP]punk!?",
     "nom_fr": "Michel",
-    "texte_fr": "Quoi...?[1205][001E] Tu veux répéter\nça, espèce de minable!?"
+    "texte_fr": "Quoi...?[1205][001E] Répète voir, espèce de voyou\nà deux balles!?"
   },
   {
     "id": 20,
@@ -333,7 +333,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "We[SP]got[SP]a[SP]new[SP]Leader![1205][001E][SP]And[SP]he's[SP]way,[SP]WAY\nstronger[SP]than[SP]any[SP]Boss![E1][E2]\n[E3][E4][NULL][NULL]\"Cuss[SP]High[SP]student\nAll[SP]your[SP]cronies[SP]at[SP]Cuss[SP]High[SP]have\nswitched[SP]sides[SP]for[SP]our[SP]new[SP]Leader,\nSugimoto-san!",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "Nouveau Leader![1205][001E] Bien plus fort que\nn'importe quel Boss![E1][E2] [E3][E4][NULL][NULL]\"Élève de Kasu\n[1205][U+000F]\nTous tes potes de Kasu ont rejoint[1101]Sugimoto-san, notre nouveau Leader!"
+    "texte_fr": "On a un nouveau Leader![1205][001E] Bien plus fort que\nn'importe quel Boss![E1][E2] [E3][E4][NULL][NULL]\"Élève de Kasu\n[1205][U+000F]\nTous tes potes de Kasu ont rejoint[1101]Sugimoto-san, notre nouveau Leader!"
   },
   {
     "id": 21,
@@ -365,7 +365,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Quit[SP]joking[SP]around!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Arrête ça!"
+    "texte_fr": "Déconne pas!"
   },
   {
     "id": 23,
@@ -413,7 +413,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "I-It's[SP]the[SP]rumor[SP]going[SP]around![SP]I[SP]just\nheard[SP]everyone[SP]say[SP]that[SP][1432][NULL][NULL][0014]Cuss[SP]High's\nnew[SP]Leader[SP]is[SP]stronger[SP]than[SP]the[SP]Boss![1432][NULL][NULL][0014]",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "C'est la rumeur! J'ai juste entendu dire que\n[1432][NULL][NULL][0014]le nouveau Leader est plus fort que le Boss![1432][NULL][NULL][0014]"
+    "texte_fr": "C'est la rumeur! J'ai juste entendu dire \nque [1432][NULL][NULL][0014]le nouveau Leader est plus fort que le\nBoss![1432][NULL][NULL][0014]"
   },
   {
     "id": 26,
@@ -429,7 +429,7 @@
     "nom_orig": "Maya",
     "texte_orig": "So[SP]there's[SP]a[SP]new[SP]head[SP]honcho[SP]right[SP]under\nthe[SP]old[SP]one's[SP]nose...?[1205][001E][SP]Doesn't[SP]that[SP]sound\na[SP]little[SP]sudden?",
     "nom_fr": "Maya",
-    "texte_fr": "Un nouveau chef sous le nez de l'ancien...?[1205][001E]\nÇa ne vous semble pas un peu soudain?"
+    "texte_fr": "Un nouveau chef apparaît sans que l'ancien\nne le sache...?[1205][001E] Ça ne vous semble pas un peu soudain?"
   },
   {
     "id": 27,
@@ -445,7 +445,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Sounds[SP]like[SP]the[SP]result[SP]of[SP]another\nrumor...[1205][001E][SP]Maybe[SP]that[SP]Sugimoto's[SP]in[SP]league\nwith[SP]Joker[SP]too.",
     "nom_fr": "Maya",
-    "texte_fr": "C'est sûrement une autre rumeur...[1205][001E] Sugimoto\nest peut-être de mèche avec le Joker."
+    "texte_fr": "C'est sûrement dû à une autre rumeur...[1205][001E] Sugimoto est peut-être de mèche avec\nJoker."
   },
   {
     "id": 28,
@@ -477,7 +477,7 @@
     "nom_orig": "Maya",
     "texte_orig": "By[SP]the[SP]way,[SP]I'm[SP]sure[SP]you[SP]know[SP]the[SP]rumor\nabout[SP]the[SP]Sevens'[SP]emblem[SP]being[SP]cursed.",
     "nom_fr": "Maya",
-    "texte_fr": "Au fait, vous connaissez la rumeur\nde l'emblème maudit des 7 Sœurs?"
+    "texte_fr": "Au fait, vous connaissez la rumeur\nde l'emblème maudit de Sevens?"
   },
   {
     "id": 30,
@@ -493,7 +493,7 @@
     "nom_orig": "Maya",
     "texte_orig": "From[SP]what[SP]I[SP]understand,[SP]that[SP]rumor\nstarted[SP]at[SP]Cuss[SP]High.[SP]Do[SP]you[SP]know\nanything[SP]about[SP]it?",
     "nom_fr": "Maya",
-    "texte_fr": "Cette rumeur vient de Kasu. Vous\nsavez quelque chose là-dessus?"
+    "texte_fr": "De ce que je sais, cette rumeur vient de\nKasu. Vous savez quelque chose là-dessus?"
   },
   {
     "id": 31,
@@ -509,7 +509,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "We[SP]spread[SP]that[SP]rumor[SP]'cause[SP]the[SP]Leader\ntold[SP]us[SP]to![SP]He[SP]said[SP]he'd[SP]throw[SP]mud[SP]on\nSevens'[SP]reputation[SP]'cause[SP]he[SP]hated[SP]'em...",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "Le Leader nous a ordonné de répandre\nla rumeur! Il voulait salir les Sept\nSœurs car il les déteste..."
+    "texte_fr": "Le Leader nous a ordonné de répandre la\nrumeur! Il voulait salir la réputation de\nSevens car il détestait ses élèves..."
   },
   {
     "id": 32,
@@ -525,7 +525,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Kehhei![SP]What's[SP]up[SP]with[SP]that!?[SP]Why[SP]would\nthis[SP]Hiroki[SP]guy[SP]have[SP]such[SP]a[SP]grudge\nagainst[SP]our[SP]school!?",
     "nom_fr": "Ginko",
-    "texte_fr": "Kehhei! C'est quoi ce délire!? Pourquoi ce\nHiroki a une telle dent contre notre lycée!?"
+    "texte_fr": "Kehhei! C'est quoi ce délire!? Pourquoi ce\nHiroki a une telle dent contre notre\nlycée!?"
   },
   {
     "id": 33,
@@ -541,7 +541,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "We'll[SP]just[SP]have[SP]to[SP]ask[SP]him[SP]in[SP]person!",
     "nom_fr": "Michel",
-    "texte_fr": "On n'a qu'à lui demander en personne!"
+    "texte_fr": "On a qu'à lui demander en personne!"
   },
   {
     "id": 34,
@@ -573,7 +573,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "H-H-He's[SP]here,[SP]at[SP]the[SP]secret[SP]lounge\nfurther[SP]in...",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "I-I-Il est là, dans le\nsalon secret plus loin..."
+    "texte_fr": "I-I-Il est là-bas, dans le salon secret\nplus loin..."
   },
   {
     "id": 36,
@@ -589,7 +589,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "A[SP]secret[SP]lounge!?[SP]I'll[SP]smack[SP]the[SP]smile\noff[SP]that[SP]cocky[SP]bastard's[SP]face!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Un salon secret!? Je vais lui\neffacer son sourire arrogant!"
+    "texte_fr": "Un salon secret!? Je vais lui effacer son\nsourire arrogant!"
   },
   {
     "id": 37,
@@ -621,7 +621,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]was[SP]there[SP]a[SP]girl[SP]called[SP]Kozy[SP]here?\nShe[SP]was[SP]investigating[SP]the[SP]emblem[SP]curse\nrumor[SP]too.",
     "nom_fr": "Ginko",
-    "texte_fr": "Hé, y avait une Kozy ici? Elle\nenquêtait aussi sur l'emblème."
+    "texte_fr": "Hé, est-qu'il y avait une certaine Kozy \nici? Elle enquêtait aussi sur l'emblème."
   },
   {
     "id": 39,
@@ -637,7 +637,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "I[SP]don't[SP]know[SP]no[SP]Kozy.[SP]Though[SP]there[SP]was\nthis[SP]girl,[SP]said[SP]her[SP]name[SP]was[SP]Miyabi\nHanakouji,[SP]who[SP]went[SP]to[SP]see[SP]our[SP]Leader...",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "Connais pas Kozy. Mais une fille, Miyabi\nHanakouji, est allée voir notre Leader..."
+    "texte_fr": "Je connais pas de Kozy. Mais une fille qui\ndisait s'appeler Miyabi Hanakouji est\nallée voir notre Leader..."
   },
   {
     "id": 40,
@@ -685,7 +685,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Wait,[SP]Eikichi-kun![SP]It's[SP]too[SP]dangerous\nto[SP]go[SP]alone!",
     "nom_fr": "Maya",
-    "texte_fr": "Attends, Eikichi! C'est trop risqué tout seul!"
+    "texte_fr": "Attends, Eikichi! C'est trop risqué\ntout seul!"
   },
   {
     "id": 43,
@@ -701,7 +701,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah!?[SP]The[SP]Undie[SP]Boss[SP]took[SP]off[SP]by[SP]himself...",
     "nom_fr": "Ginko",
-    "texte_fr": "Aiya!? Le Boss des Calbutes s'est tiré..."
+    "texte_fr": "Aiyah!? Le Boss des Calbutes s'est tiré..."
   },
   {
     "id": 44,
@@ -733,7 +733,7 @@
     "nom_orig": "Maya",
     "texte_orig": "If[SP]the[SP]rumor[SP]that[SP]the[SP]Leader[SP]is[SP]stronger\nthan[SP]the[SP]Boss[SP]has[SP]spread[SP]far[SP]enough...[1205][001E]\nEikichi-kun[SP]might[SP]be[SP]in[SP]trouble.",
     "nom_fr": "Maya",
-    "texte_fr": "Si la rumeur du Leader plus fort\nque le Boss s'est répandue...[1205][001E]\nEikichi pourrait avoir des ennuis."
+    "texte_fr": "Si la rumeur du Leader plus fort que le \nBoss s'est trop répandue...[1205][001E]\nEikichi-kun pourrait avoir\ndes ennuis."
   },
   {
     "id": 46,
@@ -765,7 +765,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "If[SP]she[SP]was[SP]going[SP]out[SP]with[SP]him[SP]like[SP]Undie\nBoss[SP]said,[SP]wouldn't[SP]she[SP]want[SP]him[SP]to[SP]know?\nMaybe[SP]he[SP]was[SP]lying[SP]about[SP]her.",
     "nom_fr": "Ginko",
-    "texte_fr": "Si elle sortait avec lui, elle voudrait qu'il\nle sache, non? Peut-être qu'il a menti."
+    "texte_fr": "Si elle sortait avec lui, elle voudrait\nqu'il le sache, non? Peut-être qu'il\na menti."
   },
   {
     "id": 48,
@@ -797,7 +797,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "Sugimoto's[SP]actually[SP]kind[SP]of[SP]a[SP]shitty[SP]dude.\nHe[SP]sucks[SP]up[SP]to[SP]the[SP]strong[SP]and[SP]stomps[SP]on\nthe[SP]weak.[SP]Huh...[1205][001E][SP]Why[SP]IS[SP]he[SP]our[SP]Leader?",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "Sugimoto est un gars minable. Il lèche\nles bottes des forts et écrase les[1205][U+000F]\nfaibles. Pourquoi est-il notre Leader?"
+    "texte_fr": "Sugimoto est un gars minable. Il lèche\nles bottes des forts et écrase les\nfaibles. Pff...[1205][U+000F]pourquoi est-il notre Leader?"
   },
   {
     "id": 50,
@@ -813,7 +813,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "I'd[SP]heard[SP]the[SP]rumors[SP]for[SP]a[SP]while[SP]now...\nBut[SP]it[SP]looks[SP]like[SP]there[SP]actually[SP]is[SP]a\nsecret[SP]lounge[SP]somewhere[SP]here!",
     "nom_fr": "Jeune femme",
-    "texte_fr": "J'avais entendu les rumeurs... Il\ny a vraiment un salon secret ici!"
+    "texte_fr": "J'avais déjà entendu les rumeurs...\nMais il y a vraiment un salon secret ici!"
   },
   {
     "id": 51,
@@ -829,7 +829,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "There[SP]must[SP]be[SP]some[SP]kind[SP]of[SP]special\nqualification[SP]to[SP]get[SP]in,[SP]right?[SP]I[SP]wonder\nif[SP]I'm[SP]eligible...[SP]I[SP]want[SP]to[SP]go[SP]so[SP]bad!",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Faut une qualification pour y entrer? Je suis\néligible? J'ai tellement envie d'y aller!"
+    "texte_fr": "Faut une qualification pour y entrer?\nJe me demande si je suis éligible?\nJ'ai tellement envie d'y aller!"
   },
   {
     "id": 52,
@@ -845,7 +845,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "I've[SP]been[SP]hearing[SP]people[SP]talk[SP]about\nCuss[SP]High's[SP]new[SP]Leader,[SP]too.[SP]Huh?[SP]He's\nhere[SP]now?",
     "nom_fr": "Jeune femme",
-    "texte_fr": "J'ai entendu parler du nouveau Leader\nde Kasu. Hein? Il est ici maintenant?"
+    "texte_fr": "J'ai aussi entendu parler du nouveau\nLeader de Kasu. Hein? Il est ici?"
   },
   {
     "id": 53,
@@ -861,7 +861,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "That[SP]reminds[SP]me,[SP]a[SP]group[SP]of[SP]Cuss[SP]High\nstudents[SP]headed[SP]upstairs[SP]a[SP]moment[SP]ago...\nWonder[SP]if[SP]their[SP]new[SP]Leader[SP]was[SP]with[SP]them.",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Un groupe de Kasu est monté à l'étage... Je\nme demande si leur nouveau Leader y était."
+    "texte_fr": "Un groupe d'élèves de Kasu est monté à\nl'étage... Je me demande si leur nouveau\nLeader y était."
   },
   {
     "id": 54,
@@ -893,6 +893,6 @@
     "nom_orig": "Employee",
     "texte_orig": "Wow,[SP]things[SP]sound[SP]like[SP]they're[SP]getting\nheated[SP]upstairs.[SP]I[SP]wonder[SP]what[SP]they're\ndoing[SP]up[SP]there?",
     "nom_fr": "Employé",
-    "texte_fr": "Wow, on dirait que ça s'échauffe à l'étage.\nJe me demande ce qu'ils font là-haut?"
+    "texte_fr": "Wow, on dirait que ça chauffe à l'étage.\nJe me demande ce qu'ils font là-haut?"
   }
 ]
