@@ -125,10 +125,11 @@
     "nom_orig": "Jun",
     "texte_orig": "It's[SP]strange...[1205][U+000F][SP]It[SP]doesn't[SP]look[SP]as[SP]though[SP]the\nLast[SP]Battalion[SP]even[SP]used[SP]this.[1205][U+000F][SP]It's[SP]like[SP]they\nleft[SP]it[SP]just[SP]for[SP]us...[E1][E2][E3]>[SP]Warp[SP]to[SP]Sevens?\n[1208][0002]Yes\nNo",
     "nom_fr": "Jun",
-    "texte_fr": "On dirait que le Bataillon ne s'en est \nmême pas servi.\n[1205][U+000F]Comme s'il était fait pour nous...[E1][E2][E3]> Se \ntéléporter à Seven?\n[1208][0002]Oui\nNon",
-    "question_fr": "",
+    "texte_fr": "On dirait que le Bataillon ne s'en est même pas\nservi. C'est comme s'il était conçu\nspécialement pour nous...[E1][E2][E3]> Se téléporter à Seven?[SP][SP]\n[1208][0002]Oui\nNon",
+    "question_fr": "On dirait que le Bataillon ne s'en est même pas\nservi. C'est comme s'il était conçu\nspécialement pour nous...[E1][E2][E3]> Se téléporter à Seven?[SP][SP]",
     "choix_fr": [
-      ""
+      "Oui",
+      "Non"
     ]
   },
   {
