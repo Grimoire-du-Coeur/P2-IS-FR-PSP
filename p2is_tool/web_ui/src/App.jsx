@@ -154,7 +154,8 @@ export default function App() {
           }
           if (data.logs && data.logs.length > 0) {
             setLogs(prev => {
-              const newLogs = data.logs.map(l => ({ time: new Date().toLocaleTimeString(), msg: l.msg, type: l.type }));
+              const filtered = data.logs.filter(l => !l.msg.includes("is too long!"));
+              const newLogs = filtered.map(l => ({ time: new Date().toLocaleTimeString(), msg: l.msg, type: l.type }));
               return [...prev, ...newLogs];
             });
           }
@@ -555,7 +556,7 @@ export default function App() {
         <motion.div 
           initial={{ opacity: 0, x: 20 }}
           animate={{ opacity: 1, x: 0 }}
-          className="glass-panel p-0 flex flex-col min-h-[600px] overflow-hidden bg-gray-900/80"
+          className="glass-panel p-0 flex flex-col h-[600px] overflow-hidden bg-gray-900/80"
         >
           <div className="flex justify-between items-center p-4 bg-black/40 border-b border-white/5">
             <h3 className="font-semibold tracking-wider text-sm uppercase text-blue-200">{t('log_title')}</h3>
