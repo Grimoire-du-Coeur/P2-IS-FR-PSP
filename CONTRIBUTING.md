@@ -89,8 +89,7 @@ Notre outil de compilation possède un algorithme (`ACCENT_MAP`) qui intercepte 
 
 ### 2. Espaces et Ponctuation
 * Le code `[SP]` dans le texte anglais représente un espace insécable. Dans votre traduction française, **effacez-le et utilisez un espace classique** de la barre d'espace de votre clavier.
-* Le code `
-` représente un retour à la ligne. Utilisez-le intelligemment pour structurer vos paragraphes.
+* Le code `\n` représente un retour à la ligne. Utilisez-le intelligemment pour structurer vos paragraphes.
 * Les points de suspension `...` doivent être tapés classiquement (trois petits points), l'outil les gérera tout seul.
 
 <br/>
@@ -109,10 +108,8 @@ Dans les textes anglais de l'outil, vous trouverez des codes étranges entre cro
 | `[1205][001E]` | **Pause Dramatique** du texte. Oblige le joueur à attendre une seconde avant la suite de la phrase. | `Tu penses vraiment...[1205][001E] qu'on va te laisser filer ?` |
 | `[1113]` | **Prénom du Héros** (Tatsuya). C'est une variable dynamique car le joueur peut renommer le héros. | `Salut [1113], comment ça va ?` |
 | `[1112]` | **Nom de Famille** (Suou). | `C'est le cadet de la famille [1112].` |
-| `[1208][0002]` | **Déclencheur de Menu de Choix !** (Critique). Apparaît quand le joueur doit répondre Oui ou Non. | `Tu viens avec nous ?
-[1208][0002][1432]...` |
-| `[0014]` | **Séparateur d'options** d'un menu de choix. Sépare le "Oui" du "Non". Ne jamais effacer ! | `...[0014]Oui[1432][NULL][0014]
-[1432]...[0014]Non` |
+| `[1208][0002]` | **Déclencheur de Menu de Choix !** (Critique). Apparaît quand le joueur doit répondre Oui ou Non. | `Tu viens avec nous ?\n[1208][0002][1432]...` |
+| `[0014]` | **Séparateur d'options** d'un menu de choix. Sépare le "Oui" du "Non". Ne jamais effacer ! | `...[0014]Oui[1432][NULL][0014]\n[1432]...[0014]Non` |
 | `[COLOR_RED]` | **Changement de Couleur**. Doit encadrer le mot mis en évidence. | `C'est une rumeur très [COLOR_RED]dangereuse[COLOR_DEFAULT].` |
 | `[1108]` | **Fenêtre de Portrait (Bust-up)**. Demande au jeu d'afficher le dessin du personnage qui parle. | Se trouve souvent au début ou à la fin d'une réplique. |
 | `[U+XXXX]` | **Balise Inconnue**. Si vous voyez `[U+1A2B]`, c'est un code de la console que l'on n'a pas encore décrypté. | À laisser exactement là où il était. |
