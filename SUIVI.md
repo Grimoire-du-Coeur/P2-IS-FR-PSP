@@ -88,30 +88,32 @@ gantt
     Lancement Version BÊTA Publique   :milestone, 2026-08-15, 0d
 ```
 
-
 <br/>
 
----
+### Historique des Patchs (Releases BÊTA)
 
-## Historique des Déploiements (Changelog)
+Grâce aux retours de la communauté, l'équipe déploie régulièrement des correctifs techniques. Voici le détail complet des dernières mises à jour (patch notes) :
 
-Grâce aux retours de la communauté durant cette phase de Bêta, l'équipe déploie régulièrement des correctifs techniques. Voici le détail chronologique des versions (Releases) publiées sur GitHub :
+#### 🔹 [v0.1.2-beta] – Patch FR (Bêta) — *21 Juillet 2026*
+**Mise à jour critique (Stabilité, encodage et rendu).**
+* **Correction du glitch mémoire "ΓΓΓ"** : Refonte du padding de fin de dialogue. Le remplissage utilise désormais des espaces invisibles au lieu d'octets nuls (`0x0000`).
+* **Gestion du défilement** : Repositionnement des balises d'attente de touche `[E1][E2]` en fin de bloc `[E3]` (35 fichiers corrigés) pour empêcher le jeu de sauter les boîtes.
+* **Boîtes de choix stabilisées** : Nettoyage des balises de mise en page injectées par erreur dans les listes de choix `[1208]` (87 fichiers corrigés).
+* **Typographie & Nameplates** : Conversion des caractères spéciaux vers ASCII et correction des retours à la ligne après les noms `[E4]` (50 fichiers corrigés).
+* **Tronquage automatique** : Limitation stricte à 3 lignes pour éviter les débordements.
 
-```mermaid
-timeline
-    title Historique des Patchs (Releases)
-    6 Mai 2026 : v0.1-beta (Pack HD FR)
-               : Première version des textures UI en français.
-               : Compatibilité pour PPSSPP.
-    10 Juil. 2026 : v0.1-beta (Patch FR)
-                  : Première version bêta publique !
-                  : Histoire principale 100% jouable.
-    17 Juil. 2026 : v0.1.1-beta (Mise à jour mineure)
-                  : Auto-wrap (retour à la ligne automatique).
-                  : Révision typographique stricte.
-    21 Juil. 2026 : v0.1.2-beta (Mise à jour critique)
-                  : Correction du glitch mémoire "ΓΓΓ".
-                  : Stabilisation des boîtes de choix.
-                  : Tronquage automatique à 3 lignes max.
-```
+#### 🔹 [v0.1.1-beta] – Patch FR (Bêta) — *17 Juillet 2026*
+**Mise à jour mineure (Optimisation et correction de texte).**
+* **Auto-wrap** : Système de retour à la ligne automatique pour que le texte s'adapte parfaitement aux boîtes de dialogue.
+* **Révision typographique** : Ajout des espaces insécables avant la ponctuation double (`?`, `!`, `:`, `;`) et ajustement des apostrophes.
+* **Résolution des troncatures** : Correction des bugs visuels qui coupaient la fin des répliques.
+
+#### 🔹 [v0.1-beta] – Patch FR + Pack HD (Bêta) — *10 Juillet 2026*
+**Première version bêta publique.**
+* Jouable du début à la fin sur le scénario principal (`event.bin` 100% traduit).
+* *Note : Textes de cartes et combats encore en cours d'intégration.*
+
+#### 🔹 [Pack HD FR v0.1-beta] — *6 Mai 2026*
+**Sortie du pack de textures de l'interface en français.**
+* Traduction des menus et de l'UI (à appliquer par-dessus le pack HD original de racawr sur PPSSPP).
 
