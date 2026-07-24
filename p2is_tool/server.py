@@ -81,7 +81,10 @@ import src.config
 
 def set_work_dir(work_dir: str):
     if work_dir:
-        Path(work_dir).mkdir(parents=True, exist_ok=True)
+        try:
+            Path(work_dir).mkdir(parents=True, exist_ok=True)
+        except Exception as e:
+            raise HTTPException(status_code=400, detail=f"Impossible de créer le dossier de travail : {e}")
     src.config.OFFSETS_FILE = str(Path(work_dir) / "offsets.json")
 
 
@@ -149,7 +152,10 @@ def api_extract_cpk(req: IsoRequest):
     if not iso.exists():
         raise HTTPException(status_code=400, detail="ISO introuvable")
     w = Path(req.work_dir)
-    w.mkdir(parents=True, exist_ok=True)
+    try:
+        w.mkdir(parents=True, exist_ok=True)
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=f"Impossible de créer le dossier de travail : {e}")
     res = extract_cpk_from_iso(str(iso), w, get_logger(req.work_dir), req.pspdecrypt_path)
     if not res:
         raise HTTPException(status_code=500, detail="Erreur lors de l'extraction CPK")
