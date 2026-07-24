@@ -152,6 +152,12 @@ export default function App() {
           if (data.current >= 0) {
             setProgress(data.current);
           }
+          if (data.logs && data.logs.length > 0) {
+            setLogs(prev => {
+              const newLogs = data.logs.map(l => ({ time: new Date().toLocaleTimeString(), msg: l.msg, type: l.type }));
+              return [...prev, ...newLogs];
+            });
+          }
         } catch(e) {}
       }, 500);
     } else {

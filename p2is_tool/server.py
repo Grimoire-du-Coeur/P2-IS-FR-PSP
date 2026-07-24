@@ -35,7 +35,7 @@ from src.parsers.eboot_parser import extract_eboot, inject_eboot
 from src.encoders.pipeline import encode_all
 
 # État global pour la progression
-progress_state = {"current": 0, "task": ""}
+progress_state = {"current": 0, "task": "", "logs": []}
 progress_lock = threading.Lock()
 
 
@@ -47,13 +47,20 @@ def update_progress(percent: float):
 @app.get("/api/progress")
 async def get_progress():
     with progress_lock:
-        return progress_state
+        response = {
+            "current": progress_state["current"],
+            "task": progress_state["task"],
+            "logs": list(progress_state["logs"])
+        }
+        progress_state["logs"].clear()
+        return response
 
 
 def reset_progress(task_name: str):
     with progress_lock:
         progress_state["task"] = task_name
         progress_state["current"] = 0
+        progress_state["logs"].clear()
 
 
 class GenericRequest(BaseModel):
@@ -98,6 +105,10 @@ def get_logger(work_dir=None):
             )
         except Exception:
             pass
+            
+        with progress_lock:
+            progress_state["logs"].append({"msg": msg, "type": level.upper()})
+            
         try:
             if work_dir:
                 log_dir = os.path.join(work_dir, "logs")
