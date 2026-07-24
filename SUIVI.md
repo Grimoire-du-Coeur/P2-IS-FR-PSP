@@ -88,3 +88,30 @@ gantt
     Lancement Version BÊTA Publique   :milestone, 2026-08-15, 0d
 ```
 
+
+<br/>
+
+---
+
+## Historique des Déploiements (Changelog)
+
+Grâce aux retours de la communauté durant cette phase de Bêta, l'équipe déploie régulièrement des correctifs techniques. Voici le détail chronologique des versions (Releases) publiées sur GitHub :
+
+```mermaid
+timeline
+    title Historique des Patchs (Releases)
+    6 Mai 2026 : v0.1-beta (Pack HD FR)
+               : Première version des textures UI en français.
+               : Compatibilité pour PPSSPP.
+    10 Juil. 2026 : v0.1-beta (Patch FR)
+                  : Première version bêta publique !
+                  : Histoire principale 100% jouable.
+    17 Juil. 2026 : v0.1.1-beta (Mise à jour mineure)
+                  : Auto-wrap (retour à la ligne automatique).
+                  : Révision typographique stricte.
+    21 Juil. 2026 : v0.1.2-beta (Mise à jour critique)
+                  : Correction du glitch mémoire "ΓΓΓ".
+                  : Stabilisation des boîtes de choix.
+                  : Tronquage automatique à 3 lignes max.
+```
+
