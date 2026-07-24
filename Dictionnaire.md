@@ -91,4 +91,4 @@
 | **Black-masked boy** | Garçon masqué | Archétype standard de PNJ. |
 
 <!-- updated -->
-Mr. Bunbun -> M. Lapinou
+|Mr. Bunbun | M. Lapinou|
