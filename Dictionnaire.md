@@ -43,6 +43,7 @@
 | **Joker Game** | Jeu du Joker | |
 | **Last Batallion** | Bataillon | Raccourci assumé en raison des contraintes mémoires du moteur. |
 | **In Lak'ech** | In Lak'ech | Terminologie d'origine inca conservée telle quelle. |
+| **Mr. Bunbun** | M. Lapinou | |
 
 <br/>
 
@@ -90,5 +91,3 @@
 | **Sailor suited girl** | Lycéenne | Archétype standard de PNJ. |
 | **Black-masked boy** | Garçon masqué | Archétype standard de PNJ. |
 
-<!-- updated -->
-|Mr. Bunbun | M. Lapinou|
