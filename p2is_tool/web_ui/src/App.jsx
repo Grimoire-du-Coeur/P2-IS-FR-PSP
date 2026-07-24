@@ -32,13 +32,17 @@ const dict = {
     step_f: "Génération des fichiers annexes",
     desc_f: "Convertit F_BE (Combats), TM_EVE (Scènes), MMAP (PNJs) et CD_SHOP.",
     btn_f: "Extraire F_BE, MMAP, TM_EVE...",
+    step_eboot: "Décodage de l'EBOOT",
+    desc_eboot: "Convertit l'EBOOT décrypté en JSON traduisible.",
+    btn_eboot: "Générer EBOOT_Translation.json",
     step_g: "Vérification de cohérence (Optionnel)",
     desc_g: "Vérifie que les menus de choix sont correctement traduits.",
     btn_g: "Vérifier les menus",
     tab3_title: "Encodage des traductions",
     tab3_desc: "Convertit vos textes modifiés (JSON) vers le format du jeu.",
     tab3_warn: "Les fichiers laissés vides dans le dossier traduction resteront automatiquement en anglais.",
-    btn_h: "Lancer l'Encodage Complet",
+    encode_warn: "Attention : l'encodage de ce fichier n'est pas encore parfait et peut provoquer des crashs.",
+    btn_h: "Lancer l'encodage",
     tab4_title: "Création de l'ISO",
     tab4_desc: "Patche vos nouveaux fichiers dans l'ISO originale pour créer le jeu traduit.",
     btn_i: "Créer P2IS_FR.iso",
@@ -80,13 +84,17 @@ const dict = {
     step_f: "Generate secondary files",
     desc_f: "Converts F_BE (Battles), TM_EVE (Cutscenes), MMAP (NPCs) and CD_SHOP.",
     btn_f: "Extract F_BE, MMAP, TM_EVE...",
+    step_eboot: "EBOOT Decoding",
+    desc_eboot: "Converts the decrypted EBOOT into translatable JSON.",
+    btn_eboot: "Generate EBOOT_Translation.json",
     step_g: "Consistency Check (Optional)",
     desc_g: "Verifies that choice menus are properly translated.",
     btn_g: "Verify menus",
     tab3_title: "Translation Encoding",
     tab3_desc: "Converts your modified texts (JSON) back to the game format.",
     tab3_warn: "Files left empty in the translation folder will automatically remain in English.",
-    btn_h: "Run Full Encoding",
+    encode_warn: "Warning: encoding this file is not perfect yet and might cause crashes.",
+    btn_h: "Run Encoding",
     tab4_title: "ISO Creation",
     tab4_desc: "Patches your new files into the original ISO to create the translated game.",
     btn_i: "Create P2IS_FR.iso",
@@ -115,6 +123,7 @@ export default function App() {
   const [logs, setLogs] = useState([]);
   const [loading, setLoading] = useState(false);
   const [progress, setProgress] = useState(-1); // -1 means hidden
+  const [encodeTargets, setEncodeTargets] = useState(['event', 'eboot', 'cd_shop', 'f_be', 'tm_eve', 'mmap01', 'mmap02', 'mmap03', 'mmap04', 'mmap05', 'mmap06']);
   
   const logEndRef = useRef(null);
 
@@ -425,11 +434,11 @@ export default function App() {
                   <div className="bg-white/5 border border-white/10 rounded-xl p-4">
                     <h3 className="font-semibold text-lg text-blue-100 flex items-center space-x-2 mb-2">
                       <span className="bg-blue-500/20 text-blue-300 px-2 rounded">G</span>
-                      <span>Décodage de l'EBOOT</span>
+                      <span>{t('step_eboot')}</span>
                     </h3>
-                    <p className="text-sm text-blue-200/70 mb-3">Convertit l'EBOOT décrypté en JSON traduisible.</p>
+                    <p className="text-sm text-blue-200/70 mb-3">{t('desc_eboot')}</p>
                     <button onClick={() => callApi('decode-eboot', { work_dir: workDir })} disabled={loading} className="glass-button text-sm flex items-center space-x-2">
-                      <FileText size={16} /> <span>Générer EBOOT_Translation.json</span>
+                      <FileText size={16} /> <span>{t('btn_eboot')}</span>
                     </button>
                   </div>
                   
@@ -464,37 +473,46 @@ export default function App() {
                       </p>
                     </div>
 
-                    <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 mb-4">
+                    <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2 mb-4">
                       {[
-                        { id: 'event', label: 'event.bin' },
-                        { id: 'eboot', label: 'EBOOT' },
-                        { id: 'cd_shop', label: 'CD_SHOP' },
-                        { id: 'f_be', label: 'F_BE' },
-                        { id: 'tm_eve', label: 'TM_EVE' },
-                        { id: 'mmap01', label: 'MMAP01' },
-                        { id: 'mmap02', label: 'MMAP02' },
-                        { id: 'mmap03', label: 'MMAP03' },
-                        { id: 'mmap04', label: 'MMAP04' },
-                        { id: 'mmap05', label: 'MMAP05' },
-                        { id: 'mmap06', label: 'MMAP06' }
-                      ].map(target => (
-                        <button 
-                          key={target.id}
-                          onClick={() => callApi('encode', { work_dir: workDir, targets: [target.id] })}
-                          disabled={loading}
-                          className="glass-button py-2 text-xs flex justify-center items-center hover:bg-blue-500/30 transition-all group"
-                        >
-                          <span className="group-hover:scale-105 transition-transform">{target.label}</span>
-                        </button>
-                      ))}
+                        { id: 'event', label: 'event.bin', stable: true },
+                        { id: 'eboot', label: 'EBOOT', stable: true },
+                        { id: 'cd_shop', label: 'CD_SHOP', stable: false },
+                        { id: 'f_be', label: 'F_BE', stable: false },
+                        { id: 'tm_eve', label: 'TM_EVE', stable: false },
+                        { id: 'mmap01', label: 'MMAP01', stable: false },
+                        { id: 'mmap02', label: 'MMAP02', stable: false },
+                        { id: 'mmap03', label: 'MMAP03', stable: false },
+                        { id: 'mmap04', label: 'MMAP04', stable: false },
+                        { id: 'mmap05', label: 'MMAP05', stable: false },
+                        { id: 'mmap06', label: 'MMAP06', stable: false }
+                      ].map(target => {
+                        const isSelected = encodeTargets.includes(target.id);
+                        return (
+                          <button 
+                            key={target.id}
+                            onClick={() => {
+                              setEncodeTargets(prev => prev.includes(target.id) ? prev.filter(t => t !== target.id) : [...prev, target.id]);
+                            }}
+                            disabled={loading}
+                            title={!target.stable ? t('encode_warn') : ''}
+                            className={`glass-button py-2 px-1 text-xs flex justify-center items-center transition-all group ${isSelected ? 'bg-blue-600/40 border-blue-400/50 text-white' : 'bg-gray-800/40 border-gray-600/30 text-gray-500 hover:bg-gray-700/50'}`}
+                          >
+                            <div className={`flex items-center space-x-1 transition-transform ${isSelected ? 'group-hover:scale-105' : ''}`}>
+                              <span>{target.label}</span>
+                              {!target.stable && <AlertTriangle size={12} className={isSelected ? "text-yellow-400 ml-1" : "text-gray-600 ml-1"} />}
+                            </div>
+                          </button>
+                        );
+                      })}
                     </div>
 
                     <button 
-                      onClick={() => callApi('encode', { work_dir: workDir })}
-                      disabled={loading}
-                      className="glass-button w-full flex items-center justify-center space-x-2 py-3 text-md bg-blue-600/20 hover:bg-blue-500/30 border-blue-400/30 group"
+                      onClick={() => callApi('encode', { work_dir: workDir, targets: encodeTargets })}
+                      disabled={loading || encodeTargets.length === 0}
+                      className="glass-button w-full flex items-center justify-center space-x-2 py-3 text-md bg-blue-600/20 hover:bg-blue-500/30 border-blue-400/30 group disabled:opacity-50 disabled:cursor-not-allowed"
                     >
-                      {loading ? <RefreshCcw className="animate-spin" /> : <RefreshCcw size={18} className="group-hover:animate-spin" />}
+                      {loading ? <RefreshCcw className="animate-spin" /> : <RefreshCcw size={18} className={encodeTargets.length > 0 ? "group-hover:animate-spin" : ""} />}
                       <span>{t('btn_h')}</span>
                     </button>
                   </div>
