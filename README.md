@@ -17,14 +17,6 @@
 <a href="https://github.com/chenetulipe/P2-FR-IS-PSP/stargazers"><img src="https://img.shields.io/github/stars/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=e3b341" alt="Stars" /></a>
 <a href="https://discord.gg/rd4ckSWHNm"><img src="https://img.shields.io/discord/1400909421609095323?color=5865F2&label=Discord&logo=discord&logoColor=white&style=flat-square" alt="Discord" /></a>
 
-<br/>
-
-<a href="https://youtu.be/rGHRMPw-bbo?si=vIguQ4_gXU1r-yoH">
-  <img src="https://img.youtube.com/vi/rGHRMPw-bbo/maxresdefault.jpg" alt="Vidéo de gameplay" width="700" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</a>
-<br/><br/>
-<i>Cliquez sur l'image pour visionner un aperçu du jeu en français.</i>
-
 </div>
 
 <br/>
@@ -35,112 +27,156 @@
 
 <br/>
 
+> [!IMPORTANT]
+> **DERNIÈRE RELEASE DISPONIBLE : BÊTA v0.1.2** (21 Juillet 2026)<br/>
+> Cette mise à jour corrige le bug critique du glitch mémoire, stabilise les boîtes de choix et empêche le jeu de sauter les dialogues automatiquement. L'histoire principale est 100% jouable en français.<br/>
+> [Télécharger le Patch](https://github.com/chenetulipe/P2-FR-IS-PSP/releases) | [Lire le Patch Note complet](https://personalegrimoireducoeur.fr/patch-notes.html)
+
+<br/>
+
+Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable, les outils de romhacking développés sur-mesure pour ce moteur, ainsi que la documentation technique complète du jeu.
+
 ---
 
-## 🌟 Pourquoi jouer à cette version ?
-
-- 📖 **100% Français (Accents Natifs) :** La trame scénaristique, le nom des démons, et l'interface ont été intégralement traduits. Finis les caractères manquants, la police a été reprogrammée pour afficher parfaitement les lettres accentuées françaises.
-- 🎨 **Compatible HD UI :** Profitez de notre support officiel du fabuleux pack de textures HD pour émulateur, avec nos propres éléments UI remasterisés en français !
-- ⚡ **Zéro Installation :** Vous ne voulez pas télécharger de logiciel complexe ? Utilisez notre *Patcher Web* directement dans votre navigateur.
+## Sommaire
+1. [Aperçu du Projet](#aperçu-du-projet)
+2. [État d'Avancement](#état-davancement)
+3. [Guide d'Installation (Patch & HD UI)](#guide-dinstallation-patch--hd-ui)
+4. [L'Outil de Romhacking (p2is_tool)](#loutil-de-romhacking-p2is_tool)
+5. [Le Patcher Web (p2is_patcher)](#le-patcher-web-p2is_patcher)
+6. [Documentation et Liens Utiles](#documentation-et-liens-utiles)
+7. [Licence et Crédits](#licence-et-crédits)
 
 <br/>
 
 ---
 
-## 🎮 Joueurs : Guide d'Installation Rapide
+## Aperçu du Projet
 
-Le projet est actuellement en phase de **BÊTA publique**. L'histoire principale est intégralement jouable en français.
-
-```mermaid
-graph LR
-    A[ISO UMD
-Europe] -->|Obligatoire| B(Patcher Web)
-    C[Fichier Patch
-.xdelta] -->|Téléchargement| B
-    B --> D{ISO Patchée FR}
-    D --> E[PPSSPP]
-    D --> F[Console PSP]
-```
-
-<details>
-<summary><b>► ÉTAPE PAR ÉTAPE : Comment appliquer le patch ?</b></summary>
-<br>
-
-1. **Obtenez le patch** : Téléchargez le dernier patch BÊTA au format `.xdelta` depuis la section **[Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases)**.
-2. **Préparez votre jeu** : Munissez-vous de l'ISO européenne officielle (`ULES01557`) issue de votre UMD.
-3. **Appliquez la traduction** : Allez sur notre **[Patcher Web P2IS FR](./p2is_patcher)** (simple, rapide, aucune installation requise).
-4. **Jouez !** : Lancez l'ISO fraîchement générée sur l'émulateur **PPSSPP** (PC, Android, Mac) ou sur votre console PSP équipée d'un Custom Firmware.
-
-</details>
-
-<details>
-<summary><b>► OPTIONNEL : Installer le Pack de Textures HD</b></summary>
-<br>
-
-1. Téléchargez le pack HD original sur GameBanana : [HD UI for Persona 2](https://gamebanana.com/mods/308752).
-2. Installez-le dans le dossier de textures de votre émulateur PPSSPP.
-3. Appliquez notre **patch de textures FR** (fourni dans nos Releases) par-dessus les fichiers du pack HD original pour remplacer les menus anglais par notre version française remasterisée !
-*Un immense merci à [@racawr](https://gamebanana.com/members/1865032) pour ce travail titanesque.*
-
-</details>
+<div align="center">
+  <a href="https://youtu.be/rGHRMPw-bbo?si=vIguQ4_gXU1r-yoH">
+    <img src="https://img.youtube.com/vi/rGHRMPw-bbo/maxresdefault.jpg" alt="Vidéo de gameplay" width="650" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+  <br/><br/>
+  <i>Cliquez sur l'image pour visionner un aperçu du jeu en français.</i>
+</div>
 
 <br/>
 
 ---
 
-## 🛠️ Romhackers : Outils et Documentation
+## État d'Avancement
 
-Ce dépôt n'héberge pas qu'un simple patch. Il centralise l'intégralité du code source de nos outils développés sur-mesure pour outrepasser les limitations du moteur d'Atlus. 
+Voici l'état actuel de la traduction globale. Pour des statistiques exhaustives (graphiques et progression fichier par fichier), veuillez consulter le document **[SUIVI.md](./SUIVI.md)**.
 
-* ⚙️ **`p2is_tool/` (Backend de Romhacking)** : Une application locale (FastAPI/React/Python) ultra-performante. Elle décompose l'ISO, injecte des espaces mémoires de padding, intercepte les opcodes de Ghostlight, recalcule dynamiquement les pointeurs de la TOC du `CPK`, et ré-assemble l'ISO sans saturer la RAM.
-* 🌐 **`p2is_patcher/` (Moteur WASM)** : Un Patcher Web (HTML/JS) autonome embarquant `DeltaPatcher` compilé en WebAssembly. Il utilise l'API Streams et un *Service Worker* pour patcher des fichiers de plus d'1 Go sans crasher le navigateur.
+<div align="center">
 
-### Documentation Technique Complète
-Pour assurer la transmission du savoir-faire à la communauté, nous avons documenté chaque aspect du projet :
-* 📘 **[DEVELOPER.md](./DEVELOPER.md)** : La Bible technique (reverse-engineering, formats `.BNP` / `.GIM`, et opcodes).
-* 📗 **[CONTRIBUTING.md](./CONTRIBUTING.md)** : Le guide à destination des traducteurs (limites de mémoire, relecture).
-* 📙 **[Dictionnaire.md](./Dictionnaire.md)** : Le glossaire officiel pour garantir la cohérence absolue de l'univers.
-* 📊 **[SUIVI.md](./SUIVI.md)** : Le tableau de bord et la progression détaillée du projet.
-* 🏆 **[CREDITS.md](./CREDITS.md)** : L'équipe de traduction et nos dépendances Open-Source (CriFsLib, pycdlib, pspdecrypt).
+| Contenu du Jeu | Progression | Statut |
+|:---|:---:|:---:|
+| **Scripts (Dialogues Histoire)** | 100% | <img src="https://img.shields.io/badge/-Terminé-2ea043?style=flat-square" alt="Terminé" /> |
+| **Police d'écriture (Accents FR)** | 100% | <img src="https://img.shields.io/badge/-Terminé-2ea043?style=flat-square" alt="Terminé" /> |
+| **Scripts (Boutiques, Carte)** | 8/9 | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Textures HD** | 35/42 | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Autres éléments (Menus, Combats)** | ~ | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
 
-<br/>
-
----
-
-## ❓ Foire Aux Questions (FAQ)
-
-<details>
-<summary><b>Y aura-t-il un tutoriel vidéo pour installer le patch ?</b></summary>
-Oui. Une vidéo explicative détaillée sortira sur la chaîne YouTube de <a href="https://www.youtube.com/@chenetulipe">chenetulipe</a> prochainement. En attendant, n'hésitez pas à demander de l'aide sur notre serveur Discord.
-</details>
-
-<details>
-<summary><b>Comment puis-je aider à la relecture du jeu ?</b></summary>
-La phase de relecture est ouverte ! Un outil dédié a été développé par <a href="https://github.com/HamzaKarrouchi">Hamza</a> : <a href="https://hamzakarrouchi.github.io/p2is-relecture/">Site de relecture en ligne</a>. <br/>
-Vous pouvez y comparer le texte original avec la traduction et utiliser le Dictionnaire pour assurer la cohérence. Postez ensuite vos corrections dans le salon Discord <code>#scripts</code>.
-</details>
-
-<details>
-<summary><b>Le jeu plante sur ma PSP physique, pourquoi ?</b></summary>
-Le jeu modifie très lourdement les instructions de la RAM et de la VRAM, tout en imposant une compression CRILAYLA stricte. Si vous rencontrez un crash sur vrai hardware, signalez-le nous en ouvrant une Issue GitHub ou via Discord. Actuellement, l'émulateur PPSSPP est la plateforme la plus stable pour profiter du jeu.
-</details>
+</div>
 
 <br/>
 
 ---
 
-## ⚖️ Avertissement Légal & Licence
+## Guide d'Installation (Patch & HD UI)
+
+Le projet est actuellement en phase de **BÊTA publique**. Cette version vous permet de parcourir l'intégralité du scénario principal en français.
+
+### Étape 1 : Patcher l'ISO originale
+1. Téléchargez le dernier fichier patch au format `.xdelta` depuis notre page **[Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases)**.
+2. Munissez-vous de votre ISO originale issue de la version européenne du jeu (`ULES01557`).
+3. Rendez-vous sur notre **[Patcher Web](https://personalegrimoireducoeur.fr/patcher/)** (aucune installation requise).
+4. Glissez votre ISO et le fichier `.xdelta` dans le Patcher Web pour générer votre ISO modifiée en français.
+
+### Étape 2 : Installer le Pack de Textures HD (PPSSPP Uniquement)
+Ce projet supporte officiellement le mod *HD UI for Persona 2*. Son installation est requise pour afficher les menus et inventaires traduits avec une typographie haute définition.
+1. Téléchargez et installez le pack HD de base sur GameBanana : [HD UI for Persona 2](https://gamebanana.com/mods/308752).
+2. Placez-le dans le dossier `TEXTURES/ULES01557/` de votre émulateur PPSSPP.
+3. Téléchargez notre correctif **Patch de Textures FR** (disponible dans la section Releases).
+4. Collez les dossiers extraits par-dessus le pack HD original pour écraser les textures anglaises par notre version française.
+5. Assurez-vous que l'option *Remplacer les textures* est cochée dans les paramètres de PPSSPP.
+
+<br/>
+
+---
+
+## L'Outil de Romhacking (p2is_tool)
+
+Le dossier `p2is_tool/` contient le code source de l'application de romhacking créée spécifiquement pour traduire Persona 2. 
+
+Construit sur une architecture moderne, l'outil s'installe et se lance automatiquement via le fichier `start.bat`.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langage-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+</div>
+
+<br/>
+
+---
+
+## Le Patcher Web (p2is_patcher)
+
+Le dossier `p2is_patcher/` contient le code source de l'application web permettant aux joueurs d'appliquer le patch FR directement dans leur navigateur, sans aucun logiciel lourd à installer.
+
+Construit sur une architecture autonome, l'outil s'exécute localement et se lance via le fichier `lancer_patcher.bat`.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Moteur-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langage-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</div>
+
+<br/>
+
+---
+
+## Documentation et Liens Utiles
+
+Afin d'assurer la transparence et la pérennité du projet, toute la documentation technique et organisationnelle a été structurée :
+
+* **[DEVELOPER.md](./DEVELOPER.md)** : Architecture technique, reverse-engineering du jeu et fonctionnement du compilateur.
+* **[CONTRIBUTING.md](./CONTRIBUTING.md)** : Guide pour rejoindre l'équipe de traduction et utiliser l'interface de relecture.
+* **[Dictionnaire.md](./Dictionnaire.md)** : Le glossaire officiel pour garantir la cohérence absolue des termes du jeu.
+* **[SUIVI.md](./SUIVI.md)** : Tableau de bord, progression détaillée et historique des patchs.
+* **[CREDITS.md](./CREDITS.md)** : Équipe principale, classement des contributeurs et remerciements.
+
+### Support & Foire Aux Questions
+
+Si vous rencontrez le moindre problème lors de l'installation, des crashs en jeu ou si vous cherchez des réponses aux questions fréquentes, merci de consulter notre plateforme officielle :
+
+> **[Consulter la F.A.Q Officielle (personalegrimoireducoeur.fr)](https://personalegrimoireducoeur.fr/faq.html)**
+
+Vous pouvez également rejoindre la communauté et demander de l'aide sur notre **[Serveur Discord](https://discord.gg/rd4ckSWHNm)**. Pour les bugs purement techniques, merci d'ouvrir une [Issue GitHub](https://github.com/chenetulipe/P2-FR-IS-PSP/issues).
+
+<br/>
+
+---
+
+## Licence et Crédits
+
+**Atlus / SEGA** : Développeurs originaux et ayants droit exclusifs du jeu.
+
+**L'Équipe de Traduction Principale :** 
+* [@chenetulipe](https://github.com/chenetulipe) (Fondateur & Romhacking)
+* [@Garloulou](https://github.com/Garloulou) (Co-traduction)
+* [@HamzaKarrouchi](https://github.com/HamzaKarrouchi) (Développement Web & Relecture)
 
 > [!CAUTION]
-> **Clause de Non-Responsabilité**
+> **Clause de Non-Responsabilité & Licence**
 > 
-> L'équipe de **P2‑FR‑IS‑PSP** décline formellement toute responsabilité en cas de dommages matériels ou logiciels, corruption de sauvegardes ou de l'ISO, et de dysfonctionnements rencontrés en jeu. 
-> L'utilisation du patch et des outils se fait **à vos propres risques**. Nous recommandons vivement d'effectuer une copie de sécurité (Backup) de votre ISO originale et de vos Memory Sticks avant toute manipulation.
-
-*Persona 2: Innocent Sin* est une marque déposée de © Atlus / SEGA. Ce projet est une traduction amateur à but non lucratif, réalisée par des passionnés. 
-
-**Licence du Patch :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br/>
-Libre d'utilisation et de modification pour un usage personnel. **La vente ou la monétisation de ce patch, sous quelque forme que ce soit, est strictement interdite.**
+> *Persona 2: Innocent Sin* est une marque déposée de © Atlus / SEGA. Ce projet est une traduction amateur à but non lucratif, réalisée par des passionnés. L'utilisation du patch se fait à vos propres risques. L'équipe décline toute responsabilité en cas de corruption de sauvegarde ou de dommages logiciels.
+> 
+> **Licence du Patch :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br/>
+> Libre d'utilisation et de modification pour un usage personnel. **La vente ou la monétisation de ce patch, sous quelque forme que ce soit, est strictement interdite.**
 
 <br/>
 
