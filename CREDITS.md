@@ -2,25 +2,26 @@
   
 # Crédits & Remerciements
   
-**Persona 2: Innocent Sin FR (PSP)**
+**Persona 2: Innocent Sin FR (PSP) - ULES01557**
 
-  <br />
-  <img src="https://img.shields.io/badge/Statut-En_D%C3%A9veloppement-e3b341?style=for-the-badge" alt="Statut" />
-  <img src="https://img.shields.io/badge/Plateforme-PSP-103F91?style=for-the-badge&logo=playstation" alt="Plateforme" />
-  <img src="https://img.shields.io/badge/Langue-Fran%C3%A7ais-2ea043?style=for-the-badge" alt="Langue" />
-  <br />
-  <br />
+<br/>
+
+<img src="https://img.shields.io/badge/Statut-En_Développement-e3b341?style=for-the-badge" alt="Statut" />
+<img src="https://img.shields.io/badge/Plateforme-PSP-103F91?style=for-the-badge&logo=playstation" alt="Plateforme" />
+<img src="https://img.shields.io/badge/Langue-Français-2ea043?style=for-the-badge" alt="Langue" />
 
 </div>
 
+<br/>
+
 > [!NOTE]
-> Ce projet de traduction n'aurait jamais pu voir le jour sans le travail acharné, la passion et le dévouement de tous nos contributeurs. Cette page vous est dédiée !
+> Ce projet de traduction n'aurait jamais pu voir le jour sans le travail acharné, la passion et le dévouement de tous nos contributeurs, traducteurs et développeurs. Cette page vous est dédiée !
 
 ---
 
 ## L'Équipe Principale
 
-Voici les piliers du projet et leur rôle respectif au sein de l'équipe de traduction :
+Voici les piliers du projet et leur rôle respectif au sein de l'équipe :
 
 | Contributeur | Rôle principal |
 |:---|:---|
@@ -30,17 +31,23 @@ Voici les piliers du projet et leur rôle respectif au sein de l'équipe de trad
 
 ---
 
-## Remerciements Spéciaux
+## Remerciements Techniques & Outils Open-Source
 
-Le projet inclut des éléments visuels HD qui n'auraient pas été possibles sans le travail préalable de la communauté internationale :
+Le projet repose sur de puissants outils développés par la communauté internationale. Un immense merci à ces développeurs de génie qui rendent le romhacking accessible :
 
-* **@racawr** : Auteure du mod d'origine *"HD UI for Persona 2 - Innocent Sin"*. Ses formidables textures remasterisées ont servi de base à notre équipe pour la version française. Un immense merci pour l'autorisation d'utilisation !
+| Auteur / Outil | Contribution au projet |
+|:---|:---|
+| **[@racawr](https://twitter.com/racawr)** | **HD UI Mod** : Ses formidables textures remasterisées ont servi de base pour rafraîchir l'interface de notre version française. Merci pour l'autorisation ! |
+| **[@Sewer56](https://github.com/Sewer56)** | **CriFsLib** : Bibliothèque .NET vitale nous ayant permis de dépaqueter sans accroc la gigantesque archive `P2PT_ALL.cpk`. |
+| **[@clalancette](https://github.com/clalancette)** | **pycdlib** : Module Python robuste qui permet à notre outil de naviguer dans l'ISO 9660 et de remplacer les données à la volée. |
+| **[@John-K](https://github.com/John-K)** | **pspdecrypt** : Outil indispensable nous ayant permis de briser le chiffrement KIRK de l'`EBOOT.BIN` imposé par Sony. |
+| **[@marco-calautti](https://github.com/marco-calautti)** | **DeltaPatcher** : Le moteur C++ de notre Patcher Web, génialissime pour patcher des différences binaires avec précision. |
 
 ---
 
 ## Classement des Contributeurs (Auto)
 
-Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et ces graphiques (commits, ajouts et suppressions de lignes) sont récupérés directement depuis les serveurs de GitHub et mis à jour tout seuls de manière autonome !
+Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et ces graphiques (commits, ajouts et suppressions de lignes) sont récupérés directement depuis les serveurs de GitHub et mis à jour tout seuls de manière autonome ! Ne modifiez jamais manuellement cette section.
 
 <!-- STATS_START -->
 
@@ -146,7 +153,7 @@ pie title Top 10 - Lignes Supprimées
 
 ---
 
-## Bêta-Testeurs & Traqueurs de Bugs (BÊTA de Juillet 2026)
+## Bêta-Testeurs & Traqueurs de Bugs (BÊTA d'Août 2026)
 
 *Cette section se remplira au fur et à mesure grâce aux retours des joueurs sur la BÊTA !*
 
@@ -158,4 +165,3 @@ Un immense merci à tous les joueurs de l'ombre qui parcourent le jeu de fond en
 | | |
 | | |
 
-<!-- updated -->
