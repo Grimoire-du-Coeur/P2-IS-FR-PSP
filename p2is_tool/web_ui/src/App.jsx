@@ -32,13 +32,17 @@ const dict = {
     step_f: "Génération des fichiers annexes",
     desc_f: "Convertit F_BE (Combats), TM_EVE (Scènes), MMAP (PNJs) et CD_SHOP.",
     btn_f: "Extraire F_BE, MMAP, TM_EVE...",
+    step_eboot: "Décodage de l'EBOOT",
+    desc_eboot: "Convertit l'EBOOT décrypté en JSON traduisible.",
+    btn_eboot: "Générer EBOOT_Translation.json",
     step_g: "Vérification de cohérence (Optionnel)",
     desc_g: "Vérifie que les menus de choix sont correctement traduits.",
     btn_g: "Vérifier les menus",
     tab3_title: "Encodage des traductions",
     tab3_desc: "Convertit vos textes modifiés (JSON) vers le format du jeu.",
     tab3_warn: "Les fichiers laissés vides dans le dossier traduction resteront automatiquement en anglais.",
-    btn_h: "Lancer l'Encodage Complet",
+    encode_warn: "Attention : l'encodage de ce fichier n'est pas encore parfait et peut provoquer des crashs.",
+    btn_h: "Lancer l'encodage",
     tab4_title: "Création de l'ISO",
     tab4_desc: "Patche vos nouveaux fichiers dans l'ISO originale pour créer le jeu traduit.",
     btn_i: "Créer P2IS_FR.iso",
@@ -80,13 +84,17 @@ const dict = {
     step_f: "Generate secondary files",
     desc_f: "Converts F_BE (Battles), TM_EVE (Cutscenes), MMAP (NPCs) and CD_SHOP.",
     btn_f: "Extract F_BE, MMAP, TM_EVE...",
+    step_eboot: "EBOOT Decoding",
+    desc_eboot: "Converts the decrypted EBOOT into translatable JSON.",
+    btn_eboot: "Generate EBOOT_Translation.json",
     step_g: "Consistency Check (Optional)",
     desc_g: "Verifies that choice menus are properly translated.",
     btn_g: "Verify menus",
     tab3_title: "Translation Encoding",
     tab3_desc: "Converts your modified texts (JSON) back to the game format.",
     tab3_warn: "Files left empty in the translation folder will automatically remain in English.",
-    btn_h: "Run Full Encoding",
+    encode_warn: "Warning: encoding this file is not perfect yet and might cause crashes.",
+    btn_h: "Run Encoding",
     tab4_title: "ISO Creation",
     tab4_desc: "Patches your new files into the original ISO to create the translated game.",
     btn_i: "Create P2IS_FR.iso",
@@ -109,11 +117,13 @@ export default function App() {
   const [workDir, setWorkDir] = useState('');
   const [isoPath, setIsoPath] = useState(''); // Empty by default
   const [crifsPath, setCrifsPath] = useState('');
+  const [pspdecryptPath, setPspdecryptPath] = useState('');
   
   const [status, setStatus] = useState('');
   const [logs, setLogs] = useState([]);
   const [loading, setLoading] = useState(false);
   const [progress, setProgress] = useState(-1); // -1 means hidden
+  const [encodeTargets, setEncodeTargets] = useState(['event', 'eboot', 'cd_shop', 'f_be', 'tm_eve', 'mmap01', 'mmap02', 'mmap03', 'mmap04', 'mmap05', 'mmap06']);
   
   const logEndRef = useRef(null);
 
@@ -142,6 +152,13 @@ export default function App() {
           if (data.current >= 0) {
             setProgress(data.current);
           }
+          if (data.logs && data.logs.length > 0) {
+            setLogs(prev => {
+              const filtered = data.logs.filter(l => !l.msg.includes("is too long!"));
+              const newLogs = filtered.map(l => ({ time: new Date().toLocaleTimeString(), msg: l.msg, type: l.type }));
+              return [...prev, ...newLogs];
+            });
+          }
         } catch(e) {}
       }, 500);
     } else {
@@ -166,7 +183,10 @@ export default function App() {
       if (data.path) {
         if (type === 'dir') setWorkDir(data.path);
         else if (ext === '.iso') setIsoPath(data.path);
-        else if (ext === '.exe') setCrifsPath(data.path);
+        else if (ext === '.exe') {
+          if (data.path.toLowerCase().includes('decrypt')) setPspdecryptPath(data.path);
+          else setCrifsPath(data.path);
+        }
       }
     } catch (e) {
       addLog(`Browse error: ${e.message}`, "ERROR");
@@ -280,7 +300,19 @@ export default function App() {
             <AnimatePresence>
               {activeTab === '1' && (
                 <motion.div initial={{ height: 0, opacity: 0 }} animate={{ height: 'auto', opacity: 1 }} exit={{ height: 0, opacity: 0 }} className="flex flex-col pt-2 border-t border-white/5">
-                  <div className="flex justify-between items-center mb-1">
+                  <div className="flex justify-between items-center mb-1 mt-3">
+                    <label className="text-xs text-blue-200/70 font-semibold uppercase tracking-wider">Chemin vers pspdecrypt.exe (Optionnel)</label>
+                    <a href="https://github.com/John-K/pspdecrypt/releases" target="_blank" rel="noopener noreferrer" className="text-xs text-blue-400 hover:text-blue-300 flex items-center space-x-1">
+                      <Download size={12} />
+                      <span>Télécharger pspdecrypt</span>
+                    </a>
+                  </div>
+                  <div className="flex items-center space-x-2">
+                    <input type="text" value={pspdecryptPath} onChange={e => setPspdecryptPath(e.target.value)} className="glass-input flex-1" placeholder="C:/.../pspdecrypt.exe" />
+                    <button onClick={() => browse('file', '.exe')} className="p-2 bg-blue-500/20 hover:bg-blue-500/40 border border-blue-500/30 rounded-lg text-blue-200 transition-colors cursor-pointer" title={t('browse')}><File size={20} /></button>
+                  </div>
+                  
+                  <div className="flex justify-between items-center mb-1 mt-3">
                     <label className="text-xs text-blue-200/70 font-semibold uppercase tracking-wider">{t('crifs_path')}</label>
                     <a href="https://github.com/Sewer56/CriFsV2Lib/releases" target="_blank" rel="noopener noreferrer" className="text-xs text-blue-400 hover:text-blue-300 flex items-center space-x-1">
                       <Download size={12} />
@@ -330,7 +362,7 @@ export default function App() {
                       <span>{t('step_a')}</span>
                     </h3>
                     <p className="text-sm text-blue-200/70 mb-3">{t('desc_a')}</p>
-                    <button onClick={() => callApi('extract-cpk', { iso_path: isoPath, work_dir: workDir })} disabled={loading} className="glass-button text-sm flex items-center space-x-2">
+                    <button onClick={() => callApi('extract-cpk', { iso_path: isoPath, work_dir: workDir, pspdecrypt_path: pspdecryptPath })} disabled={loading} className="glass-button text-sm flex items-center space-x-2">
                       <Download size={16} /> <span>{t('btn_a')}</span>
                     </button>
                   </div>
@@ -342,7 +374,7 @@ export default function App() {
                       <span>{t('step_b')}</span>
                     </h3>
                     <p className="text-sm text-blue-200/70 mb-3 whitespace-pre-line">{t('desc_b')}</p>
-                    <div className="flex space-x-2">
+                    <div className="flex flex-col sm:flex-row gap-3">
                       <button onClick={() => callApi('open-crifslib', { crifs_path: crifsPath })} disabled={loading} className="glass-button text-sm flex items-center space-x-2 flex-1 justify-center">
                         <Wrench size={16} /> <span>{t('btn_b')}</span>
                       </button>
@@ -381,7 +413,6 @@ export default function App() {
 
               {activeTab === '2' && (
                 <motion.div key="2" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="space-y-6 relative z-10">
-                  
                   {/* Etape E */}
                   <div className="bg-white/5 border border-white/10 rounded-xl p-4">
                     <h3 className="font-semibold text-lg text-blue-100 flex items-center space-x-2 mb-2">
@@ -393,7 +424,7 @@ export default function App() {
                       <Database size={16} /> <span>{t('btn_e')}</span>
                     </button>
                   </div>
-
+                  
                   {/* Etape F */}
                   <div className="bg-white/5 border border-white/10 rounded-xl p-4">
                     <h3 className="font-semibold text-lg text-blue-100 flex items-center space-x-2 mb-2">
@@ -405,64 +436,116 @@ export default function App() {
                       <Search size={16} /> <span>{t('btn_f')}</span>
                     </button>
                   </div>
-
+                  
                   {/* Etape G */}
                   <div className="bg-white/5 border border-white/10 rounded-xl p-4">
                     <h3 className="font-semibold text-lg text-blue-100 flex items-center space-x-2 mb-2">
-                      <span className="bg-blue-500/20 text-blue-300 px-2 rounded">G</span> 
+                      <span className="bg-blue-500/20 text-blue-300 px-2 rounded">G</span>
+                      <span>{t('step_eboot')}</span>
+                    </h3>
+                    <p className="text-sm text-blue-200/70 mb-3">{t('desc_eboot')}</p>
+                    <button onClick={() => callApi('decode-eboot', { work_dir: workDir })} disabled={loading} className="glass-button text-sm flex items-center space-x-2">
+                      <FileText size={16} /> <span>{t('btn_eboot')}</span>
+                    </button>
+                  </div>
+                  
+                  {/* Etape H */}
+                  <div className="bg-white/5 border border-white/10 rounded-xl p-4">
+                    <h3 className="font-semibold text-lg text-blue-100 flex items-center space-x-2 mb-2">
+                      <span className="bg-blue-500/20 text-blue-300 px-2 rounded">H</span> 
                       <span>{t('step_g')}</span>
                     </h3>
                     <p className="text-sm text-blue-200/70 mb-3">{t('desc_g')}</p>
-                    <button onClick={() => callApi('validate', { work_dir: workDir })} disabled={loading} className="glass-button text-sm flex items-center space-x-2 bg-purple-600/50 border-purple-500/30 hover:bg-purple-500/60">
+                    <button onClick={() => callApi('validate', { work_dir: workDir })} disabled={loading} className="glass-button text-sm flex items-center space-x-2">
                       <CheckCircle size={16} /> <span>{t('btn_g')}</span>
                     </button>
                   </div>
-
                 </motion.div>
               )}
 
+              {/* Tab 3: Encodage */}
               {activeTab === '3' && (
                 <motion.div key="3" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="relative z-10">
-                  <h2 className="text-2xl font-light mb-4 text-blue-50 flex items-center space-x-3">
-                    <span className="bg-blue-500/20 text-blue-300 px-3 py-1 rounded text-xl">H</span>
-                    <span>{t('tab3_title')}</span>
-                  </h2>
-                  <p className="text-blue-200/70 mb-6">{t('tab3_desc')}</p>
-                  
-                  <div className="bg-blue-900/20 border border-blue-500/20 rounded-lg p-4 mb-6">
-                    <p className="text-sm flex items-start space-x-2">
-                      <AlertTriangle size={16} className="text-blue-400 mt-0.5 flex-shrink-0" />
-                      <span>{t('tab3_warn')}</span>
-                    </p>
-                  </div>
+                  <div className="bg-white/5 border border-white/10 rounded-xl p-4">
+                    <h3 className="font-semibold text-lg text-blue-100 flex items-center space-x-2 mb-2">
+                      <span className="bg-blue-500/20 text-blue-300 px-2 rounded">I</span>
+                      <span>{t('tab3_title')}</span>
+                    </h3>
+                    <p className="text-sm text-blue-200/70 mb-4">{t('tab3_desc')}</p>
+                    
+                    <div className="bg-blue-900/20 border border-blue-500/20 rounded-lg p-3 mb-4">
+                      <p className="text-xs flex items-start space-x-2">
+                        <AlertTriangle size={14} className="text-blue-400 mt-0.5 flex-shrink-0" />
+                        <span>{t('tab3_warn')}</span>
+                      </p>
+                    </div>
 
-                  <button 
-                    onClick={() => callApi('encode', { work_dir: workDir })}
-                    disabled={loading}
-                    className="glass-button w-full flex items-center justify-center space-x-2 py-4 text-lg"
-                  >
-                    {loading ? <RefreshCcw className="animate-spin" /> : <RefreshCcw />}
-                    <span>{t('btn_h')}</span>
-                  </button>
+                    <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2 mb-4">
+                      {[
+                        { id: 'event', label: 'event.bin', stable: true },
+                        { id: 'eboot', label: 'EBOOT', stable: true },
+                        { id: 'cd_shop', label: 'CD_SHOP', stable: false },
+                        { id: 'f_be', label: 'F_BE', stable: false },
+                        { id: 'tm_eve', label: 'TM_EVE', stable: false },
+                        { id: 'mmap01', label: 'MMAP01', stable: false },
+                        { id: 'mmap02', label: 'MMAP02', stable: false },
+                        { id: 'mmap03', label: 'MMAP03', stable: false },
+                        { id: 'mmap04', label: 'MMAP04', stable: false },
+                        { id: 'mmap05', label: 'MMAP05', stable: false },
+                        { id: 'mmap06', label: 'MMAP06', stable: false }
+                      ].map(target => {
+                        const isSelected = encodeTargets.includes(target.id);
+                        return (
+                          <button 
+                            key={target.id}
+                            onClick={() => {
+                              setEncodeTargets(prev => prev.includes(target.id) ? prev.filter(t => t !== target.id) : [...prev, target.id]);
+                            }}
+                            disabled={loading}
+                            title={!target.stable ? t('encode_warn') : ''}
+                            className={`glass-button py-2 px-1 text-xs flex justify-center items-center transition-all group duration-300 ${isSelected ? 'bg-blue-600/60 border-blue-400 text-white shadow-[0_0_12px_rgba(59,130,246,0.6)]' : 'bg-black/60 border-transparent text-gray-600 opacity-40 scale-95 hover:opacity-70'}`}
+                          >
+                            <div className={`flex items-center space-x-1 transition-transform ${isSelected ? 'group-hover:scale-105' : ''}`}>
+                              {isSelected && <CheckCircle size={12} className="text-blue-300 mr-1" />}
+                              <span>{target.label}</span>
+                              {!target.stable && <AlertTriangle size={12} className={isSelected ? "text-yellow-400 ml-1" : "text-gray-700 ml-1"} />}
+                            </div>
+                          </button>
+                        );
+                      })}
+                    </div>
+
+                    <button 
+                      onClick={() => callApi('encode', { work_dir: workDir, targets: encodeTargets })}
+                      disabled={loading || encodeTargets.length === 0}
+                      className="glass-button w-full flex items-center justify-center space-x-2 py-3 text-md bg-blue-600/20 hover:bg-blue-500/30 border-blue-400/30 group disabled:opacity-50 disabled:cursor-not-allowed"
+                    >
+                      {loading ? <RefreshCcw className="animate-spin" /> : <RefreshCcw size={18} className={encodeTargets.length > 0 ? "group-hover:animate-spin" : ""} />}
+                      <span>{t('btn_h')}</span>
+                    </button>
+                  </div>
                 </motion.div>
               )}
 
+              {/* Tab 4: Rebuild ISO */}
               {activeTab === '4' && (
                 <motion.div key="4" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="relative z-10">
-                  <h2 className="text-2xl font-light mb-4 text-blue-50 flex items-center space-x-3">
-                    <span className="bg-blue-500/20 text-blue-300 px-3 py-1 rounded text-xl">I</span>
-                    <span>{t('tab4_title')}</span>
-                  </h2>
-                  <p className="text-blue-200/70 mb-6">{t('tab4_desc')}</p>
-                  
-                  <button 
-                    onClick={() => callApi('rebuild', { iso_path: isoPath, work_dir: workDir })}
-                    disabled={loading}
-                    className="glass-button w-full flex items-center justify-center space-x-2 py-4 text-lg bg-green-600/50 hover:bg-green-500/60 border-green-400/30"
-                  >
-                    {loading ? <RefreshCcw className="animate-spin" /> : <CheckCircle />}
-                    <span>{t('btn_i')}</span>
-                  </button>
+                  <div className="bg-white/5 border border-white/10 rounded-xl p-4">
+                    <h3 className="font-semibold text-lg text-blue-100 flex items-center space-x-2 mb-2">
+                      <span className="bg-blue-500/20 text-blue-300 px-2 rounded">J</span>
+                      <span>{t('tab4_title')}</span>
+                    </h3>
+                    <p className="text-sm text-blue-200/70 mb-4">{t('tab4_desc')}</p>
+                    
+                    <button 
+                      onClick={() => callApi('rebuild', { iso_path: isoPath, work_dir: workDir })}
+                      disabled={loading}
+                      className="glass-button w-full flex items-center justify-center space-x-2 py-3 text-md bg-green-600/50 hover:bg-green-500/60 border-green-400/30"
+                    >
+                      {loading ? <RefreshCcw className="animate-spin" /> : <CheckCircle size={18} />}
+                      <span>{t('btn_i')}</span>
+                    </button>
+                  </div>
                 </motion.div>
               )}
             </AnimatePresence>
@@ -473,7 +556,7 @@ export default function App() {
         <motion.div 
           initial={{ opacity: 0, x: 20 }}
           animate={{ opacity: 1, x: 0 }}
-          className="glass-panel p-0 flex flex-col min-h-[600px] overflow-hidden bg-gray-900/80"
+          className="glass-panel p-0 flex flex-col h-[600px] overflow-hidden bg-gray-900/80"
         >
           <div className="flex justify-between items-center p-4 bg-black/40 border-b border-white/5">
             <h3 className="font-semibold tracking-wider text-sm uppercase text-blue-200">{t('log_title')}</h3>

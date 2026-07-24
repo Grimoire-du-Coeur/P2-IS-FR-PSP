@@ -2,105 +2,115 @@
   
 # Guide de Contribution & Relecture
   
-**Persona 2: Innocent Sin FR (PSP)**
+**Persona 2: Innocent Sin FR (PSP) - ULES01557**
 
 <br/>
 
 <img src="https://img.shields.io/badge/Statut-Ouvert_aux_contributions-2ea043?style=for-the-badge" alt="Statut" />
 <a href="https://discord.gg/rd4ckSWHNm"><img src="https://img.shields.io/discord/1400909421609095323?color=5865F2&label=Discord&logo=discord&logoColor=white&style=flat-square" alt="Discord" /></a>
+<img src="https://img.shields.io/badge/Outil_Relecture-En_Ligne-009688?style=for-the-badge" alt="Outil de Relecture" />
 
 </div>
 
 <br/>
 
 > [!NOTE]
-> Merci de votre intérêt pour le projet ! Ce guide rassemble toutes les instructions nécessaires pour participer à la traduction et à la relecture du jeu de manière optimale.
+> Merci de votre intérêt pour le projet de traduction française de *Persona 2: Innocent Sin* ! Ce guide rassemble toutes les instructions et règles techniques nécessaires pour participer à la traduction et à la relecture du jeu en toute sécurité, sans risquer de corrompre les fichiers de l'ISO.
 
 <br/>
 
 ---
 
 ## Sommaire
-1. [Le Site de Relecture (Recommandé)](#le-site-de-relecture-recommandé)
-2. [Soumettre ses propositions](#soumettre-ses-propositions)
-3. [Règles de Traduction et Accents](#règles-de-traduction-et-accents)
-4. [Balises et Codes Techniques](#balises-et-codes-techniques)
+1. [L'Outil de Relecture en Ligne (Obligatoire)](#loutil-de-relecture-en-ligne-obligatoire)
+2. [Soumettre vos traductions](#soumettre-vos-traductions)
+3. [La Limite Critique de Longueur (Octets)](#la-limite-critique-de-longueur-octets)
+4. [Règles de Traduction et d'Écriture](#règles-de-traduction-et-décriture)
+5. [Le Dictionnaire des Balises In-Game](#le-dictionnaire-des-balises-in-game)
 
 <br/>
 
 ---
 
-## Le Site de Relecture (Recommandé)
+## L'Outil de Relecture en Ligne (Obligatoire)
 
-Pour faciliter le travail de l'équipe, un outil web dédié a été développé par **@HamzaKarrouchi**. Il permet de traduire, comparer et vérifier les textes sans avoir à manipuler manuellement les fichiers JSON complexes du jeu.
+Pour simplifier le travail de l'équipe et éviter que les contributeurs ne manipulent directement du code JSON complexe, une application web dédiée a été développée par **@HamzaKarrouchi**. C'est le centre de contrôle de la traduction.
 
 > [!IMPORTANT]
-> ✦ **Lien de l'outil :** [Site de Relecture P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/)<br/>
-> ✦ **Dictionnaire de Traduction :** [Dictionnaire P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/dictionnaire.html)
+> ✦ **Accéder à l'Outil :** [Site de Relecture P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/)<br/>
+> ✦ **Le Glossaire Officiel :** [Dictionnaire P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/dictionnaire.html)
 
-**Avantages de l'outil en ligne :**
-* Affichage simultané du texte anglais original et du champ de saisie français.
-* Calcul automatique de la **limite d'octets** imposée par le moteur du jeu.
-* Intégration du glossaire officiel pour assurer la cohérence des termes.
-
-<br/>
-
----
-
-## Soumettre ses propositions
-
-Une fois vos modifications terminées sur le site, l'outil génère vos propositions finalisées. Deux méthodes s'offrent à vous pour nous les transmettre :
-
-1. **Discord (Méthode Recommandée) :** Copiez les textes générés et collez-les dans le salon dédié `scripts` sur notre [serveur Discord](https://discord.gg/rd4ckSWHNm).
-2. **GitHub (Utilisateurs Avancés) :** Effectuez un Fork du dépôt, modifiez les fichiers JSON ciblés dans le dossier `traduction/event_scripts/` et ouvrez une Pull Request avec le titre `[Script XXX] Proposition de traduction`.
+**Pourquoi utiliser cet outil est obligatoire ?**
+* **Double Affichage :** Affiche simultanément le dialogue anglais original et votre proposition française.
+* **Sécurité Anti-Crash :** L'outil intègre un compteur dynamique qui calcule la limite stricte de longueur en octets pour éviter de faire planter le moteur du jeu.
+* **Intégration du Lore :** Le glossaire est directement intégré pour garantir la cohérence des noms propres (Démons, Sorts, Objets).
 
 <br/>
 
 ---
 
-## Règles de Traduction et Accents
+## Soumettre vos traductions
 
-<details>
-<summary><b>► Limite de Longueur et Concision</b></summary>
-<br>
-La langue française est généralement 20 à 30 % plus longue que l'anglais. Chaque dialogue possède un budget mémoire strict (<code>slot_size</code>). En cas de dépassement, le jeu ignorera la traduction ou plantera. <b>La concision est primordiale ; privilégiez l'adaptation naturelle plutôt qu'une traduction littérale.</b>
-</details>
+Une fois vos relectures ou traductions terminées sur le site de @HamzaKarrouchi, l'outil vous générera un bloc de texte propre et formaté. Deux méthodes pour nous le transmettre :
 
-<details>
-<summary><b>► Espaces et Retours à la ligne</b></summary>
-<br>
-<ul>
-<li>Le code <code>[SP]</code> dans le texte anglais représente un espace. Dans votre traduction française, utilisez <b>un espace classique</b> de votre clavier.</li>
-<li>Le code <code>\n</code> représente un retour à la ligne. Aérez vos textes pour l'écran de la PSP (un maximum de 3 lignes par boîte de dialogue est recommandé).</li>
-</ul>
-</details>
-
-<details>
-<summary><b>► Les Accents Français Sont 100% Supportés !</b></summary>
-<br>
-Grâce à un système de remappage interne opéré par l'outil de compilation et à une modification de la police VRAM du jeu, <b>l'intégralité des accents français classiques est supportée</b>.
-<br><br>
-Vous pouvez taper naturellement sur votre clavier les caractères suivants : <br>
-<b><code>é, è, ê, ë, à, â, ç, î, ï, ô, ù, û</code></b> ainsi que leurs équivalents majuscules.
-<br><br>
-L'outil convertira ces caractères de manière totalement transparente en arrière-plan lors de la compilation.
-</details>
+1. **Via Discord (Méthode Recommandée) :** 
+   Copiez simplement le bloc généré par l'outil web et collez-le dans le salon `#scripts` sur notre [serveur Discord officiel](https://discord.gg/rd4ckSWHNm). Un développeur se chargera de l'injecter.
+   
+2. **Via GitHub (Utilisateurs Avancés) :** 
+   Effectuez un Fork de ce dépôt, insérez vos modifications dans les fichiers `.json` du dossier `traduction/` et ouvrez une Pull Request avec le titre `[Script XXX] Proposition de traduction`.
 
 <br/>
 
 ---
 
-## Balises et Codes Techniques
+## La Limite Critique de Longueur (Octets)
 
-Certains codes entre crochets ont un rôle technique dicté par le moteur du jeu. **Ils ne doivent jamais être supprimés.**
+> [!WARNING]
+> La langue française est structurellement 20 à 30 % plus longue que l'anglais. Or, l'architecture du jeu PSP est extrêmement stricte concernant la mémoire.
 
-| Balise | Signification | Comportement à adopter |
-|:---|:---|:---|
-| `[1205][001E]` | Pause d'animation / Hésitation | À conserver à l'endroit logique. (Ex: `Prends...[1205][001E] ma main...`) |
-| `[1113]` / `[1112]` | Prénom / Nom du Héros | À traiter comme une variable de type `{{Prénom}}`. |
-| `[COLOR_RED]` | Changement de couleur de texte | À encadrer autour du mot mis en évidence. |
+**La Règle d'Or : La Concision.**
+Privilégiez toujours l'adaptation naturelle et percutante plutôt que la traduction littérale mot-à-mot. 
+
+* **Pour l'histoire (`event.bin`) :** L'outil de compilation arrive à recalculer l'espace dynamiquement, mais l'écran de la console, lui, ne grandit pas ! Aérez toujours vos textes avec des sauts de ligne pour **ne jamais dépasser 3 lignes par boîte de dialogue**.
+* **Pour les combats et menus (`F_BE.BNP` / `EBOOT.BIN`) :** La contrainte est absolue. Si le texte de combat dépasse le nombre d'octets originaux, le jeu subira un dépassement de mémoire (*Invalid Memory Access*) et la PSP s'éteindra. L'Outil de Relecture vous avertira si votre texte est trop long, écoutez-le toujours !
+
+<br/>
+
+---
+
+## Règles de Traduction et d'Écriture
+
+### 1. Les Accents Français (100% Supportés !)
+Contrairement à beaucoup de vieux jeux japonais, **vous n'avez pas à vous soucier des accents**. 
+Vous pouvez taper naturellement sur votre clavier français :
+**`é, è, ê, ë, à, â, ç, î, ï, ô, ù, û`** ainsi que leurs majuscules.
+
+Notre outil de compilation possède un algorithme (`ACCENT_MAP`) qui intercepte vos lettres et les convertit en secret vers des glyphes modifiés que le jeu peut lire.
+
+### 2. Espaces et Ponctuation
+* Le code `[SP]` dans le texte anglais représente un espace insécable. Dans votre traduction française, **effacez-le et utilisez un espace classique** de la barre d'espace de votre clavier.
+* Le code `\n` représente un retour à la ligne. Utilisez-le intelligemment pour structurer vos paragraphes.
+* Les points de suspension `...` doivent être tapés classiquement (trois petits points), l'outil les gérera tout seul.
+
+<br/>
+
+---
+
+## Le Dictionnaire des Balises In-Game
+
+Dans les textes anglais de l'outil, vous trouverez des codes étranges entre crochets. Ce sont des **Opcodes hexadécimaux** qui donnent des ordres directs au processeur de la PSP (comme nettoyer l'écran, afficher un menu de choix, ou mettre le jeu en pause).
 
 > [!CAUTION]
-> **Codes structurels critiques :** Si un dialogue original contient des balises de contrôle de type `[NULL]`, `[1431]`, ou `[START]`, celles-ci doivent impérativement rester à leur position initiale. Elles régissent l'architecture de la mémoire.
+> **Règle vitale :** Vous devez copier ces balises et les placer logiquement dans votre traduction française. Si vous supprimez accidentellement une balise, le jeu crashera.
 
-<!-- updated -->
+| Balise à Conserver | Fonction Visuelle dans le jeu | Exemple d'utilisation dans la traduction |
+|:---|:---|:---|
+| `[1205][001E]` | **Pause Dramatique** du texte. Oblige le joueur à attendre une seconde avant la suite de la phrase. | `Tu penses vraiment...[1205][001E] qu'on va te laisser filer ?` |
+| `[1113]` | **Prénom du Héros** (Tatsuya). C'est une variable dynamique car le joueur peut renommer le héros. | `Salut [1113], comment ça va ?` |
+| `[1112]` | **Nom de Famille** (Suou). | `C'est le cadet de la famille [1112].` |
+| `[1208][0002]` | **Déclencheur de Menu de Choix !** (Critique). Apparaît quand le joueur doit répondre Oui ou Non. | `Tu viens avec nous ?\n[1208][0002][1432]...` |
+| `[0014]` | **Séparateur d'options** d'un menu de choix. Sépare le "Oui" du "Non". Ne jamais effacer ! | `...[0014]Oui[1432][NULL][0014]\n[1432]...[0014]Non` |
+| `[COLOR_RED]` | **Changement de Couleur**. Doit encadrer le mot mis en évidence. | `C'est une rumeur très [COLOR_RED]dangereuse[COLOR_DEFAULT].` |
+| `[1108]` | **Fenêtre de Portrait (Bust-up)**. Demande au jeu d'afficher le dessin du personnage qui parle. | Se trouve souvent au début ou à la fin d'une réplique. |
+| `[U+XXXX]` | **Balise Inconnue**. Si vous voyez `[U+1A2B]`, c'est un code de la console que l'on n'a pas encore décrypté. | À laisser exactement là où il était. |
+

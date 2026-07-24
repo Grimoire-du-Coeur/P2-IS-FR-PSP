@@ -2,11 +2,11 @@
   
 # Tableau de Bord & Suivi d'Avancement
   
-**Persona 2: Innocent Sin FR (PSP)**
+**Persona 2: Innocent Sin FR (PSP) - ULES01557**
 
 <br/>
 
-<img src="https://img.shields.io/badge/Statut-B%C3%8ATA_EN_APPROCHE-6b21a8?style=for-the-badge" alt="Statut" />
+<img src="https://img.shields.io/badge/Statut-Phase_de_Bêta_QA-6b21a8?style=for-the-badge" alt="Statut" />
 <img src="https://img.shields.io/badge/Progression-99%25-2ea043?style=for-the-badge" alt="Progression" />
 
 </div>
@@ -14,10 +14,10 @@
 <br/>
 
 > [!NOTE]
-> Cette page documente l'avancement global du projet de traduction. L'histoire principale est achevée, nous nous concentrons actuellement sur la phase d'Assurance Qualité (QA) et la relecture finale In-Game.
+> Cette page documente l'avancement global et en temps réel du projet de traduction. L'histoire principale est achevée. Nous sommes actuellement focalisés sur la phase critique d'Assurance Qualité (QA) In-Game pour chasser les derniers bugs d'affichage et de pointeurs mémoires.
 
 <div align="center">
-  <a href="https://docs.google.com/spreadsheets/d/1d0MADmYznfH-R43RLZAHrngTT5flK9UTVt4wTzc10Uw/edit?gid=0#gid=0"><b>📊 Suivi Détaillé sur Google Sheets</b></a> | <a href="./SUIVI_TECHNIQUE.md"><b>🛠️ Problèmes Connus & Bugs</b></a>
+  <a href="https://docs.google.com/spreadsheets/d/1d0MADmYznfH-R43RLZAHrngTT5flK9UTVt4wTzc10Uw/edit?gid=0#gid=0"><b>📊 Suivi Détaillé sur Google Sheets</b></a> | <a href="./SUIVI_TECHNIQUE.md"><b>🛠️ Problèmes Connus & Bugs (Technique)</b></a>
 </div>
 
 <br>
@@ -26,38 +26,40 @@
 
 ## Graphique d'Avancement Global
 
-Voici la répartition des **406 fichiers scripts** gérant l'intégralité des textes du jeu :
+Voici la répartition des **406 fichiers scripts** identifiés qui gèrent l'intégralité des textes et des choix du jeu :
 
 ```mermaid
 pie title Progression des 406 Scripts
-    "Traduits (314)" : 314
-    "Vides / Sans texte (91)" : 91
-    "En Cours (1)" : 1
+    "Traduits et Validés (314)" : 314
+    "Fichiers Vides / Triggers (91)" : 91
+    "En Cours d'Édition (1)" : 1
 ```
 
 > [!TIP]
-> **Les Scripts Vides (91) :** Ils correspondent à des événements, des déclencheurs invisibles ou des chargements ne contenant aucun texte. Ils sont considérés comme terminés d'office.
+> **Les Scripts Vides (91) :** Notre scanner d'arborescence a détecté de nombreux scripts sans texte (déclencheurs d'événements invisibles ou chargements mémoires). Ils sont classés comme terminés d'office pour la traduction.
 
 <br/>
 
 ---
 
-## Détails de la Traduction
+## Détails de la Traduction par Composant
+
+Chaque composant vital du jeu possède sa propre structure de données. Voici l'état d'avancement pour chacun d'eux (pour plus de détails sur le format de ces fichiers, consultez notre `DEVELOPER.md`).
 
 <div align="center">
 
-| Catégorie | Fichiers | Statut Actuel |
-|:---|:---:|:---:|
-| **Scripts d'Histoire** (`script_000` à `script_396`) | 397 | <img src="https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square" alt="Terminée" /> |
-| **Scripts de Carte** (`MMAP01` à `06`) | 5/6 | <img src="https://img.shields.io/badge/-En%20Cours-0366d6?style=flat-square" alt="En Cours" /> |
-| **Boutique de CDs** (`CD_SHOP`) | 1 | <img src="https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square" alt="Terminée" /> |
-| **Combats & Menus** (`F_BE`) | 1 | <img src="https://img.shields.io/badge/-Termin%C3%A9e-2ea043?style=flat-square" alt="Terminée" /> |
-| **Cinématiques narratives** (`TM_EVE`) | 1 | <img src="https://img.shields.io/badge/-En%20Cours-0366d6?style=flat-square" alt="En Cours" /> |
+| Cible dans l'Arborescence | Rôle In-Game | Statut Actuel |
+|:---|:---|:---:|
+| **Scripts d'Histoire** (`event.bin`) | Contient les 399 sous-scripts de la trame narrative principale. | <img src="https://img.shields.io/badge/-Terminée-2ea043?style=flat-square" alt="Terminée" /> |
+| **Scripts de Carte** (`MMAP01` à `06`) | Dialogues ambiants des PNJ selon le quartier (Sumaru City). | <img src="https://img.shields.io/badge/-En%20Cours-0366d6?style=flat-square" alt="En Cours" /> |
+| **Boutique de CDs** (`CD_SHOP.BIN`) | Noms des morceaux et descriptions dans la boutique musicale. | <img src="https://img.shields.io/badge/-Terminée-2ea043?style=flat-square" alt="Terminée" /> |
+| **Combats & Menus** (`F_BE.BNP`) | Noms des démons, attaques, sorts, et interface de combat. | <img src="https://img.shields.io/badge/-Terminée-2ea043?style=flat-square" alt="Terminée" /> |
+| **Cinématiques** (`TM_EVE.BNP`) | Scènes 3D scriptées et événements visuels majeurs. | <img src="https://img.shields.io/badge/-En%20Cours-0366d6?style=flat-square" alt="En Cours" /> |
 
 </div>
 
 > [!IMPORTANT]
-> Le fichier `TM_EVE` est l'unique script nécessitant encore une intervention de traduction textuelle. La trame principale de l'histoire est achevée à 100 %.
+> Le fichier `TM_EVE.BNP` est le dernier fichier massif nécessitant encore une intervention de traduction textuelle. Une fois celui-ci achevé, la traduction brute du jeu atteindra officiellement les 100 %.
 
 <br/>
 
@@ -65,24 +67,55 @@ pie title Progression des 406 Scripts
 
 ## Phase de Relecture et Lancement
 
-Le projet traverse actuellement la phase critique de vérification In-Game (Assurance Qualité).
+Le projet traverse actuellement sa phase la plus délicate : l'Assurance Qualité (QA) sur hardware réel ou émulateur, visant à déceler les crashs liés à la compression `CRILAYLA` et à la longueur des chaînes françaises.
 
 ```mermaid
-gantt
-    title Planning vers la Version BÊTA
-    dateFormat  YYYY-MM-DD
-    axisFormat  %d/%m
-    
-    section Traduction
-    Histoire Principale      :done,    des1, 2023-01-01, 2026-06-25
-    Textes Annexes (F_BE...) :done,    des2, 2026-05-01, 2026-06-28
-    Dernier fichier (TM_EVE) :active,  des3, 2026-06-25, 2026-07-05
-    
-    section Qualité (QA)
-    Phase de Correction In-Game :active,  rel1, 2026-06-20, 2026-07-09
-    
-    section Sortie
-    Lancement Version BÊTA Publique   :milestone, 2026-07-10, 0d
+timeline
+    title Historique et Événements du Projet
+    Mars 2026 : 14/03 - Premier teaser (hykalys)
+              : 15/03 - Création du projet & GitHub
+              : 16/03 - Annonce X & dairoku_kizashi56
+              : 17/03 - Dictionnaire lore & Gyotre
+              : 22/03 - ArsenetheIV présente le projet
+              : 29/03 - 63.7% du jeu traduit (162 scripts)
+    Avril 2026 : 17/04 - Premier aperçu de gameplay
+               : 19/04 - Arati présente le projet
+               : 21/04 - 78% de traduction (225 scripts)
+    Juin 2026 : 05/06 - 100% de l'histoire traduite !
+              : 22/06 - Lancement de l'outil de relecture
+    Juillet 2026 : 10/07 - Sortie BÊTA v0.1 (Jouable à 100%)
+                 : 15/07 - Tutoriel d'installation vidéo
+                 : 17/07 - Bêta v0.1.1 (Auto-wrap, typo)
+                 : 19/07 - Bilan de l'avancement sur X
+                 : 20/07 - Bêta v0.1.2 (Correction crashs)
 ```
 
-<!-- updated -->
+<br/>
+
+### Historique des Patchs (Releases BÊTA)
+
+Grâce aux retours de la communauté, l'équipe déploie régulièrement des correctifs techniques. Voici le détail complet des dernières mises à jour (patch notes) :
+
+#### 🔹 [v0.1.2-beta] – Patch FR (Bêta) — *21 Juillet 2026*
+**Mise à jour critique (Stabilité, encodage et rendu).**
+* **Correction du glitch mémoire "ΓΓΓ"** : Refonte du padding de fin de dialogue. Le remplissage utilise désormais des espaces invisibles au lieu d'octets nuls (`0x0000`).
+* **Gestion du défilement** : Repositionnement des balises d'attente de touche `[E1][E2]` en fin de bloc `[E3]` (35 fichiers corrigés) pour empêcher le jeu de sauter les boîtes.
+* **Boîtes de choix stabilisées** : Nettoyage des balises de mise en page injectées par erreur dans les listes de choix `[1208]` (87 fichiers corrigés).
+* **Typographie & Nameplates** : Conversion des caractères spéciaux vers ASCII et correction des retours à la ligne après les noms `[E4]` (50 fichiers corrigés).
+* **Tronquage automatique** : Limitation stricte à 3 lignes pour éviter les débordements.
+
+#### 🔹 [v0.1.1-beta] – Patch FR (Bêta) — *17 Juillet 2026*
+**Mise à jour mineure (Optimisation et correction de texte).**
+* **Auto-wrap** : Système de retour à la ligne automatique pour que le texte s'adapte parfaitement aux boîtes de dialogue.
+* **Révision typographique** : Ajout des espaces insécables avant la ponctuation double (`?`, `!`, `:`, `;`) et ajustement des apostrophes.
+* **Résolution des troncatures** : Correction des bugs visuels qui coupaient la fin des répliques.
+
+#### 🔹 [v0.1-beta] – Patch FR + Pack HD (Bêta) — *10 Juillet 2026*
+**Première version bêta publique.**
+* Jouable du début à la fin sur le scénario principal (`event.bin` 100% traduit).
+* *Note : Textes de cartes et combats encore en cours d'intégration.*
+
+#### 🔹 [Pack HD FR v0.1-beta] — *6 Mai 2026*
+**Sortie du pack de textures de l'interface en français.**
+* Traduction des menus et de l'UI (à appliquer par-dessus le pack HD original de racawr sur PPSSPP).
+

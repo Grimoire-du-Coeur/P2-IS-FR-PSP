@@ -251,7 +251,7 @@ _lang = "fr"
 
 
 def encode_all(
-    trad_dir: str, cpk_dir: str, enc_dir: str, log_fn, progress_fn=None
+    trad_dir: str, cpk_dir: str, enc_dir: str, log_fn, progress_fn=None, targets=None
 ) -> dict:
     """Encode tous les JSON traduits en une seule passe (BNP/BIN + event.bin)."""
     jdir = Path(trad_dir)
@@ -272,6 +272,9 @@ def encode_all(
         ("MMAP05.json", "mmap05.bnp", "MMAP05.BNP"),
         ("MMAP06.json", "mmap06.bnp", "MMAP06.BNP"),
     ]
+    if targets:
+        steps = [s for s in steps if s[0].replace(".json", "").lower() in [t.lower() for t in targets]]
+    
     n = len(steps) + 1
     for i, (jn, on, fn) in enumerate(steps):
         if progress_fn:
@@ -314,7 +317,10 @@ def encode_all(
     ep = cmap.get("event.bin")
     if progress_fn:
         progress_fn((n - 1) / n)
-    if ep and sj.exists():
+        
+    do_event = not targets or "event" in [t.lower() for t in targets]
+    
+    if do_event and ep and sj.exists():
         if log_fn:
             log_fn("  Encodage scripts event.bin…", "info")
         try:

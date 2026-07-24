@@ -4,6 +4,7 @@ import json
 import subprocess
 import threading
 from pathlib import Path
+from typing import List, Optional
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
@@ -30,10 +31,11 @@ from src.core.iso import (
     extract_scripts_from_event,
 )
 from src.parsers.bin_parser import decode_all_scripts, validate_all_scripts
+from src.parsers.eboot_parser import extract_eboot, inject_eboot
 from src.encoders.pipeline import encode_all
 
 # État global pour la progression
-progress_state = {"current": 0, "task": ""}
+progress_state = {"current": 0, "task": "", "logs": []}
 progress_lock = threading.Lock()
 
 
@@ -45,22 +47,31 @@ def update_progress(percent: float):
 @app.get("/api/progress")
 async def get_progress():
     with progress_lock:
-        return progress_state
+        response = {
+            "current": progress_state["current"],
+            "task": progress_state["task"],
+            "logs": list(progress_state["logs"])
+        }
+        progress_state["logs"].clear()
+        return response
 
 
 def reset_progress(task_name: str):
     with progress_lock:
         progress_state["task"] = task_name
         progress_state["current"] = 0
+        progress_state["logs"].clear()
 
 
 class GenericRequest(BaseModel):
     work_dir: str
-
+    pspdecrypt_path: str = ""
+    targets: Optional[List[str]] = None
 
 class IsoRequest(BaseModel):
     iso_path: str
     work_dir: str
+    pspdecrypt_path: str = ""
 
 
 class BrowseRequest(BaseModel):
@@ -77,7 +88,10 @@ import src.config
 
 def set_work_dir(work_dir: str):
     if work_dir:
-        Path(work_dir).mkdir(parents=True, exist_ok=True)
+        try:
+            Path(work_dir).mkdir(parents=True, exist_ok=True)
+        except Exception as e:
+            raise HTTPException(status_code=400, detail=f"Impossible de créer le dossier de travail : {e}")
     src.config.OFFSETS_FILE = str(Path(work_dir) / "offsets.json")
 
 
@@ -91,6 +105,10 @@ def get_logger(work_dir=None):
             )
         except Exception:
             pass
+            
+        with progress_lock:
+            progress_state["logs"].append({"msg": msg, "type": level.upper()})
+            
         try:
             if work_dir:
                 log_dir = os.path.join(work_dir, "logs")
@@ -146,11 +164,14 @@ def api_extract_cpk(req: IsoRequest):
     if not iso.exists():
         raise HTTPException(status_code=400, detail="ISO introuvable")
     w = Path(req.work_dir)
-    w.mkdir(parents=True, exist_ok=True)
-    res = extract_cpk_from_iso(str(iso), w, get_logger(req.work_dir))
+    try:
+        w.mkdir(parents=True, exist_ok=True)
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=f"Impossible de créer le dossier de travail : {e}")
+    res = extract_cpk_from_iso(str(iso), w, get_logger(req.work_dir), req.pspdecrypt_path)
     if not res:
         raise HTTPException(status_code=500, detail="Erreur lors de l'extraction CPK")
-    return {"status": "ok", "msg": f"CPK extrait : {res}"}
+    return {"status": "ok", "msg": f"CPK et EBOOT extraits : {res}"}
 
 
 @app.post("/api/open-crifslib")
@@ -193,6 +214,26 @@ def api_split_scripts(req: GenericRequest):
     extract_scripts_from_event(str(ev), out, get_logger(req.work_dir))
     return {"status": "ok", "msg": "Scripts séparés avec succès."}
 
+
+@app.post("/api/decode-eboot")
+def api_decode_eboot(req: GenericRequest):
+    try:
+        w = Path(req.work_dir)
+        eboot_dec = w / "EBOOT_DECRYPTED.BIN"
+        out_dir = w / "traduction"
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_json = out_dir / "EBOOT_Translation.json"
+        
+        if not eboot_dec.exists():
+            raise HTTPException(status_code=400, detail="EBOOT_DECRYPTED.BIN introuvable. Extraire l'ISO d'abord.")
+        
+        reset_progress("decode-eboot")
+        extract_eboot(str(eboot_dec), str(out_json), get_logger(req.work_dir))
+        return {"status": "ok", "msg": "EBOOT décodé avec succès !"}
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 @app.post("/api/decode-scripts")
 def api_decode_scripts(req: GenericRequest):
@@ -253,7 +294,7 @@ def api_validate(req: GenericRequest):
     res = validate_all_scripts(str(src), get_logger(req.work_dir))
     return {
         "status": "ok",
-        "msg": f"Validation terminée. Problèmes détectés : {len(res)}",
+        "msg": f"Validation terminée. Problèmes détectés : {len(res.get('problems', []))}",
     }
 
 
@@ -275,9 +316,20 @@ def api_encode(req: GenericRequest):
             str(enc_dir),
             get_logger(req.work_dir),
             progress_fn=update_progress,
+            targets=req.targets,
         )
         update_progress(1.0)
-        return {"status": "ok", "result": res}
+        
+        # Encodage de l'EBOOT (seulement si cible 'eboot' ou toutes)
+        if not req.targets or "eboot" in req.targets:
+            eboot_dec = w / "EBOOT_DECRYPTED.BIN"
+            eboot_json = trad_dir / "EBOOT_Translation.json"
+            eboot_out = w / "EBOOT_MODIFIED.BIN"
+            if eboot_dec.exists() and eboot_json.exists():
+                get_logger(req.work_dir)("Encodage de l'EBOOT en cours...", "info")
+                inject_eboot(str(eboot_dec), str(eboot_json), str(eboot_out), get_logger(req.work_dir))
+            
+        return {"status": "ok", "msg": "Encodage terminé !", "result": res}
     except Exception as e:
         import traceback
 

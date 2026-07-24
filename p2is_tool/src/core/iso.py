@@ -15,6 +15,7 @@ Auteurs : chenetulipe & GarloulouLeAsriel
 GitHub  : https://github.com/chenetulipe/P2-FR-IS-PSP
 """
 
+import pycdlib
 import struct, json, gzip, io, os, re, shutil, threading, subprocess, platform, concurrent.futures, zlib
 from pathlib import Path
 import tkinter as tk
@@ -242,31 +243,101 @@ STRINGS = {
 _lang = "fr"
 
 
-def extract_cpk_from_iso(iso_path: str, out_dir: Path, log_fn) -> str:
-    """Localise et extrait P2PT_ALL.cpk depuis l'ISO. Mémorise l'offset."""
-    if log_fn:
-        log_fn("Lecture de l'ISO…", "info")
-    iso = open(iso_path, "rb").read()
-    if log_fn:
-        log_fn(f"  Taille : {len(iso)//1024//1024} MB", "info")
-    pos = iso.find(b"CPK ")
-    if pos == -1:
-        raise Exception(
-            "Fichier CPK introuvable dans l'ISO.\nVérifie qu'il s'agit bien d'une ISO ULES01557."
-        )
-    if log_fn:
-        log_fn(f"  CPK trouvé à l'offset 0x{pos:08X}", "info")
-    offs = load_offsets()
-    offs["iso_path"] = iso_path
-    offs["cpk_offset_in_iso"] = pos
-    save_offsets(offs)
-    out_dir.mkdir(parents=True, exist_ok=True)
-    out_path = out_dir / "P2PT_ALL.cpk"
-    with open(out_path, "wb") as f:
-        f.write(iso[pos:])
-    if log_fn:
-        log_fn(f"  P2PT_ALL.cpk sauvegardé ({len(iso[pos:])//1024//1024} MB)", "ok")
-    return str(out_path)
+def extract_cpk_from_iso(iso_path: str, out_dir: Path, log_fn, pspdecrypt_path: str = "") -> str:
+    """Localise et extrait P2PT_ALL.cpk depuis l'ISO (ou le dossier extrait), ainsi que l'EBOOT.BIN."""
+    iso_p = Path(iso_path)
+    
+    # --- Cas 1 : L'utilisateur a fourni un dossier (ISO decompressé) ---
+    if iso_p.is_dir():
+        if log_fn:
+            log_fn(f"Lecture du dossier ISO : {iso_path}", "info")
+            
+        cpk_src = iso_p / "PSP_GAME" / "USRDIR" / "pack" / "P2PT_ALL.cpk"
+        eboot_src = iso_p / "PSP_GAME" / "SYSDIR" / "EBOOT.BIN"
+        
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_cpk = out_dir / "P2PT_ALL.cpk"
+        out_eboot = out_dir / "EBOOT.BIN"
+        
+        if cpk_src.exists():
+            shutil.copy2(cpk_src, out_cpk)
+            if log_fn: log_fn(f"  P2PT_ALL.cpk copié depuis le dossier.", "ok")
+        else:
+            raise Exception("P2PT_ALL.cpk introuvable dans le dossier fourni.")
+            
+        if eboot_src.exists():
+            shutil.copy2(eboot_src, out_eboot)
+            if log_fn: log_fn("  EBOOT.BIN copié depuis le dossier.", "ok")
+            
+    # --- Cas 2 : L'utilisateur a fourni un fichier .iso ---
+    else:
+        if log_fn:
+            log_fn("Lecture de l'ISO...", "info")
+        iso = open(iso_path, "rb").read()
+        if log_fn:
+            log_fn(f"  Taille globale : {len(iso)//1024//1024} MB", "info")
+            
+        # 1. Extraction du CPK (Methode historique)
+        pos = iso.find(b"CPK ")
+        if pos == -1:
+            raise Exception(
+                "Fichier CPK introuvable dans l'ISO.\nVérifie qu'il s'agit bien d'une ISO ULES01557."
+            )
+        if log_fn:
+            log_fn(f"  CPK trouvé à l'offset 0x{pos:08X}", "info")
+            
+        offs = load_offsets()
+        offs["iso_path"] = iso_path
+        offs["cpk_offset_in_iso"] = pos
+        save_offsets(offs)
+        
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_cpk = out_dir / "P2PT_ALL.cpk"
+        with open(out_cpk, "wb") as f:
+            f.write(iso[pos:])
+        if log_fn:
+            log_fn(f"  P2PT_ALL.cpk sauvegardé ({len(iso[pos:])//1024//1024} MB)", "ok")
+            
+        # 2. Extraction de l'EBOOT avec pycdlib
+        try:
+            cd = pycdlib.PyCdlib()
+            cd.open(iso_path)
+            out_eboot = out_dir / "EBOOT.BIN"
+            try:
+                cd.get_file_from_iso(str(out_eboot), iso_path='/PSP_GAME/SYSDIR/EBOOT.BIN;1')
+            except Exception:
+                cd.get_file_from_iso(str(out_eboot), iso_path='/PSP_GAME/SYSDIR/EBOOT.BIN')
+            cd.close()
+            if log_fn:
+                log_fn("  EBOOT.BIN extrait avec succès de l'ISO.", "ok")
+        except Exception as e:
+            if log_fn:
+                log_fn(f"  Erreur lors de l'extraction de l'EBOOT : {e}", "error")
+
+    # --- Decryptage EBOOT (Commun aux deux cas) ---
+    out_eboot = out_dir / "EBOOT.BIN"
+    if out_eboot.exists():
+        if pspdecrypt_path and Path(pspdecrypt_path).exists():
+            if log_fn:
+                log_fn("  Décryptage de l'EBOOT avec pspdecrypt...", "info")
+            eboot_dec_out = out_dir / "EBOOT_DECRYPTED.BIN"
+            try:
+                subprocess.run([pspdecrypt_path, str(out_eboot)], cwd=str(out_dir), check=True, creationflags=subprocess.CREATE_NO_WINDOW)
+                dec_file = out_dir / "EBOOT.BIN.dec"
+                if dec_file.exists():
+                    dec_file.rename(eboot_dec_out)
+                    if log_fn:
+                        log_fn("  EBOOT décrypté avec succès en EBOOT_DECRYPTED.BIN.", "ok")
+                else:
+                    if log_fn:
+                        log_fn("  Erreur: EBOOT.BIN.dec introuvable après décryptage.", "error")
+            except Exception as e:
+                if log_fn: log_fn(f"  Erreur pspdecrypt: {e}", "error")
+        else:
+            if log_fn:
+                log_fn("  Attention: pspdecrypt_path non fourni, l'EBOOT n'est pas décrypté.", "warning")
+
+    return str(out_cpk)
 
 
 # ── Extraction event.bin depuis CPK ──────────────────────────────────────────
@@ -863,23 +934,60 @@ def update_iso_metadata(f, cpk_offset, new_end_offset, log_fn):
 def rebuild_iso(
     iso_orig: str, event_data: bytes, out_iso: str, log_fn, enc_dir: str = None
 ) -> bool:
-    """Patche event.bin ET les BNP traduits."""
+    import pathlib
+    import shutil
+    iso_p = pathlib.Path(iso_orig)
     offs = load_offsets()
+    
+    # --- Mode Dossier ---
+    if iso_p.is_dir():
+        if log_fn: log_fn("Reconstruction dans un dossier...", "info")
+        cpk_path = iso_p / "PSP_GAME" / "USRDIR" / "pack" / "P2PT_ALL.cpk"
+        if not cpk_path.exists():
+            raise Exception("P2PT_ALL.cpk introuvable dans le dossier original.")
+        
+        shutil.copy(str(cpk_path), out_iso)
+        
+        cpk_off_in_iso = 0
+        event_pos = offs.get("event_offset_in_cpk", -1)
+        if event_pos == -1:
+            raise Exception("Offset event.bin dans le CPK inconnu. Relance l'extraction.")
+            
+        with open(out_iso, "r+b") as f:
+            if log_fn: log_fn(f"  Patch event.bin a l'offset 0x{event_pos:08X} du CPK", "info")
+            f.seek(event_pos)
+            f.write(event_data)
+            
+            bnp_offsets = offs.get("bnp_offsets", {})
+            if enc_dir and pathlib.Path(enc_dir).exists() and bnp_offsets:
+                for bnp_name, offset_in_cpk in bnp_offsets.items():
+                    src_bnp = pathlib.Path(enc_dir) / bnp_name
+                    if src_bnp.exists():
+                        data = src_bnp.read_bytes()
+                        f.seek(offset_in_cpk)
+                        f.write(data)
+                        if log_fn: log_fn(f"  Injecte {bnp_name} a 0x{offset_in_cpk:08X}", "info")
+        
+        if log_fn: log_fn("Le fichier .cpk patche a ete cree a la place de l'ISO de sortie. Veuillez le renommer et le placer manuellement dans le jeu.", "warn")
+        return True
+
+    # --- Mode ISO ---
     pos = offs.get("event_offset_in_iso", -1)
     if pos != -1:
         with open(iso_orig, "rb") as f:
             f.seek(pos)
+            import struct
             chk = struct.unpack("<I", f.read(4))[0]
         if chk != 0x1000:
             if log_fn:
                 log_fn(
-                    f"  Offset mémorisé invalide (0x{chk:x}), re-extraction nécessaire.",
+                    f"  Offset memorise invalide (0x{chk:x}), re-extraction necessaire.",
                     "warn",
                 )
             pos = -1
     if pos == -1:
         raise Exception(
-            "Offset event.bin inconnu.\n→ Relance les étapes A, B, C pour le recalculer."
+            "Offset event.bin inconnu. Relance l'Extraction du CPK (Etape A) pour le recalculer."
         )
     max_iso_offset = 0
     shutil.copy(iso_orig, out_iso)
@@ -1086,6 +1194,44 @@ def rebuild_iso(
             if rem != 0:
                 f.write(b"\x00" * (2048 - rem))
             update_iso_metadata(f, cpk_off_in_iso, f.tell(), log_fn)
+
+        # --- Injection EBOOT_MODIFIED.BIN ---
+        if enc_dir:
+            eboot_mod = Path(enc_dir).parent / "EBOOT_MODIFIED.BIN"
+            if eboot_mod.exists():
+                try:
+                    import pycdlib
+                    cd = pycdlib.PyCdlib()
+                    cd.open(iso_orig)
+                    try:
+                        r = cd.get_record(iso_path='/PSP_GAME/SYSDIR/EBOOT.BIN;1')
+                    except:
+                        r = cd.get_record(iso_path='/PSP_GAME/SYSDIR/EBOOT.BIN')
+                    
+                    # Ensure compatibility with different versions of pycdlib
+                    loc = None
+                    if hasattr(r, 'extent_location'):
+                        if callable(r.extent_location):
+                            loc = r.extent_location()
+                        else:
+                            loc = r.extent_location
+                            
+                    eboot_offset = loc * 2048 if loc else 0
+                    eboot_size = r.get_data_length()
+                    cd.close()
+                    
+                    if eboot_offset > 0:
+                        f.seek(eboot_offset)
+                        data = eboot_mod.read_bytes()
+                        # Pad data to original eboot_size to prevent garbage at end
+                        if len(data) < eboot_size:
+                            data += b'\0' * (eboot_size - len(data))
+                        elif len(data) > eboot_size:
+                            data = data[:eboot_size]
+                        f.write(data)
+                        if log_fn: log_fn(f"  [>] INJECTION de EBOOT.BIN -> offset 0x{eboot_offset:08X} ({len(data)} bytes) terminee.", "ok")
+                except Exception as e:
+                    if log_fn: log_fn(f"  [!] Erreur lors de l'injection de l'EBOOT : {e}", "err")
 
     sz = Path(out_iso).stat().st_size // 1024 // 1024
     if log_fn:
