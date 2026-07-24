@@ -1195,6 +1195,44 @@ def rebuild_iso(
                 f.write(b"\x00" * (2048 - rem))
             update_iso_metadata(f, cpk_off_in_iso, f.tell(), log_fn)
 
+        # --- Injection EBOOT_MODIFIED.BIN ---
+        if enc_dir:
+            eboot_mod = Path(enc_dir).parent / "EBOOT_MODIFIED.BIN"
+            if eboot_mod.exists():
+                try:
+                    import pycdlib
+                    cd = pycdlib.PyCdlib()
+                    cd.open(iso_orig)
+                    try:
+                        r = cd.get_record(iso_path='/PSP_GAME/SYSDIR/EBOOT.BIN;1')
+                    except:
+                        r = cd.get_record(iso_path='/PSP_GAME/SYSDIR/EBOOT.BIN')
+                    
+                    # Ensure compatibility with different versions of pycdlib
+                    loc = None
+                    if hasattr(r, 'extent_location'):
+                        if callable(r.extent_location):
+                            loc = r.extent_location()
+                        else:
+                            loc = r.extent_location
+                            
+                    eboot_offset = loc * 2048 if loc else 0
+                    eboot_size = r.get_data_length()
+                    cd.close()
+                    
+                    if eboot_offset > 0:
+                        f.seek(eboot_offset)
+                        data = eboot_mod.read_bytes()
+                        # Pad data to original eboot_size to prevent garbage at end
+                        if len(data) < eboot_size:
+                            data += b'\0' * (eboot_size - len(data))
+                        elif len(data) > eboot_size:
+                            data = data[:eboot_size]
+                        f.write(data)
+                        if log_fn: log_fn(f"  [>] INJECTION de EBOOT.BIN -> offset 0x{eboot_offset:08X} ({len(data)} bytes) terminee.", "ok")
+                except Exception as e:
+                    if log_fn: log_fn(f"  [!] Erreur lors de l'injection de l'EBOOT : {e}", "err")
+
     sz = Path(out_iso).stat().st_size // 1024 // 1024
     if log_fn:
         log_fn(f"  [V] ISO modifiee generee avec succes : {out_iso} ({sz} MB)", "ok")
