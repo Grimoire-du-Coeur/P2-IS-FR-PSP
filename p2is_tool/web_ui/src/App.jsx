@@ -358,7 +358,7 @@ export default function App() {
                       <span>{t('step_b')}</span>
                     </h3>
                     <p className="text-sm text-blue-200/70 mb-3 whitespace-pre-line">{t('desc_b')}</p>
-                    <div className="flex space-x-2">
+                    <div className="flex flex-col sm:flex-row gap-3">
                       <button onClick={() => callApi('open-crifslib', { crifs_path: crifsPath })} disabled={loading} className="glass-button text-sm flex items-center space-x-2 flex-1 justify-center">
                         <Wrench size={16} /> <span>{t('btn_b')}</span>
                       </button>
@@ -464,12 +464,37 @@ export default function App() {
                       </p>
                     </div>
 
+                    <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 mb-4">
+                      {[
+                        { id: 'event', label: 'event.bin' },
+                        { id: 'eboot', label: 'EBOOT' },
+                        { id: 'cd_shop', label: 'CD_SHOP' },
+                        { id: 'f_be', label: 'F_BE' },
+                        { id: 'tm_eve', label: 'TM_EVE' },
+                        { id: 'mmap01', label: 'MMAP01' },
+                        { id: 'mmap02', label: 'MMAP02' },
+                        { id: 'mmap03', label: 'MMAP03' },
+                        { id: 'mmap04', label: 'MMAP04' },
+                        { id: 'mmap05', label: 'MMAP05' },
+                        { id: 'mmap06', label: 'MMAP06' }
+                      ].map(target => (
+                        <button 
+                          key={target.id}
+                          onClick={() => callApi('encode', { work_dir: workDir, targets: [target.id] })}
+                          disabled={loading}
+                          className="glass-button py-2 text-xs flex justify-center items-center hover:bg-blue-500/30 transition-all group"
+                        >
+                          <span className="group-hover:scale-105 transition-transform">{target.label}</span>
+                        </button>
+                      ))}
+                    </div>
+
                     <button 
                       onClick={() => callApi('encode', { work_dir: workDir })}
                       disabled={loading}
-                      className="glass-button w-full flex items-center justify-center space-x-2 py-3 text-md"
+                      className="glass-button w-full flex items-center justify-center space-x-2 py-3 text-md bg-blue-600/20 hover:bg-blue-500/30 border-blue-400/30 group"
                     >
-                      {loading ? <RefreshCcw className="animate-spin" /> : <RefreshCcw size={18} />}
+                      {loading ? <RefreshCcw className="animate-spin" /> : <RefreshCcw size={18} className="group-hover:animate-spin" />}
                       <span>{t('btn_h')}</span>
                     </button>
                   </div>

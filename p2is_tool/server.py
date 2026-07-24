@@ -58,6 +58,7 @@ def reset_progress(task_name: str):
 class GenericRequest(BaseModel):
     work_dir: str
     pspdecrypt_path: str = ""
+    targets: Optional[List[str]] = None
 
 class IsoRequest(BaseModel):
     iso_path: str
@@ -201,7 +202,9 @@ def api_decode_eboot(req: GenericRequest):
     try:
         w = Path(req.work_dir)
         eboot_dec = w / "EBOOT_DECRYPTED.BIN"
-        out_json = w / "EBOOT_Translation.json"
+        out_dir = w / "traduction"
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_json = out_dir / "EBOOT_Translation.json"
         
         if not eboot_dec.exists():
             raise HTTPException(status_code=400, detail="EBOOT_DECRYPTED.BIN introuvable. Extraire l'ISO d'abord.")
@@ -295,18 +298,20 @@ def api_encode(req: GenericRequest):
             str(enc_dir),
             get_logger(req.work_dir),
             progress_fn=update_progress,
+            targets=req.targets,
         )
         update_progress(1.0)
         
-        # Encodage de l'EBOOT
-        eboot_dec = w / "EBOOT_DECRYPTED.BIN"
-        eboot_json = w / "EBOOT_Translation.json"
-        eboot_out = w / "EBOOT_MODIFIED.BIN"
-        if eboot_dec.exists() and eboot_json.exists():
-            get_logger(req.work_dir)("Encodage de l'EBOOT en cours...", "info")
-            inject_eboot(str(eboot_dec), str(eboot_json), str(eboot_out), get_logger(req.work_dir))
+        # Encodage de l'EBOOT (seulement si cible 'eboot' ou toutes)
+        if not req.targets or "eboot" in req.targets:
+            eboot_dec = w / "EBOOT_DECRYPTED.BIN"
+            eboot_json = trad_dir / "EBOOT_Translation.json"
+            eboot_out = w / "EBOOT_MODIFIED.BIN"
+            if eboot_dec.exists() and eboot_json.exists():
+                get_logger(req.work_dir)("Encodage de l'EBOOT en cours...", "info")
+                inject_eboot(str(eboot_dec), str(eboot_json), str(eboot_out), get_logger(req.work_dir))
             
-        return {"status": "ok", "msg": "Tous les scripts et EBOOT encodés !", "result": res}
+        return {"status": "ok", "msg": "Encodage terminé !", "result": res}
     except Exception as e:
         import traceback
 
