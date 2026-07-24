@@ -29,7 +29,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Usually,[SP]you[SP]hear[SP]about[SP]something,[SP]and[SP]you\nthink,[SP][1432][NULL][NULL][0014]Oh,[SP]well,[SP]if[SP]he[SP]said[SP]so,[1432][NULL][NULL][0014][SP]and[SP]assume\nit's[SP]the[SP]truth.",
     "nom_fr": "Eikichi",
-    "texte_fr": "D'habitude, on entend quelque chose,\net on pense [1432][NULL][NULL][0014]Oh, si il le dit,[1432][NULL][NULL][0014] et on\nassume[1205][U+000F] que c'est la vérité."
+    "texte_fr": "D'habitude, on entend quelque chose,\net on pense [1432][NULL][NULL][0014]Oh, si il le dit,[1432][NULL][NULL][0014] et on\nassume que c'est la vérité."
   },
   {
     "id": 2,
@@ -77,7 +77,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]mean,[SP]these[SP]attacks[SP]and[SP]stuff,[SP]sure.[1205][U+000F][SP]But...[1205][U+000F]\nIf[SP]you[SP]ask[SP]me[SP]whether[SP]anything[SP]before[SP]that\nhappened[SP]or[SP]not,[SP]I'm[SP]not[SP]so[SP]confident...",
     "nom_fr": "Ginko",
-    "texte_fr": "Ces attaques et tout, oui.[1205][U+000F] Mais...[1205][U+000F] Si tu\ndemandes si quoi que ce soit avant s'est\npassé ou non, je suis pas si sûre..."
+    "texte_fr": "Ces attaques et tout, oui. Mais... Si tu\ndemandes si quoi que ce soit avant s'est\npassé ou non, je suis pas si sûre..."
   },
   {
     "id": 5,
@@ -123,7 +123,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Here's[SP]what[SP]I[SP]think.[1205][U+000A][SP]It's[SP]actually[SP]wonderful\nthat[SP]rumors[SP]are[SP]coming[SP]true.[1205][U+000A][SP]The[SP]problem[SP]is\nthe[SP]content[SP]of[SP]the[SP]rumors...",
     "nom_fr": "Jun",
-    "texte_fr": "Voici ce que je pense.[1205][U+000A] C'est merveilleux\nque des rumeurs deviennent vraies.[1205][U+000A] Le\nproblème[1205][U+000F] c'est leur contenu..."
+    "texte_fr": "Voici ce que je pense.[1205][U+000A] C'est merveilleux\nque des rumeurs deviennent vraies.[1205][U+000A] Le\nproblème c'est leur contenu..."
   },
   {
     "id": 8,
@@ -203,7 +203,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "If[SP]the[SP]entire[SP]city[SP]is[SP]in[SP]the[SP]air,[SP]it[SP]won't[SP]get\ndragged[SP]into[SP]the[SP]destruction[SP]down[SP]below...[1205][U+000F]\nBut[SP]what[SP]happens[SP]after[SP]that?",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Si toute la ville est en l'air, elle ne\nsera pas entraînée dans la destruction\nen bas...[1205][U+000F] Mais qu'arrive-t-il ensuite?"
+    "texte_fr": "Si toute la ville est en l'air, elle ne\nsera pas entraînée dans la destruction\nen bas... Mais qu'arrive-t-il ensuite?"
   },
   {
     "id": 13,
@@ -235,7 +235,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "Was[SP]there[SP]a[SP]line[SP]about[SP]Xibalba[SP]returning[SP]back\ndown[SP]to[SP]Earth[SP]in[SP]that[SP]Oracle?[1205][U+000F][SP]Well...[1205][U+000A][SP]I[SP]suppose\nit[SP]doesn't[SP]matter...",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Xibalba revient sur Terre dans\ncet Oracle?[1205][U+000F] Enfin...[1205][U+000A] Je suppose\nque ça n'a pas d'importance..."
+    "texte_fr": "Xibalba revient sur Terre dans\ncet Oracle? Enfin...[1205][U+000A] Je suppose\nque ça n'a pas d'importance..."
   },
   {
     "id": 15,
@@ -267,7 +267,7 @@
     "nom_orig": "Middle-aged[SP]woman",
     "texte_orig": "Then[SP]again...[1205][U+000F][SP]Is[SP]that[SP]really[SP]the[SP]best[SP]way...?[1205][U+000F]\nHaving[SP]my[SP]purpose[SP]just[SP]giftwrapped[SP]for[SP]me[SP]like\nthat...[SP]Will[SP]that[SP]really[SP]make[SP]me[SP]happy...?",
     "nom_fr": "Femme d'âge mûr",
-    "texte_fr": "Mais quand même...[1205][U+000F] Est-ce la meilleure\nfaçon...?[1205][U+000F] Qu'on me remette mon but sur un\nplateau comme ça... Ça me rendra vraiment[1101]heureuse...?"
+    "texte_fr": "Mais quand même... Est-ce la meilleure\nfaçon...? Qu'on me remette mon but sur un\nplateau comme ça...\nÇa me rendra vraiment[1101]heureuse...?"
   },
   {
     "id": 17,
@@ -433,7 +433,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?\n[1208][0002]Yes\nNo",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Bien. Ce sera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui\nNon",
+    "texte_fr": "Bien. Ce sera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui[0014]Non",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -469,7 +469,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "Okay![SP]Just[SP]relax...[1205][U+000F][SP]and[SP]let[SP]our[SP]shop's[SP]unique\ntreatment[SP]wash[SP]over[SP]you...[SP]Ether[SP]esthetics!",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Okay! Détendez-vous...[1205][U+000F] laissez notre\ntraitement vous envelopper... Esthétique\nÉther!"
+    "texte_fr": "Okay! Détendez-vous... laissez notre\ntraitement vous envelopper... Esthétique\nÉther!"
   },
   {
     "id": 29,
@@ -517,7 +517,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "Though[SP]I[SP]wonder[SP]if[SP]that[SP]will[SP]reduce[SP]the[SP]number\nof[SP]people[SP]interested[SP]in[SP]esthetic[SP]treatment.[1205][U+000F]\nThat[SP]could[SP]be[SP]a[SP]problem...",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Je me demande si ça réduira le nombre\nde gens intéressés par les soins.[1205][U+000F] Ça\npourrait être un problème..."
+    "texte_fr": "Je me demande si ça réduira le nombre\nde gens intéressés par les soins. Ça\npourrait être un problème..."
   },
   {
     "id": 32,
@@ -533,7 +533,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "In[SP]that[SP]case,[SP]I'll[SP]have[SP]to[SP]add[SP]new[SP]effects[SP]to\nour[SP]Ether[SP]esthetics...[1205][U+000F][SP]E-Er...[1205][U+000F][SP]I'll[SP]have[SP]to\nFIND[SP]new[SP]ones,[SP]I[SP]meant...",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Dans ce cas, j'ajouterai de nouveaux\neffets à l'esthétique Éther...[1205][U+000F] E-Euh...[1205][U+000F]\nDes NOUVEAUX, je voulais dire..."
+    "texte_fr": "Dans ce cas, j'ajouterai de nouveaux\neffets à l'esthétique Éther... E-Euh...\nDes NOUVEAUX, je voulais dire..."
   },
   {
     "id": 33,

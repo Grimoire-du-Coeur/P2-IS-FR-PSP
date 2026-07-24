@@ -29,7 +29,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Wait...[SP]With[SP]demons[SP]popping[SP]up[SP]all[SP]over,[SP]why\nwould[SP]I[SP]be[SP]surprised[SP]if[SP]she's[SP]real?[1205][001E][SP]I[SP]gotta[SP]get\nwith[SP]the[SP]program[SP]before[SP]it[SP]bites[SP]me[SP]in[SP]the[SP]ass.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Attends... Avec des démons partout, pourquoi\nje serais surpris qu'elle soit réelle?[1205][001E] Faut\nm'adapter avant que ça me [1205][U+000F] retombe dessus."
+    "texte_fr": "Attends... Avec des\ndémons partout, pourquoi\nje serais surpris qu'elle soit réelle?[1205][001E] Faut\nm'adapter avant que ça me  retombe dessus."
   },
   {
     "id": 2,
@@ -61,7 +61,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]what[SP]did[SP]he[SP]give[SP]you,[SP][1113]?[SP]Ooh,[SP]a\n[E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]?[SP]Righteous![E1][E2]\n\n[E3][E4][NULL][NULL]\"Lisa\nNow[SP]that[SP]I[SP]think[SP]about[SP]it,[SP]you[SP]could[SP]call\nghost[SP]stories[SP]rumors,[SP]in[SP]a[SP]way...[1205][U+000F][SP]Then[SP]could\nthis[SP]be...?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Alors qu'a-t-il donné, [1113]?\nOh, du [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Thé Brink[E4][NULL][NULL][0002]? Super![E1][E2]\n[E3][E4][NULL][NULL]\"Lisa A y\npenser, les histoires de fantômes sont\ndes rumeurs...[1205][U+000F] Alors ça veut dire...?"
+    "texte_fr": "Alors qu'a-t-il donné, [1113]?\nOh, du [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Thé Brink[E4][NULL][NULL][0002]? Super![E1][E2]\n[E3][E4][NULL][NULL]\"Lisa A y\npenser, les histoires de fantômes sont\ndes rumeurs... Alors ça veut dire...?"
   },
   {
     "id": 4,
@@ -77,7 +77,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Now[SP]that[SP]I[SP]think[SP]about[SP]it,[SP]you[SP]could[SP]call\nghost[SP]stories[SP]rumors,[SP]in[SP]a[SP]way...[1205][U+000F][SP]Then[SP]could\nthis[SP]be...?",
     "nom_fr": "Ginko",
-    "texte_fr": "A y penser, les histoires de fantômes sont\ndes rumeurs...[1205][U+000F] Alors ça veut dire...?"
+    "texte_fr": "A y penser, les histoires de fantômes sont\ndes rumeurs... Alors ça veut dire...?"
   },
   {
     "id": 5,
@@ -157,7 +157,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "We're[SP]ready[SP]to[SP]go![1205][U+000F][SP]All[SP]that's[SP]left[SP]is[SP]to\nbeat[SP]Hanako![SP]Let's[SP]do[SP]this,[SP]Chinyan!",
     "nom_fr": "Lisa",
-    "texte_fr": "On est prêts![1205][U+000F] Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
+    "texte_fr": "On est prêts! Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
   },
   {
     "id": 10,
@@ -173,7 +173,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "We're[SP]ready[SP]to[SP]go![1205][U+000F][SP]All[SP]that's[SP]left[SP]is[SP]to\nbeat[SP]Hanako![SP]Let's[SP]do[SP]this,[SP]Chinyan!",
     "nom_fr": "Ginko",
-    "texte_fr": "On est prêts![1205][U+000F] Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
+    "texte_fr": "On est prêts! Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
   },
   {
     "id": 11,
@@ -189,7 +189,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Hey,[SP]Chinyan.[SP]There[SP]might[SP]be[SP]other[SP]demons\nbesides[SP]Hanako[SP]who[SP]appear[SP]if[SP]we[SP]spread[SP]rumors\nabout[SP]them!",
     "nom_fr": "Lisa",
-    "texte_fr": "Hé, Chinyan. D'autres démons peuvent\napparaître si on répand des rumeurs sur eux!"
+    "texte_fr": "Hé, Chinyan. D'autres démons peuvent\napparaître si on répand\ndes rumeurs sur eux!"
   },
   {
     "id": 12,
@@ -205,7 +205,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]Chinyan.[SP]There[SP]might[SP]be[SP]other[SP]demons\nbesides[SP]Hanako[SP]who[SP]appear[SP]if[SP]we[SP]spread[SP]rumors\nabout[SP]them!",
     "nom_fr": "Ginko",
-    "texte_fr": "Hé, Chinyan. D'autres démons peuvent\napparaître si on répand des rumeurs sur eux!"
+    "texte_fr": "Hé, Chinyan. D'autres démons peuvent\napparaître si on répand\ndes rumeurs sur eux!"
   },
   {
     "id": 13,
@@ -221,7 +221,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]remember[SP]the[SP]rumors[SP]about[SP][1432][NULL][NULL][0014]Hanako[SP]of[SP]the\ntoilets[1432][NULL][NULL][0014][SP]from[SP]when[SP]I[SP]was[SP]a[SP]kid.[1205]([SP]If[SP]she[SP]really\nexists,[SP]that'd[SP]be[SP]a[SP]great[SP]scoop!",
     "nom_fr": "Maya",
-    "texte_fr": "Je me souviens des rumeurs sur [1432][NULL][NULL][0014]Hanako\ndes toilettes[1432][NULL][NULL][0014] quand j'étais gamine.[1205](\nSi elle[1205][U+000F] existe vraiment, quel scoop!"
+    "texte_fr": "Je me souviens des rumeurs sur [1432][NULL][NULL][0014]Hanako\ndes toilettes[1432][NULL][NULL][0014] quand j'étais gamine.[1205](\nSi elle existe vraiment, quel scoop!"
   },
   {
     "id": 14,
@@ -253,7 +253,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Hanako,[SP]huh?[1205][U+000F][SP]She's[SP]a[SP]tough[SP]nut[SP]to[SP]crack...[1205][U+000F]\nShe's[SP]resistant[SP]to[SP]fire[SP]and[SP]physical[SP]attacks.",
     "nom_fr": "Yukino",
-    "texte_fr": "Hanako, hein?[1205][U+000F] Elle n'est pas facile...[1205][U+000F] Elle\nrésiste au feu et aux attaques physiques."
+    "texte_fr": "Hanako, hein? Elle n'est pas facile... Elle\nrésiste au feu et aux attaques physiques."
   },
   {
     "id": 16,
@@ -301,7 +301,7 @@
     "nom_orig": "Noriko",
     "texte_orig": "I[SP]want[SP]to[SP]hurry[SP]and[SP]pick[SP]up[SP]the[SP]search[SP]for\nSister![1205][001E][SP]She[SP]hasn't[SP]given[SP]up[SP]on[SP]her[SP]dream[SP]yet!\nShe[SP]needs[SP]these[SP]shoes!",
     "nom_fr": "Noriko",
-    "texte_fr": "Je veux vite chercher la grande sœur![1205][001E]\nElle n'a pas abandonné son rêve! Elle\na besoin de ces [1205][U+000F] chaussures!"
+    "texte_fr": "Je veux vite chercher la grande sœur![1205][001E]\nElle n'a pas abandonné son rêve! Elle\na besoin de ces  chaussures!"
   },
   {
     "id": 19,
@@ -317,7 +317,7 @@
     "nom_orig": "Noriko",
     "texte_orig": "I[SP]guess[SP]the[SP]club[SP]won't[SP]be[SP]meeting[SP]today,[SP]but[SP]I\ncan't[SP]go[SP]home[SP]because[SP]the[SP]principal[SP]ordered\nus[SP]to[SP]clean[SP]up![SP]I[SP]have[SP]to[SP]find[SP]Sister...",
     "nom_fr": "Noriko",
-    "texte_fr": "Le club est annulé, mais je peux pas\nrentrer - le proviseur a dit de nettoyer!\nJe dois trouver la grande [1205][U+000F] sœur..."
+    "texte_fr": "Le club est annulé, mais je peux pas\nrentrer - le proviseur a dit de nettoyer!\nJe dois trouver la grande  sœur..."
   },
   {
     "id": 20,
@@ -365,7 +365,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Thanks[SP]for[SP]your[SP]help.[SP]All[SP]the[SP]emblems[SP]in[SP]this\nclassroom[SP]should[SP]be[SP]destroyed.[SP]I[SP]hope[SP]that\nputs[SP]an[SP]end[SP]to[SP]this[SP]madness...",
     "nom_fr": "Lycéen",
-    "texte_fr": "Merci pour ton aide. Tous les emblèmes de\ncette salle devraient être détruits.\nJ'espère que ça mettra fin à cette [1205][U+000F] folie..."
+    "texte_fr": "Merci pour ton aide. Tous les emblèmes de\ncette salle devraient être détruits.\nJ'espère que ça mettra\nfin à cette  folie..."
   },
   {
     "id": 23,
@@ -381,7 +381,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "As[SP]far[SP]as[SP]I[SP]know,[SP]the[SP]emblem[SP]here[SP]is[SP]the[SP]last\none...[1205][U+000F][SP]Oh,[SP]wait,[SP]no[SP]it[SP]wasn't![1205][U+000F][SP]There's\nsome[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge[SP]too!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Pour autant que je sache, cet emblème est\nle dernier...[1205][U+000F] Oh, attendez, non![1205][U+000F] Il y a des\nemblèmes dans la salle des profs aussi!"
+    "texte_fr": "Pour autant que je sache, cet emblème est\nle dernier... Oh, attendez, non! Il y a des\nemblèmes dans la salle des profs aussi!"
   },
   {
     "id": 24,
@@ -445,7 +445,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "The[SP]curse[SP]has[SP]been[SP]lifted[SP]thanks[SP]to[SP]the\nprincipal.[SP]Not[SP]that[SP]I[SP]was[SP]worried[SP]at[SP]all.\nI[SP]knew[SP]this[SP]would[SP]happen.",
     "nom_fr": "Lycéen",
-    "texte_fr": "La malédiction est levée grâce au\nproviseur. Pas que j'étais inquiet de\ntoute[1205][U+000F] façon. Je savais que ça arrivait."
+    "texte_fr": "La malédiction est levée grâce au\nproviseur. Pas que j'étais inquiet de\ntoute façon. Je savais que ça arrivait."
   },
   {
     "id": 28,
@@ -477,7 +477,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Please,[SP]Senpai![SP]Defeat[SP]Hanako[SP]and[SP]bring[SP]back\nproof[SP]she[SP]really[SP]exists,[SP]and[SP]I'll[SP]make[SP]sure\nto[SP]reward[SP]you[SP]with[SP]a[SP]little[SP]something!",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "S'il vous plaît, senpai! Battez Hanako et\nramenez la preuve qu'elle existe vraiment,[1205][U+000F]\net je vous récompenserai avec quelque chose!"
+    "texte_fr": "S'il vous plaît, senpai! Battez Hanako et\nramenez la preuve qu'elle existe vraiment,\net je vous\nrécompenserai avec quelque chose!"
   },
   {
     "id": 30,
@@ -509,7 +509,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Please,[SP]Senpai![SP]Defeat[SP]Hanako[SP]and[SP]bring[SP]back\nproof[SP]she[SP]really[SP]exists,[SP]and[SP]I'll[SP]make[SP]sure\nto[SP]reward[SP]you[SP]with[SP]a[SP]little[SP]something!",
     "nom_fr": "Lycéen",
-    "texte_fr": "S'il vous plaît, senpai! Battez Hanako et\nramenez la preuve qu'elle existe vraiment,[1205][U+000F]\net je vous récompenserai avec quelque chose!"
+    "texte_fr": "S'il vous plaît, senpai! Battez Hanako et\nramenez la preuve qu'elle existe vraiment,\net je vous\nrécompenserai avec quelque chose!"
   },
   {
     "id": 32,
@@ -525,7 +525,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Hanako[SP]should[SP]still[SP]be[SP]here[SP]in[SP]Sevens.\nYou're[SP]my[SP]only[SP]hope,[SP]Senpai![SP]I'm[SP]counting\non[SP]you[SP]to[SP]bring[SP]back[SP]the[SP]proof!",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Hanako devrait encore être ici à Seven.\nVous êtes mon seul espoir, senpai! Je\ncompte[1205][U+000F] sur vous pour ramener la preuve!"
+    "texte_fr": "Hanako devrait encore être ici à Seven.\nVous êtes mon seul espoir, senpai! Je\ncompte sur vous pour ramener la preuve!"
   },
   {
     "id": 33,
@@ -541,7 +541,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Hanako[SP]should[SP]still[SP]be[SP]here[SP]in[SP]Sevens.\nYou're[SP]my[SP]only[SP]hope,[SP]Senpai![SP]I'm[SP]counting\non[SP]you[SP]to[SP]bring[SP]back[SP]the[SP]proof!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Hanako devrait encore être ici à Seven.\nVous êtes mon seul espoir, senpai! Je\ncompte[1205][U+000F] sur vous pour ramener la preuve!"
+    "texte_fr": "Hanako devrait encore être ici à Seven.\nVous êtes mon seul espoir, senpai! Je\ncompte sur vous pour ramener la preuve!"
   },
   {
     "id": 34,
@@ -557,7 +557,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Whoa![SP]This[SP]is[SP]great,[SP]Senpai![SP]S-So[SP]you[SP]brought\nback[SP][E4][NULL][NULL][U+0006]Hanako's[SP]Nametag[E4][NULL][NULL][0002],[SP]huh?[SP]I-I'm[SP]gonna[SP]show\nthis[SP]to[SP]all[SP]those[SP]doubters[SP]right[SP]now!",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Ouah! C'est super, senpai! V-Vous avez ramené\nle [E4][NULL][NULL][U+0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout[1205][U+000F] de suite!"
+    "texte_fr": "Ouah! C'est super,\nsenpai! V-Vous avez ramené\nle [E4][NULL][NULL][U+0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout de suite!"
   },
   {
     "id": 35,
@@ -573,7 +573,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "As[SP]thanks,[SP]I'll[SP]give[SP]you[SP]5[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]s!",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Pour te remercier, je te donne 5 [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]!"
+    "texte_fr": "Pour te remercier, je\nte donne 5 [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]!"
   },
   {
     "id": 36,
@@ -589,7 +589,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Whoa![SP]This[SP]is[SP]great,[SP]Senpai![SP]S-So[SP]you[SP]brought\nback[SP][E4][NULL][NULL][U+0006]Hanako's[SP]Nametag[E4][NULL][NULL][0002],[SP]huh?[SP]I-I'm[SP]gonna[SP]show\nthis[SP]to[SP]all[SP]those[SP]doubters[SP]right[SP]now!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Ouah! C'est super, senpai! V-Vous avez ramené\nle [E4][NULL][NULL][U+0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout[1205][U+000F] de suite!"
+    "texte_fr": "Ouah! C'est super,\nsenpai! V-Vous avez ramené\nle [E4][NULL][NULL][U+0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout de suite!"
   },
   {
     "id": 37,
@@ -621,7 +621,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Arrrgh![SP]No[SP]one[SP]believes[SP]me[SP]even[SP]when[SP]I[SP]show\nthem[SP]Hanako's[SP]nametag![SP]Tell[SP]them,[SP]Senpai!",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Arrrgh! Personne me croit même quand je montre\nle badge de Hanako! Dites-leur, senpai!"
+    "texte_fr": "Arrrgh! Personne me croit\nmême quand je montre\nle badge de Hanako! Dites-leur, senpai!"
   },
   {
     "id": 39,
@@ -637,7 +637,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Arrrgh![SP]No[SP]one[SP]believes[SP]me[SP]even[SP]when[SP]I[SP]show\nthem[SP]Hanako's[SP]nametag![SP]Tell[SP]them,[SP]Senpai!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Arrrgh! Personne me croit même quand je montre\nle badge de Hanako! Dites-leur, senpai!"
+    "texte_fr": "Arrrgh! Personne me croit\nmême quand je montre\nle badge de Hanako! Dites-leur, senpai!"
   },
   {
     "id": 40,
@@ -717,7 +717,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "That[SP]guy's[SP]a[SP]riot.[SP]He's[SP]showing[SP]everyone[SP]an\nelementary[SP]school[SP]nametag[SP]that[SP]says[SP][1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014]\nand[SP]insisting[SP]it's[SP]proof[SP]that[SP]she[SP]exists.",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Ce gars est vraiment comique. Il montre à\ntout le monde un badge d'école primaire qui\ndit[1205][U+000F] [1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014] en insistant que c'est la preuve."
+    "texte_fr": "Ce gars est vraiment comique. Il montre à\ntout le monde un badge d'école primaire qui\ndit [1432][NULL][NULL][0014]Hanako[1432][NULL][NULL][0014] en insistant\nque c'est la preuve."
   },
   {
     "id": 45,
@@ -733,7 +733,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Thanks[SP]for[SP]your[SP]help.[SP]All[SP]the[SP]emblems[SP]in[SP]this\nclassroom[SP]should[SP]be[SP]destroyed.[SP]I[SP]hope[SP]that\nputs[SP]an[SP]end[SP]to[SP]this[SP]madness...",
     "nom_fr": "Lycéen",
-    "texte_fr": "Merci pour ton aide. Tous les emblèmes de\ncette salle devraient être détruits.\nJ'espère que ça mettra fin à cette [1205][U+000F] folie..."
+    "texte_fr": "Merci pour ton aide. Tous les emblèmes de\ncette salle devraient être détruits.\nJ'espère que ça mettra\nfin à cette  folie..."
   },
   {
     "id": 46,
@@ -749,7 +749,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "As[SP]far[SP]as[SP]I[SP]know,[SP]the[SP]emblem[SP]here[SP]is[SP]the[SP]last\none...[1205][U+000F][SP]Oh,[SP]wait,[SP]no[SP]it[SP]wasn't![1205][U+000F][SP]There's\nsome[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge[SP]too!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Pour autant que je sache, cet emblème est\nle dernier...[1205][U+000F] Oh, attendez, non![1205][U+000F] Il y a des\nemblèmes dans la salle des profs aussi!"
+    "texte_fr": "Pour autant que je sache, cet emblème est\nle dernier... Oh, attendez, non! Il y a des\nemblèmes dans la salle des profs aussi!"
   },
   {
     "id": 47,
@@ -781,7 +781,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "You[SP]destroyed[SP]that[SP]one,[SP][1112]-senpai.\nNow[SP]go[SP]and[SP]take[SP]care[SP]of[SP]the[SP]others![E1][E2][E3]>[SP]It's[SP]the[SP]remnants[SP]of[SP]a[SP]clock[SP]that[SP]used[SP]to[SP]be\non[SP]the[SP]wall...\n[E1][E2][E3]>[SP]There's[SP]a[SP]clock[SP]on[SP]the[SP]wall[SP]with[SP]the[SP]school\nemblem[SP]on[SP]it.",
     "nom_fr": "Lycéen",
-    "texte_fr": "Tu as détruit celui-là, [1112]-senpai.\nMaintenant va t'occuper des autres![E1][E2][E3]> Ce\nsont les restes d'une horloge qui[1205][U+000F] était\nau mur... [E1][E2][E3]> Il y a une horloge au mur\navec l'emblème de l'école dessus."
+    "texte_fr": "Tu as détruit celui-là, [1112]-senpai.\nMaintenant va t'occuper des autres![E1][E2][E3]> Ce\nsont les restes d'une horloge qui était\nau mur... [E1][E2][E3]> Il y a une horloge au mur\navec l'emblème de l'école dessus."
   },
   {
     "id": 49,

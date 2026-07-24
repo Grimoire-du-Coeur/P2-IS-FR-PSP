@@ -29,7 +29,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Grrrr![SP]Like[SP]father,[SP]like[SP]son![SP]I[SP]was[SP]the[SP]sweetest\nlittle[SP]boy[SP]when[SP]I[SP]was[SP]his[SP]age.[SP]Just[SP]adorable.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Grrr! Tel père, tel fils! Moi\nj'étais bien plus gentil à son\nâge. Un garçon vraiment [1205][U+000F] adorable."
+    "texte_fr": "Grrr! Tel père, tel fils! Moi\nj'étais bien plus gentil à son\nâge. Un garçon vraiment  adorable."
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]this[SP]guy[SP]says[SP]he's[SP]in[SP]the[SP]Masked[SP]Circle.\nShould[SP]we[SP]tell[SP]him[SP]that[SP]even[SP]with[SP]the[SP]best\narmor,[SP]he's[SP]screwed[SP]if[SP]he[SP]messes[SP]with[SP]us?",
     "nom_fr": "Ginko",
-    "texte_fr": "Hé, ce gars dit être membre du Cercle Masqué.\nOn le prévient que même avec la meilleure [1205][U+000F]\narmure, on l'explosera s'il nous cherche?"
+    "texte_fr": "Hé, ce gars dit\nêtre membre du Cercle Masqué.\nOn le prévient que même avec la meilleure \narmure, on l'explosera s'il nous cherche?"
   },
   {
     "id": 3,
@@ -77,7 +77,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Umm...[1205][U+000A][SP]A-Are[SP]you[SP]the[SP]owner's[SP]son?[1205][U+000F][SP]H-Hello...",
     "nom_fr": "Maya",
-    "texte_fr": "Hum,[1205][U+000A] Êtes-vous le fils du gérant?[1205][U+000F] Salut..."
+    "texte_fr": "Hum,[1205][U+000A] Êtes-vous le fils du gérant? Salut..."
   },
   {
     "id": 5,
@@ -109,7 +109,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Try[SP]not[SP]to[SP]pick[SP]on[SP]them[SP]too[SP]much,[SP]Lisa...[1205][001E]\nThey[SP]are[SP]in[SP]the[SP]Masked[SP]Circle,[SP]but[SP]apart[SP]from\nthat,[SP]they're[SP]no[SP]different[SP]from[SP]anyone[SP]else...",
     "nom_fr": "Jun",
-    "texte_fr": "Ne sois pas trop rude avec eux, Lisa...[1205][001E]\nIls ont beau être dans le Cercle Masqué,\nce[1205][U+000F] sont des gens comme les autres..."
+    "texte_fr": "Ne sois pas trop rude avec eux, Lisa...[1205][001E]\nIls ont beau être dans le Cercle Masqué,\nce sont des gens comme les autres..."
   },
   {
     "id": 7,
@@ -125,7 +125,7 @@
     "nom_orig": "Jun",
     "texte_orig": "My[SP]younger[SP]days...[1205][001E][SP]They're[SP]nostalgic,[SP]and[SP]sad\nas[SP]well...[1205][001E][SP]But[SP]I[SP]can't[SP]keep[SP]dwelling[SP]on[SP]the\npast[SP]forever.",
     "nom_fr": "Jun",
-    "texte_fr": "Mon enfance...[1205][001E] Me rend nostalgique,\net triste aussi...[1205][001E] Mais je dois\ncesser d'être bloqué[1205][U+000F] dans le passé."
+    "texte_fr": "Mon enfance...[1205][001E] Me rend nostalgique,\net triste aussi...[1205][001E] Mais je dois\ncesser d'être bloqué dans le passé."
   },
   {
     "id": 8,
@@ -249,7 +249,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Looks[SP]like[SP]our[SP]comrades[SP]are[SP]fighting[SP]against\nthe[SP]Last[SP]Battalion[SP]inside[SP]that[SP]temple[SP]as[SP]we\nspeak.[1205][U+000F][SP]I[SP]better[SP]hurry[SP]and[SP]help[SP]them!",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "Nos camarades semblent encore se battre\ncontre le Bataillon dans le temple.[1205][U+000F] Je\ndois me dépêcher d'aller les aider!"
+    "texte_fr": "Nos camarades semblent encore se battre\ncontre le Bataillon dans le temple. Je\ndois me dépêcher d'aller les aider!"
   },
   {
     "id": 15,
@@ -265,7 +265,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "...But[SP]the[SP]armor[SP]here[SP]is[SP]a[SP]little[SP]pricey...[1205][U+000F]\nAnd[SP]going[SP]into[SP]battle[SP]without[SP]it[SP]is[SP]suicide...[1205][U+000F]\nI've[SP]gotta[SP]do[SP]something[SP]about[SP]that[SP]first...",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "... Mais les armures ici ne sont pas\ndonnées...[1205][U+000F] Et aller au front sans serait du\nsuicide...[1205][U+000F] Je dois d'abord m'occuper de ça..."
+    "texte_fr": "... Mais les armures ici ne sont pas\ndonnées... Et aller au front sans serait du\nsuicide... Je dois\nd'abord m'occuper de ça..."
   },
   {
     "id": 16,
@@ -389,7 +389,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "That's[SP]gonna[SP]be[SP][120E][NULL][SP]yen.\n[1208][0002]Yes\nNo",
     "nom_fr": "Siffleur",
-    "texte_fr": "Ça fera [120E][NULL] yen.\n[1208][0002]Oui\nNon",
+    "texte_fr": "Ça fera [120E][NULL] yen.\n[1208][0002]Oui[0014]Non",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -423,7 +423,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "Only[SP]certain[SP]people[SP]can[SP]wear[SP]certain[SP]pieces\nof[SP]armor.[SP]Check[SP]before[SP]you[SP]buy[SP]anything,\nbecause[SP]all[SP]sales[SP]here[SP]are[SP]final.",
     "nom_fr": "Siffleur",
-    "texte_fr": "Chaque personne ne peut porter que\ncertains types de pièces. Vérifie avant\nd'acheter,[1205][U+000F] car tu peux plus annuler après."
+    "texte_fr": "Chaque personne ne peut porter que\ncertains types de pièces. Vérifie avant\nd'acheter, car tu peux plus annuler après."
   },
   {
     "id": 25,

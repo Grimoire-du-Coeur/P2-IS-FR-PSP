@@ -13,7 +13,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Man,[SP]what's[SP]keeping[SP]the[SP]others?[SP]Is[SP]them[SP]doing\nwhatever[SP]they[SP]want[SP]going[SP]to[SP]be[SP]a[SP]problem?[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nL-Lisa!?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mince, où sont passés les autres? Les laisser\nfaire, ça va poser problème?[E1][E2]\n[E3][E4][NULL][NULL]\"Jun L-Lisa!?"
+    "texte_fr": "Mince, où sont passés\nles autres? Les laisser\nfaire, ça va poser problème?[E1][E2]\n[E3][E4][NULL][NULL]\"Jun L-Lisa!?"
   },
   {
     "id": 1,
@@ -205,7 +205,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "If[SP]Big[SP]Maya's[SP]right,[SP]you[SP]can[SP]thank[SP]me[SP]for\nmaking[SP]this[SP]Velvet[SP]Room[SP]appear.[1205][001E][SP]Heheheh...\nI[SP]await[SP]your[SP]fawning[SP]display[SP]of[SP]gratitude!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Si même Maya a raison, tu peux me remercier\nd'avoir fait apparaître la Velvet Room. Eh\neh... J'attends votre [1205][U+000F] gratitude!"
+    "texte_fr": "Si même Maya a raison, tu peux me remercier\nd'avoir fait apparaître la Velvet Room. Eh\neh... J'attends votre  gratitude!"
   },
   {
     "id": 13,
@@ -301,7 +301,7 @@
     "nom_orig": "Maya",
     "texte_orig": "The[SP]reason[SP]the[SP]three[SP]of[SP]us[SP]had[SP]so[SP]much[SP]trouble\nis[SP]because[SP]we[SP]assumed[SP]it[SP]had[SP]to[SP]be[SP]a[SP]trap!",
     "nom_fr": "Maya",
-    "texte_fr": "La raison pour laquelle on a eu tant de mal,\nnous trois, c'est qu'on pensait à un piège!"
+    "texte_fr": "La raison pour laquelle on\na eu tant de mal,\nnous trois, c'est qu'on pensait à un piège!"
   },
   {
     "id": 19,
@@ -317,6 +317,6 @@
     "nom_orig": "Jun",
     "texte_orig": "This[SP]doesn't[SP]sit[SP]well[SP]with[SP]me...[1205][001E][SP]There[SP]has[SP]to\nbe[SP]something[SP]behind[SP]it[SP]all.[SP]Let's[SP]be[SP]extra\ncareful[SP]going[SP]forward,[SP][1113].",
     "nom_fr": "Jun",
-    "texte_fr": "Ça me met mal à l'aise... Y a un truc louche\nlà-dessous. Soyons trés prudents, [1113]."
+    "texte_fr": "Ça me met mal à\nl'aise... Y a un truc louche\nlà-dessous. Soyons trés prudents, [1113]."
   }
 ]

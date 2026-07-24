@@ -45,7 +45,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Yo,[SP]guys![SP]You[SP]don't[SP]want[SP]to[SP]catch[SP]the[SP]weird\ndisease,[SP]right?[SP]Then[SP]why're[SP]you[SP]listening[SP]to\nthe[SP]principal?[SP]This[SP]is[SP]one[SP]creepy[SP]school...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Yo, les gars! Vous voulez pas choper la\nmaladie bizarre, non? Alors pourquoi écouter\nle directeur? Ce bahut est [1205][U+000F] flippant..."
+    "texte_fr": "Yo, les gars! Vous voulez pas choper la\nmaladie bizarre, non?\nAlors pourquoi écouter\nle directeur? Ce bahut est  flippant..."
   },
   {
     "id": 3,
@@ -109,7 +109,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "*sta[1205][U+000F]a[1205][U+000F]a[1205][U+000F]a[1205][U+000F]are*\nIs[SP]Maya-san...[1205][001E][SP]Nah,[SP]it's[SP]just[SP]my[SP]imagination.\nIt's[SP]gotta[SP]be!",
     "nom_fr": "Ginko",
-    "texte_fr": "*fi[1205][U+000F]i[1205][U+000F]i[1205][U+000F]i[1205][U+000F]xe* Maya-san...[1205][001E] Nan, c'est\njuste mon imagination. Sûrement!"
+    "texte_fr": "*fiiiixe* Maya-san...[1205][001E] Nan, c'est\njuste mon imagination. Sûrement!"
   },
   {
     "id": 7,
@@ -125,7 +125,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "H-Hey,[SP][1113],[SP]maybe[SP]the[SP]principal's[SP]right\nand[SP]we[SP]should[SP]respect[SP]the[SP]school[SP]more...[1205]([SP]Wh-What\nam[SP]I[SP]saying!?[SP]We[SP]gotta[SP]destroy[SP]the[SP]emblems!",
     "nom_fr": "Ginko",
-    "texte_fr": "Hé, [1113], le dirlo a peut-être raison,\nrespectons plus le lycée...[1205]( Q-Quoi!?\nQu'est-ce que je dis!? Faut casser les [1101]emblèmes!"
+    "texte_fr": "Hé, [1113], le dirlo a peut-être raison,\nrespectons plus le lycée...[1205]( Q-Quoi!?\nQu'est-ce que je dis!?\nFaut casser les [1101]emblèmes!"
   },
   {
     "id": 8,
@@ -173,7 +173,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Wh-Whoa,[SP]hold[SP]on[SP]there![1205][001E][SP]That's[SP]not[SP]why[SP]we[SP]came\nto[SP]interview[SP]students.[SP]We[SP]were[SP]just[SP]here[SP]to\ninvestigate[SP]Joker[SP]and[SP]the[SP]emblem[SP]curse...",
     "nom_fr": "Maya",
-    "texte_fr": "W-Whoa, doucement![1205][001E] On n'est pas venues\ninterviewer les élèves pour ça. On voulait\njuste[1205][U+000F] enquêter sur le Joker et la[1101]malédiction..."
+    "texte_fr": "W-Whoa, doucement![1205][001E] On n'est pas venues\ninterviewer les élèves pour ça. On voulait\njuste enquêter sur\nle Joker et la[1101]malédiction..."
   },
   {
     "id": 11,
@@ -221,7 +221,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Meaning[SP]if[SP]we[SP]find[SP]the[SP]principal,[SP]we[SP]may[SP]find\nJoker[SP]with[SP]him...[1205][001E][SP]Heheh![SP]This[SP]is[SP]my[SP]chance\nfor[SP]a[SP]real[SP]scoop!",
     "nom_fr": "Maya",
-    "texte_fr": "Donc si on trouve le dirlo, le Joker sera\nsûrement avec...[1205][001E] Héhé! À moi le super scoop!"
+    "texte_fr": "Donc si on trouve le dirlo, le Joker sera\nsûrement avec...[1205][001E] Héhé! À\nmoi le super scoop!"
   },
   {
     "id": 14,
@@ -285,7 +285,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "That[SP]reminds[SP]me,[SP]one[SP]of[SP]the[SP]students[SP]mentioned\nemblems[SP]in[SP]the[SP]teachers'[SP]lounge.[1205][U+000F][SP]I[SP]think[SP]the\nones[SP]there[SP]might[SP]be[SP]our[SP]last[SP]ones.",
     "nom_fr": "Yukino",
-    "texte_fr": "Ça me rappelle, un élève a mentionné des\nemblèmes dans la salle des profs.[1205][U+000F] Ceux-là\npourraient bien être les derniers."
+    "texte_fr": "Ça me rappelle, un élève a mentionné des\nemblèmes dans la salle des profs. Ceux-là\npourraient bien être les derniers."
   },
   {
     "id": 18,
@@ -397,7 +397,7 @@
     "nom_orig": "Ill[SP]male[SP]student",
     "texte_orig": "Y-Yeah...[SP]If[SP]the[SP]principal[SP]says[SP]so...\nEven[SP]though[SP]I'm[SP]cursed,[SP]I[SP]gotta[SP]respect\nthe[SP]school...",
     "nom_fr": "Élève malade (G)",
-    "texte_fr": "O-Ouais... Si le directeur le dit... Même si\nje suis maudit, je dois respecter le lycée..."
+    "texte_fr": "O-Ouais... Si le directeur\nle dit... Même si\nje suis maudit, je\ndois respecter le lycée..."
   },
   {
     "id": 25,
@@ -445,7 +445,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Oh[SP]no...[SP]Senpai,[SP]I[SP]heard[SP]Principal[SP]Hanya\ngave[SP]his[SP]life[SP]saving[SP]us.[SP]He's[SP]this[SP]school's\nreal[SP]hero!",
     "nom_fr": "Élève (Garçon)",
-    "texte_fr": "Oh non... Senpai, le dirlo Hanya a donné sa\nvie pour nous. C'est le vrai héros d'ici!"
+    "texte_fr": "Oh non... Senpai, le Proviseur Hanya a donné sa\nvie pour nous. C'est le vrai héros d'ici!"
   },
   {
     "id": 28,
@@ -509,7 +509,7 @@
     "nom_orig": "Ill[SP]female[SP]student",
     "texte_orig": "Hrgh...[SP]I[SP]gotta[SP]clean[SP]up,[SP]'cause[SP]the[SP]principal\nsaid[SP]so.[SP]Even[SP]with[SP]my[SP]face[SP]like[SP]this...[SP]Dammit,\nI'm[SP]starting[SP]to[SP]get[SP]really[SP]mad!",
     "nom_fr": "Élève malade (F)",
-    "texte_fr": "Argh... Je dois nettoyer, parce que le\ndirecteur l'a dit. Même avec cette tête...\nBon sang, je commence vraiment à [1205][U+000F] m'énerver!"
+    "texte_fr": "Argh... Je dois nettoyer, parce que le\ndirecteur l'a dit. Même avec cette tête...\nBon sang, je commence\nvraiment à  m'énerver!"
   },
   {
     "id": 32,
@@ -541,7 +541,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "It's[SP]happened[SP]ever[SP]since[SP]the[SP]big[SP]clock[SP]started\nagain...[1205][U+000F][SP]Even[SP]the[SP]students[SP]who[SP]took[SP]their\nemblems[SP]off[SP]got[SP]sick,[SP]one[SP]after[SP]another...",
     "nom_fr": "Élève bandé (G)",
-    "texte_fr": "C'est arrivé dès que la grande horloge s'est\nremise en marche...[1205][U+000F] Même les élèves sans\nleur emblème tombent malades, un par un..."
+    "texte_fr": "C'est arrivé dès que\nla grande horloge s'est\nremise en marche... Même les élèves sans\nleur emblème tombent malades, un par un..."
   },
   {
     "id": 34,
@@ -557,7 +557,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "This[SP]school[SP]really[SP]is[SP]cursed...[1205][U+000F][SP]This[SP]is[SP]no\ntime[SP]to[SP]be[SP]hosting[SP]a[SP]school[SP]festival...[1205][U+000F]\nI[SP]hope[SP]everyone[SP]else[SP]gets[SP]sick[SP]too...",
     "nom_fr": "Élève bandé (G)",
-    "texte_fr": "Ce lycée est vraiment maudit...[1205][U+000F] Ce n'est\npas l'heure de faire la fête...[1205][U+000F] J'espère\nque les autres seront malades..."
+    "texte_fr": "Ce lycée est vraiment maudit... Ce n'est\npas l'heure de faire la fête... J'espère\nque les autres seront malades..."
   },
   {
     "id": 35,
@@ -589,7 +589,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Now[SP]Sevens[SP]will[SP]be[SP]known[SP]all[SP]over[SP]Japan[SP]as\na[SP]cursed[SP]school...[1205][U+000F][SP]Heeheehee...[SP]I'm[SP]done[SP]for...",
     "nom_fr": "Élève bandé (G)",
-    "texte_fr": "Seven sera connu dans tout le Japon comme un\nlycée maudit...[1205][U+000F] Héhéhé... Je suis fichu..."
+    "texte_fr": "Seven sera connu dans\ntout le Japon comme un\nlycée maudit... Héhéhé... Je suis fichu..."
   },
   {
     "id": 37,
@@ -605,7 +605,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "This[SP]school's[SP]cursed...[1205][U+000F][SP]So[SP]what's[SP]the[SP]point\nin[SP]taking[SP]good[SP]care[SP]of[SP]it?[1205][U+000F][SP]Well,[SP]might[SP]as\nwell[SP]still[SP]obey[SP]our[SP]principal...",
     "nom_fr": "Élève bandé (G)",
-    "texte_fr": "Ce lycée est maudit...[1205][U+000F] Alors à quoi\nbon en prendre soin?[1205][U+000F] Eh bien, autant\ncontinuer d'obéir à notre directeur..."
+    "texte_fr": "Ce lycée est maudit... Alors à quoi\nbon en prendre soin? Eh bien, autant\ncontinuer d'obéir à notre directeur..."
   },
   {
     "id": 38,
@@ -621,7 +621,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "This[SP]makes[SP]no[SP]sense...[1205][U+000F][SP]The[SP]curse[SP]is[SP]lifted,\nbut[SP]the[SP]festival's[SP]still[SP]canceled?[1205][U+000F][SP]Well,[SP]not\nmuch[SP]point[SP]if[SP]no[SP]girls[SP]come,[SP]I[SP]guess...",
     "nom_fr": "Élève (Garçon)",
-    "texte_fr": "Ça n'a aucun sens...[1205][U+000F] Malédiction levée,\nmais la fête est annulée?[1205][U+000F] Pas d'intérêt\nsi aucune fille ne vient, je suppose..."
+    "texte_fr": "Ça n'a aucun sens... Malédiction levée,\nmais la fête est annulée? Pas d'intérêt\nsi aucune fille ne vient, je suppose..."
   },
   {
     "id": 39,
@@ -637,7 +637,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "This[SP]makes[SP]no[SP]sense...[1205][U+000F][SP]The[SP]curse[SP]is[SP]lifted,\nbut[SP]the[SP]festival's[SP]still[SP]canceled?[1205][U+000F][SP]I[SP]guess[SP]it's\nunderstandable[SP]since[SP]the[SP]principal[SP]just[SP]died...",
     "nom_fr": "Élève (Garçon)",
-    "texte_fr": "Ça n'a aucun sens...[1205][U+000F] La malédiction est levée,\nmais la fête est annulée?[1205][U+000F] C'est compréhensible\nvu que le directeur vient de mourir..."
+    "texte_fr": "Ça n'a aucun sens...\nLa malédiction est levée,\nmais la fête\nest annulée? C'est compréhensible\nvu que le directeur vient de mourir..."
   },
   {
     "id": 40,
@@ -653,7 +653,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "Everyone[SP]would[SP]run[SP]away[SP]if[SP]they[SP]could.[SP]But[SP]we\ncan't[SP]disobey[SP]the[SP]principal...[SP]I[SP]can't[SP]go[SP]home\nuntil[SP]the[SP]committee[SP]meeting[SP]is[SP]over,[SP]either.",
     "nom_fr": "Élève bandée (F)",
-    "texte_fr": "Tout le monde s'enfuirait si possible. Mais\non ne peut désobéir au directeur... Je ne[1205][U+000F]\npeux pas rentrer avant la fin de la réunion."
+    "texte_fr": "Tout le monde s'enfuirait si possible. Mais\non ne peut désobéir au directeur... Je ne\npeux pas rentrer avant\nla fin de la réunion."
   },
   {
     "id": 41,
@@ -733,6 +733,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "That[SP]reminds[SP]me,[SP]one[SP]of[SP]the[SP]students[SP]mentioned\nan[SP]emblem[SP]in[SP]the[SP]teacher's[SP]lounge.[1205][U+000F][SP]I[SP]think[SP]the\none[SP]there[SP]might[SP]be[SP]our[SP]last[SP]one.",
     "nom_fr": "Yukino",
-    "texte_fr": "Ça me rappelle, un élève a mentionné un\nemblème dans la salle des profs.[1205][U+000F] Celui-là\npourrait bien être notre dernier."
+    "texte_fr": "Ça me rappelle, un élève a mentionné un\nemblème dans la salle des profs. Celui-là\npourrait bien être notre dernier."
   }
 ]

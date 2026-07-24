@@ -45,7 +45,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Ooooh![1205][001E][SP]Ginko's[SP]all[SP]mad[SP]now![SP]One[SP]girl's[SP]vault\nis[SP]another[SP]man's[SP]lesson![E1][E2]\n\n\n[E3][E4][NULL][NULL]\"Ginko\nShut[SP]your[SP]face,[SP]Undie[SP]Bastard!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ooooh![1205][001E] Ginko pète un câble! Ce\nqui choque une fille instruit un\nhomme ![E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\n[1205][U+000F] Ferme-la, minus!"
+    "texte_fr": "Ooooh![1205][001E] Ginko pète un câble! Ce\nqui choque une fille instruit un\nhomme ![E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\n Ferme-la, minus!"
   },
   {
     "id": 3,
@@ -173,7 +173,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "It[SP]was[SP]your[SP]personality[SP]that[SP]got[SP]you[SP]rejected\nby[SP][1113],[SP]anyway![1205][001E][SP]Honestly,[SP]everyone's[SP]like\nyou[SP]at[SP]this[SP]school![SP]I[SP]hope[SP]they[SP]all[SP]get[SP]cursed!",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est ton caractère qui t'a valu d'être\nrejetée par [1113]![1205][001E] Toute cette école est\npareille! J'espère qu'ils soient tous[1205][U+000F] maudits!"
+    "texte_fr": "C'est ton caractère qui t'a valu d'être\nrejetée par [1113]![1205][001E] Toute cette école est\npareille! J'espère qu'ils\nsoient tous maudits!"
   },
   {
     "id": 11,
@@ -189,7 +189,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Huh!?[SP]Are[SP]you[SP]still[SP]bitching[SP]about[SP]that!?[1205][001E]\nI've[SP]told[SP]you[SP]a[SP]million[SP]times,[SP]you're[SP]not\nworthy[SP]to[SP]carry[SP]my[SP]makeup[SP]kit!",
     "nom_fr": "Ginko",
-    "texte_fr": "Hein!? Tu en es encore là!?[1205][001E] Je te l'ai\ndit mille fois, t'es même pas digne de\nporter ma trousse de [1205][U+000F] maquillage!"
+    "texte_fr": "Hein!? Tu en es encore là!?[1205][001E] Je te l'ai\ndit mille fois, t'es même pas digne de\nporter ma trousse de  maquillage!"
   },
   {
     "id": 12,
@@ -253,7 +253,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hmm...[SP]It's[SP]not[SP]coldness,[SP]really...[1205][001E][SP]And[SP]it\ndoesn't[SP]seem[SP]specifically[SP]directed[SP]toward[SP]that\nYoko[SP]girl...[1205][001E][SP]She's[SP]not[SP]bullied[SP]here,[SP]right?",
     "nom_fr": "Maya",
-    "texte_fr": "Hmm... C'est pas vraiment de la froideur...[1205][001E]\nEt c'est pas dirigé spécifiquement[1205][U+000F] contre\nYoko...[1205][001E] Elle n'est pas harcelée, si ?"
+    "texte_fr": "Hmm... C'est pas vraiment de la froideur...[1205][001E]\nEt c'est pas dirigé spécifiquement contre\nYoko...[1205][001E] Elle n'est pas harcelée, si ?"
   },
   {
     "id": 16,
@@ -285,7 +285,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]mean,[SP]she's[SP]so[SP]nice[SP]to[SP]you,[SP][1113]-kun![1205][001E]\nSure,[SP]she[SP]seems[SP]a[SP]little[SP]cold[SP]at[SP]times,[SP]but\ndeep[SP]down,[SP]I[SP]think[SP]she's[SP]a[SP]considerate[SP]girl.",
     "nom_fr": "Maya",
-    "texte_fr": "Je veux dire, elle est si gentille avec\ntoi, [1113]-kun![1205][001E] Certes froide parfois,\nmais au fond c'est une fille [1205][U+000F] attentionnée."
+    "texte_fr": "Je veux dire, elle est si gentille avec\ntoi, [1113]-kun![1205][001E] Certes froide parfois,\nmais au fond c'est une fille  attentionnée."
   },
   {
     "id": 18,
@@ -413,7 +413,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Oh[SP]man![SP]Did[SP]you[SP]already[SP]score[SP]with[SP]one[SP]of\nthem[SP]at[SP]school!?[SP]Geez,[SP]you're[SP]so[SP]lucky...\nCan't[SP]you[SP]share[SP]at[SP]least[SP]one[SP]of[SP]them?",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Oh là là! T'as déjà flirté avec l'une d'elles\nà l'école!? Pfff, t'as de la chance...[1205][U+000F] Tu\npeux pas m'en présenter une au moins?"
+    "texte_fr": "Oh là là! T'as\ndéjà flirté avec l'une d'elles\nà l'école!? Pfff, t'as de la chance... Tu\npeux pas m'en présenter une au moins?"
   },
   {
     "id": 26,
@@ -477,7 +477,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "I[SP]heard[SP]Junko[SP]Kurosu[SP]is[SP]a[SP]Sevens[SP]graduate!\nShe[SP]was[SP]a[SP]big[SP]deal[SP]about[SP]ten[SP]years[SP]ago[SP]before\ndisappearing,[SP]but[SP]she's[SP]making[SP]a[SP]comeback[SP]now.",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "J'ai entendu que Junko Kurosu est une\nancienne élève de Seven! Célèbre il y a dix\nans, elle a disparu mais revient [1205][U+000F] maintenant."
+    "texte_fr": "J'ai entendu que Junko Kurosu est une\nancienne élève de Seven! Célèbre il y a dix\nans, elle a disparu\nmais revient  maintenant."
   },
   {
     "id": 30,
@@ -493,7 +493,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "I[SP]don't[SP]care[SP]about[SP]their[SP]spat,[SP]but[SP]wouldn't\ndestroying[SP]emblems[SP]be[SP]a[SP]more[SP]productive[SP]use[SP]of\nour[SP]time?[SP]You[SP]should[SP]hurry,[SP][1112].",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Leur querelle m'importe peu, mais\nne serait-il pas mieux de détruire\nles emblèmes?[1205][U+000F] Dépêche-toi, [1112]."
+    "texte_fr": "Leur querelle m'importe peu, mais\nne serait-il pas mieux de détruire\nles emblèmes? Dépêche-toi, [1112]."
   },
   {
     "id": 31,
@@ -525,7 +525,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "Oh[SP]yeah,[SP]there[SP]were[SP]some[SP]emblems[SP]in[SP]the[SP]teachers'\nlounge[SP]on[SP]the[SP]second[SP]floor...[1205][U+000F][SP]But[SP]our[SP]teachers\nare[SP]there.[SP]I[SP]don't[SP]want[SP]them[SP]catching[SP]on!",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Ah oui, il y avait des emblèmes dans\nla salle des profs au deuxième\nétage...[1205][U+000F] Mais nos profs sont là. Je[1101]veux pas qu'ils s'en rendent compte!"
+    "texte_fr": "Ah oui, il y avait des emblèmes dans\nla salle des profs au deuxième\nétage... Mais nos profs sont là.\nJe[1101]veux pas qu'ils s'en rendent compte!"
   },
   {
     "id": 33,
@@ -541,7 +541,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "So[SP]how[SP]about[SP]you[SP]go[SP]destroy[SP]the[SP]ones[SP]in[SP]the\nteachers'[SP]lounge,[SP][1113].[1205][U+000F][SP]Sound[SP]good?\nI'm[SP]counting[SP]on[SP]you!",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Alors, et si tu allais détruire ceux\ndans la salle des profs, [1113]?[1205][U+000F] Ça\nte va? Je compte sur toi!"
+    "texte_fr": "Alors, et si tu allais détruire ceux\ndans la salle des profs, [1113]? Ça\nte va? Je compte sur toi!"
   },
   {
     "id": 34,
@@ -557,7 +557,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "Like[SP]I[SP]said[SP]before,[SP]I[SP]don't[SP]care[SP]about[SP]their\nspat,[SP]but[SP]the[SP]principal[SP]told[SP]us[SP]to[SP]clean[SP]up.\nQuit[SP]slacking,[SP]Yoko!",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Comme je disais, leur querelle m'importe\npeu, mais le proviseur nous a dit de\nnettoyer.[1205][U+000F] Arrête de traîner, Yoko!"
+    "texte_fr": "Comme je disais, leur querelle m'importe\npeu, mais le proviseur nous a dit de\nnettoyer. Arrête de traîner, Yoko!"
   },
   {
     "id": 35,
@@ -573,7 +573,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "I'm[SP]glad[SP]my[SP]face[SP]is[SP]back[SP]to[SP]normal,[SP]but[SP]I\nwish[SP]Yoko's[SP]hadn't[SP]been[SP]fixed![SP]It's[SP]true[SP]that\nshe's[SP]as[SP]beautiful[SP]as[SP]Junko[SP]Kurosu...",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Je suis contente que mon visage soit guéri,\nmais j'aurais voulu que Yoko reste[1205][U+000F] ainsi.\nElle est aussi belle que Junko Kurosu..."
+    "texte_fr": "Je suis contente que mon visage soit guéri,\nmais j'aurais voulu que Yoko reste ainsi.\nElle est aussi belle que Junko Kurosu..."
   },
   {
     "id": 36,
@@ -589,7 +589,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "That[SP]reminds[SP]me,[SP]the[SP]rumor[SP]is[SP]that[SP]Junko\nKurosu[SP]married[SP]a[SP]teacher[SP]from[SP]Sevens.\nThat[SP]was[SP]over[SP]ten[SP]years[SP]ago,[SP]though...",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Tiens, la rumeur dit que Junko Kurosu\na épousé un prof de Seven. C'était il\ny a plus de dix ans, cela [1205][U+000F] dit..."
+    "texte_fr": "Tiens, la rumeur dit que Junko Kurosu\na épousé un prof de Seven. C'était il\ny a plus de dix ans, cela  dit..."
   },
   {
     "id": 37,
@@ -669,7 +669,7 @@
     "nom_orig": "Ill[SP]Yoko",
     "texte_orig": "There's[SP]no[SP]doubt[SP]in[SP]my[SP]mind[SP]Lisa[SP]caused[SP]this\ncurse![SP]If[SP]she[SP]didn't,[SP]why[SP]hasn't[SP]it[SP]affected\nher,[SP]huh!?[SP]Give[SP]me[SP]back[SP]my[SP]face!",
     "nom_fr": "Yoko malade",
-    "texte_fr": "Je suis certaine que Lisa a causé cette\nmalédiction! Sinon, pourquoi ça ne l'a\npas touchée!? Rends-moi mon [1205][U+000F] visage!"
+    "texte_fr": "Je suis certaine que Lisa a causé cette\nmalédiction! Sinon, pourquoi ça ne l'a\npas touchée!? Rends-moi mon  visage!"
   },
   {
     "id": 42,
@@ -701,7 +701,7 @@
     "nom_orig": "Restored[SP]Yoko",
     "texte_orig": "What[SP]do[SP]you[SP]think[SP]of[SP]my[SP]real[SP]beauty!?\nLisa[SP]Silverman...[SP]The[SP]battle[SP]is[SP]on[SP]to[SP]see\nwhich[SP]of[SP]us[SP]will[SP]be[SP]crowned[SP]Miss[SP]Sevens!",
     "nom_fr": "Yoko guérie",
-    "texte_fr": "Qu'est-ce que tu penses de ma vraie beauté\n!? Lisa Silverman... Le combat commence[1205][U+000F]\npour Miss Seven! Qui sera couronnée?"
+    "texte_fr": "Qu'est-ce que tu penses de ma vraie beauté\n!? Lisa Silverman... Le combat commence\npour Miss Seven! Qui sera couronnée?"
   },
   {
     "id": 44,
@@ -717,7 +717,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Yoko's[SP]a[SP]pain,[SP]but[SP]that[SP]girl[SP]Lisa[SP]can[SP]be\npretty[SP]distant[SP]too.[SP]Does[SP]she[SP]think[SP]we're\nnot[SP]worthy[SP]of[SP]her[SP]because[SP]we're[SP]Japanese?",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Yoko est pénible, mais Lisa peut être assez\ndistante aussi. Elle pense qu'on n'est pas\ndignes d'elle car on est [1205][U+000F] japonais?"
+    "texte_fr": "Yoko est pénible, mais Lisa peut être assez\ndistante aussi. Elle pense qu'on n'est pas\ndignes d'elle car on est  japonais?"
   },
   {
     "id": 45,
@@ -781,7 +781,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "Oh[SP]yeah,[SP]there[SP]were[SP]some[SP]emblems[SP]in[SP]the[SP]teachers'\nlounge[SP]on[SP]the[SP]second[SP]floor...[1205][U+000F][SP]But[SP]our[SP]teachers\nare[SP]there.[SP]I[SP]don't[SP]want[SP]them[SP]catching[SP]on!",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Ah oui, il y avait des emblèmes dans\nla salle des profs au deuxième\nétage...[1205][U+000F] Mais nos profs sont là. Je[1101]veux pas qu'ils s'en rendent compte!"
+    "texte_fr": "Ah oui, il y avait des emblèmes dans\nla salle des profs au deuxième\nétage... Mais nos profs sont là.\nJe[1101]veux pas qu'ils s'en rendent compte!"
   },
   {
     "id": 49,
@@ -797,6 +797,6 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "So[SP]how[SP]about[SP]you[SP]go[SP]destroy[SP]the[SP]ones[SP]in[SP]the\nteachers'[SP]lounge,[SP][1113].[1205][U+000F][SP]Sound[SP]good?\nI'm[SP]counting[SP]on[SP]you!",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Alors, et si tu allais détruire ceux\ndans la salle des profs, [1113]?[1205][U+000F] Ça\nte va? Je compte sur toi!"
+    "texte_fr": "Alors, et si tu allais détruire ceux\ndans la salle des profs, [1113]? Ça\nte va? Je compte sur toi!"
   }
 ]

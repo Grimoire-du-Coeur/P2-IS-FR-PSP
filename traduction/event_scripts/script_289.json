@@ -45,7 +45,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]bet[SP]that[SP]King[SP]Leo[SP]guy[SP]was[SP]doing[SP]some[SP]kind[SP]of\nritual[SP]so[SP]the[SP]shrines[SP]would[SP]appear...[1205][001E][SP]That's[SP]why\nhe[SP]burned[SP]down[SP]the[SP]concert[SP]hall[SP]and[SP]museum.",
     "nom_fr": "Ginko",
-    "texte_fr": "Le Roi Lion faisait sûrement un rituel\npour faire venir les lieux...[1205][001E] C'est\npourquoi il a brûlé la salle et le [1205][U+000F] musée."
+    "texte_fr": "Le Roi Lion faisait sûrement un rituel\npour faire venir les lieux...[1205][001E] C'est\npourquoi il a brûlé la salle et le  musée."
   },
   {
     "id": 3,
@@ -109,7 +109,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]read[SP]somewhere[SP]that[SP]ancient[SP]Mayans[SP]tore\nout[SP]living[SP]people's[SP]hearts[SP]and[SP]used[SP]them[SP]as\nofferings[SP]to[SP]keep[SP]the[SP]sun[SP]from[SP]burning[SP]out...",
     "nom_fr": "Maya",
-    "texte_fr": "J'ai lu que les Mayas arrachaient le cœur à\nvif pour éviter que le soleil ne s'éteigne..."
+    "texte_fr": "J'ai lu que les Mayas arrachaient le cœur à\nvif pour éviter que\nle soleil ne s'éteigne..."
   },
   {
     "id": 7,
@@ -361,7 +361,7 @@
     "nom_orig": "Count",
     "texte_orig": "To[SP]say[SP]that[SP]the[SP]flow[SP]of[SP]time[SP]is[SP]destiny[SP]and\naccept[SP]annihilation[SP]is[SP]one[SP]option.[SP]To[SP]struggle\nagainst[SP]these[SP]final[SP]moments[SP]is[SP]another...",
     "nom_fr": "Comte",
-    "texte_fr": "Accepter que le flot du temps soit le\ndestin est une option. Résister à ces\ninstants ultimes[1205][U+000F] en est une autre..."
+    "texte_fr": "Accepter que le flot du temps soit le\ndestin est une option. Résister à ces\ninstants ultimes en est une autre..."
   },
   {
     "id": 22,
@@ -377,7 +377,7 @@
     "nom_orig": "Count",
     "texte_orig": "And[SP]I...?[1205][001E][SP]I[SP]would[SP]hope[SP]that[SP]you[SP]continue[SP]to\nrun[SP]until[SP]the[SP]end.[SP]I[SP]want[SP]the[SP]limits[SP]of[SP]man's\npotential[SP]to[SP]be[SP]tested.",
     "nom_fr": "Comte",
-    "texte_fr": "Et moi?![1205][001E] J'espère que vous courrez\njusqu'au bout. Je veux que les limites\ndu potentiel[1205][U+000F] humain soient éprouvées."
+    "texte_fr": "Et moi?![1205][001E] J'espère que vous courrez\njusqu'au bout. Je veux que les limites\ndu potentiel humain soient éprouvées."
   },
   {
     "id": 23,
@@ -409,7 +409,7 @@
     "nom_orig": "Count",
     "texte_orig": "Man[SP]cannot[SP]defy[SP]the[SP]working[SP]of[SP]time.[SP]Knowing\nthis,[SP]will[SP]you[SP]fight[SP]against[SP]the[SP]end?[1205][001E][SP]Yes...\nRise[SP]up[SP]against[SP]it.",
     "nom_fr": "Comte",
-    "texte_fr": "L'homme ne peut défier le temps. Le\nsachant, allez-vous combattre la fin?[1205][001E]\nOui...[1205][U+000F] Dressez-vous contre elle."
+    "texte_fr": "L'homme ne peut défier le temps. Le\nsachant, allez-vous combattre la fin?[1205][001E]\nOui... Dressez-vous contre elle."
   },
   {
     "id": 25,
@@ -457,7 +457,7 @@
     "nom_orig": "Quiet[SP]gentleman",
     "texte_orig": "Everything[SP]seems[SP]fleeting[SP]in[SP]the[SP]endless[SP]flow\nof[SP]time.[1205][U+000F][SP]But[SP]to[SP]see[SP]this[SP]city[SP]soar[SP]through\nthe[SP]skies...",
     "nom_fr": "Homme tranquille",
-    "texte_fr": "Tout semble éphémère dans le flot du temps.[1205][U+000F]\nMais voir cette ville voler dans les cieux..."
+    "texte_fr": "Tout semble éphémère dans le flot du temps.\nMais voir cette ville\nvoler dans les cieux..."
   },
   {
     "id": 28,
@@ -489,7 +489,7 @@
     "nom_orig": "Quiet[SP]gentleman",
     "texte_orig": "Rather[SP]than[SP]regret[SP]a[SP]past[SP]that[SP]cannot[SP]be\nchanged,[SP]one[SP]should[SP]look[SP]toward[SP]the[SP]future\nabout[SP]to[SP]come.[1205][U+000F][SP]So[SP]they[SP]say,[SP]but[SP]should[SP]we?",
     "nom_fr": "Homme tranquille",
-    "texte_fr": "Plutôt que de regretter un passé immuable,\non devrait se tourner vers l'avenir. [1205][U+000F]\nC'est ce qu'on dit, mais le faut-il?"
+    "texte_fr": "Plutôt que de regretter un passé immuable,\non devrait se tourner vers l'avenir. \nC'est ce qu'on dit, mais le faut-il?"
   },
   {
     "id": 30,
@@ -505,7 +505,7 @@
     "nom_orig": "Quiet[SP]gentleman",
     "texte_orig": "The[SP]past[SP]is[SP]the[SP]foundation[SP]of[SP]ourselves.[1205][U+000F][SP]It[SP]is\nthe[SP]only[SP]proof[SP]I[SP]have[SP]that[SP]I[SP]exist.[1205][U+000F][SP]I[SP]cannot\ngo[SP]on[SP]by[SP]ignoring[SP]it.",
     "nom_fr": "Homme tranquille",
-    "texte_fr": "Le passé est le fondement de\nnous-mêmes.[1205][U+000F] C'est ma seule preuve\nd'existence.[1205][U+000F] Je ne peux l'ignorer."
+    "texte_fr": "Le passé est le fondement de\nnous-mêmes. C'est ma seule preuve\nd'existence. Je ne peux l'ignorer."
   },
   {
     "id": 31,
@@ -521,7 +521,7 @@
     "nom_orig": "Quiet[SP]gentleman",
     "texte_orig": "I[SP]am[SP]a[SP]man[SP]who[SP]can[SP]only[SP]live[SP]for[SP]the[SP]past.[1205][U+000F]\nWho[SP]continues[SP]to[SP]gaze[SP]upon[SP]the[SP]fixed[SP]past\ncalled[SP]the[SP]present.[1205][U+000F][SP]That[SP]is[SP]best,[SP]I[SP]think.",
     "nom_fr": "Homme tranquille",
-    "texte_fr": "Je ne vis que pour le passé.[1205][U+000F]\nContempler ce passé figé qu'on nomme\nprésent.[1205][U+000F] [1205][U+000F] C'est ce qu'il y a de mieux."
+    "texte_fr": "Je ne vis que pour le passé.\nContempler ce passé figé qu'on nomme\nprésent.  C'est ce qu'il y a de mieux."
   },
   {
     "id": 32,
@@ -537,7 +537,7 @@
     "nom_orig": "Count",
     "texte_orig": "I[SP]see...[1205][U+000F][SP]So[SP]you[SP]spread[SP]a[SP]rumor[SP]that[SP]I[SP]stock\na[SP]legendary[SP]flower[SP]here...",
     "nom_fr": "Comte",
-    "texte_fr": "Je vois...[1205][U+000F] Vous avez répandu la\nrumeur que je vends cette fleur..."
+    "texte_fr": "Je vois... Vous avez répandu la\nrumeur que je vends cette fleur..."
   },
   {
     "id": 33,
@@ -585,7 +585,7 @@
     "nom_orig": "Count",
     "texte_orig": "My[SP]castle[SP]does[SP]handle[SP]the[SP]legendary[SP]flower.[1205][001E]\nBut[SP]it[SP]is[SP]a[SP]rare[SP]thing.[SP]I[SP]cannot[SP]part[SP]with[SP]it\neasily.[1205][001E][SP]If[SP]you[SP]doubled[SP]its[SP]price,[SP]then...\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nBuy[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Comte",
-    "texte_fr": "Mon château a bien cette fleur.[1205][001E]\nMais elle est rare. Dur de s'en\nséparer.[1205][001E] Si vous doubliez le prix...[1205][U+000F]\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nAcheter objets\nPapoter\nNon\nQuitter",
+    "texte_fr": "Mon château a bien cette fleur.[1205][001E]\nMais elle est rare. Dur de s'en\nséparer.[1205][001E] Si vous doubliez le prix...\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nAcheter objets\nPapoter\nNon\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -605,7 +605,7 @@
     "nom_orig": "Count",
     "texte_orig": "Welcome[SP]to[SP]Time[SP]Castle...[1205][U+000A][SP]The[SP]onrush[SP]of[SP]time[SP]is\nswift[SP]and[SP]unceasing.[1205][U+000A][SP]Now,[SP]state[SP]your[SP]business.\n[1208][U+0006][1210][U+03BA]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]Count\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Comte",
-    "texte_fr": "Bienvenue au Château du Temps...[1205][U+000A]\nLe flot du temps est\nrapide.[1205][U+000A] Dites-moi votre requête.[1205][U+000F]\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets\nPapoter\nNon\nQuitter",
+    "texte_fr": "Bienvenue au Château du Temps...[1205][U+000A]\nLe flot du temps est\nrapide.[1205][U+000A] Dites-moi votre requête.\n[1208][U+0006][1210][U+03BA]Acheter armes\nAcheter accessoires\nVendre objets\nPapoter\nNon\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -665,7 +665,7 @@
     "nom_orig": "Young[SP]man",
     "texte_orig": "You[SP]say[SP]that,[SP]but[SP]I[SP]bet[SP]you're[SP]just[SP]hiding[SP]it\nfrom[SP]us!",
     "nom_fr": "Jeune homme",
-    "texte_fr": "C'est ce que vous dites, mais vous la cachez!"
+    "texte_fr": "C'est ce que vous\ndites, mais vous la cachez!"
   },
   {
     "id": 40,
@@ -681,7 +681,7 @@
     "nom_orig": "Count",
     "texte_orig": "The[SP]answer[SP]is[SP]the[SP]same[SP]no[SP]matter[SP]how[SP]many[SP]times\nyou[SP]ask.[1205][U+000F][SP]There[SP]is[SP]no[SP]such[SP]thing[SP]as[SP]a[SP]legendary\nflower[SP]at[SP]this[SP]castle.",
     "nom_fr": "Comte",
-    "texte_fr": "Ma réponse ne change pas.[1205][U+000F] Il n'existe\npas de fleur légendaire dans ce château."
+    "texte_fr": "Ma réponse ne change pas. Il n'existe\npas de fleur légendaire dans ce château."
   },
   {
     "id": 41,
@@ -713,7 +713,7 @@
     "nom_orig": "Middle-aged[SP]woman",
     "texte_orig": "I'll[SP]pay[SP]whatever[SP]you[SP]ask.[1205][U+000F][SP]The[SP]legendary[SP]flower\nis[SP]here,[SP]isn't[SP]it?[1205][U+000F][SP]Please[SP]sell[SP]it[SP]to[SP]me.",
     "nom_fr": "Femme mûre",
-    "texte_fr": "Je paierai le prix fort.[1205][U+000F] Elle est\nbien là, n'est-ce pas?[1205][U+000F] Vendez-la-moi."
+    "texte_fr": "Je paierai le prix fort. Elle est\nbien là, n'est-ce pas? Vendez-la-moi."
   },
   {
     "id": 43,
@@ -729,7 +729,7 @@
     "nom_orig": "Count",
     "texte_orig": "Legendary,[SP]hm...[1205][U+000F][SP]To[SP]what[SP]extent[SP]does[SP]man\nactually[SP]understand[SP]the[SP]weight[SP]of[SP]time\nconveyed[SP]by[SP]that[SP]word...?",
     "nom_fr": "Comte",
-    "texte_fr": "Légendaire, hm...[1205][U+000F] L'homme comprend-il le\npoids du temps véhiculé par ce mot...?"
+    "texte_fr": "Légendaire, hm... L'homme comprend-il le\npoids du temps véhiculé par ce mot...?"
   },
   {
     "id": 44,
@@ -745,7 +745,7 @@
     "nom_orig": "Count",
     "texte_orig": "I[SP]must[SP]ask[SP]that[SP]you[SP]leave.[1205][U+000F][SP]This[SP]is[SP]not[SP]a[SP]place\nfor[SP]those[SP]who[SP]would[SP]insult[SP]time.",
     "nom_fr": "Comte",
-    "texte_fr": "Partez.[1205][U+000F] Ce lieu n'est pas\npour ceux insultant le temps."
+    "texte_fr": "Partez. Ce lieu n'est pas\npour ceux insultant le temps."
   },
   {
     "id": 45,
@@ -793,7 +793,7 @@
     "nom_orig": "College[SP]student",
     "texte_orig": "I[SP]dunno,[SP]maybe[SP]it[SP]just[SP]hasn't[SP]been[SP]delivered\nhere[SP]yet...[1205][U+000F][SP]Maybe[SP]the[SP]seller's[SP]somewhere[SP]else.",
     "nom_fr": "Étudiant",
-    "texte_fr": "Peut-être pas encore livré ici...[1205][U+000F]\nLe vendeur est peut-être ailleurs."
+    "texte_fr": "Peut-être pas encore livré ici...\nLe vendeur est peut-être ailleurs."
   },
   {
     "id": 48,
@@ -809,7 +809,7 @@
     "nom_orig": "Student",
     "texte_orig": "It[SP]could[SP]be[SP]that[SP]someone[SP]already[SP]bought[SP]it.[1205][U+000F]\nIf[SP]that's[SP]the[SP]case,[SP]he[SP]should[SP]just[SP]say[SP]so!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Quelqu'un l'a déjà achetée.[1205][U+000F] Si\nc'est le cas, qu'il le dise!"
+    "texte_fr": "Quelqu'un l'a déjà achetée. Si\nc'est le cas, qu'il le dise!"
   },
   {
     "id": 49,
@@ -873,7 +873,7 @@
     "nom_orig": "Count",
     "texte_orig": "That[SP]will[SP]be[SP]a[SP]total[SP]of[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Comte",
-    "texte_fr": "Total de [120E][NULL] yens.\nOk?\n[1208][0002]Oui\nNon",
+    "texte_fr": "Total de [120E][NULL] yens.\nOk?\n[1208][0002]Oui[0014]Non",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -907,7 +907,7 @@
     "nom_orig": "Count",
     "texte_orig": "I'll[SP]explain[SP]first[SP]how[SP]to[SP]buy[SP]items.[SP]Select,\nfor[SP]example,[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can\npurchase[SP]that[SP]category[SP]of[SP]item.",
     "nom_fr": "Comte",
-    "texte_fr": "Pour acheter, choisissez par exemple [1432][NULL][NULL][0014]Acheter\naccessoires[1432][NULL][NULL][0014] pour acheter cette catégorie."
+    "texte_fr": "Pour acheter, choisissez\npar exemple [1432][NULL][NULL][0014]Acheter\naccessoires[1432][NULL][NULL][0014] pour acheter cette catégorie."
   },
   {
     "id": 55,
@@ -953,7 +953,7 @@
     "nom_orig": "Count",
     "texte_orig": "The[SP]resale[SP]price[SP]is[SP]about[SP]50%[SP]of[SP]the[SP]original\nprice.[SP]Equipped[SP]items[SP]and[SP]certain[SP]special[SP]items\ncannot[SP]be[SP]sold.[SP]That[SP]should[SP]cover[SP]it,[SP]I[SP]think.",
     "nom_fr": "Comte",
-    "texte_fr": "Revente à 50% du prix. Les objets équipés et\nspéciaux ne sont pas vendables. C'est [1205][U+000F] tout."
+    "texte_fr": "Revente à 50% du\nprix. Les objets équipés et\nspéciaux ne sont pas\nvendables. C'est  tout."
   },
   {
     "id": 58,
@@ -1013,7 +1013,7 @@
     "nom_orig": "Count",
     "texte_orig": "Select[SP][1432][NULL][NULL][0014]Buy[SP]accessories[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase\naccessories.[SP]Again,[SP]certain[SP]things[SP]can[SP]only[SP]be\nequipped[SP]by[SP]certain[SP]individuals.",
     "nom_fr": "Comte",
-    "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter accessoires[1432][NULL][NULL][0014] pour des\naccessoires. Là encore, certains objets[1205][U+000F]\nne sont équipables que par certains."
+    "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter accessoires[1432][NULL][NULL][0014] pour des\naccessoires. Là encore, certains objets\nne sont équipables que par certains."
   },
   {
     "id": 62,
@@ -1044,6 +1044,6 @@
     "nom_orig": "Count",
     "texte_orig": "The[SP]resale[SP]price[SP]is[SP]about[SP]50%[SP]of[SP]the[SP]original\nprice.[SP]Equipped[SP]items[SP]and[SP]certain[SP]special[SP]items\ncannot[SP]be[SP]sold.[SP]That[SP]should[SP]cover[SP]it,[SP]I[SP]think.",
     "nom_fr": "Comte",
-    "texte_fr": "Revente à 50% du prix. Les objets équipés et\nspéciaux ne sont pas vendables. C'est [1205][U+000F] tout."
+    "texte_fr": "Revente à 50% du\nprix. Les objets équipés et\nspéciaux ne sont pas\nvendables. C'est  tout."
   }
 ]

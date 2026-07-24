@@ -13,7 +13,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That[SP]must[SP]be[SP]the[SP]Caracol...[1205][001E][SP]It[SP]does[SP]look[SP]like\nthe[SP]photos[SP]I've[SP]seen[SP]of[SP]Mayan[SP]ruins.[1205][001E][SP]They\nsaid[SP]it[SP]was[SP]an[SP]astronomical[SP]observatory...",
     "nom_fr": "Maya",
-    "texte_fr": "Ça doit être le Caracol...[1205][001E] Ça ressemble aux\nphotos de ruines mayas.[1205][001E] Ils disaient que\nc'était[1205][U+000F] un observatoire astronomique..."
+    "texte_fr": "Ça doit être le Caracol...[1205][001E] Ça ressemble aux\nphotos de ruines mayas.[1205][001E] Ils disaient que\nc'était un observatoire astronomique..."
   },
   {
     "id": 1,
@@ -61,7 +61,7 @@
     "nom_orig": "???",
     "texte_orig": "Hold[SP]it,[SP]Elf.[1205][001E][SP]My[SP]sonar[SP]picked[SP]up[SP]on[SP]something.\n[E1][E2][E3]>[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance\nThe[SP]Last[SP]Battalion's[SP]anti-Persona[SP]unit[SP]made\nof[SP]13[SP]knights[SP]who[SP]pilot[SP]the[SP]Marionette[SP]Jaeger\n[1432][NULL][NULL][0014]Himmel[SP]Feurer.[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
     "nom_fr": "???",
-    "texte_fr": "Attends, Elf.[1205][001E] Mon sonar a repéré un truc. [E1][E2][E3]>\nOrdre de la Sainte Lance[1205][U+000F] Unité anti-Persona\ndu Dernier Bataillon, 13 chevaliers pilotant[1101]les Marionette Jaeger[1205][U+000F] [1432][NULL][NULL][0014]Himmel Feurer.[1432][NULL][NULL][0014][E4][NULL][NULL][0002]"
+    "texte_fr": "Attends, Elf.[1205][001E] Mon sonar a repéré un truc. [E1][E2][E3]>\nOrdre de la Sainte Lance Unité anti-Persona\ndu Dernier Bataillon, 13 chevaliers\npilotant[1101]les Marionette Jaeger [1432][NULL][NULL][0014]Himmel Feurer.[1432][NULL][NULL][0014][E4][NULL][NULL][0002]"
   },
   {
     "id": 4,
@@ -93,7 +93,7 @@
     "nom_orig": "Longinus[SP]#11",
     "texte_orig": "Hmph.[SP]We[SP]have[SP]vermin[SP]to[SP]deal[SP]with...[1205][001E]\nVery[SP]well.[SP]I[SP]was[SP]growing[SP]bored[SP]of[SP]dealing\nwith[SP]weaklings.",
     "nom_fr": "Longinus #11",
-    "texte_fr": "Hmph. On a de la vermine à gérer...[1205][001E] Très bien.\nJe commençais à m'ennuyer avec les faiblards."
+    "texte_fr": "Hmph. On a de la\nvermine à gérer...[1205][001E] Très bien.\nJe commençais à\nm'ennuyer avec les faiblards."
   },
   {
     "id": 6,
@@ -107,9 +107,9 @@
       5169
     ],
     "nom_orig": "Longinus[SP]#11",
-    "texte_orig": "Let's[SP]have[SP]them[SP]show[SP]us[SP]what[SP]strength[SP]the\nPersona-users[SP]of[SP]this[SP]country[SP]hold...[1205][001E]\nZwolf![SP]Dreizehn![SP]To[SP]me!",
+    "texte_orig": "Let's[SP]have[SP]them[SP]show[SP]us[SP]what[SP]strength[SP]the\nManieur de Persona[SP]of[SP]this[SP]country[SP]hold...[1205][001E]\nZwolf![SP]Dreizehn![SP]To[SP]me!",
     "nom_fr": "Longinus #11",
-    "texte_fr": "Qu'ils nous montrent la force des manieurs de\nPersona de ce pays...[1205][001E] Zwölf! Dreizehn! À moi!"
+    "texte_fr": "Qu'ils nous montrent la\nforce des manieurs de\nPersona de ce pays...[1205][001E]\nZwölf! Dreizehn! À moi!"
   },
   {
     "id": 7,
@@ -157,7 +157,7 @@
     "nom_orig": "Longinus[SP]#11",
     "texte_orig": "I[SP]expect[SP]to[SP]face[SP]skilled[SP]warriors,[SP]and[SP]yet\nI[SP]see[SP]women[SP]and[SP]children...[1205][001E][SP]How[SP]unfortunate\nthat[SP]you[SP]found[SP]the[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance!",
     "nom_fr": "Longinus #11",
-    "texte_fr": "J'espérais de vrais guerriers, pas des\nfemmes et enfants...[1205][001E] Malheur à vous\nd'avoir trouvé[1205][U+000F] l'Ordre de la Sainte Lance!"
+    "texte_fr": "J'espérais de vrais guerriers, pas des\nfemmes et enfants...[1205][001E] Malheur à vous\nd'avoir trouvé l'Ordre de la Sainte Lance!"
   },
   {
     "id": 10,
@@ -189,6 +189,6 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What[SP]kind[SP]of[SP]a[SP]gentleman[SP]would[SP]I[SP]be[SP]if[SP]I[SP]let\na[SP]lady[SP]do[SP]the[SP]hard[SP]work!?[SP]Leave[SP]the[SP]solo\nto[SP]the[SP]great[SP]Michel!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Quel gentleman laisserait une dame s'en\ncharger!? Laisse le grand Michel[1205][U+000F] s'occuper du\nsolo!"
+    "texte_fr": "Quel gentleman laisserait une dame s'en\ncharger!? Laisse le\ngrand Michel s'occuper du\nsolo!"
   }
 ]

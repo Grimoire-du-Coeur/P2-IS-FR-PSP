@@ -45,7 +45,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Huh?[SP]What[SP]do[SP]you[SP]mean,[SP][1432][NULL][NULL][0014]What[SP]about[SP]Personas[1432][NULL][NULL][0014]?[1205][001E]\nSh-Shut[SP]up...[SP]Personas[SP]are[SP]kosher![SP]Nothing\nwrong[SP]with[SP]that!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hein? Quoi par [1432][NULL][NULL][0014]Et les Personae?[1432][NULL][NULL][0014][1205][001E] F-Ferme-la...\nLes Personae c'est bien! Y'a rien de mal!"
+    "texte_fr": "Hein? Quoi par\n[1432][NULL][NULL][0014]Et les Personae?[1432][NULL][NULL][0014][1205][001E] F-Ferme-la...\nLes Personae c'est bien! Y'a rien de mal!"
   },
   {
     "id": 3,
@@ -125,7 +125,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Geez,[SP]you're[SP]always[SP]like[SP]this,[SP][1113].\nI[SP]just[SP]worry[SP]about[SP]you,[SP]you[SP]know?[1205][001E][SP]Holeen...\nPoor[SP]me...",
     "nom_fr": "Ginko",
-    "texte_fr": "T'es toujours comme ça, [1113]. Je m'inquiète\npour toi, tu sais?[1205][001E] Holeen... Pauvre de moi..."
+    "texte_fr": "T'es toujours comme ça, [1113]. Je m'inquiète\npour toi, tu sais?[1205][001E]\nHoleen... Pauvre de moi..."
   },
   {
     "id": 8,
@@ -237,7 +237,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Did[SP]you[SP]hurt[SP]your[SP]arm,[SP]Maya-san?[1205][001E][SP]Oh,[SP]you[SP]were\njust[SP]feeling[SP]dizzy?[1205][001E][SP]It[SP]looked[SP]like[SP]you[SP]were\nrubbing[SP]your[SP]right[SP]arm,[SP]is[SP]all...",
     "nom_fr": "Yukino",
-    "texte_fr": "Tu t'es blessée au bras, Maya-san?[1205][001E] Ah,\ntu avais juste le vertige?[1205][001E] C'est que tu[1205][U+000F]\nfrottais ton bras droit, c'est tout..."
+    "texte_fr": "Tu t'es blessée au bras, Maya-san?[1205][001E] Ah,\ntu avais juste le vertige?[1205][001E] C'est que tu\nfrottais ton bras droit, c'est tout..."
   },
   {
     "id": 15,
@@ -285,7 +285,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Well,[SP]the[SP]emblem[SP]curse[SP]started[SP]with[SP]a[SP]rumor,\nafter[SP]all.[1205][001E][SP]If[SP]rumors[SP]are[SP]coming[SP]true,[SP]maybe\nthey[SP]really[SP]are[SP]selling[SP]weapons[SP]at[SP]the[SP]mall.",
     "nom_fr": "Yukino",
-    "texte_fr": "Enfin, la malédiction a commencé par une\nrumeur.[1205][001E] Si les rumeurs se réalisent,\npeut-être qu'ils vendent vraiment des [1205][U+000F] armes."
+    "texte_fr": "Enfin, la malédiction a commencé par une\nrumeur.[1205][001E] Si les rumeurs se réalisent,\npeut-être qu'ils vendent\nvraiment des  armes."
   },
   {
     "id": 18,
@@ -365,7 +365,7 @@
     "nom_orig": "Horror-loving[SP]girl",
     "texte_orig": "Remember[SP]the[SP]serial[SP]arson[SP]case[SP]from[SP]ten[SP]years\nago...?[SP]A[SP]lot[SP]of[SP]people[SP]died,[SP]but[SP]they[SP]never\ndid[SP]catch[SP]the[SP]culprit...",
     "nom_fr": "Fille amateur d'horreur",
-    "texte_fr": "T'en souviens des incendies il y a\ndix ans...? Beaucoup de morts, et le\ncoupable[1205][U+000F] n'a jamais été attrapé..."
+    "texte_fr": "T'en souviens des incendies il y a\ndix ans...? Beaucoup de morts, et le\ncoupable n'a jamais été attrapé..."
   },
   {
     "id": 23,
@@ -429,7 +429,7 @@
     "nom_orig": "Horror-loving[SP]girl",
     "texte_orig": "Remember[SP]the[SP]serial[SP]arson[SP]case[SP]from[SP]ten[SP]years\nago...?[SP]A[SP]lot[SP]of[SP]people[SP]died,[SP]but[SP]they[SP]never\ndid[SP]catch[SP]the[SP]culprit...",
     "nom_fr": "Fille amateur d'horreur",
-    "texte_fr": "T'en souviens des incendies il y a\ndix ans...? Beaucoup de morts, et le\ncoupable[1205][U+000F] n'a jamais été attrapé..."
+    "texte_fr": "T'en souviens des incendies il y a\ndix ans...? Beaucoup de morts, et le\ncoupable n'a jamais été attrapé..."
   },
   {
     "id": 27,
@@ -509,7 +509,7 @@
     "nom_orig": "Horror-loving[SP]girl",
     "texte_orig": "Either[SP]he[SP]was[SP]abducted[SP]by[SP]aliens[SP]or[SP]was\nforced[SP]into[SP]a[SP]mental[SP]institution...[1205][U+000F][SP]Bleheheh!\nNeither[SP]sounds[SP]like[SP]much[SP]fun.",
     "nom_fr": "Fille amateur d'horreur",
-    "texte_fr": "Soit enlevé par des aliens, soit\nforcé à l'hôpital psy...[1205][U+000F] Bleheheh!\nNi l'un ni l'autre n'est amusant."
+    "texte_fr": "Soit enlevé par des aliens, soit\nforcé à l'hôpital psy... Bleheheh!\nNi l'un ni l'autre n'est amusant."
   },
   {
     "id": 32,
@@ -525,7 +525,7 @@
     "nom_orig": "Horror-loving[SP]girl",
     "texte_orig": "Awww...[SP]The[SP]curse[SP]is[SP]lifted[SP]already?[SP]It[SP]was\nso[SP]much[SP]fun,[SP]though...[1205][U+000F][SP]I[SP]hope[SP]something[SP]even\nbigger[SP]happens...[SP]Bleheheheheh!",
     "nom_fr": "Fille amateur d'horreur",
-    "texte_fr": "Awww... Malédiction levée déjà?\nC'était amusant...[1205][U+000F] J'espère qu'il se\npasse quelque chose de plus grand..."
+    "texte_fr": "Awww... Malédiction levée déjà?\nC'était amusant... J'espère qu'il se\npasse quelque chose de plus grand..."
   },
   {
     "id": 33,
@@ -541,7 +541,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "U-Umm...[SP]I'm[SP]sorry,[SP][1113]-kun...\nHe[SP]threatened[SP]to[SP]rip[SP]my[SP]bandages[SP]off[SP]if\nI[SP]didn't[SP]spread[SP]bad[SP]rumors[SP]about[SP]you...",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "E-Euh... Pardon, [1113]-kun... Il m'a\nmenacé d'arracher mes bandages si je ne\nrépandais pas de mauvaises [1205][U+000F] rumeurs..."
+    "texte_fr": "E-Euh... Pardon, [1113]-kun... Il m'a\nmenacé d'arracher mes bandages si je ne\nrépandais pas de mauvaises  rumeurs..."
   },
   {
     "id": 34,
@@ -589,7 +589,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Some[SP]of[SP]the[SP]rumors[SP]aren't[SP]so[SP]nice,[SP]though...\nL-Like[SP]that[SP]wound[SP]on[SP]your[SP]back.[SP]People[SP]were\nsaying[SP]you[SP]must've[SP]been[SP]stabbed[SP]in[SP]a[SP]fight...",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Certaines sont pas gentilles... C-Comme\ncette blessure dans ton dos. Les gens\ndisaient que t'avais été [1205][U+000F] poignardé..."
+    "texte_fr": "Certaines sont pas gentilles... C-Comme\ncette blessure dans ton dos. Les gens\ndisaient que t'avais été  poignardé..."
   },
   {
     "id": 37,
@@ -621,7 +621,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "That's[SP]what[SP]I[SP]heard[SP]from[SP]my[SP]friend,[SP]anyway.\nIf[SP]you[SP]ask[SP]the[SP]rumor[SP]fiend[SP]in[SP]Honmaru[SP]Park,\nI'm[SP]sure[SP]he[SP]can[SP]tell[SP]you[SP]more.",
     "nom_fr": "Lycéen",
-    "texte_fr": "C'est ce qu'a dit mon ami en tout cas.\nSi tu demandes au propagateur à Honmaru\nPark, il t'en dira sûrement [1205][U+000F] plus."
+    "texte_fr": "C'est ce qu'a dit mon ami en tout cas.\nSi tu demandes au propagateur à Honmaru\nPark, il t'en dira sûrement  plus."
   },
   {
     "id": 39,
@@ -685,7 +685,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "By[SP]the[SP]way,[SP][1113]-kun,[SP]there's[SP]some[SP]emblems\nin[SP]the[SP]teachers'[SP]lounge[SP]too![1205][U+000F][SP]We'll[SP]clean[SP]up\nthe[SP]mess[SP]here[SP]if[SP]you[SP]go[SP]take[SP]care[SP]of[SP]it.",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Au fait, [1113]-kun, il y a des emblèmes\ndans la salle des profs aussi![1205][U+000F] On nettoiera\nle désordre ici si tu t'en occupes."
+    "texte_fr": "Au fait, [1113]-kun, il y a des emblèmes\ndans la salle des profs aussi! On nettoiera\nle désordre ici si tu t'en occupes."
   },
   {
     "id": 43,
@@ -717,7 +717,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "I[SP]wonder[SP]if[SP]we'll[SP]have[SP]to[SP]take[SP]our[SP]graduation\nphotos[SP]like[SP]this.[SP]No[SP]one[SP]will[SP]be[SP]able[SP]to[SP]tell\nwho's[SP]who...[SP]It'll[SP]be[SP]pretty[SP]stupid.",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Je me demande si on devra prendre nos photos\nde promotion comme ça. Personne ne pourra[1205][U+000F]\ndire qui est qui... Ce sera assez ridicule."
+    "texte_fr": "Je me demande si\non devra prendre nos photos\nde promotion comme ça. Personne ne pourra\ndire qui est qui... Ce sera assez ridicule."
   },
   {
     "id": 45,
@@ -733,7 +733,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Oh...[SP]So[SP]Principal[SP]Hanya[SP]left...\nTakashiiiiii![SP]Come[SP]baaaaaaack![E1][E2]\n[E3][E4][NULL][NULL]\"Female[SP]student\nHanya's[SP]hair[SP]blossomed[SP]before[SP]he[SP]disappeared,\nlike[SP]the[SP]cherry[SP]blossoms...[SP]Thank[SP]you[SP]for[SP]all\nyou[SP]did[SP]for[SP]us,[SP]Principal[SP]Hanya...",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Oh... Donc le Proviseur Hanya est parti...\nTakashiiiiii! Revieeeens![E1][E2] [E3][E4][NULL][NULL]\"Lycéenne\n[1205][U+000F] Les\ncheveux de Hanya ont fleuri avant qu'il[1101]disparaisse, comme les cerisiers... Merci\npour tout, Proviseur Hanya..."
+    "texte_fr": "Oh... Donc le Proviseur Hanya est parti...\nTakashiiiiii! Revieeeens![E1][E2] [E3][E4][NULL][NULL]\"Lycéenne\n Les\ncheveux de Hanya ont fleuri\navant qu'il[1101]disparaisse, comme les cerisiers... Merci\npour tout, Proviseur Hanya..."
   },
   {
     "id": 46,

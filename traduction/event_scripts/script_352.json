@@ -13,7 +13,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "My[SP]mom[SP]wouldn't[SP]wear[SP]clothes[SP]like[SP]these...[1205][U+000F]\nHey,[SP]does[SP]your[SP]mom[SP]wear[SP]this[SP]stuff,[SP]Ginko?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ma mère ne mettrait pas ces fringues...[1205][U+000F]\nHé, ta mère en porte, Ginko?"
+    "texte_fr": "Ma mère ne mettrait pas ces fringues...\nHé, ta mère en porte, Ginko?"
   },
   {
     "id": 1,
@@ -29,7 +29,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "No[SP]way.[SP]She's[SP]always[SP]dressed[SP]in[SP]a[SP]kimono.[1205][U+000F]\nNot[SP]even[SP]native[SP]Japanese[SP]women[SP]have[SP]as[SP]many\nkimonos[SP]as[SP]her.",
     "nom_fr": "Ginko",
-    "texte_fr": "Pas question. Elle est toujours en kimono.[1205][U+000F]\nMême les Japonaises n'en ont pas autant\nqu'elle."
+    "texte_fr": "Pas question. Elle est toujours en kimono.\nMême les Japonaises n'en ont pas autant\nqu'elle."
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hey,[SP]Jun.[1205][U+000A][SP]Does[SP]your[SP]mom[SP]wear[SP]clothes[SP]like[SP]these?",
     "nom_fr": "Maya",
-    "texte_fr": "Hé, Jun.[1205][U+000A] Ta mère porte ce genre de vêtements?"
+    "texte_fr": "Hé, Jun.[1205][U+000A] Ta mère\nporte ce genre de vêtements?"
   },
   {
     "id": 3,
@@ -61,7 +61,7 @@
     "nom_orig": "Jun",
     "texte_orig": "My[SP]mother...[1205][U+000F][SP]I[SP]think[SP]she[SP]would,[SP]actually.",
     "nom_fr": "Jun",
-    "texte_fr": "Ma mère...[1205][U+000F] Je crois que oui, en fait."
+    "texte_fr": "Ma mère... Je crois que oui, en fait."
   },
   {
     "id": 4,
@@ -77,7 +77,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Welcome.[1205][U+000A][SP]Like[SP]what[SP]you[SP]see?[1205][U+000A][SP]We[SP]only[SP]carry[SP]the\nmost[SP]beautiful[SP]clothing[SP]here.[1205][U+000F][SP]So[SP]feel[SP]free[SP]to\nbuy[SP]with[SP]confidence.\n[1208][U+0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bienvenue.[1205][U+000A] Quelque chose vous plaît?[1205][U+000A] Que \ndes\nvêtements superbes.[1205][U+000F] Achetez sans crainte.\n[1208][U+0006]Acheter armure\n[1210][U+036A]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter la boutique",
+    "texte_fr": "Bienvenue.[1205][U+000A] Quelque chose vous plaît?[1205][U+000A] Que \ndes\nvêtements superbes. Achetez sans crainte.\n[1208][U+0006]Acheter armure\n[1210][U+036A]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter la boutique",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -197,7 +197,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Are[SP]you[SP]thrilled[SP]to[SP]become[SP]an[SP]Idealian[SP]soon?[1205][U+000F]\nHeheheh...[SP]You're[SP]misreading[SP]the[SP]whole\nsituation.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Vous êtes impatients de devenir\ndes Idéaliens?[1205][U+000F] Hihi... Vous faites\nfausse route, j'en ai peur."
+    "texte_fr": "Vous êtes impatients de devenir\ndes Idéaliens? Hihi... Vous faites\nfausse route, j'en ai peur."
   },
   {
     "id": 11,
@@ -213,7 +213,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Dandelions[SP]will[SP]always[SP]be[SP]dandelions.[1205][U+000F][SP]They[SP]can\nevolve[SP]into[SP]Idealians,[SP]but[SP]they'll[SP]never[SP]be[SP]as\nbeautiful[SP]as[SP]we[SP]roses.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Un pissenlit reste un pissenlit.[1205][U+000F] Ils\npeuvent devenir des Idéaliens, mais\njamais aussi beaux que nous, les roses."
+    "texte_fr": "Un pissenlit reste un pissenlit. Ils\npeuvent devenir des Idéaliens, mais\njamais aussi beaux que nous, les roses."
   },
   {
     "id": 12,
@@ -261,7 +261,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "And[SP]so![1205][U+000A][SP]I[SP]present[SP]our[SP]newest[SP]armor.[1205][U+000F][SP]While[SP]you\nmay[SP]only[SP]be[SP]a[SP]dandelion,[SP]equip[SP]this[SP]and[SP]you'll\nbe[SP]one[SP]step[SP]closer[SP]to[SP]a[SP]beautiful[SP]rose.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "C'est pourquoi![1205][U+000A] Voici notre nouvelle\narmure.[1205][U+000F] Même un pissenlit, en la portant,\nse rapprochera d'une belle rose."
+    "texte_fr": "C'est pourquoi![1205][U+000A] Voici notre nouvelle\narmure. Même un pissenlit, en la portant,\nse rapprochera d'une belle rose."
   },
   {
     "id": 15,
@@ -293,7 +293,7 @@
     "nom_orig": "Chatty[SP]woman",
     "texte_orig": "Hey,[SP]have[SP]you[SP]heard?[1205][U+000F][SP]The[SP]Last[SP]Battalion[SP]just\nstormed[SP]into[SP]that[SP]weird[SP]building.",
     "nom_fr": "Femme bavarde",
-    "texte_fr": "Vous avez entendu?[1205][U+000F] Le Bataillon\nvient d'envahir ce bâtiment bizarre."
+    "texte_fr": "Vous avez entendu? Le Bataillon\nvient d'envahir ce bâtiment bizarre."
   },
   {
     "id": 17,
@@ -309,7 +309,7 @@
     "nom_orig": "Chatty[SP]woman",
     "texte_orig": "I[SP]wonder[SP]what[SP]they're[SP]doing[SP]in[SP]there...[1205][U+000F]\nDon't[SP]you?[1205][U+000F][SP]You[SP]want[SP]to[SP]know[SP]too,[SP]right?",
     "nom_fr": "Femme bavarde",
-    "texte_fr": "Je me demande ce qu'ils font dedans...[1205][U+000F]\nPas vous?[1205][U+000F] Vous voulez savoir, non?"
+    "texte_fr": "Je me demande ce qu'ils font dedans...\nPas vous? Vous voulez savoir, non?"
   },
   {
     "id": 18,
@@ -325,7 +325,7 @@
     "nom_orig": "Wealthy[SP]woman",
     "texte_orig": "I've[SP]always[SP]wanted[SP]to[SP]be[SP]rich.[1205][U+000F][SP]I[SP]talk[SP]like[SP]this\nand[SP]wear[SP]expensive[SP]clothes,[SP]but[SP]really,[SP]we're\nin[SP]the[SP]red...[1205][U+000F][SP]I[SP]work[SP]to[SP]repay[SP]my[SP]debt...",
     "nom_fr": "Femme aisée",
-    "texte_fr": "J'ai toujours voulu être riche.[1205][U+000F] Je parle ainsi\net porte des habits coûteux, mais en vrai je\nsuis dans le rouge.[1205][U+000F] Je bosse pour payer."
+    "texte_fr": "J'ai toujours voulu être\nriche. Je parle ainsi\net porte des habits\ncoûteux, mais en vrai je\nsuis dans le rouge. Je bosse pour payer."
   },
   {
     "id": 19,
@@ -356,7 +356,7 @@
     "nom_orig": "Wealthy[SP]woman",
     "texte_orig": "Will[SP]I[SP]at[SP]least[SP]be[SP]happy?[1205][U+000F][SP]Will[SP]I[SP]find[SP]true\njoy...[SP]a[SP]purpose[SP]to[SP]my[SP]life?",
     "nom_fr": "Femme aisée",
-    "texte_fr": "Serai-je heureuse?[1205][U+000F] Trouverai-je\nla vraie joie, un sens à ma vie?"
+    "texte_fr": "Serai-je heureuse? Trouverai-je\nla vraie joie, un sens à ma vie?"
   },
   {
     "id": 21,
@@ -420,7 +420,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui\nNon",
+    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[0014]Non",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -484,7 +484,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Ensuite, la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] puis choisissez le type d'objet à\nvendre.[1205][U+000F] Choisissez enfin l'objet à vendre."
+    "texte_fr": "Ensuite, la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] puis choisissez le type d'objet à\nvendre. Choisissez enfin l'objet à vendre."
   },
   {
     "id": 29,
@@ -590,7 +590,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]and[SP]then\nchoose[SP]which[SP]type[SP]of[SP]item[SP]you'd[SP]like[SP]to[SP]sell.\nFinally,[SP]select[SP]which[SP]item[SP]to[SP]sell.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Ensuite, la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] puis choisissez le type d'objet à\nvendre.[1205][U+000F] Choisissez enfin l'objet à vendre."
+    "texte_fr": "Ensuite, la vente. Sélectionnez [1432][NULL][NULL][0014]Vendre\nobjets[1432][NULL][NULL][0014] puis choisissez le type d'objet à\nvendre. Choisissez enfin l'objet à vendre."
   },
   {
     "id": 36,

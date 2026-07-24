@@ -29,7 +29,7 @@
     "nom_orig": "Philemon",
     "texte_orig": "I[SP]am[SP]honored[SP]that[SP]you[SP]remember.[1205][001E][SP]You[SP]have[SP]all\ngrown[SP]splendidly,[SP]yet[SP]you[SP]have[SP]not[SP]lost[SP]the\nshine[SP]in[SP]your[SP]eyes[SP]from[SP]those[SP]days.",
     "nom_fr": "Philémon",
-    "texte_fr": "Je suis honoré que vous vous souveniez.[1205][001E]\nVous avez bien grandi, sans pour autant\nperdre[1205][U+000F] la lumière dans vos yeux d'alors."
+    "texte_fr": "Je suis honoré que vous vous souveniez.[1205][001E]\nVous avez bien grandi, sans pour autant\nperdre la lumière dans vos yeux d'alors."
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "nom_orig": "Philemon",
     "texte_orig": "I[SP]am[SP]honored[SP]that[SP]you[SP]remember.[1205][001E][SP]You[SP]have[SP]all\ngrown[SP]splendidly,[SP]yet[SP]you[SP]have[SP]not[SP]lost[SP]the\nshine[SP]in[SP]your[SP]eyes[SP]from[SP]those[SP]days.",
     "nom_fr": "Philémon",
-    "texte_fr": "Je suis honoré que vous vous souveniez.[1205][001E]\nVous avez bien grandi, sans pour autant\nperdre[1205][U+000F] la lumière dans vos yeux d'alors."
+    "texte_fr": "Je suis honoré que vous vous souveniez.[1205][001E]\nVous avez bien grandi, sans pour autant\nperdre la lumière dans vos yeux d'alors."
   },
   {
     "id": 3,
@@ -109,7 +109,7 @@
     "nom_orig": "Maia[SP]Prime",
     "texte_orig": "I[SP]am[SP][E4][NULL][NULL][U+0005]Maia[E4][NULL][NULL][0002]...[SP]Awakened[SP]messenger[SP]of[SP]the[SP]Pleaides:[1205][001E]\nFlowers[SP]to[SP]the[SP]past;[SP]fertility[SP]to[SP]your[SP]heart.\nThe[SP]sixteenth[SP]night's[SP]moon[SP]now[SP]shines...",
     "nom_fr": "Maia Prime",
-    "texte_fr": "Je suis [E4][NULL][NULL][U+0005]Maia[E4][NULL][NULL][0002]... messagère éveillée des\nPléiades:[1205][001E] Fleurs au passé; fertilité à ton\ncœur.[1205][U+000F] La lune du seizième soir brille[1101]désormais..."
+    "texte_fr": "Je suis [E4][NULL][NULL][U+0005]Maia[E4][NULL][NULL][0002]... messagère éveillée des\nPléiades:[1205][001E] Fleurs au passé; fertilité à ton\ncœur. La lune\ndu seizième soir brille[1101]désormais..."
   },
   {
     "id": 7,
@@ -125,7 +125,7 @@
     "nom_orig": "Vulcanus[SP]Prime",
     "texte_orig": "Thy[SP]heart[SP]that[SP]beats[SP]for[SP]thy[SP]friends[SP]lights\nmine[SP]holy[SP]flame...[1205][001E][SP]I[SP]am[SP]thou...[SP]Thou[SP]art[SP]I...[1205][001E]\nI[SP]am[SP][E4][NULL][NULL][U+0005]Vulcanus[E4][NULL][NULL][0002],[SP]awakened[SP]to[SP]the[SP]ancient[SP]fire...",
     "nom_fr": "Vulcanus Prime",
-    "texte_fr": "Ton cœur qui bat pour tes amis attise ma\nflamme sacrée...[1205][001E] Je suis toi... Tu es moi...[1205][001E][1205][U+000F]\nJe suis [E4][NULL][NULL][U+0005]Vulcanus[E4][NULL][NULL][0002], éveillé au feu ancestral..."
+    "texte_fr": "Ton cœur qui bat pour tes amis attise ma\nflamme sacrée...[1205][001E] Je suis\ntoi... Tu es moi...[1205][001E]\nJe suis [E4][NULL][NULL][U+0005]Vulcanus[E4][NULL][NULL][0002],\néveillé au feu ancestral..."
   },
   {
     "id": 8,
@@ -157,7 +157,7 @@
     "nom_orig": "Philemon",
     "texte_orig": "He[SP]sought[SP]to[SP]use[SP]rumors[SP]for[SP]his[SP]own[SP]ends,[SP]but\nhas[SP]been[SP]swallowed[SP]by[SP]them,[SP]and[SP]is[SP]acting[SP]to\nfulfill[SP]mankind's[SP]ultimate[SP]dream...",
     "nom_fr": "Philémon",
-    "texte_fr": "Il voulait se servir des rumeurs, mais a\nété englouti et agit désormais pour\naccomplir le rêve ultime de [1205][U+000F] l'humanité..."
+    "texte_fr": "Il voulait se servir des rumeurs, mais a\nété englouti et agit désormais pour\naccomplir le rêve ultime de  l'humanité..."
   },
   {
     "id": 10,
@@ -189,6 +189,6 @@
     "nom_orig": "Philemon",
     "texte_orig": "The[SP][1432][NULL][NULL][0014]holy[SP]cross[1432][NULL][NULL][0014][SP]is[SP]the[SP]Grand[SP]Cross,[SP]and\nNahui-Ollin[SP]is[SP]the[SP]world[SP]of[SP]the[SP]fifth[SP]sun...\nThere[SP]is[SP]no[SP]time[SP]to[SP]lose[SP]before[SP]it[SP]perishes.",
     "nom_fr": "Philémon",
-    "texte_fr": "La [1432][NULL][NULL][0014]croix sacrée[1432][NULL][NULL][0014] est la Croix Cosmique, et\nNahui-Ollin est le monde du cinquième\nsoleil...[1205][U+000F] Il n'y a plus de temps avant sa fin."
+    "texte_fr": "La [1432][NULL][NULL][0014]croix sacrée[1432][NULL][NULL][0014] est la Croix Cosmique, et\nNahui-Ollin est le monde du cinquième\nsoleil... Il n'y a plus\nde temps avant sa fin."
   }
 ]
