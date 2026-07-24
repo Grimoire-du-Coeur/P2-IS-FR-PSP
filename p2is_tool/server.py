@@ -142,7 +142,8 @@ def api_open_folder(req: GenericRequest):
 
 @app.get("/api/default-paths")
 def api_default_paths():
-    return {"work_dir": r"C:\Users\user\Desktop\P2IS_FR"}
+    desktop = Path.home() / "Desktop" / "P2IS_FR"
+    return {"work_dir": str(desktop)}
 
 
 @app.post("/api/extract-cpk")
