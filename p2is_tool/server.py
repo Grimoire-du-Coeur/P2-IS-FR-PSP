@@ -4,6 +4,7 @@ import json
 import subprocess
 import threading
 from pathlib import Path
+from typing import List, Optional
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
@@ -138,8 +139,7 @@ def api_open_folder(req: GenericRequest):
 
 @app.get("/api/default-paths")
 def api_default_paths():
-    desktop = Path.home() / "Desktop" / "P2IS_FR"
-    return {"work_dir": str(desktop)}
+    return {"work_dir": r"C:\Users\user\Desktop\P2IS_FR"}
 
 
 @app.post("/api/extract-cpk")
