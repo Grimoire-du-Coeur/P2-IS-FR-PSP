@@ -496,11 +496,12 @@ export default function App() {
                             }}
                             disabled={loading}
                             title={!target.stable ? t('encode_warn') : ''}
-                            className={`glass-button py-2 px-1 text-xs flex justify-center items-center transition-all group ${isSelected ? 'bg-blue-600/40 border-blue-400/50 text-white' : 'bg-gray-800/40 border-gray-600/30 text-gray-500 hover:bg-gray-700/50'}`}
+                            className={`glass-button py-2 px-1 text-xs flex justify-center items-center transition-all group duration-300 ${isSelected ? 'bg-blue-600/60 border-blue-400 text-white shadow-[0_0_12px_rgba(59,130,246,0.6)]' : 'bg-black/60 border-transparent text-gray-600 opacity-40 scale-95 hover:opacity-70'}`}
                           >
                             <div className={`flex items-center space-x-1 transition-transform ${isSelected ? 'group-hover:scale-105' : ''}`}>
+                              {isSelected && <CheckCircle size={12} className="text-blue-300 mr-1" />}
                               <span>{target.label}</span>
-                              {!target.stable && <AlertTriangle size={12} className={isSelected ? "text-yellow-400 ml-1" : "text-gray-600 ml-1"} />}
+                              {!target.stable && <AlertTriangle size={12} className={isSelected ? "text-yellow-400 ml-1" : "text-gray-700 ml-1"} />}
                             </div>
                           </button>
                         );
