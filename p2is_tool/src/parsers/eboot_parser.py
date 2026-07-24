@@ -38,8 +38,10 @@ def encode_char(c):
     # c is guaranteed to be a single character now
     if c == '\n':
         return 0x000A
-    if c == '\xA0':
-        return 0x0020
+    if c in (' ', '\xA0', '\u3000'):
+        # 0x0020 is rendered as a tilde ~ in the EBOOT font!
+        # We MUST use the Shift-JIS full-width space (0x8140) which is what the game natively uses.
+        return 0x8140
     
     if c.isupper() and 'A' <= c <= 'Z':
         return 0x00E0 + (ord(c) - 0x41)
@@ -49,7 +51,7 @@ def encode_char(c):
         return 0x00CF + int(c)
     if 0x20 <= ord(c) <= 0x7E:
         return ord(c)
-    return 0x0020 # Space fallback for unknown characters (0x1120 is the event.bin space, in EBOOT it causes a tilde)
+    return 0x8140 # Space fallback for unknown characters (must be 0x8140)
 
 def encode_string(text):
     # This regex finds <XXXX> tags and literal text
