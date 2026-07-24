@@ -70,22 +70,24 @@ Chaque composant vital du jeu possède sa propre structure de données. Voici l'
 Le projet traverse actuellement sa phase la plus délicate : l'Assurance Qualité (QA) sur hardware réel ou émulateur, visant à déceler les crashs liés à la compression `CRILAYLA` et à la longueur des chaînes françaises.
 
 ```mermaid
-gantt
-    title Planning de Sortie (Version BÊTA)
-    dateFormat  YYYY-MM-DD
-    axisFormat  %d/%m
-    
-    section Traduction
-    Histoire Principale      :done,    des1, 2023-01-01, 2026-06-25
-    Textes Annexes (F_BE...) :done,    des2, 2026-05-01, 2026-06-28
-    Dernier fichier (TM_EVE) :done,    des3, 2026-06-25, 2026-07-24
-    
-    section Qualité (QA)
-    Traque des Crashs & Pointeurs :active,  rel1, 2026-06-20, 2026-08-15
-    Test sur Vrai Hardware PSP    :         rel2, 2026-08-01, 2026-08-15
-    
-    section Sortie
-    Lancement Version BÊTA Publique   :milestone, 2026-08-15, 0d
+timeline
+    title Historique et Événements du Projet
+    Mars 2026 : 14/03 - Premier teaser (hykalys)
+              : 15/03 - Création du projet & GitHub
+              : 16/03 - Annonce X & dairoku_kizashi56
+              : 17/03 - Dictionnaire lore & Gyotre
+              : 22/03 - ArsenetheIV présente le projet
+              : 29/03 - 63.7% du jeu traduit (162 scripts)
+    Avril 2026 : 17/04 - Premier aperçu de gameplay
+               : 19/04 - Arati présente le projet
+               : 21/04 - 78% de traduction (225 scripts)
+    Juin 2026 : 05/06 - 100% de l'histoire traduite !
+              : 22/06 - Lancement de l'outil de relecture
+    Juillet 2026 : 10/07 - Sortie BÊTA v0.1 (Jouable à 100%)
+                 : 15/07 - Tutoriel d'installation vidéo
+                 : 17/07 - Bêta v0.1.1 (Auto-wrap, typo)
+                 : 19/07 - Bilan de l'avancement sur X
+                 : 20/07 - Bêta v0.1.2 (Correction crashs)
 ```
 
 <br/>
