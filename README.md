@@ -166,9 +166,15 @@ Vous pouvez également rejoindre la communauté et demander de l'aide sur notre 
 **Atlus / SEGA** : Développeurs originaux et ayants droit exclusifs du jeu.
 
 **L'Équipe de Traduction Principale :** 
-* [@chenetulipe](https://github.com/chenetulipe) (Fondateur & Romhacking)
-* [@Garloulou](https://github.com/Garloulou) (Co-traduction)
-* [@HamzaKarrouchi](https://github.com/HamzaKarrouchi) (Développement Web & Relecture)
+
+* **[@chenetulipe](https://github.com/chenetulipe) (Chef de Projet)**  
+  Créateur et pilier du projet. Il s'occupe de la majorité des tâches techniques (reverse-engineering, extraction et réinjection des textes, gestion du romhacking) tout en assurant le rôle de chef d'orchestre pour diriger l'équipe de traduction.
+
+* **[@HamzaKarrouchi](https://github.com/HamzaKarrouchi) (Développeur & Top Traducteur)**  
+  Un véritable fou malade du code et de la traduction. Il a abattu un travail colossal sur les scripts du jeu en validant les 100% de complétion de l'histoire et en harmonisant la terminologie. Il a également développé de A à Z la plateforme web "P2IS Relecture" pour faciliter la vie de toute l'équipe.
+
+* **[@Garloulou](https://github.com/Garloulou) (Support & Intégration)**  
+  A énormément contribué aux fondations du projet lors de ses débuts, notamment en gérant les fusions (Merge Pull Requests) de la communauté sur GitHub, apportant une aide d'intégration précieuse avant de passer le flambeau.
 
 > [!CAUTION]
 > **Clause de Non-Responsabilité & Licence**
