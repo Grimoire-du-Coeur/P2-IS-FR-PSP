@@ -13,7 +13,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What's[SP]with[SP]everyone[SP]all[SP]of[SP]a[SP]sudden?\nNow's[SP]no[SP]time[SP]to[SP]clean[SP]up...[SP]Mr.[SP]Hanya's\nsway[SP]over[SP]them[SP]is[SP]pretty[SP]scary.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Qu'est-ce qu vous prend? C'est pas le\nmoment de nettoyer... L'emprise qu'a\nMr. Hanya [1205][U+000F] sur eux fait flipper."
+    "texte_fr": "Qu'est-ce qu vous prend? C'est pas le\nmoment de nettoyer... L'emprise qu'a\nMr. Hanya  sur eux fait flipper."
   },
   {
     "id": 1,
@@ -29,7 +29,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "*sigh*[SP]I[SP]can't[SP]stand[SP]girls[SP]who[SP]don't[SP]know\ntheir[SP]place.[1205][001E][SP]The[SP]best[SP]Ginko[SP]could[SP]hope[SP]for\nis[SP]to[SP]win[SP]Miss[SP]Garbage[SP]Dump.",
     "nom_fr": "Eikichi",
-    "texte_fr": "J'supporte pas les filles qui connaissent\npas leur place.[1205][001E] Ginko pourrait au mieux [1205][U+000F]\nespérer gagner Miss Poubelle."
+    "texte_fr": "J'supporte pas les filles qui connaissent\npas leur place.[1205][001E] Ginko pourrait au mieux \nespérer gagner Miss Poubelle."
   },
   {
     "id": 2,
@@ -77,7 +77,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#6![1205][001E][SP][1432][NULL][NULL][0014]Touche[1432][NULL][NULL][0014][SP]means\n[1432][NULL][NULL][0014]thank[SP]you.[1432][NULL][NULL][0014][SP]I[SP]guess[SP]it's[SP]kind[SP]of[SP]more[SP]like,\n[1432][NULL][NULL][0014]thanks[SP]a[SP]lot[1432][NULL][NULL][0014]?",
     "nom_fr": "Ginko",
-    "texte_fr": "La leçon Cantonaise de Lisa #6![1205][001E] [1432][NULL][NULL][0014]Touche[1432][NULL][NULL][0014]veut\ndire [1432][NULL][NULL][0014]merci.[1432][NULL][NULL][0014] Je pense que c'est,[1205][U+000F] [1432][NULL][NULL][0014]merci beaucoup\n[1432][NULL][NULL][0014]?"
+    "texte_fr": "La leçon Cantonaise de Lisa #6![1205][001E] [1432][NULL][NULL][0014]Touche[1432][NULL][NULL][0014]veut\ndire [1432][NULL][NULL][0014]merci.[1432][NULL][NULL][0014] Je pense\nque c'est, [1432][NULL][NULL][0014]merci beaucoup\n[1432][NULL][NULL][0014]?"
   },
   {
     "id": 5,
@@ -141,7 +141,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That[SP]announcement[SP]just[SP]now...[1205][U+000F][SP]If[SP]he's[SP]trying\nto[SP]protect[SP]the[SP]last[SP]emblem,[SP]the[SP]principal[SP]might\nbe[SP]right[SP]there[SP]with[SP]it...",
     "nom_fr": "Maya",
-    "texte_fr": "Cette annonce maintenant...[1205][0+000F] S'il\nprotège le dernier emblème, le\nprincipal est peut-être[1205][U+000F] avec lui..."
+    "texte_fr": "Cette annonce maintenant...[1205][0+000F] S'il\nprotège le dernier emblème, le\nprincipal est peut-être avec lui..."
   },
   {
     "id": 9,
@@ -157,7 +157,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]thought[SP]Yukki[SP]would[SP]be[SP]happy[SP]that[SP]Ms.[SP]Saeko\nis[SP]back[SP]to[SP]normal.[1205][001E][SP]But[SP]it[SP]looks[SP]like[SP]something\nelse[SP]is[SP]bugging[SP]her...",
     "nom_fr": "Maya",
-    "texte_fr": "Je pensais que Yukki serait contente\nque Mme Saeko redevienne normale.[1205][001E]\nMais quelque chose la [1205][U+000F] dérange..."
+    "texte_fr": "Je pensais que Yukki serait contente\nque Mme Saeko redevienne normale.[1205][001E]\nMais quelque chose la  dérange..."
   },
   {
     "id": 10,
@@ -173,7 +173,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "That[SP]goddamn[SP]Hamya...[SP]How[SP]dare[SP]he\nbrainwash[SP]my[SP]Ms.[SP]Saeko![SP][1205][001E][SP]Now[SP]how[SP]should\nI[SP]settle[SP]the[SP]score...?",
     "nom_fr": "Yukino",
-    "texte_fr": "Ce foutu Hamya... Comment ose-t-il manipuler\nMme Saeko! [1205][001E] Maintenant comment régler ca?"
+    "texte_fr": "Ce foutu Hamya...\nComment ose-t-il manipuler\nMme Saeko! [1205][001E] Maintenant comment régler ca?"
   },
   {
     "id": 11,
@@ -269,7 +269,7 @@
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "Everyone[SP]seems[SP]to[SP]think[SP]we[SP]have[SP]the[SP]principal\nto[SP]thank[SP]for[SP]this,[SP]but[SP]I[SP]know[SP]better.[1205]([SP]It[SP]was\nyou[SP]who[SP]lifted[SP]the[SP]curse,[SP]wasn't[SP]it?",
     "nom_fr": "Mme Saeko",
-    "texte_fr": "Tout le monde remercie le principal\npour ça, mais en vrai.[1205]( C'était[1205][U+000F] toi\nqui a rompu le sort, pas vrai?"
+    "texte_fr": "Tout le monde remercie le principal\npour ça, mais en vrai.[1205]( C'était toi\nqui a rompu le sort, pas vrai?"
   },
   {
     "id": 17,
@@ -301,7 +301,7 @@
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "I'll[SP]do[SP]something[SP]about[SP]the[SP]school[SP]festival,\nso[SP]off[SP]you[SP]go![1205][001E][SP]You[SP]still[SP]have[SP]work[SP]to[SP]do,\ndon't[SP]you?[1205][001E][SP]I'm[SP]sure[SP]you[SP]can[SP]handle[SP]it!",
     "nom_fr": "Mme Saeko",
-    "texte_fr": "Je m'occupe du festival du lycée, donc\nvas-y![1205][001E] Mais t'as toujours du boulot, pas\nvrai?[1205][001E] Je suis sûr que tu peux le [1205][U+000F] faire!"
+    "texte_fr": "Je m'occupe du festival du lycée, donc\nvas-y![1205][001E] Mais t'as toujours du boulot, pas\nvrai?[1205][001E] Je suis sûr que tu peux le  faire!"
   },
   {
     "id": 19,
@@ -317,7 +317,7 @@
     "nom_orig": "Mr.[SP]Aishi",
     "texte_orig": "Hrm?[SP]The[SP]key[SP]to[SP]the[SP]clock[SP]tower?[SP]I[SP]see!\nSo[SP]you're[SP]going[SP]to[SP]handle[SP]cleanup[SP]there!\nAhh,[SP]I[SP]see![SP]Wahahah!",
     "nom_fr": "M. Aishi",
-    "texte_fr": "Hm? La clé de la tour de l'horloge? Je vois!\nDonc tu t'occupes du nettoyage! Wahahah!"
+    "texte_fr": "Hm? La clé de la\ntour de l'horloge? Je vois!\nDonc tu t'occupes du nettoyage! Wahahah!"
   },
   {
     "id": 20,
@@ -333,7 +333,7 @@
     "nom_orig": "Mr.[SP]Aishi",
     "texte_orig": "The[SP]principal[SP]took[SP]the[SP]key[SP]that[SP]was[SP]here\nin[SP]the[SP]lounge.[SP]The[SP]janitor[SP]should[SP]have[SP]the\nother[SP]one![SP]Hahaha![SP]I[SP]see![SP]How[SP]marvelous!",
     "nom_fr": "M. Aishi",
-    "texte_fr": "Le principal a pris la clé qui était\nau salon. Le personnel de nettoyage\ndoit avoir[1205][U+000F] l'autre! Hahaha!"
+    "texte_fr": "Le principal a pris la clé qui était\nau salon. Le personnel de nettoyage\ndoit avoir l'autre! Hahaha!"
   },
   {
     "id": 21,
@@ -365,7 +365,7 @@
     "nom_orig": "Deeply[SP]emotional[SP]Mr.[SP]Aishi",
     "texte_orig": "So[SP]the[SP]principal[SP]is[SP]gone![SP]I[SP]see![SP]Wahaha,\nI[SP]see![SP]How[SP]unfortunate![SP]Hahaha!",
     "nom_fr": "Mr. Aishi ému",
-    "texte_fr": "Donc le principal est parti! Je vois! Wahaha,\nje vois! Comme c'est dommage! Hahaha!"
+    "texte_fr": "Donc le principal est\nparti! Je vois! Wahaha,\nje vois! Comme c'est dommage! Hahaha!"
   },
   {
     "id": 23,
@@ -397,7 +397,7 @@
     "nom_orig": "Mr.[SP]Oriri",
     "texte_orig": "Oh[SP]really?[SP]You[SP]need[SP]the[SP]key[SP]to[SP]the[SP]clock\ntower?[SP]Hmm...[SP]Someone[SP]seems[SP]to[SP]have[SP]taken\nit,[SP]so[SP]I[SP]can't[SP]lend[SP]it[SP]to[SP]you[SP]right[SP]now.",
     "nom_fr": "M. Oriri",
-    "texte_fr": "T'as besoin de la clé de la tour de\nl'horloge? Quelqu'un a l'air de l'avoir\npris, donc je[1205][U+000F] peux pas te la prêter."
+    "texte_fr": "T'as besoin de la clé de la tour de\nl'horloge? Quelqu'un a l'air de l'avoir\npris, donc je peux pas te la prêter."
   },
   {
     "id": 25,
@@ -413,7 +413,7 @@
     "nom_orig": "Mr.[SP]Oriri",
     "texte_orig": "Oh,[SP]and[SP]since[SP]Lisa's[SP]with[SP]you...[SP]Her\ngrades[SP]in[SP]English[SP]are[SP]horrible![SP]Tell[SP]her\nshe[SP]needs[SP]to[SP]take[SP]it[SP]more[SP]seriously!",
     "nom_fr": "M. Oriri",
-    "texte_fr": "Puisque Lisa est avec toi... Ses notes\nen anglais sont terribles! Dis lui\nqu'elle doit[1205][U+000F] prendre ça au serieux!"
+    "texte_fr": "Puisque Lisa est avec toi... Ses notes\nen anglais sont terribles! Dis lui\nqu'elle doit prendre ça au serieux!"
   },
   {
     "id": 26,
@@ -429,7 +429,7 @@
     "nom_orig": "Mr.[SP]Oriri",
     "texte_orig": "Since[SP]Lisa's[SP]with[SP]you...[SP]Tell[SP]her[SP]she[SP]needs\nto[SP]take[SP]English[SP]more[SP]seriously![SP]Her[SP]grades\nare[SP]horrible!",
     "nom_fr": "M. Oriri",
-    "texte_fr": "Puisque Lisa est avec toi... Dis lui qu'elle\ndoit s'améliorer en anglais! Elle est nulle!"
+    "texte_fr": "Puisque Lisa est avec\ntoi... Dis lui qu'elle\ndoit s'améliorer en\nanglais! Elle est nulle!"
   },
   {
     "id": 27,
@@ -445,7 +445,7 @@
     "nom_orig": "Deeply[SP]emotional[SP]Mr.[SP]Oriri",
     "texte_orig": "Oh,[SP]by[SP]the[SP]way,[SP]the[SP]school[SP]festival[SP]is[SP]called\noff[SP]as[SP]a[SP]result[SP]of[SP]this.[SP]It[SP]had[SP]to[SP]happen.\nReally.[SP]But[SP]it's[SP]not[SP]the[SP]principal's[SP]fault.",
     "nom_fr": "Mr. Oriri ému",
-    "texte_fr": "Oh, et d'ailleurs, le festival du\nlycée est annulé à cause de ça.\nC'était obligé [1205][U+000F] d'arriver. Vraiment.[1101]Mais c'est pas la faute du principal."
+    "texte_fr": "Oh, et d'ailleurs, le festival du\nlycée est annulé à cause de ça.\nC'était obligé  d'arriver. Vraiment.[1101]Mais\nc'est pas la faute du principal."
   },
   {
     "id": 28,
@@ -461,7 +461,7 @@
     "nom_orig": "Ill[SP]male[SP]student",
     "texte_orig": "Th-This[SP]is[SP]tough...[SP]I[SP]shouldn't[SP]have[SP]been\nso[SP]sloppy...[1205][001E][SP]Not[SP]even[SP]I[SP]could[SP]have\npredicted[SP]this[SP]turn[SP]of[SP]events!",
     "nom_fr": "Lycéen malade",
-    "texte_fr": "C-C'est dur... J'aurais pas du être si\nnégligeant...[1205][001E] Même moi j'aurais pas pu prédire\nça!"
+    "texte_fr": "C-C'est dur... J'aurais pas du être si\nnégligeant...[1205][001E] Même moi\nj'aurais pas pu prédire\nça!"
   },
   {
     "id": 29,
@@ -477,7 +477,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "I-It's[SP]tough[SP]with[SP]the[SP]principal[SP]gone...[SP]Not\neven[SP]I[SP]could've[SP]predicted[SP]this[SP]turn[SP]of[SP]events!\nBut[SP]it's[SP]fine.[SP]I'm[SP]sure[SP]he'll[SP]be[SP]back.",
     "nom_fr": "Lycéen",
-    "texte_fr": "C'est dur depuis que le principal est parti...\nMême moi j'aurais pas pu prédire ça![1205][U+000F] Mais\nc'est pas grave. Je suis sûr qu'il reviendra."
+    "texte_fr": "C'est dur depuis que\nle principal est parti...\nMême moi j'aurais pas pu prédire ça! Mais\nc'est pas grave. Je\nsuis sûr qu'il reviendra."
   },
   {
     "id": 30,
@@ -493,7 +493,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "I-It'll[SP]be[SP]tough[SP]with[SP]the[SP]principal[SP]dead...[SP]Not\neven[SP]I[SP]could've[SP]predicted[SP]this[SP]turn[SP]of[SP]events!\nBut[SP]it's[SP]fine.[SP]I'm[SP]sure[SP]he's[SP]in[SP]heaven[SP]now.",
     "nom_fr": "Lycéen",
-    "texte_fr": "Ça va être dur avec la mort du principal...\nMême moi j'aurais pas pu prédire ça! Mais\nc'est pas[1205][U+000F] grave. Je suis sûr qu'il repose en[1101]paix."
+    "texte_fr": "Ça va être dur avec la mort du principal...\nMême moi j'aurais pas pu prédire ça! Mais\nc'est pas grave. Je\nsuis sûr qu'il repose en[1101]paix."
   },
   {
     "id": 31,
@@ -525,7 +525,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Dude,[SP]the[SP]principal's[SP]gone?[SP]Does[SP]that[SP]mean\nwe[SP]can[SP]go[SP]to[SP]clubs[SP]and[SP]stuff!?[SP]Party[SP]time!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Le principal est mort? Ça veut dire qu'on peut\naller en boîte!? C'est l'heure de s'amuser!"
+    "texte_fr": "Le principal est mort?\nÇa veut dire qu'on peut\naller en boîte!? C'est l'heure de s'amuser!"
   },
   {
     "id": 33,

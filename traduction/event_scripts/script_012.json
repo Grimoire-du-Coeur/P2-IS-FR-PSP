@@ -109,7 +109,7 @@
     "nom_orig": "Teacher's[SP]ghost",
     "texte_orig": "I[SP]said...[1205][001E][SP]that[SP]time...[1205][001E][SP]must[SP]not[SP]be[SP]set\nfree...[1205][001E][SP]I[SP]said[SP]it...[1205][001E][SP]so[SP]often...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHe[SP]disappeared![1205][001E][SP]But...[SP]I[SP]feel[SP]like[SP]I've...",
     "nom_fr": "Fantôme du prof",
-    "texte_fr": "J'ai dit...[1205][001E] que le temps...[1205][001E] doit rester figé...[1205][001E]\nJe le disais... [E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nIl a disparu![1205][001E]\nJ'ai l'impression... que je l'ai..."
+    "texte_fr": "J'ai dit...[1205][001E] que le\ntemps...[1205][001E] doit rester figé...[1205][001E]\nJe le disais... [E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nIl a disparu![1205][001E]\nJ'ai l'impression... que je l'ai..."
   },
   {
     "id": 7,
@@ -333,7 +333,7 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Hahaha![SP]Me,[SP]you[SP]ask?[SP]My[SP]wish[SP]was[SP]to[SP]become\na[SP]principal[SP]beloved[SP]by[SP]his[SP]students...[1205][001E]\nAs[SP]well[SP]as[SP]this[SP]fine[SP]mane[SP]you[SP]now[SP]see!",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Hahaha! Moi? Mon vœu était de devenir\nun directeur aimé de ses élèves...[1205][001E]Ainsi que d'avoir cette magnifique\nchevelure!"
+    "texte_fr": "Hahaha! Moi? Mon vœu était de devenir\nun directeur aimé de ses\nélèves...[1205][001E]Ainsi que d'avoir cette magnifique\nchevelure!"
   },
   {
     "id": 21,
@@ -381,7 +381,7 @@
     "nom_orig": "Joker",
     "texte_orig": "The[SP]seven[SP]Pleaides[SP]set[SP]the[SP]frozen[SP]time[SP]free...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Joker\nRevenge[SP]isn't[SP]my[SP]only[SP]motive.",
     "nom_fr": "Joker",
-    "texte_fr": "Les Pléiades ont libéré le temps... [E1][E2] [E3][E4][NULL][NULL]\"Joker\n[1205][U+000F]\nLa vengeance n'est pas mon seul mobile."
+    "texte_fr": "Les Pléiades ont libéré le temps... [E1][E2] [E3][E4][NULL][NULL]\"Joker\nLa vengeance n'est pas mon seul mobile."
   },
   {
     "id": 24,

@@ -13,7 +13,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]was[SP]close...[1205][001E][SP]We[SP]made[SP]it[SP]just[SP]in[SP]the\nnick[SP]of[SP]time.",
     "nom_fr": "Michel",
-    "texte_fr": "On l'a échappé belle...[1205][001E] Arrivés juste à temps."
+    "texte_fr": "On l'a échappé belle...[1205][001E]\nArrivés juste à temps."
   },
   {
     "id": 1,
@@ -113,7 +113,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I'm[SP]sorry...[SP]I'm...[SP]I'm[SP]okay[SP]now...[1205][001E]\nI'm[SP]just...[SP]so[SP]scared[SP]of[SP]his[SP]fires...[1205][001E]\nShameful,[SP]isn't[SP]it...?",
     "nom_fr": "Maya",
-    "texte_fr": "Pardon... Ça va maintenant...[1205][001E] C'est juste...\nj'ai si peur de ses feux...[1205][001E] C'est honteux...?"
+    "texte_fr": "Pardon... Ça va\nmaintenant...[1205][001E] C'est juste...\nj'ai si peur de\nses feux...[1205][001E] C'est honteux...?"
   },
   {
     "id": 7,
@@ -187,7 +187,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Sorry[SP]about[SP]that,[SP]everyone.[SP]C'mon,[SP]we[SP]need\nto[SP]find[SP]the[SP]Masked[SP]Circle's[SP]next[SP]target!\nLet's[SP]see[SP]here...",
     "nom_fr": "Maya",
-    "texte_fr": "Desolée pour ça. Allez, faut trouver la\nprochaine cible du Cercle Masqué[1205][U+000F] Voyons..."
+    "texte_fr": "Desolée pour ça. Allez, faut trouver la\nprochaine cible du Cercle Masqué Voyons..."
   },
   {
     "id": 11,
@@ -219,7 +219,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What[SP]the[SP]hell?[SP]What[SP]is[SP]this[SP]thing[SP]getting[SP]at?",
     "nom_fr": "Michel",
-    "texte_fr": "C'est quoi ce bazar? Où veut en venir ce truc?"
+    "texte_fr": "C'est quoi ce bazar? Où\nveut en venir ce truc?"
   },
   {
     "id": 13,
@@ -235,7 +235,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP][1432][NULL][NULL][0014]foreign[SP]song[1432][NULL][NULL][0014]...[SP]the[SP][1432][NULL][NULL][0014]flames[SP]of\nexpiation[1432][NULL][NULL][0014]...[1205][001E][SP]It[SP]can't[SP]be[SP]anything[SP]but\nthe[SP]Oracle[SP]of[SP]Maia![SP]B-But[SP]who...!?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nExcuse[SP]me...[SP]You're[SP]Ms.[SP]Okamura[SP]from[SP]Sevens,\nright?[SP]My[SP]name[SP]is[SP]Maya[SP]Amano,[SP]I'm[SP]with\nCoolest's[SP]editorial[SP]division.",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "La [1432][NULL][NULL][0014]chanson étrangere[1432][NULL][NULL][0014]... Les [1432][NULL][NULL][0014]flammes de\nl'expiation[1432][NULL][NULL][0014]...[1205][001E] C'est sûrement l'Oracle de\nMaia! M-Mais qui...!?[1205][U+000F] [E1][E2] [E3][E4][NULL][NULL]\"Maya Excusez-moi...\nVous êtes Mme Okamura de [1205][U+000F] Seven, n'est-ce pas?\nJe suis Maya Amano, de la redaction de[1101]Coolest."
+    "texte_fr": "La [1432][NULL][NULL][0014]chanson étrangere[1432][NULL][NULL][0014]... Les [1432][NULL][NULL][0014]flammes de\nl'expiation[1432][NULL][NULL][0014]...[1205][001E] C'est sûrement l'Oracle de\nMaia! M-Mais qui...!? [E1][E2] [E3][E4][NULL][NULL]\"Maya Excusez-moi...\nVous êtes Mme Okamura\nde  Seven, n'est-ce pas?\nJe suis Maya Amano,\nde la redaction de[1101]Coolest."
   },
   {
     "id": 14,
@@ -315,7 +315,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Sneaking[SP]a[SP]spy[SP]in[SP]with[SP]the[SP]students[SP]to[SP]deal\nwith[SP]Kashihara[SP]and[SP]me[SP]too...[SP]Dirty[SP]bastard!\nNasty[SP]mongrels[SP]and[SP]minions[SP]of[SP]the[SP]Fuhrer!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Infiltrer une espionne parmi les élèves\npour nous avoir, Kashihara et moi... Sale\nordure![1205][U+000F] Sales chiens, sbires du Führer!"
+    "texte_fr": "Infiltrer une espionne parmi les élèves\npour nous avoir, Kashihara et moi... Sale\nordure! Sales chiens, sbires du Führer!"
   },
   {
     "id": 19,
@@ -347,7 +347,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "We[SP]can[SP]get[SP]back[SP]to[SP]her[SP]later.[SP]Let's[SP]hurry\nto[SP]the[SP]next[SP]target[SP]right[SP]now!",
     "nom_fr": "Yukino",
-    "texte_fr": "On reviendra après. Vite, la prochaine cible!"
+    "texte_fr": "On reviendra après.\nVite, la prochaine cible!"
   },
   {
     "id": 21,
@@ -363,6 +363,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "This[SP]Oracle[SP]is[SP]probably[SP]an[SP]occult[SP]thing.\nA[SP]friend[SP]of[SP]mine[SP]knows[SP]a[SP]lot[SP]about[SP]that[SP]stuff,\nso[SP]I'll[SP]try[SP]calling[SP]her[SP]up.",
     "nom_fr": "Yukino",
-    "texte_fr": "Cet Oracle doit être un truc occulte.\nUne pote à moi connait bien ce genre de\nchoses,[1205][U+000F] je vais essayer de l'appeler."
+    "texte_fr": "Cet Oracle doit être un truc occulte.\nUne pote à moi connait bien ce genre de\nchoses, je vais essayer de l'appeler."
   }
 ]

@@ -87,7 +87,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Your[SP]membership[SP]level[SP]is[SP]determined[SP]by[SP]the\namount[SP]of[SP]points[SP]you[SP]have.[SP]You'll[SP]start[SP]at\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Black[SP]Raspberry[E4][NULL][NULL][0002][1432][NULL][NULL][0014][SP]and[SP]work[SP]your[SP]way[SP]up!",
     "nom_fr": "Mitsugi, la guide du cinéma",
-    "texte_fr": "Votre niveau de membre dépend de vos\npoints. Vous commencerez au rang[1205][U+000F]\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et vous progresserez!"
+    "texte_fr": "Votre niveau de membre dépend de vos\npoints. Vous commencerez au rang\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et vous progresserez!"
   },
   {
     "id": 6,
@@ -117,7 +117,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "...What?[SP]Wasn't[SP]my[SP]impeccable[SP]service\nand[SP]masterful[SP]explanation[SP]enough?\nYou've[SP]got[SP]to[SP]be[SP]joking.",
     "nom_fr": "Mitsugi",
-    "texte_fr": "... Quoi? Mon service impeccable et\nmes excellentes explications ne vous\nsuffisent pas?[1205][U+000F] Vous plaisantez?"
+    "texte_fr": "... Quoi? Mon service impeccable et\nmes excellentes explications ne vous\nsuffisent pas? Vous plaisantez?"
   },
   {
     "id": 8,
@@ -133,7 +133,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "We're[SP]already[SP]giving[SP]you[SP]the[SP]unparalleled\nexperience[SP]of[SP]seeing[SP]the[SP]most[SP]realistic[SP]movies\nknown[SP]to[SP]man![SP]What[SP]more[SP]could[SP]you[SP]want?",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Nous vous offrons déjà une expérience\nincomparable avec les films les plus\nréalistes[1205][U+000F] qui soient! Que demander de plus?"
+    "texte_fr": "Nous vous offrons déjà une expérience\nincomparable avec les films les plus\nréalistes qui soient! Que demander de plus?"
   },
   {
     "id": 9,
@@ -149,7 +149,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Thanks[SP]for[SP]your[SP]hard[SP]work![SP]I've[SP]been[SP]watching,\nand[SP]I[SP]gotta[SP]say,[SP]I'm[SP]impressed![SP]Let[SP]me[SP]unlock\na[SP]new[SP]mode[SP]for[SP]you.[E1][E2][E3]>[SP][1432][NULL][NULL][U+0013]BGM[1432][NULL][NULL][0014][SP]was[SP]added[SP]to[SP]the[SP]Gallery.",
     "nom_fr": "Mitsugi, la guide du cinéma",
-    "texte_fr": "Merci pour votre travail! Je vous ai observé.\nImpressionnant! Laissez-moi débloquer[1205][U+000F] un\nnouveau mode.[E1][E2][E3]>[1432][NULL][NULL][U+0013]BGM[1432][NULL][NULL][0014]ajouté à la Galerie."
+    "texte_fr": "Merci pour votre travail!\nJe vous ai observé.\nImpressionnant! Laissez-moi débloquer un\nnouveau mode.[E1][E2][E3]>[1432][NULL][NULL][U+0013]BGM[1432][NULL][NULL][0014]ajouté à la Galerie."
   },
   {
     "id": 10,
@@ -180,6 +180,6 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "If[SP]you[SP]go[SP]to[SP]Config[SP]and[SP]switch[SP]between[SP]Original\nand[SP]Remixed,[SP]you[SP]can[SP]enjoy[SP]new[SP]or[SP]old[SP]versions\nof[SP]those[SP]classic[SP]themes.",
     "nom_fr": "Mitsugi, la guide du cinéma",
-    "texte_fr": "Dans Config, passez de l'Original au Remix\npour profiter des versions nouvelles ou\nanciennes[1205][U+000F] de ces thèmes cultes."
+    "texte_fr": "Dans Config, passez de l'Original au Remix\npour profiter des versions nouvelles ou\nanciennes de ces thèmes cultes."
   }
 ]

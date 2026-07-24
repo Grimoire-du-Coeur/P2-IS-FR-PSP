@@ -93,7 +93,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]bastard[SP]must[SP]still[SP]be[SP]inside[SP]the[SP]school![1205][U+000F]\nWe[SP]gotta[SP]hurry[SP]and[SP]find[SP]him,[SP][1113]!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Cet enfoiré doit encore être dans le lycée\n![1205][U+000F] Vite, il faut le trouver, [1113]!"
+    "texte_fr": "Cet enfoiré doit encore être dans le lycée\n! Vite, il faut le trouver, [1113]!"
   },
   {
     "id": 6,
@@ -157,7 +157,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "That[SP]student[SP]council[SP]president[SP]had[SP]the[SP]same\nshiny[SP]skull[SP]as[SP]Joker![1205][U+000F][SP]Although...[SP]it[SP]was[SP]a\ndifferent[SP]color...",
     "nom_fr": "Ginko",
-    "texte_fr": "Le président a le même crâne brillant que\nle Joker![1205][U+000F] Mais... d'une autre couleur..."
+    "texte_fr": "Le président a le même crâne brillant que\nle Joker! Mais... d'une autre couleur..."
   },
   {
     "id": 10,
@@ -221,7 +221,7 @@
     "nom_orig": "Maya",
     "texte_orig": "The[SP]way[SP]he[SP]panicked...[1205][U+000F][SP]There[SP]was[SP]something\ndefinitely[SP]off[SP]about[SP]him.[1205][U+000F][SP]Is[SP]it[SP]because[SP]we\ngot[SP]out...?",
     "nom_fr": "Maya",
-    "texte_fr": "Il a paniqué...[1205][U+000F] Quelque chose clochait\nvraiment chez lui.[1205][U+000F] C'est parce qu'on est\nsortis...?"
+    "texte_fr": "Il a paniqué... Quelque chose clochait\nvraiment chez lui. C'est parce qu'on est\nsortis...?"
   },
   {
     "id": 14,
@@ -237,7 +237,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "A[SP]masquerade,[SP]huh?[1205][001E][SP]Isn't[SP]this[SP]just[SP]a[SP]fancy[SP]name\nfor[SP]a[SP]party?",
     "nom_fr": "Yukino",
-    "texte_fr": "Une mascarade?[1205][001E] Un nom chic pour une fête, non?"
+    "texte_fr": "Une mascarade?[1205][001E] Un nom\nchic pour une fête, non?"
   },
   {
     "id": 15,
@@ -253,7 +253,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Hm?[SP]Why[SP]would[SP]Joker[SP]throw[SP]a[SP]party?[1205][U+000F]\nHow[SP]should[SP]I[SP]know?",
     "nom_fr": "Yukino",
-    "texte_fr": "Pourquoi il ferait une fête?[1205][U+000F] Aucune idée."
+    "texte_fr": "Pourquoi il ferait une fête? Aucune idée."
   },
   {
     "id": 16,
@@ -285,7 +285,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "That[SP]girl...[SP]Why[SP]was[SP]she[SP]here?[1205][U+000F][SP]If[SP]she[SP]didn't\ncome[SP]to[SP]dance,[SP]then...[1205][U+000F][SP]Oh,[SP]no...",
     "nom_fr": "Yukino",
-    "texte_fr": "Cette fille... Que fait-elle ici?[1205][U+000F]\nPas pour danser, alors...[1205][U+000F] Oh non..."
+    "texte_fr": "Cette fille... Que fait-elle ici?\nPas pour danser, alors... Oh non..."
   },
   {
     "id": 18,
@@ -317,7 +317,7 @@
     "nom_orig": "Motivated[SP]committee[SP]member",
     "texte_orig": "They're[SP]here,[SP]they're[SP]here![SP]Tons[SP]of[SP]cute[SP]girls!\nSpring[SP]has[SP]come[SP]to[SP]Kasugayama[SP]High![SP]Raaaaaah!\nTime[SP]to[SP]score[SP]at[SP]last!",
     "nom_fr": "Membre motivé",
-    "texte_fr": "Elles sont là! Tant de filles mignonnes!\nC'est le printemps au Lycée Kakasu!\nRaaaaaah![1205][U+000F] Enfin l'heure de conclure!"
+    "texte_fr": "Elles sont là! Tant de filles mignonnes!\nC'est le printemps au Lycée Kakasu!\nRaaaaaah! Enfin l'heure de conclure!"
   },
   {
     "id": 20,
@@ -333,7 +333,7 @@
     "nom_orig": "Motivated[SP]committee[SP]member",
     "texte_orig": "Huh...?[1205][U+000F][SP]What[SP]was[SP]I[SP]doing[SP]here...?[1205][U+000F][SP]Oh[SP]yeah...\nThe[SP]masquerade.[1205][U+000F][SP]Wait,[SP]was[SP]this[SP]all[SP]the[SP]customers\nwe[SP]had?",
     "nom_fr": "Membre motivé",
-    "texte_fr": "Hein...?[1205][U+000F] Que faisais-je ici...?[1205][U+000F] Ah\noui... La mascarade.[1205][U+000F] Attends, c'est\ntout ce qu'on a eu comme clients?"
+    "texte_fr": "Hein...? Que faisais-je ici...? Ah\noui... La mascarade. Attends, c'est\ntout ce qu'on a eu comme clients?"
   },
   {
     "id": 21,
@@ -349,7 +349,7 @@
     "nom_orig": "Effeminate[SP]committee[SP]member",
     "texte_orig": "Don't[SP]you[SP]think[SP]a[SP]masquerade[SP]at[SP]a[SP]school\nfestival[SP]is[SP]the[SP]best[SP]idea?[SP]Our[SP]president[SP]who\nhad[SP]the[SP]idea[SP]really[SP]breaks[SP]the[SP]mold.",
     "nom_fr": "Membre efféminé",
-    "texte_fr": "Tu ne trouves pas qu'une mascarade pour la\nfête du lycée est une super idée? Notre [1205][U+000F]\nprésident a vraiment brisé les codes."
+    "texte_fr": "Tu ne trouves pas qu'une mascarade pour la\nfête du lycée est une super idée? Notre \nprésident a vraiment brisé les codes."
   },
   {
     "id": 22,
@@ -365,7 +365,7 @@
     "nom_orig": "Effeminate[SP]committee[SP]member",
     "texte_orig": "So[SP]many[SP]customers![SP]The[SP]dismal[SP]image[SP]we[SP]had\nbefore[SP]now[SP]seems[SP]like[SP]just[SP]a[SP]bad[SP]dream.\nI[SP]hope[SP]you[SP]have[SP]fun,[SP]too!",
     "nom_fr": "Membre efféminé",
-    "texte_fr": "Tant de clients! Notre affreuse\nréputation n'est plus qu'un mauvais rêve.\nJ'espère que[1205][U+000F] tu t'amuses bien aussi!"
+    "texte_fr": "Tant de clients! Notre affreuse\nréputation n'est plus qu'un mauvais rêve.\nJ'espère que tu t'amuses bien aussi!"
   },
   {
     "id": 23,
@@ -381,7 +381,7 @@
     "nom_orig": "Effeminate[SP]committee[SP]member",
     "texte_orig": "What[SP]was[SP]that[SP]our[SP]president[SP]was[SP]holding...?[1205][U+000F]\nIt[SP]was[SP]so[SP]shiny[SP]and[SP]pretty.",
     "nom_fr": "Membre efféminé",
-    "texte_fr": "Que tenait notre président...?[1205][U+000F]\nC'était si joli et brillant."
+    "texte_fr": "Que tenait notre président...?\nC'était si joli et brillant."
   },
   {
     "id": 24,
@@ -445,7 +445,7 @@
     "nom_orig": "Masquerade[SP]committee[SP]member",
     "texte_orig": "The[SP]president[SP]ran[SP]off[SP]toward[SP]the[SP]school\nbuilding[SP]in[SP]a[SP]big[SP]hurry.[1205][U+000F][SP]What[SP]happened?",
     "nom_fr": "Comité",
-    "texte_fr": "Le président a couru vers le bâtiment du\nlycée en toute hâte.[1205][U+000F] Que s'est-il passé?"
+    "texte_fr": "Le président a couru vers le bâtiment du\nlycée en toute hâte. Que s'est-il passé?"
   },
   {
     "id": 28,
@@ -461,7 +461,7 @@
     "nom_orig": "Masquerade[SP]committee[SP]member",
     "texte_orig": "Hey,[SP]you[SP]can't[SP]go[SP]in[SP]without[SP]registering[SP]here\nfirst.[SP]Take[SP]a[SP]mask[SP]in[SP]with[SP]you,[SP]too.[E1][E2][E3]>[SP]They're[SP]still[SP]setting[SP]up[SP]the[SP]masquerade...",
     "nom_fr": "Comité",
-    "texte_fr": "Hé, inscris-toi ici avant d'entrer. Prends un\nmasque aussi.[E1][E2][E3]> Ils préparent la mascarade..."
+    "texte_fr": "Hé, inscris-toi ici\navant d'entrer. Prends un\nmasque aussi.[E1][E2][E3]> Ils\npréparent la mascarade..."
   },
   {
     "id": 29,
@@ -477,7 +477,7 @@
     "nom_orig": "Masquerade[SP]committee[SP]member",
     "texte_orig": "Hey,[SP]you[SP]can't[SP]go[SP]in[SP]without[SP]registering[SP]here\nfirst.[SP]Take[SP]a[SP]mask[SP]in[SP]with[SP]you,[SP]too.[E1][E2][E3]>[SP]They're[SP]still[SP]setting[SP]up[SP]the[SP]masquerade...",
     "nom_fr": "Comité",
-    "texte_fr": "Hé, inscris-toi ici avant d'entrer. Prends un\nmasque aussi.[E1][E2][E3]> Ils préparent la mascarade..."
+    "texte_fr": "Hé, inscris-toi ici\navant d'entrer. Prends un\nmasque aussi.[E1][E2][E3]> Ils\npréparent la mascarade..."
   },
   {
     "id": 30,
@@ -493,7 +493,7 @@
     "nom_orig": "Teacher",
     "texte_orig": "*sniff*[SP]In[SP]my[SP]18[SP]years[SP]of[SP]teaching,[SP]have[SP]the\nstudents[SP]ever[SP]been[SP]so[SP]dedicated[SP]toward[SP]working\non[SP]the[SP]school[SP]festival?[1205][U+000F][SP]No![SP]They[SP]haven't!",
     "nom_fr": "Prof",
-    "texte_fr": "*sniff* En 18 ans de carrière, les\nélèves ont-ils déjà été aussi dévoués\nà la fête du lycée?[1205][U+000F] Non! Jamais!"
+    "texte_fr": "*sniff* En 18 ans de carrière, les\nélèves ont-ils déjà été aussi dévoués\nà la fête du lycée? Non! Jamais!"
   },
   {
     "id": 31,
@@ -509,7 +509,7 @@
     "nom_orig": "Teacher",
     "texte_orig": "Th-This[SP]can[SP]only[SP]be[SP]the[SP]leadership[SP]of[SP]our[SP]new\nstudent[SP]council[SP]president.[SP]My[SP]students...[SP]Right\nnow,[SP]you[SP]are[SP]beautiful![SP]Just[SP]beautiful![SP]*sniff*",
     "nom_fr": "Prof",
-    "texte_fr": "Ç-Ça ne peut être que grâce au leadership de\nnotre nouveau président. Mes élèves... Vous\nêtes magnifiques! Magnifiques! [1205][U+000F] *sniff*"
+    "texte_fr": "Ç-Ça ne peut être\nque grâce au leadership de\nnotre nouveau président. Mes élèves... Vous\nêtes magnifiques! Magnifiques!  *sniff*"
   },
   {
     "id": 32,
@@ -573,7 +573,7 @@
     "nom_orig": "School[SP]nurse",
     "texte_orig": "Huh?[1205][U+000F][SP]Hey,[SP]you're[SP]hurt.[SP]Let[SP]me[SP]take[SP]a[SP]look.\n[1208][0002]Yes\nNo\n[1109][E2][E3]>[SP][1113]'s[SP]party[SP]recovered.[E4][NULL][NULL][0002]",
     "nom_fr": "Infirmière",
-    "texte_fr": "Hein?[1205][U+000F] T'es blessé. Fais voir.\n[1208][0002]Oui\nNon\n[1109][E2][E3]> Équipe soignée.[E4][NULL][NULL][0002]",
+    "texte_fr": "Hein? T'es blessé. Fais voir.\n[1208][0002]Oui[0014]Non\n[1109][E2][E3]> Équipe soignée.[E4][NULL][NULL][0002]",
     "question_fr": "",
     "choix_fr": [
       ""

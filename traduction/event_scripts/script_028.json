@@ -61,7 +61,7 @@
     "nom_orig": "Long-haired[SP]man",
     "texte_orig": "I'm[SP]way[SP]better[SP]than[SP]that[SP]lameass![SP]I[SP]sing[SP]at\nthe[SP]train[SP]station[SP]every[SP]night,[SP]so[SP]I[SP]know[SP]I\ncan[SP]perform[SP]in[SP]front[SP]of[SP]a[SP]crowd!",
     "nom_fr": "Homme aux cheveux longs",
-    "texte_fr": "Je suis bien meilleur que ce minable!\nJe chante à la gare tous les soirs.\nje sais chanter[1205][U+000F] devant une foule!"
+    "texte_fr": "Je suis bien meilleur que ce minable!\nJe chante à la gare tous les soirs.\nje sais chanter devant une foule!"
   },
   {
     "id": 4,
@@ -93,7 +93,7 @@
     "nom_orig": "AD",
     "texte_orig": "I[SP]can't[SP]believe[SP]the[SP]director's[SP]making[SP]me\ndo[SP]this...[SP]How[SP]am[SP]I[SP]supposed[SP]to[SP]find[SP]some\nextras[SP]on[SP]such[SP]short--",
     "nom_fr": "Assistant",
-    "texte_fr": "Je n'arrive pas à croire que le\nréalisateur me demande ça... Comment\ntrouver des [1205][U+000F] figurants si--?"
+    "texte_fr": "Je n'arrive pas à croire que le\nréalisateur me demande ça... Comment\ntrouver des  figurants si--?"
   },
   {
     "id": 6,
@@ -205,7 +205,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]are[SP]we[SP]really[SP]going?[SP]I[SP]know[SP]what[SP]I[SP]said\nat[SP]the[SP]detective[SP]agency,[SP]but...[1205][001E][SP]Can[SP]we[SP]not\ngo[SP]after[SP]all?",
     "nom_fr": "Ginko",
-    "texte_fr": "Hé, on y va vraiment? Je sais ce que j'ai dit\nà l'agence, mais...[1205][001E] On peut pas y aller après?"
+    "texte_fr": "Hé, on y va vraiment?\nJe sais ce que j'ai dit\nà l'agence, mais...[1205][001E] On\npeut pas y aller après?"
   },
   {
     "id": 13,
@@ -221,7 +221,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "It's[SP]not[SP]like[SP]I[SP]want[SP]to[SP]go[SP]into[SP]showbiz...[1205][001E]\nAnd[SP]I'm[SP]not[SP]in[SP]the[SP]mood[SP]to[SP]see[SP]either[SP]of\nthose[SP]two[SP]right[SP]now.",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est pas comme si je voulais faire\ndu showbiz...[1205][001E] Et je n'ai pas vraiment\nenvie de voir qui [1205][U+000F] que ce soit."
+    "texte_fr": "C'est pas comme si je voulais faire\ndu showbiz...[1205][001E] Et je n'ai pas vraiment\nenvie de voir qui  que ce soit."
   },
   {
     "id": 14,
@@ -237,7 +237,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "A[SP]music[SP]video[SP]without[SP]me[SP]in[SP]it[SP]is[SP]a[SP]waste[SP]of\ntime![SP]Though[SP]if[SP]I[SP]ever[SP]were[SP]in[SP]one,[SP]I'd[SP]just\nsteal[SP]the[SP]spotlight[SP]from[SP]the[SP]lead[SP]anyway.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Un clip sans moi, c'est inutile! Mais si\njamais j'y étais, je volerais quand même\nla vedette au personnage [1205][U+000F] principal."
+    "texte_fr": "Un clip sans moi, c'est inutile! Mais si\njamais j'y étais, je volerais quand même\nla vedette au personnage  principal."
   },
   {
     "id": 15,
@@ -253,7 +253,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "A[SP]music[SP]video[SP]shoot,[SP]huh...?[SP]It's[SP]a[SP]little\ndifferent[SP]than[SP]my[SP]type[SP]of[SP]camera,[SP]but[SP]I'm\nlucky[SP]to[SP]be[SP]able[SP]to[SP]watch[SP]pros[SP]at[SP]work.",
     "nom_fr": "Yukino",
-    "texte_fr": "Un tournage de clip? C'est un peu différent\nde mes camera, mais j'ai de la chance de\npouvoir observer[1205][U+000F] des pros au travail."
+    "texte_fr": "Un tournage de clip? C'est un peu différent\nde mes camera, mais j'ai de la chance de\npouvoir observer des pros au travail."
   },
   {
     "id": 16,
@@ -429,7 +429,7 @@
     "nom_orig": "Manager",
     "texte_orig": "We're[SP]technically[SP]open[SP]today,[SP]but[SP]we're\nshut[SP]down[SP]now[SP]because[SP]of[SP]some[SP]music[SP]video\nshoot.[SP]And[SP]with[SP]all[SP]these[SP]customers[SP]here...\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#1[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.[E1][E2]\n[E3][E4][NULL][NULL]\"Manager\nOh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#2[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
     "nom_fr": "Manager",
-    "texte_fr": "Techniquement on est ouverts aujourd'hui, mais\non est fermés pour un tournage de clip.[1205][U+000F] Et\navec tous ces clients...[E1][E2][E3]> Machine n°1 de la\nrangée des bornes Wild 9.[E1][E2] [E3][E4][NULL][NULL]\"Manager\n[1205][U+000F] Oh désolé,\nmonsieur! Vous ne pouvez pas jouer maintenant.[1101]C'est un peu chaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°2 de la rangée des bornes Wild 9."
+    "texte_fr": "Techniquement on est\nouverts aujourd'hui, mais\non est fermés pour un tournage de clip. Et\navec tous ces clients...[E1][E2][E3]> Machine n°1 de la\nrangée des bornes Wild 9.[E1][E2] [E3][E4][NULL][NULL]\"Manager\n Oh désolé,\nmonsieur! Vous ne pouvez pas jouer maintenant.[1101]C'est\nun peu chaotique en ce moment.[E1][E2][E3]>  Machine\nn°2 de la rangée des bornes Wild 9."
   },
   {
     "id": 27,
@@ -445,7 +445,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#3[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°3 de la rangée des bornes Wild 9."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine\nn°3 de la rangée des bornes Wild 9."
   },
   {
     "id": 28,
@@ -461,7 +461,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#4[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°4 de la rangée des bornes Wild 9."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine\nn°4 de la rangée des bornes Wild 9."
   },
   {
     "id": 29,
@@ -477,7 +477,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#5[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°5 de la rangée des bornes Wild 9."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine\nn°5 de la rangée des bornes Wild 9."
   },
   {
     "id": 30,
@@ -493,7 +493,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#6[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°6 de la rangée des bornes Wild 9."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine\nn°6 de la rangée des bornes Wild 9."
   },
   {
     "id": 31,
@@ -509,7 +509,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#7[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°7 de la rangée des bornes Wild 9."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine\nn°7 de la rangée des bornes Wild 9."
   },
   {
     "id": 32,
@@ -525,7 +525,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#8[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°8 de la rangée des bornes Wild 9."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine\nn°8 de la rangée des bornes Wild 9."
   },
   {
     "id": 33,
@@ -541,7 +541,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#9[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°9 de la rangée des bornes Wild 9."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine\nn°9 de la rangée des bornes Wild 9."
   },
   {
     "id": 34,
@@ -557,7 +557,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#10[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine\nn°10 de la rangée des bornes Wild 9."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez\npas jouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine\nn°10 de la rangée des bornes Wild 9."
   },
   {
     "id": 35,
@@ -573,7 +573,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]the[SP][1432][NULL][NULL][0014]Join[SP]Forces[1432][NULL][NULL][0014][SP]blackjack[SP]machine.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.[E1][E2][E3]> [1205][U+000F] Machine de blackjack [1432][NULL][NULL][0014]Unissons nos\nForces[1432][NULL][NULL][0014]."
+    "texte_fr": "Oh désolé, monsieur! Vous\nne pouvez pas jouer\nmaintenant. C'est un peu chaotique en ce\nmoment.[E1][E2][E3]>  Machine de blackjack [1432][NULL][NULL][0014]Unissons nos\nForces[1432][NULL][NULL][0014]."
   },
   {
     "id": 36,
@@ -589,7 +589,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#1[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°1\nde la rangée des machines Arouse Blank."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine n°1\nde la rangée des machines Arouse Blank."
   },
   {
     "id": 37,
@@ -605,7 +605,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#2[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°2\nde la rangée des machines Arouse Blank."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine n°2\nde la rangée des machines Arouse Blank."
   },
   {
     "id": 38,
@@ -621,7 +621,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#3[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°3\nde la rangée des machines Arouse Blank."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine n°3\nde la rangée des machines Arouse Blank."
   },
   {
     "id": 39,
@@ -637,7 +637,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#4[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°4\nde la rangée des machines Arouse Blank."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine n°4\nde la rangée des machines Arouse Blank."
   },
   {
     "id": 40,
@@ -653,7 +653,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#5[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°5\nde la rangée des machines Arouse Blank."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine n°5\nde la rangée des machines Arouse Blank."
   },
   {
     "id": 41,
@@ -669,7 +669,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#6[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°6\nde la rangée des machines Arouse Blank."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine n°6\nde la rangée des machines Arouse Blank."
   },
   {
     "id": 42,
@@ -685,7 +685,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#7[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°7\nde la rangée des machines Arouse Blank."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine n°7\nde la rangée des machines Arouse Blank."
   },
   {
     "id": 43,
@@ -701,7 +701,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]machine[SP]#8[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]> [1205][U+000F] Machine n°8\nde la rangée des machines Arouse Blank."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu\nchaotique en ce moment.[E1][E2][E3]>  Machine n°8\nde la rangée des machines Arouse Blank."
   },
   {
     "id": 44,
@@ -717,6 +717,6 @@
     "nom_orig": "Manager",
     "texte_orig": "Oh,[SP]I'm[SP]sorry,[SP]sir![SP]You[SP]can't[SP]play[SP]that\nright[SP]now.[SP]Sorry,[SP]but[SP]things[SP]are[SP]too\nhectic[SP]at[SP]the[SP]moment.\n[E1][E2][E3]>[SP]It's[SP]the[SP][1432][NULL][NULL][0014]Fortune's[SP]Reel[1432][NULL][NULL][0014][SP]bingo[SP]game.",
     "nom_fr": "Manager",
-    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu chaotique en\nce moment.[E1][E2][E3]> Jeu [1205][U+000F] de bingo [1432][NULL][NULL][0014]Fortune's Reel[1432][NULL][NULL][0014]."
+    "texte_fr": "Oh désolé, monsieur! Vous ne pouvez pas\njouer maintenant. C'est un peu chaotique en\nce moment.[E1][E2][E3]> Jeu  de bingo [1432][NULL][NULL][0014]Fortune's Reel[1432][NULL][NULL][0014]."
   }
 ]

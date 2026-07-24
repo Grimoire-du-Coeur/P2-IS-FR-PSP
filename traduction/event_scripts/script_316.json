@@ -13,7 +13,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP][1114]...[1205][U+000F][SP]We[SP]did[SP]play[SP]Masked[SP]Circle,\nbut[SP]I[SP]don't[SP]think[SP]we[SP]ever[SP]played[SP]drugstore.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hé, [1114]...[1205][U+000F] On a joué au Cercle masqué,\nmais jamais à la pharmacie."
+    "texte_fr": "Hé, [1114]... On a joué au Cercle masqué,\nmais jamais à la pharmacie."
   },
   {
     "id": 1,
@@ -29,7 +29,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hey[SP][1113],[SP]once[SP]this[SP]is[SP]all[SP]settled,[SP]let's\nplay[SP]Masked[SP]Circle[SP]again.[1205][U+000F][SP]It[SP]might[SP]actually\nbe[SP]fun!",
     "nom_fr": "Ginko",
-    "texte_fr": "Hé [1113], quand tout ça sera réglé, rejouons\nau Cercle masqué.[1205][U+000F] Ça pourrait être amusant!"
+    "texte_fr": "Hé [1113], quand tout ça sera réglé, rejouons\nau Cercle masqué. Ça pourrait être amusant!"
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Did[SP]you[SP]hear[SP]Lisa's[SP]idea?[SP]Let's[SP]play[SP]Masked\nCircle[SP]again.[SP]This[SP]time,[SP]we'll[SP]do[SP]a[SP]drugstore![1205][U+000F]\nI'll[SP]get[SP]Jun-kun[SP]to[SP]join[SP]in[SP]too,[SP]of[SP]course!",
     "nom_fr": "Maya",
-    "texte_fr": "Tu as entendu l'idée de Lisa? Jouons au\nCercle masqué! Cette fois, la pharmacie.[1205][U+000F]\nJun-kun se joindra à nous aussi, bien sûr !"
+    "texte_fr": "Tu as entendu l'idée de Lisa? Jouons au\nCercle masqué! Cette fois, la pharmacie.\nJun-kun se joindra à nous aussi, bien sûr !"
   },
   {
     "id": 3,
@@ -77,7 +77,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Huh?[SP]Playing[SP]Masked[SP]Circle[SP]again?[SP]S-Sure,\nI'm[SP]game.",
     "nom_fr": "Jun",
-    "texte_fr": "Hein? Au Cercle masqué? D'accord, j'en suis."
+    "texte_fr": "Hein? Au Cercle\nmasqué? D'accord, j'en suis."
   },
   {
     "id": 5,
@@ -153,7 +153,7 @@
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "*sniff*[SP]What[SP]good[SP]is[SP]a[SP]city[SP]that[SP]flies[SP]through\nthe[SP]air!?[1205][U+000F][SP]And[SP]they[SP]say[SP]the[SP]Earth[SP]down[SP]below\nis[SP]going[SP]to[SP]be[SP]annihilated,[SP]right?",
     "nom_fr": "Sœur n°5",
-    "texte_fr": "*renifle* À quoi ça sert une ville dans\nles airs!?[1205][U+000F] Ils disent que la Terre\nlà-bas va être anéantie, c'est ça?"
+    "texte_fr": "*renifle* À quoi ça sert une ville dans\nles airs!? Ils disent que la Terre\nlà-bas va être anéantie, c'est ça?"
   },
   {
     "id": 9,
@@ -185,7 +185,7 @@
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "I[SP]wonder[SP]what[SP]my[SP]sisters[SP]plan[SP]to[SP]do...[SP]I'm[SP]not\ngiving[SP]up[SP]yet,[SP]anyway.[1205][U+000F][SP]But[SP]the[SP]future[SP]is[SP]full\nof[SP]problems...[1205][U+000F][SP]*sniff*",
     "nom_fr": "Sœur n°5",
-    "texte_fr": "Je me demande ce que mes sœurs font...\nJe n'abandonne pas encore.[1205][U+000F] Mais l'avenir\nest plein de soucis...[1205][U+000F] *renifle*"
+    "texte_fr": "Je me demande ce que mes sœurs font...\nJe n'abandonne pas encore. Mais l'avenir\nest plein de soucis... *renifle*"
   },
   {
     "id": 11,
@@ -217,7 +217,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "*sniff*[SP]My[SP]company[SP]went[SP]under[SP]while[SP]I[SP]was[SP]here\nlistening[SP]to[SP]this[SP]song...[1205][U+000F][SP]Well,[SP]more[SP]like[SP]it\ngot[SP]destroyed[SP]by[SP]those[SP]huge[SP]rings...",
     "nom_fr": "Employé",
-    "texte_fr": "*renifle* Mon entreprise a coulé\npendant que j'écoutais cette chanson...[1205][U+000F]\nDétruite par ces immenses anneaux..."
+    "texte_fr": "*renifle* Mon entreprise a coulé\npendant que j'écoutais cette chanson...\nDétruite par ces immenses anneaux..."
   },
   {
     "id": 13,
@@ -233,7 +233,7 @@
     "nom_orig": "Composer",
     "texte_orig": "A[SP]composer[SP]must[SP]always[SP]keep[SP]his[SP]five[SP]senses\nactive[SP]to[SP]gain[SP]new[SP]insight[SP]from[SP]the[SP]world\naround[SP]him.",
     "nom_fr": "Compositeur",
-    "texte_fr": "Un compositeur garde toujours ses cinq sens\nen éveil pour saisir[1205][U+000F] le monde qui l'entoure."
+    "texte_fr": "Un compositeur garde toujours ses cinq sens\nen éveil pour saisir\nle monde qui l'entoure."
   },
   {
     "id": 14,
@@ -249,7 +249,7 @@
     "nom_orig": "Composer",
     "texte_orig": "But[SP]the[SP]only[SP]songs[SP]I[SP]can[SP]think[SP]of[SP]now[SP]are[SP]dirges\nof[SP]destruction[SP]and[SP]preludes[SP]to[SP]annihilation...[1205][U+000F]\nMuch,[SP]much[SP]too[SP]depressing.",
     "nom_fr": "Compositeur",
-    "texte_fr": "Seules des marches funèbres et des préludes\nà la destruction...[1205][U+000F] Vraiment trop déprimant."
+    "texte_fr": "Seules des marches funèbres et des préludes\nà la destruction...\nVraiment trop déprimant."
   },
   {
     "id": 15,
@@ -265,7 +265,7 @@
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Ah,[SP]yes,[SP]welcome![1205][U+000A][SP]We[SP]work[SP]hard[SP]to[SP]spread[SP]our\nchain[SP]throughout[SP]the[SP]country![1205][U+000F][SP]But[SP]that[SP]will\nnever[SP]happen[SP]now![SP]*sniff*\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#5\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Sœur n°5",
-    "texte_fr": "Ah, oui, bienvenue![1205][U+000A] On travaille dur pour\nétendre notre chaîne dans tout le pays![1205][U+000F]\nMais c'est fichu maintenant! *snif*\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°5\n[1210][U+0100]Voir objets\nRien\nQuitter",
+    "texte_fr": "Ah, oui, bienvenue![1205][U+000A] On travaille dur pour\nétendre notre chaîne dans tout le pays!\nMais c'est fichu maintenant! *snif*\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°5\n[1210][U+0100]Voir objets\nRien\nQuitter",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -341,7 +341,7 @@
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Sœur n°5",
-    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui\nNon",
+    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[0014]Non",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -420,7 +420,7 @@
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Our[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.",
     "nom_fr": "Sœur n°5",
-    "texte_fr": "Revente à moitié prix environ. Vous ne pouvez\npas vendre ce qui est équipé ni les spéciaux."
+    "texte_fr": "Revente à moitié prix\nenviron. Vous ne pouvez\npas vendre ce qui\nest équipé ni les spéciaux."
   },
   {
     "id": 25,

@@ -29,7 +29,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You[SP]felt[SP]it[SP]too,[SP]right,[SP][1113]?[SP]And[SP]yet,\nthis[SP]is[SP]our[SP]first[SP]meeting...[1205][001E][SP]Is[SP]this[SP]a\nlove[SP]that's[SP]destined[SP]to[SP]be?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Tu l'as ressenti aussi, [1113]? C'est\npourtant notre première rencontre...[1205][001E]\nSerait-ce[1205][U+000F] un amour destiné?"
+    "texte_fr": "Tu l'as ressenti aussi, [1113]? C'est\npourtant notre première rencontre...[1205][001E]\nSerait-ce un amour destiné?"
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]got[SP]scolded[SP]for[SP]mouthing[SP]off[SP]to[SP]the[SP]principal:\n[1432][NULL][NULL][0014]What[SP]are[SP]you[SP]doing[SP]in[SP]the[SP]clock[SP]tower?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]rock[SP]hour![1432][NULL][NULL][0014][SP]Heheh...[SP]I'm[SP]a[SP]genius.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nNo[SP]use[SP]for[SP]this[SP]place[SP]anymore.[SP]Why[SP]not\nconvert[SP]it[SP]to[SP]a[SP]storage[SP]room?[1205][U+000F][SP]Hmmm...\nI[SP]guess[SP]you[SP]can't[SP]really[SP]do[SP]that...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Engueulé par le proviseur\n: [1432][NULL][NULL][0014]Que fais-tu dans le clocher?[1432][NULL][NULL][0014][1205][U+000F]\n[1432][NULL][NULL][0014]C'est l'heure du rock![1432][NULL][NULL][0014] Héhé... suis un[1101]génie.[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n[1205][U+000F] Cet endroit ne sert plus à\nrien. Pourquoi pas en faire un débarras?[1101]Hmm... Bon, c'est pas si simple..."
+    "texte_fr": "Engueulé par le proviseur\n: [1432][NULL][NULL][0014]Que fais-tu dans le clocher?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]C'est l'heure du rock![1432][NULL][NULL][0014]\nHéhé... suis un[1101]génie.[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n Cet endroit ne sert plus à\nrien. Pourquoi pas en faire un\ndébarras?[1101]Hmm... Bon, c'est pas si simple..."
   },
   {
     "id": 3,
@@ -93,7 +93,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]think[SP]it[SP]was[SP]when[SP]he[SP]sprouted[SP]all[SP]that[SP]hair.[1205][001E]\nHe's[SP]got[SP]such[SP]a[SP]punchable[SP]face...[SP]Arrrgh!\nWanna[SP]pound[SP]some[SP]nails[SP]in[SP]the[SP]photo's[SP]eyes?",
     "nom_fr": "Ginko",
-    "texte_fr": "Je crois que c'est depuis qu'il a eu cette\ntignasse.[1205][001E] Quelle tête à claques... Argh![1205][U+000F]\nVeux-tu enfoncer des clous sur la photo?"
+    "texte_fr": "Je crois que c'est depuis qu'il a eu cette\ntignasse.[1205][001E] Quelle tête à claques... Argh!\nVeux-tu enfoncer des clous sur la photo?"
   },
   {
     "id": 6,
@@ -125,7 +125,7 @@
     "nom_orig": "Maya",
     "texte_orig": "*staaa[1205][U+000F]a[1205][U+000F]a[1205][U+000F]a[1205][U+000F]a[1205][U+000F]re*[1205][001E]\nBut[SP]that[SP]aside,[SP][1113]-kun...[1205][001E]\nHave[SP]we[SP]met[SP]somewhere[SP]before?",
     "nom_fr": "Maya",
-    "texte_fr": "*fixe[1205][U+000F]fixe[1205][U+000F]fixe[1205][U+000F]fixe[1205][U+000F]fixe*[1205][001E] Bref...\n[1113]-kun...[1205][001E] On s'est déjà vus?"
+    "texte_fr": "*fixefixefixefixefixe*[1205][001E] Bref...\n[1113]-kun...[1205][001E] On s'est déjà vus?"
   },
   {
     "id": 8,
@@ -173,7 +173,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Yukki's[SP]probably[SP]right.[SP]Ms.[SP]Saeko[SP]seemed[SP]like\nan[SP]understanding[SP]and[SP]beautiful[SP]woman.[SP]You're\nlucky[SP]to[SP]have[SP]her[SP]in[SP]charge[SP]of[SP]your[SP]class.",
     "nom_fr": "Maya",
-    "texte_fr": "Yukki a sûrement raison. Mme Saeko semblait\nêtre une femme belle et compréhensive. De [1205][U+000F]\nla chance d'avoir quelqu'un comme elle."
+    "texte_fr": "Yukki a sûrement raison. Mme Saeko semblait\nêtre une femme belle et compréhensive. De \nla chance d'avoir quelqu'un comme elle."
   },
   {
     "id": 11,
@@ -189,7 +189,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]wonder[SP]if[SP]there's[SP]really[SP]any[SP]such[SP]thing[SP]as\ncoincidence...[1205][001E][SP]When[SP]so[SP]many[SP]of[SP]them[SP]happen\nlike[SP]this,[SP]I[SP]wonder[SP]if[SP]it's[SP]all[SP]a[SP]setup.",
     "nom_fr": "Yukino",
-    "texte_fr": "Est-ce que les coïncidences existent\nvraiment...[1205][001E] Quand il y en a autant d'un coup,\nje me [1205][U+000F] demande si tout n'est pas orchestré."
+    "texte_fr": "Est-ce que les coïncidences existent\nvraiment...[1205][001E] Quand il y\nen a autant d'un coup,\nje me  demande si tout n'est pas orchestré."
   },
   {
     "id": 12,
@@ -221,7 +221,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Yeah,[SP]there[SP]was[SP]a[SP]guy[SP]like[SP]him[SP]back[SP]then...\nA[SP]dork[SP]who'd[SP]say[SP]the[SP]dumbest[SP]shit...[1205][001E]\nI[SP]had[SP]a[SP]friend[SP]like[SP]him[SP]too!",
     "nom_fr": "Yukino",
-    "texte_fr": "Ouais, il y en avait un comme lui à\nl'époque... Un idiot qui sortait des\nâneries...[1205][001E][1205][U+000F] J'avais un ami pareil!"
+    "texte_fr": "Ouais, il y en avait un comme lui à\nl'époque... Un idiot qui sortait des\nâneries...[1205][001E] J'avais un ami pareil!"
   },
   {
     "id": 14,
@@ -279,7 +279,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]knew[SP]it...[1205][001E][SP]There[SP]was[SP]an[SP]antisocial[SP]guy[SP]like\nyou[SP]there,[SP]too...[1205][001E][SP]Am[SP]I[SP]cursed[SP]or[SP]something!?",
     "nom_fr": "Yukino",
-    "texte_fr": "Je m'en doutais...[1205][001E] Il y avait un asocial\ncomme toi là-bas aussi...[1205][001E] Je suis maudite !?"
+    "texte_fr": "Je m'en doutais...[1205][001E] Il y avait un asocial\ncomme toi là-bas aussi...[1205][001E]\nJe suis maudite !?"
   },
   {
     "id": 17,

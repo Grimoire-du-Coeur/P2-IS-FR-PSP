@@ -61,7 +61,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "It's...[1205][001E][SP]like[SP]a[SP]nice[SP]memory...[SP]Warmer[SP]than\nwhat[SP]I[SP]felt[SP]with[SP][1113][SP]and[SP]Ginko...[1205][001E]\nLike[SP]a[SP]hug[SP]from[SP]my[SP]mom...",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est...[1205][001E] si chaleureux... Plus que ce que j'ai\nressenti avec [1113] et Ginko...[1205][001E] Comme un\ncâlin..."
+    "texte_fr": "C'est...[1205][001E] si chaleureux... Plus\nque ce que j'ai\nressenti avec [1113] et Ginko...[1205][001E] Comme un\ncâlin..."
   },
   {
     "id": 4,
@@ -123,7 +123,7 @@
       5169
     ],
     "nom_orig": "Maya",
-    "texte_orig": "And[SP]wow,[SP]I[SP]can't[SP]believe[SP]you're[SP]a\nPersona-user[SP]too,[SP]Yukki!",
+    "texte_orig": "And[SP]wow,[SP]I[SP]can't[SP]believe[SP]you're[SP]a\nManieur de Persona[SP]too,[SP]Yukki!",
     "nom_fr": "Maya",
     "texte_fr": "Et toi aussi t'es une\nutilisatrice de Persona, Yukki!"
   },
@@ -139,7 +139,7 @@
       5169
     ],
     "nom_orig": "Yukino",
-    "texte_orig": "I've[SP]been[SP]a[SP]Persona-user[SP]since[SP]I[SP]played\nthe[SP][1432][NULL][NULL][0014]Persona[SP]Game[1432][NULL][NULL][0014][SP]back[SP]in[SP]high[SP]school...[1205][0014]\nThat[SP]was[SP]three[SP]years[SP]ago.",
+    "texte_orig": "I've[SP]been[SP]a[SP]Manieur de Persona[SP]since[SP]I[SP]played\nthe[SP][1432][NULL][NULL][0014]Persona[SP]Game[1432][NULL][NULL][0014][SP]back[SP]in[SP]high[SP]school...[1205][0014]\nThat[SP]was[SP]three[SP]years[SP]ago.",
     "nom_fr": "Yukino",
     "texte_fr": "J'ai une Persona depuis que\nj'ai fait le [1432][NULL][NULL][0014]Jeu de la Persona[1432][NULL][NULL][0014]\nau lycée...[1205][0014] Y'a trois ans de ça."
   },
@@ -299,7 +299,7 @@
       5169
     ],
     "nom_orig": "Maya",
-    "texte_orig": "Plus,[SP]if[SP]we[SP]go[SP]with[SP]you,[SP]maybe[SP]I[SP]can[SP]find\nout[SP]how[SP]I[SP]became[SP]a[SP]Persona-user.",
+    "texte_orig": "Plus,[SP]if[SP]we[SP]go[SP]with[SP]you,[SP]maybe[SP]I[SP]can[SP]find\nout[SP]how[SP]I[SP]became[SP]a[SP]Manieur de Persona.",
     "nom_fr": "Maya",
     "texte_fr": "En venant, je trouverai peut-être\ncomment j'ai eu ma Persona."
   },
@@ -397,7 +397,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]know![SP]Let's[SP]destroy[SP]all[SP]the[SP]emblems[SP]in\nthe[SP]school.[SP]Getting[SP]rid[SP]of[SP]the[SP]cause[SP]of\nthe[SP]problem[SP]should[SP]help,[SP]right?",
     "nom_fr": "Maya",
-    "texte_fr": "J'ai une idée! Détruisons tous les\nemblèmes du lycée. Éliminer la source\ndu problème,[1205][U+000F] ça devrait aider, non?"
+    "texte_fr": "J'ai une idée! Détruisons tous les\nemblèmes du lycée. Éliminer la source\ndu problème, ça devrait aider, non?"
   },
   {
     "id": 25,
@@ -525,7 +525,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]memories[SP]evoked[SP]by[SP]the[SP]lady[SP]Maya-san...[1205][001E]\nThey[SP]were[SP]warm,[SP]sad,[SP]and[SP]painful,[SP]all[SP]at\nonce...[1205][001E][SP]Like[SP]the[SP]wringing[SP]of[SP]my[SP]heart...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Les souvenirs que Maya-san a\néveillé...[1205][001E] Chauds, tristes et douloureux à\nla fois...[1205][001E][1205][U+000F] Comme si mon cœur se tordait..."
+    "texte_fr": "Les souvenirs que Maya-san a\néveillé...[1205][001E] Chauds, tristes et douloureux à\nla fois...[1205][001E] Comme si mon cœur se tordait..."
   },
   {
     "id": 33,
@@ -541,7 +541,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You[SP]felt[SP]it[SP]too,[SP]right,[SP][1113]?[SP]And[SP]yet,\nthis[SP]is[SP]our[SP]first[SP]meeting...[1205][001E][SP]Is[SP]this[SP]a\nlove[SP]that's[SP]destined[SP]to[SP]be?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Tu l'as resenti aussi, hein, [1113]? Pourtant on\nvient de se rencontrer...[1205][001E] Serait-ce le destin?"
+    "texte_fr": "Tu l'as resenti aussi, hein, [1113]? Pourtant on\nvient de se\nrencontrer...[1205][001E] Serait-ce le destin?"
   },
   {
     "id": 34,
@@ -589,7 +589,7 @@
     "nom_orig": "Maya",
     "texte_orig": "We[SP]were[SP]actually[SP]looking[SP]for[SP]you[SP]earlier.[1205][001E]\nI[SP]mean,[SP]there's[SP]no[SP]way[SP]we'd[SP]leave[SP]without\ninterviewing[SP]the[SP]famous[SP][1113]-kun!",
     "nom_fr": "Maya",
-    "texte_fr": "En fait, on te cherchait tout à l'heure.[1205][001E]\nHors de question qu'on reparte sans\ninterviewer[1205][U+000F] le célèbre [1113]-kun!"
+    "texte_fr": "En fait, on te cherchait tout à l'heure.[1205][001E]\nHors de question qu'on reparte sans\ninterviewer le célèbre [1113]-kun!"
   },
   {
     "id": 37,
@@ -635,7 +635,7 @@
       5169
     ],
     "nom_orig": "Yukino",
-    "texte_orig": "This[SP]is[SP]a[SP]surprise.[1205][001E][SP]I[SP]never[SP]knew[SP]there\nwere[SP]other[SP]Persona-users[SP]besides[SP]us...[1205][001E]\nBy[SP]which[SP]I[SP]mean[SP]my[SP]old[SP]pals.",
+    "texte_orig": "This[SP]is[SP]a[SP]surprise.[1205][001E][SP]I[SP]never[SP]knew[SP]there\nwere[SP]other[SP]Manieur de Persona[SP]besides[SP]us...[1205][001E]\nBy[SP]which[SP]I[SP]mean[SP]my[SP]old[SP]pals.",
     "nom_fr": "Yukino",
     "texte_fr": "Quelle surprise.[1205][001E] D'autres utilisateurs\nde Persona..[1205][001E] Comme mes anciens amis."
   },
@@ -683,7 +683,7 @@
       5169
     ],
     "nom_orig": "Yukino",
-    "texte_orig": "My[SP]pals[SP]and[SP]me[SP]threw[SP]down[SP]with[SP]demons\nand[SP]other[SP]Persona-users[SP]and[SP]took[SP]back\nour[SP]town.",
+    "texte_orig": "My[SP]pals[SP]and[SP]me[SP]threw[SP]down[SP]with[SP]demons\nand[SP]other[SP]Manieur de Persona[SP]and[SP]took[SP]back\nour[SP]town.",
     "nom_fr": "Yukino",
     "texte_fr": "On s'est battus contre des\ndémons pour sauver notre ville."
   },

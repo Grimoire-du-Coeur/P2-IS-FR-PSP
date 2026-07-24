@@ -13,7 +13,7 @@
     "nom_orig": "King[SP]Leo",
     "texte_orig": "It[SP]seems[SP]things[SP]have[SP]gone[SP]awry,[SP]Taurus.[1205][001E][SP]He[SP]is\nindeed[SP]the[SP]Cursed[SP]Star[SP]the[SP]heavens[SP]foretold...[1205][001E]\nYou[SP]should[SP]not[SP]dismiss[SP]them[SP]as[SP]mere[SP]children.",
     "nom_fr": "Roi Lion",
-    "texte_fr": "Il semble que les choses ont dérapé, Taurus.[1205][001E]\nC'est bien l'Étoile Maudite prédite par les\ncieux...[1205][001E][1205][U+000F] Tu ne devrais pas les prendre de[1101]haut."
+    "texte_fr": "Il semble que les\nchoses ont dérapé, Taurus.[1205][001E]\nC'est bien l'Étoile Maudite prédite par les\ncieux...[1205][001E] Tu ne devrais\npas les prendre de[1101]haut."
   },
   {
     "id": 1,
@@ -29,7 +29,7 @@
     "nom_orig": "Prince[SP]Taurus",
     "texte_orig": "Ngh...[1205][001E][SP]The[SP][1432][NULL][NULL][0014]foreign[SP]song[1432][NULL][NULL][0014][SP]was[SP]fulfilled...[1205][001E]\nHalf[SP]of[SP]my[SP]job[SP]is[SP]done.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Prince[SP]Taurus\nThe[SP]Earth[SP]crystal[SP]skull[SP]will[SP]be[SP]full[SP]soon...[1205][001E]\nI'll[SP]make[SP]sure[SP]that[SP]everything[SP]is[SP]complete\nin[SP]time[SP]for[SP]the[SP]End[SP]of[SP]Nahui-Ollin...",
     "nom_fr": "Prince Taureau",
-    "texte_fr": "Ngh...[1205][001E] La [1432][NULL][NULL][0014]chanson étrangère[1432][NULL][NULL][0014] s'est finie...[1205][001E]\nMa tâche va finir.[E1][E2]\n[E3][E4][NULL][NULL]\"Prince Taureau\nLe crâne de cristal de la Terre sera bientôt\nplein...[1205][001E] Je m'assurerai que[1205][U+000F] tout soit prêt[1101]pour la Fin de Nahui-Ollin..."
+    "texte_fr": "Ngh...[1205][001E] La [1432][NULL][NULL][0014]chanson étrangère[1432][NULL][NULL][0014] s'est finie...[1205][001E]\nMa tâche va finir.[E1][E2]\n[E3][E4][NULL][NULL]\"Prince Taureau\nLe crâne de cristal\nde la Terre sera bientôt\nplein...[1205][001E] Je m'assurerai que tout\nsoit prêt[1101]pour la Fin de Nahui-Ollin..."
   },
   {
     "id": 2,
@@ -125,7 +125,7 @@
     "nom_orig": "King[SP]Leo",
     "texte_orig": "It[SP]is[SP]I[SP]you[SP]face,[SP]not[SP]he...[1205][001E][SP]I[SP]could[SP]rend\nyou[SP]to[SP]pieces[SP]now,[SP]but[SP]why[SP]not[SP]play[SP]a\nlittle[SP]game...?",
     "nom_fr": "Roi Lion",
-    "texte_fr": "C'est à moi que tu as affaire...[1205][001E] Je pourrais\nte tuer, mais pourquoi ne pas jouer un peu...?"
+    "texte_fr": "C'est à moi que\ntu as affaire...[1205][001E] Je pourrais\nte tuer, mais pourquoi\nne pas jouer un peu...?"
   },
   {
     "id": 8,
@@ -141,7 +141,7 @@
     "nom_orig": "King[SP]Leo",
     "texte_orig": "My[SP]duty[SP]is[SP]to[SP]ignite[SP]the[SP]flames[SP]of[SP]expiation\nto[SP]the[SP]lands[SP]shown[SP]by[SP]the[SP]celestial[SP]heavens.[1205][001E]\nFour[SP]pillars[SP]of[SP]fire[SP]will[SP]rise...[1205][001E]",
     "nom_fr": "Roi Lion",
-    "texte_fr": "Je dois allumer les flammes de l'expiation\nsur les terres désignées par les cieux.[1205][001E]\nQuatre piliers de feu[1205][U+000F] s'élèveront...[1205][001E]"
+    "texte_fr": "Je dois allumer les flammes de l'expiation\nsur les terres désignées par les cieux.[1205][001E]\nQuatre piliers de feu s'élèveront...[1205][001E]"
   },
   {
     "id": 9,
@@ -157,7 +157,7 @@
     "nom_orig": "King[SP]Leo",
     "texte_orig": "Hahahaaa![SP]One[SP]is[SP]here...[1205][001E][SP]Scour[SP]this[SP]hall[SP]to\ndiscover[SP]the[SP]next[SP]target...[1205][001E][SP]Somewhere[SP]here,\nyou[SP]shall[SP]find[SP]a[SP]gracious[SP]riddle!",
     "nom_fr": "Roi Lion",
-    "texte_fr": "Hahaha! L'un d'eux est ici...[1205][001E] Fouillez cette\nsalle pour trouver la cible...[1205][001E] Quelque part\nici,[1205][U+000F] vous trouverez une énigme!"
+    "texte_fr": "Hahaha! L'un d'eux\nest ici...[1205][001E] Fouillez cette\nsalle pour trouver la cible...[1205][001E] Quelque part\nici, vous trouverez une énigme!"
   },
   {
     "id": 10,
@@ -173,7 +173,7 @@
     "nom_orig": "King[SP]Leo",
     "texte_orig": "Hahahaaa...[SP]Hyaaahahahaahahaaaaaa!\nHurry,[SP]whelps![SP]This[SP]park[SP]will[SP]soon[SP]be\nengulfed[SP]in[SP]flames!",
     "nom_fr": "Roi Lion",
-    "texte_fr": "Hahahaaa... Hyaahahaaaa! Vite, misérables! Ce\nparc sera bientôt englouti par les flammes!"
+    "texte_fr": "Hahahaaa... Hyaahahaaaa!\nVite, misérables! Ce\nparc sera bientôt englouti par les flammes!"
   },
   {
     "id": 11,
@@ -189,7 +189,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "That[SP]bastard...[SP]He's[SP]set[SP]bombs[SP]in[SP]town,\ntoo![SP]There's[SP]not[SP]much[SP]time...[1205][001E][SP]We[SP]need[SP]to\nfind[SP]the[SP]next[SP]target[SP]and[SP]get[SP]out[SP]of[SP]here!\n[E1][E2][E3]>[SP]Save[SP]your[SP]game?\n[1208][0002]Yes\nNo",
     "nom_fr": "Yukino",
-    "texte_fr": "L'enfoiré... Il a aussi posé des bombes\nen ville! On a peu de temps...[1205][001E] Faut\ntrouver la prochaine cible et filer![1205][U+000F]\n[E1][E2][E3]> Sauvegarder?\n[1208][0002]Oui\nNon",
+    "texte_fr": "L'enfoiré... Il a aussi posé des bombes\nen ville! On a peu de temps...[1205][001E] Faut\ntrouver la prochaine cible et filer!\n[E1][E2][E3]> Sauvegarder?\n[1208][0002]Oui[0014]Non",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -320,7 +320,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "[1113]![SP]There's[SP]no[SP]time.[SP]Whoever's[SP]left\nneeds[SP]to[SP]be[SP]evacuated[SP]so[SP]we[SP]can[SP]hurry[SP]and\nfind[SP]the[SP]next[SP]target!",
     "nom_fr": "Yukino",
-    "texte_fr": "[1113]! Pas le temps. Évacuons ceux qui\nrestent pour trouver vite la prochaine cible!"
+    "texte_fr": "[1113]! Pas le temps. Évacuons ceux qui\nrestent pour trouver\nvite la prochaine cible!"
   },
   {
     "id": 20,
@@ -384,6 +384,6 @@
     "nom_orig": "Miho[SP]shadowman",
     "texte_orig": "Lisa's[SP]crying...[1205][001E][SP]I[SP]guess...[SP]it[SP]doesn't\nmatter...",
     "nom_fr": "Ombre de Miho",
-    "texte_fr": "Lisa pleure...[1205][001E] Ça n'a... plus d'importance..."
+    "texte_fr": "Lisa pleure...[1205][001E] Ça\nn'a... plus d'importance..."
   }
 ]

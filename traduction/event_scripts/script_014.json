@@ -125,7 +125,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Don't[SP]do[SP]this.[SP]Trying[SP]to[SP]be[SP]something\nyou're[SP]not[SP]isn't[SP]cool.[E1][E2]\n[E3][E4][NULL][NULL]\"Anna\n...Who're[SP]you?",
     "nom_fr": "Yukino",
-    "texte_fr": "Ne fais pas ça. Jouer un rôle n'est\npas cool.[E1][E2] [E3][E4][NULL][NULL]\"Anna\n[1205][U+000F] ... T'es qui toi?"
+    "texte_fr": "Ne fais pas ça. Jouer un rôle n'est\npas cool.[E1][E2] [E3][E4][NULL][NULL]\"Anna\n ... T'es qui toi?"
   },
   {
     "id": 8,
@@ -269,7 +269,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That's[SP]enough,[SP]everyone![1205][001E][SP]I[SP]think[SP]we[SP]all\nneed[SP]to[SP]be[SP]shinier,[SP]happier[SP]people[SP]here.\nYou[SP]don't[SP]want[SP]to[SP]make[SP]me[SP]mad,[SP]do[SP]you?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ça suffit![1205][001E] Je pense qu'on devrait tous être plus\nradieux et heureux ici. Vous ne voudriez\npas me mettre en colère, si?"
+    "texte_fr": "Ça suffit![1205][001E] Je pense\nqu'on devrait tous être plus\nradieux et heureux ici. Vous ne voudriez\npas me mettre en colère, si?"
   },
   {
     "id": 17,
@@ -301,7 +301,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "Wh-Who[SP]gives[SP]a[SP]damn[SP]about[SP]you[SP]anymore!?\nNo[SP]one'll[SP]listen[SP]to[SP]you![SP]You're[SP]not[SP]our\nBoss[SP]no[SP]more!",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "Q-Qui en a encore quelque chose à\nfoutre de toi!? Personne ne\nt'écoutera! T'es plus[1205][U+000F] notre Boss!"
+    "texte_fr": "Q-Qui en a encore quelque chose à\nfoutre de toi!? Personne ne\nt'écoutera! T'es plus notre Boss!"
   },
   {
     "id": 19,
@@ -333,7 +333,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "We[SP]got[SP]a[SP]new[SP]Leader![1205][001E][SP]And[SP]he's[SP]way,[SP]WAY\nstronger[SP]than[SP]any[SP]Boss![E1][E2]\n[E3][E4][NULL][NULL]\"Cuss[SP]High[SP]student\nAll[SP]your[SP]cronies[SP]at[SP]Cuss[SP]High[SP]have\nswitched[SP]sides[SP]for[SP]our[SP]new[SP]Leader,\nSugimoto-san!",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "On a un nouveau Leader![1205][001E] Bien plus fort que\nn'importe quel Boss![E1][E2] [E3][E4][NULL][NULL]\"Élève de Kasu\n[1205][U+000F]\nTous tes potes de Kasu ont rejoint[1101]Sugimoto-san, notre nouveau Leader!"
+    "texte_fr": "On a un nouveau Leader![1205][001E] Bien plus fort que\nn'importe quel Boss![E1][E2] [E3][E4][NULL][NULL]\"Élève de Kasu\nTous tes potes de Kasu\nont rejoint[1101]Sugimoto-san, notre nouveau Leader!"
   },
   {
     "id": 21,
@@ -429,7 +429,7 @@
     "nom_orig": "Maya",
     "texte_orig": "So[SP]there's[SP]a[SP]new[SP]head[SP]honcho[SP]right[SP]under\nthe[SP]old[SP]one's[SP]nose...?[1205][001E][SP]Doesn't[SP]that[SP]sound\na[SP]little[SP]sudden?",
     "nom_fr": "Maya",
-    "texte_fr": "Un nouveau chef apparaît sans que l'ancien\nne le sache...?[1205][001E] Ça ne vous semble pas un peu soudain?"
+    "texte_fr": "Un nouveau chef apparaît sans que l'ancien\nne le sache...?[1205][001E] Ça ne\nvous semble pas un peu soudain?"
   },
   {
     "id": 27,
@@ -445,7 +445,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Sounds[SP]like[SP]the[SP]result[SP]of[SP]another\nrumor...[1205][001E][SP]Maybe[SP]that[SP]Sugimoto's[SP]in[SP]league\nwith[SP]Joker[SP]too.",
     "nom_fr": "Maya",
-    "texte_fr": "C'est sûrement dû à une autre rumeur...[1205][001E] Sugimoto est peut-être de mèche avec\nJoker."
+    "texte_fr": "C'est sûrement dû à une autre\nrumeur...[1205][001E] Sugimoto est peut-être de mèche avec\nJoker."
   },
   {
     "id": 28,
@@ -797,7 +797,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "Sugimoto's[SP]actually[SP]kind[SP]of[SP]a[SP]shitty[SP]dude.\nHe[SP]sucks[SP]up[SP]to[SP]the[SP]strong[SP]and[SP]stomps[SP]on\nthe[SP]weak.[SP]Huh...[1205][001E][SP]Why[SP]IS[SP]he[SP]our[SP]Leader?",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "Sugimoto est un gars minable. Il lèche\nles bottes des forts et écrase les\nfaibles. Pff...[1205][U+000F]pourquoi est-il notre Leader?"
+    "texte_fr": "Sugimoto est un gars minable. Il lèche\nles bottes des forts et écrase les\nfaibles. Pff...pourquoi\nest-il notre Leader?"
   },
   {
     "id": 50,

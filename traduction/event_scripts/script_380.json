@@ -125,7 +125,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "I[SP]knew[SP]this[SP]day[SP]would[SP]come,[SP]Eikichi...[1205][001E][SP]These\nweapons[SP]are[SP]on[SP]the[SP]house,[SP]as[SP]a[SP]farewell[SP]gift.[1205][001E]\nHmmm...[SP]Let's[SP]see...",
     "nom_fr": "Patronne",
-    "texte_fr": "Je savais que ce jour viendrait,\nEikichi...[1205][001E] Ces armes sont offertes,\nadieu.[1205][001E][1205][U+000F] Hmmm... Voyons voir..."
+    "texte_fr": "Je savais que ce jour viendrait,\nEikichi...[1205][001E] Ces armes sont offertes,\nadieu.[1205][001E] Hmmm... Voyons voir..."
   },
   {
     "id": 8,
@@ -141,7 +141,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Eikichi,[SP]you[SP]get[SP]a[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0007]Standard[SP]Case[E4][NULL][NULL][0002].[1205][U+000F][SP]Mr.[SP]Cool\nhere[SP]gets[SP]a[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0006]Misericorde[E4][NULL][NULL][0002]...[1205][U+000F][SP]And[SP]I'll[SP]throw[SP]in\nsome[SP][E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0008]Leather[SP]Gloves[E4][NULL][NULL][0002][SP]for[SP]the[SP]girl.",
     "nom_fr": "Patronne",
-    "texte_fr": "Eikichi: [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0007]Mallette standard[E4][NULL][NULL][0002].[1205][U+000F] M. le cool:\n[E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0006]Miséricorde[E4][NULL][NULL][0002]...[1205][U+000F] Et des [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0008]Gants en cuir[E4][NULL][NULL][0002] pour la\nfille."
+    "texte_fr": "Eikichi: [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0007]Mallette standard[E4][NULL][NULL][0002]. M. le cool:\n[E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0006]Miséricorde[E4][NULL][NULL][0002]... Et des [E4][NULL][NULL][U+0004][U+1433][NULL][NULL][U+0008]Gants en cuir[E4][NULL][NULL][0002] pour la\nfille."
   },
   {
     "id": 9,
@@ -157,7 +157,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "But[SP]rules[SP]are[SP]rules.[1205][U+000F][SP]You[SP]have[SP]to[SP]eat[SP]what[SP]you\nordered,[SP]or[SP]I'll[SP]pretend[SP]this[SP]never[SP]happened.",
     "nom_fr": "Patronne",
-    "texte_fr": "Règles sont règles.[1205][U+000F] Tu dois manger ce que\ntu as commandé, sinon ça n'a pas eu lieu."
+    "texte_fr": "Règles sont règles. Tu dois manger ce que\ntu as commandé, sinon ça n'a pas eu lieu."
   },
   {
     "id": 10,
@@ -189,7 +189,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "Big[SP]news,[SP]everyone![SP]I[SP]talked[SP]to[SP]someone[SP]who\nwitnessed[SP]Principal[SP]Hanya[SP]with[SP]a[SP]mysterious\nmasked[SP]figure!",
     "nom_fr": "Kozy",
-    "texte_fr": "Grande nouvelle! Quelqu'un a vu le proviseur\nHanya avec un mystérieux personnage masqué!"
+    "texte_fr": "Grande nouvelle! Quelqu'un\na vu le proviseur\nHanya avec un mystérieux personnage masqué!"
   },
   {
     "id": 12,
@@ -269,7 +269,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I've[SP]known[SP]her[SP]since[SP]I[SP]was[SP]a[SP]kid,[SP]so[SP]I'm[SP]pretty\nfamiliar[SP]with[SP]this[SP]place.[SP]And[SP]I[SP]know[SP]there's[SP]no\nway[SP]you[SP]can[SP]buy[SP]weapons[SP]here.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je la connais depuis que je suis gamin, donc\nje connais bien cet endroit. Et je sais\nqu'on ne peut pas acheter d'armes [1205][U+000F] ici."
+    "texte_fr": "Je la connais depuis\nque je suis gamin, donc\nje connais bien cet endroit. Et je sais\nqu'on ne peut pas acheter d'armes  ici."
   },
   {
     "id": 17,
@@ -301,7 +301,7 @@
     "nom_orig": "Tadashi",
     "texte_orig": "Heh...[1205][U+000F][SP]I'm[SP]a[SP]detective[SP]whose[SP]beat[SP]is[SP]the\ndarkness[SP]of[SP]the[SP]city.[1205][U+000F][SP]Come[SP]to[SP]the[SP]Kuzunoha\nDetective[SP]Agency[SP]for[SP]your[SP]investigative[SP]needs.",
     "nom_fr": "Tadashi",
-    "texte_fr": "Heh...[1205][U+000F] Je suis un détective dont le terrain\nest l'ombre de la ville.[1205][U+000F] Venez à l'agence\nde détectives Kuzunoha pour vos enquêtes."
+    "texte_fr": "Heh... Je suis un détective dont le terrain\nest l'ombre de la ville. Venez à l'agence\nde détectives Kuzunoha pour vos enquêtes."
   },
   {
     "id": 19,
@@ -365,7 +365,7 @@
     "nom_orig": "Washout[SP]student",
     "texte_orig": "Maaaan,[SP]what[SP]a[SP]surprise.[1205][U+000F][SP]I[SP]can't[SP]believe[SP]you\ncan[SP]eat[SP]stuff[SP]like[SP]that.[1205][U+000F][SP]The[SP]city[SP]sure[SP]is\na[SP]scary[SP]place.",
     "nom_fr": "Lycéen raté",
-    "texte_fr": "Maaaan, quelle surprise.[1205][U+000F] J'arrive\npas à croire que tu manges des trucs\ncomme ça.[1205][U+000F] La ville est flippante."
+    "texte_fr": "Maaaan, quelle surprise. J'arrive\npas à croire que tu manges des trucs\ncomme ça. La ville est flippante."
   },
   {
     "id": 23,

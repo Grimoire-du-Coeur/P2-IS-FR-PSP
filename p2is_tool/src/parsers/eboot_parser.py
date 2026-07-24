@@ -134,10 +134,7 @@ def extract_eboot(eboot_path, json_path, logger=print):
                             "offset": i,
                             "data_size": j - i,
                             "slot_size": j - i,
-                            "_term": [],
-                            "nom_orig": "",
                             "texte_orig": formatted_text,
-                            "nom_fr": "",
                             "texte_fr": ""
                         })
             i = j + 2

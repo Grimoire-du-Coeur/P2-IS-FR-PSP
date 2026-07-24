@@ -13,7 +13,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You're[SP]pretty[SP]brave[SP]if[SP]you're[SP]willing[SP]to[SP]play\nat[SP]a[SP]time[SP]like[SP]this,[SP][1114].[SP]Why[SP]don't[SP]we\njust[SP]make[SP]this[SP]place[SP]into[SP]a[SP]casino?",
     "nom_fr": "Eikichi",
-    "texte_fr": "T'es sacré courageux de jouer en ce\nmoment, [1114]. Pourquoi on ne transformerait\npas[1205][U+000F] cet endroit en casino?"
+    "texte_fr": "T'es sacré courageux de jouer en ce\nmoment, [1114]. Pourquoi on ne transformerait\npas cet endroit en casino?"
   },
   {
     "id": 1,
@@ -29,7 +29,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You're[SP]pretty[SP]brave[SP]if[SP]you're[SP]willing[SP]to[SP]play\nat[SP]a[SP]time[SP]like[SP]this,[SP][1114].[SP]Well,[SP]I[SP]guess\nwe[SP]deserve[SP]a[SP]bit[SP]of[SP]a[SP]break.",
     "nom_fr": "Eikichi",
-    "texte_fr": "T'es sacré courageux de jouer en\nce moment, [1114]. Bah, on mérite bien\nune petite[1205][U+000F] pause, je suppose."
+    "texte_fr": "T'es sacré courageux de jouer en\nce moment, [1114]. Bah, on mérite bien\nune petite pause, je suppose."
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Why[SP]aren't[SP]the[SP]people[SP]here[SP]running?[SP]Eh,[SP]I[SP]guess\nthere's[SP]nowhere[SP]to[SP]run[SP]with[SP]the[SP]city[SP]in[SP]the\nsky...[1205][U+000F][SP]They[SP]seem[SP]pretty[SP]casual[SP]about[SP]all[SP]this.",
     "nom_fr": "Ginko",
-    "texte_fr": "Pourquoi les gens ne fuient pas? Bah, il n'y\na nulle part où aller avec la ville dans les\nairs...[1205][U+000F] Ils ont l'air bien détendus."
+    "texte_fr": "Pourquoi les gens ne\nfuient pas? Bah, il n'y\na nulle part où aller\navec la ville dans les\nairs... Ils ont l'air bien détendus."
   },
   {
     "id": 3,
@@ -93,7 +93,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Y-Yeah...[1205][U+000F][SP]I'm[SP]not[SP]Joker[SP]anymore,[SP]but[SP]I[SP]think\nit'll[SP]still[SP]come[SP]true[SP]if[SP]the[SP]rumor's[SP]spread...",
     "nom_fr": "Jun",
-    "texte_fr": "O-Oui...[1205][U+000F] Je ne suis plus le Joker, mais\nça marchera si la rumeur se répand..."
+    "texte_fr": "O-Oui... Je ne suis plus le Joker, mais\nça marchera si la rumeur se répand..."
   },
   {
     "id": 6,
@@ -141,7 +141,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "Um...[1205][U+000A][SP]What's[SP]going[SP]on[SP]out[SP]there?[1205][U+000F][SP]We've[SP]both\nbeen[SP]hiding[SP]here[SP]ever[SP]since[SP]we[SP]saw[SP]those\nsoldiers...",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Euh...[1205][U+000A] Que se passe dehors?[1205][U+000F] On se cache ici\ndepuis qu'on a vu ces soldats tous les deux..."
+    "texte_fr": "Euh...[1205][U+000A] Que se passe dehors? On se cache ici\ndepuis qu'on a vu\nces soldats tous les deux..."
   },
   {
     "id": 9,
@@ -157,7 +157,7 @@
     "nom_orig": "Inveterate[SP]gambler",
     "texte_orig": "The[SP]Last[SP]Battalion...[SP]They're[SP]a[SP]real[SP]wild[SP]card.[1205][U+000F]\nThe[SP]stakes[SP]are[SP]this[SP]entire[SP]city...[SP]What's[SP]going\nto[SP]decide[SP]Sumaru's[SP]fate...[SP]is[SP]cards...",
     "nom_fr": "Joueur invétéré",
-    "texte_fr": "Le Bataillon... Un vrai joker dans la partie.[1205][U+000F]\nL'enjeu, c'est toute la ville... Ce qui\ndécidera du sort de Sumaru... les [1205][U+000F] cartes..."
+    "texte_fr": "Le Bataillon... Un vrai\njoker dans la partie.\nL'enjeu, c'est toute la ville... Ce qui\ndécidera du sort de\nSumaru... les  cartes..."
   },
   {
     "id": 10,
@@ -189,7 +189,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?\n[1208][U+0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave",
     "nom_fr": "Gérant",
-    "texte_fr": "Bienvenue au Mu. Jetons contre \nrécompenses.\nQue désirez-vous?[1205][U+000F]\n[1208][U+0005]Acheter des jetons\nÉchanger des prix\nParler au gérant\nAnnuler\nSortir",
+    "texte_fr": "Bienvenue au Mu. Jetons contre \nrécompenses.\nQue désirez-vous?\n[1208][U+0005]Acheter des jetons\nÉchanger des prix\nParler au gérant\nAnnuler\nSortir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -249,7 +249,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What?[SP]You[SP]still[SP]want[SP]something?[1205][U+000F]\n...Nah,[SP]just[SP]kidding.[SP]What'll[SP]it[SP]be?\n[1208][U+0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave",
     "nom_fr": "Gérant",
-    "texte_fr": "Quoi? Encore un truc?[1205][U+000F]\n...Non, je rigole. Que désirez-vous?\n[1208][U+0005]Acheter des jetons\nÉchanger des prix\nParler au gérant\nAnnuler\nSortir",
+    "texte_fr": "Quoi? Encore un truc?\n...Non, je rigole. Que désirez-vous?\n[1208][U+0005]Acheter des jetons\nÉchanger des prix\nParler au gérant\nAnnuler\nSortir",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -309,7 +309,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Huh?[SP]The[SP]city's[SP]flying?[SP]No![SP]Don't[SP]tell[SP]me!\nI'd[SP]already[SP]made[SP]up[SP]my[SP]mind[SP]to[SP]accept[SP]whatever\nfate[SP]deals[SP]me![SP]Though[SP]it's[SP]still[SP]depressing...",
     "nom_fr": "Gérant",
-    "texte_fr": "Hein? La ville vole? Non! Pas possible\n! J'avais décidé d'accepter ce que[1205][U+000F] le\ndestin m'impose! Même si c'est dur..."
+    "texte_fr": "Hein? La ville vole? Non! Pas possible\n! J'avais décidé d'accepter ce que le\ndestin m'impose! Même si c'est dur..."
   },
   {
     "id": 18,
@@ -341,7 +341,7 @@
     "nom_orig": "Manager",
     "texte_orig": "That'll[SP]be[SP][120E][NULL][SP]yen.[SP]Is[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
     "nom_fr": "Gérant",
-    "texte_fr": "Ça fera [120E][NULL] yens. D'accord?\n[1208][0002]Oui\nNon",
+    "texte_fr": "Ça fera [120E][NULL] yens. D'accord?\n[1208][0002]Oui[0014]Non",
     "question_fr": "",
     "choix_fr": [
       ""
