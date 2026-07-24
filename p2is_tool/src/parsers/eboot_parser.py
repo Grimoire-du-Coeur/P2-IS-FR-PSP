@@ -36,6 +36,10 @@ import unicodedata
 
 def encode_char(c):
     # c is guaranteed to be a single character now
+    if c == '\n':
+        return 0x000A
+    if c == '\xA0':
+        return 0x0020
     
     if c.isupper() and 'A' <= c <= 'Z':
         return 0x00E0 + (ord(c) - 0x41)
@@ -45,7 +49,7 @@ def encode_char(c):
         return 0x00CF + int(c)
     if 0x20 <= ord(c) <= 0x7E:
         return ord(c)
-    return 0x1120 # Space fallback for unknown characters
+    return 0x0020 # Space fallback for unknown characters (0x1120 is the event.bin space, in EBOOT it causes a tilde)
 
 def encode_string(text):
     # This regex finds <XXXX> tags and literal text
