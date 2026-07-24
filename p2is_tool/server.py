@@ -201,9 +201,7 @@ def api_decode_eboot(req: GenericRequest):
     try:
         w = Path(req.work_dir)
         eboot_dec = w / "EBOOT_DECRYPTED.BIN"
-        out_dir = w / "traduction"
-        out_dir.mkdir(parents=True, exist_ok=True)
-        out_json = out_dir / "EBOOT_Translation.json"
+        out_json = w / "EBOOT_Translation.json"
         
         if not eboot_dec.exists():
             raise HTTPException(status_code=400, detail="EBOOT_DECRYPTED.BIN introuvable. Extraire l'ISO d'abord.")
@@ -302,7 +300,7 @@ def api_encode(req: GenericRequest):
         
         # Encodage de l'EBOOT
         eboot_dec = w / "EBOOT_DECRYPTED.BIN"
-        eboot_json = trad_dir / "EBOOT_Translation.json"
+        eboot_json = w / "EBOOT_Translation.json"
         eboot_out = w / "EBOOT_MODIFIED.BIN"
         if eboot_dec.exists() and eboot_json.exists():
             get_logger(req.work_dir)("Encodage de l'EBOOT en cours...", "info")
