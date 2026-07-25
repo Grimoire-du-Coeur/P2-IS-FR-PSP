@@ -59,13 +59,13 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | Contributeur | 💾 Commits | ➕ Lignes Ajoutées | ➖ Lignes Supprimées |
 |:---|:---:|:---:|:---:|
 | **[@HamzaKarrouchi](https://github.com/HamzaKarrouchi)** | 413 | +258448 | -35647 |
-| **[@chenetulipe](https://github.com/chenetulipe)** | 258 | +1918988 | -1898346 |
+| **[@chenetulipe](https://github.com/chenetulipe)** | 293 | +2226380 | -2152777 |
 | **[@claude](https://github.com/claude)** | 196 | +230819 | -8772 |
 | **[@Garloulou](https://github.com/Garloulou)** | 50 | +769 | -517 |
 | **[@Bicyclarv](https://github.com/Bicyclarv)** | 46 | +3311 | -3311 |
 | **[@hvnjo](https://github.com/hvnjo)** | 42 | +2675 | -2676 |
+| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 27 | +407 | -410 |
 | **[@gc-ultimate117](https://github.com/gc-ultimate117)** | 26 | +1503 | -1503 |
-| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 26 | +391 | -394 |
 | **[@Fan2Shrek](https://github.com/Fan2Shrek)** | 22 | +395 | -356 |
 | **[@ZePhyrOmZy](https://github.com/ZePhyrOmZy)** | 19 | +403 | -403 |
 | **[@megidooo](https://github.com/megidooo)** | 18 | +386 | -386 |
@@ -111,13 +111,13 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 ```mermaid
 pie title Top 10 - Commits
     "HamzaKarrouchi" : 413
-    "chenetulipe" : 258
+    "chenetulipe" : 293
     "claude" : 196
     "Garloulou" : 50
     "Bicyclarv" : 46
     "hvnjo" : 42
+    "github-actions[bot]" : 27
     "gc-ultimate117" : 26
-    "github-actions[bot]" : 26
     "Fan2Shrek" : 22
     "ZePhyrOmZy" : 19
 ```
@@ -125,7 +125,7 @@ pie title Top 10 - Commits
 #### Lignes Ajoutées
 ```mermaid
 pie title Top 10 - Lignes Ajoutées
-    "chenetulipe" : 1918988
+    "chenetulipe" : 2226380
     "HamzaKarrouchi" : 258448
     "claude" : 230819
     "ArsenetheIV" : 10059
@@ -133,14 +133,14 @@ pie title Top 10 - Lignes Ajoutées
     "hvnjo" : 2675
     "gc-ultimate117" : 1503
     "Garloulou" : 769
+    "github-actions[bot]" : 407
     "ZePhyrOmZy" : 403
-    "Fan2Shrek" : 395
 ```
 
 #### Lignes Supprimées
 ```mermaid
 pie title Top 10 - Lignes Supprimées
-    "chenetulipe" : 1898346
+    "chenetulipe" : 2152777
     "HamzaKarrouchi" : 35647
     "ArsenetheIV" : 11358
     "claude" : 8772
@@ -148,8 +148,8 @@ pie title Top 10 - Lignes Supprimées
     "hvnjo" : 2676
     "gc-ultimate117" : 1503
     "Garloulou" : 517
+    "github-actions[bot]" : 410
     "ZePhyrOmZy" : 403
-    "github-actions[bot]" : 394
 ```
 
 <!-- STATS_END -->
