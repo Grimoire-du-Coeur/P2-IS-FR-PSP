@@ -63,6 +63,25 @@ Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable
 
 <br/>
 
+### EBOOT (Textes Système)
+
+Le fichier original a été découpé en 7 parties (de 1000 entrées chacune) dans le dossier `EBOOT_decoupe` pour éviter les crashs sur GitHub. Voici la correspondance précise des contenus et des IDs pour vous repérer lors de la traduction :
+
+| Contenu | Fichier | IDs (Estimatif) | Entrées | Progression | Statut |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| Menus & Interface (Titre, Paramètres, Sauvegarde) | Part 1 | 0 à 179 | ~180 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de Personnages / PNJs / Boss | Part 1 | 180 à 449 | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Commandes & Messages de Combat | Part 1 | 600 à 949 | ~350 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Personas / Démons | Part 2 & Part 4 | 900 à 1199 & 3500 à 3999 | ~450 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Compétences | Part 2 | 1200 à 1599 | ~900 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms d'Armes / Armures / Accessoires | Part 2 & Part 3 | 1600 à 2199 | ~600 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Objets de quête / Rumeurs / Clés | Part 3 & Part 4 | 2800 à 3499 | ~200 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de lieux / Donjons / Carte | Part 5 à Part 7 | 4000 à 6500 | ~850 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Autres textes (Tutoriels, Infos, etc.) | Part 7 | Divers | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Total** | **Part 1 à 7** | **0 à 6573** | **~6 574** | **0%** | |
+
+<br/>
+
 ---
 
 # Progression de la traduction française
