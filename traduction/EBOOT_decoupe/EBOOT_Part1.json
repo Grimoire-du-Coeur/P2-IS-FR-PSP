@@ -29,7 +29,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Yes<FF03>No<FF03>",
-        "texte_fr": "Oui<FF03>No<FF03>"
+        "texte_fr": "Oui<FF03>N<FF03>"
     },
     {
         "id": 4,
@@ -85,7 +85,7 @@
         "data_size": 118,
         "slot_size": 118,
         "texte_orig": "Saving[SP]system[SP]data<0004>[SP]Please[SP]do[SP]not<FF03>remove[SP]the[SP]Memory[SP]Stick<04B1><0004>",
-        "texte_fr": ""
+        "texte_fr": "Sauvegarde donnees syst.<0004> Ne pas<FF03>retirer carte mem.<04B1><0004>"
     },
     {
         "id": 11,
@@ -93,7 +93,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "Persona[SP]is[SP]sealed<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Persona scelle<0004><FF03>"
     },
     {
         "id": 12,
@@ -101,7 +101,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "MAX<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "MAX<0004><FF03>"
     },
     {
         "id": 13,
@@ -109,7 +109,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "&s[SP]Rank[SP]reached[SP]<FF03>",
-        "texte_fr": ""
+        "texte_fr": "&s Rang atteint<FF03>"
     },
     {
         "id": 14,
@@ -117,7 +117,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "No<FF03>",
-        "texte_fr": ""
+        "texte_fr": "N<FF03>"
     },
     {
         "id": 15,
@@ -125,7 +125,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Yes<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Oui<FF03>"
     },
     {
         "id": 16,
@@ -133,7 +133,7 @@
         "data_size": 80,
         "slot_size": 80,
         "texte_orig": "Enter[SP]the[SP]rest[SP]of[SP]the[SP]party&s[SP]commands<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Entrez le reste des ordres de l'equipe&s<0004><FF03>"
     },
     {
         "id": 17,
@@ -141,7 +141,7 @@
         "data_size": 88,
         "slot_size": 88,
         "texte_orig": "Continue[SP]setting[SP]Fusion[SP]Spell<FF03>combinations<0008><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Continuer reglage combos fusion<0008><FF03>"
     },
     {
         "id": 18,
@@ -149,7 +149,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Proceed<0008><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Suivre<0008><FF03>"
     },
     {
         "id": 19,
@@ -157,7 +157,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Beginning[SP]battle<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Debut combat<0004><FF03>"
     },
     {
         "id": 20,
@@ -165,7 +165,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "points[SP]remaining<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Debut combat<0004><FF03>"
     },
     {
         "id": 21,
@@ -173,7 +173,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "Distribute[SP]points<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Repartir points<0004><FF03>"
     },
     {
         "id": 22,
@@ -181,7 +181,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "Distribute[SP]points<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Repartir points<0004><FF03>"
     },
     {
         "id": 23,
