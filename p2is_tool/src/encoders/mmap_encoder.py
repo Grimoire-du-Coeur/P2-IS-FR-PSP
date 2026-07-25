@@ -185,6 +185,8 @@ def encode_mmap_bnp_from_json(
         n_orig = d.get('nom_orig', '')
         t_orig = d.get('texte_orig', '')
 
+        t_fr = t_fr.replace('[NL]', '\n')
+
         # Alignement des menus de choix pour éviter les crashs
         t_fr = _align_menu_text(n_orig, t_orig, n_fr, t_fr)
 
