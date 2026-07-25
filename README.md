@@ -209,8 +209,16 @@ Vous pouvez également rejoindre la communauté et demander de l'aide sur notre 
 > 
 > *Persona 2: Innocent Sin* est une marque déposée de © Atlus / SEGA. Ce projet est une traduction amateur à but non lucratif, réalisée par des passionnés. L'utilisation du patch se fait à vos propres risques. L'équipe décline toute responsabilité en cas de corruption de sauvegarde ou de dommages logiciels.
 > 
-> **Licence du Patch :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br/>
-> Libre d'utilisation et de modification pour un usage personnel. **La vente ou la monétisation de ce patch, sous quelque forme que ce soit, est strictement interdite.**
+> **Licences du Projet et Dépendances :**
+> 
+> - **Le Patch de Traduction** (textes, images, `.xdelta`, et code de l'outil `p2is_tool`) est sous licence **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Libre d'utilisation et de modification pour un usage personnel. **La vente ou la monétisation de ce patch est strictement interdite.**
+> - **Le Web Patcher** (l'application web `p2is_patcher` / UI) intègre directement le code source du moteur DeltaPatcher et est donc distribué sous licence **[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)** afin de respecter les droits d'auteur de ce dernier.
+> 
+> **Dépendances & Outils tiers utilisés (100% compatibles légalement) :**
+> - **CriFsLib** par Sewer56 ([MIT](https://opensource.org/licenses/MIT)) : Exécutable `.exe` appelé en externe pour extraire le CPK. Son utilisation via ligne de commande le rend totalement indépendant de notre code.
+> - **pspdecrypt** par John-K (Open-Source) : Exécutable `.exe` appelé en externe pour déchiffrer l'EBOOT. Totalement indépendant.
+> - **pycdlib** par clalancette ([LGPL-2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)) : Bibliothèque Python importée dynamiquement par notre outil. Le projet "utilise" la bibliothèque sans l'intégrer ou la modifier, ce qui est parfaitement autorisé par la LGPL.
+> - **DeltaPatcher** par marco-calautti ([GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)) : Moteur de patch binaire. Son code est compilé directement dans le Web Patcher, forçant ce dernier à adopter la licence GPL-2.0 (sans contaminer le reste du projet qui reste sous CC).
 
 <br/>
 
