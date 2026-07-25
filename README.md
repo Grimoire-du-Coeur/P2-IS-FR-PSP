@@ -63,53 +63,43 @@ Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable
 
 <br/>
 
-# Progression de la traduction française
+---
 
 ## État d'Avancement
 
-| Fichier / Composant | Contenu | Progression | Statut |
-|:---|:---|:---:|:---|
-| **Event.bin** | 399 scripts d'histoire | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **MMAP01 · MMAP02 · MMAP03 · MMAP04 · MMAP05 · MMAP06** | Dialogues sur les cartes | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **CD_SHOP** | Boutique de CD / musique | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **F_BE** | Répliques de combat | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **TM_EVE** | Événements scénaristiques | En cours | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) → [PR #423](https://github.com/chenetulipe/P2-FR-IS-PSP/pull/423) |
+Voici l'état actuel de la traduction globale. Pour des statistiques exhaustives (graphiques et progression fichier par fichier), veuillez consulter le document **[SUIVI.md](./SUIVI.md)**.
 
-### Accents français
+<div align="center">
 
-| Composant | Intégration | Accents pris en charge | Progression | Statut |
-|:---|:---:|:---|:---:|:---|
-| Textures HD | Oui | — | 35/42 | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) |
-| Police d'écriture HD (Accents FR) | Oui | é è ê ë à â ç î ï ô ù û + majuscules | 100% | ![](https://img.shields.io/badge/-Terminé%20(Bugs)-e1ad01?style=flat-square) |
-| Textures ISO | Non | — | 0/42 | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Police d'écriture (Accents FR) | Oui | N/A | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
+| Contenu du Jeu | Progression | Statut |
+|:---|:---:|:---:|
+| **Scripts (Dialogues Histoire)** | 100% | <img src="https://img.shields.io/badge/-Terminé-2ea043?style=flat-square" alt="Terminé" /> |
+| **Police d'écriture (Accents FR)** | 100% | <img src="https://img.shields.io/badge/-Terminé-2ea043?style=flat-square" alt="Terminé" /> |
+| **Scripts (Boutiques, Carte)** | 8/9 | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Textures HD** | 35/42 | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Autres éléments (Menus, Combats)** | ~ | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
 
-### EBOOT (Textes Système)
-
-Le fichier original a été découpé en 7 parties (de 1000 entrées chacune) dans le dossier `EBOOT_decoupe` pour éviter les crashs sur GitHub. Voici la correspondance précise des contenus et des IDs pour vous repérer lors de la traduction :
-
-| Contenu | Fichier | IDs (Estimatif) | Entrées | Progression | Statut |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Menus & Interface (Titre, Paramètres, Sauvegarde) | Part 1 | 0 à 179 | ~180 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms de Personnages / PNJs / Boss | Part 1 | 180 à 449 | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Commandes & Messages de Combat | Part 1 | 600 à 949 | ~350 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms & Descriptions de Personas / Démons | Part 2 & Part 4 | 900 à 1199 & 3500 à 3999 | ~450 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms & Descriptions de Compétences | Part 2 | 1200 à 1599 | ~900 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms d'Armes / Armures / Accessoires | Part 2 & Part 3 | 1600 à 2199 | ~600 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Objets de quête / Rumeurs / Clés | Part 3 & Part 4 | 2800 à 3499 | ~200 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms de lieux / Donjons / Carte | Part 5 à Part 7 | 4000 à 6500 | ~850 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Autres textes (Tutoriels, Infos, etc.) | Part 7 | Divers | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| **Total** | **Part 1 à 7** | **0 à 6573** | **~6 574** | **0%** | |
+</div>
 
 <br/>
 
----
+### EBOOT (Textes Système)
 
-**Notes**
+| Contenu | Entrées | Progression | Statut |
+|:---|:---:|:---:|:---:|
+| Menus & Interface (Titre, Paramètres, Sauvegarde) | ~180 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Commandes & Messages de Combat | ~350 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de Personnages / PNJs / Boss | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms d'Armes / Armures / Accessoires | ~600 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Compétences | ~900 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Personas / Démons | ~450 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de lieux / Donjons / Carte | ~850 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Objets de quête / Rumeurs / Clés | ~200 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Autres textes (Tutoriels, Infos, etc.) | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Total** | **~4 030** | **0%** | |
 
-- L'eboot est le dernier gros fichier restant.
-- La police d'écriture fonctionne mais nécessite encore des ajustements mineurs.
-- Le travail sur les textures HD est séparé des textures ISO. Il reste 7 textures HD à finaliser.
+
+<br/>
 
 ---
 
@@ -209,8 +199,15 @@ Vous pouvez également rejoindre la communauté et demander de l'aide sur notre 
 > 
 > *Persona 2: Innocent Sin* est une marque déposée de © Atlus / SEGA. Ce projet est une traduction amateur à but non lucratif, réalisée par des passionnés. L'utilisation du patch se fait à vos propres risques. L'équipe décline toute responsabilité en cas de corruption de sauvegarde ou de dommages logiciels.
 > 
-> **Licence du Patch :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br/>
-> Libre d'utilisation et de modification pour un usage personnel. **La vente ou la monétisation de ce patch, sous quelque forme que ce soit, est strictement interdite.**
+> **Licences du Projet :**
+> - **Le Patch de Traduction** (fichiers `.xdelta`, textes, images, et code de l'outil `p2is_tool`) est distribué sous [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Libre d'utilisation et de modification pour un usage personnel. **La vente ou la monétisation de ce patch est strictement interdite.**
+> - **Le Web Patcher** (l'application web `p2is_patcher` / UI) intégrant le moteur DeltaPatcher est distribué sous **[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)**.
+>
+> **Dépendances & Outils tiers utilisés :**
+> - **CriFsLib** par Sewer56 (MIT)
+> - **pycdlib** par clalancette (LGPL-2.1)
+> - **pspdecrypt** par John-K (Open-Source)
+> - **DeltaPatcher** par marco-calautti (GPL-2.0)
 
 <br/>
 
