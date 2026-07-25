@@ -79,6 +79,19 @@ Voici l'état actuel de la traduction globale. Pour des statistiques exhaustives
 | **Textures HD** | 35/42 | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
 | **Autres éléments (Menus, Combats)** | ~ | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
 
+| Contenu du Jeu (EBOOT) | Entrées estimées | Progression (FR) | Statut |
+|:---|:---:|:---:|:---:|
+| **Menus & Interface (Titre, Paramètres, Sauvegarde)** | ~180 | 0% | <img src="https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square" alt="Non démarré" /> |
+| **Commandes & Messages de Combat** | ~350 | 0% | <img src="https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square" alt="Non démarré" /> |
+| **Noms de Personnages / PNJs / Boss** | ~250 | 0% | <img src="https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square" alt="Non démarré" /> |
+| **Noms d'Armes / Armures / Accessoires** | ~600 | 0% | <img src="https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square" alt="Non démarré" /> |
+| **Noms & Descriptions de Compétences** | ~900 | 0% | <img src="https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square" alt="Non démarré" /> |
+| **Noms & Descriptions de Personas / Démons** | ~450 | 0% | <img src="https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square" alt="Non démarré" /> |
+| **Noms de lieux / Donjons / Carte** | ~850 | 0% | <img src="https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square" alt="Non démarré" /> |
+| **Objets de quête / Rumeurs / Clés** | ~200 | 0% | <img src="https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square" alt="Non démarré" /> |
+| **Autres textes (Tutoriels, Infos, etc.)** | ~250 | 0% | <img src="https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square" alt="Non démarré" /> |
+| **TOTAL (lignes significatives)** | **~4 030** | **0%** | <img src="https://img.shields.io/badge/-À%20traduire-critical?style=flat-square" alt="À traduire" /> |
+
 </div>
 
 <br/>
