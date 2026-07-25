@@ -63,27 +63,6 @@ Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable
 
 <br/>
 
-### EBOOT (Textes Système)
-
-Le fichier original a été découpé en 7 parties (de 1000 entrées chacune) dans le dossier `EBOOT_decoupe` pour éviter les crashs sur GitHub. Voici la correspondance précise des contenus et des IDs pour vous repérer lors de la traduction :
-
-| Contenu | Fichier | IDs (Estimatif) | Entrées | Progression | Statut |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Menus & Interface (Titre, Paramètres, Sauvegarde) | Part 1 | 0 à 179 | ~180 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms de Personnages / PNJs / Boss | Part 1 | 180 à 449 | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Commandes & Messages de Combat | Part 1 | 600 à 949 | ~350 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms & Descriptions de Personas / Démons | Part 2 & Part 4 | 900 à 1199 & 3500 à 3999 | ~450 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms & Descriptions de Compétences | Part 2 | 1200 à 1599 | ~900 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms d'Armes / Armures / Accessoires | Part 2 & Part 3 | 1600 à 2199 | ~600 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Objets de quête / Rumeurs / Clés | Part 3 & Part 4 | 2800 à 3499 | ~200 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms de lieux / Donjons / Carte | Part 5 à Part 7 | 4000 à 6500 | ~850 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Autres textes (Tutoriels, Infos, etc.) | Part 7 | Divers | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| **Total** | **Part 1 à 7** | **0 à 6573** | **~6 574** | **0%** | |
-
-<br/>
-
----
-
 # Progression de la traduction française
 
 ## État d'Avancement
@@ -105,20 +84,26 @@ Le fichier original a été découpé en 7 parties (de 1000 entrées chacune) da
 | Textures ISO | Non | — | 0/42 | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
 | Police d'écriture (Accents FR) | Oui | N/A | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
 
-### EBOOT (textes système)
+### EBOOT (Textes Système)
 
-| Contenu | Entrées | Progression | Statut |
-|:---|:---:|:---:|:---|
-| Menus & Interface (Titre, Paramètres, Sauvegarde) | ~180 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Commandes & Messages de Combat | ~350 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Noms de Personnages / PNJs / Boss | ~250 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Noms d'Armes / Armures / Accessoires | ~600 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Noms & Descriptions de Compétences | ~900 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Noms & Descriptions de Personas / Démons | ~450 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Noms de lieux / Donjons / Carte | ~850 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Objets de quête / Rumeurs / Clés | ~200 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Autres textes (Tutoriels, Infos, etc.) | ~250 | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| **Total** | **~4 030** | **0%** | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
+Le fichier original a été découpé en 7 parties (de 1000 entrées chacune) dans le dossier `EBOOT_decoupe` pour éviter les crashs sur GitHub. Voici la correspondance précise des contenus et des IDs pour vous repérer lors de la traduction :
+
+| Contenu | Fichier | IDs (Estimatif) | Entrées | Progression | Statut |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| Menus & Interface (Titre, Paramètres, Sauvegarde) | Part 1 | 0 à 179 | ~180 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de Personnages / PNJs / Boss | Part 1 | 180 à 449 | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Commandes & Messages de Combat | Part 1 | 600 à 949 | ~350 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Personas / Démons | Part 2 & Part 4 | 900 à 1199 & 3500 à 3999 | ~450 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Compétences | Part 2 | 1200 à 1599 | ~900 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms d'Armes / Armures / Accessoires | Part 2 & Part 3 | 1600 à 2199 | ~600 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Objets de quête / Rumeurs / Clés | Part 3 & Part 4 | 2800 à 3499 | ~200 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de lieux / Donjons / Carte | Part 5 à Part 7 | 4000 à 6500 | ~850 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Autres textes (Tutoriels, Infos, etc.) | Part 7 | Divers | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| **Total** | **Part 1 à 7** | **0 à 6573** | **~6 574** | **0%** | |
+
+<br/>
+
+---
 
 **Notes**
 
