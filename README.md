@@ -211,14 +211,16 @@ Vous pouvez également rejoindre la communauté et demander de l'aide sur notre 
 > 
 > **Licences du Projet et Dépendances :**
 > 
-> - **Le Patch de Traduction** (textes, images, `.xdelta`, et code de l'outil `p2is_tool`) est sous licence **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Libre d'utilisation et de modification pour un usage personnel. **La vente ou la monétisation de ce patch est strictement interdite.**
+> - **Le Patch de Traduction** (textes, images, `.xdelta`, et code de l'outil `p2is_tool`) est sous licence **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Libre d'utilisation, de modification et de redistribution. **La vente ou la monétisation directe de ce patch est strictement interdite.**
+>   - *Exception pour les créateurs de contenu :* Les YouTubers, Streamers et journalistes sont totalement autorisés à utiliser ce patch dans leurs vidéos ou articles, et à monétiser leurs contenus liés au jeu.
+>   - *Création de mods et traductions dérivées :* Si vous souhaitez utiliser nos outils ou notre traduction pour créer votre propre version (ex: traduction dans une autre langue, modifiant le jeu), vous en avez le droit à condition de **créditer l'équipe originale** et de **distribuer votre projet sous cette même licence exacte** (ShareAlike).
 > - **Le Web Patcher** (l'application web `p2is_patcher` / UI) intègre directement le code source du moteur DeltaPatcher et est donc distribué sous licence **[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)** afin de respecter les droits d'auteur de ce dernier.
 > 
 > **Dépendances & Outils tiers utilisés (100% compatibles légalement) :**
 > - **CriFsLib** par Sewer56 ([MIT](https://opensource.org/licenses/MIT)) : Exécutable `.exe` appelé en externe pour extraire le CPK. Son utilisation via ligne de commande le rend totalement indépendant de notre code.
 > - **pspdecrypt** par John-K (Open-Source) : Exécutable `.exe` appelé en externe pour déchiffrer l'EBOOT. Totalement indépendant.
 > - **pycdlib** par clalancette ([LGPL-2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)) : Bibliothèque Python importée dynamiquement par notre outil. Le projet "utilise" la bibliothèque sans l'intégrer ou la modifier, ce qui est parfaitement autorisé par la LGPL.
-> - **DeltaPatcher** par marco-calautti ([GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)) : Moteur de patch binaire. Son code est compilé directement dans le Web Patcher, forçant ce dernier à adopter la licence GPL-2.0 (sans contaminer le reste du projet qui reste sous CC).
+> - **DeltaPatcher** par marco-calautti ([GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)) : Moteur de patch binaire. Son code est compilé directement dans le Web Patcher, forçant ce dernier à adopter la licence GPL-2.0 (sans contaminer le reste du projet qui reste sous CC BY-NC-SA 4.0).
 
 <br/>
 
