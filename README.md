@@ -28,9 +28,9 @@
 <br/>
 
 > [!IMPORTANT]
-> **DERNIÈRE RELEASE DISPONIBLE : BÊTA v0.1.2** (21 Juillet 2026)<br/>
-> Cette mise à jour corrige le bug critique du glitch mémoire, stabilise les boîtes de choix et empêche le jeu de sauter les dialogues automatiquement. L'histoire principale est 100% jouable en français.<br/>
-> [Télécharger le Patch](https://github.com/chenetulipe/P2-FR-IS-PSP/releases) | [Lire le Patch Note complet](https://personalegrimoireducoeur.fr/patch-notes.html)
+> **DERNIÈRE RELEASE DISPONIBLE : BÊTA v0.1.3** (24 Juillet 2026)<br/>
+> Cette mise à jour révise les textes du scénario principal, corrige les sauts de ligne dans les boîtes de dialogue et prépare la traduction des menus (EBOOT). L'histoire principale est 100% jouable en français.<br/>
+> [Télécharger le Patch](https://github.com/chenetulipe/P2-FR-IS-PSP/releases)
 
 <br/>
 
