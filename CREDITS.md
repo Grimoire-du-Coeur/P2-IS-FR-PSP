@@ -59,12 +59,12 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | Contributeur | 💾 Commits | ➕ Lignes Ajoutées | ➖ Lignes Supprimées |
 |:---|:---:|:---:|:---:|
 | **[@HamzaKarrouchi](https://github.com/HamzaKarrouchi)** | 413 | +258448 | -35647 |
-| **[@chenetulipe](https://github.com/chenetulipe)** | 293 | +2226380 | -2152777 |
+| **[@chenetulipe](https://github.com/chenetulipe)** | 303 | +2279188 | -2205535 |
 | **[@claude](https://github.com/claude)** | 196 | +230819 | -8772 |
 | **[@Garloulou](https://github.com/Garloulou)** | 50 | +769 | -517 |
 | **[@Bicyclarv](https://github.com/Bicyclarv)** | 46 | +3311 | -3311 |
 | **[@hvnjo](https://github.com/hvnjo)** | 42 | +2675 | -2676 |
-| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 27 | +407 | -410 |
+| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 28 | +415 | -418 |
 | **[@gc-ultimate117](https://github.com/gc-ultimate117)** | 26 | +1503 | -1503 |
 | **[@Fan2Shrek](https://github.com/Fan2Shrek)** | 22 | +395 | -356 |
 | **[@ZePhyrOmZy](https://github.com/ZePhyrOmZy)** | 19 | +403 | -403 |
@@ -73,37 +73,38 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@LeSoupeur](https://github.com/LeSoupeur)** | 15 | +163 | -163 |
 | **[@ArsenetheIV](https://github.com/ArsenetheIV)** | 14 | +10059 | -11358 |
 | **[@Tausc0](https://github.com/Tausc0)** | 12 | +62 | -62 |
-| **[@Seb180212](https://github.com/Seb180212)** | 9 | +155 | -152 |
-| **[@FrankoPaulo](https://github.com/FrankoPaulo)** | 9 | +117 | -117 |
-| **[@vkt2rii](https://github.com/vkt2rii)** | 9 | +308 | -309 |
 | **[@IssaPagi](https://github.com/IssaPagi)** | 9 | +85 | -85 |
+| **[@Seb180212](https://github.com/Seb180212)** | 9 | +155 | -152 |
+| **[@vkt2rii](https://github.com/vkt2rii)** | 9 | +308 | -309 |
+| **[@FrankoPaulo](https://github.com/FrankoPaulo)** | 9 | +117 | -117 |
 | **[@Ethan-LDS](https://github.com/Ethan-LDS)** | 7 | +169 | -169 |
 | **[@All4nRL](https://github.com/All4nRL)** | 6 | +61 | -61 |
 | **[@chaytheninja](https://github.com/chaytheninja)** | 5 | +100 | -99 |
-| **[@Kain-Highwind](https://github.com/Kain-Highwind)** | 4 | +281 | -281 |
 | **[@MBG-May](https://github.com/MBG-May)** | 4 | +185 | -184 |
+| **[@Kain-Highwind](https://github.com/Kain-Highwind)** | 4 | +281 | -281 |
 | **[@aurelien30](https://github.com/aurelien30)** | 4 | +132 | -132 |
 | **[@driftbyte4767](https://github.com/driftbyte4767)** | 3 | +284 | -284 |
-| **[@Shrenpai](https://github.com/Shrenpai)** | 3 | +123 | -123 |
 | **[@ZeldarioGitHub](https://github.com/ZeldarioGitHub)** | 3 | +53 | -53 |
-| **[@Aniy22](https://github.com/Aniy22)** | 2 | +25 | -25 |
-| **[@LykeSama](https://github.com/LykeSama)** | 2 | +33 | -33 |
-| **[@Neth6767](https://github.com/Neth6767)** | 2 | +85 | -85 |
-| **[@Diamondssb](https://github.com/Diamondssb)** | 2 | +45 | -45 |
-| **[@Sammmu-L](https://github.com/Sammmu-L)** | 2 | +22 | -22 |
-| **[@Astakoune](https://github.com/Astakoune)** | 2 | +65 | -65 |
+| **[@Shrenpai](https://github.com/Shrenpai)** | 3 | +123 | -123 |
 | **[@Door-dono](https://github.com/Door-dono)** | 2 | +39 | -39 |
 | **[@nekorighthere](https://github.com/nekorighthere)** | 2 | +86 | -86 |
+| **[@Sammmu-L](https://github.com/Sammmu-L)** | 2 | +22 | -22 |
+| **[@Diamondssb](https://github.com/Diamondssb)** | 2 | +45 | -45 |
 | **[@chenetulipe2](https://github.com/chenetulipe2)** | 2 | +6 | -6 |
+| **[@LykeSama](https://github.com/LykeSama)** | 2 | +33 | -33 |
+| **[@Aniy22](https://github.com/Aniy22)** | 2 | +25 | -25 |
 | **[@Xeriam](https://github.com/Xeriam)** | 2 | +56 | -56 |
-| **[@MaelMinhAnh](https://github.com/MaelMinhAnh)** | 1 | +77 | -77 |
+| **[@Neth6767](https://github.com/Neth6767)** | 2 | +85 | -85 |
+| **[@Astakoune](https://github.com/Astakoune)** | 2 | +65 | -65 |
 | **[@Aurinox6](https://github.com/Aurinox6)** | 1 | +59 | -59 |
-| **[@renaclerican](https://github.com/renaclerican)** | 1 | +29 | -29 |
-| **[@Goulyz](https://github.com/Goulyz)** | 1 | +27 | -27 |
-| **[@Lomac29](https://github.com/Lomac29)** | 1 | +20 | -20 |
 | **[@Desseday](https://github.com/Desseday)** | 1 | +123 | -123 |
-| **[@Adwara](https://github.com/Adwara)** | 1 | +130 | -130 |
 | **[@mae7interludes](https://github.com/mae7interludes)** | 1 | +109 | -109 |
+| **[@Adwara](https://github.com/Adwara)** | 1 | +130 | -130 |
+| **[@Lomac29](https://github.com/Lomac29)** | 1 | +20 | -20 |
+| **[@Goulyz](https://github.com/Goulyz)** | 1 | +27 | -27 |
+| **[@renaclerican](https://github.com/renaclerican)** | 1 | +29 | -29 |
+| **[@MaelMinhAnh](https://github.com/MaelMinhAnh)** | 1 | +77 | -77 |
+| **[@k6suha](https://github.com/k6suha)** | 1 | +1 | -1 |
 
 ### Répartition des Contributions (Top 10)
 
@@ -111,12 +112,12 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 ```mermaid
 pie title Top 10 - Commits
     "HamzaKarrouchi" : 413
-    "chenetulipe" : 293
+    "chenetulipe" : 303
     "claude" : 196
     "Garloulou" : 50
     "Bicyclarv" : 46
     "hvnjo" : 42
-    "github-actions[bot]" : 27
+    "github-actions[bot]" : 28
     "gc-ultimate117" : 26
     "Fan2Shrek" : 22
     "ZePhyrOmZy" : 19
@@ -125,7 +126,7 @@ pie title Top 10 - Commits
 #### Lignes Ajoutées
 ```mermaid
 pie title Top 10 - Lignes Ajoutées
-    "chenetulipe" : 2226380
+    "chenetulipe" : 2279188
     "HamzaKarrouchi" : 258448
     "claude" : 230819
     "ArsenetheIV" : 10059
@@ -133,14 +134,14 @@ pie title Top 10 - Lignes Ajoutées
     "hvnjo" : 2675
     "gc-ultimate117" : 1503
     "Garloulou" : 769
-    "github-actions[bot]" : 407
+    "github-actions[bot]" : 415
     "ZePhyrOmZy" : 403
 ```
 
 #### Lignes Supprimées
 ```mermaid
 pie title Top 10 - Lignes Supprimées
-    "chenetulipe" : 2152777
+    "chenetulipe" : 2205535
     "HamzaKarrouchi" : 35647
     "ArsenetheIV" : 11358
     "claude" : 8772
@@ -148,7 +149,7 @@ pie title Top 10 - Lignes Supprimées
     "hvnjo" : 2676
     "gc-ultimate117" : 1503
     "Garloulou" : 517
-    "github-actions[bot]" : 410
+    "github-actions[bot]" : 418
     "ZePhyrOmZy" : 403
 ```
 
