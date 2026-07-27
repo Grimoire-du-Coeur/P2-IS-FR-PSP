@@ -197,7 +197,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Select[SP]a[SP]target<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Choisir[SP]une[SP]cible<0004><FF03>"
     },
     {
         "id": 25,
@@ -253,7 +253,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Freeze<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Gel<FF03>"
     },
     {
         "id": 32,
@@ -269,7 +269,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Shock<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Choc<FF03>"
     },
     {
         "id": 34,
@@ -309,7 +309,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Fury<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Rage<FF03>"
     },
     {
         "id": 39,
@@ -325,7 +325,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Sleep<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Repos<FF03>"
     },
     {
         "id": 41,
@@ -341,7 +341,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Poison<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Poison<FF03>"
     },
     {
         "id": 43,
@@ -357,7 +357,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Mute<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Muet<FF03>"
     },
     {
         "id": 45,
@@ -373,7 +373,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Panic<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Effroi<FF03>"
     },
     {
         "id": 47,
@@ -389,7 +389,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Charm<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Charm<FF03>"
     },
     {
         "id": 49,
@@ -405,7 +405,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Possessed<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Possédé<FF03>"
     },
     {
         "id": 51,
@@ -429,7 +429,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Berserk<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Furie<FF03>"
     },
     {
         "id": 54,
@@ -445,7 +445,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Dying<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Agonie<FF03>"
     },
     {
         "id": 56,
@@ -461,7 +461,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Normal<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Normal<FF03>"
     },
     {
         "id": 58,
@@ -685,7 +685,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Guard<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Garde<FF03>"
     },
     {
         "id": 86,
@@ -701,7 +701,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Status<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Status<FF03>"
     },
     {
         "id": 88,
@@ -733,7 +733,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Persona<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Persona<FF03>"
     },
     {
         "id": 92,
@@ -749,7 +749,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Item<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Obj.<FF03>"
     },
     {
         "id": 94,
@@ -1005,7 +1005,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Yes",
-        "texte_fr": ""
+        "texte_fr": "Oui"
     },
     {
         "id": 126,
@@ -1157,7 +1157,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Camera",
-        "texte_fr": ""
+        "texte_fr": "Camera"
     },
     {
         "id": 145,
