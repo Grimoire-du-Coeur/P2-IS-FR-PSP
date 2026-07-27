@@ -83,7 +83,7 @@ Notre outil backend et patcher utilise plusieurs dépendances fondamentales. L'i
 | **pycdlib (Python)** | Indispensable ! Utilisée dans `core/iso.py` pour parser la structure du disque ISO 9660, récupérer les coordonnées géométriques des fichiers (LBA) et autoriser l'injection binaire directe des CPK et EBOOT traduits. | [clalancette](https://github.com/clalancette) | LGPL-2.1 |
 | **pspdecrypt (C)** | Utilisé dans le pipeline d'extraction optionnelle (`iso.py`) pour retirer le chiffrement DRM (KIRK) imposé par Sony sur l'`EBOOT.BIN` original afin de le modifier. | [John-K](https://github.com/John-K) | Open-Source |
 | **DeltaPatcher (C++)** | Moteur de génération et d'application de patchs différentiels binaires (`.xdelta`). | [marco-calautti](https://github.com/marco-calautti) | GPL-2.0 |
-| **Web Patcher (UI/UX)** | Interface Web (HTML/JS/CSS) permettant de patcher le jeu directement depuis le navigateur. | [chenetulipe](https://github.com/chenetulipe) | CC BY-NC-SA 4.0 |
+| **Web Patcher (UI/UX)** | Interface Web (HTML/JS/CSS) permettant de patcher le jeu directement depuis le navigateur. | [chenetulipe](https://github.com/chenetulipe) | GPL-2.0 |
 
 <br/>
 
