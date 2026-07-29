@@ -2,9 +2,10 @@
 
 import { motion, AnimatePresence } from 'framer-motion';
 
-import { Download, Mic, Folder, Music, Play, Square, Info, FileAudio, CheckCircle, Save, Upload, AlertTriangle, File, Disc } from 'lucide-react';
+import { Download, Mic, Folder, Music, Play, Square, Info, FileAudio, CheckCircle, Save, Upload, AlertTriangle, File, Disc, Archive } from 'lucide-react';
 
 import IsoBuilder from './IsoBuilder';
+import IsoExtractor from './IsoExtractor';
 
 
 
@@ -892,6 +893,7 @@ export default function App() {
   );
 
 }
+
 
 
 

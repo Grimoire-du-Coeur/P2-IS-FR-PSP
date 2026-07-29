@@ -273,3 +273,16 @@ async def patch_iso_route(req: PatchIsoRequest):
         
     return {"status": "ok", "msg": "Nouvel ISO gÃ©nÃ©rÃ© avec succÃ¨s !"}
 
+from pydantic import BaseModel
+
+class ExtractReq(BaseModel):
+    iso_path: str
+    out_dir: str
+
+@router.post("/iso/extract")
+def extract_iso(req: ExtractReq):
+    from core.iso_builder import extract_audio_from_iso
+    result = extract_audio_from_iso(req.iso_path, req.out_dir)
+    if "error" in result:
+        raise HTTPException(500, detail=result["error"])
+    return {"msg": "Extraction terminee", "details": result.get("details", {})}

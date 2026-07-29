@@ -61,3 +61,46 @@ def patch_iso(iso_path: str, bin_path: str, internal_path: str, out_iso_path: st
         return str(e)
 
 
+
+def extract_audio_from_iso(iso_path: str, out_dir: str) -> dict:
+    results = {}
+    if not os.path.exists(iso_path):
+        return {"error": f"Fichier ISO introuvable : {iso_path}"}
+    if not os.path.exists(out_dir):
+        os.makedirs(out_dir, exist_ok=True)
+        
+    try:
+        with open(iso_path, "rb") as iso_f:
+            header_data = iso_f.read(10 * 1024 * 1024)
+            
+            for target_filename in ["VOICEALL.BIN", "BGMALL.BIN"]:
+                target_bytes = (target_filename + ";1").encode('ascii')
+                target_bytes_no_ver = target_filename.encode('ascii')
+                
+                idx = header_data.find(target_bytes)
+                if idx == -1:
+                    idx = header_data.find(target_bytes_no_ver)
+                    
+                if idx == -1:
+                    logger.warning(f"Impossible de trouver {target_filename} dans l'ISO.")
+                    results[target_filename] = False
+                    continue
+                    
+                rec_start = idx - 33
+                orig_lba = struct.unpack('<I', header_data[rec_start+2:rec_start+6])[0]
+                orig_size = struct.unpack('<I', header_data[rec_start+10:rec_start+14])[0]
+                
+                iso_f.seek(orig_lba * 2048)
+                file_data = iso_f.read(orig_size)
+                
+                out_path = os.path.join(out_dir, target_filename)
+                with open(out_path, "wb") as out_f:
+                    out_f.write(file_data)
+                    
+                logger.info(f"{target_filename} extrait avec succes ({orig_size} octets).")
+                results[target_filename] = True
+                
+        return {"success": True, "details": results}
+    except Exception as e:
+        logger.error(f"Erreur lors de l'extraction: {e}")
+        return {"error": str(e)}
