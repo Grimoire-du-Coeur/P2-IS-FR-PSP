@@ -1,7 +1,7 @@
 ﻿import React, { useState, useEffect } from 'react';
 import { File, Disc, Save, Loader } from 'lucide-react';
 
-export default function IsoBuilder({ addLog, browse, sourceBinPath }) {
+export default function IsoBuilder({ addLog, browse, sourceBinPath, outDir }) {
   const [isoPath, setIsoPath] = useState(() => localStorage.getItem('isoPath') || '');
   const [binPath, setBinPath] = useState(() => localStorage.getItem('isoBinPath') || '');
   const [internalPath, setInternalPath] = useState('/PSP_GAME/USRDIR/sdata/BGMALL.BIN');
@@ -27,15 +27,23 @@ export default function IsoBuilder({ addLog, browse, sourceBinPath }) {
     }
   }, [sourceBinPath]);
 
-  const buildIso = async () => {
-    if (!isoPath || !binPath || !internalPath) {
-      return alert("Veuillez remplir tous les champs !");
-    }
+    const [isoName, setIsoName] = useState('');
+    useEffect(() => {
+        if (isoPath) {
+            const parts = isoPath.split(/[/\\]/);
+            setIsoName(parts[parts.length - 1]);
+        }
+    }, [isoPath]);
 
-    setIsBuilding(true);
-    addLog(`Lancement de la reconstruction de l'ISO...`, "INFO");
-
-    const outIsoPath = isoPath.replace('.iso', '_MOD.iso').replace('.ISO', '_MOD.iso');
+    const buildIso = async () => {
+        if (!isoPath || !binPath || !internalPath) {
+            return alert("Veuillez remplir tous les champs !");
+        }
+        let outIsoPath = isoPath.replace('.iso', '_MOD.iso').replace('.ISO', '_MOD.iso');
+        if (outDir && isoName) {
+            const modName = isoName.replace('.iso', '_MOD.iso').replace('.ISO', '_MOD.iso');
+            outIsoPath = outDir.endsWith('\\') || outDir.endsWith('/') ? outDir + modName : outDir + '\\' + modName;
+        }
 
     try {
       const res = await fetch(`http://127.0.0.1:8001/api/iso/patch`, {
@@ -158,4 +166,6 @@ export default function IsoBuilder({ addLog, browse, sourceBinPath }) {
     </div>
   );
 }
+
+
 
