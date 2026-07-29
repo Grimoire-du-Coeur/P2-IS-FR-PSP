@@ -211,7 +211,7 @@ Vous pouvez également rejoindre la communauté et demander de l'aide sur notre 
 > 
 > **Licences du Projet et Dépendances :**
 > 
-> - **Le Patch de Traduction** (textes, images, `.xdelta`, et code de l'outil `p2is_tool`) est sous licence **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Libre d'utilisation, de modification et de redistribution. **La vente ou la monétisation directe de ce patch est strictement interdite.**
+> - **Le Patch de Traduction** (textes, images, `.xdelta`, et code des outil `p2is_tool` et `p2is_audio_lab`) est sous licence **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Libre d'utilisation, de modification et de redistribution. **La vente ou la monétisation directe de ce patch est strictement interdite.**
 >   - *Exception pour les créateurs de contenu :* Les YouTubers, Streamers et journalistes sont totalement autorisés à utiliser ce patch dans leurs vidéos ou articles, et à monétiser leurs contenus liés au jeu.
 >   - *Création de mods et traductions dérivées :* Si vous souhaitez utiliser nos outils ou notre traduction pour créer votre propre version (ex: traduction dans une autre langue, modifiant le jeu), vous en avez le droit à condition de **créditer l'équipe originale** et de **distribuer votre projet sous cette même licence exacte** (ShareAlike).
 > - **Le Web Patcher** (l'application web `p2is_patcher` / UI) intègre directement le code source du moteur DeltaPatcher et est donc distribué sous licence **[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)** afin de respecter les droits d'auteur de ce dernier.
