@@ -954,9 +954,10 @@ def rebuild_iso(
             raise Exception("Offset event.bin dans le CPK inconnu. Relance l'extraction.")
             
         with open(out_iso, "r+b") as f:
-            if log_fn: log_fn(f"  Patch event.bin a l'offset 0x{event_pos:08X} du CPK", "info")
-            f.seek(event_pos)
-            f.write(event_data)
+            if event_data:
+                if log_fn: log_fn(f"  Patch event.bin a l'offset 0x{event_pos:08X} du CPK", "info")
+                f.seek(event_pos)
+                f.write(event_data)
             
             bnp_offsets = offs.get("bnp_offsets", {})
             if enc_dir and pathlib.Path(enc_dir).exists() and bnp_offsets:
@@ -992,10 +993,12 @@ def rebuild_iso(
     max_iso_offset = 0
     shutil.copy(iso_orig, out_iso)
     with open(out_iso, "r+b") as f:
-        if log_fn:
-            log_fn(f"  event.bin → offset 0x{pos:08X}", "info")
-        f.seek(pos)
-        f.write(event_data)
+        if event_data:
+            if log_fn:
+                log_fn(f"  event.bin a offset 0x{pos:08X}", "info")
+            f.seek(pos)
+            f.write(event_data)
+        
         cpk_off_in_iso = offs.get("cpk_offset_in_iso", 0)
 
         # FORCE RECALCULATION DU CACHE
