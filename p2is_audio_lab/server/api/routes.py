@@ -286,3 +286,10 @@ def extract_iso(req: ExtractReq):
     if "error" in result:
         raise HTTPException(500, detail=result["error"])
     return {"msg": "Extraction terminee", "details": result.get("details", {})}
+
+@router.get("/desktop")
+async def get_desktop():
+    import os
+    return {"path": os.path.join(os.path.expanduser("~"), "Desktop", "P2IS_FR_audio")}
+
+

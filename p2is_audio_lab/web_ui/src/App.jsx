@@ -14,6 +14,16 @@ export default function App() {
   const [binPath, setBinPath] = useState('');
 
   const [outDir, setOutDir] = useState('');
+  useEffect(() => {
+    fetch('http://127.0.0.1:8001/api/desktop')
+      .then(res => res.json())
+      .then(data => {
+        if (!outDir || outDir === 'C:\\Users\\nolan\\Desktop\\P2IS_FR_audio') {
+          setOutDir(data.path);
+        }
+      })
+      .catch(e => console.error("Erreur backend :", e));
+  }, []);
 
   const [atracToolPath, setAtracToolPath] = useState('');
 
@@ -33,7 +43,7 @@ export default function App() {
 
   const [playingIdx, setPlayingIdx] = useState(null);
 
-  const [activeTab, setActiveTab] = useState('audio');
+  const [activeTab, setActiveTab] = useState('extract');
 
 
 
@@ -412,27 +422,22 @@ export default function App() {
         <div className="flex space-x-2 bg-black/20 p-1.5 rounded-2xl border border-white/5 shadow-xl">
 
           <button
-
-            onClick={() => setActiveTab('audio')}
-
-            className={`px-6 py-2.5 rounded-xl font-semibold flex items-center gap-2 transition-all ${activeTab === 'audio' ? 'bg-blue-600 text-white shadow-lg shadow-blue-500/20' : 'text-blue-200/60 hover:text-blue-200 hover:bg-white/5'}`}
-
+            onClick={() => setActiveTab('extract')}
+            className={"px-6 py-2.5 rounded-xl font-semibold flex items-center gap-2 transition-all " + (activeTab === 'extract' ? 'bg-blue-600 text-white shadow-lg shadow-blue-500/20' : 'text-blue-200/60 hover:text-blue-200 hover:bg-white/5')}
           >
-
-            <Mic size={18} /> Audio Lab
-
+            <Archive size={18} /> Extracteur d'ISO
           </button>
-
           <button
-
-            onClick={() => setActiveTab('iso')}
-
-            className={`px-6 py-2.5 rounded-xl font-semibold flex items-center gap-2 transition-all ${activeTab === 'iso' ? 'bg-blue-600 text-white shadow-lg shadow-blue-500/20' : 'text-blue-200/60 hover:text-blue-200 hover:bg-white/5'}`}
-
+            onClick={() => setActiveTab('audio')}
+            className={`px-6 py-2.5 rounded-xl font-semibold flex items-center gap-2 transition-all ${activeTab === 'audio' ? 'bg-blue-600 text-white shadow-lg shadow-blue-500/20' : 'text-blue-200/60 hover:text-blue-200 hover:bg-white/5'}`}
           >
-
+            <Mic size={18} /> Audio Lab
+          </button>
+          <button
+            onClick={() => setActiveTab('iso')}
+            className={"px-6 py-2.5 rounded-xl font-semibold flex items-center gap-2 transition-all " + (activeTab === 'iso' ? 'bg-blue-600 text-white shadow-lg shadow-blue-500/20' : 'text-blue-200/60 hover:text-blue-200 hover:bg-white/5')}
+          >
             <Disc size={18} /> Créateur d'ISO
-
           </button>
 
         </div>
@@ -457,6 +462,27 @@ export default function App() {
 
         >
 
+          {/* Dossier de travail GLOBAL */}
+          <div className="glass-panel p-4 flex flex-col mb-2">
+            <label className="text-xs text-blue-200/70 mb-1 font-semibold uppercase tracking-wider">Dossier de travail global (Extraction & Patch)</label>
+            <div className="flex items-center space-x-2">
+              <input 
+                type="text" 
+                value={outDir}
+                onChange={(e) => setOutDir(e.target.value)}
+                placeholder="C:\Users\...\P2IS_FR_audio"
+                className="glass-input flex-1"
+              />
+              <button 
+                onClick={() => browse('dir', setOutDir)}
+                className="p-2 bg-blue-500/20 hover:bg-blue-500/40 border border-blue-500/30 rounded-lg text-blue-200 transition-colors cursor-pointer" 
+                title="Parcourir"
+              >
+                <Folder size={20} />
+              </button>
+            </div>
+          </div>
+
           {activeTab === 'audio' ? (
 
             <div className="glass-panel p-6 flex flex-col space-y-4 h-full">
@@ -464,46 +490,6 @@ export default function App() {
           {/* Configuration Cards */}
 
           <div className="mb-4 space-y-4 bg-black/10 p-4 rounded-xl border border-white/5">
-
-            {/* Dossier de travail */}
-
-            <div className="flex flex-col">
-
-              <label className="text-xs text-blue-200/70 mb-1 font-semibold uppercase tracking-wider">Dossier de travail (Extraction)</label>
-
-              <div className="flex items-center space-x-2">
-
-                <input 
-
-                  type="text" 
-
-                  value={outDir}
-
-                  onChange={(e) => setOutDir(e.target.value)}
-
-                  placeholder="C:\Users\...\P2IS_FR_audio\VOICEALL"
-
-                  className="glass-input flex-1"
-
-                />
-
-                <button 
-
-                  onClick={() => browse('dir', setOutDir)}
-
-                  className="p-2 bg-blue-500/20 hover:bg-blue-500/40 border border-blue-500/30 rounded-lg text-blue-200 transition-colors cursor-pointer" 
-
-                  title="Parcourir"
-
-                >
-
-                  <Folder size={20} />
-
-                </button>
-
-              </div>
-
-            </div>
 
 
 
@@ -754,10 +740,10 @@ export default function App() {
 
             </div>
 
+                    ) : activeTab === 'iso' ? (
+            <IsoBuilder addLog={addLog} browse={browse} sourceBinPath={binPath} outDir={outDir} />
           ) : (
-
-            <IsoBuilder addLog={addLog} browse={browse} />
-
+            <IsoExtractor addLog={addLog} browse={browse} outDir={outDir} setOutDir={setOutDir} />
           )}
 
         </motion.div>
@@ -893,6 +879,13 @@ export default function App() {
   );
 
 }
+
+
+
+
+
+
+
 
 
 

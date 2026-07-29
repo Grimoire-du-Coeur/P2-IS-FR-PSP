@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 echo =========================================
 echo       P2IS Audio Lab - Demarrage
 echo =========================================
@@ -6,7 +6,7 @@ echo.
 
 :: 1. Demarrer le serveur backend Python en arriere-plan
 echo Lancement du serveur Python (Backend)...
-start /min cmd /c "cd server && uvicorn server_audio:app --host 127.0.0.1 --port 8001"
+start cmd /k "cd server && python -m uvicorn server_audio:app --host 127.0.0.1 --port 8001"
 
 :: Attendre que le backend s'initialise (remplace timeout)
 ping 127.0.0.1 -n 3 > nul
@@ -28,3 +28,5 @@ if not exist "node_modules\" (
 echo.
 echo Lancement de l'interface web...
 call npm run dev -- --open
+
+
