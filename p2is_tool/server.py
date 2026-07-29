@@ -326,8 +326,17 @@ def api_encode(req: GenericRequest):
             eboot_json = trad_dir / "EBOOT_Translation.json"
             eboot_out = w / "EBOOT_MODIFIED.BIN"
             if eboot_dec.exists() and eboot_json.exists():
-                get_logger(req.work_dir)("Encodage de l'EBOOT en cours...", "info")
-                inject_eboot(str(eboot_dec), str(eboot_json), str(eboot_out), get_logger(req.work_dir))
+                logger = get_logger(req.work_dir)
+                logger("Encodage de l'EBOOT en cours...", "info")
+                try:
+                    inject_eboot(str(eboot_dec), str(eboot_json), str(eboot_out), logger)
+                    if isinstance(res, dict) and "ok" in res:
+                        res["ok"].append("EBOOT.BIN")
+                    logger("V EBOOT.BIN reconstruit", "success")
+                except Exception as e:
+                    if isinstance(res, dict) and "err" in res:
+                        res["err"].append("EBOOT.BIN")
+                    logger(f"Erreur EBOOT: {e}", "error")
             
         return {"status": "ok", "msg": "Encodage terminé !", "result": res}
     except Exception as e:
@@ -352,17 +361,16 @@ def api_rebuild(req: IsoRequest):
                 detail="ISO originale ou dossiers d'encodage manquants.",
             )
         event_bin_path = enc_dir / "event.bin"
-        if not event_bin_path.exists():
-            raise HTTPException(
-                status_code=400, detail="event.bin manquant dans le dossier encoded."
-            )
-
+        event_data = None
+        
         reset_progress("rebuild")
-        # Fake progress since rebuild_iso doesn't support it
         update_progress(0.5)
 
-        with open(event_bin_path, "rb") as f:
-            event_data = f.read()
+        if event_bin_path.exists():
+            with open(event_bin_path, "rb") as f:
+                event_data = f.read()
+        else:
+            get_logger(req.work_dir)("event.bin non trouve dans encoded/, il ne sera pas patche.", "warn")
 
         rebuild_iso(
             str(iso_orig),
@@ -385,3 +393,5 @@ if __name__ == "__main__":
     import uvicorn
 
     uvicorn.run("server:app", host="127.0.0.1", port=8000, reload=True)
+
+
