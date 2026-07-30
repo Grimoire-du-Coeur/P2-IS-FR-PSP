@@ -221,6 +221,7 @@ Vous pouvez également rejoindre la communauté et demander de l'aide sur notre 
 > - **pspdecrypt** par John-K (Open-Source) : Exécutable `.exe` appelé en externe pour déchiffrer l'EBOOT. Totalement indépendant.
 > - **pycdlib** par clalancette ([LGPL-2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)) : Bibliothèque Python importée dynamiquement par notre outil. Le projet "utilise" la bibliothèque sans l'intégrer ou la modifier, ce qui est parfaitement autorisé par la LGPL.
 > - **DeltaPatcher** par marco-calautti ([GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)) : Moteur de patch binaire. Son code est compilé directement dans le Web Patcher, forçant ce dernier à adopter la licence GPL-2.0 (sans contaminer le reste du projet qui reste sous CC BY-NC-SA 4.0).
+> - **ATRACTool-Reloaded** par XyLe-GBP ([GitHub](https://github.com/XyLe-GBP/ATRACTool-Reloaded)) : Exécutable `ATRACTool-Reloaded.exe` appelé en externe par `p2is_audio_lab` pour compresser/décompresser l'audio. Son utilisation via ligne de commande le rend totalement indépendant de notre code.
 
 <br/>
 
