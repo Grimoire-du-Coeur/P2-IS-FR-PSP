@@ -1,49 +1,21 @@
-﻿import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { File, Disc, Save, Loader } from 'lucide-react';
 
-export default function IsoBuilder({ addLog, browse, sourceBinPath, outDir }) {
-  const [isoPath, setIsoPath] = useState(() => localStorage.getItem('isoPath') || '');
-  const [binPath, setBinPath] = useState(() => localStorage.getItem('isoBinPath') || '');
+export default function IsoBuilder({ t, lang, addLog, browse }) {
+  const [isoPath, setIsoPath] = useState('');
+  const [binPath, setBinPath] = useState('');
   const [internalPath, setInternalPath] = useState('/PSP_GAME/USRDIR/sdata/BGMALL.BIN');
   const [isBuilding, setIsBuilding] = useState(false);
 
-  useEffect(() => { localStorage.setItem('isoPath', isoPath); }, [isoPath]);
-  useEffect(() => { localStorage.setItem('isoBinPath', binPath); }, [binPath]);
-
-  useEffect(() => {
-    if (sourceBinPath) {
-      const upper = sourceBinPath.toUpperCase();
-      if (upper.includes('VOICEALL.BIN')) {
-        setInternalPath('/PSP_GAME/USRDIR/sdata/VOICEALL.BIN');
-        if (!binPath || !binPath.toUpperCase().includes('VOICEALL')) {
-           setBinPath(sourceBinPath.replace('.BIN', '_MOD.BIN').replace('.bin', '_MOD.BIN'));
-        }
-      } else if (upper.includes('BGMALL.BIN')) {
-        setInternalPath('/PSP_GAME/USRDIR/sdata/BGMALL.BIN');
-        if (!binPath || !binPath.toUpperCase().includes('BGMALL')) {
-           setBinPath(sourceBinPath.replace('.BIN', '_MOD.BIN').replace('.bin', '_MOD.BIN'));
-        }
-      }
+  const buildIso = async () => {
+    if (!isoPath || !binPath || !internalPath) {
+      return alert("Veuillez remplir tous les champs !");
     }
-  }, [sourceBinPath]);
 
-    const [isoName, setIsoName] = useState('');
-    useEffect(() => {
-        if (isoPath) {
-            const parts = isoPath.split(/[/\\]/);
-            setIsoName(parts[parts.length - 1]);
-        }
-    }, [isoPath]);
+    setIsBuilding(true);
+    addLog(`Lancement de la reconstruction de l'ISO...`, "INFO");
 
-    const buildIso = async () => {
-        if (!isoPath || !binPath || !internalPath) {
-            return alert("Veuillez remplir tous les champs !");
-        }
-        let outIsoPath = isoPath.replace('.iso', '_MOD.iso').replace('.ISO', '_MOD.iso');
-        if (outDir && isoName) {
-            const modName = isoName.replace('.iso', '_MOD.iso').replace('.ISO', '_MOD.iso');
-            outIsoPath = outDir.endsWith('\\') || outDir.endsWith('/') ? outDir + modName : outDir + '\\' + modName;
-        }
+    const outIsoPath = isoPath.replace('.iso', '_MOD.iso').replace('.ISO', '_MOD.iso');
 
     try {
       const res = await fetch(`http://127.0.0.1:8001/api/iso/patch`, {
@@ -100,7 +72,7 @@ export default function IsoBuilder({ addLog, browse, sourceBinPath, outDir }) {
             <button 
               onClick={() => browse('file', setIsoPath, '.iso')}
               className="p-2 bg-blue-500/20 hover:bg-blue-500/40 border border-blue-500/30 rounded-lg text-blue-200 transition-colors cursor-pointer" 
-              title="Parcourir"
+              title={t('browse')}
             >
               <Disc size={20} />
             </button>
@@ -121,7 +93,7 @@ export default function IsoBuilder({ addLog, browse, sourceBinPath, outDir }) {
             <button 
               onClick={() => browse('file', setBinPath, '.BIN')}
               className="p-2 bg-blue-500/20 hover:bg-blue-500/40 border border-blue-500/30 rounded-lg text-blue-200 transition-colors cursor-pointer" 
-              title="Parcourir"
+              title={t('browse')}
             >
               <File size={20} />
             </button>
@@ -166,6 +138,3 @@ export default function IsoBuilder({ addLog, browse, sourceBinPath, outDir }) {
     </div>
   );
 }
-
-
-
