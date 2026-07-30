@@ -13,7 +13,7 @@
         "data_size": 56,
         "slot_size": 56,
         "texte_orig": "Memory[SP]Stick<04B1>[SP]not[SP]inserted<0004><FF03>",
-        "texte_fr": "Carte memoire<04B1> non inseree<0004><FF03>"
+        "texte_fr": "Carte memoire<04B1> non inserée<0004><FF03>"
     },
     {
         "id": 2,
@@ -141,7 +141,7 @@
         "data_size": 88,
         "slot_size": 88,
         "texte_orig": "Continue[SP]setting[SP]Fusion[SP]Spell<FF03>combinations<0008><FF03>",
-        "texte_fr": "Continuer reglage combos fusion<0008><FF03>"
+        "texte_fr": "Continuer réglage combos fusion<0008><FF03>"
     },
     {
         "id": 18,
@@ -189,7 +189,7 @@
         "data_size": 48,
         "slot_size": 48,
         "texte_orig": "Obtained[SP]the[SP]following<0006><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Obtenus<0006><FF03>"
     },
     {
         "id": 24,
@@ -197,7 +197,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Select[SP]a[SP]target<0004><FF03>",
-        "texte_fr": "Choisir[SP]une[SP]cible<0004><FF03>"
+        "texte_fr": "Chois. une cible<0004><FF03>"
     },
     {
         "id": 25,
@@ -205,7 +205,7 @@
         "data_size": 270,
         "slot_size": 270,
         "texte_orig": "Some[SP]can[SP]become[SP]a[SP]different[SP]Persona[SP]entirely<FF03>by[SP]selecting[SP](Mutation([SP]in[SP]the[SP]Velvet[SP]Room<0004><FF03>A[SP]few[SP]Personas[SP]can[SP]only[SP]be[SP]obtained[SP]this[SP]way<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Certains Personae peuvent métamorphoser<FF03>en sélectionnant(Mutation(dans la Velvet Room.<0004><FF03>Certains ne peuvent être obtenus qu'ainsi<0004><FF03>"
     },
     {
         "id": 26,
@@ -213,7 +213,7 @@
         "data_size": 262,
         "slot_size": 262,
         "texte_orig": "How[SP]the[SP]Persona[SP]grows[SP]depends[SP]on[SP]its[SP]rank<0004><FF03>The[SP]higher[SP]its[SP]rank[SP]at[SP]the[SP]time[SP]of[SP]mutation<0003><FF03>the[SP]likelier[SP]a[SP]rare[SP]or[SP]useful[SP]mutation[SP]is<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Les Personae mutent en fonction de leurs rangs<0004><FF03>Plus son rang est haut<0004><FF03>plus il y a de chance qu'il s'agisse d'une bonne mutation<0004><FF03>"
     },
     {
         "id": 27,
@@ -229,7 +229,7 @@
         "data_size": 108,
         "slot_size": 108,
         "texte_orig": "Persona[SP]is[SP]sealed<0003>[SP]preventing<FF03>skills[SP]from[SP]being[SP]used<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Persona scellé<0003>empêchant<FF03>l'utilisation de capacités<0004><FF03>"
     },
     {
         "id": 29,
@@ -237,7 +237,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Holy[SP]Lance<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Lance sainte<FF03>"
     },
     {
         "id": 30,
@@ -245,7 +245,7 @@
         "data_size": 52,
         "slot_size": 52,
         "texte_orig": "Frozen[SP]and[SP]unable[SP]to[SP]act<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Gelé, impossible d'agir<0004><FF03>"
     },
     {
         "id": 31,
@@ -261,7 +261,7 @@
         "data_size": 64,
         "slot_size": 64,
         "texte_orig": "Electrocuted[SP]and[SP]unable[SP]to[SP]act<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Électrocuté, impossible d'agir<0004><FF03>"
     },
     {
         "id": 33,
@@ -277,7 +277,7 @@
         "data_size": 96,
         "slot_size": 96,
         "texte_orig": "Bewildered[SP]by[SP]illusions<0004>[SP]Aim<FF03>greatly[SP]decreased<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Sous illusion<0004> Précision<FF03> grandement réduite<0004><FF03>"
     },
     {
         "id": 35,
@@ -293,7 +293,7 @@
         "data_size": 96,
         "slot_size": 96,
         "texte_orig": "Uncontrolled[SP]rage[SP]allows[SP]only<FF03>standard[SP]attacks<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "La rage n'autorise que<FF03> les attaq. standards<0004><FF03>"
     },
     {
         "id": 37,
@@ -301,7 +301,7 @@
         "data_size": 96,
         "slot_size": 96,
         "texte_orig": "Uncontrolled[SP]rage[SP]allows[SP]only<FF03>standard[SP]attacks<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "La rage n'autorise que<FF03> les attaq. standards<0004><FF03>"
     },
     {
         "id": 38,
@@ -349,7 +349,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "Skills[SP]are[SP]sealed<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Capacit. bloquées<0004><FF03>"
     },
     {
         "id": 44,
@@ -365,7 +365,7 @@
         "data_size": 76,
         "slot_size": 76,
         "texte_orig": "Panicking[SP]and[SP]will[SP]act<FF03>unpredictably<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Affolé, agis<FF03>de manière imprévisible<0004><FF03>"
     },
     {
         "id": 46,
@@ -381,7 +381,7 @@
         "data_size": 90,
         "slot_size": 90,
         "texte_orig": "Swayed[SP]by[SP]the[SP]enemy<0004>[SP]Will[SP]attack<FF03>own[SP]allies<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Rallié à l'ennemi<0004>S'attaquera au<FF03>groupe<0004><FF03>"
     },
     {
         "id": 48,
@@ -421,7 +421,7 @@
         "data_size": 96,
         "slot_size": 96,
         "texte_orig": "Persona[SP]is[SP]uncontrollable<0004><FF03>Cannot[SP]be[SP]commanded<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Ce Persona est incontrôlable<0004><FF03>Non commandable<0004><FF03>"
     },
     {
         "id": 53,
@@ -437,7 +437,7 @@
         "data_size": 62,
         "slot_size": 62,
         "texte_orig": "Unable[SP]to[SP]perform[SP]any[SP]actions<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Impossible d'agir<0004><FF03>"
     },
     {
         "id": 55,
@@ -453,7 +453,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Nothing[SP]unusual<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Rien d'anormal<0004><FF03>"
     },
     {
         "id": 57,
@@ -469,7 +469,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Enemy[SP]condition<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Statut ennemi<FF03>"
     },
     {
         "id": 59,
@@ -477,7 +477,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Party[SP]condition<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Statut allié<FF03>"
     },
     {
         "id": 60,
@@ -493,7 +493,7 @@
         "data_size": 84,
         "slot_size": 84,
         "texte_orig": "Standard[SP]attack[SP]with[SP]the[SP]equipped[SP]weapon<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Attaq. standard utilisant l'arme équipée<0004><FF03>"
     },
     {
         "id": 62,
@@ -501,7 +501,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Attack<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Attaq.<FF03>"
     },
     {
         "id": 63,
@@ -509,7 +509,7 @@
         "data_size": 70,
         "slot_size": 70,
         "texte_orig": "Performs[SP]the[SP]last[SP]selected[SP]action<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Refait la dernière action<0004><FF03>"
     },
     {
         "id": 64,
@@ -517,7 +517,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Replay<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Rejouer<FF03>"
     },
     {
         "id": 65,
@@ -525,7 +525,7 @@
         "data_size": 62,
         "slot_size": 62,
         "texte_orig": "It[SP]is[SP]in[SP]no[SP]condition[SP]to[SP]talk<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Pas en état pour parler<0004><FF03>"
     },
     {
         "id": 66,
@@ -533,7 +533,7 @@
         "data_size": 66,
         "slot_size": 66,
         "texte_orig": "It[SP]is[SP]in[SP]no[SP]condition[SP]to[SP]answer<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Pas en état pour répondre<0004><FF03>"
     },
     {
         "id": 67,
@@ -541,7 +541,7 @@
         "data_size": 56,
         "slot_size": 56,
         "texte_orig": "Select[SP]a[SP]method[SP]of[SP]contact<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Chois. méthode de contact<0004><FF03>"
     },
     {
         "id": 68,
@@ -549,7 +549,7 @@
         "data_size": 74,
         "slot_size": 74,
         "texte_orig": "Confirm[SP]or[SP]select[SP]another[SP]character<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Confirm. ou chois. un autre membre<0004><FF03>"
     },
     {
         "id": 69,
@@ -557,7 +557,7 @@
         "data_size": 60,
         "slot_size": 60,
         "texte_orig": "Select[SP]who[SP]will[SP]make[SP]contact<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Chois. qui va faire le contact<0004><FF03>"
     },
     {
         "id": 70,
@@ -565,7 +565,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Select[SP]a[SP]target<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Chois. une cible<0004><FF03>"
     },
     {
         "id": 71,
@@ -573,7 +573,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Reset[SP]order<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Réin. ordre"
     },
     {
         "id": 72,
@@ -581,7 +581,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Undo[SP]changes<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Annul. modif<FF03>"
     },
     {
         "id": 73,
@@ -589,7 +589,7 @@
         "data_size": 56,
         "slot_size": 56,
         "texte_orig": "Select[SP]turn[SP]order[SP]position<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Choisis l'ordre de passage<0004><FF03>"
     },
     {
         "id": 74,
@@ -621,7 +621,7 @@
         "data_size": 46,
         "slot_size": 46,
         "texte_orig": "Activate[SP]fusion[SP]spell<0008><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Activ. un sort fusion<0008><FF03>"
     },
     {
         "id": 78,
@@ -629,7 +629,7 @@
         "data_size": 42,
         "slot_size": 42,
         "texte_orig": "No[SP]Persona[SP]selected<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Chois. un Persona<0004><FF03>"
     },
     {
         "id": 79,
@@ -653,7 +653,7 @@
         "data_size": 46,
         "slot_size": 46,
         "texte_orig": "Select[SP]a[SP]fusion[SP]spell<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Chois. un sort fusion<0004><FF03>"
     },
     {
         "id": 82,
@@ -669,7 +669,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Attack<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Attaq.<FF03>"
     },
     {
         "id": 84,
@@ -693,7 +693,7 @@
         "data_size": 40,
         "slot_size": 40,
         "texte_orig": "View[SP]party[SP]details<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Voir le statut grp<0004><FF03>"
     },
     {
         "id": 87,
@@ -709,7 +709,7 @@
         "data_size": 58,
         "slot_size": 58,
         "texte_orig": "Adjust[SP]the[SP]turn[SP]order[SP]queue<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Ajuster l'ordre de passage<0004><FF03>"
     },
     {
         "id": 89,
@@ -717,7 +717,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Set[SP]Turn[SP]Order<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Régler l'ordre<FF03>"
     },
     {
         "id": 90,
@@ -725,7 +725,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Change[SP]Personas<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Chang. Personae<0004><FF03>"
     },
     {
         "id": 91,
@@ -765,7 +765,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Skill<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Comp.<FF03>"
     },
     {
         "id": 96,
@@ -773,7 +773,7 @@
         "data_size": 66,
         "slot_size": 66,
         "texte_orig": "Attack[SP]with[SP]the[SP]equipped[SP]weapon<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Attaq. avec l'arme équipée<0004><FF03>"
     },
     {
         "id": 97,
@@ -781,7 +781,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Attack<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Attaq.<FF03>"
     },
     {
         "id": 98,
@@ -789,7 +789,7 @@
         "data_size": 58,
         "slot_size": 58,
         "texte_orig": "Attempt[SP]to[SP]flee[SP]from[SP]battle<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Essayer de fuir du combat<0004><FF03>"
     },
     {
         "id": 99,
@@ -797,7 +797,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Escape<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Fuir<FF03>"
     },
     {
         "id": 100,
@@ -821,7 +821,7 @@
         "data_size": 48,
         "slot_size": 48,
         "texte_orig": "View[SP]enemy[SP]information<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Montrer infos ennemies<0004><FF03>"
     },
     {
         "id": 103,
@@ -829,7 +829,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Analyze<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Analys.<FF03>"
     },
     {
         "id": 104,
@@ -853,7 +853,7 @@
         "data_size": 58,
         "slot_size": 58,
         "texte_orig": "Adjust[SP]the[SP]turn[SP]order[SP]queue<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Ajuster l'ordre de passage<0004><FF03>"
     },
     {
         "id": 107,
@@ -877,7 +877,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Fusion[SP]Spells<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Sort Fusion<FF03>"
     },
     {
         "id": 110,
@@ -885,7 +885,7 @@
         "data_size": 74,
         "slot_size": 74,
         "texte_orig": "Each[SP]character[SP]attacks[SP]individually<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Chaque personnage attaq. seul<0004><FF03>"
     },
     {
         "id": 111,
@@ -933,7 +933,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Install[SP]game[SP]data<0004>",
-        "texte_fr": ""
+        "texte_fr": "Téléch. données<0004>"
     },
     {
         "id": 117,
@@ -941,7 +941,7 @@
         "data_size": 48,
         "slot_size": 48,
         "texte_orig": "Adjust[SP]various[SP]settings<0004>",
-        "texte_fr": ""
+        "texte_fr": "Changer les paramètres<0004>"
     },
     {
         "id": 118,
@@ -965,7 +965,7 @@
         "data_size": 44,
         "slot_size": 44,
         "texte_orig": "Continue[SP]a[SP]saved[SP]game<0004>",
-        "texte_fr": ""
+        "texte_fr": "Continuer<0004>"
     },
     {
         "id": 121,
@@ -973,7 +973,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Begin[SP]new[SP]game<0004>",
-        "texte_fr": ""
+        "texte_fr": "Nouvelle part.<0004>"
     },
     {
         "id": 122,
@@ -981,7 +981,7 @@
         "data_size": 62,
         "slot_size": 62,
         "texte_orig": "Would[SP]you[SP]like[SP]to[SP]overwrite[SP]it<0008>",
-        "texte_fr": ""
+        "texte_fr": "Souhaitez-vous l'écraser<0008>"
     },
     {
         "id": 123,
@@ -989,7 +989,7 @@
         "data_size": 60,
         "slot_size": 60,
         "texte_orig": "Installed[SP]data[SP]already[SP]exists<0004>",
-        "texte_fr": ""
+        "texte_fr": "Installation déjà existante<0004>"
     },
     {
         "id": 124,
@@ -997,7 +997,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "No",
-        "texte_fr": ""
+        "texte_fr": "N."
     },
     {
         "id": 125,
@@ -1013,7 +1013,7 @@
         "data_size": 62,
         "slot_size": 62,
         "texte_orig": "Would[SP]you[SP]like[SP]to[SP]install[SP]data<0008>",
-        "texte_fr": ""
+        "texte_fr": "Installer les données<0008>"
     },
     {
         "id": 127,
@@ -1021,7 +1021,7 @@
         "data_size": 76,
         "slot_size": 76,
         "texte_orig": "You[SP]need[SP]at[SP]least[SP]247MB[SP]of[SP]free[SP]space<0004>",
-        "texte_fr": ""
+        "texte_fr": "Libérez au moins 247 Mo<0004>"
     },
     {
         "id": 128,
@@ -1029,7 +1029,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "sleep[SP]mode[SP]during[SP]the[SP]installation[SP]process<0004>",
-        "texte_fr": ""
+        "texte_fr": "veille pendant l'installation<0004>"
     },
     {
         "id": 129,
@@ -1045,7 +1045,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Do[SP]not[SP]remove[SP]the[SP]Memory[SP]Stick<04B1><0003>[SP]turn[SP]off",
-        "texte_fr": ""
+        "texte_fr": "Ne retirez pas la carte mém.<04B1><0003> éteindre"
     },
     {
         "id": 131,
@@ -1053,7 +1053,7 @@
         "data_size": 72,
         "slot_size": 72,
         "texte_orig": "Data[SP]installation[SP]takes[SP]1<5[SP]minutes<0004>",
-        "texte_fr": ""
+        "texte_fr": "L'installation prends 1<5 minutes<0004>"
     },
     {
         "id": 132,
@@ -1093,7 +1093,7 @@
         "data_size": 98,
         "slot_size": 98,
         "texte_orig": "Installing[SP]data<0004><FF03>Do[SP]not[SP]remove[SP]the[SP]Memory[SP]Stick<04B1><0004>",
-        "texte_fr": ""
+        "texte_fr": "Installation<0004><FF03>Ne retirez pas la carte mem.<04B1><0004>"
     },
     {
         "id": 137,
@@ -1101,7 +1101,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "System[SP]data[SP]loaded<0004>",
-        "texte_fr": ""
+        "texte_fr": "Données chargées<0004>"
     },
     {
         "id": 138,
@@ -1109,7 +1109,7 @@
         "data_size": 350,
         "slot_size": 350,
         "texte_orig": "This[SP]game[SP]has[SP]an[SP]autosave[SP]function<0004>[SP]When[SP]an<FF03>autosave[SP]is[SP]in[SP]progress<0003>[SP]the[SP]Memory[SP]Stick<04B1><FF03>light[SP]will[SP]flicker<0004>[SP]Do[SP]not[SP]remove[SP]the[SP]Memory<FF03>Stick<04B1>[SP]or[SP]turn[SP]off[SP]the[SP]system[SP]at[SP]this[SP]time<0004>",
-        "texte_fr": ""
+        "texte_fr": "Ce jeu sauvegarde automatiquement<0004> Lors<FF03> de celle-ci<0003> la LED de la carte mémoire<04B1><FF03> va scintiller<0004> Ne retirez pas la carte<FF03>mémoire<04B1> et n'éteignez pas la console<0004>"
     },
     {
         "id": 139,
@@ -1149,7 +1149,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Sevens[SP]emblem",
-        "texte_fr": ""
+        "texte_fr": "Sept emblèmes"
     },
     {
         "id": 144,
@@ -1173,7 +1173,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Cell[SP]Phone",
-        "texte_fr": ""
+        "texte_fr": "Portable"
     },
     {
         "id": 147,
@@ -1189,7 +1189,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trigger[SP]Device",
-        "texte_fr": ""
+        "texte_fr": "Déclencheur"
     },
     {
         "id": 149,
@@ -1197,7 +1197,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Walkie<talkie",
-        "texte_fr": ""
+        "texte_fr": "Talkie<walkie"
     },
     {
         "id": 150,
@@ -1213,7 +1213,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Japanese[SP]Primrose",
-        "texte_fr": ""
+        "texte_fr": "Primevère Japon."
     },
     {
         "id": 152,
@@ -1229,7 +1229,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Raspberry",
-        "texte_fr": ""
+        "texte_fr": "Framboise"
     },
     {
         "id": 154,
@@ -1237,7 +1237,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Nemophila",
-        "texte_fr": ""
+        "texte_fr": "Nemophila"
     },
     {
         "id": 155,
@@ -1245,7 +1245,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Salvia",
-        "texte_fr": ""
+        "texte_fr": "Sauge"
     },
     {
         "id": 156,
@@ -1253,7 +1253,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Thoroughwort",
-        "texte_fr": ""
+        "texte_fr": "Boneset"
     },
     {
         "id": 157,
@@ -1261,7 +1261,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Achillea",
-        "texte_fr": ""
+        "texte_fr": "Achillée"
     },
     {
         "id": 158,
@@ -1269,7 +1269,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Iris",
-        "texte_fr": ""
+        "texte_fr": "Iris"
     },
     {
         "id": 159,
@@ -1325,7 +1325,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Wristwatch",
-        "texte_fr": ""
+        "texte_fr": "Montre"
     },
     {
         "id": 166,
@@ -1333,7 +1333,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Lighter",
-        "texte_fr": ""
+        "texte_fr": "Briquet"
     },
     {
         "id": 167,
@@ -1341,7 +1341,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Mr<0004>[SP]Bunbun",
-        "texte_fr": ""
+        "texte_fr": "M<0004> Lapinou"
     },
     {
         "id": 168,
@@ -1373,7 +1373,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Ms<0004>[SP]Reiko",
-        "texte_fr": ""
+        "texte_fr": "Ms<0004> Reiko"
     },
     {
         "id": 172,
@@ -1381,7 +1381,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Tailor",
-        "texte_fr": ""
+        "texte_fr": "Cout."
     },
     {
         "id": 173,
@@ -1389,7 +1389,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Master",
-        "texte_fr": ""
+        "texte_fr": "Maitre"
     },
     {
         "id": 174,
@@ -1397,7 +1397,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Lazy[SP]boy",
-        "texte_fr": ""
+        "texte_fr": "Flemmard"
     },
     {
         "id": 175,
@@ -1405,7 +1405,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Esthetique",
-        "texte_fr": ""
+        "texte_fr": "Esthetique"
     },
     {
         "id": 176,
@@ -1413,7 +1413,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Garcon[SP]Soejima",
-        "texte_fr": ""
+        "texte_fr": "Garçon Soejima"
     },
     {
         "id": 177,
@@ -1421,7 +1421,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Part<timer",
-        "texte_fr": ""
+        "texte_fr": "Intérimaire"
     },
     {
         "id": 178,
@@ -1429,7 +1429,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Bro",
-        "texte_fr": ""
+        "texte_fr": "Mec"
     },
     {
         "id": 179,
@@ -1437,7 +1437,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Saleswoman",
-        "texte_fr": ""
+        "texte_fr": "Vendeuse"
     },
     {
         "id": 180,
@@ -1445,7 +1445,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Tony",
-        "texte_fr": ""
+        "texte_fr": "Tony"
     },
     {
         "id": 181,
@@ -1453,7 +1453,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Mr<0004>[SP]Tomi",
-        "texte_fr": ""
+        "texte_fr": "M. Tomi"
     },
     {
         "id": 182,
@@ -1461,7 +1461,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Whistler",
-        "texte_fr": ""
+        "texte_fr": "Siffleur"
     },
     {
         "id": 183,
@@ -1469,7 +1469,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Ma&am",
-        "texte_fr": ""
+        "texte_fr": "Patronne"
     },
     {
         "id": 184,
@@ -1477,7 +1477,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Nameless",
-        "texte_fr": ""
+        "texte_fr": "Nameless"
     },
     {
         "id": 185,
@@ -1485,7 +1485,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Belladonna",
-        "texte_fr": ""
+        "texte_fr": "Belladonna"
     },
     {
         "id": 186,
@@ -1493,7 +1493,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Demon[SP]Painter",
-        "texte_fr": ""
+        "texte_fr": "Demon Painter"
     },
     {
         "id": 187,
@@ -1501,7 +1501,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Igor",
-        "texte_fr": ""
+        "texte_fr": "Igor"
     },
     {
         "id": 188,
@@ -1509,7 +1509,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Miss[SP]Kaori",
-        "texte_fr": ""
+        "texte_fr": "Mlle Kaori"
     },
     {
         "id": 189,
@@ -1517,7 +1517,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Woman",
-        "texte_fr": ""
+        "texte_fr": "Femme"
     },
     {
         "id": 190,
@@ -1525,7 +1525,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Saleswoman",
-        "texte_fr": ""
+        "texte_fr": "Vendeuse"
     },
     {
         "id": 191,
@@ -1533,7 +1533,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Count",
-        "texte_fr": ""
+        "texte_fr": "Comte"
     },
     {
         "id": 192,
@@ -1541,7 +1541,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Employee",
-        "texte_fr": ""
+        "texte_fr": "Employée"
     },
     {
         "id": 193,
@@ -1549,7 +1549,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Manager",
-        "texte_fr": ""
+        "texte_fr": "Gérant"
     },
     {
         "id": 194,
@@ -1557,7 +1557,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Trish",
-        "texte_fr": ""
+        "texte_fr": "Trish"
     },
     {
         "id": 195,
@@ -1565,7 +1565,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Philemon",
-        "texte_fr": ""
+        "texte_fr": "Philémon"
     },
     {
         "id": 196,
@@ -1573,7 +1573,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Meteor[SP]Masa",
-        "texte_fr": ""
+        "texte_fr": "Meteor Masa"
     },
     {
         "id": 197,
@@ -1581,7 +1581,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Head[SP]monk",
-        "texte_fr": ""
+        "texte_fr": "Maître"
     },
     {
         "id": 198,
@@ -1589,7 +1589,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Chief[SP]Todoroki",
-        "texte_fr": ""
+        "texte_fr": "Chef Todoroki"
     },
     {
         "id": 199,
@@ -1597,7 +1597,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Tadashi",
-        "texte_fr": ""
+        "texte_fr": "Tadashi"
     },
     {
         "id": 200,
@@ -1605,7 +1605,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Tamaki",
-        "texte_fr": ""
+        "texte_fr": "Tamaki"
     },
     {
         "id": 201,
@@ -1621,7 +1621,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Maki",
-        "texte_fr": ""
+        "texte_fr": "Maki"
     },
     {
         "id": 203,
@@ -1629,7 +1629,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Reiji",
-        "texte_fr": ""
+        "texte_fr": "Reiji"
     },
     {
         "id": 204,
@@ -1637,7 +1637,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Nanjo",
-        "texte_fr": ""
+        "texte_fr": "Nanjo"
     },
     {
         "id": 205,
@@ -1645,7 +1645,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Brown",
-        "texte_fr": ""
+        "texte_fr": "Brown"
     },
     {
         "id": 206,
@@ -1653,7 +1653,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Elly",
-        "texte_fr": ""
+        "texte_fr": "Elly"
     },
     {
         "id": 207,
@@ -1661,7 +1661,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Ulala",
-        "texte_fr": ""
+        "texte_fr": "Ulala"
     },
     {
         "id": 208,
@@ -1669,7 +1669,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Kaoru",
-        "texte_fr": ""
+        "texte_fr": "Kaoru"
     },
     {
         "id": 209,
@@ -1677,7 +1677,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Katsuya",
-        "texte_fr": ""
+        "texte_fr": "Katsuya"
     },
     {
         "id": 210,
@@ -1693,7 +1693,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Jun&s[SP]mother",
-        "texte_fr": ""
+        "texte_fr": "Mère de Jun"
     },
     {
         "id": 212,
@@ -1701,7 +1701,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Ginko&s[SP]father",
-        "texte_fr": ""
+        "texte_fr": "Père de Ginko"
     },
     {
         "id": 213,
@@ -1717,7 +1717,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Eikichi&s[SP]father",
-        "texte_fr": ""
+        "texte_fr": "Père d'Eikichi"
     },
     {
         "id": 215,
@@ -1725,7 +1725,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "False[SP]Amano",
-        "texte_fr": ""
+        "texte_fr": "Fausse Amano"
     },
     {
         "id": 216,
@@ -1733,7 +1733,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Maya&s[SP]father",
-        "texte_fr": ""
+        "texte_fr": "Père de Maya"
     },
     {
         "id": 217,
@@ -1741,7 +1741,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Shunsuke",
-        "texte_fr": ""
+        "texte_fr": "Shunsuke"
     },
     {
         "id": 218,
@@ -1749,7 +1749,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Queen[SP]Aquarius",
-        "texte_fr": ""
+        "texte_fr": "Reine Verseau"
     },
     {
         "id": 219,
@@ -1757,7 +1757,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Prince[SP]Taurus",
-        "texte_fr": ""
+        "texte_fr": "Prince Taureau"
     },
     {
         "id": 220,
@@ -1765,7 +1765,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "King[SP]Leo",
-        "texte_fr": ""
+        "texte_fr": "Roi Lion"
     },
     {
         "id": 221,
@@ -1773,7 +1773,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Lady[SP]Scorpio",
-        "texte_fr": ""
+        "texte_fr": "Dame Scorpion"
     },
     {
         "id": 222,
@@ -1781,7 +1781,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Longinus[SP]T13",
-        "texte_fr": ""
+        "texte_fr": "Longinus T13"
     },
     {
         "id": 223,
@@ -1789,7 +1789,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Longinus[SP]T12",
-        "texte_fr": ""
+        "texte_fr": "Longinus T12"
     },
     {
         "id": 224,
@@ -1797,7 +1797,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Longinus[SP]T11",
-        "texte_fr": ""
+        "texte_fr": "Longinus T11"
     },
     {
         "id": 225,
@@ -1805,7 +1805,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Longinus[SP]T10",
-        "texte_fr": ""
+        "texte_fr": "Longinus T10"
     },
     {
         "id": 226,
@@ -1813,7 +1813,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Longinus[SP]T9",
-        "texte_fr": ""
+        "texte_fr": "Longinus T9"
     },
     {
         "id": 227,
@@ -1821,7 +1821,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Longinus[SP]T8",
-        "texte_fr": ""
+        "texte_fr": "Longinus T8"
     },
     {
         "id": 228,
@@ -1829,7 +1829,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Longinus[SP]T7",
-        "texte_fr": ""
+        "texte_fr": "Longinus T7"
     },
     {
         "id": 229,
@@ -1837,7 +1837,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Longinus[SP]T6",
-        "texte_fr": ""
+        "texte_fr": "Longinus T6"
     },
     {
         "id": 230,
@@ -1845,7 +1845,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Longinus[SP]T5",
-        "texte_fr": ""
+        "texte_fr": "Longinus T5"
     },
     {
         "id": 231,
@@ -1853,7 +1853,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Longinus[SP]T4",
-        "texte_fr": ""
+        "texte_fr": "Longinus T4"
     },
     {
         "id": 232,
@@ -1861,7 +1861,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Longinus[SP]T3",
-        "texte_fr": ""
+        "texte_fr": "Longinus T3"
     },
     {
         "id": 233,
@@ -1869,7 +1869,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Longinus[SP]T2",
-        "texte_fr": ""
+        "texte_fr": "Longinus T2"
     },
     {
         "id": 234,
@@ -1877,7 +1877,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Longinus[SP]T1",
-        "texte_fr": ""
+        "texte_fr": "Longinus T1"
     },
     {
         "id": 235,
@@ -1885,7 +1885,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Fuhrer",
-        "texte_fr": ""
+        "texte_fr": "Führer"
     },
     {
         "id": 236,
@@ -1893,7 +1893,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Joker",
-        "texte_fr": ""
+        "texte_fr": "Joker"
     },
     {
         "id": 237,
@@ -1901,7 +1901,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Ixquic",
-        "texte_fr": ""
+        "texte_fr": "Ixquic"
     },
     {
         "id": 238,
@@ -1909,7 +1909,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Akari",
-        "texte_fr": ""
+        "texte_fr": "Akari"
     },
     {
         "id": 239,
@@ -1917,7 +1917,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Ginji",
-        "texte_fr": ""
+        "texte_fr": "Ginji"
     },
     {
         "id": 240,
@@ -1925,7 +1925,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Tatsuya",
-        "texte_fr": ""
+        "texte_fr": "Tatsuya"
     },
     {
         "id": 241,
@@ -1933,7 +1933,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Handsome[SP]man",
-        "texte_fr": ""
+        "texte_fr": "Bel homme"
     },
     {
         "id": 242,
@@ -1941,7 +1941,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Female[SP]student",
-        "texte_fr": ""
+        "texte_fr": "Lycéenne"
     },
     {
         "id": 243,
@@ -1949,7 +1949,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Male[SP]student",
-        "texte_fr": ""
+        "texte_fr": "Lycéen"
     },
     {
         "id": 244,
@@ -1957,7 +1957,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Female[SP]student",
-        "texte_fr": ""
+        "texte_fr": "Lycéenne"
     },
     {
         "id": 245,
@@ -1965,7 +1965,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Male[SP]student",
-        "texte_fr": ""
+        "texte_fr": "Lycéen"
     },
     {
         "id": 246,
@@ -1973,7 +1973,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Ken",
-        "texte_fr": ""
+        "texte_fr": "Ken"
     },
     {
         "id": 247,
@@ -1981,7 +1981,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Leader",
-        "texte_fr": ""
+        "texte_fr": "Leader"
     },
     {
         "id": 248,
@@ -1989,7 +1989,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Yasuo",
-        "texte_fr": ""
+        "texte_fr": "Yasuo"
     },
     {
         "id": 249,
@@ -1997,7 +1997,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Female[SP]student",
-        "texte_fr": ""
+        "texte_fr": "Lycéenne"
     },
     {
         "id": 250,
@@ -2013,7 +2013,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Anna",
-        "texte_fr": ""
+        "texte_fr": "Anna"
     },
     {
         "id": 252,
@@ -2021,7 +2021,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Miho",
-        "texte_fr": ""
+        "texte_fr": "Miho"
     },
     {
         "id": 253,
@@ -2029,7 +2029,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Mami",
-        "texte_fr": ""
+        "texte_fr": "Mami"
     },
     {
         "id": 254,
@@ -2037,7 +2037,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Miyabi",
-        "texte_fr": ""
+        "texte_fr": "Miyabi"
     },
     {
         "id": 255,
@@ -2045,7 +2045,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Kozy",
-        "texte_fr": ""
+        "texte_fr": "Kozy"
     },
     {
         "id": 256,
@@ -2053,7 +2053,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Teacher[SP]in[SP]white",
-        "texte_fr": ""
+        "texte_fr": "Prof. en blanc"
     },
     {
         "id": 257,
@@ -2061,7 +2061,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Female[SP]teacher",
-        "texte_fr": ""
+        "texte_fr": "Professeure"
     },
     {
         "id": 258,
@@ -2069,7 +2069,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Male[SP]teacher",
-        "texte_fr": ""
+        "texte_fr": "Professeur"
     },
     {
         "id": 259,
@@ -2077,7 +2077,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "False[SP]Kashihara",
-        "texte_fr": ""
+        "texte_fr": "Faux Kashihara"
     },
     {
         "id": 260,
@@ -2085,7 +2085,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Mr<0004>[SP]Kashihara",
-        "texte_fr": ""
+        "texte_fr": "M. Kashihara"
     },
     {
         "id": 261,
@@ -2093,7 +2093,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Ms<0004>[SP]Ideal",
-        "texte_fr": ""
+        "texte_fr": "Mme Idéale"
     },
     {
         "id": 262,
@@ -2101,7 +2101,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Ms<0004>[SP]Saeko",
-        "texte_fr": ""
+        "texte_fr": "Mme Saeko"
     },
     {
         "id": 263,
@@ -2109,7 +2109,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Principal[SP]Hanya",
-        "texte_fr": ""
+        "texte_fr": "Proviseur Hanya"
     },
     {
         "id": 264,
@@ -2117,7 +2117,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Jun",
-        "texte_fr": ""
+        "texte_fr": "Jun"
     },
     {
         "id": 265,
@@ -2125,7 +2125,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Shadow[SP]Yukino",
-        "texte_fr": ""
+        "texte_fr": "Ombre de Yukino"
     },
     {
         "id": 266,
@@ -2133,7 +2133,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Yukino",
-        "texte_fr": ""
+        "texte_fr": "Yukino"
     },
     {
         "id": 267,
@@ -2141,7 +2141,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Shadow[SP]Maya",
-        "texte_fr": ""
+        "texte_fr": "Ombre de Maya"
     },
     {
         "id": 268,
@@ -2149,7 +2149,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Maya",
-        "texte_fr": ""
+        "texte_fr": "Maya"
     },
     {
         "id": 269,
@@ -2157,7 +2157,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Shadow[SP]Eikichi",
-        "texte_fr": ""
+        "texte_fr": "Ombre d'Eikichi"
     },
     {
         "id": 270,
@@ -2165,7 +2165,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Eikichi",
-        "texte_fr": ""
+        "texte_fr": "Eikichi"
     },
     {
         "id": 271,
@@ -2173,7 +2173,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Shadow[SP]Ginko",
-        "texte_fr": ""
+        "texte_fr": "Ombre de Ginko"
     },
     {
         "id": 272,
@@ -2181,7 +2181,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Ginko",
-        "texte_fr": ""
+        "texte_fr": "Ginko"
     },
     {
         "id": 273,
@@ -2189,7 +2189,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Shadow[SP]Tatsuya",
-        "texte_fr": ""
+        "texte_fr": "Ombre de Tatsuya"
     },
     {
         "id": 274,
@@ -2197,7 +2197,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Tatsuya",
-        "texte_fr": ""
+        "texte_fr": "Tatsuya"
     },
     {
         "id": 275,
@@ -2213,7 +2213,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Sevens[SP]emblem",
-        "texte_fr": ""
+        "texte_fr": "Sept emblèmes"
     },
     {
         "id": 277,
@@ -2221,7 +2221,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Camera",
-        "texte_fr": ""
+        "texte_fr": "Caméra"
     },
     {
         "id": 278,
@@ -2237,7 +2237,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Cell[SP]Phone",
-        "texte_fr": ""
+        "texte_fr": "Portable"
     },
     {
         "id": 280,
@@ -2253,7 +2253,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Trigger[SP]Device",
-        "texte_fr": ""
+        "texte_fr": "Déclencheur"
     },
     {
         "id": 282,
@@ -2261,7 +2261,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Walkie<talkie",
-        "texte_fr": ""
+        "texte_fr": "Talkie-walkie"
     },
     {
         "id": 283,
@@ -2269,7 +2269,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Flower",
-        "texte_fr": ""
+        "texte_fr": "Fleur"
     },
     {
         "id": 284,
@@ -2293,7 +2293,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Wristwatch",
-        "texte_fr": ""
+        "texte_fr": "Montre"
     },
     {
         "id": 287,
@@ -2301,7 +2301,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Lighter",
-        "texte_fr": ""
+        "texte_fr": "Briquet"
     },
     {
         "id": 288,
@@ -2309,7 +2309,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Mr<0004>[SP]Bunbun",
-        "texte_fr": ""
+        "texte_fr": "M. Lapinou"
     },
     {
         "id": 289,
@@ -2317,7 +2317,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Female[SP]silhouette",
-        "texte_fr": ""
+        "texte_fr": "Silhouette féminine"
     },
     {
         "id": 290,
@@ -2325,7 +2325,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Male[SP]silhouette",
-        "texte_fr": ""
+        "texte_fr": "Silhouette masculine"
     },
     {
         "id": 291,
@@ -2357,7 +2357,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Miss[SP]Reiko",
-        "texte_fr": ""
+        "texte_fr": "Mme Raiko"
     },
     {
         "id": 295,
@@ -2365,7 +2365,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Tailor",
-        "texte_fr": ""
+        "texte_fr": "Cout."
     },
     {
         "id": 296,
@@ -2373,7 +2373,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Master",
-        "texte_fr": ""
+        "texte_fr": "Maitre"
     },
     {
         "id": 297,
@@ -2389,7 +2389,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Esthetique",
-        "texte_fr": ""
+        "texte_fr": "Esthetique"
     },
     {
         "id": 299,
@@ -2397,7 +2397,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Garcon[SP]Soejima",
-        "texte_fr": ""
+        "texte_fr": "Garçon Soejima"
     },
     {
         "id": 300,
@@ -2413,7 +2413,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Bro",
-        "texte_fr": ""
+        "texte_fr": "Mec"
     },
     {
         "id": 302,
@@ -2429,7 +2429,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Tony",
-        "texte_fr": ""
+        "texte_fr": "Tony"
     },
     {
         "id": 304,
@@ -2437,7 +2437,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Mr<0004>[SP]Tomi",
-        "texte_fr": ""
+        "texte_fr": "M. Tomi"
     },
     {
         "id": 305,
@@ -2445,7 +2445,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Whistler",
-        "texte_fr": ""
+        "texte_fr": "Siffleur"
     },
     {
         "id": 306,
@@ -2453,7 +2453,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Ma&am",
-        "texte_fr": ""
+        "texte_fr": "Patronne"
     },
     {
         "id": 307,
@@ -2461,7 +2461,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Nameless",
-        "texte_fr": ""
+        "texte_fr": "Nameless"
     },
     {
         "id": 308,
@@ -2469,7 +2469,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Belladonna",
-        "texte_fr": ""
+        "texte_fr": "Belladonna"
     },
     {
         "id": 309,
@@ -2477,7 +2477,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Demon[SP]Painter",
-        "texte_fr": ""
+        "texte_fr": "Demon Painter"
     },
     {
         "id": 310,
@@ -2485,7 +2485,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Igor",
-        "texte_fr": ""
+        "texte_fr": "Igor"
     },
     {
         "id": 311,
@@ -2493,7 +2493,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Miss[SP]Kaori",
-        "texte_fr": ""
+        "texte_fr": "Mlle Kaori"
     },
     {
         "id": 312,
@@ -2525,7 +2525,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Count",
-        "texte_fr": ""
+        "texte_fr": "Compte"
     },
     {
         "id": 316,
@@ -2533,7 +2533,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "Giga[SP]Macho[SP]employee",
-        "texte_fr": ""
+        "texte_fr": "Employé à Giga Macho"
     },
     {
         "id": 317,
@@ -2549,7 +2549,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Trish",
-        "texte_fr": ""
+        "texte_fr": "Trish"
     },
     {
         "id": 319,
@@ -2557,7 +2557,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Philemon",
-        "texte_fr": ""
+        "texte_fr": "Philémon"
     },
     {
         "id": 320,
@@ -2565,7 +2565,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Meteor[SP]Masa",
-        "texte_fr": ""
+        "texte_fr": "Meteor Masa"
     },
     {
         "id": 321,
@@ -2573,7 +2573,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Head[SP]Monk",
-        "texte_fr": ""
+        "texte_fr": "Maître"
     },
     {
         "id": 322,
@@ -2581,7 +2581,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Chief[SP]Todoroki",
-        "texte_fr": ""
+        "texte_fr": "Chef Todoroki"
     },
     {
         "id": 323,
@@ -2589,7 +2589,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Tadashi",
-        "texte_fr": ""
+        "texte_fr": "Tadashi"
     },
     {
         "id": 324,
@@ -2597,7 +2597,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Tamaki",
-        "texte_fr": ""
+        "texte_fr": "Tamaki"
     },
     {
         "id": 325,
@@ -2605,7 +2605,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Kenta[SP]Yokouchi",
-        "texte_fr": ""
+        "texte_fr": "Kenta Yokouchi"
     },
     {
         "id": 326,
@@ -2613,7 +2613,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Maki[SP]Okamura",
-        "texte_fr": ""
+        "texte_fr": "Maki Okamura"
     },
     {
         "id": 327,
@@ -2621,7 +2621,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Reiji[SP]Kido",
-        "texte_fr": ""
+        "texte_fr": "Reiji Kido"
     },
     {
         "id": 328,
@@ -2629,7 +2629,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Hidehiko[SP]Uesugi",
-        "texte_fr": ""
+        "texte_fr": "Hidehiko Uesugi"
     },
     {
         "id": 329,
@@ -2637,7 +2637,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Eriko[SP]Kirishima",
-        "texte_fr": ""
+        "texte_fr": "Eriko Kirishima"
     },
     {
         "id": 330,
@@ -2645,7 +2645,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Ulala[SP]Serizawa",
-        "texte_fr": ""
+        "texte_fr": "Ulala Serizawa"
     },
     {
         "id": 331,
@@ -2653,7 +2653,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Kaoru[SP]Saga",
-        "texte_fr": ""
+        "texte_fr": "Kaoru Saga"
     },
     {
         "id": 332,
@@ -2661,7 +2661,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Katsuya[SP]Suou",
-        "texte_fr": ""
+        "texte_fr": "Katsuya Suou"
     },
     {
         "id": 333,
@@ -2669,7 +2669,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Junko[SP]Kurosu",
-        "texte_fr": ""
+        "texte_fr": "Junko Kurosu"
     },
     {
         "id": 334,
@@ -2677,7 +2677,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Steven[SP]Silverman",
-        "texte_fr": ""
+        "texte_fr": "Steven Silverman"
     },
     {
         "id": 335,
@@ -2685,7 +2685,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Kankichi[SP]Mishina",
-        "texte_fr": ""
+        "texte_fr": "Kankichi Mishina"
     },
     {
         "id": 336,
@@ -2693,7 +2693,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Masataka[SP]Amano",
-        "texte_fr": ""
+        "texte_fr": "Masataka Amano"
     },
     {
         "id": 337,
@@ -2701,7 +2701,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Shunsuke[SP]Fujii",
-        "texte_fr": ""
+        "texte_fr": "Shunsuke Fujii"
     },
     {
         "id": 338,
@@ -2709,7 +2709,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Ixquic",
-        "texte_fr": ""
+        "texte_fr": "Ixquic"
     },
     {
         "id": 339,
@@ -2717,7 +2717,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Queen[SP]Aquarius",
-        "texte_fr": ""
+        "texte_fr": "Reine Verseau"
     },
     {
         "id": 340,
@@ -2725,7 +2725,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Prince[SP]Taurus",
-        "texte_fr": ""
+        "texte_fr": "Prince Taureau"
     },
     {
         "id": 341,
@@ -2733,7 +2733,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "King[SP]Leo",
-        "texte_fr": ""
+        "texte_fr": "Roi Lion"
     },
     {
         "id": 342,
@@ -2741,7 +2741,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Lady[SP]Scorpio",
-        "texte_fr": ""
+        "texte_fr": "Dame Scorpion"
     },
     {
         "id": 343,
@@ -2749,7 +2749,7 @@
         "data_size": 46,
         "slot_size": 46,
         "texte_orig": "Order[SP]of[SP]the[SP]Holy[SP]Lance",
-        "texte_fr": ""
+        "texte_fr": "Ordre de lance sacrée"
     },
     {
         "id": 344,
@@ -2757,7 +2757,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Fuhrer",
-        "texte_fr": ""
+        "texte_fr": "Führer"
     },
     {
         "id": 345,
@@ -2765,7 +2765,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Joker",
-        "texte_fr": ""
+        "texte_fr": "Joker"
     },
     {
         "id": 346,
@@ -2773,7 +2773,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Akari[SP]Hoshi",
-        "texte_fr": ""
+        "texte_fr": "Akari Hoshi"
     },
     {
         "id": 347,
@@ -2781,7 +2781,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Ginji[SP]Sasaki",
-        "texte_fr": ""
+        "texte_fr": "Ginji Sasaki"
     },
     {
         "id": 348,
@@ -2789,7 +2789,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Tatsuya[SP]Sudou",
-        "texte_fr": ""
+        "texte_fr": "Tatsuya Sudou"
     },
     {
         "id": 349,
@@ -2797,7 +2797,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Youichi[SP]Makimura",
-        "texte_fr": ""
+        "texte_fr": "Youichi Makimura"
     },
     {
         "id": 350,
@@ -2805,7 +2805,7 @@
         "data_size": 50,
         "slot_size": 50,
         "texte_orig": "Karukozaka[SP]female[SP]student",
-        "texte_fr": ""
+        "texte_fr": "Lycéenne à Karukozaka"
     },
     {
         "id": 351,
@@ -2813,7 +2813,7 @@
         "data_size": 46,
         "slot_size": 46,
         "texte_orig": "Karukozaka[SP]male[SP]student",
-        "texte_fr": ""
+        "texte_fr": "Lycéen à Karukozaka"
     },
     {
         "id": 352,
@@ -2821,7 +2821,7 @@
         "data_size": 54,
         "slot_size": 54,
         "texte_orig": "St<0004>[SP]Hermelin[SP]female[SP]student",
-        "texte_fr": ""
+        "texte_fr": "Lycéenne à St Hermelin"
     },
     {
         "id": 353,
@@ -2829,7 +2829,7 @@
         "data_size": 50,
         "slot_size": 50,
         "texte_orig": "St<0004>[SP]Hermelin[SP]male[SP]student",
-        "texte_fr": ""
+        "texte_fr": "Lycéen à St Hermelin"
     },
     {
         "id": 354,
@@ -2837,7 +2837,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Ken",
-        "texte_fr": ""
+        "texte_fr": "Ken"
     },
     {
         "id": 355,
@@ -2845,7 +2845,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Hiroki[SP]Sugimoto",
-        "texte_fr": ""
+        "texte_fr": "Kiroki Sugimoto"
     },
     {
         "id": 356,
@@ -2853,7 +2853,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Yasuo[SP]Inoue",
-        "texte_fr": ""
+        "texte_fr": "Yasuo Inoue"
     },
     {
         "id": 357,
@@ -2861,7 +2861,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Ill[SP]student",
-        "texte_fr": ""
+        "texte_fr": "Lyc. malade"
     },
     {
         "id": 358,
@@ -2869,7 +2869,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Chika[SP]Ueda",
-        "texte_fr": ""
+        "texte_fr": "Chika Ueda"
     },
     {
         "id": 359,
@@ -2877,7 +2877,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Anna[SP]Yoshizaka",
-        "texte_fr": ""
+        "texte_fr": "Anna Yoshizaka"
     },
     {
         "id": 360,
@@ -2885,7 +2885,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Miho[SP]Ogishima",
-        "texte_fr": ""
+        "texte_fr": "Miho Ogishima"
     },
     {
         "id": 361,
@@ -2893,7 +2893,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Mami[SP]Shibata",
-        "texte_fr": ""
+        "texte_fr": "Mami Shibata"
     },
     {
         "id": 362,
@@ -2901,7 +2901,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Miyabi[SP]Hanakouji",
-        "texte_fr": ""
+        "texte_fr": "Miyabi Hanakouji"
     },
     {
         "id": 363,
@@ -2909,7 +2909,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Teacher[SP]in[SP]white",
-        "texte_fr": ""
+        "texte_fr": "Prof. en blanc"
     },
     {
         "id": 364,
@@ -2917,7 +2917,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Female[SP]teacher",
-        "texte_fr": ""
+        "texte_fr": "Professeure"
     },
     {
         "id": 365,
@@ -2925,7 +2925,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Male[SP]teacher",
-        "texte_fr": ""
+        "texte_fr": "Professeur"
     },
     {
         "id": 366,
@@ -2933,7 +2933,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Akinari[SP]Kashihara",
-        "texte_fr": ""
+        "texte_fr": "Akinari Kashihara"
     },
     {
         "id": 367,
@@ -2941,7 +2941,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Maya[SP]Okamura",
-        "texte_fr": ""
+        "texte_fr": "Maya Okaruma"
     },
     {
         "id": 368,
@@ -2949,7 +2949,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Saeko[SP]Takami",
-        "texte_fr": ""
+        "texte_fr": "Saeko Takami"
     },
     {
         "id": 369,
@@ -2957,7 +2957,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Takashi[SP]Hanya",
-        "texte_fr": ""
+        "texte_fr": "Takashi Hanya"
     },
     {
         "id": 370,
@@ -2965,7 +2965,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Jun[SP]Kurosu",
-        "texte_fr": ""
+        "texte_fr": "Jun Kurosu"
     },
     {
         "id": 371,
@@ -2973,7 +2973,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Yukino[SP]Mayuzumi",
-        "texte_fr": ""
+        "texte_fr": "Yukino Mayuzumi"
     },
     {
         "id": 372,
@@ -2981,7 +2981,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Maya[SP]Amano",
-        "texte_fr": ""
+        "texte_fr": "Maya Amano"
     },
     {
         "id": 373,
@@ -2989,7 +2989,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Eikichi[SP]Mishina",
-        "texte_fr": ""
+        "texte_fr": "Eikichi Mishina"
     },
     {
         "id": 374,
@@ -2997,7 +2997,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Lisa[SP]Silverman",
-        "texte_fr": ""
+        "texte_fr": "Lisa Silverman"
     },
     {
         "id": 375,
@@ -3005,7 +3005,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Tatsuya[SP]Suou",
-        "texte_fr": ""
+        "texte_fr": "Tatsuya Suou"
     },
     {
         "id": 376,
@@ -3021,7 +3021,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE31<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE31<FF03>"
     },
     {
         "id": 378,
@@ -3029,7 +3029,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE30<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE30<FF03>"
     },
     {
         "id": 379,
@@ -3037,7 +3037,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE29<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE29<FF03>"
     },
     {
         "id": 380,
@@ -3045,7 +3045,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE28<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE28<FF03>"
     },
     {
         "id": 381,
@@ -3053,7 +3053,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE27<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE27<FF03>"
     },
     {
         "id": 382,
@@ -3061,7 +3061,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE26<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE26<FF03>"
     },
     {
         "id": 383,
@@ -3069,7 +3069,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE25<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE25<FF03>"
     },
     {
         "id": 384,
@@ -3077,7 +3077,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE24<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE24<FF03>"
     },
     {
         "id": 385,
@@ -3085,7 +3085,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE23<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE23<FF03>"
     },
     {
         "id": 386,
@@ -3093,7 +3093,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE22<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE22<FF03>"
     },
     {
         "id": 387,
@@ -3101,7 +3101,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE21<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE21<FF03>"
     },
     {
         "id": 388,
@@ -3109,7 +3109,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE20<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE20<FF03>"
     },
     {
         "id": 389,
@@ -3117,7 +3117,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE19<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE19<FF03>"
     },
     {
         "id": 390,
@@ -3125,7 +3125,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE18<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE18<FF03>"
     },
     {
         "id": 391,
@@ -3133,7 +3133,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE17<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE17<FF03>"
     },
     {
         "id": 392,
@@ -3141,7 +3141,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE16<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE16<FF03>"
     },
     {
         "id": 393,
@@ -3149,7 +3149,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE15<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE15<FF03>"
     },
     {
         "id": 394,
@@ -3157,7 +3157,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE14<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE14<FF03>"
     },
     {
         "id": 395,
@@ -3165,7 +3165,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE13<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE13<FF03>"
     },
     {
         "id": 396,
@@ -3173,7 +3173,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE12<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE12<FF03>"
     },
     {
         "id": 397,
@@ -3181,7 +3181,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE11<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE11<FF03>"
     },
     {
         "id": 398,
@@ -3189,7 +3189,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE10<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE10<FF03>"
     },
     {
         "id": 399,
@@ -3197,7 +3197,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE09<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE09<FF03>"
     },
     {
         "id": 400,
@@ -3205,7 +3205,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE08<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE08<FF03>"
     },
     {
         "id": 401,
@@ -3213,7 +3213,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "SE07<FF03>",
-        "texte_fr": ""
+        "texte_fr": "SE07<FF03>"
     },
     {
         "id": 402,
@@ -3269,7 +3269,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Door<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Porte<FF03>"
     },
     {
         "id": 409,
@@ -3277,7 +3277,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM31<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM31<FF03>"
     },
     {
         "id": 410,
@@ -3285,7 +3285,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM31<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM31<FF03>"
     },
     {
         "id": 411,
@@ -3293,7 +3293,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM31<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM31<FF03>"
     },
     {
         "id": 412,
@@ -3301,7 +3301,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM30<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM30<FF03>"
     },
     {
         "id": 413,
@@ -3309,7 +3309,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM29<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM29<FF03>"
     },
     {
         "id": 414,
@@ -3317,7 +3317,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM28<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM28<FF03>"
     },
     {
         "id": 415,
@@ -3325,7 +3325,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM27<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM27<FF03>"
     },
     {
         "id": 416,
@@ -3333,7 +3333,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM26<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM26<FF03>"
     },
     {
         "id": 417,
@@ -3341,7 +3341,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM25<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM25<FF03>"
     },
     {
         "id": 418,
@@ -3349,7 +3349,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM24<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM24<FF03>"
     },
     {
         "id": 419,
@@ -3357,7 +3357,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM23<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM23<FF03>"
     },
     {
         "id": 420,
@@ -3365,7 +3365,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM22<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM22<FF03>"
     },
     {
         "id": 421,
@@ -3373,7 +3373,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM21<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM21<FF03>"
     },
     {
         "id": 422,
@@ -3381,7 +3381,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM20<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM20<FF03>"
     },
     {
         "id": 423,
@@ -3389,7 +3389,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM19<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM19<FF03>"
     },
     {
         "id": 424,
@@ -3397,7 +3397,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM18<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM18<FF03>"
     },
     {
         "id": 425,
@@ -3405,7 +3405,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM17<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM17<FF03>"
     },
     {
         "id": 426,
@@ -3413,7 +3413,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM16<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM16<FF03>"
     },
     {
         "id": 427,
@@ -3421,7 +3421,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "BGM15<FF03>",
-        "texte_fr": ""
+        "texte_fr": "BGM15<FF03>"
     },
     {
         "id": 428,
@@ -3477,7 +3477,7 @@
         "data_size": 46,
         "slot_size": 46,
         "texte_orig": "Karukozaka[SP]Netherworld<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Enfer de Karukozaka<FF03>"
     },
     {
         "id": 435,
@@ -3485,7 +3485,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Karukozaka[SP]Normal<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Surface de Karukozaka<FF03>"
     },
     {
         "id": 436,
@@ -3493,7 +3493,7 @@
         "data_size": 50,
         "slot_size": 50,
         "texte_orig": "St<0004>[SP]Hermelin[SP]Netherworld<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Enfer de St<0004> Hermlin<FF03>"
     },
     {
         "id": 437,
@@ -3501,7 +3501,7 @@
         "data_size": 40,
         "slot_size": 40,
         "texte_orig": "St<0004>[SP]Hermelin[SP]Normal<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Surface de St<0004> Hermelin<FF03>"
     },
     {
         "id": 438,
@@ -3509,7 +3509,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Boss[SP]Event<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Évèn. Boss<FF03>"
     },
     {
         "id": 439,
@@ -3517,7 +3517,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Boss[SP]Battle<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Cmbt Boss<FF03>"
     },
     {
         "id": 440,
@@ -3525,7 +3525,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Normal[SP]Battle<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Cmbt Normal<FF03>"
     },
     {
         "id": 441,
@@ -3533,7 +3533,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "None<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Aucun<FF03>"
     },
     {
         "id": 442,
@@ -3541,7 +3541,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Increases[SP]all[SP]of[SP]a[SP]Persona&s<FF03>stats[SP]by[SP]4<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Stats d'un Persona<FF03>augmentée par 4<0004><FF03>"
     },
     {
         "id": 443,
@@ -3549,7 +3549,7 @@
         "data_size": 76,
         "slot_size": 76,
         "texte_orig": "Increases[SP]a[SP]Persona&s[SP]Luck<FF03>stat[SP]by[SP]8<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Chance d'un Persona<FF03>augmentée par 8<0004><FF03>"
     },
     {
         "id": 444,
@@ -3557,7 +3557,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Increases[SP]a[SP]Persona&s[SP]Agility<FF03>stat[SP]by[SP]8<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Agilité d'un Persona<FF03>augmentée par 8<0004><FF03>"
     },
     {
         "id": 445,
@@ -3565,7 +3565,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "Increases[SP]a[SP]Persona&s[SP]Dexterity<FF03>stat[SP]by[SP]8<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Dextérité d'un Persona<FF03>augmentée par 8<0004><FF03>"
     },
     {
         "id": 446,
@@ -3573,7 +3573,7 @@
         "data_size": 84,
         "slot_size": 84,
         "texte_orig": "Increases[SP]a[SP]Persona&s[SP]Vitality<FF03>stat[SP]by[SP]8<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Vitalité d'un Persona<FF03>augmenté par 8<0004><FF03>"
     },
     {
         "id": 447,
@@ -3581,7 +3581,7 @@
         "data_size": 84,
         "slot_size": 84,
         "texte_orig": "Increases[SP]a[SP]Persona&s[SP]Strength<FF03>stat[SP]by[SP]8<0004><FF03>",
-        "texte_fr": ""
+        "texte_fr": "Force d'un Persona<FF03>augmenté par 8<0004><FF03>"
     },
     {
         "id": 448,
@@ -4757,7 +4757,7 @@
         "data_size": 40,
         "slot_size": 40,
         "texte_orig": "End[SP]action[SP]settings<0004>",
-        "texte_fr": ""
+        "texte_fr": "Fin action param."
     },
     {
         "id": 595,
@@ -4773,7 +4773,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "View[SP]status[SP]for[SP]",
-        "texte_fr": ""
+        "texte_fr": "Voir le statut de"
     },
     {
         "id": 597,
@@ -4789,7 +4789,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Use[SP]an[SP]item<0004>",
-        "texte_fr": ""
+        "texte_fr": "Utilis. obj.<0004>" 
     },
     {
         "id": 599,
@@ -4885,7 +4885,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Begin[SP]battle<0004>",
-        "texte_fr": ""
+        "texte_fr": "Début. combat<0004>"
     },
     {
         "id": 611,
@@ -4893,7 +4893,7 @@
         "data_size": 48,
         "slot_size": 48,
         "texte_orig": "Adjust[SP]various[SP]settings<0004>",
-        "texte_fr": ""
+        "texte_fr": "Changer les paramètres<0004>"
     },
     {
         "id": 612,
@@ -4901,7 +4901,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Don&t[SP]activate<0004>",
-        "texte_fr": ""
+        "texte_fr": "Ne pas activ.<0004>"
     },
     {
         "id": 613,
@@ -4909,7 +4909,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Stand[SP]by<0004>",
-        "texte_fr": ""
+        "texte_fr": "Préparation<0004>"
     },
     {
         "id": 614,
@@ -4917,7 +4917,7 @@
         "data_size": 46,
         "slot_size": 46,
         "texte_orig": "Automatically[SP]activate<0004>",
-        "texte_fr": ""
+        "texte_fr": "Activation automatique<0004>"
     },
     {
         "id": 615,
@@ -4941,7 +4941,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "Select[SP]battle[SP]mode<0004>",
-        "texte_fr": ""
+        "texte_fr": "Chois. mode de combat<0004>"
     },
     {
         "id": 618,
@@ -4957,7 +4957,7 @@
         "data_size": 70,
         "slot_size": 70,
         "texte_orig": "Select[SP]a[SP]character[SP]to[SP]change[SP]order<0004>",
-        "texte_fr": ""
+        "texte_fr": "Chois. un membre pour changer ordre<0004>"
     },
     {
         "id": 620,
@@ -4965,7 +4965,7 @@
         "data_size": 40,
         "slot_size": 40,
         "texte_orig": "Distribute[SP]3[SP]points<0004>",
-        "texte_fr": ""
+        "texte_fr": "Distribue 3 points<0004>"
     },
     {
         "id": 621,
@@ -4973,7 +4973,7 @@
         "data_size": 52,
         "slot_size": 52,
         "texte_orig": "Select[SP]a[SP]demon[SP]to[SP]analyze<0004>",
-        "texte_fr": ""
+        "texte_fr": "Chois. un démon à analys."
     },
     {
         "id": 622,
@@ -4981,7 +4981,7 @@
         "data_size": 54,
         "slot_size": 54,
         "texte_orig": "Select[SP]a[SP]Persona[SP]to[SP]change<0004>",
-        "texte_fr": ""
+        "texte_fr": "Chois. un Persona pour changer<0004>"
     },
     {
         "id": 623,
@@ -4989,7 +4989,7 @@
         "data_size": 44,
         "slot_size": 44,
         "texte_orig": "Select[SP]an[SP]item[SP]to[SP]use<0004>",
-        "texte_fr": ""
+        "texte_fr": "Chois. un obj.<0004>"
     },
     {
         "id": 624,
@@ -4997,7 +4997,7 @@
         "data_size": 44,
         "slot_size": 44,
         "texte_orig": "Select[SP]a[SP]skill[SP]to[SP]use<0004>",
-        "texte_fr": ""
+        "texte_fr": "Chois. une capacité<0004>"
     },
     {
         "id": 625,
@@ -5005,7 +5005,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Select[SP]a[SP]target<0004>",
-        "texte_fr": ""
+        "texte_fr": "Chois. une cible<0004>"
     },
     {
         "id": 626,
@@ -5013,7 +5013,7 @@
         "data_size": 42,
         "slot_size": 42,
         "texte_orig": "Select[SP]an[SP]action[SP]for[SP]",
-        "texte_fr": ""
+        "texte_fr": "Chois. une action pour"
     },
     {
         "id": 627,
@@ -5029,7 +5029,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Select[SP]an[SP]action<0004>",
-        "texte_fr": ""
+        "texte_fr": "Que faire<0008>"
     },
     {
         "id": 629,
@@ -5037,7 +5037,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "[SP]fell[SP]down<0004>",
-        "texte_fr": ""
+        "texte_fr": "est tombé<0004>"
     },
     {
         "id": 630,
@@ -5045,7 +5045,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "[SP]escaped<0004>",
-        "texte_fr": ""
+        "texte_fr": "a fuit<0004>"
     },
     {
         "id": 631,
@@ -5053,7 +5053,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "No",
-        "texte_fr": ""
+        "texte_fr": "N."
     },
     {
         "id": 632,
@@ -5061,7 +5061,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Yes",
-        "texte_fr": ""
+        "texte_fr": "Oui"
     },
     {
         "id": 633,
@@ -5077,7 +5077,7 @@
         "data_size": 44,
         "slot_size": 44,
         "texte_orig": "&s[SP]party[SP]was[SP]defeated<0004>",
-        "texte_fr": ""
+        "texte_fr": "et son groupe ont été vaincu<0004>"
     },
     {
         "id": 635,
@@ -5085,7 +5085,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "&s[SP]party",
-        "texte_fr": ""
+        "texte_fr": "et son groupe"
     },
     {
         "id": 636,
@@ -5093,7 +5093,7 @@
         "data_size": 50,
         "slot_size": 50,
         "texte_orig": "Hidden[SP]ability[SP]activated<0009>",
-        "texte_fr": ""
+        "texte_fr": "Abilité cachée activée<0009>"
     },
     {
         "id": 637,
@@ -5101,7 +5101,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Is[SP]this[SP]okay<0008>",
-        "texte_fr": ""
+        "texte_fr": "Est-ce bon<0008>"
     },
     {
         "id": 638,
@@ -5109,7 +5109,7 @@
         "data_size": 48,
         "slot_size": 48,
         "texte_orig": "Persona[SP]can[SP]change[SP]form<0004>",
-        "texte_fr": ""
+        "texte_fr": "Le Persona peux muter<0004>"
     },
     {
         "id": 639,
@@ -5117,7 +5117,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Stats[SP]increased<0004>",
-        "texte_fr": ""
+        "texte_fr": "Stat. augmentées<0004>"
     },
     {
         "id": 640,
@@ -5125,7 +5125,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Gained[SP]2[SP]ranks<0004>",
-        "texte_fr": ""
+        "texte_fr": "Gagné 2 ranks<0004>"
     },
     {
         "id": 641,
@@ -5133,7 +5133,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "[SP]has[SP]been[SP]learned<0004>",
-        "texte_fr": ""
+        "texte_fr": " a été appris<0004>"
     },
     {
         "id": 642,
@@ -5141,7 +5141,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Preemptive[SP]attack<0009>",
-        "texte_fr": ""
+        "texte_fr": "Attq. Préventive<0009>"
     },
     {
         "id": 643,
@@ -5149,7 +5149,7 @@
         "data_size": 46,
         "slot_size": 46,
         "texte_orig": "The[SP]enemy[SP]ambushed[SP]you<0009>",
-        "texte_fr": ""
+        "texte_fr": "L'ennemi vous a piégé<0009>"
     },
     {
         "id": 644,
@@ -5157,7 +5157,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Simpleminded",
-        "texte_fr": ""
+        "texte_fr": "Stupide"
     },
     {
         "id": 645,
@@ -5165,7 +5165,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Simpleminded",
-        "texte_fr": ""
+        "texte_fr": "Stupide"
     },
     {
         "id": 646,
@@ -5173,7 +5173,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Indecisive",
-        "texte_fr": ""
+        "texte_fr": "Indécis"
     },
     {
         "id": 647,
@@ -5181,7 +5181,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Self<conscious",
-        "texte_fr": ""
+        "texte_fr": "Complexé"
     },
     {
         "id": 648,
@@ -5189,7 +5189,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Jumpy",
-        "texte_fr": ""
+        "texte_fr": "Agité"
     },
     {
         "id": 649,
@@ -5197,7 +5197,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Lonely",
-        "texte_fr": ""
+        "texte_fr": "Seul"
     },
     {
         "id": 650,
@@ -5205,7 +5205,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Comedian",
-        "texte_fr": ""
+        "texte_fr": "Comédien"
     },
     {
         "id": 651,
@@ -5213,7 +5213,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Steady",
-        "texte_fr": ""
+        "texte_fr": "Rigide"
     },
     {
         "id": 652,
@@ -5221,7 +5221,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Breeder",
-        "texte_fr": ""
+        "texte_fr": "Éleveur"
     },
     {
         "id": 653,
@@ -5229,7 +5229,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Hard<headed",
-        "texte_fr": ""
+        "texte_fr": "Obstiné"
     },
     {
         "id": 654,
@@ -5237,7 +5237,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Patriotic",
-        "texte_fr": ""
+        "texte_fr": "Patriote"
     },
     {
         "id": 655,
@@ -5245,7 +5245,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Neophile",
-        "texte_fr": ""
+        "texte_fr": "Néophile"
     },
     {
         "id": 656,
@@ -5253,7 +5253,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Incoherent",
-        "texte_fr": ""
+        "texte_fr": "Incohérent"
     },
     {
         "id": 657,
@@ -5261,7 +5261,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Maskist",
-        "texte_fr": ""
+        "texte_fr": "Masquage"
     },
     {
         "id": 658,
@@ -5277,7 +5277,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Confirm",
-        "texte_fr": ""
+        "texte_fr": "Confirmer"
     },
     {
         "id": 660,
@@ -5285,7 +5285,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "All[SP]attack",
-        "texte_fr": ""
+        "texte_fr": "Ttes les attaq."
     },
     {
         "id": 661,
@@ -5293,7 +5293,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Save[SP]settings",
-        "texte_fr": ""
+        "texte_fr": "Confirmer"
     },
     {
         "id": 662,
@@ -5301,7 +5301,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Confirm",
-        "texte_fr": ""
+        "texte_fr": "Confirmer"
     },
     {
         "id": 663,
@@ -5309,7 +5309,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Spell",
-        "texte_fr": ""
+        "texte_fr": "Sort"
     },
     {
         "id": 664,
@@ -5317,7 +5317,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "EXIT",
-        "texte_fr": ""
+        "texte_fr": "Annul."
     },
     {
         "id": 665,
@@ -5325,7 +5325,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "OFF",
-        "texte_fr": ""
+        "texte_fr": "OFF"
     },
     {
         "id": 666,
@@ -5333,7 +5333,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "ON",
-        "texte_fr": ""
+        "texte_fr": "ON"
     },
     {
         "id": 667,
@@ -5341,7 +5341,7 @@
         "data_size": 48,
         "slot_size": 48,
         "texte_orig": "Memorize[SP]cursor[SP]position",
-        "texte_fr": ""
+        "texte_fr": "Mémom. la posit. du curseur"
     },
     {
         "id": 668,
@@ -5349,7 +5349,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Simple",
-        "texte_fr": ""
+        "texte_fr": "Simple"
     },
     {
         "id": 669,
@@ -5357,7 +5357,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Realistic",
-        "texte_fr": ""
+        "texte_fr": "Réaliste"
     },
     {
         "id": 670,
@@ -5365,7 +5365,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Battle[SP]effects",
-        "texte_fr": ""
+        "texte_fr": "Effet de Cmbt"
     },
     {
         "id": 671,
@@ -5373,7 +5373,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "No[SP]personality",
-        "texte_fr": ""
+        "texte_fr": "Pas de Personnalité"
     },
     {
         "id": 672,
@@ -5381,7 +5381,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Yukino",
-        "texte_fr": ""
+        "texte_fr": "Yukino"
     },
     {
         "id": 673,
@@ -5389,7 +5389,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Jun",
-        "texte_fr": ""
+        "texte_fr": "Jun"
     },
     {
         "id": 674,
@@ -5397,7 +5397,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "Si",
-        "texte_fr": ""
+        "texte_fr": "Si"
     },
     {
         "id": 675,
@@ -5405,7 +5405,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Eikichi",
-        "texte_fr": ""
+        "texte_fr": "Eikichi"
     },
     {
         "id": 676,
@@ -5413,7 +5413,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Maya",
-        "texte_fr": ""
+        "texte_fr": "Maya"
     },
     {
         "id": 677,
@@ -5421,7 +5421,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Tatsuya",
-        "texte_fr": ""
+        "texte_fr": "Tatsuya"
     },
     {
         "id": 678,
@@ -5429,7 +5429,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Mayuzumi",
-        "texte_fr": ""
+        "texte_fr": "Mayuzumi"
     },
     {
         "id": 679,
@@ -5437,7 +5437,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Kurosu",
-        "texte_fr": ""
+        "texte_fr": "Kurosu"
     },
     {
         "id": 680,
@@ -5445,7 +5445,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Lisa",
-        "texte_fr": ""
+        "texte_fr": "Lisa"
     },
     {
         "id": 681,
@@ -5453,7 +5453,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Mishina",
-        "texte_fr": ""
+        "texte_fr": "Mishina"
     },
     {
         "id": 682,
@@ -5461,7 +5461,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Amano",
-        "texte_fr": ""
+        "texte_fr": "Amano"
     },
     {
         "id": 683,
@@ -5469,7 +5469,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Suou",
-        "texte_fr": ""
+        "texte_fr": "Suou"
     },
     {
         "id": 684,
@@ -5477,7 +5477,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Not[SP]equipped",
-        "texte_fr": ""
+        "texte_fr": "Non-équipé"
     },
     {
         "id": 685,
@@ -5493,7 +5493,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "[SP]fell[SP]down<0009>",
-        "texte_fr": ""
+        "texte_fr": " est tombé<0009>"
     },
     {
         "id": 687,
@@ -5501,7 +5501,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "[SP]escaped<0009>",
-        "texte_fr": ""
+        "texte_fr": "a fuit<0009>"
     },
     {
         "id": 688,
@@ -5509,7 +5509,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "&s[SP]party",
-        "texte_fr": ""
+        "texte_fr": "et son groupe"
     },
     {
         "id": 689,
@@ -5517,7 +5517,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "None",
-        "texte_fr": ""
+        "texte_fr": "Aucun"
     },
     {
         "id": 690,
@@ -5525,7 +5525,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Type[SP]A",
-        "texte_fr": ""
+        "texte_fr": "Type A"
     },
     {
         "id": 691,
@@ -5533,7 +5533,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Taurus",
-        "texte_fr": ""
+        "texte_fr": "Taureau"
     },
     {
         "id": 692,
@@ -5541,7 +5541,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Type[SP]AB",
-        "texte_fr": ""
+        "texte_fr": "Groupe AB"
     },
     {
         "id": 693,
@@ -5549,7 +5549,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Aquarius",
-        "texte_fr": ""
+        "texte_fr": "Verseau"
     },
     {
         "id": 694,
@@ -5557,7 +5557,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Type[SP]A",
-        "texte_fr": ""
+        "texte_fr": "Groupe A"
     },
     {
         "id": 695,
@@ -5565,7 +5565,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Taurus",
-        "texte_fr": ""
+        "texte_fr": "Taureau"
     },
     {
         "id": 696,
@@ -5573,7 +5573,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Type[SP]O",
-        "texte_fr": ""
+        "texte_fr": "Groupe O"
     },
     {
         "id": 697,
@@ -5581,7 +5581,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Scorpio",
-        "texte_fr": ""
+        "texte_fr": "Scorpion"
     },
     {
         "id": 698,
@@ -5589,7 +5589,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Type[SP]O",
-        "texte_fr": ""
+        "texte_fr": "Groupe O"
     },
     {
         "id": 699,
@@ -5597,7 +5597,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Cancer",
-        "texte_fr": ""
+        "texte_fr": "Cancer"
     },
     {
         "id": 700,
@@ -5605,7 +5605,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Type[SP]B",
-        "texte_fr": ""
+        "texte_fr": "Groupe B"
     },
     {
         "id": 701,
@@ -5613,7 +5613,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Leo",
-        "texte_fr": ""
+        "texte_fr": "Lion"
     },
     {
         "id": 702,
@@ -5621,7 +5621,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Wise",
-        "texte_fr": ""
+        "texte_fr": "Sage"
     },
     {
         "id": 703,
@@ -5629,7 +5629,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Foolish",
-        "texte_fr": ""
+        "texte_fr": "Enfantin"
     },
     {
         "id": 704,
@@ -5637,7 +5637,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Joyful",
-        "texte_fr": ""
+        "texte_fr": "Jovial"
     },
     {
         "id": 705,
@@ -5645,7 +5645,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Gloomy",
-        "texte_fr": ""
+        "texte_fr": "Triste"
     },
     {
         "id": 706,
@@ -5653,7 +5653,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Forceful",
-        "texte_fr": ""
+        "texte_fr": "Énergique"
     },
     {
         "id": 707,
@@ -5661,7 +5661,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Timid",
-        "texte_fr": ""
+        "texte_fr": "Timide"
     },
     {
         "id": 708,
@@ -5669,7 +5669,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Snappish",
-        "texte_fr": ""
+        "texte_fr": "Hargneux"
     },
     {
         "id": 709,
@@ -5677,7 +5677,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Haughty",
-        "texte_fr": ""
+        "texte_fr": "Hautain"
     },
     {
         "id": 710,
@@ -5685,7 +5685,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Contracted",
-        "texte_fr": ""
+        "texte_fr": "Contracté"
     },
     {
         "id": 711,
@@ -5693,7 +5693,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Rare[SP]item",
-        "texte_fr": ""
+        "texte_fr": "Obj. rare"
     },
     {
         "id": 712,
@@ -5701,7 +5701,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Normal[SP]item",
-        "texte_fr": ""
+        "texte_fr": "Obj. normal"
     },
     {
         "id": 713,
@@ -5717,7 +5717,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Qualities",
-        "texte_fr": ""
+        "texte_fr": "Qualités"
     },
     {
         "id": 715,
@@ -5725,7 +5725,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Personality",
-        "texte_fr": ""
+        "texte_fr": "Personnalité"
     },
     {
         "id": 716,
@@ -5733,7 +5733,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "State",
-        "texte_fr": ""
+        "texte_fr": "État"
     },
     {
         "id": 717,
@@ -5741,7 +5741,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Ability",
-        "texte_fr": ""
+        "texte_fr": "Capac."
     },
     {
         "id": 718,
@@ -5749,7 +5749,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Impossible",
-        "texte_fr": ""
+        "texte_fr": "Impossible"
     },
     {
         "id": 719,
@@ -5757,7 +5757,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Wait",
-        "texte_fr": ""
+        "texte_fr": "Attends"
     },
     {
         "id": 720,
@@ -5765,7 +5765,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Auto",
-        "texte_fr": ""
+        "texte_fr": "Auto"
     },
     {
         "id": 721,
@@ -5773,7 +5773,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "[SP]Impossible",
-        "texte_fr": ""
+        "texte_fr": " Impossible"
     },
     {
         "id": 722,
@@ -5781,7 +5781,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "[SP]Wait",
-        "texte_fr": ""
+        "texte_fr": " Attends"
     },
     {
         "id": 723,
@@ -5789,7 +5789,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "[SP]Auto",
-        "texte_fr": ""
+        "texte_fr": " Auto"
     },
     {
         "id": 724,
@@ -5797,7 +5797,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Battle[SP]mode",
-        "texte_fr": ""
+        "texte_fr": "Mode cbt."
     },
     {
         "id": 725,
@@ -5805,7 +5805,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Strategy",
-        "texte_fr": ""
+        "texte_fr": "Strat."
     },
     {
         "id": 726,
@@ -5813,7 +5813,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Cost",
-        "texte_fr": ""
+        "texte_fr": "Coût"
     },
     {
         "id": 727,
@@ -5821,7 +5821,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "MDefense",
-        "texte_fr": ""
+        "texte_fr": "MDef."
     },
     {
         "id": 728,
@@ -5829,7 +5829,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "MAttack",
-        "texte_fr": ""
+        "texte_fr": "MAttaq."
     },
     {
         "id": 729,
@@ -5837,7 +5837,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Defense",
-        "texte_fr": ""
+        "texte_fr": "Def."
     },
     {
         "id": 730,
@@ -5845,7 +5845,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Attack",
-        "texte_fr": ""
+        "texte_fr": "Attaq."
     },
     {
         "id": 731,
@@ -5853,7 +5853,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Reset[SP]order",
-        "texte_fr": ""
+        "texte_fr": "Réin. ordre"
     },
     {
         "id": 732,
@@ -5861,7 +5861,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Single",
-        "texte_fr": ""
+        "texte_fr": "Simple"
     },
     {
         "id": 733,
@@ -5869,7 +5869,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Normal",
-        "texte_fr": ""
+        "texte_fr": "Normal"
     },
     {
         "id": 734,
@@ -5877,7 +5877,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Fusion[SP]spell",
-        "texte_fr": ""
+        "texte_fr": "Sort Fusion"
     },
     {
         "id": 735,
@@ -5885,7 +5885,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Set[SP]order",
-        "texte_fr": ""
+        "texte_fr": "Déf. ordre"
     },
     {
         "id": 736,
@@ -5893,7 +5893,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "LV",
-        "texte_fr": ""
+        "texte_fr": "LVL"
     },
     {
         "id": 737,
@@ -5901,7 +5901,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Freeze",
-        "texte_fr": ""
+        "texte_fr": "Gel"
     },
     {
         "id": 738,
@@ -5909,7 +5909,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Shock",
-        "texte_fr": ""
+        "texte_fr": "Choc"
     },
     {
         "id": 739,
@@ -5917,7 +5917,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Illusion",
-        "texte_fr": ""
+        "texte_fr": "Illusion"
     },
     {
         "id": 740,
@@ -5925,7 +5925,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Fury",
-        "texte_fr": ""
+        "texte_fr": "Rage"
     },
     {
         "id": 741,
@@ -5933,7 +5933,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Sleep",
-        "texte_fr": ""
+        "texte_fr": "Repos"
     },
     {
         "id": 742,
@@ -5941,7 +5941,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Poison",
-        "texte_fr": ""
+        "texte_fr": "Poison"
     },
     {
         "id": 743,
@@ -5949,7 +5949,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Mute",
-        "texte_fr": ""
+        "texte_fr": "Muet"
     },
     {
         "id": 744,
@@ -5957,7 +5957,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Panic",
-        "texte_fr": ""
+        "texte_fr": "Effroi"
     },
     {
         "id": 745,
@@ -5965,7 +5965,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Charm",
-        "texte_fr": ""
+        "texte_fr": "Charm"
     },
     {
         "id": 746,
@@ -5973,7 +5973,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Possessed",
-        "texte_fr": ""
+        "texte_fr": "Possédé"
     },
     {
         "id": 747,
@@ -5981,7 +5981,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Berserk",
-        "texte_fr": ""
+        "texte_fr": "Berserk"
     },
     {
         "id": 748,
@@ -5989,7 +5989,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Dying",
-        "texte_fr": ""
+        "texte_fr": "Agonie"
     },
     {
         "id": 749,
@@ -5997,7 +5997,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Items",
-        "texte_fr": ""
+        "texte_fr": "Obj."
     },
     {
         "id": 750,
@@ -6005,7 +6005,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Money",
-        "texte_fr": ""
+        "texte_fr": "Arg."
     },
     {
         "id": 751,
@@ -6013,7 +6013,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "EXP",
-        "texte_fr": ""
+        "texte_fr": "EXP"
     },
     {
         "id": 752,
@@ -6021,7 +6021,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Guard",
-        "texte_fr": ""
+        "texte_fr": "Bloq."
     },
     {
         "id": 753,
@@ -6029,7 +6029,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Status",
-        "texte_fr": ""
+        "texte_fr": "Statut"
     },
     {
         "id": 754,
@@ -6037,7 +6037,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Persona[SP]Change",
-        "texte_fr": ""
+        "texte_fr": "Chang. Persona"
     },
     {
         "id": 755,
@@ -6045,7 +6045,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Items",
-        "texte_fr": ""
+        "texte_fr": "Obj."
     },
     {
         "id": 756,
@@ -6053,7 +6053,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Persona",
-        "texte_fr": ""
+        "texte_fr": "Persona"
     },
     {
         "id": 757,
@@ -6061,7 +6061,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Attack",
-        "texte_fr": ""
+        "texte_fr": "Attaq"
     },
     {
         "id": 758,
@@ -6069,7 +6069,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Spell[SP]Debug",
-        "texte_fr": ""
+        "texte_fr": "Spell Debug"
     },
     {
         "id": 759,
@@ -6077,7 +6077,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Debug",
-        "texte_fr": ""
+        "texte_fr": "Debug"
     },
     {
         "id": 760,
@@ -6085,7 +6085,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Retreat",
-        "texte_fr": ""
+        "texte_fr": "Fuir"
     },
     {
         "id": 761,
@@ -6093,7 +6093,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Settings",
-        "texte_fr": ""
+        "texte_fr": "Param."
     },
     {
         "id": 762,
@@ -6101,7 +6101,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Analyze",
-        "texte_fr": ""
+        "texte_fr": "Anali."
     },
     {
         "id": 763,
@@ -6109,7 +6109,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Contact",
-        "texte_fr": ""
+        "texte_fr": "Contact"
     },
     {
         "id": 764,
@@ -6117,7 +6117,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Set[SP]order",
-        "texte_fr": ""
+        "texte_fr": "Déf. ordre"
     },
     {
         "id": 765,
@@ -6125,7 +6125,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Begin[SP]battle",
-        "texte_fr": ""
+        "texte_fr": "Début. combat"
     },
     {
         "id": 766,
@@ -6133,7 +6133,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Skill[SP]description<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Description d'habilité<FF03>"
     },
     {
         "id": 767,
@@ -6141,7 +6141,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "None<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Aucun"
     },
     {
         "id": 768,
@@ -6149,7 +6149,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Mind<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Espr.<FF03>"
     },
     {
         "id": 769,
@@ -6157,7 +6157,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Dark<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Tén.<FF03>"
     },
     {
         "id": 770,
@@ -6165,7 +6165,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Light<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Lum.<FF03>"
     },
     {
         "id": 771,
@@ -6173,7 +6173,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Almighty<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Foi<FF03>"
     },
     {
         "id": 772,
@@ -6181,7 +6181,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Nuclear<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Nuclé.<FF03>"
     },
     {
         "id": 773,
@@ -6189,7 +6189,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Elec<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Elec<FF03>"
     },
     {
         "id": 774,
@@ -6197,7 +6197,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Ice<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Gl.<FF03>"
     },
     {
         "id": 775,
@@ -6205,7 +6205,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Thrown<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Lancé<FF03>"
     },
     {
         "id": 776,
@@ -6213,7 +6213,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Strike<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Mêlée<FF03>"
     },
     {
         "id": 777,
@@ -6221,7 +6221,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Ranged<FF03>",
-        "texte_fr": ""
+        "texte_fr": "À dist.<FF03>"
     },
     {
         "id": 778,
@@ -6229,7 +6229,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Sword<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Épée<FF03>"
     },
     {
         "id": 779,
@@ -6237,7 +6237,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "D[SP]Is[SP]this[SP]correct<0008><FF03>",
-        "texte_fr": ""
+        "texte_fr": "D Est-ce correct<0008><FF03>"
     },
     {
         "id": 780,
@@ -6317,7 +6317,7 @@
         "data_size": 138,
         "slot_size": 138,
         "texte_orig": "D[SP]Confirming[SP]name<0004><FF03>Are[SP]these[SP]correct<0008><FF03>Full[SP]name<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03>Nickname<0006>[SP]<FF22><FF12><FF21><FF03>",
-        "texte_fr": ""
+        "texte_fr": "D Confirmation<0004><FF03>Sont-ils correct<0008><FF03>Nom entier<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03>Surnom<0006>[SP]<FF22><FF12><FF21><FF03>"
     },
     {
         "id": 790,
@@ -6325,7 +6325,7 @@
         "data_size": 66,
         "slot_size": 66,
         "texte_orig": "D[SP]Nickname<0006>[SP]<FF22><FF12><FF21><FF03>Is[SP]this[SP]correct<0008><FF03>",
-        "texte_fr": ""
+        "texte_fr": "D Surnom<0006> <FF22><FF12><FF21><FF03>Est-ce correct<0008><FF03>"
     },
     {
         "id": 791,
@@ -6333,7 +6333,7 @@
         "data_size": 72,
         "slot_size": 72,
         "texte_orig": "D[SP]Full[SP]name<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03>Is[SP]this[SP]correct<0008><FF03>",
-        "texte_fr": ""
+        "texte_fr": "D Nom complet <0006> <FF22><FF11> <FF10><FF21><FF03>Est-ce correct<0008><FF03>"
     },
     {
         "id": 792,
@@ -6341,7 +6341,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "name<0006><FF03>",
-        "texte_fr": ""
+        "texte_fr": "nom"
     },
     {
         "id": 793,
@@ -6349,7 +6349,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Full<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Entier<FF03>"
     },
     {
         "id": 794,
@@ -6357,7 +6357,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Nick<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Sur<FF03>"
     },
     {
         "id": 795,
@@ -6365,7 +6365,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "First[SP]<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Pré<FF03>"
     },
     {
         "id": 796,
@@ -6373,7 +6373,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Last[SP]<FF03>",
-        "texte_fr": ""
+        "texte_fr": "<FF03>"
     },
     {
         "id": 797,
@@ -6381,7 +6381,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Enter[SP]name<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Écrire nom<FF03>"
     },
     {
         "id": 798,
@@ -6389,7 +6389,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Not[SP]equipped<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Non équipé<FF03>"
     },
     {
         "id": 799,
@@ -6397,7 +6397,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Weak<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Faibl.<FF03>"
     },
     {
         "id": 800,
@@ -6405,7 +6405,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Resist<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Res."
     },
     {
         "id": 801,
@@ -6413,7 +6413,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Drain<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Abs.<FF03>"
     },
     {
         "id": 802,
@@ -6421,7 +6421,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Repel<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Renv.<FF03>"
     },
     {
         "id": 803,
@@ -6429,7 +6429,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Null<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Anul.<FF03>"
     },
     {
         "id": 804,
@@ -6437,7 +6437,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "None<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Aucun<FF03>"
     },
     {
         "id": 805,
@@ -6445,7 +6445,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Earth<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Terre<FF03>"
     },
     {
         "id": 806,
@@ -6453,7 +6453,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Wind<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Vent<FF03>"
     },
     {
         "id": 807,
@@ -6461,7 +6461,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Water<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Eau<FF03>"
     },
     {
         "id": 808,
@@ -6469,7 +6469,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Fire<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Feu<FF03>"
     },
     {
         "id": 809,
@@ -6477,7 +6477,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "Lu",
-        "texte_fr": ""
+        "texte_fr": "Ch"
     },
     {
         "id": 810,
@@ -6485,7 +6485,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "Ag",
-        "texte_fr": ""
+        "texte_fr": "Ag"
     },
     {
         "id": 811,
@@ -6493,7 +6493,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "Dx",
-        "texte_fr": ""
+        "texte_fr": "Dx"
     },
     {
         "id": 812,
@@ -6501,7 +6501,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "Vi",
-        "texte_fr": ""
+        "texte_fr": "Vi"
     },
     {
         "id": 813,
@@ -6509,7 +6509,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "St",
-        "texte_fr": ""
+        "texte_fr": "Fr"
     },
     {
         "id": 814,
@@ -6517,7 +6517,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "None",
-        "texte_fr": ""
+        "texte_fr": "Aucun"
     },
     {
         "id": 815,
@@ -6525,7 +6525,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Rumor",
-        "texte_fr": ""
+        "texte_fr": "Rumeur"
     },
     {
         "id": 816,
@@ -6533,7 +6533,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Zombie",
-        "texte_fr": ""
+        "texte_fr": "Zombie"
     },
     {
         "id": 817,
@@ -6541,7 +6541,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Aquarius",
-        "texte_fr": ""
+        "texte_fr": "Verseau"
     },
     {
         "id": 818,
@@ -6549,7 +6549,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Scorpio",
-        "texte_fr": ""
+        "texte_fr": "Scorpion"
     },
     {
         "id": 819,
@@ -6557,7 +6557,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Leo",
-        "texte_fr": ""
+        "texte_fr": "Lion"
     },
     {
         "id": 820,
@@ -6565,7 +6565,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Taurus",
-        "texte_fr": ""
+        "texte_fr": "Taureau"
     },
     {
         "id": 821,
@@ -6573,7 +6573,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Reich",
-        "texte_fr": ""
+        "texte_fr": "Reich"
     },
     {
         "id": 822,
@@ -6581,7 +6581,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Coin",
-        "texte_fr": ""
+        "texte_fr": "Pièce"
     },
     {
         "id": 823,
@@ -6589,7 +6589,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Sword",
-        "texte_fr": ""
+        "texte_fr": "Épée"
     },
     {
         "id": 824,
@@ -6597,7 +6597,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Cup",
-        "texte_fr": ""
+        "texte_fr": "Coupe"
     },
     {
         "id": 825,
@@ -6605,7 +6605,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Wand",
-        "texte_fr": ""
+        "texte_fr": "Bâton"
     },
     {
         "id": 826,
@@ -6613,7 +6613,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "The[SP]Fool",
-        "texte_fr": ""
+        "texte_fr": "Le Mat"
     },
     {
         "id": 827,
@@ -6621,7 +6621,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "World",
-        "texte_fr": ""
+        "texte_fr": "Monde"
     },
     {
         "id": 828,
@@ -6629,7 +6629,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Judgement",
-        "texte_fr": ""
+        "texte_fr": "Jugement"
     },
     {
         "id": 829,
@@ -6637,7 +6637,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Sun",
-        "texte_fr": ""
+        "texte_fr": "Soleil"
     },
     {
         "id": 830,
@@ -6645,7 +6645,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Moon",
-        "texte_fr": ""
+        "texte_fr": "Lune"
     },
     {
         "id": 831,
@@ -6653,7 +6653,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Star",
-        "texte_fr": ""
+        "texte_fr": "Étoile"
     },
     {
         "id": 832,
@@ -6661,7 +6661,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Tower",
-        "texte_fr": ""
+        "texte_fr": "Tour"
     },
     {
         "id": 833,
@@ -6669,7 +6669,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Devil",
-        "texte_fr": ""
+        "texte_fr": "Diable"
     },
     {
         "id": 834,
@@ -6677,7 +6677,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Temperance",
-        "texte_fr": ""
+        "texte_fr": "Tempérance"
     },
     {
         "id": 835,
@@ -6685,7 +6685,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Death",
-        "texte_fr": ""
+        "texte_fr": "Mort"
     },
     {
         "id": 836,
@@ -6693,7 +6693,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Hanged[SP]Man",
-        "texte_fr": ""
+        "texte_fr": "Pendu"
     },
     {
         "id": 837,
@@ -6701,7 +6701,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Justice",
-        "texte_fr": ""
+        "texte_fr": "Justice"
     },
     {
         "id": 838,
@@ -6709,7 +6709,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Fortune",
-        "texte_fr": ""
+        "texte_fr": "Fortune"
     },
     {
         "id": 839,
@@ -6717,7 +6717,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Hermit",
-        "texte_fr": ""
+        "texte_fr": "Ermite"
     },
     {
         "id": 840,
@@ -6725,7 +6725,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Strength",
-        "texte_fr": ""
+        "texte_fr": "Force"
     },
     {
         "id": 841,
@@ -6733,7 +6733,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Chariot",
-        "texte_fr": ""
+        "texte_fr": "Chariot"
     },
     {
         "id": 842,
@@ -6741,7 +6741,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Lovers",
-        "texte_fr": ""
+        "texte_fr": "Amoureux"
     },
     {
         "id": 843,
@@ -6749,7 +6749,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Hierophant",
-        "texte_fr": ""
+        "texte_fr": "Pape"
     },
     {
         "id": 844,
@@ -6757,7 +6757,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Emperor",
-        "texte_fr": ""
+        "texte_fr": "Empereur"
     },
     {
         "id": 845,
@@ -6765,7 +6765,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Empress",
-        "texte_fr": ""
+        "texte_fr": "Impératrice"
     },
     {
         "id": 846,
@@ -6773,7 +6773,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Priestess",
-        "texte_fr": ""
+        "texte_fr": "Papesse"
     },
     {
         "id": 847,
@@ -6781,7 +6781,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Magician",
-        "texte_fr": ""
+        "texte_fr": "Bateleur "
     },
     {
         "id": 848,
@@ -6789,7 +6789,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Dummy",
-        "texte_fr": ""
+        "texte_fr": "Faux"
     },
     {
         "id": 849,
@@ -6893,7 +6893,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Reserved<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Réservé<FF03>"
     },
     {
         "id": 862,
@@ -6901,7 +6901,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Reserved<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Réservé<FF03>"
     },
     {
         "id": 863,
@@ -6909,7 +6909,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Reserved<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Réservé<FF03>"
     },
     {
         "id": 864,
@@ -6917,7 +6917,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Reserved<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Réservé<FF03>"
     },
     {
         "id": 865,
@@ -6925,7 +6925,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Reserved<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Réservé<FF03>"
     },
     {
         "id": 866,
@@ -6933,7 +6933,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Reserved<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Réservé<FF03>"
     },
     {
         "id": 867,
@@ -6941,7 +6941,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Reserved<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Réservé<FF03>"
     },
     {
         "id": 868,
@@ -6949,7 +6949,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Reserved<FF03>",
-        "texte_fr": ""
+        "texte_fr": "Réservé<FF03>"
     },
     {
         "id": 869,
@@ -7149,7 +7149,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Fukurokuju",
-        "texte_fr": ""
+        "texte_fr": "Fukurokuju"
     },
     {
         "id": 894,
@@ -7157,7 +7157,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Ebisu",
-        "texte_fr": ""
+        "texte_fr": "Ebisu"
     },
     {
         "id": 895,
@@ -7165,7 +7165,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Sarasvati",
-        "texte_fr": ""
+        "texte_fr": "Sarasvati"
     },
     {
         "id": 896,
@@ -7173,7 +7173,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Cu[SP]Chulainn",
-        "texte_fr": ""
+        "texte_fr": "Cu Chulainn"
     },
     {
         "id": 897,
@@ -7181,7 +7181,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Arthur",
-        "texte_fr": ""
+        "texte_fr": "Arthur"
     },
     {
         "id": 898,
@@ -7189,7 +7189,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Futsuno[SP]Mitama",
-        "texte_fr": ""
+        "texte_fr": "Futsuno Mitama"
     },
     {
         "id": 899,
@@ -7197,7 +7197,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Galahad",
-        "texte_fr": ""
+        "texte_fr": "Galahad"
     },
     {
         "id": 900,
@@ -7205,7 +7205,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Bacchus",
-        "texte_fr": ""
+        "texte_fr": "Bacchus"
     },
     {
         "id": 901,
@@ -7213,7 +7213,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Dagda",
-        "texte_fr": ""
+        "texte_fr": "Dagda"
     },
     {
         "id": 902,
@@ -7221,7 +7221,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Budai",
-        "texte_fr": ""
+        "texte_fr": "Budai"
     },
     {
         "id": 903,
@@ -7229,7 +7229,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Shou[SP]Shen",
-        "texte_fr": ""
+        "texte_fr": "Shou Shen"
     },
     {
         "id": 904,
@@ -7237,7 +7237,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Quetzalcoatl",
-        "texte_fr": ""
+        "texte_fr": "Quetzalcoatl"
     },
     {
         "id": 905,
@@ -7245,7 +7245,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Sarutobi[SP]Sasuke",
-        "texte_fr": ""
+        "texte_fr": "Sarutobi Sasuke"
     },
     {
         "id": 906,
@@ -7253,7 +7253,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Tenjiku[SP]Tokubei",
-        "texte_fr": ""
+        "texte_fr": "Tenjiku Tokubei"
     },
     {
         "id": 907,
@@ -7261,7 +7261,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Tobi[SP]Katou",
-        "texte_fr": ""
+        "texte_fr": "Tobi Katou"
     },
     {
         "id": 908,
@@ -7269,7 +7269,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Fuuma[SP]Kotarou",
-        "texte_fr": ""
+        "texte_fr": "Fuuma Kotarou"
     },
     {
         "id": 909,
@@ -7277,7 +7277,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Demeter",
-        "texte_fr": ""
+        "texte_fr": "Demeter"
     },
     {
         "id": 910,
@@ -7285,7 +7285,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Njord",
-        "texte_fr": ""
+        "texte_fr": "Njord"
     },
     {
         "id": 911,
@@ -7293,7 +7293,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Hunab[SP]Ku",
-        "texte_fr": ""
+        "texte_fr": "Hunab Ku"
     },
     {
         "id": 912,
@@ -7301,7 +7301,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Mucalinda",
-        "texte_fr": ""
+        "texte_fr": "Mucalinda"
     },
     {
         "id": 913,
@@ -7309,7 +7309,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Seiryuu",
-        "texte_fr": ""
+        "texte_fr": "Seiryuu"
     },
     {
         "id": 914,
@@ -7317,7 +7317,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Ouroboros",
-        "texte_fr": ""
+        "texte_fr": "Ouroboros"
     },
     {
         "id": 915,
@@ -7325,7 +7325,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Phaleg",
-        "texte_fr": ""
+        "texte_fr": "Phaleg"
     },
     {
         "id": 916,
@@ -7333,7 +7333,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Angel",
-        "texte_fr": ""
+        "texte_fr": "Angel"
     },
     {
         "id": 917,
@@ -7341,7 +7341,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Principality",
-        "texte_fr": ""
+        "texte_fr": "Principality"
     },
     {
         "id": 918,
@@ -7349,7 +7349,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Melchizedek",
-        "texte_fr": ""
+        "texte_fr": "Melchizedek"
     },
     {
         "id": 919,
@@ -7357,7 +7357,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Armaiti",
-        "texte_fr": ""
+        "texte_fr": "Armaiti"
     },
     {
         "id": 920,
@@ -7365,7 +7365,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Throne",
-        "texte_fr": ""
+        "texte_fr": "Throne"
     },
     {
         "id": 921,
@@ -7373,7 +7373,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Ameretat",
-        "texte_fr": ""
+        "texte_fr": "Ameretat"
     },
     {
         "id": 922,
@@ -7381,7 +7381,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Michael",
-        "texte_fr": ""
+        "texte_fr": "Michael"
     },
     {
         "id": 923,
@@ -7389,7 +7389,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Satan",
-        "texte_fr": ""
+        "texte_fr": "Satan"
     },
     {
         "id": 924,
@@ -7397,7 +7397,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Vulcanus",
-        "texte_fr": ""
+        "texte_fr": "Vulcanus"
     },
     {
         "id": 925,
@@ -7405,7 +7405,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Surya",
-        "texte_fr": ""
+        "texte_fr": "Surya"
     },
     {
         "id": 926,
@@ -7413,7 +7413,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Kinich[SP]Kakmo",
-        "texte_fr": ""
+        "texte_fr": "Kinich Kakmo"
     },
     {
         "id": 927,
@@ -7421,7 +7421,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Vulcanus[SP]Prime",
-        "texte_fr": ""
+        "texte_fr": "Vulcanus Prime"
     },
     {
         "id": 928,
@@ -7429,7 +7429,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Heimdall",
-        "texte_fr": ""
+        "texte_fr": "Heimdall"
     },
     {
         "id": 929,
@@ -7437,7 +7437,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Ildanach",
-        "texte_fr": ""
+        "texte_fr": "Ildanach"
     },
     {
         "id": 930,
@@ -7445,7 +7445,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Apollo",
-        "texte_fr": ""
+        "texte_fr": "Apollo"
     },
     {
         "id": 931,
@@ -7453,7 +7453,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Virochana",
-        "texte_fr": ""
+        "texte_fr": "Virochana"
     },
     {
         "id": 932,
@@ -7461,7 +7461,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Maia",
-        "texte_fr": ""
+        "texte_fr": "Maia"
     },
     {
         "id": 933,
@@ -7469,7 +7469,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Pairika",
-        "texte_fr": ""
+        "texte_fr": "Pairika"
     },
     {
         "id": 934,
@@ -7477,7 +7477,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Maia[SP]Prime",
-        "texte_fr": ""
+        "texte_fr": "Maia Prime"
     },
     {
         "id": 935,
@@ -7485,7 +7485,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Succubus",
-        "texte_fr": ""
+        "texte_fr": "Succubus"
     },
     {
         "id": 936,
@@ -7493,7 +7493,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Artemis",
-        "texte_fr": ""
+        "texte_fr": "Artemis"
     },
     {
         "id": 937,
@@ -7501,7 +7501,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Tsukuyomi",
-        "texte_fr": ""
+        "texte_fr": "Tsukuyomi"
     },
     {
         "id": 938,
@@ -7509,7 +7509,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Nanna",
-        "texte_fr": ""
+        "texte_fr": "Nanna"
     },
     {
         "id": 939,
@@ -7517,7 +7517,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Kinnara",
-        "texte_fr": ""
+        "texte_fr": "Kinnara"
     },
     {
         "id": 940,
@@ -7525,7 +7525,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Iris",
-        "texte_fr": ""
+        "texte_fr": "Iris"
     },
     {
         "id": 941,
@@ -7533,7 +7533,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Gandharva",
-        "texte_fr": ""
+        "texte_fr": "Gandharva"
     },
     {
         "id": 942,
@@ -7541,7 +7541,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Juanlian[SP]Dajiang",
-        "texte_fr": ""
+        "texte_fr": "Juanlian Dajiang"
     },
     {
         "id": 943,
@@ -7549,7 +7549,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Hoenir",
-        "texte_fr": ""
+        "texte_fr": "Hoenir"
     },
     {
         "id": 944,
@@ -7557,7 +7557,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Valkyrie",
-        "texte_fr": ""
+        "texte_fr": "Valkyrie"
     },
     {
         "id": 945,
@@ -7565,7 +7565,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Hanuman",
-        "texte_fr": ""
+        "texte_fr": "Hanuman"
     },
     {
         "id": 946,
@@ -7573,7 +7573,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Kanaloa",
-        "texte_fr": ""
+        "texte_fr": "Kanaloa"
     },
     {
         "id": 947,
@@ -7581,7 +7581,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Loki",
-        "texte_fr": ""
+        "texte_fr": "Loki"
     },
     {
         "id": 948,
@@ -7589,7 +7589,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Aeshma",
-        "texte_fr": ""
+        "texte_fr": "Aeshma"
     },
     {
         "id": 949,
@@ -7597,7 +7597,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Seker",
-        "texte_fr": ""
+        "texte_fr": "Seker"
     },
     {
         "id": 950,
@@ -7605,7 +7605,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Seth",
-        "texte_fr": ""
+        "texte_fr": "Seth"
     },
     {
         "id": 951,
@@ -7613,7 +7613,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Poltergeist",
-        "texte_fr": ""
+        "texte_fr": "Poltergeist"
     },
     {
         "id": 952,
@@ -7621,7 +7621,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Surt",
-        "texte_fr": ""
+        "texte_fr": "Surt"
     },
     {
         "id": 953,
@@ -7629,7 +7629,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Beelzebub",
-        "texte_fr": ""
+        "texte_fr": "Beelzebub"
     },
     {
         "id": 954,
@@ -7637,7 +7637,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Lucifer",
-        "texte_fr": ""
+        "texte_fr": "Lucifer"
     },
     {
         "id": 955,
@@ -7645,7 +7645,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Harpy",
-        "texte_fr": ""
+        "texte_fr": "Harpy"
     },
     {
         "id": 956,
@@ -7653,7 +7653,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Fjalar",
-        "texte_fr": ""
+        "texte_fr": "Fjalar"
     },
     {
         "id": 957,
@@ -7661,7 +7661,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Stymphalides",
-        "texte_fr": ""
+        "texte_fr": "Stymphalides"
     },
     {
         "id": 958,
@@ -7669,7 +7669,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Phoenix",
-        "texte_fr": ""
+        "texte_fr": "Phoenix"
     },
     {
         "id": 959,
@@ -7677,7 +7677,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Suzaku",
-        "texte_fr": ""
+        "texte_fr": "Suzaku"
     },
     {
         "id": 960,
@@ -7685,7 +7685,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Rhadamanthus",
-        "texte_fr": ""
+        "texte_fr": "Rhadamanthus"
     },
     {
         "id": 961,
@@ -7693,7 +7693,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Hel",
-        "texte_fr": ""
+        "texte_fr": "Hel"
     },
     {
         "id": 962,
@@ -7701,7 +7701,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Rhadamanthus[SP]Prime",
-        "texte_fr": ""
+        "texte_fr": "Rhadamanthus Prime"
     },
     {
         "id": 963,
@@ -7709,7 +7709,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Ankou",
-        "texte_fr": ""
+        "texte_fr": "Ankou"
     },
     {
         "id": 964,
@@ -7717,7 +7717,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Charon",
-        "texte_fr": ""
+        "texte_fr": "Charon"
     },
     {
         "id": 965,
@@ -7725,7 +7725,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Hades",
-        "texte_fr": ""
+        "texte_fr": "Hades"
     },
     {
         "id": 966,
@@ -7733,7 +7733,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Mot",
-        "texte_fr": ""
+        "texte_fr": "Mot"
     },
     {
         "id": 967,
@@ -7741,7 +7741,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Shax",
-        "texte_fr": ""
+        "texte_fr": "Shax"
     },
     {
         "id": 968,
@@ -7749,7 +7749,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Kabandha",
-        "texte_fr": ""
+        "texte_fr": "Kabandha"
     },
     {
         "id": 969,
@@ -7757,7 +7757,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Barbatos",
-        "texte_fr": ""
+        "texte_fr": "Barbatos"
     },
     {
         "id": 970,
@@ -7765,7 +7765,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Adramelech",
-        "texte_fr": ""
+        "texte_fr": "Adramelech"
     },
     {
         "id": 971,
@@ -7773,7 +7773,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Mars",
-        "texte_fr": ""
+        "texte_fr": "Mars"
     },
     {
         "id": 972,
@@ -7781,7 +7781,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Nezha",
-        "texte_fr": ""
+        "texte_fr": "Nezha"
     },
     {
         "id": 973,
@@ -7789,7 +7789,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Kundali[SP]Vidyaraja",
-        "texte_fr": ""
+        "texte_fr": "Kundali Vidyaraja"
     },
     {
         "id": 974,
@@ -7797,7 +7797,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Skanda",
-        "texte_fr": ""
+        "texte_fr": "Skanda"
     },
     {
         "id": 975,
@@ -7805,7 +7805,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Bishamonten",
-        "texte_fr": ""
+        "texte_fr": "Bishamonten"
     },
     {
         "id": 976,
@@ -7813,7 +7813,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Pallas[SP]Athena",
-        "texte_fr": ""
+        "texte_fr": "Pallas Athena"
     },
     {
         "id": 977,
@@ -7821,7 +7821,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Hermes",
-        "texte_fr": ""
+        "texte_fr": "Hermes"
     },
     {
         "id": 978,
@@ -7829,7 +7829,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Cerberus",
-        "texte_fr": ""
+        "texte_fr": "Cerberus"
     },
     {
         "id": 979,
@@ -7837,7 +7837,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Chronos",
-        "texte_fr": ""
+        "texte_fr": "Chronos"
     },
     {
         "id": 980,
@@ -7845,7 +7845,7 @@
         "data_size": 6,
         "slot_size": 6,
         "texte_orig": "Urd",
-        "texte_fr": ""
+        "texte_fr": "Urd"
     },
     {
         "id": 981,
@@ -7853,7 +7853,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Verdandi",
-        "texte_fr": ""
+        "texte_fr": "Verdandi"
     },
     {
         "id": 982,
@@ -7861,7 +7861,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Skuld",
-        "texte_fr": ""
+        "texte_fr": "Skuld"
     },
     {
         "id": 983,
@@ -7869,7 +7869,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Fenrir",
-        "texte_fr": ""
+        "texte_fr": "Fenrir"
     },
     {
         "id": 984,
@@ -7877,7 +7877,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Nekomata",
-        "texte_fr": ""
+        "texte_fr": "Nekomata"
     },
     {
         "id": 985,
@@ -7885,7 +7885,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Marshal[SP]Tianpeng",
-        "texte_fr": ""
+        "texte_fr": "Marshal Tianpeng"
     },
     {
         "id": 986,
@@ -7893,7 +7893,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Gullinbursti",
-        "texte_fr": ""
+        "texte_fr": "Gullinbursti"
     },
     {
         "id": 987,
@@ -7901,7 +7901,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Byakko",
-        "texte_fr": ""
+        "texte_fr": "Byakko"
     },
     {
         "id": 988,
@@ -7909,7 +7909,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Genbu",
-        "texte_fr": ""
+        "texte_fr": "Genbu"
     },
     {
         "id": 989,
@@ -7917,7 +7917,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Kinich[SP]Ahau",
-        "texte_fr": ""
+        "texte_fr": "Kinich Ahau"
     },
     {
         "id": 990,
@@ -7925,7 +7925,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Longma",
-        "texte_fr": ""
+        "texte_fr": "Longma"
     },
     {
         "id": 991,
@@ -7933,7 +7933,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Otohime",
-        "texte_fr": ""
+        "texte_fr": "Otohime"
     },
     {
         "id": 992,
@@ -7941,7 +7941,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Culebre",
-        "texte_fr": ""
+        "texte_fr": "Culebre"
     },
     {
         "id": 993,
@@ -7949,7 +7949,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Taksaka",
-        "texte_fr": ""
+        "texte_fr": "Taksaka"
     },
     {
         "id": 994,
@@ -7957,7 +7957,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Vritra",
-        "texte_fr": ""
+        "texte_fr": "Vritra"
     },
     {
         "id": 995,
@@ -7965,7 +7965,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Minotaur",
-        "texte_fr": ""
+        "texte_fr": "Minotaur"
     },
     {
         "id": 996,
@@ -7973,7 +7973,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Taranis",
-        "texte_fr": ""
+        "texte_fr": "Taranis"
     },
     {
         "id": 997,
@@ -7981,7 +7981,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Seiten[SP]Taisei",
-        "texte_fr": ""
+        "texte_fr": "Seiten Taisei"
     },
     {
         "id": 998,
@@ -7989,7 +7989,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Susano<O",
-        "texte_fr": ""
+        "texte_fr": "Susano<O"
     },
     {
         "id": 999,
@@ -7997,6 +7997,6 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Ares",
-        "texte_fr": ""
+        "texte_fr": "Ares"
     }
 ]
