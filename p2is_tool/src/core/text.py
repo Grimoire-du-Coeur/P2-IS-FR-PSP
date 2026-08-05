@@ -402,7 +402,8 @@ def _align_menu_text(nom_orig: str, texte_orig: str, nom_fr: str, t_fr: str) -> 
     # Calculer l'offset du 1er [0014] (= début opt1) dans l'original encodé
     # Structure : [1208](2)+[0002](2)+[1432](2)+[NULL](2)+[NULL](2)+[0014](2) = 12 bytes
     nom_orig_clean = nom_orig.replace("[SP]", " ")
-    pre_orig = texte_orig.split("[1208]")[0]
+    marker_orig = "[U+1208]" if "[U+1208]" in texte_orig else ("[1208]" if "[1208]" in texte_orig else None)
+    pre_orig = texte_orig.split(marker_orig)[0] if marker_orig else texte_orig
     enc_pre_orig = text_to_bytes('"' + nom_orig_clean + "\n" + pre_orig)
     opt1_offset_orig = len(enc_pre_orig) + 12  # 6 mots × 2 bytes
 
