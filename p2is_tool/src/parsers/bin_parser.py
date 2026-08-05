@@ -313,7 +313,7 @@ def find_dialogs(data: bytes) -> list:
         ):
             body = body.replace(seq, "")
         body_clean = body.strip()
-        question, choices = _parse_choices(body_clean)
+        question, choices, count_tag = _parse_choices(body_clean)
         entry = {
             "id": len(dialogs),
             "offset": start,
@@ -328,6 +328,7 @@ def find_dialogs(data: bytes) -> list:
         if choices is not None:
             entry["question_orig"] = question
             entry["choix_orig"] = choices
+            entry["count_tag"] = count_tag
             entry["question_fr"] = ""
             entry["choix_fr"] = [""] * len(choices)
         dialogs.append(entry)
@@ -338,12 +339,12 @@ def find_dialogs(data: bytes) -> list:
 def _parse_choices(body: str) -> tuple:
     """
     Si body contient un menu de choix (marqueur [1208] ou [U+1208]),
-    retourne (question, [option1, option2, ...]) avec les balises de contrôle préservées.
-    Sinon retourne (body, None).
+    retourne (question, [option1, option2, ...], count_tag) avec les balises de contrôle préservées.
+    Sinon retourne (body, None, None).
 
     Format binaire Atlus PSP pour les menus :
-      Question\n[1208][0002][1432][NULL][NULL][0014]Option1[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Option2...
-    Le [0014] sépare les options, [1208][0002] ouvre le menu.
+      Question\n[1208][COUNT][1432][NULL][NULL][0014]Option1[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Option2...
+    Le [0014] sépare les options, [1208][COUNT] ouvre le menu (ex: [0002], [U+0003], [U+0004]).
     """
     marker = None
     for m in ("[1208]", "[U+1208]"):
@@ -351,46 +352,64 @@ def _parse_choices(body: str) -> tuple:
             marker = m
             break
     if marker is None:
-        return body, None
+        return body, None, None
 
     # Séparer la question du bloc de choix
     parts = body.split(marker, 1)
     question = parts[0].rstrip("\n").strip()
     choice_block = marker + parts[1]
 
-    # Extraire les options : elles sont délimitées par [0014]
-    # Structure : [1208][0002][1432][NULL][NULL][0014]OPT1[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]OPT2...
-    # On split sur [0014] et on garde les parties non-vides qui ne sont que des balises ctrl
-    raw_opts = re.split(r"\[0014\]", choice_block)
-    options = []
-    for o in raw_opts:
-        # Retirer les balises de structure [1208][0002][1432][NULL][NULL] etc.
-        # Nettoyer tous les codes de contrôle y compris [U+00XX] (ex: [U+0002], [U+0003])
-        cleaned = (
-            re.sub(
-                r"\[1208\]|\[U\+1208\]|\[U\+[0-9A-Fa-f]{4}\]|\[0002\]|\[1432\]|\[NULL\]",
-                "",
-                o,
+    # Extraire le count_tag (ex: [0002], [U+0003], [0004], [U+0005])
+    count_tag = "[0002]"
+    match_tag = re.search(r"(\[1208\]|\[U\+1208\])(\[U\+[0-9A-Fa-f]{4}\]|\[[0-9A-Fa-f]{4}\])", choice_block)
+    if match_tag:
+        count_tag = match_tag.group(2)
+
+    if "[0014]" in choice_block:
+        raw_opts = re.split(r"\[0014\]", choice_block)
+        options = []
+        for o in raw_opts:
+            cleaned = (
+                re.sub(
+                    r"\[1208\]|\[U\+1208\]|\[U\+[0-9A-Fa-f]{4}\]|\[0002\]|\[1432\]|\[NULL\]",
+                    "",
+                    o,
+                )
+                .strip("\n")
+                .strip()
             )
-            .strip("\n")
-            .strip()
-        )
-        # Un segment valide = texte non vide sans \n interne (le \n sépare les options)
-        if cleaned and "\n" not in cleaned:
-            options.append(cleaned)
+            if cleaned and "\n" not in cleaned:
+                options.append(cleaned)
+    else:
+        after_header = choice_block
+        if match_tag:
+            after_header = choice_block[match_tag.end():]
+        else:
+            after_header = choice_block[len(marker):]
+        
+        lines = [l.strip() for l in after_header.split("\n") if l.strip()]
+        options = []
+        for l in lines:
+            cleaned = re.sub(r"\[1208\]|\[U\+1208\]|\[U\+[0-9A-Fa-f]{4}\]|\[1432\]|\[NULL\]", "", l).strip()
+            if cleaned:
+                options.append(cleaned)
 
     if not options:
-        return body, None
-    return question, options
+        return body, None, None
+    return question, options, count_tag
 
 
-def _rebuild_choice_body(question: str, options: list) -> str:
+def _rebuild_choice_body(question: str, options: list, count_tag: str = None) -> str:
     """
     Reconstruit le texte complet du menu de choix à partir de la question
-    et de la liste d'options, avec les balises de contrôle Atlus PSP.
+    et de la liste d'options, en préservant le count_tag original (ex: [0002], [U+0003], [U+0004]).
     """
+    if not count_tag:
+        n = len(options)
+        count_tag = f"[U+{n:04X}]" if n > 2 else "[0002]"
+
     sep = "[1432][NULL][NULL][0014]"
-    header = "\n[1208][0002]"
+    header = f"\n[1208]{count_tag}"
     opt_str = sep
     opt_str += (sep + "\n" + sep).join(options)
     opt_str += sep
@@ -655,12 +674,16 @@ def migrate_choices_in_json(entries: list) -> list:
         t_fr = e.get("texte_fr", "").strip()
         if not t_fr:
             continue
-        q_fr, opts_fr = _parse_choices(t_fr)
+        q_fr, opts_fr, c_tag = _parse_choices(t_fr)
         if opts_fr is not None and len(opts_fr) == len(e["choix_orig"]):
             e["question_fr"] = q_fr
             e["choix_fr"] = opts_fr
+            if c_tag:
+                e["count_tag"] = c_tag
         elif opts_fr is not None:
             # Nombre d'options différent — on met quand même ce qu'on a
             e["question_fr"] = q_fr
             e["choix_fr"] = opts_fr + [""] * max(0, len(e["choix_orig"]) - len(opts_fr))
+            if c_tag:
+                e["count_tag"] = c_tag
     return entries
