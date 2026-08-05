@@ -90,21 +90,18 @@ Le fichier original a été découpé en 7 parties (de 1000 entrées chacune) da
 
 | Contenu | Fichier | IDs (Estimatif) | Entrées | Progression | Statut |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| Menus & Interface (Titre, Paramètres, Sauvegarde) | Part 1 | 0 à 179 | ~180 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms de Personnages / PNJs / Boss | Part 1 | 180 à 449 | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Commandes & Messages de Combat | Part 1 | 600 à 949 | ~350 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms & Descriptions de Personae / Démons | Part 2 & Part 4 | 900 à 1199 & 3500 à 3999 | ~450 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms & Descriptions de Compétences | Part 2 | 1200 à 1599 | ~900 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms d'Armes / Armures / Accessoires | Part 2 & Part 3 | 1600 à 2199 | ~600 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Objets de quête / Rumeurs / Clés | Part 3 & Part 4 | 2800 à 3499 | ~200 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms de lieux / Donjons / Carte | Part 5 à Part 7 | 4000 à 6500 | ~850 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Autres textes (Tutoriels, Infos, etc.) | Part 7 | Divers | ~250 | 0% | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| **Total** | **Part 1 à 7** | **0 à 6573** | **~6 574** | **0%** | |
+| Menus & Interface (Titre, Paramètres, Sauvegarde) | Part 1 | 0 à 179 | ~180 | **72.2%** | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de Personnages / PNJs / Boss | Part 1 | 180 à 449 | ~270 | **87.4%** | <img src="https://img.shields.io/badge/-Avancé-2ea44f?style=flat-square" alt="Avancé" /> |
+| Commandes & Messages de Combat | Part 1 | 600 à 899 | ~300 | **79.0%** | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Personae / Démons | Part 2 & Part 4 | 900 à 3999 | ~800 | **28.0%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
+| Noms & Descriptions de Compétences | Part 2 | 1200 à 1599 | ~400 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
+| Noms d'Armes / Armures / Accessoires | Part 2 & Part 3 | 1600 à 2199 | ~600 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
+| Objets de quête / Rumeurs / Clés | Part 3 & Part 4 | 2800 à 3499 | ~700 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
+| Noms de lieux / Donjons / Carte | Part 5 à Part 7 | 4000 à 6500 | ~2501 | **0.1%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
+| Autres textes (Tutoriels, Infos, etc.) | Part 1, 2, 7 | 450 à 868 | ~177 | **11.9%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
+| **Total** | **Part 1 à 7** | **0 à 6573** | **~5,928** | **14.3%** | |
 
 <br/>
-
----
-
 **Notes**
 
 - L'eboot est le dernier gros fichier restant.
