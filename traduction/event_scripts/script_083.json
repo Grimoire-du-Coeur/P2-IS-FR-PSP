@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 187898,
-    "data_size": 190,
-    "slot_size": 194,
+    "data_size": 188,
+    "slot_size": 188,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Guys,[SP]this[SP]ship's[SP]on[SP]its[SP]last[SP]legs![SP]It'll\ncrash[SP]any[SP]minute[SP]now.[SP]We[SP]have[SP]to[SP]get[SP]out!",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 188092,
-    "data_size": 218,
-    "slot_size": 222,
+    "data_size": 216,
+    "slot_size": 216,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Listen,[SP]everyone,[SP]you[SP]have[SP]to[SP]trust[SP]us.\nWe'll[SP]make[SP]sure[SP]that[SP]you[SP]all[SP]get[SP]back\nhome[SP]safe[SP]and[SP]sound.",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 188314,
-    "data_size": 184,
-    "slot_size": 188,
+    "data_size": 182,
+    "slot_size": 182,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "H-Hear[SP]that,[SP]you[SP]guys...?[SP]Th-There's[SP]nothing\nt-to[SP]be[SP]scared[SP]of...[SP]G-Got[SP]it...?",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 188502,
-    "data_size": 82,
-    "slot_size": 86,
+    "data_size": 80,
+    "slot_size": 80,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Holy[SP]crap,[SP]we're[SP]high[SP]up...",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 188588,
-    "data_size": 66,
-    "slot_size": 70,
+    "data_size": 64,
+    "slot_size": 64,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Quit[SP]messing[SP]around!",
@@ -82,17 +77,31 @@
   {
     "id": 5,
     "offset": 188658,
-    "data_size": 58,
-    "slot_size": 62,
+    "data_size": 56,
+    "slot_size": 56,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "G-GERONIMOOOOO!",
     "nom_fr": "Eikichi",
     "texte_fr": "G-GERONIMOOOOO!"
+  },
+  {
+    "id": 6,
+    "offset": 188720,
+    "data_size": 114,
+    "slot_size": 128,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Looks[SP]like[SP]they're[SP]okay.[SP]Alright,[SP]next[SP]group.",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

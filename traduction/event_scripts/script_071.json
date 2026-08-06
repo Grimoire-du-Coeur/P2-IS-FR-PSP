@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 163494,
-    "data_size": 80,
-    "slot_size": 84,
+    "data_size": 78,
+    "slot_size": 78,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Grade-schooler",
     "texte_orig": "Help![SP]Someone[SP]help!",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 163578,
-    "data_size": 90,
-    "slot_size": 94,
+    "data_size": 88,
+    "slot_size": 88,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Grade-schooler",
     "texte_orig": "Hrrrrgh![SP]Nnnnngh![SP]Ugh...",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 163672,
-    "data_size": 100,
-    "slot_size": 104,
+    "data_size": 98,
+    "slot_size": 98,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "It's[SP]no[SP]good.[SP]The[SP]elevator's[SP]broken.",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 163776,
-    "data_size": 48,
-    "slot_size": 52,
+    "data_size": 46,
+    "slot_size": 46,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Step[SP]aside.",
@@ -66,17 +62,31 @@
   {
     "id": 4,
     "offset": 163828,
-    "data_size": 222,
-    "slot_size": 226,
+    "data_size": 220,
+    "slot_size": 220,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Talk[SP]about[SP]an[SP]odd[SP]situation...[SP]Oh[SP]well,\nwe'll[SP]just[SP]have[SP]to[SP]pull[SP]him[SP]out.[SP]I[SP]need\nyour[SP]help[SP]here,[SP][1113]!",
     "nom_fr": "Yukino",
-    "texte_fr": "Tu parles d'une situation...\nBon, on va juste\nle sortir de là. J'ai\nbesoin de ton aide là, [u+1113]!"
+    "texte_fr": "Tu parles d'une situation...\nBon, on va juste\nle sortir de là. J'ai\nbesoin de ton aide là, [1113][u+1113]!"
+  },
+  {
+    "id": 5,
+    "offset": 164054,
+    "data_size": 278,
+    "slot_size": 282,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "You're[SP]not[SP]hurt,[SP]are[SP]you?[SP]Your[SP]friends[SP]are\non[SP]the[SP]roof[SP]with[SP]your[SP]teacher,[SP]so[SP]hurry[SP]and\ngo[SP]to[SP]them![SP]But[SP]this[SP]time,[SP]use[SP]the[SP]stairs!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

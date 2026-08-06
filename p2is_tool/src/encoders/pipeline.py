@@ -32,7 +32,7 @@ from src.core.iso import (
 )
 from src.parsers.bin_parser import decode_all_scripts, validate_all_scripts
 from src.encoders.bin_encoder import encode_bin_from_json, encode_bnp_from_json
-from src.encoders.fbe_encoder import encode_fbe_slot, encode_fbe_bnp_from_json
+from src.encoders.fbe_encoder import encode_fbe_bnp_from_json
 
 
 from tkinter import filedialog, messagebox
@@ -261,17 +261,26 @@ def encode_all(
     cmap = {f.name.lower(): f for f in cpk.rglob("*") if f.is_file()}
     ok_f = []
     err_f = []
-    steps = [
-        ("CD_SHOP.json", "cd_shop.bin", "CD_SHOP.BIN"),
-        ("F_BE.json", "f_be.bnp", "F_BE.BNP"),
-        ("TM_EVE.json", "tm_eve.bnp", "TM_EVE.BNP"),
-        ("MMAP01.json", "mmap01.bnp", "MMAP01.BNP"),
-        ("MMAP02.json", "mmap02.bnp", "MMAP02.BNP"),
-        ("MMAP03.json", "mmap03.bnp", "MMAP03.BNP"),
-        ("MMAP04.json", "mmap04.bnp", "MMAP04.BNP"),
-        ("MMAP05.json", "mmap05.bnp", "MMAP05.BNP"),
-        ("MMAP06.json", "mmap06.bnp", "MMAP06.BNP"),
-    ]
+    steps = []
+    for json_file in jdir.glob("*.json"):
+        if json_file.name == "event.json" or json_file.name == "EBOOT_Translation.json":
+            continue
+        
+        # We need to find the matching original file in cpk_files/
+        json_name = json_file.name
+        # Typically the original file is the json name without .json, but the extension was .BIN or .BNP
+        # Let's search in cmap for matching stem
+        stem = json_file.stem.lower()
+        
+        matched_orig = None
+        for orig_name, orig_path in cmap.items():
+            if orig_path.stem.lower() == stem:
+                matched_orig = orig_name
+                break
+                
+        if matched_orig:
+            steps.append((json_name, matched_orig, matched_orig.upper()))
+            
     if targets:
         steps = [s for s in steps if s[0].replace(".json", "").lower() in [t.lower() for t in targets]]
     

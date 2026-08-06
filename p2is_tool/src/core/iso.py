@@ -340,6 +340,34 @@ def extract_cpk_from_iso(iso_path: str, out_dir: Path, log_fn, pspdecrypt_path: 
     return str(out_cpk)
 
 
+def extract_cpk_files_auto(cpk_path: str, out_dir: Path, log_fn=None):
+    """Extrait automatiquement le contenu du CPK en utilisant p2is_cpk_tool.py"""
+    if log_fn:
+        log_fn(f"Extraction automatique de {cpk_path}...", "info")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Path to p2is_cpk_tool.py at project root
+    tool_path = Path(__file__).parent.parent.parent.parent / "p2is_cpk_tool.py"
+    
+    import subprocess
+    try:
+        res = subprocess.run(
+            ["python", str(tool_path), "extract", str(cpk_path), str(out_dir)],
+            capture_output=True, text=True, check=True
+        )
+        if log_fn:
+            log_fn("Extraction terminée avec succès via p2is_cpk_tool.", "ok")
+        return True
+    except subprocess.CalledProcessError as e:
+        if log_fn:
+            log_fn(f"Erreur d'extraction CPK : {e.stderr}", "error")
+        return False
+    except Exception as e:
+        if log_fn:
+            log_fn(f"Erreur inattendue : {e}", "error")
+        return False
+
+
 # ── Extraction event.bin depuis CPK ──────────────────────────────────────────
 
 
@@ -479,10 +507,18 @@ def scan_cpk_files(
     """Scanne les fichiers cibles dans cpk_files/ et extrait leurs dialogues en JSON."""
     cpk_dir = Path(cpk_dir_str)
     out_dir.mkdir(parents=True, exist_ok=True)
-    targets = sorted(SCAN_TARGETS)
     fmap = {f.name.lower(): f for f in Path(cpk_dir_str).rglob("*") if f.is_file()}
+    
+    import fnmatch
+    resolved_targets = set()
+    for fname in fmap.keys():
+        for pat in SCAN_TARGETS:
+            if fnmatch.fnmatch(fname, pat.lower()):
+                resolved_targets.add(fname)
+    targets = sorted(resolved_targets)
+    
     if log_fn:
-        log_fn("Scan des fichiers de jeu…", "head")
+        log_fn(f"Scan des fichiers de jeu ({len(targets)} trouvés)...", "head")
     total = []
     done = []
     offs = load_offsets()

@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 172214,
-    "data_size": 156,
-    "slot_size": 160,
+    "data_size": 154,
+    "slot_size": 154,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Heheh...[1205][001E][SP]That[SP]Ginji[SP]Sasaki[SP]guy's[SP]as[SP]nasty\nas[SP]I[SP]thought[SP]he[SP]was.",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 172374,
-    "data_size": 196,
-    "slot_size": 200,
+    "data_size": 194,
+    "slot_size": 194,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Narcissists[SP]like[SP]him,[SP]who[SP]think[SP]they're[SP]the\nbest[SP]at[SP]everything,[SP]tend[SP]to[SP]be[SP]perverts.",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 172574,
-    "data_size": 78,
-    "slot_size": 82,
+    "data_size": 76,
+    "slot_size": 76,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Nope,[SP]not[SP]this[SP]one.[SP]Next!",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 172656,
-    "data_size": 240,
-    "slot_size": 244,
+    "data_size": 238,
+    "slot_size": 238,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "If[SP]they're[SP]rehearsing[SP]right[SP]now,[SP]doesn't\nthat[SP]mean[SP]Lisa's[SP]onstage[SP]too?[SP]Should[SP]we\ngo[SP]around[SP]to[SP]the[SP]other[SP]side?",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 172900,
-    "data_size": 90,
-    "slot_size": 94,
+    "data_size": 88,
+    "slot_size": 88,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Eikichi...[1205][001E][SP]Pot.[SP]Kettle.[SP]Black.",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 172994,
-    "data_size": 272,
-    "slot_size": 276,
+    "data_size": 270,
+    "slot_size": 270,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Concert[SP]staff",
     "texte_orig": "Are[SP]you[SP]part-time[SP]staff,[SP]too?[SP]That[SP]Ginji\nSasaki[SP]guy[SP]really[SP]pisses[SP]me[SP]off![SP]He[SP]acts\nall[SP]arrogant,[SP]like[SP]he's[SP]King[SP]Shit.",
@@ -98,13 +92,12 @@
   {
     "id": 6,
     "offset": 173270,
-    "data_size": 308,
-    "slot_size": 312,
+    "data_size": 306,
+    "slot_size": 306,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Concert[SP]staff",
     "texte_orig": "Another[SP]guy[SP]here[SP]seemed[SP]crushed[SP]a[SP]moment[SP]ago\nbecause[SP]that[SP]asshole[SP]called[SP]him[SP][1432][NULL][NULL][0014]worthless.[1432][NULL][NULL][0014]\nDon't[SP]get[SP]on[SP]that[SP]guy's[SP]bad[SP]side,[SP]man.",
@@ -114,13 +107,12 @@
   {
     "id": 7,
     "offset": 173582,
-    "data_size": 148,
-    "slot_size": 152,
+    "data_size": 146,
+    "slot_size": 146,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Concert[SP]staff",
     "texte_orig": "The[SP]Muses[SP]girls[SP]are[SP]so[SP]cute.[SP]I'm[SP]definitely\na[SP]fan[SP]now!",
@@ -130,17 +122,31 @@
   {
     "id": 8,
     "offset": 173734,
-    "data_size": 278,
-    "slot_size": 282,
+    "data_size": 276,
+    "slot_size": 276,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Concert[SP]staff",
     "texte_orig": "They're[SP]onstage[SP]rehearsing[SP]right[SP]now,[SP]so[SP]no\none[SP]can[SP]go[SP]in.[SP]You[SP]don't[SP]want[SP]to[SP]earn[SP]a\ndirty[SP]look[SP]from[SP]Sasaki-san,[SP]do[SP]you?",
     "nom_fr": "Membre du personnel",
     "texte_fr": "Elles sont en répétition, personne\nentre. Vous ne voulez pas attirer\nles foudres de Sasaki, n'est-ce pas?"
+  },
+  {
+    "id": 9,
+    "offset": 174016,
+    "data_size": 206,
+    "slot_size": 206,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Concert[SP]staff",
+    "texte_orig": "Lisa-chan[SP]and[SP]the[SP]others[SP]left[SP]a[SP]moment[SP]ago.\nI[SP]think[SP]they're[SP]in[SP]the[SP]waiting[SP]room[SP]now.",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

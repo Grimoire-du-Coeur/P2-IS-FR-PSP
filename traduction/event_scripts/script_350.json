@@ -2,61 +2,57 @@
   {
     "id": 0,
     "offset": 301654,
-    "data_size": 264,
-    "slot_size": 268,
+    "data_size": 262,
+    "slot_size": 262,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "You[SP]got[SP]a[SP]minute?[1205][U+000F][SP]Something's[SP]been[SP]bugging[SP]me...\nDon't[SP]you[SP]think[SP]my[SP]shadow[SP]is[SP]the[SP]only[SP]one[SP]that\ndoesn't[SP]look[SP]like[SP]me?",
+    "texte_orig": "You[SP]got[SP]a[SP]minute?[1205][000F][SP]Something's[SP]been[SP]bugging[SP]me...\nDon't[SP]you[SP]think[SP]my[SP]shadow[SP]is[SP]the[SP]only[SP]one[SP]that\ndoesn't[SP]look[SP]like[SP]me?",
     "nom_fr": "Eikichi",
-    "texte_fr": "T'as une minute? Quelque chose me\ntracasse... Tu trouves pas que mon Ombre\nest la seule qui ne me ressemble pas?"
+    "texte_fr": "T'as une minute? [000F][1205]Quelque chose me\ntracasse... Tu trouves pas que mon Ombre\nest la seule qui ne me ressemble pas?"
   },
   {
     "id": 1,
     "offset": 301922,
-    "data_size": 276,
-    "slot_size": 280,
+    "data_size": 274,
+    "slot_size": 274,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "The[SP]real[SP]me[SP]is[SP]more[SP]elegant...[SP]more[SP]beautiful...[1205][U+000F]\nThat[SP]guy[SP]looks[SP]like[SP]a[SP]different[SP]person.[SP]I[SP]wish\nthey[SP]paid[SP]better[SP]attention.",
+    "texte_orig": "The[SP]real[SP]me[SP]is[SP]more[SP]elegant...[SP]more[SP]beautiful...[1205][000F]\nThat[SP]guy[SP]looks[SP]like[SP]a[SP]different[SP]person.[SP]I[SP]wish\nthey[SP]paid[SP]better[SP]attention.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le vrai moi est\nplus élégant... plus beau...\nCe type ressemble à quelqu'un d'autre. Ils\nauraient pu faire plus attention."
+    "texte_fr": "Le vrai moi est\nplus élégant... plus beau..[1205].\n[000F]Ce type ressemble à quelqu'un d'autre. Ils\nauraient pu faire plus attention."
   },
   {
     "id": 2,
     "offset": 302202,
-    "data_size": 260,
-    "slot_size": 264,
+    "data_size": 258,
+    "slot_size": 258,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "Heh...[1205][U+000A][SP]You[SP]don't[SP]get[SP]it,[SP]Ginko.[1205][U+000F][SP]If[SP]it[SP]really\nhad[SP]as[SP]much[SP]power[SP]as[SP]I[SP]do,[SP]our[SP]whole[SP]team\nwould[SP]have[SP]been[SP]wiped[SP]out.",
+    "texte_orig": "Heh...[1205][000A][SP]You[SP]don't[SP]get[SP]it,[SP]Ginko.[1205][000F][SP]If[SP]it[SP]really\nhad[SP]as[SP]much[SP]power[SP]as[SP]I[SP]do,[SP]our[SP]whole[SP]team\nwould[SP]have[SP]been[SP]wiped[SP]out.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Heh...[1205][U+000A] Tu comprends pas, Ginko. Si elle\navait autant de puissance que moi,\ntoute l'équipe aurait été anéantie."
+    "texte_fr": "Heh.[1205]..[1205][000A] Tu comprends pas, Ginko. [000F]Si elle\navait autant de puissance que moi,\ntoute l'équipe aurait été anéantie."
   },
   {
     "id": 3,
     "offset": 302466,
-    "data_size": 168,
-    "slot_size": 172,
+    "data_size": 166,
+    "slot_size": 166,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "What[SP]on[SP]Earth[SP]is[SP]Eikichi[SP]talking[SP]about!?\nThey[SP]all[SP]looked[SP]exactly[SP]like[SP]us!",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 302638,
-    "data_size": 172,
-    "slot_size": 176,
+    "data_size": 170,
+    "slot_size": 170,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Kehhei![SP]Your[SP]shadow[SP]wasn't[SP]much[SP]either,[SP]Eikichi!\nIt[SP]was[SP]soooo[SP]easy[SP]to[SP]beat!",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 302814,
-    "data_size": 258,
-    "slot_size": 262,
+    "data_size": 256,
+    "slot_size": 256,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "He[SP]did[SP]look[SP]kind[SP]of[SP]different,[SP]though...[SP]I[SP]mean,\ndid[SP]you[SP]see[SP]mine!?[SP]Those[SP]bloodshot[SP]eyes...\nDo[SP]I[SP]really[SP]look[SP]like[SP]that?",
@@ -98,45 +92,42 @@
   {
     "id": 6,
     "offset": 303076,
-    "data_size": 298,
-    "slot_size": 302,
+    "data_size": 296,
+    "slot_size": 296,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "Those[SP]were[SP]the[SP]versions[SP]of[SP]us[SP]everyone[SP]else\nimagined...[1205][U+000F][SP]Maybe[SP]if[SP]those[SP]sketches[SP]hadn't[SP]gone\nout,[SP]they'd[SP]have[SP]looked[SP]completely[SP]different.",
+    "texte_orig": "Those[SP]were[SP]the[SP]versions[SP]of[SP]us[SP]everyone[SP]else\nimagined...[1205][000F][SP]Maybe[SP]if[SP]those[SP]sketches[SP]hadn't[SP]gone\nout,[SP]they'd[SP]have[SP]looked[SP]completely[SP]different.",
     "nom_fr": "Maya",
-    "texte_fr": "C'était la version\nde nous qu'imaginaient les\nautres... Si ces croquis n'avaient pas\ncirculé, elles auraient\neu l'air tout autres."
+    "texte_fr": "C'était la version\nde nous qu'imaginaient les\n[1205]autres.[000F].. Si ces croquis n'avaient pas\ncirculé, elles auraient\neu l'air tout autres."
   },
   {
     "id": 7,
     "offset": 303378,
-    "data_size": 230,
-    "slot_size": 234,
+    "data_size": 228,
+    "slot_size": 228,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "It's[SP]not[SP]that[SP]it[SP]tasted[SP]bad,[SP]but...[1205][U+000F][SP]Maybe[SP]it's\nan[SP]acquired[SP]taste...[1205][U+000F][SP]Uuuugh...[SP]I[SP]dont'[SP]feel\nso[SP]good...",
+    "texte_orig": "It's[SP]not[SP]that[SP]it[SP]tasted[SP]bad,[SP]but...[1205][000F][SP]Maybe[SP]it's\nan[SP]acquired[SP]taste...[1205][000F][SP]Uuuugh...[SP]I[SP]dont'[SP]feel\nso[SP]good...",
     "nom_fr": "Maya",
-    "texte_fr": "C'est pas mauvais,\nmais... C'est peut-être un\ngoût acquis... Beurk... Je\nme sens pas bien..."
+    "texte_fr": "C'est pas mauvais,\nmais... [000F][1205][000F][1205]C'est peut-être un\ngoût acquis... Beurk... Je\nme sens pas bien..."
   },
   {
     "id": 8,
     "offset": 303612,
-    "data_size": 148,
-    "slot_size": 152,
+    "data_size": 146,
+    "slot_size": 146,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "Shadows[SP]are[SP]both[SP]a[SP]part[SP]of[SP]you[SP]and[SP]a[SP]completely\ndifferent[SP]person.",
@@ -146,13 +137,12 @@
   {
     "id": 9,
     "offset": 303764,
-    "data_size": 192,
-    "slot_size": 196,
+    "data_size": 190,
+    "slot_size": 190,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "For[SP]example,[SP]the[SP][1432][NULL][NULL][0014]Jun[1432][NULL][NULL][0014][SP]Lisa[SP]knows[SP]and[SP]the[SP]one\n[1113][SP]knows[SP]are[SP]a[SP]little[SP]bit[SP]different.",
@@ -162,13 +152,12 @@
   {
     "id": 10,
     "offset": 303960,
-    "data_size": 230,
-    "slot_size": 234,
+    "data_size": 228,
+    "slot_size": 228,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "If[SP]the[SP]two[SP]of[SP]you[SP]had[SP]a[SP]conversation[SP]about[SP]me,\neach[SP]of[SP]you[SP]would[SP]be[SP]imagining[SP]a[SP]slightly\ndifferent[SP]person.",
@@ -178,61 +167,57 @@
   {
     "id": 11,
     "offset": 304194,
-    "data_size": 198,
-    "slot_size": 202,
+    "data_size": 196,
+    "slot_size": 196,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
-    "texte_orig": "It's[SP]the[SP]same[SP]with[SP]the[SP]shadows.[1205][U+000F][SP]Two[SP]rumors\nwere[SP]spread[SP]about[SP]the[SP]people[SP]in[SP]the[SP]mugshots.",
+    "texte_orig": "It's[SP]the[SP]same[SP]with[SP]the[SP]shadows.[1205][000F][SP]Two[SP]rumors\nwere[SP]spread[SP]about[SP]the[SP]people[SP]in[SP]the[SP]mugshots.",
     "nom_fr": "Jun",
-    "texte_fr": "C'est pareil pour les Ombres. Deux rumeurs\nont circulé sur les personnes des photos."
+    "texte_fr": "C'est pareil pour les Ombres. [000F][1205]Deux rumeurs\nont circulé sur les personnes des photos."
   },
   {
     "id": 12,
     "offset": 304396,
-    "data_size": 316,
-    "slot_size": 320,
+    "data_size": 314,
+    "slot_size": 314,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
-    "texte_orig": "Both[SP]came[SP]true,[SP]so[SP]another[SP]personality[SP]which[SP]had\nnot[SP]previously[SP]existed[SP]came[SP]into[SP]being.[1205][U+000F][SP]Those\nshadows[SP]are[SP]the[SP][1432][NULL][NULL][0014]us[1432][NULL][NULL][0014][SP]that[SP]the[SP]people[SP]imagined.",
+    "texte_orig": "Both[SP]came[SP]true,[SP]so[SP]another[SP]personality[SP]which[SP]had\nnot[SP]previously[SP]existed[SP]came[SP]into[SP]being.[1205][000F][SP]Those\nshadows[SP]are[SP]the[SP][1432][NULL][NULL][0014]us[1432][NULL][NULL][0014][SP]that[SP]the[SP]people[SP]imagined.",
     "nom_fr": "Jun",
-    "texte_fr": "Les deux se sont réalisées, donc une autre\npersonnalité inexistante a vu le jour. Ces\nOmbres sont le\n[1432][NULL][NULL][0014]nous[1432][NULL][NULL][0014] qu'imaginaient les gens."
+    "texte_fr": "Les deux se sont réalisées, donc une autre\npersonnalité inexistante a vu le jour. Ces\n[000F][1205]Ombres sont le\n[1432][NULL][NULL][0014]nous[1432][NULL][NULL][0014] qu'imaginaient les gens."
   },
   {
     "id": 13,
     "offset": 304716,
-    "data_size": 246,
-    "slot_size": 250,
+    "data_size": 244,
+    "slot_size": 244,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
-    "texte_orig": "And[SP]can[SP]you[SP]be[SP]so[SP]sure[SP]that[SP]we're[SP]real,[SP]and\nthe[SP]shadows[SP]we[SP]defeated[SP]were[SP]the[SP]impostors?[1205][U+000F]\nMaybe[SP]it's[SP]the[SP]opposite.",
+    "texte_orig": "And[SP]can[SP]you[SP]be[SP]so[SP]sure[SP]that[SP]we're[SP]real,[SP]and\nthe[SP]shadows[SP]we[SP]defeated[SP]were[SP]the[SP]impostors?[1205][000F]\nMaybe[SP]it's[SP]the[SP]opposite.",
     "nom_fr": "Jun",
-    "texte_fr": "Êtes-vous certains que nous sommes\nréels et que les Ombres étaient\nimposteurs? C'est peut-être l'inverse."
+    "texte_fr": "Êtes-vous certains que nous sommes\nréels et que les Ombres étaient\nimposteurs? [000F][1205]C'est peut-être l'inverse."
   },
   {
     "id": 14,
     "offset": 304966,
-    "data_size": 82,
-    "slot_size": 86,
+    "data_size": 80,
+    "slot_size": 80,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "...Rumors[SP]are[SP]indeed[SP]terrifying.",
@@ -242,13 +227,12 @@
   {
     "id": 15,
     "offset": 305052,
-    "data_size": 236,
-    "slot_size": 240,
+    "data_size": 234,
+    "slot_size": 234,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "The[SP]fact[SP]that[SP]they're[SP]becoming[SP]reality[SP]erodes\nthe[SP]very[SP]foundation[SP]of[SP]everything[SP]we[SP]ever\nthought[SP]to[SP]be[SP]true...",
@@ -258,29 +242,27 @@
   {
     "id": 16,
     "offset": 305292,
-    "data_size": 224,
-    "slot_size": 228,
+    "data_size": 222,
+    "slot_size": 222,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Pretentious[SP]man",
-    "texte_orig": "Ohhh,[SP]I-I[SP]knew[SP]this[SP]would[SP]happen.[1205][U+000F][SP]B-But[SP]I\nthought[SP]you'd[SP]be[SP]surprised![SP]You[SP]like[SP]surprises!",
+    "texte_orig": "Ohhh,[SP]I-I[SP]knew[SP]this[SP]would[SP]happen.[1205][000F][SP]B-But[SP]I\nthought[SP]you'd[SP]be[SP]surprised![SP]You[SP]like[SP]surprises!",
     "nom_fr": "Homme prétentieux",
-    "texte_fr": "Ohhh, j-je savais. M-Mais je voulais\nvous surprendre! Vous aimez ça!"
+    "texte_fr": "Ohhh, j-je savais. [000F][1205]M-Mais je voulais\nvous surprendre! Vous aimez ça!"
   },
   {
     "id": 17,
     "offset": 305520,
-    "data_size": 188,
-    "slot_size": 192,
+    "data_size": 186,
+    "slot_size": 186,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Working[SP]woman",
     "texte_orig": "It's[SP]pretty[SP]obvious[SP]that[SP]you're[SP]lying,[SP]but[SP]I'll\naccept[SP]that[SP]answer[SP]for[SP]now.",
@@ -290,13 +272,12 @@
   {
     "id": 18,
     "offset": 305712,
-    "data_size": 274,
-    "slot_size": 278,
+    "data_size": 272,
+    "slot_size": 272,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Working[SP]woman",
     "texte_orig": "But[SP]it's[SP]nice[SP]to[SP]think[SP]that[SP]we're[SP]evolving...\nIt's[SP]a[SP]good[SP]opportunity[SP]to[SP]change[SP]the[SP]things\nI[SP]didn't[SP]like[SP]about[SP]myself.",
@@ -306,18 +287,28 @@
   {
     "id": 19,
     "offset": 305990,
-    "data_size": 368,
-    "slot_size": 372,
+    "data_size": 366,
+    "slot_size": 366,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][U+000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][U+0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
+    "texte_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Bienvenue au Clair de Lune.\nQue puis-je pour vous?\n[1208][U+0007][1210][U+03BC]Acheter armes\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici\nParler\nNon merci\nQuitter",
+    "texte_fr": "Bienvenue au Clair de Lune.\n[000F][1205]Que puis-je pour vous?\n[1208][0007][1210]Acheter armes\n[1210]Acheter accessoires\n[1210]Vendre objets\nDîner ici\nParler\nNon merci\nQuitter",
+    "question_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?",
+    "choix_orig": [
+      "[1210]Buy[SP]weapons",
+      "[1210]Buy[SP]accessories",
+      "[1210]Sell[SP]items",
+      "Dine[SP]in",
+      "Talk[SP]to[SP]the[SP]Garcon",
+      "Never[SP]mind",
+      "Leave"
+    ],
+    "count_tag": "[0007]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -326,18 +317,28 @@
   {
     "id": 20,
     "offset": 306362,
-    "data_size": 324,
-    "slot_size": 328,
+    "data_size": 322,
+    "slot_size": 322,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+    "texte_orig": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que pouvez-vous me vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires",
+    "question_orig": "What[SP]can[SP]you[SP]sell[SP]me?",
+    "choix_orig": [
+      "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
+      "[111F]Sell[SP]items",
+      "[111F]Sell[SP]weapons",
+      "[111F][1210][B_00][B_00]ell[SP]head[SP]armor",
+      "[111F]Sell[SP]armor",
+      "[111F][1210][B_00][B_00]ell[SP]leg[SP]armor",
+      "[111F]Sell[SP]accessories"
+    ],
+    "count_tag": "[0007]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -346,18 +347,25 @@
   {
     "id": 21,
     "offset": 306690,
-    "data_size": 504,
-    "slot_size": 508,
+    "data_size": 266,
+    "slot_size": 266,
     "_term": [
-      4358,
+      4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][U+0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada[E1][E2][E3][121D][U+0005]CAUTION[E4][NULL][NULL][0002]\nNo[SP]bits[SP]are[SP]up.[SP]Please[SP]check[SP]this.\n-Kanada",
+    "texte_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que vouliez-vous demander?\n[1208][U+0004]Bavarder\n[1210][U+03BC]Parler boutique\nParler du repas\n[1210][U+0100]Sélection cachée\n[1109][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[E1][E2][E3][121D][U+0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+    "question_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?",
+    "choix_orig": [
+      "Make[SP]small[SP]talk",
+      "[1210]Ask[SP]about[SP]shopping",
+      "Ask[SP]about[SP]dining[SP]in",
+      "[1210][B_00][B_00]ndisplayed[SP]selection"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -366,18 +374,28 @@
   {
     "id": 22,
     "offset": 307198,
-    "data_size": 368,
-    "slot_size": 372,
+    "data_size": 366,
+    "slot_size": 366,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][U+000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][U+0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
+    "texte_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Bienvenue au Clair de Lune.\nQue puis-je pour vous?\n[1208][U+0007][1210][U+03BC]Acheter armes\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici\nParler\nNon merci\nQuitter",
+    "texte_fr": "Bienvenue au Clair de Lune.\n[000F][1205]Que puis-je pour vous?\n[1208][0007][1210]Acheter armes\n[1210]Acheter accessoires\n[1210]Vendre objets\nDîner ici\nParler\nNon merci\nQuitter",
+    "question_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?",
+    "choix_orig": [
+      "[1210]Buy[SP]weapons",
+      "[1210]Buy[SP]accessories",
+      "[1210]Sell[SP]items",
+      "Dine[SP]in",
+      "Talk[SP]to[SP]the[SP]Garcon",
+      "Never[SP]mind",
+      "Leave"
+    ],
+    "count_tag": "[0007]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -386,18 +404,28 @@
   {
     "id": 23,
     "offset": 307570,
-    "data_size": 324,
-    "slot_size": 328,
+    "data_size": 322,
+    "slot_size": 322,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+    "texte_orig": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que pouvez-vous me vendre?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires",
+    "question_orig": "What[SP]can[SP]you[SP]sell[SP]me?",
+    "choix_orig": [
+      "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
+      "[111F]Sell[SP]items",
+      "[111F]Sell[SP]weapons",
+      "[111F][1210][B_00][B_00]ell[SP]head[SP]armor",
+      "[111F]Sell[SP]armor",
+      "[111F][1210][B_00][B_00]ell[SP]leg[SP]armor",
+      "[111F]Sell[SP]accessories"
+    ],
+    "count_tag": "[0007]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -406,18 +434,25 @@
   {
     "id": 24,
     "offset": 307898,
-    "data_size": 268,
-    "slot_size": 272,
+    "data_size": 266,
+    "slot_size": 266,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][U+0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][U+0100]Undisplayed[SP]selection",
+    "texte_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que vouliez-vous demander?\n[1208][U+0004]Bavarder\n[1210][U+03BC]Parler boutique\nParler du repas\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas\n[1210]Sélection cachée",
+    "question_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?",
+    "choix_orig": [
+      "Make[SP]small[SP]talk",
+      "[1210]Ask[SP]about[SP]shopping",
+      "Ask[SP]about[SP]dining[SP]in",
+      "[1210][B_00][B_00]ndisplayed[SP]selection"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -426,61 +461,57 @@
   {
     "id": 25,
     "offset": 308170,
-    "data_size": 304,
-    "slot_size": 308,
+    "data_size": 302,
+    "slot_size": 302,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "If[SP]the[SP]city's[SP]flying,[SP]evacuation[SP]will[SP]be[SP]an\nimpossibility.[1205][U+000F][SP]You'd[SP]only[SP]be[SP]caught[SP]in[SP]the\ndestruction[SP]below[SP]anyway.[1205][U+000F][SP]We[SP]are[SP]trapped.",
+    "texte_orig": "If[SP]the[SP]city's[SP]flying,[SP]evacuation[SP]will[SP]be[SP]an\nimpossibility.[1205][000F][SP]You'd[SP]only[SP]be[SP]caught[SP]in[SP]the\ndestruction[SP]below[SP]anyway.[1205][000F][SP]We[SP]are[SP]trapped.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Si la ville vole, toute évacuation\nest impossible. Vous seriez pris dans\nla destruction. Nous sommes piégés."
+    "texte_fr": "Si la ville vole, toute évacuation\n[1205][1205]est impossible. [000F][000F]Vous seriez pris dans\nla destruction. Nous sommes piégés."
   },
   {
     "id": 26,
     "offset": 308478,
-    "data_size": 264,
-    "slot_size": 268,
+    "data_size": 262,
+    "slot_size": 262,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Perhaps[SP]it[SP]is[SP]destiny[SP]that[SP]I[SP]evolve[SP]into[SP]an\nIdealian[SP]here.[1205][U+000F][SP]I[SP]may[SP]as[SP]well[SP]embrace[SP]it...\nIt's[SP]better[SP]than[SP]death.",
+    "texte_orig": "Perhaps[SP]it[SP]is[SP]destiny[SP]that[SP]I[SP]evolve[SP]into[SP]an\nIdealian[SP]here.[1205][000F][SP]I[SP]may[SP]as[SP]well[SP]embrace[SP]it...\nIt's[SP]better[SP]than[SP]death.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "C'est peut-être mon destin de devenir\nun Idéalien ici. Autant l'accepter...\nC'est mieux que la mort."
+    "texte_fr": "C'est peut-être mon destin de devenir\nun Idéalien ici. [000F][1205]Autant l'accepter...\nC'est mieux que la mort."
   },
   {
     "id": 27,
     "offset": 308746,
-    "data_size": 316,
-    "slot_size": 320,
+    "data_size": 314,
+    "slot_size": 314,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "We[SP]provide[SP]excellent[SP]service[SP]and[SP]an[SP]assortment\nof[SP]the[SP]latest[SP]armaments[SP]to[SP]suit[SP]the[SP]customer's\nneeds.[1205][U+000F][SP]Allow[SP]me[SP]to[SP]show[SP]you[SP]our[SP]selection.",
+    "texte_orig": "We[SP]provide[SP]excellent[SP]service[SP]and[SP]an[SP]assortment\nof[SP]the[SP]latest[SP]armaments[SP]to[SP]suit[SP]the[SP]customer's\nneeds.[1205][000F][SP]Allow[SP]me[SP]to[SP]show[SP]you[SP]our[SP]selection.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Nous offrons un service d'excellence et un\nassortiment des dernières armes. \nPermettez-moi de\nvous présenter notre[1101]sélection."
+    "texte_fr": "Nous offrons un service d'excellence et un\nassortiment des dernières armes. \n[1205]Permettez-moi de\n[000F]vous présenter notresélection."
   },
   {
     "id": 28,
     "offset": 309066,
-    "data_size": 248,
-    "slot_size": 252,
+    "data_size": 246,
+    "slot_size": 246,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Now,[SP]for[SP]your[SP]viewing[SP]pleasure.[SP]All[SP]of[SP]our\ntres[SP]bien[SP]weapons[SP]come[SP]with[SP]our[SP]highest\nguarantee[SP]of[SP]quality.",
@@ -490,61 +521,57 @@
   {
     "id": 29,
     "offset": 309318,
-    "data_size": 182,
-    "slot_size": 186,
+    "data_size": 180,
+    "slot_size": 180,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Legendary[SP]gun?[1205][U+000F][SP]You've[SP]come[SP]for[SP]it[SP]too?[1205][U+000F][SP]Ah...\nNever[SP]mind.[SP]Excuse[SP]me.",
+    "texte_orig": "Legendary[SP]gun?[1205][000F][SP]You've[SP]come[SP]for[SP]it[SP]too?[1205][000F][SP]Ah...\nNever[SP]mind.[SP]Excuse[SP]me.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Le pistolet légendaire? Vous\naussi? Ah... Excusez-moi."
+    "texte_fr": "Le pistolet légendaire? [000F][1205][000F][1205]Vous\naussi? Ah... Excusez-moi."
   },
   {
     "id": 30,
     "offset": 309504,
-    "data_size": 320,
-    "slot_size": 324,
+    "data_size": 318,
+    "slot_size": 318,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "I[SP]don't[SP]know[SP]where[SP]it[SP]started,[SP]but[SP]there[SP]is[SP]a\nrumor[SP]circulating[SP]that[SP][E4][NULL][NULL][U+0006]our[SP]restaurant[SP]carries\na[SP]legendary[SP]gun[E4][NULL][NULL][0002].[SP]As[SP]if[SP]that[SP]were[SP]true...",
+    "texte_orig": "I[SP]don't[SP]know[SP]where[SP]it[SP]started,[SP]but[SP]there[SP]is[SP]a\nrumor[SP]circulating[SP]that[SP][E4][NULL][NULL][0006]our[SP]restaurant[SP]carries\na[SP]legendary[SP]gun[E4][NULL][NULL][0002].[SP]As[SP]if[SP]that[SP]were[SP]true...",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Je ne sais pas d'où\nça vient, mais une rumeur\ncourt que [E4][NULL][NULL][U+0006]notre\nrestaurant possède un pistolet\nlégendaire[E4][NULL][NULL][0002]. Comme si c'était  vrai..."
+    "texte_fr": "Je ne sais pas d'où\nça vient, mais une rumeur\ncourt que [E4][NULL][NULL][0006]notre\nrestaurant possède un pistolet\nlégendaire[E4][NULL][NULL][0002]. Comme si c'était  vrai..."
   },
   {
     "id": 31,
     "offset": 309828,
-    "data_size": 212,
-    "slot_size": 216,
+    "data_size": 210,
+    "slot_size": 210,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "It's[SP]a[SP]lie,[SP]naturally.[E4][NULL][NULL][U+0006][SP]Having[SP]to[SP]address[SP]it[SP]has\nbeen[SP]a[SP]constant[SP]thorn[SP]in[SP]our[SP]side.",
+    "texte_orig": "It's[SP]a[SP]lie,[SP]naturally.[E4][NULL][NULL][0006][SP]Having[SP]to[SP]address[SP]it[SP]has\nbeen[SP]a[SP]constant[SP]thorn[SP]in[SP]our[SP]side.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "C'est un mensonge.[E4][NULL][NULL][U+0006] Devoir y répondre\nest une épine dans notre pied."
+    "texte_fr": "C'est un mensonge.[E4][NULL][NULL][0006] Devoir y répondre\nest une épine dans notre pied."
   },
   {
     "id": 32,
     "offset": 310044,
-    "data_size": 190,
-    "slot_size": 194,
+    "data_size": 188,
+    "slot_size": 188,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "I[SP]appreciate[SP]your[SP]inquiry,[SP]but[SP]I[SP]cannot[SP]sell\nwhat[SP]we[SP]do[SP]not[SP]have.[SP]Good[SP]day.",
@@ -554,13 +581,12 @@
   {
     "id": 33,
     "offset": 310238,
-    "data_size": 214,
-    "slot_size": 218,
+    "data_size": 212,
+    "slot_size": 212,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "If[SP]there[SP]were[SP]such[SP]a[SP]thing[SP]as[SP]this[SP]legendary\ngun,[SP]I[SP]should[SP]like[SP]to[SP]see[SP]it[SP]for[SP]myself...",
@@ -570,45 +596,42 @@
   {
     "id": 34,
     "offset": 310456,
-    "data_size": 122,
-    "slot_size": 126,
+    "data_size": 120,
+    "slot_size": 120,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Au[SP]revoir...[1205][U+000F][SP]I[SP]shall[SP]await[SP]your[SP]return.",
+    "texte_orig": "Au[SP]revoir...[1205][000F][SP]I[SP]shall[SP]await[SP]your[SP]return.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Au revoir... J'attendrai votre retour."
+    "texte_fr": "Au revoir.[000F][1205].. J'attendrai votre retour."
   },
   {
     "id": 35,
     "offset": 310582,
-    "data_size": 170,
-    "slot_size": 174,
+    "data_size": 168,
+    "slot_size": 168,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Please...[1205][U+000F][SP]We[SP]really[SP]have[SP]no[SP]such[SP]thing[SP]as[SP]this\nlegendary[SP]gun...",
+    "texte_orig": "Please...[1205][000F][SP]We[SP]really[SP]have[SP]no[SP]such[SP]thing[SP]as[SP]this\nlegendary[SP]gun...",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Je vous en prie... Nous n'avons\npas ce pistolet légendaire..."
+    "texte_fr": "Je vous en prie.[000F][1205].. Nous n'avons\npas ce pistolet légendaire..."
   },
   {
     "id": 36,
     "offset": 310756,
-    "data_size": 58,
-    "slot_size": 62,
+    "data_size": 56,
+    "slot_size": 56,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Oh,[SP]I[SP]think[SP]you[SP]do!",
@@ -618,109 +641,102 @@
   {
     "id": 37,
     "offset": 310818,
-    "data_size": 300,
-    "slot_size": 304,
+    "data_size": 298,
+    "slot_size": 298,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "My,[SP]my...[1205][U+000F][SP]I[SP]can[SP]never[SP]put[SP]one[SP]over[SP]on[SP]you,[SP]can\nI,[SP]Ms.[SP]Maya?[1205][U+000F][SP]Very[SP]well,[SP]but[SP]you[SP]must[SP]keep[SP]what\nI[SP]am[SP]about[SP]to[SP]tell[SP]you[SP]a[SP]secret.",
+    "texte_orig": "My,[SP]my...[1205][000F][SP]I[SP]can[SP]never[SP]put[SP]one[SP]over[SP]on[SP]you,[SP]can\nI,[SP]Ms.[SP]Maya?[1205][000F][SP]Very[SP]well,[SP]but[SP]you[SP]must[SP]keep[SP]what\nI[SP]am[SP]about[SP]to[SP]tell[SP]you[SP]a[SP]secret.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Oh là là... Je ne peux vous duper,\nn'est-ce pas, Mlle Maya? Soit. Mais ce\nque je vais dire doit rester un secret."
+    "texte_fr": "Oh là là.[000F][1205][000F][1205].. Je ne peux vous duper,\nn'est-ce pas, Mlle Maya? Soit. Mais ce\nque je vais dire doit rester un secret."
   },
   {
     "id": 38,
     "offset": 311122,
-    "data_size": 280,
-    "slot_size": 284,
+    "data_size": 278,
+    "slot_size": 278,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Yes,[SP]we[SP]do[SP]have[SP]the[SP]legendary[SP]gun[SP]in[SP]stock.[1205][U+000F]\nAnd[SP]yes,[SP]it[SP]has[SP]historical[SP]significance,[SP]so[SP]I\nam[SP]relucant[SP]to[SP]let[SP]go[SP]of[SP]it.",
+    "texte_orig": "Yes,[SP]we[SP]do[SP]have[SP]the[SP]legendary[SP]gun[SP]in[SP]stock.[1205][000F]\nAnd[SP]yes,[SP]it[SP]has[SP]historical[SP]significance,[SP]so[SP]I\nam[SP]relucant[SP]to[SP]let[SP]go[SP]of[SP]it.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Oui, nous avons le pistolet légendaire.\nIl a une valeur historique, c'est\npourquoi j'hésite à m'en séparer."
+    "texte_fr": "Oui, nous avons le pistolet légendaire.\n[000F][1205]Il a une valeur historique, c'est\npourquoi j'hésite à m'en séparer."
   },
   {
     "id": 39,
     "offset": 311406,
-    "data_size": 168,
-    "slot_size": 172,
+    "data_size": 166,
+    "slot_size": 166,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "What![SP]Don't[SP]say[SP]that![1205][U+000F][SP]Please?[SP]Pleeease?[1205][U+000F]\nIf[SP]you[SP]have[SP]it,[SP]sell[SP]it[SP]to[SP]us!",
+    "texte_orig": "What![SP]Don't[SP]say[SP]that![1205][000F][SP]Please?[SP]Pleeease?[1205][000F]\nIf[SP]you[SP]have[SP]it,[SP]sell[SP]it[SP]to[SP]us!",
     "nom_fr": "Maya",
-    "texte_fr": "Quoi! S'il vous plaît? Pllleease?\nSi vous l'avez, vendez-le-nous!"
+    "texte_fr": "Quoi! S'il vous plaît? [000F][1205][000F][1205]Pllleease?\nSi vous l'avez, vendez-le-nous!"
   },
   {
     "id": 40,
     "offset": 311578,
-    "data_size": 216,
-    "slot_size": 220,
+    "data_size": 214,
+    "slot_size": 214,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Hmmm...[1205][U+000F][SP]Our[SP]reputation[SP]would[SP]suffer[SP]if[SP]we\nwere[SP]to[SP]refuse[SP]to[SP]meet[SP]a[SP]customer's[SP]needs...",
+    "texte_orig": "Hmmm...[1205][000F][SP]Our[SP]reputation[SP]would[SP]suffer[SP]if[SP]we\nwere[SP]to[SP]refuse[SP]to[SP]meet[SP]a[SP]customer's[SP]needs...",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Hmm... Notre réputation en souffrirait si\nnous refusions de satisfaire un client..."
+    "texte_fr": "Hmm.[1205].[000F]. Notre réputation en souffrirait si\nnous refusions de satisfaire un client..."
   },
   {
     "id": 41,
     "offset": 311798,
-    "data_size": 236,
-    "slot_size": 240,
+    "data_size": 234,
+    "slot_size": 234,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "I[SP]propose[SP]a[SP]deal.[1205][U+000F][SP]If[SP]you[SP]sample[SP]an[SP]experimental\ndish[SP]of[SP]ours,[SP]I[SP]will[SP]sell[SP]you[SP]the[SP]legendary[SP]gun.",
+    "texte_orig": "I[SP]propose[SP]a[SP]deal.[1205][000F][SP]If[SP]you[SP]sample[SP]an[SP]experimental\ndish[SP]of[SP]ours,[SP]I[SP]will[SP]sell[SP]you[SP]the[SP]legendary[SP]gun.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Je vous propose un marché. Goûtez\nun plat expérimental et je vous\nvends le pistolet légendaire."
+    "texte_fr": "Je vous propose un marché. [000F][1205]Goûtez\nun plat expérimental et je vous\nvends le pistolet légendaire."
   },
   {
     "id": 42,
     "offset": 312038,
-    "data_size": 158,
-    "slot_size": 162,
+    "data_size": 156,
+    "slot_size": 156,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "What?[1205][U+000F][SP]Really!?[1205][U+000F][SP]Of[SP]course![SP]I'll[SP]eat[SP]anything![1205][U+000F]\nJust[SP]bring[SP]it[SP]out!",
+    "texte_orig": "What?[1205][000F][SP]Really!?[1205][000F][SP]Of[SP]course![SP]I'll[SP]eat[SP]anything![1205][000F]\nJust[SP]bring[SP]it[SP]out!",
     "nom_fr": "Maya",
-    "texte_fr": "Quoi? Vraiment!? Bien sûr!\nJe mange tout! Apportez-le!"
+    "texte_fr": "Quoi? [000F][1205][000F][1205][000F][1205]Vraiment!? Bien sûr!\nJe mange tout! Apportez-le!"
   },
   {
     "id": 43,
     "offset": 312200,
-    "data_size": 232,
-    "slot_size": 236,
+    "data_size": 230,
+    "slot_size": 230,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "The[SP]new[SP]dish[SP]is[SP]a[SP]Clair[SP]de[SP]Lune[SP]original:\nspaghetti[SP]di[SP]kusaya,[SP]using[SP]generous[SP]amounts\nof[SP]kusaya.",
@@ -730,13 +746,12 @@
   {
     "id": 44,
     "offset": 312436,
-    "data_size": 36,
-    "slot_size": 40,
+    "data_size": 34,
+    "slot_size": 34,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Kusaya!?",
@@ -746,29 +761,27 @@
   {
     "id": 45,
     "offset": 312476,
-    "data_size": 314,
-    "slot_size": 318,
+    "data_size": 312,
+    "slot_size": 312,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Yes.[1205][U+000F][SP]If[SP]I[SP]recall[SP]correctly,[SP]this[SP]was[SP]one[SP]of\nyour[SP]least[SP]favorite[SP]foods.[1205][U+000F][SP]That[SP]is[SP]why[SP]I[SP]am\nasking[SP]you[SP]to[SP]do[SP]this.[1205][U+000F][SP]I[SP]won't[SP]force[SP]you...",
+    "texte_orig": "Yes.[1205][000F][SP]If[SP]I[SP]recall[SP]correctly,[SP]this[SP]was[SP]one[SP]of\nyour[SP]least[SP]favorite[SP]foods.[1205][000F][SP]That[SP]is[SP]why[SP]I[SP]am\nasking[SP]you[SP]to[SP]do[SP]this.[1205][000F][SP]I[SP]won't[SP]force[SP]you...",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Oui. Si je me souviens, c'était l'un de\nvos aliments les moins appréciés. C'est\npour cela. Je ne vous force pas..."
+    "texte_fr": "Oui. [000F][1205][000F][1205][000F][1205]Si je me souviens, c'était l'un de\nvos aliments les moins appréciés. C'est\npour cela. Je ne vous force pas..."
   },
   {
     "id": 46,
     "offset": 312794,
-    "data_size": 230,
-    "slot_size": 234,
+    "data_size": 228,
+    "slot_size": 228,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Psst,[SP][1113]...[SP]What[SP]should[SP]I[SP]do?[SP]I[SP]just\ncan't[SP]eat[SP]kusaya...[SP]Just[SP]thinking[SP]of[SP]that\nevil[SP]taste[SP]makes[SP]me[SP]sick...",
@@ -778,13 +791,12 @@
   {
     "id": 47,
     "offset": 313028,
-    "data_size": 176,
-    "slot_size": 180,
+    "data_size": 174,
+    "slot_size": 174,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Please...[SP]Don't[SP]make[SP]me[SP]do[SP]this...\n[1208][0002][1432][NULL][NULL][0014]Eat[SP]it.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]okay,[SP]Maya.[1432][NULL][NULL][0014]",
@@ -795,6 +807,7 @@
       "Eat[SP]it.",
       "It's[SP]okay,[SP]Maya."
     ],
+    "count_tag": "[0002]",
     "question_fr": "Je vous en supplie... Pas ça...",
     "choix_fr": [
       "Mange-le.",
@@ -804,93 +817,102 @@
   {
     "id": 48,
     "offset": 313208,
-    "data_size": 44,
-    "slot_size": 48,
+    "data_size": 42,
+    "slot_size": 42,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "N...[1205][U+000F][SP]No...",
+    "texte_orig": "N...[1205][000F][SP]No...",
     "nom_fr": "Maya",
-    "texte_fr": "N... Non."
+    "texte_fr": "N.[1205].[000F]. Non."
   },
   {
     "id": 49,
     "offset": 313256,
-    "data_size": 206,
-    "slot_size": 210,
+    "data_size": 204,
+    "slot_size": 204,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "What[SP]a[SP]good[SP]friend[SP]you[SP]have.[1205][U+000F][SP]Well[SP]then,[SP]please\ndig[SP]in[SP]to[SP]our[SP]spaghetti[SP]di[SP]kusaya.",
+    "texte_orig": "What[SP]a[SP]good[SP]friend[SP]you[SP]have.[1205][000F][SP]Well[SP]then,[SP]please\ndig[SP]in[SP]to[SP]our[SP]spaghetti[SP]di[SP]kusaya.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Quel bon ami vous avez. Alors, veuillez\nvous régaler de nos spaghetti di kusaya."
+    "texte_fr": "Quel bon ami vous avez. [000F][1205]Alors, veuillez\nvous régaler de nos spaghetti di kusaya."
   },
   {
     "id": 50,
     "offset": 313466,
-    "data_size": 332,
-    "slot_size": 336,
+    "data_size": 154,
+    "slot_size": 154,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "F-Fine![SP]I'll[SP]eat[SP]it![SP]Just[SP]you[SP]watch![SP]I'll[SP]show\nyou[SP]what[SP]I'm[SP]made[SP]of![E1][E2][E3]>[SP]Maya[SP]braved[SP]the[SP]meal...[1107][E2][E3][E4][NULL][NULL]\"Maya\nI...[1205][U+000F][SP]I[SP]ate[SP]it...[1205][U+000F][SP]Spaghetti...[1205][U+000F][SP]di[SP]kusaya...",
+    "texte_orig": "F-Fine![SP]I'll[SP]eat[SP]it![SP]Just[SP]you[SP]watch![SP]I'll[SP]show\nyou[SP]what[SP]I'm[SP]made[SP]of!",
     "nom_fr": "Maya",
-    "texte_fr": "T-Très bien! Je vais\nle manger! Vous verrez![E3]>\nMaya affronta le plat...[1107][E2][E1][E2]\n[E3][E4][NULL][NULL] \"Maya J'ai... Je\nl'ai mangé... Spaghetti... di kusaya..."
+    "texte_fr": "T-Très bien! Je vais\nle manger! Vous verrez![E3]>\nMaya affronta le plat...[E2][E1][E2]\n[E3][E4][NULL][NULL] \"Maya J'ai... Je\nl'ai mangé... Spaghetti... di kusaya..."
   },
   {
     "id": 51,
-    "offset": 313802,
-    "data_size": 112,
-    "slot_size": 116,
+    "offset": 313682,
+    "data_size": 114,
+    "slot_size": 114,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
-    "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Such[SP]bravery...[1205][U+000F][SP]How[SP]was[SP]the[SP]taste?",
-    "nom_fr": "Garçon Soejima",
-    "texte_fr": "Quel courage... Et le goût?"
+    "nom_orig": "Maya",
+    "texte_orig": "I...[1205][000F][SP]I[SP]ate[SP]it...[1205][000F][SP]Spaghetti...[1205][000F][SP]di[SP]kusaya...",
+    "nom_fr": "",
+    "texte_fr": ""
   },
   {
     "id": 52,
-    "offset": 313918,
-    "data_size": 58,
-    "slot_size": 62,
+    "offset": 313802,
+    "data_size": 110,
+    "slot_size": 110,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
-    "nom_orig": "Maya",
-    "texte_orig": "[1113]...[1205][U+000F][SP]Take[SP]over...",
-    "nom_fr": "Maya",
-    "texte_fr": "[1113]... À toi..."
+    "nom_orig": "Garcon[SP]Soejima",
+    "texte_orig": "Such[SP]bravery...[1205][000F][SP]How[SP]was[SP]the[SP]taste?",
+    "nom_fr": "Garçon Soejima",
+    "texte_fr": "Quel courage.[000F][1205].. Et le goût?"
   },
   {
     "id": 53,
-    "offset": 313980,
-    "data_size": 44,
-    "slot_size": 48,
+    "offset": 313918,
+    "data_size": 56,
+    "slot_size": 56,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "[1113]...[1205][000F][SP]Take[SP]over...",
+    "nom_fr": "Maya",
+    "texte_fr": "[1113].[000F][1205].. À toi..."
+  },
+  {
+    "id": 54,
+    "offset": 313980,
+    "data_size": 42,
+    "slot_size": 42,
+    "_term": [
+      4358,
+      4354,
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "Ah![SP]Maya-san!",
@@ -898,15 +920,14 @@
     "texte_fr": "Ah! Maya!"
   },
   {
-    "id": 54,
+    "id": 55,
     "offset": 314028,
-    "data_size": 156,
-    "slot_size": 160,
+    "data_size": 154,
+    "slot_size": 154,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "How[SP]was[SP]the[SP]taste?\n[1208][0002][1432][NULL][NULL][0014]Delicious.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Horrible.[1432][NULL][NULL][0014]",
@@ -917,6 +938,7 @@
       "Delicious.",
       "Horrible."
     ],
+    "count_tag": "[0002]",
     "question_fr": "C'était bon?",
     "choix_fr": [
       "Délicieux.",
@@ -924,79 +946,29 @@
     ]
   },
   {
-    "id": 55,
-    "offset": 314188,
-    "data_size": 190,
-    "slot_size": 194,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Thank[SP]you[SP]very[SP]much.[1205][U+000F][SP]Now,[SP]as[SP]promised,[SP]I[SP]will\nsell[SP]you[SP]the[SP]legendary[SP]gun.",
-    "nom_fr": "Garçon Soejima",
-    "texte_fr": "Merci. Comme promis, je vous\nvends le pistolet légendaire."
-  },
-  {
     "id": 56,
-    "offset": 314382,
-    "data_size": 180,
-    "slot_size": 184,
+    "offset": 314188,
+    "data_size": 188,
+    "slot_size": 188,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "I'll[SP]add[SP]it[SP]to[SP]our[SP]menu,[SP]so[SP]you[SP]may[SP]come[SP]and\nbuy[SP]it[SP]whenever[SP]you[SP]wish.",
+    "texte_orig": "Thank[SP]you[SP]very[SP]much.[1205][000F][SP]Now,[SP]as[SP]promised,[SP]I[SP]will\nsell[SP]you[SP]the[SP]legendary[SP]gun.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Je l'ajoute au menu, venez\nl'acheter quand vous voulez."
+    "texte_fr": "Merci. [000F][1205]Comme promis, je vous\nvends le pistolet légendaire."
   },
   {
     "id": 57,
-    "offset": 314566,
-    "data_size": 142,
-    "slot_size": 146,
+    "offset": 314382,
+    "data_size": 178,
+    "slot_size": 178,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Don't[SP]worry.[1205][U+000F][SP]We'll[SP]hold[SP]it[SP]for[SP]you[SP]and\nyou[SP]alone.",
-    "nom_fr": "Garçon Soejima",
-    "texte_fr": "Ne vous inquiétez pas. Rien que pour vous."
-  },
-  {
-    "id": 58,
-    "offset": 314712,
-    "data_size": 242,
-    "slot_size": 246,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "How[SP]disappointing...[1205][U+000F][SP]But[SP]never[SP]mind.[1205][U+000F][SP]A[SP]promise\nis[SP]a[SP]promise.[1205][U+000F][SP]I[SP]will[SP]sell[SP]you[SP]the[SP]legendary[SP]gun.",
-    "nom_fr": "Garçon Soejima",
-    "texte_fr": "Déception... Peu importe. Une\npromesse est une promesse. Je vous\nvends le pistolet légendaire."
-  },
-  {
-    "id": 59,
-    "offset": 314958,
-    "data_size": 180,
-    "slot_size": 184,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "I'll[SP]add[SP]it[SP]to[SP]our[SP]menu,[SP]so[SP]you[SP]may[SP]come[SP]and\nbuy[SP]it[SP]whenever[SP]you[SP]wish.",
@@ -1004,31 +976,74 @@
     "texte_fr": "Je l'ajoute au menu, venez\nl'acheter quand vous voulez."
   },
   {
-    "id": 60,
-    "offset": 315142,
-    "data_size": 142,
-    "slot_size": 146,
+    "id": 58,
+    "offset": 314566,
+    "data_size": 140,
+    "slot_size": 140,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "Don't[SP]worry.[1205][U+000F][SP]We'll[SP]hold[SP]it[SP]for[SP]you[SP]and\nyou[SP]alone.",
+    "texte_orig": "Don't[SP]worry.[1205][000F][SP]We'll[SP]hold[SP]it[SP]for[SP]you[SP]and\nyou[SP]alone.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Ne vous inquiétez pas. Rien que pour vous."
+    "texte_fr": "Ne vous inquiétez pas. [000F][1205]Rien que pour vous."
+  },
+  {
+    "id": 59,
+    "offset": 314712,
+    "data_size": 240,
+    "slot_size": 240,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Garcon[SP]Soejima",
+    "texte_orig": "How[SP]disappointing...[1205][000F][SP]But[SP]never[SP]mind.[1205][000F][SP]A[SP]promise\nis[SP]a[SP]promise.[1205][000F][SP]I[SP]will[SP]sell[SP]you[SP]the[SP]legendary[SP]gun.",
+    "nom_fr": "Garçon Soejima",
+    "texte_fr": "Déception..[000F][1205][000F][1205][1205]. [000F]Peu importe. Une\npromesse est une promesse. Je vous\nvends le pistolet légendaire."
+  },
+  {
+    "id": 60,
+    "offset": 314958,
+    "data_size": 178,
+    "slot_size": 178,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Garcon[SP]Soejima",
+    "texte_orig": "I'll[SP]add[SP]it[SP]to[SP]our[SP]menu,[SP]so[SP]you[SP]may[SP]come[SP]and\nbuy[SP]it[SP]whenever[SP]you[SP]wish.",
+    "nom_fr": "Garçon Soejima",
+    "texte_fr": "Je l'ajoute au menu, venez\nl'acheter quand vous voulez."
   },
   {
     "id": 61,
-    "offset": 315288,
-    "data_size": 46,
-    "slot_size": 50,
+    "offset": 315142,
+    "data_size": 140,
+    "slot_size": 140,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
+    ],
+    "nom_orig": "Garcon[SP]Soejima",
+    "texte_orig": "Don't[SP]worry.[1205][000F][SP]We'll[SP]hold[SP]it[SP]for[SP]you[SP]and\nyou[SP]alone.",
+    "nom_fr": "Garçon Soejima",
+    "texte_fr": "Ne vous inquiétez pas. [000F][1205]Rien que pour vous."
+  },
+  {
+    "id": 62,
+    "offset": 315288,
+    "data_size": 44,
+    "slot_size": 44,
+    "_term": [
+      4358,
+      4354,
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "She[SP]fainted...",
@@ -1036,47 +1051,44 @@
     "texte_fr": "Évanouie..."
   },
   {
-    "id": 62,
+    "id": 63,
     "offset": 315338,
-    "data_size": 118,
-    "slot_size": 122,
+    "data_size": 116,
+    "slot_size": 116,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "Oh,[SP]thankyouthankyouthankyou![1205][U+000F][SP]I[SP]owe[SP]you[SP]one,\n[1113]!",
+    "texte_orig": "Oh,[SP]thankyouthankyouthankyou![1205][000F][SP]I[SP]owe[SP]you[SP]one,\n[1113]!",
     "nom_fr": "Maya",
-    "texte_fr": "Oh, mercimercimercii! Je\nte revaudrai ça, [1113]!"
-  },
-  {
-    "id": 63,
-    "offset": 315460,
-    "data_size": 218,
-    "slot_size": 222,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Garcon[SP]Soejima",
-    "texte_orig": "So[SP]you[SP]won't[SP]budge[SP]an[SP]inch...[1205][U+000F][SP]Too[SP]bad.[SP]I'll\npretend[SP]this[SP]conversation[SP]never[SP]took[SP]place.",
-    "nom_fr": "Garçon Soejima",
-    "texte_fr": "Vous ne cèderez pas... Dommage. Faisons\ncomme si ça n'avait pas eu lieu."
+    "texte_fr": "Oh, mercimercimercii! [000F][1205]Je\nte revaudrai ça, [1113]!"
   },
   {
     "id": 64,
-    "offset": 315682,
-    "data_size": 120,
-    "slot_size": 124,
+    "offset": 315460,
+    "data_size": 216,
+    "slot_size": 216,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
+    ],
+    "nom_orig": "Garcon[SP]Soejima",
+    "texte_orig": "So[SP]you[SP]won't[SP]budge[SP]an[SP]inch...[1205][000F][SP]Too[SP]bad.[SP]I'll\npretend[SP]this[SP]conversation[SP]never[SP]took[SP]place.",
+    "nom_fr": "Garçon Soejima",
+    "texte_fr": "Vous ne cèderez pas..[1205]. [000F]Dommage. Faisons\ncomme si ça n'avait pas eu lieu."
+  },
+  {
+    "id": 65,
+    "offset": 315682,
+    "data_size": 118,
+    "slot_size": 118,
+    "_term": [
+      4358,
+      4354,
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "You[SP]don't[SP]seem[SP]to[SP]have[SP]anything[SP]to[SP]sell.",
@@ -1084,27 +1096,32 @@
     "texte_fr": "Vous ne semblez rien avoir à vendre."
   },
   {
-    "id": 65,
+    "id": 66,
     "offset": 315806,
-    "data_size": 150,
-    "slot_size": 154,
+    "data_size": 148,
+    "slot_size": 148,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "The[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]this[SP]acceptable?\n[1208][0002]Yes\nNo",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Total: [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]Oui[0014]Non",
+    "texte_fr": "Total: [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]OuiNon",
+    "question_orig": "The[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]this[SP]acceptable?",
+    "choix_orig": [
+      "Yes",
+      "No"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""
     ]
   },
   {
-    "id": 66,
+    "id": 67,
     "offset": 315960,
     "data_size": 210,
     "slot_size": 214,
@@ -1119,7 +1136,7 @@
     "texte_fr": "Voici comment fonctionne le dîner. Vous\npouvez commander depuis notre menu."
   },
   {
-    "id": 67,
+    "id": 68,
     "offset": 316174,
     "data_size": 300,
     "slot_size": 304,
@@ -1134,15 +1151,14 @@
     "texte_fr": "Nos plats augmentent certaines stats\npour un temps limité. Laquelle\ndépend du plat. Essayez-les tous."
   },
   {
-    "id": 68,
+    "id": 69,
     "offset": 316478,
-    "data_size": 276,
-    "slot_size": 280,
+    "data_size": 274,
+    "slot_size": 274,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "But[SP]once[SP]you[SP]have[SP]dined,[SP]you[SP]will[SP]be[SP]too[SP]full\nfor[SP]another[SP]meal[SP]until[SP]the[SP]first[SP]one[SP]has[SP]worn\noff.[SP]Please[SP]remember[SP]this.",
@@ -1150,7 +1166,7 @@
     "texte_fr": "Une fois rassasié, vous ne pourrez pas\ndîner à nouveau tant que l'effet n'est\npas passé. Veuillez en tenir compte."
   },
   {
-    "id": 69,
+    "id": 70,
     "offset": 316758,
     "data_size": 150,
     "slot_size": 154,
@@ -1165,7 +1181,7 @@
     "texte_fr": "Permettez-moi d'expliquer\nnos offres hors menu."
   },
   {
-    "id": 70,
+    "id": 71,
     "offset": 316912,
     "data_size": 208,
     "slot_size": 212,
@@ -1180,7 +1196,7 @@
     "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter armes,[1432][NULL][NULL][0014] je vous\nmontrerai notre sélection d'armements."
   },
   {
-    "id": 71,
+    "id": 72,
     "offset": 317124,
     "data_size": 210,
     "slot_size": 214,
@@ -1195,7 +1211,7 @@
     "texte_fr": "Seuls certains personnages peuvent équiper\ncertaines armes. Vérifiez avant achat."
   },
   {
-    "id": 72,
+    "id": 73,
     "offset": 317338,
     "data_size": 284,
     "slot_size": 288,
@@ -1210,7 +1226,7 @@
     "texte_fr": "Nous rachetons aussi vos objets.\nChoisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] et je vous\ndemanderai le type d'objet à vendre."
   },
   {
-    "id": 73,
+    "id": 74,
     "offset": 317626,
     "data_size": 272,
     "slot_size": 276,
@@ -1225,15 +1241,14 @@
     "texte_fr": "Choisissez le type puis l'objet à me\nvendre: je le rachèterai à environ\nla moitié de son prix d'origine."
   },
   {
-    "id": 74,
+    "id": 75,
     "offset": 317902,
-    "data_size": 252,
-    "slot_size": 256,
+    "data_size": 250,
+    "slot_size": 250,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Remember,[SP]please,[SP]that[SP]you[SP]cannot[SP]sell[SP]what\nis[SP]currently[SP]equipped.[SP]Nor[SP]can[SP]you[SP]sell[SP]certain\nspecial[SP]items.",
@@ -1241,7 +1256,7 @@
     "texte_fr": "Notez que vous ne pouvez vendre ni ce qui\nest équipé, ni certains objets spéciaux."
   },
   {
-    "id": 75,
+    "id": 76,
     "offset": 318158,
     "data_size": 150,
     "slot_size": 154,
@@ -1256,7 +1271,7 @@
     "texte_fr": "Permettez-moi d'expliquer\nnos offres hors menu."
   },
   {
-    "id": 76,
+    "id": 77,
     "offset": 318312,
     "data_size": 208,
     "slot_size": 212,
@@ -1271,7 +1286,7 @@
     "texte_fr": "Choisissez [1432][NULL][NULL][0014]Acheter armes,[1432][NULL][NULL][0014] je vous\nmontrerai notre sélection d'armements."
   },
   {
-    "id": 77,
+    "id": 78,
     "offset": 318524,
     "data_size": 210,
     "slot_size": 214,
@@ -1286,7 +1301,7 @@
     "texte_fr": "Seuls certains personnages peuvent équiper\ncertaines armes. Vérifiez avant achat."
   },
   {
-    "id": 78,
+    "id": 79,
     "offset": 318738,
     "data_size": 254,
     "slot_size": 258,
@@ -1301,7 +1316,7 @@
     "texte_fr": "Vous pouvez aussi\nchoisir [1432][NULL][NULL][0014]Acheter accessoires,[1432][NULL][NULL][0014]\npour explorer notre gamme d'améliorations."
   },
   {
-    "id": 79,
+    "id": 80,
     "offset": 318996,
     "data_size": 202,
     "slot_size": 206,
@@ -1316,7 +1331,7 @@
     "texte_fr": "Certains accessoires sont réservés à\ncertains personnages, prenez-en note."
   },
   {
-    "id": 80,
+    "id": 81,
     "offset": 319202,
     "data_size": 284,
     "slot_size": 288,
@@ -1331,7 +1346,7 @@
     "texte_fr": "Nous rachetons aussi vos objets.\nChoisissez [1432][NULL][NULL][0014]Vendre objets[1432][NULL][NULL][0014] et je vous\ndemanderai le type d'objet à vendre."
   },
   {
-    "id": 81,
+    "id": 82,
     "offset": 319490,
     "data_size": 272,
     "slot_size": 276,
@@ -1346,15 +1361,14 @@
     "texte_fr": "Choisissez le type puis l'objet à me\nvendre: je le rachèterai à environ\nla moitié de son prix d'origine."
   },
   {
-    "id": 82,
+    "id": 83,
     "offset": 319766,
-    "data_size": 252,
-    "slot_size": 256,
+    "data_size": 250,
+    "slot_size": 250,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Remember,[SP]please,[SP]that[SP]you[SP]cannot[SP]sell[SP]what\nis[SP]currently[SP]equipped.[SP]Nor[SP]can[SP]you[SP]sell[SP]certain\nspecial[SP]items.",
@@ -1362,20 +1376,50 @@
     "texte_fr": "Notez que vous ne pouvez vendre ni ce qui\nest équipé, ni certains objets spéciaux."
   },
   {
-    "id": 83,
+    "id": 84,
     "offset": 320022,
-    "data_size": 150,
-    "slot_size": 154,
+    "data_size": 148,
+    "slot_size": 148,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "The[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]this[SP]acceptable?\n[1208][0002]Yes\nNo",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Total: [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]Oui[0014]Non",
+    "texte_fr": "Total: [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]OuiNon",
+    "question_orig": "The[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]this[SP]acceptable?",
+    "choix_orig": [
+      "Yes",
+      "No"
+    ],
+    "count_tag": "[0002]",
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 85,
+    "offset": 320176,
+    "data_size": 148,
+    "slot_size": 160,
+    "_term": [
+      4361,
+      4354,
+      4355
+    ],
+    "nom_orig": "Garcon[SP]Soejima",
+    "texte_orig": "The[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]this[SP]acceptable?\n[1208][0002]Yes\nNo",
+    "nom_fr": "Garçon Soejima",
+    "texte_fr": "Total: [120E][NULL] yens.\nEst-ce acceptable?\n[1208][0002]OuiNon",
+    "question_orig": "The[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]this[SP]acceptable?",
+    "choix_orig": [
+      "Yes",
+      "No"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""

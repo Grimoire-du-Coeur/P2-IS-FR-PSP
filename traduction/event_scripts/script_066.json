@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 355274,
-    "data_size": 86,
-    "slot_size": 90,
+    "data_size": 84,
+    "slot_size": 84,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Dammit...[1205][001E][SP]We[SP]were[SP]too[SP]late!",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 355364,
-    "data_size": 124,
-    "slot_size": 128,
+    "data_size": 122,
+    "slot_size": 122,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Anna![1205][001E][SP]She's[SP]not[SP]here...[SP]Why[SP]would[SP]she\ndo[SP]this!?",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 355492,
-    "data_size": 258,
-    "slot_size": 262,
+    "data_size": 256,
+    "slot_size": 256,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Kehhei![SP]This[SP]is[SP]terrible![SP]What[SP]is[SP]this\nOracle[SP]of[SP]Maia,[SP]anyway,[SP]that[SP]makes[SP]the\nMasked[SP]Circle[SP]do[SP]such[SP]horrible[SP]things!?",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 355754,
-    "data_size": 188,
-    "slot_size": 192,
+    "data_size": 186,
+    "slot_size": 186,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Yasuo's[SP]dead,[SP]too...[1205][001E][SP]Does[SP]this[SP]mean[SP]we've\nhit[SP]a[SP]wall[SP]in[SP]our[SP]search[SP]for[SP]Joker!?",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 355946,
-    "data_size": 298,
-    "slot_size": 302,
+    "data_size": 296,
+    "slot_size": 296,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Guys,[SP]wherever[SP]rumors[SP]are,[SP]Joker's[SP]there[SP]too,\nright?[SP]Let's[SP]go[SP]out[SP]in[SP]the[SP]city[SP]and[SP]ask[SP]people\nfor[SP]rumors[SP]about[SP]the[SP]Masked[SP]Circle[SP]and[SP]Joker!",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 356248,
-    "data_size": 92,
-    "slot_size": 96,
+    "data_size": 90,
+    "slot_size": 90,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "I'm[SP]sure[SP]we'll[SP]learn[SP]something[SP]new!",
@@ -98,17 +92,31 @@
   {
     "id": 6,
     "offset": 356344,
-    "data_size": 180,
-    "slot_size": 184,
+    "data_size": 178,
+    "slot_size": 178,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "There[SP]must[SP]be[SP]a[SP]reason[SP]why[SP]Anna[SP]became[SP]an\nexecutive[SP]in[SP]the[SP]Masked[SP]Circle...[1205][001E]",
     "nom_fr": "Yukino",
     "texte_fr": "Il y a forcément une raison pour\nqu'Anna soit cadre du Cercle masqué...[1205][001E]"
+  },
+  {
+    "id": 7,
+    "offset": 356528,
+    "data_size": 152,
+    "slot_size": 160,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Ms.[SP]Saeko[SP]saved[SP]me[SP]once,[SP]and[SP]now[SP]it's[SP]my\nturn[SP]to[SP]save[SP]that[SP]girl!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 196830,
-    "data_size": 232,
-    "slot_size": 236,
+    "data_size": 230,
+    "slot_size": 230,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "I'd[SP]heard[SP]the[SP]rumor[SP]about[SP]this[SP]secret\nlounge,[SP]too...[1205][001E][SP]But[SP]actually[SP]seeing[SP]it\nfor[SP]myself[SP]is[SP]kinda[SP]weird.",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 197066,
-    "data_size": 214,
-    "slot_size": 218,
+    "data_size": 212,
+    "slot_size": 212,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]used[SP]to[SP]come[SP]here[SP]about[SP]as[SP]often[SP]as[SP]I\ncame[SP]to[SP]school.[SP]When[SP]did[SP]this[SP]city[SP]get\nso[SP]messed[SP]up...?",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 197284,
-    "data_size": 264,
-    "slot_size": 268,
+    "data_size": 262,
+    "slot_size": 262,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "A[SP]gathering...?[SP]I[SP]wonder[SP]what[SP]that's\nabout.[SP]It[SP]seems[SP]like[SP]someone[SP]summoned[SP]them\nhere...[1205][001E][SP]I[SP]don't[SP]like[SP]the[SP]sound[SP]of[SP]this.",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 197552,
-    "data_size": 196,
-    "slot_size": 200,
+    "data_size": 194,
+    "slot_size": 194,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Eikichi's[SP]not[SP]here[SP]either.[SP]Won't[SP]he[SP]be[SP]in\ntrouble[SP]if[SP]we[SP]don't[SP]hurry[SP]and[SP]go[SP]after[SP]him?",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 197752,
-    "data_size": 232,
-    "slot_size": 236,
+    "data_size": 230,
+    "slot_size": 230,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Masked[SP]man",
     "texte_orig": "I'm[SP]glad[SP]that[SP]my[SP]leg[SP]hair[SP]is[SP]completely[SP]gone,\nbut[SP]I[SP]really[SP]hate[SP]having[SP]to[SP]come[SP]to[SP]these\ngatherings.",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 197988,
-    "data_size": 230,
-    "slot_size": 234,
+    "data_size": 228,
+    "slot_size": 228,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Masked[SP]man",
     "texte_orig": "It[SP]was[SP]a[SP]shock[SP]to[SP]find[SP]that[SP]summons[SP]at[SP]the\nbottom[SP]of[SP]my[SP]boxed[SP]lunch.[SP]Feels[SP]like[SP]I'm\nbeing[SP]watched.",
@@ -98,17 +92,31 @@
   {
     "id": 6,
     "offset": 198222,
-    "data_size": 212,
-    "slot_size": 216,
+    "data_size": 210,
+    "slot_size": 210,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Masked[SP]woman",
     "texte_orig": "I[SP]totally[SP]had[SP]a[SP]summons[SP]in[SP]my[SP]purse[SP]too,\nyesterday?[SP]I[SP]was[SP]like,[SP]is[SP]someone[SP]stalking[SP]me?",
     "nom_fr": "Femme masquée",
     "texte_fr": "Moi aussi j'ai reçu une convocation dans\nmon sac hier. Genre, on me surveille?"
+  },
+  {
+    "id": 7,
+    "offset": 198438,
+    "data_size": 304,
+    "slot_size": 314,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Masked[SP]woman",
+    "texte_orig": "It[SP]was[SP]totally[SP]creepy[SP]and[SP]stuff?[SP]But[SP]part[SP]of\nthe[SP]deal[SP]was[SP]to[SP]come[SP]to[SP]the[SP]gatherings[SP]so[SP]I'm\nnot[SP]turned[SP]to[SP]one[SP]of[SP]those[SP]thingies,[SP]so...?",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

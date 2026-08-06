@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 363970,
-    "data_size": 256,
-    "slot_size": 260,
+    "data_size": 254,
+    "slot_size": 254,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "I'm[SP]officially[SP]baffled[SP]now.[SP]This[SP]looks[SP]exactly\nlike[SP]the[SP]shrine[SP]I[SP]see[SP]in[SP]my[SP]dreams.[SP]It's[SP]like\na[SP]bad[SP]case[SP]of[SP]deja[SP]vu.",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 364230,
-    "data_size": 242,
-    "slot_size": 246,
+    "data_size": 240,
+    "slot_size": 240,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Huh?[SP]This[SP]is[SP]the[SP]same[SP]tree,[SP]too...[1205][001E][SP]So[SP]weird.\nEverything[SP]about[SP]this[SP]place[SP]is[SP]just[SP]like[SP]it\nis[SP]in[SP]my[SP]dream...",
@@ -34,77 +32,72 @@
   {
     "id": 2,
     "offset": 364476,
-    "data_size": 236,
-    "slot_size": 240,
+    "data_size": 234,
+    "slot_size": 234,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "The[SP]shrine[SP]from[SP]my[SP]dream...[1205][U+000F][SP]Why's[SP]it[SP]here?[1205][U+000F]\nOr,[SP]better[SP]question:[SP]Did[SP]I[SP]somehow[SP]know\nabout[SP]this[SP]shrine?",
+    "texte_orig": "The[SP]shrine[SP]from[SP]my[SP]dream...[1205][000F][SP]Why's[SP]it[SP]here?[1205][000F]\nOr,[SP]better[SP]question:[SP]Did[SP]I[SP]somehow[SP]know\nabout[SP]this[SP]shrine?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le sanctuaire de mon rêve... Que\nfait-il là? Ou... est-ce que je\nconnaissais déjà ce sanctuaire?"
+    "texte_fr": "Le sanctuaire de mon rêve.[000F][1205][000F][1205].. Que\nfait-il là? Ou... est-ce que je\nconnaissais déjà ce sanctuaire?"
   },
   {
     "id": 3,
     "offset": 364716,
-    "data_size": 272,
-    "slot_size": 276,
+    "data_size": 270,
+    "slot_size": 270,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "Haha...[1205][U+000A][SP]This[SP]can't[SP]be[SP]right...[1205][U+000F][SP]Even[SP]that[SP]old\nlady[SP]is[SP]the[SP]same[SP]person[SP]I[SP]saw[SP]in[SP]my[SP]dreams...[1205][U+000F]\nWh-What's[SP]happening[SP]to[SP]me?",
+    "texte_orig": "Haha...[1205][000A][SP]This[SP]can't[SP]be[SP]right...[1205][000F][SP]Even[SP]that[SP]old\nlady[SP]is[SP]the[SP]same[SP]person[SP]I[SP]saw[SP]in[SP]my[SP]dreams...[1205][000F]\nWh-What's[SP]happening[SP]to[SP]me?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Haha...[1205][U+000A] C'est impossible... Même cette\nvieille dame est celle que j'ai vue en\nrêve... Q-Qu'est-ce qui m'arrive?"
+    "texte_fr": "Haha.[1205][1205]..[1205][000A] C'est impossible.[000F][000F].. Même cette\nvieille dame est celle que j'ai vue en\nrêve... Q-Qu'est-ce qui m'arrive?"
   },
   {
     "id": 4,
     "offset": 364992,
-    "data_size": 172,
-    "slot_size": 176,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "That's[SP]right![1205][U+000F][SP]We[SP]did[SP]have[SP]a[SP]secret[SP]base!\nI[SP]can[SP]clearly[SP]remember[SP]it[SP]now.",
-    "nom_fr": "Eikichi",
-    "texte_fr": "C'est vrai! On avait une base\nsecrète! Je m'en souviens maintenant."
-  },
-  {
-    "id": 5,
-    "offset": 365168,
-    "data_size": 254,
-    "slot_size": 258,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Eikichi",
-    "texte_orig": "I[SP]feel[SP]bad[SP]about[SP]what[SP]we[SP]did[SP]to[SP]that[SP]girl.[1205][U+000F]\nIf[SP]we'd[SP]done[SP]this[SP]sooner,[SP]she[SP]wouldn't[SP]have\nended[SP]up[SP]in[SP]this[SP]state...",
-    "nom_fr": "Eikichi",
-    "texte_fr": "Je me sens mal pour ce qu'on lui a\nfait. Si on avait agi plus tôt, elle\nne se serait pas dans cet état..."
-  },
-  {
-    "id": 6,
-    "offset": 365426,
-    "data_size": 166,
+    "data_size": 170,
     "slot_size": 170,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "That's[SP]right![1205][000F][SP]We[SP]did[SP]have[SP]a[SP]secret[SP]base!\nI[SP]can[SP]clearly[SP]remember[SP]it[SP]now.",
+    "nom_fr": "Eikichi",
+    "texte_fr": "C'est vrai! [000F][1205]On avait une base\nsecrète! Je m'en souviens maintenant."
+  },
+  {
+    "id": 5,
+    "offset": 365168,
+    "data_size": 252,
+    "slot_size": 252,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "I[SP]feel[SP]bad[SP]about[SP]what[SP]we[SP]did[SP]to[SP]that[SP]girl.[1205][000F]\nIf[SP]we'd[SP]done[SP]this[SP]sooner,[SP]she[SP]wouldn't[SP]have\nended[SP]up[SP]in[SP]this[SP]state...",
+    "nom_fr": "Eikichi",
+    "texte_fr": "Je me sens mal pour ce qu'on lui a\nfait. [000F][1205]Si on avait agi plus tôt, elle\nne se serait pas dans cet état..."
+  },
+  {
+    "id": 6,
+    "offset": 365426,
+    "data_size": 164,
+    "slot_size": 164,
+    "_term": [
+      4358,
+      4354,
+      4355
     ],
     "nom_orig": "Lisa",
     "texte_orig": "Fanna...[SP]I[SP]don't[SP]like[SP]it[SP]here.[1205][001E][SP]It's[SP]boring.\nLet's[SP]hurry[SP]back[SP]to[SP]Sevens.",
@@ -114,13 +107,12 @@
   {
     "id": 7,
     "offset": 365596,
-    "data_size": 168,
-    "slot_size": 172,
+    "data_size": 166,
+    "slot_size": 166,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Fanna...[SP]I[SP]don't[SP]like[SP]it[SP]here.[1205][001E][SP]It's[SP]boring.\nLet's[SP]hurry[SP]back[SP]to[SP]Sevens.",
@@ -130,125 +122,117 @@
   {
     "id": 8,
     "offset": 365768,
-    "data_size": 190,
-    "slot_size": 194,
+    "data_size": 188,
+    "slot_size": 188,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "Fanna,[SP]no...[SP]Nuh-uh...[1205][U+000A][SP]I[SP]don't[SP]wanna[SP]be[SP]here.[1205][U+000F]\nLet's[SP]ditch[SP]this[SP]place,[SP]Chinyan...",
+    "texte_orig": "Fanna,[SP]no...[SP]Nuh-uh...[1205][000A][SP]I[SP]don't[SP]wanna[SP]be[SP]here.[1205][000F]\nLet's[SP]ditch[SP]this[SP]place,[SP]Chinyan...",
     "nom_fr": "Ginko",
-    "texte_fr": "Fanna, non... Non non...[1205][U+000A] Je veux pas\nrester ici. On s'en va, Chinyan..."
+    "texte_fr": "Fanna, non... [1205]Non non...[1205][000A] Je veux pas\n[000F]rester ici. On s'en va, Chinyan..."
   },
   {
     "id": 9,
     "offset": 365962,
-    "data_size": 70,
-    "slot_size": 74,
+    "data_size": 68,
+    "slot_size": 68,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "Could[SP]it[SP]be...?[1205][U+000F][SP]But...",
+    "texte_orig": "Could[SP]it[SP]be...?[1205][000F][SP]But...",
     "nom_fr": "Ginko",
-    "texte_fr": "Serait-ce...? Mais..."
+    "texte_fr": "Serait-ce.[1205].[000F].? Mais..."
   },
   {
     "id": 10,
     "offset": 366036,
-    "data_size": 144,
-    "slot_size": 148,
+    "data_size": 142,
+    "slot_size": 142,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "......![1205][U+000F][SP]Oh,[SP]sorry-ia![SP]I[SP]was[SP]just[SP]talking\nto[SP]myself,[SP]haha...",
+    "texte_orig": "......![1205][000F][SP]Oh,[SP]sorry-ia![SP]I[SP]was[SP]just[SP]talking\nto[SP]myself,[SP]haha...",
     "nom_fr": "Ginko",
-    "texte_fr": "......! Oh, pardon-ia! Je\nparlais toute seule, haha..."
+    "texte_fr": "...[1205].[000F]..! Oh, pardon-ia! Je\nparlais toute seule, haha..."
   },
   {
     "id": 11,
     "offset": 366184,
-    "data_size": 178,
-    "slot_size": 182,
+    "data_size": 176,
+    "slot_size": 176,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "A[SP]fire...[SP]ten[SP]years[SP]ago[SP]here,[SP]too...[1205][U+000F]\nI'm[SP]scared,[SP][1113].[SP]I[SP]don't[SP]want[SP]to\nbe[SP]here!",
+    "texte_orig": "A[SP]fire...[SP]ten[SP]years[SP]ago[SP]here,[SP]too...[1205][000F]\nI'm[SP]scared,[SP][1113].[SP]I[SP]don't[SP]want[SP]to\nbe[SP]here!",
     "nom_fr": "Ginko",
-    "texte_fr": "Un incendie... il y a dix ans ici... J'ai\npeur, [1113]. Je veux pas rester ici!"
+    "texte_fr": "Un incendie... il y a dix ans ici.[1205].[000F]. J'ai\npeur, [1113]. Je veux pas rester ici!"
   },
   {
     "id": 12,
     "offset": 366366,
-    "data_size": 172,
-    "slot_size": 176,
+    "data_size": 170,
+    "slot_size": 170,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "That[SP]summer[SP]ten[SP]years[SP]ago...[SP]Remember...?[1205][U+000F]\nIt's[SP]real...[1205][U+000F][SP]I'm[SP]scared,[SP][1113]...",
+    "texte_orig": "That[SP]summer[SP]ten[SP]years[SP]ago...[SP]Remember...?[1205][000F]\nIt's[SP]real...[1205][000F][SP]I'm[SP]scared,[SP][1113]...",
     "nom_fr": "Ginko",
-    "texte_fr": "Il y a dix ans... Tu t'en souviens?\nC'est réel... J'ai peur, [1113]..."
+    "texte_fr": "Il y a dix ans... Tu t'en souviens?\n[000F][1205][000F][1205]C'est réel... J'ai peur, [1113]..."
   },
   {
     "id": 13,
     "offset": 366542,
-    "data_size": 240,
-    "slot_size": 244,
+    "data_size": 238,
+    "slot_size": 238,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "Do[SP]you[SP]remember[SP]the[SP]secret[SP]base,[SP][1113]?\nThe[SP]one[SP]behind[SP]this[SP]shrine...[1205][U+000F][SP]Mt.[SP]Iwato...[1205][U+000F]\nOur[SP]secret[SP]headquarters...",
+    "texte_orig": "Do[SP]you[SP]remember[SP]the[SP]secret[SP]base,[SP][1113]?\nThe[SP]one[SP]behind[SP]this[SP]shrine...[1205][000F][SP]Mt.[SP]Iwato...[1205][000F]\nOur[SP]secret[SP]headquarters...",
     "nom_fr": "Ginko",
-    "texte_fr": "Tu te rappelles la base secrète,\n[1113]? Derrière ce sanctuaire...\nMt. Iwato... Notre QG secret..."
+    "texte_fr": "Tu te rappelles la base secrète,\n[1113]? Derrière ce sanctuaire.[000F][1205][000F][1205]..\nMt. Iwato... Notre QG secret..."
   },
   {
     "id": 14,
     "offset": 366786,
-    "data_size": 186,
-    "slot_size": 190,
+    "data_size": 184,
+    "slot_size": 184,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "That[SP]poor[SP]girl...[SP]She[SP]must[SP]have[SP]been[SP]waiting\nfor[SP][1113][SP]all[SP]this[SP]time...[1205][U+000F][SP]All[SP]alone...",
+    "texte_orig": "That[SP]poor[SP]girl...[SP]She[SP]must[SP]have[SP]been[SP]waiting\nfor[SP][1113][SP]all[SP]this[SP]time...[1205][000F][SP]All[SP]alone...",
     "nom_fr": "Ginko",
-    "texte_fr": "Cette pauvre fille... Elle attendait\n[1113]tout ce temps... Toute seule..."
+    "texte_fr": "Cette pauvre fille... Elle attendait\n[1113]tout ce temps.[1205].[000F]. Toute seule..."
   },
   {
     "id": 15,
     "offset": 366976,
-    "data_size": 172,
-    "slot_size": 176,
+    "data_size": 170,
+    "slot_size": 170,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Ow...[1205][001E][SP]The[SP]moment[SP]I[SP]stepped[SP]in[SP]here,[SP]my[SP]scar--[1205][001E]\nMy[SP]head[SP]started[SP]hurting...",
@@ -258,13 +242,12 @@
   {
     "id": 16,
     "offset": 367152,
-    "data_size": 168,
-    "slot_size": 172,
+    "data_size": 166,
+    "slot_size": 166,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Oh,[SP]I'm[SP]okay.[SP]It'll[SP]go[SP]away[SP]soon...[1205][001E][SP]It[SP]just\nflares[SP]up[SP]from[SP]time[SP]to[SP]time.",
@@ -274,77 +257,72 @@
   {
     "id": 17,
     "offset": 367324,
-    "data_size": 254,
-    "slot_size": 258,
+    "data_size": 252,
+    "slot_size": 252,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "Masked[SP]Circle...[1205][U+000F][SP]Masked[SP]Circle...[1205][U+000F][SP]What[SP]could\nit[SP]be?[1205][U+000F][SP]I[SP]feel[SP]like[SP]I've[SP]heard[SP]that[SP]name[SP]before,\na[SP]long[SP]time[SP]ago...",
+    "texte_orig": "Masked[SP]Circle...[1205][000F][SP]Masked[SP]Circle...[1205][000F][SP]What[SP]could\nit[SP]be?[1205][000F][SP]I[SP]feel[SP]like[SP]I've[SP]heard[SP]that[SP]name[SP]before,\na[SP]long[SP]time[SP]ago...",
     "nom_fr": "Maya",
-    "texte_fr": "Cercle masqué... Cercle masqué...\nC'est quoi donc? J'ai l'impression\nd'avoir entendu ce nom quelque part..."
+    "texte_fr": "Cercle masqué.[000F][1205][000F][1205][000F][1205].. Cercle masqué...\nC'est quoi donc? J'ai l'impression\nd'avoir entendu ce nom quelque part..."
   },
   {
     "id": 18,
     "offset": 367582,
-    "data_size": 298,
-    "slot_size": 302,
+    "data_size": 296,
+    "slot_size": 296,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "I...[SP]prayed[SP]for[SP]something[SP]here[SP]once...[1205][U+000F][SP]And\nsomeone[SP]told[SP]me[SP]it[SP]would[SP]easily[SP]come[SP]true...[1205][U+000F]\nYes,[SP]I[SP]met[SP]someone[SP]here.[1205][U+000F][SP]Someone[SP]important...",
+    "texte_orig": "I...[SP]prayed[SP]for[SP]something[SP]here[SP]once...[1205][000F][SP]And\nsomeone[SP]told[SP]me[SP]it[SP]would[SP]easily[SP]come[SP]true...[1205][000F]\nYes,[SP]I[SP]met[SP]someone[SP]here.[1205][000F][SP]Someone[SP]important...",
     "nom_fr": "Maya",
-    "texte_fr": "J'ai... prié ici autrefois pour quelque\nchose... On m'a dit\nque ça se réaliserait...\nJ'ai rencontré\nquelqu'un ici. D'important..."
+    "texte_fr": "J'ai... prié ici autrefois pour quelque\n[000F][1205][000F][1205][000F][1205]chose... On m'a dit\nque ça se réaliserait...\nJ'ai rencontré\nquelqu'un ici. D'important..."
   },
   {
     "id": 19,
     "offset": 367884,
-    "data_size": 254,
-    "slot_size": 258,
+    "data_size": 252,
+    "slot_size": 252,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "No[SP]matter[SP]how[SP]much[SP]you[SP]try[SP]to[SP]seal[SP]off[SP]your\nmemories,[SP]they[SP]shine[SP]clearly[SP]in[SP]the[SP]mirror.[1205][U+000F]\nYou[SP]can't[SP]escape[SP]your[SP]sins.",
+    "texte_orig": "No[SP]matter[SP]how[SP]much[SP]you[SP]try[SP]to[SP]seal[SP]off[SP]your\nmemories,[SP]they[SP]shine[SP]clearly[SP]in[SP]the[SP]mirror.[1205][000F]\nYou[SP]can't[SP]escape[SP]your[SP]sins.",
     "nom_fr": "Maya",
-    "texte_fr": "Peu importe tes efforts pour sceller\ntes souvenirs, ils brillent dans le\nmiroir. On ne peut pas fuir ses péchés."
+    "texte_fr": "Peu importe tes efforts pour sceller\ntes souvenirs, ils brillent dans le\nmiroir. [000F][1205]On ne peut pas fuir ses péchés."
   },
   {
     "id": 20,
     "offset": 368142,
-    "data_size": 166,
-    "slot_size": 170,
+    "data_size": 164,
+    "slot_size": 164,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "Am[SP]I...[SP]real...?[1205][U+000F][SP]It[SP]could[SP]be[SP]me[SP]who[SP]was[SP]born\nfrom[SP]a[SP]rumor,[SP]couldn't[SP]it?",
+    "texte_orig": "Am[SP]I...[SP]real...?[1205][000F][SP]It[SP]could[SP]be[SP]me[SP]who[SP]was[SP]born\nfrom[SP]a[SP]rumor,[SP]couldn't[SP]it?",
     "nom_fr": "Maya",
-    "texte_fr": "Suis-je réelle? C'est peut-être moi\nqui suis née d'une rumeur, non?"
+    "texte_fr": "Suis-je réelle? [000F][1205]C'est peut-être moi\nqui suis née d'une rumeur, non?"
   },
   {
     "id": 21,
     "offset": 368312,
-    "data_size": 228,
-    "slot_size": 232,
+    "data_size": 226,
+    "slot_size": 226,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Wow...[1205][001E][SP]Small[SP]world.[SP]There[SP]was[SP]an[SP]Alaya[SP]Shrine\nback[SP]in[SP]Mikage-cho,[SP]too.[SP]That's[SP]where[SP]we[SP]met\nPhilemon.",
@@ -354,29 +332,27 @@
   {
     "id": 22,
     "offset": 368544,
-    "data_size": 288,
-    "slot_size": 292,
+    "data_size": 286,
+    "slot_size": 286,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
-    "texte_orig": "Behind[SP]the[SP]shrine,[SP]huh...?[1205][U+000F][SP]In[SP]Mikage-cho,\nthe[SP]entrance[SP]to[SP]your[SP]soul[SP]was[SP]behind[SP]the\nAlaya[SP]Shrine.[1205][U+000F][SP]But[SP]that[SP]was[SP]a[SP]long[SP]time[SP]ago...",
+    "texte_orig": "Behind[SP]the[SP]shrine,[SP]huh...?[1205][000F][SP]In[SP]Mikage-cho,\nthe[SP]entrance[SP]to[SP]your[SP]soul[SP]was[SP]behind[SP]the\nAlaya[SP]Shrine.[1205][000F][SP]But[SP]that[SP]was[SP]a[SP]long[SP]time[SP]ago...",
     "nom_fr": "Yukino",
-    "texte_fr": "Derrière le sanctuaire, hein? À Mikage-cho,\nl'entrée de ton âme était derrière le\nsanctuaire Alaya. Mais c'était si loin..."
+    "texte_fr": "Derrière le sanctuaire, hein? [000F][1205][000F][1205]À Mikage-cho,\nl'entrée de ton âme était derrière le\nsanctuaire Alaya. Mais c'était si loin..."
   },
   {
     "id": 23,
     "offset": 368836,
-    "data_size": 214,
-    "slot_size": 218,
+    "data_size": 212,
+    "slot_size": 212,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "You[SP]all[SP]get[SP]so[SP]stone-faced[SP]whenever[SP]we[SP]come\nhere,[SP]like[SP]you're[SP]lost[SP]in[SP]thought.[SP]What's\nthe[SP]deal?",
@@ -386,13 +362,12 @@
   {
     "id": 24,
     "offset": 369054,
-    "data_size": 262,
-    "slot_size": 266,
+    "data_size": 260,
+    "slot_size": 260,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "So[SP]you[SP]guys[SP]have[SP]known[SP]each[SP]other[SP]for[SP]ten\nyears?[SP]W-Well,[SP]that's[SP]a[SP]surprise.[SP]None[SP]of\nyou[SP]ever[SP]mentioned[SP]that[SP]before[SP]now.",
@@ -402,13 +377,12 @@
   {
     "id": 25,
     "offset": 369320,
-    "data_size": 268,
-    "slot_size": 272,
+    "data_size": 266,
+    "slot_size": 266,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Ngh...[SP]If[SP]I[SP]knew[SP]this[SP]would[SP]happen,[SP]I'd[SP]never\nhave[SP]let[SP]Fujii-san[SP]go[SP]to[SP]the[SP]mountain![SP]Why[SP]did\nhe[SP]have[SP]to[SP]choose[SP]now[SP]to[SP]go!?",
@@ -418,13 +392,12 @@
   {
     "id": 26,
     "offset": 369592,
-    "data_size": 266,
-    "slot_size": 270,
+    "data_size": 264,
+    "slot_size": 264,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
     "texte_orig": "This[SP]shrine[SP]is[SP]actually[SP]only[SP]ten[SP]years[SP]old.\nIt[SP]was[SP]rebuilt[SP]after[SP]someone[SP]set[SP]fire[SP]to[SP]the\nold[SP]shrine[SP]and[SP]it[SP]burned[SP]down.",
@@ -434,13 +407,12 @@
   {
     "id": 27,
     "offset": 369862,
-    "data_size": 194,
-    "slot_size": 198,
+    "data_size": 192,
+    "slot_size": 192,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
     "texte_orig": "They[SP]never[SP]caught[SP]whoever[SP]committed[SP]such[SP]a\nterrible[SP]blasphemy...[SP]Heaven[SP]help[SP]him...",
@@ -450,13 +422,12 @@
   {
     "id": 28,
     "offset": 370060,
-    "data_size": 266,
-    "slot_size": 270,
+    "data_size": 264,
+    "slot_size": 264,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
     "texte_orig": "This[SP]shrine[SP]is[SP]actually[SP]only[SP]ten[SP]years[SP]old.\nIt[SP]was[SP]rebuilt[SP]after[SP]someone[SP]set[SP]fire[SP]to[SP]the\nold[SP]shrine[SP]and[SP]it[SP]burned[SP]down.",
@@ -466,13 +437,12 @@
   {
     "id": 29,
     "offset": 370330,
-    "data_size": 250,
-    "slot_size": 254,
+    "data_size": 248,
+    "slot_size": 248,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
     "texte_orig": "Terrible...[SP]Terrible...[1205][001E][SP]By[SP]the[SP]way,[SP]do[SP]you\nknow[SP]the[SP]rumor[SP]that[SP]a[SP]girl's[SP]ghost[SP]appears\nhere[SP]from[SP]time[SP]to[SP]time?",
@@ -482,13 +452,12 @@
   {
     "id": 30,
     "offset": 370584,
-    "data_size": 242,
-    "slot_size": 246,
+    "data_size": 240,
+    "slot_size": 240,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
     "texte_orig": "Do[SP]you[SP]know[SP]the[SP]rumor[SP]that[SP]a[SP]girl's[SP]ghost\nappears[SP]here[SP]from[SP]time[SP]to[SP]time?\n[1208][0002][1432][NULL][NULL][0014]I[SP]do.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I[SP]don't.[1432][NULL][NULL][0014]",
@@ -499,6 +468,7 @@
       "I[SP]do.",
       "I[SP]don't."
     ],
+    "count_tag": "[0002]",
     "question_fr": "Connaissez-vous la rumeur du fantôme\nqui apparaît ici parfois?",
     "choix_fr": [
       "Oui.",
@@ -508,13 +478,12 @@
   {
     "id": 31,
     "offset": 370830,
-    "data_size": 246,
-    "slot_size": 250,
+    "data_size": 244,
+    "slot_size": 244,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
     "texte_orig": "It[SP]seems[SP]she's[SP]always[SP]here[SP]alone...[SP]I[SP]feel\nso[SP]sorry[SP]for[SP]the[SP]poor[SP]dear...[SP]So[SP]I[SP]come[SP]here\nevery[SP]day[SP]to[SP]see[SP]her.",
@@ -524,13 +493,12 @@
   {
     "id": 32,
     "offset": 371080,
-    "data_size": 296,
-    "slot_size": 300,
+    "data_size": 294,
+    "slot_size": 294,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
     "texte_orig": "There[SP]was[SP]supposedly[SP]a[SP]girl[SP]inside[SP]when[SP]the\nshrine[SP]burned[SP]down.[SP]She[SP]still[SP]plays[SP]here[SP]after\nten[SP]years...[SP]All[SP]alone,[SP]forever[SP]and[SP]ever...",
@@ -540,13 +508,12 @@
   {
     "id": 33,
     "offset": 371380,
-    "data_size": 242,
-    "slot_size": 246,
+    "data_size": 240,
+    "slot_size": 240,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
     "texte_orig": "I[SP]wonder[SP]why[SP]she[SP]can't[SP]rest[SP]in[SP]peace.\nEither[SP]she[SP]doesn't[SP]know[SP]she's[SP]dead...\nor[SP]she's[SP]waiting[SP]for[SP]someone...",
@@ -556,45 +523,42 @@
   {
     "id": 34,
     "offset": 371626,
-    "data_size": 234,
-    "slot_size": 238,
+    "data_size": 232,
+    "slot_size": 232,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
-    "texte_orig": "The[SP]girl's[SP]ghost[SP]always[SP]seems[SP]to[SP]disappear\ninto[SP]the[SP]shrine.[1205][U+000F][SP]Could[SP]it[SP]be[SP]connected[SP]to\nthe[SP]netherworld?",
+    "texte_orig": "The[SP]girl's[SP]ghost[SP]always[SP]seems[SP]to[SP]disappear\ninto[SP]the[SP]shrine.[1205][000F][SP]Could[SP]it[SP]be[SP]connected[SP]to\nthe[SP]netherworld?",
     "nom_fr": "Vieille dame",
-    "texte_fr": "Le fantôme de la\nfille disparaît toujours dans\nle sanctuaire. Serait-ce\nlié à l'autre monde?"
+    "texte_fr": "Le fantôme de la\nfille disparaît toujours dans\n[000F][1205]le sanctuaire. Serait-ce\nlié à l'autre monde?"
   },
   {
     "id": 35,
     "offset": 371864,
-    "data_size": 164,
-    "slot_size": 168,
+    "data_size": 162,
+    "slot_size": 162,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
-    "texte_orig": "That[SP]was[SP]a[SP]surprise...[1205][U+000F][SP]I[SP]wonder[SP]how[SP]that\nblue[SP]person[SP]knew[SP]my[SP]name.",
+    "texte_orig": "That[SP]was[SP]a[SP]surprise...[1205][000F][SP]I[SP]wonder[SP]how[SP]that\nblue[SP]person[SP]knew[SP]my[SP]name.",
     "nom_fr": "Vieille dame",
-    "texte_fr": "Surprise! Comment cette\npersonne bleue connaît mon nom?"
+    "texte_fr": "Surprise! [000F][1205]Comment cette\npersonne bleue connaît mon nom?"
   },
   {
     "id": 36,
     "offset": 372032,
-    "data_size": 276,
-    "slot_size": 280,
+    "data_size": 274,
+    "slot_size": 274,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
     "texte_orig": "Ah...[SP]More[SP]lives[SP]claimed[SP]by[SP]the[SP]fires...\nPerhaps[SP]that[SP]girl[SP]isn't[SP]at[SP]rest[SP]because[SP]the\nculprit[SP]is[SP]still[SP]alive[SP]in[SP]this[SP]world...",
@@ -604,29 +568,27 @@
   {
     "id": 37,
     "offset": 372312,
-    "data_size": 304,
-    "slot_size": 308,
+    "data_size": 302,
+    "slot_size": 302,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
-    "texte_orig": "It[SP]was[SP]rumored[SP]that[SP]Kuchisake-onna[SP]dwelled[SP]in\nMt.[SP]Iwato.[1205][U+000F][SP]The[SP]local[SP]youth[SP]were[SP]too[SP]scared[SP]to\ngo[SP]near[SP]it.[1205][U+000F][SP]Some[SP]kids[SP]were[SP]fine,[SP]though...",
+    "texte_orig": "It[SP]was[SP]rumored[SP]that[SP]Kuchisake-onna[SP]dwelled[SP]in\nMt.[SP]Iwato.[1205][000F][SP]The[SP]local[SP]youth[SP]were[SP]too[SP]scared[SP]to\ngo[SP]near[SP]it.[1205][000F][SP]Some[SP]kids[SP]were[SP]fine,[SP]though...",
     "nom_fr": "Vieille dame",
-    "texte_fr": "La Kuchisake-onna vivait, dit-on, au Mt.\nIwato. Les locaux avaient trop peur d'en\napprocher. Sauf certains enfants..."
+    "texte_fr": "La Kuchisake-onna vivait, dit-on, au Mt.\n[000F][1205][000F][1205]Iwato. Les locaux avaient trop peur d'en\napprocher. Sauf certains enfants..."
   },
   {
     "id": 38,
     "offset": 372620,
-    "data_size": 170,
-    "slot_size": 174,
+    "data_size": 168,
+    "slot_size": 168,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
     "texte_orig": "Ahh,[SP]so[SP]that[SP]girl's[SP]ghost[SP]is[SP]finally[SP]at[SP]rest.\nI'm[SP]so[SP]glad[SP]to[SP]hear[SP]that.",
@@ -636,13 +598,12 @@
   {
     "id": 39,
     "offset": 372794,
-    "data_size": 190,
-    "slot_size": 194,
+    "data_size": 188,
+    "slot_size": 188,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Old[SP]lady",
     "texte_orig": "It[SP]was[SP]sad[SP]to[SP]see[SP]a[SP]child[SP]tied[SP]down[SP]to[SP]this\nworld[SP]because[SP]of[SP]lingering[SP]regrets...",
@@ -652,17 +613,31 @@
   {
     "id": 40,
     "offset": 372988,
-    "data_size": 316,
-    "slot_size": 320,
+    "data_size": 314,
+    "slot_size": 314,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sad-looking[SP]old[SP]lady",
-    "texte_orig": "What's[SP]gotten[SP]into[SP]my[SP]old[SP]man?[1205][U+000F][SP]He's[SP]making\nsuch[SP]a[SP]fuss[SP]about[SP]seeing[SP]Kuchisake-onna.[1205][U+000F]\nEveryone[SP]knows[SP]she[SP]doesn't[SP]actually[SP]exist...",
+    "texte_orig": "What's[SP]gotten[SP]into[SP]my[SP]old[SP]man?[1205][000F][SP]He's[SP]making\nsuch[SP]a[SP]fuss[SP]about[SP]seeing[SP]Kuchisake-onna.[1205][000F]\nEveryone[SP]knows[SP]she[SP]doesn't[SP]actually[SP]exist...",
     "nom_fr": "Vieille dame triste",
-    "texte_fr": "Qu'est-ce qui lui prend? Il fait une telle\nhistoire pour la Kuchisake-onna. Tout le\nmonde sait qu'elle n'existe pas..."
+    "texte_fr": "Qu'est-ce qui lui prend? [000F][1205][000F][1205]Il fait une telle\nhistoire pour la Kuchisake-onna. Tout le\nmonde sait qu'elle n'existe pas..."
+  },
+  {
+    "id": 41,
+    "offset": 373308,
+    "data_size": 292,
+    "slot_size": 292,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Sad-looking[SP]old[SP]lady",
+    "texte_orig": "I[SP]wonder[SP]if[SP]he's[SP]really[SP]sad[SP]because[SP]our\ngrandsons[SP]don't[SP]visit.[SP]Could[SP]you[SP]talk[SP]to\nhim?[SP]I'm[SP]sure[SP]he's[SP]wandering[SP]about[SP]town.",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

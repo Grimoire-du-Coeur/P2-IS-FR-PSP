@@ -2,45 +2,42 @@
   {
     "id": 0,
     "offset": 263286,
-    "data_size": 258,
-    "slot_size": 262,
+    "data_size": 256,
+    "slot_size": 256,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "They[SP]say[SP]that[SP]once[SP]you[SP]enter[SP]the[SP]air[SP]raid\nshelter[SP]up[SP]ahead,[SP]you[SP]can[SP]never[SP]get[SP]out.[1205][U+000F]\nCareful[SP]not[SP]to[SP]wander[SP]in[SP]there.",
+    "texte_orig": "They[SP]say[SP]that[SP]once[SP]you[SP]enter[SP]the[SP]air[SP]raid\nshelter[SP]up[SP]ahead,[SP]you[SP]can[SP]never[SP]get[SP]out.[1205][000F]\nCareful[SP]not[SP]to[SP]wander[SP]in[SP]there.",
     "nom_fr": "Eikichi",
-    "texte_fr": "On dit qu'entrer dans l'abri\nanti-aérien plus loin est un aller sans\nretour. Fais gaffe à pas t'y aventurer."
+    "texte_fr": "On dit qu'entrer dans l'abri\nanti-aérien plus loin est un aller sans\n[1205]retour. [000F]Fais gaffe à pas t'y aventurer."
   },
   {
     "id": 1,
     "offset": 263548,
-    "data_size": 228,
-    "slot_size": 232,
+    "data_size": 226,
+    "slot_size": 226,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "Argh![SP]There's[SP]mud[SP]on[SP]my[SP]favorite[SP]tunic...[1205][U+000F]\nDamn[SP]that[SP]Yasuo![SP]I'm[SP]sticking[SP]him[SP]with[SP]the\ncleaning[SP]bill!",
+    "texte_orig": "Argh![SP]There's[SP]mud[SP]on[SP]my[SP]favorite[SP]tunic...[1205][000F]\nDamn[SP]that[SP]Yasuo![SP]I'm[SP]sticking[SP]him[SP]with[SP]the\ncleaning[SP]bill!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Argh! Ma tunique préférée est pleine de\nboue... Maudit Yasuo!\nIl paiera le pressing!"
+    "texte_fr": "Argh! Ma tunique préférée est pleine de\n[000F][1205]boue... Maudit Yasuo!\nIl paiera le pressing!"
   },
   {
     "id": 2,
     "offset": 263780,
-    "data_size": 288,
-    "slot_size": 292,
+    "data_size": 286,
+    "slot_size": 286,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Yikes...[SP]This[SP]sure[SP]feels[SP]disgusting.[SP]Cuss[SP]High\nreally[SP]lives[SP]up[SP]to[SP]its[SP]name,[SP]having[SP]something\nlike[SP]this.[SP]C'mon,[SP]let's[SP]get[SP]out[SP]of[SP]here.",
@@ -50,29 +47,27 @@
   {
     "id": 3,
     "offset": 264072,
-    "data_size": 166,
-    "slot_size": 170,
+    "data_size": 164,
+    "slot_size": 164,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "I-It[SP]wasn't[SP]my[SP]fault![SP]Eikichi[SP]went[SP]in,[SP]so[SP]I\nhad[SP]no[SP]choice...[1205][U+000F][SP]Right,[SP][1113]?",
+    "texte_orig": "I-It[SP]wasn't[SP]my[SP]fault![SP]Eikichi[SP]went[SP]in,[SP]so[SP]I\nhad[SP]no[SP]choice...[1205][000F][SP]Right,[SP][1113]?",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est sa faute! J'ai dû suivre\nEikichi... Pas vrai, [1113]?"
+    "texte_fr": "C'est sa faute! J'ai dû suivre\nEikichi... [000F][1205]Pas vrai, [1113]?"
   },
   {
     "id": 4,
     "offset": 264242,
-    "data_size": 224,
-    "slot_size": 228,
+    "data_size": 222,
+    "slot_size": 222,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Know[SP]what,[SP][1113]?[SP]Up[SP]ahead[SP]is[SP]a[SP]bomb\nshelter[SP]they[SP]built[SP]way[SP]back[SP]when.[SP]I[SP]wonder\nwhat[SP]it's[SP]like[SP]in[SP]there...",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 264470,
-    "data_size": 264,
-    "slot_size": 268,
+    "data_size": 262,
+    "slot_size": 262,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "From[SP]what[SP]we[SP]overheard,[SP]the[SP]president[SP]is[SP]still\nscheming[SP]something.[SP]We[SP]have[SP]to[SP]take[SP]him[SP]down\nbefore[SP]he[SP]tries[SP]anything[SP]else.",
@@ -98,45 +92,42 @@
   {
     "id": 6,
     "offset": 264738,
-    "data_size": 258,
-    "slot_size": 262,
+    "data_size": 256,
+    "slot_size": 256,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
-    "texte_orig": "Sevens'[SP]clock[SP]tower...[SP]The[SP]shelter[SP]here...[1205][U+000F]\nGuess[SP]all[SP]schools[SP]have[SP]skeletons[SP]in[SP]the[SP]closet.\nSt.[SP]Hermelin[SP]did,[SP]too...",
+    "texte_orig": "Sevens'[SP]clock[SP]tower...[SP]The[SP]shelter[SP]here...[1205][000F]\nGuess[SP]all[SP]schools[SP]have[SP]skeletons[SP]in[SP]the[SP]closet.\nSt.[SP]Hermelin[SP]did,[SP]too...",
     "nom_fr": "Yukino",
-    "texte_fr": "L'horloge des Seven... L'abri ici...\nLes lycées ont tous des squelettes\ndans le placard. St. Hermelin aussi..."
+    "texte_fr": "L'horloge des Seven... L'abri ici..[1205].\n[000F]Les lycées ont tous des squelettes\ndans le placard. St. Hermelin aussi..."
   },
   {
     "id": 7,
     "offset": 265000,
-    "data_size": 288,
-    "slot_size": 292,
+    "data_size": 286,
+    "slot_size": 286,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
-    "texte_orig": "It's[SP]both[SP]your[SP]faults![1205][U+000F][SP]Seriously,[SP]without\nknowing[SP]what[SP]kind[SP]of[SP]traps[SP]there[SP]are,[SP]don't\neven[SP]think[SP]of[SP]wandering[SP]off[SP]like[SP]that[SP]again!",
+    "texte_orig": "It's[SP]both[SP]your[SP]faults![1205][000F][SP]Seriously,[SP]without\nknowing[SP]what[SP]kind[SP]of[SP]traps[SP]there[SP]are,[SP]don't\neven[SP]think[SP]of[SP]wandering[SP]off[SP]like[SP]that[SP]again!",
     "nom_fr": "Yukino",
-    "texte_fr": "C'est votre faute à tous les deux! Sérieux,\narrêtez de vous aventurer comme ça sans\nmême connaître les pièges qui s'y trouvent!"
+    "texte_fr": "C'est votre faute à tous les deux! [000F][1205]Sérieux,\narrêtez de vous aventurer comme ça sans\nmême connaître les pièges qui s'y trouvent!"
   },
   {
     "id": 8,
     "offset": 265292,
-    "data_size": 292,
-    "slot_size": 296,
+    "data_size": 290,
+    "slot_size": 290,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Male[SP]student",
     "texte_orig": "Oh,[SP]don't[SP]go[SP]in[SP]there.[SP]It[SP]was[SP]originally[SP]an[SP]air\nraid[SP]shelter,[SP]but[SP]rumor[SP]has[SP]it[SP]that[SP]once[SP]you[SP]go\ninside,[SP]you[SP]can't[SP]find[SP]the[SP]exit.",
@@ -146,13 +137,12 @@
   {
     "id": 9,
     "offset": 265588,
-    "data_size": 254,
-    "slot_size": 258,
+    "data_size": 252,
+    "slot_size": 252,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Male[SP]student",
     "texte_orig": "Look,[SP]it's[SP]just[SP]dangerous,[SP]okay?[SP]We[SP]don't\nwant[SP]visitors[SP]wandering[SP]in[SP]by[SP]accident,[SP]so[SP]I'm\nstanding[SP]guard[SP]here.",
@@ -162,13 +152,12 @@
   {
     "id": 10,
     "offset": 265846,
-    "data_size": 292,
-    "slot_size": 296,
+    "data_size": 290,
+    "slot_size": 290,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Male[SP]student",
     "texte_orig": "Oh,[SP]don't[SP]go[SP]in[SP]there.[SP]It[SP]was[SP]originally[SP]an[SP]air\nraid[SP]shelter,[SP]but[SP]rumor[SP]has[SP]it[SP]that[SP]once[SP]you[SP]go\ninside,[SP]you[SP]can't[SP]find[SP]the[SP]exit.",
@@ -178,13 +167,12 @@
   {
     "id": 11,
     "offset": 266142,
-    "data_size": 254,
-    "slot_size": 258,
+    "data_size": 252,
+    "slot_size": 252,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Male[SP]student",
     "texte_orig": "Look,[SP]it's[SP]just[SP]dangerous,[SP]okay?[SP]We[SP]don't\nwant[SP]visitors[SP]wandering[SP]in[SP]by[SP]accident,[SP]so[SP]I'm\nstanding[SP]guard[SP]here.",
@@ -194,13 +182,12 @@
   {
     "id": 12,
     "offset": 266400,
-    "data_size": 106,
-    "slot_size": 110,
+    "data_size": 104,
+    "slot_size": 104,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]could[SP]that[SP]president[SP]guy[SP]be[SP]in[SP]here!?",
@@ -210,13 +197,12 @@
   {
     "id": 13,
     "offset": 266510,
-    "data_size": 94,
-    "slot_size": 98,
+    "data_size": 92,
+    "slot_size": 92,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "President's[SP]voice",
     "texte_orig": "P-Please...[SP]let[SP]me[SP]go...",
@@ -226,45 +212,42 @@
   {
     "id": 14,
     "offset": 266608,
-    "data_size": 180,
-    "slot_size": 184,
+    "data_size": 178,
+    "slot_size": 178,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "President's[SP]voice",
-    "texte_orig": "I-I[SP]was[SP]wrong...[1205][U+000F][SP]I'll[SP]never[SP]do[SP]it[SP]again...[1205][U+000F]\nJ-Just[SP]forgive[SP]me...",
+    "texte_orig": "I-I[SP]was[SP]wrong...[1205][000F][SP]I'll[SP]never[SP]do[SP]it[SP]again...[1205][000F]\nJ-Just[SP]forgive[SP]me...",
     "nom_fr": "Président",
-    "texte_fr": "J-J'avais tort... Je ne le referai\nplus jamais... P-Pardonnez-moi..."
+    "texte_fr": "J-J'avais tort.[000F][1205][000F][1205].. Je ne le referai\nplus jamais... P-Pardonnez-moi..."
   },
   {
     "id": 15,
     "offset": 266792,
-    "data_size": 276,
-    "slot_size": 280,
+    "data_size": 274,
+    "slot_size": 274,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "Forgive[SP]you?[1205][U+000F][SP]Forget[SP]that![SP]There's[SP]a[SP]whole\nlaundry[SP]list[SP]of[SP]stuff[SP]we[SP]gotta[SP]ask[SP]you!\nThere's[SP]no[SP]way[SP]we're[SP]just[SP]letting[SP]you[SP]go!",
+    "texte_orig": "Forgive[SP]you?[1205][000F][SP]Forget[SP]that![SP]There's[SP]a[SP]whole\nlaundry[SP]list[SP]of[SP]stuff[SP]we[SP]gotta[SP]ask[SP]you!\nThere's[SP]no[SP]way[SP]we're[SP]just[SP]letting[SP]you[SP]go!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Te pardonner? Oublie ça! On a toute une\nliste de trucs à te demander! Hors de\nquestion qu'on te laisse partir comme ça!"
+    "texte_fr": "Te pardonner? [000F][1205]Oublie ça! On a toute une\nliste de trucs à te demander! Hors de\nquestion qu'on te laisse partir comme ça!"
   },
   {
     "id": 16,
     "offset": 267072,
-    "data_size": 164,
-    "slot_size": 168,
+    "data_size": 162,
+    "slot_size": 162,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "You're[SP]gonna[SP]tell[SP]us[SP]about[SP]the[SP]emblem[SP]curse\nwhether[SP]you[SP]like[SP]it[SP]or[SP]not!",
@@ -274,13 +257,12 @@
   {
     "id": 17,
     "offset": 267240,
-    "data_size": 72,
-    "slot_size": 76,
+    "data_size": 70,
+    "slot_size": 70,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Wh-Whoa![SP]Hold[SP]on,[SP]you[SP]two!",
@@ -290,17 +272,31 @@
   {
     "id": 18,
     "offset": 267316,
-    "data_size": 122,
-    "slot_size": 126,
+    "data_size": 120,
+    "slot_size": 120,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
-    "texte_orig": "Arrgh...[1205][U+000F][SP]Why[SP]do[SP]they[SP]rush[SP]in[SP]without[SP]thinking!?",
+    "texte_orig": "Arrgh...[1205][000F][SP]Why[SP]do[SP]they[SP]rush[SP]in[SP]without[SP]thinking!?",
     "nom_fr": "Yukino",
-    "texte_fr": "Arrgh... Pourquoi\nfoncent-ils sans réfléchir!?"
+    "texte_fr": "Arrgh.[000F][1205].. Pourquoi\nfoncent-ils sans réfléchir!?"
+  },
+  {
+    "id": 19,
+    "offset": 267442,
+    "data_size": 102,
+    "slot_size": 110,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Better[SP]go[SP]after[SP]them.[1205][000F][SP]C'mon,[SP]let's[SP]go.",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

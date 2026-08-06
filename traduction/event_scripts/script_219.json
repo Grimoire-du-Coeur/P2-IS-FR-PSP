@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 235086,
-    "data_size": 92,
-    "slot_size": 96,
+    "data_size": 90,
+    "slot_size": 90,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]There's[SP]even[SP]bombs[SP]in[SP]here!",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 235182,
-    "data_size": 166,
-    "slot_size": 170,
+    "data_size": 164,
+    "slot_size": 164,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "[1113]![SP]We[SP]gotta[SP]hurry[SP]and[SP]book[SP]it!\nI[SP]don't[SP]want[SP]to[SP]end[SP]up[SP]a[SP]crispy[SP]critter!",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 235352,
-    "data_size": 116,
-    "slot_size": 120,
+    "data_size": 114,
+    "slot_size": 114,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Ugh![SP]He[SP]even[SP]took[SP]the[SP]time[SP]to[SP]set[SP]them[SP]here!",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 235472,
-    "data_size": 284,
-    "slot_size": 288,
+    "data_size": 282,
+    "slot_size": 282,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "I'm[SP]with[SP]Ginko[SP]on[SP]this[SP]one![SP]If[SP]the[SP]future's\ngreatest[SP]musician[SP]kicked[SP]the[SP]bucket[SP]here,[SP]my\nfans[SP]around[SP]the[SP]world[SP]would[SP]be[SP]crushed!",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 235760,
-    "data_size": 214,
-    "slot_size": 218,
+    "data_size": 212,
+    "slot_size": 212,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Even[SP]our[SP]Personas[SP]are[SP]useless[SP]in[SP]a[SP]situation\nlike[SP]this...[1205][001E][SP]We[SP]have[SP]to[SP]do[SP]what[SP]we[SP]can\nourselves!",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 235978,
-    "data_size": 192,
-    "slot_size": 196,
+    "data_size": 190,
+    "slot_size": 190,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "I[SP]agree![SP]It's[SP]unbecoming[SP]of[SP]a[SP]heroine[SP]to\nmake[SP]a[SP]stopover[SP]before[SP]her[SP]dream[SP]comes[SP]true!",
@@ -98,17 +92,31 @@
   {
     "id": 6,
     "offset": 236174,
-    "data_size": 138,
-    "slot_size": 142,
+    "data_size": 136,
+    "slot_size": 136,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "This[SP]obsessiveness...[1205][001E][SP]The[SP]man's[SP]definitely\nnot[SP]normal.",
     "nom_fr": "Yukino",
     "texte_fr": "Cette obsession...[1205][001E] Cet homme\nest vraiment pas normal."
+  },
+  {
+    "id": 7,
+    "offset": 236316,
+    "data_size": 252,
+    "slot_size": 252,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "They're[SP]right![SP]I[SP]can't[SP]die[SP]as[SP]a[SP]mere\napprentice![SP]Plus...[SP]There's[SP]something[SP]I\nhave[SP]to[SP]get[SP]off[SP]my[SP]chest[SP]before[SP]I[SP]go!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

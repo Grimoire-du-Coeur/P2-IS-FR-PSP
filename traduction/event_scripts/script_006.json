@@ -2,17 +2,31 @@
   {
     "id": 0,
     "offset": 322478,
-    "data_size": 120,
-    "slot_size": 124,
+    "data_size": 118,
+    "slot_size": 118,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lisa",
     "texte_orig": "Aiyah?[1205][001E][SP]I[SP]wonder[SP]what's[SP]up.\nDid[SP]something[SP]happen?",
     "nom_fr": "Lisa",
-    "texte_fr": "Je me demande s'il s'est passé un truc."
+    "texte_fr": "Je me demande s'il s'est passé un truc.[001E][1205]"
+  },
+  {
+    "id": 1,
+    "offset": 322602,
+    "data_size": 176,
+    "slot_size": 182,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Male[SP]student",
+    "texte_orig": "You[SP]could[SP]say[SP]that![SP]The[SP]big[SP]clock[SP]in\nthe[SP]tower[SP]suddenly[SP]started[SP]moving!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

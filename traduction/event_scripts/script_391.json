@@ -55,9 +55,9 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "They[SP]say[SP]that[SP]the[SP]pictures[SP]are[SP]so[SP]clear[SP]and\ncrisp[SP]that[SP]it[SP]feels[SP]almost[SP]as[SP]if[SP]you're\n[E4][NULL][NULL][U+0006]really[SP]experiencing[SP]the[SP]events[SP]of[SP]the[SP]film[E4][NULL][NULL][0002]!",
+    "texte_orig": "They[SP]say[SP]that[SP]the[SP]pictures[SP]are[SP]so[SP]clear[SP]and\ncrisp[SP]that[SP]it[SP]feels[SP]almost[SP]as[SP]if[SP]you're\n[E4][NULL][NULL][0006]really[SP]experiencing[SP]the[SP]events[SP]of[SP]the[SP]film[E4][NULL][NULL][0002]!",
     "nom_fr": "Mitsugi, la guide du cinéma",
-    "texte_fr": "On raconte que l'image est si\nnette qu'on a presque l'impression\nde [E4][NULL][NULL][U+0006]vivre réellement le film[E4][NULL][NULL][0002]!"
+    "texte_fr": "On raconte que l'image est si\nnette qu'on a presque l'impression\nde [E4][NULL][NULL][0006]vivre réellement le film[E4][NULL][NULL][0002]!"
   },
   {
     "id": 4,
@@ -85,9 +85,9 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Your[SP]membership[SP]level[SP]is[SP]determined[SP]by[SP]the\namount[SP]of[SP]points[SP]you[SP]have.[SP]You'll[SP]start[SP]at\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Black[SP]Raspberry[E4][NULL][NULL][0002][1432][NULL][NULL][0014][SP]and[SP]work[SP]your[SP]way[SP]up!",
+    "texte_orig": "Your[SP]membership[SP]level[SP]is[SP]determined[SP]by[SP]the\namount[SP]of[SP]points[SP]you[SP]have.[SP]You'll[SP]start[SP]at\n[1432][NULL][NULL][0014][E4][NULL][NULL][0006]Black[SP]Raspberry[E4][NULL][NULL][0002][1432][NULL][NULL][0014][SP]and[SP]work[SP]your[SP]way[SP]up!",
     "nom_fr": "Mitsugi, la guide du cinéma",
-    "texte_fr": "Votre niveau de membre dépend de vos\npoints. Vous commencerez au rang\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et vous progresserez!"
+    "texte_fr": "Votre niveau de membre dépend de vos\npoints. Vous commencerez au rang\n[1432][NULL][NULL][0014][E4][NULL][NULL][0006]Framboise noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et vous progresserez!"
   },
   {
     "id": 6,
@@ -122,13 +122,12 @@
   {
     "id": 8,
     "offset": 239826,
-    "data_size": 320,
-    "slot_size": 324,
+    "data_size": 318,
+    "slot_size": 318,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "We're[SP]already[SP]giving[SP]you[SP]the[SP]unparalleled\nexperience[SP]of[SP]seeing[SP]the[SP]most[SP]realistic[SP]movies\nknown[SP]to[SP]man![SP]What[SP]more[SP]could[SP]you[SP]want?",
@@ -138,18 +137,17 @@
   {
     "id": 9,
     "offset": 240150,
-    "data_size": 372,
-    "slot_size": 376,
+    "data_size": 286,
+    "slot_size": 286,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Thanks[SP]for[SP]your[SP]hard[SP]work![SP]I've[SP]been[SP]watching,\nand[SP]I[SP]gotta[SP]say,[SP]I'm[SP]impressed![SP]Let[SP]me[SP]unlock\na[SP]new[SP]mode[SP]for[SP]you.[E1][E2][E3]>[SP][1432][NULL][NULL][U+0013]BGM[1432][NULL][NULL][0014][SP]was[SP]added[SP]to[SP]the[SP]Gallery.",
+    "texte_orig": "Thanks[SP]for[SP]your[SP]hard[SP]work![SP]I've[SP]been[SP]watching,\nand[SP]I[SP]gotta[SP]say,[SP]I'm[SP]impressed![SP]Let[SP]me[SP]unlock\na[SP]new[SP]mode[SP]for[SP]you.",
     "nom_fr": "Mitsugi, la guide du cinéma",
-    "texte_fr": "Merci pour votre travail!\nJe vous ai observé.\nImpressionnant! Laissez-moi débloquer un\nnouveau mode.[E1][E2][E3]>[1432][NULL][NULL][U+0013]BGM[1432][NULL][NULL][0014]ajouté à la Galerie."
+    "texte_fr": "Merci pour votre travail!\nJe vous ai observé.\nImpressionnant! Laissez-moi débloquer un\nnouveau mode.>[NULL][NULL]BGM[NULL][NULL]ajouté à la Galerie."
   },
   {
     "id": 10,
@@ -169,17 +167,31 @@
   {
     "id": 11,
     "offset": 240680,
-    "data_size": 302,
-    "slot_size": 306,
+    "data_size": 300,
+    "slot_size": 300,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "If[SP]you[SP]go[SP]to[SP]Config[SP]and[SP]switch[SP]between[SP]Original\nand[SP]Remixed,[SP]you[SP]can[SP]enjoy[SP]new[SP]or[SP]old[SP]versions\nof[SP]those[SP]classic[SP]themes.",
     "nom_fr": "Mitsugi, la guide du cinéma",
     "texte_fr": "Dans Config, passez de l'Original au Remix\npour profiter des versions nouvelles ou\nanciennes de ces thèmes cultes."
+  },
+  {
+    "id": 12,
+    "offset": 240986,
+    "data_size": 248,
+    "slot_size": 262,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
+    "texte_orig": "Well[SP]then,[SP]I'll[SP]be[SP]waiting[SP]for[SP]you[SP]the[SP]next\ntime[SP]you[SP]come[SP]to[SP]see[SP]a[SP]film.\nAnnnnnd...[SP]Fade[SP]out!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

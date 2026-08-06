@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 349518,
-    "data_size": 146,
-    "slot_size": 150,
+    "data_size": 144,
+    "slot_size": 144,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Arrrrgh![SP]No![SP]That's[SP]not[SP]it[SP]at[SP]all!\nYou[SP]guys[SP]have[SP]no[SP]rhythm!",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 349668,
-    "data_size": 206,
-    "slot_size": 210,
+    "data_size": 204,
+    "slot_size": 204,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ken",
     "texte_orig": "Of[SP]course[SP]we[SP]don't.[SP]I[SP]haven't[SP]played[SP]an\ninstrument[SP]since[SP]my[SP]recorder[SP]back[SP]in\nmiddle[SP]school...",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 349878,
-    "data_size": 108,
-    "slot_size": 112,
+    "data_size": 106,
+    "slot_size": 106,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Miyabi",
     "texte_orig": "Working[SP]hard,[SP]everyone?[SP]I[SP]brought[SP]snacks.",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 349990,
-    "data_size": 118,
-    "slot_size": 122,
+    "data_size": 116,
+    "slot_size": 116,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Yo,[SP]Miyabi.[SP]Thanks![SP]Alright,[SP]let's[SP]take[SP]five.",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 350112,
-    "data_size": 130,
-    "slot_size": 134,
+    "data_size": 128,
+    "slot_size": 128,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ken",
     "texte_orig": "Oh[SP]yeah,[SP]Michel-san...[SP]You[SP]know[SP]that[SP]guy\n[1113][SP][1112][SP]at[SP]Sevens?",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 350246,
-    "data_size": 256,
-    "slot_size": 260,
+    "data_size": 254,
+    "slot_size": 254,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ken",
     "texte_orig": "I[SP]hear[SP]he's[SP]the[SP]most[SP]popular[SP]guy[SP]at[SP]Sevens,\nand[SP]he's[SP]hot[SP]with[SP]the[SP]ladies,[SP]too![SP]Why[SP]don't\nyou[SP]invite[SP]him[SP]into[SP]the[SP]band?",
@@ -98,17 +92,31 @@
   {
     "id": 6,
     "offset": 350506,
-    "data_size": 76,
-    "slot_size": 80,
+    "data_size": 74,
+    "slot_size": 74,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Do[SP]you[SP]know[SP]him,[SP]Miyabi?",
     "nom_fr": "Eikichi",
     "texte_fr": "Tu le connais, Miyabi?"
+  },
+  {
+    "id": 7,
+    "offset": 350586,
+    "data_size": 164,
+    "slot_size": 166,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "Well...[SP]I[SP]do[SP]need[SP]more[SP]members.[SP]I[SP]guess[SP]it\nwouldn't[SP]hurt[SP]to[SP]meet[SP]him.",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

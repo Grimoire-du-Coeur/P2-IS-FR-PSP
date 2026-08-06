@@ -2,29 +2,27 @@
   {
     "id": 0,
     "offset": 342814,
-    "data_size": 1166,
-    "slot_size": 1170,
+    "data_size": 1164,
+    "slot_size": 1164,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]Jun![SP]Your[SP]daddy's[SP]amazing[SP]and[SP]he[SP]can[SP]do\nanything,[SP]right?[SP]You[SP]think[SP]we'll[SP]finally[SP]get\nto[SP]meet[SP]him[SP]today?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nM-Maybe...[1205][001E][SP]But...[SP]he's[SP]really[SP]busy,[SP]so...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nI-I[SP]wish[SP]m-my[SP]dad[SP]didn't[SP]w-work[SP]at[SP]a[SP]sushi\nrestaurant...[SP]S-Seriously,[SP]I[SP]have[SP]to[SP]eat\ns-s-sushi[SP]every[SP]day.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nIt's[SP]almost[SP]time[SP]for[SP]your[SP]families[SP]to[SP]start\ncoming[SP]to[SP]pick[SP]you[SP]up.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nI[SP]wonder[SP]if[SP]my[SP]mommy[SP]will[SP]be[SP]first[SP]today?\nI'm[SP]hungry!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nOh,[SP]s-someone's[SP]here.[SP]I[SP]d-don't[SP]recognize\nhim...[1205][001E][SP]B-But[SP]he[SP]looks[SP]cool![E1][E2]\n[E3][E4][NULL][NULL]\"Jun's[SP]father\nI'm[SP]here[SP]to[SP]pick[SP]you[SP]up,[SP]Jun.",
     "nom_fr": "Ginko",
-    "texte_fr": "Hey, Jun! Ton papa est incroyable, il peut\ntout faire, pas vrai? Tu penses qu'on va le\nvoir aujourd'hui? [E1][E2] [E3][E4][NULL][NULL]\"Jun\n Pe-Peut-être...[1205][001E] Il...\nest occupé, donc... [E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n Mon p-père\ntravaille dans un restaurant de sushi...[1101]S-Sérieux\nje dois manger des s-suhshi tout les\njours. [E1][E2] [E3][E4][NULL][NULL]\"Maya\nC'est bientôt l'heure pour vos\nfamilles de venir vous chercher. [E1][E2] [E3][E4][NULL][NULL]\"Ginko\n Je me\ndemande si ma maman sera\npremière aujourd'hui?[1101]J'ai faim! [E1][E2] [E3][E4][NULL][NULL]\"Eikichi\nOh, y'a quelqu'un. Je ne\nle reconnais pas...[1205][001E] M-Mais\nil a l'air cool! [E1][E2]\n[E3][E4][NULL][NULL]\"Père de Jun\n Je viens te chercher, Jun."
+    "texte_fr": "Hey, Jun! Ton papa est incroyable, il peut\ntout faire, pas vrai? Tu penses qu'on va le\nvoir aujourd'hui? [E1][E2] [E3][E4][NULL][NULL]\"Jun\n Pe-Peut-être...[1205][001E] Il...\nest occupé, donc... [E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n Mon p-père\ntravaille dans un restaurant de sushi...S-Sérieux\nje dois manger des s-suhshi tout les\njours. [E1][E2] [E3][E4][NULL][NULL]\"Maya\nC'est bientôt l'heure pour vos\nfamilles de venir vous chercher. [E1][E2] [E3][E4][NULL][NULL]\"Ginko\n Je me\ndemande si ma maman sera\npremière aujourd'hui?J'ai faim! [E1][E2] [E3][E4][NULL][NULL]\"Eikichi\nOh, y'a quelqu'un. Je ne\nle reconnais pas...[1205][001E] M-Mais\nil a l'air cool! [E1][E2]\n[E3][E4][NULL][NULL]\"Père de Jun\n Je viens te chercher, Jun."
   },
   {
     "id": 1,
     "offset": 343984,
-    "data_size": 126,
-    "slot_size": 130,
+    "data_size": 124,
+    "slot_size": 124,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Th-That's[SP]right...[1205][001E][SP]That[SP]is[SP]Jun's[SP]dad\nafter[SP]all...",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 344114,
-    "data_size": 156,
-    "slot_size": 160,
+    "data_size": 154,
+    "slot_size": 154,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Yeah...[SP]I[SP]remember[SP]now[SP]too.[SP]That[SP]was[SP]the[SP]day\nwe[SP]met[SP]Jun's[SP]dad...",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 344274,
-    "data_size": 94,
-    "slot_size": 98,
+    "data_size": 92,
+    "slot_size": 92,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "Ngh...[SP]That's[SP]right...[1205][001E][SP]Th-That's...",
@@ -66,17 +62,31 @@
   {
     "id": 4,
     "offset": 344372,
-    "data_size": 100,
-    "slot_size": 104,
+    "data_size": 98,
+    "slot_size": 98,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun's[SP]father",
     "texte_orig": "Come[SP]along,[SP]Jun.[SP]Mama's[SP]waiting.",
     "nom_fr": "Père de Jun",
     "texte_fr": "Viens, Jun. Maman nous attends."
+  },
+  {
+    "id": 5,
+    "offset": 344476,
+    "data_size": 378,
+    "slot_size": 388,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Ginko",
+    "texte_orig": "You[SP]were[SP]right![SP]He's[SP]super[SP]cool!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nI'm[SP]glad[SP]for[SP]you,[SP]Jun-kun![SP]It's[SP]nice[SP]that\nyour[SP]father[SP]came[SP]to[SP]pick[SP]you[SP]up.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nM-Mama's[SP]not[SP]waiting[SP]back[SP]home...![1205][001E][SP]Don't...!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

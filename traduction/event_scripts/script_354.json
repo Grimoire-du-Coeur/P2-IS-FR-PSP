@@ -2,29 +2,27 @@
   {
     "id": 0,
     "offset": 279878,
-    "data_size": 288,
-    "slot_size": 292,
+    "data_size": 286,
+    "slot_size": 286,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "Tch,[SP]listen[SP]to[SP]that[SP]guy![1205][U+000A][SP]He[SP]thinks[SP]he[SP]was\nchosen?[1205][U+000F][SP]He[SP]just[SP]happened[SP]to[SP]be[SP]living[SP]in\nSumaru![1205][U+000A][SP]He[SP]oughtta[SP]get[SP]off[SP]his[SP]high[SP]horse!",
+    "texte_orig": "Tch,[SP]listen[SP]to[SP]that[SP]guy![1205][000A][SP]He[SP]thinks[SP]he[SP]was\nchosen?[1205][000F][SP]He[SP]just[SP]happened[SP]to[SP]be[SP]living[SP]in\nSumaru![1205][000A][SP]He[SP]oughtta[SP]get[SP]off[SP]his[SP]high[SP]horse!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Tch, il s'entend ce type![1205][U+000A] Il se\ncroit élu? Il vit juste à Sumaru par\nhasard![1205][U+000A] Qu'il redescende sur terre!"
+    "texte_fr": "Tch, il s'entend ce type![1205][1205][000A] Il se\n[000F]croit élu? Il vit juste à Sumaru par\nhasard![1205][000A] Qu'il redescende sur terre!"
   },
   {
     "id": 1,
     "offset": 280170,
-    "data_size": 144,
-    "slot_size": 148,
+    "data_size": 142,
+    "slot_size": 142,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Yeah,[SP]Jun...[1205][001E][SP]Leave[SP]it[SP]to[SP]Maya-san.\nShe[SP]can[SP]crash[SP]anything.",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 280318,
-    "data_size": 194,
-    "slot_size": 198,
+    "data_size": 192,
+    "slot_size": 192,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Hey[SP]Jun,[SP]someone's[SP]gotta[SP]pilot[SP]Xibalba,[SP]right?\nLeave[SP]it[SP]to[SP]me![SP]I'll[SP]put[SP]her[SP]down[SP]safe!",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 280516,
-    "data_size": 290,
-    "slot_size": 294,
+    "data_size": 288,
+    "slot_size": 288,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "It's[SP]not[SP]like[SP]a[SP]normal[SP]vehicle...[1205][001E][SP]I[SP]don't[SP]know\nif[SP]we[SP]can[SP]control[SP]it.[1205][001E][SP]If[SP]worse[SP]comes[SP]to[SP]worst,\nwe[SP]may[SP]have[SP]to[SP]crash[SP]it[SP]to[SP]stop[SP]it...",
@@ -66,66 +62,62 @@
   {
     "id": 4,
     "offset": 280810,
-    "data_size": 226,
-    "slot_size": 230,
+    "data_size": 224,
+    "slot_size": 224,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Aloof[SP]man",
-    "texte_orig": "Do[SP]you[SP]want[SP]to[SP]become[SP]an[SP]Idealian,[SP]too?[1205][U+000F]\nI'd[SP]prefer[SP]not[SP]to.[1205][U+000F][SP]I'd[SP]rather[SP]pursue[SP]my\nown[SP]happiness.",
+    "texte_orig": "Do[SP]you[SP]want[SP]to[SP]become[SP]an[SP]Idealian,[SP]too?[1205][000F]\nI'd[SP]prefer[SP]not[SP]to.[1205][000F][SP]I'd[SP]rather[SP]pursue[SP]my\nown[SP]happiness.",
     "nom_fr": "Homme distant",
-    "texte_fr": "Vous voulez devenir un Idéalien? Pas moi.\nJe préfère poursuivre mon propre bonheur."
+    "texte_fr": "Vous voulez devenir un Idéalien? [000F][1205][000F][1205]Pas moi.\nJe préfère poursuivre mon propre bonheur."
   },
   {
     "id": 5,
     "offset": 281040,
-    "data_size": 308,
-    "slot_size": 312,
+    "data_size": 306,
+    "slot_size": 306,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Aloof[SP]man",
-    "texte_orig": "You[SP]don't[SP]need[SP]to[SP]go[SP]searching[SP]for[SP]your[SP]purpose\nin[SP]life.[1205][U+000F][SP]It's[SP]not[SP]something[SP]you[SP]can[SP]be[SP]given.[1205][U+000F]\nAnd[SP]finding[SP]it[SP]won't[SP]bring[SP]you[SP]happiness.",
+    "texte_orig": "You[SP]don't[SP]need[SP]to[SP]go[SP]searching[SP]for[SP]your[SP]purpose\nin[SP]life.[1205][000F][SP]It's[SP]not[SP]something[SP]you[SP]can[SP]be[SP]given.[1205][000F]\nAnd[SP]finding[SP]it[SP]won't[SP]bring[SP]you[SP]happiness.",
     "nom_fr": "Homme distant",
-    "texte_fr": "Nul besoin de chercher son but dans la\nvie. Ça ne se donne pas. Et le trouver\nne rend pas forcément heureux."
+    "texte_fr": "Nul besoin de chercher son but dans la\n[1205][1205]vie. [000F][000F]Ça ne se donne pas. Et le trouver\nne rend pas forcément heureux."
   },
   {
     "id": 6,
     "offset": 281352,
-    "data_size": 246,
-    "slot_size": 250,
+    "data_size": 244,
+    "slot_size": 244,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Aloof[SP]man",
-    "texte_orig": "That's[SP]all[SP]fine.[1205][U+000A][SP]All[SP]I[SP]need[SP]to[SP]be[SP]happy[SP]is\ncoffee[SP]and[SP]cigarettes.[1205][U+000F][SP]Haha,[SP]is[SP]that[SP]settling\nfor[SP]too[SP]little?",
+    "texte_orig": "That's[SP]all[SP]fine.[1205][000A][SP]All[SP]I[SP]need[SP]to[SP]be[SP]happy[SP]is\ncoffee[SP]and[SP]cigarettes.[1205][000F][SP]Haha,[SP]is[SP]that[SP]settling\nfor[SP]too[SP]little?",
     "nom_fr": "Homme distant",
-    "texte_fr": "Tout ça c'est bien.[1205][U+000A] Il\nme faut juste café et\ncigarettes. Haha, c'est trop peu ambitieux?"
+    "texte_fr": "Tout ça c'est bien.[1205][1205][000A] Il\nme faut juste café et\n[000F]cigarettes. Haha, c'est trop peu ambitieux?"
   },
   {
     "id": 7,
     "offset": 281602,
-    "data_size": 322,
-    "slot_size": 326,
+    "data_size": 320,
+    "slot_size": 320,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Pale[SP]man",
-    "texte_orig": "Heheheh...[1205][U+0008][SP]I've[SP]been[SP]waiting[SP]for[SP]you,[SP]Xibalba.[1205][U+000A]\nThe[SP]ship[SP]of[SP]the[SP]gods[SP]in[SP]hell.[1205][U+000A][SP]We[SP]were[SP]promised\nevolution![1205][U+000A][SP]A[SP]new[SP]life![1205][U+000A][SP]To[SP]become[SP]Idealians!",
+    "texte_orig": "Heheheh...[1205][0008][SP]I've[SP]been[SP]waiting[SP]for[SP]you,[SP]Xibalba.[1205][000A]\nThe[SP]ship[SP]of[SP]the[SP]gods[SP]in[SP]hell.[1205][000A][SP]We[SP]were[SP]promised\nevolution![1205][000A][SP]A[SP]new[SP]life![1205][000A][SP]To[SP]become[SP]Idealians!",
     "nom_fr": "Homme blême",
-    "texte_fr": "Heheheh...[1205][U+0008] Je\nt'attendais, Xibalba.[1205][U+000A] Vaisseau\ndes dieux des enfers.[1205][U+000A] On nous avait promis\nl'évolution![1205][U+000A] Nouvelle\nvie![1205][U+000A] Devenir Idéaliens!"
+    "texte_fr": "Heheheh...[1205][0008] Je\nt'attendais, Xibalba.[1205][000A] Vaisseau\ndes dieux des enfers.[1205][000A] On nous avait promis\nl'évolution![1205][000A] Nouvelle\nvie![1205][000A] Devenir Idéaliens!"
   },
   {
     "id": 8,
@@ -138,40 +130,49 @@
       5169
     ],
     "nom_orig": "Pale[SP]man",
-    "texte_orig": "The[SP]Earth[SP]will[SP]be[SP]destroyed.[1205][U+000A][SP]Too[SP]bad,[SP]so[SP]sad.[1205][U+000A]\nWe[SP]were[SP]chosen[SP]and[SP]the[SP]ones[SP]down[SP]there[SP]weren't.",
+    "texte_orig": "The[SP]Earth[SP]will[SP]be[SP]destroyed.[1205][000A][SP]Too[SP]bad,[SP]so[SP]sad.[1205][000A]\nWe[SP]were[SP]chosen[SP]and[SP]the[SP]ones[SP]down[SP]there[SP]weren't.",
     "nom_fr": "Homme blême",
-    "texte_fr": "La Terre sera détruite.[1205][U+000A] Dommage.[1205][U+000A]\nNous sommes élus, pas eux là-bas."
+    "texte_fr": "La Terre sera détruite.[1205][000A] Dommage.[1205][000A]\nNous sommes élus, pas eux là-bas."
   },
   {
     "id": 9,
     "offset": 282154,
-    "data_size": 190,
-    "slot_size": 194,
+    "data_size": 188,
+    "slot_size": 188,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Pale[SP]man",
-    "texte_orig": "My[SP]heart[SP]bleeds[SP]for[SP]them.[SP]But[SP]who[SP]can[SP]help[SP]it?[1205][U+000A]\nWe[SP]are[SP]the[SP]chosen[SP]ones![SP]Heheheh!",
+    "texte_orig": "My[SP]heart[SP]bleeds[SP]for[SP]them.[SP]But[SP]who[SP]can[SP]help[SP]it?[1205][000A]\nWe[SP]are[SP]the[SP]chosen[SP]ones![SP]Heheheh!",
     "nom_fr": "Homme blême",
-    "texte_fr": "J'ai de la peine pour eux. Mais qu'y\nfaire?[1205][U+000A] Nous sommes les élus! Heheheh!"
+    "texte_fr": "J'ai de la peine pour eux. Mais qu'y\nfaire?[1205][000A] Nous sommes les élus! Heheheh!"
   },
   {
     "id": 10,
     "offset": 282348,
-    "data_size": 368,
-    "slot_size": 372,
+    "data_size": 362,
+    "slot_size": 362,
     "_term": [
       4361,
       4354,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
-    "texte_orig": "Heeheehee.[SP]Welcome[SP]to[SP]Satomi[SP]Tadashi's[SP]Aoba\nbranch![SP]What[SP]can[SP]I[SP]do[SP]for[SP]you?[SP]Heeheehee.\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#1\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store\n[1109][E2][E3]",
+    "texte_orig": "Heeheehee.[SP]Welcome[SP]to[SP]Satomi[SP]Tadashi's[SP]Aoba\nbranch![SP]What[SP]can[SP]I[SP]do[SP]for[SP]you?[SP]Heeheehee.\n[1208][0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#1\n[1210][B_00][U+5601][B_00]iew[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Hihihi. Bienvenue à la succursale d'Aoba\nde Satomi Tadashi! Que puis-je pour toi?\n[1208][U+0006]Acheter objets\nObjets\nParler à Sœur n°1\n[1210][U+0100]Voir objets\nRien\nQuitter\n[1109][E2][E3]",
+    "texte_fr": "Hihihi. Bienvenue à la succursale d'Aoba\nde Satomi Tadashi! Que puis-je pour toi?\n[1208][0006]Acheter objets\nObjets\nParler à Sœur n°1\n[1210]Voir objets\nRien\nQuitter",
+    "question_orig": "Heeheehee.[SP]Welcome[SP]to[SP]Satomi[SP]Tadashi's[SP]Aoba\nbranch![SP]What[SP]can[SP]I[SP]do[SP]for[SP]you?[SP]Heeheehee.",
+    "choix_orig": [
+      "Buy[SP]items",
+      "Sell[SP]items",
+      "Talk[SP]to[SP]Sister[SP]#1",
+      "[1210][B_00][B_00]iew[SP]items",
+      "Never[SP]mind",
+      "Leave[SP]the[SP]store"
+    ],
+    "count_tag": "[0006]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -180,18 +181,28 @@
   {
     "id": 11,
     "offset": 282720,
-    "data_size": 324,
-    "slot_size": 328,
+    "data_size": 322,
+    "slot_size": 322,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
-    "texte_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+    "texte_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Alors, tu vends quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Alors, tu vends quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires",
+    "question_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?",
+    "choix_orig": [
+      "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
+      "[111F]Sell[SP]items",
+      "[111F]Sell[SP]weapons",
+      "[111F][1210][B_00][B_00]ell[SP]head[SP]armor",
+      "[111F]Sell[SP]armor",
+      "[111F][1210][B_00][B_00]ell[SP]leg[SP]armor",
+      "[111F]Sell[SP]accessories"
+    ],
+    "count_tag": "[0007]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -200,17 +211,24 @@
   {
     "id": 12,
     "offset": 283048,
-    "data_size": 226,
-    "slot_size": 230,
+    "data_size": 220,
+    "slot_size": 220,
     "_term": [
       4361,
       4354,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
-    "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection\n[1109][E2][E3]",
+    "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée\n[1109][E2][E3]",
+    "texte_fr": "Tu veux parler de quoi?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée",
+    "question_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
+    "choix_orig": [
+      "Make[SP]small[SP]talk",
+      "Ask[SP]about[SP]shopping",
+      "[1210][B_00][B_00]ndisplayed[SP]selection"
+    ],
+    "count_tag": "[0003]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -219,18 +237,27 @@
   {
     "id": 13,
     "offset": 283278,
-    "data_size": 244,
-    "slot_size": 248,
+    "data_size": 242,
+    "slot_size": 242,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
-    "texte_orig": "Heeheehee.[SP]Anything[SP]else?\n[1208][U+0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#1\n[1210][U+0100]View[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
+    "texte_orig": "Heeheehee.[SP]Anything[SP]else?\n[1208][0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#1\n[1210][B_00][U+5601][B_00]iew[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Hihihi. Autre chose?\n[1208][U+0006]Acheter objets\nVendre objets\nParler à Sœur n°1\n[1210][U+0100]Voir objets\nRien\nQuitter",
+    "texte_fr": "Hihihi. Autre chose?\n[1208][0006]Acheter objets\nVendre objets\nParler à Sœur n°1\n[1210]Voir objets\nRien\nQuitter",
+    "question_orig": "Heeheehee.[SP]Anything[SP]else?",
+    "choix_orig": [
+      "Buy[SP]items",
+      "Sell[SP]items",
+      "Talk[SP]to[SP]Sister[SP]#1",
+      "[1210][B_00][B_00]iew[SP]items",
+      "Never[SP]mind",
+      "Leave[SP]the[SP]store"
+    ],
+    "count_tag": "[0006]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -239,18 +266,28 @@
   {
     "id": 14,
     "offset": 283526,
-    "data_size": 324,
-    "slot_size": 328,
+    "data_size": 322,
+    "slot_size": 322,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
-    "texte_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][U+0007][111F][1210][U+0100]Undisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][U+0100]Sell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][U+0100]Sell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
+    "texte_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Alors, tu vends quoi?\n[1208][U+0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Alors, tu vends quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires",
+    "question_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?",
+    "choix_orig": [
+      "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
+      "[111F]Sell[SP]items",
+      "[111F]Sell[SP]weapons",
+      "[111F][1210][B_00][B_00]ell[SP]head[SP]armor",
+      "[111F]Sell[SP]armor",
+      "[111F][1210][B_00][B_00]ell[SP]leg[SP]armor",
+      "[111F]Sell[SP]accessories"
+    ],
+    "count_tag": "[0007]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -259,18 +296,24 @@
   {
     "id": 15,
     "offset": 283854,
-    "data_size": 222,
-    "slot_size": 226,
+    "data_size": 220,
+    "slot_size": 220,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
-    "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][U+0100]Undisplayed[SP]selection",
+    "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Tu veux parler de quoi?\n[1208][U+0003]Bavarder\nParler boutique\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Tu veux parler de quoi?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée",
+    "question_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
+    "choix_orig": [
+      "Make[SP]small[SP]talk",
+      "Ask[SP]about[SP]shopping",
+      "[1210][B_00][B_00]ndisplayed[SP]selection"
+    ],
+    "count_tag": "[0003]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -279,61 +322,57 @@
   {
     "id": 16,
     "offset": 284080,
-    "data_size": 318,
-    "slot_size": 322,
+    "data_size": 316,
+    "slot_size": 316,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
-    "texte_orig": "Ever[SP]since[SP]the[SP]city[SP]took[SP]to[SP]the[SP]sky,[SP]my[SP]sisters\nhave[SP]been[SP]on[SP]the[SP]horn[SP]nonstop.[1205][U+000F][SP]They're[SP]worried\nwe[SP]won't[SP]be[SP]able[SP]to[SP]take[SP]our[SP]chain[SP]nationwide.",
+    "texte_orig": "Ever[SP]since[SP]the[SP]city[SP]took[SP]to[SP]the[SP]sky,[SP]my[SP]sisters\nhave[SP]been[SP]on[SP]the[SP]horn[SP]nonstop.[1205][000F][SP]They're[SP]worried\nwe[SP]won't[SP]be[SP]able[SP]to[SP]take[SP]our[SP]chain[SP]nationwide.",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Depuis que la ville a décollé, mes sœurs\nm'appellent sans arrêt. Elles s'inquiètent\nde ne pas pouvoir ouvrir nos franchises."
+    "texte_fr": "Depuis que la ville a décollé, mes sœurs\nm'appellent sans arrêt. [000F][1205]Elles s'inquiètent\nde ne pas pouvoir ouvrir nos franchises."
   },
   {
     "id": 17,
     "offset": 284402,
-    "data_size": 188,
-    "slot_size": 192,
+    "data_size": 186,
+    "slot_size": 186,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
-    "texte_orig": "Nonsense,[SP]I[SP]say![1205][U+000F][SP]If[SP]we[SP]can't[SP]take[SP]over[SP]the\ncountry,[SP]we'll[SP]take[SP]over[SP]Xibalba!",
+    "texte_orig": "Nonsense,[SP]I[SP]say![1205][000F][SP]If[SP]we[SP]can't[SP]take[SP]over[SP]the\ncountry,[SP]we'll[SP]take[SP]over[SP]Xibalba!",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Sottises! Si on peut pas conquérir\nle pays, on conquerra Xibalba!"
+    "texte_fr": "Sottises! [000F][1205]Si on peut pas conquérir\nle pays, on conquerra Xibalba!"
   },
   {
     "id": 18,
     "offset": 284594,
-    "data_size": 230,
-    "slot_size": 234,
+    "data_size": 228,
+    "slot_size": 228,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
-    "texte_orig": "We'll[SP]scoop[SP]up[SP]our[SP]shattered[SP]dreams[SP]from[SP]the\nland[SP]below[SP]and[SP]rebuild[SP]them[SP]on[SP]Xibalba![1205][U+000F]\nHeeheeheehee!",
+    "texte_orig": "We'll[SP]scoop[SP]up[SP]our[SP]shattered[SP]dreams[SP]from[SP]the\nland[SP]below[SP]and[SP]rebuild[SP]them[SP]on[SP]Xibalba![1205][000F]\nHeeheeheehee!",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "On ramassera nos rêves brisés en bas et on\nles reconstruira sur Xibalba! Hihihihihi!"
+    "texte_fr": "On ramassera nos rêves brisés en bas et on\nles reconstruira sur Xibalba! [000F][1205]Hihihihihi!"
   },
   {
     "id": 19,
     "offset": 284828,
-    "data_size": 96,
-    "slot_size": 100,
+    "data_size": 94,
+    "slot_size": 94,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "Thank[SP]you![SP]Come[SP]again![SP]Heeheehee.",
@@ -343,13 +382,12 @@
   {
     "id": 20,
     "offset": 284928,
-    "data_size": 120,
-    "slot_size": 124,
+    "data_size": 118,
+    "slot_size": 118,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "Oh,[SP]but[SP]you[SP]don't[SP]have[SP]anything[SP]you[SP]can[SP]sell.",
@@ -359,18 +397,23 @@
   {
     "id": 21,
     "offset": 285052,
-    "data_size": 140,
-    "slot_size": 144,
+    "data_size": 138,
+    "slot_size": 138,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Sœur n°1",
-    "texte_fr": "Ça fait [120E][NULL] yens en tout.\nC'est bon pour vous?\n[1208][0002]Oui[0014]Non",
+    "texte_fr": "Ça fait [120E][NULL] yens en tout.\nC'est bon pour vous?\n[1208][0002]OuiNon",
+    "question_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?",
+    "choix_orig": [
+      "Yes",
+      "No"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -454,17 +497,41 @@
   {
     "id": 27,
     "offset": 286326,
-    "data_size": 84,
-    "slot_size": 88,
+    "data_size": 82,
+    "slot_size": 82,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Sister[SP]#1",
     "texte_orig": "That's[SP]about[SP]it.[SP]Heeheehee.",
     "nom_fr": "Sœur n°1",
     "texte_fr": "Voilà! Hihihi."
+  },
+  {
+    "id": 28,
+    "offset": 286414,
+    "data_size": 138,
+    "slot_size": 146,
+    "_term": [
+      4361,
+      4354,
+      4355
+    ],
+    "nom_orig": "Sister[SP]#1",
+    "texte_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
+    "nom_fr": "Sœur n°1",
+    "texte_fr": "Ça fait [120E][NULL] yens en tout.\nC'est bon pour vous?\n[1208][0002]OuiNon",
+    "question_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?",
+    "choix_orig": [
+      "Yes",
+      "No"
+    ],
+    "count_tag": "[0002]",
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
   }
 ]

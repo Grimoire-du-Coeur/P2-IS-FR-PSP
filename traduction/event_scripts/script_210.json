@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 375238,
-    "data_size": 190,
-    "slot_size": 194,
+    "data_size": 188,
+    "slot_size": 188,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Male[SP]student",
     "texte_orig": "Yo,[SP][1113]![SP]Ms.[SP]Saeko[SP]was[SP]looking[SP]for[SP]you.\nSomething[SP]about[SP]guidance[SP]counseling...",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 375432,
-    "data_size": 106,
-    "slot_size": 110,
+    "data_size": 104,
+    "slot_size": 104,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Male[SP]student",
     "texte_orig": "What's[SP]up?[SP]Your[SP]motorcycle[SP]busted?",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 375542,
-    "data_size": 312,
-    "slot_size": 316,
+    "data_size": 310,
+    "slot_size": 310,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Male[SP]student",
     "texte_orig": "Yikes![SP]This[SP]looks[SP]bad.[SP]I[SP]know[SP]you're[SP]not[SP]that\ngood[SP]at[SP]fixing[SP]stuff,[SP]so[SP]you[SP]might[SP]wanna[SP]take\nthe[SP]train[SP]home.[SP]Well,[SP]I[SP]delivered[SP]my[SP]message.",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 375858,
-    "data_size": 162,
-    "slot_size": 166,
+    "data_size": 160,
+    "slot_size": 160,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "Aha![SP]There[SP]you[SP]are,[SP][1113]![SP]You're[SP]not\ngetting[SP]away[SP]from[SP]me[SP]this[SP]time.",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 376024,
-    "data_size": 226,
-    "slot_size": 230,
+    "data_size": 224,
+    "slot_size": 224,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "Well[SP]then,[SP]let's[SP]get[SP]straight[SP]to[SP]business.\nHave[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 376254,
-    "data_size": 234,
-    "slot_size": 238,
+    "data_size": 232,
+    "slot_size": 232,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "Have[SP]you[SP]decided[SP]what[SP]you[SP]want[SP]to[SP]do\nafter[SP]graduation?\n[1208][0002][1432][NULL][NULL][0014]Yeah,[SP]I've[SP]decided.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]yet.[1432][NULL][NULL][0014]",
@@ -99,6 +93,7 @@
       "Yeah,[SP]I've[SP]decided.",
       "Not[SP]yet."
     ],
+    "count_tag": "[0002]",
     "question_fr": "As-tu décidé de ce que tu veux faire après le lycée?",
     "choix_fr": [
       "Ouais, c'est bon.",
@@ -108,13 +103,12 @@
   {
     "id": 6,
     "offset": 376492,
-    "data_size": 264,
-    "slot_size": 268,
+    "data_size": 262,
+    "slot_size": 262,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "Is[SP]that[SP]so![SP]Well,[SP]that's[SP]all[SP]I[SP]needed[SP]to[SP]hear\nfor[SP]today.[SP]We[SP]can[SP]discuss[SP]it[SP]more[SP]tomorrow\nat[SP]your[SP]guidance[SP]interview.",
@@ -124,13 +118,12 @@
   {
     "id": 7,
     "offset": 376760,
-    "data_size": 230,
-    "slot_size": 234,
+    "data_size": 228,
+    "slot_size": 228,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Saeko",
     "texte_orig": "I[SP]see.[SP]Well,[SP]there's[SP]no[SP]rush.[SP]It's[SP]your[SP]life,\nso[SP]think[SP]hard[SP]about[SP]it[SP]before[SP]you[SP]make[SP]your\ndecision.",
@@ -140,13 +133,12 @@
   {
     "id": 8,
     "offset": 376994,
-    "data_size": 34,
-    "slot_size": 38,
+    "data_size": 32,
+    "slot_size": 32,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lisa",
     "texte_orig": "......",
@@ -156,13 +148,12 @@
   {
     "id": 9,
     "offset": 377032,
-    "data_size": 62,
-    "slot_size": 66,
+    "data_size": 60,
+    "slot_size": 60,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mami",
     "texte_orig": "Hm?[SP]What's[SP]up,[SP]Lisa?",
@@ -172,13 +163,12 @@
   {
     "id": 10,
     "offset": 377098,
-    "data_size": 172,
-    "slot_size": 176,
+    "data_size": 170,
+    "slot_size": 170,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lisa",
     "texte_orig": "U-Umm...[1205][001E][SP]I-I[SP]was[SP]just[SP]waiting[SP]around![SP]I[SP]knew\nyou[SP]guys[SP]would[SP]show[SP]up[SP]soon!",
@@ -188,13 +178,12 @@
   {
     "id": 11,
     "offset": 377274,
-    "data_size": 118,
-    "slot_size": 122,
+    "data_size": 116,
+    "slot_size": 116,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Miho",
     "texte_orig": "Oooh,[SP]it's[SP][1112]-senpai.[SP]He's[SP]gotten[SP]so\ncool[SP]lately!",
@@ -204,17 +193,31 @@
   {
     "id": 12,
     "offset": 377396,
-    "data_size": 84,
-    "slot_size": 88,
+    "data_size": 82,
+    "slot_size": 82,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lisa",
     "texte_orig": "Y-You[SP]think?[SP]He[SP]has[SP]weird[SP]hair.",
     "nom_fr": "Lisa",
     "texte_fr": "T-Tu penses? Il est mal coiffé."
+  },
+  {
+    "id": 13,
+    "offset": 377484,
+    "data_size": 200,
+    "slot_size": 212,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Lisa",
+    "texte_orig": "C-C'mon,[SP]forget[SP]him![SP]Let's[SP]go[SP]karaoke!\nWe've[SP]gotta[SP]practice[SP]for[SP]our[SP]debut\ntogether,[SP]right?",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

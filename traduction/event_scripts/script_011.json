@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 252902,
-    "data_size": 60,
-    "slot_size": 64,
+    "data_size": 58,
+    "slot_size": 58,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Hello![SP]Excuse[SP]us...",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 252966,
-    "data_size": 124,
-    "slot_size": 128,
+    "data_size": 122,
+    "slot_size": 122,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Um,[SP]we'd[SP]like[SP]to[SP]borrow[SP]the[SP]key[SP]to[SP]the\nclock[SP]tower.",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 253094,
-    "data_size": 44,
-    "slot_size": 48,
+    "data_size": 42,
+    "slot_size": 42,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Janitor",
     "texte_orig": "Hm?[SP]Key?",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 253142,
-    "data_size": 146,
-    "slot_size": 150,
+    "data_size": 144,
+    "slot_size": 144,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Hai![SP]The[SP]key[SP]to[SP]the[SP]clock[SP]tower!\nYou[SP]have[SP]it,[SP]right,[SP]grandpa?",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 253292,
-    "data_size": 128,
-    "slot_size": 132,
+    "data_size": 126,
+    "slot_size": 126,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Janitor",
     "texte_orig": "The[SP]clock[SP]tower[SP]key...[1205][001E][SP]Hmmm,[SP]where[SP]did\nI[SP]put[SP]it?",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 253424,
-    "data_size": 178,
-    "slot_size": 182,
+    "data_size": 176,
+    "slot_size": 176,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Alright,[SP]gramps![SP]Breathe[SP]deep[SP]and[SP]try\nto[SP]remember[SP]with[SP]me[SP]where[SP]you[SP]put[SP]it.",
@@ -98,13 +92,12 @@
   {
     "id": 6,
     "offset": 253606,
-    "data_size": 170,
-    "slot_size": 174,
+    "data_size": 168,
+    "slot_size": 168,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Who[SP]knows[SP]when[SP]this[SP]guy'll[SP]remember...\nIt'd[SP]be[SP]faster[SP]to[SP]look[SP]ourselves.",
@@ -114,13 +107,12 @@
   {
     "id": 7,
     "offset": 253780,
-    "data_size": 80,
-    "slot_size": 84,
+    "data_size": 78,
+    "slot_size": 78,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "UGH![SP]I[SP]don't[SP]see[SP]it[SP]anywhere!",
@@ -130,13 +122,12 @@
   {
     "id": 8,
     "offset": 253864,
-    "data_size": 86,
-    "slot_size": 90,
+    "data_size": 84,
+    "slot_size": 84,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Oh[SP]man...[SP]Then[SP]what[SP]should[SP]we[SP]do?",
@@ -146,13 +137,12 @@
   {
     "id": 9,
     "offset": 253954,
-    "data_size": 132,
-    "slot_size": 136,
+    "data_size": 130,
+    "slot_size": 130,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "By[SP]the[SP]way,[SP]gramps.[SP]I[SP]keep[SP]wondering...\nWhat's[SP]that?",
@@ -162,13 +152,12 @@
   {
     "id": 10,
     "offset": 254090,
-    "data_size": 86,
-    "slot_size": 90,
+    "data_size": 84,
+    "slot_size": 84,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Janitor",
     "texte_orig": "Hm?[SP]Why,[SP]it[SP]looks[SP]like[SP]a[SP]key.",
@@ -178,29 +167,27 @@
   {
     "id": 11,
     "offset": 254180,
-    "data_size": 134,
-    "slot_size": 138,
+    "data_size": 132,
+    "slot_size": 132,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "Uhh...[SP]The[SP]tag[SP]on[SP]it[SP]says...\nClock...[1205][U+000A][SP]Tow...[1205][U+000A]er...",
+    "texte_orig": "Uhh...[SP]The[SP]tag[SP]on[SP]it[SP]says...\nClock...[1205][000A][SP]Tow...[1205][000A]er...",
     "nom_fr": "Michel",
-    "texte_fr": "Euh... l'étiquette dit... Hor...[1205][U+000A] loge...[1205][U+000A]..."
+    "texte_fr": "Euh... l'étiquette dit... Hor...[1205][000A] loge...[1205][000A]..."
   },
   {
     "id": 12,
     "offset": 254318,
-    "data_size": 160,
-    "slot_size": 164,
+    "data_size": 158,
+    "slot_size": 158,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Hot[SP]diggity![SP]I[SP]found[SP]us[SP]the[SP]key.\nNow[SP]let's[SP]get[SP]to[SP]that[SP]clock[SP]tower!",
@@ -210,13 +197,12 @@
   {
     "id": 13,
     "offset": 254482,
-    "data_size": 214,
-    "slot_size": 218,
+    "data_size": 212,
+    "slot_size": 212,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "What's[SP]up,[SP][1113]?[SP]Gramps[SP]and[SP]I[SP]are\nhaving[SP]a[SP]man-to-man[SP]chat[SP]here.[SP]Stick\nyour[SP]nose[SP]someplace[SP]else.",
@@ -226,13 +212,12 @@
   {
     "id": 14,
     "offset": 254700,
-    "data_size": 56,
-    "slot_size": 60,
+    "data_size": 54,
+    "slot_size": 54,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]So[SP]musty!",
@@ -242,13 +227,12 @@
   {
     "id": 15,
     "offset": 254760,
-    "data_size": 180,
-    "slot_size": 184,
+    "data_size": 178,
+    "slot_size": 178,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Geez![SP]Have[SP]these[SP]futons[SP]been[SP]aired[SP]out\nthis[SP]decade!?[SP]I[SP]don't[SP]see[SP]any[SP]key[SP]here.",
@@ -258,13 +242,12 @@
   {
     "id": 16,
     "offset": 254944,
-    "data_size": 36,
-    "slot_size": 40,
+    "data_size": 34,
+    "slot_size": 34,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Whoa![1205][001E]",
@@ -274,13 +257,12 @@
   {
     "id": 17,
     "offset": 254984,
-    "data_size": 212,
-    "slot_size": 216,
+    "data_size": 210,
+    "slot_size": 210,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "This[SP]dresser[SP]is[SP]full[SP]to[SP]bursting[SP]with\ncutouts[SP]and[SP]glossies[SP]of[SP]that[SP]actress\nSaiyuri[SP]Yoshikawa...",
@@ -290,13 +272,12 @@
   {
     "id": 18,
     "offset": 255200,
-    "data_size": 244,
-    "slot_size": 248,
+    "data_size": 242,
+    "slot_size": 242,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "No[SP]key[SP]here,[SP]but[SP]plenty[SP]of[SP]side[SP]dishes.[1205][001E]\nWhatever[SP]she[SP]says,[SP]that[SP]lady[SP]seems[SP]to[SP]be\ntaking[SP]good[SP]care[SP]of[SP]gramps.",
@@ -306,13 +287,12 @@
   {
     "id": 19,
     "offset": 255448,
-    "data_size": 168,
-    "slot_size": 172,
+    "data_size": 166,
+    "slot_size": 166,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Caretaker",
     "texte_orig": "Hohoho![SP]This[SP]man[SP]loses[SP]things[SP]so\neasily.[SP]It's[SP]not[SP]easy,[SP]getting[SP]old.",
@@ -322,17 +302,31 @@
   {
     "id": 20,
     "offset": 255620,
-    "data_size": 1644,
-    "slot_size": 1648,
+    "data_size": 210,
+    "slot_size": 210,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Janitor",
-    "texte_orig": "The[SP]key...[SP]the[SP]key...[SP]I[SP]feel[SP]like[SP]I\nalways[SP]see[SP]it[SP]around...[SP]Oh[SP]well,\nI[SP]oughtta[SP]eat[SP]my[SP]dinner.[E1][E2][E3]>[SP]It's[SP]a[SP]poster[SP]of[SP]the[SP]legendary[SP]actress\nSaiyuri[SP]Yoshikawa.[SP]The[SP]area[SP]around[SP]her\nlips[SP]is[SP]worn[SP]for[SP]some[SP]reason...[E1][E2][E3]>[SP]It's[SP]a[SP]calendar[SP]of[SP]the[SP]legendary[SP]actress\nSaiyuri[SP]Yoshikawa...[SP]from[SP]30[SP]years[SP]ago!\nThe[SP]area[SP]around[SP]her[SP]lips[SP]is[SP]oddly[SP]worn...[E1][E2][E3]>[SP]There[SP]are[SP]thick[SP]ropes[SP]and[SP]candles[SP]in\nthe[SP]box...[SP]For[SP]emergencies,[SP]you[SP]hope.[E1][E2][E3]>[SP]There[SP]are[SP]thick[SP]ropes[SP]and[SP]candles[SP]in\nthe[SP]box...[SP]For[SP]emergencies,[SP]you[SP]hope.[E1][E2][E3]>[SP]It's[SP]an[SP]old[SP]TV.[1205][001E][SP]It[SP]even[SP]uses[SP]a[SP]dial\nto[SP]change[SP]channels.[E1][E2][E3]>[SP]Hidden[SP]amongst[SP]the[SP]pictures[SP]of[SP]Saiyuri\nYoshikawa[SP]in[SP]the[SP]drawer...[1205]<[SP]were[SP]more\ncutouts[SP]of[SP]the[SP]same[SP]actress.[E1][E2][E3]>[SP]The[SP]fridge[SP]is[SP]full[SP]of[SP]side[SP]dishes[SP]with\nplastic[SP]wrap[SP]covering[SP]them.[E1][E2][E3]>[SP]There's[SP]nothing[SP]in[SP]the[SP]cabinet.[E1][E2][E3]\n>[SP]There[SP]are[SP]futons[SP]in[SP]the[SP]closet.",
+    "texte_orig": "The[SP]key...[SP]the[SP]key...[SP]I[SP]feel[SP]like[SP]I\nalways[SP]see[SP]it[SP]around...[SP]Oh[SP]well,\nI[SP]oughtta[SP]eat[SP]my[SP]dinner.",
     "nom_fr": "Concierge",
-    "texte_fr": "La clé... La clé... Je la vois souvent...\nTant pis, je vais\ndîner.[E1][E2][E3]> Poster de l'actrice\nSaiyuri Yoshikawa. Ses\nlèvres sont usées sans\nraison...[E1][E2][E3]> Calendrier de l'actrice Saiyuri\nYoshikawa... d'il y a\n30 ans! Ses lèvres sont\nusées...[E1][E2][E3]> Cordes et\nbougies dans la boîte...\nPour les urgences...[E1][E2][E3]> Vieille\nTV.[1205][001E] Elle a même\nun bouton pour les chaînes.[E1][E2][E3]> Cachées parmi\nles photos de Saiyuri\ndans le tiroir...[1205]< des\ncoupures de la même actrice.[E1][E2][E3]> Le frigo est\nplein de plats sous film plastique.[E1][E2][E3]> Rien\ndans le placard.[E1][E2][E3] > Il\ny a des futons au fond."
+    "texte_fr": "La clé... La clé... Je la vois souvent...\nTant pis, je vais\ndîner.> Poster de l'actrice\nSaiyuri Yoshikawa. Ses\nlèvres sont usées sans\nraison...> Calendrier de l'actrice Saiyuri\nYoshikawa... d'il y a\n30 ans! Ses lèvres sont\nusées...> Cordes et\nbougies dans la boîte...\nPour les urgences...> Vieille\nTV. Elle a même\nun bouton pour les chaînes.> Cachées parmi\nles photos de Saiyuri\ndans le tiroir...< des\ncoupures de la même actrice.> Le frigo est\nplein de plats sous film plastique.> Rien\ndans le placard. > Il\ny a des futons au fond."
+  },
+  {
+    "id": 21,
+    "offset": 257268,
+    "data_size": 198,
+    "slot_size": 204,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "What's[SP]the[SP]matter,[SP][1113]?[SP]If[SP]we[SP]don't\nfind[SP]that[SP]key,[SP]we're[SP]not[SP]getting[SP]into\nthe[SP]clock[SP]tower.",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 222886,
-    "data_size": 190,
-    "slot_size": 194,
+    "data_size": 188,
+    "slot_size": 188,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Philemon",
     "texte_orig": "I[SP]applaud[SP]you[SP]for[SP]making[SP]it[SP]this[SP]far.\nYou[SP]are[SP]truly[SP]ready[SP]to[SP]face[SP]your[SP]past[SP]now.",
@@ -18,29 +17,27 @@
   {
     "id": 1,
     "offset": 223080,
-    "data_size": 280,
-    "slot_size": 284,
+    "data_size": 278,
+    "slot_size": 278,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Philemon",
     "texte_orig": "You[SP]have[SP]begun[SP]to[SP]recover[SP]your[SP]forgotten\npast...[1205][001E][SP]If[SP]you[SP]wish[SP]to[SP]learn[SP]the[SP]truth,\ngo[SP]to[SP]the[SP]Alaya[SP]Cavern[SP]behind[SP]this[SP]shrine.",
     "nom_fr": "Philémon",
-    "texte_fr": "Tu commences à te\nrappeler ton passé oublié...\nSi tu souhaites connaître\nla vérité, va à la\ncaverne Alaya derrière le  temple."
+    "texte_fr": "Tu commences à te\nrappeler ton passé oublié.[1205].[001E].\nSi tu souhaites connaître\nla vérité, va à la\ncaverne Alaya derrière le  temple."
   },
   {
     "id": 2,
     "offset": 223364,
-    "data_size": 222,
-    "slot_size": 226,
+    "data_size": 220,
+    "slot_size": 220,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Philemon",
     "texte_orig": "The[SP]reflecting[SP]pools[SP]that[SP]show[SP]one's[SP]past\nand[SP]inner[SP]self[SP]shall[SP]show[SP]you[SP]the[SP]way[SP]to\ngo[SP]from[SP]here.",
@@ -50,33 +47,46 @@
   {
     "id": 3,
     "offset": 223590,
-    "data_size": 148,
-    "slot_size": 152,
+    "data_size": 146,
+    "slot_size": 146,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Mt.[SP]Iwato...[1205][001E][SP]Where[SP]our[SP]memories[SP]and[SP]sins\nhave[SP]been[SP]buried...",
     "nom_fr": "Ginko",
-    "texte_fr": "M. Iwato... Tes souvenirs et\ntes péchés ont été enterrés."
+    "texte_fr": "M. Iwato.[1205].[001E]. Tes souvenirs et\ntes péchés ont été enterrés."
   },
   {
     "id": 4,
     "offset": 223742,
-    "data_size": 204,
-    "slot_size": 208,
+    "data_size": 202,
+    "slot_size": 202,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Philemon",
     "texte_orig": "Man's[SP]understanding[SP]of[SP]time[SP]causes[SP]him[SP]to[SP]be\ntrapped[SP]in[SP]the[SP]past[SP]and[SP]fear[SP]the[SP]future...",
     "nom_fr": "Philémon",
     "texte_fr": "La vision du temps\npar l'homme le piège dans\nle passé et lui fait craindre l'avenir..."
+  },
+  {
+    "id": 5,
+    "offset": 223950,
+    "data_size": 292,
+    "slot_size": 306,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Philemon",
+    "texte_orig": "Now[SP]is[SP]when[SP]you[SP]must[SP]break[SP]free[SP]from[SP]your\ndistorted[SP]memories[SP]and[SP]take[SP]flight[SP]towards\nthe[SP]future.[1205][001E][SP]The[SP]real[SP]battle[SP]is[SP]close[SP]at[SP]hand.",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

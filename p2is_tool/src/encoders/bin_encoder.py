@@ -253,11 +253,12 @@ def encode_bin_from_json(
         # Si c'est un menu de choix avec les champs dédiés, reconstruire texte_fr
         choix_fr = d.get("choix_fr")
         q_fr = d.get("question_fr", "").strip()
+        count_tag = d.get("count_tag") or d.get("count_tag_orig")
         if choix_fr is not None:
             # Utiliser question_fr/choix_fr si remplis, sinon fallback sur texte_fr
             filled_choices = [c for c in choix_fr if c.strip()]
             if q_fr and filled_choices:
-                t_fr = _rebuild_choice_body(q_fr, choix_fr)
+                t_fr = _rebuild_choice_body(q_fr, choix_fr, count_tag)
             elif not t_fr_input:
                 # Rien de traduit du tout → skip
                 kept += 1
@@ -311,15 +312,28 @@ def encode_bin_from_json(
                     f"  [!] [DEPASSEMENT] [id {d['id']}] Texte FR trop long de {depassement} octets ({len(enc)} > {avail}). Troncature automatique.",
                     "warn",
                 )
-            import re
-            tokens = re.split(r'(\[[a-zA-Z0-9+\-_]+\]|\s)', t_fr)
-            tokens = [t for t in tokens if t]
-            
-            while tokens and len(text_to_bytes('"' + n_fr + "\n" + ''.join(tokens))) > avail - len(nl_suffix):
-                tokens.pop()
+            if choix_fr is not None or "[1208]" in t_fr:
+                # Troncature sécurisée des options pour préserver les balises [1208], [1432], [NULL], [0014]
+                q_to_use = q_fr or d.get("question_orig", "")
+                opts_to_use = list(choix_fr or d.get("choix_orig", []))
+                while opts_to_use and len(text_to_bytes('"' + n_fr + "\n" + _rebuild_choice_body(q_to_use, opts_to_use, count_tag))) > avail - len(nl_suffix):
+                    longest_idx = max(range(len(opts_to_use)), key=lambda idx: len(opts_to_use[idx]))
+                    if len(opts_to_use[longest_idx]) > 3:
+                        opts_to_use[longest_idx] = opts_to_use[longest_idx][:-1]
+                    else:
+                        break
+                t_fr = _rebuild_choice_body(q_to_use, opts_to_use, count_tag)
+                enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+            else:
+                import re
+                tokens = re.split(r'(\[[a-zA-Z0-9+\-_]+\]|\s)', t_fr)
+                tokens = [t for t in tokens if t]
                 
-            t_fr = ''.join(tokens)
-            enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+                while tokens and len(text_to_bytes('"' + n_fr + "\n" + ''.join(tokens))) > avail - len(nl_suffix):
+                    tokens.pop()
+                    
+                t_fr = ''.join(tokens)
+                enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
             
         pad_len = avail - len(enc) - len(nl_suffix)
         if pad_len < 0:
@@ -391,10 +405,11 @@ def encode_bnp_from_json(
         t_fr_input = d.get("texte_fr", "").strip()
         choix_fr = d.get("choix_fr")
         q_fr = d.get("question_fr", "").strip()
+        count_tag = d.get("count_tag") or d.get("count_tag_orig")
         if choix_fr is not None:
             filled = [c for c in choix_fr if c.strip()]
             if q_fr and filled:
-                t_fr = _rebuild_choice_body(q_fr, choix_fr)
+                t_fr = _rebuild_choice_body(q_fr, choix_fr, count_tag)
             elif not t_fr_input:
                 kept += 1
                 continue
@@ -413,6 +428,15 @@ def encode_bnp_from_json(
         t_fr = _align_mid_text(
             d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
         )
+        for seq in (
+            "[E1][E2][E3][E4]",
+            "[1109][E2][E3][E4]",
+            "[E1][E2][E4]",
+            "[1109][E2][E4]",
+            "[E1][E2][E3]",
+            "[1109][E2][E3]",
+        ):
+            t_fr = t_fr.replace(seq, "")
         enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
         term = d.get("_term", [E1, E2, E3, E4])
         avail = d["data_size"] - (len(term) * 2)
@@ -480,10 +504,11 @@ def encode_bnp_from_json(
             t_fr_input = d.get("texte_fr", "").strip()
             choix_fr = d.get("choix_fr")
             q_fr = d.get("question_fr", "").strip()
+            count_tag = d.get("count_tag") or d.get("count_tag_orig")
             if choix_fr is not None:
                 filled = [c for c in choix_fr if c.strip()]
                 if q_fr and filled:
-                    t_fr = _rebuild_choice_body(q_fr, choix_fr)
+                    t_fr = _rebuild_choice_body(q_fr, choix_fr, count_tag)
                 elif not t_fr_input:
                     kept += 1
                     continue

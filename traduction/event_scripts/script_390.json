@@ -12,7 +12,7 @@
     "nom_orig": "???",
     "texte_orig": "Annnnnd...[SP]Action!\nWelcome[SP]to[SP]Sumaru[SP]City's[SP]Climax[SP]Theater![U+07EA]\nIs[SP]this[SP]your[SP]first[SP]time[SP]here?",
     "nom_fr": "???",
-    "texte_fr": "Et... Action! Bienvenue au Théâtre Climax\nde Sumaru![U+07EA] C'est votre première visite?"
+    "texte_fr": "Et... Action! Bienvenue au Théâtre Climax\nde Sumaru! C'est votre première visite?"
   },
   {
     "id": 1,
@@ -55,9 +55,9 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "They[SP]say[SP]that[SP]the[SP]pictures[SP]are[SP]so[SP]clear[SP]and\ncrisp[SP]that[SP]it[SP]feels[SP]almost[SP]as[SP]if[SP]you're\n[E4][NULL][NULL][U+0006]really[SP]experiencing[SP]the[SP]events[SP]of[SP]the[SP]film[E4][NULL][NULL][0002]!",
+    "texte_orig": "They[SP]say[SP]that[SP]the[SP]pictures[SP]are[SP]so[SP]clear[SP]and\ncrisp[SP]that[SP]it[SP]feels[SP]almost[SP]as[SP]if[SP]you're\n[E4][NULL][NULL][0006]really[SP]experiencing[SP]the[SP]events[SP]of[SP]the[SP]film[E4][NULL][NULL][0002]!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "On dit que les images sont si nettes\nqu'on a l'impression de[E4][NULL][NULL][U+0006]vraiment\nvivre les  événements du film[E4][NULL][NULL][0002]!"
+    "texte_fr": "On dit que les images sont si nettes\nqu'on a l'impression de[E4][NULL][NULL][0006]vraiment\nvivre les  événements du film[E4][NULL][NULL][0002]!"
   },
   {
     "id": 4,
@@ -85,9 +85,9 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Your[SP]membership[SP]level[SP]is[SP]determined[SP]by[SP]the\namount[SP]of[SP]points[SP]you[SP]have.[SP]You'll[SP]start[SP]at\n[1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Black[SP]Raspberry[E4][NULL][NULL][0002][1432][NULL][NULL][0014][SP]and[SP]work[SP]your[SP]way[SP]up!",
+    "texte_orig": "Your[SP]membership[SP]level[SP]is[SP]determined[SP]by[SP]the\namount[SP]of[SP]points[SP]you[SP]have.[SP]You'll[SP]start[SP]at\n[1432][NULL][NULL][0014][E4][NULL][NULL][0006]Black[SP]Raspberry[E4][NULL][NULL][0002][1432][NULL][NULL][0014][SP]and[SP]work[SP]your[SP]way[SP]up!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Votre niveau dépend de vos points. Vous\ncommencez à [1432][NULL][NULL][0014][E4][NULL][NULL][U+0006]Framboise Noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et montez les\néchelons!"
+    "texte_fr": "Votre niveau dépend de vos points. Vous\ncommencez à [1432][NULL][NULL][0014][E4][NULL][NULL][0006]Framboise Noire[E4][NULL][NULL][0002][1432][NULL][NULL][0014] et montez les\néchelons!"
   },
   {
     "id": 6,
@@ -122,13 +122,12 @@
   {
     "id": 8,
     "offset": 246180,
-    "data_size": 320,
-    "slot_size": 324,
+    "data_size": 318,
+    "slot_size": 318,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "We're[SP]already[SP]giving[SP]you[SP]the[SP]unparalleled\nexperience[SP]of[SP]seeing[SP]the[SP]most[SP]realistic[SP]movies\nknown[SP]to[SP]man![SP]What[SP]more[SP]could[SP]you[SP]want?",
@@ -153,13 +152,12 @@
   {
     "id": 10,
     "offset": 246686,
-    "data_size": 170,
-    "slot_size": 174,
+    "data_size": 168,
+    "slot_size": 168,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Oh,[SP]aren't[SP]you[SP][1113][SP][1112]?\nYou[SP]were[SP]here[SP]just[SP]the[SP]other[SP]day.",
@@ -184,18 +182,17 @@
   {
     "id": 12,
     "offset": 247040,
-    "data_size": 230,
-    "slot_size": 234,
+    "data_size": 228,
+    "slot_size": 228,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Oh,[SP]it's[SP][1113]![SP]You[SP]became[SP]a\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member[SP]the[SP]other[SP]day,\nisn't[SP]that[SP]right?",
+    "texte_orig": "Oh,[SP]it's[SP][1113]![SP]You[SP]became[SP]a\n[E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member[SP]the[SP]other[SP]day,\nisn't[SP]that[SP]right?",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Ah, [1113]! Devenu membre de niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] l'autre jour, n'est-ce pas?"
+    "texte_fr": "Ah, [1113]! Devenu membre de niveau\n[E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] l'autre jour, n'est-ce pas?"
   },
   {
     "id": 13,
@@ -215,18 +212,17 @@
   {
     "id": 14,
     "offset": 247454,
-    "data_size": 216,
-    "slot_size": 220,
+    "data_size": 214,
+    "slot_size": 214,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "You're[SP][1113],[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member.\nThank[SP]you[SP]for[SP]your[SP]continued[SP]patronage.",
+    "texte_orig": "You're[SP][1113],[SP][E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member.\nThank[SP]you[SP]for[SP]your[SP]continued[SP]patronage.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous êtes [1113], membre de\nniveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]. Merci de votre fidélité."
+    "texte_fr": "Vous êtes [1113], membre de\nniveau [E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]. Merci de votre fidélité."
   },
   {
     "id": 15,
@@ -254,20 +250,19 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Ah,[SP]you're[SP][1113],[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nmember.",
+    "texte_orig": "Ah,[SP]you're[SP][1113],[SP]the[SP][E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nmember.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Ah, [1113], membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
+    "texte_fr": "Ah, [1113], membre niveau [E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
   },
   {
     "id": 17,
     "offset": 248054,
-    "data_size": 200,
-    "slot_size": 204,
+    "data_size": 198,
+    "slot_size": 198,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "If[SP]you[SP]have[SP]any[SP]loose[SP]items[SP]that[SP]you'd[SP]like\nus[SP]to[SP]keep,[SP]let[SP]us[SP]know.",
@@ -292,18 +287,17 @@
   {
     "id": 19,
     "offset": 248466,
-    "data_size": 144,
-    "slot_size": 148,
+    "data_size": 142,
+    "slot_size": 142,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel.",
+    "texte_orig": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous êtes M. [1113], niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
+    "texte_fr": "Vous êtes M. [1113], niveau [E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
   },
   {
     "id": 20,
@@ -331,20 +325,19 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel[SP]of[SP]membership.",
+    "texte_orig": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel[SP]of[SP]membership.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous êtes M. [1113], de niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
+    "texte_fr": "Vous êtes M. [1113], de niveau [E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
   },
   {
     "id": 22,
     "offset": 248946,
-    "data_size": 188,
-    "slot_size": 192,
+    "data_size": 186,
+    "slot_size": 186,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Thank[SP]you[SP]so[SP]much[SP]for[SP]your[SP]continued[SP]patronage\nof[SP]our[SP]theater!",
@@ -384,13 +377,12 @@
   {
     "id": 25,
     "offset": 249424,
-    "data_size": 156,
-    "slot_size": 160,
+    "data_size": 154,
+    "slot_size": 154,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "What[SP]kind[SP]of[SP]movie[SP]have[SP]you[SP]come[SP]to[SP]see[SP]today?",
@@ -430,13 +422,12 @@
   {
     "id": 28,
     "offset": 249870,
-    "data_size": 156,
-    "slot_size": 160,
+    "data_size": 154,
+    "slot_size": 154,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "What[SP]kind[SP]of[SP]movie[SP]have[SP]you[SP]come[SP]to[SP]see[SP]today?",
@@ -461,13 +452,12 @@
   {
     "id": 30,
     "offset": 250280,
-    "data_size": 126,
-    "slot_size": 130,
+    "data_size": 124,
+    "slot_size": 124,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Please[SP]take[SP]in[SP]a[SP]show[SP]sometime.",
@@ -492,13 +482,12 @@
   {
     "id": 32,
     "offset": 250660,
-    "data_size": 126,
-    "slot_size": 130,
+    "data_size": 124,
+    "slot_size": 124,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Please[SP]take[SP]in[SP]a[SP]show[SP]sometime.",
@@ -516,9 +505,9 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Entering[SP]frame,[SP]stage[SP]left...\nMr.[SP][1113],[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]club\nmember.",
+    "texte_orig": "Entering[SP]frame,[SP]stage[SP]left...\nMr.[SP][1113],[SP][E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]club\nmember.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Entrée en scène, côté cour...\nM. [1113], niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
+    "texte_fr": "Entrée en scène, côté cour...\nM. [1113], niveau [E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
   },
   {
     "id": 34,
@@ -538,13 +527,12 @@
   {
     "id": 35,
     "offset": 251220,
-    "data_size": 302,
-    "slot_size": 306,
+    "data_size": 300,
+    "slot_size": 300,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "The[SP]names[SP]of[SP]the[SP]various[SP]membership[SP]levels[SP]get\ngrander[SP]and[SP]grander[SP]as[SP]you[SP]earn[SP]points.\nPlease[SP]keep[SP]coming[SP]to[SP]our[SP]shows!",
@@ -592,9 +580,9 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel[SP]of[SP]membership.[SP]Thank[SP]you[SP]for[SP]coming!",
+    "texte_orig": "You're[SP]Mr.[SP][1113],[SP]in[SP]the[SP][E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]\nlevel[SP]of[SP]membership.[SP]Thank[SP]you[SP]for[SP]coming!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous êtes M. [1113], niveau\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]. Merci de votre visite!"
+    "texte_fr": "Vous êtes M. [1113], niveau\n[E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]. Merci de votre visite!"
   },
   {
     "id": 39,
@@ -614,13 +602,12 @@
   {
     "id": 40,
     "offset": 252356,
-    "data_size": 220,
-    "slot_size": 224,
+    "data_size": 218,
+    "slot_size": 218,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Oh...[SP]What[SP]I[SP]said[SP]as[SP]you[SP]walked[SP]in?\nI[SP]have[SP]no[SP]recollection[SP]of[SP]it[SP]at[SP]this[SP]time.",
@@ -668,9 +655,9 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Why,[SP]if[SP]it[SP]isn't[SP]Mr.[SP][1113],[SP]our[SP]newest\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member.",
+    "texte_orig": "Why,[SP]if[SP]it[SP]isn't[SP]Mr.[SP][1113],[SP]our[SP]newest\n[E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Tiens, M. [1113]! Notre\nnouveau membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
+    "texte_fr": "Tiens, M. [1113]! Notre\nnouveau membre niveau [E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
   },
   {
     "id": 44,
@@ -705,13 +692,12 @@
   {
     "id": 46,
     "offset": 253668,
-    "data_size": 210,
-    "slot_size": 214,
+    "data_size": 208,
+    "slot_size": 208,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "I'm[SP]very[SP]pleased[SP]to[SP]be[SP]of[SP]service[SP]to[SP]you.\nHmm?[SP]Monologue?[SP]What[SP]monologue?",
@@ -759,9 +745,9 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "*Ahem*[SP]Welcome.\nYou've[SP]become[SP]a[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level\nclub[SP]member.",
+    "texte_orig": "*Ahem*[SP]Welcome.\nYou've[SP]become[SP]a[SP][E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level\nclub[SP]member.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "*Hem* Bienvenue. Vous\navez atteint le niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
+    "texte_fr": "*Hem* Bienvenue. Vous\navez atteint le niveau [E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]."
   },
   {
     "id": 50,
@@ -781,13 +767,12 @@
   {
     "id": 51,
     "offset": 254792,
-    "data_size": 138,
-    "slot_size": 142,
+    "data_size": 136,
+    "slot_size": 136,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "I[SP]have[SP]a[SP]good[SP]sense[SP]for[SP]these[SP]things.",
@@ -865,9 +850,9 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "You've[SP]finally[SP]become[SP]a[SP][E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level\nmember[SP]our[SP]club.[SP]I[SP]expected[SP]nothing[SP]less.\nCongratulations.",
+    "texte_orig": "You've[SP]finally[SP]become[SP]a[SP][E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level\nmember[SP]our[SP]club.[SP]I[SP]expected[SP]nothing[SP]less.\nCongratulations.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Vous êtes enfin membre niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] de notre\nclub. Je n'attendais pas moins. Bravo."
+    "texte_fr": "Vous êtes enfin membre niveau [E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] de notre\nclub. Je n'attendais pas moins. Bravo."
   },
   {
     "id": 57,
@@ -902,13 +887,12 @@
   {
     "id": 59,
     "offset": 256384,
-    "data_size": 198,
-    "slot_size": 202,
+    "data_size": 196,
+    "slot_size": 196,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Everyone[SP]else[SP]is[SP]just[SP]jumping[SP]on[SP]my[SP]bandwagon...\nSo[SP]to[SP]speak.[SP]Hehe.",
@@ -971,9 +955,9 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Congratulations,[SP]Mr.[SP][1113].[SP]You're[SP]the[SP]first\n[E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member[SP]in[SP]the[SP]history[SP]of\nthis[SP]theater!",
+    "texte_orig": "Congratulations,[SP]Mr.[SP][1113].[SP]You're[SP]the[SP]first\n[E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002]-level[SP]member[SP]in[SP]the[SP]history[SP]of\nthis[SP]theater!",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Félicitations, M. [1113]. Premier membre\nde niveau [E4][NULL][NULL][U+0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] de l'histoire de ce théâtre!"
+    "texte_fr": "Félicitations, M. [1113]. Premier membre\nde niveau [E4][NULL][NULL][0006][E4][NULL][NULL]#[E4][NULL][NULL][0002] de l'histoire de ce théâtre!"
   },
   {
     "id": 64,
@@ -1023,13 +1007,12 @@
   {
     "id": 67,
     "offset": 258242,
-    "data_size": 198,
-    "slot_size": 202,
+    "data_size": 196,
+    "slot_size": 196,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Please[SP]continue[SP]to[SP]support[SP]our[SP]theater.\nI'll[SP]be[SP]following[SP]you,[SP]too.",
@@ -1054,13 +1037,12 @@
   {
     "id": 69,
     "offset": 258534,
-    "data_size": 146,
-    "slot_size": 150,
+    "data_size": 144,
+    "slot_size": 144,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "This[SP]message[SP]should[SP]never[SP]appear.\nBUG[SP]IT!",
@@ -1070,18 +1052,26 @@
   {
     "id": 70,
     "offset": 258684,
-    "data_size": 306,
-    "slot_size": 310,
+    "data_size": 304,
+    "slot_size": 304,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "What[SP]genre[SP]are[SP]you[SP]interested[SP]in[SP]seeing?\n[1208][U+0005][111F]Now[SP]Playing\n[111F][1210][U+0100]Indie[SP]Films\n[111F][1210][U+0100]Single-Theater[SP]Films\n[111F][1210][U+0100]Imported[SP]Films\n[111F]Cancel",
+    "texte_orig": "What[SP]genre[SP]are[SP]you[SP]interested[SP]in[SP]seeing?\n[1208][0005][111F]Now[SP]Playing\n[111F][1210][B_00][U+4901][B_00]ndie[SP]Films\n[111F][1210][B_00][U+5301][B_00]ingle-Theater[SP]Films\n[111F][1210][B_00][U+4901][B_00]mported[SP]Films\n[111F]Cancel",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Quel genre de film vous intéresse?\n[1208][U+0005][111F]À l'affiche\n[111F][1210][U+0100]Films indé\n[111F][1210][U+0100]Exclusivités\n[111F][1210][U+0100]Films importés\n[111F]Annuler",
+    "texte_fr": "Quel genre de film vous intéresse?\n[1208][0005][111F]À l'affiche\n[111F][1210]Films indé\n[111F][1210]Exclusivités\n[111F][1210]Films importés\n[111F]Annuler",
+    "question_orig": "What[SP]genre[SP]are[SP]you[SP]interested[SP]in[SP]seeing?",
+    "choix_orig": [
+      "[111F]Now[SP]Playing",
+      "[111F][1210][B_00][B_00]ndie[SP]Films",
+      "[111F][1210][B_00][B_00]ingle-Theater[SP]Films",
+      "[111F][1210][B_00][B_00]mported[SP]Films",
+      "[111F]Cancel"
+    ],
+    "count_tag": "[0005]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1090,23 +1080,26 @@
   {
     "id": 71,
     "offset": 258994,
-    "data_size": 602,
-    "slot_size": 606,
+    "data_size": 274,
+    "slot_size": 274,
     "_term": [
-      4358,
+      4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Oh,[SP]are[SP]you[SP]done[SP]already?\n[1208][U+0005][111F]Now[SP]Playing\n[111F][1210][U+0100]Indie[SP]Films\n[111F][1210][U+0100]Single-Theater[SP]Films\n[111F][1210][U+0100]Imported[SP]Films\n[111F]Cancel\n[1109][E2][E3][111F][E4][NULL][NULL]\"Mitsugi,[SP]the[SP]Theater[SP]Guide\n[111F]There[SP]is[SP]no[SP]path[SP]to[SP]this[SP]line[SP]in[SP]the[SP]resources,\n[111F]so[SP]this[SP]category[SP]may[SP]go[SP]away.\n[111F]Jump[SP]to[SP][E4][NULL][NULL][U+0006][1432][NULL][NULL][0014]Is[SP]there[SP]anything[SP]else?[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
+    "texte_orig": "Oh,[SP]are[SP]you[SP]done[SP]already?\n[1208][0005][111F]Now[SP]Playing\n[111F][1210][B_00][U+4901][B_00]ndie[SP]Films\n[111F][1210][B_00][U+5301][B_00]ingle-Theater[SP]Films\n[111F][1210][B_00][U+4901][B_00]mported[SP]Films\n[111F]Cancel",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Oh, déjà fini?\n[1208][U+0005][111F]À l'affiche\n[111F][1210][U+0100]Films indé\n[111F][1210][U+0100]Exclusivités\n[111F][1210][U+0100]Films importés\n[111F]Annuler\n[1109][E2][E3][111F][E4][NULL][NULL]\"Guide Mitsugi\n[111F]Aucun chemin ne mène à cette ligne,\n[111F]cette catégorie peut disparaître.\n[111F]Saut vers [E4][NULL][NULL][U+0006][1432][NULL][NULL][0014]Autre chose?[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
+    "texte_fr": "Oh, déjà fini?\n[1208][0005][111F]À l'affiche\n[111F][1210]Films indé\n[111F][1210]Exclusivités\n[111F][1210]Films importés\n[111F]Annuler\n[E4][NULL][NULL]\"Guide Mitsugi\nAucun chemin ne mène à cette ligne,\ncette catégorie peut disparaître.\nSaut vers [E4][NULL][NULL][NULL][NULL]Autre chose?[NULL][NULL][E4][NULL][NULL]",
     "question_orig": "Oh,[SP]are[SP]you[SP]done[SP]already?",
     "choix_orig": [
-      "Is[SP]there[SP]anything[SP]else?",
-      "[E4]"
+      "[111F]Now[SP]Playing",
+      "[111F][1210][B_00][B_00]ndie[SP]Films",
+      "[111F][1210][B_00][B_00]ingle-Theater[SP]Films",
+      "[111F][1210][B_00][B_00]mported[SP]Films",
+      "[111F]Cancel"
     ],
+    "count_tag": "[0005]",
     "question_fr": "",
     "choix_fr": [
       "",
@@ -1115,39 +1108,41 @@
   },
   {
     "id": 72,
-    "offset": 259600,
-    "data_size": 310,
-    "slot_size": 314,
+    "offset": 259276,
+    "data_size": 318,
+    "slot_size": 318,
     "_term": [
-      4361,
+      4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?\n[1208][U+0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]theater\nAsk[SP]about[SP]the[SP]club[SP]ranks\n[1210][U+0100]UNDISPLAYED[SP]CATEGORY",
-    "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][U+0004]Bavarder\nSur le théâtre\nSur les rangs du club\n[1210][U+0100]CATÉGORIE CACHÉE",
-    "question_fr": "",
-    "choix_fr": [
-      ""
-    ]
+    "texte_orig": "[111F]There[SP]is[SP]no[SP]path[SP]to[SP]this[SP]line[SP]in[SP]the[SP]resources,\n[111F]so[SP]this[SP]category[SP]may[SP]go[SP]away.\n[111F]Jump[SP]to[SP][E4][NULL][NULL][0006][1432][NULL][NULL][0014]Is[SP]there[SP]anything[SP]else?[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
+    "nom_fr": "",
+    "texte_fr": ""
   },
   {
     "id": 73,
-    "offset": 259914,
-    "data_size": 266,
-    "slot_size": 270,
+    "offset": 259600,
+    "data_size": 308,
+    "slot_size": 308,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Please[SP]enjoy[SP]a[SP]climax[SP]at[SP]the[SP]Climax[SP]Theater!\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
-    "nom_fr": "Mitsugi",
-    "texte_fr": "Savourez un climax au Théâtre Climax!\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+    "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?\n[1208][0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]theater\nAsk[SP]about[SP]the[SP]club[SP]ranks\n[1210][B_00][U+5501][B_00]NDISPLAYED[SP]CATEGORY",
+    "nom_fr": "Mitsugi, la guide du théâtre",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][0004]Bavarder\nSur le théâtre\nSur les rangs du club\n[1210]CATÉGORIE CACHÉE",
+    "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]talk[SP]about?",
+    "choix_orig": [
+      "Make[SP]small[SP]talk",
+      "Ask[SP]about[SP]the[SP]theater",
+      "Ask[SP]about[SP]the[SP]club[SP]ranks",
+      "[1210][B_00][B_00]NDISPLAYED[SP]CATEGORY"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1155,19 +1150,26 @@
   },
   {
     "id": 74,
-    "offset": 260184,
-    "data_size": 242,
-    "slot_size": 246,
+    "offset": 259914,
+    "data_size": 264,
+    "slot_size": 264,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+    "texte_orig": "Please[SP]enjoy[SP]a[SP]climax[SP]at[SP]the[SP]Climax[SP]Theater!\n[1208][0004]Select[SP]a[SP]film\n[1210][B_00][U+4301][B_00]limax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Que ferez-vous aujourd'hui?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+    "texte_fr": "Savourez un climax au Théâtre Climax!\n[1208][0004]Choisir un film\n[1210]Théâtre Climax\nParler\nQuitter le théâtre",
+    "question_orig": "Please[SP]enjoy[SP]a[SP]climax[SP]at[SP]the[SP]Climax[SP]Theater!",
+    "choix_orig": [
+      "Select[SP]a[SP]film",
+      "[1210][B_00][B_00]limax[SP]Theater",
+      "Talk",
+      "Leave[SP]the[SP]theater"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1175,19 +1177,26 @@
   },
   {
     "id": 75,
-    "offset": 260430,
-    "data_size": 254,
-    "slot_size": 258,
+    "offset": 260184,
+    "data_size": 240,
+    "slot_size": 240,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+    "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][0004]Select[SP]a[SP]film\n[1210][B_00][U+4301][B_00]limax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Alors, que ferez-vous aujourd'hui?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+    "texte_fr": "Que ferez-vous aujourd'hui?\n[1208][0004]Choisir un film\n[1210]Théâtre Climax\nParler\nQuitter le théâtre",
+    "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?",
+    "choix_orig": [
+      "Select[SP]a[SP]film",
+      "[1210][B_00][B_00]limax[SP]Theater",
+      "Talk",
+      "Leave[SP]the[SP]theater"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1195,19 +1204,26 @@
   },
   {
     "id": 76,
-    "offset": 260688,
-    "data_size": 254,
-    "slot_size": 258,
+    "offset": 260430,
+    "data_size": 252,
+    "slot_size": 252,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+    "texte_orig": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][0004]Select[SP]a[SP]film\n[1210][B_00][U+4301][B_00]limax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Alors, que ferez-vous aujourd'hui?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+    "texte_fr": "Alors, que ferez-vous aujourd'hui?\n[1208][0004]Choisir un film\n[1210]Théâtre Climax\nParler\nQuitter le théâtre",
+    "question_orig": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?",
+    "choix_orig": [
+      "Select[SP]a[SP]film",
+      "[1210][B_00][B_00]limax[SP]Theater",
+      "Talk",
+      "Leave[SP]the[SP]theater"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1215,19 +1231,26 @@
   },
   {
     "id": 77,
-    "offset": 260946,
-    "data_size": 254,
-    "slot_size": 258,
+    "offset": 260688,
+    "data_size": 252,
+    "slot_size": 252,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+    "texte_orig": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][0004]Select[SP]a[SP]film\n[1210][B_00][U+4301][B_00]limax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Alors, que ferez-vous aujourd'hui?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+    "texte_fr": "Alors, que ferez-vous aujourd'hui?\n[1208][0004]Choisir un film\n[1210]Théâtre Climax\nParler\nQuitter le théâtre",
+    "question_orig": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?",
+    "choix_orig": [
+      "Select[SP]a[SP]film",
+      "[1210][B_00][B_00]limax[SP]Theater",
+      "Talk",
+      "Leave[SP]the[SP]theater"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1235,19 +1258,26 @@
   },
   {
     "id": 78,
-    "offset": 261204,
-    "data_size": 286,
-    "slot_size": 290,
+    "offset": 260946,
+    "data_size": 252,
+    "slot_size": 252,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Welcome!\nWhat[SP]kind[SP]of[SP]film[SP]have[SP]you[SP]come[SP]to[SP]see[SP]today?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+    "texte_orig": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?\n[1208][0004]Select[SP]a[SP]film\n[1210][B_00][U+4301][B_00]limax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Bienvenue!\nQuel film venez-vous voir aujourd'hui?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+    "texte_fr": "Alors, que ferez-vous aujourd'hui?\n[1208][0004]Choisir un film\n[1210]Théâtre Climax\nParler\nQuitter le théâtre",
+    "question_orig": "Well,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]do[SP]today?",
+    "choix_orig": [
+      "Select[SP]a[SP]film",
+      "[1210][B_00][B_00]limax[SP]Theater",
+      "Talk",
+      "Leave[SP]the[SP]theater"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1255,19 +1285,26 @@
   },
   {
     "id": 79,
-    "offset": 261494,
-    "data_size": 290,
-    "slot_size": 294,
+    "offset": 261204,
+    "data_size": 284,
+    "slot_size": 284,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Is[SP]there[SP]a[SP]particular[SP]film[SP]you[SP]are[SP]interested\nin[SP]seeing?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
-    "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Un film vous intéresse-t-il\nen particulier?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+    "texte_orig": "Welcome!\nWhat[SP]kind[SP]of[SP]film[SP]have[SP]you[SP]come[SP]to[SP]see[SP]today?\n[1208][0004]Select[SP]a[SP]film\n[1210][B_00][U+4301][B_00]limax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+    "nom_fr": "Mitsugi",
+    "texte_fr": "Bienvenue!\nQuel film venez-vous voir aujourd'hui?\n[1208][0004]Choisir un film\n[1210]Théâtre Climax\nParler\nQuitter le théâtre",
+    "question_orig": "Welcome!\nWhat[SP]kind[SP]of[SP]film[SP]have[SP]you[SP]come[SP]to[SP]see[SP]today?",
+    "choix_orig": [
+      "Select[SP]a[SP]film",
+      "[1210][B_00][B_00]limax[SP]Theater",
+      "Talk",
+      "Leave[SP]the[SP]theater"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1275,19 +1312,26 @@
   },
   {
     "id": 80,
-    "offset": 261788,
-    "data_size": 378,
-    "slot_size": 382,
+    "offset": 261494,
+    "data_size": 288,
+    "slot_size": 288,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Our[SP]theater[SP]will[SP]do[SP]everything[SP]it[SP]can[SP]to\nensure[SP]that[SP]our[SP]guests[SP]have[SP]the[SP]best\nmoviegoing[SP]experience!\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
-    "nom_fr": "Mitsugi",
-    "texte_fr": "Notre théâtre fera tout son possible\npour offrir à ses hôtes la meilleure\nexpérience de cinéma!\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+    "texte_orig": "Is[SP]there[SP]a[SP]particular[SP]film[SP]you[SP]are[SP]interested\nin[SP]seeing?\n[1208][0004]Select[SP]a[SP]film\n[1210][B_00][U+4301][B_00]limax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+    "nom_fr": "Mitsugi, la guide du théâtre",
+    "texte_fr": "Un film vous intéresse-t-il\nen particulier?\n[1208][0004]Choisir un film\n[1210]Théâtre Climax\nParler\nQuitter le théâtre",
+    "question_orig": "Is[SP]there[SP]a[SP]particular[SP]film[SP]you[SP]are[SP]interested\nin[SP]seeing?",
+    "choix_orig": [
+      "Select[SP]a[SP]film",
+      "[1210][B_00][B_00]limax[SP]Theater",
+      "Talk",
+      "Leave[SP]the[SP]theater"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1295,19 +1339,26 @@
   },
   {
     "id": 81,
-    "offset": 262170,
-    "data_size": 378,
-    "slot_size": 382,
+    "offset": 261788,
+    "data_size": 376,
+    "slot_size": 376,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Our[SP]theater[SP]will[SP]do[SP]everything[SP]it[SP]can[SP]to\nensure[SP]that[SP]our[SP]guests[SP]have[SP]the[SP]best\nmoviegoing[SP]experience!\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+    "texte_orig": "Our[SP]theater[SP]will[SP]do[SP]everything[SP]it[SP]can[SP]to\nensure[SP]that[SP]our[SP]guests[SP]have[SP]the[SP]best\nmoviegoing[SP]experience!\n[1208][0004]Select[SP]a[SP]film\n[1210][B_00][U+4301][B_00]limax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
     "nom_fr": "Mitsugi",
-    "texte_fr": "Notre théâtre fera tout son possible\npour offrir à ses hôtes la meilleure\nexpérience de cinéma!\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+    "texte_fr": "Notre théâtre fera tout son possible\npour offrir à ses hôtes la meilleure\nexpérience de cinéma!\n[1208][0004]Choisir un film\n[1210]Théâtre Climax\nParler\nQuitter le théâtre",
+    "question_orig": "Our[SP]theater[SP]will[SP]do[SP]everything[SP]it[SP]can[SP]to\nensure[SP]that[SP]our[SP]guests[SP]have[SP]the[SP]best\nmoviegoing[SP]experience!",
+    "choix_orig": [
+      "Select[SP]a[SP]film",
+      "[1210][B_00][B_00]limax[SP]Theater",
+      "Talk",
+      "Leave[SP]the[SP]theater"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1315,6 +1366,33 @@
   },
   {
     "id": 82,
+    "offset": 262170,
+    "data_size": 376,
+    "slot_size": 376,
+    "_term": [
+      4361,
+      4354,
+      4355
+    ],
+    "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
+    "texte_orig": "Our[SP]theater[SP]will[SP]do[SP]everything[SP]it[SP]can[SP]to\nensure[SP]that[SP]our[SP]guests[SP]have[SP]the[SP]best\nmoviegoing[SP]experience!\n[1208][0004]Select[SP]a[SP]film\n[1210][B_00][U+4301][B_00]limax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+    "nom_fr": "Mitsugi",
+    "texte_fr": "Notre théâtre fera tout son possible\npour offrir à ses hôtes la meilleure\nexpérience de cinéma!\n[1208][0004]Choisir un film\n[1210]Théâtre Climax\nParler\nQuitter le théâtre",
+    "question_orig": "Our[SP]theater[SP]will[SP]do[SP]everything[SP]it[SP]can[SP]to\nensure[SP]that[SP]our[SP]guests[SP]have[SP]the[SP]best\nmoviegoing[SP]experience!",
+    "choix_orig": [
+      "Select[SP]a[SP]film",
+      "[1210][B_00][B_00]limax[SP]Theater",
+      "Talk",
+      "Leave[SP]the[SP]theater"
+    ],
+    "count_tag": "[0004]",
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 83,
     "offset": 262552,
     "data_size": 194,
     "slot_size": 198,
@@ -1329,15 +1407,14 @@
     "texte_fr": "Et... Coupez! Bon travail! Points\ncrédités sur votre compte."
   },
   {
-    "id": 83,
+    "id": 84,
     "offset": 262750,
-    "data_size": 132,
-    "slot_size": 136,
+    "data_size": 130,
+    "slot_size": 130,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "I'll[SP]be[SP]waiting[SP]for[SP]you[SP]to[SP]return.",
@@ -1345,15 +1422,14 @@
     "texte_fr": "J'attendrai votre retour."
   },
   {
-    "id": 84,
+    "id": 85,
     "offset": 262886,
-    "data_size": 224,
-    "slot_size": 228,
+    "data_size": 222,
+    "slot_size": 222,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "...Cut![SP]That[SP]was[SP]a[SP]bit[SP]of[SP]a[SP]disappointment...\nI'll[SP]be[SP]waiting[SP]for[SP]you[SP]to[SP]return.",
@@ -1361,27 +1437,34 @@
     "texte_fr": "... Coupez! C'est un peu décevant...\nJ'attendrai votre retour."
   },
   {
-    "id": 85,
+    "id": 86,
     "offset": 263114,
-    "data_size": 258,
-    "slot_size": 262,
+    "data_size": 256,
+    "slot_size": 256,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]do[SP]for[SP]you?\n[1208][U+0004]Select[SP]a[SP]film\n[1210][U+0100]Climax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
+    "texte_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]do[SP]for[SP]you?\n[1208][0004]Select[SP]a[SP]film\n[1210][B_00][U+4301][B_00]limax[SP]Theater\nTalk\nLeave[SP]the[SP]theater",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Autre chose pour vous?\n[1208][U+0004]Choisir un film\n[1210][U+0100]Théâtre Climax\nParler\nQuitter le théâtre",
+    "texte_fr": "Autre chose pour vous?\n[1208][0004]Choisir un film\n[1210]Théâtre Climax\nParler\nQuitter le théâtre",
+    "question_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]do[SP]for[SP]you?",
+    "choix_orig": [
+      "Select[SP]a[SP]film",
+      "[1210][B_00][B_00]limax[SP]Theater",
+      "Talk",
+      "Leave[SP]the[SP]theater"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
     ]
   },
   {
-    "id": 86,
+    "id": 87,
     "offset": 263376,
     "data_size": 284,
     "slot_size": 288,
@@ -1391,12 +1474,12 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Very[SP]well,[SP]I'll[SP]explain[SP]how[SP]our[SP][E4][NULL][NULL][U+0006]theater[E4][NULL][NULL][0002][SP]works.\nAt[SP]our[SP]theater,[SP]you[SP]must[SP][E4][NULL][NULL][U+0006]select[SP]a[SP]film[E4][NULL][NULL][0002][SP]to[SP]watch.",
+    "texte_orig": "Very[SP]well,[SP]I'll[SP]explain[SP]how[SP]our[SP][E4][NULL][NULL][0006]theater[E4][NULL][NULL][0002][SP]works.\nAt[SP]our[SP]theater,[SP]you[SP]must[SP][E4][NULL][NULL][0006]select[SP]a[SP]film[E4][NULL][NULL][0002][SP]to[SP]watch.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Je vais vous expliquer le [E4][NULL][NULL][U+0006]théâtre[E4][NULL][NULL][0002].\nVous devez [E4][NULL][NULL][U+0006]choisir un film[E4][NULL][NULL][0002] à regarder."
+    "texte_fr": "Je vais vous expliquer le [E4][NULL][NULL][0006]théâtre[E4][NULL][NULL][0002].\nVous devez [E4][NULL][NULL][0006]choisir un film[E4][NULL][NULL][0002] à regarder."
   },
   {
-    "id": 87,
+    "id": 88,
     "offset": 263664,
     "data_size": 248,
     "slot_size": 252,
@@ -1406,20 +1489,19 @@
       5169
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "The[SP][E4][NULL][NULL][U+0006][1432][NULL][NULL][0014]Now[SP]Playing[1432][NULL][NULL][0014][E4][NULL][NULL][0002][SP]films[SP]are[SP]movies[SP]that[SP]we[SP]have\nprepared[SP]here[SP]for[SP]this[SP]theater.",
+    "texte_orig": "The[SP][E4][NULL][NULL][0006][1432][NULL][NULL][0014]Now[SP]Playing[1432][NULL][NULL][0014][E4][NULL][NULL][0002][SP]films[SP]are[SP]movies[SP]that[SP]we[SP]have\nprepared[SP]here[SP]for[SP]this[SP]theater.",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Les films [E4][NULL][NULL][U+0006][1432][NULL][NULL][0014]À l'affiche[1432][NULL][NULL][0014][E4][NULL][NULL][0002] sont des films\nde notre sélection pour ce théâtre."
+    "texte_fr": "Les films [E4][NULL][NULL][0006][1432][NULL][NULL][0014]À l'affiche[1432][NULL][NULL][0014][E4][NULL][NULL][0002] sont des films\nde notre sélection pour ce théâtre."
   },
   {
-    "id": 88,
+    "id": 89,
     "offset": 263916,
-    "data_size": 316,
-    "slot_size": 320,
+    "data_size": 314,
+    "slot_size": 314,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "You[SP]can[SP]leave[SP]your[SP]seat[SP]while[SP]the[SP]film[SP]is[SP]showing,\nbut[SP]if[SP]you[SP]do,[SP]you[SP]will[SP]not[SP]earn[SP]points[SP]for\nwatching[SP]it.[SP]Please[SP]be[SP]careful.",
@@ -1427,7 +1509,7 @@
     "texte_fr": "Vous pouvez quitter votre siège, mais vous\nne gagnerez pas\nde points. Faites attention."
   },
   {
-    "id": 89,
+    "id": 90,
     "offset": 264236,
     "data_size": 226,
     "slot_size": 230,
@@ -1442,7 +1524,7 @@
     "texte_fr": "Vous voulez en savoir plus sur le\nclassement? Très bien, je vous explique."
   },
   {
-    "id": 90,
+    "id": 91,
     "offset": 264466,
     "data_size": 212,
     "slot_size": 216,
@@ -1457,7 +1539,7 @@
     "texte_fr": "De bas en haut, les niveaux sont: Framboise\nNoire, Gant Blanc, Homme de Bronze..."
   },
   {
-    "id": 91,
+    "id": 92,
     "offset": 264682,
     "data_size": 188,
     "slot_size": 192,
@@ -1472,7 +1554,7 @@
     "texte_fr": "Palme d'Argent, Ours d'Or, et notre plus\nhaute distinction, le Lion de Platine."
   },
   {
-    "id": 92,
+    "id": 93,
     "offset": 264874,
     "data_size": 254,
     "slot_size": 258,
@@ -1487,15 +1569,14 @@
     "texte_fr": "Pour monter en rang, vous devrez\nregarder les films jusqu'à la fin."
   },
   {
-    "id": 93,
+    "id": 94,
     "offset": 265132,
-    "data_size": 290,
-    "slot_size": 294,
+    "data_size": 288,
+    "slot_size": 288,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Please[SP]try[SP]to[SP]raise[SP]your[SP]ranking[SP]as[SP]high[SP]as\nyou[SP]can![SP]You[SP]won't[SP]earn[SP]any[SP]money[SP]or[SP]items\nor[SP]anything,[SP]but[SP]it's[SP]fun!",
@@ -1503,15 +1584,14 @@
     "texte_fr": "Essayez de monter le plus haut\npossible! Vous ne gagnez ni argent\nni objets, mais c'est amusant!"
   },
   {
-    "id": 94,
+    "id": 95,
     "offset": 265426,
-    "data_size": 250,
-    "slot_size": 254,
+    "data_size": 248,
+    "slot_size": 248,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Well[SP]then,[SP]I'll[SP]be[SP]waiting[SP]for[SP]you[SP]the[SP]next\ntime[SP]you[SP]come[SP]to[SP]see[SP]a[SP]film.\nAnnnnnd...[SP]Fade[SP]out!",
@@ -1519,40 +1599,25 @@
     "texte_fr": "Je vous attendrai pour votre\nprochain film. Et... Fondu au noir!"
   },
   {
-    "id": 95,
-    "offset": 265680,
-    "data_size": 176,
-    "slot_size": 180,
-    "_term": [
-      4361,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
-    "texte_orig": "Your[SP]ticket[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Votre billet: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[0014]Non",
-    "question_fr": "",
-    "choix_fr": [
-      ""
-    ]
-  },
-  {
     "id": 96,
-    "offset": 265860,
-    "data_size": 176,
-    "slot_size": 180,
+    "offset": 265680,
+    "data_size": 174,
+    "slot_size": 174,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Your[SP]ticket[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Votre billet: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[0014]Non",
+    "texte_fr": "Votre billet: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]OuiNon",
+    "question_orig": "Your[SP]ticket[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?",
+    "choix_orig": [
+      "Yes",
+      "No"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1560,14 +1625,38 @@
   },
   {
     "id": 97,
+    "offset": 265860,
+    "data_size": 174,
+    "slot_size": 174,
+    "_term": [
+      4361,
+      4354,
+      4355
+    ],
+    "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
+    "texte_orig": "Your[SP]ticket[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
+    "nom_fr": "Mitsugi, la guide du théâtre",
+    "texte_fr": "Votre billet: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]OuiNon",
+    "question_orig": "Your[SP]ticket[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?",
+    "choix_orig": [
+      "Yes",
+      "No"
+    ],
+    "count_tag": "[0002]",
+    "question_fr": "",
+    "choix_fr": [
+      ""
+    ]
+  },
+  {
+    "id": 98,
     "offset": 266040,
-    "data_size": 228,
-    "slot_size": 232,
+    "data_size": 226,
+    "slot_size": 226,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Unfortunately,[SP]it[SP]seems[SP]that[SP]this[SP]show[SP]is\nunavailable.[SP]Please[SP]select[SP]another[SP]show.",
@@ -1575,19 +1664,33 @@
     "texte_fr": "Cette séance est indisponible.\nVeuillez en choisir une autre."
   },
   {
-    "id": 98,
+    "id": 99,
     "offset": 266272,
-    "data_size": 108,
-    "slot_size": 112,
+    "data_size": 106,
+    "slot_size": 106,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Please[SP]enjoy[SP]the[SP]show!",
     "nom_fr": "Mitsugi, la guide du théâtre",
     "texte_fr": "Bonne séance!"
+  },
+  {
+    "id": 100,
+    "offset": 266384,
+    "data_size": 306,
+    "slot_size": 320,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
+    "texte_orig": "We[SP]currently[SP]do[SP]not[SP]have[SP]any[SP]movies[SP]imported[SP]from\nother[SP]studios.[SP]We'll[SP]have[SP]them[SP]showing[SP]as[SP]soon[SP]as\nwe[SP]get[SP]them[SP]in,[SP]Mr.[SP][1113].",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

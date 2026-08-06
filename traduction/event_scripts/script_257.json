@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 242802,
-    "data_size": 222,
-    "slot_size": 226,
+    "data_size": 220,
+    "slot_size": 220,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Caretaker",
     "texte_orig": "Hohoho![SP]My,[SP]my,[SP]Granpa...[SP]How[SP]many[SP]times\ndo[SP]you[SP]need[SP]to[SP]eat[SP]dinner?[SP]You[SP]really[SP]are\nso[SP]forgetful.",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 243028,
-    "data_size": 180,
-    "slot_size": 184,
+    "data_size": 178,
+    "slot_size": 178,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Caretaker",
     "texte_orig": "I'm[SP]always[SP]here[SP]watching[SP]over[SP]Granpa,[SP]so[SP]if\nyou[SP]ever[SP]get[SP]hurt,[SP]come[SP]see[SP]me.",
@@ -34,17 +32,31 @@
   {
     "id": 2,
     "offset": 243212,
-    "data_size": 236,
-    "slot_size": 240,
+    "data_size": 234,
+    "slot_size": 234,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Janitor",
     "texte_orig": "Ever[SP]since[SP]that[SP]teacher[SP]died[SP]in[SP]the[SP]clock\ntower,[SP]the[SP]big[SP]clock[SP]has[SP]stayed[SP]stopped.\nWhat[SP]was[SP]his[SP]name...?",
     "nom_fr": "Concierge",
     "texte_fr": "Depuis la mort de ce prof dans la\ntour, la grande horloge est\narrêtée. C'était quoi son nom...?"
+  },
+  {
+    "id": 3,
+    "offset": 243452,
+    "data_size": 288,
+    "slot_size": 288,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Janitor",
+    "texte_orig": "I[SP]wonder[SP]how[SP]many[SP]years[SP]it's[SP]been[SP]since[SP]that\ntragedy...[1205][001E][SP]It[SP]was[SP]gruesome.[SP]Namu[SP]Amida[SP]Butsu,\nNamu[SP]Amida[SP]Butsu...[1205]<[SP]Well,[SP]dinnertime!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

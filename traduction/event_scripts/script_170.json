@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 343010,
-    "data_size": 168,
-    "slot_size": 172,
+    "data_size": 166,
+    "slot_size": 166,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Longinus[SP]#7",
     "texte_orig": "Pathetic...[1205][001E][SP]The[SP]marionette[SP]that[SP]danced[SP]in\nignorance[SP]has[SP]arrived.",
@@ -18,17 +17,31 @@
   {
     "id": 1,
     "offset": 343182,
-    "data_size": 198,
-    "slot_size": 202,
+    "data_size": 196,
+    "slot_size": 196,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Longinus[SP]#5",
     "texte_orig": "Flowers[SP]inevitably[SP]wilt...[1205][001E][SP]Can[SP]something[SP]so\ntransient[SP]be[SP]compared[SP]to[SP]the[SP]stars?",
     "nom_fr": "Longinus #5",
     "texte_fr": "Toute fleur flétrit...[1205][001E] Peut-on comparer\nune chose aussi éphémère aux étoiles?"
+  },
+  {
+    "id": 2,
+    "offset": 343384,
+    "data_size": 244,
+    "slot_size": 248,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "A[SP]flower[SP]it[SP]may[SP]be,[SP]but[SP]it's[SP]still[SP]a[SP]very\nprecious[SP]blossom...[1205][001E][SP]Time[SP]for[SP]you[SP]to[SP]give\nback[SP]the[SP]wind[SP]crystal[SP]skull!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

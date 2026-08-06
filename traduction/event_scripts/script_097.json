@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 173910,
-    "data_size": 274,
-    "slot_size": 278,
+    "data_size": 272,
+    "slot_size": 272,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Secret[SP]friends[SP]who[SP]would[SP]never[SP]reveal[SP]their\ntrue[SP]selves...[1205][001E][SP]And[SP]yet...[1205][001E][SP]We[SP]understood[SP]each\nother[SP]better[SP]than[SP]anyone[SP]else...",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 174188,
-    "data_size": 114,
-    "slot_size": 118,
+    "data_size": 112,
+    "slot_size": 112,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Here...[1205][001E][SP]This[SP]was[SP]where[SP]I[SP]hid[SP]my[SP]mask...[1205][001E]",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 174306,
-    "data_size": 260,
-    "slot_size": 264,
+    "data_size": 258,
+    "slot_size": 258,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "With[SP]the[SP]mask[SP]on,[SP]I[SP]could[SP]be[SP]someone[SP]else.[1205][001E]\nInstead[SP]of[SP]some[SP]wussy[SP]kid[SP]who[SP]wasn't[SP]good[SP]at\nanything[SP]except[SP]drawing...",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 174570,
-    "data_size": 182,
-    "slot_size": 186,
+    "data_size": 180,
+    "slot_size": 180,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "You[SP]must've[SP]been[SP]sad[SP]kids[SP]if[SP]you[SP]couldn't\ndo[SP]anything[SP]without[SP]hiding[SP]your[SP]faces.",
@@ -66,17 +62,31 @@
   {
     "id": 4,
     "offset": 174756,
-    "data_size": 206,
-    "slot_size": 210,
+    "data_size": 204,
+    "slot_size": 204,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Everyone[SP]has[SP]memories[SP]they'd[SP]rather[SP]forget,\nor[SP]sad[SP]things[SP]they[SP]don't[SP]want[SP]to[SP]remember...[1205][001E]",
     "nom_fr": "Yukino",
     "texte_fr": "Chacun a ses secrets\nà oublier ou des moments\ntriste qu'on veut plus se rappeler...[1205][001E]"
+  },
+  {
+    "id": 5,
+    "offset": 174966,
+    "data_size": 260,
+    "slot_size": 260,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "I'd[SP]be[SP]condescending[SP]if[SP]I[SP]said[SP]I[SP]understood\nyour[SP]pain.[1205][001E][SP]I[SP]hate[SP]feeling[SP]so[SP]completely\npowerless[SP]at[SP]times[SP]like[SP]these...",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

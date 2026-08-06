@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 184342,
-    "data_size": 118,
-    "slot_size": 122,
+    "data_size": 116,
+    "slot_size": 116,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Yeah...[SP]Yeah![SP]That's[SP]right![SP]We[SP]loved[SP]Big[SP]Sis!",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 184464,
-    "data_size": 228,
-    "slot_size": 232,
+    "data_size": 226,
+    "slot_size": 226,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "She[SP]was[SP]beautiful...[SP]energetic...[SP]kind...[1205][001E]\nShe[SP]taught[SP]us[SP]to[SP]follow[SP]our[SP]dreams...[1205][001E]\nAnd[SP]then...[SP]I...",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 184696,
-    "data_size": 234,
-    "slot_size": 238,
+    "data_size": 232,
+    "slot_size": 232,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "We[SP]played[SP]the[SP]Persona[SP]Game[SP]together.[1205][001E]\nBig[SP]Sis[SP]watched[SP]us[SP]with[SP]a[SP]huge[SP]smile[SP]on\nher[SP]face[SP]the[SP]whole[SP]time...",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 184934,
-    "data_size": 194,
-    "slot_size": 198,
+    "data_size": 192,
+    "slot_size": 192,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "She[SP]told[SP]us[SP]that[SP]whether[SP]our[SP]dream[SP]comes\ntrue[SP]depends[SP]on[SP]us![1205][001E][SP]But[SP]then...[SP]I...[SP]I...!",
@@ -66,17 +62,31 @@
   {
     "id": 4,
     "offset": 185132,
-    "data_size": 34,
-    "slot_size": 38,
+    "data_size": 32,
+    "slot_size": 32,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "......",
     "nom_fr": "Maya",
     "texte_fr": "......"
+  },
+  {
+    "id": 5,
+    "offset": 185170,
+    "data_size": 220,
+    "slot_size": 222,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Now[SP]I[SP]see...[SP]So[SP]that's[SP]why[SP]you[SP]guys[SP]can[SP]use\nPersonas.[1205][001E][SP]You'd[SP]played[SP]the[SP]Persona[SP]Game\nafter[SP]all...",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]
