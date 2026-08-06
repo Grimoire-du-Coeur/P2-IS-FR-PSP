@@ -174,6 +174,35 @@ def api_extract_cpk(req: IsoRequest):
     return {"status": "ok", "msg": f"CPK et EBOOT extraits : {res}"}
 
 
+@app.post("/api/extract-cpk-files")
+def api_extract_cpk_files(req: GenericRequest):
+    set_work_dir(req.work_dir)
+    cpk = Path(req.work_dir) / "P2PT_ALL.cpk"
+    if not cpk.exists():
+        raise HTTPException(
+            status_code=400,
+            detail="P2PT_ALL.cpk introuvable. Avez-vous fait l'étape A ?",
+        )
+    out = Path(req.work_dir) / "cpk_files"
+    reset_progress("extract-cpk-files")
+    
+    root_dir = Path(__file__).resolve().parent.parent
+    if str(root_dir) not in sys.path:
+        sys.path.append(str(root_dir))
+    try:
+        from p2is_cpk_tool import extract_cpk
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Impossible d'importer p2is_cpk_tool : {e}")
+        
+    get_logger(req.work_dir)("Extraction native des fichiers CPK avec Python...", "info")
+    res = extract_cpk(str(cpk), str(out))
+    if not res:
+        raise HTTPException(
+            status_code=500, detail="Erreur lors de l'extraction des fichiers du CPK"
+        )
+    return {"status": "ok", "msg": "Fichiers CPK extraits nativement avec succès sans CriFsLib !"}
+
+
 @app.post("/api/open-crifslib")
 def api_open_crifslib(req: CrifsRequest):
     exe_path = Path(req.crifs_path)

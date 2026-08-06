@@ -16,9 +16,9 @@ const dict = {
     step_a: "Extraction du CPK",
     desc_a: "Extrait l'archive P2PT_ALL.cpk depuis l'ISO originale.",
     btn_a: "Extraire P2PT_ALL.cpk",
-    step_b: "Extraction des fichiers du jeu (CriFsLib)",
-    desc_b: "1. Ouvrez CriFsLib.\n2. Ouvrez le dossier de travail.\n3. Glissez P2PT_ALL.cpk dans CriFsLib.\n4. Clic-droit : Extract All vers `cpk_files/`.",
-    btn_b: "Ouvrir CriFsLib",
+    step_b: "Extraction des fichiers du jeu (Automatique)",
+    desc_b: "Extrait automatiquement tous les fichiers de P2PT_ALL.cpk vers cpk_files/ nativement en Python sans CriFsLib !",
+    btn_b: "Extraire les fichiers CPK (Automatique)",
     btn_b2: "Dossier de travail",
     step_c: "Extraction des scripts principaux",
     desc_c: "Extrait le fichier event.bin qui contient le scénario.",
@@ -68,9 +68,9 @@ const dict = {
     step_a: "Extract CPK",
     desc_a: "Extracts the P2PT_ALL.cpk archive from the original ISO.",
     btn_a: "Extract P2PT_ALL.cpk",
-    step_b: "Extract game files (CriFsLib)",
-    desc_b: "1. Open CriFsLib.\n2. Open the working directory.\n3. Drag P2PT_ALL.cpk into the window.\n4. Right-click: Extract All to `cpk_files/`.",
-    btn_b: "Open CriFsLib",
+    step_b: "Extract game files (Automatic)",
+    desc_b: "Automatically extracts all files from P2PT_ALL.cpk to cpk_files/ in Python without CriFsLib!",
+    btn_b: "Extract CPK files (Automatic)",
     btn_b2: "Working Directory",
     step_c: "Extract main scripts",
     desc_c: "Extracts event.bin containing the scenario.",
@@ -375,7 +375,7 @@ export default function App() {
                     </h3>
                     <p className="text-sm text-blue-200/70 mb-3 whitespace-pre-line">{t('desc_b')}</p>
                     <div className="flex flex-col sm:flex-row gap-3">
-                      <button onClick={() => callApi('open-crifslib', { crifs_path: crifsPath })} disabled={loading} className="glass-button text-sm flex items-center space-x-2 flex-1 justify-center">
+                      <button onClick={() => callApi('extract-cpk-files', { work_dir: workDir })} disabled={loading} className="glass-button text-sm flex items-center space-x-2 flex-1 justify-center">
                         <Wrench size={16} /> <span>{t('btn_b')}</span>
                       </button>
                       <button onClick={() => fetch('http://127.0.0.1:8000/api/open-folder', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ work_dir: workDir })})} className="glass-button text-sm flex items-center space-x-2 flex-1 justify-center bg-blue-800/30">
