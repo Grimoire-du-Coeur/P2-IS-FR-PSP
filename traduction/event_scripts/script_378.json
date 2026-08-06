@@ -57,7 +57,7 @@
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
     "nom_fr": "Père de Lisa",
-    "texte_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer. Viens,\nta leçon de thé[1101]commence."
+    "texte_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\n[1205]règles du foyer. [001E]Viens,\nta leçon de thécommence."
   },
   {
     "id": 4,
@@ -87,7 +87,7 @@
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
     "nom_fr": "Père de Lisa",
-    "texte_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\nrègles du foyer. Viens,\nta leçon de thé[1101]commence."
+    "texte_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les\n[1205]règles du foyer. [001E]Viens,\nta leçon de thécommence."
   },
   {
     "id": 6,
@@ -252,7 +252,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Her[SP]father...[1205][000F][SP]Yes.[SP]I've[SP]always[SP]wanted[SP]to\nhave[SP]something[SP]like[SP]this[SP]to[SP]defend.[SP]I[SP]was\nso[SP]jealous[SP]of[SP]Lisa...",
     "nom_fr": "Jun",
-    "texte_fr": "Son père... Oui.\nJ'ai toujours voulu quelque\nchose à défendre. J'enviais Lisa pour ça..."
+    "texte_fr": "Son père.[000F][1205].. Oui.\nJ'ai toujours voulu quelque\nchose à défendre. J'enviais Lisa pour ça..."
   },
   {
     "id": 17,
@@ -383,7 +383,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci\na été livré ici. Tenez, prenez-le.> Lettre\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nMalheureusement, vous n'êtes pas gagnant[1101]cette\nfois. Tentez à nouveau votre chance![1432][NULL][NULL][0014]"
+    "texte_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci\na été livré ici. Tenez, prenez-le.> Lettre\n[NULL][NULL]Merci d'avoir participé à notre tirage.\nMalheureusement, vous n'êtes pas gagnantcette\nfois. Tentez à nouveau votre chance![NULL][NULL]"
   },
   {
     "id": 25,
@@ -398,7 +398,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci a\nété livré ici. Tenez, prenez-le.> Lettre\n[1432][NULL][NULL][0014]Merci d'avoir participé à notre tirage.\nFélicitations! Vous avez été sélectionné[1101]gagnant!>\n[1432][NULL][NULL][0014]Veuillez accepter ceci [E4][NULL][NULL][0004][120E][NULL][E4][NULL][NULL][0002] en guise\nde prix. Tentez à nouveau votre chance![1432][NULL][NULL][0014]>\nVous n'avez plus de place pour un autre [E4][NULL][NULL][0004][120E][NULL][E4][NULL][NULL][0002]..."
+    "texte_fr": "Le tirage au sort? Ah oui, bien sûr. Ceci a\nété livré ici. Tenez, prenez-le.> Lettre\n[NULL][NULL]Merci d'avoir participé à notre tirage.\nFélicitations! Vous avez été sélectionnégagnant!>\n[NULL][NULL]Veuillez accepter ceci [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise\nde prix. Tentez à nouveau votre chance![NULL][NULL]>\nVous n'avez plus de place pour un autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
   },
   {
     "id": 26,

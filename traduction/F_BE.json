@@ -14,7 +14,7 @@
     "nom_orig": "Rhadamanthus",
     "texte_orig": "I[SP]am[SP][E4][B_81][B_00][B_1B][0005]Rhadamanthus[E4][B_81][B_00][B_7F][0002]...[SP]the[SP]judge[SP]of[SP]the\nnetherworld.[SP]I[SP]shall[SP]sever[SP]your[SP]foes'[SP]sins[U+0143][U+7711][B_00]ith[SP]my[SP]blade[SP]of[SP]judgement!\n[1107][E1][E2][E3][E4][B_81][B_00][B_33]",
     "nom_fr": "Rhadamanthus",
-    "texte_fr": "Je suis Rhadamanthus... le juge\ndes enfers. Je romprais les péchés\nde tes ennemis avec ma lame!\n[1107]"
+    "texte_fr": "Je suis [0005]Rhadamanthus... [0002]le juge\ndes enfers. Je romprais les péchés\nde tes ennemis avec ma lame!\n[1107]"
   },
   {
     "id": 1,
@@ -48,7 +48,7 @@
     "nom_orig": "Eros",
     "texte_orig": "I[SP]am[SP][E4][B_81][B_00][B_0B][0005]Eros[E4][B_81][B_00][B_7F][0002]...[SP]My[SP]golden[SP]arrows[SP]kindle\nlove's[SP]flames...[SP]I[SP]shall[SP]be[SP]your[SP]st[U+723B][B_00]ength,\nmy[SP]other[SP]self...\n[1107][E1][E2][E3][E4][B_81][B_00][B_55]",
     "nom_fr": "Eros",
-    "texte_fr": "Je suis Eros... Mes flèches dorées\nallument les flammes de l'amour...\nJe serais ta force, mon autre moi...\n[1107]"
+    "texte_fr": "Je suis Eros... [0005]Mes flèches [0002]dorées\nallument les flammes de l'amour...\nJe serais ta force, mon autre moi...\n[1107]"
   },
   {
     "id": 3,
@@ -133,7 +133,7 @@
     "nom_orig": "Maya",
     "texte_orig": "D...[SP]Demons!?[1205][001E][SP]B-But[SP]if[SP]I[SP]run...[E1][E2][E3]",
     "nom_fr": "Maya",
-    "texte_fr": "Des D... Démons!? M-mais si je fuis..."
+    "texte_fr": "Des D..[1205]. [001E]Démons!? M-mais si je fuis..."
   },
   {
     "id": 8,
@@ -456,7 +456,7 @@
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "Goddamn[SP]brat...[SP]Always...[SP]getting[SP]in[SP]my[SP]way...\nBe[B_7F]cause[SP]you[SP]were[SP]there...[SP]that[SP]day...\nmy[SP]life...[SP]was[SP]ruined...!\n[1107][E1][B_05][E2][E3][E4][B_81][B_00][U+221D][B_00][1113]\n......\n[1107][E1][E2][E3][E4][B_81][B_00][B_7F]",
     "nom_fr": "Tatsuya Sudou",
-    "texte_fr": "Hee... Hyahaha... Ce bateau se\ncrashera bientôt... Ce n'est pas que\nmoi... Vous allez tous mourir...!\n[1107]"
+    "texte_fr": "Hee... Hyahaha... Ce bateau se\ncrashera bientôt... Ce n'est pas [1107]que\nmoi... Vous allez [1113]tous mourir...!\n[1107]"
   },
   {
     "id": 27,
@@ -1085,7 +1085,7 @@
     "nom_orig": "Great[SP]Father",
     "texte_orig": "It[SP]is[SP]a[SP]father's[SP]nature[SP]to[SP]be[SP]the[SP]ultimate\nobstacl[U+6559][B_00][SP]to[SP]his[SP]child...[SP]Very[SP]well.[SP]Reach[SP]for\nyour[SP][1432][B_81][B_00][U+140F][B_00]future[1432][B_81][B_00][U+143D][B_00][SP]with[SP]all[SP]your[SP]strength!\n[1107][E1][E2][E3][E4][B_81][B_00][B_6F]",
     "nom_fr": "Great Father",
-    "texte_fr": "C'est dans la nature d'un père d'être\nl'ultime obstacle de son enfant... Très\nbien. Bats toi de toutes tes forces!\n[1107]"
+    "texte_fr": "C'est dans la nature d'un père d'être\nl'ultime obstacle de son [1432][1432]enfant... Très\nbien. Bats toi de toutes tes forces!\n[1107]"
   },
   {
     "id": 64,

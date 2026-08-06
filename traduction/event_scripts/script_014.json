@@ -312,7 +312,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "We[SP]got[SP]a[SP]new[SP]Leader![1205][001E][SP]And[SP]he's[SP]way,[SP]WAY\nstronger[SP]than[SP]any[SP]Boss![E1][E2]\n[E3][E4][NULL][NULL]\"Cuss[SP]High[SP]student\nAll[SP]your[SP]cronies[SP]at[SP]Cuss[SP]High[SP]have\nswitched[SP]sides[SP]for[SP]our[SP]new[SP]Leader,\nSugimoto-san!",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "On a un nouveau Leader![1205][001E] Bien plus fort que\nn'importe quel Boss![E1][E2] [E3][E4][NULL][NULL]\"Élève de Kasu\nTous tes potes de Kasu\nont rejoint[1101]Sugimoto-san, notre nouveau Leader!"
+    "texte_fr": "On a un nouveau Leader![1205][001E] Bien plus fort que\nn'importe quel Boss![E1][E2] [E3][E4][NULL][NULL]\"Élève de Kasu\nTous tes potes de Kasu\nont rejointSugimoto-san, notre nouveau Leader!"
   },
   {
     "id": 21,
@@ -747,7 +747,7 @@
     "nom_orig": "Cuss[SP]High[SP]student",
     "texte_orig": "Sugimoto's[SP]actually[SP]kind[SP]of[SP]a[SP]shitty[SP]dude.\nHe[SP]sucks[SP]up[SP]to[SP]the[SP]strong[SP]and[SP]stomps[SP]on\nthe[SP]weak.[SP]Huh...[1205][001E][SP]Why[SP]IS[SP]he[SP]our[SP]Leader?",
     "nom_fr": "Élève de Kasu",
-    "texte_fr": "Sugimoto est un gars minable. Il lèche\nles bottes des forts et écrase les\nfaibles. Pff...pourquoi\nest-il notre Leader?"
+    "texte_fr": "Sugimoto est un gars minable. Il lèche\nles bottes des forts et écrase les\nfaibles. Pff..[1205].[001E]pourquoi\nest-il notre Leader?"
   },
   {
     "id": 50,
@@ -822,7 +822,7 @@
     "nom_orig": "Employee",
     "texte_orig": "I[SP]wonder[SP]if[SP]the[SP]rumor[SP]about[SP][E4][NULL][NULL][0006]the[SP]maze[SP]on[SP]the\nsecond[SP]floor[E4][NULL][NULL][0002][SP]is[SP]true...[1205][000F][SP]I[SP]hear[SP][E4][NULL][NULL][0006]there's[SP]good\nstuff[SP]up[SP]there[E4][NULL][NULL][0002],[SP]but[SP]I[SP]can't[SP]go[SP]on[SP]my[SP]own.",
     "nom_fr": "Employé",
-    "texte_fr": "La rumeur sur [E4][NULL][NULL][0006]le labyrinthe[E4][NULL][NULL][0002] est vraie?\nIl paraît qu'[E4][NULL][NULL][0006]il y a des trésors[E4][NULL][NULL][0002], mais\nje peux pas y aller seul."
+    "texte_fr": "La rumeur sur [E4][NULL][NULL][0006]le labyrinthe[E4][NULL][NULL][0002] est vraie?\n[000F][1205]Il paraît qu'[E4][NULL][NULL][0006]il y a des trésors[E4][NULL][NULL][0002], mais\nje peux pas y aller seul."
   },
   {
     "id": 55,

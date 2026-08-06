@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]Last[SP]Battalion[SP]and[SP]the[SP]Masked[SP]Circle[SP]are\nboth[SP]in[SP]that[SP]temple...[1205][000F][SP]This[SP]isn't[SP]gonna[SP]be\neasy,[SP]is[SP]it?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le Bataillon et le Cercle masqué\nsont tous les deux dans ce temple...\nÇa va pas être simple, hein?"
+    "texte_fr": "Le Bataillon et le Cercle masqué\nsont tous les deux dans ce temple.[000F][1205]..\nÇa va pas être simple, hein?"
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]bet[SP]the[SP]Masked[SP]Circle[SP]is[SP]trying[SP]to[SP]take[SP]back\nthe[SP]crystal[SP]skulls[SP]that[SP]were[SP]stolen[SP]at[SP]the\nCaracol.[1205][000F][SP]Think[SP]we[SP]can[SP][SP]still[SP]gather[SP]them[SP]all?",
     "nom_fr": "Ginko",
-    "texte_fr": "Le Cercle masqué cherche sûrement à\nrécupérer les crânes de cristal volés au\nCaracol. On peut encore tous les trouver?"
+    "texte_fr": "Le Cercle masqué cherche sûrement à\nrécupérer les crânes de cristal volés au\n[1205]Caracol. [000F]On peut encore tous les trouver?"
   },
   {
     "id": 3,
@@ -102,7 +102,7 @@
     "nom_orig": "Maya",
     "texte_orig": "The[SP]next[SP]part[SP]of[SP]the[SP]Oracle[SP]can't[SP]be[SP]fulfilled\nuntil[SP]one[SP]side[SP]has[SP]all[SP]the[SP]skulls,[SP]right?[1205][000F][SP]So[SP]I\nthink[SP]we[SP]still[SP]have[SP]a[SP]chance.",
     "nom_fr": "Maya",
-    "texte_fr": "La suite de l'Oracle ne peut s'accomplir\nque si l'un d'eux a tous les crânes,\nnon? On a encore notre chance."
+    "texte_fr": "La suite de l'Oracle ne peut s'accomplir\nque si l'un d'eux a tous les crânes,\n[000F][1205]non? On a encore notre chance."
   },
   {
     "id": 7,
@@ -132,7 +132,7 @@
     "nom_orig": "Jun",
     "texte_orig": "The[SP]Masked[SP]Circle[SP]is[SP]fighting[SP]under[SP]my[SP]orders.[1205][000F]\nAt[SP]this[SP]rate,[SP]they'll[SP]all[SP]be[SP]killed.[SP]We[SP]must\nhurry[SP]and[SP]stop[SP]this[SP]war.",
     "nom_fr": "Jun",
-    "texte_fr": "Le Cercle masqué combat sur mes ordres.\nÀ ce rythme, ils vont tous mourir. Il\nfaut vite mettre fin à cette guerre."
+    "texte_fr": "Le Cercle masqué combat sur mes ordres.\n[000F][1205]À ce rythme, ils vont tous mourir. Il\nfaut vite mettre fin à cette guerre."
   },
   {
     "id": 9,
@@ -207,7 +207,7 @@
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Legendary[SP]weapon?[SP]Yes,[SP]I[SP]did[SP]buy[SP]a[SP]flower[SP]from\nthe[SP]Count[SP]at[SP]Time[SP]Castle,[SP]but...[1205][000F][SP]You[SP]mean[SP]to\nsay[SP]the[SP]flower[SP]was[SP]this[SP]weapon?",
     "nom_fr": "Mlle Kaori",
-    "texte_fr": "Une arme légendaire? J'ai bien acheté\nune fleur au Comte du Château du Temps,\nmais... Cette fleur était cette arme?"
+    "texte_fr": "Une arme légendaire? J'ai bien acheté\nune fleur au Comte du Château du Temps,\n[000F][1205]mais... Cette fleur était cette arme?"
   },
   {
     "id": 14,
@@ -222,7 +222,7 @@
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Oh[SP]no...[SP]I'm[SP]so[SP]sorry.[SP]I[SP]already[SP]used[SP]that\nflower...[1205][000F][SP]Its[SP]fragrance[SP]of[SP]good[SP]fortune[SP]will\nheal[SP]people's[SP]wounds...",
     "nom_fr": "Mlle Kaori",
-    "texte_fr": "Oh non... Je suis désolée. J'ai\ndéjà utilisé cette fleur... Son\nparfum béni soigne les blessures..."
+    "texte_fr": "Oh non... Je suis désolée. J'ai\n[1205]déjà utilisé cette fleur.[000F].. Son\nparfum béni soigne les blessures..."
   },
   {
     "id": 15,
@@ -252,7 +252,7 @@
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Then[SP]from[SP]now[SP]on,[SP]when[SP]you[SP]visit,[SP]I[SP]will[SP]share\nthe[SP]legendary[SP]flower's[SP]fragrance[SP]at[SP]no[SP]cost...[1205][000F]\nI[SP]hope[SP]that[SP]excuses[SP]my[SP]mistake...",
     "nom_fr": "Mlle Kaori",
-    "texte_fr": "Dorénavant, à chaque\nvisite, je partagerai le\nparfum de la fleur légendaire sans frais...\nJ'espère que ça répare mon erreur..."
+    "texte_fr": "Dorénavant, à chaque\nvisite, je partagerai le\nparfum de la fleur légendaire sans frais.[1205].[000F].\nJ'espère que ça répare mon erreur..."
   },
   {
     "id": 17,
@@ -379,7 +379,7 @@
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Oh...[1205][000F][SP]Everyone[SP]is[SP]in[SP]fine[SP]health.[1205][000F][SP]It[SP]seems\nthere's[SP]no[SP]need[SP]for[SP]my[SP]services.",
     "nom_fr": "Mlle Kaori",
-    "texte_fr": "Oh... Tout le monde est en forme.\nMes services ne semblent pas utiles."
+    "texte_fr": "Oh.[000F][1205][000F][1205].. Tout le monde est en forme.\nMes services ne semblent pas utiles."
   },
   {
     "id": 24,
@@ -394,7 +394,7 @@
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Understood.[SP]Then[SP]it[SP]will[SP]be[SP]a[SP]group[SP]rate[SP]of\n1,200[SP]yen.[SP]Is[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Mlle Kaori",
-    "texte_fr": "Très bien. Ce sera 1 200 yens\npour le groupe. C'est d'accord?\n[1208][0002]Oui[0014]Non",
+    "texte_fr": "Très bien. Ce sera 1 200 yens\npour le groupe. C'est d'accord?\n[1208][0002]OuiNon",
     "question_orig": "Understood.[SP]Then[SP]it[SP]will[SP]be[SP]a[SP]group[SP]rate[SP]of\n1,200[SP]yen.[SP]Is[SP]that[SP]all[SP]right?",
     "choix_orig": [
       "Yes",
@@ -434,7 +434,7 @@
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "The[SP]saucer[SP]raising[SP]this[SP]city[SP]is[SP]going[SP]to[SP]make\nus[SP]into[SP]Idealians?[1205][000F][SP]I[SP]can't[SP]say[SP]I[SP]particularly\nwant[SP]to[SP]become[SP]such[SP]a[SP]thing...",
     "nom_fr": "Mlle Kaori",
-    "texte_fr": "La soucoupe qui soulève cette ville va\nnous transformer en Idéaliens? Je ne\npeux pas dire que j'y aspire vraiment..."
+    "texte_fr": "La soucoupe qui soulève cette ville va\nnous transformer en Idéaliens? [000F][1205]Je ne\npeux pas dire que j'y aspire vraiment..."
   },
   {
     "id": 27,
@@ -479,7 +479,7 @@
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Weren't[SP]there[SP]students[SP]and[SP]teachers[SP]still\ninside?[1205][000F][SP]I[SP]wonder[SP]if[SP]they're[SP]all[SP]right...",
     "nom_fr": "Mlle Kaori",
-    "texte_fr": "Il y avait encore des élèves et des profs\ndedans? J'espère qu'ils vont bien..."
+    "texte_fr": "Il y avait encore des élèves et des profs\n[000F][1205]dedans? J'espère qu'ils vont bien..."
   },
   {
     "id": 30,
@@ -696,7 +696,7 @@
     "nom_orig": "Concerned[SP]mother",
     "texte_orig": "From[SP]what[SP]I've[SP]heard,[SP]those[SP]Last[SP]Battalion\nsoldiers[SP]have[SP]gone[SP]inside[SP]them...[1205][000F][SP]What[SP]are\nthey[SP]after[SP]in[SP]there?",
     "nom_fr": "Mère inquiète",
-    "texte_fr": "D'après ce que j'ai entendu, les\nsoldats du Bataillon sont entrés\ndedans... Que cherchent-ils là-dedans?"
+    "texte_fr": "D'après ce que j'ai entendu, les\nsoldats du Bataillon sont entrés\n[1205]dedans.[000F].. Que cherchent-ils là-dedans?"
   },
   {
     "id": 43,
@@ -741,7 +741,7 @@
     "nom_orig": "Young[SP]man",
     "texte_orig": "The[SP]Masked[SP]Circle[SP]and[SP]the[SP]Last[SP]Battalion[SP]are\nstill[SP]fighting[SP]inside[SP]that[SP]weird[SP]building.[1205][000F]\nThe[SP]city's[SP]still[SP]not[SP]safe.",
     "nom_fr": "Jeune homme",
-    "texte_fr": "Le Cercle masqué et le Bataillon se\nbattent encore dans cet étrange bâtiment.\nLa ville n'est toujours pas sûre."
+    "texte_fr": "Le Cercle masqué et le Bataillon se\nbattent encore dans cet étrange bâtiment.\n[000F][1205]La ville n'est toujours pas sûre."
   },
   {
     "id": 46,
@@ -816,7 +816,7 @@
     "nom_orig": "Miss[SP]Kaori",
     "texte_orig": "Then[SP]today,[SP]the[SP]fragrance[SP]of[SP]ylang-ylang...[1205][000F][SP]It's\na[SP]tree[SP]valued[SP]for[SP]its[SP]perfume.[1205][000A][SP]The[SP]sweet,[SP]heavy\nfragrances[SP]is[SP]good[SP]for[SP]the[SP]mind[SP]and[SP]body.",
     "nom_fr": "Mlle Kaori",
-    "texte_fr": "Aujourd'hui, le parfum d'ylang-ylang... Un\narbre précieux pour son parfum.[1205][000A] Ses douces\nfragrances apaisent l'esprit et le corps."
+    "texte_fr": "Aujourd'hui, le parfum d'ylang-ylang.[1205].[000F]. Un\narbre précieux pour son parfum.[1205][000A] Ses douces\nfragrances apaisent l'esprit et le corps."
   },
   {
     "id": 51,

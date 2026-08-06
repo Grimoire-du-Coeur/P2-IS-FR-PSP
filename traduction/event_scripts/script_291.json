@@ -57,7 +57,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Eikichi[SP]might[SP]be[SP]right...[1205][000F][SP]With[SP]everything[SP]going[SP]on,\nwho[SP]knows[SP]what[SP]weird[SP]ideas[SP]the[SP]townspeople\nare[SP]gonna[SP]get[SP]about[SP]it.",
     "nom_fr": "Ginko",
-    "texte_fr": "Eikichi a peut-être raison... Avec\ntout ce qui se passe, qui sait quelles\nidées folles les gens vont avoir."
+    "texte_fr": "Eikichi a peut-être raison.[000F][1205].. Avec\ntout ce qui se passe, qui sait quelles\nidées folles les gens vont avoir."
   },
   {
     "id": 4,
@@ -72,7 +72,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Not[SP]everyone[SP]wants[SP]to[SP]evolve...[1205][000F][SP]They[SP]just[SP]want\nto[SP]escape[SP]the[SP]annihilation[SP]of[SP]Earth.[SP]They[SP]want\nto[SP]believe[SP]they'll[SP]be[SP]saved.",
     "nom_fr": "Maya",
-    "texte_fr": "Tout le monde ne veut pas évoluer...\nIls fuient la destruction de la Terre.\nIls croient qu'ils seront sauvés."
+    "texte_fr": "Tout le monde ne veut pas évoluer.[000F][1205]..\nIls fuient la destruction de la Terre.\nIls croient qu'ils seront sauvés."
   },
   {
     "id": 5,
@@ -160,7 +160,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210][0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][0100]Armure de tête\n[111F]Armure\n[111F][1210][0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires",
     "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -190,7 +190,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210][0100]Sélection cachée\n[121D][0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[121D][0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[121D][0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
     "question_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -231,7 +231,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "I[SP]feel[SP]sorry[SP]for[SP]the[SP]people[SP]below,[SP]but[SP]that's\nfate.[1205][000F][SP]Anyway,[SP]I'm[SP]looking[SP]forward[SP]to[SP]evolving.\nWe'll[SP]be[SP]even[SP]more[SP]beautiful![1205][000F][SP]Hahaha.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Je plains les gens d'en bas, mais c'est le\ndestin. En tout cas, j'ai hâte d'évoluer.\nNous serons encore plus belles! Hahaha."
+    "texte_fr": "Je plains les gens d'en bas, mais c'est le\n[000F][1205][000F][1205]destin. En tout cas, j'ai hâte d'évoluer.\nNous serons encore plus belles! Hahaha."
   },
   {
     "id": 13,
@@ -246,7 +246,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "The[SP]war's[SP]being[SP]fought[SP]inside[SP]that[SP]temple.\nIt's[SP]still[SP]dangerous[SP]to[SP]go[SP]outside...[1205][000F][SP]Oh,[SP]what\na[SP]pity[SP]it[SP]would[SP]be[SP]if[SP]I[SP]died[SP]before[SP]evolving!",
     "nom_fr": "Vendeuse",
-    "texte_fr": "La guerre se déroule dans ce temple. C'est\nencore dangereux de sortir... Oh, quelle\npitié si je mourais avant d'évoluer!"
+    "texte_fr": "La guerre se déroule dans ce temple. C'est\nencore dangereux de sortir.[000F][1205].. Oh, quelle\npitié si je mourais avant d'évoluer!"
   },
   {
     "id": 14,
@@ -261,7 +261,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Anyway.[1205][0008][SP]How[SP]about[SP]our[SP]fashion[SP]concept[SP]for[SP]this\nyear?[1205][000F][SP]We[SP]were[SP]smart[SP]to[SP]pick[SP]armor,[SP]weren't[SP]we?[1205][000F]\nOur[SP]forecasts[SP]are[SP]never[SP]wrong,[SP]hahaha.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bref.[1205][0008] Et notre concept\nmode pour cette année?\nOn a eu raison de\nmiser sur les armures? Nos\nprévisions ne se trompent jamais!"
+    "texte_fr": "Bref.[1205][1205][1205][0008] Et notre concept\nmode pour cette année?\n[000F][000F]On a eu raison de\nmiser sur les armures? Nos\nprévisions ne se trompent jamais!"
   },
   {
     "id": 15,
@@ -321,7 +321,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Aren't[SP]you[SP]a[SP]Sevens[SP]student[SP]too?[1205][000F][SP]You[SP]wouldn't\nleave[SP]your[SP]friends[SP]behind,[SP]would[SP]you?",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Tu es aussi un élève de Seven? Tu\nn'abandonnerais pas tes amis, n'est-ce pas?"
+    "texte_fr": "Tu es aussi un élève de Seven? [000F][1205]Tu\nn'abandonnerais pas tes amis, n'est-ce pas?"
   },
   {
     "id": 19,
@@ -336,7 +336,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Now[SP]how[SP]about[SP]some[SP]new[SP]armor[SP]we[SP]just[SP]got[SP]in?[1205][000F]\nIt's[SP]as[SP]beautiful[SP]as[SP]anything[SP]else[SP]in[SP]here,\nnaturally.[1205][0008][SP]I'll[SP]throw[SP]in[SP]a[SP]kiss[SP]if[SP]you[SP]buy!",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Et si vous regardiez nos nouvelles armures\n? Elles sont belles comme tout le reste\nici,[1205][0008] J'offre un baiser si vous achetez!"
+    "texte_fr": "Et si vous regardiez nos nouvelles armures\n[000F][1205]? Elles sont belles comme tout le reste\nici,[1205][0008] J'offre un baiser si vous achetez!"
   },
   {
     "id": 20,
@@ -351,7 +351,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "You[SP]really[SP]need[SP]better[SP]taste[SP]in[SP]fashion.[1205][000F]\nI'll[SP]give[SP]you[SP]a[SP]personal[SP]lesson[SP]next[SP]time.[1205][000F]\nSee[SP]you[SP]again.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Vous avez besoin d'affiner votre goût. Je\nvous ferai une\nleçon personnelle. A bientôt."
+    "texte_fr": "Vous avez besoin d'affiner votre goût. [000F][1205][000F][1205]Je\nvous ferai une\nleçon personnelle. A bientôt."
   },
   {
     "id": 21,
@@ -411,7 +411,7 @@
     "nom_orig": "Hayseed",
     "texte_orig": "What[SP]am[SP]ah[SP]gonna[SP]do?[1205][0008][SP]Ma's[SP]still[SP]down[SP]there...[1205][000A]\nShe's[SP]gonna[SP]die![SP]Ah[SP]gotta...[1205][000F][SP]Ah[SP]gotta[SP]get\ndown[SP]there!",
     "nom_fr": "Péquenaud",
-    "texte_fr": "Qu'est-ce que je vais faire?[1205][0008] M'man est\nlà-bas...[1205][000A] Elle va\nmourir! Je dois descendre!"
+    "texte_fr": "Qu'est-ce que je vais faire?[1205][1205][0008] M'man est\nlà-bas...[1205][000A] Elle va\n[000F]mourir! Je dois descendre!"
   },
   {
     "id": 25,
@@ -426,7 +426,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "I[SP]can't[SP]believe[SP]the[SP]entire[SP]city[SP]was[SP]built[SP]on\ntop[SP]of[SP]Xibalba...[1205][000F][SP]A-At[SP]least[SP]that[SP]means\nwe're[SP]safe.",
     "nom_fr": "Femme active",
-    "texte_fr": "Incroyable que la ville entière soit bâtie\nsur Xibalba... Au moins,\non est en sécurité."
+    "texte_fr": "Incroyable que la ville entière soit bâtie\nsur Xibalba.[1205].[000F]. Au moins,\non est en sécurité."
   },
   {
     "id": 26,
@@ -501,7 +501,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Whew...[1205][0008][SP]I[SP]got[SP]anxious[SP]when[SP]the[SP]Last[SP]Battalion\nshowed[SP]up...[1205][0008][SP]But[SP]Joker[SP]came[SP]through[SP]again![1205][000F]\nOhhhhohohoho!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Ouf...[1205][0008] J'ai eu peur quand le\nBataillon est apparu...[1205][0008] Mais Joker\na encore assuré! Ohhhhohohoho!"
+    "texte_fr": "Ouf.[1205]..[1205][0008] J'ai eu peur quand le\nBataillon est apparu...[1205][0008] Mais Joker\na encore assuré! [000F]Ohhhhohohoho!"
   },
   {
     "id": 31,
@@ -531,7 +531,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Ohhhhhohohoho![1205][0008][SP]It's[SP]almost[SP]time![1205][000A][SP]We'll[SP]become\nIdealians--practically[SP]gods![1205][000A][SP]Ohhhhohohoho!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Ohhhhhohohoho![1205][0008] C'est l'heure![1205][000A] On va\ndevenir des Idéaliens! Ohhhhohohoho!"
+    "texte_fr": "Ohhhhhohohoho![1205][1205][0008] C'est l'heure![000A][1205][000A] On va\ndevenir des Idéaliens! Ohhhhohohoho!"
   },
   {
     "id": 33,
@@ -546,7 +546,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Ah,[SP]welcome.[1205][000A][SP]We[SP]sell[SP]only[SP]the[SP]finest[SP]clothes\nhere.[1205][000F][SP]What[SP]do[SP]you[SP]think?[1205][000A][SP]Feel[SP]free[SP]to[SP]buy\nwithout[SP]hesitation!\n[1208][0005]Buy[SP]armor\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Ah, bienvenue.[1205][000A] Que des vêtements\nsuperbes ici. Qu'en\npensez-vous?[1205][000A] N'hésitez pas\nà acheter!\n[1208][0005]Acheter armure\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter",
+    "texte_fr": "Ah, bienvenue.[1205][1205][000A] Que des vêtements\nsuperbes ici. [000F]Qu'en\npensez-vous?[1205][000A] N'hésitez pas\nà acheter!\n[1208][0005]Acheter armure\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter",
     "question_orig": "Ah,[SP]welcome.[1205][000A][SP]We[SP]sell[SP]only[SP]the[SP]finest[SP]clothes\nhere.[1205][000F][SP]What[SP]do[SP]you[SP]think?[1205][000A][SP]Feel[SP]free[SP]to[SP]buy\nwithout[SP]hesitation!",
     "choix_orig": [
       "Buy[SP]armor",
@@ -574,7 +574,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210][0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][0100]Armure de tête\n[111F]Armure\n[111F][1210][0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires",
     "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -604,7 +604,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210][0100]Sélection cachée\n[121D][0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[121D][0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[121D][0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
     "question_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -645,7 +645,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[0014]Non",
+    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]OuiNon",
     "question_orig": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?",
     "choix_orig": [
       "Yes",
@@ -745,7 +745,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]Oui[0014]Non",
+    "texte_fr": "Total: [120E][NULL] yens.\nÇa vous convient?\n[1208][0002]OuiNon",
     "question_orig": "Your[SP]total[SP]will[SP]be[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]okay?",
     "choix_orig": [
       "Yes",

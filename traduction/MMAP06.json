@@ -12,7 +12,7 @@
     "nom_orig": "Housewife",
     "texte_orig": "Guess[SP]what?[SP]You've[SP]noticed[SP]how[SP]this[SP]place[SP]is[SP]an\nisland[SP]surrounded[SP]by[SP]the[SP]Tanabata[SP]River,[SP]right?",
     "nom_fr": "Femme au foyer",
-    "texte_fr": "Cet endroit est une île\n dans la Tanabata, non ?[1106][NL]Rengedai veut dire [1432][NULL][NULL][0014]fleur de lotus.[1432][NULL][NULL][0014] Au printemps, vue d'en haut,\n on dirait un lotus flottant."
+    "texte_fr": "Cet endroit est une île\n dans la Tanabata, non ?[NL]Rengedai veut dire [NULL][NULL]fleur de lotus.[NULL][NULL] Au printemps, vue d'en haut,\n on dirait un lotus flottant."
   },
   {
     "id": 1,
@@ -102,7 +102,7 @@
     "nom_orig": "Housewife",
     "texte_orig": "Muses,[SP]right?[SP]I[SP]hear[SP]they're[SP]pretty[SP]popular.",
     "nom_fr": "Femme au foyer",
-    "texte_fr": "Muses, oui. Populaires.[1106][NL]Elles donnent déjà un concert\n à la salle en plein air."
+    "texte_fr": "Muses, oui. Populaires.[NL]Elles donnent déjà un concert\n à la salle en plein air."
   },
   {
     "id": 7,
@@ -162,7 +162,7 @@
     "nom_orig": "Housewife",
     "texte_orig": "I[SP]spoke[SP]with[SP]the[SP]woman[SP]next[SP]door,[SP]and[SP]we[SP]think\nthe[SP]things[SP]in[SP]that[SP]In[SP]Lak'ech[SP]are[SP]all[SP]true.",
     "nom_fr": "Femme au foyer",
-    "texte_fr": "Avec la voisine, on pense que tout l'In Lak'ech est vrai.[1106][NL]Tout ce qui est arrivé était prédit, non ?[1205][000F]\n Ils l'ont dit aux infos. Pas une coïncidence."
+    "texte_fr": "Avec la voisine, on pense que tout l'In Lak'ech est vrai.[NL]Tout ce qui est arrivé était prédit, non ?\n Ils l'ont dit aux infos. Pas une coïncidence."
   },
   {
     "id": 11,
@@ -192,7 +192,7 @@
     "nom_orig": "Housewife",
     "texte_orig": "I-I[SP]almost[SP]got[SP]attacked[SP]by[SP]those[SP]soldiers[SP]just\nnow...[1205][000F][SP]It[SP]was[SP]terrifying...[1205][000F]",
     "nom_fr": "Femme au foyer",
-    "texte_fr": "J'ai failli me faire attaquer par ces soldats...[1205][000F]\n Terrible...[1106][NL]Un membre du Cercle Masqué m'a sauvée ![1205][000F]\n Que se passe-t-il ?[1106][NL]J'avais mal jugé...[1205][000F]"
+    "texte_fr": "J'ai failli me faire attaquer par ces soldats...[1205][000F]\n Terrible...[NL]Un membre du Cercle Masqué m'a sauvée ![1205][000F]\n Que se passe-t-il ?[NL]J'avais mal jugé..."
   },
   {
     "id": 13,
@@ -237,7 +237,7 @@
     "nom_orig": "Housewife",
     "texte_orig": "Hey![1205][000F][SP]S-Some[SP]of[SP]those[SP]Masked[SP]Circle[SP]people\nsaw[SP]the[SP]shooting[SP]stars[SP]and[SP]said,[SP][1432][NULL][NULL][0014]It's[SP]the\nlion's[SP]roar![1432][NULL][NULL][0014][1205][000F]",
     "nom_fr": "Femme au foyer",
-    "texte_fr": "Hé ! Des gens du Cercle Masqué ont dit : [1432][NULL][NULL][0014]C'est le rugissement du lion ![1432][NULL][NULL][0014][1205][000F][1106][NL]C'est encore une phrase de l'Oracle, non ?\n L'In Lak'ech est donc vrai ![0014][1205][000F]"
+    "texte_fr": "Hé ! Des gens du Cercle Masqué ont dit : [1432][NULL][NULL][0014]C'est le rugissement du lion ![1432][NULL][NULL][0014][1205][000F][NL]C'est encore une phrase de l'Oracle, non ?\n L'In Lak'ech est donc vrai ![1205][000F]"
   },
   {
     "id": 16,
@@ -282,7 +282,7 @@
     "nom_orig": "Housewife",
     "texte_orig": "H-Hey![1205][000A][SP]You're[SP]a[SP]Sevens[SP]student,[SP]right?[1205][000A][SP]What's\nthat[SP]light[SP]coming[SP]out[SP]from[SP]your[SP]school?",
     "nom_fr": "Femme au foyer",
-    "texte_fr": "Hé ! Tu es de Seven ?[1205][000A] C'est quoi cette lumière\n qui sort de ton école ?[1106][NL]L'évolution a déjà commencé ?[1205][000A] Oh non,\n je ne suis pas prête !"
+    "texte_fr": "Hé ! Tu es de Seven ?[1205][000A] C'est quoi cette lumière\n qui sort de ton école ?[NL]L'évolution a déjà commencé ?[1205][000A] Oh non,\n je ne suis pas prête !"
   },
   {
     "id": 19,
@@ -357,7 +357,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "Wow,[SP]Kasugayama[SP]High's[SP]festival[SP]is[SP]the[SP]talk[SP]of\nthe[SP]town[SP]over[SP]in[SP]Hirasaka.",
     "nom_fr": "Employé de bureau",
-    "texte_fr": "La fête de Kasugayama fait jaser\n dans tout Hirasaka.[1106][NL]Les habitants sont contents que l'école du coin\n gagne en popularité."
+    "texte_fr": "La fête de Kasugayama fait jaser\n dans tout Hirasaka.[NL]Les habitants sont contents que l'école du coin\n gagne en popularité."
   },
   {
     "id": 24,
@@ -417,7 +417,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "So[SP]the[SP]third[SP]member's[SP]fluent[SP]in[SP]English...[1205][000F]\nI[SP]see...",
     "nom_fr": "Employé de bureau",
-    "texte_fr": "La 3e parle anglais couramment...[1205][000F]\n Je vois...[1106][NL]Une idole bilingue ?[1205][000F] J'aime ça. Ça fait intellectuel.\n J'ai hâte d'entendre son solo."
+    "texte_fr": "La 3e parle anglais couramment...[1205][000F]\n Je vois...[NL]Une idole bilingue ? J'aime ça. Ça fait intellectuel.\n J'ai hâte d'entendre son solo."
   },
   {
     "id": 28,
@@ -522,7 +522,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "These[SP]weird[SP]temples[SP]showed[SP]up[SP]in[SP]the[SP]other\nwards,[SP]right?[1205][000A][SP]The[SP]Masked[SP]Circle[SP]and[SP]Last\nBattalion[SP]were[SP]going[SP]in[SP]to[SP]fight[SP]each[SP]other!",
     "nom_fr": "Employé de bureau",
-    "texte_fr": "Ces étranges temples sont apparus ailleurs, non ?[1205][000A]\n Le Cercle Masqué et le Dernier Bataillon y entraient pour se battre ![1106][NL]Mais pourquoi aucun temple n'est apparu ici ?[1205][000F]\n Ça m'inquiète..."
+    "texte_fr": "Ces étranges temples sont apparus ailleurs, non ?[1205][000A]\n Le Cercle Masqué et le Dernier Bataillon y entraient pour se battre ![NL]Mais pourquoi aucun temple n'est apparu ici ?\n Ça m'inquiète..."
   },
   {
     "id": 35,
@@ -627,7 +627,7 @@
     "nom_orig": "Boy",
     "texte_orig": "My[SP]sister[SP]didn't[SP]come[SP]home[SP]after[SP]the[SP]Kasuga\nFestival...[SP]What's[SP]wrong[SP]with[SP]her?",
     "nom_fr": "Garçon",
-    "texte_fr": "Ma sœur n'est pas rentrée après le festival...\n Qu'est-ce qu'elle a ?[1106][NL]Tant pis. Quoi manger ?"
+    "texte_fr": "Ma sœur n'est pas rentrée après le festival...\n Qu'est-ce qu'elle a ?[NL]Tant pis. Quoi manger ?"
   },
   {
     "id": 42,
@@ -657,7 +657,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Mommy[SP]said[SP]I[SP]shouldn't[SP]go[SP]outside.[SP]She[SP]says\nit's[SP]dangerous.",
     "nom_fr": "Garçon",
-    "texte_fr": "Maman dit de ne pas sortir.\n C'est dangereux.[1106][NL]Je crois que j'attendais quelqu'un ici.[1205][000F]\n Je ne me souviens plus qui."
+    "texte_fr": "Maman dit de ne pas sortir.\n C'est dangereux.[NL]Je crois que j'attendais quelqu'un ici.\n Je ne me souviens plus qui."
   },
   {
     "id": 44,
@@ -732,7 +732,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Waaaaaah![SP]Waaaaaah![1205][000F][SP]I'm[SP]scaaaared![SP]Mommy!\nSister!",
     "nom_fr": "Garçon",
-    "texte_fr": "Waaaaaah ! J'ai peur !\n Maman ! Ma sœur !"
+    "texte_fr": "Waaaaaah ! [000F][1205]J'ai peur !\n Maman ! Ma sœur !"
   },
   {
     "id": 49,
@@ -807,7 +807,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Mommy[SP]says[SP]after[SP]the[SP]Grand[SP]Cross,[SP]there's[SP]gonna\nbe[SP]a[SP]huge[SP]earthquake[SP]and[SP]the[SP]Earth[SP]down[SP]there\nis[SP]gonna[SP]get[SP]uh-nye-a-lated.",
     "nom_fr": "Garçon",
-    "texte_fr": "Maman dit qu'après la Grande Croix, il y aura un grand tremblement de terre\n et que la Terre sera anéantie.[1106][NL]Personne ne veut me dire anéanti."
+    "texte_fr": "Maman dit qu'après la Grande Croix, il y aura un grand tremblement de terre\n et que la Terre sera anéantie.[NL]Personne ne veut me dire anéanti."
   },
   {
     "id": 54,
@@ -837,7 +837,7 @@
     "nom_orig": "Boy",
     "texte_orig": "After[SP]the[SP]Grand[SP]Cross,[SP]the[SP]Earth's[SP]gonna[SP]stop\nspinning.[1205][000A][SP]That's[SP]what[SP]my[SP]daddy[SP]said.",
     "nom_fr": "Garçon",
-    "texte_fr": "Après la Grande Croix, la Terre va s'arrêter.[1205][000A]\n C'est mon papa.[1106][NL]C'est ça, anéanti ? La Terre s'arrête ?[1205][000F]\n Je ne comprends pas."
+    "texte_fr": "Après la Grande Croix, la Terre va s'arrêter.[1205][000A]\n C'est mon papa.[NL]C'est ça, anéanti ? La Terre s'arrête ?\n Je ne comprends pas."
   },
   {
     "id": 56,
@@ -867,7 +867,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Um,[SP]someone[SP]told[SP]me[SP]there[SP]are[SP]flowers[SP]in[SP]Aoba\nPark[SP]that[SP]talk.[SP]But[SP]that[SP]sounds[SP]dumb.",
     "nom_fr": "Garçon",
-    "texte_fr": "Des fleurs qui parlent au parc d'Aoba ?\n Ça me paraît idiot.[1106][NL]Les fleurs n'ont pas de bouche !\n Elles parlent par pétales ?"
+    "texte_fr": "Des fleurs qui parlent au parc d'Aoba ?\n Ça me paraît idiot.[NL]Les fleurs n'ont pas de bouche !\n Elles parlent par pétales ?"
   },
   {
     "id": 58,
@@ -897,7 +897,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Hey,[SP]what's[SP]Zodiac[SP]like?[SP]'Cause[SP]my[SP]friend[SP]said\nthe[SP]second[SP]floor[SP]is[SP]this[SP]big[SP]dungeon[SP]with[SP]a\nlot[SP]of[SP]cool[SP]stuff.",
     "nom_fr": "Garçon",
-    "texte_fr": "C'est quoi Zodiac ? Mon pote dit que le 2e étage\n est un grand donjon avec des trucs cools.[1106][NL]Il y a un archidémon là-dedans.\n Il attend que les héros viennent."
+    "texte_fr": "C'est quoi Zodiac ? Mon pote dit que le 2e étage\n est un grand donjon avec des trucs cools.[NL]Il y a un archidémon là-dedans.\n Il attend que les héros viennent."
   },
   {
     "id": 60,
@@ -1017,7 +1017,7 @@
     "nom_orig": "Boy",
     "texte_orig": "What[SP]do[SP]I[SP]do...?[SP]I[SP]heard[SP]Kuchisake-onna[SP]is\nat[SP]Mt.[SP]Iwato.",
     "nom_fr": "Garçon",
-    "texte_fr": "Je fais quoi ? Kuchisake-onna est au mont Iwato.[1106][NL]Mon prof dit qu'elle poursuit ceux qui ne rentrent pas."
+    "texte_fr": "Je fais quoi ? Kuchisake-onna est au mont Iwato.[NL]Mon prof dit qu'elle poursuit ceux qui ne rentrent pas."
   },
   {
     "id": 68,
@@ -1047,7 +1047,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Um,[SP]I[SP]heard[SP]Jumping[SP]Geezer[SP]is[SP]at\nMt.[SP]Katatsumuri.",
     "nom_fr": "Garçon",
-    "texte_fr": "Le Sauteur Vieux est au mont Katatsumuri.[1106][NL]Le Sauteur Vieux, un type qui te court après\n et te piétine la tête."
+    "texte_fr": "Le Sauteur Vieux est au mont Katatsumuri.[NL]Le Sauteur Vieux, un type qui te court après\n et te piétine la tête."
   },
   {
     "id": 70,
@@ -1092,7 +1092,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Hey,[SP]I[SP]heard[SP]Giga[SP]Macho[SP]sells[SP]a[SP]secret[SP]CD.",
     "nom_fr": "Garçon",
-    "texte_fr": "Giga Macho vend un CD secret.[1106][NL]C'est comme un objet secret de jeu, non ?\n Bizarre."
+    "texte_fr": "Giga Macho vend un CD secret.[NL]C'est comme un objet secret de jeu, non ?\n Bizarre."
   },
   {
     "id": 73,
@@ -1122,7 +1122,7 @@
     "nom_orig": "Boy",
     "texte_orig": "I[SP]wonder[SP]if[SP]Dresser[SP]Hag[SP]is[SP]the[SP]monster[SP]my\nfriend[SP]Chii[SP]was[SP]talking[SP]about.",
     "nom_fr": "Garçon",
-    "texte_fr": "La Sorcière du Buffet, c'est le monstre\n dont mon pote Chii parlait ?[1106][NL]Donc il ne mentait pas en disant l'avoir vue à l'usine !"
+    "texte_fr": "La Sorcière du Buffet, c'est le monstre\n dont mon pote Chii parlait ?[NL]Donc il ne mentait pas en disant l'avoir vue à l'usine !"
   },
   {
     "id": 75,
@@ -1152,7 +1152,7 @@
     "nom_orig": "Boy",
     "texte_orig": "If[SP]you[SP]go[SP]to[SP]Time[SP]Castle,[SP]you[SP]can[SP]buy\nreal[SP]weapons!",
     "nom_fr": "Garçon",
-    "texte_fr": "Au Château du Temps, de vraies armes ![1106][NL]Elles sont correctes et le prix est normal."
+    "texte_fr": "Au Château du Temps, de vraies armes ![NL]Elles sont correctes et le prix est normal."
   },
   {
     "id": 77,
@@ -1182,7 +1182,7 @@
     "nom_orig": "Boy",
     "texte_orig": "If[SP]you[SP]go[SP]to[SP]Time[SP]Castle,[SP]you[SP]can[SP]buy\nreal[SP]weapons!",
     "nom_fr": "Garçon",
-    "texte_fr": "Au Château du Temps, de vraies armes ![1106][NL]Elles sont bonnes mais trop chères."
+    "texte_fr": "Au Château du Temps, de vraies armes ![NL]Elles sont bonnes mais trop chères."
   },
   {
     "id": 79,
@@ -1212,7 +1212,7 @@
     "nom_orig": "Boy",
     "texte_orig": "If[SP]you[SP]go[SP]to[SP]Time[SP]Castle,[SP]you[SP]can[SP]buy\nreal[SP]weapons!",
     "nom_fr": "Garçon",
-    "texte_fr": "Au Château du Temps, de vraies armes ![1106][NL]Bon marché mais pas terribles."
+    "texte_fr": "Au Château du Temps, de vraies armes ![NL]Bon marché mais pas terribles."
   },
   {
     "id": 81,
@@ -1242,7 +1242,7 @@
     "nom_orig": "Boy",
     "texte_orig": "I[SP]heard[SP]about[SP]a[SP]weapon[SP]store[SP]in[SP]Yumezaki\ncalled[SP]Tony's[SP]Shop.",
     "nom_fr": "Garçon",
-    "texte_fr": "Il y a un magasin d'armes à Yumezaki : Tony's Shop.[1106][NL]Ils vendent plein de trucs, mais reprennent pas cher."
+    "texte_fr": "Il y a un magasin d'armes à Yumezaki : Tony's Shop.[NL]Ils vendent plein de trucs, mais reprennent pas cher."
   },
   {
     "id": 83,
@@ -1272,7 +1272,7 @@
     "nom_orig": "Boy",
     "texte_orig": "I[SP]heard[SP]about[SP]a[SP]weapon[SP]store[SP]in[SP]Yumezaki\ncalled[SP]Tony's[SP]Shop.",
     "nom_fr": "Garçon",
-    "texte_fr": "Il y a un magasin d'armes à Yumezaki : Tony's Shop.[1106][NL]Bon marché, mais qualité moyenne."
+    "texte_fr": "Il y a un magasin d'armes à Yumezaki : Tony's Shop.[NL]Bon marché, mais qualité moyenne."
   },
   {
     "id": 85,
@@ -1302,7 +1302,7 @@
     "nom_orig": "Boy",
     "texte_orig": "I[SP]heard[SP]about[SP]a[SP]weapon[SP]store[SP]in[SP]Yumezaki\ncalled[SP]Tony's[SP]Shop.",
     "nom_fr": "Garçon",
-    "texte_fr": "Il y a un magasin d'armes à Yumezaki : Tony's Shop.[1106][NL]Trucs corrects, prix corrects."
+    "texte_fr": "Il y a un magasin d'armes à Yumezaki : Tony's Shop.[NL]Trucs corrects, prix corrects."
   },
   {
     "id": 87,
@@ -1332,7 +1332,7 @@
     "nom_orig": "Boy",
     "texte_orig": "I[SP]heard[SP]about[SP]a[SP]weapon[SP]store[SP]in[SP]Yumezaki\ncalled[SP]Tony's[SP]Shop.",
     "nom_fr": "Garçon",
-    "texte_fr": "Il y a un magasin d'armes à Yumezaki : Tony's Shop.[1106][NL]Beaux trucs, mais chers."
+    "texte_fr": "Il y a un magasin d'armes à Yumezaki : Tony's Shop.[NL]Beaux trucs, mais chers."
   },
   {
     "id": 89,
@@ -1362,7 +1362,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Is[SP]it[SP]true[SP]a[SP]restaurant[SP]in[SP]Aoba[SP]sells[SP]weapons?",
     "nom_fr": "Garçon",
-    "texte_fr": "Un resto à Aoba vend des armes, vrai ?[1106][NL]Cette dame a dit qu'ils ont peu de choix,\n mais reprennent bien."
+    "texte_fr": "Un resto à Aoba vend des armes, vrai ?[NL]Cette dame a dit qu'ils ont peu de choix,\n mais reprennent bien."
   },
   {
     "id": 91,
@@ -1392,7 +1392,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Is[SP]it[SP]true[SP]a[SP]restaurant[SP]in[SP]Aoba[SP]sells[SP]weapons?",
     "nom_fr": "Garçon",
-    "texte_fr": "Un resto à Aoba vend des armes, vrai ?[1106][NL]Bon marché, mais pas de super trucs,\n dit cette dame."
+    "texte_fr": "Un resto à Aoba vend des armes, vrai ?[NL]Bon marché, mais pas de super trucs,\n dit cette dame."
   },
   {
     "id": 93,
@@ -1422,7 +1422,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Is[SP]it[SP]true[SP]a[SP]restaurant[SP]in[SP]Aoba[SP]sells[SP]weapons?",
     "nom_fr": "Garçon",
-    "texte_fr": "Un resto à Aoba vend des armes, vrai ?[1106][NL]Belles choses, mais cher."
+    "texte_fr": "Un resto à Aoba vend des armes, vrai ?[NL]Belles choses, mais cher."
   },
   {
     "id": 95,
@@ -1452,7 +1452,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Is[SP]it[SP]true[SP]a[SP]restaurant[SP]in[SP]Aoba[SP]sells[SP]weapons?",
     "nom_fr": "Garçon",
-    "texte_fr": "Un resto à Aoba vend des armes, vrai ?[1106][NL]Cette dame a dit beaucoup de choix,\n mais reprises bas prix."
+    "texte_fr": "Un resto à Aoba vend des armes, vrai ?[NL]Cette dame a dit beaucoup de choix,\n mais reprises bas prix."
   },
   {
     "id": 97,
@@ -1482,7 +1482,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Is[SP]it[SP]true[SP]a[SP]restaurant[SP]in[SP]Aoba[SP]sells[SP]weapons?",
     "nom_fr": "Garçon",
-    "texte_fr": "Un resto à Aoba vend des armes, vrai ?[1106][NL]Cette dame sympa a dit : trucs corrects,\n prix normaux."
+    "texte_fr": "Un resto à Aoba vend des armes, vrai ?[NL]Cette dame sympa a dit : trucs corrects,\n prix normaux."
   },
   {
     "id": 99,
@@ -1512,7 +1512,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Guess[SP]what?[SP]If[SP]you[SP]go[SP]to[SP]the[SP]shop[SP]with[SP]a\nboat,[SP]you[SP]can[SP]buy[SP]real[SP]weapons.",
     "nom_fr": "Garçon",
-    "texte_fr": "Devine : au magasin avec un bateau,\n on achète de vraies armes.[1106][NL]Leurs trucs sont corrects,\n prix normaux."
+    "texte_fr": "Devine : au magasin avec un bateau,\n on achète de vraies armes.[NL]Leurs trucs sont corrects,\n prix normaux."
   },
   {
     "id": 101,
@@ -1542,7 +1542,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Guess[SP]what?[SP]If[SP]you[SP]go[SP]to[SP]the[SP]shop[SP]with[SP]a\nboat,[SP]you[SP]can[SP]buy[SP]real[SP]weapons.",
     "nom_fr": "Garçon",
-    "texte_fr": "Devine : au magasin avec un bateau,\n on achète de vraies armes.[1106][NL]Bon marché, mais pas de super trucs."
+    "texte_fr": "Devine : au magasin avec un bateau,\n on achète de vraies armes.[NL]Bon marché, mais pas de super trucs."
   },
   {
     "id": 103,
@@ -1572,7 +1572,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Guess[SP]what?[SP]If[SP]you[SP]go[SP]to[SP]the[SP]shop[SP]with[SP]a\nboat,[SP]you[SP]can[SP]buy[SP]real[SP]weapons.",
     "nom_fr": "Garçon",
-    "texte_fr": "Devine : au magasin avec un bateau,\n on achète de vraies armes.[1106][NL]Beaucoup de choix, mais tes reprises\n sont mal payées."
+    "texte_fr": "Devine : au magasin avec un bateau,\n on achète de vraies armes.[NL]Beaucoup de choix, mais tes reprises\n sont mal payées."
   },
   {
     "id": 105,
@@ -1602,7 +1602,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Guess[SP]what?[SP]If[SP]you[SP]go[SP]to[SP]the[SP]shop[SP]with[SP]a\nboat,[SP]you[SP]can[SP]buy[SP]real[SP]weapons.",
     "nom_fr": "Garçon",
-    "texte_fr": "Devine : au magasin avec un bateau,\n on achète de vraies armes.[1106][NL]Peu de choix, donc ils reprennent cher."
+    "texte_fr": "Devine : au magasin avec un bateau,\n on achète de vraies armes.[NL]Peu de choix, donc ils reprennent cher."
   },
   {
     "id": 107,
@@ -1632,7 +1632,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Guess[SP]what?[SP]If[SP]you[SP]go[SP]to[SP]the[SP]shop[SP]with[SP]a\nboat,[SP]you[SP]can[SP]buy[SP]real[SP]weapons.",
     "nom_fr": "Garçon",
-    "texte_fr": "Devine : au magasin avec un bateau,\n on achète de vraies armes.[1106][NL]Trucs géniaux, mais très chers."
+    "texte_fr": "Devine : au magasin avec un bateau,\n on achète de vraies armes.[NL]Trucs géniaux, mais très chers."
   },
   {
     "id": 109,
@@ -1707,7 +1707,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Um,[SP]I[SP]heard[SP]Anima[SP]Mundi[SP]in[SP]Yumezaki[SP]sells\nreal[SP]armor.[1205][000F]",
     "nom_fr": "Garçon",
-    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Une dame a dit : trucs corrects,\n prix normaux.[1205][000F]"
+    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[NL]Une dame a dit : trucs corrects,\n prix normaux.[1205][000F]"
   },
   {
     "id": 114,
@@ -1737,7 +1737,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Um,[SP]I[SP]heard[SP]Anima[SP]Mundi[SP]in[SP]Yumezaki[SP]sells\nreal[SP]armor.[1205][000F]",
     "nom_fr": "Garçon",
-    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Bon marché, pas terrible.[1205][000F]"
+    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[NL]Bon marché, pas terrible.[1205][000F]"
   },
   {
     "id": 116,
@@ -1767,7 +1767,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Um,[SP]I[SP]heard[SP]Anima[SP]Mundi[SP]in[SP]Yumezaki[SP]sells\nreal[SP]armor.[1205][000F]",
     "nom_fr": "Garçon",
-    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Une dame a dit beaucoup de choix,\n mais reprises bon marché.[1205][000F]"
+    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[NL]Une dame a dit beaucoup de choix,\n mais reprises bon marché.[1205][000F]"
   },
   {
     "id": 118,
@@ -1797,7 +1797,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Um,[SP]I[SP]heard[SP]Anima[SP]Mundi[SP]in[SP]Yumezaki[SP]sells\nreal[SP]armor.[1205][000F]",
     "nom_fr": "Garçon",
-    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Une dame a dit de bonnes choses,\n mais cher.[1205][000F]"
+    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[NL]Une dame a dit de bonnes choses,\n mais cher.[1205][000F]"
   },
   {
     "id": 120,
@@ -1827,7 +1827,7 @@
     "nom_orig": "Boy",
     "texte_orig": "I[SP]heard[SP]there's[SP]a[SP]Rosa[SP]Candida[SP]in[SP]Aoba[SP]too.\nAren't[SP]they[SP]also[SP]an[SP]armor[SP]shop?",
     "nom_fr": "Garçon",
-    "texte_fr": "Il y a aussi un Rosa Candida à Aoba.\n C'est un magasin d'armures, non ?[1106][NL]Quelqu'un a dit peu de choix,\n mais bonnes reprises."
+    "texte_fr": "Il y a aussi un Rosa Candida à Aoba.\n C'est un magasin d'armures, non ?[NL]Quelqu'un a dit peu de choix,\n mais bonnes reprises."
   },
   {
     "id": 122,
@@ -1992,7 +1992,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Do[SP]you[SP]know[SP]about[SP]magazine[SP]contests?[1205][000F][SP]I[SP]heard[SP]if\nyou[SP]win[SP]one,[SP]you[SP]get[SP]real[SP]weapons[SP]and[SP]stuff.",
     "nom_fr": "Garçon",
-    "texte_fr": "Tu connais les concours de magazines ?\n Si on gagne, on a des vraies armes.[1106][NL]On gagne rarement, mais les lots sont sympas."
+    "texte_fr": "Tu connais les concours de magazines ?\n [000F][1205]Si on gagne, on a des vraies armes.[NL]On gagne rarement, mais les lots sont sympas."
   },
   {
     "id": 133,
@@ -2022,7 +2022,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Do[SP]you[SP]know[SP]about[SP]magazine[SP]contests?[1205][000F][SP]I[SP]heard[SP]if\nyou[SP]win[SP]one,[SP]you[SP]get[SP]real[SP]weapons[SP]and[SP]stuff.",
     "nom_fr": "Garçon",
-    "texte_fr": "Tu connais les concours de magazines ?\n Si on gagne, on a des vraies armes.[1106][NL]On gagne rarement, mais les lots sont très rares."
+    "texte_fr": "Tu connais les concours de magazines ?\n [000F][1205]Si on gagne, on a des vraies armes.[NL]On gagne rarement, mais les lots sont très rares."
   },
   {
     "id": 135,
@@ -2052,7 +2052,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Do[SP]you[SP]know[SP]about[SP]magazine[SP]contests?[1205][000F][SP]I[SP]heard[SP]if\nyou[SP]win[SP]one,[SP]you[SP]get[SP]real[SP]weapons[SP]and[SP]stuff.",
     "nom_fr": "Garçon",
-    "texte_fr": "Tu connais les concours de magazines ?\n Si on gagne, on a des vraies armes.[1106][NL]On gagne souvent, des trucs ennuyeux."
+    "texte_fr": "Tu connais les concours de magazines ?\n [000F][1205]Si on gagne, on a des vraies armes.[NL]On gagne souvent, des trucs ennuyeux."
   },
   {
     "id": 137,
@@ -2082,7 +2082,7 @@
     "nom_orig": "Boy",
     "texte_orig": "I[SP]know[SP]what[SP]a[SP]casino[SP]is![SP]They[SP]have[SP]stuff[SP]like\nslots[SP]and[SP]races.[SP]Mu[SP]has[SP]one,[SP]right?",
     "nom_fr": "Garçon",
-    "texte_fr": "Je sais ce qu'est un casino !\n Machines à sous, courses. Mu en a un, non ?[1106][NL]Le poker est le meilleur jeu là-bas,\n mais je ne sais pas y jouer."
+    "texte_fr": "Je sais ce qu'est un casino !\n Machines à sous, courses. Mu en a un, non ?[NL]Le poker est le meilleur jeu là-bas,\n mais je ne sais pas y jouer."
   },
   {
     "id": 139,
@@ -2112,7 +2112,7 @@
     "nom_orig": "Boy",
     "texte_orig": "I[SP]know[SP]what[SP]a[SP]casino[SP]is![SP]They[SP]have[SP]stuff[SP]like\nslots[SP]and[SP]races.[SP]Mu[SP]has[SP]one,[SP]right?",
     "nom_fr": "Garçon",
-    "texte_fr": "Je sais ce qu'est un casino !\n Machines à sous, courses. Mu en a un, non ?[1106][NL]Machines à sous : le top. Je sais y jouer !\n Grosse gagne sur la n°1."
+    "texte_fr": "Je sais ce qu'est un casino !\n Machines à sous, courses. Mu en a un, non ?[NL]Machines à sous : le top. Je sais y jouer !\n Grosse gagne sur la n°1."
   },
   {
     "id": 141,
@@ -2142,7 +2142,7 @@
     "nom_orig": "Boy",
     "texte_orig": "I[SP]know[SP]what[SP]a[SP]casino[SP]is![SP]They[SP]have[SP]stuff[SP]like\nslots[SP]and[SP]races.[SP]Mu[SP]has[SP]one,[SP]right?",
     "nom_fr": "Garçon",
-    "texte_fr": "Je sais ce qu'est un casino !\n Machines à sous, courses. Mu en a un, non ?[1106][NL]Blackjack est bon là-bas, mais je ne sais pas.\n Vous savez, monsieur ?"
+    "texte_fr": "Je sais ce qu'est un casino !\n Machines à sous, courses. Mu en a un, non ?[NL]Blackjack est bon là-bas, mais je ne sais pas.\n Vous savez, monsieur ?"
   },
   {
     "id": 143,
@@ -2172,7 +2172,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Is[SP]there[SP]really[SP]a[SP]legendary[SP]weapon[SP]at[SP]the[SP]ramen\nshop?[1205][000F][SP]Some[SP]lady[SP]said[SP]so[SP]a[SP]minute[SP]ago.[SP]Wow,[SP]I\ndidn't[SP]know[SP]those[SP]really[SP]existed!",
     "nom_fr": "Garçon",
-    "texte_fr": "Une arme légendaire au resto de ramen ?\n Une dame vient de le dire. Je ne savais pas que ça existait !"
+    "texte_fr": "Une arme légendaire au resto de ramen ?\n [000F][1205]Une dame vient de le dire. Je ne savais pas que ça existait !"
   },
   {
     "id": 145,
@@ -2187,7 +2187,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Is[SP]it[SP]true[SP]there's[SP]a[SP]legendary[SP]weapon[SP]at[SP]the\nrestaurant[SP]in[SP]Aoba?[1205][000F][SP]Would[SP]it[SP]be[SP]in[SP]a[SP]dresser?",
     "nom_fr": "Garçon",
-    "texte_fr": "Une arme légendaire dans le resto d'Aoba ?\n Dans un buffet ?"
+    "texte_fr": "Une arme légendaire dans le resto d'Aoba ?\n [000F][1205]Dans un buffet ?"
   },
   {
     "id": 146,
@@ -2217,7 +2217,7 @@
     "nom_orig": "Boy",
     "texte_orig": "I[SP]wonder[SP]why[SP]the[SP]man[SP]at[SP]Time[SP]Castle[SP]won't[SP]go\nget[SP]his[SP]legendary[SP]weapon.",
     "nom_fr": "Garçon",
-    "texte_fr": "Pourquoi ne pas chercher son arme légendaire ?[1106][NL]Il n'a qu'à battre les monstres\n à l'usine abandonnée."
+    "texte_fr": "Pourquoi ne pas chercher son arme légendaire ?[NL]Il n'a qu'à battre les monstres\n à l'usine abandonnée."
   },
   {
     "id": 148,
@@ -2262,7 +2262,7 @@
     "nom_orig": "Boy",
     "texte_orig": "I[SP]heard[SP]a[SP]lady[SP]bought[SP]the[SP]legendary[SP]weapon\nat[SP]Time[SP]Castle.",
     "nom_fr": "Garçon",
-    "texte_fr": "Une dame a acheté l'arme légendaire.[1106][NL]Son fils a grandi et part en voyage,\n alors elle va la lui donner en cadeau.\n C'est toujours comme ça."
+    "texte_fr": "Une dame a acheté l'arme légendaire.[NL]Son fils a grandi et part en voyage,\n alors elle va la lui donner en cadeau.\n C'est toujours comme ça."
   },
   {
     "id": 151,
@@ -2292,7 +2292,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Um,[SP]I[SP]heard[SP]the[SP]man[SP]at[SP]Time[SP]Castle[SP]gave[SP]his\nlegendary[SP]weapon[SP]to[SP]a[SP]lady[SP]with[SP]short[SP]hair.",
     "nom_fr": "Garçon",
-    "texte_fr": "Le gars du Château du Temps a donné son arme\n à une dame aux cheveux courts.[1106][NL]Je parie que c'est une princesse, elle garde l'arme\n pour le héros. C'est ça, monsieur ?"
+    "texte_fr": "Le gars du Château du Temps a donné son arme\n à une dame aux cheveux courts.[NL]Je parie que c'est une princesse, elle garde l'arme\n pour le héros. C'est ça, monsieur ?"
   },
   {
     "id": 153,
@@ -2367,7 +2367,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "I[SP]heard[SP]at[SP]Honmaru[SP]Park[SP]that[SP]a[SP]store[SP]in[SP]Yumezaki\nsells[SP]real[SP]armor[SP]alongside[SP]regular[SP]clothes.\nWhat[SP]a[SP]dangerous[SP]place[SP]this[SP]world's[SP]become...",
     "nom_fr": "Vieil homme",
-    "texte_fr": "J'ai entendu au parc Honmaru qu'un magasin à Yumezaki\n vend des armures avec des vêtements. Dans quel monde dangereux on vit...[1106][NL]Si tu veux en savoir plus, commence par visiter le parc Honmaru.[1106][NL]J'ai entendu cette histoire d'un SDF."
+    "texte_fr": "J'ai entendu au parc Honmaru qu'un magasin à Yumezaki\n vend des armures avec des vêtements. Dans quel monde dangereux on vit...[NL]Si tu veux en savoir plus, commence par visiter le parc Honmaru.[NL]J'ai entendu cette histoire d'un SDF."
   },
   {
     "id": 158,
@@ -2427,7 +2427,7 @@
     "nom_orig": "Old[SP]man[121D][0001]",
     "texte_orig": "Well,[SP]it[SP]appears[SP]this[SP]Masked[SP]Circle[SP]is[SP]quite\nthe[SP]frightening[SP]group.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Eh bien, ce Cercle Masqué est un groupe assez effrayant.[1106][NL]À mon âge, je préfère éviter ces gens.\n Croisons les doigts..."
+    "texte_fr": "Eh bien, ce Cercle Masqué est un groupe assez effrayant.[NL]À mon âge, je préfère éviter ces gens.\n Croisons les doigts..."
   },
   {
     "id": 162,
@@ -2502,7 +2502,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "If[SP]folks[SP]like[SP]that[SP]are[SP]really[SP]here,[SP]does[SP]that\nmean[SP]there[SP]is[SP]such[SP]a[SP]thing[SP]as[SP]Xibalba[SP]under\nthis[SP]city?",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Si des gens comme ça sont ici, cela signifie-t-il\n qu'il existe un Xibalba sous cette ville ?[1106][NL]Jamais rien vu de tel ici."
+    "texte_fr": "Si des gens comme ça sont ici, cela signifie-t-il\n qu'il existe un Xibalba sous cette ville ?[NL]Jamais rien vu de tel ici."
   },
   {
     "id": 167,
@@ -2532,7 +2532,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "I'm[SP]too[SP]old[SP]to[SP]evolve![1205][000A][SP]I'm[SP]more[SP]worried[SP]about\nwhat's[SP]happening[SP]down[SP]there.[1205][000A][SP]It'll[SP]all[SP]be\ndestroyed[SP]when[SP]the[SP]stars[SP]align,[SP]no?",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Je suis trop vieux pour évoluer ![1205][000A]\n Je m'inquiète pour en bas.[1205][000A] Destruction quand les étoiles s'alignent, non ?[1106][NL]J'ai des amis en bas...[1205][000F]\n Rien que je puisse faire pour eux ?"
+    "texte_fr": "Je suis trop vieux pour évoluer ![1205][000A]\n Je m'inquiète pour en bas.[1205][000A] Destruction quand les étoiles s'alignent, non ?[NL]J'ai des amis en bas...\n Rien que je puisse faire pour eux ?"
   },
   {
     "id": 169,
@@ -2562,7 +2562,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "The[SP]people[SP]in[SP]this[SP]city[SP]are[SP]appalling.[1205][000A][SP]They\nknow[SP]they're[SP]safe,[SP]so[SP]they're[SP]imagining[SP]what\nmight[SP]destroy[SP]the[SP]Earth[SP]below.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Les gens sont épouvantables.[1205][000A]\n En sécurité, ils imaginent la destruction de la Terre.[1106][NL]À quoi bon si des gens comme eux évoluent ?[1205][000F]\n Je n'ai pas beaucoup d'espoir..."
+    "texte_fr": "Les gens sont épouvantables.[1205][000A]\n En sécurité, ils imaginent la destruction de la Terre.[NL]À quoi bon si des gens comme eux évoluent ?\n Je n'ai pas beaucoup d'espoir..."
   },
   {
     "id": 171,
@@ -2607,7 +2607,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "Sounds[SP]like[SP]the[SP]Earth's[SP]rotation[SP]will[SP]stop[SP]when\nthe[SP]stars[SP]align...[1205][000A][SP]Everything[SP]on[SP]Earth[SP]will[SP]get\nblasted[SP]away...",
     "nom_fr": "Vieil homme",
-    "texte_fr": "La Terre va s'arrêter quand les étoiles s'aligneront...[1205][000A]\n Tout sera pulvérisé...[1106][NL]Pourquoi Dieu nous fait-il ça ?"
+    "texte_fr": "La Terre va s'arrêter quand les étoiles s'aligneront...[1205][000A]\n Tout sera pulvérisé...[NL]Pourquoi Dieu nous fait-il ça ?"
   },
   {
     "id": 174,
@@ -2637,7 +2637,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "Sounds[SP]like[SP]the[SP]Earth's[SP]rotation[SP]will[SP]stop[SP]when\nthe[SP]stars[SP]align...[1205][000A][SP]Everything[SP]on[SP]Earth[SP]will[SP]get\nblasted[SP]away...",
     "nom_fr": "Vieil homme",
-    "texte_fr": "La Terre va s'arrêter quand les étoiles s'aligneront...[1205][000A]\n Tout sera pulvérisé...[1106][NL]Pourquoi Dieu nous fait-il ça ?"
+    "texte_fr": "La Terre va s'arrêter quand les étoiles s'aligneront...[1205][000A]\n Tout sera pulvérisé...[NL]Pourquoi Dieu nous fait-il ça ?"
   },
   {
     "id": 176,
@@ -2682,7 +2682,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "It[SP]seems[SP]that[SP]club[SP]called[SP]Zodiac[SP]is[SP]one[SP]big\nmonster's[SP]den[SP]now.[SP]Some[SP]young'uns[SP]were[SP]getting\nexcited[SP]to[SP]venture[SP]in[SP]there.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Le club Zodiac est devenu un antre de monstres.\n Des jeunes étaient tout excités à l'idée d'y aller.[1106][NL]Un trésor...[1205][000F] Plus on en trouve, plus grand danger.\n N'y va pas imprudemment."
+    "texte_fr": "Le club Zodiac est devenu un antre de monstres.\n Des jeunes étaient tout excités à l'idée d'y aller.[NL]Un trésor... Plus on en trouve, plus grand danger.\n N'y va pas imprudemment."
   },
   {
     "id": 179,
@@ -2712,7 +2712,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "From[SP]what[SP]I've[SP]heard,[SP]that[SP]ghost[SP]Hanako[SP]is\nat[SP]Sevens.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Hanako est à Seven.[1106][NL]Maladie étrange, statue qui marche, et ça ?\n C'est la pire école."
+    "texte_fr": "Hanako est à Seven.[NL]Maladie étrange, statue qui marche, et ça ?\n C'est la pire école."
   },
   {
     "id": 181,
@@ -2757,7 +2757,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "People[SP]who[SP]die[SP]with[SP]attachments[SP]to[SP]this[SP]world\ncan't[SP]find[SP]peace[SP]and[SP]end[SP]up[SP]wandering[SP]the[SP]Earth.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Ceux qui meurent avec des attaches n'ont pas la paix\n et errent.[1106][NL]L'idole dont le fantôme est au parc d'Aoba, c'est ça."
+    "texte_fr": "Ceux qui meurent avec des attaches n'ont pas la paix\n et errent.[NL]L'idole dont le fantôme est au parc d'Aoba, c'est ça."
   },
   {
     "id": 184,
@@ -2787,7 +2787,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "I[SP]wouldn't[SP]go[SP]near[SP]the[SP]abandoned[SP]factory[SP]if\nI[SP]was[SP]you,[SP]boy.[SP]There's[SP]a[SP]Cursed[SP]Taxi[SP]parked\nthere.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "N'approche pas l'usine abandonnée.\n Un Taxi Maudit y est garé.[1106][NL]Ne réveille pas le chat qui dort...\n Sois prudent."
+    "texte_fr": "N'approche pas l'usine abandonnée.\n Un Taxi Maudit y est garé.[NL]Ne réveille pas le chat qui dort...\n Sois prudent."
   },
   {
     "id": 186,
@@ -2817,7 +2817,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "Sounds[SP]like[SP]there's[SP]a[SP]monster[SP]called[SP]a[SP]Cursed\nEscort[SP]at[SP]the[SP]abandoned[SP]factory.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Il y a un monstre appelé Escorte Maudite\n à l'usine abandonnée.[1106][NL]On dit qu'elle renverse les gens nuit après nuit...\n Terrible."
+    "texte_fr": "Il y a un monstre appelé Escorte Maudite\n à l'usine abandonnée.[NL]On dit qu'elle renverse les gens nuit après nuit...\n Terrible."
   },
   {
     "id": 188,
@@ -2967,7 +2967,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "That[SP]young'un[SP]Tony[SP]was[SP]selling[SP]weapons\nafter[SP]all!",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Ce jeune Tony vendait donc des armes ![1106][NL]Les gens comme lui ne valent rien.\n Bon choix, reprises basses."
+    "texte_fr": "Ce jeune Tony vendait donc des armes ![NL]Les gens comme lui ne valent rien.\n Bon choix, reprises basses."
   },
   {
     "id": 198,
@@ -2997,7 +2997,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "That[SP]young'un[SP]Tony[SP]was[SP]selling[SP]weapons\nafter[SP]all!",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Ce jeune Tony vendait donc des armes ![1106][NL]Les gens comme lui ne valent rien.\n Prix bas, camelote."
+    "texte_fr": "Ce jeune Tony vendait donc des armes ![NL]Les gens comme lui ne valent rien.\n Prix bas, camelote."
   },
   {
     "id": 200,
@@ -3027,7 +3027,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "That[SP]young'un[SP]Tony[SP]was[SP]selling[SP]weapons\nafter[SP]all!",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Ce jeune Tony vendait donc des armes ![1106][NL]Les gens comme lui ne valent rien.\n Qualité et prix moyens."
+    "texte_fr": "Ce jeune Tony vendait donc des armes ![NL]Les gens comme lui ne valent rien.\n Qualité et prix moyens."
   },
   {
     "id": 202,
@@ -3057,7 +3057,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "That[SP]young'un[SP]Tony[SP]was[SP]selling[SP]weapons\nafter[SP]all!",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Ce jeune Tony vendait donc des armes ![1106][NL]Les gens comme lui ne valent rien.\n Qualité mais cher."
+    "texte_fr": "Ce jeune Tony vendait donc des armes ![NL]Les gens comme lui ne valent rien.\n Qualité mais cher."
   },
   {
     "id": 204,
@@ -3162,7 +3162,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]visit\nJolly[SP]Roger[SP]in[SP]Kounan.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Au Jolly Roger à Kounan, on peut acheter de vraies armes.[1106][NL]Qualité et prix ordinaires, mais vendre des armes\n n'a rien d'ordinaire."
+    "texte_fr": "Au Jolly Roger à Kounan, on peut acheter de vraies armes.[NL]Qualité et prix ordinaires, mais vendre des armes\n n'a rien d'ordinaire."
   },
   {
     "id": 211,
@@ -3192,7 +3192,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]visit\nJolly[SP]Roger[SP]in[SP]Kounan.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Au Jolly Roger à Kounan, on peut acheter de vraies armes.[1106][NL]Prix corrects, mais qualité à désirer."
+    "texte_fr": "Au Jolly Roger à Kounan, on peut acheter de vraies armes.[NL]Prix corrects, mais qualité à désirer."
   },
   {
     "id": 213,
@@ -3222,7 +3222,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]visit\nJolly[SP]Roger[SP]in[SP]Kounan.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Au Jolly Roger à Kounan, on peut acheter de vraies armes.[1106][NL]Bon choix, reprises bon marché."
+    "texte_fr": "Au Jolly Roger à Kounan, on peut acheter de vraies armes.[NL]Bon choix, reprises bon marché."
   },
   {
     "id": 215,
@@ -3252,7 +3252,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]visit\nJolly[SP]Roger[SP]in[SP]Kounan.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Au Jolly Roger à Kounan, on peut acheter de vraies armes.[1106][NL]Peu de choix, reprises élevées."
+    "texte_fr": "Au Jolly Roger à Kounan, on peut acheter de vraies armes.[NL]Peu de choix, reprises élevées."
   },
   {
     "id": 217,
@@ -3282,7 +3282,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]visit\nJolly[SP]Roger[SP]in[SP]Kounan.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Au Jolly Roger à Kounan, on peut acheter de vraies armes.[1106][NL]Qualité excellente, mais cher."
+    "texte_fr": "Au Jolly Roger à Kounan, on peut acheter de vraies armes.[NL]Qualité excellente, mais cher."
   },
   {
     "id": 219,
@@ -3312,7 +3312,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "Seems[SP]Rosa[SP]Candida[SP]sells[SP]real[SP]armor.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Rosa Candida vend des armures.[1106][NL]Des casques, plastrons, etc.\n Qualité et prix moyens."
+    "texte_fr": "Rosa Candida vend des armures.[NL]Des casques, plastrons, etc.\n Qualité et prix moyens."
   },
   {
     "id": 221,
@@ -3342,7 +3342,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "Seems[SP]Rosa[SP]Candida[SP]sells[SP]real[SP]armor.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Rosa Candida vend des armures.[1106][NL]Des casques, plastrons... Prix super,\n qualité manquante."
+    "texte_fr": "Rosa Candida vend des armures.[NL]Des casques, plastrons... Prix super,\n qualité manquante."
   },
   {
     "id": 223,
@@ -3372,7 +3372,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "Seems[SP]Rosa[SP]Candida[SP]sells[SP]real[SP]armor.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Rosa Candida vend des armures.[1106][NL]Casques, plastrons... Qualité excellente,\n prix exorbitants."
+    "texte_fr": "Rosa Candida vend des armures.[NL]Casques, plastrons... Qualité excellente,\n prix exorbitants."
   },
   {
     "id": 225,
@@ -3402,7 +3402,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "I've[SP]heard[SP]you[SP]can[SP]buy[SP]real[SP]armor[SP]at[SP]Anima\nMundi[SP]in[SP]Yumezaki.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "On peut acheter des armures à Anima Mundi, Yumezaki.[1106][NL]Qualité et prix normaux... Mais porter une armure en ville,\n rien de normal."
+    "texte_fr": "On peut acheter des armures à Anima Mundi, Yumezaki.[NL]Qualité et prix normaux... Mais porter une armure en ville,\n rien de normal."
   },
   {
     "id": 227,
@@ -3972,7 +3972,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "This[SP]is...[1205][000F][SP]It's[SP]Mt.[SP]Iwato...",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est... le mont Iwato..."
+    "texte_fr": "C'est.[1205].[000F]. le mont Iwato..."
   },
   {
     "id": 265,
@@ -4062,7 +4062,7 @@
     "nom_orig": "Old[SP]man[SP]playing[SP]dumb",
     "texte_orig": "I[SP]saw[SP]her[SP]at[SP]Mt.[SP]Iwato.[1205][000F][SP]You[SP]know[SP]who[SP]I[SP]mean...\nThat[SP][E4][NULL][NULL][0006]urban[SP]legend,[SP]Kuchisake-onna[E4][NULL][NULL][0002].[SP]I[SP]saw[SP]a\nwoman[SP]wearing[SP]a[SP]mask[SP]out[SP]there.",
     "nom_fr": "Vieil homme qui fait le sourd",
-    "texte_fr": "Je l'ai vue au mont Iwato.[1205][000F]\n Cette [E4][NULL][NULL][0006]légende urbaine, Kuchisake-onna[E4][NULL][NULL][0002].\n J'ai vu une femme masquée.[1106][NL]Sous ce masque, une bouche fendue d'une oreille à l'autre.[1106][NL]Ma femme dit que j'en fais trop, elle ne me croit pas.[1106][NL]Gamin, prouve que Kuchisake-onna est là.[1106][NL]Je te revaudrai ça. Compte sur toi !"
+    "texte_fr": "Je l'ai vue au mont Iwato.[1205][000F]\n Cette [E4][NULL][NULL][0006]légende urbaine, Kuchisake-onna[E4][NULL][NULL][0002].\n J'ai vu une femme masquée.[NL]Sous ce masque, une bouche fendue d'une oreille à l'autre.[NL]Ma femme dit que j'en fais trop, elle ne me croit pas.[NL]Gamin, prouve que Kuchisake-onna est là.[NL]Je te revaudrai ça. Compte sur toi !"
   },
   {
     "id": 271,
@@ -4152,7 +4152,7 @@
     "nom_orig": "Old[SP]man[SP]playing[SP]dumb",
     "texte_orig": "Hm?[1205][000A][SP]Ohhhhh![1205][000F][SP]That's[SP]it![SP][E4][NULL][NULL][0006]Kuchisake-onna's[SP]mask[E4][NULL][NULL][0002]![1205][000F]\nKid,[SP]I[SP]gotta[SP]thank[SP]you[SP]for[SP]bringing[SP]it[SP]to[SP]me!",
     "nom_fr": "Vieil homme qui fait le sourd",
-    "texte_fr": "Ohhhhh ![1205][000F] C'est ça !\n [E4][NULL][NULL][0006]Le masque de Kuchisake-onna[E4][NULL][NULL][0002] ![1205][000F]\n Merci de me l'avoir apporté ![1106][NL]Comme je l'ai dit, je te revaudrai ça.\n Tiens, une [E4][NULL][NULL][0004][1433][NULL][NULL][0004]Carte Megido[E4][NULL][NULL][0002].\n Elle est à toi !"
+    "texte_fr": "Ohhhhh ![000A][1205][1205][000F] C'est ça !\n [E4][NULL][NULL][0006]Le masque de Kuchisake-onna[E4][NULL][NULL][0002] ![1205][000F]\n Merci de me l'avoir apporté ![NL]Comme je l'ai dit, je te revaudrai ça.\n Tiens, une [E4][NULL][NULL][NULL][NULL]Carte Megido[E4][NULL][NULL].\n Elle est à toi !"
   },
   {
     "id": 277,
@@ -4182,7 +4182,7 @@
     "nom_orig": "Old[SP]man[SP]playing[SP]dumb",
     "texte_orig": "My[SP]wife[SP]will[SP]have[SP]to[SP]believe[SP]me[SP]once[SP]she\nsees[SP]this.",
     "nom_fr": "Vieil homme qui fait le sourd",
-    "texte_fr": "Ma femme me croira en voyant ça.[1106][NL]... Cette Kuchisake-onna se parlait tout le temps toute seule.[1106][NL][1432][NULL][NULL][0014]Déguisement trop voyant ?[1432][NULL][NULL][0014]\n Ou [1432][NULL][NULL][0014][1113]-kun à l'agence ?[1432][NULL][NULL][0014][1205][000F]\n Drôle de monstre..."
+    "texte_fr": "Ma femme me croira en voyant ça.[NL]... Cette Kuchisake-onna se parlait tout le temps toute seule.[NL][NULL][NULL]Déguisement trop voyant ?[NULL][NULL]\n Ou [NULL][NULL]-kun à l'agence ?[NULL][NULL]\n Drôle de monstre..."
   },
   {
     "id": 279,

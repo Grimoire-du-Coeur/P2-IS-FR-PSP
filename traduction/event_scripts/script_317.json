@@ -162,7 +162,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Ng[SP]Hoh[SP]Yi![SP]There[SP]are[SP]plenty[SP]of[SP]other[SP]places[SP]we\ncan[SP]go[SP]for[SP]healing![1205][000F][SP]What[SP]if[SP]he[SP]gives[SP]us[SP]the\nbad[SP]touch[SP]while[SP]we're[SP]asleep!?",
     "nom_fr": "Ginko",
-    "texte_fr": "Ng Hoh Yi! Il y a plein d'autres\nlieux pour se soigner! Et s'il nous\ntouche mal pendant qu'on dort!?"
+    "texte_fr": "Ng Hoh Yi! Il y a plein d'autres\nlieux pour se soigner! [000F][1205]Et s'il nous\ntouche mal pendant qu'on dort!?"
   },
   {
     "id": 11,
@@ -222,7 +222,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "There[SP]would've[SP]been[SP]tons[SP]of[SP]people[SP]at[SP]Smile\nHirasaka...[SP]They[SP]had[SP]nothing[SP]to[SP]do[SP]with[SP]this...[1205][000F]\nSomething's[SP]wrong[SP]with[SP]that[SP]King[SP]Leo[SP]guy!",
     "nom_fr": "Ginko",
-    "texte_fr": "Il y aurait eu une foule à Smile\nHirasaka... Ils n'avaient rien à voir avec\nça... Le Roi Lion est complètement cinglé!"
+    "texte_fr": "Il y aurait eu une foule à Smile\nHirasaka... Ils n'avaient rien à voir avec\n[1205]ça.[000F].. Le Roi Lion est complètement cinglé!"
   },
   {
     "id": 15,
@@ -401,7 +401,7 @@
     "nom_orig": "Maya",
     "texte_orig": "The[SP]concert...[SP]If[SP]the[SP]Masked[SP]Circle[SP]is[SP]part[SP]of\nthis,[SP]those[SP]friends[SP]of[SP]Lisa[SP]could[SP]be[SP]members...[1205][000F]\nNo,[SP]I[SP]shouldn't[SP]jump[SP]to[SP]conclusions.",
     "nom_fr": "Maya",
-    "texte_fr": "Le concert... Si le Cercle masqué est\nimpliqué, les amis de Lisa pourraient en\nfaire partie... Non, pas de conclusions."
+    "texte_fr": "Le concert... Si le Cercle masqué est\nimpliqué, les amis de Lisa pourraient en\n[1205]faire partie.[000F].. Non, pas de conclusions."
   },
   {
     "id": 26,
@@ -461,7 +461,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hahaha...[1205][000F][SP]No[SP]need[SP]to[SP]worry.[SP]Everyone[SP]in[SP]Sumaru\nwill[SP]believe[SP]in[SP]the[SP]In[SP]Lak'ech[SP]soon.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nIn[SP]due[SP]time,[SP]that[SP]book's[SP]prophecies[SP]will\nbecome[SP]reality.",
     "nom_fr": "Maya",
-    "texte_fr": "Hahaha... Pas de soucis. Sumaru croira en\nl'In Lak'ech bientôt.[E1][E2] [E3][E4][NULL][NULL]\"Maya\n Bientôt, les\nprophéties de ce livre deviendront réalité."
+    "texte_fr": "Hahaha.[000F][1205].. Pas de soucis. Sumaru croira en\nl'In Lak'ech bientôt.[E1][E2] [E3][E4][NULL][NULL]\"Maya\n Bientôt, les\nprophéties de ce livre deviendront réalité."
   },
   {
     "id": 30,
@@ -566,7 +566,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "What[SP]was[SP]it[SP]that[SP]teacher[SP]mistook[SP]us[SP]for?[1205][000A]\nI[SP]heard[SP]her[SP]say[SP][1432][NULL][NULL][0014]Last[1432][NULL][NULL][0014][SP]something...[1205][000F][SP]Didn't\nring[SP]any[SP]bells.",
     "nom_fr": "Yukino",
-    "texte_fr": "Pourquoi la prof nous a-t-elle pris?[1205][000A] Elle a\ndit [1432][NULL][NULL][0014]Last[1432][NULL][NULL][0014] un truc... Ça me dit rien du tout."
+    "texte_fr": "Pourquoi la prof nous a-t-elle pris?[1205][1205][000A] Elle a\ndit [1432][NULL][NULL][0014]Last[1432][NULL][NULL][0014] un truc.[000F].. Ça me dit rien du tout."
   },
   {
     "id": 37,
@@ -768,7 +768,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Hm?[SP]But[SP]you're[SP]all[SP]in[SP]perfect[SP]health.[1205][000F][SP]Overdoing\nit[SP]is[SP]worse[SP]than[SP]underdoing[SP]it.[1205][000A][SP]There's[SP]no[SP]need\nfor[SP]me[SP]to[SP]treat[SP]you.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Hm? Mais vous êtes en parfaite\nsanté. En faire trop est pire que\npas assez.[1205][000A] Inutile de vous traiter."
+    "texte_fr": "Hm? Mais vous êtes en parfaite\n[000F][1205]santé. En faire trop est pire que\npas assez.[1205][000A] Inutile de vous traiter."
   },
   {
     "id": 49,
@@ -798,7 +798,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Le soin coûtera 1200 yens.\nVous voulez le faire?\n[1208][0002]Oui[0014]Non",
+    "texte_fr": "Le soin coûtera 1200 yens.\nVous voulez le faire?\n[1208][0002]OuiNon",
     "question_orig": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?",
     "choix_orig": [
       "Yes",
@@ -838,7 +838,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Oh[SP]dear...[1205][000A][SP]But[SP]those[SP]wounds[SP]will[SP]be[SP]healed[SP]in\nan[SP]instant[SP]once[SP]my[SP]magic[SP]fingers[SP]do[SP]their[SP]work![1205][000F]\nDon't[SP]overexert[SP]yourself,[SP]now.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Oh dieu...[1205][000A] Mais ces blessures seront\nsoignées en un instant grâce à mes\ndoigts magiques! Ne forcez pas."
+    "texte_fr": "Oh dieu.[1205]..[1205][000A] Mais ces blessures seront\nsoignées en un instant grâce à mes\n[000F]doigts magiques! Ne forcez pas."
   },
   {
     "id": 53,
@@ -853,7 +853,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Right[SP]away![1205][000A][SP]Let[SP]me[SP]just[SP]make[SP]some[SP]markings[SP]with\nthis[SP]pen,[SP]and[SP]then...[1205][000F][SP]Here[SP]goes![1205][000A][SP]My[SP]trump[SP]card![1205][000A]\nThe[SP]MAGIC[SP]FINGERRRRS!",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Tout de suite![1205][000A] Laissez-moi faire des\nmarques au stylo, et puis...  C'est\nparti![1205][000A] Mon atout! [1205][000A] LES DOIGTS MAGIQUES!"
+    "texte_fr": "Tout de suite![1205][1205][000A] Laissez-moi faire des\nmarques au stylo, et puis...  [000F]C'est\nparti![1205][000A] Mon atout! [1205][000A] LES DOIGTS MAGIQUES!"
   },
   {
     "id": 54,
@@ -1205,7 +1205,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Come[SP]again[SP]if[SP]you[SP]ever[SP]get[SP]tired.[1205][000A]\nThere's[SP]nothing[SP]these[SP]fingers[SP]can't[SP]cure![1205][000F]\nMagic[SP]fingers!",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Revenez si vous êtes fatigué. [1205][000A] Rien ne\nrésiste à mes doigts! Doigts magiques!"
+    "texte_fr": "Revenez si vous êtes fatigué. [1205][1205][000A] Rien ne\nrésiste à mes doigts! [000F]Doigts magiques!"
   },
   {
     "id": 76,
@@ -1220,7 +1220,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Hmmm![1205][000A][SP]Unfortunately,[SP]you're[SP]lacking[SP]in[SP]funds.[1205][000F]\nI[SP]can't[SP]treat[SP]you[SP]without[SP]proper[SP]payment.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Hmmm![1205][000A] Hélas, manque de fonds.  Je\nne peux vous soigner sans paiement."
+    "texte_fr": "Hmmm![1205][1205][000A] Hélas, manque de fonds.  [000F]Je\nne peux vous soigner sans paiement."
   },
   {
     "id": 77,
@@ -1235,7 +1235,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Come[SP]again[SP]if[SP]you[SP]ever[SP]get[SP]tired.[1205][000A]\nThere's[SP]nothing[SP]these[SP]fingers[SP]can't[SP]cure![1205][000F]\nMagic[SP]fingers!",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Revenez si vous êtes fatigué. [1205][000A] Rien ne\nrésiste à mes doigts! Doigts magiques!"
+    "texte_fr": "Revenez si vous êtes fatigué. [1205][1205][000A] Rien ne\nrésiste à mes doigts! [000F]Doigts magiques!"
   },
   {
     "id": 78,
@@ -1370,7 +1370,7 @@
     "nom_orig": "Old[SP]man",
     "texte_orig": "They[SP]posted[SP]those[SP]composite[SP]sketches[SP]of[SP]the\nculprits,[SP]didn't[SP]they?[1205][000F][SP]They're[SP]supposedly[SP]mere\ntykes...[SP]*sigh*[SP]Children[SP]these[SP]days[SP]scare[SP]me.",
     "nom_fr": "Vieil homme",
-    "texte_fr": "Ils ont affiché les portraits-robots\ndes coupables, non? Ce seraient des\ngosses... *soupir* Ça me fait peur."
+    "texte_fr": "Ils ont affiché les portraits-robots\ndes coupables, non? [000F][1205]Ce seraient des\ngosses... *soupir* Ça me fait peur."
   },
   {
     "id": 87,

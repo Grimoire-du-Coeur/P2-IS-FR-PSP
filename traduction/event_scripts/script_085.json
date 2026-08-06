@@ -462,7 +462,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "But[SP]the[SP]ancient[SP]Maians[SP]that[SP]thrived[SP]here[SP]died\nin[SP]an[SP]intergalactic[SP]civil[SP]war...[1205][001E][SP]The[SP]victors[SP]were\nthe[SP]Bolontiku[SP]race[SP]that[SP]controls[SP]Xibalba...",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Mais les anciens Maïens\nd'ici sont morts dans\nune guerre civile intergalactique...[1205][001E] Les\nvainqueurs, les\nBolontiku, contrôlent[1101]Xibalba..."
+    "texte_fr": "Mais les anciens Maïens\nd'ici sont morts dans\nune guerre civile intergalactique...[1205][001E] Les\nvainqueurs, les\nBolontiku, contrôlentXibalba..."
   },
   {
     "id": 31,
@@ -567,7 +567,7 @@
     "nom_orig": "Occult[SP]magazine[SP]EIC's[SP]voice",
     "texte_orig": "...I[SP]want[SP]to[SP]show[SP]you[SP]here[SP]the[SP]latest[SP]release\nfrom[SP]our[SP]book[SP]division,[SP]the[SP][1432][NULL][NULL][0014]In[SP]Lak'ech.[1432][NULL][NULL][0014]",
     "nom_fr": "Voix de l'Éditeur",
-    "texte_fr": "... Je veux vous montrer ici la dernière\nsortie de notre\ndivision livre, l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014].[0014]"
+    "texte_fr": "... Je veux vous montrer ici la dernière\nsortie de notre\ndivision livre, l'[1432][NULL][NULL][0014]In Lak'ech[1432][NULL][NULL][0014]."
   },
   {
     "id": 38,
@@ -582,7 +582,7 @@
     "nom_orig": "Occult[SP]magazine[SP]EIC",
     "texte_orig": "It's[SP]full[SP]of[SP]shocking[SP]truths,[SP]from[SP]the[SP]Last\nBattalion[SP]to[SP]a[SP]giant[SP]UFO[SP]that[SP]ties[SP]into[SP]these\nincidents.[SP]Read[SP]it,[SP]or[SP]you'll[SP]be[SP]missing[SP]out!",
     "nom_fr": "Éditeur Occulte",
-    "texte_fr": "Il est rempli de vérités choquantes, du\nBataillon au gigantesque OVNI lié à ces\nincidents. Lisez-le, ou\nvous raterez quelque[1101]chose!"
+    "texte_fr": "Il est rempli de vérités choquantes, du\nBataillon au gigantesque OVNI lié à ces\nincidents. Lisez-le, ou\nvous raterez quelquechose!"
   },
   {
     "id": 39,
@@ -882,7 +882,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][0159]Leave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Tamaki",
-    "texte_fr": "Bonjour! Que puis-je faire?\n[1208][0004]Participer aux concours\nParler à Tamaki\nRien\nQuitter l'agence",
+    "texte_fr": "Bonjour! Que puis-je faire?\n[1208][0004]Participer aux concours\nParler à [1210]Tamaki\n[0159]Rien\nQuitter l'agence",
     "question_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?",
     "choix_orig": [
       "Enter[SP]magazine[SP]sweepstakes",
@@ -1726,7 +1726,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "He[SP]said[SP]so[SP]himself![1205][001E][SP]He's[SP]an[SP]immortal[SP]sorcerer\nwho[SP]learned[SP]magic[SP]from[SP]Mayan[SP]mystics.[SP]He\ncraved[SP]the[SP]secrets[SP]of[SP]ruins[SP]around[SP]the[SP]world!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Il l'a dit! C'est un sorcier immortel ayant\nappris la magie de mystiques mayas. Il\nconvoitait les secrets\ndes ruines du monde[1101]entier!"
+    "texte_fr": "Il l'a dit! [001E][1205]C'est un sorcier immortel ayant\nappris la magie de mystiques mayas. Il\nconvoitait les secrets\ndes ruines du mondeentier!"
   },
   {
     "id": 110,
@@ -1915,7 +1915,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Anything[SP]else?\n[1208][0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[1210][0159]Leave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Autre chose?\n[1208][0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\nQuitter l'agence",
+    "texte_fr": "Autre chose?\n[1208][0005]Répandre rumeurs\nVérifier rumeurs\nParler [1210]au [0159]Chef\nAnnuler\nQuitter l'agence",
     "question_orig": "Anything[SP]else?",
     "choix_orig": [
       "Spread[SP]rumors",
@@ -2084,7 +2084,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][0007][1205][000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Ronron... Je suis ému[1432][NULL][NULL][0007] Tu m'as nourri 20\nfois, miaou[1432][NULL][NULL][0007] J'en attends plus, miaou[1432][NULL][NULL][0007]"
+    "texte_fr": "Ronron... [1205][1205]Je suis ému[1432][NULL][NULL][0007] Tu m'as nourri 20\n[000F][000F]fois, miaou[1432][NULL][NULL][0007] J'en attends plus, miaou[1432][NULL][NULL][0007]"
   },
   {
     "id": 130,
@@ -2099,7 +2099,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Meowvelous![1432][NULL][NULL][0007][1205][000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][0007][1205][000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Miaourveilleux![1432][NULL][NULL][0007] Tu m'as nourri 50 fois,\nronron[1432][NULL][NULL][0007] Tu es si généreux, ronrrrron[1432][NULL][NULL][0007]"
+    "texte_fr": "Miaourveilleux![000F][1205][000F][1205][1432][NULL][NULL][0007] Tu m'as nourri 50 fois,\nronron[1432][NULL][NULL][0007] Tu es si généreux, ronrrrron[1432][NULL][NULL][0007]"
   },
   {
     "id": 131,
@@ -2114,7 +2114,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Amazing,[SP]meow![1205][000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Super, miaou! Tu m'as nourri 80 fois,\nmiaou[1432][NULL][NULL][0007] Tu caches quelque chose, miaou?"
+    "texte_fr": "Super, miaou! [000F][1205][000F][1205]Tu m'as nourri 80 fois,\nmiaou[1432][NULL][NULL][0007] Tu caches quelque chose, miaou?"
   },
   {
     "id": 132,
@@ -2129,7 +2129,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "The[SP]time[SP]has[SP]finally[SP]come,[SP]meow...[1205][000F]\nAn[SP]even[SP]100[SP]feedings...[1205][000F]\nI've[SP]collected[SP]10,000[SP]yen,[SP]meow!",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Le moment est venu, miaou... Tout pile 100\nrepas... J'ai récolté 10 000 yens, miaou!"
+    "texte_fr": "Le moment est venu, miaou..[1205][1205]. [000F][000F]Tout pile 100\nrepas... J'ai récolté 10 000 yens, miaou!"
   },
   {
     "id": 133,
@@ -2144,7 +2144,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "I[SP]feel[SP]bad[SP]at[SP]being[SP]given[SP]so[SP]much,[SP]meow![1205][000F]\nSo[SP]I[SP]have[SP]a[SP]purresent[SP]for[SP]you!",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Je m'en veux de recevoir tant,\nmiaou! J'ai un présent pour toi!"
+    "texte_fr": "Je m'en veux de recevoir tant,\n[1205]miaou! [000F]J'ai un présent pour toi!"
   },
   {
     "id": 134,
@@ -2189,7 +2189,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "...[1205][000F]Cheaps-cat!",
     "nom_fr": "Statue de chat",
-    "texte_fr": "... Radin!"
+    "texte_fr": ".[1205].[000F]. Radin!"
   },
   {
     "id": 137,
@@ -2354,7 +2354,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui[0014]Non",
+    "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]OuiNon",
     "question_orig": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?",
     "choix_orig": [
       "Yes",
@@ -2379,7 +2379,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[0014]Non",
+    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]OuiNon",
     "question_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?",
     "choix_orig": [
       "Yes",

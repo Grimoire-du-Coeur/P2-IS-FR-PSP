@@ -57,7 +57,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]what[SP]did[SP]he[SP]give[SP]you,[SP][1113]?[SP]Ooh,[SP]a\n[E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]?[SP]Righteous![E1][E2]\n\n[E3][E4][NULL][NULL]\"Lisa\nNow[SP]that[SP]I[SP]think[SP]about[SP]it,[SP]you[SP]could[SP]call\nghost[SP]stories[SP]rumors,[SP]in[SP]a[SP]way...[1205][000F][SP]Then[SP]could\nthis[SP]be...?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Alors qu'a-t-il donné, [1113]?\nOh, du [E4][NULL][NULL][0004][1433][NULL][NULL][0002]Thé Brink[E4][NULL][NULL][0002]? Super![E1][E2]\n[E3][E4][NULL][NULL]\"Lisa A y\npenser, les histoires de fantômes sont\ndes rumeurs... Alors ça veut dire...?"
+    "texte_fr": "Alors qu'a-t-il donné, [1113]?\nOh, du [E4][NULL][NULL][0004][NULL][NULL][0002]Thé Brink[E4][NULL][NULL][0002]? Super![E1][E2]\n[E3][E4][NULL][NULL]\"Lisa A y\npenser, les histoires de fantômes sont\ndes rumeurs.[1205].[000F]. Alors ça veut dire...?"
   },
   {
     "id": 4,
@@ -72,7 +72,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Now[SP]that[SP]I[SP]think[SP]about[SP]it,[SP]you[SP]could[SP]call\nghost[SP]stories[SP]rumors,[SP]in[SP]a[SP]way...[1205][000F][SP]Then[SP]could\nthis[SP]be...?",
     "nom_fr": "Ginko",
-    "texte_fr": "A y penser, les histoires de fantômes sont\ndes rumeurs... Alors ça veut dire...?"
+    "texte_fr": "A y penser, les histoires de fantômes sont\ndes rumeurs..[1205]. [000F]Alors ça veut dire...?"
   },
   {
     "id": 5,
@@ -147,7 +147,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "We're[SP]ready[SP]to[SP]go![1205][000F][SP]All[SP]that's[SP]left[SP]is[SP]to\nbeat[SP]Hanako![SP]Let's[SP]do[SP]this,[SP]Chinyan!",
     "nom_fr": "Lisa",
-    "texte_fr": "On est prêts! Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
+    "texte_fr": "On est prêts! [000F][1205]Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "We're[SP]ready[SP]to[SP]go![1205][000F][SP]All[SP]that's[SP]left[SP]is[SP]to\nbeat[SP]Hanako![SP]Let's[SP]do[SP]this,[SP]Chinyan!",
     "nom_fr": "Ginko",
-    "texte_fr": "On est prêts! Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
+    "texte_fr": "On est prêts! [000F][1205]Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
   },
   {
     "id": 11,
@@ -237,7 +237,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Hanako,[SP]huh?[1205][000F][SP]She's[SP]a[SP]tough[SP]nut[SP]to[SP]crack...[1205][000F]\nShe's[SP]resistant[SP]to[SP]fire[SP]and[SP]physical[SP]attacks.",
     "nom_fr": "Yukino",
-    "texte_fr": "Hanako, hein? Elle n'est pas facile... Elle\nrésiste au feu et aux attaques physiques."
+    "texte_fr": "Hanako, hein? [000F][1205][000F][1205]Elle n'est pas facile... Elle\nrésiste au feu et aux attaques physiques."
   },
   {
     "id": 16,
@@ -357,7 +357,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "As[SP]far[SP]as[SP]I[SP]know,[SP]the[SP]emblem[SP]here[SP]is[SP]the[SP]last\none...[1205][000F][SP]Oh,[SP]wait,[SP]no[SP]it[SP]wasn't![1205][000F][SP]There's\nsome[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge[SP]too!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Pour autant que je sache, cet emblème est\nle dernier... Oh, attendez, non! Il y a des\nemblèmes dans la salle des profs aussi!"
+    "texte_fr": "Pour autant que je sache, cet emblème est\n[1205]le dernier.[000F][1205][000F].. Oh, attendez, non! Il y a des\nemblèmes dans la salle des profs aussi!"
   },
   {
     "id": 24,
@@ -537,7 +537,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "As[SP]thanks,[SP]I'll[SP]give[SP]you[SP]5[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]s!",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Pour te remercier, je\nte donne 5 [E4][NULL][NULL][0004][1433][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]!"
+    "texte_fr": "Pour te remercier, je\nte donne 5 [E4][NULL][NULL][0004][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]!"
   },
   {
     "id": 36,
@@ -567,7 +567,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "As[SP]thanks,[SP]I'll[SP]give[SP]you[SP]5[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]s!",
     "nom_fr": "Lycéen",
-    "texte_fr": "En remerciement, 5 [E4][NULL][NULL][0004][1433][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]!"
+    "texte_fr": "En remerciement, 5 [E4][NULL][NULL][0004][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]!"
   },
   {
     "id": 38,
@@ -702,7 +702,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "As[SP]far[SP]as[SP]I[SP]know,[SP]the[SP]emblem[SP]here[SP]is[SP]the[SP]last\none...[1205][000F][SP]Oh,[SP]wait,[SP]no[SP]it[SP]wasn't![1205][000F][SP]There's\nsome[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge[SP]too!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Pour autant que je sache, cet emblème est\nle dernier... Oh, attendez, non! Il y a des\nemblèmes dans la salle des profs aussi!"
+    "texte_fr": "Pour autant que je sache, cet emblème est\n[1205]le dernier.[000F][1205][000F].. Oh, attendez, non! Il y a des\nemblèmes dans la salle des profs aussi!"
   },
   {
     "id": 47,

@@ -14,7 +14,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Today's[SP]guest[SP]is[SP]the[SP]talk[SP]of[SP]the[SP]town!\nEverybody[SP]welcome[SP][120E][000D][B_00]!\n[E1][E2][E3][E4][B_81][B_00][B_7F]",
     "nom_fr": "Maya",
-    "texte_fr": "L'invitée du jour fait parler d'elle!\nTous acclament Maya\nLes gens ne se lassent pas de toi,\nAs-tu qqch à\ndire à tes fans?"
+    "texte_fr": "L'invitée du jour fait parler d'elle!\nTous acclament Maya\nLes gens ne se [120E]lassent [000D]pas de toi,\nAs-tu qqch à\ndire à tes fans?"
   },
   {
     "id": 1,
@@ -31,7 +31,7 @@
     "nom_orig": "Maya",
     "texte_orig": "People[SP]just[SP]can't[SP]get[SP]enough[SP]of[SP]you,\n[120E][NULL].[SP]Got[SP]anything[SP]to\ns[U+612F][B_00]y[SP]to[SP]your[SP]fans?\n[E1][E2][E3][120C][0004][1107][E4][B_81][B_00][B_39]",
     "nom_fr": "Maya",
-    "texte_fr": "L'invitée du jour fait parler d'elle!\nTous acclament Maya\nLes gens ne se lassent pas de toi,\nAs-tu qqch à\ndire à tes fans?\n[1107]"
+    "texte_fr": "L'invitée du jour fait parler d'elle!\n[120E]Tous acclament Maya\nLes gens ne se lassent pas de toi,\nAs-tu [120C]qqch [0004]à\ndire à tes fans?\n[1107]"
   },
   {
     "id": 2,
@@ -48,7 +48,7 @@
     "nom_orig": "Maya",
     "texte_orig": "[120E][NULL]![SP]You've[SP]been[SP]voted\n[1432][B_81][B_00][U+1425][B_00]Demon[SP]of[SP]the[SP]Year[1432][B_81][B_00][U+1437][B_00]![SP][120B][0004][1107]Congratulations![1107]\n[E1][E2][E3]",
     "nom_fr": "Maya",
-    "texte_fr": "L'invitée du jour fait parler d'elle!\nTous acclament Maya\nLes gens ne se lassent pas de toi,\nAs-tu qqch à\ndire à tes fans?\n[1107]"
+    "texte_fr": "L'invitée [120E]du jour fait [1432][1432]parler d'elle!\nTous acclament Maya\nLes gens ne se lassent pas de [120B]toi,\n[0004]As-tu [1107]qqch à\ndire à tes fans?\n[1107]"
   },
   {
     "id": 3,
@@ -65,7 +65,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I'm[SP]worried[SP]about[SP]you.[SP]If[SP]something's[SP]bothering\nyou,[SP]feel[SP][U+662F][B_00]ree[SP]to[SP]tell[SP]me.\n[E1][E2][E3][120C][0005][1107][E4][B_81][B_00][B_7F]",
     "nom_fr": "Maya",
-    "texte_fr": "Je m'inquiète pour toi. Si qqch te\ntracasse, n'hésite pas à m'en parler.\n[1107]"
+    "texte_fr": "Je m'inquiète pour toi. Si qqch te\ntracasse, n'hésite pas à [120C]m'en [0005]parler.\n[1107]"
   },
   {
     "id": 4,
@@ -82,7 +82,7 @@
     "nom_orig": "Maya",
     "texte_orig": "[120B][0005][1107]Hey[SP]now.[1107][SP]It's[SP]not[SP]healthy[SP]to[SP]bottle\nup[SP]your[SP]emotions.[SP][U+4971][B_00]f[SP]you've[SP]got[SP]a[SP]problem,\nSister[SP]Maya[SP]here'll[SP]listen.\n[E1][E2][E3][E4][B_81][B_00][B_7F]",
     "nom_fr": "Maya",
-    "texte_fr": "Je m'inquiète pour toi. Si qqch te\ntracasse, n'hésite pas à m'en parler.\n[1107]"
+    "texte_fr": "Je [1107][0005][120B]m'inquiète pour toi. Si qqch te\ntracasse, n'hésite pas à m'en parler.\n[1107]"
   },
   {
     "id": 5,
@@ -167,7 +167,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Heyyyy,[SP]darlin'![SP]Escucha[SP]mi[SP]cancion[SP]de[SP]amor!\nHooooooo!\n[B_0D][E1][E2][E3][120C][000B][1107][E4][B_81][B_00][B_7F]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Heyyyy, chérie! Escucha mi cancion de amor!\nHooooooo!\n[1107]"
+    "texte_fr": "Heyyyy, chérie! Escucha mi cancion de [120C]amor!\n[000B]Hooooooo!\n[1107]"
   },
   {
     "id": 10,
@@ -184,7 +184,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "[120B][000B][1107]Okay![1107][SP]This[SP]is[SP]a[SP]gift[SP]of[SP]love,[SP]from[SP]me[SP]to[SP]you.\nTake[SP][B_27]it,[SP]sweetheart!\n[E1][E2][E3][E4][B_81][B_00][B_7F]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Heyyyy, chérie! Escucha mi cancion de amor!\nHooooooo!\n[1107]"
+    "texte_fr": "Heyyyy, [1107][000B][120B]chérie! Escucha mi cancion de amor!\nHooooooo!\n[1107]"
   },
   {
     "id": 11,
@@ -218,7 +218,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Why[SP]bother[SP]thinking[SP]about[SP]differences[SP]between\nhumans[SP]and[U+2043][U+6411][B_00]emons?[SP]There's[SP]no[SP]point.\n[E1][E2][E3][120C][0014][1107][E4][B_81][B_00][B_7F]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Heyyyy, chérie! Escucha mi cancion de amor!\nHooooooo!\n[1107]"
+    "texte_fr": "Heyyyy, chérie! Escucha mi cancion de amor!\n[120C]Hooooooo!\n[0014][1107]"
   },
   {
     "id": 13,
@@ -235,7 +235,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "If[SP]you're[SP]gonna[SP]half-ass[SP]your[SP]way[SP]through[SP]life,\njust[SP]sta[U+797D][B_00][SP]in[SP]bed.[SP][120B][0014][1107]There's[SP]a[SP]lot[SP]of[SP]people[SP]like\nthat,[SP]though...[1107]\n[E1][E2][E3][E4][B_81][B_00][B_7F]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Heyyyy, chérie! Escucha mi cancion de amor!\nHooooooo!\n[1107]"
+    "texte_fr": "Heyyyy, chérie! Escucha mi [0014][120B]cancion [1107]de amor!\nHooooooo!\n[1107]"
   },
   {
     "id": 14,
@@ -388,7 +388,7 @@
     "nom_orig": "Jun",
     "texte_orig": "As[SP]a[SP]Pisces,[SP]you[SP]have[SP]a[SP]dual[SP]nature:[SP]you[SP]are\neasily[SP]influen[U+6373][B_00]ed,[SP]and[SP]yet[SP]place[SP]your[SP]instincts\nbefore[SP]all[SP]else.\n[E1][E2][E3][120C][U+0011][1107][E4][B_81][B_00][B_7F]",
     "nom_fr": "Jun",
-    "texte_fr": "Poissons, tu as une double nature: influençable,\nmais tu suis ton instinct avant tout.\nJun\nTon affinité avec moi, Verseau, est...\nextrêmement positive.\n[1107]"
+    "texte_fr": "Poissons, tu as une double nature: influençable,\nmais tu suis ton instinct avant tout.\nJun\nTon affinité avec moi, Verseau, est...\n[120C]extrêmement positive.\n[1107]"
   },
   {
     "id": 23,
@@ -405,7 +405,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Your[SP]affinity[SP]with[SP]me,[SP]an[SP]Aquarius,[SP]is...\n[120B][U+0011][1107]incredibly[SP]pos[U+6977][B_00]tive.[1107][SP]The[SP]stars[SP]foresaw[SP]that\nwe[SP]would[SP]become[SP]friends.\n[E1][E2][E3][E4][B_81][B_00][B_7F]",
     "nom_fr": "Jun",
-    "texte_fr": "Poissons, tu as une double nature: influençable,\nmais tu suis ton instinct avant tout.\nJun\nTon affinité avec moi, Verseau, est...\nextrêmement positive.\n[1107]"
+    "texte_fr": "Poissons, tu as une double nature: [120B]influençable,\n[1107]mais tu suis ton instinct avant tout.\nJun\nTon affinité avec moi, Verseau, est...\nextrêmement positive.\n[1107]"
   },
   {
     "id": 24,
@@ -541,7 +541,7 @@
     "nom_orig": "Jun",
     "texte_orig": "[1113]...\n[E1][E2][E3]",
     "nom_fr": "Jun",
-    "texte_fr": "..."
+    "texte_fr": "[1113]..."
   },
   {
     "id": 32,
@@ -558,7 +558,7 @@
     "nom_orig": "Jun",
     "texte_orig": "You[SP]don't[SP]have[SP]to[SP]say[SP]anything,[SP][1113].\n[120B][U+001C][1107]I'm[SP]not[SP]leaving[SP]your[SP][U+7315][B_00]ide.[1107]\n[E1][E2][E3][E4][B_81][B_00][B_7F]",
     "nom_fr": "Jun",
-    "texte_fr": "Tu n'as rien à dire, .\n[1107]"
+    "texte_fr": "Tu n'as [120B][1113]rien [1107]à dire, .\n[1107]"
   },
   {
     "id": 33,
@@ -779,7 +779,7 @@
     "nom_orig": "Maya",
     "texte_orig": "You[SP]can't[SP]keep[SP]worrying[SP]about[SP]the[SP]past.\nSave[SP]your[SP]regrets[SP][U+665F][B_00]or[SP]later[SP]and[SP]do[SP]what\nyou[SP]can[SP]now,[SP]okay?\n[E1][E2][E3][120C][U+001F][1107][E4][B_81][B_00][B_5B]",
     "nom_fr": "Maya",
-    "texte_fr": "Arrête t'inquiéter pour le passé.\nGarde tes regrets pour plus tard, fais\ntu peux maintenant, ok?\n[1107]"
+    "texte_fr": "Arrête t'inquiéter pour le passé.\nGarde tes regrets pour plus tard, fais\ntu peux [120C]maintenant, ok?\n[1107]"
   },
   {
     "id": 46,
@@ -796,7 +796,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Right...[SP][120B][U+001F][1107]Thank[SP]you,[SP]Sister[SP]Maya.[1107]\n[E1][E2][E3]",
     "nom_fr": "Maya",
-    "texte_fr": "Arrête t'inquiéter pour le passé.\nGarde tes regrets pour plus tard, fais\ntu peux maintenant, ok?\n[1107]"
+    "texte_fr": "Arrête t'inquiéter [120B]pour le [1107]passé.\nGarde tes regrets pour plus tard, fais\ntu peux maintenant, ok?\n[1107]"
   },
   {
     "id": 47,
@@ -915,7 +915,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]hell!?[SP]You[SP]zoomed[SP]in[SP]so[SP]close,[SP]you[SP]can't\neven[SP]tell[SP][U+693F][B_00]t's[SP]me[SP]in[SP]this[SP]picture!\n[E1][E2][E3][120C]![1107][E4][B_81][B_00][B_7F]",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est quoi ce bordel!? T'as zoomé, on voit\nmême pas que c'est moi!\n!\n[1107]"
+    "texte_fr": "C'est quoi ce bordel!? T'as zoomé, on voit\nmême pas que c'est [120C]moi!\n!\n[1107]"
   },
   {
     "id": 54,
@@ -932,7 +932,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "[120B]![1107]What[SP]the--!?[1107][SP]This[SP]is[SP]so[SP]out[SP]of[SP]focus[SP]you[SP]can't\neven[B_27][SP]tell[SP]who[SP]I[SP]am!\n[E1][E2][E3][E4][B_81][B_00][B_7F]",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est quoi ce bordel!? T'as zoomé, on voit\nmême pas que c'est moi!\n!\n[1107]"
+    "texte_fr": "C'est [1107][120B]quoi ce bordel!? T'as zoomé, on voit\nmême pas que c'est moi!\n!\n[1107]"
   },
   {
     "id": 55,
@@ -1136,7 +1136,7 @@
     "nom_orig": "[120E][0007]",
     "texte_orig": "Oh,[SP]yeah![SP]They've[SP]got[SP]that[SP]unique[SP]scent...\nWait,[SP]I[SP]didn't[SP]sa[B_05]y[SP][1432][B_81][1100][0014]leather[1432][B_81][B_00][B_0D][0014]!\n[E1][E2][E3][E4][B_81][B_00][B_6D]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je pense à m'acheter une veste en cuir!\nJ'adore l'odeur!\n\nAh, ouais! Cette odeur unique…\nAttends, j'ai pas dit Maya\nAllez, on fait tous bande à part."
+    "texte_fr": "Je pense à m'acheter une veste en cuir!\nJ'adore l'odeur!\n\nAh, ouais! Cette [1432]odeur [1432][1100]unique…\n[0014][0014]Attends, j'ai pas dit Maya\nAllez, on fait tous bande à part."
   },
   {
     "id": 67,
@@ -1170,7 +1170,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]reminds[SP]me.[SP]My[SP]cousin's[SP]been[SP]dating[SP]this[SP]guy\nfor[SP]a[B_7F][SP]while[SP]now,[SP]and[SP]she's[SP]waiting[SP]for[SP]him[SP]to[SP]pop\nthe[SP]question...\n[E1][E2][E3][U+3101][U+8114][B_00][B_7F]\"[120E][0007]\nOh,[SP]I[SP]want[SP]to[SP]catch[SP]a[SP]bouquet...\nNo,[SP]wait,[SP]you're[SP]talking[SP]ab[B_09]out[SP][1432][B_81][1100][0014]wed[SP]her[1432][B_81][B_00][U+1413][B_00]!\n[E1][E2][E3]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ça me rappelle. Ma cousine sort avec un type\net elle attend qu'il fasse sa demande…\n\nOh, j'aimerais attraper un bouquet...\nNon, tu parlais d'elle &"
+    "texte_fr": "Ça me rappelle. Ma cousine sort avec un type\net elle attend qu'il fasse sa [120E]demande…\n[0007]\nOh, j'aimerais attraper un [1432]bouquet...\n[1432][0014][1100]Non, tu parlais d'elle &"
   },
   {
     "id": 69,
@@ -1408,7 +1408,7 @@
     "nom_orig": "Maya",
     "texte_orig": "What[SP]the!?[SP]C'mon,[SP][1113].\n[E1][E2][E3]",
     "nom_fr": "Maya",
-    "texte_fr": "Quoi!? Allez, ."
+    "texte_fr": "Quoi!? [1113]Allez, ."
   },
   {
     "id": 83,
@@ -1510,7 +1510,7 @@
     "nom_orig": "Jack[SP]Frost",
     "texte_orig": "Huh?[SP]It's[SP][120E][NULL],[SP]ho.\nWhat[SP]are[SP]you[SP]doing,[SP]ho?\n[E1][E2][E3]",
     "nom_fr": "Jack Frost",
-    "texte_fr": "Hein? C'est ho.\nQu'est-ce que tu fais, ho?"
+    "texte_fr": "Hein? [120E]C'est ho.\nQu'est-ce que tu fais, ho?"
   },
   {
     "id": 89,
@@ -1527,7 +1527,7 @@
     "nom_orig": "Pyro[SP]Jack",
     "texte_orig": "Huh?[SP]It's[SP][120E][NULL],[SP]ho.\nWhat[SP]are[SP]you[SP]doing[SP]here,[SP]ho?\n[E1][E2][E3]",
     "nom_fr": "Pyro Jack",
-    "texte_fr": "Hein? C'est ho.\nQu'est-ce que tu fais là, ho?"
+    "texte_fr": "Hein? [120E]C'est ho.\nQu'est-ce que tu fais là, ho?"
   },
   {
     "id": 90,
@@ -1731,7 +1731,7 @@
     "nom_orig": "Odin",
     "texte_orig": "My[SP]loyal[SP]servant,[SP][120E][NULL].\nIt[SP]has[SP]been[SP]a[SP]while.\n[E1][E2][E3]",
     "nom_fr": "Odin",
-    "texte_fr": "Mon fidèle serviteur, cela fait longtemps."
+    "texte_fr": "Mon fidèle [120E]serviteur, cela fait longtemps."
   },
   {
     "id": 102,
@@ -1748,7 +1748,7 @@
     "nom_orig": "Odin",
     "texte_orig": "[120E][NULL],[SP]my[SP]faithful[SP]Aesir[SP]ally.\nIt[SP]has[SP]been[SP]a[SP]while.\n[E1][E2][E3]",
     "nom_fr": "Odin",
-    "texte_fr": "mon fidèle allié Aïesir.\nCela fait longtemps."
+    "texte_fr": "mon [120E]fidèle allié Aïesir.\nCela fait longtemps."
   },
   {
     "id": 103,
@@ -1799,7 +1799,7 @@
     "nom_orig": "Michael",
     "texte_orig": "[120E][NULL]...[SP]You[SP]aren't[SP]trying[SP]to[SP]harm\nthis[SP]human,[SP]are[SP]you?\n[E1][E2][U+0303][U+3111][U+8114][B_00][B_7F]",
     "nom_fr": "Michael",
-    "texte_fr": "Tu n'essaies pas de nuire à cet humain?\nOh, Maître Michael!\nJe ne faisais que rendre justice aux hommes…\nMichael\nLa volonté du Seigneur est-elle bien transmise?\nMichael\nL'éthique des hommes décline. Tu n'as pas\nnégligé ton devoir, j'espère?\nLaisse-moi parler, Maître Michael!\nLes anges déchus tentent les cœurs,\nnous n'avons pas abandonné!\nMichael\nPas d'emphase. Aide simplement cet humain.\nComme vous voulez, Maître Michael."
+    "texte_fr": "Tu [120E]n'essaies pas de nuire à cet humain?\nOh, Maître Michael!\nJe ne faisais que rendre justice aux hommes…\nMichael\nLa volonté du Seigneur est-elle bien transmise?\nMichael\nL'éthique des hommes décline. Tu n'as pas\nnégligé ton devoir, j'espère?\nLaisse-moi parler, Maître Michael!\nLes anges déchus tentent les cœurs,\nnous n'avons pas abandonné!\nMichael\nPas d'emphase. Aide simplement cet humain.\nComme vous voulez, Maître Michael."
   },
   {
     "id": 106,
@@ -1833,7 +1833,7 @@
     "nom_orig": "Michael",
     "texte_orig": "[120E][NULL]...[SP]Is[SP]the[SP]Lord's[SP]will[SP]being[SP]properly\nconveyed[SP]to[SP]hum[U+6113][B_00]nity?\n[E1][E2][E4][B_81][B_00][B_7F]",
     "nom_fr": "Michael",
-    "texte_fr": "Tu n'essaies pas de nuire à cet humain?\nOh, Maître Michael!\nJe ne faisais que rendre justice aux hommes…\nMichael\nLa volonté du Seigneur est-elle bien transmise?\nMichael\nL'éthique des hommes décline. Tu n'as pas\nnégligé ton devoir, j'espère?\nLaisse-moi parler, Maître Michael!\nLes anges déchus tentent les cœurs,\nnous n'avons pas abandonné!\nMichael\nPas d'emphase. Aide simplement cet humain.\nComme vous voulez, Maître Michael."
+    "texte_fr": "Tu [120E]n'essaies pas de nuire à cet humain?\nOh, Maître Michael!\nJe ne faisais que rendre justice aux hommes…\nMichael\nLa volonté du Seigneur est-elle bien transmise?\nMichael\nL'éthique des hommes décline. Tu n'as pas\nnégligé ton devoir, j'espère?\nLaisse-moi parler, Maître Michael!\nLes anges déchus tentent les cœurs,\nnous n'avons pas abandonné!\nMichael\nPas d'emphase. Aide simplement cet humain.\nComme vous voulez, Maître Michael."
   },
   {
     "id": 108,
@@ -1935,7 +1935,7 @@
     "nom_orig": "Quetzalcoatl",
     "texte_orig": "[120E][NULL]![SP]Liar,[SP]deceiver,[SP]stealer[SP]of[SP]my\nthrone![SP]I[SP]will[SP]h[B_27]ave[SP]my[SP]revenge!\n[E1][E2][E3][E4][B_81][B_00][B_7F]",
     "nom_fr": "Odin",
-    "texte_fr": "Le jour de la prophétie approche...\nPrépare-toi, maudit rejeton de Loki!\nQuetzalcoatl\nMenteur, voleur de mon trône! Je me vengerai!\nNe me fais pas rire... As-tu oublié\ncomment tu m'as précipité du ciel?\nQuetzalcoatl\nArgh… Je ne peux te pardonner!\nPrépare-toi!\nAmeretat\nJe t'ai trouvée, toi qui incites à la violence...\nJe ne t'imaginais pas en femme.\nAmeretat\nPar l'ordre de Spenta Mainyu, je te détruirai!"
+    "texte_fr": "Le [120E]jour de la prophétie approche...\nPrépare-toi, maudit rejeton de Loki!\nQuetzalcoatl\nMenteur, voleur de mon trône! Je me vengerai!\nNe me fais pas rire... As-tu oublié\ncomment tu m'as précipité du ciel?\nQuetzalcoatl\nArgh… Je ne peux te pardonner!\nPrépare-toi!\nAmeretat\nJe t'ai trouvée, toi qui incites à la violence...\nJe ne t'imaginais pas en femme.\nAmeretat\nPar l'ordre de Spenta Mainyu, je te détruirai!"
   },
   {
     "id": 114,
@@ -1986,7 +1986,7 @@
     "nom_orig": "Ameretat",
     "texte_orig": "I[SP]have[SP]found[SP]you,[SP][120E][NULL],[SP]tempting[SP]humans\ninto[SP]violence...[U+2075][U+4911][B_00][SP]did[SP]not[SP]imagine[SP]you\nwould[SP]take[SP]the[SP]guise[SP]of[SP]a[SP]woman.\n[E1][E2][E4][B_81][B_00][B_77]",
     "nom_fr": "Odin",
-    "texte_fr": "Le jour de la prophétie approche...\nPrépare-toi, maudit rejeton de Loki!\nQuetzalcoatl\nMenteur, voleur de mon trône! Je me vengerai!\nNe me fais pas rire... As-tu oublié\ncomment tu m'as précipité du ciel?\nQuetzalcoatl\nArgh… Je ne peux te pardonner!\nPrépare-toi!\nAmeretat\nJe t'ai trouvée, toi qui incites à la violence...\nJe ne t'imaginais pas en femme.\nAmeretat\nPar l'ordre de Spenta Mainyu, je te détruirai!"
+    "texte_fr": "Le jour de la prophétie approche...\nPrépare-toi, maudit [120E]rejeton de Loki!\nQuetzalcoatl\nMenteur, voleur de mon trône! Je me vengerai!\nNe me fais pas rire... As-tu oublié\ncomment tu m'as précipité du ciel?\nQuetzalcoatl\nArgh… Je ne peux te pardonner!\nPrépare-toi!\nAmeretat\nJe t'ai trouvée, toi qui incites à la violence...\nJe ne t'imaginais pas en femme.\nAmeretat\nPar l'ordre de Spenta Mainyu, je te détruirai!"
   },
   {
     "id": 117,
@@ -2037,7 +2037,7 @@
     "nom_orig": "Hyper[SP]Zionga.",
     "texte_orig": "Never[SP]mind.\n[1109][E2][E3]",
     "nom_fr": "Hyper Zionga.",
-    "texte_fr": "Oublie."
+    "texte_fr": "Oub[1109]lie."
   },
   {
     "id": 120,
@@ -2054,7 +2054,7 @@
     "nom_orig": "Hyper[SP]Zionga.",
     "texte_orig": "Never[SP]mind.\n[1109][E2][E3]",
     "nom_fr": "Hyper Zionga.",
-    "texte_fr": "Oublie."
+    "texte_fr": "Oub[1109]lie."
   },
   {
     "id": 121,
@@ -2071,7 +2071,7 @@
     "nom_orig": "Hyper[SP]Zionga.",
     "texte_orig": "Never[SP]mind.\n[1109][E2][E3]",
     "nom_fr": "Hyper Zionga.",
-    "texte_fr": "Oublie."
+    "texte_fr": "Oub[1109]lie."
   },
   {
     "id": 122,
@@ -2088,7 +2088,7 @@
     "nom_orig": "Hyper[SP]Zionga.",
     "texte_orig": "Never[SP]mind.\n[1109][E2][E3]",
     "nom_fr": "Hyper Zionga.",
-    "texte_fr": "Oublie."
+    "texte_fr": "Oub[1109]lie."
   },
   {
     "id": 123,
@@ -2105,7 +2105,7 @@
     "nom_orig": "Hyper[SP]Zionga.",
     "texte_orig": "Never[SP]mind.\n[1109][E2][E3]",
     "nom_fr": "Hyper Zionga.",
-    "texte_fr": "Oublie."
+    "texte_fr": "Oub[1109]lie."
   },
   {
     "id": 124,
@@ -2122,7 +2122,7 @@
     "nom_orig": "Hyper[SP]Zionga.",
     "texte_orig": "Never[SP]mind.\n[1109][E2][E3]",
     "nom_fr": "Hyper Zionga.",
-    "texte_fr": "Oublie."
+    "texte_fr": "Oub[1109]lie."
   },
   {
     "id": 125,
@@ -2139,7 +2139,7 @@
     "nom_orig": "Hyper[SP]Zionga.",
     "texte_orig": "Never[SP]mind.\n[1109][E2][E3]",
     "nom_fr": "Hyper Zionga.",
-    "texte_fr": "Oublie."
+    "texte_fr": "Oub[1109]lie."
   },
   {
     "id": 126,
@@ -2156,6 +2156,6 @@
     "nom_orig": "Hyper[SP]Zionga.",
     "texte_orig": "Never[SP]mind.\n[1109][E2][E3]",
     "nom_fr": "Hyper Zionga.",
-    "texte_fr": "Oublie."
+    "texte_fr": "Oub[1109]lie."
   }
 ]

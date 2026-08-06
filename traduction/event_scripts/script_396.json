@@ -42,7 +42,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Don't[SP]worry.[SP]I'm[SP]sure[SP]she's[SP]somewhere[SP]dozing\noff[SP]again.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nH-Hey...![1205][001E][SP]Did[SP]you[SP]just[SP]say[SP][1432][NULL][NULL][0014]Miyabi[SP]Hanakouji[1432][NULL][NULL][0014]?\nYou[SP]know[SP]Hanakouji-san!?[1205][001E][SP]Tell[SP]me!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Pas d'inquiétude. Elle doit dormir quelque\npart.[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n H-Hé...![1205][001E] Tu as dit [1432][NULL][NULL][0014]Miyabi\nHanakouji[1432][NULL][NULL][0014]? Tu la connais!? Dis-moi!"
+    "texte_fr": "Pas d'inquiétude. Elle doit dormir quelque\npart.[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n [1205]H-Hé.[001E]..![1205][001E] Tu as dit [1432][NULL][NULL][0014]Miyabi\nHanakouji[1432][NULL][NULL][0014]? Tu la connais!? Dis-moi!"
   },
   {
     "id": 3,
@@ -387,7 +387,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]how's[SP]Hanakouji-san[SP]been?[1205][001E][SP]Her[SP]personality?[1205][000F]\nStill[SP]awesome,[SP]I'm[SP]sure.[1205][000F][SP]Her[SP]popularity?[1205][000F]\nStill[SP]up[SP]there,[SP]no[SP]doubt.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Alors, comment va?\nSa personnalité? Toujours\ngéniale. Sa popularité? Toujours au top."
+    "texte_fr": "Alors, comment va?\n[1205][1205][1205][001E][1205]Sa personnalité? [000F][000F][000F]Toujours\ngéniale. Sa popularité? Toujours au top."
   },
   {
     "id": 26,
@@ -597,7 +597,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Come[SP]to[SP]think[SP]of[SP]it,[SP]didn't[SP]someone[SP]say[SP]there\nwere[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge?[1205][000F][SP]I[SP]think\nthose'll[SP]be[SP]the[SP]last[SP]ones[SP]left.",
     "nom_fr": "Yukino",
-    "texte_fr": "En y pensant, quelqu'un n'a pas dit qu'il\ny avait des emblèmes dans la salle des\nprofs? Ce seront sûrement les derniers."
+    "texte_fr": "En y pensant, quelqu'un n'a pas dit qu'il\ny avait des emblèmes dans la salle des\n[000F][1205]profs? Ce seront sûrement les derniers."
   },
   {
     "id": 40,
@@ -687,7 +687,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "I[SP]know[SP]you[SP]t-t-took[SP]a[SP]bad[SP]g-g-grade[SP]on[SP]your\nEnglish[SP]t-test[SP]so[SP]the[SP]others[SP]wouldn't[SP]f-feel\nbad...[SP]I[SP]know[SP]you[SP]l-l-like[SP]to[SP]be[SP]alone...",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Je sais que t-tu as\neu une m-mauvaise note au\nc-contrôle d'anglais pour épargner les\nautres... Je  sais\nque t-tu aimes être[1101]seule..."
+    "texte_fr": "Je sais que t-tu as\neu une m-mauvaise note au\nc-contrôle d'anglais pour épargner les\nautres... Je  sais\nque t-tu aimes êtreseule..."
   },
   {
     "id": 46,
@@ -717,7 +717,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Now[SP]that[SP]I'm[SP]b-back[SP]to[SP]normal,[SP]I've[SP]lost[SP]all\nmy[SP]c-c-confidence...[1205][000F][SP]I[SP]c-can't[SP]do[SP]it...",
     "nom_fr": "Lycéen",
-    "texte_fr": "Redevenu normal, j'ai perdu toute\nconfiance... Je n'y arrive pas..."
+    "texte_fr": "Redevenu normal, j'ai perdu toute\nconfiance..[1205]. [000F]Je n'y arrive pas..."
   },
   {
     "id": 48,
@@ -942,7 +942,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Come[SP]to[SP]think[SP]of[SP]it,[SP]didn't[SP]someone[SP]say[SP]there\nwere[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge?[1205][000F][SP]I[SP]think\nthose'll[SP]be[SP]the[SP]last[SP]ones[SP]left.",
     "nom_fr": "Yukino",
-    "texte_fr": "En repensant, quelqu'un n'a pas dit qu'il\ny avait des emblèmes dans la salle des\nprofs? Ce seront sûrement les derniers."
+    "texte_fr": "En repensant, quelqu'un n'a pas dit qu'il\ny avait des emblèmes dans la salle des\n[000F][1205]profs? Ce seront sûrement les derniers."
   },
   {
     "id": 63,
