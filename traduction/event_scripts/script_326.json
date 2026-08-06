@@ -1047,7 +1047,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?\n[1208][0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave\n[1109][E2]\n[E3][E4][NULL][NULL]\"Manager\nWhat[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][0005][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
     "nom_fr": "Gérant",
-    "texte_fr": "Bienvenue au Mu. Échangez ici vos pièces\ncontre des prix. Alors?\n[1208][0005]Acheter pièces\nÉchanger contre prix\nParler au gérant\nRien\nPartir\n[1109][E2]\n[E3][E4][NULL][NULL]\"Gérant\nQuels prix voulez-vous?\n[1208][0005][1210][U+0100]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes",
+    "texte_fr": "Bienvenue au Mu. Échangez ici vos pièces\ncontre des prix. Alors?\n[1208][0005]Acheter pièces\nÉchanger contre prix\nParler au gérant\nRien\nPartir\n[1109][E2]\n[E3][E4][NULL][NULL]\"Gérant\nQuels prix voulez-vous?\n[1208][0005][1210][0100]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes",
     "question_orig": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?",
     "choix_orig": [
       "Buy[SP]coins",
@@ -1083,7 +1083,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gérant",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210][U+0100]Sélection cachée\n> Le gérant s'est absenté...",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210][0100]Sélection cachée\n> Le gérant s'est absenté...",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1137,7 +1137,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][0005][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
     "nom_fr": "Gérant",
-    "texte_fr": "Quels prix voulez-vous?\n[1208][0005][1210][U+0100]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes",
+    "texte_fr": "Quels prix voulez-vous?\n[1208][0005][1210][0100]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes",
     "question_orig": "What[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?",
     "choix_orig": [
       "[1210][B_00][B_00]ndisplayed[SP]selection",
@@ -1165,7 +1165,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gérant",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210][0100]Sélection cachée",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",

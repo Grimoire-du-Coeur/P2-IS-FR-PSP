@@ -1163,7 +1163,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Is[SP]there[SP]anything[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
     "nom_fr": "Igor",
-    "texte_fr": "Puis-je vous aider?\n[1208][0007]Invoquer Persona\nPrendre Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
+    "texte_fr": "Puis-je vous aider?\n[1208][0007]Invoquer Persona\nPrendre Persona\nRendre Persona\n[1210][0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
     "question_orig": "Is[SP]there[SP]anything[SP]I[SP]can[SP]help[SP]you[SP]with?",
     "choix_orig": [
       "Summon[SP]Persona",
@@ -1428,7 +1428,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Please,[SP]ask[SP]away.\n[1208][0007]Personas\nTaking[SP]on[SP]and[SP]invoking\nArcanas\nPersona[SP]growth\nPersona[SP]compatibility\nNext[SP]Page\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection/return",
     "nom_fr": "Igor",
-    "texte_fr": "Je vous écoute.\n[1208][0007]Personae\nObtention, invocation\nArcanes\nCroissance\nCompatibilité\nPage suivante\n[1210][U+0100]Sélection cachée/retour",
+    "texte_fr": "Je vous écoute.\n[1208][0007]Personae\nObtention, invocation\nArcanes\nCroissance\nCompatibilité\nPage suivante\n[1210][0100]Sélection cachée/retour",
     "question_orig": "Please,[SP]ask[SP]away.",
     "choix_orig": [
       "Personas",
@@ -1458,7 +1458,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Please,[SP]ask[SP]away.\n[1208][0008]Tarot[SP]Cards\nMaterial[SP]Cards\nSkill[SP]Cards\nIncense[SP]Cards\nPersona[SP]Cards\nNext[SP]Page\nPrevious[SP]Page\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection/return",
     "nom_fr": "Igor",
-    "texte_fr": "Allez-y.\n[1208][0008]Cartes Tarot\nCartes Matériaux\nCartes Compétences\nCartes Encens\nCartes Persona\nPage suiv.\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
+    "texte_fr": "Allez-y.\n[1208][0008]Cartes Tarot\nCartes Matériaux\nCartes Compétences\nCartes Encens\nCartes Persona\nPage suiv.\nPage préc.\n[1210][0100]Sélection cachée/retour",
     "question_orig": "Please,[SP]ask[SP]away.",
     "choix_orig": [
       "Tarot[SP]Cards",
@@ -1489,7 +1489,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Please,[SP]ask[SP]away.\n[1208][0007]Summoning[SP]basics\nMystic[SP]change\nMutation\nContacting\nDemon[SP]personalities\nPrevious[SP]Page\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection/return",
     "nom_fr": "Igor",
-    "texte_fr": "Je vous écoute.\n[1208][0007]Bases d'invocation\nChangement mystique\nMutation\nContact\nPersonnalité des démons\nPage préc.\n[1210][U+0100]Sélection cachée/retour",
+    "texte_fr": "Je vous écoute.\n[1208][0007]Bases d'invocation\nChangement mystique\nMutation\nContact\nPersonnalité des démons\nPage préc.\n[1210][0100]Sélection cachée/retour",
     "question_orig": "Please,[SP]ask[SP]away.",
     "choix_orig": [
       "Summoning[SP]basics",
@@ -3199,7 +3199,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "All[SP]who[SP]live[U+070F]\nAre[SP]eternal[SP]wanderers[U+070F][1205][001E]\nYearning[SP]is[SP]the[SP]cross[SP]man[SP]must[SP]bear[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Tous les vivants[U+070F] Sont d'éternels\nerrants[U+070F][1205][001E] Le désir, croix de l'homme[U+070F]"
+    "texte_fr": "Tous les vivants[070F] Sont d'éternels\nerrants[070F][1205][001E] Le désir, croix de l'homme[070F]"
   },
   {
     "id": 208,
@@ -3214,7 +3214,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "A[SP]lone[SP]man[U+070F]\nOnce[SP]came[SP]here[SP]in[SP]tears[U+070F]\nHe[SP]lost[SP]something[SP]he[SP]should[SP]not[SP]have[SP]let[SP]go[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Un homme seul[U+070F] Est venu ici en larmes[U+070F]\nIl a perdu ce qu'il n'aurait dû lâcher[U+070F]"
+    "texte_fr": "Un homme seul[070F] Est venu ici en larmes[070F]\nIl a perdu ce qu'il n'aurait dû lâcher[070F]"
   },
   {
     "id": 209,
@@ -3229,7 +3229,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "I[SP]will[SP]pray[U+070F]\nThat[SP]those[SP]of[SP]you[SP]here[SP]now[U+070F]\nWill[SP]have[SP]no[SP]cause[SP]to[SP]shed[SP]such[SP]tears[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Je prierai[U+070F] Pour vous tous ici présents[U+070F]\nN'ayez aucune raison de pleurer[U+070F]"
+    "texte_fr": "Je prierai[070F] Pour vous tous ici présents[070F]\nN'ayez aucune raison de pleurer[070F]"
   },
   {
     "id": 210,
@@ -3244,7 +3244,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "In[SP]this[SP]room[U+070F]\nBetween[SP]dream[SP]and[SP]reality[U+070F]\nWe[SP]hear[SP]clearly[SP]the[SP]sounds[SP]of[SP]the[SP]soul[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Dans cette pièce[U+070F] Entre rêve et\nréalité[U+070F] On entend les sons de l'âme[U+070F]"
+    "texte_fr": "Dans cette pièce[070F] Entre rêve et\nréalité[070F] On entend les sons de l'âme[070F]"
   },
   {
     "id": 211,
@@ -3259,7 +3259,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "All[SP]these[SP]souls[U+070F]\nAre[SP]filled[SP]with[SP]lovely[SP]melodies[U+070F]\nI[SP]am[SP]proud[SP]of[SP]my[SP]duty[SP]to[SP]lure[SP]you[SP]with[SP]song[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Toutes ces âmes[U+070F] Sont pleines de jolies\nmélodies[U+070F] Fière de mon\ndevoir de vous attirer[U+070F]"
+    "texte_fr": "Toutes ces âmes[070F] Sont pleines de jolies\nmélodies[070F] Fière de mon\ndevoir de vous attirer[070F]"
   },
   {
     "id": 212,
@@ -3274,7 +3274,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "Light[SP]makes[SP]shadow[U+070F]\nDarkness[SP]reveals[SP]the[SP]light's[SP]shine[U+070F]\nThe[SP]same[SP]can[SP]be[SP]said[SP]of[SP]your[SP]other[SP]self[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "La lumière crée\nl'ombre[U+070F] L'obscurité révèle la\nlumière[U+070F] Il en va de\nmême pour votre autre soi[U+070F]"
+    "texte_fr": "La lumière crée\nl'ombre[070F] L'obscurité révèle la\nlumière[070F] Il en va de\nmême pour votre autre soi[070F]"
   },
   {
     "id": 213,
@@ -3289,7 +3289,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "Coin's[SP]two[SP]sides[U+070F]\nOpposing[SP]Personas[SP]are[SP]ever[SP]apart[U+070F]\nNeither[SP]forgiving[SP]nor[SP]accepting[SP]one[SP]another[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Les deux faces d'une pièce[U+070F] Les Personae\nopposées sont séparées[U+070F] Sans pardon ni\nacceptation[U+070F]"
+    "texte_fr": "Les deux faces d'une pièce[070F] Les Personae\nopposées sont séparées[070F] Sans pardon ni\nacceptation[070F]"
   },
   {
     "id": 214,
@@ -3304,7 +3304,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "Man[SP]denies[SP]fate[U+070F]\nAnd[SP]fights[SP]inevitable[SP]tragedy[U+070F]\nBut[SP]fate[SP]is[SP]an[SP]inescapable[SP]part[SP]of[SP]you[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "L'homme renie le\ndestin[U+070F] Et combat l'inévitable[U+070F]\nMais le destin fait partie de vous[U+070F]"
+    "texte_fr": "L'homme renie le\ndestin[070F] Et combat l'inévitable[070F]\nMais le destin fait partie de vous[070F]"
   },
   {
     "id": 215,
@@ -3319,7 +3319,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "To[SP]deny[SP]that[U+070F]\nIs[SP]to[SP]deny[SP]your[SP]very[SP]self[U+070F]\nIsn't[SP]that[SP]the[SP]act[SP]of[SP]a[SP]piteous[SP]man?[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Nier cela[U+070F] C'est se nier soi-même[U+070F]\nN'est-ce pas là un acte pitoyable?[U+070F]"
+    "texte_fr": "Nier cela[070F] C'est se nier soi-même[070F]\nN'est-ce pas là un acte pitoyable?[070F]"
   },
   {
     "id": 216,
@@ -3334,7 +3334,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "Igor[SP]has[SP]said[U+070F]\nThat[SP]men's[SP]hearts[SP]are[SP]small[U+070F]\nThey[SP]have[SP]that[SP]which[SP]gives[SP]them[SP]strength[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Igor a dit[U+070F] Que le cœur des hommes est petit[U+070F]\nIls ont ce qui leur donne de la force[U+070F]"
+    "texte_fr": "Igor a dit[070F] Que le cœur des hommes est petit[070F]\nIls ont ce qui leur donne de la force[070F]"
   },
   {
     "id": 217,
@@ -3349,7 +3349,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "Can[SP]it[SP]be[U+070F]\nThe[SP]cause[SP]of[SP]this[SP]tragedy[U+070F]\nIs[SP]the[SP]banishment[SP]of[SP]music[SP]from[SP]man's[SP]soul?[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Est-ce possible[U+070F] Que la tragédie vienne[U+070F]\nDu bannissement de la musique de l'âme[U+070F]"
+    "texte_fr": "Est-ce possible[070F] Que la tragédie vienne[070F]\nDu bannissement de la musique de l'âme[070F]"
   },
   {
     "id": 218,
@@ -3364,7 +3364,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "The[SP]heart's[SP]cries[U+070F]\nOn[SP]hearing[SP]them,[SP]one's[SP]eyes[SP]moisten[U+070F]\nYour[SP]soul[SP]will[SP]also[SP]grow[SP]sad[SP]and[SP]shed[SP]a[SP]tear[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Les cris du cœur[U+070F] En les entendant,\nles yeux s'embuent[U+070F] Votre âme aussi\ns'attristera et pleurera[U+070F]"
+    "texte_fr": "Les cris du cœur[070F] En les entendant,\nles yeux s'embuent[070F] Votre âme aussi\ns'attristera et pleurera[070F]"
   },
   {
     "id": 219,
@@ -3379,7 +3379,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "I[SP]hear[SP]them[U+070F]\nThe[SP]voices,[SP]loud[SP]and[SP]clear[U+070F]\nSilent[SP]voices[SP]filled[SP]with[SP]sadness[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Je les entends[U+070F] Les voix, fortes et\nclaires[U+070F] Voix silencieuses et tristes[U+070F]"
+    "texte_fr": "Je les entends[070F] Les voix, fortes et\nclaires[070F] Voix silencieuses et tristes[070F]"
   },
   {
     "id": 220,
@@ -3394,7 +3394,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "What[SP]is[SP]it[U+070F]\nThat[SP]can[SP]quench[SP]man's[SP]thirst?[U+070F]\nI[SP]am[SP]always[SP]listening[SP]for[SP]an[SP]answer[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Qu'est-ce[U+070F] Qui étanche la soif de\nl'homme?[U+070F] J'écoute, espérant une réponse[U+070F]"
+    "texte_fr": "Qu'est-ce[070F] Qui étanche la soif de\nl'homme?[070F] J'écoute, espérant une réponse[070F]"
   },
   {
     "id": 221,
@@ -3409,7 +3409,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "Please[SP]tell[SP]me[U+070F]\nIf[SP]your[SP]heart[SP]is[SP]filled[SP]with[SP]music[U+070F]\nI[SP]am[SP]certain[SP]you[SP]will[SP]know[SP]the[SP]answer[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Dites-moi[U+070F] Si votre cœur\nest rempli de musique[U+070F]\nJe suis sûre que vous en avez la réponse[U+070F]"
+    "texte_fr": "Dites-moi[070F] Si votre cœur\nest rempli de musique[070F]\nJe suis sûre que vous en avez la réponse[070F]"
   },
   {
     "id": 222,
@@ -3424,7 +3424,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "We[SP]are[SP]eternal[U+070F]\nWe[SP]doubt[SP]no[SP]past,[SP]fear[SP]no[SP]future[U+070F]\nMarionettes[SP]have[SP]no[SP]need[SP]of[SP]such[SP]things[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Nous sommes éternels[U+070F] Sans doute ni peur du\nfutur[U+070F] Les marionnettes n'en ont pas besoin[U+070F]"
+    "texte_fr": "Nous sommes éternels[070F] Sans doute ni peur du\nfutur[070F] Les marionnettes n'en ont pas besoin[070F]"
   },
   {
     "id": 223,
@@ -3439,7 +3439,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "But[SP]we[SP]puppets[U+070F]\nAre[SP]sometimes[SP]jealous[SP]of[SP]you[U+070F]\nYou[SP]have[SP]a[SP]gift[SP]known[SP]as[SP]the[SP]present[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Nous, marionnettes[U+070F] Sommes parfois\njalouses de vous[U+070F] Vous possédez le présent[U+070F]"
+    "texte_fr": "Nous, marionnettes[070F] Sommes parfois\njalouses de vous[070F] Vous possédez le présent[070F]"
   },
   {
     "id": 224,
@@ -3454,7 +3454,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "Man's[SP]great[SP]burden[U+070F]\nIs[SP]the[SP]past,[SP]which[SP]crushes[SP]some[U+070F]\nMemories[SP]of[SP]sin[SP]weigh[SP]upon[SP]you[SP]the[SP]heaviest[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Le fardeau de l'homme[U+070F] C'est le passé qui en\nécrase certains[U+070F] Les péchés passés pèsent le\nplus[U+070F]"
+    "texte_fr": "Le fardeau de l'homme[070F] C'est le passé qui en\nécrase certains[070F] Les péchés passés pèsent le\nplus[070F]"
   },
   {
     "id": 225,
@@ -3469,7 +3469,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "But[SP]time[SP]flows[U+070F]\nMemories[SP]fade[SP]and[SP]change[U+070F]\nWhat[SP]is[SP]remembered[SP]is[SP]not[SP]always[SP]what[SP]is[SP]true[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Mais le temps s'écoule[U+070F] Les souvenirs\ns'estompent[U+070F] Ce que l'on\ngarde n'est pas vérité[U+070F]"
+    "texte_fr": "Mais le temps s'écoule[070F] Les souvenirs\ns'estompent[070F] Ce que l'on\ngarde n'est pas vérité[070F]"
   },
   {
     "id": 226,
@@ -3484,7 +3484,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "To[SP]discover[SP]himself[U+070F]\nMan[SP]projects[SP]himself[SP]within[SP]others[U+070F]\nBut[SP]now[SP]men[SP]project[SP]others[SP]within[SP]the[SP]self[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Pour se découvrir[U+070F] L'homme\nse projette dans les\nautres[U+070F] Mais les autres se projettent en lui[U+070F]"
+    "texte_fr": "Pour se découvrir[070F] L'homme\nse projette dans les\nautres[070F] Mais les autres se projettent en lui[070F]"
   },
   {
     "id": 227,
@@ -3499,7 +3499,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "These[SP]false[SP]images[U+070F]\nOf[SP]others[SP]in[SP]warped[SP]memories[U+070F]\nCreate[SP]a[SP]distorted,[SP]never-was[SP]remembrance[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Ces fausses images[U+070F]\nD'autres dans des mémoires\ndéformées[U+070F] Créent un souvenir tordu, fictif[U+070F]"
+    "texte_fr": "Ces fausses images[070F]\nD'autres dans des mémoires\ndéformées[070F] Créent un souvenir tordu, fictif[070F]"
   },
   {
     "id": 228,
@@ -3514,7 +3514,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "A[SP]child's[SP]voice[U+070F]\nI[SP]hear[SP]its[SP]continuous[SP]sobs[U+070F]\nOf[SP]uncontrollable[SP]anxiety[SP]and[SP]sadness[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Une voix d'enfant[U+070F] J'entends ses sanglots[U+070F]\nD'anxiété incontrôlable et tristesse[U+070F]"
+    "texte_fr": "Une voix d'enfant[070F] J'entends ses sanglots[070F]\nD'anxiété incontrôlable et tristesse[070F]"
   },
   {
     "id": 229,
@@ -3529,7 +3529,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "It[SP]is[SP]proof[U+070F]\nThat[SP]memories[SP]of[SP]a[SP]forgotten[SP]past[U+070F]\nAre[SP]rising[SP]as[SP]a[SP]herald[SP]to[SP]meet[SP]the[SP]true[SP]self[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "C'est la preuve[U+070F] Que\nles souvenirs d'un passé\noublié[U+070F] S'élèvent pour\nrencontrer le vrai soi[U+070F]"
+    "texte_fr": "C'est la preuve[070F] Que\nles souvenirs d'un passé\noublié[070F] S'élèvent pour\nrencontrer le vrai soi[070F]"
   },
   {
     "id": 230,
@@ -3544,7 +3544,7 @@
     "nom_orig": "Belladonna",
     "texte_orig": "All[SP]my[SP]songs[U+070F]\nAre[SP]to[SP]help[SP]a[SP]hero's[SP]heart[U+070F]\nDo[SP]not[SP]make[SP]them[SP]into[SP]dirges[SP]of[SP]death[U+070F]",
     "nom_fr": "Belladonna",
-    "texte_fr": "Mes chansons[U+070F] Sont pour le cœur d'un\nhéros[U+070F] N'en faites pas de chants funèbres[U+070F]"
+    "texte_fr": "Mes chansons[070F] Sont pour le cœur d'un\nhéros[070F] N'en faites pas de chants funèbres[070F]"
   },
   {
     "id": 231,
@@ -3665,7 +3665,7 @@
     "nom_orig": "Nameless",
     "texte_orig": "Take[SP]this.[1205][001E][SP]The[SP]10th[SP]and[SP]7th[SP]man[SP]who[SP]gave[SP]your\nanswer[SP]left[SP]it.[SP]A[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Revival[SP]Bead[E4][NULL][NULL][0002]...[SP]I[SP]have[SP]no\nuse[SP]for[SP]it.",
     "nom_fr": "Nameless",
-    "texte_fr": "Prenez ceci.[1205][001E] Le 17e homme à donner\ncette réponse l'a laissé. [E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Perle de\nVie[E4][NULL][NULL][0002]... Je n'en ai aucun usage."
+    "texte_fr": "Prenez ceci.[1205][001E] Le 17e homme à donner\ncette réponse l'a laissé. [E4][NULL][NULL][0004][1433][NULL][NULL][0002]Perle de\nVie[E4][NULL][NULL][0002]... Je n'en ai aucun usage."
   },
   {
     "id": 238,
@@ -4082,7 +4082,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Okay.[SP]What[SP]should[SP]we[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]card[SP]creation\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Bien. De quoi parle-t-on?\n[1208][0003]Bavarder\nParler création de cartes\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Bien. De quoi parle-t-on?\n[1208][0003]Bavarder\nParler création de cartes\n[1210][0100]Sélection cachée",
     "question_orig": "Okay.[SP]What[SP]should[SP]we[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -4629,7 +4629,7 @@
     "nom_orig": "Igor",
     "texte_orig": "How[SP]may[SP]I[SP]be[SP]of[SP]service[SP]to[SP]you[SP]today?\n[1208][0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
     "nom_fr": "Igor",
-    "texte_fr": "Comment puis-je vous servir?\n[1208][0007]Invoquer Persona\nPrendre Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
+    "texte_fr": "Comment puis-je vous servir?\n[1208][0007]Invoquer Persona\nPrendre Persona\nRendre Persona\n[1210][0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
     "question_orig": "How[SP]may[SP]I[SP]be[SP]of[SP]service[SP]to[SP]you[SP]today?",
     "choix_orig": [
       "Summon[SP]Persona",
@@ -4659,7 +4659,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Welcome[SP]to[SP]the[SP]Velvet[SP]Room.\nHow[SP]may[SP]I[SP]be[SP]of[SP]service[SP]to[SP]you[SP]today?\n[1208][0007]Summon[SP]Persona\nTake[SP]on[SP]Persona\nReturn[SP]Persona\n[1210][U+0621]Mutate[SP]Persona\nTalk[SP]to[SP]Igor\nCancel\nLeave",
     "nom_fr": "Igor",
-    "texte_fr": "Bienvenue dans la Chambre de Velours.\nQue puis-je pour vous?\n[1208][0007]Invoquer Persona\nPrendre Persona\nRendre Persona\n[1210][U+0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
+    "texte_fr": "Bienvenue dans la Chambre de Velours.\nQue puis-je pour vous?\n[1208][0007]Invoquer Persona\nPrendre Persona\nRendre Persona\n[1210][0621]Muter Persona\nParler à Igor\nAnnuler\nQuitter",
     "question_orig": "Welcome[SP]to[SP]the[SP]Velvet[SP]Room.\nHow[SP]may[SP]I[SP]be[SP]of[SP]service[SP]to[SP]you[SP]today?",
     "choix_orig": [
       "Summon[SP]Persona",

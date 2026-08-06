@@ -687,7 +687,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Bienvenue au Clair de Lune.\nQue puis-je faire pour vous?\n[1208][0007][1210][U+03BC]Acheter armes\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici\nParler au Garçon\nNon merci\nQuitter",
+    "texte_fr": "Bienvenue au Clair de Lune.\nQue puis-je faire pour vous?\n[1208][0007][1210][03BC]Acheter armes\n[1210][0358]Acheter accessoires\n[1210][03BC]Vendre objets\nDîner ici\nParler au Garçon\nNon merci\nQuitter",
     "question_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -717,7 +717,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210][0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][0100]Armure de tête\n[111F]Armure\n[111F][1210][0100]Armure de jambes\n[111F]Accessoires",
     "question_orig": "What[SP]can[SP]you[SP]sell[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -747,7 +747,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210][U+03BC]Parler boutique\nParler du repas\n[1210][U+0100]Sélection cachée\n[121D][0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[121D][0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
+    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210][03BC]Parler boutique\nParler du repas\n[1210][0100]Sélection cachée\n[121D][0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada[121D][0005]ATTENTION[E4][NULL][NULL][0002]\nAucun bit actif. Vérifiez ceci.\n-Kanada",
     "question_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -774,7 +774,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]assist[SP]you[SP]with?\n[1208][0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]with[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Il vous faudra autre chose?\n[1208][0007][1210][U+03BC]Acheter armes\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici\nParler au Garçon\nNon merci\nQuitter",
+    "texte_fr": "Il vous faudra autre chose?\n[1208][0007][1210][03BC]Acheter armes\n[1210][0358]Acheter accessoires\n[1210][03BC]Vendre objets\nDîner ici\nParler au Garçon\nNon merci\nQuitter",
     "question_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]assist[SP]you[SP]with?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -804,7 +804,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210][U+0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][U+0100]Armure de tête\n[111F]Armure\n[111F][1210][U+0100]Armure de jambes\n[111F]Accessoires",
+    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210][0100]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][0100]Armure de tête\n[111F]Armure\n[111F][1210][0100]Armure de jambes\n[111F]Accessoires",
     "question_orig": "What[SP]can[SP]you[SP]sell[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -834,7 +834,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210][U+03BC]Parler boutique\nParler du repas\n[1210][U+0100]Sélection cachée",
+    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210][03BC]Parler boutique\nParler du repas\n[1210][0100]Sélection cachée",
     "question_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?",
     "choix_orig": [
       "Make[SP]small[SP]talk",

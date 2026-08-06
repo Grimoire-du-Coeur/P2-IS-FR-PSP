@@ -192,7 +192,7 @@
     "nom_orig": "Housewife",
     "texte_orig": "I-I[SP]almost[SP]got[SP]attacked[SP]by[SP]those[SP]soldiers[SP]just\nnow...[1205][000F][SP]It[SP]was[SP]terrifying...[1205][000F]",
     "nom_fr": "Femme au foyer",
-    "texte_fr": "J'ai failli me faire attaquer par ces soldats...[1205][000F]\n Terrible...[1106][NL]Un membre du Cercle Masqué m'a sauvée ![1205][000F]\n Que se passe-t-il ?[1106][NL]J'avais mal jugé..."
+    "texte_fr": "J'ai failli me faire attaquer par ces soldats...[1205][000F]\n Terrible...[1106][NL]Un membre du Cercle Masqué m'a sauvée ![1205][000F]\n Que se passe-t-il ?[1106][NL]J'avais mal jugé...[1205][000F]"
   },
   {
     "id": 13,
@@ -237,7 +237,7 @@
     "nom_orig": "Housewife",
     "texte_orig": "Hey![1205][000F][SP]S-Some[SP]of[SP]those[SP]Masked[SP]Circle[SP]people\nsaw[SP]the[SP]shooting[SP]stars[SP]and[SP]said,[SP][1432][NULL][NULL][0014]It's[SP]the\nlion's[SP]roar![1432][NULL][NULL][0014][1205][000F]",
     "nom_fr": "Femme au foyer",
-    "texte_fr": "Hé ! Des gens du Cercle Masqué ont dit : [1432][NULL][NULL][0014]C'est le rugissement du lion ![1432][NULL][NULL][0014][1205][000F][1106][NL]C'est encore une phrase de l'Oracle, non ?\n L'In Lak'ech est donc vrai !"
+    "texte_fr": "Hé ! Des gens du Cercle Masqué ont dit : [1432][NULL][NULL][0014]C'est le rugissement du lion ![1432][NULL][NULL][0014][1205][000F][1106][NL]C'est encore une phrase de l'Oracle, non ?\n L'In Lak'ech est donc vrai ![0014][1205][000F]"
   },
   {
     "id": 16,
@@ -1707,7 +1707,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Um,[SP]I[SP]heard[SP]Anima[SP]Mundi[SP]in[SP]Yumezaki[SP]sells\nreal[SP]armor.[1205][000F]",
     "nom_fr": "Garçon",
-    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Une dame a dit : trucs corrects,\n prix normaux."
+    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Une dame a dit : trucs corrects,\n prix normaux.[1205][000F]"
   },
   {
     "id": 114,
@@ -1737,7 +1737,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Um,[SP]I[SP]heard[SP]Anima[SP]Mundi[SP]in[SP]Yumezaki[SP]sells\nreal[SP]armor.[1205][000F]",
     "nom_fr": "Garçon",
-    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Bon marché, pas terrible."
+    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Bon marché, pas terrible.[1205][000F]"
   },
   {
     "id": 116,
@@ -1767,7 +1767,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Um,[SP]I[SP]heard[SP]Anima[SP]Mundi[SP]in[SP]Yumezaki[SP]sells\nreal[SP]armor.[1205][000F]",
     "nom_fr": "Garçon",
-    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Une dame a dit beaucoup de choix,\n mais reprises bon marché."
+    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Une dame a dit beaucoup de choix,\n mais reprises bon marché.[1205][000F]"
   },
   {
     "id": 118,
@@ -1797,7 +1797,7 @@
     "nom_orig": "Boy",
     "texte_orig": "Um,[SP]I[SP]heard[SP]Anima[SP]Mundi[SP]in[SP]Yumezaki[SP]sells\nreal[SP]armor.[1205][000F]",
     "nom_fr": "Garçon",
-    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Une dame a dit de bonnes choses,\n mais cher."
+    "texte_fr": "Anima Mundi à Yumezaki vend de vraies armures.[1106][NL]Une dame a dit de bonnes choses,\n mais cher.[1205][000F]"
   },
   {
     "id": 120,
@@ -4152,7 +4152,7 @@
     "nom_orig": "Old[SP]man[SP]playing[SP]dumb",
     "texte_orig": "Hm?[1205][000A][SP]Ohhhhh![1205][000F][SP]That's[SP]it![SP][E4][NULL][NULL][0006]Kuchisake-onna's[SP]mask[E4][NULL][NULL][0002]![1205][000F]\nKid,[SP]I[SP]gotta[SP]thank[SP]you[SP]for[SP]bringing[SP]it[SP]to[SP]me!",
     "nom_fr": "Vieil homme qui fait le sourd",
-    "texte_fr": "Ohhhhh ![1205][000F] C'est ça !\n [E4][NULL][NULL][0006]Le masque de Kuchisake-onna[E4][NULL][NULL][0002] ![1205][000F]\n Merci de me l'avoir apporté ![1106][NL]Comme je l'ai dit, je te revaudrai ça.\n Tiens, une [E4][NULL][NULL][0004][U+1433][NULL][NULL][0004]Carte Megido[E4][NULL][NULL][0002].\n Elle est à toi !"
+    "texte_fr": "Ohhhhh ![1205][000F] C'est ça !\n [E4][NULL][NULL][0006]Le masque de Kuchisake-onna[E4][NULL][NULL][0002] ![1205][000F]\n Merci de me l'avoir apporté ![1106][NL]Comme je l'ai dit, je te revaudrai ça.\n Tiens, une [E4][NULL][NULL][0004][1433][NULL][NULL][0004]Carte Megido[E4][NULL][NULL][0002].\n Elle est à toi !"
   },
   {
     "id": 277,
