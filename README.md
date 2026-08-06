@@ -73,7 +73,7 @@ Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable
 | **MMAP01 · MMAP02 · MMAP03 · MMAP04 · MMAP05 · MMAP06** | Dialogues sur les cartes | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
 | **CD_SHOP** | Boutique de CD / musique | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
 | **F_BE** | Répliques de combat | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **TM_EVE** | Événements scénaristiques | En cours | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) → [PR #423](https://github.com/chenetulipe/P2-FR-IS-PSP/pull/423) |
+| **TM_EVE** | Événements scénaristiques | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
 
 ### Accents français
 
