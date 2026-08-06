@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 220766,
-    "data_size": 88,
-    "slot_size": 92,
+    "data_size": 86,
+    "slot_size": 86,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Boy",
     "texte_orig": "Hey,[SP][1113].[1205][001E][SP]Do[SP]you[SP]think[SP]we're[SP]alike?",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 220858,
-    "data_size": 80,
-    "slot_size": 84,
+    "data_size": 78,
+    "slot_size": 78,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Boy",
     "texte_orig": "Yeah...[1205][001E][SP]I[SP]don't[SP]mind,[SP]either.",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 220942,
-    "data_size": 34,
-    "slot_size": 38,
+    "data_size": 32,
+    "slot_size": 32,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Boy",
     "texte_orig": "Oh[SP]yeah!",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 220980,
-    "data_size": 142,
-    "slot_size": 146,
+    "data_size": 140,
+    "slot_size": 140,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Boy",
     "texte_orig": "This[SP]is[SP]my[SP]treasure.[SP]Papa[SP]gave[SP]it[SP]to[SP]me.[1205][001E]\nYou[SP]can[SP]have[SP]it,[SP][1113].",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 221126,
-    "data_size": 188,
-    "slot_size": 192,
+    "data_size": 186,
+    "slot_size": 186,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Boy",
     "texte_orig": "It's[SP]okay.[SP]I[SP]mean,[SP]you're[SP]practically[SP]me.\nAnd[SP]I'm[SP]you.[SP]It'll[SP]be[SP]like[SP]I[SP]still[SP]have[SP]it!",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 221318,
-    "data_size": 178,
-    "slot_size": 182,
+    "data_size": 176,
+    "slot_size": 176,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Boy",
     "texte_orig": "Isn't[SP]this...[1205][001E][SP]your[SP]treasure?[SP]I[SP]thought\nyour[SP]dad[SP]gave[SP]this[SP]to[SP]you.[SP]You[SP]can't...",
@@ -98,13 +92,12 @@
   {
     "id": 6,
     "offset": 221530,
-    "data_size": 108,
-    "slot_size": 112,
+    "data_size": 106,
+    "slot_size": 106,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Boy",
     "texte_orig": "Okay,[SP]I[SP]understand.[SP]It'll[SP]be[SP]my[SP]treasure[SP]now!",
@@ -129,13 +122,12 @@
   {
     "id": 8,
     "offset": 221732,
-    "data_size": 190,
-    "slot_size": 194,
+    "data_size": 188,
+    "slot_size": 188,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Boy",
     "texte_orig": "No[SP]matter[SP]what[SP]happens,[SP]we're[SP]gonna[SP]keep[SP]our\npromise[SP]to[SP]each[SP]other![SP]Forever[SP]and[SP]ever!",
@@ -145,13 +137,12 @@
   {
     "id": 9,
     "offset": 221926,
-    "data_size": 146,
-    "slot_size": 150,
+    "data_size": 144,
+    "slot_size": 144,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Seeya,[SP]barkeep.[SP]I'll[SP]come[SP]again...\nYeah,[SP]I[SP]promise.",
@@ -161,65 +152,76 @@
   {
     "id": 10,
     "offset": 222076,
-    "data_size": 260,
-    "slot_size": 264,
+    "data_size": 258,
+    "slot_size": 258,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Drunk[SP]young[SP]man",
-    "texte_orig": "Huh?[SP]You[SP]kids[SP]shouldn't[SP]be[SP]out[SP]so[SP]late.[1205][U+000A]\nYou'll[SP]never[SP]grow[SP]up[SP]to[SP]be[SP]upstanding\ncitizens[SP]like[SP]that,[SP]you[SP]know?",
+    "texte_orig": "Huh?[SP]You[SP]kids[SP]shouldn't[SP]be[SP]out[SP]so[SP]late.[1205][000A]\nYou'll[SP]never[SP]grow[SP]up[SP]to[SP]be[SP]upstanding\ncitizens[SP]like[SP]that,[SP]you[SP]know?",
     "nom_fr": "",
     "texte_fr": "Hein? Vous devriez pas traîner dehors\nsi tard... Vous deviendrez jamais des\ncitoyens  modèles comme ça, vous savez?"
   },
   {
     "id": 11,
     "offset": 222340,
-    "data_size": 260,
-    "slot_size": 264,
+    "data_size": 258,
+    "slot_size": 258,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Drunk[SP]young[SP]man",
-    "texte_orig": "Alright![1205][U+000A][SP]Looking[SP]good[SP]there,[SP]Kaoru,[SP]and[SP]not\nat[SP]all[SP]drunk.[SP]Looking[SP]like[SP]a[SP]man[SP]who's[SP]living\nup[SP]to[SP]his[SP]dreams.",
+    "texte_orig": "Alright![1205][000A][SP]Looking[SP]good[SP]there,[SP]Kaoru,[SP]and[SP]not\nat[SP]all[SP]drunk.[SP]Looking[SP]like[SP]a[SP]man[SP]who's[SP]living\nup[SP]to[SP]his[SP]dreams.",
     "nom_fr": "",
     "texte_fr": "Bien joué! T'as la classe, Kaoru...\net t'es même pas saoul. On dirait\nun mec qui réalise ses rêves."
   },
   {
     "id": 12,
     "offset": 222604,
-    "data_size": 174,
-    "slot_size": 178,
+    "data_size": 172,
+    "slot_size": 172,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Drunk[SP]young[SP]man",
-    "texte_orig": "Hey,[SP]I'm[SP]gonna[SP]head[SP]home[SP]now...[1205][U+000A][SP]so[SP]you[SP]kids\nshould[SP]go[SP]home,[SP]too!",
+    "texte_orig": "Hey,[SP]I'm[SP]gonna[SP]head[SP]home[SP]now...[1205][000A][SP]so[SP]you[SP]kids\nshould[SP]go[SP]home,[SP]too!",
     "nom_fr": "",
     "texte_fr": "Hé... moi j'vais rentrer maintenant...\nAlors vous, les gamins, rentrez aussi!"
   },
   {
     "id": 13,
     "offset": 222782,
-    "data_size": 118,
-    "slot_size": 122,
+    "data_size": 116,
+    "slot_size": 116,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Drunk[SP]young[SP]man",
     "texte_orig": "Or[SP]else[SP]I'll[SP]have[SP]to[SP]arrest[SP]you,[SP]haha.",
     "nom_fr": "",
     "texte_fr": "Sinon j'vais être obligé\nde vous arrêter... haha."
+  },
+  {
+    "id": 14,
+    "offset": 222904,
+    "data_size": 228,
+    "slot_size": 232,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Boy",
+    "texte_orig": "Hey,[SP][1113].[SP]Did[SP]you[SP]see?[1205][0005][SP]Grown-ups[SP]drink\nto[SP]forget[SP]their[SP]dreams.[SP]I[SP]don't[SP]want[SP]to\ngrow[SP]up[SP]to[SP]be[SP]like[SP]that...",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

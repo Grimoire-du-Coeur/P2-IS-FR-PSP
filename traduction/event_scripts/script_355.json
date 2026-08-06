@@ -2,56 +2,55 @@
   {
     "id": 0,
     "offset": 359714,
-    "data_size": 206,
-    "slot_size": 210,
+    "data_size": 204,
+    "slot_size": 204,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "Huuuh?[SP]THAT[SP]lady's[SP]a[SP]model...?[1205][U+000F][SP]I-I[SP]thought\nmodels[SP]were[SP]more...[SP]slender[SP]and...[SP]willowy...",
+    "texte_orig": "Huuuh?[SP]THAT[SP]lady's[SP]a[SP]model...?[1205][000F][SP]I-I[SP]thought\nmodels[SP]were[SP]more...[SP]slender[SP]and...[SP]willowy...",
     "nom_fr": "Eikichi",
     "texte_fr": "Hein? ELLE est mannequin...? Je les\nvoyais plus... fines et... élancées..."
   },
   {
     "id": 1,
     "offset": 359924,
-    "data_size": 196,
-    "slot_size": 200,
+    "data_size": 194,
+    "slot_size": 194,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "Nahui-Ollin...[SP]Maia...[1205][U+000F][SP]I[SP]have[SP]no[SP]idea[SP]what[SP]the\nhell[SP]King[SP]Leo[SP]is[SP]saying.[SP]Not[SP]a[SP]clue.",
+    "texte_orig": "Nahui-Ollin...[SP]Maia...[1205][000F][SP]I[SP]have[SP]no[SP]idea[SP]what[SP]the\nhell[SP]King[SP]Leo[SP]is[SP]saying.[SP]Not[SP]a[SP]clue.",
     "nom_fr": "Eikichi",
     "texte_fr": "Nahui-Ollin... Maia... Aucune idée de ce\nque le Roi Lion raconte. Vraiment aucune."
   },
   {
     "id": 2,
     "offset": 360124,
-    "data_size": 232,
-    "slot_size": 236,
+    "data_size": 230,
+    "slot_size": 230,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "Is[SP]it[SP]English?[SP]Or[SP]French,[SP]maybe?\n[1208][U+0003][1432][NULL][NULL][0014]It's[SP]English.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]French.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]the[SP]voices.[1432][NULL][NULL][0014]",
+    "texte_orig": "Is[SP]it[SP]English?[SP]Or[SP]French,[SP]maybe?\n[1208][0003][1432][NULL][NULL][0014]It's[SP]English.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]French.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]the[SP]voices.[1432][NULL][NULL][0014]",
     "nom_fr": "Eikichi",
-    "texte_fr": "De l'anglais? Ou du français?\n[1208][U+0003][1432][NULL][NULL][0014]De l'anglais.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Du français.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Les voix.[1432][NULL][NULL][0014]",
+    "texte_fr": "De l'anglais? Ou du français?\n[1208][0003][1432][NULL][NULL][0014]De l'anglais.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Du français.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Les voix.[1432][NULL][NULL][0014]",
     "question_orig": "Is[SP]it[SP]English?[SP]Or[SP]French,[SP]maybe?",
     "choix_orig": [
+      "[0003]",
       "It's[SP]English.",
       "It's[SP]French.",
       "It's[SP]the[SP]voices."
     ],
+    "count_tag": "[0003]",
     "question_fr": "",
     "choix_fr": [
       "",
@@ -62,13 +61,12 @@
   {
     "id": 3,
     "offset": 360360,
-    "data_size": 236,
-    "slot_size": 240,
+    "data_size": 234,
+    "slot_size": 234,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Yow![SP]Well,[SP]of[SP]course[SP]I[SP]don't[SP]understand.\nIf[SP]it[SP]was[SP]French,[SP]that[SP]would[SP]be[SP]another\nstory...[SP]What[SP]a[SP]letdown.",
@@ -78,13 +76,12 @@
   {
     "id": 4,
     "offset": 360600,
-    "data_size": 218,
-    "slot_size": 222,
+    "data_size": 216,
+    "slot_size": 216,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Oh![SP]Well,[SP]naturally[SP]I[SP]don't[SP]understand[SP]then.\nIf[SP]it[SP]had[SP]been[SP]English,[SP]mind[SP]you...[SP]What[SP]a\nletdown.",
@@ -94,13 +91,12 @@
   {
     "id": 5,
     "offset": 360822,
-    "data_size": 254,
-    "slot_size": 258,
+    "data_size": 252,
+    "slot_size": 252,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Phew...[SP]Then[SP]of[SP]course[SP]I[SP]don't[SP]understand.\nI'm[SP]sure[SP]I[SP]would[SP]have[SP]if[SP]it[SP]had[SP]been[SP]English\nor[SP]French.[SP]What[SP]a[SP]letdown.",
@@ -110,13 +106,12 @@
   {
     "id": 6,
     "offset": 361080,
-    "data_size": 254,
-    "slot_size": 258,
+    "data_size": 252,
+    "slot_size": 252,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP]if[SP]one[SP]ideal[SP]comes[SP]true,[SP]is[SP]that[SP]all[SP]you\nget?[SP]Can't[SP]you[SP]find[SP]a[SP]new[SP]dream[SP]and[SP]start[SP]all\nover[SP]chasing[SP]that[SP]one?",
@@ -126,13 +121,12 @@
   {
     "id": 7,
     "offset": 361338,
-    "data_size": 272,
-    "slot_size": 276,
+    "data_size": 270,
+    "slot_size": 270,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "If[SP]you're[SP]constantly[SP]chasing[SP]dreams[SP]and[SP]pursuing\ngoals,[SP]won't[SP]you[SP]avoid[SP]becoming[SP]a[SP]shadowman\neven[SP]if[SP]they[SP]take[SP]your[SP]energy?",
@@ -142,13 +136,12 @@
   {
     "id": 8,
     "offset": 361614,
-    "data_size": 286,
-    "slot_size": 290,
+    "data_size": 284,
+    "slot_size": 284,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Some[SP]people[SP]got[SP]their[SP]ideals[SP]granted[SP]and[SP]some\nbecame[SP]shadowmen.[SP]Some[SP]people[SP]get[SP]to[SP]turn\ninto[SP]Idealians[SP]and[SP]some[SP]will[SP]die[SP]on[SP]Earth.",
@@ -158,13 +151,12 @@
   {
     "id": 9,
     "offset": 361904,
-    "data_size": 158,
-    "slot_size": 162,
+    "data_size": 156,
+    "slot_size": 156,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Jun...[SP]does[SP]your[SP]paradise[SP]always[SP]have[SP]to\ninvolve[SP]these[SP]sacrifices?",
@@ -174,29 +166,27 @@
   {
     "id": 10,
     "offset": 362066,
-    "data_size": 200,
-    "slot_size": 204,
+    "data_size": 198,
+    "slot_size": 198,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "Kehhei![1205][U+000F][SP]Eikichi's[SP]getting[SP]on[SP]my[SP]last[SP]nerve!\nHe[SP]talks[SP]big,[SP]but[SP]he[SP]doesn't[SP]know[SP]anything!",
+    "texte_orig": "Kehhei![1205][000F][SP]Eikichi's[SP]getting[SP]on[SP]my[SP]last[SP]nerve!\nHe[SP]talks[SP]big,[SP]but[SP]he[SP]doesn't[SP]know[SP]anything!",
     "nom_fr": "Ginko",
     "texte_fr": "Kehhei! Eikichi me tape sur les nerfs!\nIl fait le fier, mais il sait rien!"
   },
   {
     "id": 11,
     "offset": 362270,
-    "data_size": 96,
-    "slot_size": 100,
+    "data_size": 94,
+    "slot_size": 94,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "No...[1205]([SP]Look,[SP][1113].[SP]She's[SP]a[SP]shadowman...",
@@ -206,16 +196,15 @@
   {
     "id": 12,
     "offset": 362370,
-    "data_size": 218,
-    "slot_size": 222,
+    "data_size": 216,
+    "slot_size": 216,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "It[SP]wasn't[SP]like[SP]them[SP]to[SP]steal[SP]someone[SP]else's\ndreams...[1205][U+000F][SP]If[SP]they're[SP]really[SP]Joker,[SP]then...[1205][U+000F][SP]Why...?",
+    "texte_orig": "It[SP]wasn't[SP]like[SP]them[SP]to[SP]steal[SP]someone[SP]else's\ndreams...[1205][000F][SP]If[SP]they're[SP]really[SP]Joker,[SP]then...[1205][000F][SP]Why...?",
     "nom_fr": "Ginko",
     "texte_fr": "Ce n'est pas leur\ngenre de voler des rêves...\nSi c'est vraiment Joker... Pourquoi...?"
   },
@@ -237,13 +226,12 @@
   {
     "id": 14,
     "offset": 362742,
-    "data_size": 140,
-    "slot_size": 144,
+    "data_size": 138,
+    "slot_size": 138,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Mee-ho[SP]and[SP]Sheba[SP]becoming[SP]shadowmen...\nThat's[SP]not[SP]my[SP]ideal.",
@@ -253,13 +241,12 @@
   {
     "id": 15,
     "offset": 362886,
-    "data_size": 238,
-    "slot_size": 242,
+    "data_size": 236,
+    "slot_size": 236,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "My[SP]friend[SP]goes[SP]here,[SP]and[SP]every[SP]time[SP]he[SP]comes\nback,[SP]he[SP]asks[SP]if[SP]he[SP]looks[SP]any[SP]different.[SP]But[SP]I\ncan[SP]never[SP]tell...",
@@ -269,13 +256,12 @@
   {
     "id": 16,
     "offset": 363128,
-    "data_size": 296,
-    "slot_size": 300,
+    "data_size": 294,
+    "slot_size": 294,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "The[SP]people[SP]think[SP]the[SP]terrorist[SP]attacks[SP]are[SP]the\nfault[SP]of[SP]the[SP]Masked[SP]Circle.[SP]So[SP]rumors[SP]spread\nthat[SP]they're[SP]an[SP]evil[SP]cult,[SP]and[SP]they[SP]came[SP]true.",
@@ -285,13 +271,12 @@
   {
     "id": 17,
     "offset": 363428,
-    "data_size": 166,
-    "slot_size": 170,
+    "data_size": 164,
+    "slot_size": 164,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "That[SP]woman[SP]was[SP]in[SP]the[SP]Masked[SP]Circle[SP]too...\nShe[SP]got[SP]caught[SP]in[SP]the[SP]rumor...",
@@ -301,13 +286,12 @@
   {
     "id": 18,
     "offset": 363598,
-    "data_size": 152,
-    "slot_size": 156,
+    "data_size": 150,
+    "slot_size": 150,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "The[SP]Oracle[SP]of[SP]Maia...[SP]End[SP]of[SP]Nahui-Ollin...\nWhat[SP]does[SP]it[SP]all[SP]mean?",
@@ -317,13 +301,12 @@
   {
     "id": 19,
     "offset": 363754,
-    "data_size": 288,
-    "slot_size": 292,
+    "data_size": 286,
+    "slot_size": 286,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "People[SP]now[SP]don't[SP]have[SP]the[SP]courage[SP]to[SP]hold[SP]an\nideal.[SP]A[SP]single[SP]dream[SP]of[SP]theirs[SP]comes[SP]true[SP]and\nthey[SP]forget[SP]what[SP]it[SP]was[SP]like[SP]to[SP]pursue[SP]it.",
@@ -333,13 +316,12 @@
   {
     "id": 20,
     "offset": 364046,
-    "data_size": 292,
-    "slot_size": 296,
+    "data_size": 290,
+    "slot_size": 290,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "That's[SP]why,[SP]even[SP]though[SP]we[SP]take[SP]only[SP]a[SP]small\namount[SP]of[SP]Ideal[SP]Energy,[SP]they[SP]become[SP]shadowmen.\nLike[SP]fruit[SP]with[SP]all[SP]the[SP]juices[SP]squeezed[SP]out.",
@@ -349,13 +331,12 @@
   {
     "id": 21,
     "offset": 364342,
-    "data_size": 260,
-    "slot_size": 264,
+    "data_size": 258,
+    "slot_size": 258,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Joker[SP]told[SP]them[SP]to[SP]protect[SP]the[SP]people[SP]of[SP]the\ncity[SP]because[SP]Jun[SP]still[SP]has[SP]a[SP]conscience.\nHe[SP]hasn't[SP]lost[SP]himself[SP]completely.",
@@ -365,13 +346,12 @@
   {
     "id": 22,
     "offset": 364606,
-    "data_size": 140,
-    "slot_size": 144,
+    "data_size": 138,
+    "slot_size": 138,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "If[SP]we[SP]find[SP]him,[SP]I'm[SP]sure[SP]he'll[SP]return[SP]to[SP]his\nold,[SP]kind[SP]self.",
@@ -381,29 +361,27 @@
   {
     "id": 23,
     "offset": 364750,
-    "data_size": 178,
-    "slot_size": 182,
+    "data_size": 176,
+    "slot_size": 176,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
-    "texte_orig": "Ether[SP]esthetics...[1205][U+000F][SP]Is[SP]this[SP]a[SP]put-on?[SP]I[SP]mean,\nthere's[SP]no[SP]way[SP]to[SP]know,[SP]but...",
+    "texte_orig": "Ether[SP]esthetics...[1205][000F][SP]Is[SP]this[SP]a[SP]put-on?[SP]I[SP]mean,\nthere's[SP]no[SP]way[SP]to[SP]know,[SP]but...",
     "nom_fr": "Yukino",
     "texte_fr": "L'esthétique éthérique... C'est du\nflan? Aucun moyen de savoir, mais..."
   },
   {
     "id": 24,
     "offset": 364932,
-    "data_size": 92,
-    "slot_size": 96,
+    "data_size": 90,
+    "slot_size": 90,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "H-Hey,[SP]what[SP]happened[SP]to[SP]that[SP]lady?",
@@ -413,13 +391,12 @@
   {
     "id": 25,
     "offset": 365028,
-    "data_size": 222,
-    "slot_size": 226,
+    "data_size": 220,
+    "slot_size": 220,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "King[SP]Leo[SP]said[SP]he'd[SP]fulfill[SP]the[SP]Oracle[SP]before\nthe[SP]End[SP]of[SP]Whatever.[SP]I[SP]wonder[SP]what[SP]happens\nafter[SP]that?",
@@ -429,13 +406,12 @@
   {
     "id": 26,
     "offset": 365254,
-    "data_size": 152,
-    "slot_size": 156,
+    "data_size": 150,
+    "slot_size": 150,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "For[SP]me,[SP]chasing[SP]after[SP]my[SP]dream[SP]is[SP]all[SP]the\nreason[SP]I[SP]need[SP]to[SP]live.",
@@ -445,13 +421,12 @@
   {
     "id": 27,
     "offset": 365410,
-    "data_size": 262,
-    "slot_size": 266,
+    "data_size": 260,
+    "slot_size": 260,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "If[SP]Ideal[SP]Energy[SP]is[SP]your[SP]dreaming[SP]heart,[SP]it\nshould[SP]be[SP]used[SP]to[SP]figure[SP]out[SP]the[SP]meaning[SP]of\nlife,[SP]not[SP]to[SP]become[SP]an[SP]Idealian.",
@@ -461,13 +436,12 @@
   {
     "id": 28,
     "offset": 365676,
-    "data_size": 202,
-    "slot_size": 206,
+    "data_size": 200,
+    "slot_size": 200,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Philemon[SP]said[SP]the[SP]Kurosu[SP]kid[SP]was[SP]turning[SP]into\nsomething[SP]inhuman...[SP]Can[SP]we[SP]still[SP]save[SP]him?",
@@ -477,13 +451,12 @@
   {
     "id": 29,
     "offset": 365882,
-    "data_size": 268,
-    "slot_size": 272,
+    "data_size": 266,
+    "slot_size": 266,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Young[SP]woman",
     "texte_orig": "This[SP]esthetic[SP]salon[SP]is[SP]different.[SP]At[SP]first,[SP]it\nwas[SP]just[SP]for[SP]beauty,[SP]but[SP]now[SP]they[SP]offer[SP]other\ncourses,[SP]like[SP]healing...",
@@ -493,13 +466,12 @@
   {
     "id": 30,
     "offset": 366154,
-    "data_size": 244,
-    "slot_size": 248,
+    "data_size": 242,
+    "slot_size": 242,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Young[SP]woman",
     "texte_orig": "Is[SP]that[SP]the[SP]power[SP]of[SP]Ether[SP]esthetics?[SP]Well,[SP]I\ncan't[SP]knock[SP]what[SP]works...[SP]It's[SP]certainly\ndifferent,[SP]though.",
@@ -509,13 +481,12 @@
   {
     "id": 31,
     "offset": 366402,
-    "data_size": 308,
-    "slot_size": 312,
+    "data_size": 306,
+    "slot_size": 306,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Young[SP]woman",
     "texte_orig": "That[SP]lady[SP]was[SP]in[SP]the[SP]Masked[SP]Circle?[SP]I[SP]knew[SP]she\nwas[SP]saying[SP]some[SP]scary[SP]things,[SP]but...[SP]Guess[SP]the\nrumors[SP]were[SP]true[SP]about[SP]them[SP]being[SP]sinister.",
@@ -525,13 +496,12 @@
   {
     "id": 32,
     "offset": 366714,
-    "data_size": 162,
-    "slot_size": 166,
+    "data_size": 160,
+    "slot_size": 160,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Young[SP]woman",
     "texte_orig": "Wasn't[SP]there[SP]some[SP]self-professed[SP]model[SP]here?\nOr[SP]not...[SP]Oh,[SP]well.",
@@ -541,13 +511,12 @@
   {
     "id": 33,
     "offset": 366880,
-    "data_size": 252,
-    "slot_size": 256,
+    "data_size": 250,
+    "slot_size": 250,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Young[SP]woman",
     "texte_orig": "Yeesh![SP]I[SP]say[SP]whoever[SP]wants[SP]Xibalba[SP]can[SP]have[SP]it.\nWhy[SP]do[SP]they[SP]have[SP]to[SP]fight[SP]over[SP]it[SP]in[SP]the[SP]middle\nof[SP]our[SP]city!?",
@@ -557,13 +526,12 @@
   {
     "id": 34,
     "offset": 367136,
-    "data_size": 278,
-    "slot_size": 282,
+    "data_size": 276,
+    "slot_size": 276,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Middle-aged[SP]woman",
     "texte_orig": "Aren't[SP]there[SP]lots[SP]of[SP]women[SP]nowadays[SP]who[SP]come\ninto[SP]their[SP]full[SP]flower[SP]after[SP]their[SP]30s?\nLike[SP]that[SP]actress[SP]Junko[SP]Kurosu.",
@@ -573,13 +541,12 @@
   {
     "id": 35,
     "offset": 367418,
-    "data_size": 236,
-    "slot_size": 240,
+    "data_size": 234,
+    "slot_size": 234,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Middle-aged[SP]woman",
     "texte_orig": "You're[SP]only[SP]as[SP]old[SP]as[SP]you[SP]feel![SP]That's[SP]what\nI[SP]think,[SP]at[SP]least.[SP]I[SP]want[SP]to[SP]give[SP]life\nanother[SP]try.",
@@ -589,13 +556,12 @@
   {
     "id": 36,
     "offset": 367658,
-    "data_size": 304,
-    "slot_size": 308,
+    "data_size": 302,
+    "slot_size": 302,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Middle-aged[SP]woman",
     "texte_orig": "I-I[SP]won't[SP]let[SP]a[SP]few[SP]terrorist[SP]attacks[SP]get[SP]me\ndown.[SP]My[SP]life[SP]will[SP]be[SP]bright[SP]from[SP]now[SP]on!\nI'll[SP]rejuvenate[SP]myself,[SP]like[SP]Junko[SP]Kurosu.",
@@ -605,16 +571,15 @@
   {
     "id": 37,
     "offset": 367966,
-    "data_size": 288,
-    "slot_size": 292,
+    "data_size": 286,
+    "slot_size": 286,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Middle-aged[SP]woman",
-    "texte_orig": "I...[SP]I[SP]don't[SP]have[SP]any[SP]plans[SP]after[SP]becoming\nbeautiful,[SP]but...[1205][U+000F][SP]I[SP]think[SP]I'll[SP]be[SP]able[SP]to\ncome[SP]up[SP]with[SP]something[SP]after[SP]that!",
+    "texte_orig": "I...[SP]I[SP]don't[SP]have[SP]any[SP]plans[SP]after[SP]becoming\nbeautiful,[SP]but...[1205][000F][SP]I[SP]think[SP]I'll[SP]be[SP]able[SP]to\ncome[SP]up[SP]with[SP]something[SP]after[SP]that!",
     "nom_fr": "Femme d'âge mûr",
     "texte_fr": "J-Je n'ai aucun projet après\ndevenir belle, mais... Je trouverai\nbien quelque chose d'ici là!"
   },
@@ -636,13 +601,12 @@
   {
     "id": 39,
     "offset": 368354,
-    "data_size": 224,
-    "slot_size": 228,
+    "data_size": 222,
+    "slot_size": 222,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Middle-aged[SP]woman",
     "texte_orig": "I[SP]wanted[SP]to[SP]escape[SP]my[SP]daily[SP]life[SP]and[SP]find[SP]a\nnew[SP]side[SP]of[SP]myself.[SP]That's[SP]why[SP]I[SP]came[SP]here...",
@@ -652,13 +616,12 @@
   {
     "id": 40,
     "offset": 368582,
-    "data_size": 292,
-    "slot_size": 296,
+    "data_size": 290,
+    "slot_size": 290,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Middle-aged[SP]woman",
     "texte_orig": "I[SP]was[SP]getting[SP]frantic.[SP]I[SP]thought[SP]time[SP]would\npass[SP]me[SP]by[SP]if[SP]I[SP]did[SP]nothing[SP]at[SP]all...[SP]That's\nhow[SP]I[SP]backed[SP]myself[SP]into[SP]a[SP]corner.",
@@ -668,13 +631,12 @@
   {
     "id": 41,
     "offset": 368878,
-    "data_size": 214,
-    "slot_size": 218,
+    "data_size": 212,
+    "slot_size": 212,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Middle-aged[SP]woman",
     "texte_orig": "One[SP]of[SP]the[SP]Masked[SP]Circle[SP]saved[SP]me[SP]from[SP]the\nsoldiers[SP]outside.[SP]Maybe[SP]I[SP]misjudged[SP]them.",
@@ -684,29 +646,27 @@
   {
     "id": 42,
     "offset": 369096,
-    "data_size": 208,
-    "slot_size": 212,
+    "data_size": 206,
+    "slot_size": 206,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Model",
-    "texte_orig": "I'm[SP]working[SP]as[SP]a[SP]model.[SP]I[SP]finally[SP]got[SP]my[SP]dream\njob![1205][U+000F][SP]He[SP]must[SP]have[SP]been[SP]a[SP]god[SP]or[SP]something...",
+    "texte_orig": "I'm[SP]working[SP]as[SP]a[SP]model.[SP]I[SP]finally[SP]got[SP]my[SP]dream\njob![1205][000F][SP]He[SP]must[SP]have[SP]been[SP]a[SP]god[SP]or[SP]something...",
     "nom_fr": "Mannequin",
     "texte_fr": "Je suis mannequin. J'ai eu le boulot de\nmes rêves! C'était un dieu ou quoi..."
   },
   {
     "id": 43,
     "offset": 369308,
-    "data_size": 198,
-    "slot_size": 202,
+    "data_size": 196,
+    "slot_size": 196,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Model",
     "texte_orig": "What?[SP]Then[SP]why[SP]am[SP]I[SP]at[SP]an[SP]esthetic[SP]salon?\nTo[SP]make[SP]myself[SP]even[SP]more[SP]beautiful,[SP]of[SP]course.",
@@ -716,13 +676,12 @@
   {
     "id": 44,
     "offset": 369510,
-    "data_size": 288,
-    "slot_size": 292,
+    "data_size": 286,
+    "slot_size": 286,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Gaaaah![SP]Why[SP]do[SP]I[SP]have[SP]to[SP]go[SP]to[SP]an[SP]esthetic\nsalon!?[SP]I'm[SP]a[SP]model![SP]Now[SP]I'm[SP]wishing[SP]I[SP]asked\nhim[SP]to[SP]make[SP]me[SP]skinny[SP]instead!",
@@ -732,13 +691,12 @@
   {
     "id": 45,
     "offset": 369802,
-    "data_size": 260,
-    "slot_size": 264,
+    "data_size": 258,
+    "slot_size": 258,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Yes,[SP]I'm[SP]in[SP]the[SP]Masked[SP]Circle![SP]I[SP]asked[SP]Joker\nto[SP]make[SP]me[SP]a[SP]model![SP]Do[SP]you[SP]have[SP]a[SP]problem\nwith[SP]that!?[SP]Why!?",
@@ -748,45 +706,42 @@
   {
     "id": 46,
     "offset": 370066,
-    "data_size": 266,
-    "slot_size": 270,
+    "data_size": 264,
+    "slot_size": 264,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
-    "texte_orig": "I'm...[SP]a[SP]model...[1205][U+000F][SP]Why[SP]do[SP]I[SP]only[SP]get[SP]jobs...\nfor[SP]diet[SP]ads...?[SP]This[SP]is[SP]so[SP]stupid...[SP]I[SP]don't\ncare[SP]anymore...",
+    "texte_orig": "I'm...[SP]a[SP]model...[1205][000F][SP]Why[SP]do[SP]I[SP]only[SP]get[SP]jobs...\nfor[SP]diet[SP]ads...?[SP]This[SP]is[SP]so[SP]stupid...[SP]I[SP]don't\ncare[SP]anymore...",
     "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Je suis... mannequin... Pourquoi\nque des pubs de régime...? C'est\nnul... M'en fous maintenant..."
   },
   {
     "id": 47,
     "offset": 370336,
-    "data_size": 234,
-    "slot_size": 238,
+    "data_size": 232,
+    "slot_size": 232,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
-    "texte_orig": "Joker...[1205][U+000F][SP]ordered[SP]me[SP]to...[1205][U+000F][SP]protect[SP]the[SP]people\nof[SP]the[SP]city...[1205][U+000F][SP]But...[SP]I[SP]don't[SP]want[SP]to...",
+    "texte_orig": "Joker...[1205][000F][SP]ordered[SP]me[SP]to...[1205][000F][SP]protect[SP]the[SP]people\nof[SP]the[SP]city...[1205][000F][SP]But...[SP]I[SP]don't[SP]want[SP]to...",
     "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Joker... m'a ordonné de... protéger les\ngens de la ville... Mais... j'veux pas..."
   },
   {
     "id": 48,
     "offset": 370574,
-    "data_size": 156,
-    "slot_size": 160,
+    "data_size": 154,
+    "slot_size": 154,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Why,[SP]hello![SP]Welcome[SP]to[SP]Etheria.[SP]What[SP]can[SP]we\ndo[SP]for[SP]you[SP]today?",
@@ -796,18 +751,25 @@
   {
     "id": 49,
     "offset": 370734,
-    "data_size": 212,
-    "slot_size": 216,
+    "data_size": 210,
+    "slot_size": 210,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
-    "texte_orig": "Tell[SP]us[SP]what[SP]brings[SP]you[SP]to[SP]our[SP]facility.\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
+    "texte_orig": "Tell[SP]us[SP]what[SP]brings[SP]you[SP]to[SP]our[SP]facility.\n[1208][0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Que puis-je faire pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne\nNon merci\nPartir",
+    "texte_fr": "Que puis-je faire pour vous?\n[1208][0004]Soins\nParler à l'esthéticienne\nNon merci\nPartir",
+    "question_orig": "Tell[SP]us[SP]what[SP]brings[SP]you[SP]to[SP]our[SP]facility.",
+    "choix_orig": [
+      "Heal",
+      "Talk[SP]to[SP]the[SP]esthetician",
+      "Never[SP]mind",
+      "Leave"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -816,18 +778,23 @@
   {
     "id": 50,
     "offset": 370950,
-    "data_size": 126,
-    "slot_size": 130,
+    "data_size": 124,
+    "slot_size": 124,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Ask[SP]away.\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
     "nom_fr": "Esthéticienne",
     "texte_fr": "Je vous écoute.\n[1208][0002]Parler\nDemander les soins",
+    "question_orig": "Ask[SP]away.",
+    "choix_orig": [
+      "Make[SP]small[SP]talk",
+      "Ask[SP]about[SP]healing"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -866,13 +833,12 @@
   {
     "id": 53,
     "offset": 371500,
-    "data_size": 266,
-    "slot_size": 270,
+    "data_size": 264,
+    "slot_size": 264,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "There[SP]is[SP]a[SP]cost[SP]involved,[SP]but[SP]our[SP]methods\naffect[SP]all[SP]of[SP]you[SP]at[SP]once.[SP]Believe[SP]me,[SP]in\nthe[SP]long[SP]run,[SP]you'll[SP]save[SP]money.",
@@ -882,13 +848,12 @@
   {
     "id": 54,
     "offset": 371770,
-    "data_size": 232,
-    "slot_size": 236,
+    "data_size": 230,
+    "slot_size": 230,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Please[SP]stop[SP]by[SP]whenever[SP]you're[SP]feeling[SP]ill.\nUse[SP]Ether[SP]esthetics[SP]for[SP]clearer[SP]skin[SP]and\nbetter[SP]health.",
@@ -898,13 +863,12 @@
   {
     "id": 55,
     "offset": 372006,
-    "data_size": 210,
-    "slot_size": 214,
+    "data_size": 208,
+    "slot_size": 208,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Oh?[SP]But[SP]you[SP]all[SP]seem[SP]so[SP]healthy.[SP]I[SP]don't[SP]see\nthe[SP]need[SP]for[SP]any[SP]treatment[SP]at[SP]the[SP]moment...",
@@ -914,18 +878,23 @@
   {
     "id": 56,
     "offset": 372220,
-    "data_size": 220,
-    "slot_size": 224,
+    "data_size": 218,
+    "slot_size": 218,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?\n[1208][0002]Yes\nNo",
     "nom_fr": "Esthéticienne",
     "texte_fr": "Très bien. Ça fera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui[0014]Non",
+    "question_orig": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?",
+    "choix_orig": [
+      "Yes",
+      "No"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -934,13 +903,12 @@
   {
     "id": 57,
     "offset": 372444,
-    "data_size": 222,
-    "slot_size": 226,
+    "data_size": 220,
+    "slot_size": 220,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "What?[SP]Why[SP]not?[SP]Don't[SP]you[SP]trust[SP]Ether[SP]esthetics?\nThose[SP]who[SP]believe[SP]will[SP]be[SP]saved.[SP]Very[SP]much[SP]so.",
@@ -950,29 +918,27 @@
   {
     "id": 58,
     "offset": 372670,
-    "data_size": 216,
-    "slot_size": 220,
+    "data_size": 214,
+    "slot_size": 214,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
-    "texte_orig": "Okay![SP]Just[SP]relax...[1205][U+000F][SP]and[SP]let[SP]our[SP]shop's[SP]unique\ntreatment[SP]wash[SP]over[SP]you...[SP]Ether[SP]esthetics!",
+    "texte_orig": "Okay![SP]Just[SP]relax...[1205][000F][SP]and[SP]let[SP]our[SP]shop's[SP]unique\ntreatment[SP]wash[SP]over[SP]you...[SP]Ether[SP]esthetics!",
     "nom_fr": "Esthéticienne",
     "texte_fr": "Bien! Détendez-vous... et laissez\nl'esthétique éthérique vous envelopper..."
   },
   {
     "id": 59,
     "offset": 372890,
-    "data_size": 224,
-    "slot_size": 228,
+    "data_size": 222,
+    "slot_size": 222,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "That[SP]concludes[SP]our[SP]treatment.[SP]How[SP]would[SP]you[SP]say\nthe[SP]Ether[SP]esthetics[SP]made[SP]you[SP]feel?[SP]Good?[SP]Great?",
@@ -982,13 +948,12 @@
   {
     "id": 60,
     "offset": 373118,
-    "data_size": 212,
-    "slot_size": 216,
+    "data_size": 210,
+    "slot_size": 210,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Our[SP]name,[SP]Etheria,[SP]is[SP]a[SP]combination[SP]of[SP]the\nwords[SP]Ether[SP]and[SP]Materia.[SP]Isn't[SP]that[SP]beautiful?",
@@ -998,13 +963,12 @@
   {
     "id": 61,
     "offset": 373334,
-    "data_size": 300,
-    "slot_size": 304,
+    "data_size": 298,
+    "slot_size": 298,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "As[SP]the[SP]name[SP]implies,[SP]our[SP]esthetic[SP]treatment\ndirectly[SP]harnesses[SP]ether,[SP]the[SP]foundation[SP]of\nlife,[SP]and[SP]energizes[SP]it.[SP]It[SP]can[SP]heal[SP]anything.",
@@ -1029,13 +993,12 @@
   {
     "id": 63,
     "offset": 373908,
-    "data_size": 192,
-    "slot_size": 196,
+    "data_size": 190,
+    "slot_size": 190,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Who[SP]else[SP]does[SP]what[SP]we[SP]do,[SP]working[SP]with[SP]the\nether[SP]your[SP]very[SP]body[SP]is[SP]composed[SP]of?",
@@ -1053,20 +1016,19 @@
       5169
     ],
     "nom_orig": "Esthetician",
-    "texte_orig": "That's[SP]right![SP]Nobody.[1205][U+000F][SP]And[SP]it's[SP]not[SP]just\nbeautifcation.",
+    "texte_orig": "That's[SP]right![SP]Nobody.[1205][000F][SP]And[SP]it's[SP]not[SP]just\nbeautifcation.",
     "nom_fr": "Esthéticienne",
     "texte_fr": "Exactement! Personne. Pas\nque de l'embellissement."
   },
   {
     "id": 65,
     "offset": 374254,
-    "data_size": 278,
-    "slot_size": 282,
+    "data_size": 276,
+    "slot_size": 276,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "We[SP]can[SP]heal[SP]anything,[SP]from[SP]wounds[SP]to[SP]illnesses.\nIt[SP]sounds[SP]too[SP]good[SP]to[SP]be[SP]true,[SP]but[SP]it[SP]isn't!\nToo[SP]good,[SP]I[SP]mean.[SP]It[SP]is[SP]true.",
@@ -1076,13 +1038,12 @@
   {
     "id": 66,
     "offset": 374536,
-    "data_size": 256,
-    "slot_size": 260,
+    "data_size": 254,
+    "slot_size": 254,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Still[SP]doubting[SP]Ether[SP]esthetics?[SP]Just[SP]sign\nup[SP]for[SP]the[SP]treatment,[SP]and[SP]you'll[SP]experience\nthe[SP]miracle[SP]for[SP]yourself.",
@@ -1092,13 +1053,12 @@
   {
     "id": 67,
     "offset": 374796,
-    "data_size": 266,
-    "slot_size": 270,
+    "data_size": 264,
+    "slot_size": 264,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Yes...[SP]All[SP]my[SP]cofounders[SP]quit,[SP]because[SP]they\nthought[SP]me[SP]mad...[SP]But[SP]I[SP]showed[SP]them![SP]Oh,[SP]how\nI[SP]showed[SP]them![SP]Ahahahahaha!",
@@ -1108,13 +1068,12 @@
   {
     "id": 68,
     "offset": 375066,
-    "data_size": 282,
-    "slot_size": 286,
+    "data_size": 280,
+    "slot_size": 280,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "When[SP]I[SP]first[SP]started[SP]this[SP]clinic,[SP]no[SP]one\nbelieved[SP]in[SP]Ether,[SP]so[SP]I[SP]had[SP]no[SP]customers.\nBut[SP]then[SP]word[SP]of[SP]us[SP]started[SP]going[SP]around.",
@@ -1124,13 +1083,12 @@
   {
     "id": 69,
     "offset": 375352,
-    "data_size": 278,
-    "slot_size": 282,
+    "data_size": 276,
+    "slot_size": 276,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "And[SP]before[SP]I[SP]knew[SP]it,[SP]I[SP]was[SP]healing[SP]wounds\nand[SP]illnesses,[SP]just[SP]as[SP]advertised![SP]It's[SP]very\nmysterious,[SP]if[SP]you[SP]think[SP]about[SP]it.",
@@ -1140,13 +1098,12 @@
   {
     "id": 70,
     "offset": 375634,
-    "data_size": 306,
-    "slot_size": 310,
+    "data_size": 304,
+    "slot_size": 304,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "There[SP]seem[SP]to[SP]be[SP]quite[SP]a[SP]few[SP]wounded[SP]citizens\nin[SP]Sumaru.[SP]It's[SP]at[SP]times[SP]like[SP]these[SP]that[SP]Ether\nesthetics[SP]are[SP]useful.[SP]We[SP]can[SP]heal[SP]anything!",
@@ -1156,13 +1113,12 @@
   {
     "id": 71,
     "offset": 375944,
-    "data_size": 312,
-    "slot_size": 316,
+    "data_size": 310,
+    "slot_size": 310,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Though[SP]that[SP]makes[SP]it[SP]seem[SP]like[SP]I'm[SP]reveling[SP]in\nthe[SP]misfortune[SP]of[SP]others...[SP]What's[SP]wrong[SP]with\nme?[SP]I[SP]feel[SP]like[SP]I'm[SP]losing[SP]pieces[SP]of[SP]myself...",
@@ -1172,13 +1128,12 @@
   {
     "id": 72,
     "offset": 376260,
-    "data_size": 256,
-    "slot_size": 260,
+    "data_size": 254,
+    "slot_size": 254,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Hahah...[SP]I[SP]doubt[SP]even[SP]my[SP]Ether[SP]esthetics[SP]can\nheal[SP]that...[SP]Well,[SP]just[SP]gotta[SP]pick[SP]myself[SP]back\nup[SP]and[SP]get[SP]to[SP]work!",
@@ -1188,18 +1143,25 @@
   {
     "id": 73,
     "offset": 376520,
-    "data_size": 200,
-    "slot_size": 204,
+    "data_size": 198,
+    "slot_size": 198,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
-    "texte_orig": "May[SP]I[SP]help[SP]you[SP]with[SP]anything[SP]else?\n[1208][U+0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
+    "texte_orig": "May[SP]I[SP]help[SP]you[SP]with[SP]anything[SP]else?\n[1208][0004]Heal\nTalk[SP]to[SP]the[SP]esthetician\nNever[SP]mind\nLeave",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Autre chose pour vous?\n[1208][U+0004]Soins\nParler à l'esthéticienne\nNon merci\nPartir",
+    "texte_fr": "Autre chose pour vous?\n[1208][0004]Soins\nParler à l'esthéticienne\nNon merci\nPartir",
+    "question_orig": "May[SP]I[SP]help[SP]you[SP]with[SP]anything[SP]else?",
+    "choix_orig": [
+      "Heal",
+      "Talk[SP]to[SP]the[SP]esthetician",
+      "Never[SP]mind",
+      "Leave"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1208,18 +1170,23 @@
   {
     "id": 74,
     "offset": 376724,
-    "data_size": 126,
-    "slot_size": 130,
+    "data_size": 124,
+    "slot_size": 124,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Ask[SP]away.\n[1208][0002]Make[SP]small[SP]talk\nAsk[SP]about[SP]healing",
     "nom_fr": "Esthéticienne",
     "texte_fr": "Je vous écoute.\n[1208][0002]Parler\nDemander les soins",
+    "question_orig": "Ask[SP]away.",
+    "choix_orig": [
+      "Make[SP]small[SP]talk",
+      "Ask[SP]about[SP]healing"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1228,17 +1195,31 @@
   {
     "id": 75,
     "offset": 376854,
-    "data_size": 256,
-    "slot_size": 260,
+    "data_size": 254,
+    "slot_size": 254,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Esthetician",
     "texte_orig": "Ahh,[SP]I[SP]don't[SP]think[SP]you[SP]have[SP]enough[SP]money...\nRevolutionary[SP]treatment[SP]like[SP]ours[SP]doesn't\ncome[SP]cheap.[SP]My[SP]apologies.",
     "nom_fr": "Esthéticienne",
     "texte_fr": "Ahh, vous n'avez pas assez d'argent...\nUn tel traitement révolutionnaire ne\ns'offre pas à bas prix. Désolée."
+  },
+  {
+    "id": 76,
+    "offset": 377114,
+    "data_size": 230,
+    "slot_size": 230,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Esthetician",
+    "texte_orig": "Please[SP]stop[SP]by[SP]whenever[SP]you're[SP]feeling[SP]ill.\nUse[SP]Ether[SP]esthetics[SP]for[SP]clearer[SP]skin[SP]and\nbetter[SP]health.",
+    "nom_fr": "Esthéticienne",
+    "texte_fr": "Revenez en cas de malaise.\nL'esthétique éthérique pour une\npeau nette et une meilleure santé."
   }
 ]

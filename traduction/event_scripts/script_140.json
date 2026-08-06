@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 240298,
-    "data_size": 130,
-    "slot_size": 134,
+    "data_size": 128,
+    "slot_size": 128,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "Are[SP]you[SP]all[SP]okay!?[SP]What[SP]in[SP]the[SP]world[SP]is\ngoing[SP]on...?",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 240432,
-    "data_size": 164,
-    "slot_size": 168,
+    "data_size": 162,
+    "slot_size": 162,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Joker",
     "texte_orig": "I-Impossible...[1205][001E][SP]This...[SP]can't[SP]be...![1205][001E]\nI...[SP]I[SP]refuse[SP]to[SP]accept[SP]this!",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 240600,
-    "data_size": 238,
-    "slot_size": 242,
+    "data_size": 236,
+    "slot_size": 236,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Unknown[SP]voice",
     "texte_orig": "You[SP]want[SP]power...?[1205][001E][SP]Then[SP]wish[SP]for[SP]it...\nHate...[1205][001E][SP]Immolate[SP]yourself[SP]in[SP]the[SP]flames\nof[SP]abhorrence...",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 240842,
-    "data_size": 138,
-    "slot_size": 142,
+    "data_size": 136,
+    "slot_size": 136,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Joker",
     "texte_orig": "I...[SP]want[SP]power...![1205][001E][SP]Power[SP]enough[SP]to[SP]yield[SP]to\nno[SP]one...!",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 240984,
-    "data_size": 56,
-    "slot_size": 60,
+    "data_size": 54,
+    "slot_size": 54,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "No![SP]Don't[SP]listen!",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 241044,
-    "data_size": 312,
-    "slot_size": 316,
+    "data_size": 310,
+    "slot_size": 310,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Nyarlathotep",
     "texte_orig": "Your[SP]wish[SP]has[SP]been[SP]heard...[1205][001E][SP]The[SP]sacrifice[SP]on\noffer[SP]is[SP]yourself.[1205][001E][SP]Since[SP]you[SP]were[SP]shunned[SP]as\na[SP]demon,[SP]I[SP]give[SP]you[SP]a[SP]demon[SP]king's[SP]power...",
@@ -98,13 +92,12 @@
   {
     "id": 6,
     "offset": 241360,
-    "data_size": 82,
-    "slot_size": 86,
+    "data_size": 80,
+    "slot_size": 80,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Joker",
     "texte_orig": "Aaaaaaaaagh...!?[1205][001E][SP]S-Stop...!",
@@ -114,17 +107,31 @@
   {
     "id": 7,
     "offset": 241446,
-    "data_size": 310,
-    "slot_size": 314,
+    "data_size": 308,
+    "slot_size": 308,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Nyarlathotep",
     "texte_orig": "Your[SP]wish[SP]has[SP]been[SP]heard...[1205][001E][SP]The[SP]sacrifice[SP]on\noffer[SP]is[SP]yourself.[1205][001E][SP]Since[SP]you[SP]were[SP]praised[SP]as\nan[SP]angel,[SP]I[SP]grant[SP]you[SP]heavenly[SP]strength...",
     "nom_fr": "Nyarlathotep",
     "texte_fr": "Ton souhait a été\nentendu. Pour ce sacrifice,\ntu sera le dû. Loué\ntel un ange, c'est depuis\nles  cieux que ton pouvoir te sera offert."
+  },
+  {
+    "id": 8,
+    "offset": 241760,
+    "data_size": 80,
+    "slot_size": 80,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Joker",
+    "texte_orig": "Aaaaaaaaagh...!?[1205][001E][SP]S-Stop...!",
+    "nom_fr": "Joker",
+    "texte_fr": "Aaaaargh...!?[1205][001E] S-Stop...!"
   }
 ]

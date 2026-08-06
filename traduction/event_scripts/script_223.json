@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 295230,
-    "data_size": 224,
-    "slot_size": 228,
+    "data_size": 222,
+    "slot_size": 222,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "That's[SP]amazing,[SP]Eriko![SP]But[SP]Hirasaka[SP]is\na[SP]pretty[SP]huge[SP]place...[SP]We[SP]still[SP]need[SP]to\npinpoint[SP]a[SP]location.",
@@ -33,13 +32,12 @@
   {
     "id": 2,
     "offset": 295572,
-    "data_size": 250,
-    "slot_size": 254,
+    "data_size": 248,
+    "slot_size": 248,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "I[SP]get[SP]it.[SP]The[SP]descent[SP]into[SP]the[SP]netherworld\nis[SP]about[SP]Yomotsu[SP]Hirasaka[SP]from[SP]Japanese\nmyth...[1205][001E][SP]It's[SP]a[SP]play[SP]on[SP]words.",
@@ -64,13 +62,12 @@
   {
     "id": 4,
     "offset": 296090,
-    "data_size": 242,
-    "slot_size": 246,
+    "data_size": 240,
+    "slot_size": 240,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Elly",
     "texte_orig": "Unfortunately,[SP]I'm[SP]not[SP]that[SP]familiar[SP]with\nSumaru[SP]City's[SP]environs.[SP]So[SP]I[SP]can't[SP]deduce\nanything[SP]further[SP]as[SP]yet...",
@@ -80,13 +77,12 @@
   {
     "id": 5,
     "offset": 296336,
-    "data_size": 228,
-    "slot_size": 232,
+    "data_size": 226,
+    "slot_size": 226,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "That's[SP]okay![SP]You've[SP]done[SP]more[SP]than[SP]your\nshare![SP]We'll[SP]figure[SP]out[SP]the[SP]rest[SP]on[SP]our\nown.[SP]Grazie,[SP]Eriko-san!",
@@ -96,13 +92,12 @@
   {
     "id": 6,
     "offset": 296568,
-    "data_size": 216,
-    "slot_size": 220,
+    "data_size": 214,
+    "slot_size": 214,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Elly",
     "texte_orig": "You're[SP]quite[SP]welcome.[SP]I'll[SP]stay[SP]here[SP]and\nponder[SP]the[SP]Masked[SP]Circle[SP]and[SP]their[SP]riddle\na[SP]little[SP]more.",
@@ -127,13 +122,12 @@
   {
     "id": 8,
     "offset": 296978,
-    "data_size": 130,
-    "slot_size": 134,
+    "data_size": 128,
+    "slot_size": 128,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "But[SP]there's[SP]no[SP]time[SP]to[SP]waste![SP]Let's[SP]go,\n[1113],[SP]Maya-san!",
@@ -143,13 +137,12 @@
   {
     "id": 9,
     "offset": 297112,
-    "data_size": 162,
-    "slot_size": 166,
+    "data_size": 160,
+    "slot_size": 160,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Miss[SP]Elly...[1205][001E][SP]Someday[SP]I'll[SP]kindle[SP]the[SP]flame\nof[SP]love[SP]in[SP]your[SP]heart!",
@@ -189,13 +182,12 @@
   {
     "id": 12,
     "offset": 297582,
-    "data_size": 172,
-    "slot_size": 176,
+    "data_size": 170,
+    "slot_size": 170,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "U-Umm...[1205][001E][SP]Now's[SP]not[SP]the[SP]time[SP]for[SP]this,[SP]huh?\nI'll[SP]tell[SP]you[SP]later,[SP]maybe...",
@@ -220,13 +212,12 @@
   {
     "id": 14,
     "offset": 298018,
-    "data_size": 234,
-    "slot_size": 238,
+    "data_size": 232,
+    "slot_size": 232,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "This[SP]has[SP]already[SP]taken[SP]up[SP]enough[SP]time[SP]as[SP]is,\nso[SP]if[SP]we[SP]get[SP]the[SP]next[SP]target[SP]wrong,[SP]it[SP]could\nbe[SP]disastrous...",
@@ -236,17 +227,31 @@
   {
     "id": 15,
     "offset": 298256,
-    "data_size": 190,
-    "slot_size": 194,
+    "data_size": 188,
+    "slot_size": 188,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
-    "texte_orig": "I'm[SP]sure[SP]you've[SP]already[SP]sensed[SP]it,[SP]but[SP]Elly\nis[SP]a[SP]Manieur de Persona[SP]too.[SP]Ah,[SP]memories...",
+    "texte_orig": "I'm[SP]sure[SP]you've[SP]already[SP]sensed[SP]it,[SP]but[SP]Elly\nis[SP]a[SP]Persona-user[SP]too.[SP]Ah,[SP]memories...",
     "nom_fr": "Yukino",
     "texte_fr": "Elly manie aussi une Persona, vous l'avez\nsûrement vu. Ah, que de souvenirs..."
+  },
+  {
+    "id": 16,
+    "offset": 298450,
+    "data_size": 462,
+    "slot_size": 462,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Elly",
+    "texte_orig": "Aha...[1205][001E][SP]You're[SP][1113]-kun,[SP]correct?\n[E4][NULL][NULL]\"Elly\nIt's[SP]just[SP]as[SP]Yukino[SP]said.[SP]I[SP]get[SP]the[SP]same\nfeeling[SP]from[SP]you[SP]as[SP]a[SP]good[SP]friend[SP]of[SP]ours.\n[E4][NULL][NULL]\"Elly\nHe,[SP]too,[SP]was[SP]quiet[SP]and[SP]cool,[SP]but[SP]he[SP]was[SP]also\nvery[SP]strong[SP]and[SP]kind...[1205][001E][SP]and,[SP]well,[SP]my...",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

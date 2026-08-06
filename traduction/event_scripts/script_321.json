@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 277366,
-    "data_size": 186,
-    "slot_size": 190,
+    "data_size": 184,
+    "slot_size": 184,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "You[SP]have[SP]too[SP]many[SP]Incense[SP]sets,[SP]meow![SP]I[SP]can't\ngive[SP]you[SP]any[SP]more,[SP]meow!",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 277556,
-    "data_size": 284,
-    "slot_size": 288,
+    "data_size": 282,
+    "slot_size": 282,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Can't[SP]we[SP]do[SP]something[SP]about[SP]the[SP]situation\nby[SP]spreading[SP]our[SP]own[SP]rumors?[SP]Like,[SP]the[SP]Earth\nwill[SP]be[SP]fine,[SP]or[SP]the[SP]In[SP]Lak'ech[SP]is[SP]a[SP]hoax.",
@@ -34,61 +32,57 @@
   {
     "id": 2,
     "offset": 277844,
-    "data_size": 268,
-    "slot_size": 272,
+    "data_size": 266,
+    "slot_size": 266,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
-    "texte_orig": "Sheesh,[SP]what[SP]a[SP]complete[SP]and[SP]utter[SP]coward...[1205][U+000A]\nC'mon,[SP]aren't[SP]you[SP]some[SP]ace[SP]detective[SP]who\nthrives[SP]in[SP]the[SP]shadow[SP]of[SP]the[SP]city?",
+    "texte_orig": "Sheesh,[SP]what[SP]a[SP]complete[SP]and[SP]utter[SP]coward...[1205][000A]\nC'mon,[SP]aren't[SP]you[SP]some[SP]ace[SP]detective[SP]who\nthrives[SP]in[SP]the[SP]shadow[SP]of[SP]the[SP]city?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pfff, quel lâche absolu...[1205][U+000A] T'es\npas censé être un as détective qui\nprospère dans l'ombre de la ville?"
+    "texte_fr": "Pfff, quel lâche absolu...[1205][000A] T'es\npas censé être un as détective qui\nprospère dans l'ombre de la ville?"
   },
   {
     "id": 3,
     "offset": 278116,
-    "data_size": 206,
-    "slot_size": 210,
+    "data_size": 204,
+    "slot_size": 204,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "Could[SP]the[SP]part[SP]about[SP]the[SP]Earth[SP]being[SP]annihilated\ncome[SP]true,[SP]too?[1205][U+000F][SP]Yeah,[SP]I'm[SP]sure[SP]it[SP]will...",
+    "texte_orig": "Could[SP]the[SP]part[SP]about[SP]the[SP]Earth[SP]being[SP]annihilated\ncome[SP]true,[SP]too?[1205][000F][SP]Yeah,[SP]I'm[SP]sure[SP]it[SP]will...",
     "nom_fr": "Ginko",
     "texte_fr": "La destruction de la Terre va-t-elle aussi\nse réaliser? Ouais, j'en suis sûre..."
   },
   {
     "id": 4,
     "offset": 278326,
-    "data_size": 272,
-    "slot_size": 276,
+    "data_size": 270,
+    "slot_size": 270,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
-    "texte_orig": "What're[SP]we[SP]gonna[SP]do?[1205][U+000F][SP]Everyone's[SP]gossiping[SP]about\nhow[SP]the[SP]world's[SP]gonna[SP]end[SP]down[SP]there,[SP]just\nbecause[SP]they[SP]think[SP]they're[SP]safe.",
+    "texte_orig": "What're[SP]we[SP]gonna[SP]do?[1205][000F][SP]Everyone's[SP]gossiping[SP]about\nhow[SP]the[SP]world's[SP]gonna[SP]end[SP]down[SP]there,[SP]just\nbecause[SP]they[SP]think[SP]they're[SP]safe.",
     "nom_fr": "Ginko",
     "texte_fr": "Que va-t-on faire? Tous parlent de\nla fin du monde en bas, juste parce\nqu'ils se croient en sécurité."
   },
   {
     "id": 5,
     "offset": 278602,
-    "data_size": 138,
-    "slot_size": 142,
+    "data_size": 136,
+    "slot_size": 136,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]quit[SP]it,[SP]Eikichi![SP]You[SP]don't[SP]have[SP]to[SP]say\nit[SP]like[SP]that.",
@@ -98,77 +92,72 @@
   {
     "id": 6,
     "offset": 278744,
-    "data_size": 272,
-    "slot_size": 276,
+    "data_size": 270,
+    "slot_size": 270,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "Yeah...[1205][U+000A][SP]At[SP]this[SP]rate,[SP]the[SP]people[SP]of[SP]Sumaru[SP]will\ndestroy[SP]the[SP]world...[1205][U+000F][SP]We[SP]have[SP]to[SP]do[SP]something\nbefore[SP]it[SP]gets[SP]to[SP]that[SP]stage.",
+    "texte_orig": "Yeah...[1205][000A][SP]At[SP]this[SP]rate,[SP]the[SP]people[SP]of[SP]Sumaru[SP]will\ndestroy[SP]the[SP]world...[1205][000F][SP]We[SP]have[SP]to[SP]do[SP]something\nbefore[SP]it[SP]gets[SP]to[SP]that[SP]stage.",
     "nom_fr": "Maya",
-    "texte_fr": "Ouais...[1205][U+000A] À ce rythme, les gens de\nSumaru détruiront le monde... Il\nfaut agir avant d'en arriver là."
+    "texte_fr": "Ouais...[1205][000A] À ce rythme, les gens de\nSumaru détruiront le monde... Il\nfaut agir avant d'en arriver là."
   },
   {
     "id": 7,
     "offset": 279020,
-    "data_size": 166,
-    "slot_size": 170,
+    "data_size": 164,
+    "slot_size": 164,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
-    "texte_orig": "Tell[SP]Tamaki-san[SP]not[SP]to[SP]worry[SP]so[SP]much[SP]about[SP]it,\n[1113]-kun.[1205][U+000F][SP]We[SP]can[SP]handle[SP]it.",
+    "texte_orig": "Tell[SP]Tamaki-san[SP]not[SP]to[SP]worry[SP]so[SP]much[SP]about[SP]it,\n[1113]-kun.[1205][000F][SP]We[SP]can[SP]handle[SP]it.",
     "nom_fr": "Maya",
     "texte_fr": "Dis à Tamaki de ne pas s'en\nfaire, [1113]-kun. On gère."
   },
   {
     "id": 8,
     "offset": 279190,
-    "data_size": 206,
-    "slot_size": 210,
+    "data_size": 204,
+    "slot_size": 204,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
-    "texte_orig": "We've[SP]got[SP]no[SP]choice[SP]but[SP]to[SP]stop[SP]my[SP]father.[1205][U+000F]\nIf[SP]we[SP]can[SP]do[SP]that,[SP]no[SP]more[SP]rumors[SP]will\ncome[SP]true.",
+    "texte_orig": "We've[SP]got[SP]no[SP]choice[SP]but[SP]to[SP]stop[SP]my[SP]father.[1205][000F]\nIf[SP]we[SP]can[SP]do[SP]that,[SP]no[SP]more[SP]rumors[SP]will\ncome[SP]true.",
     "nom_fr": "Jun",
     "texte_fr": "Il faut arrêter mon père. Si on y arrive,\nplus aucune rumeur ne se réalisera."
   },
   {
     "id": 9,
     "offset": 279400,
-    "data_size": 170,
-    "slot_size": 174,
+    "data_size": 168,
+    "slot_size": 168,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
-    "texte_orig": "The[SP]Maia[SP]Maiden...[1205][U+000F][SP]It[SP]seems[SP]my[SP]father[SP]still\nhopes[SP]to[SP]fulfill[SP]the[SP]Oracle...",
+    "texte_orig": "The[SP]Maia[SP]Maiden...[1205][000F][SP]It[SP]seems[SP]my[SP]father[SP]still\nhopes[SP]to[SP]fulfill[SP]the[SP]Oracle...",
     "nom_fr": "Jun",
     "texte_fr": "La Vierge Maia... Mon père espère\ntoujours accomplir l'Oracle..."
   },
   {
     "id": 10,
     "offset": 279574,
-    "data_size": 274,
-    "slot_size": 278,
+    "data_size": 272,
+    "slot_size": 272,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "The[SP]magazine[SP]sweepstakes[SP]rumor[SP]should[SP]come\ntrue[SP]now.[SP]I'll[SP]handle[SP]sending[SP]them[SP]in.[SP]You're\ntoo[SP]busy[SP]to[SP]do[SP]it[SP]yourselves,[SP]right?",
@@ -178,18 +167,25 @@
   {
     "id": 11,
     "offset": 279852,
-    "data_size": 260,
-    "slot_size": 264,
+    "data_size": 258,
+    "slot_size": 258,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
-    "texte_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency",
+    "texte_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Tamaki",
-    "texte_fr": "Hello there! What can I help you with?\n[1208][U+0004]Enter magazine sweepstakes\nTalk to Tamaki\nNothing\nLeave the detective agency",
+    "texte_fr": "Hello there! What can I help you with?\n[1208][0004]Enter magazine sweepstakes\nTalk to Tamaki\nNothing\nLeave the detective agency",
+    "question_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?",
+    "choix_orig": [
+      "Enter[SP]magazine[SP]sweepstakes",
+      "Talk[SP]to[SP]Tamaki",
+      "Nothing",
+      "Leave[SP]the[SP]detective[SP]agency"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -198,18 +194,25 @@
   {
     "id": 12,
     "offset": 280116,
-    "data_size": 234,
-    "slot_size": 238,
+    "data_size": 232,
+    "slot_size": 232,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
-    "texte_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][U+0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency",
+    "texte_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Tamaki",
-    "texte_fr": "What can I help you with?\n[1208][U+0004]Enter magazine sweepstakes\nTalk to Tamaki\nNothing\nLeave the detective agency",
+    "texte_fr": "What can I help you with?\n[1208][0004]Enter magazine sweepstakes\nTalk to Tamaki\nNothing\nLeave the detective agency",
+    "question_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?",
+    "choix_orig": [
+      "Enter[SP]magazine[SP]sweepstakes",
+      "Talk[SP]to[SP]Tamaki",
+      "Nothing",
+      "Leave[SP]the[SP]detective[SP]agency"
+    ],
+    "count_tag": "[0004]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -218,18 +221,24 @@
   {
     "id": 13,
     "offset": 280354,
-    "data_size": 192,
-    "slot_size": 196,
+    "data_size": 190,
+    "slot_size": 190,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
-    "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing",
+    "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing",
     "nom_fr": "Tamaki",
-    "texte_fr": "What do you want to talk about?\n[1208][U+0003]Make small talk\nAsk about the sweepstakes\nNothing",
+    "texte_fr": "What do you want to talk about?\n[1208][0003]Make small talk\nAsk about the sweepstakes\nNothing",
+    "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
+    "choix_orig": [
+      "Make[SP]small[SP]talk",
+      "Ask[SP]about[SP]the[SP]sweepstakes",
+      "Nothing"
+    ],
+    "count_tag": "[0003]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -238,13 +247,12 @@
   {
     "id": 14,
     "offset": 280550,
-    "data_size": 290,
-    "slot_size": 294,
+    "data_size": 288,
+    "slot_size": 288,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Oh,[SP]did[SP]you[SP]check[SP]the[SP]ones[SP]you[SP]entered[SP]last\ntime?[SP]You[SP]get[SP]the[SP]prizes[SP]at[SP]Lisa-chan's[SP]house,\nso[SP]come[SP]back[SP]after[SP]you've[SP]seen[SP]if[SP]you[SP]won.",
@@ -254,13 +262,12 @@
   {
     "id": 15,
     "offset": 280844,
-    "data_size": 258,
-    "slot_size": 262,
+    "data_size": 256,
+    "slot_size": 256,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Okay![1205][001E][SP]Wait...[SP]you[SP]don't[SP]have[SP]any[SP]magazines.\nThey[SP]sell[SP]them[SP]at[SP]Satomi[SP]Tadashi,[SP]so[SP]come\nback[SP]when[SP]you've[SP]bought[SP]some.",
@@ -270,34 +277,38 @@
   {
     "id": 16,
     "offset": 281106,
-    "data_size": 234,
-    "slot_size": 238,
+    "data_size": 232,
+    "slot_size": 232,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
-    "texte_orig": "Okay![SP]Let's[SP]see...[SP]We're[SP]sending[SP]off[SP][120E][U+0001],\nright?[SP]I'll[SP]put[SP]down[SP]Lisa-chan's[SP]place[SP]as\nthe[SP]receiving[SP]address.",
+    "texte_orig": "Okay![SP]Let's[SP]see...[SP]We're[SP]sending[SP]off[SP][120E][0001],\nright?[SP]I'll[SP]put[SP]down[SP]Lisa-chan's[SP]place[SP]as\nthe[SP]receiving[SP]address.",
     "nom_fr": "Tamaki",
-    "texte_fr": "OK! Voyons... On envoie [120E][U+0001]? Je vais mettre\nl'adresse de Lisa pour la livraison."
+    "texte_fr": "OK! Voyons... On envoie [120E][0001]? Je vais mettre\nl'adresse de Lisa pour la livraison."
   },
   {
     "id": 17,
     "offset": 281344,
-    "data_size": 86,
-    "slot_size": 90,
+    "data_size": 84,
+    "slot_size": 84,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Are[SP]you[SP]sure?\n[1208][0002]Yes\nNever[SP]mind",
     "nom_fr": "Tamaki",
     "texte_fr": "Are you sure?\n[1208][0002]Yes\nNever mind",
+    "question_orig": "Are[SP]you[SP]sure?",
+    "choix_orig": [
+      "Yes",
+      "Never[SP]mind"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -306,13 +317,12 @@
   {
     "id": 18,
     "offset": 281434,
-    "data_size": 156,
-    "slot_size": 160,
+    "data_size": 154,
+    "slot_size": 154,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Gotcha![SP]I'll[SP]take[SP]care[SP]of[SP]sending[SP]them[SP]in.\nHope[SP]you[SP]win[SP]something!",
@@ -322,13 +332,12 @@
   {
     "id": 19,
     "offset": 281594,
-    "data_size": 162,
-    "slot_size": 166,
+    "data_size": 160,
+    "slot_size": 160,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Gotcha![SP]Well,[SP]come[SP]back[SP]again[SP]when[SP]you[SP]want\nto[SP]enter[SP]the[SP]sweepstakes.",
@@ -338,13 +347,12 @@
   {
     "id": 20,
     "offset": 281760,
-    "data_size": 256,
-    "slot_size": 260,
+    "data_size": 254,
+    "slot_size": 254,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "A[SP]sweepstakes[SP]is[SP]kind[SP]of[SP]like[SP]a[SP]raffle.[SP]You\nsend[SP]in[SP]magazines[SP]for[SP]chances[SP]to[SP]win[SP]a[SP]cool\nprize.[1121]It[SP]takes[SP]luck[SP]to[SP]win!",
@@ -354,13 +362,12 @@
   {
     "id": 21,
     "offset": 282020,
-    "data_size": 286,
-    "slot_size": 290,
+    "data_size": 284,
+    "slot_size": 284,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "First[SP]buy[SP]Sweepstakes[SP]Magazines[SP]at[SP]Satomi\nTadashi,[SP]then[SP]bring[SP]them[SP]to[SP]me[SP]and[SP]I'll[SP]send\nthem[SP]in.[SP]Any[SP]prizes[SP]go[SP]to[SP]Lisa-chan's[SP]house.",
@@ -370,13 +377,12 @@
   {
     "id": 22,
     "offset": 282310,
-    "data_size": 298,
-    "slot_size": 302,
+    "data_size": 296,
+    "slot_size": 296,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "There[SP]are[SP]a[SP]few[SP]rules![SP]You[SP]can[SP]only[SP]enter[SP]one\ncontest[SP]at[SP]a[SP]time.[SP]No[SP]more[SP]entries[SP]until[SP]the\nlast[SP]results[SP]are[SP]in.[SP]That's[SP]just[SP]how[SP]it[SP]works.",
@@ -386,13 +392,12 @@
   {
     "id": 23,
     "offset": 282612,
-    "data_size": 234,
-    "slot_size": 238,
+    "data_size": 232,
+    "slot_size": 232,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Also,[SP]you[SP]can[SP]only[SP]send[SP]in[SP]99[SP]magazines[SP]per\nentry.[SP]The[SP]more[SP]you[SP]send,[SP]the[SP]better[SP]your\nchances[SP]of[SP]winning.",
@@ -402,13 +407,12 @@
   {
     "id": 24,
     "offset": 282850,
-    "data_size": 264,
-    "slot_size": 268,
+    "data_size": 262,
+    "slot_size": 262,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "Finally,[SP]it[SP]takes[SP]time[SP]for[SP]the[SP]results[SP]to\ncome[SP]in.[SP]You[SP]can't[SP]just[SP]sit[SP]around[SP]and[SP]wait.\nYou[SP]have[SP]to[SP]walk[SP]around[SP]dungeons.",
@@ -418,13 +422,12 @@
   {
     "id": 25,
     "offset": 283118,
-    "data_size": 224,
-    "slot_size": 228,
+    "data_size": 222,
+    "slot_size": 222,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "The[SP]rest[SP]is[SP]up[SP]to[SP]persistence[SP]and[SP]luck!\nIf[SP]you[SP]keep[SP]at[SP]it,[SP]you[SP]might[SP]get[SP]yourself\nsome[SP]rare[SP]items...",
@@ -434,13 +437,12 @@
   {
     "id": 26,
     "offset": 283346,
-    "data_size": 280,
-    "slot_size": 284,
+    "data_size": 278,
+    "slot_size": 278,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "I[SP]doubt[SP]there's[SP]a[SP]way[SP]to[SP]fix[SP]this[SP]by[SP]spreading\nrumors...[SP]Most[SP]people[SP]are[SP]thrilled[SP]with[SP]the\nstate[SP]of[SP]things.[SP]They'd[SP]never[SP]listen.",
@@ -450,29 +452,27 @@
   {
     "id": 27,
     "offset": 283630,
-    "data_size": 180,
-    "slot_size": 184,
+    "data_size": 178,
+    "slot_size": 178,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
-    "texte_orig": "I'm[SP]so[SP]sorry.[SP]We[SP]got[SP]careless.[1205][U+000F][SP]I[SP]hope[SP]you\ncan[SP]do[SP]something[SP]for[SP]that[SP]teacher.",
+    "texte_orig": "I'm[SP]so[SP]sorry.[SP]We[SP]got[SP]careless.[1205][000F][SP]I[SP]hope[SP]you\ncan[SP]do[SP]something[SP]for[SP]that[SP]teacher.",
     "nom_fr": "Tamaki",
     "texte_fr": "Désolée. On a été négligents. J'espère\nque vous pourrez aider ce prof."
   },
   {
     "id": 28,
     "offset": 283814,
-    "data_size": 238,
-    "slot_size": 242,
+    "data_size": 236,
+    "slot_size": 236,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
     "texte_orig": "I'll[SP]handle[SP]the[SP]scutwork[SP]of[SP]making\nsweepstakes[SP]entries,[SP]just[SP]as[SP]long[SP]as\nyou[SP]bring[SP]me[SP]Sweepstakes[SP]Magazines.",
@@ -482,29 +482,27 @@
   {
     "id": 29,
     "offset": 284056,
-    "data_size": 262,
-    "slot_size": 266,
+    "data_size": 260,
+    "slot_size": 260,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tadashi",
-    "texte_orig": "It[SP]seems[SP]there[SP]are[SP]several[SP]theories[SP]on[SP]how[SP]the\nEarth[SP]will[SP]be[SP]destroyed[SP]going[SP]around...[1205][U+000F][SP]They're\npretty[SP]interesting...",
+    "texte_orig": "It[SP]seems[SP]there[SP]are[SP]several[SP]theories[SP]on[SP]how[SP]the\nEarth[SP]will[SP]be[SP]destroyed[SP]going[SP]around...[1205][000F][SP]They're\npretty[SP]interesting...",
     "nom_fr": "Tadashi",
     "texte_fr": "Il y a plusieurs\nthéories sur la destruction\nde la Terre... Très intéressantes..."
   },
   {
     "id": 30,
     "offset": 284322,
-    "data_size": 264,
-    "slot_size": 268,
+    "data_size": 262,
+    "slot_size": 262,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tadashi",
     "texte_orig": "Everyone[SP]agrees[SP]the[SP]Grand[SP]Cross[SP]will[SP]play[SP]a[SP]big\npart[SP]in[SP]the[SP]Earth's[SP]annihilation,[SP]but[SP]no[SP]one\ncan[SP]agree[SP]on[SP]how.[SP]Hmmmm...",
@@ -514,93 +512,87 @@
   {
     "id": 31,
     "offset": 284590,
-    "data_size": 304,
-    "slot_size": 308,
+    "data_size": 302,
+    "slot_size": 302,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tadashi",
-    "texte_orig": "Hehehe![SP]I[SP]finally[SP]heard[SP]a[SP]convincing[SP]theory![1205][U+000F]\nAfter[SP]the[SP]Grand[SP]Cross,[SP]the[SP]balance[SP]of[SP]gravity\nwill[SP]be[SP]thrown[SP]off,[SP]stopping[SP]Earth's[SP]rotation.",
+    "texte_orig": "Hehehe![SP]I[SP]finally[SP]heard[SP]a[SP]convincing[SP]theory![1205][000F]\nAfter[SP]the[SP]Grand[SP]Cross,[SP]the[SP]balance[SP]of[SP]gravity\nwill[SP]be[SP]thrown[SP]off,[SP]stopping[SP]Earth's[SP]rotation.",
     "nom_fr": "Tadashi",
     "texte_fr": "Héhé! Une théorie convaincante! Après la\nCroix, la gravité sera déséquilibrée,\narrêtant la rotation de la  Terre."
   },
   {
     "id": 32,
     "offset": 284898,
-    "data_size": 254,
-    "slot_size": 258,
+    "data_size": 252,
+    "slot_size": 252,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tadashi",
-    "texte_orig": "There's[SP]a[SP]part[SP]in[SP]the[SP]In[SP]Lak'ech[SP]that[SP]hints[SP]at\nsomething[SP]like[SP]that,[SP]too.[1205][U+000F][SP]Looks[SP]like[SP]I've[SP]got\nit[SP]right[SP]this[SP]time.",
+    "texte_orig": "There's[SP]a[SP]part[SP]in[SP]the[SP]In[SP]Lak'ech[SP]that[SP]hints[SP]at\nsomething[SP]like[SP]that,[SP]too.[1205][000F][SP]Looks[SP]like[SP]I've[SP]got\nit[SP]right[SP]this[SP]time.",
     "nom_fr": "Tadashi",
     "texte_fr": "In Lak'ech laisse aussi entendre un truc du\ngenre. On dirait que\nj'ai vu juste cette fois."
   },
   {
     "id": 33,
     "offset": 285156,
-    "data_size": 198,
-    "slot_size": 202,
+    "data_size": 196,
+    "slot_size": 196,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tadashi",
-    "texte_orig": "I[SP]was[SP]here[SP]and[SP]I[SP]couldn't[SP]stop[SP]them[SP]from\nkidnapping[SP]the[SP]teacher...[1205][U+000F][SP]I'm[SP]so[SP]ashamed...",
+    "texte_orig": "I[SP]was[SP]here[SP]and[SP]I[SP]couldn't[SP]stop[SP]them[SP]from\nkidnapping[SP]the[SP]teacher...[1205][000F][SP]I'm[SP]so[SP]ashamed...",
     "nom_fr": "Tadashi",
     "texte_fr": "J'étais là et je n'ai pas pu empêcher\nl'enlèvement de la prof... J'ai si honte..."
   },
   {
     "id": 34,
     "offset": 285358,
-    "data_size": 276,
-    "slot_size": 280,
+    "data_size": 274,
+    "slot_size": 274,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tadashi",
-    "texte_orig": "I[SP]guess[SP]I'm[SP]not[SP]cut[SP]out[SP]for[SP]this[SP]job...[1205][U+000F][SP]Should\nI[SP]apply[SP]to[SP]be[SP]a[SP]game[SP]designer[SP]instead?[1205][U+000F][SP]That\nsounds[SP]like[SP]it[SP]might[SP]be[SP]fun...",
+    "texte_orig": "I[SP]guess[SP]I'm[SP]not[SP]cut[SP]out[SP]for[SP]this[SP]job...[1205][000F][SP]Should\nI[SP]apply[SP]to[SP]be[SP]a[SP]game[SP]designer[SP]instead?[1205][000F][SP]That\nsounds[SP]like[SP]it[SP]might[SP]be[SP]fun...",
     "nom_fr": "Tadashi",
     "texte_fr": "Je ne suis pas fait pour ce\nmétier... Devrais-je devenir game\ndesigner? Ça a l'air amusant..."
   },
   {
     "id": 35,
     "offset": 285638,
-    "data_size": 208,
-    "slot_size": 212,
+    "data_size": 206,
+    "slot_size": 206,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tamaki",
-    "texte_orig": "Pull[SP]yourself[SP]together,[SP]Tadashi![1205][U+000F][SP]You're[SP]lucky\nyou[SP]got[SP]a[SP]taste[SP]of[SP]the[SP]violence[SP]you[SP]admired.",
+    "texte_orig": "Pull[SP]yourself[SP]together,[SP]Tadashi![1205][000F][SP]You're[SP]lucky\nyou[SP]got[SP]a[SP]taste[SP]of[SP]the[SP]violence[SP]you[SP]admired.",
     "nom_fr": "Tamaki",
     "texte_fr": "Reprends-toi, Tadashi! Tu as de la chance\nd'avoir goûté à la\nviolence que tu admirais."
   },
   {
     "id": 36,
     "offset": 285850,
-    "data_size": 72,
-    "slot_size": 76,
+    "data_size": 70,
+    "slot_size": 70,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Tadashi",
     "texte_orig": "Yeah,[SP]but...[SP]it[SP]hurt...",
@@ -610,18 +602,26 @@
   {
     "id": 37,
     "offset": 285926,
-    "data_size": 318,
-    "slot_size": 322,
+    "data_size": 316,
+    "slot_size": 316,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
-    "texte_orig": "You've[SP]come...[SP]What[SP]business[SP]do[SP]you[SP]have[SP]with\nus[SP]today?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
+    "texte_orig": "You've[SP]come...[SP]What[SP]business[SP]do[SP]you[SP]have[SP]with\nus[SP]today?\n[1208][0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "You've come... What business do you have \nwith\nus today?\n[1208][U+0005]Spread rumors\nCheck rumors\nTalk with the Chief\nCancel\nLeave the detective agency",
+    "texte_fr": "You've come... What business do you have \nwith\nus today?\n[1208][0005]Spread rumors\nCheck rumors\nTalk with the Chief\nCancel\nLeave the detective agency",
+    "question_orig": "You've[SP]come...[SP]What[SP]business[SP]do[SP]you[SP]have[SP]with\nus[SP]today?",
+    "choix_orig": [
+      "Spread[SP]rumors",
+      "Check[SP]rumors",
+      "Talk[SP]with[SP]the[SP]Chief",
+      "Cancel",
+      "Leave[SP]the[SP]detective[SP]agency"
+    ],
+    "count_tag": "[0005]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -630,18 +630,24 @@
   {
     "id": 38,
     "offset": 286248,
-    "data_size": 204,
-    "slot_size": 208,
+    "data_size": 202,
+    "slot_size": 202,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
-    "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
+    "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "What's on your mind?\n[1208][U+0003]Make small talk\nAsk about rumors\n[1210][NULL]Non-displayed selection",
+    "texte_fr": "What's on your mind?\n[1208][0003]Make small talk\nAsk about rumors\n[1210][NULL]Non-displayed selection",
+    "question_orig": "What's[SP]on[SP]your[SP]mind?",
+    "choix_orig": [
+      "Make[SP]small[SP]talk",
+      "Ask[SP]about[SP]rumors",
+      "[1210]Non-displayed[SP]selection"
+    ],
+    "count_tag": "[0003]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -650,18 +656,26 @@
   {
     "id": 39,
     "offset": 286456,
-    "data_size": 468,
-    "slot_size": 472,
+    "data_size": 466,
+    "slot_size": 466,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
-    "texte_orig": "I'm[SP]sorry[SP]for[SP]what[SP]happened[SP]to[SP]that[SP]teacher.\nLooks[SP]like[SP]Tadashi[SP]took[SP]quite[SP]a[SP]beating...[1205][U+000F]\nSo,[SP]do[SP]you[SP]need[SP]me[SP]to[SP]spread[SP]any[SP]rumors?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
+    "texte_orig": "I'm[SP]sorry[SP]for[SP]what[SP]happened[SP]to[SP]that[SP]teacher.\nLooks[SP]like[SP]Tadashi[SP]took[SP]quite[SP]a[SP]beating...[1205][000F]\nSo,[SP]do[SP]you[SP]need[SP]me[SP]to[SP]spread[SP]any[SP]rumors?\n[1208][0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Désolé pour ce qui est arrivé à ce\nprof. On dirait que Tadashi a pris une\nraclée... Une rumeur à répandre?\n[1208][U+0005]Spread rumors\nCheck rumors\nTalk with the Chief\nCancel\nLeave the detective agency",
+    "texte_fr": "Désolé pour ce qui est arrivé à ce\nprof. On dirait que Tadashi a pris une\nraclée... Une rumeur à répandre?\n[1208][0005]Spread rumors\nCheck rumors\nTalk with the Chief\nCancel\nLeave the detective agency",
+    "question_orig": "I'm[SP]sorry[SP]for[SP]what[SP]happened[SP]to[SP]that[SP]teacher.\nLooks[SP]like[SP]Tadashi[SP]took[SP]quite[SP]a[SP]beating...[1205][000F]\nSo,[SP]do[SP]you[SP]need[SP]me[SP]to[SP]spread[SP]any[SP]rumors?",
+    "choix_orig": [
+      "Spread[SP]rumors",
+      "Check[SP]rumors",
+      "Talk[SP]with[SP]the[SP]Chief",
+      "Cancel",
+      "Leave[SP]the[SP]detective[SP]agency"
+    ],
+    "count_tag": "[0005]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -670,18 +684,24 @@
   {
     "id": 40,
     "offset": 286928,
-    "data_size": 204,
-    "slot_size": 208,
+    "data_size": 202,
+    "slot_size": 202,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
-    "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
+    "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "What's on your mind?\n[1208][U+0003]Make small talk\nAsk about rumors\n[1210][NULL]Non-displayed selection",
+    "texte_fr": "What's on your mind?\n[1208][0003]Make small talk\nAsk about rumors\n[1210][NULL]Non-displayed selection",
+    "question_orig": "What's[SP]on[SP]your[SP]mind?",
+    "choix_orig": [
+      "Make[SP]small[SP]talk",
+      "Ask[SP]about[SP]rumors",
+      "[1210]Non-displayed[SP]selection"
+    ],
+    "count_tag": "[0003]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -690,18 +710,26 @@
   {
     "id": 41,
     "offset": 287136,
-    "data_size": 236,
-    "slot_size": 240,
+    "data_size": 234,
+    "slot_size": 234,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
-    "texte_orig": "Anything[SP]else?\n[1208][U+0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
+    "texte_orig": "Anything[SP]else?\n[1208][0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Anything else?\n[1208][U+0005]Spread rumors\nCheck rumors\nTalk with the Chief\nCancel\nLeave the detective agency",
+    "texte_fr": "Anything else?\n[1208][0005]Spread rumors\nCheck rumors\nTalk with the Chief\nCancel\nLeave the detective agency",
+    "question_orig": "Anything[SP]else?",
+    "choix_orig": [
+      "Spread[SP]rumors",
+      "Check[SP]rumors",
+      "Talk[SP]with[SP]the[SP]Chief",
+      "Cancel",
+      "Leave[SP]the[SP]detective[SP]agency"
+    ],
+    "count_tag": "[0005]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -710,18 +738,24 @@
   {
     "id": 42,
     "offset": 287376,
-    "data_size": 204,
-    "slot_size": 208,
+    "data_size": 202,
+    "slot_size": 202,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
-    "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][U+0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
+    "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "What's on your mind?\n[1208][U+0003]Make small talk\nAsk about rumors\n[1210][NULL]Non-displayed selection",
+    "texte_fr": "What's on your mind?\n[1208][0003]Make small talk\nAsk about rumors\n[1210][NULL]Non-displayed selection",
+    "question_orig": "What's[SP]on[SP]your[SP]mind?",
+    "choix_orig": [
+      "Make[SP]small[SP]talk",
+      "Ask[SP]about[SP]rumors",
+      "[1210]Non-displayed[SP]selection"
+    ],
+    "count_tag": "[0003]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -730,29 +764,27 @@
   {
     "id": 43,
     "offset": 287584,
-    "data_size": 264,
-    "slot_size": 268,
+    "data_size": 262,
+    "slot_size": 262,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
-    "texte_orig": "As[SP]soon[SP]as[SP]they[SP]think[SP]they're[SP]saved,[SP]they[SP]begin\nspeculating[SP]on[SP]the[SP]end[SP]of[SP]the[SP]world...[1205][U+000F][SP]That's\nmankind[SP]for[SP]you.",
+    "texte_orig": "As[SP]soon[SP]as[SP]they[SP]think[SP]they're[SP]saved,[SP]they[SP]begin\nspeculating[SP]on[SP]the[SP]end[SP]of[SP]the[SP]world...[1205][000F][SP]That's\nmankind[SP]for[SP]you.",
     "nom_fr": "Chef Todoroki",
     "texte_fr": "Dès qu'ils se croient sauvés, ils spéculent\nsur la fin du monde... C'est l'humanité."
   },
   {
     "id": 44,
     "offset": 287852,
-    "data_size": 212,
-    "slot_size": 216,
+    "data_size": 210,
+    "slot_size": 210,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "It[SP]won't[SP]be[SP]any[SP]God[SP]or[SP]demon[SP]who[SP]brings[SP]about\nthat[SP]annihilation.[SP]It'll[SP]be[SP]man[SP]himself.",
@@ -762,29 +794,27 @@
   {
     "id": 45,
     "offset": 288068,
-    "data_size": 258,
-    "slot_size": 262,
+    "data_size": 256,
+    "slot_size": 256,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
-    "texte_orig": "In[SP]the[SP]end,[SP]maybe[SP]humanity[SP]deserves[SP]to[SP]be\nannihilated.[1205][U+000F][SP]Rumors[SP]are[SP]the[SP]hidden[SP]desires\nof[SP]mankind,[SP]after[SP]all.",
+    "texte_orig": "In[SP]the[SP]end,[SP]maybe[SP]humanity[SP]deserves[SP]to[SP]be\nannihilated.[1205][000F][SP]Rumors[SP]are[SP]the[SP]hidden[SP]desires\nof[SP]mankind,[SP]after[SP]all.",
     "nom_fr": "Chef Todoroki",
     "texte_fr": "Peut-être que l'humanité mérite\nd'être anéantie. Les rumeurs sont\nles désirs cachés de l'homme."
   },
   {
     "id": 46,
     "offset": 288330,
-    "data_size": 244,
-    "slot_size": 248,
+    "data_size": 242,
+    "slot_size": 242,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "From[SP]that[SP]perspective,[SP]the[SP]state[SP]of[SP]things\nhere[SP]where[SP]rumors[SP]are[SP]becoming[SP]reality[SP]is\na[SP]genuine[SP]utopia.",
@@ -794,29 +824,27 @@
   {
     "id": 47,
     "offset": 288578,
-    "data_size": 308,
-    "slot_size": 312,
+    "data_size": 306,
+    "slot_size": 306,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
-    "texte_orig": "But[SP]what[SP]about[SP]the[SP]bigger[SP]picture?[SP]The[SP]state[SP]of\nthe[SP]city[SP]and[SP]the[SP]Earth's[SP]future[SP]is[SP]every[SP]man's\nwish[SP]made[SP]manifest...[1205][U+000F][SP]It's[SP]our[SP]karma.",
+    "texte_orig": "But[SP]what[SP]about[SP]the[SP]bigger[SP]picture?[SP]The[SP]state[SP]of\nthe[SP]city[SP]and[SP]the[SP]Earth's[SP]future[SP]is[SP]every[SP]man's\nwish[SP]made[SP]manifest...[1205][000F][SP]It's[SP]our[SP]karma.",
     "nom_fr": "Chef Todoroki",
     "texte_fr": "Et dans l'ensemble? La ville et l'avenir de\nla Terre sont le souhait de chaque homme\nrendu manifeste... C'est notre karma."
   },
   {
     "id": 48,
     "offset": 288890,
-    "data_size": 248,
-    "slot_size": 252,
+    "data_size": 246,
+    "slot_size": 246,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "To[SP]think[SP]they'd[SP]strike[SP]when[SP]Tamaki[SP]and[SP]I[SP]were\nout...[1205][001E][SP]This[SP]was[SP]my[SP]mistake.[SP]I'm[SP]very[SP]sorry\nit[SP]happened.",
@@ -826,29 +854,27 @@
   {
     "id": 49,
     "offset": 289142,
-    "data_size": 298,
-    "slot_size": 302,
+    "data_size": 296,
+    "slot_size": 296,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
-    "texte_orig": "But...[1205][U+000A][SP]I[SP]hope[SP]Tadashi[SP]understands[SP]now.[1205][U+000F][SP]This\nlife[SP]isn't[SP]as[SP]cool[SP]or[SP]clear-cut[SP]as[SP]they[SP]make\nit[SP]seem[SP]in[SP]TV[SP]shows[SP]and[SP]comic[SP]books.",
+    "texte_orig": "But...[1205][000A][SP]I[SP]hope[SP]Tadashi[SP]understands[SP]now.[1205][000F][SP]This\nlife[SP]isn't[SP]as[SP]cool[SP]or[SP]clear-cut[SP]as[SP]they[SP]make\nit[SP]seem[SP]in[SP]TV[SP]shows[SP]and[SP]comic[SP]books.",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Mais...[1205][U+000A] J'espère que Tadashi a compris.\nLa vie n'est pas aussi simple et cool\nqu'à la télé ou dans les mangas."
+    "texte_fr": "Mais...[1205][000A] J'espère que Tadashi a compris.\nLa vie n'est pas aussi simple et cool\nqu'à la télé ou dans les mangas."
   },
   {
     "id": 50,
     "offset": 289444,
-    "data_size": 272,
-    "slot_size": 276,
+    "data_size": 270,
+    "slot_size": 270,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "All[SP]we[SP]can[SP]do[SP]for[SP]you[SP]is[SP]to[SP]spread[SP]some\nrumors[SP]here[SP]and[SP]there.[SP]The[SP]rest[SP]is[SP]all[SP]up\nto[SP]you.[SP]Well[SP]then...[SP]Be[SP]seeing[SP]ya.",
@@ -858,13 +884,12 @@
   {
     "id": 51,
     "offset": 289720,
-    "data_size": 172,
-    "slot_size": 176,
+    "data_size": 170,
+    "slot_size": 170,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Sweepstakes,[SP]huh...?[SP]Talk[SP]to[SP]Tamaki-kun[SP]if\nyou[SP]want[SP]to[SP]enter[SP]them.",
@@ -874,34 +899,38 @@
   {
     "id": 52,
     "offset": 289896,
-    "data_size": 192,
-    "slot_size": 196,
+    "data_size": 190,
+    "slot_size": 190,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]",
+    "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]\n100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "100 yens stp, miaou[1432][NULL][NULL][U+0007] 100 yens\nstp, miaou[1432][NULL][NULL][U+0007] 100 yens stp, miaou[1432][NULL][NULL][U+0007]"
+    "texte_fr": "100 yens stp, miaou[1432][NULL][NULL][0007] 100 yens\nstp, miaou[1432][NULL][NULL][0007] 100 yens stp, miaou[1432][NULL][NULL][0007]"
   },
   {
     "id": 53,
     "offset": 290092,
-    "data_size": 172,
-    "slot_size": 176,
+    "data_size": 170,
+    "slot_size": 170,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][U+0007]\n[1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything",
+    "texte_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]\n[1208][0002]Put[SP]in[SP]100[SP]yen\nDon't[SP]put[SP]in[SP]anything",
     "nom_fr": "Statue de chat",
-    "texte_fr": "100 yen please, meow[1432][NULL][NULL][U+0007]\n[1208][0002]Put in 100 yen\nDon't put in anything",
+    "texte_fr": "100 yen please, meow[1432][NULL][NULL][0007]\n[1208][0002]Put in 100 yen\nDon't put in anything",
+    "question_orig": "100[SP]yen[SP]please,[SP]meow[1432][NULL][NULL][0007]",
+    "choix_orig": [
+      "Put[SP]in[SP]100[SP]yen",
+      "Don't[SP]put[SP]in[SP]anything"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -910,80 +939,75 @@
   {
     "id": 54,
     "offset": 290268,
-    "data_size": 250,
-    "slot_size": 254,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "Oh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][U+0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][U+0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][U+0007]",
-    "nom_fr": "Statue de chat",
-    "texte_fr": "T'es fauché, miaou[1432][NULL][NULL][U+0007] Un menteur est un\nvoleur, miaou[1432][NULL][NULL][U+0007] Va-t'en d'ici, fsssh[1432][NULL][NULL][U+0007]"
-  },
-  {
-    "id": 55,
-    "offset": 290522,
-    "data_size": 228,
-    "slot_size": 232,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][U+0007][1205][U+000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "Statue de chat",
-    "texte_fr": "Ronron... Touché[1432][NULL][NULL][U+0007] Nourri 20 fois,\nmiaou[1432][NULL][NULL][U+0007] J'en attends encore, miaou[1432][NULL][NULL][U+0007]"
-  },
-  {
-    "id": 56,
-    "offset": 290754,
-    "data_size": 244,
+    "data_size": 248,
     "slot_size": 248,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "Meowvelous![1432][NULL][NULL][U+0007][1205][U+000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][U+0007][1205][U+000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][U+0007]",
+    "texte_orig": "Oh,[SP]you're[SP]broke,[SP]meow[1432][NULL][NULL][0007]\nShow[SP]me[SP]a[SP]liar[SP]and[SP]I'll[SP]show[SP]you[SP]a[SP]thief,[SP]meow[1432][NULL][NULL][0007]\nGet[SP]out[SP]of[SP]here,[SP]hiss[1432][NULL][NULL][0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Miaourveilleux![1432][NULL][NULL][U+0007] Nourri 50 fois,\nronron[1432][NULL][NULL][U+0007] Très généreux, mooonsieur[1432][NULL][NULL][U+0007]"
+    "texte_fr": "T'es fauché, miaou[1432][NULL][NULL][0007] Un menteur est un\nvoleur, miaou[1432][NULL][NULL][0007] Va-t'en d'ici, fsssh[1432][NULL][NULL][0007]"
+  },
+  {
+    "id": 55,
+    "offset": 290522,
+    "data_size": 226,
+    "slot_size": 226,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][0007][1205][000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][0007]",
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Ronron... Touché[1432][NULL][NULL][0007] Nourri 20 fois,\nmiaou[1432][NULL][NULL][0007] J'en attends encore, miaou[1432][NULL][NULL][0007]"
+  },
+  {
+    "id": 56,
+    "offset": 290754,
+    "data_size": 242,
+    "slot_size": 242,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "Meowvelous![1432][NULL][NULL][0007][1205][000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][0007][1205][000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][0007]",
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Miaourveilleux![1432][NULL][NULL][0007] Nourri 50 fois,\nronron[1432][NULL][NULL][0007] Très généreux, mooonsieur[1432][NULL][NULL][0007]"
   },
   {
     "id": 57,
     "offset": 291002,
-    "data_size": 224,
-    "slot_size": 228,
+    "data_size": 222,
+    "slot_size": 222,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "Amazing,[SP]meow![1205][U+000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][U+0007][1205][U+000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
+    "texte_orig": "Amazing,[SP]meow![1205][000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Superbe, miaou! Nourri 80 fois,\nmiaou[1432][NULL][NULL][U+0007] As-tu un plan caché, miaou?"
+    "texte_fr": "Superbe, miaou! Nourri 80 fois,\nmiaou[1432][NULL][NULL][0007] As-tu un plan caché, miaou?"
   },
   {
     "id": 58,
     "offset": 291230,
-    "data_size": 234,
-    "slot_size": 238,
+    "data_size": 232,
+    "slot_size": 232,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "The[SP]time[SP]has[SP]finally[SP]come,[SP]meow...[1205][U+000F]\nAn[SP]even[SP]100[SP]feedings...[1205][U+000F]\nI've[SP]collected[SP]10,000[SP]yen,[SP]meow!",
+    "texte_orig": "The[SP]time[SP]has[SP]finally[SP]come,[SP]meow...[1205][000F]\nAn[SP]even[SP]100[SP]feedings...[1205][000F]\nI've[SP]collected[SP]10,000[SP]yen,[SP]meow!",
     "nom_fr": "Statue de chat",
     "texte_fr": "L'heure est arrivée... Exactement 100\nrepas... J'ai récolté 10 000 yens, miaou!"
   },
@@ -998,84 +1022,79 @@
       5169
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "I[SP]feel[SP]bad[SP]at[SP]being[SP]given[SP]so[SP]much,[SP]meow![1205][U+000F]\nSo[SP]I[SP]have[SP]a[SP]purresent[SP]for[SP]you!",
+    "texte_orig": "I[SP]feel[SP]bad[SP]at[SP]being[SP]given[SP]so[SP]much,[SP]meow![1205][000F]\nSo[SP]I[SP]have[SP]a[SP]purresent[SP]for[SP]you!",
     "nom_fr": "Statue de chat",
     "texte_fr": "I feel bad at being given so much,\nmeow! So I have a purresent for you!"
   },
   {
     "id": 60,
     "offset": 291662,
-    "data_size": 134,
-    "slot_size": 138,
+    "data_size": 132,
+    "slot_size": 132,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "Use[SP]this[SP][E4][NULL][NULL][U+0004]Incense[SP]Set[E4][NULL][NULL][0002][SP]wisely,[SP]meow[1432][NULL][NULL][U+0007]",
+    "texte_orig": "Use[SP]this[SP][E4][NULL][NULL][0004]Incense[SP]Set[E4][NULL][NULL][0002][SP]wisely,[SP]meow[1432][NULL][NULL][0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Utilise ce [E4][NULL][NULL][U+0004]Set d'Encens[E4][NULL][NULL][0002], miaou[1432][NULL][NULL][U+0007]"
+    "texte_fr": "Utilise ce [E4][NULL][NULL][0004]Set d'Encens[E4][NULL][NULL][0002], miaou[1432][NULL][NULL][0007]"
   },
   {
     "id": 61,
     "offset": 291800,
-    "data_size": 82,
-    "slot_size": 86,
-    "_term": [
-      4358,
-      4354,
-      4355,
-      5169
-    ],
-    "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "Thank[SP]you,[SP]meow[1432][NULL][NULL][U+0007]",
-    "nom_fr": "Statue de chat",
-    "texte_fr": "Merci, miaou[1432][NULL][NULL][U+0007]"
-  },
-  {
-    "id": 62,
-    "offset": 291886,
-    "data_size": 76,
+    "data_size": 80,
     "slot_size": 80,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "...[1205][U+000F]Cheaps-cat!",
+    "texte_orig": "Thank[SP]you,[SP]meow[1432][NULL][NULL][0007]",
+    "nom_fr": "Statue de chat",
+    "texte_fr": "Merci, miaou[1432][NULL][NULL][0007]"
+  },
+  {
+    "id": 62,
+    "offset": 291886,
+    "data_size": 74,
+    "slot_size": 74,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Lucky[SP]cat[SP]statue",
+    "texte_orig": "...[1205][000F]Cheaps-cat!",
     "nom_fr": "Statue de chat",
     "texte_fr": "... Radin!"
   },
   {
     "id": 63,
     "offset": 291966,
-    "data_size": 174,
-    "slot_size": 178,
+    "data_size": 172,
+    "slot_size": 172,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Lucky[SP]cat[SP]statue",
-    "texte_orig": "That[SP]door[SP]doesn't[SP]open,[SP]meow[1432][NULL][NULL][U+0007]\nYou[SP]should[SP]stop[SP]trying,[SP]meow[1432][NULL][NULL][U+0007]",
+    "texte_orig": "That[SP]door[SP]doesn't[SP]open,[SP]meow[1432][NULL][NULL][0007]\nYou[SP]should[SP]stop[SP]trying,[SP]meow[1432][NULL][NULL][0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "La porte est fermée, miaou[1432][NULL][NULL][U+0007]\nInutile d'essayer, miaou[1432][NULL][NULL][U+0007]"
+    "texte_fr": "La porte est fermée, miaou[1432][NULL][NULL][0007]\nInutile d'essayer, miaou[1432][NULL][NULL][0007]"
   },
   {
     "id": 64,
     "offset": 292144,
-    "data_size": 244,
-    "slot_size": 248,
+    "data_size": 242,
+    "slot_size": 242,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Kashihara...[SP]The[SP]secrets[SP]of[SP]Xibalba[SP]you\nsealed[SP]away[SP]have[SP]become[SP]public[SP]knowledge...!\nWhat[SP]should[SP]I[SP]do...!?",
@@ -1085,18 +1104,24 @@
   {
     "id": 65,
     "offset": 292392,
-    "data_size": 212,
-    "slot_size": 216,
+    "data_size": 210,
+    "slot_size": 210,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
-    "texte_orig": "What[SP]should[SP]I[SP]do...!?\n[1208][U+0003]Ask[SP]about[SP]the[SP]In[SP]Lak'ech\nAsk[SP]about[SP]the[SP]Last[SP]Battalion\nLeave[SP]her[SP]be",
+    "texte_orig": "What[SP]should[SP]I[SP]do...!?\n[1208][0003]Ask[SP]about[SP]the[SP]In[SP]Lak'ech\nAsk[SP]about[SP]the[SP]Last[SP]Battalion\nLeave[SP]her[SP]be",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Que dois-je faire...!?\n[1208][U+0003]L'In Lak'ech\nLe Bataillon\nLa laisser seule",
+    "texte_fr": "Que dois-je faire...!?\n[1208][0003]L'In Lak'ech\nLe Bataillon\nLa laisser seule",
+    "question_orig": "What[SP]should[SP]I[SP]do...!?",
+    "choix_orig": [
+      "Ask[SP]about[SP]the[SP]In[SP]Lak'ech",
+      "Ask[SP]about[SP]the[SP]Last[SP]Battalion",
+      "Leave[SP]her[SP]be"
+    ],
+    "count_tag": "[0003]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1105,13 +1130,12 @@
   {
     "id": 66,
     "offset": 292608,
-    "data_size": 150,
-    "slot_size": 154,
+    "data_size": 148,
+    "slot_size": 148,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What[SP]is[SP]it!?[SP]What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about\nthe[SP]In[SP]Lak'ech?",
@@ -1121,18 +1145,26 @@
   {
     "id": 67,
     "offset": 292762,
-    "data_size": 286,
-    "slot_size": 290,
+    "data_size": 284,
+    "slot_size": 284,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
-    "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]the[SP]In[SP]Lak'ech?\n[1208][U+0005]About[SP]Kashihara\nAbout[SP]Sudou\nAbout[SP]its[SP]contents\nAbout[SP]Maians\nAbout[SP]Ideal[SP]Energy",
+    "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]the[SP]In[SP]Lak'ech?\n[1208][0005]About[SP]Kashihara\nAbout[SP]Sudou\nAbout[SP]its[SP]contents\nAbout[SP]Maians\nAbout[SP]Ideal[SP]Energy",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][U+0005]Sur Kashihara\nSur Sudou\nLe contenu\nLes Maïens\nL'Énergie Idéale",
+    "texte_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][0005]Sur Kashihara\nSur Sudou\nLe contenu\nLes Maïens\nL'Énergie Idéale",
+    "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]the[SP]In[SP]Lak'ech?",
+    "choix_orig": [
+      "About[SP]Kashihara",
+      "About[SP]Sudou",
+      "About[SP]its[SP]contents",
+      "About[SP]Maians",
+      "About[SP]Ideal[SP]Energy"
+    ],
+    "count_tag": "[0005]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1141,13 +1173,12 @@
   {
     "id": 68,
     "offset": 293052,
-    "data_size": 296,
-    "slot_size": 300,
+    "data_size": 294,
+    "slot_size": 294,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "He[SP]was[SP]a[SP]world[SP]history[SP]teacher[SP]at[SP]Sevens[SP]with\nme.[SP]He[SP]was[SP]always[SP]tormented[SP]that[SP]the[SP]history\nhe[SP]taught[SP]his[SP]students[SP]might[SP]be[SP]untrue...",
@@ -1157,13 +1188,12 @@
   {
     "id": 69,
     "offset": 293352,
-    "data_size": 214,
-    "slot_size": 218,
+    "data_size": 212,
+    "slot_size": 212,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "He[SP]was[SP]a[SP]dreamer,[SP]who[SP]loved[SP]his[SP]students[SP]very\nmuch.[1205][001E][SP]Yet[SP]he[SP]died[SP]in[SP]such[SP]a[SP]dreadful[SP]way...",
@@ -1173,13 +1203,12 @@
   {
     "id": 70,
     "offset": 293570,
-    "data_size": 196,
-    "slot_size": 200,
+    "data_size": 194,
+    "slot_size": 194,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Kashihara[SP]always[SP]felt[SP]as[SP]though[SP]he[SP]was[SP]being\nwatched[SP]while[SP]writing[SP]the[SP]In[SP]Lak'ech!",
@@ -1189,13 +1218,12 @@
   {
     "id": 71,
     "offset": 293770,
-    "data_size": 270,
-    "slot_size": 274,
+    "data_size": 268,
+    "slot_size": 268,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "And[SP]then[SP]he[SP]was[SP]found[SP]dead,[SP]crushed[SP]between\nthe[SP]gears[SP]in[SP]the[SP]school's[SP]clock[SP]tower!\nThe[SP]Last[SP]Battalion[SP]killed[SP]Kashihara!",
@@ -1205,13 +1233,12 @@
   {
     "id": 72,
     "offset": 294044,
-    "data_size": 242,
-    "slot_size": 246,
+    "data_size": 240,
+    "slot_size": 240,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Sudou-kun[SP]was[SP]at[SP]Sevens[SP]too,[SP]as[SP]a[SP]student...[1205][001E]\nHe[SP]was[SP]a[SP]timid[SP]boy,[SP]afraid[SP]of[SP]his[SP]extremely\nstrict[SP]father.",
@@ -1221,13 +1248,12 @@
   {
     "id": 73,
     "offset": 294290,
-    "data_size": 282,
-    "slot_size": 286,
+    "data_size": 280,
+    "slot_size": 280,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "He[SP]was[SP]a[SP]troublemaker[SP]who[SP]complained[SP]of\nhearing[SP]voices,[SP]and[SP]was[SP]rumored[SP]to[SP]be[SP]an\narsonist.[SP]But[SP]he[SP]was[SP]devoted[SP]to[SP]Kashihara...",
@@ -1237,13 +1263,12 @@
   {
     "id": 74,
     "offset": 294576,
-    "data_size": 246,
-    "slot_size": 250,
+    "data_size": 244,
+    "slot_size": 244,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "It[SP]was[SP]Kashihara[SP]who[SP]noticed[SP]Sudou-kun's\ngift.[SP]He[SP]was[SP]a[SP]medium[SP]capable[SP]of[SP]hearing\nthe[SP]voices[SP]of[SP]the[SP]Maians.",
@@ -1253,13 +1278,12 @@
   {
     "id": 75,
     "offset": 294826,
-    "data_size": 278,
-    "slot_size": 282,
+    "data_size": 276,
+    "slot_size": 276,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Slowly,[SP]Kashihara[SP]coaxed[SP]from[SP]him[SP]what\nbecame[SP]the[SP]Oracle[SP]of[SP]Maia.[SP]Sudou-kun[SP]was\nhappy[SP]to[SP]have[SP]someone[SP]who[SP]understood[SP]him...",
@@ -1269,13 +1293,12 @@
   {
     "id": 76,
     "offset": 295108,
-    "data_size": 234,
-    "slot_size": 238,
+    "data_size": 232,
+    "slot_size": 232,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Sudou-kun[SP]must[SP]have[SP]betrayed[SP]us[SP]and[SP]told[SP]the\nLast[SP]Battalion[SP]about[SP]Xibalba![SP]It's[SP]the[SP]only\nexplanation!",
@@ -1285,13 +1308,12 @@
   {
     "id": 77,
     "offset": 295346,
-    "data_size": 272,
-    "slot_size": 276,
+    "data_size": 270,
+    "slot_size": 270,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "[1432][NULL][NULL][0014]In[SP]Lak'ech[1432][NULL][NULL][0014][SP]means[SP][1432][NULL][NULL][0014]you[SP]are[SP]another[SP]me[1432][NULL][NULL][0014][SP]in\nMayan.[1205][001E][SP]It's[SP]what[SP]we[SP]called[SP]the[SP]oracle[SP]that\nSudou-kun[SP]channeled.",
@@ -1301,13 +1323,12 @@
   {
     "id": 78,
     "offset": 295622,
-    "data_size": 284,
-    "slot_size": 288,
+    "data_size": 282,
+    "slot_size": 282,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Maians[SP]guided[SP]our[SP]evolution[SP]once,[SP]though\nthat[SP]stage[SP]is[SP]now[SP]lost.[1205][001E][SP]Our[SP]civilization[SP]as\nit[SP]stands[SP]is[SP]a[SP]remnant[SP]from[SP]then...",
@@ -1317,13 +1338,12 @@
   {
     "id": 79,
     "offset": 295910,
-    "data_size": 248,
-    "slot_size": 252,
+    "data_size": 246,
+    "slot_size": 246,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Bolontiku[SP]destroyed[SP]our[SP]ancestors[SP]and[SP]the\nOxlahuntiku.[SP]Their[SP]spaceship,[SP]Xibalba,[SP]lies\nunder[SP]this[SP]city...",
@@ -1333,13 +1353,12 @@
   {
     "id": 80,
     "offset": 296162,
-    "data_size": 282,
-    "slot_size": 286,
+    "data_size": 280,
+    "slot_size": 280,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Xibalba[SP]is[SP]the[SP]key[SP]to[SP]our[SP]evolution.[SP]We[SP]can't\nevolve[SP]without[SP]it...[1205][001E][SP]But[SP]it[SP]will[SP]come[SP]at[SP]the\ncost[SP]of[SP]this[SP]world's[SP]extinction!",
@@ -1349,13 +1368,12 @@
   {
     "id": 81,
     "offset": 296448,
-    "data_size": 288,
-    "slot_size": 292,
+    "data_size": 286,
+    "slot_size": 286,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Oracle[SP]promises[SP]the[SP]revival[SP]of[SP]Xibalba\nand[SP]an[SP]end[SP]to[SP]everything![SP]Kashihara[SP]sealed\nhis[SP]discovery[SP]for[SP]that[SP]reason,[SP]and[SP]yet...!",
@@ -1365,13 +1383,12 @@
   {
     "id": 82,
     "offset": 296740,
-    "data_size": 260,
-    "slot_size": 264,
+    "data_size": 258,
+    "slot_size": 258,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Maians[SP]came[SP]here[SP]from[SP]the[SP]Pleiades.\nThe[SP]two[SP]factions[SP]amongst[SP]them[SP]were[SP]in[SP]a\nperpetual[SP]state[SP]of[SP]galactic[SP]war...",
@@ -1381,13 +1398,12 @@
   {
     "id": 83,
     "offset": 297004,
-    "data_size": 274,
-    "slot_size": 278,
+    "data_size": 272,
+    "slot_size": 272,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Mayans[SP]worshipped[SP]the[SP]Oxlahuntiku[SP]as[SP]gods\nof[SP]light...[1205][001E][SP]While[SP]they[SP]feared[SP]the[SP]Bolontiku\nas[SP]gods[SP]of[SP]the[SP]netherworld...",
@@ -1397,13 +1413,12 @@
   {
     "id": 84,
     "offset": 297282,
-    "data_size": 294,
-    "slot_size": 298,
+    "data_size": 292,
+    "slot_size": 292,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Their[SP]war[SP]consumed[SP]this[SP]solar[SP]system,[SP]and[SP]the\nOxlahuntiku[SP]perished...[1205][001E][SP]Those[SP]events[SP]are[SP]the\nsource[SP]of[SP]common[SP]legends[SP]of[SP]the[SP]flood.",
@@ -1413,13 +1428,12 @@
   {
     "id": 85,
     "offset": 297580,
-    "data_size": 230,
-    "slot_size": 234,
+    "data_size": 228,
+    "slot_size": 228,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "But[SP]the[SP]victory[SP]took[SP]its[SP]toll[SP]on[SP]the\nBolontiku![SP]They[SP]ran[SP]out[SP]of[SP]power[SP]and[SP]were\nforced[SP]into[SP]slumber!",
@@ -1429,13 +1443,12 @@
   {
     "id": 86,
     "offset": 297814,
-    "data_size": 252,
-    "slot_size": 256,
+    "data_size": 250,
+    "slot_size": 250,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "To[SP]this[SP]day,[SP]they[SP]sleep[SP]below[SP]this[SP]city,\nabsorbing[SP]Ideal[SP]Energy[SP]and[SP]dreaming[SP]of[SP]the\nday[SP]when[SP]they[SP]will[SP]awaken!",
@@ -1445,13 +1458,12 @@
   {
     "id": 87,
     "offset": 298070,
-    "data_size": 266,
-    "slot_size": 270,
+    "data_size": 264,
+    "slot_size": 264,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Ideal[SP]Energy[SP]is[SP]the[SP]power[SP]of[SP]thought[SP]held[SP]by\nus[SP]living[SP]beings...[1205][001E][SP]It's[SP]a[SP]psychological\nenergy[SP]based[SP]on[SP]one's[SP]ideals.",
@@ -1461,13 +1473,12 @@
   {
     "id": 88,
     "offset": 298340,
-    "data_size": 298,
-    "slot_size": 302,
+    "data_size": 296,
+    "slot_size": 296,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]energy[SP]is[SP]heightened[SP]most[SP]when[SP]one[SP]is\npassionate[SP]about[SP]one's[SP]ideals,[SP]or[SP]when[SP]one's\ndream[SP]comes[SP]true.[1205][001E][SP]It's[SP]fed[SP]by[SP]joie[SP]de[SP]vivre.",
@@ -1477,13 +1488,12 @@
   {
     "id": 89,
     "offset": 298642,
-    "data_size": 282,
-    "slot_size": 286,
+    "data_size": 280,
+    "slot_size": 280,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Ideal[SP]Energy[SP]is[SP]the[SP]Maian[SP]source[SP]of[SP]power...[1205][001E]\nAnd[SP]the[SP]crystal[SP]skulls[SP]are[SP]OOPArts[SP]planted\nin[SP]mankind's[SP]history[SP]to[SP]collect[SP]it!",
@@ -1493,13 +1503,12 @@
   {
     "id": 90,
     "offset": 298928,
-    "data_size": 274,
-    "slot_size": 278,
+    "data_size": 272,
+    "slot_size": 272,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "They're[SP]the[SP]keys[SP]to[SP]Xibalba[SP]and[SP]its[SP]power\nsource![SP]Whoever[SP]controls[SP]Xibalba[SP]and[SP]Ideal\nEnergy[SP]shall[SP]control[SP]mankind's[SP]fate!",
@@ -1509,13 +1518,12 @@
   {
     "id": 91,
     "offset": 299206,
-    "data_size": 118,
-    "slot_size": 122,
+    "data_size": 116,
+    "slot_size": 116,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What!?[SP]What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]them?",
@@ -1525,18 +1533,23 @@
   {
     "id": 92,
     "offset": 299328,
-    "data_size": 196,
-    "slot_size": 200,
+    "data_size": 194,
+    "slot_size": 194,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]them?\n[1208][0002]About[SP]the[SP]Fuhrer\nAbout[SP]the[SP]Battalion[SP]itself",
     "nom_fr": "Mme Idéale",
     "texte_fr": "Que voulez-vous savoir?\n[1208][0002]Sur le Führer\nSur le Bataillon",
+    "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]them?",
+    "choix_orig": [
+      "About[SP]the[SP]Fuhrer",
+      "About[SP]the[SP]Battalion[SP]itself"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""
@@ -1545,13 +1558,12 @@
   {
     "id": 93,
     "offset": 299528,
-    "data_size": 186,
-    "slot_size": 190,
+    "data_size": 184,
+    "slot_size": 184,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]greatest[SP]and[SP]worst[SP]dictator[SP]of[SP]the\ncentury![1205][001E][SP]You[SP]know[SP]that[SP]much,[SP]I[SP]hope.",
@@ -1561,13 +1573,12 @@
   {
     "id": 94,
     "offset": 299718,
-    "data_size": 286,
-    "slot_size": 290,
+    "data_size": 284,
+    "slot_size": 284,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "But[SP]do[SP]you[SP]know[SP]why[SP]he[SP]started[SP]a[SP]world[SP]war?\nHis[SP]true[SP]goal[SP]was[SP]to[SP]drive[SP]man[SP]to[SP]the[SP]brink\nof[SP]extinction[SP]and[SP]hasten[SP]our[SP]evolution!",
@@ -1577,13 +1588,12 @@
   {
     "id": 95,
     "offset": 300008,
-    "data_size": 300,
-    "slot_size": 304,
+    "data_size": 298,
+    "slot_size": 298,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "He[SP]said[SP]so[SP]himself![1205][001E][SP]He's[SP]an[SP]immortal[SP]sorcerer\nwho[SP]learned[SP]magic[SP]from[SP]Mayan[SP]mystics.[SP]He\ncraved[SP]the[SP]secrets[SP]of[SP]ruins[SP]around[SP]the[SP]world!",
@@ -1593,13 +1603,12 @@
   {
     "id": 96,
     "offset": 300312,
-    "data_size": 268,
-    "slot_size": 272,
+    "data_size": 266,
+    "slot_size": 266,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "You[SP]probably[SP]learned[SP]in[SP]school[SP]that[SP]he[SP]killed\nhimself,[SP]but[SP]he's[SP]very[SP]much[SP]alive![SP]There[SP]are\ncountless[SP]rumors[SP]saying[SP]so.",
@@ -1609,13 +1618,12 @@
   {
     "id": 97,
     "offset": 300584,
-    "data_size": 260,
-    "slot_size": 264,
+    "data_size": 258,
+    "slot_size": 258,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "And[SP]now[SP]he's[SP]figured[SP]out[SP]the[SP]secret[SP]behind\nXibalba![SP]He'll[SP]surely[SP]act[SP]on[SP]it[SP]to[SP]realize\nhis[SP]dream[SP]of[SP]becoming[SP]a[SP]god!",
@@ -1625,13 +1633,12 @@
   {
     "id": 98,
     "offset": 300848,
-    "data_size": 298,
-    "slot_size": 302,
+    "data_size": 296,
+    "slot_size": 296,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Last[SP]Battalion[SP]lurks[SP]in[SP]a[SP]secret[SP]base\nsomewhere[SP]in[SP]the[SP]South[SP]Pole[SP]or[SP]South[SP]America,\nwhere[SP]they[SP]plot[SP]to[SP]fulfill[SP]the[SP]Fuhrer's[SP]goal!",
@@ -1641,13 +1648,12 @@
   {
     "id": 99,
     "offset": 301150,
-    "data_size": 232,
-    "slot_size": 236,
+    "data_size": 230,
+    "slot_size": 230,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "They[SP]have[SP]cutting-edge[SP]weaponry[SP]and\nsuperhuman[SP]units[SP]ready[SP]and[SP]waiting[SP]for\nthe[SP]right[SP]time[SP]to[SP]strike!",
@@ -1657,13 +1663,12 @@
   {
     "id": 100,
     "offset": 301386,
-    "data_size": 262,
-    "slot_size": 266,
+    "data_size": 260,
+    "slot_size": 260,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]most[SP]fearsome[SP]of[SP]them[SP]are[SP]the[SP]core[SP]of\nthe[SP]Last[SP]Battalion...[SP]A[SP]secret[SP]unit[SP]called\nthe[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance...",
@@ -1673,13 +1678,12 @@
   {
     "id": 101,
     "offset": 301652,
-    "data_size": 242,
-    "slot_size": 246,
+    "data_size": 240,
+    "slot_size": 240,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "This[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance[SP]has[SP]supposedly\ndiscovered[SP]the[SP]Spear[SP]of[SP]Destiny,[SP]a[SP]relic[SP]of\nChrist's[SP]miracle!",
@@ -1689,13 +1693,12 @@
   {
     "id": 102,
     "offset": 301898,
-    "data_size": 228,
-    "slot_size": 232,
+    "data_size": 226,
+    "slot_size": 226,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "It[SP]is[SP]said[SP]that[SP]whoever[SP]possesses[SP]the[SP]Spear\nof[SP]Destiny[SP]will[SP]rule[SP]the[SP]world...[SP]You[SP]must\nbe[SP]careful!",
@@ -1704,6 +1707,21 @@
   },
   {
     "id": 103,
+    "offset": 302130,
+    "data_size": 162,
+    "slot_size": 162,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Ms.[SP]Ideal",
+    "texte_orig": "If[SP]you[SP]didn't[SP]need[SP]to[SP]know[SP]anything,[SP]then\nwhy[SP]did[SP]you[SP]talk[SP]to[SP]me!?",
+    "nom_fr": "",
+    "texte_fr": ""
+  },
+  {
+    "id": 104,
     "offset": 313066,
     "data_size": 94,
     "slot_size": 98,
@@ -1718,7 +1736,7 @@
     "texte_fr": "Les rumeurs t'intéressent?"
   },
   {
-    "id": 104,
+    "id": 105,
     "offset": 313164,
     "data_size": 198,
     "slot_size": 202,
@@ -1733,7 +1751,7 @@
     "texte_fr": "Demande-moi de répandre une rumeur et\nje le ferai. Mais pas gratuitement."
   },
   {
-    "id": 105,
+    "id": 106,
     "offset": 313366,
     "data_size": 156,
     "slot_size": 160,
@@ -1748,7 +1766,7 @@
     "texte_fr": "Apporte-moi les rumeurs que\ntu entends des colporteurs."
   },
   {
-    "id": 106,
+    "id": 107,
     "offset": 313526,
     "data_size": 200,
     "slot_size": 204,
@@ -1763,7 +1781,7 @@
     "texte_fr": "Il y a des colporteurs partout dans\nSumaru. Cherche, tu les trouveras."
   },
   {
-    "id": 107,
+    "id": 108,
     "offset": 313730,
     "data_size": 220,
     "slot_size": 224,
@@ -1778,15 +1796,14 @@
     "texte_fr": "Tu peux te rappeler des rumeurs déjà en\ncirculation en me\ndemandant de les vérifier."
   },
   {
-    "id": 108,
+    "id": 109,
     "offset": 313954,
-    "data_size": 280,
-    "slot_size": 284,
+    "data_size": 278,
+    "slot_size": 278,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Not[SP]only[SP]can[SP]you[SP]remember[SP]which[SP]rumors[SP]I've\nbeen[SP]putting[SP]out[SP]there[SP]for[SP]you,[SP]you[SP]can[SP]see\nwhich[SP]ones[SP]demons[SP]are[SP]spreading.",
@@ -1794,43 +1811,68 @@
     "texte_fr": "Non seulement tu peux voir celles\nque j'ai diffusées, mais aussi\ncelles que les démons répandent."
   },
   {
-    "id": 109,
+    "id": 110,
     "offset": 314238,
-    "data_size": 182,
-    "slot_size": 186,
+    "data_size": 180,
+    "slot_size": 180,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
     "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui[0014]Non",
+    "question_orig": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?",
+    "choix_orig": [
+      "Yes",
+      "No"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""
     ]
   },
   {
-    "id": 110,
+    "id": 111,
     "offset": 314424,
-    "data_size": 206,
-    "slot_size": 210,
+    "data_size": 204,
+    "slot_size": 204,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
     "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui[0014]Non",
+    "question_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?",
+    "choix_orig": [
+      "Yes",
+      "No"
+    ],
+    "count_tag": "[0002]",
     "question_fr": "",
     "choix_fr": [
       ""
     ]
+  },
+  {
+    "id": 112,
+    "offset": 314634,
+    "data_size": 110,
+    "slot_size": 118,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Chief[SP]Todoroki",
+    "texte_orig": "You[SP]don't[SP]have[SP]the[SP]money[SP]for[SP]my[SP]fee.",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

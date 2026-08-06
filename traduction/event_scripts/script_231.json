@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 255470,
-    "data_size": 144,
-    "slot_size": 148,
+    "data_size": 142,
+    "slot_size": 142,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "Look[SP]at[SP]the[SP]size[SP]of[SP]it...[1205][001E][SP]I[SP]can't[SP]even[SP]make\nout[SP]the[SP]ceiling.",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 255618,
-    "data_size": 278,
-    "slot_size": 282,
+    "data_size": 276,
+    "slot_size": 276,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "That's[SP]odd,[SP]though.[SP]They[SP]know[SP]we're[SP]after\nthem...[1205][001E][SP]So[SP]isn't[SP]it[SP]a[SP]little[SP]too[SP]quiet?\nThere's[SP]not[SP]even[SP]a[SP]welcoming[SP]committee[SP]here.",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 255900,
-    "data_size": 256,
-    "slot_size": 260,
+    "data_size": 254,
+    "slot_size": 254,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "This[SP]spaceship[SP]can[SP]carry[SP]an[SP]entire[SP]city,\nso[SP]I[SP]bet[SP]it[SP]has[SP]tons[SP]of[SP]high-tech[SP]traps.\nEveryone[SP]probably[SP]fell[SP]for[SP]them...",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 256160,
-    "data_size": 218,
-    "slot_size": 222,
+    "data_size": 216,
+    "slot_size": 216,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Hmm...[1205][001E][SP]I[SP]doubt[SP]they[SP]ALL[SP]died,[SP]but[SP]you're\nright,[SP]there[SP]must[SP]be[SP]some[SP]pretty[SP]devious\ntraps[SP]in[SP]here.",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 256382,
-    "data_size": 64,
-    "slot_size": 68,
+    "data_size": 62,
+    "slot_size": 62,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Like[SP]what[SP]exactly?",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 256450,
-    "data_size": 170,
-    "slot_size": 174,
+    "data_size": 168,
+    "slot_size": 168,
     "_term": [
       4361,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Like[SP]what[SP]exactly?\n[1208][0002][1432][NULL][NULL][0014]Lasers,[SP]maybe.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]A[SP]superheated[SP]room.[1432][NULL][NULL][0014]",
@@ -99,6 +93,7 @@
       "Lasers,[SP]maybe.",
       "A[SP]superheated[SP]room."
     ],
+    "count_tag": "[0002]",
     "question_fr": "Comme quoi?",
     "choix_fr": [
       "Des lasers?",
@@ -108,13 +103,12 @@
   {
     "id": 6,
     "offset": 256624,
-    "data_size": 248,
-    "slot_size": 252,
+    "data_size": 246,
+    "slot_size": 246,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "Whatever[SP]it[SP]is,[SP]we[SP]can't[SP]just[SP]stand[SP]here.\nWe[SP]need[SP]to[SP]get[SP]the[SP]Heaven[SP]Skull[SP]so[SP]we[SP]can\nput[SP]the[SP]city[SP]back[SP]to[SP]normal...",
@@ -124,13 +118,12 @@
   {
     "id": 7,
     "offset": 256876,
-    "data_size": 38,
-    "slot_size": 42,
+    "data_size": 36,
+    "slot_size": 36,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "Let's[SP]go!",
@@ -140,17 +133,31 @@
   {
     "id": 8,
     "offset": 256918,
-    "data_size": 248,
-    "slot_size": 252,
+    "data_size": 246,
+    "slot_size": 246,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "Whatever[SP]it[SP]is,[SP]we[SP]can't[SP]just[SP]stand[SP]here.\nWe[SP]need[SP]to[SP]get[SP]the[SP]Heaven[SP]Skull[SP]so[SP]we[SP]can\nput[SP]the[SP]city[SP]back[SP]to[SP]normal...",
     "nom_fr": "Jun",
     "texte_fr": "Quoique ce soit, on doit bouger. On\ndoit récupérer le Crâne du Paradis pour\nrendre à la ville son état normal..."
+  },
+  {
+    "id": 9,
+    "offset": 257170,
+    "data_size": 36,
+    "slot_size": 46,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "Let's[SP]go!",
+    "nom_fr": "Jun",
+    "texte_fr": "Allons-y!"
   }
 ]

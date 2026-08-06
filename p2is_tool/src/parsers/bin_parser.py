@@ -17,6 +17,7 @@ GitHub  : https://github.com/chenetulipe/P2-FR-IS-PSP
 
 import struct, json, gzip, io, os, re, shutil, threading, subprocess, platform, concurrent.futures, zlib
 from pathlib import Path
+from src.core.compression import crilayla_decompress
 import tkinter as tk
 from src.config import *
 from src.config import _lang, _theme_name
@@ -271,7 +272,7 @@ def find_dialogs(data: bytes) -> list:
                 term = t4
                 found = True
                 break
-            if t3 in ([E1, E2, E4], [CHAIN_E1, E2, E4]):
+            if t3 in ([E1, E2, E4], [CHAIN_E1, E2, E4], [E1, E2, E3], [CHAIN_E1, E2, E3]):
                 end = j + 2
                 term = t3
                 found = True
@@ -310,6 +311,8 @@ def find_dialogs(data: bytes) -> list:
             "[1109][E2][E3][E4]",
             "[E1][E2][E4]",
             "[1109][E2][E4]",
+            "[E1][E2][E3]",
+            "[1109][E2][E3]",
         ):
             body = body.replace(seq, "")
         body_clean = body.strip()

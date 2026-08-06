@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 237510,
-    "data_size": 92,
-    "slot_size": 96,
+    "data_size": 90,
+    "slot_size": 90,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Did[SP]you[SP]find[SP]the[SP]transmitter,[SP][1113]-kun?",
@@ -18,17 +17,31 @@
   {
     "id": 1,
     "offset": 237606,
-    "data_size": 210,
-    "slot_size": 214,
+    "data_size": 208,
+    "slot_size": 208,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "So[SP]it[SP]wasn't[SP]on[SP]the[SP]fourth[SP]floor...\nI[SP]didn't[SP]find[SP]anything[SP]like[SP]it[SP]on[SP]the\nthird[SP]floor,[SP]either.",
     "nom_fr": "Maya",
     "texte_fr": "Donc c'était pas au 4ème étage... J'ai\nrien trouvé de tel au 3ème étage non plus."
+  },
+  {
+    "id": 2,
+    "offset": 237820,
+    "data_size": 152,
+    "slot_size": 164,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Hopefully[SP]Lisa[SP]or[SP]Yukki's[SP]found[SP]it...\nLet's[SP]meet[SP]back[SP]up[SP]with[SP]them!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 173314,
-    "data_size": 94,
-    "slot_size": 98,
+    "data_size": 92,
+    "slot_size": 92,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "This...[1205][001E][SP]is[SP]where[SP]I[SP]hid[SP]my[SP]mask...",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 173412,
-    "data_size": 280,
-    "slot_size": 284,
+    "data_size": 278,
+    "slot_size": 278,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Back[SP]then...[1205][001E][SP]Hiding[SP]my[SP]face[SP]made[SP]me[SP]feel[SP]like\na[SP]different[SP]person.[SP]I[SP]didn't[SP]have[SP]to[SP]worry\nabout[SP]the[SP]color[SP]of[SP]my[SP]hair[SP]or[SP]eyes...",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 173696,
-    "data_size": 232,
-    "slot_size": 236,
+    "data_size": 230,
+    "slot_size": 230,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "That's[SP]right...[1205][001E][SP]We[SP]came[SP]here[SP]afterwards[SP]and\nhid[SP]our[SP]masks...[1205][001E][SP]And[SP]forgot[SP]all[SP]about[SP]it\never[SP]since...",
@@ -50,17 +47,31 @@
   {
     "id": 3,
     "offset": 173932,
-    "data_size": 220,
-    "slot_size": 224,
+    "data_size": 218,
+    "slot_size": 218,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "A[SP]secret[SP]hideout[SP]and[SP]masks[SP]as[SP]treasure?[1205][001E]\nHonestly,[SP]it's[SP]like[SP]something[SP]a[SP]child[SP]would\ncome[SP]up[SP]with.",
     "nom_fr": "Maya",
     "texte_fr": "Une planque secrète et des masques\nen guise de trésor?[1205][001E] Franchement,\non dirait une idée de gosse."
+  },
+  {
+    "id": 4,
+    "offset": 174156,
+    "data_size": 222,
+    "slot_size": 222,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "Another[SP]sad[SP]story[SP]about[SP]masks,[SP]huh?[1205][001E][SP]Humans\nseem[SP]doomed[SP]to[SP]suffer[SP]the[SP]same[SP]things[SP]over\nand[SP]over...",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

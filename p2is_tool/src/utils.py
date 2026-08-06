@@ -345,12 +345,10 @@ SCAN_TARGETS = {
     "cd_shop.bin",
     "f_be.bnp",
     "tm_eve.bnp",
-    "mmap01.bnp",
-    "mmap02.bnp",
-    "mmap03.bnp",
-    "mmap04.bnp",
-    "mmap05.bnp",
-    "mmap06.bnp",
+    "mmap*.bnp",
+    "f*.bin",
+    "dun*.bnp",
+    "shop*.bnp",
 }
 
 # ── Décodeur F_BE / TM_EVE ────────────────────────────────────────────────────

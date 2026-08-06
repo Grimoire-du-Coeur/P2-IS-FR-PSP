@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 212686,
-    "data_size": 176,
-    "slot_size": 180,
+    "data_size": 174,
+    "slot_size": 174,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Does[SP]this[SP]mean[SP]it[SP]turned[SP]out[SP]like[SP]Maya-chan\nsaid!?[SP]Haime...[SP]How'd[SP]you[SP]know!?",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 212866,
-    "data_size": 164,
-    "slot_size": 168,
+    "data_size": 162,
+    "slot_size": 162,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Longinus[SP]#1",
     "texte_orig": "Ah,[SP]Fraulein...[1205][001E][SP]It[SP]seems[SP]you've[SP]caught[SP]on[SP]to\nXibalba's[SP]secret.",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 213034,
-    "data_size": 166,
-    "slot_size": 170,
+    "data_size": 164,
+    "slot_size": 164,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "No[SP]thanks[SP]to[SP]you...[1205][001E][SP]But[SP]I[SP]still[SP]haven't\nfigured[SP]out[SP]the[SP]pattern[SP]to[SP]it.",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 213204,
-    "data_size": 106,
-    "slot_size": 110,
+    "data_size": 104,
+    "slot_size": 104,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "What[SP][1432][NULL][NULL][0014]secret[1432][NULL][NULL][0014][SP]is[SP]he[SP]talking[SP]about?",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 213314,
-    "data_size": 166,
-    "slot_size": 170,
+    "data_size": 164,
+    "slot_size": 164,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Longinus[SP]#2",
     "texte_orig": "Then[SP]you[SP]must[SP]realize[SP]the[SP]extent[SP]of[SP]the\ncrisis[SP]you're[SP]faced[SP]with!",
@@ -82,17 +77,42 @@
   {
     "id": 5,
     "offset": 213484,
-    "data_size": 130,
-    "slot_size": 134,
+    "data_size": 128,
+    "slot_size": 128,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Longinus[SP]#3",
     "texte_orig": "Indeed.[SP]You[SP]are[SP]destined[SP]to[SP]meet[SP]your[SP]end[SP]here.",
     "nom_fr": "Longinus #3",
     "texte_fr": "En effet. Tu es destiné à mourir ici."
+  },
+  {
+    "id": 6,
+    "offset": 213618,
+    "data_size": 322,
+    "slot_size": 334,
+    "_term": [
+      4361,
+      4354,
+      4355
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Unfortunately[SP]for[SP]you,[SP]we're[SP]DEFINITELY\ngoing[SP]to[SP]win.[SP]Right,[SP]everyone!?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nRight,[SP]everyone!?\n[1208][0002][1432][NULL][NULL][0014]Definitely.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]I'm[SP]not[SP]so[SP]sure...[1432][NULL][NULL][0014]",
+    "nom_fr": "",
+    "texte_fr": "",
+    "question_orig": "Unfortunately[SP]for[SP]you,[SP]we're[SP]DEFINITELY\ngoing[SP]to[SP]win.[SP]Right,[SP]everyone!?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nRight,[SP]everyone!?",
+    "choix_orig": [
+      "Definitely.",
+      "I'm[SP]not[SP]so[SP]sure..."
+    ],
+    "count_tag": "[0002]",
+    "question_fr": "",
+    "choix_fr": [
+      "",
+      ""
+    ]
   }
 ]

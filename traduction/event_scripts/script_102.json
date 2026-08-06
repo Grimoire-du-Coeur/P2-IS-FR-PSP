@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 184922,
-    "data_size": 168,
-    "slot_size": 172,
+    "data_size": 166,
+    "slot_size": 166,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Yeah...[1205][001E][SP]That's[SP]right,[SP][1113]...[1205][001E][SP]That[SP]was\nus[SP]back[SP]when[SP]we[SP]were[SP]kids...[1205][001E]",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 185094,
-    "data_size": 230,
-    "slot_size": 234,
+    "data_size": 228,
+    "slot_size": 228,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "It[SP]wasn't[SP]just[SP]a[SP]dream...[1205][001E][SP]We[SP]met[SP]for[SP]the\nfirst[SP]time[SP]that[SP]night[SP]at[SP]the[SP]festival[SP]at\nthe[SP]Alaya[SP]Shrine!",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 185328,
-    "data_size": 154,
-    "slot_size": 158,
+    "data_size": 152,
+    "slot_size": 152,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Now[SP]do[SP]you[SP]remember,[SP][1113]!?[1205][001E][SP]We[SP]all[SP]met\neach[SP]other[SP]a[SP]long[SP]time[SP]ago!",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 185486,
-    "data_size": 142,
-    "slot_size": 146,
+    "data_size": 140,
+    "slot_size": 140,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "We're[SP]the[SP]ones[SP]who[SP]formed[SP]the[SP]Masked[SP]Circle!\nAnd...[SP]and...!",
@@ -66,17 +62,31 @@
   {
     "id": 4,
     "offset": 185632,
-    "data_size": 234,
-    "slot_size": 238,
+    "data_size": 232,
+    "slot_size": 232,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Now[SP]this[SP]is[SP]a[SP]surprise...[1205][001E][SP]It[SP]was[SP]you[SP]who\ncreated[SP]the[SP]Masked[SP]Circle?[SP]What[SP]a[SP]terrible\nthing[SP]you've[SP]done...",
     "nom_fr": "Maya",
     "texte_fr": "Quelle surprise...[1205][001E] C'est vous qui\navez créé le Cercle masqué? Quelle\nchose terrible vous avez faite..."
+  },
+  {
+    "id": 5,
+    "offset": 185870,
+    "data_size": 82,
+    "slot_size": 82,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "No...[1205][001E][SP]How[SP]could[SP]this[SP]be...?",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

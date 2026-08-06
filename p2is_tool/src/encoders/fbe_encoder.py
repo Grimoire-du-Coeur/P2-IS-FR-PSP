@@ -21,8 +21,6 @@ import tkinter as tk
 from src.config import *
 from src.config import _lang, _theme_name
 from src.core.text import text_to_bytes
-from src.parsers.fbe_parser import decode_fbe_slot, parse_fbe_text
-
 
 from tkinter import filedialog, messagebox
 import customtkinter as ctk
@@ -239,35 +237,25 @@ STRINGS = {
 _lang = "fr"
 
 
-def encode_fbe_slot(
+def encode_fbe_sub_chunk(
     data: bytearray,
-    offset: int,
-    data_size: int,
     n_fr: str,
     t_fr: str,
-    term_list: list,
     log_fn=None,
     dlg_id=None,
-) -> bool:
+) -> None:
     from src.core.text import text_to_bytes
     from src.config import SP, NL
     
-    # Etape 1: Préparer les bytes FR
-    t_bytes_fr = text_to_bytes(t_fr)
-    fr_len = len(t_bytes_fr)
-    fr_idx = 0
+    end = len(data)
+    i = 0
     
-    end = offset + data_size
-    i = offset
-    
-    # Etape 2: Remplacer le nom (on conserve la logique de remplacement en place)
-    # Dans la plupart des F_BE, on ne touche pas au nom, mais si on le fait, on a besoin
-    # de l'écraser proprement jusqu'au NL.
-    n_bytes_fr = text_to_bytes(n_fr)
+    # Etape 1: Remplacer le nom
+    n_bytes_fr = text_to_bytes(n_fr) if n_fr else b""
     n_len = len(n_bytes_fr)
     n_idx = 0
     
-    while i < end:
+    while i < end - 1:
         w = data[i] | (data[i+1] << 8)
         if w == NL:
             i += 2
@@ -278,60 +266,48 @@ def encode_fbe_slot(
             data[i+1] = n_bytes_fr[n_idx+1]
             n_idx += 2
         else:
-            data[i] = 0x00
-            data[i+1] = 0x00
+            if n_fr:  # only clear if we are actually translating name
+                data[i] = 0x20
+                data[i+1] = 0x11
         i += 2
         
-    # Etape 3: Remplacer le texte en preservant TOUS les codes de controle et animations
-    while i < end:
-        if i + 1 >= end:
+    text_start = i
+    
+    # Etape 2: Trouver le terminateur original dans les données
+    # Les dialogues se terminent par E1 (0x1106) ou E4 (0x1431).
+    term_idx = text_start
+    while term_idx < end - 1:
+        w = data[term_idx] | (data[term_idx+1] << 8)
+        if w == 0x1106 or w == 0x1431:
             break
-            
-        b0, b1 = data[i], data[i+1]
-        w = b0 | (b1 << 8)
+        term_idx += 2
         
-        if w == 0x1107:
-            # Fin du dialogue, on ne touche pas a la suite (tail_bytes) !
+    # Etape 3: Préparer les bytes FR (sans le terminateur)
+    t_bytes_fr = text_to_bytes(t_fr) if t_fr else b""
+    
+    # Strip any terminator codes from the translated text to prevent duplication
+    term_pos = -1
+    for k in range(0, len(t_bytes_fr) - 1, 2):
+        w = t_bytes_fr[k] | (t_bytes_fr[k+1] << 8)
+        if w == 0x1106 or w == 0x1431:
+            term_pos = k
             break
-            
-        if w == 0x1431:
-            i += 7
-            continue
-            
-        # Identifier si c'est un caractere de texte valide
-        is_text = False
-        if 0x20 <= b0 <= 0x7E and b1 == 0x00:
-            is_text = True
-        elif 0x80 <= b0 <= 0xFF and b1 == 0x00:
-            is_text = True
-        elif w == SP or w == NL:
-            is_text = True
-            
-        if is_text:
-            if fr_idx < fr_len:
-                data[i] = t_bytes_fr[fr_idx]
-                data[i+1] = t_bytes_fr[fr_idx+1]
-                fr_idx += 2
-            else:
-                data[i] = (SP & 0xFF)
-                data[i+1] = ((SP >> 8) & 0xFF)
-            i += 2
-            continue
-            
-        # Si c'est une timing mark (1 octet)
-        if b0 != 0x00 and b1 != 0x00 and b1 not in (0x11, 0x14):
-            i += 1
-            continue
-            
-        # Sinon, c'est un code de controle (ou inconnu), on le saute en preservant ses octets
-        i += 2
-
+    if term_pos != -1:
+        t_bytes_fr = t_bytes_fr[:term_pos]
         
-    if fr_idx < fr_len:
+    # Etape 4: Injecter le texte traduit dans l'espace disponible
+    avail_space = term_idx - text_start
+    if len(t_bytes_fr) > avail_space:
         if log_fn:
-            log_fn(f"  [!] [TEXTE TRONQUE] [id {dlg_id}] Menu FR tronqué de {(fr_len - fr_idx)//2} char.", "warn")
-            
-    return True
+            log_fn(f"  [!] [TEXTE TROP LONG] [id {dlg_id}] Tronqué de {(len(t_bytes_fr) - avail_space)//2} char.", "warn")
+        t_bytes_fr = t_bytes_fr[:avail_space]
+    elif len(t_bytes_fr) < avail_space:
+        # Pad with spaces
+        padding = (avail_space - len(t_bytes_fr)) // 2
+        t_bytes_fr += b"\x20\x11" * padding
+        
+    # Overwrite the text portion
+    data[text_start:term_idx] = t_bytes_fr
 
 
 def encode_fbe_bnp_from_json(
@@ -340,45 +316,41 @@ def encode_fbe_bnp_from_json(
     """Récrit les dialogues traduits dans un fichier F_BE.BNP ou TM_EVE.BNP."""
     data = bytearray(open(bin_path, "rb").read())
     import json
+    from pathlib import Path
 
     dlgs = json.loads(open(json_path, encoding="utf-8").read(), strict=False)
     ok = skip = kept = 0
-    done_slots = set()
-
-    # TRI IMPÉRATIF PAR OFFSET POUR GÉRER LE DELTA
-    dlgs.sort(key=lambda d: d["offset"])
+    
+    # Grouper les sous-dialogues par offset
+    from collections import defaultdict
+    slots_map = defaultdict(list)
     for d in dlgs:
-        n_fr = d.get("nom_fr", "").strip()
-        t_fr = d.get("texte_fr", "").strip()
-        if not n_fr and not t_fr:
-            kept += 1
-            continue
-        key = (d["offset"], d["data_size"])
-        if key in done_slots:
-            continue
-        term_list = d.get("_term", [])
-        success = encode_fbe_slot(
-            data,
-            d["offset"],
-            d["data_size"],
-            n_fr,
-            t_fr,
-            term_list,
-            log_fn,
-            d.get("id"),
-        )
+        slots_map[d["offset"]].append(d)
 
-        if success:
-            done_slots.add(key)
+    for offset, subs in slots_map.items():
+        slot_size = subs[0]["data_size"]
+        slot_data = data[offset : offset + slot_size]
+        
+        for d in subs:
+            n_fr = d.get("nom_fr", "").strip()
+            t_fr = d.get("texte_fr", "").strip()
+            
+            if not n_fr and not t_fr:
+                kept += 1
+                continue
+                
+            sub_off = d.get("_sub_offset")
+            sub_len = d.get("_sub_len")
+            
+            if sub_off is None or sub_len is None:
+                continue
+                
+            sub_chunk = slot_data[sub_off : sub_off + sub_len]
+            encode_fbe_sub_chunk(sub_chunk, n_fr, t_fr, log_fn, d.get("id"))
+            
+            # Re-injecter le sub_chunk modifié dans le slot_data
+            slot_data[sub_off : sub_off + sub_len] = sub_chunk
             ok += 1
-        else:
-            if log_fn:
-                log_fn(
-                    f"  [!] [ERREUR F_BE] [id {d.get('id')}] Espace alloue insuffisant meme pour le nom ({d['data_size']} octets), ignore",
-                    "err",
-                )
-            skip += 1
-
     if out_path is None:
         out_path = bin_path
     from pathlib import Path

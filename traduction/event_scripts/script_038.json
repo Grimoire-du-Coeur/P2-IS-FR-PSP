@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 187546,
-    "data_size": 116,
-    "slot_size": 120,
+    "data_size": 114,
+    "slot_size": 114,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]didn't[SP]know[SP]Ginko[SP]was[SP]that[SP]stressed[SP]out...",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 187666,
-    "data_size": 208,
-    "slot_size": 212,
+    "data_size": 206,
+    "slot_size": 206,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]can[SP]kind[SP]of[SP]relate...[1205][001E][SP]Getting[SP]pushed\naround[SP]and[SP]ignored[SP]just[SP]'cause[SP]you're\ndifferent...",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 187878,
-    "data_size": 106,
-    "slot_size": 110,
+    "data_size": 104,
+    "slot_size": 104,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko's[SP]voice[E4][NULL][NULL][0002]",
     "texte_orig": "I[SP]need[SP]to[SP]think[SP]about[SP]this...",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 187988,
-    "data_size": 198,
-    "slot_size": 202,
+    "data_size": 196,
+    "slot_size": 196,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP][1113]![SP]Ginko[SP]went[SP]with[SP]them!\nThey're[SP]gonna[SP]trick[SP]her[SP]into[SP]betraying\nus[SP]at[SP]this[SP]rate!",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 188190,
-    "data_size": 278,
-    "slot_size": 282,
+    "data_size": 276,
+    "slot_size": 276,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Have[SP]some[SP]faith[SP]in[SP]Lisa...[1205][001E][SP]Dreams[SP]aren't[SP]a\ncrutch[SP]you[SP]can[SP]lean[SP]on[SP]or[SP]a[SP]gift[SP]you[SP]can[SP]be\ngiven.[SP]I'm[SP]sure[SP]she'll[SP]figure[SP]that[SP]out.",
@@ -82,17 +77,31 @@
   {
     "id": 5,
     "offset": 188472,
-    "data_size": 154,
-    "slot_size": 158,
+    "data_size": 152,
+    "slot_size": 152,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Shift[SP]boss",
     "texte_orig": "Hey,[SP]you[SP]four![SP]What're[SP]you[SP]part-timers\nlounging[SP]around[SP]for!?",
     "nom_fr": "Chef",
     "texte_fr": "Hé, vous quatre! Pourquoi vous\nglandez, les intérimaires!?"
+  },
+  {
+    "id": 6,
+    "offset": 188630,
+    "data_size": 264,
+    "slot_size": 266,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Shift[SP]boss",
+    "texte_orig": "Get[SP]out[SP]there[SP]and[SP]guard[SP]the[SP]stage![SP]And[SP]you\ngirls,[SP]go[SP]collect[SP]tickets![SP]What,[SP]am[SP]I[SP]not\nmaking[SP]myself[SP]clear?[SP]Get[SP]going!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

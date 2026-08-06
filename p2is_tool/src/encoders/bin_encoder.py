@@ -428,6 +428,15 @@ def encode_bnp_from_json(
         t_fr = _align_mid_text(
             d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
         )
+        for seq in (
+            "[E1][E2][E3][E4]",
+            "[1109][E2][E3][E4]",
+            "[E1][E2][E4]",
+            "[1109][E2][E4]",
+            "[E1][E2][E3]",
+            "[1109][E2][E3]",
+        ):
+            t_fr = t_fr.replace(seq, "")
         enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
         term = d.get("_term", [E1, E2, E3, E4])
         avail = d["data_size"] - (len(term) * 2)

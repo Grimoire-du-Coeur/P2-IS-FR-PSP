@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 220534,
-    "data_size": 108,
-    "slot_size": 112,
+    "data_size": 106,
+    "slot_size": 106,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "Looks[SP]like[SP]you're[SP]okay,[SP][1113]...\nThank[SP]goodness.",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 220646,
-    "data_size": 146,
-    "slot_size": 150,
+    "data_size": 144,
+    "slot_size": 144,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "Could[SP]you[SP]take[SP]care[SP]of[SP]Lisa[SP]and[SP]Big[SP]Maya?\nI'll[SP]check[SP]on[SP]Michel.",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 220796,
-    "data_size": 58,
-    "slot_size": 62,
+    "data_size": 56,
+    "slot_size": 56,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Uggggh...[1205][001E][SP][1113]...?",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 220858,
-    "data_size": 104,
-    "slot_size": 108,
+    "data_size": 102,
+    "slot_size": 102,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Ngh...[SP][1113]-kun...?[SP]Where's...[1205][001E][SP]the[SP]others?",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 220966,
-    "data_size": 88,
-    "slot_size": 92,
+    "data_size": 86,
+    "slot_size": 86,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Owww...[1205][001E][SP]That[SP]was[SP]horrible...",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 221058,
-    "data_size": 92,
-    "slot_size": 96,
+    "data_size": 90,
+    "slot_size": 90,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Whew...[1205][001E][SP]At[SP]least[SP]everyone's[SP]okay.",
@@ -98,17 +92,31 @@
   {
     "id": 6,
     "offset": 221154,
-    "data_size": 228,
-    "slot_size": 232,
+    "data_size": 226,
+    "slot_size": 226,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "There's[SP]no[SP]way[SP]we[SP]can[SP]get[SP]all[SP]the[SP]way[SP]back\nup[SP]there...[1205][001E][SP]Let's[SP]take[SP]a[SP]minute[SP]to[SP]think\nabout[SP]what[SP]to[SP]do.",
     "nom_fr": "Maya",
     "texte_fr": "Par contre, aucune\nchance de remonter d'ici...[1205][001E]\nPrenons une minute pour\nréfléchir à la suite."
+  },
+  {
+    "id": 7,
+    "offset": 221386,
+    "data_size": 114,
+    "slot_size": 118,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Eikichi",
+    "texte_orig": "By[SP]the[SP]way,[SP]Jun...[1205][001E][SP]What're[SP]you[SP]staring[SP]at?",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

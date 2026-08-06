@@ -239,15 +239,29 @@ _lang = "fr"
 
 def crilayla_decompress(data: bytes):
     """Décompresse un bloc CRILAYLA (compression propriétaire CRI Middleware)."""
-    if len(data) < 16 or data[-16:-8] != b"CRILAYLA":
-        return None
-    try:
+    if len(data) >= 16 and data[0:8] == b"CRILAYLA":
+        # Standard CRILAYLA header at the beginning
+        unc = struct.unpack_from("<I", data, 8)[0]
+        # Skip to payload
+        header_sz = struct.unpack_from("<I", data, 12)[0]
+        # In standard CRILAYLA, there is a 0x100 (256) byte header after the 16 byte header.
+        # So payload starts at 16 + 256 = 272.
+        start_offset = 272 if len(data) >= 272 + header_sz else 16
+        payload = data[start_offset:start_offset+header_sz]
+        csz = len(payload)
+        rev = bytearray(payload[::-1])
+    elif len(data) >= 16 and data[-16:-8] == b"CRILAYLA":
+        # Padded CRILAYLA at the end
         unc = struct.unpack_from("<I", data, len(data) - 8)[0]
         csz = struct.unpack_from("<I", data, len(data) - 4)[0]
         cs = len(data) - 16 - csz
         if cs < 0 or csz == 0:
             return None
         rev = bytearray(data[cs : cs + csz][::-1])
+    else:
+        return None
+
+    try:
         out = bytearray(unc)
         wp = unc
         rp = pool = left = 0

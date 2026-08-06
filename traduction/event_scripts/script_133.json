@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 347530,
-    "data_size": 136,
-    "slot_size": 140,
+    "data_size": 134,
+    "slot_size": 134,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "[1114]![SP]You're[SP]the[SP]boss[SP]today,[SP]right!?\nOrder[SP]her[SP]not[SP]to[SP]go!",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 347702,
-    "data_size": 168,
-    "slot_size": 172,
+    "data_size": 166,
+    "slot_size": 166,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Jun![SP]You[SP]gotta[SP]say[SP]something![SP]Are[SP]you\ngonna[SP]just[SP]let[SP]Big[SP]Sis[SP]go[SP]away!?",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 347874,
-    "data_size": 32,
-    "slot_size": 36,
+    "data_size": 30,
+    "slot_size": 30,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "......",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 347910,
-    "data_size": 104,
-    "slot_size": 108,
+    "data_size": 102,
+    "slot_size": 102,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]won't[SP]let[SP]you...[1205][001E][SP]I[SP]won't[SP]let[SP]you[SP]go!",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 348018,
-    "data_size": 170,
-    "slot_size": 174,
+    "data_size": 168,
+    "slot_size": 168,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "If[SP]we[SP]lock[SP]Big[SP]Sis[SP]in[SP]the[SP]shrine[SP]until\ntomorrow,[SP]she[SP]won't[SP]be[SP]able[SP]to[SP]go!",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 348192,
-    "data_size": 120,
-    "slot_size": 124,
+    "data_size": 118,
+    "slot_size": 118,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Jun",
     "texte_orig": "We[SP]can't,[SP]guys![SP]We...[1205][001E][SP]We[SP]have[SP]to[SP]let\nBig[SP]Sis[SP]go!",
@@ -98,13 +92,12 @@
   {
     "id": 6,
     "offset": 348316,
-    "data_size": 102,
-    "slot_size": 106,
+    "data_size": 100,
+    "slot_size": 100,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "We're[SP]gonna...[1205][001E][SP]kill[SP]Big[SP]Sis,[SP]right?",
@@ -114,13 +107,12 @@
   {
     "id": 7,
     "offset": 348422,
-    "data_size": 122,
-    "slot_size": 126,
+    "data_size": 120,
+    "slot_size": 120,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "Please[SP]let[SP]me[SP]out![1205][001E][SP]Please...[1205][001E][SP]Help[SP]me,[SP]Jun-kun!",
@@ -130,17 +122,31 @@
   {
     "id": 8,
     "offset": 348548,
-    "data_size": 168,
-    "slot_size": 172,
+    "data_size": 166,
+    "slot_size": 166,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "To[SP]make[SP]sure[SP]she[SP]can't[SP]go[SP]anywhere...[1205][001E]\nWe're[SP]gonna[SP]kill[SP]Big[SP]Sis,[SP]right?",
     "nom_fr": "Ginko",
     "texte_fr": "Pour qu'elle n'aille nulle part...[1205][001E]\nOn va tuer soeurette, pas vrai?"
+  },
+  {
+    "id": 9,
+    "offset": 348720,
+    "data_size": 64,
+    "slot_size": 64,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Jun",
+    "texte_orig": "Aaaaaaaaaaaah![SP]Big[SP]Sis!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

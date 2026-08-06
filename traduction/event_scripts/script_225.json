@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 173338,
-    "data_size": 168,
-    "slot_size": 172,
+    "data_size": 166,
+    "slot_size": 166,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "His[SP]mask...[SP]It[SP]isn't[SP]here...[1205][001E][SP]Don't[SP]tell[SP]me\nhe's[SP]been[SP]here?[SP]But[SP]why...?",
@@ -18,17 +17,31 @@
   {
     "id": 1,
     "offset": 173510,
-    "data_size": 126,
-    "slot_size": 130,
+    "data_size": 124,
+    "slot_size": 124,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "This[SP]should[SP]be[SP]the[SP]place[SP]where[SP]he[SP]hid\nhis[SP]mask...",
     "nom_fr": "Eikichi",
     "texte_fr": "C'est ici qu'il avait caché son masque..."
+  },
+  {
+    "id": 2,
+    "offset": 173640,
+    "data_size": 532,
+    "slot_size": 532,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Maya",
+    "texte_orig": "Even[SP]if[SP]some[SP]certain[SP]someones[SP]forgot[SP]all[SP]about\nwhat[SP]happened,[SP]this[SP]means[SP]there[SP]was[SP]one[SP]who\ndidn't.[SP]I[SP]wonder[SP]how[SP]he[SP]felt,[SP]coming[SP]here...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nAre[SP]you[SP]talking[SP]about[SP]that[SP]boy[SP]with[SP]the\nblack[SP]mask?[SP]Does[SP]that[SP]mean[SP]he[SP]took[SP]the\nmask[SP]from[SP]here[SP]already...?",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

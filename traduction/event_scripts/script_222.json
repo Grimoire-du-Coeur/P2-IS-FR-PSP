@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 340318,
-    "data_size": 142,
-    "slot_size": 146,
+    "data_size": 140,
+    "slot_size": 140,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]He[SP]wasn't[SP]kidding![SP]There's[SP]bombs\nall[SP]over[SP]the[SP]place!",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 340464,
-    "data_size": 166,
-    "slot_size": 170,
+    "data_size": 164,
+    "slot_size": 164,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Ginko",
     "texte_orig": "[1113]![SP]We[SP]gotta[SP]hurry[SP]and[SP]book[SP]it!\nI[SP]don't[SP]want[SP]to[SP]end[SP]up[SP]a[SP]crispy[SP]critter!",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 340634,
-    "data_size": 208,
-    "slot_size": 212,
+    "data_size": 206,
+    "slot_size": 206,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "It's[SP]not[SP]like[SP]we[SP]know[SP]how[SP]to[SP]defuse[SP]bombs\nanyway![SP]Let's[SP]focus[SP]on[SP]the[SP]hunt[SP]for[SP]that[SP]riddle!",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 340846,
-    "data_size": 284,
-    "slot_size": 288,
+    "data_size": 282,
+    "slot_size": 282,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "I'm[SP]with[SP]Ginko[SP]on[SP]this[SP]one![SP]If[SP]the[SP]future's\ngreatest[SP]musician[SP]kicked[SP]the[SP]bucket[SP]here,[SP]my\nfans[SP]around[SP]the[SP]world[SP]would[SP]be[SP]crushed!",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 341134,
-    "data_size": 280,
-    "slot_size": 284,
+    "data_size": 278,
+    "slot_size": 278,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "The[SP]question[SP]is,[SP]what's[SP]his[SP]next[SP]target?\nIf[SP]we[SP]leave[SP]King[SP]Leo[SP]to[SP]his[SP]own[SP]devices,[SP]more\ninnocent[SP]people[SP]will[SP]be[SP]dragged[SP]into[SP]this!",
@@ -82,13 +77,12 @@
   {
     "id": 5,
     "offset": 341418,
-    "data_size": 112,
-    "slot_size": 116,
+    "data_size": 110,
+    "slot_size": 110,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "No[SP]one[SP]else[SP]should[SP]have[SP]to[SP]go[SP]through\nthis...",
@@ -98,13 +92,12 @@
   {
     "id": 6,
     "offset": 341534,
-    "data_size": 100,
-    "slot_size": 104,
+    "data_size": 98,
+    "slot_size": 98,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "We're[SP]definitely[SP]stopping[SP]this[SP]madness!",
@@ -114,13 +107,12 @@
   {
     "id": 7,
     "offset": 341638,
-    "data_size": 192,
-    "slot_size": 196,
+    "data_size": 190,
+    "slot_size": 190,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Maya",
     "texte_orig": "I[SP]agree![SP]It's[SP]unbecoming[SP]of[SP]a[SP]heroine[SP]to\nmake[SP]a[SP]stopover[SP]before[SP]her[SP]dream[SP]comes[SP]true!",
@@ -130,17 +122,31 @@
   {
     "id": 8,
     "offset": 341834,
-    "data_size": 252,
-    "slot_size": 256,
+    "data_size": 250,
+    "slot_size": 250,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Yukino",
     "texte_orig": "There's[SP]no[SP]time[SP]to[SP]disarm[SP]each[SP]individual\nbomb[SP]with[SP]so[SP]many[SP]here![SP]I[SP]think[SP]we[SP]have[SP]to\ngive[SP]up[SP]on[SP]the[SP]concert[SP]hall.",
     "nom_fr": "Yukino",
     "texte_fr": "Il y a trop de bombes pour espérer les\ndésarmer individuellement! Il vaut\nmieux abandonner la salle de concert."
+  },
+  {
+    "id": 9,
+    "offset": 342090,
+    "data_size": 252,
+    "slot_size": 262,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Yukino",
+    "texte_orig": "They're[SP]right![SP]I[SP]can't[SP]die[SP]as[SP]a[SP]mere\napprentice![SP]Plus...[SP]There's[SP]something[SP]I\nhave[SP]to[SP]get[SP]off[SP]my[SP]chest[SP]before[SP]I[SP]go!",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]

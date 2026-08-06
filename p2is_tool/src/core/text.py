@@ -240,18 +240,36 @@ _lang = "fr"
 def decode_text(raw: bytes) -> str:
     """Binaire Atlus → texte lisible avec balises de contrôle."""
     out = ""
-    for i in range(0, len(raw) - 1, 2):
-        cp = struct.unpack_from("<H", raw, i)[0]
-        if cp in CTRL:
-            out += CTRL[cp]
-        elif 0x20 <= cp <= 0x7E:
-            out += chr(cp)
-        elif 0x80 <= cp <= 0xFF:
-            out += chr(cp)
-        elif 0x1100 <= cp <= 0x12FF:
-            out += f"[{cp:04X}]"
-        else:
+    i = 0
+    while i < len(raw):
+        if i + 1 < len(raw):
+            b0 = raw[i]
+            b1 = raw[i+1]
+            cp = b0 | (b1 << 8)
+            if cp in CTRL:
+                out += CTRL[cp]
+                i += 2
+                continue
+            if 0x20 <= cp <= 0x7E:
+                out += chr(cp)
+                i += 2
+                continue
+            if 0x1100 <= cp <= 0x12FF:
+                out += f"[{cp:04X}]"
+                i += 2
+                continue
+            
+            # Treat unknown as 1-byte if it's in our known buggy set to resync alignment
+            if b0 in (0x7b, 0x7f, 0x81, 0x0d, 0x00, 0x1b, 0x05, 0x27, 0x09, 0x0b):
+                out += f"[B_{b0:02X}]"
+                i += 1
+                continue
+                
             out += f"[U+{cp:04X}]"
+            i += 2
+        else:
+            out += f"[B_{raw[i]:02X}]"
+            i += 1
     return out
 
 
@@ -283,6 +301,12 @@ def text_to_bytes(text: str) -> bytes:
                     break
             if matched:
                 continue
+            if tag.startswith("[B_") and len(tag) == 6:
+                try:
+                    out.append(bytes([int(tag[3:5], 16)]))
+                    continue
+                except ValueError:
+                    pass
             if tag.startswith("[U+") and len(tag) == 8:
                 try:
                     out.append(struct.pack("<H", int(tag[3:7], 16)))
@@ -320,6 +344,8 @@ def detect(data: bytes) -> str:
             return "BINARY"
     if data[:2] == b"\x1f\x8b":
         return "GZIP"
+    if len(data) >= 8 and data[0:8] == b"CRILAYLA":
+        return "CRILAYLA"
     if len(data) >= 16 and data[-16:-8] == b"CRILAYLA":
         return "CRILAYLA"
     if len(data) >= 8:

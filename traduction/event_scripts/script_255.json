@@ -2,13 +2,12 @@
   {
     "id": 0,
     "offset": 332662,
-    "data_size": 324,
-    "slot_size": 328,
+    "data_size": 322,
+    "slot_size": 322,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Baseball[SP]player",
     "texte_orig": "I've[SP]finally[SP]got[SP]a[SP]spot[SP]in[SP]the[SP]starting[SP]lineup!\nHeheh,[SP]no[SP]one[SP]can[SP]call[SP]me[SP]a[SP]benchwarmer[SP]now!\nBig[SP]leagues,[SP]here[SP]I[SP]come![SP]Bring[SP]on[SP]the[SP]groupies!",
@@ -18,13 +17,12 @@
   {
     "id": 1,
     "offset": 332990,
-    "data_size": 322,
-    "slot_size": 326,
+    "data_size": 320,
+    "slot_size": 320,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Female[SP]student",
     "texte_orig": "[1432][NULL][NULL][0014]Seven[SP]Sisters[SP]High[1432][NULL][NULL][0014][SP]is[SP]an[SP]odd[SP]name.[SP]Sumaru's\nname[SP]comes[SP]from[SP]the[SP]Pleiades,[SP]and[SP]the[SP]school\nseems[SP]to[SP]be[SP]named[SP]after[SP]those[SP]seven[SP]sisters.",
@@ -34,13 +32,12 @@
   {
     "id": 2,
     "offset": 333316,
-    "data_size": 322,
-    "slot_size": 326,
+    "data_size": 320,
+    "slot_size": 320,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Female[SP]student",
     "texte_orig": "But[SP]the[SP]name's[SP]so[SP]long[SP]that[SP]most[SP]people[SP]find[SP]it\neasier[SP]to[SP]say[SP]Sevens.[SP]I[SP]always[SP]liked[SP]the[SP]emblem\ndesign,[SP]but[SP]not[SP]once[SP]I[SP]found[SP]out[SP]it's[SP]cursed.",
@@ -50,13 +47,12 @@
   {
     "id": 3,
     "offset": 333642,
-    "data_size": 266,
-    "slot_size": 270,
+    "data_size": 264,
+    "slot_size": 264,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Team[SP]manager",
     "texte_orig": "Now[SP]that's[SP]strange.[SP]He[SP]always[SP]used[SP]to[SP]be\nstrictly[SP]a[SP]second-stringer[SP]and[SP]suddenly[SP]he's\nknocking[SP]'em[SP]out[SP]of[SP]the[SP]park?",
@@ -66,13 +62,12 @@
   {
     "id": 4,
     "offset": 333912,
-    "data_size": 268,
-    "slot_size": 272,
+    "data_size": 266,
+    "slot_size": 266,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Team[SP]manager",
     "texte_orig": "A[SP]guy[SP]with[SP]your[SP]reflexes,[SP]sure,[SP]but[SP]that[SP]fool\nnever[SP]practices![SP]He[SP]must've[SP]gotten[SP]some[SP]kind[SP]of\ncybernetic[SP]implants...",
@@ -82,17 +77,31 @@
   {
     "id": 5,
     "offset": 334184,
-    "data_size": 278,
-    "slot_size": 282,
+    "data_size": 276,
+    "slot_size": 276,
     "_term": [
       4358,
       4354,
-      4355,
-      5169
+      4355
     ],
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Dammit,[SP]where'd[SP]Chikarin[SP]go!?[SP]Oh,[SP]she's[SP]this\ngirl[SP]on[SP]the[SP]school[SP]newspaper[SP]staff...[SP]She[SP]knows\na[SP]ton[SP]about[SP]rumors.",
     "nom_fr": "Lycéen blessé",
     "texte_fr": "Bon sang, où est passée Chikarin!? Oh,\nc'est une fille du journal du lycée...\nElle en connaît un rayon sur les rumeurs."
+  },
+  {
+    "id": 6,
+    "offset": 334466,
+    "data_size": 304,
+    "slot_size": 318,
+    "_term": [
+      4358,
+      4354,
+      4355
+    ],
+    "nom_orig": "Bandaged[SP]male[SP]student",
+    "texte_orig": "They[SP]call[SP]her[SP][1432][NULL][NULL][0014]the[SP]Rumormonger,[1432][NULL][NULL][0014][SP]so[SP]I[SP]thought\nshe[SP]might[SP]know[SP]something[SP]about[SP]the[SP]curse...\nMaybe[SP]she[SP]went[SP]to[SP]Peace[SP]Diner?",
+    "nom_fr": "",
+    "texte_fr": ""
   }
 ]
