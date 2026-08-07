@@ -59,12 +59,12 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | Contributeur | 💾 Commits | ➕ Lignes Ajoutées | ➖ Lignes Supprimées |
 |:---|:---:|:---:|:---:|
 | **[@HamzaKarrouchi](https://github.com/HamzaKarrouchi)** | 413 | +258448 | -35647 |
-| **[@chenetulipe](https://github.com/chenetulipe)** | 332 | +2304100 | -2230643 |
+| **[@chenetulipe](https://github.com/chenetulipe)** | 341 | +2387519 | -2317655 |
 | **[@claude](https://github.com/claude)** | 196 | +230819 | -8772 |
 | **[@Garloulou](https://github.com/Garloulou)** | 50 | +769 | -517 |
 | **[@Bicyclarv](https://github.com/Bicyclarv)** | 46 | +3311 | -3311 |
 | **[@hvnjo](https://github.com/hvnjo)** | 42 | +2675 | -2676 |
-| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 39 | +560 | -560 |
+| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 40 | +579 | -578 |
 | **[@gc-ultimate117](https://github.com/gc-ultimate117)** | 26 | +1503 | -1503 |
 | **[@Fan2Shrek](https://github.com/Fan2Shrek)** | 22 | +395 | -356 |
 | **[@ZePhyrOmZy](https://github.com/ZePhyrOmZy)** | 19 | +403 | -403 |
@@ -84,10 +84,10 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@Kain-Highwind](https://github.com/Kain-Highwind)** | 4 | +281 | -281 |
 | **[@MBG-May](https://github.com/MBG-May)** | 4 | +185 | -184 |
 | **[@aurelien30](https://github.com/aurelien30)** | 4 | +132 | -132 |
-| **[@Astakoune](https://github.com/Astakoune)** | 3 | +78 | -78 |
 | **[@driftbyte4767](https://github.com/driftbyte4767)** | 3 | +284 | -284 |
-| **[@Shrenpai](https://github.com/Shrenpai)** | 3 | +123 | -123 |
+| **[@Astakoune](https://github.com/Astakoune)** | 3 | +78 | -78 |
 | **[@ZeldarioGitHub](https://github.com/ZeldarioGitHub)** | 3 | +53 | -53 |
+| **[@Shrenpai](https://github.com/Shrenpai)** | 3 | +123 | -123 |
 | **[@Diamondssb](https://github.com/Diamondssb)** | 2 | +45 | -45 |
 | **[@LykeSama](https://github.com/LykeSama)** | 2 | +33 | -33 |
 | **[@Aniy22](https://github.com/Aniy22)** | 2 | +25 | -25 |
@@ -96,17 +96,17 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@Xeriam](https://github.com/Xeriam)** | 2 | +56 | -56 |
 | **[@Door-dono](https://github.com/Door-dono)** | 2 | +39 | -39 |
 | **[@nekorighthere](https://github.com/nekorighthere)** | 2 | +86 | -86 |
+| **[@Acanoff](https://github.com/Acanoff)** | 2 | +86 | -86 |
 | **[@chenetulipe2](https://github.com/chenetulipe2)** | 2 | +6 | -6 |
 | **[@MaelMinhAnh](https://github.com/MaelMinhAnh)** | 1 | +77 | -77 |
-| **[@Acanoff](https://github.com/Acanoff)** | 1 | +67 | -67 |
 | **[@Lomac29](https://github.com/Lomac29)** | 1 | +20 | -20 |
 | **[@Muse-haut](https://github.com/Muse-haut)** | 1 | +666 | -666 |
-| **[@k6suha](https://github.com/k6suha)** | 1 | +1 | -1 |
 | **[@Aurinox6](https://github.com/Aurinox6)** | 1 | +59 | -59 |
+| **[@k6suha](https://github.com/k6suha)** | 1 | +1 | -1 |
 | **[@renaclerican](https://github.com/renaclerican)** | 1 | +29 | -29 |
 | **[@Desseday](https://github.com/Desseday)** | 1 | +123 | -123 |
-| **[@Goulyz](https://github.com/Goulyz)** | 1 | +27 | -27 |
 | **[@mae7interludes](https://github.com/mae7interludes)** | 1 | +109 | -109 |
+| **[@Goulyz](https://github.com/Goulyz)** | 1 | +27 | -27 |
 | **[@Adwara](https://github.com/Adwara)** | 1 | +130 | -130 |
 
 ### Répartition des Contributions (Top 10)
@@ -115,12 +115,12 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 ```mermaid
 pie title Top 10 - Commits
     "HamzaKarrouchi" : 413
-    "chenetulipe" : 332
+    "chenetulipe" : 341
     "claude" : 196
     "Garloulou" : 50
     "Bicyclarv" : 46
     "hvnjo" : 42
-    "github-actions[bot]" : 39
+    "github-actions[bot]" : 40
     "gc-ultimate117" : 26
     "Fan2Shrek" : 22
     "ZePhyrOmZy" : 19
@@ -129,7 +129,7 @@ pie title Top 10 - Commits
 #### Lignes Ajoutées
 ```mermaid
 pie title Top 10 - Lignes Ajoutées
-    "chenetulipe" : 2304100
+    "chenetulipe" : 2387519
     "HamzaKarrouchi" : 258448
     "claude" : 230819
     "ArsenetheIV" : 10059
@@ -138,13 +138,13 @@ pie title Top 10 - Lignes Ajoutées
     "gc-ultimate117" : 1503
     "Garloulou" : 769
     "Muse-haut" : 666
-    "github-actions[bot]" : 560
+    "github-actions[bot]" : 579
 ```
 
 #### Lignes Supprimées
 ```mermaid
 pie title Top 10 - Lignes Supprimées
-    "chenetulipe" : 2230643
+    "chenetulipe" : 2317655
     "HamzaKarrouchi" : 35647
     "ArsenetheIV" : 11358
     "claude" : 8772
@@ -152,7 +152,7 @@ pie title Top 10 - Lignes Supprimées
     "hvnjo" : 2676
     "gc-ultimate117" : 1503
     "Muse-haut" : 666
-    "github-actions[bot]" : 560
+    "github-actions[bot]" : 578
     "Garloulou" : 517
 ```
 
