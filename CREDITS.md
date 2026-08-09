@@ -64,7 +64,7 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@Garloulou](https://github.com/Garloulou)** | 50 | +769 | -517 |
 | **[@Bicyclarv](https://github.com/Bicyclarv)** | 46 | +3311 | -3311 |
 | **[@hvnjo](https://github.com/hvnjo)** | 42 | +2675 | -2676 |
-| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 41 | +592 | -591 |
+| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 42 | +597 | -596 |
 | **[@gc-ultimate117](https://github.com/gc-ultimate117)** | 26 | +1503 | -1503 |
 | **[@Fan2Shrek](https://github.com/Fan2Shrek)** | 22 | +395 | -356 |
 | **[@ZePhyrOmZy](https://github.com/ZePhyrOmZy)** | 19 | +403 | -403 |
@@ -86,8 +86,8 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@aurelien30](https://github.com/aurelien30)** | 4 | +132 | -132 |
 | **[@driftbyte4767](https://github.com/driftbyte4767)** | 3 | +284 | -284 |
 | **[@Astakoune](https://github.com/Astakoune)** | 3 | +78 | -78 |
-| **[@Shrenpai](https://github.com/Shrenpai)** | 3 | +123 | -123 |
 | **[@ZeldarioGitHub](https://github.com/ZeldarioGitHub)** | 3 | +53 | -53 |
+| **[@Shrenpai](https://github.com/Shrenpai)** | 3 | +123 | -123 |
 | **[@Diamondssb](https://github.com/Diamondssb)** | 2 | +45 | -45 |
 | **[@LykeSama](https://github.com/LykeSama)** | 2 | +33 | -33 |
 | **[@Aniy22](https://github.com/Aniy22)** | 2 | +25 | -25 |
@@ -120,7 +120,7 @@ pie title Top 10 - Commits
     "Garloulou" : 50
     "Bicyclarv" : 46
     "hvnjo" : 42
-    "github-actions[bot]" : 41
+    "github-actions[bot]" : 42
     "gc-ultimate117" : 26
     "Fan2Shrek" : 22
     "ZePhyrOmZy" : 19
@@ -138,7 +138,7 @@ pie title Top 10 - Lignes Ajoutées
     "gc-ultimate117" : 1503
     "Garloulou" : 769
     "Muse-haut" : 666
-    "github-actions[bot]" : 592
+    "github-actions[bot]" : 597
 ```
 
 #### Lignes Supprimées
@@ -152,7 +152,7 @@ pie title Top 10 - Lignes Supprimées
     "hvnjo" : 2676
     "gc-ultimate117" : 1503
     "Muse-haut" : 666
-    "github-actions[bot]" : 591
+    "github-actions[bot]" : 596
     "Garloulou" : 517
 ```
 
