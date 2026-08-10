@@ -63,8 +63,8 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@claude](https://github.com/claude)** | 196 | +230819 | -8772 |
 | **[@Garloulou](https://github.com/Garloulou)** | 50 | +769 | -517 |
 | **[@Bicyclarv](https://github.com/Bicyclarv)** | 46 | +3311 | -3311 |
+| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 43 | +602 | -601 |
 | **[@hvnjo](https://github.com/hvnjo)** | 42 | +2675 | -2676 |
-| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 42 | +597 | -596 |
 | **[@gc-ultimate117](https://github.com/gc-ultimate117)** | 26 | +1503 | -1503 |
 | **[@Fan2Shrek](https://github.com/Fan2Shrek)** | 22 | +395 | -356 |
 | **[@ZePhyrOmZy](https://github.com/ZePhyrOmZy)** | 19 | +403 | -403 |
@@ -119,8 +119,8 @@ pie title Top 10 - Commits
     "claude" : 196
     "Garloulou" : 50
     "Bicyclarv" : 46
+    "github-actions[bot]" : 43
     "hvnjo" : 42
-    "github-actions[bot]" : 42
     "gc-ultimate117" : 26
     "Fan2Shrek" : 22
     "ZePhyrOmZy" : 19
@@ -138,7 +138,7 @@ pie title Top 10 - Lignes Ajoutées
     "gc-ultimate117" : 1503
     "Garloulou" : 769
     "Muse-haut" : 666
-    "github-actions[bot]" : 597
+    "github-actions[bot]" : 602
 ```
 
 #### Lignes Supprimées
@@ -152,7 +152,7 @@ pie title Top 10 - Lignes Supprimées
     "hvnjo" : 2676
     "gc-ultimate117" : 1503
     "Muse-haut" : 666
-    "github-actions[bot]" : 596
+    "github-actions[bot]" : 601
     "Garloulou" : 517
 ```
 
