@@ -105,7 +105,6 @@ P2PT_ALL.cpk
 ├── ch_menu.bin      - 43 images GIM de l'interface (menus, HUD)
 ├── syscg.bin        - Images compressées système (écrans de chargement, etc.)
 ├── SE_DVL.BIN       - Banque audio Personas (66 Mo)
-└── EBOOT.BIN        - Exécutable principal (menus système, textes ENGBIN)
 ```
 
 <br/>
@@ -128,22 +127,6 @@ Le flux CRILAYLA se lit **à rebours** (de la fin vers le début). C'est un algo
 ### Contrainte de Taille dans l'ISO
 
 La TOC du CPK stocke les offsets LBA de chaque fichier. **La taille compressée d'un fichier ne peut pas dépasser sa taille d'origine**, sinon elle déborde sur le fichier suivant et corrompt l'ISO. Il n'est pas possible d'ajouter de l'espace : tout ce qui dépasse la taille allouée est interdit.
-
-### Stratégie de Compression pour l'Image Lab
-
-Pour `syscg.bin` (écrans de chargement), la contrainte est particulièrement sévère : la taille compressée maximale est de **57 320 octets** pour un contenu décompressé de **321 712 octets**.
-
-La stratégie adoptée :
-1. Injection de la nouvelle image GIM à l'offset `0x760` (slot de l'écran de chargement)
-2. Mise à zéro d'une image de tutoriel inutilisée (offset `0x31130`) pour réduire l'entropie du flux
-3. Compression CRILAYLA greedy en Python pur (résultat : ~52 000 octets)
-4. Padding de zéros jusqu'à 57 320 octets pour respecter la taille allouée
-
-Les images à ne jamais toucher dans `syscg.bin` :
-- `0x42f40` : Chronomètre (Time Limit)
-- `0x43250` : Compteur de pièces (Total Coins)
-
-<br/>
 
 ---
 
@@ -308,15 +291,6 @@ Le compresseur implémenté dans `core/image_format.py` utilise une approche gre
 
 - `syscg.bin` original : 57 320 octets compressés / 321 712 octets non-compressés
 - Après injection et recompression : ~52 000 octets, compatible avec la contrainte de taille
-
-### Isolation des Slots d'Images dans syscg.bin
-
-| Offset | Contenu | Modifiable |
-|:---:|:---|:---:|
-| `0x760` | Écran de chargement principal | Oui |
-| `0x31130` | Image de tutoriel (inutilisée) | Oui (mise à zéro autorisée) |
-| `0x42f40` | Chronomètre (Time Limit) | Non |
-| `0x43250` | Compteur de pièces (Total Coins) | Non |
 
 <br/>
 
