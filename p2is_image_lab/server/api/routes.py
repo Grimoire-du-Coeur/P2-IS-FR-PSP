@@ -84,13 +84,14 @@ async def browse(req: BrowseRequest):
 
 class InfoRequest(BaseModel):
     bin_path: str
+    ignore_atlus: bool = True
 
 @router.post("/image/info")
 async def image_info(req: InfoRequest):
     if not os.path.exists(req.bin_path):
         raise HTTPException(404, "Fichier introuvable.")
     try:
-        gims = scan_bin_for_gims(req.bin_path)
+        gims = scan_bin_for_gims(req.bin_path, req.ignore_atlus)
         return {"status": "ok", "total": len(gims), "gims": gims}
     except Exception as e:
         logger.error(f"Erreur scan_bin: {e}")
@@ -98,6 +99,7 @@ async def image_info(req: InfoRequest):
 
 class ScanFolderRequest(BaseModel):
     folder_path: str
+    ignore_atlus: bool = True
 
 @router.post("/image/scan_folder")
 async def scan_folder(req: ScanFolderRequest):
@@ -109,20 +111,22 @@ async def scan_folder(req: ScanFolderRequest):
         for root, _, files in os.walk(req.folder_path):
             for file in files:
                 ext = file.lower()
-                if ext.endswith('.bin') or ext.endswith('.bnp'):
+                if ext.endswith('.bin') or ext.endswith('.bnp') or ext.endswith('.gim'):
                     full_path = os.path.join(root, file)
                     try:
                         with open(full_path, 'rb') as f:
-                            # Read in chunks to find MIG. quickly without loading huge files entirely
-                            # For simplicity and given typical BIN sizes, read first 10MB
-                            data = f.read(10 * 1024 * 1024) 
-                            if b'MIG.' in data:
-                                rel_path = os.path.relpath(full_path, req.folder_path)
-                                files_with_images.append({
-                                    "name": file,
-                                    "rel_path": rel_path,
-                                    "full_path": full_path
-                                })
+                            import mmap
+                            try:
+                                with mmap.mmap(f.fileno(), 0, access=mmap.ACCESS_READ) as mm:
+                                    if mm.find(b'MIG.00.1PSP') != -1:
+                                        rel_path = os.path.relpath(full_path, req.folder_path)
+                                        files_with_images.append({
+                                            "name": file,
+                                            "rel_path": rel_path,
+                                            "full_path": full_path
+                                        })
+                            except ValueError:
+                                pass
                     except:
                         pass
         return {"status": "ok", "files": files_with_images}
@@ -131,12 +135,12 @@ async def scan_folder(req: ScanFolderRequest):
         raise HTTPException(500, str(e))
 
 @router.get("/image/preview")
-async def image_preview(bin_path: str, offset: int, size: int):
+async def image_preview(bin_path: str, offset: int, size: int, is_archive: bool = False, archive_type: str = "", chunk_index: int = -1, chunk_offset: int = 0, chunk_size: int = 0, is_compressed: bool = False, inner_offset: int = 0):
     if not os.path.exists(bin_path):
         raise HTTPException(404, "Fichier introuvable.")
     
     try:
-        data = extract_gim_entry(bin_path, offset, size)
+        data = extract_gim_entry(bin_path, offset, size, is_archive, archive_type, chunk_index, chunk_offset, chunk_size, is_compressed, inner_offset)
         imgs, pal, _ = parse_gim(data, 0)
         
         if not imgs:
@@ -154,12 +158,120 @@ async def image_preview(bin_path: str, offset: int, size: int):
         raise HTTPException(500, str(e))
 
 class ExtractRequest(BaseModel):
+    is_archive: bool = False
+    archive_type: str = ""
+    chunk_index: int = -1
+    chunk_offset: int = 0
+    chunk_size: int = 0
+    is_compressed: bool = False
+    inner_offset: int = 0
     bin_path: str
     out_dir: str
     index: int
     offset: int
     size: int
     format: str # 'gim' or 'png'
+
+class ExtractAllRequest(BaseModel):
+    bin_path: str
+    out_dir: str
+    format: str = "png" # "png" ou "gim"
+    ignore_atlus: bool = True
+
+@router.post("/image/extract_all")
+async def extract_all(req: ExtractAllRequest):
+    if not os.path.exists(req.bin_path):
+        raise HTTPException(404, "Fichier introuvable.")
+        
+    out_dir = Path(req.out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    
+    try:
+        from core.image_format import scan_bin_for_gims
+        gims = scan_bin_for_gims(req.bin_path, req.ignore_atlus)
+        
+        extracted = 0
+        for gim in gims:
+            try:
+                data = extract_gim_entry(req.bin_path, gim['offset'], gim['size'], gim.get('is_archive', False), gim.get('archive_type', ''), gim.get('chunk_index', -1), gim.get('chunk_offset', 0), gim.get('chunk_size', 0), gim.get('is_compressed', False), gim.get('inner_offset', 0))
+                base_name = f"image_{gim['index']:03d}_{gim['offset']:x}"
+                
+                if req.format == "png":
+                    imgs, pal, _ = parse_gim(data, 0)
+                    if imgs:
+                        img = render_gim(data, imgs[0], pal)
+                        if img:
+                            out_file = out_dir / f"{base_name}.png"
+                            img.save(out_file, format="PNG")
+                            extracted += 1
+                else:
+                    out_file = out_dir / f"{base_name}.gim"
+                    with open(out_file, "wb") as f:
+                        f.write(data)
+                    extracted += 1
+            except:
+                pass
+                
+        return {"status": "ok", "msg": f"{extracted} images extraites dans {req.out_dir}"}
+    except Exception as e:
+        logger.error(f"Erreur extract_all: {e}")
+        raise HTTPException(500, str(e))
+
+class ExtractAllGlobalRequest(BaseModel):
+    folder_path: str
+    format: str = "png"
+    ignore_atlus: bool = True
+
+@router.post("/image/extract_all_global")
+async def extract_all_global(req: ExtractAllGlobalRequest):
+    if not os.path.exists(req.folder_path):
+        raise HTTPException(404, "Dossier introuvable.")
+        
+    out_dir = Path(req.folder_path) / "Export_All"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    
+    try:
+        from core.image_format import scan_bin_for_gims
+        
+        extracted = 0
+        total_files = 0
+        for root, _, files in os.walk(req.folder_path):
+            if "Export_All" in root: continue
+            for file in files:
+                ext = file.lower()
+                if ext.endswith('.bin') or ext.endswith('.bnp') or ext.endswith('.gim'):
+                    full_path = os.path.join(root, file)
+                    total_files += 1
+                    try:
+                        gims = scan_bin_for_gims(full_path, req.ignore_atlus)
+                        for gim in gims:
+                            try:
+                                data = extract_gim_entry(full_path, gim['offset'], gim['size'], gim.get('is_archive', False), gim.get('archive_type', ''), gim.get('chunk_index', -1), gim.get('chunk_offset', 0), gim.get('chunk_size', 0), gim.get('is_compressed', False), gim.get('inner_offset', 0))
+                                base_name = f"{file}_image_{gim['index']:03d}_{gim['offset']:x}"
+                                
+                                if req.format == "png":
+                                    imgs, pal, _ = parse_gim(data, 0)
+                                    if imgs:
+                                        img = render_gim(data, imgs[0], pal)
+                                        if img:
+                                            out_file = out_dir / f"{base_name}.png"
+                                            img.save(out_file, format="PNG")
+                                            extracted += 1
+                                else:
+                                    out_file = out_dir / f"{base_name}.gim"
+                                    with open(out_file, "wb") as f:
+                                        f.write(data)
+                                    extracted += 1
+                            except:
+                                pass
+                    except:
+                        pass
+                
+        return {"status": "ok", "msg": f"{extracted} images extraites de {total_files} fichiers dans {out_dir.name}"}
+    except Exception as e:
+        logger.error(f"Erreur extract_all_global: {e}")
+        raise HTTPException(500, str(e))
+
 
 @router.post("/image/extract")
 async def image_extract(req: ExtractRequest):
@@ -170,7 +282,7 @@ async def image_extract(req: ExtractRequest):
     out_dir.mkdir(parents=True, exist_ok=True)
     
     try:
-        data = extract_gim_entry(req.bin_path, req.offset, req.size)
+        data = extract_gim_entry(req.bin_path, req.offset, req.size, req.is_archive, req.archive_type, req.chunk_index, req.chunk_offset, req.chunk_size, req.is_compressed, req.inner_offset)
         base_name = f"image_{req.index:03d}_{req.offset:x}"
         
         if req.format == "png":
@@ -191,6 +303,13 @@ async def image_extract(req: ExtractRequest):
         raise HTTPException(500, str(e))
 
 class InjectRequest(BaseModel):
+    is_archive: bool = False
+    archive_type: str = ""
+    chunk_index: int = -1
+    chunk_offset: int = 0
+    chunk_size: int = 0
+    is_compressed: bool = False
+    inner_offset: int = 0
     bin_path: str
     gim_path: str
     out_bin_path: str
@@ -217,7 +336,7 @@ async def image_inject(req: InjectRequest):
         def log_fn(msg, lvl):
             logger.info(f"[{lvl}] {msg}")
             
-        inject_gim_into_bin(actual_bin_path, req.target_offset, req.target_size, new_gim_data, temp_out, log_fn=log_fn)
+        inject_gim_into_bin(actual_bin_path, req.target_offset, req.target_size, new_gim_data, temp_out, req.is_archive, req.archive_type, req.chunk_index, req.chunk_offset, req.chunk_size, req.is_compressed, req.inner_offset, log_fn=log_fn)
         
         if os.path.exists(req.out_bin_path):
             os.remove(req.out_bin_path)
@@ -246,6 +365,13 @@ async def queue_add(
     target_offset: int = Form(...),
     target_size: int = Form(...),
     index: int = Form(...),
+    is_archive: bool = Form(False),
+    archive_type: str = Form(""),
+    chunk_index: int = Form(-1),
+    chunk_offset: int = Form(0),
+    chunk_size: int = Form(0),
+    is_compressed: bool = Form(False),
+    inner_offset: int = Form(0),
     file: UploadFile = File(...)
 ):
     q = get_queue()
@@ -293,7 +419,7 @@ async def build_apply():
             size = item["size"]
             
             # Read original GIM chunk
-            orig_chunk = extract_gim_entry(bin_path, offset, size)
+            orig_chunk = extract_gim_entry(bin_path, offset, size, item.get("is_archive", False), item.get("archive_type", ""), item.get("chunk_index", -1), item.get("chunk_offset", 0), item.get("chunk_size", 0), item.get("is_compressed", False), item.get("inner_offset", 0))
             
             # If user uploaded a PNG, encode it. If it's already a GIM, use it directly.
             if staging_path.lower().endswith('.png'):
@@ -308,7 +434,7 @@ async def build_apply():
                 
             # Inject into BIN
             temp_out = bin_path + ".tmp"
-            inject_gim_into_bin(bin_path, offset, size, new_chunk, temp_out)
+            inject_gim_into_bin(bin_path, offset, size, new_chunk, temp_out, item.get("is_archive", False), item.get("archive_type", ""), item.get("chunk_index", -1), item.get("chunk_offset", 0), item.get("chunk_size", 0), item.get("is_compressed", False), item.get("inner_offset", 0))
             
             if os.path.exists(bin_path):
                 os.remove(bin_path)

@@ -164,6 +164,22 @@ Construit sur une architecture autonome, l'outil s'exécute localement et se lan
 
 ---
 
+## L'Outil de Traitement d'Images (p2is_image_lab)
+
+Le dossier `p2is_image_lab/` contient notre nouvel outil d'extraction, d'édition et de réinjection des images GIM (CRILAYLA), utile pour modifier les écrans de chargement et autres graphismes sans faire planter le jeu.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langage-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+</div>
+
+> **Note sur les dépendances** : Afin de simplifier le déploiement, l'intégralité des dépendances de nos scripts Python (`p2is_tool`, `p2is_audio_lab`, `p2is_image_lab`, outils CPK, etc.) a été consolidée dans un fichier unique à la racine du projet : `requirements.txt`. Vous pouvez tout installer via `pip install -r requirements.txt`.
+
+<br/>
+
+---
+
 ## Documentation et Liens Utiles
 
 Afin d'assurer la transparence et la pérennité du projet, toute la documentation technique et organisationnelle a été structurée :
@@ -214,7 +230,7 @@ Vous pouvez également rejoindre la communauté et demander de l'aide sur notre 
 > - **Le Web Patcher** (l'application web `p2is_patcher` / UI) intègre directement le code source du moteur DeltaPatcher et est donc distribué sous licence **[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)** afin de respecter les droits d'auteur de ce dernier.
 > 
 > **Dépendances & Outils tiers utilisés (100% compatibles légalement) :**
-> - **CriFsLib** par Sewer56 ([MIT](https://opensource.org/licenses/MIT)) : Exécutable `.exe` appelé en externe pour extraire le CPK. Son utilisation via ligne de commande le rend totalement indépendant de notre code.
+> - **p2is_cpk_tool.py** : Notre propre outil interne d'extraction et de reconstruction d'archives CPK, développé en remplacement de CriFsLib (qui n'est plus disponible).
 > - **pspdecrypt** par John-K (Open-Source) : Exécutable `.exe` appelé en externe pour déchiffrer l'EBOOT. Totalement indépendant.
 > - **pycdlib** par clalancette ([LGPL-2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)) : Bibliothèque Python importée dynamiquement par notre outil. Le projet "utilise" la bibliothèque sans l'intégrer ou la modifier, ce qui est parfaitement autorisé par la LGPL.
 > - **DeltaPatcher** par marco-calautti ([GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)) : Moteur de patch binaire. Son code est compilé directement dans le Web Patcher, forçant ce dernier à adopter la licence GPL-2.0 (sans contaminer le reste du projet qui reste sous CC BY-NC-SA 4.0).
