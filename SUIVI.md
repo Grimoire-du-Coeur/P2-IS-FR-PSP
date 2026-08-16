@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Journal des Versions â€” Persona 2: Innocent Sin FR
 

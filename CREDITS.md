@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # CrÃ©dits â€” Persona 2: Innocent Sin FR
 

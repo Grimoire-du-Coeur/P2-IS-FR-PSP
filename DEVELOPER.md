@@ -297,7 +297,7 @@ Le laboratoire d'images (`p2is_image_lab`) est un outil web local (FastAPI + Rea
 
 Le format GIM est propriÃ©taire Sony. Les pixels sont encodÃ©s en Z-Curve (*swizzling* matÃ©riel), ce qui optimise les accÃ¨s VRAM sur la PSP. Pour rÃ©injecter une image PNG externe :
 
-1. Redimensionnement Ã  la rÃ©solution cible (ex: 480Ã—272 pour un Ã©cran de chargement)
+1. Redimensionnement Ã  la rÃ©solution cible (ex: 480Ã-272 pour un Ã©cran de chargement)
 2. Conversion en palette 8 bits (256 couleurs) ou en RGBA16 selon le slot cible
 3. Encodage de l'en-tÃªte GIM avec les mÃ©tadonnÃ©es de format
 4. Application du swizzling Z-Curve sur les donnÃ©es pixel
