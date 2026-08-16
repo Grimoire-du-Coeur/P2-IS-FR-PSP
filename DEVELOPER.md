@@ -331,7 +331,7 @@ Le compresseur implémenté dans `core/image_format.py` utilise une approche gre
 | **pycdlib** | Lecture et écriture ISO 9660 | clalancette | LGPL-2.1 |
 | **Pillow** | Manipulation d'images (PNG → GIM) | Pillow contributors | HPND |
 | **p2is_cpk_tool.py** | Extraction et reconstruction CPK | chenetulipe | Interne |
-| **pspdecrypt** | Déchiffrement EBOOT (DRM KIRK) | John-K | Open-Source |
+| **decrypt_eboot.py** | Déchiffrement EBOOT (DRM KIRK) | John-K | Open-Source |
 | **DeltaPatcher** | Moteur de patch binaire xdelta3 | marco-calautti | GPL-2.0 |
 | **ATRACTool-Reloaded** | Conversion audio AT3 | XyLe-GBP | Voir dépôt |
 | **customtkinter** | Interface graphique Python (scripts utilitaires) | Tom Schimansky | MIT |

@@ -156,7 +156,7 @@ Pilote ATRACTool-Reloaded en ligne de commande pour assurer la conversion depuis
 | Outil | Rôle | Licence |
 |:---|:---|:---|
 | **p2is_cpk_tool.py** | Extraction et reconstruction CPK (remplace CriFsLib) | Interne CC BY-NC-SA 4.0 |
-| **NOTRE OUTIL** | Déchiffrement EBOOT, outil interne | Interne CC BY-NC-SA 4.0 |
+| **decrypt_eboot.py** | Déchiffrement EBOOT, outil interne | Interne CC BY-NC-SA 4.0 |
 | **pycdlib** (clalancette) | Lecture ISO 9660, importée dynamiquement | LGPL-2.1 |
 | **DeltaPatcher** (marco-calautti) | Moteur de patch binaire compilé dans p2is_patcher | GPL-2.0 |
 | **ATRACTool-Reloaded** (XyLe-GBP) | Conversion audio AT3, appelé en externe | Voir dépôt |

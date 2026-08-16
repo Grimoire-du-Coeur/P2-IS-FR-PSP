@@ -46,7 +46,7 @@ Merci à toutes les personnes qui ont contribué à la traduction, à la relectu
 | Outil | Auteur | Rôle dans le projet | Licence |
 |:---|:---|:---|:---|
 | **DeltaPatcher** | [marco-calautti](https://github.com/marco-calautti) | Moteur de patch binaire xdelta3 intégré dans le Web Patcher | GPL-2.0 |
-| **pspdecrypt** | [John-K](https://github.com/John-K) | Déchiffrement du DRM KIRK sur l'EBOOT.BIN | Open-Source |
+| **decrypt_eboot.py** | [John-K](https://github.com/John-K) | Déchiffrement du DRM KIRK sur l'EBOOT.BIN | Open-Source |
 | **pycdlib** | [clalancette](https://github.com/clalancette) | Lecture et écriture de l'ISO 9660 | LGPL-2.1 |
 | **ATRACTool-Reloaded** | [XyLe-GBP](https://github.com/XyLe-GBP) | Conversion audio AT3 pour l'Audio Lab | Voir dépôt |
 | **Pack HD Original** | [@racawr](https://gamebanana.com) | Pack de textures haute définition de base pour PPSSPP | Voir GameBanana |
