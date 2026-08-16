@@ -34,14 +34,15 @@
 Persona 2: Innocent Sin n'a jamais eu de version française officielle. Ce dépôt regroupe tout ce qui tourne autour du projet : le patch jouable, les outils de romhacking qu'on a développés pour ça, et la documentation technique qu'on a accumulée pendant le reverse-engineering du jeu.
 
 <div align="center">
-  <a href="https://youtu.be/rGHRMPw-bbo">
-    <img src="https://img.youtube.com/vi/rGHRMPw-bbo/maxresdefault.jpg" alt="Aperçu gameplay Persona 2 FR" width="420" style="border-radius:6px;"/>
+  <a href="https://youtu.be/vuuCnP3waik" target="_blank">
+    <img src="https://img.youtube.com/vi/vuuCnP3waik/maxresdefault.jpg" alt="Aperçu gameplay Persona 2 FR" width="420" style="border-radius:6px;"/>
   </a>
-  <a href="https://www.youtube.com/@chenetulipe">
-    <img src="https://img.youtube.com/vi/aL3N1Xk6X8w/maxresdefault.jpg" alt="Tutoriel installation patch FR" width="420" style="border-radius:6px;"/>
+  <a href="https://youtu.be/rGHRMPw-bbo" target="_blank">
+    <img src="https://img.youtube.com/vi/rGHRMPw-bbo/maxresdefault.jpg" alt="Tutoriel installation patch FR" width="420" style="border-radius:6px;"/>
   </a>
+</div>
   <br/>
-  <sub>Gauche : aperçu du jeu en français - Droite : tutoriel d'installation par chenetulipe</sub>
+  <sub>Gauche : tutoriel d'installation - Droite : aperçu du jeu en français</sub>
 </div>
 
 > [!NOTE]
