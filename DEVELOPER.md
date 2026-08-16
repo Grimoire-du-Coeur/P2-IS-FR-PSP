@@ -1,6 +1,6 @@
 <div align="center">
 
-# Documentation Technique — Persona 2: Innocent Sin FR
+# Documentation Technique â€” Persona 2: Innocent Sin FR
 
 **Base de connaissances du reverse-engineering et des outils de romhacking**
 
@@ -15,7 +15,7 @@
 <br/>
 
 > [!NOTE]
-> Ce document centralise l'intégralité des connaissances techniques accumulées lors du reverse-engineering de Persona 2: Innocent Sin PSP. Il est destiné aux développeurs, romhackers et contributeurs qui souhaitent comprendre ou modifier les outils du projet. Aucune connaissance préalable du jeu n'est supposée.
+> Ce document centralise tout ce qu'on a découvert en reverse-engineerant Persona 2: Innocent Sin PSP. C'est la référence technique du projet : formats de fichiers, opcodes, algorithmes de compression, problèmes rencontrés et comment on les a résolus. Si tu veux comprendre ou modifier les outils, commence ici.
 
 <br/>
 
@@ -25,14 +25,14 @@
 
 1. [Architecture du Pipeline de Traduction](#architecture-du-pipeline-de-traduction)
 2. [Structure de l'UMD et Formats de Fichiers](#structure-de-lumd-et-formats-de-fichiers)
-3. [Le Système de Compression CRILAYLA](#le-système-de-compression-crilayla)
-4. [Bytecode Atlus et Opcodes de Contrôle](#bytecode-atlus-et-opcodes-de-contrôle)
-5. [Spécificités par Fichier Cible](#spécificités-par-fichier-cible)
-6. [Anomalies Découvertes et Résolutions](#anomalies-découvertes-et-résolutions)
+3. [Le SystÃ¨me de Compression CRILAYLA](#le-systÃ¨me-de-compression-crilayla)
+4. [Bytecode Atlus et Opcodes de ContrÃ´le](#bytecode-atlus-et-opcodes-de-contrÃ´le)
+5. [SpÃ©cificitÃ©s par Fichier Cible](#spÃ©cificitÃ©s-par-fichier-cible)
+6. [Anomalies DÃ©couvertes et RÃ©solutions](#anomalies-dÃ©couvertes-et-rÃ©solutions)
 7. [L'Algorithme du Delta (F_BE.BNP)](#lalgorithme-du-delta-fbebnp)
 8. [Le Patcher Web (WebAssembly)](#le-patcher-web-webassembly)
 9. [L'Image Lab (GIM / CRILAYLA)](#limage-lab-gim--crilayla)
-10. [Dépendances et Licences](#dépendances-et-licences)
+10. [DÃ©pendances et Licences](#dÃ©pendances-et-licences)
 
 <br/>
 
@@ -40,7 +40,7 @@
 
 ## Architecture du Pipeline de Traduction
 
-L'outil principal (`p2is_tool`) est une application web locale pilotée par Python. Le pipeline complet se déroule en quatre phases distinctes.
+L'outil principal (`p2is_tool`) est une application web locale pilotÃ©e par Python. Le pipeline complet se dÃ©roule en quatre phases distinctes.
 
 <div align="left">
   <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -48,25 +48,25 @@ L'outil principal (`p2is_tool`) est une application web locale pilotée par Pyth
   <img src="https://img.shields.io/badge/Frontend-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </div>
 
-### Phase 1 — Extraction (I/O LBA)
+### Phase 1 â€” Extraction (I/O LBA)
 
-Le module `core/iso.py` utilise `pycdlib` pour analyser l'arborescence ISO 9660 et localiser les fichiers via leur *Logical Block Address* (LBA). L'archive `P2PT_ALL.cpk` (254 Mo, 136 fichiers) est décompressée par `p2is_cpk_tool.py`. Les sous-fichiers CRILAYLA (comme `event.bin`) sont ensuite décompressés et découpés séquentiellement en scripts individuels.
+Le module `core/iso.py` utilise `pycdlib` pour analyser l'arborescence ISO 9660 et localiser les fichiers via leur *Logical Block Address* (LBA). L'archive `P2PT_ALL.cpk` (254 Mo, 136 fichiers) est dÃ©compressÃ©e par `p2is_cpk_tool.py`. Les sous-fichiers CRILAYLA (comme `event.bin`) sont ensuite dÃ©compressÃ©s et dÃ©coupÃ©s sÃ©quentiellement en scripts individuels.
 
-### Phase 2 — Décodage (Parsing)
+### Phase 2 â€” DÃ©codage (Parsing)
 
-Les parsers dans `src/parsers/` analysent le bytecode Atlus. Chaque mot de 2 octets (Little-Endian hexadécimal) est converti en balise textuelle lisible (ex: `[NL]`, `[E1]`, `[1208]`). Les valeurs inconnues sont capturées sous la forme `[U+XXXX]` pour garantir une rétention mémoire à 100% lors du rebuild. Les scripts sont exportés au format `.json`.
+Les parsers dans `src/parsers/` analysent le bytecode Atlus. Chaque mot de 2 octets (Little-Endian hexadÃ©cimal) est converti en balise textuelle lisible (ex: `[NL]`, `[E1]`, `[1208]`). Les valeurs inconnues sont capturÃ©es sous la forme `[U+XXXX]` pour garantir une rÃ©tention mÃ©moire Ã  100% lors du rebuild. Les scripts sont exportÃ©s au format `.json`.
 
-### Phase 3 — Encodage (Injection)
+### Phase 3 â€” Encodage (Injection)
 
 Les encodeurs dans `src/encoders/` lisent les JSON traduits. Ils effectuent :
-- Le remappage des accents français vers leur équivalent PSP
+- Le remappage des accents franÃ§ais vers leur Ã©quivalent PSP
 - La reconstruction dynamique des tables de pointeurs absolus
-- L'alignement des pointeurs de menus à choix multiples via injection de `[SP]`
+- L'alignement des pointeurs de menus Ã  choix multiples via injection de `[SP]`
 - Le calcul du Delta pour les fichiers BNP sans table d'index globale
 
-### Phase 4 — Rebuild (Compilation ISO)
+### Phase 4 â€” Rebuild (Compilation ISO)
 
-Les scripts compressés en CRILAYLA sont injectés dans l'archive CPK modifiée. L'ISO finale est reconstruite par **injection LBA RAW** : le code se positionne exactement à l'adresse LBA du fichier d'origine et écrase physiquement les secteurs concernés, sans modifier la structure ISO 9660.
+Les scripts compressÃ©s en CRILAYLA sont injectÃ©s dans l'archive CPK modifiÃ©e. L'ISO finale est reconstruite par **injection LBA RAW** : le code se positionne exactement Ã  l'adresse LBA du fichier d'origine et Ã©crase physiquement les secteurs concernÃ©s, sans modifier la structure ISO 9660.
 
 <br/>
 
@@ -74,182 +74,182 @@ Les scripts compressés en CRILAYLA sont injectés dans l'archive CPK modifiée.
 
 ## Structure de l'UMD et Formats de Fichiers
 
-L'UMD de Persona 2 IS PSP utilise une architecture propriétaire imbriquée. La connaissance exacte de chaque format est indispensable pour intervenir sans corrompre l'ISO.
+L'UMD de Persona 2 IS PSP utilise une architecture propriÃ©taire imbriquÃ©e. La connaissance exacte de chaque format est indispensable pour intervenir sans corrompre l'ISO.
 
-### Formats Système Sony (PSP)
+### Formats SystÃ¨me Sony (PSP)
 
 | Format | Fichier(s) | Contenu |
 |:---|:---|:---|
-| `.SFO` | `PARAM.SFO` | Métadonnées du jeu : ID (`ULES01557`), région, flags firmware |
-| `.PMF` | `F0141.pmf` — `F0159.pmf` | 19 cinématiques (~300 Mo). Lues par le Media Engine matériel. `F0158.pmf` contient un double en-tête BND Pack avec des sous-titres encodés en dur |
-| `.GIM` | Divers | Images optimisées VRAM PSP avec swizzling Z-Curve. Contenues dans les mini-archives `.bin` |
+| `.SFO` | `PARAM.SFO` | MÃ©tadonnÃ©es du jeu : ID (`ULES01557`), rÃ©gion, flags firmware |
+| `.PMF` | `F0141.pmf` â€” `F0159.pmf` | 19 cinÃ©matiques (~300 Mo). Lues par le Media Engine matÃ©riel. `F0158.pmf` contient un double en-tÃªte BND Pack avec des sous-titres encodÃ©s en dur |
+| `.GIM` | Divers | Images optimisÃ©es VRAM PSP avec swizzling Z-Curve. Contenues dans les mini-archives `.bin` |
 
-### Formats Propriétaires CRI et Atlus
+### Formats PropriÃ©taires CRI et Atlus
 
 | Format | Description |
 |:---|:---|
-| `.CPK` | Archive CRI File System. Indexée par une TOC stricte, contenu compressé CRILAYLA. Fichier principal : `P2PT_ALL.cpk` (254 Mo, 136 fichiers) |
+| `.CPK` | Archive CRI File System. IndexÃ©e par une TOC stricte, contenu compressÃ© CRILAYLA. Fichier principal : `P2PT_ALL.cpk` (254 Mo, 136 fichiers) |
 | `.BIN` (majuscule) | Flux binaires purs. Exemple : `SE_DVL.BIN` (66 Mo), banque de bruitages de Personas |
 | `.bin` (minuscule) | Mini-archives Atlus avec TOC interne. Exemple : `ch_menu.bin` contient **43 images GIM**. Fichier le plus petit du jeu : `namedic_dat.bin` (22 octets). Exception : `event.bin` (37 Mo) contient tous les scripts de l'histoire |
-| `.BNP` | Bind Pack Atlus. Données organisées séquentiellement, sans table d'offsets globale. Exemples : `F_BE.BNP` (combats), `MMAP*.BNP` (dialogues PNJ carte), `TM_EVE.BNP` (cinématiques in-game), `EVTUNIT.BNP` (modèles 3D, ~7.5 Mo) |
+| `.BNP` | Bind Pack Atlus. DonnÃ©es organisÃ©es sÃ©quentiellement, sans table d'offsets globale. Exemples : `F_BE.BNP` (combats), `MMAP*.BNP` (dialogues PNJ carte), `TM_EVE.BNP` (cinÃ©matiques in-game), `EVTUNIT.BNP` (modÃ¨les 3D, ~7.5 Mo) |
 
-### Fichiers Clés du CPK
+### Fichiers ClÃ©s du CPK
 
 ```
 P2PT_ALL.cpk
-├── event.bin        — Scripts d'histoire (37 Mo, 399 fichiers)
-├── F_BE.BNP         — Textes de combat et menus d'action
-├── MMAP01-06.BNP    — Dialogues PNJ sur les 6 cartes du jeu
-├── TM_EVE.BNP       — Cinématiques scriptées in-game
-├── CD_SHOP.BNP      — Boutique de CD (musiques)
-├── ch_menu.bin      — 43 images GIM de l'interface (menus, HUD)
-├── syscg.bin        — Images compressées système (écrans de chargement, etc.)
-├── SE_DVL.BIN       — Banque audio Personas (66 Mo)
-└── EBOOT.BIN        — Exécutable principal (menus système, textes ENGBIN)
+â”œâ”€â”€ event.bin        â€” Scripts d'histoire (37 Mo, 399 fichiers)
+â”œâ”€â”€ F_BE.BNP         â€” Textes de combat et menus d'action
+â”œâ”€â”€ MMAP01-06.BNP    â€” Dialogues PNJ sur les 6 cartes du jeu
+â”œâ”€â”€ TM_EVE.BNP       â€” CinÃ©matiques scriptÃ©es in-game
+â”œâ”€â”€ CD_SHOP.BNP      â€” Boutique de CD (musiques)
+â”œâ”€â”€ ch_menu.bin      â€” 43 images GIM de l'interface (menus, HUD)
+â”œâ”€â”€ syscg.bin        â€” Images compressÃ©es systÃ¨me (Ã©crans de chargement, etc.)
+â”œâ”€â”€ SE_DVL.BIN       â€” Banque audio Personas (66 Mo)
+â””â”€â”€ EBOOT.BIN        â€” ExÃ©cutable principal (menus systÃ¨me, textes ENGBIN)
 ```
 
 <br/>
 
 ---
 
-## Le Système de Compression CRILAYLA
+## Le SystÃ¨me de Compression CRILAYLA
 
-CRILAYLA est l'algorithme de compression propriétaire de CRI Middleware, utilisé pour les sous-fichiers dans les archives CPK. Sa maîtrise est critique pour la réinjection d'images et de scripts.
+CRILAYLA est l'algorithme de compression propriÃ©taire de CRI Middleware, utilisÃ© pour les sous-fichiers dans les archives CPK. Sa maÃ®trise est critique pour la rÃ©injection d'images et de scripts.
 
-### Format du Flux Compressé
+### Format du Flux CompressÃ©
 
-Le flux CRILAYLA se lit **à rebours** (de la fin vers le début). C'est un algorithme LZ77-like :
+Le flux CRILAYLA se lit **Ã  rebours** (de la fin vers le dÃ©but). C'est un algorithme LZ77-like :
 
-- **En-tête (8 octets)** : Signature `CRILAYLA`, taille non-compressée, taille compressée
-- **Flux de bits** : Séquence de blocs encodés en sens inverse
-- **Bloc littéral** : `0` + 8 bits de données brutes
-- **Bloc référence** : `1` + distance (offset dans le dictionnaire) + longueur de la copie
+- **En-tÃªte (8 octets)** : Signature `CRILAYLA`, taille non-compressÃ©e, taille compressÃ©e
+- **Flux de bits** : SÃ©quence de blocs encodÃ©s en sens inverse
+- **Bloc littÃ©ral** : `0` + 8 bits de donnÃ©es brutes
+- **Bloc rÃ©fÃ©rence** : `1` + distance (offset dans le dictionnaire) + longueur de la copie
 
 ### Contrainte de Taille dans l'ISO
 
-La TOC du CPK stocke les offsets LBA de chaque fichier. **La taille compressée d'un fichier ne peut pas dépasser sa taille d'origine**, sinon elle déborde sur le fichier suivant et corrompt l'ISO. Il n'est pas possible d'ajouter de l'espace : tout ce qui dépasse la taille allouée est interdit.
+La TOC du CPK stocke les offsets LBA de chaque fichier. **La taille compressÃ©e d'un fichier ne peut pas dÃ©passer sa taille d'origine**, sinon elle dÃ©borde sur le fichier suivant et corrompt l'ISO. Il n'est pas possible d'ajouter de l'espace : tout ce qui dÃ©passe la taille allouÃ©e est interdit.
 
-### Stratégie de Compression pour l'Image Lab
+### StratÃ©gie de Compression pour l'Image Lab
 
-Pour `syscg.bin` (écrans de chargement), la contrainte est particulièrement sévère : la taille compressée maximale est de **57 320 octets** pour un contenu décompressé de **321 712 octets**.
+Pour `syscg.bin` (Ã©crans de chargement), la contrainte est particuliÃ¨rement sÃ©vÃ¨re : la taille compressÃ©e maximale est de **57 320 octets** pour un contenu dÃ©compressÃ© de **321 712 octets**.
 
-La stratégie adoptée :
-1. Injection de la nouvelle image GIM à l'offset `0x760` (slot de l'écran de chargement)
-2. Mise à zéro d'une image de tutoriel inutilisée (offset `0x31130`) pour réduire l'entropie du flux
-3. Compression CRILAYLA greedy en Python pur (résultat : ~52 000 octets)
-4. Padding de zéros jusqu'à 57 320 octets pour respecter la taille allouée
+La stratÃ©gie adoptÃ©e :
+1. Injection de la nouvelle image GIM Ã  l'offset `0x760` (slot de l'Ã©cran de chargement)
+2. Mise Ã  zÃ©ro d'une image de tutoriel inutilisÃ©e (offset `0x31130`) pour rÃ©duire l'entropie du flux
+3. Compression CRILAYLA greedy en Python pur (rÃ©sultat : ~52 000 octets)
+4. Padding de zÃ©ros jusqu'Ã  57 320 octets pour respecter la taille allouÃ©e
 
-Les images à ne jamais toucher dans `syscg.bin` :
-- `0x42f40` : Chronomètre (Time Limit)
-- `0x43250` : Compteur de pièces (Total Coins)
+Les images Ã  ne jamais toucher dans `syscg.bin` :
+- `0x42f40` : ChronomÃ¨tre (Time Limit)
+- `0x43250` : Compteur de piÃ¨ces (Total Coins)
 
 <br/>
 
 ---
 
-## Bytecode Atlus et Opcodes de Contrôle
+## Bytecode Atlus et Opcodes de ContrÃ´le
 
-Le moteur Atlus encode ses scripts en bytecode Little-Endian 16 bits. L'architecture mémoire de la PSP est rigide : un octet mal placé provoque une exception `Invalid Memory Access` et crashe le jeu.
+Le moteur Atlus encode ses scripts en bytecode Little-Endian 16 bits. L'architecture mÃ©moire de la PSP est rigide : un octet mal placÃ© provoque une exception `Invalid Memory Access` et crashe le jeu.
 
-Le décodeur convertit chaque opcode en balise textuelle. **Ces balises ne doivent jamais être supprimées du texte traduit.** Toute valeur inconnue est capturée sous la forme `[U+XXXX]`.
+Le dÃ©codeur convertit chaque opcode en balise textuelle. **Ces balises ne doivent jamais Ãªtre supprimÃ©es du texte traduit.** Toute valeur inconnue est capturÃ©e sous la forme `[U+XXXX]`.
 
 ### Table des Opcodes Reconnus
 
-| Opcode (Hex) | Balise | Catégorie | Description |
+| Opcode (Hex) | Balise | CatÃ©gorie | Description |
 |:---:|:---:|:---|:---|
-| `11 20` | `[SP]` | Formatage | Espace pleine chasse. Utilisé aussi comme padding d'alignement |
-| `11 01` | `[NL]` | Formatage | Saut de ligne. Son absence en fin de réplique produit le glitch `▽▽▽` |
+| `11 20` | `[SP]` | Formatage | Espace pleine chasse. UtilisÃ© aussi comme padding d'alignement |
+| `11 01` | `[NL]` | Formatage | Saut de ligne. Son absence en fin de rÃ©plique produit le glitch `â–½â–½â–½` |
 | `11 06` | `[E1]` | Terminateur | Bloc de fin de dialogue, partie 1/4 |
 | `11 02` | `[E2]` | Terminateur | Bloc de fin de dialogue, partie 2/4 |
 | `11 03` | `[E3]` | Terminateur | Bloc de fin de dialogue, partie 3/4 |
 | `14 31` | `[E4]` | Terminateur | Fin de dialogue / marqueur d'animation UI dans `F_BE` |
-| `11 09` | `[1109]` | Terminateur | Variante de `[E1]` pour le chaînage continu (`1109 E2 E3 E4`) |
-| `12 08` | `[1208]` | Choix | Déclencheur d'un menu de choix. Toujours suivi de `[0002]` |
-| `00 02` | `[0002]` | Choix | Activation de la fenêtre de choix |
-| `00 14` | `[0014]` | Choix | Séparateur de fin de chaîne pour chaque option |
-| `14 32` | `[1432]` | Mémoire / UI | Positionnement du curseur dans les menus |
-| `00 10` | `[0010]` | Mémoire / UI | Variable d'espacement interne des menus |
-| `00 00` | `[NULL]` | Structurel | Null byte de fin de variable ou décalage de pointeur |
-| `12 05` | `[1205]` | Cinématique | Pause automatique du texte (généralement suivie de `[001E]`) |
-| `00 1E` | `[001E]` | Cinématique | Durée de la pause (30 frames environ) |
-| `11 07` | `[1107]` | Buffer | Nettoyage du buffer d'affichage, clôture une fenêtre |
-| `11 08` | `[1108]` | Visuel | Gestion de la fenêtre lors de l'apparition d'un Bust-up |
-| `11 12` | `[1112]` | Variable | Injection du nom de famille du héros (défini par le joueur) |
-| `11 13` | `[1113]` | Variable | Injection du prénom du héros (défini par le joueur) |
-| `12 0C–0F` | `[120C]`... | Visuel | Effets de couleur ou de style sur la police |
-| `12 10` | `[1210]` | Visuel | Restauration de la couleur de police par défaut |
-| `12 1E` | `[121E]` | Interaction | Forçage d'une attente de pression de touche |
-| `XXXX` | `[U+XXXX]` | Secours | Opcode inconnu — stocké pour garantir l'intégrité au rebuild |
+| `11 09` | `[1109]` | Terminateur | Variante de `[E1]` pour le chaÃ®nage continu (`1109 E2 E3 E4`) |
+| `12 08` | `[1208]` | Choix | DÃ©clencheur d'un menu de choix. Toujours suivi de `[0002]` |
+| `00 02` | `[0002]` | Choix | Activation de la fenÃªtre de choix |
+| `00 14` | `[0014]` | Choix | SÃ©parateur de fin de chaÃ®ne pour chaque option |
+| `14 32` | `[1432]` | MÃ©moire / UI | Positionnement du curseur dans les menus |
+| `00 10` | `[0010]` | MÃ©moire / UI | Variable d'espacement interne des menus |
+| `00 00` | `[NULL]` | Structurel | Null byte de fin de variable ou dÃ©calage de pointeur |
+| `12 05` | `[1205]` | CinÃ©matique | Pause automatique du texte (gÃ©nÃ©ralement suivie de `[001E]`) |
+| `00 1E` | `[001E]` | CinÃ©matique | DurÃ©e de la pause (30 frames environ) |
+| `11 07` | `[1107]` | Buffer | Nettoyage du buffer d'affichage, clÃ´ture une fenÃªtre |
+| `11 08` | `[1108]` | Visuel | Gestion de la fenÃªtre lors de l'apparition d'un Bust-up |
+| `11 12` | `[1112]` | Variable | Injection du nom de famille du hÃ©ros (dÃ©fini par le joueur) |
+| `11 13` | `[1113]` | Variable | Injection du prÃ©nom du hÃ©ros (dÃ©fini par le joueur) |
+| `12 0Câ€“0F` | `[120C]`... | Visuel | Effets de couleur ou de style sur la police |
+| `12 10` | `[1210]` | Visuel | Restauration de la couleur de police par dÃ©faut |
+| `12 1E` | `[121E]` | Interaction | ForÃ§age d'une attente de pression de touche |
+| `XXXX` | `[U+XXXX]` | Secours | Opcode inconnu â€” stockÃ© pour garantir l'intÃ©gritÃ© au rebuild |
 
 <br/>
 
 ---
 
-## Spécificités par Fichier Cible
+## SpÃ©cificitÃ©s par Fichier Cible
 
-### event.bin — Scripts de l'Histoire
+### event.bin â€” Scripts de l'Histoire
 
-- **Format** : Bytecode Atlus avec table d'offsets absolus en début de chaque script
-- **Contrainte majeure** : La table d'offsets est entièrement recalculée et reconstruite par l'encodeur à chaque compilation
-- **Encodage texte** : Shift-JIS remanié. L'espace ASCII (`0x0020`) a été physiquement remplacé par un tilde dans la police VRAM par Ghostlight. L'encodeur force tous les espaces vers l'espace pleine chasse japonais Shift-JIS (`0x8140`)
+- **Format** : Bytecode Atlus avec table d'offsets absolus en dÃ©but de chaque script
+- **Contrainte majeure** : La table d'offsets est entiÃ¨rement recalculÃ©e et reconstruite par l'encodeur Ã  chaque compilation
+- **Encodage texte** : Shift-JIS remaniÃ©. L'espace ASCII (`0x0020`) a Ã©tÃ© physiquement remplacÃ© par un tilde dans la police VRAM par Ghostlight. L'encodeur force tous les espaces vers l'espace pleine chasse japonais Shift-JIS (`0x8140`)
 
-### EBOOT.BIN — Menus Système
+### EBOOT.BIN â€” Menus SystÃ¨me
 
-- **Format** : ENGBIN custom. Contient ~6 574 entrées de texte pour l'interface, les noms de personnages, les descriptions d'objets et de compétences
-- **Contrainte police** : Les développeurs de Ghostlight ont altéré la police originale. Le parser (`eboot_parser.py`) effectue un mappage hexadécimal vers `0x00E0`, `0x0101` et `0x00CF` pour aligner les lettres latines françaises avec cette police modifiée
-- **Organisation** : Le fichier est découpé en 7 parties (Part 1–7, ~1000 entrées chacune) dans le dossier `EBOOT_decoupe/` pour éviter les limitations GitHub
+- **Format** : ENGBIN custom. Contient ~6 574 entrÃ©es de texte pour l'interface, les noms de personnages, les descriptions d'objets et de compÃ©tences
+- **Contrainte police** : Les dÃ©veloppeurs de Ghostlight ont altÃ©rÃ© la police originale. Le parser (`eboot_parser.py`) effectue un mappage hexadÃ©cimal vers `0x00E0`, `0x0101` et `0x00CF` pour aligner les lettres latines franÃ§aises avec cette police modifiÃ©e
+- **Organisation** : Le fichier est dÃ©coupÃ© en 7 parties (Part 1â€“7, ~1000 entrÃ©es chacune) dans le dossier `EBOOT_decoupe/` pour Ã©viter les limitations GitHub
 
-### F_BE.BNP — Combats et Interface
+### F_BE.BNP â€” Combats et Interface
 
-- **Format** : Shift-JIS séquentiel, sans table d'index globale
-- **Contrainte** : L'ajout de padding classique entre les entrées provoque un crash (le moteur tente d'exécuter les octets nuls `0x00` comme du code)
-- **Solution** : L'Algorithme du Delta — voir section dédiée
+- **Format** : Shift-JIS sÃ©quentiel, sans table d'index globale
+- **Contrainte** : L'ajout de padding classique entre les entrÃ©es provoque un crash (le moteur tente d'exÃ©cuter les octets nuls `0x00` comme du code)
+- **Solution** : L'Algorithme du Delta â€” voir section dÃ©diÃ©e
 
-### MMAP01–06.BNP — Dialogues PNJ
+### MMAP01â€“06.BNP â€” Dialogues PNJ
 
-- **Format** : BNP séquentiel avec index interne par secteur de carte
-- **Contrainte** : La longueur en octets de chaque entrée doit rester identique à l'original, sinon les pointeurs de la carte se décalent
+- **Format** : BNP sÃ©quentiel avec index interne par secteur de carte
+- **Contrainte** : La longueur en octets de chaque entrÃ©e doit rester identique Ã  l'original, sinon les pointeurs de la carte se dÃ©calent
 
-### syscg.bin et ch_menu.bin — Images
+### syscg.bin et ch_menu.bin â€” Images
 
-- **Format** : Mini-archives Atlus contenant des images GIM compressées CRILAYLA
-- **Contrainte** : Taille compressée maximale imposée par la TOC du CPK. Voir section Image Lab
+- **Format** : Mini-archives Atlus contenant des images GIM compressÃ©es CRILAYLA
+- **Contrainte** : Taille compressÃ©e maximale imposÃ©e par la TOC du CPK. Voir section Image Lab
 
 <br/>
 
 ---
 
-## Anomalies Découvertes et Résolutions
+## Anomalies DÃ©couvertes et RÃ©solutions
 
-### 1. Le Mystère des Tildes et de l'Espace Japonais
+### 1. Le MystÃ¨re des Tildes et de l'Espace Japonais
 
-**Symptôme** : L'espace ASCII (`0x0020`) affiche un tilde au lieu d'un espace vide en jeu.
+**SymptÃ´me** : L'espace ASCII (`0x0020`) affiche un tilde au lieu d'un espace vide en jeu.
 
-**Cause** : Ghostlight a physiquement écrasé le glyphe d'espace dans la police VRAM, le remplaçant par un tilde, et a forcé l'utilisation de l'espace pleine chasse japonais Shift-JIS (`0x8140`) à la place.
+**Cause** : Ghostlight a physiquement Ã©crasÃ© le glyphe d'espace dans la police VRAM, le remplaÃ§ant par un tilde, et a forcÃ© l'utilisation de l'espace pleine chasse japonais Shift-JIS (`0x8140`) Ã  la place.
 
-**Solution** : L'encodeur intercepte tous les types d'espaces (ASCII, insécable DeepL, idéographique japonais) et les force vers `0x8140` avant l'écriture binaire.
+**Solution** : L'encodeur intercepte tous les types d'espaces (ASCII, insÃ©cable DeepL, idÃ©ographique japonais) et les force vers `0x8140` avant l'Ã©criture binaire.
 
-### 2. La Corruption des Menus à Choix Multiples
+### 2. La Corruption des Menus Ã  Choix Multiples
 
-**Symptôme** : Les options de choix s'affichent dans le désordre ou se superposent après traduction.
+**SymptÃ´me** : Les options de choix s'affichent dans le dÃ©sordre ou se superposent aprÃ¨s traduction.
 
-**Cause** : Le moteur stocke des pointeurs absolus vers chaque option de choix. Si la question traduite est plus courte en octets que l'originale, les pointeurs se décalent et le moteur pointe vers les mauvaises adresses mémoire.
+**Cause** : Le moteur stocke des pointeurs absolus vers chaque option de choix. Si la question traduite est plus courte en octets que l'originale, les pointeurs se dÃ©calent et le moteur pointe vers les mauvaises adresses mÃ©moire.
 
-**Solution** : L'algorithme `_align_menu_text` calcule la différence de longueur binaire entre la version française et l'originale japonaise, puis injecte des `[SP]` invisibles avant le marqueur `[1208]` pour restaurer l'alignement mémoire exact.
+**Solution** : L'algorithme `_align_menu_text` calcule la diffÃ©rence de longueur binaire entre la version franÃ§aise et l'originale japonaise, puis injecte des `[SP]` invisibles avant le marqueur `[1208]` pour restaurer l'alignement mÃ©moire exact.
 
-### 3. Le Glitch `▽▽▽` (Fin de Dialogue Manquante)
+### 3. Le Glitch `â–½â–½â–½` (Fin de Dialogue Manquante)
 
-**Symptôme** : Le jeu affiche des caractères parasites `▽▽▽` à la fin de certaines boîtes de dialogue ou saute des répliques entières.
+**SymptÃ´me** : Le jeu affiche des caractÃ¨res parasites `â–½â–½â–½` Ã  la fin de certaines boÃ®tes de dialogue ou saute des rÃ©pliques entiÃ¨res.
 
-**Cause** : Le bloc de terminaison `[E1][E2][E3][E4]` doit apparaître à une position précise après la dernière ligne. Si le texte français déborde sur la position attendue des terminateurs, le moteur ne les trouve pas.
+**Cause** : Le bloc de terminaison `[E1][E2][E3][E4]` doit apparaÃ®tre Ã  une position prÃ©cise aprÃ¨s la derniÃ¨re ligne. Si le texte franÃ§ais dÃ©borde sur la position attendue des terminateurs, le moteur ne les trouve pas.
 
-**Solution** : Limitation stricte à 3 lignes par boîte de dialogue, repositionnement systématique des balises de terminaison en fin de chaque bloc `[E3]`.
+**Solution** : Limitation stricte Ã  3 lignes par boÃ®te de dialogue, repositionnement systÃ©matique des balises de terminaison en fin de chaque bloc `[E3]`.
 
 ### 4. La Corruption des Pointeurs dans F_BE.BNP
 
-**Symptôme** : Crash `Invalid Memory Access` sur l'écran de combat après traduction.
+**SymptÃ´me** : Crash `Invalid Memory Access` sur l'Ã©cran de combat aprÃ¨s traduction.
 
-**Cause** : Le moteur lit le fichier BNP séquentiellement, sans table d'offsets. Si du padding nul (`0x00`) est inséré entre les entrées pour combler les différences de taille, ces octets sont interprétés comme des opcodes et font crasher le CPU de la PSP.
+**Cause** : Le moteur lit le fichier BNP sÃ©quentiellement, sans table d'offsets. Si du padding nul (`0x00`) est insÃ©rÃ© entre les entrÃ©es pour combler les diffÃ©rences de taille, ces octets sont interprÃ©tÃ©s comme des opcodes et font crasher le CPU de la PSP.
 
 **Solution** : Voir l'Algorithme du Delta ci-dessous.
 
@@ -259,17 +259,17 @@ Le décodeur convertit chaque opcode en balise textuelle. **Ces balises ne doive
 
 ## L'Algorithme du Delta (F_BE.BNP)
 
-Ce problème est spécifique aux fichiers BNP sans table d'offsets globale (`F_BE.BNP`, certains `MMAP*.BNP`).
+Ce problÃ¨me est spÃ©cifique aux fichiers BNP sans table d'offsets globale (`F_BE.BNP`, certains `MMAP*.BNP`).
 
 **Principe** :
 
-L'encodeur `fbe_parser.py` compacte tous les blocs de dialogues français les uns derrière les autres, sans aucun espace mort entre eux. La différence de taille accumulée entre le texte original et le texte français (le *Delta*) est conservée en mémoire tout au long de l'encodage. Une fois le dernier bloc écrit, la somme totale du Delta est injectée en un seul bloc de padding à la toute fin du fichier.
+L'encodeur `fbe_parser.py` compacte tous les blocs de dialogues franÃ§ais les uns derriÃ¨re les autres, sans aucun espace mort entre eux. La diffÃ©rence de taille accumulÃ©e entre le texte original et le texte franÃ§ais (le *Delta*) est conservÃ©e en mÃ©moire tout au long de l'encodage. Une fois le dernier bloc Ã©crit, la somme totale du Delta est injectÃ©e en un seul bloc de padding Ã  la toute fin du fichier.
 
-**Pourquoi ça fonctionne** :
+**Pourquoi Ã§a fonctionne** :
 
-Le moteur lit séquentiellement du début vers la fin. Il ne rencontre jamais de padding avant une entrée de dialogue réelle, donc il ne tente jamais d'exécuter des octets nuls comme du code. La taille totale du fichier reste identique à l'original, ce qui maintient l'intégrité de la TOC du CPK sans altérer la RAM de la console.
+Le moteur lit sÃ©quentiellement du dÃ©but vers la fin. Il ne rencontre jamais de padding avant une entrÃ©e de dialogue rÃ©elle, donc il ne tente jamais d'exÃ©cuter des octets nuls comme du code. La taille totale du fichier reste identique Ã  l'original, ce qui maintient l'intÃ©gritÃ© de la TOC du CPK sans altÃ©rer la RAM de la console.
 
-**Condition critique** : Le texte français total doit être égal ou inférieur en octets au texte original. Si une entrée individuelle est plus longue, elle est tronquée automatiquement avec un avertissement.
+**Condition critique** : Le texte franÃ§ais total doit Ãªtre Ã©gal ou infÃ©rieur en octets au texte original. Si une entrÃ©e individuelle est plus longue, elle est tronquÃ©e automatiquement avec un avertissement.
 
 <br/>
 
@@ -279,11 +279,11 @@ Le moteur lit séquentiellement du début vers la fin. Il ne rencontre jamais de
 
 Le patcher web (`p2is_patcher`) permet aux joueurs d'appliquer le patch `.xdelta` directement dans leur navigateur, sans installer de logiciel.
 
-**Moteur WASM** : La librairie C++ *DeltaPatcher* (xdelta3) est compilée en WebAssembly. Elle ne stocke que la différence binaire brute entre l'ISO anglaise originale et l'ISO française, ce qui réduit drastiquement la taille du fichier de patch.
+**Moteur WASM** : La librairie C++ *DeltaPatcher* (xdelta3) est compilÃ©e en WebAssembly. Elle ne stocke que la diffÃ©rence binaire brute entre l'ISO anglaise originale et l'ISO franÃ§aise, ce qui rÃ©duit drastiquement la taille du fichier de patch.
 
-**Worker asynchrone** : L'application s'exécute dans un Web Worker (`xdelta3.worker.js`) pour ne pas bloquer l'interface du navigateur pendant le patch.
+**Worker asynchrone** : L'application s'exÃ©cute dans un Web Worker (`xdelta3.worker.js`) pour ne pas bloquer l'interface du navigateur pendant le patch.
 
-**Gestion de la mémoire (Streams + Service Worker)** : Un onglet de navigateur est limité à environ 2 Go de RAM. Les ISO PSP dépassent souvent 1 Go. Pour résoudre ce problème, le patcher utilise l'API Streams avec un Service Worker (`mitm.html` + `sw.js`). Le Service Worker agit comme un intermédiaire et écrit le fichier généré sur le disque dur local en streaming, bit par bit, au fur et à mesure de sa création en mémoire. Il n'est donc jamais nécessaire de charger l'ISO complète en RAM.
+**Gestion de la mÃ©moire (Streams + Service Worker)** : Un onglet de navigateur est limitÃ© Ã  environ 2 Go de RAM. Les ISO PSP dÃ©passent souvent 1 Go. Pour rÃ©soudre ce problÃ¨me, le patcher utilise l'API Streams avec un Service Worker (`mitm.html` + `sw.js`). Le Service Worker agit comme un intermÃ©diaire et Ã©crit le fichier gÃ©nÃ©rÃ© sur le disque dur local en streaming, bit par bit, au fur et Ã  mesure de sa crÃ©ation en mÃ©moire. Il n'est donc jamais nÃ©cessaire de charger l'ISO complÃ¨te en RAM.
 
 <br/>
 
@@ -291,47 +291,48 @@ Le patcher web (`p2is_patcher`) permet aux joueurs d'appliquer le patch `.xdelta
 
 ## L'Image Lab (GIM / CRILAYLA)
 
-Le laboratoire d'images (`p2is_image_lab`) est un outil web local (FastAPI + React) permettant d'extraire, éditer et réinjecter des images GIM dans les archives CPK.
+Le laboratoire d'images (`p2is_image_lab`) est un outil web local (FastAPI + React) permettant d'extraire, Ã©diter et rÃ©injecter des images GIM dans les archives CPK.
 
 ### Format GIM (Graphic Image Map)
 
-Le format GIM est propriétaire Sony. Les pixels sont encodés en Z-Curve (*swizzling* matériel), ce qui optimise les accès VRAM sur la PSP. Pour réinjecter une image PNG externe :
+Le format GIM est propriÃ©taire Sony. Les pixels sont encodÃ©s en Z-Curve (*swizzling* matÃ©riel), ce qui optimise les accÃ¨s VRAM sur la PSP. Pour rÃ©injecter une image PNG externe :
 
-1. Redimensionnement à la résolution cible (ex: 480×272 pour un écran de chargement)
+1. Redimensionnement Ã  la rÃ©solution cible (ex: 480Ã—272 pour un Ã©cran de chargement)
 2. Conversion en palette 8 bits (256 couleurs) ou en RGBA16 selon le slot cible
-3. Encodage de l'en-tête GIM avec les métadonnées de format
-4. Application du swizzling Z-Curve sur les données pixel
+3. Encodage de l'en-tÃªte GIM avec les mÃ©tadonnÃ©es de format
+4. Application du swizzling Z-Curve sur les donnÃ©es pixel
 
 ### Compresseur CRILAYLA (Python)
 
-Le compresseur implémenté dans `core/image_format.py` utilise une approche greedy : pour chaque position dans les données non-compressées, il cherche la meilleure référence possible dans le dictionnaire de 8 Ko. Les résultats typiques :
+Le compresseur implÃ©mentÃ© dans `core/image_format.py` utilise une approche greedy : pour chaque position dans les donnÃ©es non-compressÃ©es, il cherche la meilleure rÃ©fÃ©rence possible dans le dictionnaire de 8 Ko. Les rÃ©sultats typiques :
 
-- `syscg.bin` original : 57 320 octets compressés / 321 712 octets non-compressés
-- Après injection et recompression : ~52 000 octets, compatible avec la contrainte de taille
+- `syscg.bin` original : 57 320 octets compressÃ©s / 321 712 octets non-compressÃ©s
+- AprÃ¨s injection et recompression : ~52 000 octets, compatible avec la contrainte de taille
 
 ### Isolation des Slots d'Images dans syscg.bin
 
 | Offset | Contenu | Modifiable |
 |:---:|:---|:---:|
-| `0x760` | Écran de chargement principal | Oui |
-| `0x31130` | Image de tutoriel (inutilisée) | Oui (mise à zéro autorisée) |
-| `0x42f40` | Chronomètre (Time Limit) | Non |
-| `0x43250` | Compteur de pièces (Total Coins) | Non |
+| `0x760` | Ã‰cran de chargement principal | Oui |
+| `0x31130` | Image de tutoriel (inutilisÃ©e) | Oui (mise Ã  zÃ©ro autorisÃ©e) |
+| `0x42f40` | ChronomÃ¨tre (Time Limit) | Non |
+| `0x43250` | Compteur de piÃ¨ces (Total Coins) | Non |
 
 <br/>
 
 ---
 
-## Dépendances et Licences
+## DÃ©pendances et Licences
 
-| Composant | Rôle | Auteur | Licence |
+| Composant | RÃ´le | Auteur | Licence |
 |:---|:---|:---|:---|
-| **FastAPI** | Backend API REST de l'outil principal | Sebastián Ramírez | MIT |
+| **FastAPI** | Backend API REST de l'outil principal | SebastiÃ¡n RamÃ­rez | MIT |
 | **React** | Interface web de l'outil principal | Meta | MIT |
-| **pycdlib** | Lecture et écriture ISO 9660 | clalancette | LGPL-2.1 |
-| **Pillow** | Manipulation d'images (PNG → GIM) | Pillow contributors | HPND |
+| **pycdlib** | Lecture et Ã©criture ISO 9660 | clalancette | LGPL-2.1 |
+| **Pillow** | Manipulation d'images (PNG â†’ GIM) | Pillow contributors | HPND |
 | **p2is_cpk_tool.py** | Extraction et reconstruction CPK | chenetulipe | Interne |
-| **pspdecrypt** | Déchiffrement EBOOT (DRM KIRK) | John-K | Open-Source |
+| **pspdecrypt** | DÃ©chiffrement EBOOT (DRM KIRK) | John-K | Open-Source |
 | **DeltaPatcher** | Moteur de patch binaire xdelta3 | marco-calautti | GPL-2.0 |
-| **ATRACTool-Reloaded** | Conversion audio AT3 | XyLe-GBP | Voir dépôt |
+| **ATRACTool-Reloaded** | Conversion audio AT3 | XyLe-GBP | Voir dÃ©pÃ´t |
 | **customtkinter** | Interface graphique Python (scripts utilitaires) | Tom Schimansky | MIT |
+
