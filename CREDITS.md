@@ -1,173 +1,60 @@
 <div align="center">
-  
-# Crédits & Remerciements
-  
+
+# Crédits - Persona 2: Innocent Sin FR
+
 **Persona 2: Innocent Sin FR (PSP) - ULES01557**
 
 <br/>
 
-<img src="https://img.shields.io/badge/Statut-En_Développement-e3b341?style=for-the-badge" alt="Statut" />
-<img src="https://img.shields.io/badge/Plateforme-PSP-103F91?style=for-the-badge&logo=playstation" alt="Plateforme" />
-<img src="https://img.shields.io/badge/Langue-Français-2ea043?style=for-the-badge" alt="Langue" />
+<a href="https://discord.gg/rd4ckSWHNm"><img src="https://img.shields.io/discord/1400909421609095323?color=5865F2&label=Discord&logo=discord&logoColor=white&style=flat-square" alt="Discord" /></a>
+<a href="https://personalegrimoireducoeur.fr/"><img src="https://img.shields.io/badge/Site_Officiel-personalegrimoireducoeur.fr-10b981?style=flat-square" alt="Site Officiel" /></a>
 
 </div>
 
 <br/>
 
-> [!NOTE]
-> Ce projet de traduction n'aurait jamais pu voir le jour sans le travail acharné, la passion et le dévouement de tous nos contributeurs, traducteurs et développeurs. Cette page vous est dédiée !
+---
+
+## Équipe Principale
+
+### [@chenetulipe](https://github.com/chenetulipe) - Chef de Projet
+
+Créateur et pilier du projet depuis l'origine. Responsable de l'intégralité du travail de reverse-engineering : extraction, analyse du bytecode Atlus, développement de la chaîne d'outils (p2is_tool, p2is_image_lab, p2is_audio_lab, p2is_cpk_tool, p2is_patcher), et coordination générale du projet.
+
+### [@HamzaKarrouchi](https://github.com/HamzaKarrouchi) - Développeur & Traducteur Principal
+
+A abattu un travail considérable sur les scripts du jeu, atteignant et validant les 100% de complétion de l'histoire. A harmonisé la terminologie sur l'ensemble des fichiers traduits. A développé de zéro la plateforme web de relecture « P2IS Relecture » pour centraliser et sécuriser le travail collaboratif de l'équipe.
+
+### [@Garloulou](https://github.com/Garloulou) - Support & Intégration
+
+A contribué aux fondations du projet lors de ses premières semaines, notamment en gérant les fusions de contributions communautaires (Merge Pull Requests) sur GitHub, apportant un soutien d'intégration précieux lors de la montée en charge du projet.
+
+<br/>
 
 ---
 
-## L'Équipe Principale
+## Contributeurs Communautaires
 
-Voici les piliers du projet et leur rôle respectif au sein de l'équipe :
+Merci à toutes les personnes qui ont contribué à la traduction, à la relecture, aux tests ou à la promotion du projet. Le classement complet des contributeurs est disponible dans l'onglet [Insights → Contributors](https://github.com/chenetulipe/P2-FR-IS-PSP/graphs/contributors) du dépôt GitHub.
 
-* **[@chenetulipe](https://github.com/chenetulipe) (Chef de Projet)**  
-  Créateur et pilier du projet. Il s'occupe de la majorité des tâches techniques (reverse-engineering, extraction et réinjection des textes, gestion du romhacking) tout en assurant le rôle de chef d'orchestre pour diriger l'équipe de traduction.
-
-* **[@HamzaKarrouchi](https://github.com/HamzaKarrouchi) (Développeur & Top Traducteur)**  
-  Un véritable fou malade du code et de la traduction. Il a abattu un travail colossal sur les scripts du jeu en validant les 100% de complétion de l'histoire et en harmonisant la terminologie. Il a également développé de A à Z la plateforme web "P2IS Relecture" pour faciliter la vie de toute l'équipe.
-
-* **[@Garloulou](https://github.com/Garloulou) (Support & Intégration)**  
-  A énormément contribué aux fondations du projet lors de ses débuts, notamment en gérant les fusions (Merge Pull Requests) de la communauté sur GitHub, apportant une aide d'intégration précieuse avant de passer le flambeau.
+<br/>
 
 ---
 
-## Remerciements Techniques & Outils Open-Source
+## Outils Tiers et Remerciements Techniques
 
-Le projet repose sur de puissants outils développés par la communauté internationale. Un immense merci à ces développeurs de génie qui rendent le romhacking accessible :
+| Outil | Auteur | Rôle dans le projet | Licence |
+|:---|:---|:---|:---|
+| **DeltaPatcher** | [marco-calautti](https://github.com/marco-calautti) | Moteur de patch binaire xdelta3 intégré dans le Web Patcher | GPL-2.0 |
+| **decrypt_eboot.py** | [John-K](https://github.com/John-K) | Déchiffrement du DRM KIRK sur l'EBOOT.BIN | Open-Source |
+| **pycdlib** | [clalancette](https://github.com/clalancette) | Lecture et écriture de l'ISO 9660 | LGPL-2.1 |
+| **ATRACTool-Reloaded** | [XyLe-GBP](https://github.com/XyLe-GBP) | Conversion audio AT3 pour l'Audio Lab | Voir dépôt |
+| **Pack HD Original** | [@racawr](https://gamebanana.com) | Pack de textures haute définition de base pour PPSSPP | Voir GameBanana |
 
-| Auteur / Outil | Contribution au projet |
-|:---|:---|
-| **[@racawr](https://twitter.com/racawr)** | **HD UI Mod** : Ses formidables textures remasterisées ont servi de base pour rafraîchir l'interface de notre version française. Merci pour l'autorisation ! |
-| **[@Sewer56](https://github.com/Sewer56)** | **CriFsLib** : Bibliothèque .NET vitale nous ayant permis de dépaqueter sans accroc la gigantesque archive `P2PT_ALL.cpk`. |
-| **[@clalancette](https://github.com/clalancette)** | **pycdlib** : Module Python robuste qui permet à notre outil de naviguer dans l'ISO 9660 et de remplacer les données à la volée. |
-| **[@John-K](https://github.com/John-K)** | **pspdecrypt** : Outil indispensable nous ayant permis de briser le chiffrement KIRK de l'`EBOOT.BIN` imposé par Sony. |
-| **[@marco-calautti](https://github.com/marco-calautti)** | **DeltaPatcher** : Le moteur C++ de notre Patcher Web, génialissime pour patcher des différences binaires avec précision. |
-
----
-
-## Classement des Contributeurs (Auto)
-
-Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et ces graphiques (commits, ajouts et suppressions de lignes) sont récupérés directement depuis les serveurs de GitHub et mis à jour tout seuls de manière autonome ! Ne modifiez jamais manuellement cette section.
-
-<!-- STATS_START -->
-
-### Statistiques Globales du Code
-
-| Contributeur | 💾 Commits | ➕ Lignes Ajoutées | ➖ Lignes Supprimées |
-|:---|:---:|:---:|:---:|
-| **[@HamzaKarrouchi](https://github.com/HamzaKarrouchi)** | 413 | +258448 | -35647 |
-| **[@chenetulipe](https://github.com/chenetulipe)** | 341 | +2387519 | -2317655 |
-| **[@claude](https://github.com/claude)** | 196 | +230819 | -8772 |
-| **[@Garloulou](https://github.com/Garloulou)** | 50 | +769 | -517 |
-| **[@github-actions[bot]](https://github.com/github-actions[bot])** | 49 | +643 | -643 |
-| **[@Bicyclarv](https://github.com/Bicyclarv)** | 46 | +3311 | -3311 |
-| **[@gc-ultimate117](https://github.com/gc-ultimate117)** | 26 | +1503 | -1503 |
-| **[@Fan2Shrek](https://github.com/Fan2Shrek)** | 22 | +395 | -356 |
-| **[@ZePhyrOmZy](https://github.com/ZePhyrOmZy)** | 19 | +403 | -403 |
-| **[@megidooo](https://github.com/megidooo)** | 18 | +386 | -386 |
-| **[@Gyotre](https://github.com/Gyotre)** | 16 | +355 | -352 |
-| **[@LeSoupeur](https://github.com/LeSoupeur)** | 15 | +163 | -163 |
-| **[@ArsenetheIV](https://github.com/ArsenetheIV)** | 14 | +10059 | -11358 |
-| **[@Tausc0](https://github.com/Tausc0)** | 12 | +62 | -62 |
-| **[@Seb180212](https://github.com/Seb180212)** | 10 | +206 | -203 |
-| **[@vkt2rii](https://github.com/vkt2rii)** | 9 | +308 | -309 |
-| **[@FrankoPaulo](https://github.com/FrankoPaulo)** | 9 | +117 | -117 |
-| **[@IssaPagi](https://github.com/IssaPagi)** | 9 | +85 | -85 |
-| **[@Ethan-LDS](https://github.com/Ethan-LDS)** | 7 | +169 | -169 |
-| **[@Overlowd](https://github.com/Overlowd)** | 7 | +7 | -7 |
-| **[@All4nRL](https://github.com/All4nRL)** | 6 | +61 | -61 |
-| **[@chaytheninja](https://github.com/chaytheninja)** | 5 | +100 | -99 |
-| **[@Kain-Highwind](https://github.com/Kain-Highwind)** | 4 | +281 | -281 |
-| **[@aurelien30](https://github.com/aurelien30)** | 4 | +132 | -132 |
-| **[@MBG-May](https://github.com/MBG-May)** | 4 | +185 | -184 |
-| **[@Acanoff](https://github.com/Acanoff)** | 3 | +105 | -105 |
-| **[@Astakoune](https://github.com/Astakoune)** | 3 | +78 | -78 |
-| **[@Shrenpai](https://github.com/Shrenpai)** | 3 | +123 | -123 |
-| **[@ZeldarioGitHub](https://github.com/ZeldarioGitHub)** | 3 | +53 | -53 |
-| **[@driftbyte4767](https://github.com/driftbyte4767)** | 3 | +284 | -284 |
-| **[@Neth6767](https://github.com/Neth6767)** | 2 | +85 | -85 |
-| **[@Aniy22](https://github.com/Aniy22)** | 2 | +25 | -25 |
-| **[@LykeSama](https://github.com/LykeSama)** | 2 | +33 | -33 |
-| **[@Diamondssb](https://github.com/Diamondssb)** | 2 | +45 | -45 |
-| **[@Sammmu-L](https://github.com/Sammmu-L)** | 2 | +22 | -22 |
-| **[@Door-dono](https://github.com/Door-dono)** | 2 | +39 | -39 |
-| **[@nekorighthere](https://github.com/nekorighthere)** | 2 | +86 | -86 |
-| **[@chenetulipe2](https://github.com/chenetulipe2)** | 2 | +6 | -6 |
-| **[@Xeriam](https://github.com/Xeriam)** | 2 | +56 | -56 |
-| **[@MaelMinhAnh](https://github.com/MaelMinhAnh)** | 1 | +77 | -77 |
-| **[@Desseday](https://github.com/Desseday)** | 1 | +123 | -123 |
-| **[@renaclerican](https://github.com/renaclerican)** | 1 | +29 | -29 |
-| **[@Muse-haut](https://github.com/Muse-haut)** | 1 | +666 | -666 |
-| **[@mae7interludes](https://github.com/mae7interludes)** | 1 | +109 | -109 |
-| **[@k6suha](https://github.com/k6suha)** | 1 | +1 | -1 |
-| **[@Adwara](https://github.com/Adwara)** | 1 | +130 | -130 |
-| **[@Goulyz](https://github.com/Goulyz)** | 1 | +27 | -27 |
-| **[@Aurinox6](https://github.com/Aurinox6)** | 1 | +59 | -59 |
-| **[@Lomac29](https://github.com/Lomac29)** | 1 | +20 | -20 |
-
-### Répartition des Contributions (Top 10)
-
-#### Volume de Commits
-```mermaid
-pie title Top 10 - Commits
-    "HamzaKarrouchi" : 413
-    "chenetulipe" : 341
-    "claude" : 196
-    "Garloulou" : 50
-    "github-actions[bot]" : 49
-    "Bicyclarv" : 46
-    "gc-ultimate117" : 26
-    "Fan2Shrek" : 22
-    "ZePhyrOmZy" : 19
-    "megidooo" : 18
-```
-
-#### Lignes Ajoutées
-```mermaid
-pie title Top 10 - Lignes Ajoutées
-    "chenetulipe" : 2387519
-    "HamzaKarrouchi" : 258448
-    "claude" : 230819
-    "ArsenetheIV" : 10059
-    "Bicyclarv" : 3311
-    "gc-ultimate117" : 1503
-    "Garloulou" : 769
-    "Muse-haut" : 666
-    "github-actions[bot]" : 643
-    "ZePhyrOmZy" : 403
-```
-
-#### Lignes Supprimées
-```mermaid
-pie title Top 10 - Lignes Supprimées
-    "chenetulipe" : 2317655
-    "HamzaKarrouchi" : 35647
-    "ArsenetheIV" : 11358
-    "claude" : 8772
-    "Bicyclarv" : 3311
-    "gc-ultimate117" : 1503
-    "Muse-haut" : 666
-    "github-actions[bot]" : 643
-    "Garloulou" : 517
-    "ZePhyrOmZy" : 403
-```
-
-<!-- STATS_END -->
+<br/>
 
 ---
 
-## Bêta-Testeurs & Traqueurs de Bugs (BÊTA d'Août 2026)
+## Propriété Intellectuelle
 
-*Cette section se remplira au fur et à mesure grâce aux retours des joueurs sur la BÊTA !*
-
-Un immense merci à tous les joueurs de l'ombre qui parcourent le jeu de fond en comble pour nous remonter la moindre faute de frappe, erreur de césure, ou plantage technique. Votre œil de lynx permet de peaufiner la version finale !
-
-| Pseudo (Discord / GitHub) | Zone d'expertise (Quêtes, Typo, Technique...) |
-|:---|:---|
-| *(Votre nom ici très bientôt !)* | - |
-| | |
-| | |
-
+*Persona 2: Innocent Sin* est une propriété intellectuelle d'Atlus / SEGA. Ce projet est une traduction amateur à but non lucratif, réalisée par des passionnés. Il n'est affilié à aucun éditeur ni distributeur. Aucun fichier original du jeu n'est distribué dans ce dépôt.
