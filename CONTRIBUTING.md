@@ -21,6 +21,45 @@
 
 ---
 
+## 📊 État d'Avancement Détaillé
+
+Voici la progression technique et détaillée des traductions des différents fichiers du jeu.
+
+### Scénario & Dialogues
+| Fichier / Composant | Contenu | Progression | Statut |
+|:---|:---|:---:|:---|
+| **Event.bin** | 399 scripts d'histoire | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| **MMAP01 à MMAP06** | Dialogues sur les cartes | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| **CD_SHOP** | Boutique de CD / musique | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| **F_BE** | Répliques de combat | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| **TM_EVE** | Événements scénaristiques | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+
+### EBOOT (Textes Système)
+| Contenu | Fichier | IDs (Estimatif) | Entrées | Progression | Statut |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| Menus & Interface (Titre, Paramètres, Sauvegarde) | Part 1 | 0 - 179 | ~180 | **72.2%** | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms de Personnages / PNJs / Boss | Part 1 | 180 - 449 | ~270 | **87.4%** | <img src="https://img.shields.io/badge/-Avancé-2ea44f?style=flat-square" alt="Avancé" /> |
+| Commandes & Messages de Combat | Part 1 | 600 - 899 | ~300 | **79.0%** | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
+| Noms & Descriptions de Personae / Démons | Part 2 & Part 4 | 900 - 3999 | ~800 | **28.0%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
+| Noms & Descriptions de Compétences | Part 2 | 1200 - 1599 | ~400 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
+| Noms d'Armes / Armures / Accessoires | Part 2 & Part 3 | 1600 - 2199 | ~600 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
+| Objets de quête / Rumeurs / Clés | Part 3 & Part 4 | 2800 - 3499 | ~700 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
+| Noms de lieux / Donjons / Carte | Part 5 - Part 7 | 4000 - 6500 | ~2501 | **0.1%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
+| Autres textes (Tutoriels, Infos, etc.) | Part 1, 2, 7 | 450 - 868 | ~177 | **11.9%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
+| **Total** | **Part 1 à 7** | **0 - 6573** | **~5,928** | **14.3%** | |
+
+### Éléments Techniques
+| Composant | Intégration | Accents pris en charge | Progression | Statut |
+|:---|:---:|:---|:---:|:---|
+| Textures HD | Oui | — | 35/42 | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) |
+| Police d'écriture HD (Accents FR) | Oui | é à ê è ç î ï ù ô + majuscules | 100% | ![](https://img.shields.io/badge/-Terminé%20(Bugs)-e1ad01?style=flat-square) |
+| Textures ISO | Non | — | 0/42 | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
+| Police d'écriture (Accents FR) | Oui | N/A | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
+
+<br/>
+
+---
+
 ## Sommaire
 1. [L'Outil de Relecture en Ligne (Obligatoire)](#loutil-de-relecture-en-ligne-obligatoire)
 2. [Soumettre vos traductions](#soumettre-vos-traductions)

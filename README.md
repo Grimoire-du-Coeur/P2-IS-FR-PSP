@@ -1,8 +1,8 @@
 <div align="center">
   
-# Persona 2: Innocent Sin FR
+# 🎭 Persona 2: Innocent Sin FR 🎭
   
-**Le patch de traduction française intégral (PSP - ULES01557)**
+**Le patch de traduction française intégral pour PSP (ULES01557)**
 
 <br/>
 
@@ -14,237 +14,133 @@
 
 <a href="https://github.com/chenetulipe/P2-FR-IS-PSP/commits/main"><img src="https://img.shields.io/github/last-commit/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=2ea043" alt="Dernier Commit" /></a>
 <a href="https://github.com/chenetulipe/P2-FR-IS-PSP/issues"><img src="https://img.shields.io/github/issues/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=d73a49" alt="Issues" /></a>
-<a href="https://github.com/chenetulipe/P2-FR-IS-PSP/stargazers"><img src="https://img.shields.io/github/stars/chenetulipe/P2-FR-IS-PSP?style=flat-square&color=e3b341" alt="Stars" /></a>
 <a href="https://discord.gg/rd4ckSWHNm"><img src="https://img.shields.io/discord/1400909421609095323?color=5865F2&label=Discord&logo=discord&logoColor=white&style=flat-square" alt="Discord" /></a>
 
+<br/><br/>
+
+[![Télécharger le Patch](https://img.shields.io/badge/TÉLÉCHARGER_LE_PATCH_FR-Release_BÊTA_v0.1.3-e3b341?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chenetulipe/P2-FR-IS-PSP/releases)
+
+L'histoire principale est **100% jouable en français** avec le dernier patch !
+
 </div>
 
 <br/>
 
-> [!WARNING]
-> **Clause de Tolérance Zéro**<br/>
-> Ce projet ne distribue **aucun fichier original du jeu ni ROM piratée**. Vous devez extraire légalement votre propre image disque (ISO) depuis votre UMD original. Ce patch est conçu **exclusivement** pour la version Europe (ULES01557). L'équipe ne peut être tenue responsable d'éventuels dommages liés à son utilisation.
-
-<br/>
-
-> [!IMPORTANT]
-> **DERNIÈRE RELEASE DISPONIBLE : BÊTA v0.1.3** (24 Juillet 2026)<br/>
-> Cette mise à jour révise les textes du scénario principal, corrige les sauts de ligne dans les boîtes de dialogue et prépare la traduction des menus (EBOOT). L'histoire principale est 100% jouable en français.<br/>
-> [Télécharger le Patch](https://github.com/chenetulipe/P2-FR-IS-PSP/releases)
-
-<br/>
-
-Ce dépôt centralise l'intégralité du projet : le patch de traduction jouable, les outils de romhacking développés sur-mesure pour ce moteur, ainsi que la documentation technique complète du jeu.
-
 ---
 
-## Sommaire
-1. [Aperçu du Projet](#aperçu-du-projet)
-2. [État d'Avancement](#état-davancement)
-3. [Guide d'Installation (Patch & HD UI)](#guide-dinstallation-patch--hd-ui)
-4. [L'Outil de Romhacking (p2is_tool)](#loutil-de-romhacking-p2is_tool)
-5. [Le Patcher Web (p2is_patcher)](#le-patcher-web-p2is_patcher)
-6. [Documentation et Liens Utiles](#documentation-et-liens-utiles)
-7. [Licence et Crédits](#licence-et-crédits)
+## 📖 Aperçu du Projet
 
-<br/>
+Bienvenue sur le dépôt officiel du projet de traduction française de **Persona 2: Innocent Sin**. 
+Ce dépôt centralise non seulement le patch jouable, mais également l'intégralité des **outils de romhacking** que nous avons développés sur-mesure, ainsi que la documentation technique du jeu.
 
----
-
-## Aperçu du Projet
+### Vidéos de présentation & Tutoriels d'installation
 
 <div align="center">
-  <a href="https://youtu.be/rGHRMPw-bbo?si=vIguQ4_gXU1r-yoH">
-    <img src="https://img.youtube.com/vi/rGHRMPw-bbo/maxresdefault.jpg" alt="Vidéo de gameplay" width="650" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <a href="https://youtu.be/rGHRMPw-bbo">
+    <img src="https://img.youtube.com/vi/rGHRMPw-bbo/maxresdefault.jpg" alt="Aperçu du jeu en français" width="400" style="border-radius: 8px; margin-right: 15px;"/>
   </a>
-  <br/><br/>
-  <i>Cliquez sur l'image pour visionner un aperçu du jeu en français.</i>
+  <a href="https://www.youtube.com/@chenetulipe">
+    <img src="https://img.youtube.com/vi/aL3N1Xk6X8w/maxresdefault.jpg" alt="Tutoriel d'installation par chenetulipe" width="400" style="border-radius: 8px;"/>
+  </a>
+  <br/>
+  <i>(Gauche: Gameplay du patch FR | Droite: Tutoriels sur la chaîne de chenetulipe)</i>
 </div>
 
-<br/>
-
-# Progression de la traduction française
-
-## État d'Avancement
-
-| Fichier / Composant | Contenu | Progression | Statut |
-|:---|:---|:---:|:---|
-| **Event.bin** | 399 scripts d'histoire | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **MMAP01 · MMAP02 · MMAP03 · MMAP04 · MMAP05 · MMAP06** | Dialogues sur les cartes | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **CD_SHOP** | Boutique de CD / musique | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **F_BE** | Répliques de combat | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| **TM_EVE** | Événements scénaristiques | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-
-### Accents français
-
-| Composant | Intégration | Accents pris en charge | Progression | Statut |
-|:---|:---:|:---|:---:|:---|
-| Textures HD | Oui | — | 35/42 | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) |
-| Police d'écriture HD (Accents FR) | Oui | é è ê ë à â ç î ï ô ù û + majuscules | 100% | ![](https://img.shields.io/badge/-Terminé%20(Bugs)-e1ad01?style=flat-square) |
-| Textures ISO | Non | — | 0/42 | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Police d'écriture (Accents FR) | Oui | N/A | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-
-### EBOOT (Textes Système)
-
-Le fichier original a été découpé en 7 parties (de 1000 entrées chacune) dans le dossier `EBOOT_decoupe` pour éviter les crashs sur GitHub. Voici la correspondance précise des contenus et des IDs pour vous repérer lors de la traduction :
-
-| Contenu | Fichier | IDs (Estimatif) | Entrées | Progression | Statut |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Menus & Interface (Titre, Paramètres, Sauvegarde) | Part 1 | 0 à 179 | ~180 | **72.2%** | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms de Personnages / PNJs / Boss | Part 1 | 180 à 449 | ~270 | **87.4%** | <img src="https://img.shields.io/badge/-Avancé-2ea44f?style=flat-square" alt="Avancé" /> |
-| Commandes & Messages de Combat | Part 1 | 600 à 899 | ~300 | **79.0%** | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms & Descriptions de Personae / Démons | Part 2 & Part 4 | 900 à 3999 | ~800 | **28.0%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
-| Noms & Descriptions de Compétences | Part 2 | 1200 à 1599 | ~400 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
-| Noms d'Armes / Armures / Accessoires | Part 2 & Part 3 | 1600 à 2199 | ~600 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
-| Objets de quête / Rumeurs / Clés | Part 3 & Part 4 | 2800 à 3499 | ~700 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
-| Noms de lieux / Donjons / Carte | Part 5 à Part 7 | 4000 à 6500 | ~2501 | **0.1%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
-| Autres textes (Tutoriels, Infos, etc.) | Part 1, 2, 7 | 450 à 868 | ~177 | **11.9%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
-| **Total** | **Part 1 à 7** | **0 à 6573** | **~5,928** | **14.3%** | |
+> [!NOTE]
+> 📈 **État d'avancement rapide** : L'histoire principale (Event.bin) et les dialogues des PNJs (MMAP) sont à **100% traduits**. Les menus, objets et sorts (EBOOT) sont en cours de traduction (environ **15%**). Pour voir le tableau complet de notre progression, [consultez notre Guide de Contribution (CONTRIBUTING.md)](./CONTRIBUTING.md).
 
 <br/>
-**Notes**
-
-- L'eboot est le dernier gros fichier restant.
-- La police d'écriture fonctionne mais nécessite encore des ajustements mineurs.
-- Le travail sur les textures HD est séparé des textures ISO. Il reste 7 textures HD à finaliser.
 
 ---
 
-## Guide d'Installation (Patch & HD UI)
+## 📥 Guide d'Installation (Patch & Textures HD)
 
-Le projet est actuellement en phase de **BÊTA publique**. Cette version vous permet de parcourir l'intégralité du scénario principal en français.
+Le projet est actuellement en phase de **BÊTA publique**.
 
 ### Étape 1 : Patcher l'ISO originale
-1. Téléchargez le dernier fichier patch au format `.xdelta` depuis notre page **[Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases)**.
-2. Munissez-vous de votre ISO originale issue de la version européenne du jeu (`ULES01557`).
-3. Rendez-vous sur notre **[Patcher Web](https://personalegrimoireducoeur.fr/patcher/)** (aucune installation requise).
-4. Glissez votre ISO et le fichier `.xdelta` dans le Patcher Web pour générer votre ISO modifiée en français.
+1. Téléchargez le dernier fichier patch au format `.xdelta` depuis la section **[Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases)**.
+2. Obtenez (légalement) une image ISO de la version européenne originale du jeu (`ULES01557`).
+3. Allez sur notre **[Patcher Web en Ligne](https://personalegrimoireducoeur.fr/patcher/)** (aucune installation n'est requise sur votre PC).
+4. Glissez votre fichier ISO et notre fichier `.xdelta` dans le Patcher Web pour générer votre ISO modifiée en français.
 
-### Étape 2 : Installer le Pack de Textures HD (PPSSPP Uniquement)
-Ce projet supporte officiellement le mod *HD UI for Persona 2*. Son installation est requise pour afficher les menus et inventaires traduits avec une typographie haute définition.
-1. Téléchargez et installez le pack HD de base sur GameBanana : [HD UI for Persona 2](https://gamebanana.com/mods/308752).
+### Étape 2 : Installer le Pack de Textures HD (PPSSPP)
+L'installation de ce pack est fortement recommandée sur émulateur pour afficher la nouvelle police française haute définition avec les accents.
+1. Téléchargez le pack HD de base sur GameBanana : [HD UI for Persona 2](https://gamebanana.com/mods/308752).
 2. Placez-le dans le dossier `TEXTURES/ULES01557/` de votre émulateur PPSSPP.
-3. Téléchargez notre correctif **Patch de Textures FR** (disponible dans la section Releases).
-4. Collez les dossiers extraits par-dessus le pack HD original pour écraser les textures anglaises par notre version française.
-5. Assurez-vous que l'option *Remplacer les textures* est cochée dans les paramètres de PPSSPP.
+3. Téléchargez notre correctif **Patch de Textures FR** (disponible dans les [Releases](https://github.com/chenetulipe/P2-FR-IS-PSP/releases)).
+4. Collez les dossiers extraits par-dessus le pack HD pour écraser les textures anglaises par notre version française.
+5. Activez l'option *Remplacer les textures* dans PPSSPP.
 
 <br/>
 
 ---
 
-## L'Outil de Romhacking (p2is_tool)
+## 🛠️ La Suite d'Outils de Romhacking
 
-Le dossier `p2is_tool/` contient le code source de l'application de romhacking créée spécifiquement pour traduire Persona 2. 
+Nous avons dû créer toute une suite de logiciels internes pour analyser, extraire et réinjecter les données complexes du jeu.
 
-Construit sur une architecture moderne, l'outil s'installe et se lance automatiquement via le fichier `start.bat`.
+> 💡 **Note sur les dépendances Python** : L'intégralité des dépendances de TOUS nos scripts (`p2is_tool`, `p2is_audio_lab`, `p2is_image_lab`, outils CPK...) a été consolidée. Exécutez simplement `pip install -r requirements.txt` à la racine pour tout installer.
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langage-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-</div>
+### 1. L'Outil Principal (p2is_tool)
+Le cœur du projet. Application moderne développée pour extraire et traduire de façon collaborative (via API) les scripts complexes du jeu.
+* **Techno** : FastAPI (Python), React (JS).
+* **Usage** : Extraction massive, gestion des balises Hexa, interface web pour les traducteurs.
 
-<br/>
+### 2. Le Patcher Web (p2is_patcher)
+Application 100% autonome et locale tournant dans le navigateur, permettant aux joueurs d'appliquer le patch `.xdelta` sans installer de logiciel externe.
+* **Techno** : WebAssembly, HTML/CSS, Vanilla JS.
 
----
+### 3. L'Outil de Traitement d'Images (p2is_image_lab)
+Laboratoire complet spécialisé dans l'extraction, l'édition et la réinjection chirurgicale des images compressées au format propriétaire GIM (CRILAYLA), nécessaire pour modifier les écrans de chargement et l'UI sans dépasser les limites de taille de l'ISO.
+* **Techno** : Python, Algorithmes CRILAYLA, FastAPI.
 
-## Le Patcher Web (p2is_patcher)
-
-Le dossier `p2is_patcher/` contient le code source de l'application web permettant aux joueurs d'appliquer le patch FR directement dans leur navigateur, sans aucun logiciel lourd à installer.
-
-Construit sur une architecture autonome, l'outil s'exécute localement et se lance via le fichier `lancer_patcher.bat`.
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Moteur-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langage-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</div>
+### 4. L'Outil de Traitement Audio (p2is_audio_lab)
+Laboratoire permettant d'extraire, d'isoler et de convertir les pistes audio du jeu (doublages et musiques) depuis et vers le format propriétaire AT3 (ATRAC3).
+* **Techno** : Python, wrappers pour ATRACTool.
 
 <br/>
 
 ---
 
-## L'Outil de Traitement d'Images (p2is_image_lab)
+## ⚖️ Clause de Non-Responsabilité & Licences
 
-Le dossier `p2is_image_lab/` contient notre nouvel outil d'extraction, d'édition et de réinjection des images GIM (CRILAYLA), utile pour modifier les écrans de chargement et autres graphismes sans faire planter le jeu.
+> [!WARNING]
+> **Tolérance Zéro au Piratage** : Ce projet ne distribue **aucun fichier original du jeu ni ROM piratée**. Vous devez extraire légalement votre propre image disque (ISO) depuis votre UMD original. Ce patch est exclusif à la version Europe. L'équipe décline toute responsabilité en cas de corruption de sauvegarde. *Persona 2: Innocent Sin* est une marque déposée de © Atlus / SEGA.
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langage-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-</div>
+### 📜 Licences du Code et du Patch
 
-> **Note sur les dépendances** : Afin de simplifier le déploiement, l'intégralité des dépendances de nos scripts Python (`p2is_tool`, `p2is_audio_lab`, `p2is_image_lab`, outils CPK, etc.) a été consolidée dans un fichier unique à la racine du projet : `requirements.txt`. Vous pouvez tout installer via `pip install -r requirements.txt`.
+Afin de protéger le travail communautaire tout en respectant les outils open-source tiers, notre projet repose sur un modèle de licences scindé :
 
-<br/>
+1. **Le Patch FR et nos Outils Maison (p2is_tool, image_lab, audio_lab)**
+   Distribués sous licence **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. 
+   * Vous pouvez les utiliser, les modifier (pour créer une trad dans une autre langue par exemple) à condition de **créditer notre équipe**, de **ne pas en faire d'usage commercial** (vente strictement interdite), et de **partager votre projet dérivé sous la même licence**.
+   * *Note pour les créateurs :* Les YouTubers et Streamers sont autorisés à utiliser ce patch et monétiser leurs vidéos.
 
----
+2. **Le Web Patcher (p2is_patcher)**
+   Il intègre directement le code source du moteur DeltaPatcher. Pour respecter les droits d'auteur d'origine, cette partie spécifique est sous licence **[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)**.
 
-## Documentation et Liens Utiles
-
-Afin d'assurer la transparence et la pérennité du projet, toute la documentation technique et organisationnelle a été structurée :
-
-* **[DEVELOPER.md](./DEVELOPER.md)** : Architecture technique, reverse-engineering du jeu et fonctionnement du compilateur.
-* **[CONTRIBUTING.md](./CONTRIBUTING.md)** : Guide pour rejoindre l'équipe de traduction et utiliser l'interface de relecture.
-* **[Dictionnaire.md](./Dictionnaire.md)** : Le glossaire officiel pour garantir la cohérence absolue des termes du jeu.
-* **[SUIVI.md](./SUIVI.md)** : Tableau de bord, progression détaillée et historique des patchs.
-* **[CREDITS.md](./CREDITS.md)** : Équipe principale, classement des contributeurs et remerciements.
-
-### Support & Foire Aux Questions
-
-Si vous rencontrez le moindre problème lors de l'installation, des crashs en jeu ou si vous cherchez des réponses aux questions fréquentes, merci de consulter notre plateforme officielle :
-
-> **[Consulter la F.A.Q Officielle (personalegrimoireducoeur.fr)](https://personalegrimoireducoeur.fr/faq.html)**
-
-Vous pouvez également rejoindre la communauté et demander de l'aide sur notre **[Serveur Discord](https://discord.gg/rd4ckSWHNm)**. Pour les bugs purement techniques, merci d'ouvrir une [Issue GitHub](https://github.com/chenetulipe/P2-FR-IS-PSP/issues).
+### ⚙️ Mentions des Outils Tiers (Légaux et Indépendants)
+* **p2is_cpk_tool.py** : Notre propre script Python d'extraction/reconstruction des archives CPK, remplaçant *CriFsLib*.
+* **pspdecrypt** (par John-K) : Exécutable `.exe` open-source appelé en externe pour déchiffrer l'EBOOT.
+* **pycdlib** (par clalancette) : Importée dynamiquement (LGPL-2.1). Notre code Python interagit avec l'API pycdlib sans la modifier, respectant les termes de la LGPL.
+* **ATRACTool-Reloaded** (par XyLe-GBP) : Exécutable appelé en ligne de commande par `p2is_audio_lab`.
 
 <br/>
 
 ---
 
-## Licence et Crédits
+## 📚 Documentation et Liens
 
-**Atlus / SEGA** : Développeurs originaux et ayants droit exclusifs du jeu.
+* **[DEVELOPER.md](./DEVELOPER.md)** : Architecture technique et reverse-engineering.
+* **[CONTRIBUTING.md](./CONTRIBUTING.md)** : Guide de contribution et tableau d'avancement des traductions.
+* **[Dictionnaire.md](./Dictionnaire.md)** : Le glossaire officiel pour garantir la cohérence des termes.
+* **[SUIVI.md](./SUIVI.md)** : Historique détaillé des patchs.
+* **[CREDITS.md](./CREDITS.md)** : Équipe principale et contributeurs.
 
-**L'Équipe de Traduction Principale :** 
-
-* **[@chenetulipe](https://github.com/chenetulipe) (Chef de Projet)**  
-  Créateur et pilier du projet. Il s'occupe de la majorité des tâches techniques (reverse-engineering, extraction et réinjection des textes, gestion du romhacking) tout en assurant le rôle de chef d'orchestre pour diriger l'équipe de traduction.
-
-* **[@HamzaKarrouchi](https://github.com/HamzaKarrouchi) (Développeur & Top Traducteur)**  
-  Un véritable fou malade du code et de la traduction. Il a abattu un travail colossal sur les scripts du jeu en validant les 100% de complétion de l'histoire et en harmonisant la terminologie. Il a également développé de A à Z la plateforme web "P2IS Relecture" pour faciliter la vie de toute l'équipe.
-
-* **[@Garloulou](https://github.com/Garloulou) (Support & Intégration)**  
-  A énormément contribué aux fondations du projet lors de ses débuts, notamment en gérant les fusions (Merge Pull Requests) de la communauté sur GitHub, apportant une aide d'intégration précieuse avant de passer le flambeau.
-
-> [!CAUTION]
-> **Clause de Non-Responsabilité & Licence**
-> 
-> *Persona 2: Innocent Sin* est une marque déposée de © Atlus / SEGA. Ce projet est une traduction amateur à but non lucratif, réalisée par des passionnés. L'utilisation du patch se fait à vos propres risques. L'équipe décline toute responsabilité en cas de corruption de sauvegarde ou de dommages logiciels.
-> 
-> **Licences du Projet et Dépendances :**
-> 
-> - **Le Patch de Traduction** (textes, images, `.xdelta`, et code des outil `p2is_tool` et `p2is_audio_lab`) est sous licence **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Libre d'utilisation, de modification et de redistribution. **La vente ou la monétisation directe de ce patch est strictement interdite.**
->   - *Exception pour les créateurs de contenu :* Les YouTubers, Streamers et journalistes sont totalement autorisés à utiliser ce patch dans leurs vidéos ou articles, et à monétiser leurs contenus liés au jeu.
->   - *Création de mods et traductions dérivées :* Si vous souhaitez utiliser nos outils ou notre traduction pour créer votre propre version (ex: traduction dans une autre langue, modifiant le jeu), vous en avez le droit à condition de **créditer l'équipe originale** et de **distribuer votre projet sous cette même licence exacte** (ShareAlike).
-> - **Le Web Patcher** (l'application web `p2is_patcher` / UI) intègre directement le code source du moteur DeltaPatcher et est donc distribué sous licence **[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)** afin de respecter les droits d'auteur de ce dernier.
-> 
-> **Dépendances & Outils tiers utilisés (100% compatibles légalement) :**
-> - **p2is_cpk_tool.py** : Notre propre outil interne d'extraction et de reconstruction d'archives CPK, développé en remplacement de CriFsLib (qui n'est plus disponible).
-> - **pspdecrypt** par John-K (Open-Source) : Exécutable `.exe` appelé en externe pour déchiffrer l'EBOOT. Totalement indépendant.
-> - **pycdlib** par clalancette ([LGPL-2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)) : Bibliothèque Python importée dynamiquement par notre outil. Le projet "utilise" la bibliothèque sans l'intégrer ou la modifier, ce qui est parfaitement autorisé par la LGPL.
-> - **DeltaPatcher** par marco-calautti ([GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)) : Moteur de patch binaire. Son code est compilé directement dans le Web Patcher, forçant ce dernier à adopter la licence GPL-2.0 (sans contaminer le reste du projet qui reste sous CC BY-NC-SA 4.0).
-> - **ATRACTool-Reloaded** par XyLe-GBP ([GitHub](https://github.com/XyLe-GBP/ATRACTool-Reloaded)) : Exécutable `ATRACTool-Reloaded.exe` appelé en externe par `p2is_audio_lab` pour compresser/décompresser l'audio. Son utilisation via ligne de commande le rend totalement indépendant de notre code.
-
-<br/>
+Besoin d'aide ? Consultez notre **[F.A.Q Officielle](https://personalegrimoireducoeur.fr/faq.html)** ou rejoignez-nous sur **[Discord](https://discord.gg/rd4ckSWHNm)** !
 
 <div align="center">
   <a href="https://www.star-history.com/?repos=chenetulipe%2FP2-FR-IS-PSP&type=date&legend=top-left">
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=chenetulipe/P2-FR-IS-PSP&type=date&theme=dark&legend=top-left&sealed_token=LFm90kimgTV0pKr7wph4I01fXMDcl0pp1R6gKZQj-A7IbzSxbcuQ3Te4pkPherfmIEivpEoqHEUGj9nyRkBIcEEDu5ejv9MLjA1aY8v8ynFglkEs_gTGdQ" />
-     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=chenetulipe/P2-FR-IS-PSP&type=date&legend=top-left&sealed_token=LFm90kimgTV0pKr7wph4I01fXMDcl0pp1R6gKZQj-A7IbzSxbcuQ3Te4pkPherfmIEivpEoqHEUGj9nyRkBIcEEDu5ejv9MLjA1aY8v8ynFglkEs_gTGdQ" />
-     <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=chenetulipe/P2-FR-IS-PSP&type=date&legend=top-left&sealed_token=LFm90kimgTV0pKr7wph4I01fXMDcl0pp1R6gKZQj-A7IbzSxbcuQ3Te4pkPherfmIEivpEoqHEUGj9nyRkBIcEEDu5ejv9MLjA1aY8v8ynFglkEs_gTGdQ" width="800" />
-   </picture>
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=chenetulipe/P2-FR-IS-PSP&type=date&legend=top-left&sealed_token=LFm90kimgTV0pKr7wph4I01fXMDcl0pp1R6gKZQj-A7IbzSxbcuQ3Te4pkPherfmIEivpEoqHEUGj9nyRkBIcEEDu5ejv9MLjA1aY8v8ynFglkEs_gTGdQ" width="800" />
   </a>
 </div>
-
