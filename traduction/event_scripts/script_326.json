@@ -1355,8 +1355,8 @@
     ],
     "nom_orig": "Manager",
     "texte_orig": "Well,[SP]I'm[SP]sure[SP]you've[SP]got[SP]a[SP]lot[SP]on[SP]your[SP]plate,\nbut[SP]come[SP]again.[SP]I'll[SP]welcome[SP]you,[SP]at[SP]least.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Agent de sécurité",
+    "texte_fr": "Ils nettoient devant. Hein ? Tu penses\nqu'on nettoie toujours ce coin ?\nW-Wow... T'es perspicace..."
   },
   {
     "id": 86,
@@ -1486,7 +1486,7 @@
     "nom_orig": "Manager",
     "texte_orig": "That'll[SP]be[SP][120E][NULL][SP]coins.[SP]Is[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
     "nom_fr": "",
-    "texte_fr": "",
+    "texte_fr": "Ça fera [120E][NULL] pièces. D'accord ?\n[1208][0002]Oui\nNon",
     "question_orig": "That'll[SP]be[SP][120E][NULL][SP]coins.[SP]Is[SP]that[SP]okay?",
     "choix_orig": [
       "Yes",
