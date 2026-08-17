@@ -837,7 +837,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "For[SP]what[SP]have[SP]you[SP]sought[SP]me[SP]out[SP]today?\n[1208][0005][1210][U+0475]Ask[SP]about[SP]rumors\nHear[SP]your[SP]fortune\nTalk[SP]to[SP]the[SP]Sumaru[SP]Genie\nNever[SP]mind\nLeave",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Qu'est-ce qui vous amène aujourd'hui?\n[1208][0005][1210]Demander des rumeurs\nTirer les cartes\nParler à la Génie\nLaisser tomber\nPartir",
+    "texte_fr": "Qu'est-ce qui vous amène aujourd'hui?\n[1208][0005][1210]Demander des rumeurs\nTirer les cartes\nParler à la Génie\nLaisser tomber\nPartir[U+0475]",
     "question_orig": "For[SP]what[SP]have[SP]you[SP]sought[SP]me[SP]out[SP]today?",
     "choix_orig": [
       "[1210]Ask[SP]about[SP]rumors",
@@ -1665,7 +1665,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Which[SP]stories[SP]would[SP]you[SP]have[SP]me[SP]tell?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Quelles histoires souhaitez-vous?\n[1208][0004][1210]Rumeurs sur les armes\n[1210]Rumeurs sur les armures\n[1210]Autres rumeurs\nRien",
+    "texte_fr": "Quelles histoires souhaitez-vous?\n[1208][0004][1210]Rumeurs sur les armes\n[1210]Rumeurs sur les armures\n[1210]Autres rumeurs\nRien[U+0476][U+0477][U+0478]",
     "question_orig": "Which[SP]stories[SP]would[SP]you[SP]have[SP]me[SP]tell?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -1692,7 +1692,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?\n[1208][0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Quel sera le cadre de mon récit?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nAucun",
+    "texte_fr": "Quel sera le cadre de mon récit?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nAucun[U+046A][U+046B][U+046C][U+046D]",
     "question_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?",
     "choix_orig": [
       "[1210]Rengedai",
@@ -1720,7 +1720,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?\n[1208][0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Quel sera le cadre de mon récit?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nAucun",
+    "texte_fr": "Quel sera le cadre de mon récit?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nAucun[U+046E][U+046F][U+0470][U+0471]",
     "question_orig": "What[SP]shall[SP]be[SP]the[SP]setting[SP]of[SP]my[SP]story?",
     "choix_orig": [
       "[1210]Rengedai",
@@ -1748,7 +1748,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Which[SP]tale[SP]shall[SP]I[SP]relate?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Quelle histoire souhaitez-vous?\n[1208][0004][1210]Rumeurs du Magazine\n[1210]Rumeurs de Mu\n[1210]Armes légendaires\nAucune",
+    "texte_fr": "Quelle histoire souhaitez-vous?\n[1208][0004][1210]Rumeurs du Magazine\n[1210]Rumeurs de Mu\n[1210]Armes légendaires\nAucune[U+0472][U+0473][U+0474]",
     "question_orig": "Which[SP]tale[SP]shall[SP]I[SP]relate?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
