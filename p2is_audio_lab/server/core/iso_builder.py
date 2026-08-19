@@ -1,4 +1,4 @@
-﻿import logging
+import logging
 import shutil
 import struct
 import os
@@ -21,7 +21,7 @@ def patch_iso(iso_path: str, bin_path: str, internal_path: str, out_iso_path: st
         out_iso_path = f"{base}_MOD{ext}"
     
     try:
-        logger.info(f"PrÃ©paration de la copie de l'ISO...")
+        logger.info(f"Préparation de la copie de l'ISO...")
         shutil.copy(iso_path, out_iso_path)
         
         with open(out_iso_path, "r+b") as iso_f:

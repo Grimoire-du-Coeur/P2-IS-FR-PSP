@@ -68,7 +68,7 @@ def inject_wav_into_bin(bin_path: str, entry_idx: int, new_wav_data: bytes,
                          out_bin_path: str, log_fn=None) -> bool:
     """
     Remplace une entrée audio dans le BIN par les données WAV converties (new_wav_data).
-    Injection IN-PLACE stricte pour conserver la taille et la TOC d'origine.
+    Injection IN-PLACE stricte obligatoire pour conserver la taille et la TOC d'origine.
     """
     if entry_idx < 0 or entry_idx >= len(toc_entries):
         if log_fn: log_fn(f"[ERREUR] Index {entry_idx} hors limite.", "ERROR")
@@ -83,9 +83,6 @@ def inject_wav_into_bin(bin_path: str, entry_idx: int, new_wav_data: bytes,
     
     if log_fn: log_fn(f"Injection In-Place stricte de {len(new_wav_data)} octets dans {orig_size} octets...", "INFO")
     
-    import shutil
-    import struct
-    
     try:
         # 1. Copier le fichier de base s'il n'est pas déjà à l'emplacement de destination
         if os.path.abspath(bin_path) != os.path.abspath(out_bin_path):
@@ -95,7 +92,7 @@ def inject_wav_into_bin(bin_path: str, entry_idx: int, new_wav_data: bytes,
         if len(new_wav_data) <= orig_size:
             padded_wav = new_wav_data + b'\x00' * (orig_size - len(new_wav_data))
         else:
-            if log_fn: log_fn(f"Avertissement : La piste est plus grande, troncature de {len(new_wav_data) - orig_size} octets !", "WARNING")
+            if log_fn: log_fn(f"Avertissement : La piste est plus grande, troncature de {len(new_wav_data) - orig_size} octets pour respecter la taille exacte !", "WARNING")
             truncated = bytearray(new_wav_data[:orig_size])
             if truncated.startswith(b'RIFF'):
                 # Corriger la taille RIFF

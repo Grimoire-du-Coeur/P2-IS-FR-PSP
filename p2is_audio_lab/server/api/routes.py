@@ -236,21 +236,27 @@ class NotesRequest(BaseModel):
 
 @router.post("/audio/notes/save")
 async def save_notes(req: NotesRequest):
-    bin_dir = os.path.dirname(req.bin_path)
     bin_name = os.path.basename(req.bin_path)
-    notes_file = os.path.join(bin_dir, f"{bin_name}_notes.json")
+    base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    notes_dir = os.path.join(base_dir, "notes")
+    os.makedirs(notes_dir, exist_ok=True)
+    notes_file = os.path.join(notes_dir, f"{bin_name}_notes.json")
     with open(notes_file, 'w', encoding='utf-8') as f:
         json.dump(req.notes, f, ensure_ascii=False, indent=2)
     return {"status": "ok"}
 
 @router.post("/audio/notes/load")
 async def load_notes(req: InfoRequest):
-    bin_dir = os.path.dirname(req.bin_path)
     bin_name = os.path.basename(req.bin_path)
-    notes_file = os.path.join(bin_dir, f"{bin_name}_notes.json")
+    base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    notes_dir = os.path.join(base_dir, "notes")
+    notes_file = os.path.join(notes_dir, f"{bin_name}_notes.json")
     if os.path.exists(notes_file):
-        with open(notes_file, 'r', encoding='utf-8') as f:
-            return json.load(f)
+        try:
+            with open(notes_file, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception as e:
+            return {}
     return {}
 
 class PatchIsoRequest(BaseModel):
