@@ -105,7 +105,7 @@ Application autonome tournant dans le navigateur, sans aucune dépendance à ins
   <img src="https://img.shields.io/badge/Frontend-HTML%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </div>
 
-Basé sur DeltaPatcher compilé en WASM. Utilise un Service Worker pour patcher des ISO de plus d'1 Go sans saturer la RAM du navigateur.
+Patcher web autonome tournant dans le navigateur (xdelta3 WASM).
 
 ---
 
@@ -149,7 +149,7 @@ Pilote ATRACTool-Reloaded en ligne de commande pour assurer la conversion depuis
 - Réutilisation et modification autorisées à condition de créditer l'équipe, de ne pas en faire un usage commercial, et de redistribuer sous la même licence.
 - Les créateurs de contenu (YouTube, Twitch) peuvent utiliser ce patch et monétiser leurs vidéos normalement.
 
-**Web Patcher** (`p2is_patcher`) - licence **[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)**, imposée par l'intégration du code source de DeltaPatcher.
+- **Web Patcher** (p2is_patcher) - licence **CC BY-NC-SA 4.0** (interface native).
 
 ### Outils tiers utilisés
 
@@ -158,7 +158,6 @@ Pilote ATRACTool-Reloaded en ligne de commande pour assurer la conversion depuis
 | **p2is_cpk_tool.py** | Extraction et reconstruction CPK (remplace CriFsLib) | Interne CC BY-NC-SA 4.0 |
 | **decrypt_eboot.py** | Déchiffrement EBOOT, outil interne | Interne CC BY-NC-SA 4.0 |
 | **pycdlib** (clalancette) | Lecture ISO 9660, importée dynamiquement | LGPL-2.1 |
-| **DeltaPatcher** (marco-calautti) | Moteur de patch binaire compilé dans p2is_patcher | GPL-2.0 |
 | **ATRACTool-Reloaded** (XyLe-GBP) | Conversion audio AT3, appelé en externe | Voir dépôt |
 
 <br/>
@@ -182,3 +181,4 @@ Besoin d'aide ? Consultez la **[FAQ officielle](https://personalegrimoireducoeur
     <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=chenetulipe/P2-FR-IS-PSP&type=date&legend=top-left&sealed_token=LFm90kimgTV0pKr7wph4I01fXMDcl0pp1R6gKZQj-A7IbzSxbcuQ3Te4pkPherfmIEivpEoqHEUGj9nyRkBIcEEDu5ejv9MLjA1aY8v8ynFglkEs_gTGdQ" width="800" />
   </a>
 </div>
+
