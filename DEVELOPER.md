@@ -262,7 +262,7 @@ Le moteur lit séquentiellement du début vers la fin. Il ne rencontre jamais de
 
 Le patcher web (`p2is_patcher`) permet aux joueurs d'appliquer le patch `.xdelta` directement dans leur navigateur, sans installer de logiciel.
 
-**Moteur WASM** : La librairie C++ *DeltaPatcher* (xdelta3) est compilée en WebAssembly. Elle ne stocke que la différence binaire brute entre l'ISO anglaise originale et l'ISO française, ce qui réduit drastiquement la taille du fichier de patch.
+**Moteur WASM** : La librairie open-source xdelta3 est compilée en WebAssembly. Elle ne stocke que la différence binaire brute entre l'ISO anglaise originale et l'ISO française, ce qui réduit drastiquement la taille du fichier de patch.
 
 **Worker asynchrone** : L'application s'exécute dans un Web Worker (`xdelta3.worker.js`) pour ne pas bloquer l'interface du navigateur pendant le patch.
 
@@ -306,6 +306,5 @@ Le compresseur implémenté dans `core/image_format.py` utilise une approche gre
 | **Pillow** | Manipulation d'images (PNG → GIM) | Pillow contributors | HPND |
 | **p2is_cpk_tool.py** | Extraction et reconstruction CPK | chenetulipe | Interne |
 | **decrypt_eboot.py** | Déchiffrement EBOOT (DRM KIRK) | John-K | Open-Source |
-| **DeltaPatcher** | Moteur de patch binaire xdelta3 | marco-calautti | GPL-2.0 |
 | **ATRACTool-Reloaded** | Conversion audio AT3 | XyLe-GBP | Voir dépôt |
 | **customtkinter** | Interface graphique Python (scripts utilitaires) | Tom Schimansky | MIT |
