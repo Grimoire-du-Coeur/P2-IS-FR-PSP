@@ -6,15 +6,10 @@
   <title>P2IS - Web Patcher</title>
   <meta name="description" content="Patcher officiel pour Persona 2 Innocent Sin FR" />
   
-  <!-- Tailwind CSS via CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
-  
-  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  
-  <!-- Lucide Icons -->
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://unpkg.com/lucide@latest"></script>
 
   <script>
@@ -22,17 +17,17 @@
       darkMode: 'class',
       theme: {
         extend: {
-          fontFamily: { sans: ['Inter', 'sans-serif'] },
-          colors: {
-            gray: {
-              850: '#1f2937',
-              900: '#111827',
-              950: '#030712'
-            },
-            primary: {
-              400: '#60a5fa',
-              500: '#3b82f6',
-              600: '#2563eb'
+          fontFamily: { sans: ['Outfit', 'sans-serif'] },
+          animation: {
+            'blob': 'blob 10s infinite',
+            'pulse-slow': 'pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+          },
+          keyframes: {
+            blob: {
+              '0%': { transform: 'translate(0px, 0px) scale(1)' },
+              '33%': { transform: 'translate(30px, -50px) scale(1.1)' },
+              '66%': { transform: 'translate(-20px, 20px) scale(0.9)' },
+              '100%': { transform: 'translate(0px, 0px) scale(1)' },
             }
           }
         }
@@ -42,47 +37,60 @@
 
   <style>
     body {
-      background-color: #030712;
-      background-image: 
-        radial-gradient(circle at 15% 50%, rgba(37, 99, 235, 0.08) 0%, transparent 50%),
-        radial-gradient(circle at 85% 30%, rgba(147, 51, 234, 0.08) 0%, transparent 50%);
-      background-attachment: fixed;
-      color: #f3f4f6;
+      background-color: #020617;
+      color: #f8fafc;
       min-height: 100vh;
+      overflow-x: hidden;
+    }
+    
+    /* Liquid Glass Effect */
+    .glass-panel {
+      background: rgba(15, 23, 42, 0.4);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    }
+
+    .glass-button {
+      background: rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+      transition: all 0.3s ease;
+    }
+    .glass-button:hover {
+      background: rgba(255, 255, 255, 0.1);
+      border-color: rgba(255, 255, 255, 0.2);
     }
     
     .drop-zone {
-      transition: all 0.2s ease;
+      background: rgba(0, 0, 0, 0.2);
+      border: 2px dashed rgba(255, 255, 255, 0.15);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     }
     .drop-zone.dragover {
-      border-color: #3b82f6;
-      background-color: rgba(59, 130, 246, 0.1);
+      border-color: #38bdf8;
+      background: rgba(56, 189, 248, 0.1);
       transform: scale(1.02);
+      box-shadow: 0 0 20px rgba(56, 189, 248, 0.2);
     }
     .drop-zone.loaded {
-      border-color: #10b981;
-      background-color: rgba(16, 185, 129, 0.05);
+      border-color: #34d399;
+      background: rgba(52, 211, 153, 0.05);
+      border-style: solid;
     }
-    
-    .glass-card {
-      background: rgba(31, 41, 55, 0.7);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-      border: 1px solid rgba(75, 85, 99, 0.4);
+
+    /* Gradient Text */
+    .text-gradient {
+      background: linear-gradient(135deg, #38bdf8, #818cf8);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
-    
-    /* Progress Bar Animation */
+
+    /* Animated Stripes */
     .progress-bar-stripes {
-      background-image: linear-gradient(
-        45deg,
-        rgba(255, 255, 255, 0.15) 25%,
-        transparent 25%,
-        transparent 50%,
-        rgba(255, 255, 255, 0.15) 50%,
-        rgba(255, 255, 255, 0.15) 75%,
-        transparent 75%,
-        transparent
-      );
+      background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
       background-size: 1rem 1rem;
       animation: progress-stripes 1s linear infinite;
     }
@@ -90,93 +98,127 @@
       from { background-position: 1rem 0; }
       to { background-position: 0 0; }
     }
-    
-    .spinner {
-      animation: spin 1s linear infinite;
-    }
-    @keyframes spin {
-      from { transform: rotate(0deg); }
-      to { transform: rotate(360deg); }
-    }
   </style>
 </head>
-<body class="flex flex-col items-center justify-center p-6">
+<body class="relative flex flex-col items-center justify-center p-4 sm:p-8">
 
-  <!-- Service Worker Registration -->
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('./sw.js').catch(err => console.error('SW Error:', err));
-    }
-  </script>
+  <!-- Background Blobs (Liquid/Glass effect background) -->
+  <div class="fixed top-0 left-0 w-full h-full overflow-hidden -z-10 pointer-events-none">
+    <div class="absolute top-[-10%] left-[-10%] w-96 h-96 bg-blue-600/30 rounded-full mix-blend-screen filter blur-[100px] opacity-70 animate-blob"></div>
+    <div class="absolute top-[20%] right-[-10%] w-96 h-96 bg-purple-600/30 rounded-full mix-blend-screen filter blur-[100px] opacity-70 animate-blob" style="animation-delay: 2s"></div>
+    <div class="absolute bottom-[-20%] left-[20%] w-[500px] h-[500px] bg-sky-600/20 rounded-full mix-blend-screen filter blur-[120px] opacity-60 animate-blob" style="animation-delay: 4s"></div>
+  </div>
 
-  <div class="max-w-3xl w-full mt-10">
-    <!-- Header -->
-    <header class="text-center mb-10">
-      <div class="inline-flex items-center justify-center p-3 bg-primary-500/10 rounded-2xl mb-4 border border-primary-500/20">
-        <i data-lucide="disc" class="w-8 h-8 text-primary-400"></i>
+  <div class="max-w-4xl w-full flex flex-col items-center">
+    
+    <!-- Top Action Bar -->
+    <div class="w-full flex justify-end mb-4 relative z-20">
+      <a href="https://github.com/chenetulipe/P2-FR-IS-PSP/releases/latest" target="_blank" class="glass-button flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium text-sky-100 hover:text-white group">
+        <i data-lucide="download-cloud" class="w-4 h-4 group-hover:scale-110 transition-transform"></i>
+        <span>Télécharger le dernier Patch FR (.xdelta)</span>
+      </a>
+    </div>
+
+    <!-- Main Glass Panel -->
+    <main class="glass-panel w-full rounded-[2rem] p-6 sm:p-10 relative overflow-hidden">
+      <!-- Decor line top -->
+      <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-sky-400 via-indigo-500 to-purple-500 opacity-80"></div>
+
+      <!-- Header -->
+      <header class="text-center mb-10 mt-2">
+        <h1 class="text-4xl sm:text-5xl font-bold tracking-tight mb-3">
+          Persona 2 IS <span class="text-gradient">Web Patcher</span>
+        </h1>
+        <p class="text-slate-400 text-base sm:text-lg max-w-xl mx-auto leading-relaxed">
+          Mettez à jour votre copie de Persona 2 Innocent Sin en quelques secondes.<br>
+          Tout se passe localement et en toute sécurité dans votre navigateur.
+        </p>
+      </header>
+
+      <!-- Docs: What is xdelta? -->
+      <div class="mb-8 p-5 rounded-2xl bg-white/5 border border-white/5 flex gap-4 items-start shadow-inner">
+        <div class="p-2 bg-indigo-500/20 rounded-lg text-indigo-300 shrink-0 mt-1 border border-indigo-500/30 shadow-[0_0_15px_rgba(99,102,241,0.2)]">
+          <i data-lucide="file-question" class="w-5 h-5"></i>
+        </div>
+        <div>
+          <h4 class="text-sm font-semibold text-slate-200 mb-1">C'est quoi un fichier .xdelta ?</h4>
+          <p class="text-sm text-slate-400 leading-relaxed">
+            Un fichier <strong>.xdelta</strong> est un "patch différentiel". Il ne contient que les modifications (les textes traduits en français) et ne contient aucun code protégé du jeu original. En fusionnant ce fichier avec votre ISO d'origine européenne (ULES01557), ce patcher génère un nouveau jeu traduit, tout en respectant la légalité.
+          </p>
+        </div>
       </div>
-      <h1 class="text-4xl font-bold tracking-tight mb-3">
-        Persona 2 IS <span class="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-purple-400">Patcher</span>
-      </h1>
-      <p class="text-gray-400 text-lg">
-        Application autonome 100% web. Mettez à jour votre ISO ci-dessous.
-      </p>
-    </header>
 
-    <!-- Main Card -->
-    <main class="glass-card rounded-2xl p-8 shadow-2xl shadow-black/50">
-      
+      <!-- Dropzones -->
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
         
         <!-- ISO Dropzone -->
-        <div id="zone-iso" class="drop-zone relative flex flex-col items-center justify-center p-8 border-2 border-dashed border-gray-600 rounded-xl cursor-pointer hover:border-gray-500 hover:bg-gray-800/50">
+        <div id="zone-iso" class="drop-zone relative flex flex-col items-center justify-center p-8 rounded-2xl">
           <input type="file" id="in-iso" class="absolute inset-0 w-full h-full opacity-0 cursor-pointer" accept=".iso,.bin,.img" />
-          <i data-lucide="file-archive" id="icon-iso" class="w-10 h-10 text-gray-500 mb-3"></i>
-          <h3 class="font-medium text-gray-200 mb-1">1. Fichier ISO</h3>
-          <p id="lbl-iso" class="text-sm text-gray-500 text-center px-4">Glissez ULES01557.iso ici</p>
+          <div class="p-3 bg-slate-800/50 rounded-full mb-4 shadow-inner border border-white/5 transition-colors duration-300" id="icon-iso-container">
+            <i data-lucide="disc-3" id="icon-iso" class="w-8 h-8 text-slate-400 transition-colors duration-300"></i>
+          </div>
+          <h3 class="font-semibold text-slate-200 mb-1">1. Fichier ISO Original</h3>
+          <p id="lbl-iso" class="text-sm text-slate-500 text-center">Glissez ULES01557.iso ici</p>
         </div>
 
         <!-- Patch Dropzone -->
-        <div id="zone-patch" class="drop-zone relative flex flex-col items-center justify-center p-8 border-2 border-dashed border-gray-600 rounded-xl cursor-pointer hover:border-gray-500 hover:bg-gray-800/50">
+        <div id="zone-patch" class="drop-zone relative flex flex-col items-center justify-center p-8 rounded-2xl">
           <input type="file" id="in-patch" class="absolute inset-0 w-full h-full opacity-0 cursor-pointer" accept=".xdelta,.vcdiff,.patch" />
-          <i data-lucide="file-cog" id="icon-patch" class="w-10 h-10 text-gray-500 mb-3"></i>
-          <h3 class="font-medium text-gray-200 mb-1">2. Fichier Patch</h3>
-          <p id="lbl-patch" class="text-sm text-gray-500 text-center px-4">Glissez le .xdelta ici</p>
+          <div class="p-3 bg-slate-800/50 rounded-full mb-4 shadow-inner border border-white/5 transition-colors duration-300" id="icon-patch-container">
+            <i data-lucide="file-cog" id="icon-patch" class="w-8 h-8 text-slate-400 transition-colors duration-300"></i>
+          </div>
+          <h3 class="font-semibold text-slate-200 mb-1">2. Fichier Patch FR</h3>
+          <p id="lbl-patch" class="text-sm text-slate-500 text-center">Glissez le .xdelta ici</p>
         </div>
 
       </div>
 
-      <!-- Error / Status Area -->
-      <div id="alert-box" class="hidden mb-6 p-4 rounded-lg border flex items-start gap-3">
+      <!-- Status Alert -->
+      <div id="alert-box" class="hidden mb-6 p-4 rounded-xl border flex items-start gap-3 backdrop-blur-sm transition-all">
         <i id="alert-icon" data-lucide="info" class="w-5 h-5 shrink-0 mt-0.5"></i>
         <div class="flex-1">
           <h4 id="alert-title" class="font-semibold text-sm mb-1">Status</h4>
-          <p id="alert-msg" class="text-sm opacity-90 text-gray-300">Message goes here</p>
+          <p id="alert-msg" class="text-sm opacity-90">Message</p>
         </div>
       </div>
 
       <!-- Progress Area -->
       <div id="progress-container" class="hidden mb-8">
-        <div class="flex justify-between text-sm mb-2 text-gray-400">
+        <div class="flex justify-between text-sm mb-2 font-medium text-slate-300">
           <span id="progress-text">Progression...</span>
           <span id="progress-pct">0%</span>
         </div>
-        <div class="h-2 w-full bg-gray-700 rounded-full overflow-hidden">
-          <div id="progress-bar" class="h-full bg-primary-500 progress-bar-stripes" style="width: 0%"></div>
+        <div class="h-3 w-full bg-slate-800/80 rounded-full overflow-hidden border border-slate-700/50 shadow-inner">
+          <div id="progress-bar" class="h-full bg-gradient-to-r from-sky-500 to-indigo-500 progress-bar-stripes rounded-full shadow-[0_0_10px_rgba(56,189,248,0.5)] transition-all duration-300 ease-out" style="width: 0%"></div>
         </div>
       </div>
 
       <!-- Action Button -->
-      <button id="btn-patch" disabled class="w-full flex items-center justify-center gap-2 bg-primary-600 hover:bg-primary-500 disabled:bg-gray-700 disabled:text-gray-500 text-white font-semibold py-4 px-6 rounded-xl transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-primary-500 shadow-lg">
-        <i data-lucide="zap" class="w-5 h-5"></i>
-        <span>Appliquer le Patch</span>
+      <button id="btn-patch" disabled class="relative w-full group overflow-hidden rounded-2xl disabled:opacity-50 disabled:cursor-not-allowed transition-all shadow-lg">
+        <!-- Button Background Gradient -->
+        <div id="btn-bg" class="absolute inset-0 bg-gradient-to-r from-sky-500 via-indigo-500 to-purple-600 transition-all duration-500 group-hover:bg-[length:200%_auto] group-hover:bg-right"></div>
+        <!-- Button Content -->
+        <div class="relative flex items-center justify-center gap-3 py-4 px-6 text-white font-semibold text-lg">
+          <i data-lucide="sparkles" id="btn-icon" class="w-5 h-5"></i>
+          <span id="btn-text">Appliquer le Patch</span>
+        </div>
       </button>
 
     </main>
 
-    <footer class="mt-12 text-center text-sm text-gray-500 flex flex-col items-center gap-2">
-      <p>Persona 2 Innocent Sin - Projet de traduction FR</p>
-      <span class="px-2 py-1 rounded bg-gray-800 text-xs border border-gray-700 text-gray-400">CC BY-NC-SA 4.0</span>
+    <!-- Footer -->
+    <footer class="mt-8 text-center flex flex-col items-center gap-3 opacity-60 hover:opacity-100 transition-opacity">
+      <div class="flex items-center gap-2 text-sm text-slate-400 font-medium">
+        <span>Persona 2 Innocent Sin - Projet de traduction FR</span>
+      </div>
+      <div class="flex items-center gap-3 text-xs">
+        <span class="px-3 py-1.5 rounded-full bg-slate-800/50 border border-slate-700/50 text-slate-300 backdrop-blur-md shadow-sm">
+          Licence CC BY-NC-SA 4.0
+        </span>
+        <span class="px-3 py-1.5 rounded-full bg-slate-800/50 border border-slate-700/50 text-slate-300 backdrop-blur-md shadow-sm flex items-center gap-1.5">
+          <i data-lucide="shield-check" class="w-3.5 h-3.5 text-emerald-400"></i> Code source 100% Légal & Sécurisé
+        </span>
+      </div>
     </footer>
   </div>
 
@@ -188,10 +230,15 @@
     let worker = null;
     
     const btnPatch = document.getElementById('btn-patch');
+    const btnText = document.getElementById('btn-text');
+    const btnIcon = document.getElementById('btn-icon');
+    const btnBg = document.getElementById('btn-bg');
+    
     const alertBox = document.getElementById('alert-box');
     const alertTitle = document.getElementById('alert-title');
     const alertMsg = document.getElementById('alert-msg');
     const alertIcon = document.getElementById('alert-icon');
+    
     const progressContainer = document.getElementById('progress-container');
     const progressBar = document.getElementById('progress-bar');
     const progressText = document.getElementById('progress-text');
@@ -200,22 +247,20 @@
     function checkReady() {
       if (isoFile && patchFile) {
         btnPatch.disabled = false;
-        btnPatch.classList.replace('bg-gray-700', 'bg-primary-600');
-        btnPatch.classList.replace('text-gray-500', 'text-white');
       }
     }
 
     function showAlert(title, msg, type = 'info') {
-      alertBox.classList.remove('hidden', 'bg-red-500/10', 'border-red-500/20', 'text-red-400', 'bg-emerald-500/10', 'border-emerald-500/20', 'text-emerald-400', 'bg-blue-500/10', 'border-blue-500/20', 'text-blue-400');
+      alertBox.className = 'mb-6 p-4 rounded-xl border flex items-start gap-3 backdrop-blur-sm transition-all shadow-lg';
       
       if (type === 'error') {
-        alertBox.classList.add('bg-red-500/10', 'border-red-500/20', 'text-red-400');
+        alertBox.classList.add('bg-red-500/10', 'border-red-500/20', 'text-red-300');
         alertIcon.setAttribute('data-lucide', 'alert-circle');
       } else if (type === 'success') {
-        alertBox.classList.add('bg-emerald-500/10', 'border-emerald-500/20', 'text-emerald-400');
+        alertBox.classList.add('bg-emerald-500/10', 'border-emerald-500/20', 'text-emerald-300');
         alertIcon.setAttribute('data-lucide', 'check-circle-2');
       } else {
-        alertBox.classList.add('bg-blue-500/10', 'border-blue-500/20', 'text-blue-400');
+        alertBox.classList.add('bg-sky-500/10', 'border-sky-500/20', 'text-sky-300');
         alertIcon.setAttribute('data-lucide', 'info');
       }
       
@@ -245,19 +290,26 @@
       const input = document.getElementById(inputId);
       const lbl = document.getElementById(lblId);
       const icon = document.getElementById(iconId);
+      const container = document.getElementById(iconId + '-container');
 
       const processFile = (file) => {
         if (!checkExt.test(file.name)) {
+          zone.classList.remove('loaded');
           zone.classList.add('border-red-500', 'bg-red-500/10');
           lbl.textContent = 'Extension invalide';
           lbl.classList.add('text-red-400');
           return;
         }
         
-        zone.className = 'drop-zone relative flex flex-col items-center justify-center p-8 border-2 border-dashed rounded-xl cursor-pointer loaded';
-        icon.setAttribute('data-lucide', 'check');
-        icon.classList.replace('text-gray-500', 'text-emerald-500');
-        lbl.innerHTML = `<span class="font-medium text-emerald-400">${file.name}</span><br/><span class="text-xs opacity-75">${formatSize(file.size)}</span>`;
+        zone.classList.remove('border-red-500', 'bg-red-500/10');
+        zone.classList.add('loaded');
+        
+        icon.setAttribute('data-lucide', 'check-circle-2');
+        icon.classList.replace('text-slate-400', 'text-emerald-400');
+        container.classList.replace('bg-slate-800/50', 'bg-emerald-500/10');
+        container.classList.replace('border-white/5', 'border-emerald-500/20');
+        
+        lbl.innerHTML = `<span class="font-medium text-emerald-300">${file.name}</span><br/><span class="text-xs opacity-75">${formatSize(file.size)}</span>`;
         lucide.createIcons();
         onFile(file);
       };
@@ -285,11 +337,13 @@
       if (worker) { worker.terminate(); worker = null; }
 
       btnPatch.disabled = true;
-      btnPatch.innerHTML = '<i data-lucide="loader-2" class="w-5 h-5 spinner"></i><span>Patch en cours...</span>';
+      btnIcon.setAttribute('data-lucide', 'loader-2');
+      btnIcon.classList.add('spinner');
+      btnText.textContent = 'Application en cours...';
       lucide.createIcons();
 
       alertBox.classList.add('hidden');
-      updateProgress(5, "Initialisation du moteur de patch...");
+      updateProgress(5, "Initialisation du moteur de fusion...");
 
       worker = new Worker('./xdelta3.worker.js', { type: 'module' });
       
@@ -303,7 +357,6 @@
         const data = e.data;
 
         if (!data.final) {
-          // Chunk received
           outputChunks.push(data.bytes);
           totalBytes += data.bytes.length;
           
@@ -311,26 +364,29 @@
           let rate = (totalBytes / elapsed / 1048576).toFixed(1);
           let pct = Math.min(95, 5 + (totalBytes / isoFile.size) * 90);
           
-          updateProgress(pct, `Application du patch... (${rate} Mo/s)`);
+          updateProgress(pct, `Fusion en cours... (${rate} Mo/s)`);
           return;
         }
 
         if (data.error) {
           worker = null;
           updateProgress(null);
-          showAlert("Échec du Patch", "Erreur moteur : " + (data.errorMessage || "Code " + data.errorCode), "error");
-          btnPatch.innerHTML = '<i data-lucide="zap" class="w-5 h-5"></i><span>Réessayer</span>';
+          showAlert("Échec de l'opération", "Une erreur est survenue dans le moteur (Code " + (data.errorCode || "?") + ").\nVérifiez que le fichier ISO n'est pas corrompu.", "error");
+          
+          btnIcon.setAttribute('data-lucide', 'rotate-cw');
+          btnIcon.classList.remove('spinner');
+          btnText.textContent = 'Réessayer';
           btnPatch.disabled = false;
           lucide.createIcons();
           return;
         }
 
-        updateProgress(98, "Finalisation de l'ISO...");
+        updateProgress(98, "Préparation du téléchargement...");
         
         setTimeout(() => {
           try {
             const blob = new Blob(outputChunks, { type: 'application/octet-stream' });
-            outputChunks = []; // free memory
+            outputChunks = [];
             const url = URL.createObjectURL(blob);
             
             const a = document.createElement('a');
@@ -342,19 +398,21 @@
             
             setTimeout(() => URL.revokeObjectURL(url), 10000);
 
-            updateProgress(100, "Terminé !");
+            updateProgress(100, "Opération terminée !");
             showAlert(
-              "Succès !", 
-              `L'ISO a été patchée avec succès.\nFichier : ${patchedName}\nTaille : ${(blob.size / 1048576).toFixed(1)} Mo\nLe téléchargement a commencé.`,
+              "Jeu prêt !", 
+              `Votre ISO a été patchée avec succès.\nFichier : ${patchedName}\nTaille : ${(blob.size / 1048576).toFixed(1)} Mo\nLe téléchargement devrait commencer automatiquement.`,
               "success"
             );
           } catch(err) {
-            showAlert("Erreur d'écriture", "Votre navigateur manque de mémoire pour finaliser l'ISO.", "error");
+            showAlert("Mémoire saturée", "Votre navigateur manque de mémoire (RAM) pour finaliser le fichier. Essayez de fermer des onglets.", "error");
           }
 
           worker = null;
-          btnPatch.innerHTML = '<i data-lucide="check" class="w-5 h-5"></i><span>Patch Terminé</span>';
-          btnPatch.classList.replace('bg-primary-600', 'bg-emerald-600');
+          btnIcon.setAttribute('data-lucide', 'check');
+          btnIcon.classList.remove('spinner');
+          btnText.textContent = 'Patch Appliqué !';
+          btnBg.className = "absolute inset-0 bg-gradient-to-r from-emerald-500 to-teal-500 transition-all duration-500";
           lucide.createIcons();
           
           setTimeout(() => updateProgress(null), 5000);
@@ -364,8 +422,11 @@
       worker.onerror = (err) => {
         worker = null;
         updateProgress(null);
-        showAlert("Erreur Fatale", "Le moteur de patch a planté. " + err.message, "error");
-        btnPatch.innerHTML = '<i data-lucide="zap" class="w-5 h-5"></i><span>Appliquer le Patch</span>';
+        showAlert("Erreur Critique", "Le moteur du patcher a planté inopinément.", "error");
+        
+        btnIcon.setAttribute('data-lucide', 'alert-triangle');
+        btnIcon.classList.remove('spinner');
+        btnText.textContent = 'Appliquer le Patch';
         btnPatch.disabled = false;
         lucide.createIcons();
       };
