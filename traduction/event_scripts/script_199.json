@@ -12,7 +12,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]Jun![SP]Your[SP]daddy's[SP]amazing[SP]and[SP]he[SP]can[SP]do\nanything,[SP]right?[SP]You[SP]think[SP]we'll[SP]finally[SP]get\nto[SP]meet[SP]him[SP]today?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nM-Maybe...[1205][001E][SP]But...[SP]he's[SP]really[SP]busy,[SP]so...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nI-I[SP]wish[SP]m-my[SP]dad[SP]didn't[SP]w-work[SP]at[SP]a[SP]sushi\nrestaurant...[SP]S-Seriously,[SP]I[SP]have[SP]to[SP]eat\ns-s-sushi[SP]every[SP]day.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nIt's[SP]almost[SP]time[SP]for[SP]your[SP]families[SP]to[SP]start\ncoming[SP]to[SP]pick[SP]you[SP]up.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nI[SP]wonder[SP]if[SP]my[SP]mommy[SP]will[SP]be[SP]first[SP]today?\nI'm[SP]hungry!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nOh,[SP]s-someone's[SP]here.[SP]I[SP]d-don't[SP]recognize\nhim...[1205][001E][SP]B-But[SP]he[SP]looks[SP]cool![E1][E2]\n[E3][E4][NULL][NULL]\"Jun's[SP]father\nI'm[SP]here[SP]to[SP]pick[SP]you[SP]up,[SP]Jun.",
     "nom_fr": "Ginko",
-    "texte_fr": "Hey, Jun! Ton papa est incroyable, il peut\ntout faire, pas vrai? Tu penses qu'on va le\nvoir aujourd'hui? [E1][E2] [E3][E4][NULL][NULL]\"Jun\n Pe-Peut-être...[1205][001E] Il...\nest occupé, donc... [E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n Mon p-père\ntravaille dans un restaurant de sushi...S-Sérieux\nje dois manger des s-suhshi tout les\njours. [E1][E2] [E3][E4][NULL][NULL]\"Maya\nC'est bientôt l'heure pour vos\nfamilles de venir vous chercher. [E1][E2] [E3][E4][NULL][NULL]\"Ginko\n Je me\ndemande si ma maman sera\npremière aujourd'hui?J'ai faim! [E1][E2] [E3][E4][NULL][NULL]\"Eikichi\nOh, y'a quelqu'un. Je ne\nle reconnais pas...[1205][001E] M-Mais\nil a l'air cool! [E1][E2]\n[E3][E4][NULL][NULL]\"Père de Jun\n Je viens te chercher, Jun."
+    "texte_fr": "Hey, Jun! Ton papa est incroyable, il peut\ntout faire, pas vrai? Tu penses qu'on va le\nvoir aujourd'hui? [E1][E2] [E3][E4][NULL][NULL]\"Jun\n Pe-Peut-être...[001E][1205] Il...\nest occupé, donc... [E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n Mon p-père\ntravaille dans un restaurant de sushi...S-Sérieux\nje dois manger des s-suhshi tout les\njours. [E1][E2] [E3][E4][NULL][NULL]\"Maya\nC'est bientôt l'heure pour vos\nfamilles de venir vous chercher. [E1][E2] [E3][E4][NULL][NULL]\"Ginko\n Je me\ndemande si ma maman sera\npremière aujourd'hui?J'ai faim! [E1][E2] [E3][E4][NULL][NULL]\"Eikichi\nOh, y'a quelqu'un. Je ne\nle reconnais pas...[001E][1205] M-Mais\nil a l'air cool! [E1][E2]\n[E3][E4][NULL][NULL]\"Père de Jun\n Je viens te chercher, Jun."
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Th-That's[SP]right...[1205][001E][SP]That[SP]is[SP]Jun's[SP]dad\nafter[SP]all...",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est vrai...[1205][001E] C'est le\npère de Jun après tout..."
+    "texte_fr": "C'est vrai...[001E][1205] C'est le\npère de Jun après tout..."
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Ngh...[SP]That's[SP]right...[1205][001E][SP]Th-That's...",
     "nom_fr": "Jun",
-    "texte_fr": "Ngh... C'est vrai...[1205][001E] C-C'est..."
+    "texte_fr": "Ngh... C'est vrai...[001E][1205] C-C'est..."
   },
   {
     "id": 4,
@@ -87,6 +87,6 @@
     "nom_orig": "Ginko",
     "texte_orig": "You[SP]were[SP]right![SP]He's[SP]super[SP]cool!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nI'm[SP]glad[SP]for[SP]you,[SP]Jun-kun![SP]It's[SP]nice[SP]that\nyour[SP]father[SP]came[SP]to[SP]pick[SP]you[SP]up.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nM-Mama's[SP]not[SP]waiting[SP]back[SP]home...![1205][001E][SP]Don't...!",
     "nom_fr": "",
-    "texte_fr": "T'avais raison ! Il est super cool !\n[E1][E2]\n[E3][E4][NULL][NULL]Maya\nJe suis contente pour toi, Jun-kun !\nC'est bien que ton père soit venu te chercher.\n[E1][E2]\n[E3][E4][NULL][NULL]Jun\nM-Maman m'attend pas à la maison...![1205][001E]\nNe fais pas ça...!"
+    "texte_fr": "T'avais raison ! Il est super cool !\n[E1][E2]\n[E3][E4][NULL][NULL]Maya\nJe suis contente pour toi, Jun-kun !\nC'est bien que ton père soit venu te chercher.\n[E1][E2]\n[E3][E4][NULL][NULL]Jun\nM-Maman m'attend pas à la maison...![001E][1205]\nNe fais pas ça...!"
   }
 ]
