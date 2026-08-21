@@ -5,7 +5,7 @@
     "data_size": 46,
     "slot_size": 46,
     "texte_orig": "No[SP]install[SP]data[SP]found<0004><FF03>",
-    "texte_fr": "Install. introuvable<0004 <FF03 "
+    "texte_fr": "Install. introuvable<0004><FF03>"
   },
   {
     "id": 1,
@@ -13,7 +13,7 @@
     "data_size": 56,
     "slot_size": 56,
     "texte_orig": "Memory[SP]Stick<04B1>[SP]not[SP]inserted<0004><FF03>",
-    "texte_fr": "Carte memoire<04B1  non inserée<0004 <FF03 "
+    "texte_fr": "Carte memoire<04B1> non inserée<0004><FF03>"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "data_size": 50,
     "slot_size": 50,
     "texte_orig": "Install[SP]data[SP]is[SP]corrupt<0004><FF03>",
-    "texte_fr": "Install. corrompue<0004 <FF03 "
+    "texte_fr": "Install. corrompue<0004><FF03>"
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Yes<FF03>No<FF03>",
-    "texte_fr": "Oui<FF03 N<FF03 "
+    "texte_fr": "Oui<FF03> N<FF03>"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "data_size": 6,
     "slot_size": 6,
     "texte_orig": "OK<FF03>",
-    "texte_fr": "OK<FF03 "
+    "texte_fr": "OK<FF03>"
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "data_size": 52,
     "slot_size": 52,
     "texte_orig": "Would[SP]you[SP]like[SP]to[SP]cancel<0008><FF03>",
-    "texte_fr": "Voulez-vous annuler<0008 <FF03 "
+    "texte_fr": "Voulez-vous annuler<0008><FF03>"
   },
   {
     "id": 6,
@@ -53,7 +53,7 @@
     "data_size": 194,
     "slot_size": 194,
     "texte_orig": "Installation[SP]halted[SP]because[SP]sleep[SP]mode[SP]was<FF03>activated[SP]during[SP]the[SP]install<0004>[SP]Canceling[SP]installation<0004><FF03>",
-    "texte_fr": "Installation interrompue car veille<FF03 activee pendant l'install<0004  Annulation install<0004 <FF03 "
+    "texte_fr": "Installation interrompue car veille<FF03> activee pendant l'install<0004> Annulation install<0004><FF03>"
   },
   {
     "id": 7,
@@ -61,7 +61,7 @@
     "data_size": 48,
     "slot_size": 48,
     "texte_orig": "Canceling[SP]installation<0004><FF03>",
-    "texte_fr": "Annul. install<0004 <FF03 "
+    "texte_fr": "Annul. install<0004><FF03>"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "data_size": 46,
     "slot_size": 46,
     "texte_orig": "Installation[SP]complete<0004><FF03>",
-    "texte_fr": "Installation terminee<0004 <FF03 "
+    "texte_fr": "Installation terminee<0004><FF03>"
   },
   {
     "id": 9,
@@ -77,7 +77,7 @@
     "data_size": 40,
     "slot_size": 40,
     "texte_orig": "Retry[SP]installation<0008><FF03>",
-    "texte_fr": "Relancer install<0008 <FF03 "
+    "texte_fr": "Relancer install<0008><FF03>"
   },
   {
     "id": 10,
@@ -85,7 +85,7 @@
     "data_size": 118,
     "slot_size": 118,
     "texte_orig": "Saving[SP]system[SP]data<0004>[SP]Please[SP]do[SP]not<FF03>remove[SP]the[SP]Memory[SP]Stick<04B1><0004>",
-    "texte_fr": "Sauvegarde donnees syst.<0004  Ne pas<FF03 retirer carte mem.<04B1 <0004 "
+    "texte_fr": "Sauvegarde donnees syst.<0004> Ne pas<FF03> retirer carte mem.<04B1><0004>"
   },
   {
     "id": 11,
@@ -93,7 +93,7 @@
     "data_size": 38,
     "slot_size": 38,
     "texte_orig": "Persona[SP]is[SP]sealed<0004><FF03>",
-    "texte_fr": "Persona scelle<0004 <FF03 "
+    "texte_fr": "Persona scelle<0004><FF03>"
   },
   {
     "id": 12,
@@ -101,7 +101,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "MAX<0004><FF03>",
-    "texte_fr": "MAX<0004 <FF03 "
+    "texte_fr": "MAX<0004><FF03>"
   },
   {
     "id": 13,
@@ -109,7 +109,7 @@
     "data_size": 34,
     "slot_size": 34,
     "texte_orig": "&s[SP]Rank[SP]reached[SP]<FF03>",
-    "texte_fr": "&s Rang atteint<FF03 "
+    "texte_fr": "&s Rang atteint<FF03>"
   },
   {
     "id": 14,
@@ -117,7 +117,7 @@
     "data_size": 6,
     "slot_size": 6,
     "texte_orig": "No<FF03>",
-    "texte_fr": "N<FF03 "
+    "texte_fr": "N<FF03>"
   },
   {
     "id": 15,
@@ -125,7 +125,7 @@
     "data_size": 8,
     "slot_size": 8,
     "texte_orig": "Yes<FF03>",
-    "texte_fr": "Oui<FF03 "
+    "texte_fr": "Oui<FF03>"
   },
   {
     "id": 16,
@@ -133,7 +133,7 @@
     "data_size": 80,
     "slot_size": 80,
     "texte_orig": "Enter[SP]the[SP]rest[SP]of[SP]the[SP]party&s[SP]commands<0004><FF03>",
-    "texte_fr": "Entrez le reste des ordres de l'equipe&s<0004 <FF03 "
+    "texte_fr": "Entrez le reste des ordres de l'equipe&s<0004><FF03>"
   },
   {
     "id": 17,
@@ -141,7 +141,7 @@
     "data_size": 88,
     "slot_size": 88,
     "texte_orig": "Continue[SP]setting[SP]Fusion[SP]Spell<FF03>combinations<0008><FF03>",
-    "texte_fr": "Continuer réglage combos fusion<0008 <FF03 "
+    "texte_fr": "Continuer réglage combos fusion<0008><FF03>"
   },
   {
     "id": 18,
@@ -149,7 +149,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Proceed<0008><FF03>",
-    "texte_fr": "Suivre<0008 <FF03 "
+    "texte_fr": "Suivre<0008><FF03>"
   },
   {
     "id": 19,
@@ -157,7 +157,7 @@
     "data_size": 36,
     "slot_size": 36,
     "texte_orig": "Beginning[SP]battle<0004><FF03>",
-    "texte_fr": "Debut combat<0004 <FF03 "
+    "texte_fr": "Debut combat<0004><FF03>"
   },
   {
     "id": 20,
@@ -165,7 +165,7 @@
     "data_size": 34,
     "slot_size": 34,
     "texte_orig": "points[SP]remaining<FF03>",
-    "texte_fr": "Debut combat<0004 <FF03 "
+    "texte_fr": "Debut combat<0004><FF03>"
   },
   {
     "id": 21,
@@ -173,7 +173,7 @@
     "data_size": 38,
     "slot_size": 38,
     "texte_orig": "Distribute[SP]points<0004><FF03>",
-    "texte_fr": "Repartir points<0004 <FF03 "
+    "texte_fr": "Repartir points<0004><FF03>"
   },
   {
     "id": 22,
@@ -181,7 +181,7 @@
     "data_size": 38,
     "slot_size": 38,
     "texte_orig": "Distribute[SP]points<0004><FF03>",
-    "texte_fr": "Repartir points<0004 <FF03 "
+    "texte_fr": "Repartir points<0004><FF03>"
   },
   {
     "id": 23,
@@ -189,7 +189,7 @@
     "data_size": 48,
     "slot_size": 48,
     "texte_orig": "Obtained[SP]the[SP]following<0006><FF03>",
-    "texte_fr": "Obtenus<0006 <FF03 "
+    "texte_fr": "Obtenus<0006><FF03>"
   },
   {
     "id": 24,
@@ -197,7 +197,7 @@
     "data_size": 34,
     "slot_size": 34,
     "texte_orig": "Select[SP]a[SP]target<0004><FF03>",
-    "texte_fr": "Chois. une cible<0004 <FF03 "
+    "texte_fr": "Chois. une cible<0004><FF03>"
   },
   {
     "id": 25,
@@ -205,7 +205,7 @@
     "data_size": 270,
     "slot_size": 270,
     "texte_orig": "Some[SP]can[SP]become[SP]a[SP]different[SP]Persona[SP]entirely<FF03>by[SP]selecting[SP](Mutation([SP]in[SP]the[SP]Velvet[SP]Room<0004><FF03>A[SP]few[SP]Personas[SP]can[SP]only[SP]be[SP]obtained[SP]this[SP]way<0004><FF03>",
-    "texte_fr": "Certains Personae peuvent métamorphoser<FF03 en sélectionnant(Mutation(dans la Velvet Room.<0004 <FF03 Certains ne peuvent être obtenus qu'ainsi<0004 <FF03 "
+    "texte_fr": "Certains Personae peuvent métamorphoser<FF03> en sélectionnant(Mutation(dans la Velvet Room.<0004><FF03> Certains ne peuvent être obtenus qu'ainsi<0004><FF03>"
   },
   {
     "id": 26,
@@ -213,7 +213,7 @@
     "data_size": 262,
     "slot_size": 262,
     "texte_orig": "How[SP]the[SP]Persona[SP]grows[SP]depends[SP]on[SP]its[SP]rank<0004><FF03>The[SP]higher[SP]its[SP]rank[SP]at[SP]the[SP]time[SP]of[SP]mutation<0003><FF03>the[SP]likelier[SP]a[SP]rare[SP]or[SP]useful[SP]mutation[SP]is<0004><FF03>",
-    "texte_fr": "Les Personae mutent en fonction de leurs rangs<0004 <FF03 Plus son rang est haut<0004 <FF03 plus il y a de chance qu'il s'agisse d'une bonne mutation<0004 <FF03 "
+    "texte_fr": "Les Personae mutent en fonction de leurs rangs<0004><FF03> Plus son rang est haut<0004><FF03> plus il y a de chance qu'il s'agisse d'une bonne mutation<0004><FF03>"
   },
   {
     "id": 27,
@@ -221,7 +221,7 @@
     "data_size": 304,
     "slot_size": 304,
     "texte_orig": "About[SP]Mutations<0006><FF03>Mutation[SP]is[SP]a[SP]type[SP]of[SP]Persona[SP]growth[SP]that<FF03>happens[SP]sometimes[SP]after[SP]Fusion[SP]Spells<0004>[SP]The[SP]better<FF03>your[SP]compatibility<0003>[SP]the[SP]likelier[SP]they[SP]are<0004><FF03>",
-    "texte_fr": "Les Mutations<0006 <FF03 sont un type d'évolution de Persona<FF03 qui peut survenir après des sorts fusion<0004  Plus<FF03 ta compatibilité est bonne<0003  meilleures elles seront<0004 <FF03 "
+    "texte_fr": "Les Mutations<0006><FF03> sont un type d'évolution de Persona<FF03> qui peut survenir après des sorts fusion<0004> Plus<FF03> ta compatibilité est bonne<0003> meilleures elles seront<0004><FF03>"
   },
   {
     "id": 28,
@@ -229,7 +229,7 @@
     "data_size": 108,
     "slot_size": 108,
     "texte_orig": "Persona[SP]is[SP]sealed<0003>[SP]preventing<FF03>skills[SP]from[SP]being[SP]used<0004><FF03>",
-    "texte_fr": "Persona scellé<0003 empêchant<FF03 l'utilisation de capacités<0004 <FF03 "
+    "texte_fr": "Persona scellé<0003> empêchant<FF03> l'utilisation de capacités<0004><FF03>"
   },
   {
     "id": 29,
@@ -237,7 +237,7 @@
     "data_size": 22,
     "slot_size": 22,
     "texte_orig": "Holy[SP]Lance<FF03>",
-    "texte_fr": "Lance sainte<FF03 "
+    "texte_fr": "Lance sainte<FF03>"
   },
   {
     "id": 30,
@@ -245,7 +245,7 @@
     "data_size": 52,
     "slot_size": 52,
     "texte_orig": "Frozen[SP]and[SP]unable[SP]to[SP]act<0004><FF03>",
-    "texte_fr": "Gelé, impossible d'agir<0004 <FF03 "
+    "texte_fr": "Gelé, impossible d'agir<0004><FF03>"
   },
   {
     "id": 31,
@@ -253,7 +253,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Freeze<FF03>",
-    "texte_fr": "Gel<FF03 "
+    "texte_fr": "Gel<FF03>"
   },
   {
     "id": 32,
@@ -261,7 +261,7 @@
     "data_size": 64,
     "slot_size": 64,
     "texte_orig": "Electrocuted[SP]and[SP]unable[SP]to[SP]act<0004><FF03>",
-    "texte_fr": "Électrocuté, impossible d'agir<0004 <FF03 "
+    "texte_fr": "Électrocuté, impossible d'agir<0004><FF03>"
   },
   {
     "id": 33,
@@ -269,7 +269,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Shock<FF03>",
-    "texte_fr": "Choc<FF03 "
+    "texte_fr": "Choc<FF03>"
   },
   {
     "id": 34,
@@ -277,7 +277,7 @@
     "data_size": 96,
     "slot_size": 96,
     "texte_orig": "Bewildered[SP]by[SP]illusions<0004>[SP]Aim<FF03>greatly[SP]decreased<0004><FF03>",
-    "texte_fr": "Sous illusion<0004  Précision<FF03  grandement réduite<0004 <FF03 "
+    "texte_fr": "Sous illusion<0004> Précision<FF03> grandement réduite<0004><FF03>"
   },
   {
     "id": 35,
@@ -285,7 +285,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Illusion<FF03>",
-    "texte_fr": "Illusion<FF03 "
+    "texte_fr": "Illusion<FF03>"
   },
   {
     "id": 36,
@@ -293,7 +293,7 @@
     "data_size": 96,
     "slot_size": 96,
     "texte_orig": "Uncontrolled[SP]rage[SP]allows[SP]only<FF03>standard[SP]attacks<0004><FF03>",
-    "texte_fr": "La rage n'autorise que<FF03  les attaq. standards<0004 <FF03 "
+    "texte_fr": "La rage n'autorise que<FF03> les attaq. standards<0004><FF03>"
   },
   {
     "id": 37,
@@ -301,7 +301,7 @@
     "data_size": 96,
     "slot_size": 96,
     "texte_orig": "Uncontrolled[SP]rage[SP]allows[SP]only<FF03>standard[SP]attacks<0004><FF03>",
-    "texte_fr": "La rage n'autorise que<FF03  les attaq. standards<0004 <FF03 "
+    "texte_fr": "La rage n'autorise que<FF03> les attaq. standards<0004><FF03>"
   },
   {
     "id": 38,
@@ -309,7 +309,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Fury<FF03>",
-    "texte_fr": "Rage<FF03 "
+    "texte_fr": "Rage<FF03>"
   },
   {
     "id": 39,
@@ -317,7 +317,7 @@
     "data_size": 80,
     "slot_size": 80,
     "texte_orig": "Asleep[SP]and[SP]cannot[SP]act[SP]or<FF03>dodge[SP]attacks<0004><FF03>",
-    "texte_fr": "Endormi, ne peut ni agir<FF03 ni esquiver<0004 <FF03 "
+    "texte_fr": "Endormi, ne peut ni agir<FF03> ni esquiver<0004><FF03>"
   },
   {
     "id": 40,
@@ -325,7 +325,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Sleep<FF03>",
-    "texte_fr": "Repos<FF03 "
+    "texte_fr": "Repos<FF03>"
   },
   {
     "id": 41,
@@ -333,7 +333,7 @@
     "data_size": 74,
     "slot_size": 74,
     "texte_orig": "Poisoned<0004>[SP]HP[SP]will[SP]steadily<FF03>decrease<0004><FF03>",
-    "texte_fr": "Empoisonné,<0004  perte de PV<FF03 graduelle<0004 <FF03 "
+    "texte_fr": "Empoisonné,<0004> perte de PV<FF03> graduelle<0004><FF03>"
   },
   {
     "id": 42,
@@ -341,7 +341,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Poison<FF03>",
-    "texte_fr": "Poison<FF03 "
+    "texte_fr": "Poison<FF03>"
   },
   {
     "id": 43,
@@ -349,7 +349,7 @@
     "data_size": 38,
     "slot_size": 38,
     "texte_orig": "Skills[SP]are[SP]sealed<0004><FF03>",
-    "texte_fr": "Capacit. bloquées<0004 <FF03 "
+    "texte_fr": "Capacit. bloquées<0004><FF03>"
   },
   {
     "id": 44,
@@ -357,7 +357,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Mute<FF03>",
-    "texte_fr": "Muet<FF03 "
+    "texte_fr": "Muet<FF03>"
   },
   {
     "id": 45,
@@ -365,7 +365,7 @@
     "data_size": 76,
     "slot_size": 76,
     "texte_orig": "Panicking[SP]and[SP]will[SP]act<FF03>unpredictably<0004><FF03>",
-    "texte_fr": "Affolé, agis<FF03 de manière imprévisible<0004 <FF03 "
+    "texte_fr": "Affolé, agis<FF03> de manière imprévisible<0004><FF03>"
   },
   {
     "id": 46,
@@ -373,7 +373,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Panic<FF03>",
-    "texte_fr": "Effroi<FF03 "
+    "texte_fr": "Effroi<FF03>"
   },
   {
     "id": 47,
@@ -381,7 +381,7 @@
     "data_size": 90,
     "slot_size": 90,
     "texte_orig": "Swayed[SP]by[SP]the[SP]enemy<0004>[SP]Will[SP]attack<FF03>own[SP]allies<0004><FF03>",
-    "texte_fr": "Rallié à l'ennemi<0004 S'attaquera au<FF03 groupe<0004 <FF03 "
+    "texte_fr": "Rallié à l'ennemi<0004> S'attaquera au<FF03> groupe<0004><FF03>"
   },
   {
     "id": 48,
@@ -389,7 +389,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Charm<FF03>",
-    "texte_fr": "Charm<FF03 "
+    "texte_fr": "Charm<FF03>"
   },
   {
     "id": 49,
@@ -397,7 +397,7 @@
     "data_size": 134,
     "slot_size": 134,
     "texte_orig": "Possessed[SP]by[SP]a[SP]demon<0004>[SP]Possessing<FF03>demon&s[SP]skills[SP]activate[SP]randomly<0004><FF03>",
-    "texte_fr": "Possédé par un démon,<0004  ses capacités<FF03 s'activeront au hasard<0004 <FF03 "
+    "texte_fr": "Possédé par un démon,<0004> ses capacités<FF03> s'activeront au hasard<0004><FF03>"
   },
   {
     "id": 50,
@@ -405,7 +405,7 @@
     "data_size": 20,
     "slot_size": 20,
     "texte_orig": "Possessed<FF03>",
-    "texte_fr": "Possédé<FF03 "
+    "texte_fr": "Possédé<FF03>"
   },
   {
     "id": 51,
@@ -413,7 +413,7 @@
     "data_size": 48,
     "slot_size": 48,
     "texte_orig": "Demon[SP]has[SP]gone[SP]berserk<0004><FF03>",
-    "texte_fr": "Le démon est devenu furieux<0004 <FF03 "
+    "texte_fr": "Le démon est devenu furieux<0004><FF03>"
   },
   {
     "id": 52,
@@ -421,7 +421,7 @@
     "data_size": 96,
     "slot_size": 96,
     "texte_orig": "Persona[SP]is[SP]uncontrollable<0004><FF03>Cannot[SP]be[SP]commanded<0004><FF03>",
-    "texte_fr": "Ce Persona est incontrôlable<0004 <FF03 Non commandable<0004 <FF03 "
+    "texte_fr": "Ce Persona est incontrôlable<0004><FF03> Non commandable<0004><FF03>"
   },
   {
     "id": 53,
@@ -429,7 +429,7 @@
     "data_size": 16,
     "slot_size": 16,
     "texte_orig": "Berserk<FF03>",
-    "texte_fr": "Furie<FF03 "
+    "texte_fr": "Furie<FF03>"
   },
   {
     "id": 54,
@@ -437,7 +437,7 @@
     "data_size": 62,
     "slot_size": 62,
     "texte_orig": "Unable[SP]to[SP]perform[SP]any[SP]actions<0004><FF03>",
-    "texte_fr": "Impossible d'agir<0004 <FF03 "
+    "texte_fr": "Impossible d'agir<0004><FF03>"
   },
   {
     "id": 55,
@@ -445,7 +445,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Dying<FF03>",
-    "texte_fr": "Agonie<FF03 "
+    "texte_fr": "Agonie<FF03>"
   },
   {
     "id": 56,
@@ -453,7 +453,7 @@
     "data_size": 34,
     "slot_size": 34,
     "texte_orig": "Nothing[SP]unusual<0004><FF03>",
-    "texte_fr": "Rien d'anormal<0004 <FF03 "
+    "texte_fr": "Rien d'anormal<0004><FF03>"
   },
   {
     "id": 57,
@@ -461,7 +461,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Normal<FF03>",
-    "texte_fr": "Normal<FF03 "
+    "texte_fr": "Normal<FF03>"
   },
   {
     "id": 58,
@@ -469,7 +469,7 @@
     "data_size": 32,
     "slot_size": 32,
     "texte_orig": "Enemy[SP]condition<FF03>",
-    "texte_fr": "Statut ennemi<FF03 "
+    "texte_fr": "Statut ennemi<FF03>"
   },
   {
     "id": 59,
@@ -477,7 +477,7 @@
     "data_size": 32,
     "slot_size": 32,
     "texte_orig": "Party[SP]condition<FF03>",
-    "texte_fr": "Statut allié<FF03 "
+    "texte_fr": "Statut allié<FF03>"
   },
   {
     "id": 60,
@@ -485,7 +485,7 @@
     "data_size": 46,
     "slot_size": 46,
     "texte_orig": "Demon[SP]information[SP]file<FF03>",
-    "texte_fr": "Fiche d'info du demon<FF03 "
+    "texte_fr": "Fiche d'info du demon<FF03>"
   },
   {
     "id": 61,
@@ -493,7 +493,7 @@
     "data_size": 84,
     "slot_size": 84,
     "texte_orig": "Standard[SP]attack[SP]with[SP]the[SP]equipped[SP]weapon<0004><FF03>",
-    "texte_fr": "Attaq. standard utilisant l'arme équipée<0004 <FF03 "
+    "texte_fr": "Attaq. standard utilisant l'arme équipée<0004><FF03>"
   },
   {
     "id": 62,
@@ -501,7 +501,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Attack<FF03>",
-    "texte_fr": "Attaq.<FF03 "
+    "texte_fr": "Attaq.<FF03>"
   },
   {
     "id": 63,
@@ -509,7 +509,7 @@
     "data_size": 70,
     "slot_size": 70,
     "texte_orig": "Performs[SP]the[SP]last[SP]selected[SP]action<0004><FF03>",
-    "texte_fr": "Refait la dernière action<0004 <FF03 "
+    "texte_fr": "Refait la dernière action<0004><FF03>"
   },
   {
     "id": 64,
@@ -517,7 +517,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Replay<FF03>",
-    "texte_fr": "Rejouer<FF03 "
+    "texte_fr": "Rejouer<FF03>"
   },
   {
     "id": 65,
@@ -525,7 +525,7 @@
     "data_size": 62,
     "slot_size": 62,
     "texte_orig": "It[SP]is[SP]in[SP]no[SP]condition[SP]to[SP]talk<0004><FF03>",
-    "texte_fr": "Pas en état pour parler<0004 <FF03 "
+    "texte_fr": "Pas en état pour parler<0004><FF03>"
   },
   {
     "id": 66,
@@ -533,7 +533,7 @@
     "data_size": 66,
     "slot_size": 66,
     "texte_orig": "It[SP]is[SP]in[SP]no[SP]condition[SP]to[SP]answer<0004><FF03>",
-    "texte_fr": "Pas en état pour répondre<0004 <FF03 "
+    "texte_fr": "Pas en état pour répondre<0004><FF03>"
   },
   {
     "id": 67,
@@ -541,7 +541,7 @@
     "data_size": 56,
     "slot_size": 56,
     "texte_orig": "Select[SP]a[SP]method[SP]of[SP]contact<0004><FF03>",
-    "texte_fr": "Chois. méthode de contact<0004 <FF03 "
+    "texte_fr": "Chois. méthode de contact<0004><FF03>"
   },
   {
     "id": 68,
@@ -549,7 +549,7 @@
     "data_size": 74,
     "slot_size": 74,
     "texte_orig": "Confirm[SP]or[SP]select[SP]another[SP]character<0004><FF03>",
-    "texte_fr": "Confirm. ou chois. un autre membre<0004 <FF03 "
+    "texte_fr": "Confirm. ou chois. un autre membre<0004><FF03>"
   },
   {
     "id": 69,
@@ -557,7 +557,7 @@
     "data_size": 60,
     "slot_size": 60,
     "texte_orig": "Select[SP]who[SP]will[SP]make[SP]contact<0004><FF03>",
-    "texte_fr": "Chois. qui va faire le contact<0004 <FF03 "
+    "texte_fr": "Chois. qui va faire le contact<0004><FF03>"
   },
   {
     "id": 70,
@@ -565,7 +565,7 @@
     "data_size": 34,
     "slot_size": 34,
     "texte_orig": "Select[SP]a[SP]target<0004><FF03>",
-    "texte_fr": "Chois. une cible<0004 <FF03 "
+    "texte_fr": "Chois. une cible<0004><FF03>"
   },
   {
     "id": 71,
@@ -581,7 +581,7 @@
     "data_size": 26,
     "slot_size": 26,
     "texte_orig": "Undo[SP]changes<FF03>",
-    "texte_fr": "Annul. modif<FF03 "
+    "texte_fr": "Annul. modif<FF03>"
   },
   {
     "id": 73,
@@ -589,7 +589,7 @@
     "data_size": 56,
     "slot_size": 56,
     "texte_orig": "Select[SP]turn[SP]order[SP]position<0004><FF03>",
-    "texte_fr": "Choisis l'ordre de passage<0004 <FF03 "
+    "texte_fr": "Choisis l'ordre de passage<0004><FF03>"
   },
   {
     "id": 74,
@@ -597,7 +597,7 @@
     "data_size": 60,
     "slot_size": 60,
     "texte_orig": "Select[SP]a[SP]character[SP]to[SP]change<0004><FF03>",
-    "texte_fr": "Choisis un perso. à changer<0004 <FF03 "
+    "texte_fr": "Choisis un perso. à changer<0004><FF03>"
   },
   {
     "id": 75,
@@ -621,7 +621,7 @@
     "data_size": 46,
     "slot_size": 46,
     "texte_orig": "Activate[SP]fusion[SP]spell<0008><FF03>",
-    "texte_fr": "Activ. un sort fusion<0008 <FF03 "
+    "texte_fr": "Activ. un sort fusion<0008><FF03>"
   },
   {
     "id": 78,
@@ -629,7 +629,7 @@
     "data_size": 42,
     "slot_size": 42,
     "texte_orig": "No[SP]Persona[SP]selected<0004><FF03>",
-    "texte_fr": "Chois. un Persona<0004 <FF03 "
+    "texte_fr": "Chois. un Persona<0004><FF03>"
   },
   {
     "id": 79,
@@ -653,7 +653,7 @@
     "data_size": 46,
     "slot_size": 46,
     "texte_orig": "Select[SP]a[SP]fusion[SP]spell<0004><FF03>",
-    "texte_fr": "Chois. un sort fusion<0004 <FF03 "
+    "texte_fr": "Chois. un sort fusion<0004><FF03>"
   },
   {
     "id": 82,
@@ -669,7 +669,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Attack<FF03>",
-    "texte_fr": "Attaq.<FF03 "
+    "texte_fr": "Attaq.<FF03>"
   },
   {
     "id": 84,
@@ -685,7 +685,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Guard<FF03>",
-    "texte_fr": "Garde<FF03 "
+    "texte_fr": "Garde<FF03>"
   },
   {
     "id": 86,
@@ -693,7 +693,7 @@
     "data_size": 40,
     "slot_size": 40,
     "texte_orig": "View[SP]party[SP]details<0004><FF03>",
-    "texte_fr": "Voir le statut grp<0004 <FF03 "
+    "texte_fr": "Voir le statut grp<0004><FF03>"
   },
   {
     "id": 87,
@@ -701,7 +701,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Status<FF03>",
-    "texte_fr": "Status<FF03 "
+    "texte_fr": "Status<FF03>"
   },
   {
     "id": 88,
@@ -709,7 +709,7 @@
     "data_size": 58,
     "slot_size": 58,
     "texte_orig": "Adjust[SP]the[SP]turn[SP]order[SP]queue<0004><FF03>",
-    "texte_fr": "Ajuster l'ordre de passage<0004 <FF03 "
+    "texte_fr": "Ajuster l'ordre de passage<0004><FF03>"
   },
   {
     "id": 89,
@@ -717,7 +717,7 @@
     "data_size": 30,
     "slot_size": 30,
     "texte_orig": "Set[SP]Turn[SP]Order<FF03>",
-    "texte_fr": "Régler l'ordre<FF03 "
+    "texte_fr": "Régler l'ordre<FF03>"
   },
   {
     "id": 90,
@@ -725,7 +725,7 @@
     "data_size": 34,
     "slot_size": 34,
     "texte_orig": "Change[SP]Personas<0004><FF03>",
-    "texte_fr": "Chang. Personae<0004 <FF03 "
+    "texte_fr": "Chang. Personae<0004><FF03>"
   },
   {
     "id": 91,
@@ -733,7 +733,7 @@
     "data_size": 16,
     "slot_size": 16,
     "texte_orig": "Persona<FF03>",
-    "texte_fr": "Persona<FF03 "
+    "texte_fr": "Persona<FF03>"
   },
   {
     "id": 92,
@@ -749,7 +749,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Item<FF03>",
-    "texte_fr": "Obj.<FF03 "
+    "texte_fr": "Obj.<FF03>"
   },
   {
     "id": 94,
@@ -765,7 +765,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Skill<FF03>",
-    "texte_fr": "Comp.<FF03 "
+    "texte_fr": "Comp.<FF03>"
   },
   {
     "id": 96,
@@ -773,7 +773,7 @@
     "data_size": 66,
     "slot_size": 66,
     "texte_orig": "Attack[SP]with[SP]the[SP]equipped[SP]weapon<0004><FF03>",
-    "texte_fr": "Attaq. avec l'arme équipée<0004 <FF03 "
+    "texte_fr": "Attaq. avec l'arme équipée<0004><FF03>"
   },
   {
     "id": 97,
@@ -781,7 +781,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Attack<FF03>",
-    "texte_fr": "Attaq.<FF03 "
+    "texte_fr": "Attaq.<FF03>"
   },
   {
     "id": 98,
@@ -789,7 +789,7 @@
     "data_size": 58,
     "slot_size": 58,
     "texte_orig": "Attempt[SP]to[SP]flee[SP]from[SP]battle<0004><FF03>",
-    "texte_fr": "Essayer de fuir du combat<0004 <FF03 "
+    "texte_fr": "Essayer de fuir du combat<0004><FF03>"
   },
   {
     "id": 99,
@@ -797,7 +797,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Escape<FF03>",
-    "texte_fr": "Fuir<FF03 "
+    "texte_fr": "Fuir<FF03>"
   },
   {
     "id": 100,
@@ -821,7 +821,7 @@
     "data_size": 48,
     "slot_size": 48,
     "texte_orig": "View[SP]enemy[SP]information<0004><FF03>",
-    "texte_fr": "Montrer infos ennemies<0004 <FF03 "
+    "texte_fr": "Montrer infos ennemies<0004><FF03>"
   },
   {
     "id": 103,
@@ -829,7 +829,7 @@
     "data_size": 16,
     "slot_size": 16,
     "texte_orig": "Analyze<FF03>",
-    "texte_fr": "Analys.<FF03 "
+    "texte_fr": "Analys.<FF03>"
   },
   {
     "id": 104,
@@ -853,7 +853,7 @@
     "data_size": 58,
     "slot_size": 58,
     "texte_orig": "Adjust[SP]the[SP]turn[SP]order[SP]queue<0004><FF03>",
-    "texte_fr": "Ajuster l'ordre de passage<0004 <FF03 "
+    "texte_fr": "Ajuster l'ordre de passage<0004><FF03>"
   },
   {
     "id": 107,
@@ -877,7 +877,7 @@
     "data_size": 28,
     "slot_size": 28,
     "texte_orig": "Fusion[SP]Spells<FF03>",
-    "texte_fr": "Sort Fusion<FF03 "
+    "texte_fr": "Sort Fusion<FF03>"
   },
   {
     "id": 110,
@@ -885,7 +885,7 @@
     "data_size": 74,
     "slot_size": 74,
     "texte_orig": "Each[SP]character[SP]attacks[SP]individually<0004><FF03>",
-    "texte_fr": "Chaque personnage attaq. seul<0004 <FF03 "
+    "texte_fr": "Chaque personnage attaq. seul<0004><FF03>"
   },
   {
     "id": 111,
@@ -933,7 +933,7 @@
     "data_size": 36,
     "slot_size": 36,
     "texte_orig": "Install[SP]game[SP]data<0004>",
-    "texte_fr": "Téléch. données<0004 "
+    "texte_fr": "Téléch. données<0004>"
   },
   {
     "id": 117,
@@ -941,7 +941,7 @@
     "data_size": 48,
     "slot_size": 48,
     "texte_orig": "Adjust[SP]various[SP]settings<0004>",
-    "texte_fr": "Changer les paramètres<0004 "
+    "texte_fr": "Changer les paramètres<0004>"
   },
   {
     "id": 118,
@@ -965,7 +965,7 @@
     "data_size": 44,
     "slot_size": 44,
     "texte_orig": "Continue[SP]a[SP]saved[SP]game<0004>",
-    "texte_fr": "Continuer<0004 "
+    "texte_fr": "Continuer<0004>"
   },
   {
     "id": 121,
@@ -973,7 +973,7 @@
     "data_size": 30,
     "slot_size": 30,
     "texte_orig": "Begin[SP]new[SP]game<0004>",
-    "texte_fr": "Nouvelle part.<0004 "
+    "texte_fr": "Nouvelle part.<0004>"
   },
   {
     "id": 122,
@@ -981,7 +981,7 @@
     "data_size": 62,
     "slot_size": 62,
     "texte_orig": "Would[SP]you[SP]like[SP]to[SP]overwrite[SP]it<0008>",
-    "texte_fr": "Souhaitez-vous l'écraser<0008 "
+    "texte_fr": "Souhaitez-vous l'écraser<0008>"
   },
   {
     "id": 123,
@@ -989,7 +989,7 @@
     "data_size": 60,
     "slot_size": 60,
     "texte_orig": "Installed[SP]data[SP]already[SP]exists<0004>",
-    "texte_fr": "Installation déjà existante<0004 "
+    "texte_fr": "Installation déjà existante<0004>"
   },
   {
     "id": 124,
@@ -1013,7 +1013,7 @@
     "data_size": 62,
     "slot_size": 62,
     "texte_orig": "Would[SP]you[SP]like[SP]to[SP]install[SP]data<0008>",
-    "texte_fr": "Installer les données<0008 "
+    "texte_fr": "Installer les données<0008>"
   },
   {
     "id": 127,
@@ -1021,7 +1021,7 @@
     "data_size": 76,
     "slot_size": 76,
     "texte_orig": "You[SP]need[SP]at[SP]least[SP]247MB[SP]of[SP]free[SP]space<0004>",
-    "texte_fr": "Libérez au moins 247 Mo<0004 "
+    "texte_fr": "Libérez au moins 247 Mo<0004>"
   },
   {
     "id": 128,
@@ -1029,7 +1029,7 @@
     "data_size": 86,
     "slot_size": 86,
     "texte_orig": "sleep[SP]mode[SP]during[SP]the[SP]installation[SP]process<0004>",
-    "texte_fr": "veille pendant l'installation<0004 "
+    "texte_fr": "veille pendant l'installation<0004>"
   },
   {
     "id": 129,
@@ -1045,7 +1045,7 @@
     "data_size": 82,
     "slot_size": 82,
     "texte_orig": "Do[SP]not[SP]remove[SP]the[SP]Memory[SP]Stick<04B1><0003>[SP]turn[SP]off",
-    "texte_fr": "Ne retirez pas la carte mém.<04B1 <0003  éteindre"
+    "texte_fr": "Ne retirez pas la carte mém.<04B1><0003>éteindre"
   },
   {
     "id": 131,
@@ -1053,7 +1053,7 @@
     "data_size": 72,
     "slot_size": 72,
     "texte_orig": "Data[SP]installation[SP]takes[SP]1<5[SP]minutes<0004>",
-    "texte_fr": "L'installation prends 1<5 minutes<0004 "
+    "texte_fr": "L'installation prends 1<5 minutes<0004>"
   },
   {
     "id": 132,
@@ -1093,7 +1093,7 @@
     "data_size": 98,
     "slot_size": 98,
     "texte_orig": "Installing[SP]data<0004><FF03>Do[SP]not[SP]remove[SP]the[SP]Memory[SP]Stick<04B1><0004>",
-    "texte_fr": "Installation<0004 <FF03 Ne retirez pas la carte mem.<04B1 <0004 "
+    "texte_fr": "Installation<0004><FF03> Ne retirez pas la carte mem.<04B1><0004>"
   },
   {
     "id": 137,
@@ -1101,7 +1101,7 @@
     "data_size": 38,
     "slot_size": 38,
     "texte_orig": "System[SP]data[SP]loaded<0004>",
-    "texte_fr": "Données chargées<0004 "
+    "texte_fr": "Données chargées<0004>"
   },
   {
     "id": 138,
@@ -1109,7 +1109,7 @@
     "data_size": 350,
     "slot_size": 350,
     "texte_orig": "This[SP]game[SP]has[SP]an[SP]autosave[SP]function<0004>[SP]When[SP]an<FF03>autosave[SP]is[SP]in[SP]progress<0003>[SP]the[SP]Memory[SP]Stick<04B1><FF03>light[SP]will[SP]flicker<0004>[SP]Do[SP]not[SP]remove[SP]the[SP]Memory<FF03>Stick<04B1>[SP]or[SP]turn[SP]off[SP]the[SP]system[SP]at[SP]this[SP]time<0004>",
-    "texte_fr": "Ce jeu sauvegarde automatiquement<0004  Lors<FF03  de celle-ci<0003  la LED de la carte mémoire<04B1 <FF03  va scintiller<0004  Ne retirez pas la carte<FF03 mémoire<04B1  et n'éteignez pas la console<0004 "
+    "texte_fr": "Ce jeu sauvegarde automatiquement<0004> Lors<FF03> de celle-ci<0003> la LED de la carte mémoire<04B1><FF03> va scintiller<0004> Ne retirez pas la carte<FF03> mémoire<04B1> et n'éteignez pas la console<0004>"
   },
   {
     "id": 139,
@@ -1341,7 +1341,7 @@
     "data_size": 20,
     "slot_size": 20,
     "texte_orig": "Mr<0004>[SP]Bunbun",
-    "texte_fr": "M<0004  Lapinou"
+    "texte_fr": "M<0004> Lapinou"
   },
   {
     "id": 168,
@@ -1373,7 +1373,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Ms<0004>[SP]Reiko",
-    "texte_fr": "Ms<0004  Reiko"
+    "texte_fr": "Ms<0004> Reiko"
   },
   {
     "id": 172,
@@ -3021,7 +3021,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE31<FF03>",
-    "texte_fr": "SE31<FF03 "
+    "texte_fr": "SE31<FF03>"
   },
   {
     "id": 378,
@@ -3029,7 +3029,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE30<FF03>",
-    "texte_fr": "SE30<FF03 "
+    "texte_fr": "SE30<FF03>"
   },
   {
     "id": 379,
@@ -3037,7 +3037,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE29<FF03>",
-    "texte_fr": "SE29<FF03 "
+    "texte_fr": "SE29<FF03>"
   },
   {
     "id": 380,
@@ -3045,7 +3045,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE28<FF03>",
-    "texte_fr": "SE28<FF03 "
+    "texte_fr": "SE28<FF03>"
   },
   {
     "id": 381,
@@ -3053,7 +3053,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE27<FF03>",
-    "texte_fr": "SE27<FF03 "
+    "texte_fr": "SE27<FF03>"
   },
   {
     "id": 382,
@@ -3061,7 +3061,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE26<FF03>",
-    "texte_fr": "SE26<FF03 "
+    "texte_fr": "SE26<FF03>"
   },
   {
     "id": 383,
@@ -3069,7 +3069,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE25<FF03>",
-    "texte_fr": "SE25<FF03 "
+    "texte_fr": "SE25<FF03>"
   },
   {
     "id": 384,
@@ -3077,7 +3077,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE24<FF03>",
-    "texte_fr": "SE24<FF03 "
+    "texte_fr": "SE24<FF03>"
   },
   {
     "id": 385,
@@ -3085,7 +3085,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE23<FF03>",
-    "texte_fr": "SE23<FF03 "
+    "texte_fr": "SE23<FF03>"
   },
   {
     "id": 386,
@@ -3093,7 +3093,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE22<FF03>",
-    "texte_fr": "SE22<FF03 "
+    "texte_fr": "SE22<FF03>"
   },
   {
     "id": 387,
@@ -3101,7 +3101,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE21<FF03>",
-    "texte_fr": "SE21<FF03 "
+    "texte_fr": "SE21<FF03>"
   },
   {
     "id": 388,
@@ -3109,7 +3109,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE20<FF03>",
-    "texte_fr": "SE20<FF03 "
+    "texte_fr": "SE20<FF03>"
   },
   {
     "id": 389,
@@ -3117,7 +3117,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE19<FF03>",
-    "texte_fr": "SE19<FF03 "
+    "texte_fr": "SE19<FF03>"
   },
   {
     "id": 390,
@@ -3125,7 +3125,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE18<FF03>",
-    "texte_fr": "SE18<FF03 "
+    "texte_fr": "SE18<FF03>"
   },
   {
     "id": 391,
@@ -3133,7 +3133,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE17<FF03>",
-    "texte_fr": "SE17<FF03 "
+    "texte_fr": "SE17<FF03>"
   },
   {
     "id": 392,
@@ -3141,7 +3141,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE16<FF03>",
-    "texte_fr": "SE16<FF03 "
+    "texte_fr": "SE16<FF03>"
   },
   {
     "id": 393,
@@ -3149,7 +3149,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE15<FF03>",
-    "texte_fr": "SE15<FF03 "
+    "texte_fr": "SE15<FF03>"
   },
   {
     "id": 394,
@@ -3157,7 +3157,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE14<FF03>",
-    "texte_fr": "SE14<FF03 "
+    "texte_fr": "SE14<FF03>"
   },
   {
     "id": 395,
@@ -3165,7 +3165,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE13<FF03>",
-    "texte_fr": "SE13<FF03 "
+    "texte_fr": "SE13<FF03>"
   },
   {
     "id": 396,
@@ -3173,7 +3173,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE12<FF03>",
-    "texte_fr": "SE12<FF03 "
+    "texte_fr": "SE12<FF03>"
   },
   {
     "id": 397,
@@ -3181,7 +3181,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE11<FF03>",
-    "texte_fr": "SE11<FF03 "
+    "texte_fr": "SE11<FF03>"
   },
   {
     "id": 398,
@@ -3189,7 +3189,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE10<FF03>",
-    "texte_fr": "SE10<FF03 "
+    "texte_fr": "SE10<FF03>"
   },
   {
     "id": 399,
@@ -3197,7 +3197,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE09<FF03>",
-    "texte_fr": "SE09<FF03 "
+    "texte_fr": "SE09<FF03>"
   },
   {
     "id": 400,
@@ -3205,7 +3205,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE08<FF03>",
-    "texte_fr": "SE08<FF03 "
+    "texte_fr": "SE08<FF03>"
   },
   {
     "id": 401,
@@ -3213,7 +3213,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "SE07<FF03>",
-    "texte_fr": "SE07<FF03 "
+    "texte_fr": "SE07<FF03>"
   },
   {
     "id": 402,
@@ -3269,7 +3269,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Door<FF03>",
-    "texte_fr": "Porte<FF03 "
+    "texte_fr": "Porte<FF03>"
   },
   {
     "id": 409,
@@ -3277,7 +3277,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM31<FF03>",
-    "texte_fr": "BGM31<FF03 "
+    "texte_fr": "BGM31<FF03>"
   },
   {
     "id": 410,
@@ -3285,7 +3285,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM31<FF03>",
-    "texte_fr": "BGM31<FF03 "
+    "texte_fr": "BGM31<FF03>"
   },
   {
     "id": 411,
@@ -3293,7 +3293,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM31<FF03>",
-    "texte_fr": "BGM31<FF03 "
+    "texte_fr": "BGM31<FF03>"
   },
   {
     "id": 412,
@@ -3301,7 +3301,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM30<FF03>",
-    "texte_fr": "BGM30<FF03 "
+    "texte_fr": "BGM30<FF03>"
   },
   {
     "id": 413,
@@ -3309,7 +3309,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM29<FF03>",
-    "texte_fr": "BGM29<FF03 "
+    "texte_fr": "BGM29<FF03>"
   },
   {
     "id": 414,
@@ -3317,7 +3317,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM28<FF03>",
-    "texte_fr": "BGM28<FF03 "
+    "texte_fr": "BGM28<FF03>"
   },
   {
     "id": 415,
@@ -3325,7 +3325,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM27<FF03>",
-    "texte_fr": "BGM27<FF03 "
+    "texte_fr": "BGM27<FF03>"
   },
   {
     "id": 416,
@@ -3333,7 +3333,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM26<FF03>",
-    "texte_fr": "BGM26<FF03 "
+    "texte_fr": "BGM26<FF03>"
   },
   {
     "id": 417,
@@ -3341,7 +3341,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM25<FF03>",
-    "texte_fr": "BGM25<FF03 "
+    "texte_fr": "BGM25<FF03>"
   },
   {
     "id": 418,
@@ -3349,7 +3349,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM24<FF03>",
-    "texte_fr": "BGM24<FF03 "
+    "texte_fr": "BGM24<FF03>"
   },
   {
     "id": 419,
@@ -3357,7 +3357,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM23<FF03>",
-    "texte_fr": "BGM23<FF03 "
+    "texte_fr": "BGM23<FF03>"
   },
   {
     "id": 420,
@@ -3365,7 +3365,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM22<FF03>",
-    "texte_fr": "BGM22<FF03 "
+    "texte_fr": "BGM22<FF03>"
   },
   {
     "id": 421,
@@ -3373,7 +3373,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM21<FF03>",
-    "texte_fr": "BGM21<FF03 "
+    "texte_fr": "BGM21<FF03>"
   },
   {
     "id": 422,
@@ -3381,7 +3381,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM20<FF03>",
-    "texte_fr": "BGM20<FF03 "
+    "texte_fr": "BGM20<FF03>"
   },
   {
     "id": 423,
@@ -3389,7 +3389,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM19<FF03>",
-    "texte_fr": "BGM19<FF03 "
+    "texte_fr": "BGM19<FF03>"
   },
   {
     "id": 424,
@@ -3397,7 +3397,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM18<FF03>",
-    "texte_fr": "BGM18<FF03 "
+    "texte_fr": "BGM18<FF03>"
   },
   {
     "id": 425,
@@ -3405,7 +3405,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM17<FF03>",
-    "texte_fr": "BGM17<FF03 "
+    "texte_fr": "BGM17<FF03>"
   },
   {
     "id": 426,
@@ -3413,7 +3413,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM16<FF03>",
-    "texte_fr": "BGM16<FF03 "
+    "texte_fr": "BGM16<FF03>"
   },
   {
     "id": 427,
@@ -3421,7 +3421,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "BGM15<FF03>",
-    "texte_fr": "BGM15<FF03 "
+    "texte_fr": "BGM15<FF03>"
   },
   {
     "id": 428,
@@ -3477,7 +3477,7 @@
     "data_size": 46,
     "slot_size": 46,
     "texte_orig": "Karukozaka[SP]Netherworld<FF03>",
-    "texte_fr": "Enfer de Karukozaka<FF03 "
+    "texte_fr": "Enfer de Karukozaka<FF03>"
   },
   {
     "id": 435,
@@ -3485,7 +3485,7 @@
     "data_size": 36,
     "slot_size": 36,
     "texte_orig": "Karukozaka[SP]Normal<FF03>",
-    "texte_fr": "Surface de Karukozaka<FF03 "
+    "texte_fr": "Surface de Karukozaka<FF03>"
   },
   {
     "id": 436,
@@ -3493,7 +3493,7 @@
     "data_size": 50,
     "slot_size": 50,
     "texte_orig": "St<0004>[SP]Hermelin[SP]Netherworld<FF03>",
-    "texte_fr": "Enfer de St<0004  Hermlin<FF03 "
+    "texte_fr": "Enfer de St<0004> Hermlin<FF03>"
   },
   {
     "id": 437,
@@ -3501,7 +3501,7 @@
     "data_size": 40,
     "slot_size": 40,
     "texte_orig": "St<0004>[SP]Hermelin[SP]Normal<FF03>",
-    "texte_fr": "Surface de St<0004  Hermelin<FF03 "
+    "texte_fr": "Surface de St<0004> Hermelin<FF03>"
   },
   {
     "id": 438,
@@ -3509,7 +3509,7 @@
     "data_size": 22,
     "slot_size": 22,
     "texte_orig": "Boss[SP]Event<FF03>",
-    "texte_fr": "Évèn. Boss<FF03 "
+    "texte_fr": "Évèn. Boss<FF03>"
   },
   {
     "id": 439,
@@ -3517,7 +3517,7 @@
     "data_size": 24,
     "slot_size": 24,
     "texte_orig": "Boss[SP]Battle<FF03>",
-    "texte_fr": "Cmbt Boss<FF03 "
+    "texte_fr": "Cmbt Boss<FF03>"
   },
   {
     "id": 440,
@@ -3525,7 +3525,7 @@
     "data_size": 28,
     "slot_size": 28,
     "texte_orig": "Normal[SP]Battle<FF03>",
-    "texte_fr": "Cmbt Normal<FF03 "
+    "texte_fr": "Cmbt Normal<FF03>"
   },
   {
     "id": 441,
@@ -3533,7 +3533,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "None<FF03>",
-    "texte_fr": "Aucun<FF03 "
+    "texte_fr": "Aucun<FF03>"
   },
   {
     "id": 442,
@@ -3541,7 +3541,7 @@
     "data_size": 82,
     "slot_size": 82,
     "texte_orig": "Increases[SP]all[SP]of[SP]a[SP]Persona&s<FF03>stats[SP]by[SP]4<0004><FF03>",
-    "texte_fr": "Stats d'un Persona<FF03 augmentée par 4<0004 <FF03 "
+    "texte_fr": "Stats d'un Persona<FF03> augmentée par 4<0004><FF03>"
   },
   {
     "id": 443,
@@ -3549,7 +3549,7 @@
     "data_size": 76,
     "slot_size": 76,
     "texte_orig": "Increases[SP]a[SP]Persona&s[SP]Luck<FF03>stat[SP]by[SP]8<0004><FF03>",
-    "texte_fr": "Chance d'un Persona<FF03 augmentée par 8<0004 <FF03 "
+    "texte_fr": "Chance d'un Persona<FF03> augmentée par 8<0004><FF03>"
   },
   {
     "id": 444,
@@ -3557,7 +3557,7 @@
     "data_size": 82,
     "slot_size": 82,
     "texte_orig": "Increases[SP]a[SP]Persona&s[SP]Agility<FF03>stat[SP]by[SP]8<0004><FF03>",
-    "texte_fr": "Agilité d'un Persona<FF03 augmentée par 8<0004 <FF03 "
+    "texte_fr": "Agilité d'un Persona<FF03> augmentée par 8<0004><FF03>"
   },
   {
     "id": 445,
@@ -3565,7 +3565,7 @@
     "data_size": 86,
     "slot_size": 86,
     "texte_orig": "Increases[SP]a[SP]Persona&s[SP]Dexterity<FF03>stat[SP]by[SP]8<0004><FF03>",
-    "texte_fr": "Dextérité d'un Persona<FF03 augmentée par 8<0004 <FF03 "
+    "texte_fr": "Dextérité d'un Persona<FF03> augmentée par 8<0004><FF03>"
   },
   {
     "id": 446,
@@ -3573,7 +3573,7 @@
     "data_size": 84,
     "slot_size": 84,
     "texte_orig": "Increases[SP]a[SP]Persona&s[SP]Vitality<FF03>stat[SP]by[SP]8<0004><FF03>",
-    "texte_fr": "Vitalité d'un Persona<FF03 augmenté par 8<0004 <FF03 "
+    "texte_fr": "Vitalité d'un Persona<FF03> augmenté par 8<0004><FF03>"
   },
   {
     "id": 447,
@@ -3581,7 +3581,7 @@
     "data_size": 84,
     "slot_size": 84,
     "texte_orig": "Increases[SP]a[SP]Persona&s[SP]Strength<FF03>stat[SP]by[SP]8<0004><FF03>",
-    "texte_fr": "Force d'un Persona<FF03 augmenté par 8<0004 <FF03 "
+    "texte_fr": "Force d'un Persona<FF03> augmenté par 8<0004><FF03>"
   },
   {
     "id": 448,
@@ -4789,7 +4789,7 @@
     "data_size": 24,
     "slot_size": 24,
     "texte_orig": "Use[SP]an[SP]item<0004>",
-    "texte_fr": "Utilis. obj.<0004 "
+    "texte_fr": "Utilis. obj.<0004>"
   },
   {
     "id": 599,
@@ -4885,7 +4885,7 @@
     "data_size": 26,
     "slot_size": 26,
     "texte_orig": "Begin[SP]battle<0004>",
-    "texte_fr": "Début. combat<0004 "
+    "texte_fr": "Début. combat<0004>"
   },
   {
     "id": 611,
@@ -4893,7 +4893,7 @@
     "data_size": 48,
     "slot_size": 48,
     "texte_orig": "Adjust[SP]various[SP]settings<0004>",
-    "texte_fr": "Changer les paramètres<0004 "
+    "texte_fr": "Changer les paramètres<0004>"
   },
   {
     "id": 612,
@@ -4901,7 +4901,7 @@
     "data_size": 30,
     "slot_size": 30,
     "texte_orig": "Don&t[SP]activate<0004>",
-    "texte_fr": "Ne pas activ.<0004 "
+    "texte_fr": "Ne pas activ.<0004>"
   },
   {
     "id": 613,
@@ -4909,7 +4909,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Stand[SP]by<0004>",
-    "texte_fr": "Préparation<0004 "
+    "texte_fr": "Préparation<0004>"
   },
   {
     "id": 614,
@@ -4917,7 +4917,7 @@
     "data_size": 46,
     "slot_size": 46,
     "texte_orig": "Automatically[SP]activate<0004>",
-    "texte_fr": "Activation automatique<0004 "
+    "texte_fr": "Activation automatique<0004>"
   },
   {
     "id": 615,
@@ -4941,7 +4941,7 @@
     "data_size": 38,
     "slot_size": 38,
     "texte_orig": "Select[SP]battle[SP]mode<0004>",
-    "texte_fr": "Chois. mode de combat<0004 "
+    "texte_fr": "Chois. mode de combat<0004>"
   },
   {
     "id": 618,
@@ -4957,7 +4957,7 @@
     "data_size": 70,
     "slot_size": 70,
     "texte_orig": "Select[SP]a[SP]character[SP]to[SP]change[SP]order<0004>",
-    "texte_fr": "Chois. un membre pour changer ordre<0004 "
+    "texte_fr": "Chois. un membre pour changer ordre<0004>"
   },
   {
     "id": 620,
@@ -4965,7 +4965,7 @@
     "data_size": 40,
     "slot_size": 40,
     "texte_orig": "Distribute[SP]3[SP]points<0004>",
-    "texte_fr": "Distribue 3 points<0004 "
+    "texte_fr": "Distribue 3 points<0004>"
   },
   {
     "id": 621,
@@ -4981,7 +4981,7 @@
     "data_size": 54,
     "slot_size": 54,
     "texte_orig": "Select[SP]a[SP]Persona[SP]to[SP]change<0004>",
-    "texte_fr": "Chois. un Persona pour changer<0004 "
+    "texte_fr": "Chois. un Persona pour changer<0004>"
   },
   {
     "id": 623,
@@ -4989,7 +4989,7 @@
     "data_size": 44,
     "slot_size": 44,
     "texte_orig": "Select[SP]an[SP]item[SP]to[SP]use<0004>",
-    "texte_fr": "Chois. un obj.<0004 "
+    "texte_fr": "Chois. un obj.<0004>"
   },
   {
     "id": 624,
@@ -4997,7 +4997,7 @@
     "data_size": 44,
     "slot_size": 44,
     "texte_orig": "Select[SP]a[SP]skill[SP]to[SP]use<0004>",
-    "texte_fr": "Chois. une capacité<0004 "
+    "texte_fr": "Chois. une capacité<0004>"
   },
   {
     "id": 625,
@@ -5005,7 +5005,7 @@
     "data_size": 32,
     "slot_size": 32,
     "texte_orig": "Select[SP]a[SP]target<0004>",
-    "texte_fr": "Chois. une cible<0004 "
+    "texte_fr": "Chois. une cible<0004>"
   },
   {
     "id": 626,
@@ -5029,7 +5029,7 @@
     "data_size": 34,
     "slot_size": 34,
     "texte_orig": "Select[SP]an[SP]action<0004>",
-    "texte_fr": "Que faire<0008 "
+    "texte_fr": "Que faire<0008>"
   },
   {
     "id": 629,
@@ -5037,7 +5037,7 @@
     "data_size": 22,
     "slot_size": 22,
     "texte_orig": "[SP]fell[SP]down<0004>",
-    "texte_fr": "est tombé<0004 "
+    "texte_fr": "est tombé<0004>"
   },
   {
     "id": 630,
@@ -5045,7 +5045,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "[SP]escaped<0004>",
-    "texte_fr": "a fuit<0004 "
+    "texte_fr": "a fuit<0004>"
   },
   {
     "id": 631,
@@ -5077,7 +5077,7 @@
     "data_size": 44,
     "slot_size": 44,
     "texte_orig": "&s[SP]party[SP]was[SP]defeated<0004>",
-    "texte_fr": "et son groupe ont été vaincu<0004 "
+    "texte_fr": "et son groupe ont été vaincu<0004>"
   },
   {
     "id": 635,
@@ -5093,7 +5093,7 @@
     "data_size": 50,
     "slot_size": 50,
     "texte_orig": "Hidden[SP]ability[SP]activated<0009>",
-    "texte_fr": "Abilité cachée activée<0009 "
+    "texte_fr": "Abilité cachée activée<0009>"
   },
   {
     "id": 637,
@@ -5101,7 +5101,7 @@
     "data_size": 26,
     "slot_size": 26,
     "texte_orig": "Is[SP]this[SP]okay<0008>",
-    "texte_fr": "Est-ce bon<0008 "
+    "texte_fr": "Est-ce bon<0008>"
   },
   {
     "id": 638,
@@ -5109,7 +5109,7 @@
     "data_size": 48,
     "slot_size": 48,
     "texte_orig": "Persona[SP]can[SP]change[SP]form<0004>",
-    "texte_fr": "Le Persona peux muter<0004 "
+    "texte_fr": "Le Persona peux muter<0004>"
   },
   {
     "id": 639,
@@ -5117,7 +5117,7 @@
     "data_size": 32,
     "slot_size": 32,
     "texte_orig": "Stats[SP]increased<0004>",
-    "texte_fr": "Stat. augmentées<0004 "
+    "texte_fr": "Stat. augmentées<0004>"
   },
   {
     "id": 640,
@@ -5125,7 +5125,7 @@
     "data_size": 30,
     "slot_size": 30,
     "texte_orig": "Gained[SP]2[SP]ranks<0004>",
-    "texte_fr": "Gagné 2 ranks<0004 "
+    "texte_fr": "Gagné 2 ranks<0004>"
   },
   {
     "id": 641,
@@ -5133,7 +5133,7 @@
     "data_size": 36,
     "slot_size": 36,
     "texte_orig": "[SP]has[SP]been[SP]learned<0004>",
-    "texte_fr": " a été appris<0004 "
+    "texte_fr": " a été appris<0004>"
   },
   {
     "id": 642,
@@ -5141,7 +5141,7 @@
     "data_size": 36,
     "slot_size": 36,
     "texte_orig": "Preemptive[SP]attack<0009>",
-    "texte_fr": "Attq. Préventive<0009 "
+    "texte_fr": "Attq. Préventive<0009>"
   },
   {
     "id": 643,
@@ -5149,7 +5149,7 @@
     "data_size": 46,
     "slot_size": 46,
     "texte_orig": "The[SP]enemy[SP]ambushed[SP]you<0009>",
-    "texte_fr": "L'ennemi vous a piégé<0009 "
+    "texte_fr": "L'ennemi vous a piégé<0009>"
   },
   {
     "id": 644,
@@ -5493,7 +5493,7 @@
     "data_size": 22,
     "slot_size": 22,
     "texte_orig": "[SP]fell[SP]down<0009>",
-    "texte_fr": " est tombé<0009 "
+    "texte_fr": " est tombé<0009>"
   },
   {
     "id": 687,
@@ -5501,7 +5501,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "[SP]escaped<0009>",
-    "texte_fr": "a fuit<0009 "
+    "texte_fr": "a fuit<0009>"
   },
   {
     "id": 688,
@@ -6133,7 +6133,7 @@
     "data_size": 36,
     "slot_size": 36,
     "texte_orig": "Skill[SP]description<FF03>",
-    "texte_fr": "Description d'habilité<FF03 "
+    "texte_fr": "Description d'habilité<FF03>"
   },
   {
     "id": 767,
@@ -6149,7 +6149,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Mind<FF03>",
-    "texte_fr": "Espr.<FF03 "
+    "texte_fr": "Espr.<FF03>"
   },
   {
     "id": 769,
@@ -6157,7 +6157,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Dark<FF03>",
-    "texte_fr": "Tén.<FF03 "
+    "texte_fr": "Tén.<FF03>"
   },
   {
     "id": 770,
@@ -6165,7 +6165,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Light<FF03>",
-    "texte_fr": "Lum.<FF03 "
+    "texte_fr": "Lum.<FF03>"
   },
   {
     "id": 771,
@@ -6173,7 +6173,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Almighty<FF03>",
-    "texte_fr": "Foi<FF03 "
+    "texte_fr": "Foi<FF03>"
   },
   {
     "id": 772,
@@ -6181,7 +6181,7 @@
     "data_size": 16,
     "slot_size": 16,
     "texte_orig": "Nuclear<FF03>",
-    "texte_fr": "Nuclé.<FF03 "
+    "texte_fr": "Nuclé.<FF03>"
   },
   {
     "id": 773,
@@ -6189,7 +6189,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Elec<FF03>",
-    "texte_fr": "Elec<FF03 "
+    "texte_fr": "Elec<FF03>"
   },
   {
     "id": 774,
@@ -6197,7 +6197,7 @@
     "data_size": 8,
     "slot_size": 8,
     "texte_orig": "Ice<FF03>",
-    "texte_fr": "Gl.<FF03 "
+    "texte_fr": "Gl.<FF03>"
   },
   {
     "id": 775,
@@ -6205,7 +6205,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Thrown<FF03>",
-    "texte_fr": "Lancé<FF03 "
+    "texte_fr": "Lancé<FF03>"
   },
   {
     "id": 776,
@@ -6213,7 +6213,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Strike<FF03>",
-    "texte_fr": "Mêlée<FF03 "
+    "texte_fr": "Mêlée<FF03>"
   },
   {
     "id": 777,
@@ -6221,7 +6221,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Ranged<FF03>",
-    "texte_fr": "À dist.<FF03 "
+    "texte_fr": "À dist.<FF03>"
   },
   {
     "id": 778,
@@ -6229,7 +6229,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Sword<FF03>",
-    "texte_fr": "Épée<FF03 "
+    "texte_fr": "Épée<FF03>"
   },
   {
     "id": 779,
@@ -6237,7 +6237,7 @@
     "data_size": 38,
     "slot_size": 38,
     "texte_orig": "D[SP]Is[SP]this[SP]correct<0008><FF03>",
-    "texte_fr": "D Est-ce correct<0008 <FF03 "
+    "texte_fr": "D Est-ce correct<0008><FF03>"
   },
   {
     "id": 780,
@@ -6317,7 +6317,7 @@
     "data_size": 138,
     "slot_size": 138,
     "texte_orig": "D[SP]Confirming[SP]name<0004><FF03>Are[SP]these[SP]correct<0008><FF03>Full[SP]name<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03>Nickname<0006>[SP]<FF22><FF12><FF21><FF03>",
-    "texte_fr": "D Confirmation<0004 <FF03 Sont-ils correct<0008 <FF03 Nom entier<0006 [SP]<FF22 <FF11 [SP]<FF10 <FF21 <FF03 Surnom<0006 [SP]<FF22 <FF12 <FF21 <FF03 "
+    "texte_fr": "D Confirmation<0004><FF03> Sont-ils correct<0008><FF03> Nom entier<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03> Surnom<0006>[SP]<FF22><FF12><FF21><FF03>"
   },
   {
     "id": 790,
@@ -6325,7 +6325,7 @@
     "data_size": 66,
     "slot_size": 66,
     "texte_orig": "D[SP]Nickname<0006>[SP]<FF22><FF12><FF21><FF03>Is[SP]this[SP]correct<0008><FF03>",
-    "texte_fr": "D Surnom<0006  <FF22 <FF12 <FF21 <FF03 Est-ce correct<0008 <FF03 "
+    "texte_fr": "D Surnom<0006><FF22><FF12><FF21><FF03> Est-ce correct<0008><FF03>"
   },
   {
     "id": 791,
@@ -6333,7 +6333,7 @@
     "data_size": 72,
     "slot_size": 72,
     "texte_orig": "D[SP]Full[SP]name<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03>Is[SP]this[SP]correct<0008><FF03>",
-    "texte_fr": "D Nom complet <0006  <FF22 <FF11  <FF10 <FF21 <FF03 Est-ce correct<0008 <FF03 "
+    "texte_fr": "D Nom complet <0006><FF22><FF11><FF10><FF21><FF03> Est-ce correct<0008><FF03>"
   },
   {
     "id": 792,
@@ -6349,7 +6349,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Full<FF03>",
-    "texte_fr": "Entier<FF03 "
+    "texte_fr": "Entier<FF03>"
   },
   {
     "id": 794,
@@ -6357,7 +6357,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Nick<FF03>",
-    "texte_fr": "Sur<FF03 "
+    "texte_fr": "Sur<FF03>"
   },
   {
     "id": 795,
@@ -6365,7 +6365,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "First[SP]<FF03>",
-    "texte_fr": "Pré<FF03 "
+    "texte_fr": "Pré<FF03>"
   },
   {
     "id": 796,
@@ -6373,7 +6373,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Last[SP]<FF03>",
-    "texte_fr": "<FF03 "
+    "texte_fr": "<FF03>"
   },
   {
     "id": 797,
@@ -6381,7 +6381,7 @@
     "data_size": 22,
     "slot_size": 22,
     "texte_orig": "Enter[SP]name<FF03>",
-    "texte_fr": "Écrire nom<FF03 "
+    "texte_fr": "Écrire nom<FF03>"
   },
   {
     "id": 798,
@@ -6389,7 +6389,7 @@
     "data_size": 26,
     "slot_size": 26,
     "texte_orig": "Not[SP]equipped<FF03>",
-    "texte_fr": "Non équipé<FF03 "
+    "texte_fr": "Non équipé<FF03>"
   },
   {
     "id": 799,
@@ -6397,7 +6397,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Weak<FF03>",
-    "texte_fr": "Faibl.<FF03 "
+    "texte_fr": "Faibl.<FF03>"
   },
   {
     "id": 800,
@@ -6413,7 +6413,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Drain<FF03>",
-    "texte_fr": "Abs.<FF03 "
+    "texte_fr": "Abs.<FF03>"
   },
   {
     "id": 802,
@@ -6421,7 +6421,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Repel<FF03>",
-    "texte_fr": "Renv.<FF03 "
+    "texte_fr": "Renv.<FF03>"
   },
   {
     "id": 803,
@@ -6429,7 +6429,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Null<FF03>",
-    "texte_fr": "Anul.<FF03 "
+    "texte_fr": "Anul.<FF03>"
   },
   {
     "id": 804,
@@ -6437,7 +6437,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "None<FF03>",
-    "texte_fr": "Aucun<FF03 "
+    "texte_fr": "Aucun<FF03>"
   },
   {
     "id": 805,
@@ -6445,7 +6445,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Earth<FF03>",
-    "texte_fr": "Terre<FF03 "
+    "texte_fr": "Terre<FF03>"
   },
   {
     "id": 806,
@@ -6453,7 +6453,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Wind<FF03>",
-    "texte_fr": "Vent<FF03 "
+    "texte_fr": "Vent<FF03>"
   },
   {
     "id": 807,
@@ -6461,7 +6461,7 @@
     "data_size": 12,
     "slot_size": 12,
     "texte_orig": "Water<FF03>",
-    "texte_fr": "Eau<FF03 "
+    "texte_fr": "Eau<FF03>"
   },
   {
     "id": 808,
@@ -6469,7 +6469,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Fire<FF03>",
-    "texte_fr": "Feu<FF03 "
+    "texte_fr": "Feu<FF03>"
   },
   {
     "id": 809,
@@ -6893,7 +6893,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Reserved<FF03>",
-    "texte_fr": "Réservé<FF03 "
+    "texte_fr": "Réservé<FF03>"
   },
   {
     "id": 862,
@@ -6901,7 +6901,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Reserved<FF03>",
-    "texte_fr": "Réservé<FF03 "
+    "texte_fr": "Réservé<FF03>"
   },
   {
     "id": 863,
@@ -6909,7 +6909,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Reserved<FF03>",
-    "texte_fr": "Réservé<FF03 "
+    "texte_fr": "Réservé<FF03>"
   },
   {
     "id": 864,
@@ -6917,7 +6917,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Reserved<FF03>",
-    "texte_fr": "Réservé<FF03 "
+    "texte_fr": "Réservé<FF03>"
   },
   {
     "id": 865,
@@ -6925,7 +6925,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Reserved<FF03>",
-    "texte_fr": "Réservé<FF03 "
+    "texte_fr": "Réservé<FF03>"
   },
   {
     "id": 866,
@@ -6933,7 +6933,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Reserved<FF03>",
-    "texte_fr": "Réservé<FF03 "
+    "texte_fr": "Réservé<FF03>"
   },
   {
     "id": 867,
@@ -6941,7 +6941,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Reserved<FF03>",
-    "texte_fr": "Réservé<FF03 "
+    "texte_fr": "Réservé<FF03>"
   },
   {
     "id": 868,
@@ -6949,7 +6949,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Reserved<FF03>",
-    "texte_fr": "Réservé<FF03 "
+    "texte_fr": "Réservé<FF03>"
   },
   {
     "id": 869,

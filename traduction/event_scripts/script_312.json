@@ -132,7 +132,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Hey[SP]there.[SP]What'll[SP]it[SP]be?\n[1208][0006]Buy[SP]weapons\nSell[SP]items\nDine[SP]in\nTalk[SP]to[SP]Ma'am\nNever[SP]mind\nLeave",
     "nom_fr": "Cheffe",
-    "texte_fr": "Salut. Ce sera quoi?\n[1208][0006]Acheter    \nVendre    \nManger \nDiscuter     \nRien merci\nFiler",
+    "texte_fr": "Salut. Ce sera quoi?\n[1208][0006]Acheter  \nVendre  \nManger \nDiscuter   \nRien merci\nFiler",
     "question_orig": "Hey[SP]there.[SP]What'll[SP]it[SP]be?",
     "choix_orig": [
       "Buy[SP]weapons",
@@ -218,7 +218,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Anythin'[SP]else?\n[1208][0006]Buy[SP]weapons\nSell[SP]items\nDine[SP]in\nTalk[SP]to[SP]Ma'am\nNever[SP]mind\nLeave",
     "nom_fr": "Cheffe",
-    "texte_fr": "Autre chose?\n[1208][0006]Acheter    \nVendre    \nManger \nDiscuter     \nRien merci\nFiler",
+    "texte_fr": "Autre chose?\n[1208][0006]Acheter  \nVendre  \nManger \nDiscuter   \nRien merci\nFiler",
     "question_orig": "Anythin'[SP]else?",
     "choix_orig": [
       "Buy[SP]weapons",
@@ -664,7 +664,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "But[SP]this[SP]wasn't[SP]easy[SP]to[SP]come[SP]by.[SP]I[SP]can't[SP]sell\nit[SP]cheap.[SP]So[SP]I[SP]got[SP]a[SP]proposition[SP]for[SP]you...",
     "nom_fr": "Cheffe",
-    "texte_fr": "Mais j'ai galéré à l'avoir. Forcément, elle\na son prix. Donc j'ai\nune offre pour  toi..."
+    "texte_fr": "Mais j'ai galéré à l'avoir. Forcément, elle\na son prix. Donc j'ai\nune offre pour toi..."
   },
   {
     "id": 39,
@@ -754,7 +754,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I'm[SP]begging[SP]you![SP]Say[SP]it[SP]ain't[SP]so!\n[1208][0002][1432][NULL][NULL][0014]Good[SP]luck.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Don't[SP]force[SP]yourself.[1432][NULL][NULL][0014]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pitié! Dis que tu le ferais pas!\n[1208][0002][1432][NULL][NULL][0014]Courage.  [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ne te forces pas.    [1432][NULL][NULL][0014]",
+    "texte_fr": "Pitié! Dis que tu le ferais pas!\n[1208][0002][1432][NULL][NULL][0014]Courage. [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Ne te forces pas.  [1432][NULL][NULL][0014]",
     "question_orig": "I'm[SP]begging[SP]you![SP]Say[SP]it[SP]ain't[SP]so!",
     "choix_orig": [
       "Good[SP]luck.",
@@ -870,7 +870,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "...Fine...[1205][000F][SP]It[SP]doesn't[SP]change[SP]anything...[1205][000F]\nAlright,[SP]here[SP]goes!",
     "nom_fr": "Eikichi",
-    "texte_fr": "... D'accord... [1205][1205]Bah,\n[000F][000F]ça change rien... Bien,\nc'est parti![E3]   Eikichi mange...[E2][E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\n J'ai\nfini... le Ramen... au Yaourt... Beuurp...!"
+    "texte_fr": "... D'accord... [1205][1205]Bah,\n[000F][000F]ça change rien... Bien,\nc'est parti![E3]  Eikichi mange...[E2][E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\n J'ai\nfini... le Ramen... au Yaourt... Beuurp...!"
   },
   {
     "id": 52,
