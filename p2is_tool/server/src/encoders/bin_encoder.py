@@ -329,10 +329,12 @@ def encode_bin_from_json(
                 tokens = re.split(r'(\[[a-zA-Z0-9+\-_]+\]|\s)', t_fr)
                 tokens = [t for t in tokens if t]
                 
-                while tokens and len(text_to_bytes('"' + n_fr + "\n" + ''.join(tokens))) > avail - len(nl_suffix):
+                while tokens and len(text_to_bytes('"' + n_fr + "\n" + ''.join(tokens) + "...")) > avail - len(nl_suffix):
                     tokens.pop()
-                    
-                t_fr = ''.join(tokens)
+                if tokens:
+                    t_fr = ''.join(tokens) + "..."
+                else:
+                    t_fr = ""
                 enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
             
         pad_len = avail - len(enc) - len(nl_suffix)
@@ -545,10 +547,12 @@ def encode_bnp_from_json(
                 tokens = re.split(r'(\[[a-zA-Z0-9+\-_]+\]|\s)', t_fr)
                 tokens = [t for t in tokens if t]
                 
-                while tokens and len(text_to_bytes('"' + n_fr + "\n" + ''.join(tokens))) > avail - len(nl_sfx):
+                while tokens and len(text_to_bytes('"' + n_fr + "\n" + ''.join(tokens) + "...")) > avail - len(nl_sfx):
                     tokens.pop()
-                    
-                t_fr = ''.join(tokens)
+                if tokens:
+                    t_fr = ''.join(tokens) + "..."
+                else:
+                    t_fr = ""
                 enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
                 
             pad_len = avail - len(enc) - len(nl_sfx)

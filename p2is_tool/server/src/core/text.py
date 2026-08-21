@@ -274,6 +274,7 @@ def decode_text(raw: bytes) -> str:
 
 
 def text_to_bytes(text: str) -> bytes:
+    text = text.replace("…", "...").replace("«", "\"").replace("»", "\"")
     """Texte FR (avec balises et accents) → octets binaires Atlus."""
     for fr, jp in ACCENT_MAP:
         text = text.replace(fr, jp)
@@ -330,7 +331,10 @@ def text_to_bytes(text: str) -> bytes:
         else:
             out.append(struct.pack("<H", ord(ch)))
             i += 1
-    return b"".join(out)
+    res = b"".join(out)
+    if len(res) % 2 != 0:
+        res += b"\x00"
+    return res
 
 
 # ── Détection de format ───────────────────────────────────────────────────────
@@ -474,6 +478,11 @@ def _align_mid_text(nom_orig: str, texte_orig: str, nom_fr: str, t_fr: str) -> s
         if diff > 0:
             n_sp = diff // 2
             out_fr += "[SP]" * n_sp
+        elif diff < 0:
+            while diff < 0 and len(out_fr) > 0:
+                out_fr = out_fr[:-1]
+                fr_off = len(text_to_bytes('"' + nom_fr + "\n" + out_fr))
+                diff = orig_off - fr_off
             
         out_fr += '[NULL][NULL]"' + parts_fr[i]
         
