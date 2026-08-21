@@ -12,7 +12,7 @@
     "nom_orig": "???",
     "texte_orig": "Blauch...[1205][001E][SP]O-Okay,[SP]I[SP]ate[SP]the[SP]strawberry[SP]tanmen...[1205][001E]\nN-Now[SP]let's[SP]get[SP]down[SP]to[SP]business...",
     "nom_fr": "???",
-    "texte_fr": "Blauch...[001E][1205] B-Bon, j'ai mangé le tanmen\nfraise...[001E][1205] Bon, aux choses sérieuses..."
+    "texte_fr": "Blauch...[1205][001E] B-Bon, j'ai mangé le tanmen\nfraise...[1205][001E] Bon, aux choses sérieuses..."
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Tadashi",
     "texte_orig": "Ah-ah-ah...[1205][001E][SP]I[SP]heard[SP]from[SP]the[SP]Chief[SP]and[SP]Tamaki\nthat[SP]the[SP][1432][NULL][NULL][0014]secret[SP]dish[1432][NULL][NULL][0014][SP]is[SP]the[SP]password[SP]to\ngetting[SP]an[SP]under-the-table[SP]deal.",
     "nom_fr": "Tadashi",
-    "texte_fr": "Ah-ah-ah...[001E][1205] Le Chef et Tamaki m'ont dit\nque le [1432][NULL][NULL][0014]plat secret[1432][NULL][NULL][0014] est le mot de passe\npour conclure une affaire discrète."
+    "texte_fr": "Ah-ah-ah...[1205][001E] Le Chef et Tamaki m'ont dit\nque le [1432][NULL][NULL][0014]plat secret[1432][NULL][NULL][0014] est le mot de passe\npour conclure une affaire discrète."
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Tadashi",
     "texte_orig": "I[SP]must've[SP]just[SP]ordered[SP]the[SP]wrong[SP]thing...\nI[SP]heard[SP]it[SP]was[SP]something[SP]disgusting.[1205][001E][SP]What[SP]about\nthe[SP]sweet[SP]red[SP]bean[SP]gyoza?",
     "nom_fr": "Tadashi",
-    "texte_fr": "J'ai dû commander le mauvais truc...\nJ'ai entendu que c'était dégoûtant.[001E][1205] Et\nles gyoza aux haricots rouges sucrés?"
+    "texte_fr": "J'ai dû commander le mauvais truc...\nJ'ai entendu que c'était dégoûtant.[1205][001E] Et\nles gyoza aux haricots rouges sucrés?"
   },
   {
     "id": 4,
@@ -87,7 +87,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Why[SP]me...?[1205][001E][SP]One[SP]banana[SP]char[SP]siu[SP]ramen,[SP]Ma'am!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pourquoi moi...?[001E][1205] Un ramen char siu banane!"
+    "texte_fr": "Pourquoi moi...?[1205][001E] Un ramen char siu banane!"
   },
   {
     "id": 6,
@@ -117,7 +117,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "I[SP]knew[SP]this[SP]day[SP]would[SP]come,[SP]Eikichi...[1205][001E][SP]These\nweapons[SP]are[SP]on[SP]the[SP]house,[SP]as[SP]a[SP]farewell[SP]gift.[1205][001E]\nHmmm...[SP]Let's[SP]see...",
     "nom_fr": "Patronne",
-    "texte_fr": "Je savais que ce jour viendrait,\nEikichi...[001E][1205] Ces armes sont offertes,\nadieu.[001E][1205] Hmmm... Voyons voir..."
+    "texte_fr": "Je savais que ce jour viendrait,\nEikichi...[1205][001E] Ces armes sont offertes,\nadieu.[1205][001E] Hmmm... Voyons voir..."
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Eikichi,[SP]you[SP]get[SP]a[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0007]Standard[SP]Case[E4][NULL][NULL][0002].[1205][000F][SP]Mr.[SP]Cool\nhere[SP]gets[SP]a[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0006]Misericorde[E4][NULL][NULL][0002]...[1205][000F][SP]And[SP]I'll[SP]throw[SP]in\nsome[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0008]Leather[SP]Gloves[E4][NULL][NULL][0002][SP]for[SP]the[SP]girl.",
     "nom_fr": "Patronne",
-    "texte_fr": "Eikichi: [E4][NULL][NULL][0004][NULL][NULL][0007]Mallette standard[E4][NULL][NULL][0002]. [000F][1205][000F][1205]M. le cool:\n[E4][NULL][NULL][0004][NULL][NULL][0006]Miséricorde[E4][NULL][NULL][0002]... Et des [E4][NULL][NULL][0004][NULL][NULL][0008]Gants en cuir[E4][NULL][NULL][0002] pour la\nfille.[U+1433][U+1433][U+1433]"
+    "texte_fr": "Eikichi: [E4][NULL][NULL][0004][NULL][NULL][0007]Mallette standard[E4][NULL][NULL][0002]. [1205][1205][000F][000F]M. le cool:\n[E4][NULL][NULL][0004][NULL][NULL][0006]Miséricorde[E4][NULL][NULL][0002]... Et des [E4][NULL][NULL][0004][NULL][NULL][0008]Gants en cuir[E4][NULL][NULL][0002] pour la\nfille.[U+1433][U+1433][U+1433]"
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "But[SP]rules[SP]are[SP]rules.[1205][000F][SP]You[SP]have[SP]to[SP]eat[SP]what[SP]you\nordered,[SP]or[SP]I'll[SP]pretend[SP]this[SP]never[SP]happened.",
     "nom_fr": "Patronne",
-    "texte_fr": "Règles sont règles. [000F][1205]Tu dois manger ce que\ntu as commandé, sinon ça n'a pas eu lieu."
+    "texte_fr": "Règles sont règles. [1205][000F]Tu dois manger ce que\ntu as commandé, sinon ça n'a pas eu lieu."
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "There![SP]I[SP]choked[SP]it[SP]down![SP]Take[SP]that![1205][001E]\nBluuuuuurrghhhh...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Voilà! J'ai avalé ça! Dans\nta face![001E][1205] Bluuuurghhhh..."
+    "texte_fr": "Voilà! J'ai avalé ça! Dans\nta face![1205][001E] Bluuuurghhhh..."
   },
   {
     "id": 11,
@@ -282,7 +282,7 @@
     "nom_orig": "Tadashi",
     "texte_orig": "Heh...[1205][000F][SP]I'm[SP]a[SP]detective[SP]whose[SP]beat[SP]is[SP]the\ndarkness[SP]of[SP]the[SP]city.[1205][000F][SP]Come[SP]to[SP]the[SP]Kuzunoha\nDetective[SP]Agency[SP]for[SP]your[SP]investigative[SP]needs.",
     "nom_fr": "Tadashi",
-    "texte_fr": "Heh.[000F][1205][000F][1205].. Je suis un détective dont le terrain\nest l'ombre de la ville. Venez à l'agence\nde détectives Kuzunoha pour vos enquêtes."
+    "texte_fr": "Heh.[1205][1205][000F][000F].. Je suis un détective dont le terrain\nest l'ombre de la ville. Venez à l'agence\nde détectives Kuzunoha pour vos enquêtes."
   },
   {
     "id": 19,
@@ -342,7 +342,7 @@
     "nom_orig": "Washout[SP]student",
     "texte_orig": "Maaaan,[SP]what[SP]a[SP]surprise.[1205][000F][SP]I[SP]can't[SP]believe[SP]you\ncan[SP]eat[SP]stuff[SP]like[SP]that.[1205][000F][SP]The[SP]city[SP]sure[SP]is\na[SP]scary[SP]place.",
     "nom_fr": "Lycéen raté",
-    "texte_fr": "Maaaan, quelle surprise. [000F][1205][000F][1205]J'arrive\npas à croire que tu manges des trucs\ncomme ça. La ville est flippante."
+    "texte_fr": "Maaaan, quelle surprise. [1205][1205][000F][000F]J'arrive\npas à croire que tu manges des trucs\ncomme ça. La ville est flippante."
   },
   {
     "id": 23,

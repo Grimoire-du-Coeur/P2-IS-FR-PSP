@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You[SP]got[SP]a[SP]minute?[1205][000F][SP]Something's[SP]been[SP]bugging[SP]me...\nDon't[SP]you[SP]think[SP]my[SP]shadow[SP]is[SP]the[SP]only[SP]one[SP]that\ndoesn't[SP]look[SP]like[SP]me?",
     "nom_fr": "Eikichi",
-    "texte_fr": "T'as une minute? [000F][1205]Quelque chose me\ntracasse... Tu trouves pas que mon Ombre\nest la seule qui ne me ressemble pas?"
+    "texte_fr": "T'as une minute? [1205][000F]Quelque chose me\ntracasse... Tu trouves pas que mon Ombre\nest la seule qui ne me ressemble pas?"
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Heh...[1205][000A][SP]You[SP]don't[SP]get[SP]it,[SP]Ginko.[1205][000F][SP]If[SP]it[SP]really\nhad[SP]as[SP]much[SP]power[SP]as[SP]I[SP]do,[SP]our[SP]whole[SP]team\nwould[SP]have[SP]been[SP]wiped[SP]out.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Heh.[1205]..[000A][1205] Tu comprends pas, Ginko. [000F]Si elle\navait autant de puissance que moi,\ntoute l'équipe aurait été anéantie."
+    "texte_fr": "Heh.[1205]..[1205][000A] Tu comprends pas, Ginko. [000F]Si elle\navait autant de puissance que moi,\ntoute l'équipe aurait été anéantie."
   },
   {
     "id": 3,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It's[SP]not[SP]that[SP]it[SP]tasted[SP]bad,[SP]but...[1205][000F][SP]Maybe[SP]it's\nan[SP]acquired[SP]taste...[1205][000F][SP]Uuuugh...[SP]I[SP]dont'[SP]feel\nso[SP]good...",
     "nom_fr": "Maya",
-    "texte_fr": "C'est pas mauvais,\nmais... [000F][1205][000F][1205]C'est peut-être un\ngoût acquis... Beurk... Je me sens pas bien..."
+    "texte_fr": "C'est pas mauvais,\nmais... [1205][1205][000F][000F]C'est peut-être un\ngoût acquis... Beurk... Je me sens pas bien..."
   },
   {
     "id": 8,
@@ -177,7 +177,7 @@
     "nom_orig": "Jun",
     "texte_orig": "It's[SP]the[SP]same[SP]with[SP]the[SP]shadows.[1205][000F][SP]Two[SP]rumors\nwere[SP]spread[SP]about[SP]the[SP]people[SP]in[SP]the[SP]mugshots.",
     "nom_fr": "Jun",
-    "texte_fr": "C'est pareil pour les Ombres. [000F][1205]Deux rumeurs\nont circulé sur les personnes des photos."
+    "texte_fr": "C'est pareil pour les Ombres. [1205][000F]Deux rumeurs\nont circulé sur les personnes des photos."
   },
   {
     "id": 12,
@@ -192,7 +192,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Both[SP]came[SP]true,[SP]so[SP]another[SP]personality[SP]which[SP]had\nnot[SP]previously[SP]existed[SP]came[SP]into[SP]being.[1205][000F][SP]Those\nshadows[SP]are[SP]the[SP][1432][NULL][NULL][0014]us[1432][NULL][NULL][0014][SP]that[SP]the[SP]people[SP]imagined.",
     "nom_fr": "Jun",
-    "texte_fr": "Les deux se sont réalisées, donc une autre\npersonnalité inexistante a vu le jour. Ces\n[000F][1205]Ombres sont le [1432][NULL][NULL][0014]nous[1432][NULL][NULL][0014] qu'imaginaient les gens."
+    "texte_fr": "Les deux se sont réalisées, donc une autre\npersonnalité inexistante a vu le jour. Ces\n[1205][000F]Ombres sont le [1432][NULL][NULL][0014]nous[1432][NULL][NULL][0014] qu'imaginaient les gens."
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
     "nom_orig": "Jun",
     "texte_orig": "And[SP]can[SP]you[SP]be[SP]so[SP]sure[SP]that[SP]we're[SP]real,[SP]and\nthe[SP]shadows[SP]we[SP]defeated[SP]were[SP]the[SP]impostors?[1205][000F]\nMaybe[SP]it's[SP]the[SP]opposite.",
     "nom_fr": "Jun",
-    "texte_fr": "Êtes-vous certains que nous sommes\nréels et que les Ombres étaient\nimposteurs? [000F][1205]C'est peut-être l'inverse."
+    "texte_fr": "Êtes-vous certains que nous sommes\nréels et que les Ombres étaient\nimposteurs? [1205][000F]C'est peut-être l'inverse."
   },
   {
     "id": 14,
@@ -252,7 +252,7 @@
     "nom_orig": "Pretentious[SP]man",
     "texte_orig": "Ohhh,[SP]I-I[SP]knew[SP]this[SP]would[SP]happen.[1205][000F][SP]B-But[SP]I\nthought[SP]you'd[SP]be[SP]surprised![SP]You[SP]like[SP]surprises!",
     "nom_fr": "Homme prétentieux",
-    "texte_fr": "Ohhh, j-je savais. [000F][1205]M-Mais je voulais\nvous surprendre! Vous aimez ça!"
+    "texte_fr": "Ohhh, j-je savais. [1205][000F]M-Mais je voulais\nvous surprendre! Vous aimez ça!"
   },
   {
     "id": 17,
@@ -297,7 +297,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Bienvenue au Clair de Lune.\n[000F][1205]Que puis-je pour vous?\n[1208][0007][1210]Acheter armes\n[1210]Acheter accessoires\n[1210]Vendre objets\nDîner ici\nParler\nNon merci\nQuitter[U+03BC][U+0358][U+03BC]",
+    "texte_fr": "Bienvenue au Clair de Lune.\n[1205][000F]Que puis-je pour vous?\n[1208][0007][1210]Acheter armes\n[1210]Acheter accessoires\n[1210]Vendre objets\nDîner ici\nParler\nNon merci\nQuitter[U+03BC][U+0358][U+03BC]",
     "question_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -384,7 +384,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Bienvenue au Clair de Lune.\n[000F][1205]Que puis-je pour vous?\n[1208][0007][1210]Acheter armes\n[1210]Acheter accessoires\n[1210]Vendre objets\nDîner ici\nParler\nNon merci\nQuitter[U+03BC][U+0358][U+03BC]",
+    "texte_fr": "Bienvenue au Clair de Lune.\n[1205][000F]Que puis-je pour vous?\n[1208][0007][1210]Acheter armes\n[1210]Acheter accessoires\n[1210]Vendre objets\nDîner ici\nParler\nNon merci\nQuitter[U+03BC][U+0358][U+03BC]",
     "question_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -486,7 +486,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Perhaps[SP]it[SP]is[SP]destiny[SP]that[SP]I[SP]evolve[SP]into[SP]an\nIdealian[SP]here.[1205][000F][SP]I[SP]may[SP]as[SP]well[SP]embrace[SP]it...\nIt's[SP]better[SP]than[SP]death.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "C'est peut-être mon destin de devenir\nun Idéalien ici. [000F][1205]Autant l'accepter...\nC'est mieux que la mort."
+    "texte_fr": "C'est peut-être mon destin de devenir\nun Idéalien ici. [1205][000F]Autant l'accepter...\nC'est mieux que la mort."
   },
   {
     "id": 27,
@@ -531,7 +531,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Legendary[SP]gun?[1205][000F][SP]You've[SP]come[SP]for[SP]it[SP]too?[1205][000F][SP]Ah...\nNever[SP]mind.[SP]Excuse[SP]me.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Le pistolet légendaire? [000F][1205][000F][1205]Vous\naussi? Ah... Excusez-moi."
+    "texte_fr": "Le pistolet légendaire? [1205][1205][000F][000F]Vous\naussi? Ah... Excusez-moi."
   },
   {
     "id": 30,
@@ -606,7 +606,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Au[SP]revoir...[1205][000F][SP]I[SP]shall[SP]await[SP]your[SP]return.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Au revoir.[000F][1205].. J'attendrai votre retour."
+    "texte_fr": "Au revoir.[1205][000F].. J'attendrai votre retour."
   },
   {
     "id": 35,
@@ -621,7 +621,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Please...[1205][000F][SP]We[SP]really[SP]have[SP]no[SP]such[SP]thing[SP]as[SP]this\nlegendary[SP]gun...",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Je vous en prie.[000F][1205].. Nous n'avons\npas ce pistolet légendaire..."
+    "texte_fr": "Je vous en prie.[1205][000F].. Nous n'avons\npas ce pistolet légendaire..."
   },
   {
     "id": 36,
@@ -651,7 +651,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "My,[SP]my...[1205][000F][SP]I[SP]can[SP]never[SP]put[SP]one[SP]over[SP]on[SP]you,[SP]can\nI,[SP]Ms.[SP]Maya?[1205][000F][SP]Very[SP]well,[SP]but[SP]you[SP]must[SP]keep[SP]what\nI[SP]am[SP]about[SP]to[SP]tell[SP]you[SP]a[SP]secret.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Oh là là.[000F][1205][000F][1205].. Je ne peux vous duper,\nn'est-ce pas, Mlle Maya? Soit. Mais ce\nque je vais dire doit rester un secret."
+    "texte_fr": "Oh là là.[1205][1205][000F][000F].. Je ne peux vous duper,\nn'est-ce pas, Mlle Maya? Soit. Mais ce\nque je vais dire doit rester un secret."
   },
   {
     "id": 38,
@@ -666,7 +666,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Yes,[SP]we[SP]do[SP]have[SP]the[SP]legendary[SP]gun[SP]in[SP]stock.[1205][000F]\nAnd[SP]yes,[SP]it[SP]has[SP]historical[SP]significance,[SP]so[SP]I\nam[SP]relucant[SP]to[SP]let[SP]go[SP]of[SP]it.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Oui, nous avons le pistolet légendaire.\n[000F][1205]Il a une valeur historique, c'est\npourquoi j'hésite à m'en séparer."
+    "texte_fr": "Oui, nous avons le pistolet légendaire.\n[1205][000F]Il a une valeur historique, c'est\npourquoi j'hésite à m'en séparer."
   },
   {
     "id": 39,
@@ -681,7 +681,7 @@
     "nom_orig": "Maya",
     "texte_orig": "What![SP]Don't[SP]say[SP]that![1205][000F][SP]Please?[SP]Pleeease?[1205][000F]\nIf[SP]you[SP]have[SP]it,[SP]sell[SP]it[SP]to[SP]us!",
     "nom_fr": "Maya",
-    "texte_fr": "Quoi! S'il vous plaît? [000F][1205][000F][1205]Pllleease?\nSi vous l'avez, vendez-le-nous!"
+    "texte_fr": "Quoi! S'il vous plaît? [1205][1205][000F][000F]Pllleease?\nSi vous l'avez, vendez-le-nous!"
   },
   {
     "id": 40,
@@ -711,7 +711,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "I[SP]propose[SP]a[SP]deal.[1205][000F][SP]If[SP]you[SP]sample[SP]an[SP]experimental\ndish[SP]of[SP]ours,[SP]I[SP]will[SP]sell[SP]you[SP]the[SP]legendary[SP]gun.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Je vous propose un marché. [000F][1205]Goûtez\nun plat expérimental et je vous\nvends le pistolet légendaire."
+    "texte_fr": "Je vous propose un marché. [1205][000F]Goûtez\nun plat expérimental et je vous\nvends le pistolet légendaire."
   },
   {
     "id": 42,
@@ -726,7 +726,7 @@
     "nom_orig": "Maya",
     "texte_orig": "What?[1205][000F][SP]Really!?[1205][000F][SP]Of[SP]course![SP]I'll[SP]eat[SP]anything![1205][000F]\nJust[SP]bring[SP]it[SP]out!",
     "nom_fr": "Maya",
-    "texte_fr": "Quoi? [000F][1205][000F][1205][000F][1205]Vraiment!? Bien sûr!\nJe mange tout! Apportez-le!"
+    "texte_fr": "Quoi? [1205][1205][1205][000F][000F][000F]Vraiment!? Bien sûr!\nJe mange tout! Apportez-le!"
   },
   {
     "id": 43,
@@ -771,7 +771,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Yes.[1205][000F][SP]If[SP]I[SP]recall[SP]correctly,[SP]this[SP]was[SP]one[SP]of\nyour[SP]least[SP]favorite[SP]foods.[1205][000F][SP]That[SP]is[SP]why[SP]I[SP]am\nasking[SP]you[SP]to[SP]do[SP]this.[1205][000F][SP]I[SP]won't[SP]force[SP]you...",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Oui. [000F][1205][000F][1205][000F][1205]Si je me souviens, c'était l'un de\nvos aliments les moins appréciés. C'est\npour cela. Je ne vous force pas..."
+    "texte_fr": "Oui. [1205][1205][1205][000F][000F][000F]Si je me souviens, c'était l'un de\nvos aliments les moins appréciés. C'est\npour cela. Je ne vous force pas..."
   },
   {
     "id": 46,
@@ -842,7 +842,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]a[SP]good[SP]friend[SP]you[SP]have.[1205][000F][SP]Well[SP]then,[SP]please\ndig[SP]in[SP]to[SP]our[SP]spaghetti[SP]di[SP]kusaya.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Quel bon ami vous avez. [000F][1205]Alors, veuillez\nvous régaler de nos spaghetti di kusaya."
+    "texte_fr": "Quel bon ami vous avez. [1205][000F]Alors, veuillez\nvous régaler de nos spaghetti di kusaya."
   },
   {
     "id": 50,
@@ -887,7 +887,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Such[SP]bravery...[1205][000F][SP]How[SP]was[SP]the[SP]taste?",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Quel courage.[000F][1205].. Et le goût?"
+    "texte_fr": "Quel courage.[1205][000F].. Et le goût?"
   },
   {
     "id": 53,
@@ -902,7 +902,7 @@
     "nom_orig": "Maya",
     "texte_orig": "[1113]...[1205][000F][SP]Take[SP]over...",
     "nom_fr": "Maya",
-    "texte_fr": "[1113].[000F][1205].. À toi..."
+    "texte_fr": "[1113].[1205][000F].. À toi..."
   },
   {
     "id": 54,
@@ -958,7 +958,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Thank[SP]you[SP]very[SP]much.[1205][000F][SP]Now,[SP]as[SP]promised,[SP]I[SP]will\nsell[SP]you[SP]the[SP]legendary[SP]gun.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Merci. [000F][1205]Comme promis, je vous\nvends le pistolet légendaire."
+    "texte_fr": "Merci. [1205][000F]Comme promis, je vous\nvends le pistolet légendaire."
   },
   {
     "id": 57,
@@ -988,7 +988,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Don't[SP]worry.[1205][000F][SP]We'll[SP]hold[SP]it[SP]for[SP]you[SP]and\nyou[SP]alone.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Ne vous inquiétez pas. [000F][1205]Rien que pour vous."
+    "texte_fr": "Ne vous inquiétez pas. [1205][000F]Rien que pour vous."
   },
   {
     "id": 59,
@@ -1003,7 +1003,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "How[SP]disappointing...[1205][000F][SP]But[SP]never[SP]mind.[1205][000F][SP]A[SP]promise\nis[SP]a[SP]promise.[1205][000F][SP]I[SP]will[SP]sell[SP]you[SP]the[SP]legendary[SP]gun.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Déception..[000F][1205][000F][1205][1205]. [000F]Peu importe. Une\npromesse est une promesse. Je vous\nvends le pistolet légendaire."
+    "texte_fr": "Déception..[1205][1205][1205][000F][000F]. [000F]Peu importe. Une\npromesse est une promesse. Je vous\nvends le pistolet légendaire."
   },
   {
     "id": 60,
@@ -1033,7 +1033,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Don't[SP]worry.[1205][000F][SP]We'll[SP]hold[SP]it[SP]for[SP]you[SP]and\nyou[SP]alone.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Ne vous inquiétez pas. [000F][1205]Rien que pour vous."
+    "texte_fr": "Ne vous inquiétez pas. [1205][000F]Rien que pour vous."
   },
   {
     "id": 62,
@@ -1063,7 +1063,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Oh,[SP]thankyouthankyouthankyou![1205][000F][SP]I[SP]owe[SP]you[SP]one,\n[1113]!",
     "nom_fr": "Maya",
-    "texte_fr": "Oh, mercimercimercii! [000F][1205]Je\nte revaudrai ça, [1113]!"
+    "texte_fr": "Oh, mercimercimercii! [1205][000F]Je\nte revaudrai ça, [1113]!"
   },
   {
     "id": 64,

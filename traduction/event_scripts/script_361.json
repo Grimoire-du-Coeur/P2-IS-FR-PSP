@@ -27,7 +27,7 @@
     "nom_orig": "???",
     "texte_orig": "[1113]...[1205][000F][SP]Don't[SP]see[SP]you[SP]here[SP]often.[1205][000F][SP]But[SP]you\nprobably[SP]didn't[SP]come[SP]to[SP]visit[SP]me.[1205][000F][SP]What's[SP]up?\nDid[SP]something[SP]happen?",
     "nom_fr": "???",
-    "texte_fr": "[1113].[000F][1205][000F][1205][000F][1205].. On te voit rarement ici. Mais t'es\nsûrement pas venu me voir. Quoi de neuf?"
+    "texte_fr": "[1113].[1205][1205][1205][000F][000F][000F].. On te voit rarement ici. Mais t'es\nsûrement pas venu me voir. Quoi de neuf?"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Katsuya",
     "texte_orig": "Hmph...[SP]You[SP]never[SP]change.[1205][000F][SP]How[SP]much[SP]longer[SP]are\nyou[SP]going[SP]to[SP]keep[SP]worrying[SP]our[SP]parents?",
     "nom_fr": "Katsuya",
-    "texte_fr": "Hmph... T'as pas changé. [000F][1205]Jusqu'à quand\nvas-tu continuer à inquiéter nos parents?"
+    "texte_fr": "Hmph... T'as pas changé. [1205][000F]Jusqu'à quand\nvas-tu continuer à inquiéter nos parents?"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Katsuya",
     "texte_orig": "I'm[SP]not[SP]asking[SP]you[SP]to[SP]understand[SP]me[SP]or[SP]our\nfather's[SP]position.[1205][000F][SP]But[SP]you[SP]have[SP]nothing[SP]to\ngain[SP]by[SP]running[SP]away.",
     "nom_fr": "Katsuya",
-    "texte_fr": "Je te demande pas de comprendre ma\nposition ni celle de notre père.\n[000F][1205]Mais tu n'as rien à gagner à fuir."
+    "texte_fr": "Je te demande pas de comprendre ma\nposition ni celle de notre père.\n[1205][000F]Mais tu n'as rien à gagner à fuir."
   },
   {
     "id": 4,
@@ -72,7 +72,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP]what's[SP]wrong[SP]with[SP]that[SP]guy?[1205][000F][SP]Did[SP]he[SP]commit\nsome[SP]crime?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hé, il a quoi ce\ntype? [000F][1205]Il a commis un crime?"
+    "texte_fr": "Hé, il a quoi ce\ntype? [1205][000F]Il a commis un crime?"
   },
   {
     "id": 5,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Wow,[SP]I[SP]didn't[SP]know[SP]you[SP]had[SP]a[SP]detective[SP]for\na[SP]brother,[SP][1113].[1205][000F][SP]But[SP]that's[SP]perfect!",
     "nom_fr": "Maya",
-    "texte_fr": "Waouh, je savais pas que t'avais un frère\ndétective, [1113]. [000F][1205]Mais c'est parfait!"
+    "texte_fr": "Waouh, je savais pas que t'avais un frère\ndétective, [1113]. [1205][000F]Mais c'est parfait!"
   },
   {
     "id": 8,
@@ -357,7 +357,7 @@
     "nom_orig": "Little[SP]Chii",
     "texte_orig": "Here,[SP]you[SP]can[SP]have[SP]my[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0004]Incense[SP]Card[SP]set[E4][NULL][NULL][0002].[1205][000F]\nIt[SP]took[SP]a[SP]long[SP]time[SP]for[SP]me[SP]to[SP]collect[SP]all\nthose![1205][000F][SP]Take[SP]good[SP]care[SP]of[SP]them.",
     "nom_fr": "Petite Chii",
-    "texte_fr": "Tiens, tu peux avoir mon [E4][NULL][NULL][0004][NULL][NULL][0004]kit de Cartes\n[000F][1205][000F][1205]Encens[E4][NULL][NULL][0002]. Ça m'a pris longtemps de tout\ncollecter! Prends-en bien soin.[U+1433]"
+    "texte_fr": "Tiens, tu peux avoir mon [E4][NULL][NULL][0004][NULL][NULL][0004]kit de Cartes\n[1205][1205][000F][000F]Encens[E4][NULL][NULL][0002]. Ça m'a pris longtemps de tout\ncollecter! Prends-en bien soin.[U+1433]"
   },
   {
     "id": 24,
@@ -372,7 +372,7 @@
     "nom_orig": "Little[SP]Chii",
     "texte_orig": "Look,[SP]officer![1205][000F][SP]I[SP]got[SP][1432][NULL][NULL][0014]hard[SP]evidence[1432][NULL][NULL][0014]![1205][000F][SP]Now[SP]you\nhave[SP]to[SP]believe[SP]me!",
     "nom_fr": "Petite Chii",
-    "texte_fr": "Regardez! [000F][1205][000F][1205]J'ai des [1432][NULL][NULL][0014]preuves![1432][NULL][NULL][0014]\nMaintenant vous devez me croire!"
+    "texte_fr": "Regardez! [1205][1205][000F][000F]J'ai des [1432][NULL][NULL][0014]preuves![1432][NULL][NULL][0014]\nMaintenant vous devez me croire!"
   },
   {
     "id": 25,
@@ -432,7 +432,7 @@
     "nom_orig": "Police[SP]officer",
     "texte_orig": "That's[SP]a[SP]statue[SP]of[SP]Coppy,[1205][000F][SP]the[SP]Sumaru[SP]PD[SP]mascot.\nIt's[SP]a[SP]talking[SP]doll[SP]AND[SP]a[SP]donation[SP]box!",
     "nom_fr": "Agent de police",
-    "texte_fr": "C'est Coppy, la mascotte de la police\n[000F][1205]de Sumaru. Poupée parlante ET tirelire!"
+    "texte_fr": "C'est Coppy, la mascotte de la police\n[1205][000F]de Sumaru. Poupée parlante ET tirelire!"
   },
   {
     "id": 29,
@@ -447,7 +447,7 @@
     "nom_orig": "Katsuya",
     "texte_orig": "The[SP]Masked[SP]Circle?[SP]What's[SP]that?[1205][000F][SP]If[SP]you[SP]try\nto[SP]distract[SP]public[SP]servants[SP]with[SP]these[SP]silly\nstories,[SP]being[SP]my[SP]brother[SP]won't[SP]help[SP]you!",
     "nom_fr": "Katsuya",
-    "texte_fr": "Le Cercle masqué? C'est quoi ça? [000F][1205]Si tu\nessaies de distraire des agents avec ces\nhistoires, être mon frère ne te sauvera pas!"
+    "texte_fr": "Le Cercle masqué? C'est quoi ça? [1205][000F]Si tu\nessaies de distraire des agents avec ces\nhistoires, être mon frère ne te sauvera pas!"
   },
   {
     "id": 30,
@@ -537,7 +537,7 @@
     "nom_orig": "Police[SP]officer",
     "texte_orig": "Uhhh...[SP][1113],[SP]right?[SP]I[SP]hope[SP]you[SP]grow[SP]up[SP]to\nbe[SP]as[SP]good[SP]a[SP]cop[SP]as[SP]your[SP]brother...[1205][000F][SP]Huh?[SP]That's\nnot[SP]your[SP]plan?[SP]Well,[SP]that's[SP]disappointing.",
     "nom_fr": "Agent de police",
-    "texte_fr": "Euh... [1113], c'est ça? J'espère que tu\ngrandiras pour être aussi bon flic que ton\n[000F][1205]frère... Hein? C'est pas ton plan? Dommage."
+    "texte_fr": "Euh... [1113], c'est ça? J'espère que tu\ngrandiras pour être aussi bon flic que ton\n[1205][000F]frère... Hein? C'est pas ton plan? Dommage."
   },
   {
     "id": 36,
@@ -582,7 +582,7 @@
     "nom_orig": "Female[SP]officer's[SP]voice",
     "texte_orig": "*whisper*[SP]*whisper*[1205][000F]\nWhat!?[SP]Are[SP]you[SP]after[SP]Katsuya[SP]too?[1205][000F]\n*whisper*[SP]*whisper*",
     "nom_fr": "Voix d'une agente",
-    "texte_fr": "*chut* *chut* Quoi![000F][1205][000F][1205]? T'es aussi\naprès Katsuya? *chut* *chut*"
+    "texte_fr": "*chut* *chut* Quoi![1205][1205][000F][000F]? T'es aussi\naprès Katsuya? *chut* *chut*"
   },
   {
     "id": 39,
@@ -597,7 +597,7 @@
     "nom_orig": "Female[SP]officer's[SP]voice",
     "texte_orig": "*whisper*[SP]*whisper*[1205][000F]\nHey,[SP]not[SP]so[SP]loud![1205][000F]\n*whisper*[SP]*whisper*",
     "nom_fr": "Voix d'une agente",
-    "texte_fr": "*chut* *chut* Hé, pas\n[000F][1205][000F][1205]si fort! *chut* *chut*"
+    "texte_fr": "*chut* *chut* Hé, pas\n[1205][1205][000F][000F]si fort! *chut* *chut*"
   },
   {
     "id": 40,
@@ -612,7 +612,7 @@
     "nom_orig": "Female[SP]officer's[SP]voice",
     "texte_orig": "*whisper*[SP]*whisper*[1205][000F]\nBut[SP]there's[SP]so[SP]much[SP]competition![1205][000F]\n*whisper*[SP]*whisper*",
     "nom_fr": "Voix d'une agente",
-    "texte_fr": "*chut* *chut* Mais y'a tellement\n[000F][1205][000F][1205]de concurrence! *chut* *chut*"
+    "texte_fr": "*chut* *chut* Mais y'a tellement\n[1205][1205][000F][000F]de concurrence! *chut* *chut*"
   },
   {
     "id": 41,
@@ -627,7 +627,7 @@
     "nom_orig": "Female[SP]officer's[SP]voice",
     "texte_orig": "*whisper*[SP]*whisper*[1205][000F]\nYou[SP]think[SP]he's[SP]out[SP]of[SP]my[SP]league?[1205][000F]\n*whisper*[SP]*whisper*",
     "nom_fr": "Voix d'une agente",
-    "texte_fr": "*chut* *chut* Tu crois qu'il est\n[000F][1205][000F][1205]hors de ma portée? *chut* *chut*"
+    "texte_fr": "*chut* *chut* Tu crois qu'il est\n[1205][1205][000F][000F]hors de ma portée? *chut* *chut*"
   },
   {
     "id": 42,
@@ -642,7 +642,7 @@
     "nom_orig": "Female[SP]officer's[SP]voice",
     "texte_orig": "*whisper*[SP]*whisper*[1205][000F]\nWell,[SP]good[SP]news![SP]There's[SP]this[SP]Joker[SP]Game...[1205][000F]\n*whisper*[SP]*whisper*",
     "nom_fr": "Voix d'une agente",
-    "texte_fr": "*chut* *chut* Bonne nouvelle! [000F][1205][000F][1205]Il y\na ce Jeu de Joker... *chut* *chut*"
+    "texte_fr": "*chut* *chut* Bonne nouvelle! [1205][1205][000F][000F]Il y\na ce Jeu de Joker... *chut* *chut*"
   },
   {
     "id": 43,
@@ -712,7 +712,7 @@
     "nom_orig": "Coppy",
     "texte_orig": "Arf![1205][000F][SP]5,000[SP]yen[SP]in[SP]the[SP]fund![1205][000F][SP]Terrierific![SP]Arf!",
     "nom_fr": "Coppy",
-    "texte_fr": "Ouaf! [000F][1205][000F][1205]5 000 yens! Terrierfique! Ouaf!"
+    "texte_fr": "Ouaf! [1205][1205][000F][000F]5 000 yens! Terrierfique! Ouaf!"
   },
   {
     "id": 47,
@@ -727,7 +727,7 @@
     "nom_orig": "Coppy",
     "texte_orig": "Arf![1205][000A][SP]10,000[SP]yen[SP]in[SP]the[SP]fund![1205][000F][SP]And[SP]it's[SP]all\nthanks[SP]to[SP]citizens[SP]like[SP]you![SP]Arf!",
     "nom_fr": "Coppy",
-    "texte_fr": "Ouaf![1205][000A][1205] 10 000 yens! [000F]Merci aux\ncitoyens comme toi! Ouaf!"
+    "texte_fr": "Ouaf![1205][1205][000A] 10 000 yens! [000F]Merci aux\ncitoyens comme toi! Ouaf!"
   },
   {
     "id": 48,
@@ -742,7 +742,7 @@
     "nom_orig": "Coppy",
     "texte_orig": "Here's[SP]a[SP]gift[SP]as[SP]thanks![1205][000F][SP]It's[SP]an[SP][E4][NULL][NULL][0004]Incense[SP]Set[E4][NULL][NULL][0002]![1205][000F]\nTwo[SP]of[SP]each[SP]kind![SP]Arf!",
     "nom_fr": "Coppy",
-    "texte_fr": "Cadeau! [000F][1205][000F][1205]Un [E4][NULL][NULL][0004]Kit d'Encens[E4][NULL][NULL][0002]!\nDeux de chaque sorte! Ouaf!"
+    "texte_fr": "Cadeau! [1205][1205][000F][000F]Un [E4][NULL][NULL][0004]Kit d'Encens[E4][NULL][NULL][0002]!\nDeux de chaque sorte! Ouaf!"
   },
   {
     "id": 49,
@@ -772,6 +772,6 @@
     "nom_orig": "Coppy",
     "texte_orig": "...[1205][000F]Tightwad.",
     "nom_fr": "",
-    "texte_fr": "...[000F][1205]Radin."
+    "texte_fr": "...[1205][000F]Radin."
   }
 ]
