@@ -42,7 +42,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Why[SP]aren't[SP]the[SP]people[SP]here[SP]running?[SP]Eh,[SP]I[SP]guess\nthere's[SP]nowhere[SP]to[SP]run[SP]with[SP]the[SP]city[SP]in[SP]the\nsky...[1205][000F][SP]They[SP]seem[SP]pretty[SP]casual[SP]about[SP]all[SP]this.",
     "nom_fr": "Ginko",
-    "texte_fr": "Pourquoi les gens ne\nfuient pas? Bah, il n'y\na nulle part où aller\navec la ville dans les\n[000F][1205]airs... Ils ont l'air bien détendus."
+    "texte_fr": "Pourquoi les gens ne\nfuient pas? Bah, il n'y\na nulle part où aller\navec la ville dans les\n[1205][000F]airs... Ils ont l'air bien détendus."
   },
   {
     "id": 3,
@@ -87,7 +87,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Y-Yeah...[1205][000F][SP]I'm[SP]not[SP]Joker[SP]anymore,[SP]but[SP]I[SP]think\nit'll[SP]still[SP]come[SP]true[SP]if[SP]the[SP]rumor's[SP]spread...",
     "nom_fr": "Jun",
-    "texte_fr": "O-Oui.[000F][1205].. Je ne suis plus le Joker, mais\nça marchera si la rumeur se répand..."
+    "texte_fr": "O-Oui.[1205][000F].. Je ne suis plus le Joker, mais\nça marchera si la rumeur se répand..."
   },
   {
     "id": 6,
@@ -147,7 +147,7 @@
     "nom_orig": "Inveterate[SP]gambler",
     "texte_orig": "The[SP]Last[SP]Battalion...[SP]They're[SP]a[SP]real[SP]wild[SP]card.[1205][000F]\nThe[SP]stakes[SP]are[SP]this[SP]entire[SP]city...[SP]What's[SP]going\nto[SP]decide[SP]Sumaru's[SP]fate...[SP]is[SP]cards...",
     "nom_fr": "Joueur invétéré",
-    "texte_fr": "Le Bataillon... Un vrai\njoker dans la partie.\n[000F][1205]L'enjeu, c'est toute la ville... Ce qui\ndécidera du sort de\nSumaru... les  cartes..."
+    "texte_fr": "Le Bataillon... Un vrai\njoker dans la partie.\n[1205][000F]L'enjeu, c'est toute la ville... Ce qui\ndécidera du sort de\nSumaru... les cartes..."
   },
   {
     "id": 10,
@@ -233,7 +233,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gérant",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée\n> Le gérant s'est absenté...[B_00][U+5501][B_00]",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée\n Le gérant s'est absenté...[B_00][U+5501][B_00]",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -259,7 +259,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What?[SP]You[SP]still[SP]want[SP]something?[1205][000F]\n...Nah,[SP]just[SP]kidding.[SP]What'll[SP]it[SP]be?\n[1208][0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave",
     "nom_fr": "Gérant",
-    "texte_fr": "Quoi? Encore un truc?\n...[000F][1205]Non, je rigole. Que désirez-vous?\n[1208][0005]Acheter des jetons\nÉchanger des prix\nParler au gérant\nAnnuler\nSortir",
+    "texte_fr": "Quoi? Encore un truc?\n...[1205][000F]Non, je rigole. Que désirez-vous?\n[1208][0005]Acheter des jetons\nÉchanger des prix\nParler au gérant\nAnnuler\nSortir",
     "question_orig": "What?[SP]You[SP]still[SP]want[SP]something?[1205][000F]\n...Nah,[SP]just[SP]kidding.[SP]What'll[SP]it[SP]be?",
     "choix_orig": [
       "Buy[SP]coins",

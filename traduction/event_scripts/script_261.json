@@ -434,7 +434,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Huh...[SP]You[SP]were[SP]at[SP]Sevens'[SP]clock[SP]tower...[1205][000F][SP]and\nyou[SP]saw[SP]a[SP]real[SP]ghost?[SP]Yikes,[SP]I'm[SP]not[SP]much[SP]for\nspooky[SP]stuff.[1205][000F][SP]I'll[SP]tell[SP]you[SP]a[SP]story[SP]instead.",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Hm... À la tour de Seven, un vrai fantôme?\n[000F][1205][000F][1205]Oh là là, les trucs effrayants, c'est pas\nmon truc. Voici une histoire à la place."
+    "texte_fr": "Hm... À la tour de Seven, un vrai fantôme?\n[1205][000F][1205][000F]Oh là là, les trucs effrayants, c'est pas\nmon truc. Voici une histoire à la place."
   },
   {
     "id": 22,
@@ -509,7 +509,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "You[SP]know[SP]the[SP][E4][NULL][NULL][0006]Jolly[SP]Roger[E4][NULL][NULL][0002][SP]cafe[SP]in[SP]Kounan?[1205][000F]\nThey[SP]supposedly[SP]sell[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002].[1205][000F][SP]Their\nselection[SP]is[SP][E4][NULL][NULL][0006]cheap[SP]and[SP]low[SP]quality[E4][NULL][NULL][0002].",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Vous connaissez [E4][NULL][NULL][0006]Jolly Roger[E4][NULL][NULL][0002] à Kounan?\n[000F][1205][000F][1205]Ils vendent de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002]. Leur choix\nest [E4][NULL][NULL][0006]bon marché, mauvaise qualité[E4][NULL][NULL][0002]."
+    "texte_fr": "Vous connaissez [E4][NULL][NULL][0006]Jolly Roger[E4][NULL][NULL][0002] à Kounan?\n[1205][000F][1205][000F]Ils vendent de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002]. Leur choix\nest [E4][NULL][NULL][0006]bon marché, mauvaise qualité[E4][NULL][NULL][0002]."
   },
   {
     "id": 27,
@@ -539,7 +539,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "The[SP]rumor[SP]is[SP]that[SP][E4][NULL][NULL][0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]sells\n[E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002].[1205][000F][SP]They[SP]have[SP][E4][NULL][NULL][0006]reasonable[SP]prices,\nbut[SP]low-quality[SP]stuff[E4][NULL][NULL][0002].",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "[E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] vend de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]. [000F][1205][E4][NULL][NULL][0006]Prix\nraisonnables, mais qualité médiocre[E4][NULL][NULL][0002]."
+    "texte_fr": "[E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] vend de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]. [1205][000F][E4][NULL][NULL][0006]Prix\nraisonnables, mais qualité médiocre[E4][NULL][NULL][0002]."
   },
   {
     "id": 29,
@@ -569,7 +569,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "There's[SP]a[SP]rumor[SP]you[SP]can[SP]buy[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002][SP]at\n[E4][NULL][NULL][0006]Anima[SP]Mundi[E4][NULL][NULL][0002][SP]in[SP]Yumezaki.[1205][000F][SP]Their[SP]stuff[SP]is\n[E4][NULL][NULL][0006]cheap[SP]and[SP]subpar[SP]quality[E4][NULL][NULL][0002].",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "De [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002] chez\n[E4][NULL][NULL][0006]Anima Mundi[E4][NULL][NULL][0002] à Yumezaki.\n[000F][1205]Leur sélection: [E4][NULL][NULL][0006]bon marché, piètre qualité[E4][NULL][NULL][0002]."
+    "texte_fr": "De [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002] chez\n[E4][NULL][NULL][0006]Anima Mundi[E4][NULL][NULL][0002] à Yumezaki.\n[1205][000F]Leur sélection: [E4][NULL][NULL][0006]bon marché, piètre qualité[E4][NULL][NULL][0002]."
   },
   {
     "id": 31,
@@ -629,7 +629,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "There's[SP]a[SP]shop[SP]called[SP][E4][NULL][NULL][0006]London[SP]Clothier[E4][NULL][NULL][0002][SP]in[SP]Kounan\nthat[SP]even[SP]tailors[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002].[1205][000F][SP]The[SP][E4][NULL][NULL][0006]quality[SP]is\nsubpar,[SP]but[SP]they're[SP]cheap[E4][NULL][NULL][0002].",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "[E4][NULL][NULL][0006]London Clothier[E4][NULL][NULL][0002] à Kounan confectionne de\n[E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]. [000F][1205][E4][NULL][NULL][0006]Qualité médiocre, mais pas\ncher[E4][NULL][NULL][0002]."
+    "texte_fr": "[E4][NULL][NULL][0006]London Clothier[E4][NULL][NULL][0002] à Kounan confectionne de\n[E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]. [1205][000F][E4][NULL][NULL][0006]Qualité médiocre, mais pas\ncher[E4][NULL][NULL][0002]."
   },
   {
     "id": 35,
@@ -659,7 +659,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]is[SP]that[SP]exactly?[1205][000F][SP]Some[SP]kind[SP]of[SP]special\njob...?[1205][000F][SP]Well,[SP]anyways.[SP]Here's[SP]what[SP]I[SP]know.",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "C'est quoi exactement? [000F][1205][000F][1205]Un genre de métier\nspécial...? Bref. Voilà ce que je sais."
+    "texte_fr": "C'est quoi exactement? [1205][000F][1205][000F]Un genre de métier\nspécial...? Bref. Voilà ce que je sais."
   },
   {
     "id": 37,
@@ -719,7 +719,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Do[SP]you[SP]know[SP]the[SP]arcade[SP][E4][NULL][NULL][0006]Mu[E4][NULL][NULL][0002]?[1205][000F][SP]I[SP]hear[SP]that[SP]place\nis[SP]really[SP]a[SP][E4][NULL][NULL][0006]casino[E4][NULL][NULL][0002],[SP]and[SP]people[SP]can[SP]make[SP]a[SP][E4][NULL][NULL][0006]ton\nof[SP]money[SP]on[SP]the[SP]slots[E4][NULL][NULL][0002].",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Vous connaissez [E4][NULL][NULL][0006]Mu[E4][NULL][NULL][0002]? [000F][1205]C'est en réalité\nun [E4][NULL][NULL][0006]casino[E4][NULL][NULL][0002], et on peut se faire une\n[E4][NULL][NULL][0006]belle somme aux machines à sous[E4][NULL][NULL][0002]."
+    "texte_fr": "Vous connaissez [E4][NULL][NULL][0006]Mu[E4][NULL][NULL][0002]? [1205][000F]C'est en réalité\nun [E4][NULL][NULL][0006]casino[E4][NULL][NULL][0002], et on peut se faire une\n[E4][NULL][NULL][0006]belle somme aux machines à sous[E4][NULL][NULL][0002]."
   },
   {
     "id": 41,
@@ -749,7 +749,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Huh?[SP]Masked[SP]Circle?[SP]I've[SP]never[SP]heard[SP]of[SP]it.[1205][000F]\nIs[SP]that[SP]some[SP]kind[SP]of[SP]organization?[SP]And[SP]these\npeople[SP]are[SP]here,[SP]in[SP]this[SP]city?",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Hm? Cercle masqué? Jamais entendu\n[000F][1205]parler. C'est une organisation? Et\nils sont ici, dans cette ville?"
+    "texte_fr": "Hm? Cercle masqué? Jamais entendu\n[1205][000F]parler. C'est une organisation? Et\nils sont ici, dans cette ville?"
   },
   {
     "id": 43,
@@ -764,7 +764,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "That's[SP]big.[SP]I[SP]should[SP]look[SP]into[SP]it[SP]immediately.[1205][000F]\nHmm,[SP]maybe[SP]the[SP]girl[SP]at[SP]Peace[SP]Diner[SP]might[SP]know\nmore.[SP]Have[SP]you[SP]tried[SP]asking[SP]her[SP]about[SP]them?",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "C'est sérieux. Je dois me renseigner.\n[000F][1205]Hmm, la fille de Peace Diner en sait\npeut-être plus. Lui avez-vous demandé?"
+    "texte_fr": "C'est sérieux. Je dois me renseigner.\n[1205][000F]Hmm, la fille de Peace Diner en sait\npeut-être plus. Lui avez-vous demandé?"
   },
   {
     "id": 44,
@@ -779,7 +779,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Looks[SP]like[SP]you've[SP]got[SP]a[SP]lot[SP]of[SP]rumors[SP]ready\nto[SP]unload.[1205][000F][SP]I'll[SP]gather[SP]some[SP]new[SP]ones[SP]too,\nso[SP]let's[SP]swap[SP]stories[SP]then.",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "On dirait que vous avez des rumeurs\nà partager. [000F][1205]Je vais en collecter\naussi, alors échangeons bientôt."
+    "texte_fr": "On dirait que vous avez des rumeurs\nà partager. [1205][000F]Je vais en collecter\naussi, alors échangeons bientôt."
   },
   {
     "id": 45,
@@ -899,7 +899,7 @@
     "nom_orig": "Company[SP]president",
     "texte_orig": "Hwaha![SP]I've[SP]finally[SP]been[SP]promoted[SP]to[SP]president.\nEating[SP]sushi[SP]at[SP]lunch[SP]while[SP]my[SP]underlings[SP]do\nall[SP]the[SP]work[SP]proves[SP]I've[SP]gone[SP]up[SP]the[SP]ladder!",
     "nom_fr": "PDG",
-    "texte_fr": "Hahaha! J'ai enfin été promu président.\nManger des sushis le midi pendant que mes\nsubordonnés bossent prouve\nque j'ai  réussi!"
+    "texte_fr": "Hahaha! J'ai enfin été promu président.\nManger des sushis le midi pendant que mes\nsubordonnés bossent prouve\nque j'ai réussi!"
   },
   {
     "id": 53,
@@ -1004,7 +1004,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "The[SP]third[SP]member[SP]of[SP]Muses[SP]has[SP]finally[SP]been\nannounced![1205][000F][SP]Sadly,[SP]I[SP]only[SP]heard[SP]her[SP]voice[SP]over\nthe[SP]radio...[SP]I[SP]can't[SP]wait[SP]to[SP]see[SP]her[SP]face!",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Le troisième membre des Muses enfin\n[000F][1205]annoncé! Hélas, que sa voix à la\nradio... J'ai hâte de voir son visage!"
+    "texte_fr": "Le troisième membre des Muses enfin\n[1205][000F]annoncé! Hélas, que sa voix à la\nradio... J'ai hâte de voir son visage!"
   },
   {
     "id": 60,
@@ -1034,7 +1034,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Smile[SP]Hirasaka's[SP]just[SP]an[SP]ordinary[SP]train\nstation.[1205][000F][SP]What[SP]do[SP]the[SP]terrorists[SP]hope[SP]to\ngain[SP]by[SP]blowing[SP]it[SP]up?",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Smile Hirasaka n'est qu'une gare ordinaire.\n[000F][1205]Qu'espèrent les terroristes\nà la faire sauter?"
+    "texte_fr": "Smile Hirasaka n'est qu'une gare ordinaire.\n[1205][000F]Qu'espèrent les terroristes\nà la faire sauter?"
   },
   {
     "id": 62,
@@ -1109,7 +1109,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Rumor[SP]has[SP]it[SP]that[SP]the[SP]ghost[SP]Hanako-san[SP]is\nhaunting[SP]Sevens.[1205][000F][SP]Does[SP]she[SP]actually[SP]exist?",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "On dit que le fantôme Hanako-san\nhante Seven. [000F][1205]Existe-t-elle vraiment?"
+    "texte_fr": "On dit que le fantôme Hanako-san\nhante Seven. [1205][000F]Existe-t-elle vraiment?"
   },
   {
     "id": 67,
@@ -1139,7 +1139,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]heard[SP]the[SP]ghost[SP]of[SP]an[SP]idol[SP]who[SP]starved[SP]to\ndeath[SP]at[SP]Aoba[SP]Park[SP]is[SP]appearing[SP]there.[SP]That's\none[SP]of[SP]the[SP]saddest[SP]things[SP]I've[SP]ever[SP]heard...",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Le fantôme d'une idole\nmorte de faim au parc\nAoba y apparaît. C'est l'une des choses les\nplus tristes que j'aie  entendues..."
+    "texte_fr": "Le fantôme d'une idole\nmorte de faim au parc\nAoba y apparaît. C'est l'une des choses les\nplus tristes que j'aie entendues..."
   },
   {
     "id": 69,
@@ -1199,7 +1199,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Apparently,[SP]Kuchisake-onna[SP]is[SP]at[SP]Mt.[SP]Iwato.\nMy[SP]teachers[SP]used[SP]to[SP]say[SP]that[SP]if[SP]I[SP]didn't[SP]head\nstraight[SP]home[SP]after[SP]school,[SP]she'd[SP]get[SP]me.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Kuchisake-onna rôderait au Mont Iwato. Mes\nprofs disaient que si je ne rentrais pas\nvite après l'école, elle  m'attraperait."
+    "texte_fr": "Kuchisake-onna rôderait au Mont Iwato. Mes\nprofs disaient que si je ne rentrais pas\nvite après l'école, elle m'attraperait."
   },
   {
     "id": 73,
@@ -1229,7 +1229,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Gah...[1205][000F][SP]I[SP]heard[SP]something[SP]awful...[1205][000F][SP]K-Kudan's...\nKudan's[SP]at[SP]the[SP]abandoned[SP]factory...[1205][000F][SP]No,[SP]I[SP]don't\nwant[SP]to[SP]think[SP]about[SP]it![E1][E2]\n\n\n[E3][E4][NULL][NULL]\"Sushi[SP]Royalty\nYou[SP]know[SP]about[SP]Giga[SP]Macho's[SP]secret[SP]CD?[1205][000F]\nI[SP]hear[SP]there[SP]is[SP]one.[SP]I'd[SP]love[SP]to[SP]know[SP]what\nkind[SP]of[SP]tracks[SP]are[SP]on[SP]it.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Argh.[000F][1205][000F][1205][000F][1205][000F][1205].. J'ai ouï quelque chose\nd'horrible... Kudan... Kudan est à\nl'usine abandonnée... Non,\nj'veux pasy penser![E1][E2]\n[E3][E4][NULL][NULL]\"Sushi Royalty\nVous savez pour\nle CD de Giga Macho? On dit\nqu'il existe.Je veux savoir quels morceaux sont dessus."
+    "texte_fr": "Argh.[1205][000F][1205][000F][1205][000F][1205][000F].. J'ai ouï quelque chose\nd'horrible... Kudan... Kudan est à\nl'usine abandonnée... Non,\nj'veux pasy penser![E1][E2]\n[E3][E4][NULL][NULL]\"Sushi Royalty\nVous savez pour\nle CD de Giga Macho? On dit\nqu'il existe.Je veux savoir quels morceaux sont dessus."
   },
   {
     "id": 75,
@@ -1244,7 +1244,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "The[SP]dreaded[SP]Dresser[SP]Hag[SP]is[SP]apparently[SP]showing\nup[SP]at[SP]the[SP]abandoned[SP]factory[SP]in[SP]Kounan.[1205][000F][SP]What\nkind[SP]of[SP]monster[SP]is[SP]that,[SP]I[SP]ask[SP]you?",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "La Sorcière du Placard semble\napparaître à l'usine abandonnée de\n[000F][1205]Kounan. C'est quoi comme monstre, ça?"
+    "texte_fr": "La Sorcière du Placard semble\napparaître à l'usine abandonnée de\n[1205][000F]Kounan. C'est quoi comme monstre, ça?"
   },
   {
     "id": 76,

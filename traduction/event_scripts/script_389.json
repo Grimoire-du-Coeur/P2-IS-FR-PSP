@@ -12,7 +12,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Hellooooo![1205][000F][SP]Welcome[SP]to[SP]the[SP]record[SP]store\nGIGA[SP]MACHOOOO![SP]State[SP]your[SP]business!\n[1208][0004]Buy[SP]CDs\nTalk[SP]to[SP]employee\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Employé",
-    "texte_fr": "Bonjooouuuur! [000F][1205]Bienvenue au\nmagasin de disques\nGIGA MACHO! Que vous faut-il?\n[1208][0004]Acheter des CDs\nParler\nAnnuler\nQuitter",
+    "texte_fr": "Bonjooouuuur! [1205][000F]Bienvenue au\nmagasin de disques\nGIGA MACHO! Que vous faut-il?\n[1208][0004]Acheter des CDs\nParler\nAnnuler\nQuitter",
     "question_orig": "Hellooooo![1205][000F][SP]Welcome[SP]to[SP]the[SP]record[SP]store\nGIGA[SP]MACHOOOO![SP]State[SP]your[SP]business!",
     "choix_orig": [
       "Buy[SP]CDs",
@@ -107,7 +107,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Heeeey...[SP]Does[SP]that[SP]blonde[SP]girl[SP]with[SP]you[SP]happen\nto[SP]be[SP]Lisa-san[SP]from[SP]Muses?[1205][000F][SP]Whoa![SP]She's[SP]the[SP]real\ndeal!",
     "nom_fr": "Employé",
-    "texte_fr": "Heeey... La fille blonde avec\nvous, c'est pas Lisa des Muses par\n[000F][1205]hasard? Waouh! C'est bien elle!"
+    "texte_fr": "Heeey... La fille blonde avec\nvous, c'est pas Lisa des Muses par\n[1205][000F]hasard? Waouh! C'est bien elle!"
   },
   {
     "id": 5,
@@ -137,7 +137,7 @@
     "nom_orig": "Employee",
     "texte_orig": "*sigh*[1205][000F][SP]We've[SP]lost[SP]so[SP]many[SP]customers[SP]to[SP]this\nawful[SP]terror[SP]wave...[1205][000F][SP]I[SP]should[SP]sue[SP]for\nobstruction[SP]of[SP]business.",
     "nom_fr": "Employé",
-    "texte_fr": "*soupir* Avec cette vague de terreur,\n[000F][1205][000F][1205]on a perdu tant de clients... Je\ndevrais porter plainte!"
+    "texte_fr": "*soupir* Avec cette vague de terreur,\n[1205][000F][1205][000F]on a perdu tant de clients... Je\ndevrais porter plainte!"
   },
   {
     "id": 7,
@@ -152,7 +152,7 @@
     "nom_orig": "Employee",
     "texte_orig": "We[SP]have[SP]a[SP]new[SP]Secondo[SP]corner[SP]now.[SP]As[SP]hectic[SP]as\nthings[SP]are[SP]in[SP]this[SP]world,[SP]you[SP]should[SP]try[SP]and\nrelax[SP]with[SP]some[SP]tunes.",
     "nom_fr": "Employé",
-    "texte_fr": "On a un nouveau rayon Secondo. Aussi\nmouvementé que soit le monde, essayez\nde vous détendre avec de la  musique."
+    "texte_fr": "On a un nouveau rayon Secondo. Aussi\nmouvementé que soit le monde, essayez\nde vous détendre avec de la musique."
   },
   {
     "id": 8,
@@ -182,7 +182,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Man,[SP]you[SP]always[SP]have[SP]the[SP]best[SP]timing.[SP]We[SP]juuust\ngot[SP]in[SP]some[SP]new[SP]singles[SP]in[SP]the[SP]Terzo[SP]corner.[1205][000F]\nHere,[SP]come[SP]take[SP]a[SP]look.",
     "nom_fr": "Employé",
-    "texte_fr": "Wah, vous tombez bien. On vient juuuste\nde recevoir des nouveaux singles dans\n[000F][1205]le rayon Terzo. Venez voir!"
+    "texte_fr": "Wah, vous tombez bien. On vient juuuste\nde recevoir des nouveaux singles dans\n[1205][000F]le rayon Terzo. Venez voir!"
   },
   {
     "id": 10,
@@ -197,7 +197,7 @@
     "nom_orig": "Employee",
     "texte_orig": "The[SP]city's[SP]a[SP]mess[SP]right[SP]now,[SP]but[SP]we[SP]did[SP]get\nour[SP]scheduled[SP]delivery[SP]of[SP]new[SP]material.[1205][000F][SP]I've\nfinally[SP]put[SP]together[SP]a[SP]Quarto[SP]corner.",
     "nom_fr": "Employé",
-    "texte_fr": "La ville est sens dessus dessous, mais on a\nquand même reçu\nnotre livraison de nouvelles\n[000F][1205]sorties. J'ai monté un rayon Quarto."
+    "texte_fr": "La ville est sens dessus dessous, mais on a\nquand même reçu\nnotre livraison de nouvelles\n[1205][000F]sorties. J'ai monté un rayon Quarto."
   },
   {
     "id": 11,
@@ -227,7 +227,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Now[SP]that's[SP]weird...[1205][000F][SP]Did[SP]we[SP]used[SP]to[SP]carry[SP]this\n[1432][NULL][NULL][0014]secret[SP]CD[1432][NULL][NULL][0014]?[1205][000F][SP]Huh,[SP]well,[SP]I[SP]see[SP]we[SP]have[SP]it[SP]in\nstock...[SP]so[SP]I[SP]guess[SP]we[SP]carry[SP]it[SP]now!",
     "nom_fr": "Employé",
-    "texte_fr": "C'est bizarre..[000F][1205][000F][1205]. On avait ce [1432][NULL][NULL][0014]CD secret[1432][NULL][NULL][0014]\nen stock? Bah, je vois qu'on l'a en\nrayon... donc je suppose qu'on le vend !"
+    "texte_fr": "C'est bizarre..[1205][000F][1205][000F]. On avait ce [1432][NULL][NULL][0014]CD secret[1432][NULL][NULL][0014]\nen stock? Bah, je vois qu'on l'a en\nrayon... donc je suppose qu'on le vend !"
   },
   {
     "id": 13,
@@ -272,7 +272,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Wow,[SP]you're[SP]something[SP]else.[1205][000F][SP]You've[SP]bought[SP]up\nevery[SP]CD[SP]in[SP]the[SP]shop![SP]Thanks,[SP]thanks,[SP]and[SP]in\ncase[SP]I[SP]forget,[SP]thanks!",
     "nom_fr": "Employé",
-    "texte_fr": "Waouh, vous êtes incroyable. [000F][1205]Vous\navez acheté tous les CDs! Merci,\nmerci, et au cas où j'oublie, merci!"
+    "texte_fr": "Waouh, vous êtes incroyable. [1205][000F]Vous\navez acheté tous les CDs! Merci,\nmerci, et au cas où j'oublie, merci!"
   },
   {
     "id": 16,
@@ -417,7 +417,7 @@
     "nom_orig": "Employee",
     "texte_orig": "Hmm?[1205][000F][SP]The[SP]Quarto[SP]corner's[SP]sold[SP]out?[1205][000F][SP]That[SP]was...\ndisappointingly[SP]quick...[1205][000F][SP]But[SP]I[SP]won't[SP]complain!",
     "nom_fr": "Employé",
-    "texte_fr": "Hm? [000F][1205][000F][1205][000F][1205]Le rayon Quarto est épuisé? C'était...\nsacrément rapide... Mais je me plains pas!"
+    "texte_fr": "Hm? [1205][000F][1205][000F][1205][000F]Le rayon Quarto est épuisé? C'était...\nsacrément rapide... Mais je me plains pas!"
   },
   {
     "id": 25,
