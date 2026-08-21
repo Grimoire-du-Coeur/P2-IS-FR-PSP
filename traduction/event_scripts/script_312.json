@@ -117,7 +117,7 @@
     "nom_orig": "Jun",
     "texte_orig": "I[SP]want[SP]to[SP]believe[SP]that's[SP]the[SP]dominant[SP]side.[1205][000A]\nAnd[SP]it's[SP]because[SP]I'm[SP]with[SP]you[SP]all[SP]that[SP]I[SP]can\nbelieve[SP]that.[1205][000F][SP]Let's[SP]stay[SP]together[SP]to[SP]the[SP]end...",
     "nom_fr": "Jun",
-    "texte_fr": "Je veux croire que c'est cette part qui\n[1205]domine.[1205][000A] C'est d'être avec\nvous qui me fait y croire. [000F]Restons ensemble jusqu'à la fin..."
+    "texte_fr": "Je veux croire que c'est cette part qui[1205][000A]\ndomine.[1205][000A] C'est d'être avec\nvous qui me fait y croire. [000F]Restons ensemble jusqu'à la fin..."
   },
   {
     "id": 8,
@@ -319,7 +319,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "I[SP]may[SP]be[SP]an[SP]ex-spy,[SP]but[SP]this[SP]is[SP]way[SP]out[SP]of[SP]my\nleague.[1205][000F][SP]There's[SP]nothin'[SP]I[SP]can[SP]do.",
     "nom_fr": "Cheffe",
-    "texte_fr": "Même ex-espion, c'est hors de mes\n[1205]compétences. [000F]Je n'y peux rien."
+    "texte_fr": "Même ex-espion, c'est hors de mes[1205][000F]\ncompétences. [000F]Je n'y peux rien."
   },
   {
     "id": 16,
@@ -454,7 +454,7 @@
     "nom_orig": "Washout[SP]student",
     "texte_orig": "Not[SP]long[SP]after[SP]that,[SP]I[SP]started[SP]hearing[SP]these\ngunshots[SP]and[SP]screams...[1205][000F][SP]Ugh![SP]There's[SP]danger\neverywhere[SP]in[SP]this[SP]city,[SP]just[SP]like[SP]I[SP]thought.",
     "nom_fr": "Lycéen en échec",
-    "texte_fr": "Peu après, j'ai entendu des coups de feu\net des cris... [1205]Ugh! [000F]Je savais qu'il y\navait du danger partout dans cette ville."
+    "texte_fr": "Peu après, j'ai entendu des coups de feu\net des cris... [1205][000F] Ugh! [000F]Je savais qu'il y\navait du danger partout dans cette ville."
   },
   {
     "id": 25,
@@ -484,7 +484,7 @@
     "nom_orig": "Bodyguard",
     "texte_orig": "Even[SP]worse[SP]are[SP]these[SP]horrible[SP]rumors[SP]going\naround[SP]about[SP]how[SP]it's[SP]gonna[SP]end[SP]down[SP]there.[1205][000F]\nI[SP]look[SP]like[SP]a[SP]saint[SP]next[SP]to[SP]these[SP]guys...",
     "nom_fr": "Garde du corps",
-    "texte_fr": "Le pire ce sont les rumeurs sur la\nfin du monde là-bas. [1205]Même moi j'ai\n[000F]l'air d'un saint à côté d'eux..."
+    "texte_fr": "Le pire ce sont les rumeurs sur la\nfin du monde là-bas. [1205][000F] Même moi j'ai\n[000F]l'air d'un saint à côté d'eux..."
   },
   {
     "id": 27,
@@ -559,7 +559,7 @@
     "nom_orig": "Bodyguard",
     "texte_orig": "An[SP]average[SP]joe[SP]like[SP]me[SP]has[SP]no[SP]idea[SP]about[SP]that\nstuff...[1205][000F][SP]But[SP]is[SP]that[SP]how[SP]things[SP]are[SP]gonna[SP]be?[1205][000F]\nAren't[SP]we[SP]talking[SP]about[SP]Mother[SP]Nature[SP]here?",
     "nom_fr": "Garde du corps",
-    "texte_fr": "Un simple citoyen comme moi ne peut pas\n[1205][1205]comprendre.[000F][000F].. Mais c'est censé se passer\ncomme ça? On parle de Mère Nature là, non?"
+    "texte_fr": "Un simple citoyen comme moi ne peut pas\n[1205][1205][000F] comprendre.[000F][000F].. Mais c'est censé se passer\ncomme ça? On parle de Mère Nature là, non?"
   },
   {
     "id": 32,
@@ -870,7 +870,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "...Fine...[1205][000F][SP]It[SP]doesn't[SP]change[SP]anything...[1205][000F]\nAlright,[SP]here[SP]goes!",
     "nom_fr": "Eikichi",
-    "texte_fr": "... D'accord... [1205][1205]Bah,\n[000F][000F]ça change rien... Bien,\nc'est parti![E3]  Eikichi mange...[E2][E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\n J'ai\nfini... le Ramen... au Yaourt... Beuurp...!"
+    "texte_fr": "... D'accord... [1205][1205][000F] Bah,\n[000F][000F]ça change rien... Bien,\nc'est parti![E3]  Eikichi mange...[E2][E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\n J'ai\nfini... le Ramen... au Yaourt... Beuurp...!"
   },
   {
     "id": 52,
@@ -960,7 +960,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Th-That's[SP]our[SP][1114]![SP]Your[SP]compassion[SP]will\nbe[SP]etched[SP]into[SP]the[SP]great[SP]Michel's[SP]heart\nforever![1205][000F][SP]Thank[SP]you!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ç-Ça c'est notre [1114]! Ta compassion\nrestera gravée dans le coeur du\n[1205]grand Michel à jamais! [000F]Merci!"
+    "texte_fr": "Ç-Ça c'est notre [1114]! Ta compassion\nrestera gravée dans le coeur du[1205][000F]\ngrand Michel à jamais! [000F]Merci!"
   },
   {
     "id": 58,
@@ -975,7 +975,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Pff...[SP]What's[SP]with[SP]the[SP]cold[SP]shoulder?[1205][000F][SP]Fine.\nI[SP]won't[SP]ask[SP]you[SP]twice.[1205][000F][SP]The[SP]deal's[SP]off.",
     "nom_fr": "Cheffe",
-    "texte_fr": "Pff... Tu te dégonfles? [1205]Bien. [1205][000F][000F]Je ne le\nredemanderai pas. Je retire mon offre."
+    "texte_fr": "Pff... Tu te dégonfles? [1205][000F] Bien. [1205][000F][000F]Je ne le\nredemanderai pas. Je retire mon offre."
   },
   {
     "id": 59,

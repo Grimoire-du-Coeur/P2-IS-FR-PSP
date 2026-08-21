@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Uuuurgh...[SP]Th-The[SP]smell...[1205][000F][SP]Too[SP]much...\nSo[SP]bad...!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Uuurgh... [1205]L'odeur.[000F].. Trop fort...!"
+    "texte_fr": "Uuurgh... [1205][000F] L'odeur.[000F].. Trop fort...!"
   },
   {
     "id": 3,
@@ -237,7 +237,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Dammit,[SP]if[SP]only[SP]I[SP]thought[SP]Smile[SP]Hirasaka[SP]was\nmore[SP]likely...[1205][000F][SP]This[SP]wouldn't[SP]have[SP]happened...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Merde, si j'avais su\nque Smile Hirasaka était\n[1205]plus probable.[000F].. Ça ne serait pas arrivé..."
+    "texte_fr": "Merde, si j'avais su\nque Smile Hirasaka était[1205][000F]\nplus probable.[000F].. Ça ne serait pas arrivé..."
   },
   {
     "id": 16,
@@ -1002,7 +1002,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "My[SP]friend[SP]should[SP]be[SP]waiting[SP]for[SP]us[SP]at\nDouble[SP]Slash.[1205][000F][SP]Which[SP]reminds[SP]me,[SP]it's[SP]been\na[SP]long[SP]time[SP]since[SP]I[SP]last[SP]saw[SP]her...",
     "nom_fr": "Yukino",
-    "texte_fr": "Mon amie devrait nous attendre au Double\n[1205]Slash. [000F]Ça me rappelle que ça fait\nlongtemps que je ne l'ai pas vue..."
+    "texte_fr": "Mon amie devrait nous attendre au Double[1205][000F]\nSlash. [000F]Ça me rappelle que ça fait\nlongtemps que je ne l'ai pas vue..."
   },
   {
     "id": 67,
@@ -1077,7 +1077,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Guys,[SP]you[SP]need[SP]to[SP]stop[SP]beating[SP]yourselves[SP]up\nover[SP]this.[1205][000F][SP]It[SP]won't[SP]get[SP]you[SP]anywhere.",
     "nom_fr": "Yukino",
-    "texte_fr": "Les gars, il faut\narrêter de vous culpabiliser\n[1205]pour ça. [000F]Ça ne vous mènera à rien."
+    "texte_fr": "Les gars, il faut\narrêter de vous culpabiliser[1205][000F]\npour ça. [000F]Ça ne vous mènera à rien."
   },
   {
     "id": 72,
@@ -2006,7 +2006,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Now[SP]that's[SP]an[SP]impressive[SP]bunch![SP]A[SP]real[SP]man\nwould[SP]step[SP]up[SP]to[SP]the[SP]plate[SP]like[SP]that...[1205][000F]\nRight,[SP]Eikichi!?",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Sacrée équipe! Un vrai homme prendrait ses\nresponsabilités comme ça... [1205]Pas vrai,\n[000F]Eikichi!?"
+    "texte_fr": "Sacrée équipe! Un vrai homme prendrait ses\nresponsabilités comme ça... [1205][000F] Pas vrai,\n[000F]Eikichi!?"
   },
   {
     "id": 114,
@@ -2096,7 +2096,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Talk[SP]about[SP]a[SP]shameless[SP]bunch,[SP]recruiting[SP]a\nbunch[SP]of[SP]kids[SP]like[SP]that.[1205][000F][SP]But[SP]no[SP]kids[SP]like\na[SP]villain.[SP]I[SP]believe[SP]'em.",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Les éhontés, de recruter des gosses\ncomme ça. [1205]Mais les gosses n'aiment\n[000F]pas les méchants. Je les crois."
+    "texte_fr": "Les éhontés, de recruter des gosses\ncomme ça. [1205][000F] Mais les gosses n'aiment\n[000F]pas les méchants. Je les crois."
   },
   {
     "id": 120,
@@ -2397,7 +2397,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Rumor[SP]is[SP]you[SP]can[SP]buy[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002][SP]at[SP][E4][NULL][NULL][0006]Tony's\nShop[E4][NULL][NULL][0002][SP]in[SP]Yumezaki.[SP]They're[SP][E4][NULL][NULL][0006]cheap,[SP]but[SP]low\nquality[E4][NULL][NULL][0002].[1205][000F][SP]Well?[SP]Worth[SP]your[SP]while,[SP]huh?",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "On vend de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002] au [E4][NULL][NULL][0006]Tony's Shop[E4][NULL][NULL][0002]\nà Yumezaki. Elles sont [E4][NULL][NULL][0006]peu chères,\n[1205]mais de faible [E4][NULL][NULL][0002]. [000F]Intéressant, non?"
+    "texte_fr": "On vend de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002] au [E4][NULL][NULL][0006]Tony's Shop[E4][NULL][NULL][0002]\nà Yumezaki. Elles sont [E4][NULL][NULL][0006]peu chères,[1205][000F]\nmais de faible [E4][NULL][NULL][0002]. [000F]Intéressant, non?"
   },
   {
     "id": 136,
@@ -3267,7 +3267,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Smile[SP]Hirasaka's[SP]just[SP]an[SP]ordinary[SP]train\nstation.[1205][000F][SP]What[SP]do[SP]the[SP]terrorists[SP]hope[SP]to\ngain[SP]by[SP]blowing[SP]it[SP]up?",
     "nom_fr": "Royauté du Sushi",
-    "texte_fr": "Smile Hirasaka n'est qu'une gare\n[1205]ordinaire. [000F]Qu'espèrent gagner les\nterroristes en la détruisant?"
+    "texte_fr": "Smile Hirasaka n'est qu'une gare[1205][000F]\nordinaire. [000F]Qu'espèrent gagner les\nterroristes en la détruisant?"
   },
   {
     "id": 194,
@@ -3312,7 +3312,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "First[SP]the[SP]wave[SP]of[SP]terrorism[SP]and[SP]now[SP]this\nIn[SP]Lak'ech.[SP]Reality[SP]is[SP]stranger[SP]than[SP]rumors\nat[SP]times...[1205][000F][SP]Who[SP]can[SP]say[SP]what[SP]will[SP]happen?",
     "nom_fr": "Royauté du Sushi",
-    "texte_fr": "Les terroristes, puis l'In Lak'ech. La\nréalité est parfois plus étrange que les\n[1205]rumeurs.[000F].. Qui sait ce qui va se passer?"
+    "texte_fr": "Les terroristes, puis l'In Lak'ech. La\nréalité est parfois plus étrange que les[1205][000F]\nrumeurs.[000F].. Qui sait ce qui va se passer?"
   },
   {
     "id": 197,
