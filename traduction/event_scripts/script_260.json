@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": ".[1205][000F].[1205][000F].[1205][000F].[1205][000F].[1205][000F].It's[SP]movin'.[E1][E2]\n[E3][E4][NULL][NULL]\"Lisa\nYep.[SP]It's[SP]movin'.",
     "nom_fr": "Eikichi",
-    "texte_fr": ".[1205][000F][1205][000F][1205][000F][1205][000F][1205][000F]..... Ça bouge.[E1][E2] [E3][E4][NULL][NULL]\"Lisa Ouais. Ça bouge."
+    "texte_fr": ".[000F][1205][000F][1205][000F][1205][000F][1205][000F][1205]..... Ça bouge.[E1][E2] [E3][E4][NULL][NULL]\"Lisa Ouais. Ça bouge."
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": ".[1205][000F].[1205][000F].[1205][000F].[1205][000F].[1205][000F].So[SP]that[SP]settles[SP]it?",
     "nom_fr": "Eikichi",
-    "texte_fr": ".[1205][000F][1205][000F][1205][000F][1205][000F][1205][000F]..... Alors c'est sûr?"
+    "texte_fr": ".[000F][1205][000F][1205][000F][1205][000F][1205][000F][1205]..... Alors c'est sûr?"
   },
   {
     "id": 3,
@@ -87,7 +87,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Gaaaaah![SP]Hell[SP]no![SP]That's[SP]impossible![SP]How[SP]could\nsomething[SP]this[SP]ridiculous[SP]actually[SP]happen!?[1205][001E]\nM-My[SP]3,000[SP]yen...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Gaaaah! Impossible! Comment un truc aussi\nridicule peut arriver!?[1205][001E] M-Mes 3000 yens..."
+    "texte_fr": "Gaaaah! Impossible! Comment un truc aussi\nridicule peut arriver!?[001E][1205] M-Mes 3000 yens..."
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "It's[SP]like[SP]we[SP]heard![SP]Rumors[SP]are[SP]coming[SP]true.[1205][001E]\nWoohoo,[SP]I'm[SP]3,000[SP]yen[SP]richer[SP]now![SP]Let's[SP]go\nget[SP]some[SP]dinner,[SP][1113]!",
     "nom_fr": "Lisa",
-    "texte_fr": "Comme on disait! Les rumeurs se\nréalisent.[1205][001E] Youhou, 3000 yens de plus\npour moi! Allons dîner, [1113]!"
+    "texte_fr": "Comme on disait! Les rumeurs se\nréalisent.[001E][1205] Youhou, 3000 yens de plus\npour moi! Allons dîner, [1113]!"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "It's[SP]like[SP]we[SP]heard![SP]Rumors[SP]are[SP]coming[SP]true.[1205][001E]\nWoohoo,[SP]I'm[SP]3,000[SP]yen[SP]richer[SP]now![SP]Let's[SP]go\nget[SP]some[SP]dinner,[SP][1113]!",
     "nom_fr": "Ginko",
-    "texte_fr": "Comme on disait! Les rumeurs se réalisent.[1205][001E]\nYouhou, 3000 yens de plus pour moi! Allons\ndîner, [1113]! Pierre Narurato Un mégalithe\ndéterré à la construction du lycée. Fait de\nthamatite, il possède un magnétisme anormal.[E1][E2] \nLa légende dit que c'est une pierre\ngardienne où l'être\ncéleste Hiremon a scellé\nle démon Narurato Hotefu. Statue en\nl'honneur du directeur Hanya [NULL][NULL]Regardez-moi!\nSuivez-moi! Ne comptez pas sur moi![NULL][NULL]\nest lacitation contradictoire écrite ici. La\nregarder vous met étrangement en colère..."
+    "texte_fr": "Comme on disait! Les rumeurs se réalisent.[001E][1205]\nYouhou, 3000 yens de plus pour moi! Allons\ndîner, [1113]! Pierre Narurato Un mégalithe\ndéterré à la construction du lycée. Fait de\nthamatite, il possède un magnétisme anormal.[E1][E2] \nLa légende dit que c'est une pierre\ngardienne où l'être\ncéleste Hiremon a scellé\nle démon Narurato Hotefu. Statue en\nl'honneur du directeur Hanya [NULL][NULL]Regardez-moi!\nSuivez-moi! Ne comptez pas sur moi![NULL][NULL]\nest lacitation contradictoire écrite ici. La\nregarder vous met étrangement en colère..."
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Alright,[SP]alright![1205][001E][SP]I[SP]admit[SP]it![SP]Rumors[SP]are\ncoming[SP]true![SP]Dammit...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ça va, ça va![1205][001E] J'avoue! Les\nrumeurs se réalisent! Bon sang..."
+    "texte_fr": "Ça va, ça va![001E][1205] J'avoue! Les\nrumeurs se réalisent! Bon sang..."
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "A[SP]memorial[SP]service[SP]for[SP]the[SP]principal?[1205][001E][SP]Uh-oh...\nThis[SP]is[SP]because[SP]of[SP]what[SP]you[SP]said,[SP][1113].\nI'm[SP]washing[SP]my[SP]hands[SP]of[SP]this[SP]one!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Une cérémonie pour le directeur?[1205][001E] Oh\noh... C'est à cause de ce que t'as\ndit, [1113]. Je m'en lave les mains!"
+    "texte_fr": "Une cérémonie pour le directeur?[001E][1205] Oh\noh... C'est à cause de ce que t'as\ndit, [1113]. Je m'en lave les mains!"
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]lady's[SP]called[SP]Ms.[SP]Ideal,[SP]right?[1205][000F][SP]She[SP]seems\nlike[SP]a[SP]pretty[SP]weird[SP]teacher.[SP]Like[SP]she'd[SP]be[SP]more\nat[SP]home[SP]as[SP]an[SP]archaeologist...[SP]or[SP]a[SP]ninja.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Cette dame, c'est Mme Idéale, non?\n[1205][000F]Elle a l'air d'une prof bizarre. Elle\nferait mieux archéologue... ou ninja."
+    "texte_fr": "Cette dame, c'est Mme Idéale, non?\n[000F][1205]Elle a l'air d'une prof bizarre. Elle\nferait mieux archéologue... ou ninja."
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "I[SP]think[SP]that[SP]stubborn[SP]Undie[SP]Boss[SP]finally[SP]gets\nwhat's[SP]going[SP]on.[1205][001E][SP]I'm[SP]glad[SP]I[SP]made[SP]that[SP]bet[SP]with\nhim[SP]on[SP]the[SP]way[SP]here!",
     "nom_fr": "Lisa",
-    "texte_fr": "Je crois que ce têtu de Boss des\nCalbutes a enfin compris.[1205][001E] Contente\nd'avoir parié avec lui en venant!"
+    "texte_fr": "Je crois que ce têtu de Boss des\nCalbutes a enfin compris.[001E][1205] Contente\nd'avoir parié avec lui en venant!"
   },
   {
     "id": 12,
@@ -192,7 +192,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]think[SP]that[SP]stubborn[SP]Undie[SP]Boss[SP]finally[SP]gets\nwhat's[SP]going[SP]on.[1205][001E][SP]I'm[SP]glad[SP]I[SP]made[SP]that[SP]bet[SP]with\nhim[SP]on[SP]the[SP]way[SP]here!",
     "nom_fr": "Ginko",
-    "texte_fr": "Je crois que ce têtu de Boss des\nCalbutes a enfin compris.[1205][001E] Contente\nd'avoir parié avec lui en venant!"
+    "texte_fr": "Je crois que ce têtu de Boss des\nCalbutes a enfin compris.[001E][1205] Contente\nd'avoir parié avec lui en venant!"
   },
   {
     "id": 13,
@@ -237,7 +237,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Wow![SP]The[SP]statue[SP]really[SP]is[SP]walking[SP]around...[1205][001E]\nThis[SP]is[SP]because[SP]of[SP]the[SP]rumor,[SP]huh?",
     "nom_fr": "Maya",
-    "texte_fr": "Ouah! La statue se balade vraiment...[1205][001E]\nC'est à cause de la rumeur, hein?"
+    "texte_fr": "Ouah! La statue se balade vraiment...[001E][1205]\nC'est à cause de la rumeur, hein?"
   },
   {
     "id": 16,
@@ -252,7 +252,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Yikes...[1205][001E][SP]I[SP]think[SP]it's[SP]a[SP]little[SP]late[SP]now[SP]to\nstart[SP]suggesting[SP]he[SP]lived...",
     "nom_fr": "Maya",
-    "texte_fr": "Oh là là...[1205][001E] C'est un peu tard\npour suggérer qu'il a survécu..."
+    "texte_fr": "Oh là là...[001E][1205] C'est un peu tard\npour suggérer qu'il a survécu..."
   },
   {
     "id": 17,
@@ -267,7 +267,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Well,[SP]so[SP]what!?[SP]Nothing[SP]we[SP]can[SP]do[SP]now![1205][001E][SP]No[SP]use\ncrying[SP]over[SP]spilt[SP]milk,[SP]I[SP]guess.[1205][001E][SP]It[SP]was[SP]just\nanother[SP]student[SP]prank...",
     "nom_fr": "Maya",
-    "texte_fr": "Et alors!? On n'y peut plus rien![1205][001E]\nCe qui est fait est fait.[1205][001E] C'était\njuste une blague de lycéens..."
+    "texte_fr": "Et alors!? On n'y peut plus rien![001E][1205]\nCe qui est fait est fait.[001E][1205] C'était\njuste une blague de lycéens..."
   },
   {
     "id": 18,
@@ -282,7 +282,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hey,[SP][1113]-kun...[1205][001E][SP]Doesn't[SP]that[SP]teacher\nlook[SP]like[SP]she[SP]knows[SP]something?[SP]I[SP]asked[SP]to\ninterview[SP]her,[SP]but[SP]she[SP]brushed[SP]me[SP]off.",
     "nom_fr": "Maya",
-    "texte_fr": "Hé, [1113]-kun...[1205][001E] On dirait que cette\nprof sait quelque chose, non? J'ai voulu\nl'interviewer, elle m'a envoyée balader."
+    "texte_fr": "Hé, [1113]-kun...[001E][1205] On dirait que cette\nprof sait quelque chose, non? J'ai voulu\nl'interviewer, elle m'a envoyée balader."
   },
   {
     "id": 19,
@@ -297,7 +297,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Doesn't[SP]seem[SP]like[SP]it's[SP]motorized...[1205][001E]\nWho'd[SP]have[SP]thought,[SP]huh?",
     "nom_fr": "Yukino",
-    "texte_fr": "Ça n'a pas l'air motorisé...[1205][001E]\nQui l'eût cru, hein?"
+    "texte_fr": "Ça n'a pas l'air motorisé...[001E][1205]\nQui l'eût cru, hein?"
   },
   {
     "id": 20,
@@ -312,7 +312,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Maya-san...[1205][001E][SP]She's[SP]a[SP]character[SP]sometimes.",
     "nom_fr": "Yukino",
-    "texte_fr": "Maya-san...[1205][001E] Quel numéro, parfois."
+    "texte_fr": "Maya-san...[001E][1205] Quel numéro, parfois."
   },
   {
     "id": 21,
@@ -327,7 +327,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "By[SP]the[SP]way,[SP][1113]...[SP]Is[SP]that[SP]big[SP]rock[SP]a\nHiremon[SP]Stone?[1205][001E][SP]We[SP]had[SP]something[SP]like[SP]it[SP]at\nSt.[SP]Hermelin[SP]too...",
     "nom_fr": "Yukino",
-    "texte_fr": "Au fait, [1113]... Ce rocher, c'est une\nPierre Hiremon?[1205][001E] On avait pareil à St.\nHermelin..."
+    "texte_fr": "Au fait, [1113]... Ce rocher, c'est une\nPierre Hiremon?[001E][1205] On avait pareil à St.\nHermelin..."
   },
   {
     "id": 22,
@@ -342,7 +342,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Huh?[SP]It's[SP]the[SP]Narurato[SP]Stone?[1205][001E][SP]Really...\nI[SP]guess[SP]it[SP]does[SP]seem[SP]different[SP]from[SP]the[SP]one\nI[SP]remember...[SP]It[SP]creeps[SP]me[SP]out[SP]a[SP]little.",
     "nom_fr": "Yukino",
-    "texte_fr": "Hein? C'est la Pierre Narurato?[1205][001E] Ah oui...\nElle est différente de celle de mes\nsouvenirs... Elle me met mal à l'aise."
+    "texte_fr": "Hein? C'est la Pierre Narurato?[001E][1205] Ah oui...\nElle est différente de celle de mes\nsouvenirs... Elle me met mal à l'aise."
   },
   {
     "id": 23,
@@ -357,7 +357,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Is[SP]that[SP]big[SP]rock[SP]a[SP]Hiremon[SP]Stone?[1205][001E][SP]We[SP]had\nsomething[SP]like[SP]it[SP]at[SP]St.[SP]Hermelin[SP]too...",
     "nom_fr": "Yukino",
-    "texte_fr": "Ce rocher, c'est une Pierre Hiremon?[1205][001E]\nOn avait pareil à St. Hermelin..."
+    "texte_fr": "Ce rocher, c'est une Pierre Hiremon?[001E][1205]\nOn avait pareil à St. Hermelin..."
   },
   {
     "id": 24,
@@ -372,7 +372,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Huh?[SP]It's[SP]the[SP]Narurato[SP]Stone?[1205][001E][SP]Really...\nI[SP]guess[SP]it[SP]does[SP]seem[SP]different[SP]from[SP]the[SP]one\nI[SP]remember...[SP]It[SP]creeps[SP]me[SP]out[SP]a[SP]little.",
     "nom_fr": "Yukino",
-    "texte_fr": "Hein? C'est la Pierre Narurato?[1205][001E] Ah oui...\nElle est différente de celle de mes\nsouvenirs... Elle me met mal à l'aise."
+    "texte_fr": "Hein? C'est la Pierre Narurato?[001E][1205] Ah oui...\nElle est différente de celle de mes\nsouvenirs... Elle me met mal à l'aise."
   },
   {
     "id": 25,
@@ -387,7 +387,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "C-Could[SP]the[SP]Narurato[SP]Stone[SP]be[SP]affecting[SP]the\nstatue...?[1205][001E][SP]Th-This[SP]is[SP]terrible...[1205][001E][SP]Kashihara,\nwhat[SP]should[SP]I[SP]do...?",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "L-La Pierre Narurato affecterait\nla statue...?[1205][001E] C-C'est terrible...[1205][001E]\nKashihara, que dois-je faire...?"
+    "texte_fr": "L-La Pierre Narurato affecterait\nla statue...?[001E][1205] C-C'est terrible...[001E][1205]\nKashihara, que dois-je faire...?"
   },
   {
     "id": 26,
@@ -402,7 +402,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Hm!?[1205][001E][SP]What[SP]are[SP]you[SP]kids[SP]doing[SP]here!?[SP]You[SP]must\nleave[SP]at[SP]once!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Hm!?[1205][001E] Que faites-vous ici!?\nPartez tout de suite!"
+    "texte_fr": "Hm!?[001E][1205] Que faites-vous ici!?\nPartez tout de suite!"
   },
   {
     "id": 27,
@@ -417,7 +417,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "[1432][NULL][NULL][0014]Why[1432][NULL][NULL][0014]...!?[1205][001E][SP]L-Look[SP]at[SP]the[SP]statue![SP]I-It's[SP]walking\naround![SP]D-Don't[SP]you[SP]think[SP]that's[SP]dangerous!?",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "[1432][NULL][NULL][0014]Pourquoi[1432][NULL][NULL][0014]...!?[1205][001E] R-Regardez la statue! E-Elle\nse balade! C-C'est dangereux, non !?"
+    "texte_fr": "[1432][NULL][NULL][0014]Pourquoi[1432][NULL][NULL][0014]...!?[001E][1205] R-Regardez la statue! E-Elle\nse balade! C-C'est dangereux, non !?"
   },
   {
     "id": 28,
@@ -432,7 +432,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]clock's[SP]been[SP]destroyed,[SP]but[SP]it's[SP]too[SP]late...[1205][001E]\nOne[SP]line[SP]of[SP]the[SP]Oracle[SP]is[SP]already[SP]fulfilled.[1205][001E]\nThe[SP]wheel[SP]of[SP]fortune[SP]is[SP]already[SP]moving!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "L'horloge est détruite, mais trop tard...[1205][001E]\nUn vers de l'Oracle s'est déjà réalisé.[1205][001E]\nLa roue du destin est en marche!"
+    "texte_fr": "L'horloge est détruite, mais trop tard...[001E][1205]\nUn vers de l'Oracle s'est déjà réalisé.[001E][1205]\nLa roue du destin est en marche!"
   },
   {
     "id": 29,

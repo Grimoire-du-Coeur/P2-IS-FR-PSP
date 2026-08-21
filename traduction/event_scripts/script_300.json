@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Argh![SP]There's[SP]mud[SP]on[SP]my[SP]favorite[SP]tunic...[1205][000F]\nDamn[SP]that[SP]Yasuo![SP]I'm[SP]sticking[SP]him[SP]with[SP]the\ncleaning[SP]bill!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Argh! Ma tunique préférée est pleine de\n[1205][000F]boue... Maudit Yasuo!\nIl paiera le pressing!"
+    "texte_fr": "Argh! Ma tunique préférée est pleine de\n[000F][1205]boue... Maudit Yasuo!\nIl paiera le pressing!"
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I-It[SP]wasn't[SP]my[SP]fault![SP]Eikichi[SP]went[SP]in,[SP]so[SP]I\nhad[SP]no[SP]choice...[1205][000F][SP]Right,[SP][1113]?",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est sa faute! J'ai dû suivre\nEikichi... [1205][000F]Pas vrai, [1113]?"
+    "texte_fr": "C'est sa faute! J'ai dû suivre\nEikichi... [000F][1205]Pas vrai, [1113]?"
   },
   {
     "id": 4,
@@ -117,7 +117,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "It's[SP]both[SP]your[SP]faults![1205][000F][SP]Seriously,[SP]without\nknowing[SP]what[SP]kind[SP]of[SP]traps[SP]there[SP]are,[SP]don't\neven[SP]think[SP]of[SP]wandering[SP]off[SP]like[SP]that[SP]again!",
     "nom_fr": "Yukino",
-    "texte_fr": "C'est votre faute à tous les deux! [1205][000F]Sérieux,\narrêtez de vous aventurer comme ça sans\nmême connaître les pièges qui s'y trouvent!"
+    "texte_fr": "C'est votre faute à tous les deux! [000F][1205]Sérieux,\narrêtez de vous aventurer comme ça sans\nmême connaître les pièges qui s'y trouvent!"
   },
   {
     "id": 8,
@@ -222,7 +222,7 @@
     "nom_orig": "President's[SP]voice",
     "texte_orig": "I-I[SP]was[SP]wrong...[1205][000F][SP]I'll[SP]never[SP]do[SP]it[SP]again...[1205][000F]\nJ-Just[SP]forgive[SP]me...",
     "nom_fr": "Président",
-    "texte_fr": "J-J'avais tort.[1205][000F][1205][000F].. Je ne le referai\nplus jamais... P-Pardonnez-moi..."
+    "texte_fr": "J-J'avais tort.[000F][1205][000F][1205].. Je ne le referai\nplus jamais... P-Pardonnez-moi..."
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Forgive[SP]you?[1205][000F][SP]Forget[SP]that![SP]There's[SP]a[SP]whole\nlaundry[SP]list[SP]of[SP]stuff[SP]we[SP]gotta[SP]ask[SP]you!\nThere's[SP]no[SP]way[SP]we're[SP]just[SP]letting[SP]you[SP]go!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Te pardonner? [1205][000F]Oublie ça! On a toute une\nliste de trucs à te demander! Hors de\nquestion qu'on te laisse partir comme ça!"
+    "texte_fr": "Te pardonner? [000F][1205]Oublie ça! On a toute une\nliste de trucs à te demander! Hors de\nquestion qu'on te laisse partir comme ça!"
   },
   {
     "id": 16,
@@ -282,7 +282,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Arrgh...[1205][000F][SP]Why[SP]do[SP]they[SP]rush[SP]in[SP]without[SP]thinking!?",
     "nom_fr": "Yukino",
-    "texte_fr": "Arrgh.[1205][000F].. Pourquoi\nfoncent-ils sans réfléchir!?"
+    "texte_fr": "Arrgh.[000F][1205].. Pourquoi\nfoncent-ils sans réfléchir!?"
   },
   {
     "id": 19,
@@ -297,6 +297,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "Better[SP]go[SP]after[SP]them.[1205][000F][SP]C'mon,[SP]let's[SP]go.",
     "nom_fr": "",
-    "texte_fr": "On ferait mieux d'aller les rejoindre.[1205][000F]\nAllez, on y va."
+    "texte_fr": "On ferait mieux d'aller les rejoindre.[000F][1205]\nAllez, on y va."
   }
 ]
