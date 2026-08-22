@@ -12,7 +12,7 @@
     "nom_orig": "School[SP]paper[SP]writer",
     "texte_orig": "Our[SP]editor,[SP]who[SP]went[SP]to[SP]go[SP]investigate[SP]the\nlinks[SP]between[SP]the[SP]emblem[SP]curse[SP]and[SP]Cuss[SP]High,\nisn't[SP]back[SP]yet...",
     "nom_fr": "Rédacteur du journal scolaire",
-    "texte_fr": "Notre rédactrice enquête\nsur l'emblème et le\nlycée Kakasu, elle n'est pas encore revenue..."
+    "texte_fr": "Notre rédactrice enquête\nsur l'emblème et le lycée\nKakasu, elle n'est pas encore revenue..."
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Don't[SP]worry.[SP]I'm[SP]sure[SP]she's[SP]somewhere[SP]dozing\noff[SP]again.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nH-Hey...![1205][001E][SP]Did[SP]you[SP]just[SP]say[SP][1432][NULL][NULL][0014]Miyabi[SP]Hanakouji[1432][NULL][NULL][0014]?\nYou[SP]know[SP]Hanakouji-san!?[1205][001E][SP]Tell[SP]me!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Pas d'inquiétude. Elle doit dormir quelque\npart.[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n [1205]H-Hé.[001E]..![001E][1205] Tu as dit [1432][NULL][NULL][0014]Miyabi\nHanakouji[1432][NULL][NULL][0014]? Tu la connais!? Dis-moi!"
+    "texte_fr": "Pas d'inquiétude. Elle doit dormir quelque\npart.[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n [1205][001E] H-Hé.[001E]..![1205][001E] Tu as dit [1432][NULL][NULL][0014]Miyabi\nHanakouji[1432][NULL][NULL][0014]? Tu la connais!? Dis-moi!"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "School[SP]paper[SP]writer",
     "texte_orig": "M-Miyabi[SP]Hanakouji[SP]is[SP]a[SP]student[SP]here...[1205][001E]\nShe[SP]said[SP]she[SP]was[SP]heading[SP]to[SP]Cuss[SP]High.\nDid[SP]you[SP]see[SP]her[SP]there?",
     "nom_fr": "Rédacteur du journal scolaire",
-    "texte_fr": "M-Miyabi Hanakouji est élève ici...[001E][1205] Elle\nallait au lycée Kakasu. Tu l'as vue là-bas?"
+    "texte_fr": "M-Miyabi Hanakouji est élève ici...[1205][001E] Elle allait\nau lycée Kakasu. Tu l'as vue là-bas?"
   },
   {
     "id": 4,
@@ -87,7 +87,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Wow...[1205][001E][SP]So[SP]Hanakouji-san[SP]goes[SP]to[SP]Sevens...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Wow...[001E][1205] Donc va au Seven..."
+    "texte_fr": "Wow...[1205][001E] Donc va au Seven..."
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Haha...[1205][001E][SP]Wow...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ah...[001E][1205] Wow..."
+    "texte_fr": "Ah...[1205][001E] Wow..."
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "What?[SP]You[SP]saw[SP]Kozy...?[1205][001E][SP]Don't[SP]you[SP]know?[1205][001E]\nKozy[SP]is...",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Quoi? Tu as vu Kozy...?[001E][1205]\nTu sais pas?[001E][1205] Kozy est..."
+    "texte_fr": "Quoi? Tu as vu Kozy...?[1205][001E]\nTu sais pas?[1205][001E] Kozy est..."
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What!?[1205][001E][SP]Ohhh...[SP]So[SP]you[SP]know[SP]her[SP]too!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Quoi!?[001E][1205] Ohhh... Tu la connais!"
+    "texte_fr": "Quoi!?[1205][001E] Ohhh... Tu la connais!"
   },
   {
     "id": 9,
@@ -207,7 +207,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "She's[SP]my[SP]ex-girlfriend![1205][001E][SP]We[SP]were[SP]dating[SP]in\ngrade[SP]school!",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est mon ex![001E][1205] On\nsortait ensemble en primaire!"
+    "texte_fr": "C'est mon ex![1205][001E] On\nsortait ensemble en primaire!"
   },
   {
     "id": 14,
@@ -252,7 +252,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "H-Hey,[SP]Undie[SP]Boss![1205][001E][SP]I[SP]know[SP]Miyabi[SP]really[SP]well...[1205][001E]\nWhat[SP]was[SP]your[SP]relationship[SP]with[SP]her?",
     "nom_fr": "Lisa",
-    "texte_fr": "H-Hey, Boss des calbutes![001E][1205]\nJe connais bien Miyabi...[001E][1205]\nC'était quoi ta relation avec elle?"
+    "texte_fr": "H-Hey, Boss des calbutes![1205][001E]\nJe connais bien Miyabi...[1205][001E]\nC'était quoi ta relation avec elle?"
   },
   {
     "id": 17,
@@ -282,7 +282,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "H-Hey,[SP]Undie[SP]Boss![1205][001E][SP]I[SP]know[SP]Miyabi[SP]really[SP]well...[1205][001E]\nWhat[SP]was[SP]your[SP]relationship[SP]with[SP]her?",
     "nom_fr": "Ginko",
-    "texte_fr": "H-Hey, Boss des calbutes![001E][1205]\nJe connais bien Miyabi...[001E][1205]\nC'était quoi ta relation avec elle?"
+    "texte_fr": "H-Hey, Boss des calbutes![1205][001E]\nJe connais bien Miyabi...[1205][001E]\nC'était quoi ta relation avec elle?"
   },
   {
     "id": 19,
@@ -312,7 +312,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Sooo...[SP]Uh...[1205][001E][SP]How[SP]do[SP]you[SP]know[SP]her?",
     "nom_fr": "Lisa",
-    "texte_fr": "Alors... [001E][1205] Comment tu la connais?"
+    "texte_fr": "Alors... [1205][001E] Comment tu la connais?"
   },
   {
     "id": 21,
@@ -342,7 +342,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Sooo...[SP]Uh...[1205][001E][SP]How[SP]do[SP]you[SP]know[SP]her?",
     "nom_fr": "Ginko",
-    "texte_fr": "Alors... [001E][1205] Comment tu la connais?"
+    "texte_fr": "Alors... [1205][001E] Comment tu la connais?"
   },
   {
     "id": 23,
@@ -357,7 +357,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Wow...[1205][001E][SP]So[SP]Hanakouji-san[SP]is[SP]at[SP]Sevens...[1205][001E]\nJust[SP]wow...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Wow...[001E][1205] Donc est à Seven...[001E][1205] Juste wow..."
+    "texte_fr": "Wow...[1205][001E] Donc est à Seven...[1205][001E] Juste wow..."
   },
   {
     "id": 24,
@@ -372,7 +372,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Oh...[1205][001E][SP]She's[SP]not[SP]gonna[SP]pop[SP]in[SP]here[SP]all[SP]of[SP]a\nsudden,[SP]is[SP]she!?[1205][001E][SP]M-My[SP]heart[SP]couldn't[SP]take[SP]it...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Oh...[001E][1205] Elle ne va\npas débarquer ici comme ça,\nhein!?[001E][1205] M-mon cœur ne supporterait pas..."
+    "texte_fr": "Oh...[1205][001E] Elle ne va\npas débarquer ici comme ça,\nhein!?[1205][001E] M-mon cœur ne supporterait pas..."
   },
   {
     "id": 25,
@@ -387,7 +387,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]how's[SP]Hanakouji-san[SP]been?[1205][001E][SP]Her[SP]personality?[1205][000F]\nStill[SP]awesome,[SP]I'm[SP]sure.[1205][000F][SP]Her[SP]popularity?[1205][000F]\nStill[SP]up[SP]there,[SP]no[SP]doubt.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Alors, comment va?\n[1205][1205][001E][1205][1205]Sa personnalité? [000F][000F][000F]Toujours\ngéniale. Sa popularité? Toujours au top."
+    "texte_fr": "Alors, comment va?\n[1205][001E]Sa personnalité? [000F]Toujours géniale.\nSa popularité? Toujours au top."
   },
   {
     "id": 26,
@@ -402,7 +402,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "His[SP]grade[SP]school[SP]crush,[SP]huh...?[1205][001E][SP]Putting[SP]aside\nwhether[SP]I[SP]believe[SP]that[SP]at[SP]all,[SP]he[SP]hasn't[SP]figured\nout[SP]yet[SP]that[SP]Kozy[SP]IS[SP]Hanakouji-san.",
     "nom_fr": "Lisa",
-    "texte_fr": "Son amour de l'école primaire, hein...?[001E][1205]\nPeu importe si j'y crois, il n'a pas\nréalisé que Kozy EST Hanakouji."
+    "texte_fr": "Son amour de l'école primaire, hein...?[1205][001E]\nPeu importe si j'y crois, il n'a pas\nréalisé que Kozy EST Hanakouji."
   },
   {
     "id": 27,
@@ -417,7 +417,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "No[SP]wonder[SP]Miyabi[SP]told[SP]me[SP]to[SP]keep[SP]quiet.[1205][001E]\nHeheheh...[1205][001E][SP]This[SP]should[SP]be[SP]interesting.\nLet's[SP]not[SP]say[SP]anything,[SP][1113]!",
     "nom_fr": "Lisa",
-    "texte_fr": "Pas étonnant que Miyabi m'ait dit de\nme taire.[001E][1205] Héhéhé...[001E][1205] Ça va être\nintéressant. Ne disons rien, [1113]!"
+    "texte_fr": "Pas étonnant que Miyabi m'ait dit de\nme taire.[1205][001E] Héhéhé...[1205][001E] Ça va être\nintéressant. Ne disons rien, [1113]!"
   },
   {
     "id": 28,
@@ -432,7 +432,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "His[SP]grade[SP]school[SP]crush,[SP]huh...?[1205][001E][SP]Putting[SP]aside\nwhether[SP]I[SP]believe[SP]that[SP]at[SP]all,[SP]he[SP]hasn't[SP]figured\nout[SP]yet[SP]that[SP]Kozy[SP]IS[SP]Hanakouji-san.",
     "nom_fr": "Ginko",
-    "texte_fr": "Son amour de l'école primaire...?[001E][1205]\nPeu importe si j'y crois, il n'a\npas réalisé que Kozy EST Hanakouji."
+    "texte_fr": "Son amour de l'école primaire...?[1205][001E]\nPeu importe si j'y crois, il n'a\npas réalisé que Kozy EST Hanakouji."
   },
   {
     "id": 29,
@@ -447,7 +447,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "No[SP]wonder[SP]Miyabi[SP]told[SP]me[SP]to[SP]keep[SP]quiet.[1205][001E]\nHeheheh...[1205][001E][SP]This[SP]should[SP]be[SP]interesting.\nLet's[SP]not[SP]say[SP]anything,[SP][1113]!",
     "nom_fr": "Ginko",
-    "texte_fr": "Pas étonnant que Miyabi m'ait dit de\nme taire.[001E][1205] Héhéhé...[001E][1205] Ça va être\nintéressant. Ne disons rien, [1113]!"
+    "texte_fr": "Pas étonnant que Miyabi m'ait dit de\nme taire.[1205][001E] Héhéhé...[1205][001E] Ça va être\nintéressant. Ne disons rien, [1113]!"
   },
   {
     "id": 30,
@@ -462,7 +462,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Huh?[1205][001E][SP]Sheba[SP]and[SP]Mee-ho[SP]were[SP]looking[SP]for[SP]me?",
     "nom_fr": "Ginko",
-    "texte_fr": "Hein?[001E][1205] Sheba et Mee-ho me cherchaient?"
+    "texte_fr": "Hein?[1205][001E] Sheba et Mee-ho me cherchaient?"
   },
   {
     "id": 31,
@@ -477,7 +477,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hmm...[1205][001E][SP]I[SP]don't[SP]have[SP]time[SP]for[SP]this,[SP]so[SP]I'll\nleave[SP]them[SP]alone[SP]for[SP]now.",
     "nom_fr": "",
-    "texte_fr": "Hmm...[001E][1205] Je n'ai pas le temps pour ça,\nje les laisserai pour l'instant."
+    "texte_fr": "Hmm...[1205][001E] Je n'ai pas le temps pour ça,\nje les laisserai pour l'instant."
   },
   {
     "id": 32,
@@ -492,7 +492,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "What's[SP]up,[SP]Chinyan?[1205][001E][SP]Huh?[SP]You[SP]want[SP]to[SP]go[SP]find\nSheba[SP]and[SP]Mee-ho?",
     "nom_fr": "Ginko",
-    "texte_fr": "Quoi de neuf, Chinyan?[001E][1205] Tu veux\nretrouver Sheba et Mee-ho?"
+    "texte_fr": "Quoi de neuf, Chinyan?[1205][001E] Tu veux\nretrouver Sheba et Mee-ho?"
   },
   {
     "id": 33,
@@ -507,7 +507,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "...That's[SP]okay.[1205][001E][SP]I'm[SP]sure[SP]they[SP]just[SP]want[SP]to[SP]ask\nme[SP]to[SP]go[SP]for[SP]karaoke[SP]or[SP]something[SP]stupid[SP]like\nthat...",
     "nom_fr": "Ginko",
-    "texte_fr": "... Ça ira.[001E][1205] Je suis sûr qu'elles\nveulent juste m'inviter au karaoké\nou un truc idiot du genre..."
+    "texte_fr": "... Ça ira.[1205][001E] Je suis sûr qu'elles\nveulent juste m'inviter au karaoké\nou un truc idiot du genre..."
   },
   {
     "id": 34,
@@ -522,7 +522,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Whaaat!?[1205][001E][SP]Eikichi's[SP]ex-girlfriend[SP]goes\nto[SP]Sevens!?",
     "nom_fr": "Maya",
-    "texte_fr": "Quoi!?[001E][1205] L'ex d'Eikichi va au Seven!?"
+    "texte_fr": "Quoi!?[1205][001E] L'ex d'Eikichi va au Seven!?"
   },
   {
     "id": 35,
@@ -552,7 +552,7 @@
     "nom_orig": "Maya",
     "texte_orig": "...[1205][001E]Lisa[SP]has[SP]a[SP]lot[SP]of[SP]friends,[SP]right?[1205][001E]\nIt[SP]doesn't[SP]seem[SP]like...[SP]well...",
     "nom_fr": "Maya",
-    "texte_fr": "...[001E][1205] Lisa a beaucoup d'amis, non?[001E][1205]\nÇa n'a pas l'air de... enfin..."
+    "texte_fr": "...[1205][001E] Lisa a beaucoup d'amis, non?[1205][001E]\nÇa n'a pas l'air de... enfin..."
   },
   {
     "id": 37,
@@ -567,7 +567,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Wow,[SP]so[SP]Eikichi's[SP]ex[SP]goes[SP]here...[1205][001E][SP]Wait,[SP]this\nis[SP]no[SP]time[SP]to[SP]tease[SP]him[SP]about[SP]it.[1205][001E][SP]We[SP]have[SP]to\nbreak[SP]the[SP]emblems,[SP]remember?",
     "nom_fr": "Yukino",
-    "texte_fr": "Wow, l'ex d'Eikichi est ici...[001E][1205] Mais\nc'est pas le moment.[001E][1205] On doit détruire\nles emblèmes, tu te souviens?"
+    "texte_fr": "Wow, l'ex d'Eikichi est ici...[1205][001E] Mais\nc'est pas le moment.[1205][001E] On doit détruire\nles emblèmes, tu te souviens?"
   },
   {
     "id": 38,
@@ -582,7 +582,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]think[SP]that[SP]was[SP]the[SP]last[SP]emblem[SP]in[SP]this[SP]room.[1205][001E]\nLet's[SP]move[SP]on.",
     "nom_fr": "Yukino",
-    "texte_fr": "C'était le dernier emblème\nde cette salle.[001E][1205] On y va."
+    "texte_fr": "C'était le dernier emblème\nde cette salle.[1205][001E] On y va."
   },
   {
     "id": 39,
@@ -597,7 +597,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Come[SP]to[SP]think[SP]of[SP]it,[SP]didn't[SP]someone[SP]say[SP]there\nwere[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge?[1205][000F][SP]I[SP]think\nthose'll[SP]be[SP]the[SP]last[SP]ones[SP]left.",
     "nom_fr": "Yukino",
-    "texte_fr": "En y pensant, quelqu'un n'a pas dit qu'il\ny avait des emblèmes dans la salle des\n[000F][1205]profs? Ce seront sûrement les derniers."
+    "texte_fr": "En y pensant, quelqu'un n'a pas dit qu'il\ny avait des emblèmes dans la salle des\n[1205][000F]profs? Ce seront sûrement les derniers."
   },
   {
     "id": 40,
@@ -612,7 +612,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]hope[SP]Lisa's[SP]making[SP]the[SP]right[SP]choice.[1205][001E][SP]I[SP]know\nit[SP]sounds[SP]hokey,[SP]but[SP]friendship[SP]is[SP]magic.[1205][001E]\nI[SP]know[SP]you[SP]must[SP]have[SP]friends[SP]you[SP]care[SP]about.",
     "nom_fr": "Yukino",
-    "texte_fr": "J'espère que Lisa fait\nle bon choix.[001E][1205] Ça peut\nparaître idiot, mais\nl'amitié c'est magique.[001E][1205]\nTu as des amis qui comptent pour toi."
+    "texte_fr": "J'espère que Lisa fait\nle bon choix.[1205][001E] Ça peut\nparaître idiot, mais\nl'amitié c'est magique.[1205][001E]\nTu as des amis qui comptent pour toi."
   },
   {
     "id": 41,
@@ -627,7 +627,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "What's[SP]Eikichi[SP]doing[SP]alone,[SP]anyway?[1205][001E][SP]I'm[SP]starting\nto[SP]wonder[SP]if[SP]it[SP]was[SP]him[SP]who[SP]dumped[SP]his[SP]ex...\nWouldn't[SP]it[SP]have[SP]been[SP]the[SP]other[SP]way[SP]around?",
     "nom_fr": "Yukino",
-    "texte_fr": "Qu'est-ce qu'Eikichi fait tout seul?[001E][1205] Je me\ndemande si ce n'est pas lui qui s'est fait \nlarguer... Ça serait pas plutôt l'inverse?"
+    "texte_fr": "Qu'est-ce qu'Eikichi fait tout seul?[1205][001E] Je me\ndemande si ce n'est pas lui qui s'est fait \nlarguer... Ça serait pas plutôt l'inverse?"
   },
   {
     "id": 42,
@@ -687,7 +687,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "I[SP]know[SP]you[SP]t-t-took[SP]a[SP]bad[SP]g-g-grade[SP]on[SP]your\nEnglish[SP]t-test[SP]so[SP]the[SP]others[SP]wouldn't[SP]f-feel\nbad...[SP]I[SP]know[SP]you[SP]l-l-like[SP]to[SP]be[SP]alone...",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Je sais que t-tu as\neu une m-mauvaise note au\nc-contrôle d'anglais pour épargner les autres... Je sais que t-tu aimes êtreseule..."
+    "texte_fr": "Je sais que t-tu as\neu une m-mauvaise note au c-contrôle\nd'anglais pour épargner les autres... Je sais que t-tu aimes êtreseule..."
   },
   {
     "id": 46,
@@ -867,7 +867,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "H-How[SP]interesting...[1205][001E][SP]But[SP]why[SP]exactly[SP]did[SP]they\nbreak[SP]up[SP]in[SP]the[SP]first[SP]place?[SP]I'm[SP]dying[SP]to[SP]know!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "I-Intéressant... [001E][1205] Mais pourquoi exactement\nont-ils rompu? Je meurs\nd'envie de le savoir!"
+    "texte_fr": "I-Intéressant... [1205][001E] Mais pourquoi exactement\nont-ils rompu? Je meurs\nd'envie de le savoir!"
   },
   {
     "id": 58,
@@ -927,7 +927,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]think[SP]that[SP]was[SP]the[SP]last[SP]emblem[SP]in[SP]this[SP]room.[1205][001E]\nLet's[SP]move[SP]on.",
     "nom_fr": "Yukino",
-    "texte_fr": "C'était le dernier emblème de\nla salle.[001E][1205] Passons à la suite."
+    "texte_fr": "C'était le dernier emblème de\nla salle.[1205][001E] Passons à la suite."
   },
   {
     "id": 62,
@@ -942,7 +942,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Come[SP]to[SP]think[SP]of[SP]it,[SP]didn't[SP]someone[SP]say[SP]there\nwere[SP]emblems[SP]in[SP]the[SP]teachers'[SP]lounge?[1205][000F][SP]I[SP]think\nthose'll[SP]be[SP]the[SP]last[SP]ones[SP]left.",
     "nom_fr": "Yukino",
-    "texte_fr": "En repensant, quelqu'un n'a pas dit qu'il\ny avait des emblèmes dans la salle des\n[000F][1205]profs? Ce seront sûrement les derniers."
+    "texte_fr": "En repensant, quelqu'un n'a pas dit qu'il\ny avait des emblèmes dans la salle des\n[1205][000F]profs? Ce seront sûrement les derniers."
   },
   {
     "id": 63,
