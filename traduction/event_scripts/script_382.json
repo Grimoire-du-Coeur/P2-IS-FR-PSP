@@ -354,7 +354,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00]",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -407,7 +407,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00]",
+    "texte_fr": "Ça marche! T'as quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -538,7 +538,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]can[SP]I[SP]do[SP]for[SP]you[SP]today?\n[1208][0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toro\nNever[SP]mind",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Je peux vous aider?\n[1208][0003][1210][0475]Demander des rumeurs\nParler avec Toro\nNon merci",
+    "texte_fr": "Je peux vous aider?\n[1208][0003][1210][0475]Infos rumeurs\nParler à Toro[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nRien",
     "question_orig": "What[SP]can[SP]I[SP]do[SP]for[SP]you[SP]today?",
     "choix_orig": [
       "[1210]Ask[SP]about[SP]rumors",
@@ -564,7 +564,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Sur quoi?\n[1208][0004][1210][0476]Rumeurs armureries\n[1210][0477]Rumeurs armures\n[1210][0478]Autres rumeurs\nRien",
+    "texte_fr": "Sur quoi?\n[1208][0004][1210][0476]Rumeurs armureries\n[1210][0477]Rumeurs armures[SP][SP]\n[1210][0478]Autres rumeurs[SP]\nRien",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -591,7 +591,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Secteur?\n[1208][0005][1210][046A]Rengedai\n[1210][046B]Yumezaki\n[1210][046C]Aoba\n[1210][046D]Kounan\nAucun",
+    "texte_fr": "Secteur?\n[1208][0005][1210][046A]Rengedai\n[1210][046B]Yumezaki\n[1210][046C]Aoba\n[1210][046D]Kounan\nRien",
     "question_orig": "For[SP]which[SP]area?",
     "choix_orig": [
       "[1210]Rengedai",
@@ -619,7 +619,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "For[SP]which[SP]area?\n[1208][0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Secteur?\n[1208][0005][1210][046E]Rengedai\n[1210][046F]Yumezaki\n[1210][0470]Aoba\n[1210][0471]Kounan\nAucun",
+    "texte_fr": "Secteur?\n[1208][0005][1210][046E]Rengedai\n[1210][046F]Yumezaki\n[1210][0470]Aoba\n[1210][0471]Kounan\nRien",
     "question_orig": "For[SP]which[SP]area?",
     "choix_orig": [
       "[1210]Rengedai",
@@ -647,7 +647,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Sur quoi?\n[1208][0004][1210][0472]Tirages de magazines\n[1210][0473]Rumeurs sur Mu\n[1210][0474]Armes légendaires\nAucune",
+    "texte_fr": "Sur quoi?\n[1208][0004][1210][0472]Tirages de magazines[SP][SP][SP][SP][SP][SP][SP]\n[1210][0473]Rumeurs Mu\n[1210][0474]Armes légendaires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",

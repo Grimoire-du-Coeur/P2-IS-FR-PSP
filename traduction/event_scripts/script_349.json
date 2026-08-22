@@ -717,7 +717,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]can[SP]you[SP]sell[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -747,7 +747,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[03BC][B_00][5501][B_00]",
+    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[03BC][B_00][5501][B_00]",
     "question_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -804,7 +804,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]can[SP]you[SP]sell[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -834,7 +834,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas\n[1210]Sélection cachée[03BC][B_00][5501][B_00]",
+    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sélection cachée[03BC][B_00][5501][B_00][SP][SP][SP]",
     "question_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?",
     "choix_orig": [
       "Make[SP]small[SP]talk",

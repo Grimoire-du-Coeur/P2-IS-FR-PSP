@@ -312,7 +312,7 @@
     "nom_orig": "Master",
     "texte_orig": "Welcome...[1205][000F][SP]What[SP]would[SP]you[SP]like?\n[1208][0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Bienvenue.[1205][000F].. Que souhaites-tu?\n[1208][0007][1210]Acheter  \n[1210]Accessoires  \n[1210]Vendre  \nManger \nDiscuter     \nRien merci\nFiler[03BD][035C][03BD]",
+    "texte_fr": "Bienvenue.[1205][000F].. Que souhaites-tu?\n[1208][0007][1210]Acheter  [SP][SP][SP]\n[1210]Accessoires  [SP][SP][SP]\n[1210]Vendre  \nManger \nDiscuter     \nRien merci[SP][SP][SP][SP][SP]\nFiler[03BD][035C][03BD]",
     "question_orig": "Welcome...[1205][000F][SP]What[SP]would[SP]you[SP]like?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -342,7 +342,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]have[SP]you[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Maître",
-    "texte_fr": "Qu'avez-vous à vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Qu'avez-vous à vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]have[SP]you[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -372,7 +372,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BD]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Maître",
-    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[03BD][B_00][5501][B_00]",
+    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[03BD][B_00][5501][B_00]",
     "question_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -399,7 +399,7 @@
     "nom_orig": "Master",
     "texte_orig": "Will[SP]that[SP]be[SP]all?\n[1208][0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Ce sera tout?\n[1208][0007][1210]Acheter  \n[1210]Accessoires  \n[1210]Vendre  \nManger \nDiscuter     \nRien merci\nFiler[03BD][035C][03BD]",
+    "texte_fr": "Ce sera tout?\n[1208][0007][1210]Acheter  [SP][SP][SP]\n[1210]Accessoires  [SP][SP][SP]\n[1210]Vendre  \nManger \nDiscuter     \nRien merci[SP][SP][SP][SP][SP]\nFiler[03BD][035C][03BD]",
     "question_orig": "Will[SP]that[SP]be[SP]all?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -429,7 +429,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]have[SP]you[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Maître",
-    "texte_fr": "Qu'avez-vous à vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Qu'avez-vous à vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]have[SP]you[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -459,7 +459,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BD]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Maître",
-    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas\n[1210]Sélection cachée[03BD][B_00][5501][B_00]",
+    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sélection cachée[03BD][B_00][5501][B_00][SP][SP][SP]",
     "question_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
