@@ -323,7 +323,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]kind[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel type de rumeur t'intéresse?\n[1208][0004][1210]Magasin d'armes  \n[1210]Magasin d'armures\n[1210]Autres   \nAucun[0476][0477][0478]",
+    "texte_fr": "Quel type de rumeur t'intéresse?\n[1208][0004][1210][0476]Magasin d'armes  \n[1210][0477]Magasin d'armures\n[1210][0478]Autres   \nAucun",
     "question_orig": "Which[SP]kind[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -350,7 +350,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?\n[1208][0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel endroit t'intéresse?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nRien[046A][046B][046C][046D]",
+    "texte_fr": "Quel endroit t'intéresse?\n[1208][0005][1210][046A]Rengedai\n[1210][046B]Yumezaki\n[1210][046C]Aoba\n[1210][046D]Kounan\nRien",
     "question_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?",
     "choix_orig": [
       "[1210]Rengedai",
@@ -378,7 +378,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?\n[1208][0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel endroit t'intéresse?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nRien[046E][046F][0470][0471]",
+    "texte_fr": "Quel endroit t'intéresse?\n[1208][0005][1210][046E]Rengedai\n[1210][046F]Yumezaki\n[1210][0470]Aoba\n[1210][0471]Kounan\nRien",
     "question_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?",
     "choix_orig": [
       "[1210]Rengedai",
@@ -406,7 +406,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]one[SP]do[SP]you[SP]want[SP]the[SP]details[SP]on?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "De quelle rumeur tu veux avoir les \ndétails?\n[1208][0004][1210]Loteries de magazines   \n[1210]Mu    \n[1210]Arme légendaire    \nAucune[0472][0473][0474]",
+    "texte_fr": "De quelle rumeur tu veux avoir les \ndétails?\n[1208][0004][1210][0472]Loteries de magazines   \n[1210][0473]Mu    \n[1210][0474]Arme légendaire    \nAucune",
     "question_orig": "Which[SP]one[SP]do[SP]you[SP]want[SP]the[SP]details[SP]on?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
