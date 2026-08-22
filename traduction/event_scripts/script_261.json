@@ -253,7 +253,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]can[SP]I[SP]do[SP]for[SP]you[SP]today?\n[1208][0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toro\nNever[SP]mind",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Que puis-je pour vous?\n[1208][0003][1210][0475]Demander des rumeurs\nParler à Toro\nNon merci",
+    "texte_fr": "Je peux vous aider?\n[1208][0003][1210][0475]Infos rumeurs\nParler à Toro[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nRien",
     "question_orig": "What[SP]can[SP]I[SP]do[SP]for[SP]you[SP]today?",
     "choix_orig": [
       "[1210]Ask[SP]about[SP]rumors",
@@ -362,7 +362,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Sur quoi?\n[1208][0004][1210][0472]Tirages de magazines[SP][SP][SP][SP][SP][SP][SP]\n[1210][0473]Rumeurs Mu\n[1210][0474]Armes légendaires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
+    "texte_fr": "Sur quoi?\n[1208][0004][1210][0472]Tirages de magazines[SP][SP][SP][SP][SP][SP][SP]\n[1210][0473]Infos Mu[SP]\n[1210][0474]Armes légendaires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
