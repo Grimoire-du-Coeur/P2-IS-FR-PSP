@@ -57,7 +57,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Huh...?[1205][000F][SP]Those[SP]girls[SP]here...[1205][000F][SP]Oh,[SP]come[SP]on...",
     "nom_fr": "Ginko",
-    "texte_fr": "Hein.[1205][1205][000F][000F]..? Ces filles ici... Sérieux..."
+    "texte_fr": "Hein.[1205][000F]..? Ces filles ici... Sérieux..."
   },
   {
     "id": 4,
@@ -102,7 +102,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Sheesh...[1205][000F][SP]Those[SP]two[SP]are[SP]at[SP]it[SP]as[SP]usual...[1205][000F]\nThey[SP]haven't[SP]changed[SP]one[SP]bit.",
     "nom_fr": "Yukino",
-    "texte_fr": "Pff.[1205][1205][000F].[000F]. Ces deux-là font comme\nd'habitude... Elles n'ont pas changé."
+    "texte_fr": "Pff.[1205][000F].[000F]. Ces deux-là font comme\nd'habitude... Elles n'ont pas changé."
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]think[SP]we[SP]should[SP]visit[SP]those[SP]friends[SP]of[SP]Lisa's\nfrom[SP]the[SP]poster[SP]first.[SP]Let's[SP]ask[SP]them[SP]what's\ngoing[SP]on.",
     "nom_fr": "Yukino",
-    "texte_fr": "On devrait d'abord voir\nces amies de Lisa sur\nl'affiche. Demandons-leur ce qu'il se passe."
+    "texte_fr": "On devrait d'abord voir\nces amies de Lisa sur l'affiche.\nDemandons-leur ce qu'il se passe."
   },
   {
     "id": 8,
@@ -240,7 +240,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "The[SP]Masked[SP]Circle...[1205][000F][SP]Could[SP]this[SP]be[SP]the\nPhantom...?[1205][000F][SP]No...[SP]It[SP]can't[SP]be...",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Le Cercle masqué.[1205][1205][000F][000F].. Serait-ce le\nFantôme...? Non... Impossible..."
+    "texte_fr": "Le Cercle masqué.[1205][000F].. Serait-ce le\nFantôme...? Non... Impossible..."
   },
   {
     "id": 13,
@@ -340,7 +340,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][0007][1205][000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Ronron... [1205][1205][000F] C'est beau[1432][NULL][NULL][0007] Tu m'as nourri 20\n[000F][000F]fois, miaou[1432][NULL][NULL][0007] J'en veux encore, miaou[1432][NULL][NULL][0007]"
+    "texte_fr": "Ronron... [1205][000F] C'est beau[1432][NULL][NULL][0007] Tu m'as nourri 20\n[000F]fois, miaou[1432][NULL][NULL][0007] J'en veux encore, miaou[1432][NULL][NULL][0007]"
   },
   {
     "id": 19,
@@ -355,7 +355,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Meowvelous![1432][NULL][NULL][0007][1205][000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][0007][1205][000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Miaourveilleux![1205][1205][000F][000F][1432][NULL][NULL][0007] Tu m'as nourri 50 fois,\nronron[1432][NULL][NULL][0007] Tu es si généreux, Monsieur[1432][NULL][NULL][0007]"
+    "texte_fr": "Miaourveilleux![1205][000F][1432][NULL][NULL][0007] Tu m'as nourri 50 fois,\nronron[1432][NULL][NULL][0007] Tu es si généreux, Monsieur[1432][NULL][NULL][0007]"
   },
   {
     "id": 20,
@@ -370,7 +370,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Amazing,[SP]meow![1205][000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Superbe, miaou! [1205][1205][000F][000F]Tu m'as nourri 80 fois,\nmiaou[1432][NULL][NULL][0007] T'as une idée en tête, miaou?"
+    "texte_fr": "Superbe, miaou! [1205][000F]Tu m'as nourri 80 fois,\nmiaou[1432][NULL][NULL][0007] T'as une idée en tête, miaou?"
   },
   {
     "id": 21,
@@ -385,7 +385,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "The[SP]time[SP]has[SP]finally[SP]come,[SP]meow...[1205][000F]\nAn[SP]even[SP]100[SP]feedings...[1205][000F]\nI've[SP]collected[SP]10,000[SP]yen,[SP]meow!",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Le moment est venu,\nmiaou..[1205][1205]. [000F][000F]Un total de 100\nrepas... J'ai récolté 10 000 yens, miaou!"
+    "texte_fr": "Le moment est venu,\nmiaou..[1205]. [000F]Un total de 100 repas...\nJ'ai récolté 10 000 yens, miaou!"
   },
   {
     "id": 22,
@@ -460,7 +460,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "What's[SP]this[SP]poster!?[1205][000F][SP]Ugh,[SP]you[SP]stole[SP]it[SP]from\nanother[SP]station,[SP]didn't[SP]you!?[1205][000F][SP]Go[SP]put[SP]this\nback[SP]right[SP]now!",
     "nom_fr": "Tamaki",
-    "texte_fr": "C'est quoi cette affiche![1205][1205][000F][000F]? Volée dans\nune gare, avoue!? Va vite la remettre!"
+    "texte_fr": "C'est quoi cette affiche![1205][000F]? Volée dans\nune gare, avoue!? Va vite la remettre!"
   },
   {
     "id": 27,
@@ -475,7 +475,7 @@
     "nom_orig": "Tadashi",
     "texte_orig": "Whaaaat!?[1205][000F][SP]Noooo...[SP]I[SP]just[SP]found[SP]it![1205][000F][SP]If[SP]you\nleave[SP]them[SP]there,[SP]they'll[SP]get[SP]snatched[SP]up\nby[SP]someone[SP]else[SP]just[SP]like[SP]that!",
     "nom_fr": "Tadashi",
-    "texte_fr": "Quoooi![1205][1205][000F][000F]? Nannn... Je l'ai trouvée! Si\non les laisse là, elles seront\npiquées par quelqu'un d'autre direct!"
+    "texte_fr": "Quoooi![1205][000F]? Nannn... Je l'ai trouvée! Si\non les laisse là, elles seront\npiquées par quelqu'un d'autre direct!"
   },
   {
     "id": 28,
@@ -808,7 +808,7 @@
     "nom_orig": "Tadashi",
     "texte_orig": "Right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Tadashi",
-    "texte_fr": "Vrai?\n[1208][0002]OuiNon",
+    "texte_fr": "Vrai?\n[1208][0002]Oui\nNon",
     "question_orig": "Right?",
     "choix_orig": [
       "Yes",
@@ -1313,7 +1313,7 @@
     "nom_orig": "Speaker[SP]name",
     "texte_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen.\nSell?\n[1208][0002]Yes\nNo",
     "nom_fr": "",
-    "texte_fr": "Le total fait [120E][NULL] yens. Vendre?\n[1208][0002]OuiNon",
+    "texte_fr": "Le total fait [120E][NULL] yens. Vendre?\n[1208][0002]Oui\nNon",
     "question_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen.\nSell?",
     "choix_orig": [
       "Yes",
@@ -1338,7 +1338,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "This[SP]one's[SP]on[SP]the[SP]house.[SP]You're[SP]sure[SP]that's\nwhat[SP]you[SP]want,[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Celle-là, c'est la maison qui régale.\nC'est bien ce que tu veux?\n[1208][0002]OuiNon",
+    "texte_fr": "Celle-là, c'est la maison qui régale.\nC'est bien ce que tu veux?\n[1208][0002]Oui\nNon",
     "question_orig": "This[SP]one's[SP]on[SP]the[SP]house.[SP]You're[SP]sure[SP]that's\nwhat[SP]you[SP]want,[SP]right?",
     "choix_orig": [
       "Yes",
@@ -1363,7 +1363,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]OuiNon",
+    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui\nNon",
     "question_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?",
     "choix_orig": [
       "Yes",

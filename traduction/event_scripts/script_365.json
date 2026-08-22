@@ -162,7 +162,7 @@
     "nom_orig": "Maya",
     "texte_orig": "They[SP]just[SP]built[SP]that[SP]Aerospace[SP]Museum.[SP]People\nPeople[SP]thought[SP]it[SP]didn't[SP]fit[SP]in[SP]Sumaru[SP]at[SP]first,\nbut[SP]it[SP]gets[SP]a[SP]lot[SP]of[SP]guests[SP]now.",
     "nom_fr": "Maya",
-    "texte_fr": "Quand le Musée de l'Aéronautique fut\nconstruit, les gens ont\ndit que ça jurait dans Sumaru. Désormais y'a foule de visiteurs."
+    "texte_fr": "Quand le Musée de l'Aéronautique fut\nconstruit, les gens ont dit\nque ça jurait dans Sumaru. Désormais y'a foule de visiteurs."
   },
   {
     "id": 11,
@@ -267,7 +267,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I'm[SP]always[SP]surprised[SP]by[SP]Maya-san's[SP]courage[SP]in\nthe[SP]face[SP]of[SP]danger.[SP]She's[SP]never[SP]piloted[SP]a\nblimp[SP]before![SP]At[SP]least[SP]I[SP]don't[SP]think[SP]so...",
     "nom_fr": "Yukino",
-    "texte_fr": "Le courage de Maya face au danger\nm'impressionne toujours. Elle\na jamais piloté de dirigeable avant! Je pense pas en toutcas..."
+    "texte_fr": "Le courage de Maya face au danger\nm'impressionne toujours. Elle a\njamais piloté de dirigeable avant! Je pense pas en toutcas..."
   },
   {
     "id": 18,
@@ -282,7 +282,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Arrrgh...[1205][000F][SP]Why[SP]did[SP]Fujii-san[SP]have[SP]to[SP]take[SP]off\nfor[SP]Mt.[SP]Katatsumuri[SP]at[SP]a[SP]time[SP]like[SP]this!?\nThat[SP]man!",
     "nom_fr": "Yukino",
-    "texte_fr": "Arrgh.[1205][000F].. Pourquoi il a\nfallu que Fujii parte\nau Mont Katatsumuri à un tel moment!? Ce type!"
+    "texte_fr": "Arrgh.[1205][000F].. Pourquoi il a\nfallu que Fujii parte au\nMont Katatsumuri à un tel moment!? Ce type!"
   },
   {
     "id": 19,
@@ -297,7 +297,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Reach[SP]for[SP]the[SP]stars...[1205][000F][SP]Shunsuke-san's\nlast[SP]words.[1205][000F][SP]I[SP]need[SP]to[SP]find[SP]my[SP]own[SP]star.",
     "nom_fr": "Yukino",
-    "texte_fr": "Toucher les étoiles. [1205][1205][000F][000F]Les mots finaux de\nShunsuke. Je dois saisir mon étoile."
+    "texte_fr": "Toucher les étoiles. [1205][000F]Les mots finaux de\nShunsuke. Je dois saisir mon étoile."
   },
   {
     "id": 20,
@@ -312,7 +312,7 @@
     "nom_orig": "Master",
     "texte_orig": "Welcome...[1205][000F][SP]What[SP]would[SP]you[SP]like?\n[1208][0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Bienvenue.[1205][000F].. Que souhaites-tu?\n[1208][0007][1210]Acheter  \n[1210]Accessoires  \n[1210]Vendre  \nManger \nDiscuter     \nRien merci\nFiler[U+03BD][U+035C][U+03BD]",
+    "texte_fr": "Bienvenue.[1205][000F].. Que souhaites-tu?\n[1208][0007][1210]Acheter  \n[1210]Accessoires  \n[1210]Vendre  \nManger \nDiscuter     \nRien merci\nFiler[03BD][035C][03BD]",
     "question_orig": "Welcome...[1205][000F][SP]What[SP]would[SP]you[SP]like?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -342,7 +342,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]have[SP]you[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Maître",
-    "texte_fr": "Qu'avez-vous à vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][U+5501][B_00][B_00][U+5301][B_00][B_00][U+5301][B_00]",
+    "texte_fr": "Qu'avez-vous à vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]have[SP]you[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -372,7 +372,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BD]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Maître",
-    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[U+03BD][B_00][U+5501][B_00]",
+    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[03BD][B_00][5501][B_00]",
     "question_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -399,7 +399,7 @@
     "nom_orig": "Master",
     "texte_orig": "Will[SP]that[SP]be[SP]all?\n[1208][0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Ce sera tout?\n[1208][0007][1210]Acheter  \n[1210]Accessoires  \n[1210]Vendre  \nManger \nDiscuter     \nRien merci\nFiler[U+03BD][U+035C][U+03BD]",
+    "texte_fr": "Ce sera tout?\n[1208][0007][1210]Acheter  \n[1210]Accessoires  \n[1210]Vendre  \nManger \nDiscuter     \nRien merci\nFiler[03BD][035C][03BD]",
     "question_orig": "Will[SP]that[SP]be[SP]all?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -429,7 +429,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]have[SP]you[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Maître",
-    "texte_fr": "Qu'avez-vous à vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][U+5501][B_00][B_00][U+5301][B_00][B_00][U+5301][B_00]",
+    "texte_fr": "Qu'avez-vous à vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]have[SP]you[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -459,7 +459,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BD]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Maître",
-    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas\n[1210]Sélection cachée[U+03BD][B_00][U+5501][B_00]",
+    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas\n[1210]Sélection cachée[03BD][B_00][5501][B_00]",
     "question_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -501,7 +501,7 @@
     "nom_orig": "Master",
     "texte_orig": "I've[SP]left[SP]my[SP]pirating[SP]days[SP]behind.[1205][000F][SP]Yet[SP]there\nare[SP]those[SP]who[SP]still[SP]thirst[SP]for[SP]my[SP]blood...[1205][000F]\nHar![SP]It's[SP]the[SP]prestige[SP]they're[SP]after...",
     "nom_fr": "Maître",
-    "texte_fr": "J'ai laissé la piraterie derrière moi.\n[1205][1205][000F][000F]Mais certains veulent toujours mon sang...\nHar! Ils recherchent le prestige..."
+    "texte_fr": "J'ai laissé la piraterie derrière moi.\n[1205][000F]Mais certains veulent toujours mon sang...\nHar! Ils recherchent le prestige..."
   },
   {
     "id": 28,
@@ -576,7 +576,7 @@
     "nom_orig": "Master",
     "texte_orig": "Children[SP]let[SP]their[SP]dreams[SP]run[SP]wild.[SP]But[SP]the\nkids[SP]of[SP]today[SP]have[SP]neither[SP]the[SP]courage[SP]to[SP]take\nto[SP]the[SP]sea[SP]nor[SP]the[SP]freedom[SP]to[SP]take[SP]to[SP]the[SP]sky.",
     "nom_fr": "Maître",
-    "texte_fr": "Les enfants ont de grands rêves, mais ceux\nd'aujourd'hui n'ont ni\nle courage de prendre la mer ni la liberté de voler dans le ciel."
+    "texte_fr": "Les enfants ont de grands rêves, mais ceux\nd'aujourd'hui n'ont ni le\ncourage de prendre la mer ni la liberté de voler dans le ciel."
   },
   {
     "id": 33,
@@ -606,7 +606,7 @@
     "nom_orig": "Master",
     "texte_orig": "The[SP]key[SP]to[SP]survival[SP]on[SP]the[SP]sea[SP]is[SP]the[SP]courage\nto[SP]chase[SP]your[SP]dreams.[SP]Believe[SP]in[SP]your[SP]spiritual\ncompass,[SP]and[SP]you'll[SP]find[SP]your[SP]true[SP]north.",
     "nom_fr": "Maître",
-    "texte_fr": "La clé pour survivre en\nmer est le courage de\npourchasser tes rêves. Crois en ta boussole spirituelle et tu trouveras le vrai nord."
+    "texte_fr": "La clé pour survivre en\nmer est le courage de pourchasser\ntes rêves. Crois en ta boussole spirituelle et tu trouveras le vrai nord."
   },
   {
     "id": 35,
@@ -636,7 +636,7 @@
     "nom_orig": "Master",
     "texte_orig": "They're[SP]called...[SP]the[SP]Last[SP]Battalion...[1205][000F][SP]I[SP]saw\nthem[SP]come[SP]ashore[SP]at[SP]Ebisu[SP]Beach.[1205][000F][SP]They're[SP]after\nthe[SP]hidden[SP]treasure,[SP]I[SP]see...[SP]Hellbent[SP]on[SP]it.",
     "nom_fr": "Maître",
-    "texte_fr": "Ils se nomment... le Bataillon.[1205][1205].[000F][000F]. Je les ai\nvus débarquer depuis la plage d'Ebisu. Ils\nsont déterminés à trouver le tréson caché..."
+    "texte_fr": "Ils se nomment... le Bataillon.[1205].[000F]. Je les ai\nvus débarquer depuis la plage d'Ebisu. Ils\nsont déterminés à trouver le tréson caché..."
   },
   {
     "id": 37,
@@ -711,7 +711,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "What,[SP]you're[SP]saying[SP]they[SP]were[SP]having[SP]a[SP]costume\nparty[SP]at[SP]the[SP]concert[SP]hall?[SP]I[SP]forget[SP]what[SP]was\ngoing[SP]on[SP]there,[SP]but[SP]it[SP]wasn't[SP]that.",
     "nom_fr": "Employé de bureau",
-    "texte_fr": "Quoi, tu dis qu'il\ny avait une fête costumée\nà la salle de concert? Je me souviens pas trop, mais c'était pas ça je crois."
+    "texte_fr": "Quoi, tu dis qu'il\ny avait une fête costumée à\nla salle de concert? Je me souviens pas trop, mais c'était pas ça je crois."
   },
   {
     "id": 42,
@@ -921,7 +921,7 @@
     "nom_orig": "Master",
     "texte_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Maître",
-    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]OuiNon",
+    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui\nNon",
     "question_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?",
     "choix_orig": [
       "Yes",
@@ -1156,7 +1156,7 @@
     "nom_orig": "Master",
     "texte_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Maître",
-    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]OuiNon",
+    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui\nNon",
     "question_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?",
     "choix_orig": [
       "Yes",
@@ -1181,7 +1181,7 @@
     "nom_orig": "Master",
     "texte_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Maître",
-    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]OuiNon",
+    "texte_fr": "Cela fait [120E][NULL] yen.\nCela te convient?\n[1208][0002]Oui\nNon",
     "question_orig": "It[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]fine[SP]with[SP]you?",
     "choix_orig": [
       "Yes",

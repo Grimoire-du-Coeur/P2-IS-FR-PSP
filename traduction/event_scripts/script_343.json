@@ -87,7 +87,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Was[SP]that[SP]the[SP]Taurus[SP]Temple[SP]in[SP]Kounan?[SP][1205][000F]I'm[SP]a\nTaurus...[SP]so[SP]my[SP]shadow's[SP]probably[SP]there.[1205][000F]\nWe[SP]gotta[SP]hurry[SP]and[SP]get[SP]that[SP]crystal[SP]skull.",
     "nom_fr": "Ginko",
-    "texte_fr": "C'était pas le Temple de Taurus à Kounan?\n[1205][1205][000F][000F]Je suis un Taureau... donc mon ombre doit\ny être. Récupérons le crâne en vitesse."
+    "texte_fr": "C'était pas le Temple de Taurus à Kounan?\n[1205][000F]Je suis un Taureau... donc mon ombre doit\ny être. Récupérons le crâne en vitesse."
   },
   {
     "id": 6,
@@ -117,7 +117,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Quit[SP]joking[SP]around,[SP]Eikichi![1205][000F][SP]I'm[SP]never[SP]gonna\nforgive[SP]that[SP]guy.[1205][000F][SP]I[SP]won't[SP]stop[SP]until[SP]I've\nbeaten[SP]his[SP]sneering[SP]face[SP]to[SP]a[SP]pulp!",
     "nom_fr": "Ginko",
-    "texte_fr": "Arrête de plaisanter, Eikichi! [1205][1205][000F][000F]Je\npardonnerai jamais à\nce type. Je m'arrêterai pas avant d'avoir tabassé sa sale tête!"
+    "texte_fr": "Arrête de plaisanter, Eikichi! [1205][000F]Je\npardonnerai jamais à ce\ntype. Je m'arrêterai pas avant d'avoir tabassé sa sale tête!"
   },
   {
     "id": 8,
@@ -162,7 +162,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Leo[SP]Temple...[1205][000F][SP]That[SP]means[SP]your[SP]shadow[SP]might\nbe[SP]waiting[SP]for[SP]us[SP]in[SP]Aoba.[1205][000F][SP]Be[SP]careful,\n[1113]-kun.",
     "nom_fr": "Maya",
-    "texte_fr": "Le Temple de Leo.[1205][1205][000F][000F].. Cela veut dire que ton\nombre nous attend à Aoba. Sois prudent,\n[1113]."
+    "texte_fr": "Le Temple de Leo.[1205][000F].. Cela veut dire que ton\nombre nous attend à Aoba. Sois prudent,\n[1113]."
   },
   {
     "id": 11,
@@ -207,7 +207,7 @@
     "nom_orig": "Jun",
     "texte_orig": "There[SP]should[SP]be[SP]a[SP]crystal[SP]skull[SP]at[SP]the[SP]temple\nin[SP]Hirasaka[SP]too.[1205][000F][SP]We[SP]can't[SP]let[SP]either[SP]the[SP]Masked\nCircle[SP]or[SP]the[SP]Last[SP]Battalion[SP]get[SP]it...",
     "nom_fr": "Jun",
-    "texte_fr": "Un crâne devrait aussi se trouver au temple\nd'Hirasaka. [1205][000F]On ne peut\npas laisser le Cercle Masqué ou le Bataillon s'en emparer..."
+    "texte_fr": "Un crâne devrait aussi se trouver au temple\nd'Hirasaka. [1205][000F]On ne peut pas\nlaisser le Cercle Masqué ou le Bataillon s'en emparer..."
   },
   {
     "id": 14,
@@ -252,7 +252,7 @@
     "nom_orig": "Jun",
     "texte_orig": "My[SP]false[SP]memories[SP]and[SP]true[SP]memories[SP]conflicted\nwith[SP]each[SP]other,[SP]causing[SP]me[SP]to[SP]subconsciously\nreach[SP]out[SP]to[SP]Lisa...[1205][000F][SP]My[SP]sins[SP]will[SP]never[SP]fade...",
     "nom_fr": "Jun",
-    "texte_fr": "Mes vrais et\nfaux souvenirs s'entrechoquent,\net me rapprochent inconsciemment de Lisa... [1205][000F]Mes péchés ne s'effaceront jamais..."
+    "texte_fr": "Mes vrais et\nfaux souvenirs s'entrechoquent, et\nme rapprochent inconsciemment de Lisa... [1205][000F]Mes péchés ne s'effaceront jamais..."
   },
   {
     "id": 17,
@@ -267,7 +267,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Ack![SP]This[SP]is[SP]terrible![1205][000A][SP]The[SP]city's[SP]flying![1205][000F]\nAieeeee![SP]Everyone[SP]panic!",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Ack! C'est terrible! [1205][1205][000A]La ville\nvole! [000F]Aaaaah! C'est la panique!"
+    "texte_fr": "Ack! C'est terrible! [1205][000A]La ville\nvole! [000F]Aaaaah! C'est la panique!"
   },
   {
     "id": 18,
@@ -297,7 +297,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "What's[SP]up?[SP]Need[SP]something?\n[1208][0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Chikarin\nNever[SP]mind",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quoi d'neuf? Je peux t'aider?\n[1208][0003][1210][U+0475]Parlons rumeurs \nDiscuter un peu  \nRien merci",
+    "texte_fr": "Quoi d'neuf? Je peux t'aider?\n[1208][0003][1210][0475]Parlons rumeurs \nDiscuter un peu  \nRien merci",
     "question_orig": "What's[SP]up?[SP]Need[SP]something?",
     "choix_orig": [
       "[1210]Ask[SP]about[SP]rumors",
@@ -323,7 +323,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]kind[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel type de rumeur t'intéresse?\n[1208][0004][1210]Magasin d'armes  \n[1210]Magasin d'armures\n[1210]Autres   \nAucun[U+0476][U+0477][U+0478]",
+    "texte_fr": "Quel type de rumeur t'intéresse?\n[1208][0004][1210]Magasin d'armes  \n[1210]Magasin d'armures\n[1210]Autres   \nAucun[0476][0477][0478]",
     "question_orig": "Which[SP]kind[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -350,7 +350,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?\n[1208][0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel endroit t'intéresse?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nRien[U+046A][U+046B][U+046C][U+046D]",
+    "texte_fr": "Quel endroit t'intéresse?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nRien[046A][046B][046C][046D]",
     "question_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?",
     "choix_orig": [
       "[1210]Rengedai",
@@ -378,7 +378,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?\n[1208][0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel endroit t'intéresse?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nRien[U+046E][U+046F][U+0470][U+0471]",
+    "texte_fr": "Quel endroit t'intéresse?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nRien[046E][046F][0470][0471]",
     "question_orig": "Which[SP]area[SP]are[SP]you[SP]interested[SP]in?",
     "choix_orig": [
       "[1210]Rengedai",
@@ -406,7 +406,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]one[SP]do[SP]you[SP]want[SP]the[SP]details[SP]on?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "De quelle rumeur tu veux avoir les \ndétails?\n[1208][0004][1210]Loteries de magazines   \n[1210]Mu    \n[1210]Arme légendaire    \nAucune[U+0472][U+0473][U+0474]",
+    "texte_fr": "De quelle rumeur tu veux avoir les \ndétails?\n[1208][0004][1210]Loteries de magazines   \n[1210]Mu    \n[1210]Arme légendaire    \nAucune[0472][0473][0474]",
     "question_orig": "Which[SP]one[SP]do[SP]you[SP]want[SP]the[SP]details[SP]on?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
@@ -463,7 +463,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Okay,[SP]that[SP]was[SP]worth[SP]it.[1205][000F][SP]Sure,[SP]I'll[SP]tell[SP]you\nwhat[SP]I[SP]know.[1205][000F][SP]Are[SP]you[SP]ready[SP]for[SP]this?",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "OK, ça valait le coup. [1205][1205][000F][000F]Bien sûr, je vais\nte donner mes infos. T'es bien accroché?"
+    "texte_fr": "OK, ça valait le coup. [1205][000F]Bien sûr, je vais\nte donner mes infos. T'es bien accroché?"
   },
   {
     "id": 27,
@@ -493,7 +493,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Huh?[SP]You[SP]saw[SP]a[SP]REAL[SP]ghost[SP]at[SP]the[SP]clock[SP]tower\nin[SP]Sevens!?[SP]Seriously?[SP]You're[SP]not[SP]pulling[SP]my\nleg[SP]here?",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Hein? T'as vu un\nVRAI fantôme dans l'horloge\nde Seven!? Sérieux? Tu me fais pas marcher là?"
+    "texte_fr": "Hein? T'as vu un\nVRAI fantôme dans l'horloge de\nSeven!? Sérieux? Tu me fais pas marcher là?"
   },
   {
     "id": 29,
@@ -538,7 +538,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "There's[SP]this[SP]place[SP][E4][NULL][NULL][0006]Tony's[SP]Shop[E4][NULL][NULL][0002][SP]in[SP]Yumezaki.\nRumor[SP]is[SP]you[SP]can[SP]buy[SP][E4][NULL][NULL][0006]real[SP]weapons[E4][NULL][NULL][0002][SP]there![1205][000F]\nHis[SP][E4][NULL][NULL][0006]prices[SP]and[SP]quality[SP]are[SP]okay[E4][NULL][NULL][0002],[SP]I[SP]guess.",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Y'a ce coin, [E4][NULL][NULL][0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki. La\nrumeur dit qu'on y\nvend de [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002]! [1205][000F]Les [E4][NULL][NULL][0006]prix et la qualité sont corrects[E4][NULL][NULL][0002], je crois."
+    "texte_fr": "Y'a ce coin, [E4][NULL][NULL][0006]Tony's Shop[E4][NULL][NULL][0002] à Yumezaki. La\nrumeur dit qu'on y vend\nde [E4][NULL][NULL][0006]vraies armes[E4][NULL][NULL][0002]! [1205][000F]Les [E4][NULL][NULL][0006]prix et la qualité sont corrects[E4][NULL][NULL][0002], je crois."
   },
   {
     "id": 32,
@@ -598,7 +598,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Okay,[SP]did[SP]you[SP]know[SP]the[SP][E4][NULL][NULL][0006]Jolly[SP]Roger[E4][NULL][NULL][0002][SP]cafe[SP]in\nKounan[SP][E4][NULL][NULL][0006]sells[SP]real[SP]weapons[E4][NULL][NULL][0002]?[1205][000F][SP]Their[SP][E4][NULL][NULL][0006]selection[SP]is\ngreat,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]the[SP]pits[E4][NULL][NULL][0002].",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Bien, tu savais que le café [E4][NULL][NULL][0006]Jolly Roger[E4][NULL][NULL][0002] à\nKounan [E4][NULL][NULL][0006]vendait de vraies armes[E4][NULL][NULL][0002]?\n[1205][000F]Il y a [E4][NULL][NULL][0006]du très bon choix, mais le prix de revente estabyssal[E4][NULL][NULL][0002]."
+    "texte_fr": "Bien, tu savais que le café [E4][NULL][NULL][0006]Jolly Roger[E4][NULL][NULL][0002] à\nKounan [E4][NULL][NULL][0006]vendait de vraies armes[E4][NULL][NULL][0002]? Il\n205][000F]Il y a [E4][NULL][NULL][0006]du très bon choix, mais le prix de revente estabyssal[E4][NULL][NULL][0002]."
   },
   {
     "id": 36,
@@ -718,7 +718,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Did[SP]you[SP]know[SP]there's[SP]a[SP][E4][NULL][NULL][0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]in[SP]Aoba\ntoo?[1205][000F][SP]They[SP]sell[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP]It's[SP][E4][NULL][NULL][0006]super\nhigh[SP]quality,[SP]but[SP]also[SP]super[SP]expensive[E4][NULL][NULL][0002].",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Tu savais qu'il y avait\nun [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] à Aoba[1205][000F]\naussi? [000F]Ils vendent de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]là-bas. La [E4][NULL][NULL][0006]qualité et le prix sont très hauts[E4][NULL][NULL][0002]."
+    "texte_fr": "Tu savais qu'il y avait\nun [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] à Aoba[1205][000F] aussi?\n[000F]Ils vendent de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]là-bas. La [E4][NULL][NULL][0006]qualité et le prix sont très hauts[E4][NULL][NULL][0002]."
   },
   {
     "id": 44,
@@ -763,7 +763,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Say[SP]what?[1205][000F][SP]Tamaki[SP]at[SP]the[SP]detective[SP]agency[SP]is\nactually[SP]a[SP]Devil[SP]Summoner?[1205][000F][SP]What[SP]the[SP]heck\nis[SP]that?",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quoi? [1205][1205][000F][000F]Tamaki de l'agence de\ndétective est en réalité une Devil\nSummoner? C'est quoi comme truc?"
+    "texte_fr": "Quoi? [1205][000F]Tamaki de l'agence de\ndétective est en réalité une Devil\nSummoner? C'est quoi comme truc?"
   },
   {
     "id": 47,
@@ -868,7 +868,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Then[SP]it[SP]really[SP]was[SP]part[SP]of[SP]the[SP]Oracle?[1205][000A][SP]And[SP]the\nMasked[SP]Circle[SP]was[SP]behind[SP]it?[1205][000A][SP]Oh,[SP]do[SP]I[SP]need[SP]to\nspill[SP]first[SP]before[SP]you[SP]tell[SP]me[SP]more?[1205][000F][SP]Gotcha!",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "C'était vraiment dans\nl'Oracle? [1205][1205][1205][000A][000A]Et le Cercle\nMasqué était derrière tout ça? Oh, je dois parler aussi pour en savoir plus, hein? [000F]Pigé!"
+    "texte_fr": "C'était vraiment dans\nl'Oracle? [1205][000A]Et le Cercle Masqué\nétait derrière tout ça? Oh, je dois parler aussi pour en savoir plus, hein? [000F]Pigé!"
   },
   {
     "id": 54,
@@ -898,7 +898,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "What[SP]could[SP]have[SP]happened[SP]to[SP]Kozy-senpai...?[1205][000F]\nI[SP]haven't[SP]heard[SP]from[SP]her[SP]at[SP]all...[1205][000F][SP]I'm[SP]really\nstarting[SP]to[SP]worry.",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Qu'a-t-il pu arriver à Kozy...? [1205][1205][000F] Je\n[000F][000F]n'ai plus aucune nouvelle... Je\ncommence vraiment à m'inquiéter."
+    "texte_fr": "Qu'a-t-il pu arriver à Kozy...? [1205][000F] Je\n[000F]n'ai plus aucune nouvelle... Je\ncommence vraiment à m'inquiéter."
   },
   {
     "id": 56,
@@ -928,7 +928,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Huh!?[1205][000F][SP]You[SP]found[SP]Kozy-senpai?[1205][000F][SP]Thank[SP]goodness...",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Hein? [1205][1205][000F][000F]Vous avez trouvé Kozy? Dieu merci..."
+    "texte_fr": "Hein? [1205][000F]Vous avez trouvé Kozy? Dieu merci..."
   },
   {
     "id": 58,
@@ -943,7 +943,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Whoa,[SP]but[SP]why's[SP]she[SP]so[SP]scrawny?[1205][000F][SP]She[SP]must[SP]have\ngone[SP]through[SP]hell,[SP]poor[SP]girl...[1205][000F][SP]I[SP]feel[SP]so\nawful[SP]for[SP]her...",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Woah, pourquoi elle est aussi\n[1205][1205][000F][000F]efflanquée? Elle a du vivre l'enfer, la\npauvre... Je me sens mal pour elle..."
+    "texte_fr": "Woah, pourquoi elle est aussi\n[1205][000F]efflanquée? Elle a du vivre l'enfer, la\npauvre... Je me sens mal pour elle..."
   },
   {
     "id": 59,
@@ -1063,7 +1063,7 @@
     "nom_orig": "Yukiko",
     "texte_orig": "Hey,[SP]Kazuya.[SP]I've[SP]been[SP]thinking.[1205][000F][SP]Maybe[SP]the\nworld[SP]will[SP]be[SP]destroyed[SP]by[SP]cosmic[SP]rays.[1205][000F][SP]Y'know,\nthe[SP]invisible[SP]stuff[SP]that's[SP]everywhere[SP]in[SP]space?",
     "nom_fr": "Yukiko",
-    "texte_fr": "Hé, Kazuya. Je me disais. [1205][1205][000F][000F]Le monde sera\npeut-être détruit par des rayonnements\ncosmiques. Tu sais, les machins invisiblesdans l'espace?"
+    "texte_fr": "Hé, Kazuya. Je me disais. [1205][000F]Le monde sera\npeut-être détruit par des rayonnements\ncosmiques. Tu sais, les machins invisiblesdans l'espace?"
   },
   {
     "id": 67,
@@ -1078,7 +1078,7 @@
     "nom_orig": "Yukiko",
     "texte_orig": "Earth[SP]is[SP]at[SP]the[SP]center[SP]of[SP]the[SP]Grand[SP]Cross,\nright?[1205][000F][SP]So[SP]maybe[SP]the[SP]cosmic[SP]rays[SP]from[SP]other\nplanets[SP]are[SP]gonna[SP]get[SP]focused[SP]on[SP]Earth.[1205][000F][SP]Well?",
     "nom_fr": "Yukiko",
-    "texte_fr": "La Terre est au\ncentre de la Croix Cosmique,\n[1205][1205][000F][000F]non? Les rayons des autres planètes pourraient se concentrer sur la Terre. Alors?"
+    "texte_fr": "La Terre est au\ncentre de la Croix Cosmique, non?\n5][000F]non? Les rayons des autres planètes pourraient se concentrer sur la Terre. Alors?"
   },
   {
     "id": 68,
@@ -1123,7 +1123,7 @@
     "nom_orig": "Yukiko",
     "texte_orig": "Huh!?[1205][000A][SP]Wow,[SP]that's[SP]really[SP]bad.[1205][000F][SP]Centrifugal\nforces[SP]would[SP]blow[SP]away[SP]everything[SP]on[SP]Earth.\nIt's[SP]gonna[SP]be[SP]a[SP]wasteland[SP]down[SP]there...",
     "nom_fr": "Yukiko",
-    "texte_fr": "Hein![1205][1205][000A]? [000F]Wow, c'est vraiment pas bon. La\nforce centrifuge va tout balayer sur\nTerre. Il ne restera que la désolation..."
+    "texte_fr": "Hein![1205][000A]? [000F]Wow, c'est vraiment pas bon. La\nforce centrifuge va tout balayer sur\nTerre. Il ne restera que la désolation..."
   },
   {
     "id": 71,
@@ -1165,7 +1165,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "But[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Mais de quoi parlerons-nous donc?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][U+5501][B_00]",
+    "texte_fr": "Mais de quoi parlerons-nous donc?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00]",
     "question_orig": "But[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1218,7 +1218,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "But[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Mais de quoi parlerons-nous donc?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][U+5501][B_00]",
+    "texte_fr": "Mais de quoi parlerons-nous donc?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00]",
     "question_orig": "But[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1289,7 +1289,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "In[SP]all,[SP]that[SP]is[SP][120E][NULL][SP]yen.\n[1208][0002]Yes\nNo",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Cela fait [120E][NULL] yen.\n[1208][0002]OuiNon",
+    "texte_fr": "Cela fait [120E][NULL] yen.\n[1208][0002]Oui\nNon",
     "question_orig": "In[SP]all,[SP]that[SP]is[SP][120E][NULL][SP]yen.",
     "choix_orig": [
       "Yes",
@@ -1359,7 +1359,7 @@
     "nom_orig": "Speaker[SP]name",
     "texte_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen,[SP]but[SP]will\nyou[SP]sell[SP]them?\n[1208][0002]Yes\nNo",
     "nom_fr": "",
-    "texte_fr": "Le total fait [120E][NULL] yens.\nVous les vendez?\n[1208][0002]OuiNon",
+    "texte_fr": "Le total fait [120E][NULL] yens.\nVous les vendez?\n[1208][0002]Oui\nNon",
     "question_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen,[SP]but[SP]will\nyou[SP]sell[SP]them?",
     "choix_orig": [
       "Yes",
@@ -1384,7 +1384,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "In[SP]all,[SP]that[SP]is[SP][120E][NULL][SP]yen.\n[1208][0002]Yes\nNo",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Cela fait [120E][NULL] yen.\n[1208][0002]OuiNon",
+    "texte_fr": "Cela fait [120E][NULL] yen.\n[1208][0002]Oui\nNon",
     "question_orig": "In[SP]all,[SP]that[SP]is[SP][120E][NULL][SP]yen.",
     "choix_orig": [
       "Yes",

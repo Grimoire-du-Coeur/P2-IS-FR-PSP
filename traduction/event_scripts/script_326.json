@@ -162,7 +162,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Huh?[SP]You're[SP]not[SP]gonna[SP]spread[SP]the[SP]rumor[SP]to[SP]make\nthis[SP]place[SP]into[SP]a[SP]casino?[SP]But[SP]it[SP]would[SP]be[SP]so\nmuch[SP]funnnnn...",
     "nom_fr": "Ginko",
-    "texte_fr": "Hein? Tu lances pas\nla rumeur pour faire d'ici\nun casino? Mais ça serait trop ffuuuuuun..."
+    "texte_fr": "Hein? Tu lances pas\nla rumeur pour faire d'ici un\ncasino? Mais ça serait trop ffuuuuuun..."
   },
   {
     "id": 11,
@@ -252,7 +252,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Shouldn't[SP]we[SP]hurry[SP]to[SP]Mt.[SP]Katatsumuri?[1205][000F][SP]She's\ngonna[SP]get[SP]upset...[1205][000F][SP]And[SP]an[SP]angry[SP]Yukino-san[SP]is\nscarier[SP]than[SP]the[SP]Last[SP]Battalion!",
     "nom_fr": "Ginko",
-    "texte_fr": "Ne devrions-nous pas filer au Mont\n[1205][1205][000F][000F]Katatsumuri? Elle va\ns'énerver... Une Yukino en colère, c'est pire que le Bataillon!"
+    "texte_fr": "Ne devrions-nous pas filer au Mont\n[1205][000F]Katatsumuri? Elle va s'énerver...\nUne Yukino en colère, c'est pire que le Bataillon!"
   },
   {
     "id": 17,
@@ -267,7 +267,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "We...[SP]We[SP]did[SP]what[SP]we[SP]could,[SP]right?[1205][000F][SP]I[SP]just\ndon't[SP]know...[1205][000F][SP]What's[SP]there[SP]to[SP]say...?",
     "nom_fr": "Ginko",
-    "texte_fr": "On... On a fait ce qu'on pouvait, non?\n[1205][1205][000F][000F]Je sais pas trop... Quoi dire...?"
+    "texte_fr": "On... On a fait ce qu'on pouvait, non?\n[1205][000F]Je sais pas trop... Quoi dire...?"
   },
   {
     "id": 18,
@@ -282,7 +282,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Could[SP]there[SP]be[SP]an[SP]underground[SP]casino[SP]here?[1205][000F]\nI've[SP]never[SP]heard[SP]about[SP]anything[SP]like[SP]that\nat[SP]work...[SP]Weird.",
     "nom_fr": "Maya",
-    "texte_fr": "Il y aurait un\ncasino clandestin ici? [1205][000F]J'en ai\njamais entendu parler au boulot... Étrange."
+    "texte_fr": "Il y aurait un\ncasino clandestin ici? [1205][000F]J'en ai jamais\nentendu parler au boulot... Étrange."
   },
   {
     "id": 19,
@@ -372,7 +372,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Heh.[SP]What[SP]have[SP]you[SP]come[SP]here[SP]for?[1205][000F][SP]To[SP]try[SP]and\nescape[SP]the[SP]resurfacing[SP]memories?[1205][000F][SP]Sorry[SP]to[SP]say,\nbut[SP]that[SP]won't[SP]be[SP]possible.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nDon't[SP]worry,[SP]Yukki.[SP]I'm[SP]sure[SP]Fujii-san[SP]will[SP]be\njust[SP]fine.[SP]C'mon,[SP]you[SP]need[SP]to[SP]calm[SP]down.",
     "nom_fr": "Maya",
-    "texte_fr": "Hé. Que viens-tu faire ici? [1205][1205][000F][000F]Tenter d'fuir\nles souvenirs qui refont surface? Désolée,\nmais c'est impossible.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nT'en fais pas, Yukki. Je suis sûre\nque Fujii-san ira bien. Allez, calme-toi."
+    "texte_fr": "Hé. Que viens-tu faire ici? [1205][000F]Tenter d'fuir\nles souvenirs qui refont surface? Désolée,\nmais c'est impossible.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nT'en fais pas, Yukki. Je suis sûre que\nFujii-san ira bien. Allez, calme-toi."
   },
   {
     "id": 25,
@@ -432,7 +432,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]can't[SP]believe[SP]you[SP]took[SP]the[SP]time[SP]to[SP]spread[SP]the\nrumor[SP]to[SP]turn[SP]this[SP]place[SP]into[SP]a[SP]casino.[1205][000F][SP]*sigh*\nOh[SP]well...[1205][000F][SP]Try[SP]not[SP]to[SP]waste[SP]too[SP]much[SP]money.",
     "nom_fr": "Yukino",
-    "texte_fr": "J'y crois pas que tu aies pris le temps de\nlancer la rumeur pour\nfaire d'ici un casino. [1205][1205][000F][000F]*soupir* Bref... Essaie de ne pas tropgaspiller."
+    "texte_fr": "J'y crois pas que tu aies pris le temps de\nlancer la rumeur pour faire\nd'ici un casino. [1205][000F]*soupir* Bref... Essaie de ne pas tropgaspiller."
   },
   {
     "id": 29,
@@ -522,7 +522,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Anna's[SP]probably[SP]at[SP]the[SP]Caracol,[SP]too.[1205][000F][SP]No[SP]more\ntragedies...[1205][000F][SP]I[SP]have[SP]to[SP]save[SP]her[SP]at[SP]all[SP]costs.",
     "nom_fr": "Yukino",
-    "texte_fr": "Anna est sûrement au[1205][000F]\nCaracol aussi. [1205][000F][000F]Fini les\ntragédies... Je dois la sauver à tout prix."
+    "texte_fr": "Anna est sûrement au[1205][000F]\nCaracol aussi. [1205][000F]Fini les tragédies...\nJe dois la sauver à tout prix."
   },
   {
     "id": 35,
@@ -597,7 +597,7 @@
     "nom_orig": "Young[SP]man",
     "texte_orig": "*sigh*[SP]I[SP]lose[SP]again...[1205][000F][SP]Well,[SP]maybe[SP]I'll[SP]get\nlucky[SP]next[SP]time.[1205][000F][SP]Alright,[SP]one[SP]more[SP]try!",
     "nom_fr": "Jeune Homme",
-    "texte_fr": "Pff, encore perdu.[1205][1205][000F][000F].. La prochaines c'est\nla bonne. Allez, un dernier essai!"
+    "texte_fr": "Pff, encore perdu.[1205][000F].. La prochaines c'est\nla bonne. Allez, un dernier essai!"
   },
   {
     "id": 40,
@@ -687,7 +687,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "See,[SP]I[SP]told[SP]you[SP]the[SP]rumor[SP]was[SP]true![1205][000F][SP]Hmm,[SP]so[SP]I\nhear[SP]it's[SP]easy[SP]to[SP]win[SP]at[SP]the[SP]#5[SP]poker[SP]machine.",
     "nom_fr": "Jeune femme",
-    "texte_fr": "La rumeur était vraie!\n[1205][000F]Hmm, on dit qu'il est\nfacile de gagner à la machine de poker N°5."
+    "texte_fr": "La rumeur était vraie!\n[1205][000F]Hmm, on dit qu'il est facile\nde gagner à la machine de poker N°5."
   },
   {
     "id": 46,
@@ -807,7 +807,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "Geez,[SP]he's[SP]completely[SP]blown[SP]his[SP]stack...[1205][000F][SP]And\npoker's[SP]supposed[SP]to[SP]have[SP]the[SP]best[SP]odds.[1205][000F][SP]If[SP]he\ncan't[SP]win[SP]after[SP]this[SP]many[SP]tries,[SP]he[SP]just[SP]sucks.",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Pff, il a tout cramé... [1205][1205][000F][000F]Et le poker offre\nles meilleures chances. S'il gagne pas\naprès tous ces essais, c'est qu'il est nul."
+    "texte_fr": "Pff, il a tout cramé... [1205][000F]Et le poker offre\nles meilleures chances. S'il gagne pas\naprès tous ces essais, c'est qu'il est nul."
   },
   {
     "id": 54,
@@ -822,7 +822,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "Geez,[SP]he's[SP]completely[SP]blown[SP]his[SP]stack...[1205][000F][SP]The\nslots're[SP]supposed[SP]to[SP]have[SP]the[SP]best[SP]odds.[1205][000F][SP]If[SP]he\ncan't[SP]win[SP]after[SP]this[SP]many[SP]tries,[SP]he[SP]just[SP]sucks.",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Pff, il a tout cramé... [1205][1205][000F][000F]Les machines à sous\noffrent de meilleures chances. S'il gagne\npas après tous ces essais, il est juste nul."
+    "texte_fr": "Pff, il a tout cramé... [1205][000F]Les machines à sous\noffrent de meilleures chances. S'il gagne\npas après tous ces essais, il est juste nul."
   },
   {
     "id": 55,
@@ -837,7 +837,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "Geez,[SP]he's[SP]completely[SP]blown[SP]his[SP]top...[1205][000F][SP]And[SP]the\nblackjacks[SP]odds[SP]are[SP]supposed[SP]to[SP]be[SP]great.[1205][000F][SP]If[SP]he\ncan't[SP]win[SP]after[SP]this[SP]many[SP]tries,[SP]he[SP]just[SP]sucks.",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Pff, il a tout cramé... [1205][1205][000F][000F]Et les cotes du\nblackjack sont superbes. S'il gagne pas\naprès tous ces essais, c'est qu'il est nul."
+    "texte_fr": "Pff, il a tout cramé... [1205][000F]Et les cotes du\nblackjack sont superbes. S'il gagne pas\naprès tous ces essais, c'est qu'il est nul."
   },
   {
     "id": 56,
@@ -987,7 +987,7 @@
     "nom_orig": "Inveterate[SP]gambler",
     "texte_orig": "Ever[SP]hear[SP]of[SP]Russian[SP]roulette?[SP]It's[SP]the[SP]ultimate\nform[SP]of[SP]gambling,[SP]where[SP]your[SP]own[SP]life[SP]is[SP]on[SP]the\nline.[SP]I'll[SP]bet[SP]on[SP]whether[SP]Mu[SP]gets[SP]bombed...",
     "nom_fr": "Joueur invétéré",
-    "texte_fr": "T'as entendu parler de la roulette russe?\nC'est la forme ultime du\npari, où ta vie est en jeu. Je parie sur si Mu se ferabombarder..."
+    "texte_fr": "T'as entendu parler de la roulette russe?\nC'est la forme ultime du pari,\noù ta vie est en jeu. Je parie sur si Mu se ferabombarder..."
   },
   {
     "id": 66,
@@ -1017,7 +1017,7 @@
     "nom_orig": "Inveterate[SP]gambler",
     "texte_orig": "The[SP]Last[SP]Battalion...[SP]They're[SP]a[SP]real[SP]wild[SP]card.[1205][000F]\nThe[SP]stakes[SP]are[SP]this[SP]entire[SP]city...[SP]What's[SP]going\nto[SP]decide[SP]Sumaru's[SP]fate...[SP]is[SP]cards...",
     "nom_fr": "Joueur invétéré",
-    "texte_fr": "Le Bataillon... Ce sont de sacrés jokers.\n[1205][000F]L'enjeu, c'est cette\nville... Ce qui décidera du sort de Sumaru... ce sont les cartes..."
+    "texte_fr": "Le Bataillon... Ce sont de sacrés jokers.\n[1205][000F]L'enjeu, c'est cette ville...\nCe qui décidera du sort de Sumaru... ce sont les cartes..."
   },
   {
     "id": 68,
@@ -1047,7 +1047,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?\n[1208][0005]Buy[SP]coins\nRedeem[SP]for[SP]prizes\nTalk[SP]to[SP]the[SP]manager\nNever[SP]mind\nLeave\n[1109][E2]\n[E3][E4][NULL][NULL]\"Manager\nWhat[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][0005][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
     "nom_fr": "Gérant",
-    "texte_fr": "Bienvenue au Mu. Échangez ici vos pièces\ncontre des prix. Alors?\n[1208][0005]Acheter pièces\nÉchanger contre prix\nParler au gérant\nRien\nPartir\n[1109][E2]\n[E3][E4][NULL][NULL]\"Gérant\nQuels prix voulez-vous?\n[1208][0005][1210]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes[B_00][U+5501][B_00]",
+    "texte_fr": "Bienvenue au Mu. Échangez ici vos pièces\ncontre des prix. Alors?\n[1208][0005]Acheter pièces\nÉchanger contre prix\nParler au gérant\nRien\nPartir\n[1109][E2]\n[E3][E4][NULL][NULL]\"Gérant\nQuels prix voulez-vous?\n[1208][0005][1210]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes[B_00][5501][B_00]",
     "question_orig": "Welcome[SP]to[SP]Mu.[SP]You[SP]can[SP]redeem[SP]coins[SP]for[SP]prizes\nhere.[SP]So[SP]what'll[SP]it[SP]be?",
     "choix_orig": [
       "Buy[SP]coins",
@@ -1083,7 +1083,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gérant",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée\n Le gérant s'est absenté...[B_00][U+5501][B_00]",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée\n Le gérant s'est absenté...[B_00][5501][B_00]",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1137,7 +1137,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][0005][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
     "nom_fr": "Gérant",
-    "texte_fr": "Quels prix voulez-vous?\n[1208][0005][1210]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes[B_00][U+5501][B_00]",
+    "texte_fr": "Quels prix voulez-vous?\n[1208][0005][1210]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes[B_00][5501][B_00]",
     "question_orig": "What[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?",
     "choix_orig": [
       "[1210][B_00][B_00]ndisplayed[SP]selection",
@@ -1165,7 +1165,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gérant",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée[B_00][U+5501][B_00]",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée[B_00][5501][B_00]",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1191,7 +1191,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Why[SP]am[SP]I[SP]standing[SP]here?[1205][000F][SP]I[SP]feel[SP]like[SP]I've[SP]been\nhere[SP]the[SP]whole[SP]time,[SP]too...[1205][000F][SP]Was[SP]I[SP]exchanging\ncoins[SP]or[SP]something?",
     "nom_fr": "Gérant",
-    "texte_fr": "Pourquoi suis-je ici? [1205][1205][000F][000F]J'ai l'impression\nd'être là depuis toujours...\nJ'échangeais des jetons ou quoi?"
+    "texte_fr": "Pourquoi suis-je ici? [1205][000F]J'ai l'impression\nd'être là depuis toujours...\nJ'échangeais des jetons ou quoi?"
   },
   {
     "id": 75,
@@ -1221,7 +1221,7 @@
     "nom_orig": "Manager",
     "texte_orig": "C'mon,[SP]you[SP]gotta[SP]go[SP]to[SP]the[SP]Kasuga[SP]Festival![1205][000F]\nHuh?[SP]Me?[SP]How[SP]can[SP]I[SP]leave[SP]when[SP]it's[SP]so[SP]busy\nhere?[1205][000F][SP]Meh,[SP]go[SP]have[SP]fun[SP]for[SP]me[SP]too...",
     "nom_fr": "Gérant",
-    "texte_fr": "Vas au festival Kasuga! Moi? [1205][1205][000F][000F]Comment\npartir avec tout ce monde ici? Bref,\namuse-toi bien pour moi..."
+    "texte_fr": "Vas au festival Kasuga! Moi? [1205][000F]Comment\npartir avec tout ce monde ici? Bref,\namuse-toi bien pour moi..."
   },
   {
     "id": 77,
@@ -1251,7 +1251,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Everything's[SP]Muses[SP]this[SP]and[SP]Muses[SP]that[SP]these\ndays.[SP]They're[SP]not[SP]really[SP]my[SP]thing...[1205][000F][SP]Too[SP]young.[1205][000F]\nI[SP]can't[SP]relate[SP]to[SP]their[SP]songs...[SP]Hmm.",
     "nom_fr": "Gérant",
-    "texte_fr": "On n'entend plus que Muses par-ci, Muses\npar-là. C'est pas trop mon truc.[1205][1205][000F][000F].. Trop\njeune. Leurs chansons me parlent pas... Hmm."
+    "texte_fr": "On n'entend plus que Muses par-ci, Muses\npar-là. C'est pas trop mon truc.[1205][000F].. Trop\njeune. Leurs chansons me parlent pas... Hmm."
   },
   {
     "id": 79,
@@ -1296,7 +1296,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Noooo![SP]It's[SP]burning![1205][000F][SP]GOLD[SP]is[SP]burning![1205][000F]\n...Can't[SP]you[SP]act[SP]at[SP]least[SP]a[SP]little[SP]panicked,\nman?",
     "nom_fr": "Gérant",
-    "texte_fr": "Noooon! [1205][1205][000F][000F]Ça brûle! GOLD brûle! ... Tu\npourrais pas paniquer un peu, mec?"
+    "texte_fr": "Noooon! [1205][000F]Ça brûle! GOLD brûle! ... Tu\npourrais pas paniquer un peu, mec?"
   },
   {
     "id": 82,
@@ -1341,7 +1341,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Yep,[SP]might[SP]as[SP]well[SP]enjoy[SP]gambling[SP]at[SP]a[SP]time\nlike[SP]this.[SP]It's[SP]not[SP]like[SP]panicking[SP]will[SP]help.\n...Though[SP]to[SP]be[SP]honest,[SP]I'm[SP]freaking[SP]out!",
     "nom_fr": "Gérant",
-    "texte_fr": "Ouais, autant profiter des jeux d'argent\ndans un moment pareil.\nPaniquer ne servira à rien... Même si, en vrai, je flippe à fond!"
+    "texte_fr": "Ouais, autant profiter des jeux d'argent\ndans un moment pareil. Paniquer\nne servira à rien... Même si, en vrai, je flippe à fond!"
   },
   {
     "id": 85,
@@ -1386,7 +1386,7 @@
     "nom_orig": "Manager",
     "texte_orig": "That'll[SP]be[SP][120E][NULL][SP]yen.[SP]Is[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
     "nom_fr": "Gérant",
-    "texte_fr": "Ça fera [120E][NULL] yens. Ça vous va?\n[1208][0002]OuiNon",
+    "texte_fr": "Ça fera [120E][NULL] yens. Ça vous va?\n[1208][0002]Oui\nNon",
     "question_orig": "That'll[SP]be[SP][120E][NULL][SP]yen.[SP]Is[SP]that[SP]okay?",
     "choix_orig": [
       "Yes",

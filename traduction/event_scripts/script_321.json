@@ -402,7 +402,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "Also,[SP]you[SP]can[SP]only[SP]send[SP]in[SP]99[SP]magazines[SP]per\nentry.[SP]The[SP]more[SP]you[SP]send,[SP]the[SP]better[SP]your\nchances[SP]of[SP]winning.",
     "nom_fr": "Tamaki",
-    "texte_fr": "Limite de 99 magazines\npar envoi. Plus vous en\nenvoyez, plus vous avez de chances de gagner."
+    "texte_fr": "Limite de 99 magazines\npar envoi. Plus vous en envoyez,\nplus vous avez de chances de gagner."
   },
   {
     "id": 24,
@@ -567,7 +567,7 @@
     "nom_orig": "Tadashi",
     "texte_orig": "I[SP]guess[SP]I'm[SP]not[SP]cut[SP]out[SP]for[SP]this[SP]job...[1205][000F][SP]Should\nI[SP]apply[SP]to[SP]be[SP]a[SP]game[SP]designer[SP]instead?[1205][000F][SP]That\nsounds[SP]like[SP]it[SP]might[SP]be[SP]fun...",
     "nom_fr": "Tadashi",
-    "texte_fr": "Je ne suis pas fait pour ce\n[1205][1205][000F][000F]métier... Devrais-je devenir game\ndesigner? Ça a l'air amusant..."
+    "texte_fr": "Je ne suis pas fait pour ce\n[1205][000F]métier... Devrais-je devenir game\ndesigner? Ça a l'air amusant..."
   },
   {
     "id": 35,
@@ -789,7 +789,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "It[SP]won't[SP]be[SP]any[SP]God[SP]or[SP]demon[SP]who[SP]brings[SP]about\nthat[SP]annihilation.[SP]It'll[SP]be[SP]man[SP]himself.",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Ce ne sera ni Dieu\nni démon qui causera cette\nannihilation. Ce sera l'homme lui-même."
+    "texte_fr": "Ce ne sera ni Dieu\nni démon qui causera cette annihilation.\nCe sera l'homme lui-même."
   },
   {
     "id": 45,
@@ -849,7 +849,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "To[SP]think[SP]they'd[SP]strike[SP]when[SP]Tamaki[SP]and[SP]I[SP]were\nout...[1205][001E][SP]This[SP]was[SP]my[SP]mistake.[SP]I'm[SP]very[SP]sorry\nit[SP]happened.",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Ils ont frappé pendant notre absence...[1205][001E]\nC'est mon erreur. Je suis vraiment désolé."
+    "texte_fr": "Ils ont frappé pendant notre absence...[1205][001E] C'est\nmon erreur. Je suis vraiment désolé."
   },
   {
     "id": 49,
@@ -964,7 +964,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Purrrr...[SP]I'm[SP]touched[1432][NULL][NULL][0007][1205][000F]\nYou[SP]fed[SP]me[SP]20[SP]times,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nI[SP]look[SP]forward[SP]to[SP]more,[SP]meow[1432][NULL][NULL][0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Ronron... [1205][1205][000F] Touché[1432][NULL][NULL][0007] Nourri 20 fois,\n[000F][000F]miaou[1432][NULL][NULL][0007] J'en attends encore, miaou[1432][NULL][NULL][0007]"
+    "texte_fr": "Ronron... [1205][000F] Touché[1432][NULL][NULL][0007] Nourri 20 fois,\n[000F]miaou[1432][NULL][NULL][0007] J'en attends encore, miaou[1432][NULL][NULL][0007]"
   },
   {
     "id": 56,
@@ -979,7 +979,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Meowvelous![1432][NULL][NULL][0007][1205][000F]\nI[SP]can't[SP]believe[SP]you[SP]fed[SP]me[SP]50[SP]times,[SP]purrrr[1432][NULL][NULL][0007][1205][000F]\nYou're[SP]so[SP]generous,[SP]Misterrr[1432][NULL][NULL][0007]",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Miaourveilleux![1205][1205][000F][000F][1432][NULL][NULL][0007] Nourri 50 fois,\nronron[1432][NULL][NULL][0007] Très généreux, mooonsieur[1432][NULL][NULL][0007]"
+    "texte_fr": "Miaourveilleux![1205][000F][1432][NULL][NULL][0007] Nourri 50 fois,\nronron[1432][NULL][NULL][0007] Très généreux, mooonsieur[1432][NULL][NULL][0007]"
   },
   {
     "id": 57,
@@ -994,7 +994,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "Amazing,[SP]meow![1205][000F]\nYou've[SP]fed[SP]me[SP]80[SP]times[SP]now,[SP]meow[1432][NULL][NULL][0007][1205][000F]\nDo[SP]you[SP]have[SP]a[SP]kitten[SP]agenda,[SP]meow?",
     "nom_fr": "Statue de chat",
-    "texte_fr": "Superbe, miaou! [1205][1205][000F][000F]Nourri 80 fois,\nmiaou[1432][NULL][NULL][0007] As-tu un plan caché, miaou?"
+    "texte_fr": "Superbe, miaou! [1205][000F]Nourri 80 fois,\nmiaou[1432][NULL][NULL][0007] As-tu un plan caché, miaou?"
   },
   {
     "id": 58,
@@ -1009,7 +1009,7 @@
     "nom_orig": "Lucky[SP]cat[SP]statue",
     "texte_orig": "The[SP]time[SP]has[SP]finally[SP]come,[SP]meow...[1205][000F]\nAn[SP]even[SP]100[SP]feedings...[1205][000F]\nI've[SP]collected[SP]10,000[SP]yen,[SP]meow!",
     "nom_fr": "Statue de chat",
-    "texte_fr": "L'heure est arrivée... [1205][1205][000F][000F]Exactement 100\nrepas... J'ai récolté 10 000 yens, miaou!"
+    "texte_fr": "L'heure est arrivée... [1205][000F]Exactement 100\nrepas... J'ai récolté 10 000 yens, miaou!"
   },
   {
     "id": 59,
@@ -1333,7 +1333,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Maians[SP]guided[SP]our[SP]evolution[SP]once,[SP]though\nthat[SP]stage[SP]is[SP]now[SP]lost.[1205][001E][SP]Our[SP]civilization[SP]as\nit[SP]stands[SP]is[SP]a[SP]remnant[SP]from[SP]then...",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Les Mayas ont guidé notre évolution.[1205][001E]\nNotre civilisation n'est qu'un vestige..."
+    "texte_fr": "Les Mayas ont guidé notre évolution.[1205][001E] Notre\ncivilisation n'est qu'un vestige..."
   },
   {
     "id": 79,
@@ -1348,7 +1348,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP]Bolontiku[SP]destroyed[SP]our[SP]ancestors[SP]and[SP]the\nOxlahuntiku.[SP]Their[SP]spaceship,[SP]Xibalba,[SP]lies\nunder[SP]this[SP]city...",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Les Bolontiku ont détruit\nnos ancêtres et les\nOxlahuntiku. Xibalba est sous la ville..."
+    "texte_fr": "Les Bolontiku ont détruit\nnos ancêtres et les Oxlahuntiku.\nXibalba est sous la ville..."
   },
   {
     "id": 80,
@@ -1363,7 +1363,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "Xibalba[SP]is[SP]the[SP]key[SP]to[SP]our[SP]evolution.[SP]We[SP]can't\nevolve[SP]without[SP]it...[1205][001E][SP]But[SP]it[SP]will[SP]come[SP]at[SP]the\ncost[SP]of[SP]this[SP]world's[SP]extinction!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Xibalba est la clé de notre évolution.[1205][001E]\nMais le prix est l'extinction du monde!"
+    "texte_fr": "Xibalba est la clé de notre évolution.[1205][001E] Mais\nle prix est l'extinction du monde!"
   },
   {
     "id": 81,
@@ -1823,7 +1823,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]OuiNon",
+    "texte_fr": "Je répands cette rumeur gratis.\nC'est bien celle-là?\n[1208][0002]Oui\nNon",
     "question_orig": "I'll[SP]spread[SP]that[SP]rumor[SP]for[SP]you[SP]gratis.\nIt's[SP]the[SP]one[SP]you[SP]want?",
     "choix_orig": [
       "Yes",
@@ -1848,7 +1848,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]OuiNon",
+    "texte_fr": "Répandre cette rumeur coûte 3000 yens.\nToujours partant?\n[1208][0002]Oui\nNon",
     "question_orig": "Spreading[SP]that[SP]rumor[SP]will[SP]cost[SP]you[SP]3,000[SP]yen.\nYou[SP]still[SP]want[SP]me[SP]to[SP]do[SP]it?",
     "choix_orig": [
       "Yes",

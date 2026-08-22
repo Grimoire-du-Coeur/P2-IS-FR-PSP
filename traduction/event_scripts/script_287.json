@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Looks[SP]like[SP]whoever[SP]takes[SP]a[SP]chance[SP]on[SP]Ginko\nisn't[SP]getting[SP]away[SP]clean...[1205][000F][SP]He'd[SP]be[SP]risking\nhis[SP]life[SP]for[SP]love.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Quiconque tente sa chance\navec Ginko s'en sort\npas indemne.[1205][000F].. Il risque sa vie pour l'amour."
+    "texte_fr": "Quiconque tente sa chance\navec Ginko s'en sort pas\nindemne.[1205][000F].. Il risque sa vie pour l'amour."
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Panicking[SP]won't[SP]do[SP]us[SP]any[SP]good.[1205][000F][SP]We[SP]know\nthey're[SP]both[SP]in[SP]there.[1205][000F][SP]Let's[SP]corner[SP]them\nand[SP]make[SP]them[SP]quit[SP]this[SP]crap!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Paniquer ne sert à\n[1205][1205][000F] rien. [000F][000F]On sait qu'ils sont\nlà. Acculons-les et obligeons-les à arrêter ça!"
+    "texte_fr": "Paniquer ne sert à\n[1205][000F] rien. [000F]On sait qu'ils sont là.\nAcculons-les et obligeons-les à arrêter ça!"
   },
   {
     "id": 3,
@@ -72,7 +72,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]wonder[SP]if[SP]Ms.[SP]Saeko[SP]and[SP]the[SP]others[SP]are[SP]okay.[1205][000F]\nThe[SP]Last[SP]Battalion's[SP]pretty[SP]ruthless...[1205][000F][SP]I[SP]hope\nshe[SP]doesn't[SP]try[SP]anything[SP]stupid...",
     "nom_fr": "Ginko",
-    "texte_fr": "Je me demande si Mme Saeko et les autres\n[1205][1205][000F][000F]vont bien. Le Bataillon est sans pitié...\nJ'espère qu'elle fait pas de bêtises..."
+    "texte_fr": "Je me demande si Mme Saeko et les autres\n[1205][000F]vont bien. Le Bataillon est sans pitié...\nJ'espère qu'elle fait pas de bêtises..."
   },
   {
     "id": 5,
@@ -102,7 +102,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Did[SP]Lisa's[SP]father[SP]defeat[SP]the[SP]Last[SP]Battalion[SP]\nwith[SP]his[SP]bare[SP]hands?[1205][000A][SP]That's[SP]amazing...[1205][000F][SP]I[SP]don't\nknow[SP]if[SP]even[SP]my[SP]Persona's[SP]that[SP]strong.",
     "nom_fr": "Maya",
-    "texte_fr": "Le père de Lisa a battu le Bataillon à\nmains nues?[1205][1205][000A] C'est incroyable.[000F].. Ma\nPersona n'est peut-être pas aussi forte."
+    "texte_fr": "Le père de Lisa a battu le Bataillon à\nmains nues?[1205][000A] C'est incroyable.[000F].. Ma\nPersona n'est peut-être pas aussi forte."
   },
   {
     "id": 7,
@@ -162,7 +162,7 @@
     "nom_orig": "Jun",
     "texte_orig": "So[SP]that's[SP]Lisa's[SP]father...[1205][000F][SP]I[SP]vaguely[SP]remember\nhim.[SP]He[SP]wore[SP]that[SP]haori[SP]coat[SP]back[SP]then,[SP]too.",
     "nom_fr": "Jun",
-    "texte_fr": "Alors c'est le père\n[1205][000F]de Lisa... Je me souviens\nvaguement de lui. Il portait déjà ce haori."
+    "texte_fr": "Alors c'est le père\n[1205][000F]de Lisa... Je me souviens vaguement\nde lui. Il portait déjà ce haori."
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
     "nom_orig": "Jun",
     "texte_orig": "It[SP]looks[SP]like[SP]the[SP]entrance[SP]to[SP]Xibalba[SP]has\nalready[SP]been[SP]opened.[1205][000F][SP]Ms.[SP]Ideal[SP]is[SP]no[SP]doubt\ninside...[1205][000F][SP]I[SP]think[SP]we[SP]ought[SP]to[SP]hurry.",
     "nom_fr": "Jun",
-    "texte_fr": "L'entrée de Xibalba est déjà ouverte. [1205][000F] Mme\n[1205][000F][000F]Idéale est sûrement là... On devrait se\ndépêcher."
+    "texte_fr": "L'entrée de Xibalba est déjà ouverte. [1205][000F] Mme\n[1205][000F]Idéale est sûrement là... On devrait se\ndépêcher."
   },
   {
     "id": 12,
@@ -323,7 +323,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort,\nvous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le. Lettre [NULL][NULL]Merci de votre participation au tirage. Hélas, vous n'êtes pas gagnant cettefois. Nous vous encourageons à continuer![NULL][NULL]"
+    "texte_fr": "Le tirage au sort,\nvous dites? Ah, oui, bien sûr.\nOn vous l'a livré ici. Allez, prenez-le. Lettre [NULL][NULL]Merci de votre participation au tirage. Hélas, vous n'êtes pas gagnant cettefois. Nous vous encourageons à continuer![NULL][NULL]"
   },
   {
     "id": 21,
@@ -338,7 +338,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort,\nvous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez, prenez-le. Lettre [NULL][NULL]Merci de votre participation au tirage. Félicitations! Vous avez étésélectionné comme gagnant! [NULL][NULL]Veuillez accepter [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix. Continuez à participer![NULL][NULL] Vous n'avez pas de place pour un(e) autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+    "texte_fr": "Le tirage au sort,\nvous dites? Ah, oui, bien sûr.\nOn vous l'a livré ici. Allez, prenez-le. Lettre [NULL][NULL]Merci de votre participation au tirage. Félicitations! Vous avez étésélectionné comme gagnant! [NULL][NULL]Veuillez accepter [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix. Continuez à participer![NULL][NULL] Vous n'avez pas de place pour un(e) autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
   },
   {
     "id": 22,
@@ -383,7 +383,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "I[SP]am[SP]powerless[SP]to[SP]stop[SP]my[SP]daughter[SP]at[SP]this[SP]point.[1205][000F]\nThat[SP]is[SP]why[SP]I'd[SP]like[SP]to[SP]entrust[SP]her[SP]safety[SP]to\nyou.[SP]Please[SP]look[SP]after[SP]Lisa[SP]in[SP]my[SP]stead.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Je ne peux plus retenir\nma fille à ce stade.\n[1205][000F]C'est pourquoi je voudrais vous confier sa sécurité. Veuillez veiller sur Lisa à maplace."
+    "texte_fr": "Je ne peux plus retenir\nma fille à ce stade. C'est\n][000F]C'est pourquoi je voudrais vous confier sa sécurité. Veuillez veiller sur Lisa à maplace."
   },
   {
     "id": 25,

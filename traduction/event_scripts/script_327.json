@@ -42,7 +42,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Why[SP]aren't[SP]the[SP]people[SP]here[SP]running?[SP]Eh,[SP]I[SP]guess\nthere's[SP]nowhere[SP]to[SP]run[SP]with[SP]the[SP]city[SP]in[SP]the\nsky...[1205][000F][SP]They[SP]seem[SP]pretty[SP]casual[SP]about[SP]all[SP]this.",
     "nom_fr": "Ginko",
-    "texte_fr": "Pourquoi les gens ne\nfuient pas? Bah, il n'y\na nulle part où aller avec la ville dans les [1205][000F]airs... Ils ont l'air bien détendus."
+    "texte_fr": "Pourquoi les gens ne\nfuient pas? Bah, il n'y a\nnulle part où aller avec la ville dans les [1205][000F]airs... Ils ont l'air bien détendus."
   },
   {
     "id": 3,
@@ -147,7 +147,7 @@
     "nom_orig": "Inveterate[SP]gambler",
     "texte_orig": "The[SP]Last[SP]Battalion...[SP]They're[SP]a[SP]real[SP]wild[SP]card.[1205][000F]\nThe[SP]stakes[SP]are[SP]this[SP]entire[SP]city...[SP]What's[SP]going\nto[SP]decide[SP]Sumaru's[SP]fate...[SP]is[SP]cards...",
     "nom_fr": "Joueur invétéré",
-    "texte_fr": "Le Bataillon... Un vrai\njoker dans la partie.\n[1205][000F]L'enjeu, c'est toute la ville... Ce qui décidera du sort de Sumaru... les cartes..."
+    "texte_fr": "Le Bataillon... Un vrai\njoker dans la partie. L'enjeu,\n00F]L'enjeu, c'est toute la ville... Ce qui décidera du sort de Sumaru... les cartes..."
   },
   {
     "id": 10,
@@ -205,7 +205,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][0005][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
     "nom_fr": "Gérant",
-    "texte_fr": "Quels prix voulez-vous?\n[1208][0005][1210]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes[B_00][U+5501][B_00]",
+    "texte_fr": "Quels prix voulez-vous?\n[1208][0005][1210]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes[B_00][5501][B_00]",
     "question_orig": "What[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?",
     "choix_orig": [
       "[1210][B_00][B_00]ndisplayed[SP]selection",
@@ -233,7 +233,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gérant",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée\n Le gérant s'est absenté...[B_00][U+5501][B_00]",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée\n Le gérant s'est absenté...[B_00][5501][B_00]",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -287,7 +287,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?\n[1208][0005][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\nRedeem[SP]for[SP]items\nRedeem[SP]for[SP]weapons\nRedeem[SP]for[SP]accessories\nRedeem[SP]for[SP]cards",
     "nom_fr": "Gérant",
-    "texte_fr": "Quels prix voulez-vous?\n[1208][0005][1210]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes[B_00][U+5501][B_00]",
+    "texte_fr": "Quels prix voulez-vous?\n[1208][0005][1210]Sélection cachée\nContre objets\nContre armes\nContre accessoires\nContre cartes[B_00][5501][B_00]",
     "question_orig": "What[SP]kind[SP]of[SP]prizes[SP]do[SP]you[SP]want?",
     "choix_orig": [
       "[1210][B_00][B_00]ndisplayed[SP]selection",
@@ -315,7 +315,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gérant",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée[B_00][U+5501][B_00]",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée[B_00][5501][B_00]",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -386,7 +386,7 @@
     "nom_orig": "Manager",
     "texte_orig": "That'll[SP]be[SP][120E][NULL][SP]yen.[SP]Is[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
     "nom_fr": "Gérant",
-    "texte_fr": "Ça fera [120E][NULL] yens. D'accord?\n[1208][0002]OuiNon",
+    "texte_fr": "Ça fera [120E][NULL] yens. D'accord?\n[1208][0002]Oui\nNon",
     "question_orig": "That'll[SP]be[SP][120E][NULL][SP]yen.[SP]Is[SP]that[SP]okay?",
     "choix_orig": [
       "Yes",

@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Yo,[SP]guys![SP]You[SP]don't[SP]want[SP]to[SP]catch[SP]the[SP]weird\ndisease,[SP]right?[SP]Then[SP]why're[SP]you[SP]listening[SP]to\nthe[SP]principal?[SP]This[SP]is[SP]one[SP]creepy[SP]school...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Yo, les gars! Vous voulez pas choper la\nmaladie bizarre, non?\nAlors pourquoi écouter le directeur? Ce bahut est flippant..."
+    "texte_fr": "Yo, les gars! Vous voulez pas choper la\nmaladie bizarre, non? Alors\npourquoi écouter le directeur? Ce bahut est flippant..."
   },
   {
     "id": 3,
@@ -102,7 +102,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "*sta[1205][000F]a[1205][000F]a[1205][000F]a[1205][000F]are*\nIs[SP]Maya-san...[1205][001E][SP]Nah,[SP]it's[SP]just[SP]my[SP]imagination.\nIt's[SP]gotta[SP]be!",
     "nom_fr": "Ginko",
-    "texte_fr": "*fiiiixe* Maya-san.[1205][1205][1205][1205][000F][000F][000F][000F]..[1205][001E] Nan, c'est\njuste mon imagination. Sûrement!"
+    "texte_fr": "*fiiiixe* Maya-san.[1205][000F]..[1205][001E] Nan, c'est\njuste mon imagination. Sûrement!"
   },
   {
     "id": 7,
@@ -372,7 +372,7 @@
     "nom_orig": "Ill[SP]male[SP]student",
     "texte_orig": "Y-Yeah...[SP]If[SP]the[SP]principal[SP]says[SP]so...\nEven[SP]though[SP]I'm[SP]cursed,[SP]I[SP]gotta[SP]respect\nthe[SP]school...",
     "nom_fr": "Élève malade (G)",
-    "texte_fr": "O-Ouais... Si le directeur\nle dit... Même si\nje suis maudit, je dois respecter le lycée..."
+    "texte_fr": "O-Ouais... Si le directeur\nle dit... Même si je\nsuis maudit, je dois respecter le lycée..."
   },
   {
     "id": 25,
@@ -507,7 +507,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "It's[SP]happened[SP]ever[SP]since[SP]the[SP]big[SP]clock[SP]started\nagain...[1205][000F][SP]Even[SP]the[SP]students[SP]who[SP]took[SP]their\nemblems[SP]off[SP]got[SP]sick,[SP]one[SP]after[SP]another...",
     "nom_fr": "Élève bandé (G)",
-    "texte_fr": "C'est arrivé dès que\nla grande horloge s'est\n[1205][000F]remise en marche... Même les élèves sans leur emblème tombent malades, un par un..."
+    "texte_fr": "C'est arrivé dès que\nla grande horloge s'est remise\n[000F]remise en marche... Même les élèves sans leur emblème tombent malades, un par un..."
   },
   {
     "id": 34,
@@ -522,7 +522,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "This[SP]school[SP]really[SP]is[SP]cursed...[1205][000F][SP]This[SP]is[SP]no\ntime[SP]to[SP]be[SP]hosting[SP]a[SP]school[SP]festival...[1205][000F]\nI[SP]hope[SP]everyone[SP]else[SP]gets[SP]sick[SP]too...",
     "nom_fr": "Élève bandé (G)",
-    "texte_fr": "Ce lycée est vraiment maudit.[1205][1205][000F][000F].. Ce n'est\npas l'heure de faire la fête... J'espère\nque les autres seront malades..."
+    "texte_fr": "Ce lycée est vraiment maudit.[1205][000F].. Ce n'est\npas l'heure de faire la fête... J'espère\nque les autres seront malades..."
   },
   {
     "id": 35,
@@ -552,7 +552,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Now[SP]Sevens[SP]will[SP]be[SP]known[SP]all[SP]over[SP]Japan[SP]as\na[SP]cursed[SP]school...[1205][000F][SP]Heeheehee...[SP]I'm[SP]done[SP]for...",
     "nom_fr": "Élève bandé (G)",
-    "texte_fr": "Seven sera connu dans\ntout le Japon comme un\nlycée maudit.[1205].[000F]. Héhéhé... Je suis fichu..."
+    "texte_fr": "Seven sera connu dans\ntout le Japon comme un lycée\nmaudit.[1205].[000F]. Héhéhé... Je suis fichu..."
   },
   {
     "id": 37,
@@ -567,7 +567,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "This[SP]school's[SP]cursed...[1205][000F][SP]So[SP]what's[SP]the[SP]point\nin[SP]taking[SP]good[SP]care[SP]of[SP]it?[1205][000F][SP]Well,[SP]might[SP]as\nwell[SP]still[SP]obey[SP]our[SP]principal...",
     "nom_fr": "Élève bandé (G)",
-    "texte_fr": "Ce lycée est maudit.[1205][1205][000F][000F].. Alors à quoi\nbon en prendre soin? Eh bien, autant\ncontinuer d'obéir à notre directeur..."
+    "texte_fr": "Ce lycée est maudit.[1205][000F].. Alors à quoi\nbon en prendre soin? Eh bien, autant\ncontinuer d'obéir à notre directeur..."
   },
   {
     "id": 38,
@@ -582,7 +582,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "This[SP]makes[SP]no[SP]sense...[1205][000F][SP]The[SP]curse[SP]is[SP]lifted,\nbut[SP]the[SP]festival's[SP]still[SP]canceled?[1205][000F][SP]Well,[SP]not\nmuch[SP]point[SP]if[SP]no[SP]girls[SP]come,[SP]I[SP]guess...",
     "nom_fr": "Élève (Garçon)",
-    "texte_fr": "Ça n'a aucun sens.[1205][1205][000F][000F].. Malédiction levée,\nmais la fête est annulée? Pas d'intérêt\nsi aucune fille ne vient, je suppose..."
+    "texte_fr": "Ça n'a aucun sens.[1205][000F].. Malédiction levée,\nmais la fête est annulée? Pas d'intérêt\nsi aucune fille ne vient, je suppose..."
   },
   {
     "id": 39,
@@ -597,7 +597,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "This[SP]makes[SP]no[SP]sense...[1205][000F][SP]The[SP]curse[SP]is[SP]lifted,\nbut[SP]the[SP]festival's[SP]still[SP]canceled?[1205][000F][SP]I[SP]guess[SP]it's\nunderstandable[SP]since[SP]the[SP]principal[SP]just[SP]died...",
     "nom_fr": "Élève (Garçon)",
-    "texte_fr": "Ça n'a aucun sens.[1205][1205].[000F][000F].\nLa malédiction est levée,\nmais la fête est annulée? C'est compréhensible vu que le directeur vient de mourir..."
+    "texte_fr": "Ça n'a aucun sens.[1205].[000F].\nLa malédiction est levée, mais\nla fête est annulée? C'est compréhensible vu que le directeur vient de mourir..."
   },
   {
     "id": 40,

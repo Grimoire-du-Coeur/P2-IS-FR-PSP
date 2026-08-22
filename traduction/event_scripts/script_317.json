@@ -237,7 +237,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "That[SP]old[SP]dude[SP]starts[SP]reminiscing[SP]so[SP]fast[SP]he\ndoesn't[SP]listen[SP]to[SP]a[SP]word[SP]I'm[SP]saying...[SP]Sheesh.",
     "nom_fr": "Ginko",
-    "texte_fr": "Ce vieux radote\ntellement vite qu'il n'écoute\nrien de ce que je dis... N'importe quoi."
+    "texte_fr": "Ce vieux radote\ntellement vite qu'il n'écoute rien\nde ce que je dis... N'importe quoi."
   },
   {
     "id": 16,
@@ -341,7 +341,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]thought[SP]so.[SP]Can't[SP]I[SP]get[SP]rid[SP]of[SP]some[SP]of[SP]these?[1205][001E]\nDo[SP]you[SP]want[SP]some?[1205][001E][SP]Hahahaha![SP]Just[SP]teasing...\nAwww,[SP]you're[SP]all[SP]red.[SP]You[SP]can[SP]be[SP]so[SP]cute!",
     "nom_fr": "Maya",
-    "texte_fr": "Je me disais aussi. On peut pas en\nenlever?[1205][001E] Tu en veux? [1205][001E] Hahahaha! Je\nplaisante... Oh, t'es rouge. T'es mignon!"
+    "texte_fr": "Je me disais aussi. On peut pas en\nenlever?[1205][001E] Tu en veux? [1205][001E] Hahahaha! Je plaisante...\nOh, t'es rouge. T'es mignon!"
   },
   {
     "id": 22,
@@ -566,7 +566,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "What[SP]was[SP]it[SP]that[SP]teacher[SP]mistook[SP]us[SP]for?[1205][000A]\nI[SP]heard[SP]her[SP]say[SP][1432][NULL][NULL][0014]Last[1432][NULL][NULL][0014][SP]something...[1205][000F][SP]Didn't\nring[SP]any[SP]bells.",
     "nom_fr": "Yukino",
-    "texte_fr": "Pourquoi la prof nous a-t-elle pris?[1205][1205][000A] Elle a\ndit [1432][NULL][NULL][0014]Last[1432][NULL][NULL][0014] un truc.[000F].. Ça me dit rien du tout."
+    "texte_fr": "Pourquoi la prof nous a-t-elle pris?[1205][000A] Elle a\ndit [1432][NULL][NULL][0014]Last[1432][NULL][NULL][0014] un truc.[000F].. Ça me dit rien du tout."
   },
   {
     "id": 37,
@@ -798,7 +798,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Le soin coûtera 1200 yens.\nVous voulez le faire?\n[1208][0002]OuiNon",
+    "texte_fr": "Le soin coûtera 1200 yens.\nVous voulez le faire?\n[1208][0002]Oui\nNon",
     "question_orig": "The[SP]treatment[SP]will[SP]be[SP]1,200[SP]yen.[SP]Would[SP]you\nstill[SP]like[SP]to[SP]go[SP]through[SP]with[SP]it?",
     "choix_orig": [
       "Yes",
@@ -823,7 +823,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Hm?[SP]But[SP]I[SP]just[SP]treated[SP]you.[SP]You're[SP]all[SP]in\nperfect[SP]health.[1205][000A][SP]There's[SP]no[SP]need[SP]for[SP]me[SP]to\ndo[SP]it[SP]again.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Hm? Mais je viens\nde vous soigner. Vous êtes\nen parfaite santé.[1205][000A] Inutile de recommencer."
+    "texte_fr": "Hm? Mais je viens\nde vous soigner. Vous êtes en\nparfaite santé.[1205][000A] Inutile de recommencer."
   },
   {
     "id": 52,
@@ -853,7 +853,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Right[SP]away![1205][000A][SP]Let[SP]me[SP]just[SP]make[SP]some[SP]markings[SP]with\nthis[SP]pen,[SP]and[SP]then...[1205][000F][SP]Here[SP]goes![1205][000A][SP]My[SP]trump[SP]card![1205][000A]\nThe[SP]MAGIC[SP]FINGERRRRS!",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Tout de suite![1205][1205][000A] Laissez-moi faire des\nmarques au stylo, et puis... [000F]C'est\nparti![1205][000A] Mon atout! [1205][000A] LES DOIGTS MAGIQUES!"
+    "texte_fr": "Tout de suite![1205][000A] Laissez-moi faire des\nmarques au stylo, et puis... [000F]C'est\nparti![1205][000A] Mon atout! [1205][000A] LES DOIGTS MAGIQUES!"
   },
   {
     "id": 54,
@@ -1108,7 +1108,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "I[SP]tried[SP]reading[SP]the[SP]In[SP]Lak'ech,[SP]but[SP]it's[SP]clearly\njust[SP]gibberish.[SP]I'd[SP]rather[SP]read[SP]a[SP]dime[SP]novel\nthan[SP]that[SP]trash.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "J'ai essayé de lire\nl'In Lak'ech, mais c'est\ndu charabia. Je préfère un roman de gare."
+    "texte_fr": "J'ai essayé de lire\nl'In Lak'ech, mais c'est du\ncharabia. Je préfère un roman de gare."
   },
   {
     "id": 71,
@@ -1205,7 +1205,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Come[SP]again[SP]if[SP]you[SP]ever[SP]get[SP]tired.[1205][000A]\nThere's[SP]nothing[SP]these[SP]fingers[SP]can't[SP]cure![1205][000F]\nMagic[SP]fingers!",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Revenez si vous êtes fatigué. [1205][1205][000A] Rien ne\nrésiste à mes doigts! [000F]Doigts magiques!"
+    "texte_fr": "Revenez si vous êtes fatigué. [1205][000A] Rien ne\nrésiste à mes doigts! [000F]Doigts magiques!"
   },
   {
     "id": 76,
@@ -1220,7 +1220,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Hmmm![1205][000A][SP]Unfortunately,[SP]you're[SP]lacking[SP]in[SP]funds.[1205][000F]\nI[SP]can't[SP]treat[SP]you[SP]without[SP]proper[SP]payment.",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Hmmm![1205][1205][000A] Hélas, manque de fonds. [000F]Je\nne peux vous soigner sans paiement."
+    "texte_fr": "Hmmm![1205][000A] Hélas, manque de fonds. [000F]Je\nne peux vous soigner sans paiement."
   },
   {
     "id": 77,
@@ -1235,7 +1235,7 @@
     "nom_orig": "Mr.[SP]Tomi",
     "texte_orig": "Come[SP]again[SP]if[SP]you[SP]ever[SP]get[SP]tired.[1205][000A]\nThere's[SP]nothing[SP]these[SP]fingers[SP]can't[SP]cure![1205][000F]\nMagic[SP]fingers!",
     "nom_fr": "M. Tomi",
-    "texte_fr": "Revenez si vous êtes fatigué. [1205][1205][000A] Rien ne\nrésiste à mes doigts! [000F]Doigts magiques!"
+    "texte_fr": "Revenez si vous êtes fatigué. [1205][000A] Rien ne\nrésiste à mes doigts! [000F]Doigts magiques!"
   },
   {
     "id": 78,
@@ -1520,7 +1520,7 @@
     "nom_orig": "Cured[SP]old[SP]man",
     "texte_orig": "I[SP]knew[SP]before[SP]I[SP]switched[SP]on[SP]the[SP]news[SP]that[SP]those\nfive[SP]young'uns[SP]were[SP]fighting[SP]the[SP]Masked[SP]Circle.\nThe[SP]girl[SP]over[SP]there[SP]told[SP]me[SP]so.",
     "nom_fr": "Vieil homme guéri",
-    "texte_fr": "Je savais déjà que\nces jeunes luttaient contre\nle Cercle. La jeune fille là-bas me l'a dit."
+    "texte_fr": "Je savais déjà que\nces jeunes luttaient contre le\nCercle. La jeune fille là-bas me l'a dit."
   },
   {
     "id": 97,

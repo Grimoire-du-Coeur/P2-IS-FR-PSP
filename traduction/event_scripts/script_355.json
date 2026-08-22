@@ -86,7 +86,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Oh![SP]Well,[SP]naturally[SP]I[SP]don't[SP]understand[SP]then.\nIf[SP]it[SP]had[SP]been[SP]English,[SP]mind[SP]you...[SP]What[SP]a\nletdown.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Oh! Forcément que je\ncomprends pas. Si c'était\nde l'anglais, remarque... Quelle déception."
+    "texte_fr": "Oh! Forcément que je\ncomprends pas. Si c'était de\nl'anglais, remarque... Quelle déception."
   },
   {
     "id": 5,
@@ -206,7 +206,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "It[SP]wasn't[SP]like[SP]them[SP]to[SP]steal[SP]someone[SP]else's\ndreams...[1205][000F][SP]If[SP]they're[SP]really[SP]Joker,[SP]then...[1205][000F][SP]Why...?",
     "nom_fr": "Ginko",
-    "texte_fr": "Ce n'est pas leur\ngenre de voler des rêves.[1205][1205][000F][000F]..\nSi c'est vraiment Joker... Pourquoi...?"
+    "texte_fr": "Ce n'est pas leur\ngenre de voler des rêves.[1205][000F].. Si\nc'est vraiment Joker... Pourquoi...?"
   },
   {
     "id": 13,
@@ -326,7 +326,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That's[SP]why,[SP]even[SP]though[SP]we[SP]take[SP]only[SP]a[SP]small\namount[SP]of[SP]Ideal[SP]Energy,[SP]they[SP]become[SP]shadowmen.\nLike[SP]fruit[SP]with[SP]all[SP]the[SP]juices[SP]squeezed[SP]out.",
     "nom_fr": "Maya",
-    "texte_fr": "C'est pourquoi, même en prélevant peu\nd'Énergie Idéale, ils\ndeviennent des Ombres. Comme un fruit dont on a tout extrait."
+    "texte_fr": "C'est pourquoi, même en prélevant peu\nd'Énergie Idéale, ils deviennent\ndes Ombres. Comme un fruit dont on a tout extrait."
   },
   {
     "id": 21,
@@ -731,7 +731,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Joker...[1205][000F][SP]ordered[SP]me[SP]to...[1205][000F][SP]protect[SP]the[SP]people\nof[SP]the[SP]city...[1205][000F][SP]But...[SP]I[SP]don't[SP]want[SP]to...",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Joker.[1205][1205][1205][000F][000F][000F].. m'a ordonné de... protéger les\ngens de la ville... Mais... j'veux pas..."
+    "texte_fr": "Joker.[1205][000F].. m'a ordonné de... protéger les\ngens de la ville... Mais... j'veux pas..."
   },
   {
     "id": 48,
@@ -843,7 +843,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "There[SP]is[SP]a[SP]cost[SP]involved,[SP]but[SP]our[SP]methods\naffect[SP]all[SP]of[SP]you[SP]at[SP]once.[SP]Believe[SP]me,[SP]in\nthe[SP]long[SP]run,[SP]you'll[SP]save[SP]money.",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "C'est payant, mais ça\nsoigne tout le groupe.\nCroyez-moi, vous y gagnerez à long terme."
+    "texte_fr": "C'est payant, mais ça\nsoigne tout le groupe. Croyez-moi,\nvous y gagnerez à long terme."
   },
   {
     "id": 54,
@@ -888,7 +888,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?\n[1208][0002]Yes\nNo",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Très bien. Ça fera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]OuiNon",
+    "texte_fr": "Très bien. Ça fera 1 200 yens\npour le groupe. Vous acceptez?\n[1208][0002]Oui\nNon",
     "question_orig": "I[SP]understand[SP]completely.[SP]That[SP]will[SP]be[SP]1,200[SP]yen\nfor[SP]the[SP]whole[SP]group.[SP]Do[SP]you[SP]accept?",
     "choix_orig": [
       "Yes",
@@ -943,7 +943,7 @@
     "nom_orig": "Esthetician",
     "texte_orig": "That[SP]concludes[SP]our[SP]treatment.[SP]How[SP]would[SP]you[SP]say\nthe[SP]Ether[SP]esthetics[SP]made[SP]you[SP]feel?[SP]Good?[SP]Great?",
     "nom_fr": "Esthéticienne",
-    "texte_fr": "Le soin est\nterminé. Comment vous sentez-vous\naprès l'esthétique éthérique? Bien? Très bien?"
+    "texte_fr": "Le soin est\nterminé. Comment vous sentez-vous après\nl'esthétique éthérique? Bien? Très bien?"
   },
   {
     "id": 60,

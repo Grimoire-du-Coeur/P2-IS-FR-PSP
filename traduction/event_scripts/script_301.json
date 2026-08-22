@@ -207,7 +207,7 @@
     "nom_orig": "Maya",
     "texte_orig": "The[SP]way[SP]he[SP]panicked...[1205][000F][SP]There[SP]was[SP]something\ndefinitely[SP]off[SP]about[SP]him.[1205][000F][SP]Is[SP]it[SP]because[SP]we\ngot[SP]out...?",
     "nom_fr": "Maya",
-    "texte_fr": "Il a paniqué... [1205][1205][000F][000F]Quelque chose clochait\nvraiment chez lui. C'est parce qu'on est\nsortis...?"
+    "texte_fr": "Il a paniqué... [1205][000F]Quelque chose clochait\nvraiment chez lui. C'est parce qu'on est\nsortis...?"
   },
   {
     "id": 14,
@@ -267,7 +267,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "That[SP]girl...[SP]Why[SP]was[SP]she[SP]here?[1205][000F][SP]If[SP]she[SP]didn't\ncome[SP]to[SP]dance,[SP]then...[1205][000F][SP]Oh,[SP]no...",
     "nom_fr": "Yukino",
-    "texte_fr": "Cette fille... [1205][1205][000F][000F]Que fait-elle ici?\nPas pour danser, alors... Oh non..."
+    "texte_fr": "Cette fille... [1205][000F]Que fait-elle ici?\nPas pour danser, alors... Oh non..."
   },
   {
     "id": 18,
@@ -312,7 +312,7 @@
     "nom_orig": "Motivated[SP]committee[SP]member",
     "texte_orig": "Huh...?[1205][000F][SP]What[SP]was[SP]I[SP]doing[SP]here...?[1205][000F][SP]Oh[SP]yeah...\nThe[SP]masquerade.[1205][000F][SP]Wait,[SP]was[SP]this[SP]all[SP]the[SP]customers\nwe[SP]had?",
     "nom_fr": "Membre motivé",
-    "texte_fr": "Hein.[1205][1205][1205][000F][000F][000F]..? Que faisais-je ici...? Ah\noui... La mascarade. Attends, c'est\ntout ce qu'on a eu comme clients?"
+    "texte_fr": "Hein.[1205][000F]..? Que faisais-je ici...? Ah\noui... La mascarade. Attends, c'est\ntout ce qu'on a eu comme clients?"
   },
   {
     "id": 21,
@@ -432,7 +432,7 @@
     "nom_orig": "Masquerade[SP]committee[SP]member",
     "texte_orig": "Hey,[SP]you[SP]can't[SP]go[SP]in[SP]without[SP]registering[SP]here\nfirst.[SP]Take[SP]a[SP]mask[SP]in[SP]with[SP]you,[SP]too.",
     "nom_fr": "Comité",
-    "texte_fr": "Hé, inscris-toi ici\navant d'entrer. Prends un\nmasque aussi. Ils préparent la mascarade..."
+    "texte_fr": "Hé, inscris-toi ici\navant d'entrer. Prends un masque\naussi. Ils préparent la mascarade..."
   },
   {
     "id": 29,
@@ -447,7 +447,7 @@
     "nom_orig": "Masquerade[SP]committee[SP]member",
     "texte_orig": "Hey,[SP]you[SP]can't[SP]go[SP]in[SP]without[SP]registering[SP]here\nfirst.[SP]Take[SP]a[SP]mask[SP]in[SP]with[SP]you,[SP]too.",
     "nom_fr": "Comité",
-    "texte_fr": "Hé, inscris-toi ici\navant d'entrer. Prends un\nmasque aussi. Ils préparent la mascarade..."
+    "texte_fr": "Hé, inscris-toi ici\navant d'entrer. Prends un masque\naussi. Ils préparent la mascarade..."
   },
   {
     "id": 30,
@@ -477,7 +477,7 @@
     "nom_orig": "Teacher",
     "texte_orig": "Th-This[SP]can[SP]only[SP]be[SP]the[SP]leadership[SP]of[SP]our[SP]new\nstudent[SP]council[SP]president.[SP]My[SP]students...[SP]Right\nnow,[SP]you[SP]are[SP]beautiful![SP]Just[SP]beautiful![SP]*sniff*",
     "nom_fr": "Prof",
-    "texte_fr": "Ç-Ça ne peut être\nque grâce au leadership de\nnotre nouveau président. Mes élèves... Vous êtes magnifiques! Magnifiques! *sniff*"
+    "texte_fr": "Ç-Ça ne peut être\nque grâce au leadership de notre\nnouveau président. Mes élèves... Vous êtes magnifiques! Magnifiques! *sniff*"
   },
   {
     "id": 32,
@@ -537,7 +537,7 @@
     "nom_orig": "School[SP]nurse",
     "texte_orig": "Huh?[1205][000F][SP]Hey,[SP]you're[SP]hurt.[SP]Let[SP]me[SP]take[SP]a[SP]look.\n[1208][0002]Yes\nNo",
     "nom_fr": "Infirmière",
-    "texte_fr": "Hein? [1205][000F]T'es blessé. Fais voir.\n[1208][0002]OuiNon\n Équipe soignée.[E4][NULL][NULL]",
+    "texte_fr": "Hein? [1205][000F]T'es blessé. Fais voir.\n[1208][0002]Oui\nNon\n Équipe soignée.[E4][NULL][NULL]",
     "question_orig": "Huh?[1205][000F][SP]Hey,[SP]you're[SP]hurt.[SP]Let[SP]me[SP]take[SP]a[SP]look.",
     "choix_orig": [
       "Yes",

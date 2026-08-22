@@ -162,7 +162,7 @@
     "nom_orig": "Elly",
     "texte_orig": "No...[SP]I[SP]can't[SP]believe[SP]this![1205][000A][SP]Yukino[SP]wouldn't...[1205][000F]\nShe[SP]isn't...[1205][000F][SP]L-Let's[SP]not[SP]discuss[SP]this[SP]now.",
     "nom_fr": "Elly",
-    "texte_fr": "Non... Impossible![1205][1205][1205][000A] Yukino n'aurait pas.[000F][000F]..\nElle n'est pas... N-Parlons-en plus tard."
+    "texte_fr": "Non... Impossible![1205][000A] Yukino n'aurait pas.[000F]..\nElle n'est pas... N-Parlons-en plus tard."
   },
   {
     "id": 11,
@@ -237,7 +237,7 @@
     "nom_orig": "Jun",
     "texte_orig": "What's[SP]this[SP]feeling...?[1205][000F][SP]The[SP]Persona[SP]Yukino-san\ngave[SP]me[SP]is[SP]resonating...[1205][000F][SP]It's[SP]as[SP]if[SP]they're\ncalling[SP]to[SP]each[SP]other...",
     "nom_fr": "Jun",
-    "texte_fr": "Qu'est-ce que c'est.[1205][1205][000F][000F]..? La Persona de\nYukino-san résonne... Comme si elles se\nrépondaient..."
+    "texte_fr": "Qu'est-ce que c'est.[1205][000F]..? La Persona de\nYukino-san résonne... Comme si elles se\nrépondaient..."
   },
   {
     "id": 16,
@@ -282,7 +282,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Welcome,[SP]Mister![SP]I'm[SP]a[SP]good[SP]exchange[SP]student.\nI[SP]make[SP]the[SP]accessories[SP]and[SP]for[SP]my[SP]living,\nI[SP]sell[SP]them.\n[1208][0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Tony",
-    "texte_fr": "Bienvenue! Je suis étudiant étranger.\nJe fabrique des accessoires et les vends.\n[1208][0006][1210]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter[U+03BB]",
+    "texte_fr": "Bienvenue! Je suis étudiant étranger.\nJe fabrique des accessoires et les vends.\n[1208][0006][1210]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter[03BB]",
     "question_orig": "Welcome,[SP]Mister![SP]I'm[SP]a[SP]good[SP]exchange[SP]student.\nI[SP]make[SP]the[SP]accessories[SP]and[SP]for[SP]my[SP]living,\nI[SP]sell[SP]them.",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -311,7 +311,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]sell[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories\n[1109][E2]",
     "nom_fr": "Tony",
-    "texte_fr": "Tu veux me vendre quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Sell armor\n[111F][1210]Armure de jambes\n[111F]Accessoires\n[1109][E2][B_00][U+5501][B_00][B_00][U+5301][B_00][B_00][U+5301][B_00]",
+    "texte_fr": "Tu veux me vendre quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Sell armor\n[111F][1210]Armure de jambes\n[111F]Accessoires\n[1109][E2][B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]you[SP]wanna[SP]sell[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -342,7 +342,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Tony",
-    "texte_fr": "De quoi qu'on parle?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][U+5501][B_00]",
+    "texte_fr": "De quoi qu'on parle?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][5501][B_00]",
     "question_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -368,7 +368,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Haha,[SP]I'm[SP]a[SP]smuggler[SP]for[SP]the[SP]Silician[SP]Mafia.\nBut[SP]tell[SP]me,[SP]what's[SP]this[SP]they[SP]call[SP]a[SP]Silician\nMafia?[SP]Anyway,[SP]you[SP]want[SP]the[SP]weapons?\n[1208][0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Tony",
-    "texte_fr": "Haha, je suis passeur pour la Mafia \nsicilienne.\nMais dis-moi, c'est quoi cette Mafia\nsicilienne? Enfin bon, tu veux des armes \n?\n[1208][0006][1210]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter[U+03BB]",
+    "texte_fr": "Haha, je suis passeur pour la Mafia \nsicilienne.\nMais dis-moi, c'est quoi cette Mafia\nsicilienne? Enfin bon, tu veux des armes \n?\n[1208][0006][1210]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter[03BB]",
     "question_orig": "Haha,[SP]I'm[SP]a[SP]smuggler[SP]for[SP]the[SP]Silician[SP]Mafia.\nBut[SP]tell[SP]me,[SP]what's[SP]this[SP]they[SP]call[SP]a[SP]Silician\nMafia?[SP]Anyway,[SP]you[SP]want[SP]the[SP]weapons?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -397,7 +397,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]sell[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Tony",
-    "texte_fr": "Tu veux me vendre quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][U+5501][B_00][B_00][U+5301][B_00][B_00][U+5301][B_00]",
+    "texte_fr": "Tu veux me vendre quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]you[SP]wanna[SP]sell[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -427,7 +427,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Tony",
-    "texte_fr": "De quoi qu'on parle?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[B_00][U+5501][B_00]",
+    "texte_fr": "De quoi qu'on parle?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[B_00][5501][B_00]",
     "question_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -453,7 +453,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Okay,[SP]good,[SP]okay.[SP]You[SP]wanna[SP]anything[SP]else?\n[1208][0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Tony",
-    "texte_fr": "Okay, bien. Tu veux autre chose?\n[1208][0006][1210]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter[U+03BB]",
+    "texte_fr": "Okay, bien. Tu veux autre chose?\n[1208][0006][1210]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter[03BB]",
     "question_orig": "Okay,[SP]good,[SP]okay.[SP]You[SP]wanna[SP]anything[SP]else?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -482,7 +482,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]sell[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Tony",
-    "texte_fr": "Tu veux me vendre quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][U+5501][B_00][B_00][U+5301][B_00][B_00][U+5301][B_00]",
+    "texte_fr": "Tu veux me vendre quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210]Armure de tête\n[111F]Armure\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]you[SP]wanna[SP]sell[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -512,7 +512,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Tony",
-    "texte_fr": "De quoi qu'on parle?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][U+5501][B_00]",
+    "texte_fr": "De quoi qu'on parle?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][5501][B_00]",
     "question_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -538,7 +538,7 @@
     "nom_orig": "Tony",
     "texte_orig": "The[SP]city,[SP]how's[SP]it[SP]fly?[1205][000F][SP]I[SP]don'a[SP]think[SP]that[SP]kinda\nthing[SP]is[SP]possible![1205][000F][SP]I[SP]think[SP]I'ma[SP]gonna[SP]faint.",
     "nom_fr": "Tony",
-    "texte_fr": "La ville vole? [1205][1205][000F][000F]Pas possible! Je\ncrois que je vais m'évanouir."
+    "texte_fr": "La ville vole? [1205][000F]Pas possible! Je\ncrois que je vais m'évanouir."
   },
   {
     "id": 28,
@@ -553,7 +553,7 @@
     "nom_orig": "Tony",
     "texte_orig": "But[SP]the[SP]In[SP]Lak'ech,[SP]it[SP]come[SP]true![SP]Am[SP]I[SP]gonna\nbe[SP]an[SP]Idealian?[1205][000F][SP]Oh,[SP]so[SP]much[SP]fun[SP]that[SP]would[SP]be!",
     "nom_fr": "Tony",
-    "texte_fr": "Mais l'In Lak'ech, ça\ns'est réalisé! Je vais\n[1205][000F]devenir un Idéalien? Oh, ce serait super!"
+    "texte_fr": "Mais l'In Lak'ech, ça\ns'est réalisé! Je vais devenir\n000F]devenir un Idéalien? Oh, ce serait super!"
   },
   {
     "id": 29,
@@ -583,7 +583,7 @@
     "nom_orig": "Tony",
     "texte_orig": "But[SP]don'a[SP]you[SP]worry.[1205][000A][SP]I[SP]get[SP]me[SP]a[SP]new[SP]batch[SP]of\nthe[SP]weapons.[1205][000F][SP]Hm?[SP]You[SP]no'a[SP]got[SP]money?[SP]Don'a\nworry,[SP]I[SP]got[SP]none[SP]neither.",
     "nom_fr": "Tony",
-    "texte_fr": "Mais t'inquiète pas.[1205][1205][000A] J'ai un\nnouveau stock d'armes. [000F]Hm? T'as pas\nd'argent? T'inquiète, moi non plus."
+    "texte_fr": "Mais t'inquiète pas.[1205][000A] J'ai un\nnouveau stock d'armes. [000F]Hm? T'as pas\nd'argent? T'inquiète, moi non plus."
   },
   {
     "id": 31,
@@ -718,7 +718,7 @@
     "nom_orig": "Elly",
     "texte_orig": "Something[SP]tells[SP]me[SP]we[SP]can't[SP]count[SP]Yukino[SP]out\njust[SP]yet.[SP]I'm[SP]sure[SP]she's[SP]still[SP]here...[1205][000F][SP]We[SP]must\nput[SP]an[SP]end[SP]to[SP]this[SP]to[SP]clear[SP]the[SP]way[SP]for[SP]her!",
     "nom_fr": "Elly",
-    "texte_fr": "Quelque chose me dit\nqu'on ne peut pas encore\nconsidérer Yukino hors jeu. [1205][000F]Je suis sûre qu'elle est encore là... Il faut en finir!"
+    "texte_fr": "Quelque chose me dit\nqu'on ne peut pas encore considérer\nYukino hors jeu. [1205][000F]Je suis sûre qu'elle est encore là... Il faut en finir!"
   },
   {
     "id": 40,
@@ -748,7 +748,7 @@
     "nom_orig": "???",
     "texte_orig": "Yo![SP]Long[SP]time[SP]no[SP]see![1205][000F][SP]Wait,[SP]I[SP]don't[SP]know[SP]you.[1205][000F]\nYo![SP]Long[SP]time[SP]no[SP]meet![1205][000F][SP]Heeheehee![1205][000F][SP]Alright,\nallow[SP]me[SP]to[SP]introduce[SP]myself...",
     "nom_fr": "???",
-    "texte_fr": "Yo, longtemps! [1205][1205][1205][1205][000F][000F][000F][000F]Attends, je te connais\npas. Yo! Longtemps qu'on s'est pas\nvus! Hiihi! laisse-moi me présenter..."
+    "texte_fr": "Yo, longtemps! [1205][000F]Attends, je te connais\npas. Yo! Longtemps qu'on s'est pas\nvus! Hiihi! laisse-moi me présenter..."
   },
   {
     "id": 42,
@@ -763,7 +763,7 @@
     "nom_orig": "???",
     "texte_orig": "Though[SP]you[SP]already[SP]know[SP]who[SP]I[SP]am,[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "???",
-    "texte_fr": "Tu sais déjà qui je suis, non?\n[1208][0002]OuiNon",
+    "texte_fr": "Tu sais déjà qui je suis, non?\n[1208][0002]Oui\nNon",
     "question_orig": "Though[SP]you[SP]already[SP]know[SP]who[SP]I[SP]am,[SP]right?",
     "choix_orig": [
       "Yes",
@@ -833,7 +833,7 @@
     "nom_orig": "Brown",
     "texte_orig": "I[SP]know[SP]what[SP]they[SP]say[SP]about[SP]me,[SP]but[SP]I[SP]hate[SP]to\nsee[SP]a[SP]job[SP]half[SP]done.[SP]I'll[SP]take[SP]care[SP]of[SP]things\nhere,[SP]so[SP]don't[SP]you[SP]worry[SP]about[SP]that.",
     "nom_fr": "Brown",
-    "texte_fr": "Je sais ce qu'on dit\nde moi, mais je déteste\nvoir un travail inachevé. Je m'occupe des choses ici, alors ne t'en fais pas."
+    "texte_fr": "Je sais ce qu'on dit\nde moi, mais je déteste voir\nun travail inachevé. Je m'occupe des choses ici, alors ne t'en fais pas."
   },
   {
     "id": 47,
@@ -848,7 +848,7 @@
     "nom_orig": "???",
     "texte_orig": "Seriously!?[SP]I'm...[SP]I'm[SP]Brown.[SP]Can't[SP]you[SP]tell?[1205][000F]\nYou[SP]mean[SP]to[SP]say[SP]you[SP]don't[SP]watch[SP]my[SP]show?[1205][000F][SP]Yikes,\nI[SP]think[SP]it[SP]just[SP]got[SP]a[SP]couple[SP]degrees[SP]colder.",
     "nom_fr": "???",
-    "texte_fr": "Sérieusement!? Je... Je suis Brown. [1205][1205][000F][000F]Tu\nvois pas? Tu regardes pas mon émission?\nAïe, il fait quelques degrés de moins."
+    "texte_fr": "Sérieusement!? Je... Je suis Brown. [1205][000F]Tu\nvois pas? Tu regardes pas mon émission?\nAïe, il fait quelques degrés de moins."
   },
   {
     "id": 48,
@@ -878,7 +878,7 @@
     "nom_orig": "Brown",
     "texte_orig": "I[SP]know[SP]what[SP]they[SP]say[SP]about[SP]me,[SP]but[SP]I[SP]hate[SP]to\nsee[SP]a[SP]job[SP]half[SP]done.[SP]I'll[SP]take[SP]care[SP]of[SP]things\nhere,[SP]so[SP]don't[SP]you[SP]worry[SP]about[SP]that.",
     "nom_fr": "Brown",
-    "texte_fr": "Je sais ce qu'on dit\nde moi, mais je déteste\nvoir un travail inachevé. Je m'occupe des choses ici, alors ne t'en fais pas."
+    "texte_fr": "Je sais ce qu'on dit\nde moi, mais je déteste voir\nun travail inachevé. Je m'occupe des choses ici, alors ne t'en fais pas."
   },
   {
     "id": 50,
@@ -1043,7 +1043,7 @@
     "nom_orig": "Maki",
     "texte_orig": "Hm?[SP]This[SP]flower?[1205][000F][SP]The[SP]Count[SP]at[SP]Time[SP]Castle\ngave[SP]it[SP]to[SP]me.[1205][000F][SP]He[SP]said[SP]it[SP]was[SP]a[SP]symbol[SP]of\ndestiny[SP]to[SP]be[SP]passed[SP]on...",
     "nom_fr": "Maki",
-    "texte_fr": "Hm? [1205][1205][000F]Cette fleur? [000F]Le Comte du\nChâteau du Temps me l'a donnée. Un\nsymbole de destin à transmettre..."
+    "texte_fr": "Hm? [1205][000F]Cette fleur? [000F]Le Comte du\nChâteau du Temps me l'a donnée. Un\nsymbole de destin à transmettre..."
   },
   {
     "id": 61,
@@ -1058,7 +1058,7 @@
     "nom_orig": "Maki",
     "texte_orig": "Do[SP]you[SP]want[SP]it?\n[1208][0002]Yes\nNo",
     "nom_fr": "Maki",
-    "texte_fr": "Tu la veux?\n[1208][0002]OuiNon",
+    "texte_fr": "Tu la veux?\n[1208][0002]Oui\nNon",
     "question_orig": "Do[SP]you[SP]want[SP]it?",
     "choix_orig": [
       "Yes",
@@ -1083,7 +1083,7 @@
     "nom_orig": "Maki",
     "texte_orig": "A[SP]legendary[SP]flower?[1205][000F][SP]This?[1205][000F][SP]Huh...[SP]It[SP]doesn't\nlook[SP]like[SP]it...[1205][000F][SP]But[SP]stranger[SP]things[SP]have\nhappened.",
     "nom_fr": "Maki",
-    "texte_fr": "Une fleur légendaire? [1205][1205][1205][000F][000F][000F]Celle-là? Hmm...\nElle n'en a pas l'air... Mais bon."
+    "texte_fr": "Une fleur légendaire? [1205][000F]Celle-là? Hmm...\nElle n'en a pas l'air... Mais bon."
   },
   {
     "id": 63,
@@ -1113,7 +1113,7 @@
     "nom_orig": "Maki",
     "texte_orig": "But...[SP]I[SP]wonder[SP]what[SP]he[SP]meant[SP]about[SP]it[SP]being\na[SP]symbol[SP]of[SP]destiny[SP]to[SP]be[SP]passed[SP]on...[1205][000F][SP]Well,\nlet's[SP]just[SP]give[SP]thanks[SP]and[SP]put[SP]it[SP]to[SP]good[SP]use.",
     "nom_fr": "Maki",
-    "texte_fr": "Mais... je me demande ce qu'il voulait dire\npar symbole de\ndestin à transmettre.[1205][000F].. Enfin, remercions-le et faisons-en bon usage."
+    "texte_fr": "Mais... je me demande ce qu'il voulait dire\npar symbole de destin\nà transmettre.[1205][000F].. Enfin, remercions-le et faisons-en bon usage."
   },
   {
     "id": 65,
@@ -1158,7 +1158,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Thassa[SP][120E][NULL][SP]yen.[SP]No[SP]problem,[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Tony",
-    "texte_fr": "Ça fait [120E][NULL] yen. Ça va, non?\n[1208][0002]OuiNon",
+    "texte_fr": "Ça fait [120E][NULL] yen. Ça va, non?\n[1208][0002]Oui\nNon",
     "question_orig": "Thassa[SP][120E][NULL][SP]yen.[SP]No[SP]problem,[SP]right?",
     "choix_orig": [
       "Yes",
@@ -1393,7 +1393,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Thassa[SP][120E][NULL][SP]yen.[SP]No[SP]problem,[SP]right?\n[1208][0002]Yes\nNo",
     "nom_fr": "Tony",
-    "texte_fr": "Ça fait [120E][NULL] yen. Ça va, non?\n[1208][0002]OuiNon",
+    "texte_fr": "Ça fait [120E][NULL] yen. Ça va, non?\n[1208][0002]Oui\nNon",
     "question_orig": "Thassa[SP][120E][NULL][SP]yen.[SP]No[SP]problem,[SP]right?",
     "choix_orig": [
       "Yes",

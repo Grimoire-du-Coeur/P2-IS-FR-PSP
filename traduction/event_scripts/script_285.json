@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]can't[SP]believe[SP]there[SP]was[SP]another[SP]way[SP]in.[1205][000F]\nAt[SP]least[SP]the[SP]Last[SP]Battalion[SP]made[SP]SOMETHING\nuseful...",
     "nom_fr": "Eikichi",
-    "texte_fr": "J'y crois pas, il y\navait une autre entrée? [1205][000F]Le\nBataillon aura fait au moins UN truc utile..."
+    "texte_fr": "J'y crois pas, il y\navait une autre entrée? [1205][000F]Le Bataillon\naura fait au moins UN truc utile..."
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah!?[1205][000F][SP]Is[SP]this[SP]some[SP]kinda[SP]cult?[1205][000F][SP]Did[SP]people\nstart[SP]worshipping[SP]this[SP]stuff?[1205][000F][SP]Yeeeesh...\nThis[SP]is[SP]getting[SP]out[SP]of[SP]hand.",
     "nom_fr": "Ginko",
-    "texte_fr": "Aiyah![1205][1205][1205][000F][000F][000F]? C'est un genre de culte? Des\ngens se sont mis à vénérer ce truc?\nWoooow... Ça devient hors de contrôle."
+    "texte_fr": "Aiyah![1205][000F]? C'est un genre de culte? Des\ngens se sont mis à vénérer ce truc?\nWoooow... Ça devient hors de contrôle."
   },
   {
     "id": 3,
@@ -72,7 +72,7 @@
     "nom_orig": "Maya",
     "texte_orig": "They[SP]must[SP]be[SP]desperate[SP]to[SP]believe[SP]that[SP]they[SP]can\nevolve[SP]and[SP]escape[SP]this[SP]world's[SP]destruction.[1205][000F]\nPeople...[1205][000F][SP]can[SP]be[SP]pitiful[SP]at[SP]times[SP]like[SP]this...",
     "nom_fr": "Maya",
-    "texte_fr": "Ils doivent être desespérés pour\npenser pouvoir évoluer et fuir la fin\ndu monde. [1205][1205][000F]Les gens.[000F].. peuvent êtrepitoyables dans ces moments-là..."
+    "texte_fr": "Ils doivent être desespérés pour\npenser pouvoir évoluer et fuir la fin du\nmonde. [1205][000F]Les gens.[000F].. peuvent êtrepitoyables dans ces moments-là..."
   },
   {
     "id": 5,
@@ -207,7 +207,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Look[SP]at[SP]them.[SP]They're[SP]praying[SP]together[SP]in[SP]the\nhopes[SP]of[SP]evolving[SP]safely.[SP]Does[SP]the[SP]entire\nworld's[SP]destruction[SP]mean[SP]nothing[SP]to[SP]them...?",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Regarde-les. Ils prient ensemble dans\nl'espoir d'évoluer en\nsûreté. La destruction du monde entier ne signifie rien pour eux...?"
+    "texte_fr": "Regarde-les. Ils prient ensemble dans\nl'espoir d'évoluer en sûreté.\nLa destruction du monde entier ne signifie rien pour eux...?"
   },
   {
     "id": 14,
@@ -222,7 +222,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]can[SP]this[SP]old[SP]man[SP]do[SP]for[SP]you[SP]today?\n[1208][0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toku-san\nNever[SP]mind",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Que puis-je pour toi?\n[1208][0003][1210][U+0475]Parlons rumeurs\nDiscuter un peu\nRien merci",
+    "texte_fr": "Que puis-je pour toi?\n[1208][0003][1210][0475]Parlons rumeurs\nDiscuter un peu\nRien merci",
     "question_orig": "What[SP]can[SP]this[SP]old[SP]man[SP]do[SP]for[SP]you[SP]today?",
     "choix_orig": [
       "[1210]Ask[SP]about[SP]rumors",
@@ -248,7 +248,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNone",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel genre de rumeur veux-tu entendre?\n[1208][0004][1210]Magasin d'armes\n[1210]Magasin d'armures\n[1210]Autres\nAucun[U+0476][U+0477][U+0478]",
+    "texte_fr": "Quel genre de rumeur veux-tu entendre?\n[1208][0004][1210]Magasin d'armes\n[1210]Magasin d'armures\n[1210]Autres\nAucun[0476][0477][0478]",
     "question_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -275,7 +275,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "For[SP]which[SP]region?\n[1208][0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel endroit?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nRien[U+046A][U+046B][U+046C][U+046D]",
+    "texte_fr": "Quel endroit?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nRien[046A][046B][046C][046D]",
     "question_orig": "For[SP]which[SP]region?",
     "choix_orig": [
       "[1210]Rengedai",
@@ -303,7 +303,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "For[SP]which[SP]region?\n[1208][0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel endroit?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nRien[U+046E][U+046F][U+0470][U+0471]",
+    "texte_fr": "Quel endroit?\n[1208][0005][1210]Rengedai\n[1210]Yumezaki\n[1210]Aoba\n[1210]Kounan\nRien[046E][046F][0470][0471]",
     "question_orig": "For[SP]which[SP]region?",
     "choix_orig": [
       "[1210]Rengedai",
@@ -331,7 +331,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel type de rumeur veux-tu entendre?\n[1208][0004][1210]\nLoteries de magazines   \n[1210]]Mu    \n[1210]Arme légendaire    \nAucune[U+0472][U+0473][U+0474]",
+    "texte_fr": "Quel type de rumeur veux-tu entendre?\n[1208][0004][1210]\nLoteries de magazines   \n[1210]]Mu    \n[1210]Arme légendaire    \nAucune[0472][0473][0474]",
     "question_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
@@ -418,7 +418,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "He's[SP]a[SP]rather[SP]suspicious[SP]man[SP]who[SP]talks[SP]as[SP]if[SP]he\ncan[SP]see[SP]through[SP]people.[SP]He[SP]even[SP]calls[SP]himself\na[SP]Count...[SP]So[SP]this[SP]rumor[SP]comes[SP]as[SP]no[SP]surprise.",
     "nom_fr": "Toku-san",
-    "texte_fr": "Il est assez suspect et s'exprime comme\ns'il pouvait voir à travers les gens.\nIl se fait même appeler Comte... Doncla rumeur ne m'étonne pas."
+    "texte_fr": "Il est assez suspect et s'exprime comme\ns'il pouvait voir à travers les gens. Il\nse fait même appeler Comte... Doncla rumeur ne m'étonne pas."
   },
   {
     "id": 24,
@@ -463,7 +463,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "I[SP]don't[SP]hear[SP]many[SP]nice[SP]rumors[SP]about[SP]him,[SP]you\nknow.[SP]Some[SP]even[SP]say[SP]he's[SP]part[SP]of[SP]some[SP]organized\ncrime[SP]group.[SP]Who[SP]knows?[SP]Maybe[SP]it's[SP]true.",
     "nom_fr": "Toku-san",
-    "texte_fr": "Je n'entend pas de\ntrès bonne rumeurs sur lui,\ntu sais. Certains disent même qu'il baigne dans le crime organisé. Peut-être, qui sait?"
+    "texte_fr": "Je n'entend pas de\ntrès bonne rumeurs sur lui, tu\nsais. Certains disent même qu'il baigne dans le crime organisé. Peut-être, qui sait?"
   },
   {
     "id": 27,
@@ -523,7 +523,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What?[SP]That[SP]producer[SP]is[SP]actually[SP]part[SP]of[SP]the\nMasked[SP]Circle?[SP]Now[SP]that's[SP]useful[SP]information.\nI[SP]think[SP]I[SP]have[SP]a[SP]rumor[SP]worthy[SP]of[SP]that.",
     "nom_fr": "Toku-san",
-    "texte_fr": "Quoi? Ce producteur\nfaisait partie du Cercle\nMasqué? Voilà une information bien utile. Je pense avoir une rumeur à la hauteur de ça."
+    "texte_fr": "Quoi? Ce producteur\nfaisait partie du Cercle Masqué?\nVoilà une information bien utile. Je pense avoir une rumeur à la hauteur de ça."
   },
   {
     "id": 31,
@@ -553,7 +553,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "The[SP][1432][NULL][NULL][0014]Jolly[SP]Roger[1432][NULL][NULL][0014][SP]refers[SP]to[SP]the[SP]skull[SP]and\ncrossbones...[SP]Between[SP]the[SP]ship-like[SP]decor[SP]and\nhis[SP]clothing,[SP]the[SP]owner[SP]may[SP]be[SP]an[SP]ex-pirate.",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Le [1432][NULL][NULL][0014]Jolly Roger[1432][NULL][NULL][0014] désigne le crâne aux os\ncroisés... Entre le décor\nnaval et ses habits, le proprio est sûrement un ex-pirate."
+    "texte_fr": "Le [1432][NULL][NULL][0014]Jolly Roger[1432][NULL][NULL][0014] désigne le crâne aux os\ncroisés... Entre le décor naval\net ses habits, le proprio est sûrement un ex-pirate."
   },
   {
     "id": 33,
@@ -598,7 +598,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Do[SP]you[SP]know[SP]the[SP]boutique[SP][E4][NULL][NULL][0006]Rosa[SP]Candida[E4][NULL][NULL][0002]?[SP]It[SP]seems\nyou[SP]can[SP]actually[SP]buy[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP]Rumor\nhas[SP]it[SP]their[SP][E4][NULL][NULL][0006]quality[SP]and[SP]prices[SP]are[SP]average[E4][NULL][NULL][0002].",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Tu vois cette boutique, [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002]? On y\nachète de [E4][NULL][NULL][0006]vraies\narmures[E4][NULL][NULL][0002]. D'après la rumeur, les [E4][NULL][NULL][0006]prix et la qualité sont convenables[E4][NULL][NULL][0002]."
+    "texte_fr": "Tu vois cette boutique, [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002]? On y\nachète de [E4][NULL][NULL][0006]vraies armures.\nE4][NULL][NULL][0002]. D'après la rumeur, les [E4][NULL][NULL][0006]prix et la qualité sont convenables[E4][NULL][NULL][0002]."
   },
   {
     "id": 36,
@@ -613,7 +613,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "I've[SP]heard[SP]that[SP]armor[SP]is[SP]this[SP]year's[SP]trend.\nA[SP]rube[SP]was[SP]here[SP]talking[SP]about[SP]it[SP]until[SP]a\nmoment[SP]ago.",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Apparemment cette armure est\nà la mode cette\nannée. Un péquenaud en parlait tout à l'heure."
+    "texte_fr": "Apparemment cette armure est\nà la mode cette année.\nUn péquenaud en parlait tout à l'heure."
   },
   {
     "id": 37,
@@ -673,7 +673,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Ah,[SP]so[SP]this[SP]new[SP]Leader[SP]at[SP]Kasugayama[SP]used[SP]to\nbe[SP]the[SP]Death[SP]Boss'[SP]underling.[1205][000F][SP]The[SP]low[SP]overcomes\nthe[SP]high...[1205][000F][SP]All[SP]right,[SP]here's[SP]what[SP]I[SP]know.[E1][E2]\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nThere's[SP]a[SP]branch[SP]of[SP][E4][NULL][NULL][0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]in[SP]Aoba,[SP]and\nword[SP]is[SP]they[SP]sell[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002].[1205][000F][SP]Their[SP][E4][NULL][NULL][0006]selection\nis[SP]paltry,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]good[E4][NULL][NULL][0002].",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Ah, ce nouveau chef\nde Kakasu était le larbin\nde l'ancien Boss Mortel. [1205][1205][1205][000F][000F]Le faible surpasse\n[000F]le fort... D'accord, voilà ce que je sais.[E1][E2]\n[E3][E4][NULL][NULL]\"Colporteur Toku\n[E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] a une branche à\nAoba, et ils y vendraient de [E4][NULL][NULL][0006]vraies\narmures[E4][NULL][NULL][0002].Leur [E4][NULL][NULL][0006]sélection est misérable, mais les prix\nde revente sont bons[E4][NULL][NULL][0002]."
+    "texte_fr": "Ah, ce nouveau chef\nde Kakasu était le larbin\nde l'ancien Boss Mortel. [1205][000F]Le faible surpasse\n[000F]le fort... D'accord, voilà ce que je sais.[E1][E2]\n[E3][E4][NULL][NULL]\"Colporteur Toku\n[E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] a une branche à\nAoba, et ils y vendraient de [E4][NULL][NULL][0006]vraies\narmures[E4][NULL][NULL][0002].Leur [E4][NULL][NULL][0006]sélection est misérable, mais les prix\nde revente sont bons[E4][NULL][NULL][0002]."
   },
   {
     "id": 41,
@@ -688,7 +688,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "The[SP]lucky[SP]cat[SP]statue[SP]at[SP]the[SP]Kuzunoha[SP]Detective\nAgency[SP]talks?[SP]Hahaha,[SP]I[SP]know[SP]some[SP]girls[SP]who'd\nbe[SP]delighted[SP]to[SP]hear[SP]it.[SP]Alright,[SP]here's[SP]one...",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "La statue de chat du bonheur de l'Agence de\nDétective Kuzunoha parle?\nHahaha, je connais des filles qui adoreraient ça. Bon, à moi..."
+    "texte_fr": "La statue de chat du bonheur de l'Agence de\nDétective Kuzunoha parle? Hahaha,\nje connais des filles qui adoreraient ça. Bon, à moi..."
   },
   {
     "id": 42,
@@ -703,7 +703,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "There's[SP]a[SP]European-styled[SP]shop,[SP][E4][NULL][NULL][0006]London[SP]Clothier[E4][NULL][NULL][0002],\nin[SP]Kounan.[1205][000A][SP]You[SP]can[SP]buy[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP][E4][NULL][NULL][0006]Their\nselection[SP]is[SP]good,[SP]but[SP]the[SP]resale[SP]value[SP]isn't[E4][NULL][NULL][0002].",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Ce magasin au\nstyle européen, [E4][NULL][NULL][0006]London Clothier[E4][NULL][NULL][0002],\nà Kounan.[1205][000A] Tu peux y acheter de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]. [E4][NULL][NULL][0006]Bon choix, mais mauvais prix derevente[E4][NULL][NULL][0002]."
+    "texte_fr": "Ce magasin au\nstyle européen, [E4][NULL][NULL][0006]London Clothier[E4][NULL][NULL][0002], à\nKounan.[1205][000A] Tu peux y acheter de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]. [E4][NULL][NULL][0006]Bon choix, mais mauvais prix derevente[E4][NULL][NULL][0002]."
   },
   {
     "id": 43,
@@ -733,7 +733,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Tamaki[SP]at[SP]Kuzunoha[SP]Detective[SP]Agency[SP]is[SP]a[SP]real\nDevil[SP]Summoner?[SP]Is[SP]that[SP]an[SP]actual[SP]job?[SP]I've\nnever[SP]heard[SP]of[SP]it...[SP]Hmm.[SP]All[SP]right.",
     "nom_fr": "Toku-san",
-    "texte_fr": "Tamaki de l'Agence\nde Détective Kuzunoha est\nune Devil Summoner? C'est un vrai métier? Jamais entendu parler... Hmm. Très bien."
+    "texte_fr": "Tamaki de l'Agence\nde Détective Kuzunoha est une\nDevil Summoner? C'est un vrai métier? Jamais entendu parler... Hmm. Très bien."
   },
   {
     "id": 45,
@@ -823,7 +823,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Well,[SP]in[SP]Sumaru,[SP]perhaps...[1205][000F][SP]All[SP]right,[SP]I'll\nbelieve[SP]you.[1205][000F][SP]In[SP]which[SP]case,[SP]let[SP]me[SP]relate[SP]a\nspecial[SP]rumor[SP]I[SP]heard.",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Enfin, à Sumaru, qui sait.[1205][1205][000F][000F].. Bien, je\nte crois. Par conséquent, laisse-moi\nte parler d'une rumeur spéciale."
+    "texte_fr": "Enfin, à Sumaru, qui sait.[1205][000F].. Bien, je\nte crois. Par conséquent, laisse-moi\nte parler d'une rumeur spéciale."
   },
   {
     "id": 51,
@@ -973,7 +973,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "There[SP]are[SP]tons[SP]of[SP]rumors[SP]going[SP]around[SP]about[SP]how\nthe[SP]Grand[SP]Cross[SP]will[SP]be[SP]the[SP]end[SP]of[SP]the[SP]world.[1205][000F]\nA[SP]meteor[SP]hitting[SP]is[SP]the[SP]most[SP]popular[SP]theory...",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Il y a plein de\nrumeurs sur comment la Croix\nCosmique va amener la fin du monde. La chute [1205][000F]de météorite est la théorie la pluspopulaire..."
+    "texte_fr": "Il y a plein de\nrumeurs sur comment la Croix Cosmique\nva amener la fin du monde. La chute [1205][000F]de météorite est la théorie la pluspopulaire..."
   },
   {
     "id": 61,
@@ -988,7 +988,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "When[SP]the[SP]Grand[SP]Cross[SP]happens,[SP]apparently[SP]the\nother[SP]planets'[SP]gravitational[SP]pull[SP]will[SP]cause\ngravity[SP]to[SP]be[SP]nullified[SP]here[SP]on[SP]Earth.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Quand la Croix Cosmique se produira, il\nparaît que la force\nde gravitation des autres planètes nullifiera la gravité sur Terre."
+    "texte_fr": "Quand la Croix Cosmique se produira, il\nparaît que la force de\ngravitation des autres planètes nullifiera la gravité sur Terre."
   },
   {
     "id": 62,
@@ -1093,7 +1093,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "There's[SP]an[SP]idol's[SP]ghost[SP]haunting[SP]the[SP]outdoor\nconcert[SP]hall.[1205][000F][SP]I[SP]hear[SP]a[SP]lot[SP]of[SP]scary[SP]stories\nabout[SP]that[SP]place...[SP]like[SP]talking[SP]flowers.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Un fantôme d'idol hante la salle de concert[1205][000F]\nen plein air. [000F]J'entend\nplein de trucs atroces lié à ça... comme des fleurs loquaces."
+    "texte_fr": "Un fantôme d'idol hante la salle de concert[1205][000F]\nen plein air. [000F]J'entend plein\nde trucs atroces lié à ça... comme des fleurs loquaces."
   },
   {
     "id": 69,
@@ -1168,7 +1168,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "They[SP]say[SP]the[SP]Jumping[SP]Geezer[SP]has[SP]been[SP]seen[SP]at\nMt.[SP]Katatsumuri.[1205][000F][SP]I[SP]don't[SP]really[SP]know[SP]what[SP]that\nis...[SP]Is[SP]it[SP]basically[SP]what[SP]the[SP]name[SP]implies?",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Apparemment le Vieux Rebondissant\na été vu au[1205][000F]\nMont Katatsumuri. [000F]Je sais pas trop ce que c'est... Peut-être juste ce que son nomimplie?"
+    "texte_fr": "Apparemment le Vieux Rebondissant\na été vu au[1205][000F] Mont\nKatatsumuri. [000F]Je sais pas trop ce que c'est... Peut-être juste ce que son nomimplie?"
   },
   {
     "id": 74,
@@ -1183,7 +1183,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Yikes...[1205][000A][SP]I[SP]just[SP]heard[SP]a[SP]scary[SP]story...[1205][000F][SP]Hm?\nWhat[SP]was[SP]it[SP]about?[1205][000F][SP]I-It[SP]was[SP]about[SP]Kudan...[1205][000A]\nAt[SP]the[SP]abandoned[SP]factory...[SP]Brrrr...",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Ugh...[1205][000A] J'ai entendu\nune histoire flippante.[000F][000F]..[1205][000A]\nHm? De quoi ça parle?[1205] Ç-Ça parle de Kudan...[1205] À l'usine abandonnée... Brr..."
+    "texte_fr": "Ugh...[1205][000A] J'ai entendu\nune histoire flippante.[000F]..[1205][000A] Hm?\nDe quoi ça parle?[1205] Ç-Ça parle de Kudan...[1205] À l'usine abandonnée... Brr..."
   },
   {
     "id": 75,
@@ -1423,7 +1423,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real\nweapons.[SP]I[SP]wonder[SP]if[SP]I[SP]should[SP]check[SP]'em[SP]out...\nTheir[SP]prices[SP]and[SP]quality[SP]seem[SP]pretty[SP]normal.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "On dirait que Jolly Roger à Kounan vend de\nvraies armes. Je pourrais\ny faire un tour... Leurs prix et leur sélection semblent normaux."
+    "texte_fr": "On dirait que Jolly Roger à Kounan vend de\nvraies armes. Je pourrais y\nfaire un tour... Leurs prix et leur sélection semblent normaux."
   },
   {
     "id": 91,
@@ -1438,7 +1438,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real\nweapons.[SP]I[SP]wonder[SP]if[SP]I[SP]should[SP]check[SP]'em[SP]out...\nTheir[SP]stuff[SP]is[SP]low[SP]quality,[SP]but[SP]cheap.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "On dirait que Jolly Roger à Kounan vend de\nvraies armes. Je pourrais\ny faire un tour... Y'a du bon matos, mais de basse qualité."
+    "texte_fr": "On dirait que Jolly Roger à Kounan vend de\nvraies armes. Je pourrais y\nfaire un tour... Y'a du bon matos, mais de basse qualité."
   },
   {
     "id": 92,
@@ -1468,7 +1468,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real\nweapons.[SP]Should[SP]I[SP]check[SP]'em[SP]out...?[SP]Their\nselection's[SP]poor,[SP]but[SP]the[SP]resale[SP]value's[SP]high.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "On dirait que Jolly Roger à Kounan vend de\nvraies armes. Et si\nj'y allais? C'est bas de gamme, mais le prix de revente est élevé."
+    "texte_fr": "On dirait que Jolly Roger à Kounan vend de\nvraies armes. Et si j'y\nallais? C'est bas de gamme, mais le prix de revente est élevé."
   },
   {
     "id": 94,
@@ -1483,7 +1483,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real\nweapons.[SP]I[SP]wonder[SP]if[SP]I[SP]should[SP]check[SP]'em[SP]out...\nThey[SP]cost[SP]a[SP]lot,[SP]but[SP]the[SP]quality's[SP]worth[SP]it.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "On dirait que Jolly Roger à Kounan vend de\nvraies armes. Je pourrais\ny faire un tour... C'est très cher, mais la qualité vaut le coup."
+    "texte_fr": "On dirait que Jolly Roger à Kounan vend de\nvraies armes. Je pourrais y\nfaire un tour... C'est très cher, mais la qualité vaut le coup."
   },
   {
     "id": 95,
@@ -1768,7 +1768,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Looks[SP]like[SP]winners[SP]of[SP]the[SP]magazine[SP]sweepstakes\nget[SP]real[SP]weapons.[SP]I[SP]hear[SP]it's[SP]rare[SP]to[SP]win,[SP]but\nthe[SP]prizes[SP]are[SP]extremely[SP]rare[SP]stuff.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "On dirait que les\nloteries de magazines font\ngagner de vraies armes. Gagner serait rare, mais les prix seraient très rares aussi."
+    "texte_fr": "On dirait que les\nloteries de magazines font gagner\nde vraies armes. Gagner serait rare, mais les prix seraient très rares aussi."
   },
   {
     "id": 114,
@@ -1918,7 +1918,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "You[SP]know[SP]that[SP]legendary[SP]weapon[SP]at[SP]Time[SP]Castle?\nSounds[SP]like[SP]a[SP]demon[SP]stole[SP]it.[SP]Which[SP]is[SP]funny,\n'cause[SP]there's[SP]no[SP]such[SP]thing[SP]as[SP]demons.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "T'es au courant pour l'arme légendaire au\nTime Castle? Un démon\nl'aurait volée. Ce qui est marrant, car les démons n'existent pas."
+    "texte_fr": "T'es au courant pour l'arme légendaire au\nTime Castle? Un démon l'aurait\nvolée. Ce qui est marrant, car les démons n'existent pas."
   },
   {
     "id": 124,
@@ -1963,7 +1963,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "The[SP]second[SP]floor[SP]of[SP]the[SP]secret[SP]lounge[SP]seems[SP]to\nbe[SP]a[SP]huge[SP]maze,[SP]for[SP]some[SP]reason.[SP]But[SP]I've[SP]heard\nsome[SP]people[SP]have[SP]found[SP]great[SP]stuff[SP]there.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Le deuxième étage du\nsalon secret semble être\nun énorme labyrinthe, va savoir pourquoi. Des gens y auraient trouvé de super trucs."
+    "texte_fr": "Le deuxième étage du\nsalon secret semble être un\nénorme labyrinthe, va savoir pourquoi. Des gens y auraient trouvé de super trucs."
   },
   {
     "id": 127,
@@ -1993,7 +1993,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]We[SP]are[SP]the[SP]chosen![1205][000F]\nWe[SP]are[SP]the[SP]master[SP]race!",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][1205][1205][000F][000F][000F]Nyarshtan Nyargashana Vivalba! Nous\nsommes les élus! La race supérieure!"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba! Nous\nsommes les élus! La race supérieure!"
   },
   {
     "id": 129,
@@ -2008,7 +2008,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]*pant*[SP]*pant*[SP]I'm[SP]out\nof[SP]breath...",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][1205][000F][000F]Nyarshtan Nyargashana Vivalba!\nPff... Pff... Plus de souffle..."
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba!\nPff... Pff... Plus de souffle..."
   },
   {
     "id": 130,
@@ -2023,7 +2023,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]Won't[SP]you[SP]join[SP]us?\nLet's[SP]pray[SP]together.",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][1205][000F][000F]Nyarshtan Nyargashana Vivalba!\nTu me rejoins? Prions ensemble."
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba!\nTu me rejoins? Prions ensemble."
   },
   {
     "id": 131,
@@ -2038,7 +2038,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]It's[SP]not[SP]too[SP]late,[SP]you\nknow.[SP]You[SP]should[SP]join[SP]us!",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][1205][000F][000F]Nyarshtan\nNyargashana Vivalba! Rejoins-nous, il\nn'est jamais trop tard pour!"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][000F]Nyarshtan\nNyargashana Vivalba! Rejoins-nous, il\nn'est jamais trop tard pour!"
   },
   {
     "id": 132,
@@ -2053,7 +2053,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]All[SP]together[SP]now!",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][1205][000F][000F]Nyarshtan\nNyargashana Vivalba! Tous ensemble!"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][000F]Nyarshtan\nNyargashana Vivalba! Tous ensemble!"
   },
   {
     "id": 133,
@@ -2068,7 +2068,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]The[SP]light[SP]streaming[SP]from\nSevens[SP]is[SP]a[SP]sign[SP]of[SP]our[SP]evolution!",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][1205][000F][000F]Nyarshtan\nNyargashana Vivalba! La lumière émise par\nSeven est le signe de notre évolution!"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][000F]Nyarshtan\nNyargashana Vivalba! La lumière émise par\nSeven est le signe de notre évolution!"
   },
   {
     "id": 134,
@@ -2083,7 +2083,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP][1432][NULL][NULL][0014]Vivalba[1432][NULL][NULL][0014][SP]is[SP]short[SP]for\n[1432][NULL][NULL][0014]Viva[SP]Xibalba.[1432][NULL][NULL][0014]",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][1205][000F][000F]Nyarshtan Nyargashana Vivalba!\n[1432][NULL][NULL][0014]Vivalba[1432][NULL][NULL][0014] c'est pour [1432][NULL][NULL][0014]Viva Xibalba.[1432][NULL][NULL][0014]"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba!\n[1432][NULL][NULL][0014]Vivalba[1432][NULL][NULL][0014] c'est pour [1432][NULL][NULL][0014]Viva Xibalba.[1432][NULL][NULL][0014]"
   },
   {
     "id": 135,
@@ -2098,7 +2098,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "That[SP][1432][NULL][NULL][0014]Nyarshtan[SP]Nyargashanna[1432][NULL][NULL][0014][SP]chant...[1205][000F][SP]What\ndoes[SP]it[SP]mean?[1205][000F][SP]Even[SP]I[SP]don't[SP]know.",
     "nom_fr": "Cultiste",
-    "texte_fr": "Ce chant, [1432][NULL][NULL][0014]Nyarshtan Nyargashana[1432][NULL][NULL][0014].[1205][1205][000F][000F]..\nÇa veut dire quoi? Je sais même pas."
+    "texte_fr": "Ce chant, [1432][NULL][NULL][0014]Nyarshtan Nyargashana[1432][NULL][NULL][0014].[1205][000F]..\nÇa veut dire quoi? Je sais même pas."
   },
   {
     "id": 136,
@@ -2113,7 +2113,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]Ow...[1205][000A][SP]Bit[SP]my[SP]tongue...",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][1205][000F][000F]Nyarshtan\nNyargashana Vivalba! Aïe...[1205][000A] Ma langue..."
+    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][000F]Nyarshtan\nNyargashana Vivalba! Aïe...[1205][000A] Ma langue..."
   },
   {
     "id": 137,
@@ -2128,7 +2128,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]Ow![1205][000A][SP]I[SP]bit[SP]my[SP]tongue\nagain...",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][1205][000F][000F]Nyarshtan\nNyargashana Vivalba! Aïe![1205][000A] Me suis encore\nmordu..."
+    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][000F]Nyarshtan\nNyargashana Vivalba! Aïe![1205][000A] Me suis encore\nmordu..."
   },
   {
     "id": 138,
@@ -2143,7 +2143,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivaldi![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivaldi![1205][000F][SP]Huh...?[1205][000A][SP]My[SP]chant[SP]is\ndifferent[SP]from[SP]everyone[SP]else's?",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivaldi!\n[1205][1205][000F][000F]Nyarshtan Nyargashana Vivaldi! Hein...?[1205][000A]\nMon chant différe de celui des autres?"
+    "texte_fr": "Nyarshtan Nyargashana Vivaldi!\n[1205][000F]Nyarshtan Nyargashana Vivaldi! Hein...?[1205][000A]\nMon chant différe de celui des autres?"
   },
   {
     "id": 139,
@@ -2158,7 +2158,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Revolver![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Revolver![1205][000F][SP]Huh...?[1205][000A][SP]Mine[SP]is[SP]still\ndifferent?",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Revolver!\n[1205][1205][000F][000F]Nyarshtan Nyargashana Revolver!\nHein...?[1205][000A] C'est encore différent?"
+    "texte_fr": "Nyarshtan Nyargashana Revolver!\n[1205][000F]Nyarshtan Nyargashana Revolver!\nHein...?[1205][000A] C'est encore différent?"
   },
   {
     "id": 140,
@@ -2173,7 +2173,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]The[SP]cadence[SP]is[SP]important.\nListen[SP]and[SP]follow[SP]the[SP]rhythm.",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][1205][000F][000F]Nyarshtan\nNyargashana Vivalba! Il faut tenir le\nrythme et la cadence. C'est important."
+    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][000F]Nyarshtan\nNyargashana Vivalba! Il faut tenir le\nrythme et la cadence. C'est important."
   },
   {
     "id": 141,
@@ -2188,7 +2188,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]The[SP]heralded[SP]hour[SP]of\nevolution![1205][000A][SP]Behold!",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][1205][000F][000F]Nyarshtan Nyargashana Vivalba!\nAdmirez![1205][000A] Voici l'heure de l'évolution!"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba!\nAdmirez![1205][000A] Voici l'heure de l'évolution!"
   },
   {
     "id": 142,
@@ -2203,7 +2203,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]Thank[SP]goodness...\nWe[SP]don't[SP]have[SP]to[SP]die[SP]anymore!",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][1205][000F][000F]Nyarshtan Nyargashana Vivalba! Dieu\nmerci... On a plus besoin de mourir!"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba! Dieu\nmerci... On a plus besoin de mourir!"
   },
   {
     "id": 143,
@@ -2218,7 +2218,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]It's[SP]the[SP]beginning[SP]of\nthe[SP]end[SP]for[SP]our[SP]world.",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][1205][000F][000F]Nyarshtan Nyargashana Vivalba!\nC'est le début de la fin du monde."
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba!\nC'est le début de la fin du monde."
   },
   {
     "id": 144,
@@ -2233,7 +2233,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]There[SP]is[SP]no[SP]need[SP]for\nthe[SP]weak,[SP]or[SP]for[SP]this[SP]earth!",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][1205][000F][000F]Nyarshtan Nyargashana Vivalba! Plus\nbesoin de faibles, ou même de terre!"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba! Plus\nbesoin de faibles, ou même de terre!"
   },
   {
     "id": 145,
@@ -2248,7 +2248,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]Farewell,[SP]world!\nFarewell,[SP]humans!",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][1205][000F][000F]Nyarshtan\nNyargashana Vivalba! Adieu, monde! Adieu,\nhumains!"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][000F]Nyarshtan\nNyargashana Vivalba! Adieu, monde! Adieu,\nhumains!"
   },
   {
     "id": 146,
@@ -2263,7 +2263,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]We[SP]will[SP]be[SP]reborn!",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][1205][000F][000F]Nyarshtan\nNyargashana Vivalba! Nous renaîtrons!"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][000F]Nyarshtan\nNyargashana Vivalba! Nous renaîtrons!"
   },
   {
     "id": 147,
@@ -2278,7 +2278,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]Evolution![SP]EVOLUTION!",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][1205][000F][000F]Nyarshtan\nNyargashana Vivalba! Évolution! ÉVOLUTION!"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba! [1205][000F]Nyarshtan\nNyargashana Vivalba! Évolution! ÉVOLUTION!"
   },
   {
     "id": 148,
@@ -2353,7 +2353,7 @@
     "nom_orig": "Cult[SP]founder",
     "texte_orig": "Ah![SP]See,[SP]my[SP]brethren![1205][000F][SP]An[SP]arrow[SP]of[SP]light[SP]has[SP]been\nloosed[SP]from[SP]the[SP]school[SP]burdened[SP]with[SP]the[SP]fate[SP]of\nthe[SP]seven[SP]sisters![1205][000F][SP]Our[SP]evolution[SP]begins!",
     "nom_fr": "Chef du culte",
-    "texte_fr": "Ah! Voyez, mes frères!\n[1205][1205][000F][000F]Une flèche de lumière\nfut tirée de l'école portant le fardeau du destin des sept soeurs! Notre évolutiondémarre!"
+    "texte_fr": "Ah! Voyez, mes frères!\n[1205][000F]Une flèche de lumière fut\ntirée de l'école portant le fardeau du destin des sept soeurs! Notre évolutiondémarre!"
   },
   {
     "id": 153,

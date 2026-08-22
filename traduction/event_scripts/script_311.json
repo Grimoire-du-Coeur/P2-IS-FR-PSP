@@ -357,7 +357,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "That[SP]can't[SP]be...[1205][000F][SP]If[SP]they're[SP]Joker...[1205][000F][SP]there's[SP]no\nway[SP]they'd[SP]want[SP]to[SP]destroy[SP]everything...",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est impossible.[1205][1205][000F][000F].. Si c'est Joker... ils\nne voudraient jamais tout détruire..."
+    "texte_fr": "C'est impossible.[1205][000F].. Si c'est Joker... ils\nne voudraient jamais tout détruire..."
   },
   {
     "id": 24,
@@ -821,7 +821,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "What're[SP]you[SP]selling?\n[1208][0007][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\nSell[SP]items\nSell[SP]weapons\n[1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\nSell[SP]armor\n[1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\nSell[SP]accessories",
     "nom_fr": "Patronne",
-    "texte_fr": "Tu vends quoi?\n[1208][0007][1210]Sélection cachée\nObjets\nArmes\n[1210]Armure de tête\nSell armor\n[1210]Armure de jambes\nAccessoires[B_00][U+5501][B_00][B_00][U+5301][B_00][B_00][U+5301][B_00]",
+    "texte_fr": "Tu vends quoi?\n[1208][0007][1210]Sélection cachée\nObjets\nArmes\n[1210]Armure de tête\nSell armor\n[1210]Armure de jambes\nAccessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What're[SP]you[SP]selling?",
     "choix_orig": [
       "[1210][B_00][B_00]ndisplayed[SP]selection",
@@ -851,7 +851,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?\n[1208][0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Patronne",
-    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][0004]Bavarder\nParler boutique\nParler du repas\n[1210]Sélection cachée[B_00][U+5501][B_00]",
+    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][0004]Bavarder\nParler boutique\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00]",
     "question_orig": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -907,7 +907,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "What're[SP]you[SP]selling?\n[1208][0007][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\nSell[SP]items\nSell[SP]weapons\n[1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\nSell[SP]armor\n[1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\nSell[SP]accessories",
     "nom_fr": "Patronne",
-    "texte_fr": "Tu vends quoi?\n[1208][0007][1210]Sélection cachée\nObjets\nArmes\n[1210]Armure de tête\nSell armor\n[1210]Armure de jambes\nAccessoires[B_00][U+5501][B_00][B_00][U+5301][B_00][B_00][U+5301][B_00]",
+    "texte_fr": "Tu vends quoi?\n[1208][0007][1210]Sélection cachée\nObjets\nArmes\n[1210]Armure de tête\nSell armor\n[1210]Armure de jambes\nAccessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What're[SP]you[SP]selling?",
     "choix_orig": [
       "[1210][B_00][B_00]ndisplayed[SP]selection",
@@ -937,7 +937,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?\n[1208][0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Patronne",
-    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][0004]Bavarder\nParler boutique\nParler du repas\n[1210]Sélection cachée[B_00][U+5501][B_00]",
+    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][0004]Bavarder\nParler boutique\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00]",
     "question_orig": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1144,7 +1144,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Yeah,[SP]yeah,[SP]let's[SP]put[SP]stories[SP]of[SP]the[SP]old[SP]days\naside[SP]for[SP]a[SP]bit.[1205][000F][SP]I[SP]got[SP]some[SP]new[SP]goods[SP]in.[1205][000F]\nThey[SP]sell[SP]out[SP]pretty[SP]quick,[SP]so[SP]look[SP]now.",
     "nom_fr": "Patronne",
-    "texte_fr": "Bon, bon, laissons les histoires du passé\nde côté. [1205][1205][000F][000F]J'ai reçu de nouveaux articles.\nÇa part vite, alors regardez maintenant."
+    "texte_fr": "Bon, bon, laissons les histoires du passé\nde côté. [1205][000F]J'ai reçu de nouveaux articles.\nÇa part vite, alors regardez maintenant."
   },
   {
     "id": 71,
@@ -1159,7 +1159,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Thinking[SP]back,[SP]I[SP]must[SP]have[SP]been[SP]18[SP]when[SP]I[SP]made\nmy[SP]Hollywood[SP]debut...[SP]I[SP]worked[SP]with[SP]John,[SP]Tom,\nall[SP]those[SP]guys...[SP]I[SP]was[SP]the[SP]Queen[SP]of[SP]Movies.",
     "nom_fr": "Patronne",
-    "texte_fr": "En y repensant, j'avais 18 ans quand j'ai\nfait mes débuts\nà Hollywood... J'ai travaillé avec John, Tom... J'étais la Reine du film."
+    "texte_fr": "En y repensant, j'avais 18 ans quand j'ai\nfait mes débuts à\nHollywood... J'ai travaillé avec John, Tom... J'étais la Reine du film."
   },
   {
     "id": 72,
@@ -1174,7 +1174,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "I[SP]still[SP]remember...[1205][000F][SP]That[SP]scene[SP]where[SP]he[SP]embraced\nme[SP]at[SP]the[SP]prow[SP]of[SP]the[SP]luxury[SP]liner...[1205][000F][SP]We'd[SP]gone\nbeyond[SP]acting[SP]in[SP]that[SP]moment.",
     "nom_fr": "Patronne",
-    "texte_fr": "Je m'en souviens encore.[1205][1205][000F][000F].. Cette scène où\nil me serrait à la proue du paquebot...\nOn avait dépassé les limites du jeu."
+    "texte_fr": "Je m'en souviens encore.[1205][000F].. Cette scène où\nil me serrait à la proue du paquebot...\nOn avait dépassé les limites du jeu."
   },
   {
     "id": 73,
@@ -1279,7 +1279,7 @@
     "nom_orig": "Washout[SP]student",
     "texte_orig": "The[SP]city's[SP]in[SP]chaos[SP]because[SP]of[SP]the[SP]terrorist\nattacks,[SP]but[SP]Ma'am[SP]doesn't[SP]so[SP]much[SP]as[SP]blink[SP]an\neye[SP]at[SP]it.[SP]It's[SP]like[SP]time's[SP]stopped[SP]in[SP]here.",
     "nom_fr": "Lycéen raté",
-    "texte_fr": "La ville est en\nchaos à cause des attentats,\nmais la patronne ne sourcille pas. C'est comme si le temps s'était arrêté."
+    "texte_fr": "La ville est en\nchaos à cause des attentats, mais\nla patronne ne sourcille pas. C'est comme si le temps s'était arrêté."
   },
   {
     "id": 80,
@@ -1354,7 +1354,7 @@
     "nom_orig": "Bodyguard",
     "texte_orig": "I[SP]get[SP]the[SP]feeling[SP]that[SP]something's[SP]not[SP]quite\nright,[SP]but[SP]I'm[SP]the[SP]bodyguard[SP]here![SP]Don't[SP]tell\nanyone,[SP]though,[SP]okay?",
     "nom_fr": "Garde du corps",
-    "texte_fr": "J'ai l'impression que ça\ncloche, mais je suis\nle garde du corps! N'en parlez à personne, ok?"
+    "texte_fr": "J'ai l'impression que ça\ncloche, mais je suis le\ngarde du corps! N'en parlez à personne, ok?"
   },
   {
     "id": 85,
@@ -1429,7 +1429,7 @@
     "nom_orig": "Bodyguard",
     "texte_orig": "Looks[SP]like[SP]they[SP]even[SP]set[SP]bombs[SP]at[SP]Smile\nHirasaka.[SP]But[SP]this[SP]place[SP]is[SP]safe.[SP]Especially\nwith[SP]a[SP]bodyguard[SP]like[SP]me[SP]around!",
     "nom_fr": "Garde du corps",
-    "texte_fr": "Des bombes à\nSmile Hirasaka, paraît-il. Mais\nici c'est sûr. Surtout avec un garde comme moi!"
+    "texte_fr": "Des bombes à\nSmile Hirasaka, paraît-il. Mais ici\nc'est sûr. Surtout avec un garde comme moi!"
   },
   {
     "id": 90,
@@ -1444,7 +1444,7 @@
     "nom_orig": "Bodyguard",
     "texte_orig": "Looks[SP]like[SP]they[SP]even[SP]set[SP]bombs[SP]at[SP]Smile\nHirasaka.[SP]But[SP]this[SP]place[SP]is[SP]safe.[SP]Especially\nwith[SP]a[SP]bodyguard[SP]like[SP]me[SP]around!",
     "nom_fr": "Garde du corps",
-    "texte_fr": "Des bombes à\nSmile Hirasaka, paraît-il. Mais\nici c'est sûr. Surtout avec un garde comme moi!"
+    "texte_fr": "Des bombes à\nSmile Hirasaka, paraît-il. Mais ici\nc'est sûr. Surtout avec un garde comme moi!"
   },
   {
     "id": 91,
@@ -1534,7 +1534,7 @@
     "nom_orig": "Maniac",
     "texte_orig": "I[SP]mean,[SP]you've[SP]heard[SP]the[SP]rumors[SP]about[SP]how[SP]the\nflowers[SP]bewitch[SP]people[SP]there[SP]and[SP]make[SP]them[SP]lose\ntheir[SP]way,[SP]right?",
     "nom_fr": "Fan obsédé",
-    "texte_fr": "Les rumeurs sur les\nfleurs qui envoûtent les\ngens là-bas et les font se perdre, vous savez?"
+    "texte_fr": "Les rumeurs sur les\nfleurs qui envoûtent les gens\nlà-bas et les font se perdre, vous savez?"
   },
   {
     "id": 97,
@@ -1594,7 +1594,7 @@
     "nom_orig": "Maniac",
     "texte_orig": "No,[SP]I[SP]shouldn't[SP]ask.[SP]I[SP]shouldn't...[1205][000F][SP]But[SP]I[SP]really\ndo[SP]want[SP]it...[SP][E4][NULL][NULL][0006]Linda's[SP]Bra[E4][NULL][NULL][0002]...[1205][000F][SP]Her[SP]ghost[SP]shows[SP]up\nin[SP]Aoba[SP]Park,[SP]I[SP]hear...",
     "nom_fr": "Fan obsédé",
-    "texte_fr": "Non, je ne devrais pas demander.[1205][1205][000F][000F].. Mais\nje le veux tellement... Le [E4][NULL][NULL][0006]soutien-gorge\nde Linda[E4][NULL][NULL][0002]... Son fantôme..."
+    "texte_fr": "Non, je ne devrais pas demander.[1205][000F].. Mais\nje le veux tellement... Le [E4][NULL][NULL][0006]soutien-gorge\nde Linda[E4][NULL][NULL][0002]... Son fantôme..."
   },
   {
     "id": 101,
@@ -1624,7 +1624,7 @@
     "nom_orig": "Maniac",
     "texte_orig": "I'm[SP]begging[SP]you!\n[1208][0002]Yes\nNo",
     "nom_fr": "Fan obsédé",
-    "texte_fr": "Pitié!\n[1208][0002]OuiNon",
+    "texte_fr": "Pitié!\n[1208][0002]Oui\nNon",
     "question_orig": "I'm[SP]begging[SP]you!",
     "choix_orig": [
       "Yes",
@@ -1664,7 +1664,7 @@
     "nom_orig": "Maniac",
     "texte_orig": "Here,[SP]I'll[SP]give[SP]you[SP]this[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0004]Frei[SP]Card[E4][NULL][NULL][0002][SP]to[SP]show[SP]how\ngrateful[SP]I[SP]am.[SP]It's[SP]part[SP]of[SP]my[SP]collection.",
     "nom_fr": "Fan obsédé",
-    "texte_fr": "Je vous donne cette [E4][NULL][NULL][0004][NULL][NULL][0004]Carte Frei[E4][NULL][NULL][0002] en\nremerciement. Elle fait partie de ma\ncollection.[U+1433]"
+    "texte_fr": "Je vous donne cette [E4][NULL][NULL][0004][NULL][NULL][0004]Carte Frei[E4][NULL][NULL][0002] en\nremerciement. Elle fait partie de ma\ncollection.[1433]"
   },
   {
     "id": 105,
@@ -1694,7 +1694,7 @@
     "nom_orig": "Maniac",
     "texte_orig": "Hehahahahaha![SP]So[SP]this[SP]is[SP]her...[1205][000F][SP]Wow,[SP]this[SP]is\nsuch[SP]a[SP]rarity![SP]Hehaha...[1205][000F][SP]I'm[SP]gonna[SP]take[SP]it[SP]home\nand[SP]put[SP]it[SP]on[SP]the[SP]wall[SP]right[SP]now!",
     "nom_fr": "Fan obsédé",
-    "texte_fr": "Hehahahahaha! [1205][1205][000F][000F]C'est donc elle...\nQuelle rareté! Hehaha... Je rentre\nmaintenant et l'accroche au mur!"
+    "texte_fr": "Hehahahahaha! [1205][000F]C'est donc elle...\nQuelle rareté! Hehaha... Je rentre\nmaintenant et l'accroche au mur!"
   },
   {
     "id": 107,
@@ -1724,7 +1724,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Patronne",
-    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]OuiNon",
+    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui\nNon",
     "question_orig": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?",
     "choix_orig": [
       "Yes",
@@ -1869,7 +1869,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Once[SP]you've[SP]had[SP]a[SP]meal,[SP]you[SP]can't[SP]dine[SP]in\nagain[SP]until[SP]the[SP]effect[SP]wears[SP]off.[SP]Pretty\nsimple,[SP]really.",
     "nom_fr": "Patronne",
-    "texte_fr": "Une fois mangé, tu\nne peux pas remanger avant\nla fin de l'effet. Simple comme bonjour."
+    "texte_fr": "Une fois mangé, tu\nne peux pas remanger avant la\nfin de l'effet. Simple comme bonjour."
   },
   {
     "id": 118,
@@ -1884,7 +1884,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Patronne",
-    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]OuiNon",
+    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui\nNon",
     "question_orig": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?",
     "choix_orig": [
       "Yes",
@@ -1909,7 +1909,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?\n[1208][0002]Yes\nNo",
     "nom_fr": "Patronne",
-    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]OuiNon",
+    "texte_fr": "Ça fait [120E][NULL] yens.\nÇa vous va?\n[1208][0002]Oui\nNon",
     "question_orig": "Comes[SP]to[SP][120E][NULL][SP]yen.\nThat[SP]okay[SP]with[SP]you?",
     "choix_orig": [
       "Yes",
