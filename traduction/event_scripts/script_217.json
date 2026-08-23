@@ -12,7 +12,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]You're[SP]still[SP]here,[SP]you[SP]old[SP]hag!?\nYou[SP]need[SP]to[SP]get[SP]out[SP]already![SP]There[SP]are\nbombs[SP]all[SP]over[SP]the[SP]place!",
     "nom_fr": "Ginko",
-    "texte_fr": "Aiyah! T'es encore là,\nvieille peau!? Il faut sortir\nd'ici! Il y a des bombes partout!"
+    "texte_fr": "Aiyah! T'es encore là, vieille peau!? Il\nfaut sortir d'ici! Il y a des bombes partout!"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Manager",
     "texte_orig": "O-Old[SP]bomb!?[SP]I[SP]mean,[SP]bombs!?[SP]I-I[SP]need[SP]to\nexplode[SP]before[SP]they[SP]get[SP]out![SP]I[SP]mean,[SP]get[SP]out\nbefore[SP]they[SP]explode!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nShe[SP]seemed[SP]pretty[SP]shook[SP]up...[1205][001E][SP]C'mon,[SP]let's\nhurry[SP]and[SP]find[SP]that[SP]riddle[SP]thing[SP]so[SP]we[SP]can\ngrab[SP]our[SP]asses[SP]and[SP]run!",
     "nom_fr": "Manager",
-    "texte_fr": "V-Vieilles bombes!? Enfin,\nsortir d'ici avant\nl'explosion![E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nElle était secouée...[1205][001E] Allez,\nvite, trouvons l'énigme et filons!"
+    "texte_fr": "V-Vieilles bombes!? Enfin, sortir d'ici avant\nl'explosion![E1][E2] [E3][E4][NULL][NULL]\"Maya Elle était secouée...[1205][001E]\nAllez, vite, trouvons l'énigme et filons!"
   },
   {
     "id": 2,
@@ -87,7 +87,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Oh?[SP]You[SP]found[SP]it![SP]Alright,[SP]you[SP]win[SP]this[SP]round,\nlet's[SP]just[SP]get[SP]the[SP]hell[SP]outta[SP]here!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Oh? Tu l'as trouvé! Tu gagnes ce\nround. Fichons le camp d'ici!"
+    "texte_fr": "Oh? Tu l'as trouvé! Tu gagnes\nce round. Fichons le camp d'ici!"
   },
   {
     "id": 6,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Wow,[SP]you[SP]found[SP]it!?[SP]That's[SP]our[SP][1113]-kun!\nGood[SP]job![SP]Now[SP]c'mon,[SP]let's[SP]scram!",
     "nom_fr": "Maya",
-    "texte_fr": "Wow, tu l'as trouvé!? Bien joué\n[1113]-kun! Allez, on se tire!"
+    "texte_fr": "Wow, tu l'as trouvé!? Bien\njoué [1113]-kun! Allez, on se tire!"
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Who[SP]would[SP]wear[SP]lingerie[SP]like[SP]this!?[SP]Yeah,[SP]I'm\nnot[SP]finding[SP]anything[SP]over[SP]here,[SP]Maya-san!\nAny[SP]luck,[SP]Eikichi?",
     "nom_fr": "Yukino",
-    "texte_fr": "Qui porterait ces dessous!? Rien ici\nnon plus, Maya! Et toi, Eikichi?"
+    "texte_fr": "Qui porterait ces dessous!? Rien\nici non plus, Maya! Et toi, Eikichi?"
   },
   {
     "id": 9,
@@ -147,6 +147,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "You[SP]found[SP]it!?[SP]Good[SP]going,[SP][1113]!\nNow[SP]let's[SP]leave[SP]already!",
     "nom_fr": "",
-    "texte_fr": "Tu l'as trouvé !? Bien joué, [1113] !\nMaintenant on dégage d'ici !"
+    "texte_fr": "Tu l'as trouvé !? Bien joué, [1113]\n! Maintenant on dégage d'ici !"
   }
 ]

@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hmm,[SP]just[SP]what[SP]I[SP]expected[SP]from[SP]a[SP]pro[SP]cameraman.\nHe[SP]wants[SP]me[SP]to[SP]model[SP]for[SP]him![SP]And[SP]I[SP]mean,[SP]who\nwouldn't?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hmm, je m'y attendais d'un\ncaméraman. Il veut que je pose pour\nlui! Faut dire, qui ne voudrait pas?"
+    "texte_fr": "Hmm, je m'y attendais d'un caméraman.\nIl veut que je pose pour lui!\nFaut dire, qui ne voudrait pas?"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "These[SP]rumors[SP]are[SP]getting[SP]more[SP]and[SP]more[SP]out[SP]of\ncontrols...[SP]The[SP][1432][NULL][NULL][0014]five[SP]young[SP]suspects[1432][NULL][NULL][0014][SP]have[SP]been\nupgraded[SP]to[SP]the[SP][1432][NULL][NULL][0014]five[SP]terrorists[1432][NULL][NULL][0014]!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ces rumeurs deviennent de plus en plus hors\nde contrôle... Les [1432][NULL][NULL][0014]cinq jeunes suspects[1432][NULL][NULL][0014]\nsont devenus les [1432][NULL][NULL][0014]cinq terroristes[1432][NULL][NULL][0014]!"
+    "texte_fr": "Ces rumeurs deviennent de plus en plus\nhors de contrôle... Les [1432][NULL][NULL][0014]cinq jeunes\nsuspects[1432][NULL][NULL][0014] sont devenus les [1432][NULL][NULL][0014]cinq terroristes[1432][NULL][NULL][0014]!"
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "If[SP]only[SP]they[SP]hadn't[SP]published[SP]that[SP]book,[SP]this\nwould[SP]all[SP]be[SP]a[SP]lot[SP]simpler![SP]It's[SP]too[SP]much...",
     "nom_fr": "Eikichi",
-    "texte_fr": "S'ils n'avaient pas publié ce livre, tout\naurait été beaucoup plus simple! C'est\nabusé..."
+    "texte_fr": "S'ils n'avaient pas publié ce\nlivre, tout aurait été beaucoup\nplus simple! C'est abusé..."
   },
   {
     "id": 4,
@@ -72,7 +72,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "H-Hey,[SP]Yukino-san...[SP]What's[SP]up?[SP]Your[SP]whole[SP]face\nis[SP]beet-red.",
     "nom_fr": "Eikichi",
-    "texte_fr": "H-Hé, Yukino... Ça va? Ton\nvisage est tout rouge."
+    "texte_fr": "H-Hé, Yukino... Ça va?\nTon visage est tout rouge."
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Ohhhhhohoh...[1205][000F][SP]I[SP]get[SP]it...[SP]I[SP]think[SP]Yukino-san\nhas[SP]a[SP]thing[SP]for[SP]that[SP]Fujii[SP]guy.",
     "nom_fr": "Ginko",
-    "texte_fr": "Ohhhhhohoh.[1205][000F].. Je vois... Je crois que\nYukino en pince pour ce gars, Fujii."
+    "texte_fr": "Ohhhhhohoh...[1205][000F] Je vois... Je crois que\nYukino en pince pour ce gars, Fujii."
   },
   {
     "id": 6,
@@ -117,7 +117,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "The[SP]people[SP]here[SP]must[SP]be[SP]really[SP]worried[SP]if\nthey're[SP]spreading[SP]rumors[SP]of[SP]the[SP]Last[SP]Battalion.",
     "nom_fr": "Ginko",
-    "texte_fr": "Ces gens doivent être inquiets s'ils\ncommencent à répandre des rumeurs sur le\nBataillon."
+    "texte_fr": "Ces gens doivent être inquiets\ns'ils commencent à répandre\ndes rumeurs sur le Bataillon."
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Everyone[SP]at[SP]Kismet's[SP]running[SP]around[SP]like[SP]a\nchicken[SP]with[SP]its[SP]head[SP]cut[SP]off...[SP]Did[SP]something\nelse[SP]happen?",
     "nom_fr": "Ginko",
-    "texte_fr": "Tout le monde à Kismet court partout\ncomme des poulets sans tête... Il\ns'est passé quelque chose?"
+    "texte_fr": "Tout le monde à Kismet court partout\ncomme des poulets sans tête...\nIl s'est passé quelque chose?"
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Maybe[SP]if[SP]we[SP]ask[SP]someone[SP]here,[SP]we[SP]can[SP]find[SP]out\nwho[SP]brought[SP]the[SP]In[SP]Lak'ech[SP]here[SP]to[SP]begin[SP]with.",
     "nom_fr": "Ginko",
-    "texte_fr": "En demandant à\nquelqu'un, on pourrait trouver qui\na amené l'In Lak'Ech ici en premier lieu."
+    "texte_fr": "En demandant à quelqu'un, on\npourrait trouver qui a amené\nl'In Lak'Ech ici en premier lieu."
   },
   {
     "id": 10,
@@ -237,7 +237,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I'm[SP]sorry,[SP][1113]...[1205][000F][SP]I...[SP]would[SP]rather[SP]not\nstay[SP]here...[1205][000F][SP]Too[SP]many[SP]memories[SP]of[SP]Yukki[SP]and\nFujii-san...",
     "nom_fr": "Maya",
-    "texte_fr": "Désolée, [1113].[1205][000F].[000F]. Je... ne veux\npas rester ici... J'ai trop de\nsouvenirs de Yukki et Fujii ici..."
+    "texte_fr": "Désolée, [1113].[1205][000F].. Je... ne veux\npas rester ici... J'ai trop de\nsouvenirs de Yukki et Fujii ici..."
   },
   {
     "id": 16,
@@ -267,7 +267,7 @@
     "nom_orig": "Maya",
     "texte_orig": "This[SP]is[SP]Kismet,[SP]where[SP]I[SP]work.[SP]They[SP]publish\nCoolest[SP]here.[SP]Pretty[SP]awesome[SP]place,[SP]huh?",
     "nom_fr": "Maya",
-    "texte_fr": "Voici Kismet, où je travaille. Coolest est\npublié ici. Génial comme endroit, non?"
+    "texte_fr": "Voici Kismet, où je travaille. Coolest\nest publié ici. Génial comme endroit, non?"
   },
   {
     "id": 18,
@@ -282,7 +282,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That[SP]guy[SP]over[SP]there[SP]is[SP]Fujii-san,[SP]a[SP]freelance\nphotographer.[SP]Yukki[SP]is[SP]his[SP]apprentice.",
     "nom_fr": "Maya",
-    "texte_fr": "L'homme juste là\nc'est Fujii, un photographe\nfreelance. Yukki est son apprentie."
+    "texte_fr": "L'homme juste là c'est Fujii, un photographe\nfreelance. Yukki est son apprentie."
   },
   {
     "id": 19,
@@ -312,7 +312,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Huh...[1205][000F][SP]Maybe[SP]that's[SP]why[SP]she[SP]always[SP]acts[SP]so\nfunny[SP]around[SP]him.[1205][000F][SP]Strange,[SP]huh?",
     "nom_fr": "Maya",
-    "texte_fr": "Hm.[1205][000F].[000F]. C'est peut-être pour ça qu'elle\nest bizarre avec lui. Étrange, non?"
+    "texte_fr": "Hm.[1205][000F].. C'est peut-être pour ça qu'elle\nest bizarre avec lui. Étrange, non?"
   },
   {
     "id": 21,
@@ -327,7 +327,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "O-Oh[SP]yeah...[1205][000F][SP]L-Lemme[SP]introduce[SP]you[SP]guys...[1205][000F]\nTh...[SP]This[SP]is[SP]my[SP]boss,[SP]Fujii-san.[1205][000F][SP]He's[SP]a\nfreetographer...[SP]I-I[SP]mean...",
     "nom_fr": "Yukino",
-    "texte_fr": "A-ah oui.[1205][000F].. J-j'fais les présentations...\nC... C'est mon boss, Fujii. Il est\nfreetographeur... J-J'veux dire..."
+    "texte_fr": "A-ah oui...[1205][000F] J-j'fais les présentations...\nC... C'est mon boss, Fujii. Il est\nfreetographeur... J-J'veux dire..."
   },
   {
     "id": 22,
@@ -342,7 +342,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Huh?[1205][000A][SP]My[SP]face[SP]is[SP]red?[1205][000F][SP]Sh-Shut[SP]up...![SP]It[SP]isn't\nreally...[SP]uh...[SP]is[SP]it...?[1205][000F][SP]Haha...[SP]Hahahahaha...",
     "nom_fr": "Yukino",
-    "texte_fr": "Hé?[1205][000A] Moi, toute rouge? [000F]F-ferme-là...! C'est\npas... heu...\npeut-être? Haha... Hahahaha..."
+    "texte_fr": "Hé?[1205][000A]Moi, toute rouge? [000F]F-ferme-là...! C'est\npas... heu... peut-être? Haha... Hahahaha..."
   },
   {
     "id": 23,
@@ -372,7 +372,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Hey,[SP]butt[SP]out,[SP][1113]![SP]I[SP]can't[SP]confess[SP]my\nfeelings[SP]with[SP]you[SP]hovering[SP]over[SP]me![SP]Uh...\nanyway...[SP]where[SP]was[SP]I...?",
     "nom_fr": "Yukino",
-    "texte_fr": "Hé, bouge, [1113]! Je peux pas\ntransmettre mes sentiments si tu me\ncolles! Hum... bref... j'en étais où...?"
+    "texte_fr": "Hé, bouge, [1113]! Je peux pas transmettre\nmes sentiments si tu me colles!\nHum... bref... j'en étais où...?"
   },
   {
     "id": 25,
@@ -387,7 +387,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "The[SP]mountain...?[SP]You[SP]mean[SP]the[SP]one[SP]you[SP]always\ngo[SP]to?[SP]Uh...[1205][001E][SP]Things[SP]are[SP]pretty[SP]bad[SP]around[SP]town\nright[SP]now.[SP]I[SP]think[SP]you[SP]should[SP]hold[SP]off...",
     "nom_fr": "Yukino",
-    "texte_fr": "La montagne...? Tu parles\nde celle où tu vas\nsouvent? Heu...[1205][001E] Ça craint beaucoup autour \nde Sumaru là. Tu\ndevrais éviter, je pense..."
+    "texte_fr": "La montagne...? Tu parles de celle où tu vas\nsouvent? Heu...[1205][001E] Ça craint beaucoup autour\nde Sumaru là. Tu devrais éviter, je pense..."
   },
   {
     "id": 26,
@@ -402,7 +402,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "*sigh*[1205][001E][SP]Hey,[SP][1113],[SP]could[SP]you[SP]help[SP]me[SP]argue\nmy[SP]case[SP]here?[1205]([SP]I[SP]just[SP]don't[SP]think[SP]Fujii-san\nshould[SP]go[SP]right[SP]now...",
     "nom_fr": "Yukino",
-    "texte_fr": "*soupir*[1205][001E] Hé, [1113], tu pourrais[1205][001E]\nm'épauler un peu là? Je pense vraiment\npas que Fujii devrait y aller..."
+    "texte_fr": "*soupir*[1205][001E] Hé, [1113], tu pourrais[1205][001E] m'épauler\nun peu là? Je pense vraiment\npas que Fujii devrait y aller..."
   },
   {
     "id": 27,
@@ -432,7 +432,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Dammit...![SP]If[SP]I'd[SP]known[SP]this[SP]would[SP]happen,\nI'd[SP]never[SP]have[SP]let[SP]him[SP]go...[SP]Come[SP]on,[SP][1113]!\nWe[SP]gotta[SP]get[SP]to[SP]Mt.[SP]Katatsumuri!",
     "nom_fr": "Yukino",
-    "texte_fr": "'Chier...! Si j'avais su ce qui arriverait,\nje l'aurais jamais laissé partir... Allez\n[1113]! On va au Mont Katatsumuri!"
+    "texte_fr": "'Chier...! Si j'avais su ce qui arriverait,\nje l'aurais jamais laissé partir...\nAllez [1113]! On va au Mont Katatsumuri!"
   },
   {
     "id": 29,
@@ -447,7 +447,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]have[SP]so[SP]many[SP]memories[SP]of[SP]Shunsuke-san[SP]here...[1205][000F]\nHe[SP]lives[SP]on[SP]in[SP]my[SP]heart[SP]in[SP]all[SP]of[SP]them...[1205][000F]\nThanks,[SP][1113].[SP]I've[SP]made[SP]up[SP]my[SP]mind.",
     "nom_fr": "Yukino",
-    "texte_fr": "J'ai tant de souvenirs de Shunsuke ici.[1205].[000F].\nDans chacun d'eux, il vit dans mon coeur...\nMerci, [1113]. J'ai pris ma décision."
+    "texte_fr": "J'ai tant de souvenirs de Shunsuke\nici...[1205][000F] Dans chacun d'eux, il vit dans mon\ncoeur... Merci, [1113]. J'ai pris ma décision."
   },
   {
     "id": 30,
@@ -477,7 +477,7 @@
     "nom_orig": "Receptionist",
     "texte_orig": "I'm[SP]sorry,[SP]but[SP]only[SP]employees[SP]are[SP]allowed\npast[SP]this[SP]point.[SP]You'll[SP]have[SP]to[SP]stay[SP]here.",
     "nom_fr": "Réception",
-    "texte_fr": "Excusez-moi, mais seuls\nles employés peuvent\naller par là. Vous devrez rester ici."
+    "texte_fr": "Excusez-moi, mais seuls les employés peuvent\naller par là. Vous devrez rester ici."
   },
   {
     "id": 32,
@@ -492,7 +492,7 @@
     "nom_orig": "Journalist",
     "texte_orig": "Do[SP]you[SP]guys[SP]know[SP]anything[SP]about[SP]the[SP]Masked\nCircle?[SP]They[SP]sound[SP]like[SP]some[SP]evil[SP]cult!\nThough[SP]we[SP]only[SP]know[SP]their[SP]name[SP]so[SP]far...",
     "nom_fr": "Journaliste",
-    "texte_fr": "Savez-vous des choses sur le Cercle Masqué?\nOn dirait un culte maléfique! Enfin, on\nconnaît que leur nom actuellement..."
+    "texte_fr": "Savez-vous des choses sur le Cercle Masqué?\nOn dirait un culte maléfique! Enfin,\non connaît que leur nom actuellement..."
   },
   {
     "id": 33,
@@ -522,7 +522,7 @@
     "nom_orig": "Journalist",
     "texte_orig": "I[SP]heard[SP]this[SP]incident[SP]is[SP]all[SP]that[SP]so-called\nMasked[SP]Circle's[SP]fault.",
     "nom_fr": "Journaliste",
-    "texte_fr": "J'ai entendu que cet incident est\nla faute de ce Cercle Masqué."
+    "texte_fr": "J'ai entendu que cet incident\nest la faute de ce Cercle Masqué."
   },
   {
     "id": 35,
@@ -552,7 +552,7 @@
     "nom_orig": "Journalist",
     "texte_orig": "But[SP]I[SP]also[SP]got[SP]a[SP]tip[SP]that[SP]there[SP]are[SP]five\nyouths[SP]at[SP]the[SP]bottom[SP]of[SP]this...[SP]Maybe[SP]that's\nworth[SP]checking[SP]out.",
     "nom_fr": "Journaliste",
-    "texte_fr": "Mais j'ai une info comme quoi cinq\njeunes sont derrière tout ça... Ça\npeut valoir le coup de creuser."
+    "texte_fr": "Mais j'ai une info comme quoi cinq\njeunes sont derrière tout ça...\nÇa peut valoir le coup de creuser."
   },
   {
     "id": 37,
@@ -597,7 +597,7 @@
     "nom_orig": "Journalist",
     "texte_orig": "We[SP]actually[SP]received[SP]a[SP]great[SP]submission[SP]from\nthe[SP]public.[SP]We're[SP]publishing[SP]it[SP]right[SP]away.\nIt's[SP]keeping[SP]me[SP]busy,[SP]I'll[SP]tell[SP]you[SP]that!",
     "nom_fr": "Journaliste",
-    "texte_fr": "On vient de nous\nproposer un super manuscrit venu\ndu public. On commence déjà à le publier. Ça m'occupe bien, je peux le dire!"
+    "texte_fr": "On vient de nous proposer un super manuscrit\nvenu du public. On commence déjà à le\npublier. Ça m'occupe bien, je peux le dire!"
   },
   {
     "id": 40,
@@ -702,7 +702,7 @@
     "nom_orig": "Fujii",
     "texte_orig": "When[SP]you're[SP]young,[SP]a[SP]relationship[SP]between[SP]a[SP]man\nand[SP]a[SP]woman[SP]tends[SP]toward[SP]romance...[SP]But[SP]that's\nnot[SP]the[SP]only[SP]possibility.",
     "nom_fr": "Fujii",
-    "texte_fr": "Quand on est\njeune, les relations homme-femme peuvent\ntendre vers la romance... Mais ce n'est pas la seule possibilité."
+    "texte_fr": "Quand on est jeune, les relations homme-femme\npeuvent tendre vers la romance... Mais\nce n'est pas la seule possibilité."
   },
   {
     "id": 47,
@@ -777,7 +777,7 @@
     "nom_orig": "Fujii",
     "texte_orig": "It[SP]doesn't[SP]seem[SP]like[SP]they're[SP]making[SP]any[SP]headway\non[SP]the[SP]case,[SP]but[SP]I[SP]think[SP]the[SP]mountain's[SP]safe.\nUnless[SP]they're[SP]on[SP]a[SP]treasure[SP]hunt[SP]or[SP]something.",
     "nom_fr": "Fujii",
-    "texte_fr": "Ils n'ont pas l'air\nde beaucoup avancer dans l'affaire,\nmais la montagne doit être sûre. Sauf s'ils font une chasse au trésor ou autre."
+    "texte_fr": "Ils n'ont pas l'air de beaucoup\navancer dans l'affaire, mais la\nmontagne doit être sûre. Sauf s'ils\nfont une chasse au trésor ou autre."
   },
   {
     "id": 52,
@@ -822,6 +822,6 @@
     "nom_orig": "Fujii",
     "texte_orig": "You're[SP]as[SP]handsome[SP]as[SP]they[SP]said.[SP]I[SP]wonder[SP]if\nyou[SP]might[SP]be[SP]a[SP]subject[SP]for[SP]me?[SP]If[SP]you[SP]want[SP]to,\nthat[SP]is.",
     "nom_fr": "",
-    "texte_fr": "Tu es aussi beau qu'on le dit.\nJe me demande si tu accepterais\nd'être mon modèle ? Si tu veux, bien sûr."
+    "texte_fr": "Tu es aussi beau qu'on le dit. Je\nme demande si tu accepterais d'être\nmon modèle ? Si tu veux, bien sûr."
   }
 ]

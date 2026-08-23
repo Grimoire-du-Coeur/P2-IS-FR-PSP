@@ -27,7 +27,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Yeah![1205][000F][SP]His[SP]son[SP]must[SP]have[SP]been[SP]one[SP]of[SP]the[SP]kids\nwe[SP]taught[SP]the[SP]Persona[SP]game[SP]to.",
     "nom_fr": "Ginko",
-    "texte_fr": "Ouais! [1205][000F]Il est parmi les gamins à\nqui on a appris le Jeu du Persona."
+    "texte_fr": "Ouais! [1205]Il est parmi les gamins à\nqui on a appris le Jeu du Persona."
   },
   {
     "id": 2,
@@ -72,7 +72,7 @@
     "nom_orig": "Middle-aged[SP]man",
     "texte_orig": "My[SP]kid[SP]said[SP]he[SP]saw[SP]the[SP]heroes[SP]again.[1205][000F][SP]He[SP]was\nbouncing[SP]up[SP]and[SP]down[SP]about[SP]them[SP]teaching[SP]him\nsome[SP]game.",
     "nom_fr": "Homme d'âge mûr",
-    "texte_fr": "Mon fils dit qu'il a\nrevu les héros. [1205][000F]Il était aux\nanges parce qu'ils lui ont appris un jeu."
+    "texte_fr": "Mon fils dit qu'il a revu les\nhéros. [1205]Il était aux anges parce\nqu'ils lui ont appris un jeu."
   },
   {
     "id": 5,
@@ -132,7 +132,7 @@
     "nom_orig": "Fortunetelling[SP]fangirl",
     "texte_orig": "I[SP]heard[SP]when[SP]we[SP]evolve,[SP]we'll[SP]know[SP]our[SP]purpose\nin[SP]life,[SP]so[SP]I[SP]was[SP]thinking[SP]a[SP]lot[SP]about[SP]that.[1205][000F]\nI[SP]never[SP]thought[SP]about[SP]it[SP]before...",
     "nom_fr": "Fan de voyance",
-    "texte_fr": "J'ai entendu qu'en évoluant, on connaîtra\nnotre but dans la vie,\nalors j'y ai beaucoup [1205][000F] réfléchi. [000F]Je n'y avais jamais pensé avant..."
+    "texte_fr": "J'ai entendu qu'en évoluant, on connaîtra\nnotre but dans la vie, alors j'y ai beaucoup\n[1205][000F] réfléchi. [000F]Je n'y avais jamais pensé avant..."
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
     "nom_orig": "Fortunetelling[SP]fangirl",
     "texte_orig": "I[SP]didn't[SP]quite[SP]get[SP]there,[SP]but[SP]I[SP]finally[SP]found\nmyself...[1205][000F][SP]It's[SP]hard[SP]to[SP]explain,[SP]but[SP]I[SP]feel[SP]like\nI[SP]finally[SP]found[SP]the[SP]real[SP]me,[SP]with[SP]no[SP]facade.",
     "nom_fr": "Fan de voyance",
-    "texte_fr": "Je n'y suis pas tout à fait arrivée,[1205][000F]\nmais j'ai fini par me trouver moi-même...\nême... C'est dur à expliquer, maisje sens que j'ai trouvé le vrai moi."
+    "texte_fr": "Je n'y suis pas tout à fait arrivée,[1205][000F]\nmais j'ai fini par me trouver moi-même...\nême... C'est dur à expliquer, maisje\nsens que j'ai trouvé le vrai moi."
   },
   {
     "id": 10,
@@ -206,7 +206,7 @@
     "nom_orig": "Sister[SP]#2",
     "texte_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Sœur n°2",
-    "texte_fr": "Alors, que veux-tu vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Alors, que veux-tu vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -291,7 +291,7 @@
     "nom_orig": "Sister[SP]#2",
     "texte_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Sœur n°2",
-    "texte_fr": "Alors, tu vends quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Alors, tu vends quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -347,7 +347,7 @@
     "nom_orig": "Sister[SP]#2",
     "texte_orig": "Heeheehee...[1205][000A][SP]I'm[SP]not[SP]surprised[SP]my[SP]sister[SP]has\nchanged[SP]her[SP]plans[SP]from[SP]taking[SP]over[SP]Japan[SP]to\ntaking[SP]over[SP]Xibalba.[SP]She's[SP]flexible!",
     "nom_fr": "Sœur n°2",
-    "texte_fr": "Héhéhé...[1205][000A] Ça m'étonne pas que ma sœur ait\nchangé ses plans de conquête du Japon en\nconquête de Xibalba. Elle s'adapte!"
+    "texte_fr": "Héhéhé...[1205][000A]Ça m'étonne pas que ma sœur ait changé\nses plans de conquête du Japon en\nconquête de Xibalba. Elle s'adapte!"
   },
   {
     "id": 18,
@@ -492,7 +492,7 @@
     "nom_orig": "Sister[SP]#2",
     "texte_orig": "Our[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.",
     "nom_fr": "Sœur n°2",
-    "texte_fr": "Nos prix de rachat\nsont environ la moitié du prix\nd'origine. Vous ne pouvez pas vendre ce que vous portez, ni certains objets spéciaux."
+    "texte_fr": "Nos prix de rachat sont environ la moitié du\nprix d'origine. Vous ne pouvez pas vendre ce\nque vous portez, ni certains objets spéciaux."
   },
   {
     "id": 27,

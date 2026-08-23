@@ -12,7 +12,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It[SP]didn't[SP]work[SP]after[SP]all...[1205][001E][SP]What's[SP]the\npattern[SP]to[SP]all[SP]this...?",
     "nom_fr": "Maya",
-    "texte_fr": "Ça n'a pas marché...[1205][001E] Qu'est-ce\nque ça veut dire...?"
+    "texte_fr": "Ça n'a pas marché...[1205][001E]\nQu'est-ce que ça veut dire...?"
   },
   {
     "id": 1,
@@ -72,7 +72,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]think[SP]you're[SP]right...[1205][001E][SP]It's[SP]not[SP]good[SP]to[SP]keep\nhiding[SP]it.[SP]Alright,[SP]I'll[SP]take[SP]the[SP]plunge[SP]and\nspill[SP]the[SP]beans,[SP]but...",
     "nom_fr": "Maya",
-    "texte_fr": "Vous avez raison...[1205][001E] Ça ne mène à rien de le\ncacher... Je vais cracher\nle morceau, mais..."
+    "texte_fr": "Vous avez raison...[1205][001E] Ça ne mène à rien de le\ncacher... Je vais cracher le morceau, mais..."
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Jun,[SP][1113],[SP]Ginko[SP]&[SP]Eikichi",
     "texte_orig": "Whaaaaat!?[SP]Our[SP]thoughts[SP]are[SP]becoming[SP]reality!?",
     "nom_fr": "Jun, [1113], Ginko & Eikichi",
-    "texte_fr": "Quoiiiiiii!? Ce qu'on\npense devient réalité!?"
+    "texte_fr": "Quoiiiiiii!? Ce qu'on pense devient réalité!?"
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Whoa,[SP]whoa![SP]Before[SP]you[SP]lock[SP]me[SP]in[SP]the\nnuthouse,[SP]think[SP]back[SP]on[SP]everything[SP]that's\nhappened[SP]so[SP]far.",
     "nom_fr": "Maya",
-    "texte_fr": "Hé, hé! Avant de\nme mettre à l'asile, repensez à\ntout ce qui s'est passé jusqu'à présent."
+    "texte_fr": "Hé, hé! Avant de me mettre à\nl'asile, repensez à tout ce qui\ns'est passé jusqu'à présent."
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Jun",
     "texte_orig": "True...[1205][001E][SP]There[SP]were[SP]those[SP]traps[SP]and[SP]the[SP]incident\nwith[SP]the[SP]healing[SP]spring...[1205][001E][SP]But[SP]why...?",
     "nom_fr": "Jun",
-    "texte_fr": "Pas faux...[1205][001E] Il y avait ces pièges, et\nl'incident avec la\nsource...[1205][001E] Mais pourquoi...?"
+    "texte_fr": "Pas faux...[1205][001E] Il y avait ces\npièges, et l'incident avec la\nsource...[1205][001E] Mais pourquoi...?"
   },
   {
     "id": 8,
@@ -296,7 +296,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That's[SP]the[SP]thing...[1205][001E][SP]I've[SP]been[SP]experimenting,\nbut[SP]I[SP]just[SP]can't[SP]figure[SP]out[SP]the[SP]pattern\nbehind[SP]it.",
     "nom_fr": "Maya",
-    "texte_fr": "C'est ça, le\nproblème...[1205][001E] J'expérimentais, mais je\nn'arrive pas à comprendre ce que c'est."
+    "texte_fr": "C'est ça, le problème...[1205][001E]\nJ'expérimentais, mais je n'arrive\npas à comprendre ce que c'est."
   },
   {
     "id": 19,
@@ -311,7 +311,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Everyone[SP]sharing[SP]one[SP]thought[SP]hasn't[SP]done[SP]the\ntrick,[SP]and[SP]it's[SP]not[SP]just[SP]one[SP]strong[SP]belief...[1205][001E]\nMaybe[SP]there's[SP]an[SP]outside[SP]force[SP]at[SP]work.",
     "nom_fr": "Maya",
-    "texte_fr": "Une idée partagée ne suffit pas, ce\nn'est pas qu'une croyance...[1205][001E] Peut-être\nqu'une force extérieure agit."
+    "texte_fr": "Une idée partagée ne suffit pas,\nce n'est pas qu'une croyance...[1205][001E]\nPeut-être qu'une force extérieure agit."
   },
   {
     "id": 20,
@@ -356,7 +356,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Still...[1205][001E][SP]We[SP]can't[SP]rule[SP]out[SP]the[SP]possibility\nthat[SP]he's[SP]just[SP]toying[SP]with[SP]us...",
     "nom_fr": "Maya",
-    "texte_fr": "Et...[1205][001E] On ne peut pas éliminer la possibilité\nqu'il joue juste avec nous..."
+    "texte_fr": "Et...[1205][001E] On ne peut pas éliminer la\npossibilité qu'il joue juste avec nous..."
   },
   {
     "id": 23,
@@ -371,7 +371,7 @@
     "nom_orig": "Jun,[SP][1113],[SP]Ginko[SP]&[SP]Eikichi",
     "texte_orig": "Hmm...[1205][000F][SP]A[SP]can[SP]of[SP]crabmeat...",
     "nom_fr": "Jun, [1113], Ginko & Eikichi",
-    "texte_fr": "Hm.[1205].[000F]. Une boîte de crabe..."
+    "texte_fr": "Hm...[1205][000F] Une boîte de crabe..."
   },
   {
     "id": 24,
@@ -386,7 +386,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Well,[SP]no[SP]use[SP]driving[SP]ourselves[SP]nuts[SP]over[SP]what\nwe[SP]can't[SP]figure[SP]out![SP]Just[SP]try[SP]not[SP]to[SP]think[SP]of\nanything...[1205][001E][SP]Especially[SP]anything[SP]scary.",
     "nom_fr": "Maya",
-    "texte_fr": "Bien, inutile d'essayer\nde comprendre ce qui nous\néchappe! Simplement, essayez de ne penser à rien...[1205][001E] Surtout\nà rien d'effrayant."
+    "texte_fr": "Bien, inutile d'essayer de comprendre ce\nqui nous échappe! Simplement, essayez de ne\npenser à rien...[1205][001E] Surtout à rien d'effrayant."
   },
   {
     "id": 25,

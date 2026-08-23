@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Sturdy[SP]ropes[SP]and[SP]candles...[1205][001E][SP]A[SP]man[SP]and\na[SP]woman...[1205][001E][SP]N-No,[SP]there's[SP]probably[SP]a[SP]perfectly\ngood[SP]explanation.[SP]There's[SP]gotta[SP]be!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Cordes solides et bougies...[1205][001E] Un homme\net une femme...[1205][001E] N-Non, il y a sûrement une\ntrès bonne explication. Il le faut!"
+    "texte_fr": "Cordes solides et bougies...[1205][001E] Un homme\net une femme...[1205][001E] N-Non, il y a sûrement\nune très bonne explication. Il le faut!"
   },
   {
     "id": 2,
@@ -72,7 +72,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "You[SP]can't[SP]spell[SP][1432][NULL][NULL][0014]romantic[1432][NULL][NULL][0014][SP]without[SP][1432][NULL][NULL][0014]man[1432][NULL][NULL][0014]!\n[1113][SP]and[SP]I[SP]know[SP]what's[SP]up.[SP]I[SP]won't[SP]tell\nanyone[SP]what's[SP]in[SP]the[SP]box,[SP]so[SP]rest[SP]easy!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pas de [1432][NULL][NULL][0014]romantisme[1432][NULL][NULL][0014] sans [1432][NULL][NULL][0014]homme[1432][NULL][NULL][0014]!\n[1113]et moi on a pigé. Je dirai\nrien sur la boîte, sois tranquille!"
+    "texte_fr": "Pas de [1432][NULL][NULL][0014]romantisme[1432][NULL][NULL][0014] sans [1432][NULL][NULL][0014]homme[1432][NULL][NULL][0014]!\n[1113]et moi on a pigé. Je dirai rien\nsur la boîte, sois tranquille!"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Gwuh!?[1205][001E][SP]This[SP]is[SP]a[SP]poster[SP]of[SP]Sayuri[SP]Yoshikawa...[1205][001E]\nGramps[SP]here[SP]has[SP]the[SP]same[SP]taste[SP]in[SP]women[SP]as\nmy[SP]pervy[SP]old[SP]man...",
     "nom_fr": "Lisa",
-    "texte_fr": "Hein!?[1205][001E] Un poster\nde Sayuri Yoshikawa...[1205][001E] Pépé a\nles mêmes goûts que mon père pervers..."
+    "texte_fr": "Hein!?[1205][001E] Un poster de Sayuri Yoshikawa...[1205][001E] Pépé\na les mêmes goûts que mon père pervers..."
   },
   {
     "id": 6,
@@ -177,7 +177,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Well,[SP]now[SP]we[SP]can[SP]get[SP]into[SP]the[SP]clock[SP]tower.[1205][001E]\nQuestion[SP]is,[SP]what's[SP]that[SP]principal[SP]going[SP]to[SP]do\nnext?[1205][001E][SP]We[SP]should[SP]be[SP]careful,[SP][1113]-kun.",
     "nom_fr": "Maya",
-    "texte_fr": "Bien, on peut entrer dans la tour de\nl'horloge.[1205][001E] La question c'est, que va faire\nce dirlo ensuite?[1205][001E] Prudence, [1113]-kun."
+    "texte_fr": "Bien, on peut entrer dans la tour de\nl'horloge.[1205][001E] La question c'est, que va\nfaire ce dirlo ensuite?[1205][001E] Prudence, [1113]-kun."
   },
   {
     "id": 12,
@@ -252,7 +252,7 @@
     "nom_orig": "Caretaker",
     "texte_orig": "Hohoho,[SP]do[SP]you[SP]need[SP]Granpa[SP]for[SP]something?\nHe[SP]left.[SP]Said[SP]something[SP]about[SP]the[SP]big[SP]clock.",
     "nom_fr": "Infirmière",
-    "texte_fr": "Hohoho, besoin de pépé pour un truc? Il est\nparti. Il a parlé de la grande horloge."
+    "texte_fr": "Hohoho, besoin de pépé pour un truc? Il\nest parti. Il a parlé de la grande horloge."
   },
   {
     "id": 17,
@@ -307,7 +307,7 @@
     "nom_orig": "Caretaker",
     "texte_orig": "Hohoho...[SP]If[SP]you're[SP]looking[SP]for[SP]Granpa,[SP]he's\nnot[SP]back[SP]yet.[SP]I[SP]hope[SP]he[SP]didn't[SP]collapse\nsomewhere...",
     "nom_fr": "Infirmière",
-    "texte_fr": "Hohoho... Pépé n'est pas encore rentré.\nJ'espère qu'il ne s'est pas évanoui quelque\npart..."
+    "texte_fr": "Hohoho... Pépé n'est pas encore\nrentré. J'espère qu'il ne s'est\npas évanoui quelque part..."
   },
   {
     "id": 20,
@@ -432,6 +432,6 @@
     "nom_orig": "Janitor",
     "texte_orig": "Oh[SP]dear...[SP]The[SP]clock[SP]tower...[SP]It[SP]collapsed...\nWas[SP]it[SP]for[SP]the[SP]best...?[SP]I[SP]hope[SP]that[SP]teacher\ncan[SP]rest[SP]in[SP]peace[SP]now...",
     "nom_fr": "",
-    "texte_fr": "Oh là là... La tour de l'horloge...\nElle s'est effondrée... C'était pour le mieux...?\nJ'espère que cet enseignant peut reposer en paix..."
+    "texte_fr": "Oh là là... La tour de l'horloge...\nElle s'est effondrée... C'était\npour le mieux...? J'espère que cet\nenseignant peut reposer en paix..."
   }
 ]

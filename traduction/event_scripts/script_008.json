@@ -72,7 +72,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]great[SP]Michel[SP]comes[SP]all[SP]the[SP]way[SP]to\nSevens[SP]and[SP]its[SP]own[SP]principal[SP]isn't[SP]here!?\n*sigh*[1205][001E][SP]The[SP]great[SP]rock[SP]'n[SP]roll[SP]swindle!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le grand Michel se déplace jusqu'à\nSeven et son propre proviseur n'est pas\nlà!? *soupir*[1205][001E] Quelle belle arnaque!"
+    "texte_fr": "Le grand Michel se déplace jusqu'à\nSeven et son propre proviseur n'est\npas là!? *soupir*[1205][001E] Quelle belle arnaque!"
   },
   {
     "id": 5,
@@ -192,7 +192,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Kehhei![SP]Now[SP]you've[SP]crossed[SP]a[SP]line,[SP]buster!\nHow[SP]was[SP]I[SP]supposed[SP]to[SP]know[SP]at[SP]the[SP]time\nwhat[SP]would[SP]happen!?",
     "nom_fr": "Lisa",
-    "texte_fr": "HEIN!? Là t'as dépassé les bornes! Comment\nj'étais censée savoir ce qui allait se\npasser!?"
+    "texte_fr": "HEIN!? Là t'as dépassé les\nbornes! Comment j'étais censée\nsavoir ce qui allait se passer!?"
   },
   {
     "id": 13,
@@ -282,7 +282,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Fanna![SP]No[SP]you[SP]don't![SP]You're[SP]not[SP]saddling\nme[SP]with[SP]a[SP]lame[SP]nickname[SP]like[SP]that!",
     "nom_fr": "Ginko",
-    "texte_fr": "Fanna! Pas question! Tu vas\npas me coller un surnom aussi naze!"
+    "texte_fr": "Fanna! Pas question! Tu vas pas\nme coller un surnom aussi naze!"
   },
   {
     "id": 19,
@@ -297,7 +297,7 @@
     "nom_orig": "???",
     "texte_orig": "Ooh![SP]Now[SP]what[SP]have[SP]we[SP]here?[E1][E2]\n[E3][E4][NULL][NULL]\"???\nCiaaao![SP]Wait[SP]a[SP]sec...",
     "nom_fr": "???",
-    "texte_fr": "Oh! Qu'avons-nous là?[E1][E2] [E3][E4][NULL][NULL]\"???\nCiaaao! Attendez!"
+    "texte_fr": "Oh! Qu'avons-nous là?[E1][E2] [E3][E4][NULL][NULL]\"??? Ciaaao! Attendez!"
   },
   {
     "id": 20,
@@ -432,7 +432,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Gwuh!?[E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nCoolest...[SP]That's[SP]been[SP]popular[SP]lately,\nhuh?[SP]What's[SP]one[SP]of[SP]its[SP]staffers[SP]doing\nwandering[SP]around[SP]a[SP]high[SP]school?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Gueh!?[E1][E2] [E3][E4][NULL][NULL]\"Ginko\nCoolest... C'est populaire\nen ce moment, non? Qu'est-ce qu'une de\nleurs journalistes fout dans un lycée?"
+    "texte_fr": "Gueh!?[E1][E2] [E3][E4][NULL][NULL]\"Ginko Coolest... C'est populaire\nen ce moment, non? Qu'est-ce qu'une de\nleurs journalistes fout dans un lycée?"
   },
   {
     "id": 29,
@@ -462,7 +462,7 @@
     "nom_orig": "Maya",
     "texte_orig": "The[SP][1432][NULL][NULL][0014]emblem[SP]curse[1432][NULL][NULL][0014][SP]here[SP]at[SP]Sevens[SP]is[SP]the\nbest[SP]known[SP]one[SP]after[SP]the[SP][1432][NULL][NULL][0014]Joker[SP]Game,[1432][NULL][NULL][0014]\nyou[SP]know.",
     "nom_fr": "Maya",
-    "texte_fr": "La [1432][NULL][NULL][0014]malédiction de l'emblème[1432][NULL][NULL][0014] de Seven\nest quasiment aussi connue que le\n[1432][NULL][NULL][0014]Jeu du Joker[1432][NULL][NULL][0014]"
+    "texte_fr": "La [1432][NULL][NULL][0014]malédiction de l'emblème[1432][NULL][NULL][0014] de Seven est\nquasiment aussi connue que le [1432][NULL][NULL][0014]Jeu du Joker[1432][NULL][NULL][0014]"
   },
   {
     "id": 31,
@@ -477,7 +477,7 @@
     "nom_orig": "Maya",
     "texte_orig": "But[SP]it's[SP]been[SP]chaos[SP]since[SP]just[SP]after[SP]we\ngot[SP]here.[SP]No[SP]one's[SP]been[SP]willing[SP]to[SP]give\nus[SP]an[SP]interview!",
     "nom_fr": "Maya",
-    "texte_fr": "Mais c'est le chaos depuis qu'on est\narrivées. Personne ne veut nous\naccorder d'interview!"
+    "texte_fr": "Mais c'est le chaos depuis\nqu'on est arrivées. Personne ne\nveut nous accorder d'interview!"
   },
   {
     "id": 32,
@@ -552,7 +552,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "True[SP]stories,[SP]babes![SP]We're[SP]not[SP]looking\nfor[SP]Sevens'[SP]principal[SP]and[SP]we[SP]certainly\nnever[SP]got[SP]stomped[SP]by[SP]any[SP]Joker!",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est vrai! On cherche pas du tout le\nproviseur et on s'est certainement\npas fait rétamer par le Joker!"
+    "texte_fr": "C'est vrai! On cherche pas du tout\nle proviseur et on s'est certainement\npas fait rétamer par le Joker!"
   },
   {
     "id": 37,
@@ -627,6 +627,6 @@
     "nom_orig": "Demon",
     "texte_orig": "Heehee...[SP]Found[SP]jouuuuu...[SP]Jo...[SP]Joker's\norderssss...[SP]You[SP]kidsh...[SP]Kill[SP]kill[SP]kill\nkillllllllllllll!",
     "nom_fr": "",
-    "texte_fr": "Hihi... Je vous ai trouuuvés... Ordre\ndu... Joker... Ces gamins... Tuer tuer\ntuer tueeeer..."
+    "texte_fr": "Hihi... Je vous ai trouuuvés...\nOrdre du... Joker... Ces gamins...\nTuer tuer tuer tueeeer..."
   }
 ]

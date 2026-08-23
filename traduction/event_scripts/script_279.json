@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I'm[SP]officially[SP]baffled[SP]now.[SP]This[SP]looks[SP]exactly\nlike[SP]the[SP]shrine[SP]I[SP]see[SP]in[SP]my[SP]dreams.[SP]It's[SP]like\na[SP]bad[SP]case[SP]of[SP]deja[SP]vu.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je suis vraiment troublé. Ça ressemble\nexactement au sanctuaire de mes rêves.\nC'est un vrai cas de déjà-vu."
+    "texte_fr": "Je suis vraiment troublé. Ça ressemble\nexactement au sanctuaire de mes\nrêves. C'est un vrai cas de déjà-vu."
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]shrine[SP]from[SP]my[SP]dream...[1205][000F][SP]Why's[SP]it[SP]here?[1205][000F]\nOr,[SP]better[SP]question:[SP]Did[SP]I[SP]somehow[SP]know\nabout[SP]this[SP]shrine?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le sanctuaire de mon rêve.[1205][000F].. Que\nfait-il là? Ou... est-ce que je\nconnaissais déjà ce sanctuaire?"
+    "texte_fr": "Le sanctuaire de mon rêve...[1205][000F] Que\nfait-il là? Ou... est-ce que je\nconnaissais déjà ce sanctuaire?"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Haha...[1205][000A][SP]This[SP]can't[SP]be[SP]right...[1205][000F][SP]Even[SP]that[SP]old\nlady[SP]is[SP]the[SP]same[SP]person[SP]I[SP]saw[SP]in[SP]my[SP]dreams...[1205][000F]\nWh-What's[SP]happening[SP]to[SP]me?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Haha.[1205]..[1205][000A] C'est impossible.[000F].. Même cette\nvieille dame est celle que j'ai vue en\nrêve... Q-Qu'est-ce qui m'arrive?"
+    "texte_fr": "Haha.[1205]..[1205][000A]C'est impossible... Même cette\nvieille dame est celle que j'ai vue\nen rêve... Q-Qu'est-ce qui m'arrive?"
   },
   {
     "id": 4,
@@ -132,7 +132,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Fanna,[SP]no...[SP]Nuh-uh...[1205][000A][SP]I[SP]don't[SP]wanna[SP]be[SP]here.[1205][000F]\nLet's[SP]ditch[SP]this[SP]place,[SP]Chinyan...",
     "nom_fr": "Ginko",
-    "texte_fr": "Fanna, non... [1205][000A] Non non...[1205][000A] Je veux pas\n[000F]rester ici. On s'en va, Chinyan..."
+    "texte_fr": "Fanna, non...[1205][000A]Non non...[1205][000A]Je veux pas [000F]rester ici.\nOn s'en va, Chinyan..."
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Could[SP]it[SP]be...?[1205][000F][SP]But...",
     "nom_fr": "Ginko",
-    "texte_fr": "Serait-ce.[1205].[000F].? Mais..."
+    "texte_fr": "Serait-ce...[1205][000F]? Mais..."
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "......![1205][000F][SP]Oh,[SP]sorry-ia![SP]I[SP]was[SP]just[SP]talking\nto[SP]myself,[SP]haha...",
     "nom_fr": "Ginko",
-    "texte_fr": "...[1205].[000F]..! Oh, pardon-ia! Je\nparlais toute seule, haha..."
+    "texte_fr": "...[1205]...! Oh, pardon-ia! Je\nparlais toute seule, haha..."
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "A[SP]fire...[SP]ten[SP]years[SP]ago[SP]here,[SP]too...[1205][000F]\nI'm[SP]scared,[SP][1113].[SP]I[SP]don't[SP]want[SP]to\nbe[SP]here!",
     "nom_fr": "Ginko",
-    "texte_fr": "Un incendie... il y a dix ans ici.[1205].[000F]. J'ai\npeur, [1113]. Je veux pas rester ici!"
+    "texte_fr": "Un incendie... il y a dix ans ici...[1205][000F]\nJ'ai peur, [1113]. Je veux pas rester ici!"
   },
   {
     "id": 12,
@@ -207,7 +207,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Do[SP]you[SP]remember[SP]the[SP]secret[SP]base,[SP][1113]?\nThe[SP]one[SP]behind[SP]this[SP]shrine...[1205][000F][SP]Mt.[SP]Iwato...[1205][000F]\nOur[SP]secret[SP]headquarters...",
     "nom_fr": "Ginko",
-    "texte_fr": "Tu te rappelles la base secrète,\n[1113]? Derrière ce sanctuaire.[1205][000F]..\nMt. Iwato... Notre QG secret..."
+    "texte_fr": "Tu te rappelles la base secrète,\n[1113]? Derrière ce sanctuaire...[1205][000F]\nMt. Iwato... Notre QG secret..."
   },
   {
     "id": 14,
@@ -222,7 +222,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "That[SP]poor[SP]girl...[SP]She[SP]must[SP]have[SP]been[SP]waiting\nfor[SP][1113][SP]all[SP]this[SP]time...[1205][000F][SP]All[SP]alone...",
     "nom_fr": "Ginko",
-    "texte_fr": "Cette pauvre fille... Elle attendait\n[1113]tout ce temps.[1205].[000F]. Toute seule..."
+    "texte_fr": "Cette pauvre fille... Elle attendait\n[1113]tout ce temps...[1205][000F] Toute seule..."
   },
   {
     "id": 15,
@@ -267,7 +267,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Masked[SP]Circle...[1205][000F][SP]Masked[SP]Circle...[1205][000F][SP]What[SP]could\nit[SP]be?[1205][000F][SP]I[SP]feel[SP]like[SP]I've[SP]heard[SP]that[SP]name[SP]before,\na[SP]long[SP]time[SP]ago...",
     "nom_fr": "Maya",
-    "texte_fr": "Cercle masqué.[1205][000F].. Cercle masqué...\nC'est quoi donc? J'ai l'impression\nd'avoir entendu ce nom quelque part..."
+    "texte_fr": "Cercle masqué...[1205][000F] Cercle masqué...\nC'est quoi donc? J'ai l'impression\nd'avoir entendu ce nom quelque part..."
   },
   {
     "id": 18,
@@ -282,7 +282,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I...[SP]prayed[SP]for[SP]something[SP]here[SP]once...[1205][000F][SP]And\nsomeone[SP]told[SP]me[SP]it[SP]would[SP]easily[SP]come[SP]true...[1205][000F]\nYes,[SP]I[SP]met[SP]someone[SP]here.[1205][000F][SP]Someone[SP]important...",
     "nom_fr": "Maya",
-    "texte_fr": "J'ai... prié ici autrefois pour quelque\n[1205][000F]chose... On m'a dit que\nça se réaliserait... J'ai rencontré quelqu'un ici. D'important..."
+    "texte_fr": "J'ai... prié ici autrefois pour quelque\n[1205][000F]chose... On m'a dit que ça se réaliserait...\nJ'ai rencontré quelqu'un ici. D'important..."
   },
   {
     "id": 19,
@@ -312,7 +312,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Am[SP]I...[SP]real...?[1205][000F][SP]It[SP]could[SP]be[SP]me[SP]who[SP]was[SP]born\nfrom[SP]a[SP]rumor,[SP]couldn't[SP]it?",
     "nom_fr": "Maya",
-    "texte_fr": "Suis-je réelle? [1205][000F]C'est peut-être moi\nqui suis née d'une rumeur, non?"
+    "texte_fr": "Suis-je réelle? [1205][000F]C'est peut-être\nmoi qui suis née d'une rumeur, non?"
   },
   {
     "id": 21,
@@ -357,7 +357,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "You[SP]all[SP]get[SP]so[SP]stone-faced[SP]whenever[SP]we[SP]come\nhere,[SP]like[SP]you're[SP]lost[SP]in[SP]thought.[SP]What's\nthe[SP]deal?",
     "nom_fr": "Yukino",
-    "texte_fr": "Vous avez tous l'air\nailleurs quand on vient ici,\ncomme perdus. Qu'est-ce qui se passe?"
+    "texte_fr": "Vous avez tous l'air ailleurs quand on vient\nici, comme perdus. Qu'est-ce qui se passe?"
   },
   {
     "id": 24,
@@ -447,7 +447,7 @@
     "nom_orig": "Old[SP]lady",
     "texte_orig": "Terrible...[SP]Terrible...[1205][001E][SP]By[SP]the[SP]way,[SP]do[SP]you\nknow[SP]the[SP]rumor[SP]that[SP]a[SP]girl's[SP]ghost[SP]appears\nhere[SP]from[SP]time[SP]to[SP]time?",
     "nom_fr": "Vieille dame",
-    "texte_fr": "Terrible... Terrible...[1205][001E] Au fait,\nsavez-vous la rumeur du fantôme d'une\nfille qui apparaît ici parfois?"
+    "texte_fr": "Terrible... Terrible...[1205][001E] Au fait,\nsavez-vous la rumeur du fantôme\nd'une fille qui apparaît ici parfois?"
   },
   {
     "id": 30,
@@ -533,7 +533,7 @@
     "nom_orig": "Old[SP]lady",
     "texte_orig": "The[SP]girl's[SP]ghost[SP]always[SP]seems[SP]to[SP]disappear\ninto[SP]the[SP]shrine.[1205][000F][SP]Could[SP]it[SP]be[SP]connected[SP]to\nthe[SP]netherworld?",
     "nom_fr": "Vieille dame",
-    "texte_fr": "Le fantôme de la\nfille disparaît toujours dans le\n205][000F]le sanctuaire. Serait-ce lié à l'autre monde?"
+    "texte_fr": "Le fantôme de la fille disparaît\ntoujours dans le 205][000F]le sanctuaire.\nSerait-ce lié à l'autre monde?"
   },
   {
     "id": 35,
@@ -578,7 +578,7 @@
     "nom_orig": "Old[SP]lady",
     "texte_orig": "It[SP]was[SP]rumored[SP]that[SP]Kuchisake-onna[SP]dwelled[SP]in\nMt.[SP]Iwato.[1205][000F][SP]The[SP]local[SP]youth[SP]were[SP]too[SP]scared[SP]to\ngo[SP]near[SP]it.[1205][000F][SP]Some[SP]kids[SP]were[SP]fine,[SP]though...",
     "nom_fr": "Vieille dame",
-    "texte_fr": "La Kuchisake-onna vivait, dit-on, au Mt.\n[1205][000F]Iwato. Les locaux avaient trop peur d'en\napprocher. Sauf certains enfants..."
+    "texte_fr": "La Kuchisake-onna vivait, dit-on, au\nMt. [1205][000F]Iwato. Les locaux avaient trop peur\nd'en approcher. Sauf certains enfants..."
   },
   {
     "id": 38,
@@ -623,7 +623,7 @@
     "nom_orig": "Sad-looking[SP]old[SP]lady",
     "texte_orig": "What's[SP]gotten[SP]into[SP]my[SP]old[SP]man?[1205][000F][SP]He's[SP]making\nsuch[SP]a[SP]fuss[SP]about[SP]seeing[SP]Kuchisake-onna.[1205][000F]\nEveryone[SP]knows[SP]she[SP]doesn't[SP]actually[SP]exist...",
     "nom_fr": "Vieille dame triste",
-    "texte_fr": "Qu'est-ce qui lui prend? [1205][000F]Il fait une telle\nhistoire pour la Kuchisake-onna. Tout le\nmonde sait qu'elle n'existe pas..."
+    "texte_fr": "Qu'est-ce qui lui prend? [1205]Il fait une telle\nhistoire pour la Kuchisake-onna. Tout\nle monde sait qu'elle n'existe pas..."
   },
   {
     "id": 41,
@@ -638,6 +638,6 @@
     "nom_orig": "Sad-looking[SP]old[SP]lady",
     "texte_orig": "I[SP]wonder[SP]if[SP]he's[SP]really[SP]sad[SP]because[SP]our\ngrandsons[SP]don't[SP]visit.[SP]Could[SP]you[SP]talk[SP]to\nhim?[SP]I'm[SP]sure[SP]he's[SP]wandering[SP]about[SP]town.",
     "nom_fr": "",
-    "texte_fr": "Je me demande s'il est vraiment triste\nque nos petits-enfants ne viennent plus.\nTu pourrais lui parler ? Il doit traîner quelque part en ville."
+    "texte_fr": "Je me demande s'il est vraiment triste\nque nos petits-enfants ne viennent\nplus. Tu pourrais lui parler ? Il\ndoit traîner quelque part en ville."
   }
 ]

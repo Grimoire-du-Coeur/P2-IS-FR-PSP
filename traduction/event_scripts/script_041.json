@@ -101,7 +101,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Tch![SP]Too[SP]late[SP]now![SP]If[SP]anything[SP]happens[SP]to\nGinko,[SP][1113],[SP]your[SP]ass[SP]is[SP]mine!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Tch! C'est trop tard! Si quelque chose\narrive à Ginko, [1113], j'te tue!"
+    "texte_fr": "Tch! C'est trop tard! Si quelque\nchose arrive à Ginko, [1113], j'te tue!"
   },
   {
     "id": 6,
@@ -146,7 +146,7 @@
     "nom_orig": "Concert[SP]staff",
     "texte_orig": "We're[SP]supposed[SP]to[SP]be[SP]guarding[SP]the[SP]inside\nof[SP]the[SP]concert[SP]hall,[SP]so[SP]you[SP]can't[SP]go[SP]out\nthere.\n[E1][E2]\n[E3][E4][NULL][NULL]\"Concert[SP]staff\nThis[SP]job[SP]can[SP]get[SP]rough.[SP]We[SP]put[SP]ourselves[SP]on\nthe[SP]line[SP]to[SP]hold[SP]back[SP]the[SP]raving[SP]crowds.\nYou[SP]better[SP]be[SP]ready.",
     "nom_fr": "Personnel du concert",
-    "texte_fr": "On est sensé être gardiens à l'interieur\ndu hall, donc tu peux pas sortir ici.\n[NULL][NULL]\"Personel du concert\nCe travail est\ndûr. On se met sur la ligne pour retenir\nles foules. T'as interêt à être prêt.[E1][E2][E3][E4]"
+    "texte_fr": "On est sensé être gardiens à l'interieur\ndu hall, donc tu peux pas sortir ici.\n[NULL][NULL]\"Personel du concert Ce travail est dûr.\nOn se met sur la ligne pour retenir\nles foules. T'as interêt à être prêt.[E1][E2][E3][E4]"
   },
   {
     "id": 9,
@@ -176,6 +176,6 @@
     "nom_orig": "Concert[SP]staff",
     "texte_orig": "Man,[SP]I'm[SP]getting[SP]paid[SP]AND[SP]I[SP]get[SP]to[SP]see[SP]the\nMuses[SP]show![SP]What[SP]a[SP]sweet[SP]gig!",
     "nom_fr": "",
-    "texte_fr": "Mec, on est payés ET on voit\nle spectacle des Muses ! C'est le pied !"
+    "texte_fr": "Mec, on est payés ET on voit le\nspectacle des Muses ! C'est le pied !"
   }
 ]

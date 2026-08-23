@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What's[SP]Ginko[SP]talking[SP]about?[1205][000A][SP]C'mon,[SP]trust[SP]us[SP]a\nlittle.[1205][000F][SP]I'll[SP]save[SP]both[SP]of[SP]'em,[SP]and[SP]I'll[SP]do[SP]it\nwith[SP]style[SP]and[SP]grace!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Que raconte Ginko?[1205][000A] Allez, faites-nous\n[000F]confiance! Je les sauverai toutes les\ndeux avec classe et élégance!"
+    "texte_fr": "Que raconte Ginko?[1205][000A]Allez, faites-nous [000F]confiance! Je les sauverai\ntoutes les deux avec classe et élégance!"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "If[SP]that[SP]rumor[SP]gets[SP]spread[SP]and[SP]becomes[SP]reality,\nthen[SP]we're[SP]gonna[SP]be...[1205][000F][SP]N-No[SP]way,[SP]that[SP]can't\nactually[SP]happen![E1][E2]\n\n[E3][E4][NULL][NULL]\"Eikichi\nI[SP]believe[SP]in[SP]Jun.[1205][000F][SP]No[SP]matter[SP]what[SP]rumors[SP]are\ngoing[SP]around,[SP]he's[SP]still[SP]himself.[SP]I'm[SP]sure\nhe'll[SP]come[SP]around[SP]once[SP]he[SP]sees[SP]Big[SP]Maya[SP]again.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Si la rumeur se répand et devient vraie, on\nva... [1205][000F] N-Non, c'est\n[000F]impossible, ça n'arrivera\npas![E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nJe crois en Jun. Malgré les\nrumeurs, il reste lui-même. Il reviendra\nàla raison en revoyant grande Maya."
+    "texte_fr": "Si la rumeur se répand et devient vraie,\non va... [1205][000F] N-Non, c'est [000F]impossible, ça\nn'arrivera pas![E1][E2] [E3][E4][NULL][NULL]\"Eikichi Je crois en Jun.\nMalgré les rumeurs, il reste lui-même. Il\nreviendra àla raison en revoyant grande Maya."
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Mee-ho[SP]brought[SP]some[SP]candy[SP]the[SP]other[SP]day[SP]that\nkeeps[SP]you[SP]from[SP]getting[SP]fat...[SP]I[SP]wonder[SP]if[SP]they\nhave[SP]it[SP]here.[1205]([SP]Huh?[SP]Is[SP]she[SP]a[SP]friend...?",
     "nom_fr": "Lisa",
-    "texte_fr": "Mee-ho m'a apporté des bonbons l'autre jour\nqui empêchent de grossir... Je me demande \ns'ils en ont ici.[1205]( Hein? C'est une amie...?"
+    "texte_fr": "Mee-ho m'a apporté des bonbons l'autre jour\nqui empêchent de grossir... Je me demande\ns'ils en ont ici.[1205]( Hein? C'est une amie...?"
   },
   {
     "id": 4,
@@ -87,7 +87,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Mee-ho[SP]brought[SP]some[SP]candy[SP]the[SP]other[SP]day[SP]that\nkeeps[SP]you[SP]from[SP]getting[SP]fat...[SP]I[SP]wonder[SP]if[SP]they\nhave[SP]it[SP]here.[1205]([SP]Huh?[SP]Is[SP]she[SP]a[SP]friend...?",
     "nom_fr": "Ginko",
-    "texte_fr": "Mee-ho m'a apporté des bonbons l'autre jour\nqui empêchent de grossir... Je me demande \ns'ils en ont ici.[1205]( Hein? C'est une amie...?"
+    "texte_fr": "Mee-ho m'a apporté des bonbons l'autre jour\nqui empêchent de grossir... Je me demande\ns'ils en ont ici.[1205]( Hein? C'est une amie...?"
   },
   {
     "id": 6,
@@ -147,7 +147,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Do[SP]you[SP]think[SP]our[SP]rumor's[SP]been[SP]spread[SP]enough,\n[1113]?",
     "nom_fr": "Ginko",
-    "texte_fr": "Tu crois que notre rumeur\na assez circulé, [1113]?"
+    "texte_fr": "Tu crois que notre rumeur a assez circulé, [1113]?"
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "What[SP]should[SP]we[SP]do...?[1205][000F][SP]If[SP]the[SP]people[SP]keep[SP]being\nafraid[SP]of[SP]the[SP]Masked[SP]Circle,[SP]won't[SP]Jun[SP]become\njust[SP]what[SP]the[SP]rumors[SP]say[SP]he[SP]is?",
     "nom_fr": "Ginko",
-    "texte_fr": "Que faire...? Si\n[1205][000F]les gens craignent toujours le\nCercle masqué, Jun ne deviendra-t-il pas tel que le disent les rumeurs?"
+    "texte_fr": "Que faire...? Si [1205][000F]les gens craignent toujours\nle Cercle masqué, Jun ne deviendra-t-il\npas tel que le disent les rumeurs?"
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That[SP]Lisa![SP]She's[SP]not[SP]fat[SP]at[SP]all.[SP]The[SP]bottom\nline[SP]is,[SP]you[SP]should[SP]eat[SP]what[SP]you[SP]want[SP]whenever\nyou[SP]feel[SP]like[SP]it![SP]That's[SP]the[SP]way[SP]to[SP]go.",
     "nom_fr": "Maya",
-    "texte_fr": "Cette Lisa! Elle n'est pas grosse.\nL'important, c'est de manger ce qu'on veut,\nquand on veut! C'est ça la vraie vie."
+    "texte_fr": "Cette Lisa! Elle n'est pas grosse.\nL'important, c'est de manger ce qu'on\nveut, quand on veut! C'est ça la vraie vie."
   },
   {
     "id": 12,
@@ -207,7 +207,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Ummm...[1205][000F][SP][1432][NULL][NULL][0014]Drink[SP]this[SP]for[SP]100[SP]times[SP]the[SP]energy...[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Refreshing![1432][NULL][NULL][0014][1205][000F][SP]Satomitan[SP]Z?[1205][000F][SP]Oooh,[SP]it[SP]comes[SP]in\na[SP]Super[SP]version?",
     "nom_fr": "Maya",
-    "texte_fr": "Voyons.[1205][000F].. [1432][NULL][NULL][0014]Pour 100 fois plus\nd'énergie...[1432][NULL][NULL][0014] [1432][NULL][NULL][0014]Rafraîchissant![1432][NULL][NULL][0014] Satomitan\nZ? Ooh, il a une version Super?"
+    "texte_fr": "Voyons...[1205][000F] [1432][NULL][NULL][0014]Pour 100 fois plus\nd'énergie...[1432][NULL][NULL][0014] [1432][NULL][NULL][0014]Rafraîchissant![1432][NULL][NULL][0014] Satomitan\nZ? Ooh, il a une version Super?"
   },
   {
     "id": 14,
@@ -237,7 +237,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Don't[SP]worry.[SP]The[SP]rumor[SP]has[SP]been[SP]spread.\nWhat's[SP]more...[SP]it's[SP]become[SP]reality.[1205][000F][SP]This[SP]is\nanother[SP]result[SP]that[SP]humanity[SP]desired.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nJun-kun...[1205][000A][SP]He's[SP]trying[SP]to[SP]carry[SP]the[SP]karma[SP]of\neveryone[SP]in[SP]the[SP]city[SP]by[SP]himself.[1205][000F][SP]He's[SP]too\nkind,[SP]really...",
     "nom_fr": "Maya",
-    "texte_fr": "Rassurez-vous. La rumeur a été répandue.\nEt... elle est devenue réalité. [1205][000F]C'est un\nautre résultat voulu par l'humanité.[E1][E2] [E3][E4][NULL][NULL]\"Maya\nJun-kun...[1205][000A] Il veut porter le karma de\ntoutela ville seul. Il est vraiment trop gentil..."
+    "texte_fr": "Rassurez-vous. La rumeur a été\nrépandue. Et... elle est devenue\nréalité. [1205][000F]C'est un autre résultat\nvoulu par l'humanité.[E1][E2] [E3][E4][NULL][NULL]\"Maya Jun-kun...[1205][000A]Il veut porter le karma de toutela ville\nseul. Il est vraiment trop gentil..."
   },
   {
     "id": 16,
@@ -252,7 +252,7 @@
     "nom_orig": "Maya",
     "texte_orig": "We[SP]have[SP]to[SP]save[SP]him![1205][000F][SP]He[SP]doesn't[SP]need[SP]to[SP]suffer\nthrough[SP]this[SP]alone.[1205][000F][SP]I[SP]want[SP]to[SP]get[SP]Jun-kun[SP]back\nto[SP]his[SP]normal[SP]self...",
     "nom_fr": "Maya",
-    "texte_fr": "Il faut le sauver! [1205][000F]Il n'a pas besoin de\nsouffrir seul comme ça. Je veux retrouver\nJun-kun tel qu'il était avant..."
+    "texte_fr": "Il faut le sauver! [1205]Il n'a pas besoin\nde souffrir seul comme ça. Je veux\nretrouver Jun-kun tel qu'il était avant..."
   },
   {
     "id": 17,
@@ -282,7 +282,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Blurrgh...[1205][001E][SP]God,[SP]just[SP]remembering[SP]it[SP]makes[SP]me\nqueasy...[1205][001E][SP]And[SP]she's[SP]still[SP]thin![SP]She's[SP]famous\nat[SP]the[SP]office[SP]for[SP]her[SP][1432][NULL][NULL][0014]black[SP]hole[SP]stomach.[1432][NULL][NULL][0014]",
     "nom_fr": "Yukino",
-    "texte_fr": "Beurk...[1205][001E] Y penser me donne la nausée...[1205][001E]\nEt elle reste mince! Elle est célèbre à\nla rédac pour son [1432][NULL][NULL][0014]estomac trou noir.[1432][NULL][NULL][0014]"
+    "texte_fr": "Beurk...[1205][001E] Y penser me donne la nausée...[1205][001E]\nEt elle reste mince! Elle est célèbre\nà la rédac pour son [1432][NULL][NULL][0014]estomac trou noir.[1432][NULL][NULL][0014]"
   },
   {
     "id": 19,
@@ -297,7 +297,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "H-Hey,[SP]Maya-san.[SP]You're[SP]embarrassing[SP]us...\nCut[SP]it[SP]out,[SP]will[SP]you!",
     "nom_fr": "Yukino",
-    "texte_fr": "H-Hé, Maya-san. Tu nous fais\nhonte... Arrête un peu!"
+    "texte_fr": "H-Hé, Maya-san. Tu nous\nfais honte... Arrête un peu!"
   },
   {
     "id": 20,
@@ -312,7 +312,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "That[SP]guy's[SP]right.[SP]This[SP]is[SP]no[SP]different[SP]from\nrandom[SP]acts[SP]of[SP]violence.[SP]And[SP]King[SP]Leo[SP]still\ncalls[SP]it[SP]a[SP]game!?",
     "nom_fr": "Yukino",
-    "texte_fr": "Il a raison. Ce n'est rien d'autre\nque de la violence gratuite. Et le\nRoi Lion appelle ça un jeu!?"
+    "texte_fr": "Il a raison. Ce n'est rien d'autre\nque de la violence gratuite. Et\nle Roi Lion appelle ça un jeu!?"
   },
   {
     "id": 21,
@@ -342,7 +342,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Rumors[SP]can[SP]even[SP]change[SP]someone's[SP]personality...\nTrying[SP]to[SP]save[SP]Jun[SP]right[SP]now[SP]is[SP]like[SP]going\nagainst[SP]everyone[SP]spreading[SP]those[SP]rumors.",
     "nom_fr": "Yukino",
-    "texte_fr": "Les rumeurs peuvent altérer la\npersonnalité... Sauver Jun\nmaintenant revient à affronter tous ceux qui les répandent."
+    "texte_fr": "Les rumeurs peuvent altérer la\npersonnalité... Sauver Jun maintenant revient\nà affronter tous ceux qui les répandent."
   },
   {
     "id": 23,
@@ -401,7 +401,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Alors, tu vends quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Alors, tu vends quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -472,7 +472,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "He[SP]doesn't[SP]save[SP]up,[SP]either.[SP]A[SP]fortune-teller\ntold[SP]me[SP]he'd[SP]be[SP]rich[SP]someday,[SP]so[SP]I[SP]spent[SP]a[SP]lot\nof[SP]time[SP]raising[SP]him...",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Il n'économise pas. Une voyante a dit\nqu'il serait riche, alors j'ai investi\nbeaucoup dans son éducation..."
+    "texte_fr": "Il n'économise pas. Une voyante a\ndit qu'il serait riche, alors j'ai\ninvesti beaucoup dans son éducation..."
   },
   {
     "id": 29,
@@ -487,7 +487,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "We've[SP]been[SP]getting[SP]a[SP]lot[SP]of[SP]young[SP]customers\nlately.[SP]It[SP]must[SP]be[SP]madness[SP]over[SP]at[SP]our[SP]Yumezaki\nbranch.[SP]That's[SP]where[SP]they[SP]all[SP]hang[SP]out.",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "On a beaucoup\nde jeunes clients dernièrement. Ça\ndoit être la folie à notre succursale de Yumezaki. C'est là qu'ils traînent tous."
+    "texte_fr": "On a beaucoup de jeunes clients dernièrement.\nÇa doit être la folie à notre succursale\nde Yumezaki. C'est là qu'ils traînent tous."
   },
   {
     "id": 30,
@@ -547,7 +547,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Yikes![SP]Even[SP]the[SP]Masked[SP]Circle's[SP]out[SP]and[SP]about.[1205][000F]\nIt's[SP]a[SP]war[SP]zone[SP]out[SP]there![1205][000A][SP]I[SP]wonder[SP]if[SP]my\nTadashi's[SP]okay.",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Aïe! Le Cercle masqué est de sortie.\n[1205][000F]C'est une zone de guerre dehors![1205][000A]\nJ'espère que mon Tadashi va bien."
+    "texte_fr": "Aïe! Le Cercle masqué est de sortie.\n[1205][000F]C'est une zone de guerre dehors![1205][000A]J'espère que mon Tadashi va bien."
   },
   {
     "id": 34,
@@ -607,7 +607,7 @@
     "nom_orig": "Man",
     "texte_orig": "Guess[SP]my[SP]daughter[SP]had[SP]the[SP]Seven[SP]Sisters[SP]curse.\nThe[SP]swelling[SP]has[SP]gone[SP]down,[SP]but[SP]I'm[SP]just[SP]glad\nit[SP]wasn't[SP]her[SP]belly[SP]getting[SP]bigger...",
     "nom_fr": "Homme",
-    "texte_fr": "Ma fille avait la malédiction des Seven.\nLe gonflement est parti, je suis soulagé\nque ce ne soit pas son ventre..."
+    "texte_fr": "Ma fille avait la malédiction des\nSeven. Le gonflement est parti, je suis\nsoulagé que ce ne soit pas son ventre..."
   },
   {
     "id": 38,
@@ -622,7 +622,7 @@
     "nom_orig": "Man",
     "texte_orig": "This[SP]isn't[SP]funny.[SP]How[SP]long[SP]are[SP]the[SP]terrorists\ngoing[SP]to[SP]keep[SP]this[SP]up?[SP]My[SP]daughter's[SP]cheered[SP]up\nnow,[SP]but[SP]I[SP]can't[SP]go[SP]home.[SP]Where[SP]are[SP]the[SP]police?",
     "nom_fr": "Homme",
-    "texte_fr": "C'est pas drôle. Les terroristes vont\ncontinuer longtemps? Ma fille\nva mieux, mais je peux pas rentrer. Où est la police ?"
+    "texte_fr": "C'est pas drôle. Les terroristes vont\ncontinuer longtemps? Ma fille va mieux,\nmais je peux pas rentrer. Où est la police ?"
   },
   {
     "id": 39,
@@ -727,7 +727,7 @@
     "nom_orig": "Young[SP]man",
     "texte_orig": "My[SP]friends[SP]have[SP]a[SP]betting[SP]pool[SP]going[SP]on[SP]whether\nthe[SP]five[SP]guys[SP]on[SP]the[SP]news[SP]are[SP]the[SP]terrorists\nor[SP]not.",
     "nom_fr": "Jeune homme",
-    "texte_fr": "Mes amis ont un pari en cours pour\nsavoir si les cinq gars aux infos\nsont les terroristes ou pas."
+    "texte_fr": "Mes amis ont un pari en cours\npour savoir si les cinq gars aux\ninfos sont les terroristes ou pas."
   },
   {
     "id": 46,
@@ -757,7 +757,7 @@
     "nom_orig": "Young[SP]man",
     "texte_orig": "This[SP]is[SP]a[SP]pretty[SP]bad[SP]situation...[SP]I[SP]wonder[SP]if\nKaori-san[SP]is[SP]okay...[SP]I[SP]hope[SP]she's[SP]safe.",
     "nom_fr": "Jeune homme",
-    "texte_fr": "C'est vraiment moche... J'espère que\nKaori-san va bien et\nqu'elle est en sécurité."
+    "texte_fr": "C'est vraiment moche... J'espère que\nKaori-san va bien et qu'elle est en sécurité."
   },
   {
     "id": 48,
@@ -801,7 +801,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Alors, que veux-tu vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Alors, que veux-tu vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -942,7 +942,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "Ensuite, pour vendre. Sélectionnez [1432][NULL][NULL][0014]Vendre\nobjets,[1432][NULL][NULL][0014] puis le type d'objet à vendre.\nEnfin, choisissez l'objet précis."
+    "texte_fr": "Ensuite, pour vendre. Sélectionnez\n[1432][NULL][NULL][0014]Vendre objets,[1432][NULL][NULL][0014] puis le type d'objet à\nvendre. Enfin, choisissez l'objet précis."
   },
   {
     "id": 57,
@@ -957,7 +957,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Our[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.",
     "nom_fr": "Sœur n°3",
-    "texte_fr": "La revente est à moitié\nprix. On ne vend pas les\nobjets équipés ni certains objets spéciaux."
+    "texte_fr": "La revente est à moitié prix. On\nne vend pas les objets équipés\nni certains objets spéciaux."
   },
   {
     "id": 58,

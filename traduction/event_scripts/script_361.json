@@ -27,7 +27,7 @@
     "nom_orig": "???",
     "texte_orig": "[1113]...[1205][000F][SP]Don't[SP]see[SP]you[SP]here[SP]often.[1205][000F][SP]But[SP]you\nprobably[SP]didn't[SP]come[SP]to[SP]visit[SP]me.[1205][000F][SP]What's[SP]up?\nDid[SP]something[SP]happen?",
     "nom_fr": "???",
-    "texte_fr": "[1113].[1205][000F].. On te voit rarement ici. Mais t'es\nsûrement pas venu me voir. Quoi de neuf?"
+    "texte_fr": "[1113]...[1205][000F] On te voit rarement ici. Mais t'es\nsûrement pas venu me voir. Quoi de neuf?"
   },
   {
     "id": 2,
@@ -72,7 +72,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP]what's[SP]wrong[SP]with[SP]that[SP]guy?[1205][000F][SP]Did[SP]he[SP]commit\nsome[SP]crime?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hé, il a quoi ce\ntype? [1205][000F]Il a commis un crime?"
+    "texte_fr": "Hé, il a quoi ce type? [1205]Il a commis un crime?"
   },
   {
     "id": 5,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Wow,[SP]I[SP]didn't[SP]know[SP]you[SP]had[SP]a[SP]detective[SP]for\na[SP]brother,[SP][1113].[1205][000F][SP]But[SP]that's[SP]perfect!",
     "nom_fr": "Maya",
-    "texte_fr": "Waouh, je savais pas que t'avais un frère\ndétective, [1113]. [1205][000F]Mais c'est parfait!"
+    "texte_fr": "Waouh, je savais pas que t'avais un\nfrère détective, [1113]. [1205][000F]Mais c'est parfait!"
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Maybe[SP]he[SP]knows[SP]something[SP]about[SP]the[SP]Masked\nCircle.[SP]Ask[SP]him[SP]for[SP]us,[SP][1113]!",
     "nom_fr": "",
-    "texte_fr": "Il sait peut-être quelque chose sur le\nCercle masqué. Demande-lui, [1113]!"
+    "texte_fr": "Il sait peut-être quelque chose sur\nle Cercle masqué. Demande-lui, [1113]!"
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]don't[SP]mean[SP]to[SP]pry[SP]into[SP]your[SP]home[SP]life,[SP]but...[1205][000F]\nYou[SP]don't[SP]exactly[SP]seem[SP]to[SP]get[SP]along[SP]with[SP]your\nbrother.[SP]I'm[SP]here[SP]if[SP]you[SP]want[SP]to[SP]talk.",
     "nom_fr": "Yukino",
-    "texte_fr": "Je veux pas m'immiscer dans ta vie privée,[1205][000F]\nmais.[000F].. Tu sembles pas vraiment t'entendre\navec ton frère. Je suis là si tu veux parler."
+    "texte_fr": "Je veux pas m'immiscer dans ta vie privée,[1205][000F]\nmais... Tu sembles pas vraiment t'entendre\navec ton frère. Je suis là si tu veux parler."
   },
   {
     "id": 10,
@@ -177,7 +177,7 @@
     "nom_orig": "Police[SP]officer",
     "texte_orig": "Man...[SP]I[SP]finally[SP]got[SP]my[SP]wish[SP]to[SP]join[SP]the\nforce[SP]granted,[SP]but[SP]I[SP]get[SP]stuck[SP]with[SP]kids\nand[SP]the[SP]elderly...[1205][000F][SP]Not[SP]much[SP]like[SP]the[SP]movies.",
     "nom_fr": "Agent de police",
-    "texte_fr": "Bon sang... Mon rêve d'entrer dans la\npolice exaucé, et je gère des gamins et\ndes vieux.[1205].[000F]. Rien à voir avec les films."
+    "texte_fr": "Bon sang... Mon rêve d'entrer dans la\npolice exaucé, et je gère des gamins et\ndes vieux...[1205][000F] Rien à voir avec les films."
   },
   {
     "id": 12,
@@ -267,7 +267,7 @@
     "nom_orig": "Little[SP]Chii",
     "texte_orig": "Y-Yeah![SP]It's[SP]a[SP]demon![SP]That's[SP]what[SP]my[SP]friend\nwas[SP]saying![SP]Uhh...[SP]What[SP]kind[SP]of[SP]demon...?\nUmmmmm...",
     "nom_fr": "Petite Chii",
-    "texte_fr": "O-Ouais! C'est un démon! C'est ce\nque disait mon ami! Euh... Quel\ngenre de démon...? Mmmmmm..."
+    "texte_fr": "O-Ouais! C'est un démon! C'est\nce que disait mon ami! Euh...\nQuel genre de démon...? Mmmmmm..."
   },
   {
     "id": 18,
@@ -312,7 +312,7 @@
     "nom_orig": "Little[SP]Chii",
     "texte_orig": "I[SP]wish[SP]I[SP]had[SP]some[SP][1432][NULL][NULL][0014]hard[SP]evidence[1432][NULL][NULL][0014]...[SP]Then[SP]he'd\nlisten...[SP]But[SP]I[SP]don't.[SP]And[SP]I'm[SP]scared!",
     "nom_fr": "Petite Chii",
-    "texte_fr": "J'veux des [1432][NULL][NULL][0014]preuves concrètes[1432][NULL][NULL][0014]... Il\nm'écouterait... Mais j'en\nai pas. J'ai peur!"
+    "texte_fr": "J'veux des [1432][NULL][NULL][0014]preuves concrètes[1432][NULL][NULL][0014]... Il\nm'écouterait... Mais j'en ai pas. J'ai peur!"
   },
   {
     "id": 21,
@@ -327,7 +327,7 @@
     "nom_orig": "Little[SP]Chii",
     "texte_orig": "If[SP]I[SP]had[SP]the[SP]Dresser[SP]Hag's[SP]dresser,[SP]then[SP]maybe\neveryone[SP]would[SP]believe[SP]me![SP]But[SP]I[SP]don't[SP]wanna\ngo[SP]back[SP]to[SP]the[SP]abandoned[SP]factory...",
     "nom_fr": "Petite Chii",
-    "texte_fr": "Avec la commode de la Vieille du Tiroir,\ntout le monde me croirait! Mais j'veux pas\nretourner à la fabrique abandonnée..."
+    "texte_fr": "Avec la commode de la Vieille du Tiroir,\ntout le monde me croirait! Mais j'veux\npas retourner à la fabrique abandonnée..."
   },
   {
     "id": 22,
@@ -357,7 +357,7 @@
     "nom_orig": "Little[SP]Chii",
     "texte_orig": "Here,[SP]you[SP]can[SP]have[SP]my[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0004]Incense[SP]Card[SP]set[E4][NULL][NULL][0002].[1205][000F]\nIt[SP]took[SP]a[SP]long[SP]time[SP]for[SP]me[SP]to[SP]collect[SP]all\nthose![1205][000F][SP]Take[SP]good[SP]care[SP]of[SP]them.",
     "nom_fr": "Petite Chii",
-    "texte_fr": "Tiens, tu peux avoir mon [E4][NULL][NULL][0004][NULL][NULL][0004]kit de Cartes\n[1205][000F]Encens[E4][NULL][NULL][0002]. Ça m'a pris longtemps de tout\ncollecter! Prends-en bien soin.[1433]"
+    "texte_fr": "Tiens, tu peux avoir mon [E4][NULL][NULL][0004][NULL][NULL][0004]kit de Cartes\n[1205][000F]Encens[E4][NULL][NULL][0002]. Ça m'a pris longtemps de\ntout collecter! Prends-en bien soin.[1433]"
   },
   {
     "id": 24,
@@ -387,7 +387,7 @@
     "nom_orig": "Homeless[SP]lady",
     "texte_orig": "Pfffffff![SP]You[SP]gotta[SP]be[SP]kidding[SP]me![SP]What[SP]law\nsays[SP]I[SP]can't[SP]live[SP]inside[SP]an[SP]abandoned[SP]dresser!?",
     "nom_fr": "Clocharde",
-    "texte_fr": "Pffffff! Vous rigolez! Quelle\nloi dit que je\npeux pas vivre dans une vieille commode!?"
+    "texte_fr": "Pffffff! Vous rigolez! Quelle loi dit que\nje peux pas vivre dans une vieille commode!?"
   },
   {
     "id": 26,
@@ -417,7 +417,7 @@
     "nom_orig": "Homeless[SP]lady",
     "texte_orig": "The[SP]end[SP]must[SP]be[SP]near.[SP]Huh?[SP]Haven't[SP]I[SP]seen[SP]that\nboy[SP]somewhere?",
     "nom_fr": "Clocharde",
-    "texte_fr": "La fin est proche.\nCe garçon... je l'ai déjà vu\nquelque part? Panneau SS: Accueil général, Bureau étrangers RDC: Objets trouvés, Permis, Conseillers 2e: Aide victimes, Aide sinistrés Panneau 3e: Interrogatoire, Affaires internes 4e: Labo, Crimes juvéniles 5e: Personnesdisparues, Enquêtes spéciales"
+    "texte_fr": "La fin est proche. Ce garçon... je l'ai déjà\nvu quelque part? Panneau SS: Accueil général,\nBureau étrangers RDC: Objets trouvés,\nPermis, Conseillers 2e: Aide victimes,\nAide sinistrés Panneau 3e: Interrogatoire,\nAffaires internes 4e: Labo, Crimes juvéniles\n5e: Personnesdisparues, Enquêtes spéciales"
   },
   {
     "id": 28,
@@ -507,7 +507,7 @@
     "nom_orig": "Katsuya",
     "texte_orig": "Don't[SP]go[SP]believing[SP]everything[SP]you[SP]hear.[SP]Or[SP]did\nyou[SP]help[SP]spread[SP]the[SP]rumor...?[SP]If[SP]not,[SP]drop[SP]it.",
     "nom_fr": "Katsuya",
-    "texte_fr": "Crois pas tout ce\nque t'entends. Ou t'as aidé à\nrépandre la rumeur...? Sinon, laisse tomber."
+    "texte_fr": "Crois pas tout ce que t'entends.\nOu t'as aidé à répandre la\nrumeur...? Sinon, laisse tomber."
   },
   {
     "id": 34,
@@ -552,7 +552,7 @@
     "nom_orig": "Police[SP]officer",
     "texte_orig": "Katsuya's[SP]wound[SP]too[SP]tight.[SP]He[SP]works[SP]so[SP]hard,\nI[SP]can[SP]never[SP]get[SP]a[SP]snooze[SP]in...[1205][000F][SP]Hahaha,[SP]just\nkidding.",
     "nom_fr": "Agent de police",
-    "texte_fr": "Katsuya est trop tendu. Il bosse\ntellement que j'arrive jamais à[1205][000F]\npioncer.[000F].. Hahaha, je rigole."
+    "texte_fr": "Katsuya est trop tendu. Il bosse\ntellement que j'arrive jamais à[1205][000F]\npioncer... Hahaha, je rigole."
   },
   {
     "id": 37,
@@ -567,7 +567,7 @@
     "nom_orig": "Police[SP]officer",
     "texte_orig": "Katsuya[SP]is[SP]really[SP]popular[SP]with[SP]the[SP]ladies[SP]on\nthe[SP]force...[1205][000F][SP]But[SP]he[SP]doesn't[SP]have[SP]a[SP]girlfriend.\nIs[SP]he[SP]the[SP]kinda[SP]guy[SP]who's[SP]married[SP]to[SP]his[SP]job?",
     "nom_fr": "Agent de police",
-    "texte_fr": "Katsuya est très\npopulaire auprès des femmes du\ncommissariat... [1205][000F] Mais pas de petite amie. [000F]Il est du genre marié à son boulot? Avis Si vous voyez cet homme, appelez le 17! Je crois l'avoir vu quelque part..."
+    "texte_fr": "Katsuya est très populaire auprès des femmes\ndu commissariat... [1205][000F] Mais pas de petite\namie. Il est du genre marié à son boulot?\nAvis Si vous voyez cet homme, appelez le\n17! Je crois l'avoir vu quelque part..."
   },
   {
     "id": 38,
@@ -597,7 +597,7 @@
     "nom_orig": "Female[SP]officer's[SP]voice",
     "texte_orig": "*whisper*[SP]*whisper*[1205][000F]\nHey,[SP]not[SP]so[SP]loud![1205][000F]\n*whisper*[SP]*whisper*",
     "nom_fr": "Voix d'une agente",
-    "texte_fr": "*chut* *chut* Hé, pas\n[1205][000F]si fort! *chut* *chut*"
+    "texte_fr": "*chut* *chut* Hé, pas [1205][000F]si fort! *chut* *chut*"
   },
   {
     "id": 40,
@@ -642,7 +642,7 @@
     "nom_orig": "Female[SP]officer's[SP]voice",
     "texte_orig": "*whisper*[SP]*whisper*[1205][000F]\nWell,[SP]good[SP]news![SP]There's[SP]this[SP]Joker[SP]Game...[1205][000F]\n*whisper*[SP]*whisper*",
     "nom_fr": "Voix d'une agente",
-    "texte_fr": "*chut* *chut* Bonne nouvelle! [1205][000F]Il y\na ce Jeu de Joker... *chut* *chut*"
+    "texte_fr": "*chut* *chut* Bonne nouvelle! [1205]Il y\na ce Jeu de Joker... *chut* *chut*"
   },
   {
     "id": 43,
@@ -697,7 +697,7 @@
     "nom_orig": "Coppy",
     "texte_orig": "Arf![SP]You[SP]don't[SP]have[SP]one![SP]They[SP]say[SP]thieves[SP]start\nout[SP]as[SP]liars,[SP]arf![SP]Coppy[SP]says:[SP]Come[SP]again!",
     "nom_fr": "Coppy",
-    "texte_fr": "Ouaf! T'en as pas! Menteur un jour, voleur\ntoujours, ouaf! Coppy dit: Reviens!"
+    "texte_fr": "Ouaf! T'en as pas! Menteur un jour,\nvoleur toujours, ouaf! Coppy dit: Reviens!"
   },
   {
     "id": 46,
@@ -727,7 +727,7 @@
     "nom_orig": "Coppy",
     "texte_orig": "Arf![1205][000A][SP]10,000[SP]yen[SP]in[SP]the[SP]fund![1205][000F][SP]And[SP]it's[SP]all\nthanks[SP]to[SP]citizens[SP]like[SP]you![SP]Arf!",
     "nom_fr": "Coppy",
-    "texte_fr": "Ouaf![1205][000A] 10 000 yens! [000F]Merci aux\ncitoyens comme toi! Ouaf!"
+    "texte_fr": "Ouaf![1205][000A]10 000 yens! [000F]Merci aux\ncitoyens comme toi! Ouaf!"
   },
   {
     "id": 48,

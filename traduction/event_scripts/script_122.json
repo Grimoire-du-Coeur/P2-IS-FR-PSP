@@ -42,7 +42,7 @@
     "nom_orig": "Maya",
     "texte_orig": "[1432][NULL][NULL][0014]The[SP]lion's[SP]roar[SP]echoes[SP]far[SP]and[SP]wide[1432][NULL][NULL][0014]...[1205][001E]\nThe[SP]Grand[SP]Cross[SP]will[SP]be[SP]starting[SP]soon!\nThe[SP]Caracol[SP]must[SP]be[SP]at[SP]the[SP]summit![SP]Hurry!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n[1113]-kun...[1205][001E][SP]What[SP]can[SP]I[SP]do[SP]for[SP]Jun-kun?\nI[SP]don't[SP]want[SP]anyone[SP]else[SP]to[SP]suffer[SP]because\nof[SP]me...",
     "nom_fr": "Maya",
-    "texte_fr": "[1432][NULL][NULL][0014]Le cri du lion résonne au loin[1432][NULL][NULL][0014]...[1205][001E] La Grande\nCroix va vite commencer! Le Caracol doit\nêtre au sommet! Vite! [E1][E2] [E3][E4][NULL][NULL]\"Maya\n[1113]-kun...[1205][001E]\nQue faire pour Jun-kun? Je ne veux\npas qued'autres souffrent par ma faute..."
+    "texte_fr": "[1432][NULL][NULL][0014]Le cri du lion résonne au loin[1432][NULL][NULL][0014]...[1205][001E] La\nGrande Croix va vite commencer! Le Caracol\ndoit être au sommet! Vite! [E1][E2] [E3][E4][NULL][NULL]\"Maya [1113]-kun...[1205][001E]\nQue faire pour Jun-kun? Je ne veux pas\nqued'autres souffrent par ma faute..."
   },
   {
     "id": 3,
@@ -72,7 +72,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Though[SP]on[SP]the[SP]other[SP]hand...[SP]You[SP]have[SP]to[SP]think\nof[SP]how[SP]the[SP]people[SP]you[SP]leave[SP]behind[SP]feel,[SP]huh?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mais d'un autre côté...\nFaut penser à ce que ressentent\nceux qu'on laisse derrière, hein?"
+    "texte_fr": "Mais d'un autre côté... Faut penser à ce que\nressentent ceux qu'on laisse derrière, hein?"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "The[SP]line[SP]from[SP]the[SP]Oracle[SP]of[SP]Maia[SP]after[SP]this\nwas,[SP][1432][NULL][NULL][0014]Five[SP]skulls[SP]glow[SP]in[SP]the[SP]depths[SP]of[SP]the\nearth.[1432][NULL][NULL][0014][1205][001E][SP]They're[SP]steadily[SP]getting[SP]closer...",
     "nom_fr": "Ginko",
-    "texte_fr": "La ligne suivante de l'Oracle était: [1432][NULL][NULL][0014]Cinq\ncrânes brillent dans les profondeurs de\nla terre.[1432][NULL][NULL][1205][0014][001E] Ils se rapprochent..."
+    "texte_fr": "La ligne suivante de l'Oracle était:\n[1432][NULL][NULL][0014]Cinq crânes brillent dans les profondeurs\nde la terre.[1432][NULL][NULL][1205][0014][001E] Ils se rapprochent..."
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Is[SP]Jun[SP]really[SP]trying[SP]to[SP]destroy[SP]the[SP]world?\nWhy[SP]did[SP]he[SP]become[SP]Joker?[SP][1113]...[1205][001E][SP]I[SP]don't\nget[SP]it[SP]at[SP]all!",
     "nom_fr": "Ginko",
-    "texte_fr": "Jun veut vraiment détruire le monde?\nPourquoi est-il devenu Joker?\n[1113]...[1205][001E] Je pige pas du tout!"
+    "texte_fr": "Jun veut vraiment détruire le\nmonde? Pourquoi est-il devenu\nJoker? [1113]...[1205][001E] Je pige pas du tout!"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Sorry[SP]I[SP]lost[SP]my[SP]cool,[SP][1113]...[1205][001E]\nShunsuke-san...[1205][001E][SP]Please[SP]be[SP]okay...",
     "nom_fr": "Yukino",
-    "texte_fr": "Pardon, [1113]...[1205][001E]\nShunsuke-san...[1205][001E] Sois prudent..."
+    "texte_fr": "Pardon, [1113]...[1205][001E] Shunsuke-san...[1205][001E] Sois prudent..."
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Head[SP]monk",
     "texte_orig": "Leonid[SP]is[SP]an[SP]phenomenon[SP]where,[SP]when[SP]the[SP]rings\nof[SP]dust[SP]around[SP]the[SP]sun[SP]overlap[SP]with[SP]Earth's\nrotation,[SP]look[SP]like[SP]they're[SP]pouring[SP]from[SP]Leo.",
     "nom_fr": "Maître",
-    "texte_fr": "Les Léonides surviennent si la poussière\nautour du soleil croise l'orbite\nde la Terre, donnant l'impression de jaillir du Lion."
+    "texte_fr": "Les Léonides surviennent si la poussière\nautour du soleil croise l'orbite de la Terre,\ndonnant l'impression de jaillir du Lion."
   },
   {
     "id": 9,
@@ -162,7 +162,7 @@
     "nom_orig": "Head[SP]monk",
     "texte_orig": "Speak[SP]of[SP]the[SP]devil[SP]and[SP]he[SP]doth[SP]appear...[1205][001E]\nThe[SP]rumors[SP]circulating[SP]are[SP]what[SP]brought[SP]about\nthis[SP]strange[SP]phenomenon.",
     "nom_fr": "Maître",
-    "texte_fr": "Quand on parle du loup, on en voit la\nqueue...[1205][001E] Les rumeurs qui circulent\nont provoqué cet étrange phénomène."
+    "texte_fr": "Quand on parle du loup, on en voit\nla queue...[1205][001E] Les rumeurs qui circulent\nont provoqué cet étrange phénomène."
   },
   {
     "id": 11,
@@ -192,7 +192,7 @@
     "nom_orig": "Young[SP]monk",
     "texte_orig": "We[SP]undergo[SP]strict[SP]training[SP]every[SP]day[SP]in[SP]hopes\nof[SP]one[SP]day[SP]learning[SP]Goketsuji's[SP]ultimate\nskill,[SP]the[SP]Mokujinken!",
     "nom_fr": "Novice",
-    "texte_fr": "On s'entraîne dur chaque jour dans\nl'espoir d'apprendre l'art ultime\nde Goketsuji, le Mokujinken!"
+    "texte_fr": "On s'entraîne dur chaque jour\ndans l'espoir d'apprendre l'art\nultime de Goketsuji, le Mokujinken!"
   },
   {
     "id": 13,
@@ -222,7 +222,7 @@
     "nom_orig": "Young[SP]monk",
     "texte_orig": "Your[SP]hairstyle[SP]is[SP]so[SP]cool![SP]What[SP]is[SP]that,\na[SP]pageboy?[SP]I[SP]wish[SP]I[SP]could[SP]give[SP]it[SP]a[SP]try,\nbut[SP]there's[SP]the[SP]whole[SP]shaved-head[SP]thing.",
     "nom_fr": "Novice",
-    "texte_fr": "Ta coiffure est trop cool! C'est quoi, une\ncoupe au bol? J'aimerais bien essayer,\nmais y'a cette histoire de crâne rasé."
+    "texte_fr": "Ta coiffure est trop cool! C'est quoi,\nune coupe au bol? J'aimerais bien essayer,\nmais y'a cette histoire de crâne rasé."
   },
   {
     "id": 15,
@@ -237,7 +237,7 @@
     "nom_orig": "Young[SP]monk",
     "texte_orig": "The[SP]head[SP]monk[SP]has[SP]mastered[SP]an[SP]ancient\nmartial[SP]art.[SP]He's[SP]68[SP]years[SP]old,[SP]but[SP]he[SP]still\ntrains[SP]every[SP]day[SP]and[SP]jogs[SP]in[SP]the[SP]forest.",
     "nom_fr": "Novice",
-    "texte_fr": "Le maître a maîtrisé un art martial ancien.\nIl a 68 ans, mais il s'entraîne encore tous\nles jours et fait un jogging en forêt."
+    "texte_fr": "Le maître a maîtrisé un art martial ancien.\nIl a 68 ans, mais il s'entraîne encore\ntous les jours et fait un jogging en forêt."
   },
   {
     "id": 16,
@@ -252,7 +252,7 @@
     "nom_orig": "Young[SP]monk",
     "texte_orig": "His[SP]movements[SP]are[SP]as[SP]graceful[SP]as[SP]a[SP]monkey's.\nSometimes,[SP]hikers[SP]even[SP]mistake[SP]the[SP]head[SP]monk\nfor[SP]a[SP]mythical[SP]beast.",
     "nom_fr": "Novice",
-    "texte_fr": "Il est gracieux comme un singe.\nParfois, les randonneurs prennent même\nle maître pour une bête mythique."
+    "texte_fr": "Il est gracieux comme un singe.\nParfois, les randonneurs prennent\nmême le maître pour une bête mythique."
   },
   {
     "id": 17,
@@ -282,6 +282,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "Maya-san?[SP]What's[SP]up?[SP]We[SP]need[SP]to[SP]get[SP]to\nthe[SP]summit...",
     "nom_fr": "",
-    "texte_fr": "Rrrrrgh ! J-Je suis particulièrement\nà cran là ! Pourquoi j'ai mis tout ça !?"
+    "texte_fr": "Rrrrrgh ! J-Je suis particulièrement à\ncran là ! Pourquoi j'ai mis tout ça !?"
   }
 ]

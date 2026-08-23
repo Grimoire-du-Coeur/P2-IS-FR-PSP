@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Dude,[SP]you[SP]do[SP]the[SP]same[SP]thing,[SP]Ginko...[SP]Quit\nwasting[SP]your[SP]time[SP]picking[SP]fights[SP]with[SP]the\nsaleswoman.[1205][000F][SP]That's[SP]what[SP]Yukino-san[SP]would[SP]say.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Toi aussi tu fais pareil, Ginko... Arrête\nde te battre avec la vendeuse comme ça.\n[1205][000F]C'est ce que dirait Yukino-san."
+    "texte_fr": "Toi aussi tu fais pareil, Ginko... Arrête\nde te battre avec la vendeuse comme\nça. [1205][000F]C'est ce que dirait Yukino-san."
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]wonder[SP]if[SP]Jun-kun[SP]feels[SP]guilty[SP]about[SP]giving\nthe[SP]order[SP]to[SP]protect[SP]the[SP]city's[SP]people...[1205][U+0019][SP]But\nif[SP]he[SP]hadn't,[SP]even[SP]more[SP]people[SP]would[SP]have[SP]died.",
     "nom_fr": "Maya",
-    "texte_fr": "Je me demande si Jun-kun se sent coupable\nd'avoir ordonné de protéger\nles gens...[1205] Mais s'il ne l'avait pas fait, bien plus auraientpéri.[0019]"
+    "texte_fr": "Je me demande si Jun-kun se sent\ncoupable d'avoir ordonné de protéger\nles gens...[1205] Mais s'il ne l'avait\npas fait, bien plus auraientpéri.[0019]"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Maya",
     "texte_orig": "He's[SP]basically[SP]just[SP]too[SP]kind.[1205][000A][SP]That's[SP]why[SP]he\ntries[SP]to[SP]carry[SP]the[SP]weight[SP]of[SP]the[SP]world[SP]himself.[1205][000F]\nWe[SP]need[SP]to[SP]hurry[SP]and[SP]end[SP]this[SP]madness.",
     "nom_fr": "Maya",
-    "texte_fr": "Il est trop gentil.[1205][000A] C'est pourquoi il\nessaie de porter le poids du monde\n[000F]seul. On doit mettre fin à cette folie."
+    "texte_fr": "Il est trop gentil.[1205][000A]C'est pourquoi il essaie de\nporter le poids du monde [000F]seul.\nOn doit mettre fin à cette folie."
   },
   {
     "id": 4,
@@ -72,7 +72,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Those[SP]girls[SP]had[SP]a[SP]friend[SP]who[SP]was[SP]in[SP]the[SP]Masked\nCircle...[SP]I[SP]didn't[SP]know[SP]her...[SP]but[SP]she's[SP]out\nfighting[SP]right[SP]now.[SP]I[SP]hope[SP]she's[SP]safe...",
     "nom_fr": "Jun",
-    "texte_fr": "Ces filles avaient une amie dans le Cercle\nmasqué... Je la connaissais\npas... Mais elle se bat là-bas. J'espère qu'elle va bien."
+    "texte_fr": "Ces filles avaient une amie dans le Cercle\nmasqué... Je la connaissais pas... Mais elle\nse bat là-bas. J'espère qu'elle va bien."
   },
   {
     "id": 5,
@@ -116,7 +116,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Et que vendrez-vous?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Et que vendrez-vous?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -146,7 +146,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "What[SP]is[SP]it[SP]you[SP]want[SP]to[SP]discuss?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Vendeuse",
-    "texte_fr": "De quoi voulez-vous discuter?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[B_00][5501][B_00]",
+    "texte_fr": "De quoi voulez-vous discuter?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée\nATTENTION\nAucun bit actif.\n-Kanada[B_00][5501][B_00]",
     "question_orig": "What[SP]is[SP]it[SP]you[SP]want[SP]to[SP]discuss?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -201,7 +201,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Et que vendrez-vous?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Et que vendrez-vous?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -257,7 +257,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Ugh...[1205][000A][SP]I[SP]can[SP]barely[SP]stand...[1205][000A][SP]I[SP]feel[SP]like[SP]I'm\ngoing[SP]to[SP]faint...[1205][000F][SP]Is[SP]the[SP]city[SP]actually[SP]flying?[1205][000F]\nI[SP]can't[SP]tell[SP]what's[SP]real[SP]and[SP]what's[SP]not...",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Urgh.[1205]..[1205][000A] Je tiens à peine debout...[1205][000A] J'ai\n[000F]l'impression de m'évanouir... La ville vole\nvraiment? Je ne sais plus ce qui est réel..."
+    "texte_fr": "Urgh.[1205]..[1205][000A]Je tiens à peine debout...[1205][000A]J'ai [000F]l'impression de m'évanouir...\nLa ville vole vraiment? Je ne\nsais plus ce qui est réel..."
   },
   {
     "id": 12,
@@ -287,7 +287,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Why[SP]don't[SP]we[SP]go[SP]make[SP]a[SP]few[SP]last[SP]memories[SP]of\nour[SP]lives[SP]as[SP]humans?[1205][000F][SP]Just[SP]ditch[SP]blondie[SP]there.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Et si on créait\nquelques derniers souvenirs en tant\nqu'humains? [1205][000F]Laisse tomber le blond là."
+    "texte_fr": "Et si on créait quelques derniers\nsouvenirs en tant qu'humains?\n[1205][000F]Laisse tomber le blond là."
   },
   {
     "id": 14,
@@ -302,7 +302,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "I'm[SP]pretty[SP]sure[SP]I[SP]understand[SP]you[SP]as[SP]a[SP]person...[1205][000F]\nIt's[SP]useless[SP]to[SP]try[SP]and[SP]stop[SP]you.[1205][000A][SP]I[SP]know[SP]that.[1205][000F]\nI[SP]only[SP]want[SP]you[SP]to[SP]be[SP]safe...",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Je pense te connaître assez bien... Essayer\n[1205][000F]de t'arrêter ne sert à rien.[1205][000A] Je le sais. Je\nveux juste que tu sois en sécurité..."
+    "texte_fr": "Je pense te connaître assez bien...\nEssayer [1205][000F]de t'arrêter ne sert à rien.[1205][000A]Je le sais. Je veux juste\nque tu sois en sécurité..."
   },
   {
     "id": 15,
@@ -317,7 +317,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "I[SP]don't[SP]give[SP]a[SP]damn[SP]about[SP]blondie[SP]there...[1205][000F]\nBut[SP]you?[SP]I[SP]want[SP]you[SP]to[SP]come[SP]back[SP]to[SP]me[SP]safe.[1205][000F]\nThat's[SP]why[SP]I[SP]prepared[SP]my[SP]newest[SP]creations...",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Ce blond, je m'en\nfiche... Mais toi? [1205][000F]Je veux que\ntu reviennes sain et sauf. C'est pourquoi j'ai préparé mes dernières créations..."
+    "texte_fr": "Ce blond, je m'en fiche... Mais toi? [1205][000F]Je veux\nque tu reviennes sain et sauf. C'est pourquoi\nj'ai préparé mes dernières créations..."
   },
   {
     "id": 16,
@@ -332,7 +332,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Go[SP]on,[SP]take[SP]a[SP]look.[SP]Every[SP]one[SP]of[SP]them[SP]is[SP]a\nsecure[SP]piece[SP]of[SP]armor[SP]to[SP]protect[SP]you![SP]All\nmade[SP]with[SP]love...",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Allez, regarde. Chacune\nest une armure solide pour\nte protéger! Toutes faites avec amour..."
+    "texte_fr": "Allez, regarde. Chacune est une\narmure solide pour te protéger!\nToutes faites avec amour..."
   },
   {
     "id": 17,
@@ -347,7 +347,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Thank[SP]you.[SP]Please[SP]come[SP]again!\nI'll[SP]be[SP]waiting...",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Merci. Revenez nous\nvoir! Je vous attendrai..."
+    "texte_fr": "Merci. Revenez nous voir!\nJe vous attendrai..."
   },
   {
     "id": 18,
@@ -507,7 +507,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "We[SP]normally[SP]pay[SP]around[SP]half[SP]the[SP]original[SP]price\nfor[SP]things[SP]you[SP]sell[SP]us.[SP]We[SP]don't[SP]take[SP]equipped\nitems[SP]or[SP]special[SP]items.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Nous payons environ la moitié du prix\nd'origine. Pas d'objets\néquipés ni spéciaux."
+    "texte_fr": "Nous payons environ la moitié du prix\nd'origine. Pas d'objets équipés ni spéciaux."
   },
   {
     "id": 28,
@@ -582,7 +582,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Shopping[SP]for[SP]accessories[SP]works[SP]the[SP]same[SP]way.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Les accessoires s'achètent\nde la même façon."
+    "texte_fr": "Les accessoires s'achètent de la même façon."
   },
   {
     "id": 33,
@@ -627,7 +627,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "We[SP]normally[SP]pay[SP]around[SP]half[SP]the[SP]original[SP]price\nfor[SP]things[SP]you[SP]sell[SP]us.[SP]We[SP]don't[SP]take[SP]equipped\nitems[SP]or[SP]special[SP]items.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Nous payons environ la moitié du prix\nd'origine. Pas d'objets\néquipés ni spéciaux."
+    "texte_fr": "Nous payons environ la moitié du prix\nd'origine. Pas d'objets équipés ni spéciaux."
   },
   {
     "id": 36,

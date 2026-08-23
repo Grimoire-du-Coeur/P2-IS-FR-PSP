@@ -27,7 +27,7 @@
     "nom_orig": "Joker",
     "texte_orig": "The[SP]poker[SP]face[SP]doesn't[SP]fool[SP]me.[SP]I[SP]know.\nYou[SP]wanted[SP]to[SP]go[SP]to[SP]college...\nIsn't[SP]that[SP]so?",
     "nom_fr": "Joker",
-    "texte_fr": "Ton masque ne me trompe pas. Tu voulais\naller à la fac... N'est-ce pas?"
+    "texte_fr": "Ton masque ne me trompe pas. Tu\nvoulais aller à la fac... N'est-ce pas?"
   },
   {
     "id": 2,
@@ -117,7 +117,7 @@
     "nom_orig": "Joker",
     "texte_orig": "The[SP]poker[SP]face[SP]doesn't[SP]fool[SP]me.[SP]I[SP]know.\nYou[SP]wanted[SP]to[SP]follow[SP]your[SP]dream...\nIsn't[SP]that[SP]so?",
     "nom_fr": "Joker",
-    "texte_fr": "Ton masque ne me trompe pas. Je sais. Tu\nvoulais poursuivre ton rêve...\nN'est-ce pas?"
+    "texte_fr": "Ton masque ne me trompe pas. Je sais. Tu\nvoulais poursuivre ton rêve... N'est-ce pas?"
   },
   {
     "id": 8,
@@ -162,7 +162,7 @@
     "nom_orig": "Joker",
     "texte_orig": "The[SP]poker[SP]face[SP]doesn't[SP]fool[SP]me.[SP]I[SP]know.\nYou're[SP]a[SP]dunce[SP]who[SP]doesn't[SP]even[SP]know[SP]what\nhe[SP]wants[SP]to[SP]do.",
     "nom_fr": "Joker",
-    "texte_fr": "Ton masque ne me trompe pas. T'es un \ncancre qui sait même pas ce\nqu'il veut faire de sa vie."
+    "texte_fr": "Ton masque ne me trompe pas.\nT'es un cancre qui sait même pas\nce qu'il veut faire de sa vie."
   },
   {
     "id": 11,
@@ -327,7 +327,7 @@
     "nom_orig": "Joker",
     "texte_orig": "You[SP]escaped[SP]your[SP]fate[SP]this[SP]time...[1205][001E]\nBut[SP]you[SP]will[SP]get[SP]no[SP]rest.[1205][001E][SP]My[SP]demons\nwill[SP]be[SP]your[SP]assassins.",
     "nom_fr": "Joker",
-    "texte_fr": "Vous avez échappé au destin...[1205][001E] Mais vous\nn'aurez aucun répit.[1205][001E] Mes démons vous\nassassineront."
+    "texte_fr": "Vous avez échappé au destin...[1205][001E]\nMais vous n'aurez aucun répit.[1205][001E]\nMes démons vous assassineront."
   },
   {
     "id": 22,
@@ -357,7 +357,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I'm[SP]sorry,[SP]Ken...[1205][001E][SP]If[SP]I[SP]hadn't[SP]made[SP]you\nplay[SP]the[SP]game...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pardon, Ken...[1205][001E] Si je t'avais\npas forcé à jouer..."
+    "texte_fr": "Pardon, Ken...[1205][001E] Si je\nt'avais pas forcé à jouer..."
   },
   {
     "id": 24,
@@ -402,7 +402,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "I[SP]can't[SP]believe[SP]Joker[SP]is[SP]real...[1205][001E]\nBut[SP]why[SP]does[SP]he[SP]want[SP]revenge[SP]on[SP]us?",
     "nom_fr": "Lisa",
-    "texte_fr": "Le Joker est bien réel...[1205][001E] Mais\npourquoi nous en veut-il?"
+    "texte_fr": "Le Joker est bien réel...[1205][001E]\nMais pourquoi nous en veut-il?"
   },
   {
     "id": 27,
@@ -417,7 +417,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "We'll[SP]be[SP]safer[SP]if[SP]we[SP]stick[SP]close!\nC'mon,[SP][1113].[SP]Let's[SP]chase[SP]him[SP]down\ntogether,[SP]okay?",
     "nom_fr": "Lisa",
-    "texte_fr": "On est plus sûrs ensemble! Viens, [1113].\nOn va le traquer tous ensemble, d'accord?"
+    "texte_fr": "On est plus sûrs ensemble! Viens, [1113]. On\nva le traquer tous ensemble, d'accord?"
   },
   {
     "id": 28,
@@ -432,7 +432,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Ken...[1205][001E][SP]You[SP]were[SP]going[SP]to[SP]be[SP]a[SP]boxing\nchamp,[SP]right...?[1205][001E][SP]I[SP]was[SP]gonna[SP]cut[SP]a[SP]cool\ntheme[SP]song[SP]for[SP]you...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ken...[1205][001E] Tu devais être champion de boxe...[1205][001E]\nJ'allais te faire une super chanson\nd'entrée..."
+    "texte_fr": "Ken...[1205][001E] Tu devais être champion\nde boxe...[1205][001E] J'allais te faire\nune super chanson d'entrée..."
   },
   {
     "id": 29,
@@ -522,7 +522,7 @@
     "nom_orig": "Takeshi",
     "texte_orig": "I[SP]wanted...[SP]to[SP]be[SP]a[SP]doctor...[1205][001E][SP]But[SP]that'll\nnever[SP]happen...[1205][001E][SP]I[SP]don't[SP]want[SP]to[SP]think\nanymore...",
     "nom_fr": "Takeshi",
-    "texte_fr": "Je voulais... devenir médecin...[1205][001E] Mais ça\nn'arrivera jamais...[1205][001E] Je ne\nveux plus y penser..."
+    "texte_fr": "Je voulais... devenir médecin...[1205][001E]\nMais ça n'arrivera jamais...[1205][001E]\nJe ne veux plus y penser..."
   },
   {
     "id": 35,
@@ -552,7 +552,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Wait[SP]a[SP]sec,[SP][1113]...[1205][001E][SP]You're[SP]going\nafter[SP]that[SP]guy,[SP]right?[1205][001E][SP]You[SP]should[SP]stay\nout[SP]of[SP]this.[SP]I'll[SP]deal[SP]with[SP]him.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Attends, [1113]...[1205][001E] Tu vas partir\nà sa poursuite, hein?[1205][001E] Reste en\ndehors de ça. Je m'en charge."
+    "texte_fr": "Attends, [1113]...[1205][001E] Tu vas partir à sa poursuite,\nhein?[1205][001E] Reste en dehors de ça. Je m'en charge."
   },
   {
     "id": 37,
@@ -567,7 +567,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Whoa[SP]there,[SP]both[SP]of[SP]you![1205][001E][SP]You're[SP]up[SP]against\na[SP]real[SP]monster[SP]here![SP]If[SP]we[SP]don't[SP]stick\ntogether,[SP]you'll[SP]die!",
     "nom_fr": "Lisa",
-    "texte_fr": "Doucement, vous deux![1205][001E]\nC'est un vrai monstre! Si\non reste pas ensemble, vous allez crever!"
+    "texte_fr": "Doucement, vous deux![1205][001E] C'est un vrai monstre!\nSi on reste pas ensemble, vous allez crever!"
   },
   {
     "id": 38,
@@ -612,7 +612,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "If[SP]that's[SP]the[SP]case,[SP]maybe[SP]I[SP]can\nhelp...[1205][001E][SP]I'll[SP]go[SP]see[SP]what[SP]I[SP]can[SP]find\nout[SP]about[SP]Joker.",
     "nom_fr": "Kozy",
-    "texte_fr": "Dans ce cas, je peux sûrement aider...[1205][001E] Je vais\nvoir ce que je trouve sur le Joker."
+    "texte_fr": "Dans ce cas, je peux sûrement aider...[1205][001E] Je\nvais voir ce que je trouve sur le Joker."
   },
   {
     "id": 41,
@@ -627,7 +627,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "While[SP]I[SP]do[SP]that,[SP]you[SP]should[SP]prepare[SP]to\ndefend[SP]yourselves...",
     "nom_fr": "Kozy",
-    "texte_fr": "En attendant, préparez-vous à\nvous défendre..."
+    "texte_fr": "En attendant, préparez-vous\nà vous défendre..."
   },
   {
     "id": 42,
@@ -642,7 +642,7 @@
     "nom_orig": "Kozy",
     "texte_orig": "That[SP]reminds[SP]me...[1205][001E][SP]Rumor[SP]has[SP]it[SP]that[SP][E4][NULL][NULL][0006]the\nramen[SP]shop[SP]in[SP]Kameya[SP]Alley[SP]sells[SP]weapons[E4][NULL][NULL][0002]...",
     "nom_fr": "Kozy",
-    "texte_fr": "Ça me rappelle...[1205][001E] La rumeur dit que [E4][NULL][NULL][0006]le ramen\nde l'allée Kameya vend des armes[E4][NULL][NULL][0002]..."
+    "texte_fr": "Ça me rappelle...[1205][001E] La rumeur dit que [E4][NULL][NULL][0006]le\nramen de l'allée Kameya vend des armes[E4][NULL][NULL][0002]..."
   },
   {
     "id": 43,
@@ -672,6 +672,6 @@
     "nom_orig": "Lisa",
     "texte_orig": "If[SP]rumors[SP]are[SP]coming[SP]true,[SP]it's[SP]worth[SP]a\nshot...[1205][001E][SP]Having[SP]just[SP]our[SP]Personas[SP]makes\nme[SP]nervous,[SP]so[SP]to[SP]the[SP]ramen[SP]shop[SP]it[SP]is!",
     "nom_fr": "",
-    "texte_fr": "Si les rumeurs se réalisent, ça vaut\nla peine d'essayer...[1205][001E] N'avoir que\nnos Personas ne suffira pas."
+    "texte_fr": "Si les rumeurs se réalisent, ça\nvaut la peine d'essayer...[1205][001E] N'avoir\nque nos Personas ne suffira pas."
   }
 ]

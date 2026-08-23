@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Looks[SP]like[SP]whoever[SP]takes[SP]a[SP]chance[SP]on[SP]Ginko\nisn't[SP]getting[SP]away[SP]clean...[1205][000F][SP]He'd[SP]be[SP]risking\nhis[SP]life[SP]for[SP]love.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Quiconque tente sa chance\navec Ginko s'en sort pas\nindemne.[1205][000F].. Il risque sa vie pour l'amour."
+    "texte_fr": "Quiconque tente sa chance avec\nGinko s'en sort pas indemne...[1205][000F]\nIl risque sa vie pour l'amour."
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Panicking[SP]won't[SP]do[SP]us[SP]any[SP]good.[1205][000F][SP]We[SP]know\nthey're[SP]both[SP]in[SP]there.[1205][000F][SP]Let's[SP]corner[SP]them\nand[SP]make[SP]them[SP]quit[SP]this[SP]crap!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Paniquer ne sert à\n[1205][000F] rien. [000F]On sait qu'ils sont là.\nAcculons-les et obligeons-les à arrêter ça!"
+    "texte_fr": "Paniquer ne sert à [1205][000F] rien. [000F]On\nsait qu'ils sont là. Acculons-les\net obligeons-les à arrêter ça!"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "My[SP]old[SP]man[SP]may[SP]not[SP]look[SP]like[SP]it,[SP]but[SP]he's[SP]an\naikido[SP]master.[SP]Even[SP]his[SP]brain's[SP]made[SP]of[SP]muscle,\nI[SP]bet...[1205][000F][SP]He'll[SP]be[SP]fine,[SP]whatever[SP]happens.",
     "nom_fr": "Ginko",
-    "texte_fr": "Mon vieux a l'air de rien, mais c'est un\nmaître en aïkido. Son cerveau aussi est en \nbéton..[1205]. [000F]Il s'en sortira quoi qu'il arrive."
+    "texte_fr": "Mon vieux a l'air de rien, mais c'est un\nmaître en aïkido. Son cerveau aussi est en\nbéton..[1205]. Il s'en sortira quoi qu'il arrive."
   },
   {
     "id": 4,
@@ -87,7 +87,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hmm...[1205][000A][SP]That[SP]Fuhrer[SP]and[SP]Jun's[SP]dad[SP]are[SP]nowhere\nto[SP]be[SP]found.[1205][000F][SP]Where[SP]are[SP]they?",
     "nom_fr": "Ginko",
-    "texte_fr": "Hmm.[1205]..[1205][000A] Le Führer et le père de Jun\nsont introuvables. [000F]Où sont-ils?"
+    "texte_fr": "Hmm.[1205]..[1205][000A]Le Führer et le père de Jun\nsont introuvables. [000F]Où sont-ils?"
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Did[SP]Lisa's[SP]father[SP]defeat[SP]the[SP]Last[SP]Battalion[SP]\nwith[SP]his[SP]bare[SP]hands?[1205][000A][SP]That's[SP]amazing...[1205][000F][SP]I[SP]don't\nknow[SP]if[SP]even[SP]my[SP]Persona's[SP]that[SP]strong.",
     "nom_fr": "Maya",
-    "texte_fr": "Le père de Lisa a battu le Bataillon à\nmains nues?[1205][000A] C'est incroyable.[000F].. Ma\nPersona n'est peut-être pas aussi forte."
+    "texte_fr": "Le père de Lisa a battu\nle Bataillon à mains nues?[1205][000A]C'est incroyable... Ma Persona\nn'est peut-être pas aussi forte."
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya",
     "texte_orig": "We[SP]can't[SP]ignore[SP]the[SP]students[SP]at[SP]Sevens.[1205][000F]\nWhat[SP]should[SP]we[SP]do,[SP][1113]-kun?",
     "nom_fr": "Maya",
-    "texte_fr": "On peut pas ignorer les élèves de[1205][000F]\nSeven. [000F]Qu'on fait quoi, [1113]-kun?"
+    "texte_fr": "On peut pas ignorer les élèves\nde[1205][000F] Seven. [000F]Qu'on fait quoi, [1113]-kun?"
   },
   {
     "id": 8,
@@ -132,7 +132,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It's[SP]true[SP]that[SP]Xibalba[SP]has[SP]a[SP]disturbing\natmosphere...[1205][000A][SP]like[SP]someone's[SP]always[SP]watching\nus[SP]there...",
     "nom_fr": "Maya",
-    "texte_fr": "C'est vrai, Xibalba a une ambiance\ntroublante...[1205][000A] Comme si quelqu'un\nnous regardait toujours..."
+    "texte_fr": "C'est vrai, Xibalba a une\nambiance troublante...[1205][000A]Comme si quelqu'un nous regardait toujours..."
   },
   {
     "id": 9,
@@ -147,7 +147,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It[SP]could[SP]still[SP]be[SP]hiding[SP]some[SP]secrets[SP]we're\nnot[SP]prepared[SP]for.[1205][000A][SP]It[SP]might[SP]be[SP]best[SP]to[SP]be\nvery[SP]careful[SP]as[SP]we[SP]go[SP]through[SP]it...",
     "nom_fr": "Maya",
-    "texte_fr": "Il cache peut-être des secrets pour\nlesquels on n'est pas prêt.[1205][000A] Mieux vaut\nêtre très prudent en le traversant..."
+    "texte_fr": "Il cache peut-être des secrets\npour lesquels on n'est pas prêt.[1205][000A]Mieux vaut être très\nprudent en le traversant..."
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Jun",
     "texte_orig": "So[SP]that's[SP]Lisa's[SP]father...[1205][000F][SP]I[SP]vaguely[SP]remember\nhim.[SP]He[SP]wore[SP]that[SP]haori[SP]coat[SP]back[SP]then,[SP]too.",
     "nom_fr": "Jun",
-    "texte_fr": "Alors c'est le père\n[1205][000F]de Lisa... Je me souviens vaguement\nde lui. Il portait déjà ce haori."
+    "texte_fr": "Alors c'est le père [1205][000F]de Lisa... Je me souviens\nvaguement de lui. Il portait déjà ce haori."
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
     "nom_orig": "Jun",
     "texte_orig": "It[SP]looks[SP]like[SP]the[SP]entrance[SP]to[SP]Xibalba[SP]has\nalready[SP]been[SP]opened.[1205][000F][SP]Ms.[SP]Ideal[SP]is[SP]no[SP]doubt\ninside...[1205][000F][SP]I[SP]think[SP]we[SP]ought[SP]to[SP]hurry.",
     "nom_fr": "Jun",
-    "texte_fr": "L'entrée de Xibalba est déjà ouverte. [1205][000F] Mme\n[1205][000F]Idéale est sûrement là... On devrait se\ndépêcher."
+    "texte_fr": "L'entrée de Xibalba est déjà\nouverte. [1205][000F] Mme [1205][000F]Idéale est sûrement\nlà... On devrait se dépêcher."
   },
   {
     "id": 12,
@@ -192,7 +192,7 @@
     "nom_orig": "Jun",
     "texte_orig": "When[SP]I'm[SP]inside[SP]Xibalba,[SP]I[SP]feel[SP]like[SP]my[SP]heart\nis[SP]laid[SP]bare[SP]for[SP]someone[SP]to[SP]see...[1205][000F][SP]It[SP]feels\nvery[SP]strange...",
     "nom_fr": "Jun",
-    "texte_fr": "Dans Xibalba, j'ai l'impression\nque mon cœur est mis à nu devant[1205][000F]\nquelqu'un.[000F].. Très étrange..."
+    "texte_fr": "Dans Xibalba, j'ai l'impression\nque mon cœur est mis à nu devant[1205][000F]\nquelqu'un... Très étrange..."
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
     "nom_orig": "Jun",
     "texte_orig": "That[SP]anxiety...[1205][000A][SP]What[SP]could[SP]it[SP]be...?",
     "nom_fr": "Jun",
-    "texte_fr": "Cette angoisse...[1205][000A] Qu'est-ce...?"
+    "texte_fr": "Cette angoisse...[1205][000A]Qu'est-ce...?"
   },
   {
     "id": 14,
@@ -263,7 +263,7 @@
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]There[SP]have[SP]been[SP]no\ndeliveries...[SP]Are[SP]you[SP]early,[SP]perhaps?[SP]Why[SP]not\ncome[SP]back[SP]after[SP]the[SP]passing[SP]of[SP]some[SP]time?",
     "nom_fr": "Père de Lisa",
-    "texte_fr": "Le tirage au sort, vous dites? Il n'y a pas\neu de livraison... Êtes-vous en avance?\nRevenez après quelque temps, s'il vous plaît."
+    "texte_fr": "Le tirage au sort, vous dites? Il n'y a\npas eu de livraison... Êtes-vous en avance?\nRevenez après quelque temps, s'il vous plaît."
   },
   {
     "id": 17,
@@ -278,7 +278,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]There[SP]have[SP]been[SP]no\ndeliveries...[SP]Are[SP]you[SP]early,[SP]perhaps?[SP]Why[SP]not\ncome[SP]back[SP]after[SP]the[SP]passing[SP]of[SP]some[SP]time?",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort, vous dites? Il n'y a pas\neu de livraison... Êtes-vous en avance?\nRevenez après quelque temps, s'il vous plaît."
+    "texte_fr": "Le tirage au sort, vous dites? Il n'y a\npas eu de livraison... Êtes-vous en avance?\nRevenez après quelque temps, s'il vous plaît."
   },
   {
     "id": 18,
@@ -323,7 +323,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort,\nvous dites? Ah, oui, bien sûr.\nOn vous l'a livré ici. Allez, prenez-le. Lettre [NULL][NULL]Merci de votre participation au tirage. Hélas, vous n'êtes pas gagnant cettefois. Nous vous encourageons à continuer![NULL][NULL]"
+    "texte_fr": "Le tirage au sort, vous dites? Ah,\noui, bien sûr. On vous l'a livré ici.\nAllez, prenez-le. Lettre [NULL][NULL]Merci de\nvotre participation au tirage. Hélas,\nvous n'êtes pas gagnant cettefois.\nNous vous encourageons à continuer![NULL][NULL]"
   },
   {
     "id": 21,
@@ -338,7 +338,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort,\nvous dites? Ah, oui, bien sûr.\nOn vous l'a livré ici. Allez, prenez-le. Lettre [NULL][NULL]Merci de votre participation au tirage. Félicitations! Vous avez étésélectionné comme gagnant! [NULL][NULL]Veuillez accepter [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix. Continuez à participer![NULL][NULL] Vous n'avez pas de place pour un(e) autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+    "texte_fr": "Le tirage au sort, vous dites? Ah,\noui, bien sûr. On vous l'a livré ici.\nAllez, prenez-le. Lettre [NULL][NULL]Merci de votre\nparticipation au tirage. Félicitations!\nVous avez étésélectionné comme gagnant!\n[NULL][NULL]Veuillez accepter [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix.\nContinuez à participer![NULL][NULL] Vous n'avez\npas de place pour un(e) autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
   },
   {
     "id": 22,
@@ -353,7 +353,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "Ah,[SP]so[SP]this[SP]is[SP]the[SP]Last[SP]Battalion.[1205][000F][SP]They[SP]tried\nto[SP]force[SP]their[SP]way[SP]into[SP]my[SP]home[SP]without[SP]my\npermission,[SP]so[SP]I[SP]gave[SP]them[SP]a[SP]thrashing!",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Ah, c'est donc le Bataillon. [1205][000F]Ils ont\nessayé de s'introduire chez moi de force,\nsans permission, alors je les ai corrigés!"
+    "texte_fr": "Ah, c'est donc le Bataillon. [1205][000F]Ils ont essayé\nde s'introduire chez moi de force, sans\npermission, alors je les ai corrigés!"
   },
   {
     "id": 23,
@@ -368,7 +368,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "By[SP]the[SP]by,[SP][1113]-kun...[SP]I[SP]discovered[SP]a\nmoment[SP]ago[SP]on[SP]the[SP]news[SP]that[SP]you're[SP]fighting\nagainst[SP]them.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "À propos, [1113]-kun... J'ai appris il y a\npeu aux informations que tu te bats contre\neux."
+    "texte_fr": "À propos, [1113]-kun... J'ai appris il y a peu\naux informations que tu te bats contre eux."
   },
   {
     "id": 24,
@@ -383,7 +383,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "I[SP]am[SP]powerless[SP]to[SP]stop[SP]my[SP]daughter[SP]at[SP]this[SP]point.[1205][000F]\nThat[SP]is[SP]why[SP]I'd[SP]like[SP]to[SP]entrust[SP]her[SP]safety[SP]to\nyou.[SP]Please[SP]look[SP]after[SP]Lisa[SP]in[SP]my[SP]stead.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Je ne peux plus retenir\nma fille à ce stade. C'est\n][000F]C'est pourquoi je voudrais vous confier sa sécurité. Veuillez veiller sur Lisa à maplace."
+    "texte_fr": "Je ne peux plus retenir ma fille à\nce stade. C'est ][000F]C'est pourquoi je\nvoudrais vous confier sa sécurité.\nVeuillez veiller sur Lisa à maplace."
   },
   {
     "id": 25,
@@ -398,7 +398,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "I[SP]heard[SP]the[SP]soldiers[SP]invaded[SP]Seven[SP]Sisters[SP]High\nas[SP]well.[SP]Are[SP]the[SP]students[SP]and[SP]teachers[SP]there\nsafe?[1205][000F][SP]What[SP]gall,[SP]attacking[SP]even[SP]the[SP]schools...!",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "J'ai entendu que des soldats ont envahi le\nLycée Seven Sisters. Les élèves et profs[1205][000F]\nsont-ils sains? [000F]S'attaquer aux lycées, quelleaudace!"
+    "texte_fr": "J'ai entendu que des soldats ont\nenvahi le Lycée Seven Sisters. Les\nélèves et profs[1205][000F] sont-ils sains?\n[000F]S'attaquer aux lycées, quelleaudace!"
   },
   {
     "id": 26,
@@ -443,6 +443,6 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "I[SP]heard[SP]someone[SP]stepped[SP]in[SP]to[SP]save[SP]the[SP]students\nof[SP]Seven[SP]Sisters[SP]High.[1205][000F][SP]So[SP]there[SP]are[SP]still[SP]those\nin[SP]Sumaru[SP]willing[SP]to[SP]stand[SP]up[SP]and[SP]fight...",
     "nom_fr": "",
-    "texte_fr": "J'ai entendu que quelqu'un était intervenu\npour sauver les élèves de Seven Sisters High.[1205][000F]\nIl reste donc des gens à Sumaru prêts à se battre..."
+    "texte_fr": "J'ai entendu que quelqu'un était\nintervenu pour sauver les élèves de\nSeven Sisters High.[1205][000F] Il reste donc des\ngens à Sumaru prêts à se battre..."
   }
 ]

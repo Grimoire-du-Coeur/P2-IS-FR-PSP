@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "They[SP]say[SP]that[SP]once[SP]you[SP]enter[SP]the[SP]air[SP]raid\nshelter[SP]up[SP]ahead,[SP]you[SP]can[SP]never[SP]get[SP]out.[1205][000F]\nCareful[SP]not[SP]to[SP]wander[SP]in[SP]there.",
     "nom_fr": "Eikichi",
-    "texte_fr": "On dit qu'entrer dans l'abri\nanti-aérien plus loin est un aller sans[1205][000F]\nretour. [000F]Fais gaffe à pas t'y aventurer."
+    "texte_fr": "On dit qu'entrer dans l'abri anti-aérien\nplus loin est un aller sans[1205][000F] retour.\n[000F]Fais gaffe à pas t'y aventurer."
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Argh![SP]There's[SP]mud[SP]on[SP]my[SP]favorite[SP]tunic...[1205][000F]\nDamn[SP]that[SP]Yasuo![SP]I'm[SP]sticking[SP]him[SP]with[SP]the\ncleaning[SP]bill!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Argh! Ma tunique préférée est pleine de\n[1205][000F]boue... Maudit Yasuo!\nIl paiera le pressing!"
+    "texte_fr": "Argh! Ma tunique préférée est pleine de\n[1205][000F]boue... Maudit Yasuo! Il paiera le pressing!"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Yikes...[SP]This[SP]sure[SP]feels[SP]disgusting.[SP]Cuss[SP]High\nreally[SP]lives[SP]up[SP]to[SP]its[SP]name,[SP]having[SP]something\nlike[SP]this.[SP]C'mon,[SP]let's[SP]get[SP]out[SP]of[SP]here.",
     "nom_fr": "Ginko",
-    "texte_fr": "Yikes... C'est vraiment dégoûtant. Le Lycée\nKakasu porte bien son nom pour abriter un\ntel endroit. Allez, sortons d'ici."
+    "texte_fr": "Yikes... C'est vraiment dégoûtant. Le Lycée\nKakasu porte bien son nom pour abriter\nun tel endroit. Allez, sortons d'ici."
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I-It[SP]wasn't[SP]my[SP]fault![SP]Eikichi[SP]went[SP]in,[SP]so[SP]I\nhad[SP]no[SP]choice...[1205][000F][SP]Right,[SP][1113]?",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est sa faute! J'ai dû suivre\nEikichi... [1205][000F]Pas vrai, [1113]?"
+    "texte_fr": "C'est sa faute! J'ai dû\nsuivre Eikichi... [1205][000F]Pas vrai, [1113]?"
   },
   {
     "id": 4,
@@ -72,7 +72,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Know[SP]what,[SP][1113]?[SP]Up[SP]ahead[SP]is[SP]a[SP]bomb\nshelter[SP]they[SP]built[SP]way[SP]back[SP]when.[SP]I[SP]wonder\nwhat[SP]it's[SP]like[SP]in[SP]there...",
     "nom_fr": "Maya",
-    "texte_fr": "Tu sais [1113]? Plus loin y a un\nvieil abri anti-aérien. Je me demande\ncomment c'est à l'intérieur..."
+    "texte_fr": "Tu sais [1113]? Plus loin y a un vieil\nabri anti-aérien. Je me demande\ncomment c'est à l'intérieur..."
   },
   {
     "id": 5,
@@ -132,7 +132,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Oh,[SP]don't[SP]go[SP]in[SP]there.[SP]It[SP]was[SP]originally[SP]an[SP]air\nraid[SP]shelter,[SP]but[SP]rumor[SP]has[SP]it[SP]that[SP]once[SP]you[SP]go\ninside,[SP]you[SP]can't[SP]find[SP]the[SP]exit.",
     "nom_fr": "Élève",
-    "texte_fr": "N'entrez pas. C'était un abri anti-aérien à\nla base, mais on raconte qu'une fois à\nl'intérieur, on ne trouve jamais la sortie."
+    "texte_fr": "N'entrez pas. C'était un abri anti-aérien\nà la base, mais on raconte qu'une fois à\nl'intérieur, on ne trouve jamais la sortie."
   },
   {
     "id": 9,
@@ -162,7 +162,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Oh,[SP]don't[SP]go[SP]in[SP]there.[SP]It[SP]was[SP]originally[SP]an[SP]air\nraid[SP]shelter,[SP]but[SP]rumor[SP]has[SP]it[SP]that[SP]once[SP]you[SP]go\ninside,[SP]you[SP]can't[SP]find[SP]the[SP]exit.",
     "nom_fr": "Élève",
-    "texte_fr": "N'entrez pas. C'était un abri anti-aérien à\nla base, mais on raconte qu'une fois à\nl'intérieur, on ne trouve jamais la sortie."
+    "texte_fr": "N'entrez pas. C'était un abri anti-aérien\nà la base, mais on raconte qu'une fois à\nl'intérieur, on ne trouve jamais la sortie."
   },
   {
     "id": 11,
@@ -222,7 +222,7 @@
     "nom_orig": "President's[SP]voice",
     "texte_orig": "I-I[SP]was[SP]wrong...[1205][000F][SP]I'll[SP]never[SP]do[SP]it[SP]again...[1205][000F]\nJ-Just[SP]forgive[SP]me...",
     "nom_fr": "Président",
-    "texte_fr": "J-J'avais tort.[1205][000F].. Je ne le referai\nplus jamais... P-Pardonnez-moi..."
+    "texte_fr": "J-J'avais tort...[1205][000F] Je ne le referai\nplus jamais... P-Pardonnez-moi..."
   },
   {
     "id": 15,
@@ -282,7 +282,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Arrgh...[1205][000F][SP]Why[SP]do[SP]they[SP]rush[SP]in[SP]without[SP]thinking!?",
     "nom_fr": "Yukino",
-    "texte_fr": "Arrgh.[1205][000F].. Pourquoi\nfoncent-ils sans réfléchir!?"
+    "texte_fr": "Arrgh...[1205][000F] Pourquoi\nfoncent-ils sans réfléchir!?"
   },
   {
     "id": 19,
@@ -297,6 +297,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "Better[SP]go[SP]after[SP]them.[1205][000F][SP]C'mon,[SP]let's[SP]go.",
     "nom_fr": "",
-    "texte_fr": "On ferait mieux d'aller les rejoindre.[1205][000F]\nAllez, on y va."
+    "texte_fr": "On ferait mieux d'aller les\nrejoindre.[1205][000F] Allez, on y va."
   }
 ]

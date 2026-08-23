@@ -27,7 +27,7 @@
     "nom_orig": "Maya",
     "texte_orig": "NOOOO![SP]Th-The[SP]fire![SP]Help[SP]me,[SP]Daddy!\nMy[SP]hands...[SP]My[SP]hands[SP]are[SP]burning!",
     "nom_fr": "Maya",
-    "texte_fr": "NOOON! L-Le feu! Aidez-moi, Papa!\nMes mains... Elles brûlent!"
+    "texte_fr": "NOOON! L-Le feu! Aidez-moi,\nPapa! Mes mains... Elles brûlent!"
   },
   {
     "id": 2,
@@ -112,7 +112,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I'm[SP]sorry...[SP]I'm...[SP]I'm[SP]okay[SP]now...[1205][001E]\nI'm[SP]just...[SP]so[SP]scared[SP]of[SP]his[SP]fires...[1205][001E]\nShameful,[SP]isn't[SP]it...?",
     "nom_fr": "Maya",
-    "texte_fr": "Pardon... Ça va\nmaintenant...[1205][001E] C'est juste...\nj'ai si peur de\nses feux...[1205][001E] C'est honteux...?"
+    "texte_fr": "Pardon... Ça va maintenant...[1205][001E] C'est juste...\nj'ai si peur de ses feux...[1205][001E] C'est honteux...?"
   },
   {
     "id": 7,
@@ -228,7 +228,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "The[SP][1432][NULL][NULL][0014]foreign[SP]song[1432][NULL][NULL][0014]...[SP]the[SP][1432][NULL][NULL][0014]flames[SP]of\nexpiation[1432][NULL][NULL][0014]...[1205][001E][SP]It[SP]can't[SP]be[SP]anything[SP]but\nthe[SP]Oracle[SP]of[SP]Maia![SP]B-But[SP]who...!?\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nExcuse[SP]me...[SP]You're[SP]Ms.[SP]Okamura[SP]from[SP]Sevens,\nright?[SP]My[SP]name[SP]is[SP]Maya[SP]Amano,[SP]I'm[SP]with\nCoolest's[SP]editorial[SP]division.",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "La [1432][NULL][NULL][0014]chanson étrangere[1432][NULL][NULL][0014]... Les [1432][NULL][NULL][0014]flammes de\nl'expiation[1432][NULL][NULL][0014]...[1205][001E] C'est sûrement l'Oracle de\nMaia! M-Mais qui...!? [E1][E2] [E3][E4][NULL][NULL]\"Maya Excusez-moi...\nVous êtes Mme Okamura\nde Seven, n'est-ce pas?\nJe suis Maya Amano,\nde la redaction deCoolest."
+    "texte_fr": "La [1432][NULL][NULL][0014]chanson étrangere[1432][NULL][NULL][0014]... Les [1432][NULL][NULL][0014]flammes\nde l'expiation[1432][NULL][NULL][0014]...[1205][001E] C'est sûrement\nl'Oracle de Maia! M-Mais qui...!? [E1][E2]\n[E3][E4][NULL][NULL]\"Maya Excusez-moi... Vous êtes Mme\nOkamura de Seven, n'est-ce pas? Je suis\nMaya Amano, de la redaction deCoolest."
   },
   {
     "id": 14,
@@ -258,7 +258,7 @@
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "H-How[SP]do[SP]you[SP]know[SP]about[SP]the[SP]Oracle!?[SP]Only\nKashihara[SP]and[SP]I[SP]know[SP]about[SP]it...[1205][001E][SP]Us[SP]and\nSudou-kun...!",
     "nom_fr": "Mme Idéale",
-    "texte_fr": "Comment savez vous pour l'Oracle!? Seuls\nKashihara et moi savons...[1205][001E] Nous et\nSudou-kun...!"
+    "texte_fr": "Comment savez vous pour\nl'Oracle!? Seuls Kashihara et moi\nsavons...[1205][001E] Nous et Sudou-kun...!"
   },
   {
     "id": 16,
@@ -318,7 +318,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Wh...[SP]What[SP]was[SP]that[SP]all[SP]about!?[SP]She[SP]seemed\nto[SP]know[SP]a[SP]lot...",
     "nom_fr": "Maya",
-    "texte_fr": "Qu... C'était quoi!? Elle avait\nl'air d'en savoir long..."
+    "texte_fr": "Qu... C'était quoi!? Elle\navait l'air d'en savoir long..."
   },
   {
     "id": 20,
@@ -333,7 +333,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "We[SP]can[SP]get[SP]back[SP]to[SP]her[SP]later.[SP]Let's[SP]hurry\nto[SP]the[SP]next[SP]target[SP]right[SP]now!",
     "nom_fr": "Yukino",
-    "texte_fr": "On reviendra après.\nVite, la prochaine cible!"
+    "texte_fr": "On reviendra après. Vite, la prochaine cible!"
   },
   {
     "id": 21,
@@ -363,6 +363,6 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]got[SP]through[SP]to[SP]her.[SP]She's[SP]gonna[SP]meet[SP]us\nat[SP]Double[SP]Slash[SP]in[SP]Aoba.[SP]C'mon!",
     "nom_fr": "",
-    "texte_fr": "Je l'ai eu. Elle nous retrouve\nà Double Slash à Aoba. Allez, on y va !"
+    "texte_fr": "Je l'ai eu. Elle nous retrouve à\nDouble Slash à Aoba. Allez, on y va !"
   }
 ]
