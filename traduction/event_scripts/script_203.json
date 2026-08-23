@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Looks[SP]like[SP]she's[SP]okay.[SP]She's[SP]just[SP]out[SP]cold.[1205][001E]\nGeez,[SP]what[SP]a[SP]crazy[SP]bitch...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nI[SP]think...[SP]She[SP]really[SP]was[SP]willing[SP]to[SP]die...[1205][001E]\nThe[SP]final[SP]step[SP]in[SP]the[SP]Oracle[SP]is[SP]the[SP]sacrifice\nof[SP]the[SP]Maia[SP]Maiden...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Elle s'en sort. Elle est juste\névanouie.[1205][001E] Putain, quelle folle...[E1][E2]\n[E3][E4][NULL][NULL]\"Jun\nJe pense... Elle était vraiment prête à\nmourir...[1205][001E] La dernière étape de l'Oracleest\nle sacrifice de la Vierge Maia..."
+    "texte_fr": "Elle s'en sort. Elle est juste évanouie.[1205][001E]\nPutain, quelle folle...[E1][E2] [E3][E4][NULL][NULL]\"Jun Je pense...\nElle était vraiment prête à mourir...[1205][001E]\nLa dernière étape de l'Oracleest\nle sacrifice de la Vierge Maia..."
   },
   {
     "id": 1,
@@ -87,7 +87,7 @@
     "nom_orig": "Maya",
     "texte_orig": "An[SP]impostor[SP]born[SP]from[SP]our[SP]beliefs...[1205][001E][SP]Just[SP]like\nour[SP]shadows.[1205][001E][SP]Like[SP]the[SP]other[SP][1432][NULL][NULL][0014]me[1432][NULL][NULL][0014][SP]created\nby[SP]the[SP]circulating[SP]rumors...",
     "nom_fr": "Maya",
-    "texte_fr": "Un imposteur né de nos croyances...[1205][001E] Tout\ncomme nos Ombres.[1205][001E] Comme l'autre [1432][NULL][NULL][0014]moi[1432][NULL][NULL][0014] créé\npar les rumeurs qui circulent..."
+    "texte_fr": "Un imposteur né de nos croyances...[1205][001E]\nTout comme nos Ombres.[1205][001E] Comme l'autre [1432][NULL][NULL][0014]moi[1432][NULL][NULL][0014]\ncréé par les rumeurs qui circulent..."
   },
   {
     "id": 6,
@@ -192,7 +192,7 @@
     "nom_orig": "Jun",
     "texte_orig": "It's[SP]all[SP]my[SP]fault...[1205][001E][SP]I[SP]didn't[SP]want[SP]you[SP]to[SP]know[SP]who\nmy[SP]real[SP]father[SP]was...[SP]so[SP]I[SP]lied[SP]to[SP]you[SP]all...",
     "nom_fr": "Jun",
-    "texte_fr": "C'est ma faute...[1205][001E] Je voulais vous\ncacher qui était mon père...\nalors je vous ai menti à tous..."
+    "texte_fr": "C'est ma faute...[1205][001E] Je voulais\nvous cacher qui était mon père...\nalors je vous ai menti à tous..."
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It's[SP]not[SP]your[SP]fault,[SP]Jun-kun.[1205][001E][SP]Someone's[SP]been\nwatching[SP]us[SP]all[SP]this[SP]time,[SP]ever[SP]since[SP]then.\nI'm[SP]sure[SP]of[SP]it[SP]now...",
     "nom_fr": "Maya",
-    "texte_fr": "Ce n'est pas ta\nfaute, Jun-kun.[1205][001E] Quelqu'un nous\nobservait depuis lors.\nJ'en suis certaine..."
+    "texte_fr": "Ce n'est pas ta faute, Jun-kun.[1205][001E]\nQuelqu'un nous observait depuis\nlors. J'en suis certaine..."
   },
   {
     "id": 14,
@@ -282,7 +282,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "This[SP]thing[SP]that's[SP]been[SP]watching[SP]us[SP]ever[SP]since\nthen...[SP]Why?[1205][001E][SP]Why[SP]would[SP]it[SP]do[SP]that?",
     "nom_fr": "Ginko",
-    "texte_fr": "Cette chose nous épiait depuis...[1205][001E] Pourquoi?\nMais pourquoi ferait-elle ça?"
+    "texte_fr": "Cette chose nous épiait depuis...[1205][001E]\nPourquoi? Mais pourquoi ferait-elle ça?"
   },
   {
     "id": 19,
@@ -372,7 +372,7 @@
     "nom_orig": "Jun",
     "texte_orig": "My[SP]real[SP]father...[1205][001E][SP]probably[SP]had[SP]nothing[SP]besides\nhis[SP]fantasies[SP]divorced[SP]from[SP]reality...",
     "nom_fr": "Jun",
-    "texte_fr": "Mon vrai père...[1205][001E] n'avait rien d'autre que\nses fantasmes, coupé de la réalité..."
+    "texte_fr": "Mon vrai père...[1205][001E] n'avait rien d'autre\nque ses fantasmes, coupé de la réalité..."
   },
   {
     "id": 25,
@@ -387,6 +387,6 @@
     "nom_orig": "Jun",
     "texte_orig": "But[SP]he[SP]was[SP]kind[SP]to[SP]me...[1205][001E][SP]Why[SP]wasn't[SP]I[SP]proud\nenough[SP]to[SP]claim[SP]him[SP]as[SP]my[SP]father[SP]that[SP]day...?",
     "nom_fr": "",
-    "texte_fr": "Mais il était gentil avec moi...[1205][001E]\nPourquoi n'ai-je pas été assez fier pour\nle revendiquer comme mon père ce jour-là...?"
+    "texte_fr": "Mais il était gentil avec moi...[1205][001E] Pourquoi\nn'ai-je pas été assez fier pour le\nrevendiquer comme mon père ce jour-là...?"
   }
 ]

@@ -27,7 +27,7 @@
     "nom_orig": "Cleaning[SP]lady",
     "texte_orig": "You[SP]can[SP]put[SP]on[SP]all[SP]the[SP]makeup[SP]you[SP]want[SP]to\ntry[SP]to[SP]sneak[SP]a[SP]peek[SP]into[SP]the[SP]ladies'[SP]room...\nBut[SP]I'm[SP]not[SP]fooled!",
     "nom_fr": "Femme de ménage",
-    "texte_fr": "Maquille-toi tant que tu veux pour\nvoir les toilettes des femmes...\nMais je ne suis pas dupe!"
+    "texte_fr": "Maquille-toi tant que tu veux\npour voir les toilettes des\nfemmes... Mais je ne suis pas dupe!"
   },
   {
     "id": 2,
@@ -87,7 +87,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Here[SP]they[SP]are![SP]A[SP][E4][NULL][NULL][0006]riddle[E4][NULL][NULL][0002][SP]and[SP]a[SP][E4][NULL][NULL][0006]remote\ntransmitter[E4][NULL][NULL][0002]!",
     "nom_fr": "Maya",
-    "texte_fr": "Là! Une [E4][NULL][NULL][0006]énigme[E4][NULL][NULL][0002] et\nun [E4][NULL][NULL][0006]détonateur à distance[E4][NULL][NULL][0002] !"
+    "texte_fr": "Là! Une [E4][NULL][NULL][0006]énigme[E4][NULL][NULL][0002] et un [E4][NULL][NULL][0006]détonateur à distance[E4][NULL][NULL][0002] !"
   },
   {
     "id": 6,
@@ -177,7 +177,7 @@
     "nom_orig": "Maya",
     "texte_orig": "E-Excuse[SP]me![SP]That[SP]transmitter[SP]in[SP]your\npail...[SP]Where[SP]did[SP]you[SP]find[SP]it!?",
     "nom_fr": "Maya",
-    "texte_fr": "Excusez moi! Ce détonateur dans votre\nseau... Où l'avez-vous trouvé!?"
+    "texte_fr": "Excusez moi! Ce détonateur dans\nvotre seau... Où l'avez-vous trouvé!?"
   },
   {
     "id": 12,
@@ -267,7 +267,7 @@
     "nom_orig": "Cleaning[SP]lady",
     "texte_orig": "A[SP]man[SP]in[SP]the[SP]women's[SP]stalls!?[SP]How[SP]dare[SP]you!\nGet[SP]out[SP]of[SP]there,[SP]you[SP]pig!",
     "nom_fr": "Femme de ménage",
-    "texte_fr": "Un homme aux toilettes des femmes!?\nComment osez vous! Dehors!"
+    "texte_fr": "Un homme aux toilettes des\nfemmes!? Comment osez vous! Dehors!"
   },
   {
     "id": 18,
@@ -327,7 +327,7 @@
     "nom_orig": "Belphegor",
     "texte_orig": "You[SP]won't[SP]be[SP]taking[SP]that[SP]transmitter!\nCome[SP]out,[SP]men!",
     "nom_fr": "Belphegor",
-    "texte_fr": "Vous n'aurez pas ce détonateur!\nSortez, mes hommes!"
+    "texte_fr": "Vous n'aurez pas ce\ndétonateur! Sortez, mes hommes!"
   },
   {
     "id": 22,
@@ -402,7 +402,7 @@
     "nom_orig": "Ixquic",
     "texte_orig": "You...[1205][000A][SP]uh...[1205][000A][SP]umm...[1205][000A][SP]hm?[1205][001E][SP]Hold[SP]on[SP]a[SP]sec.",
     "nom_fr": "Ixquic",
-    "texte_fr": "Vous...[1205][000A] euh...[1205][000A] hum...[1205][000A] hein?[1205][001E] Attendez."
+    "texte_fr": "Vous...[1205][000A]euh...[1205][000A]hum...[1205][000A]hein?[1205][001E] Attendez."
   },
   {
     "id": 27,
@@ -567,7 +567,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hoisamuro![SP]You[SP]did[SP]it![SP]That's[SP]our[SP][1113]!\nI[SP]knew[SP]you[SP]could[SP]do[SP]it!",
     "nom_fr": "Ginko",
-    "texte_fr": "Yay! T'as réussi! C'est\nnotre [1113]! Je le savais!"
+    "texte_fr": "Yay! T'as réussi! C'est notre [1113]! Je le savais!"
   },
   {
     "id": 38,
@@ -612,7 +612,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Stop[SP]that[SP]right[SP]now![SP]If[SP]this[SP]building[SP]goes,\nyou'll[SP]die[SP]along[SP]with[SP]it!",
     "nom_fr": "Maya",
-    "texte_fr": "Arrête ça tout de suite! Si l'immeuble\nsaute, tu mourras avec lui!"
+    "texte_fr": "Arrête ça tout de suite! Si\nl'immeuble saute, tu mourras avec lui!"
   },
   {
     "id": 41,
@@ -657,7 +657,7 @@
     "nom_orig": "Ixquic",
     "texte_orig": "The[SP]reincarnated[SP]warrior[SP]Ixquic[SP]lives[SP]for\njustice,[SP]and[SP]she'll[SP]die[SP]for[SP]it[SP]too!\nOnly[SP]that[SP]will[SP]satisfy[SP]me!",
     "nom_fr": "Ixquic",
-    "texte_fr": "La guerrière réincarnée\nIxquic vit et mourra\npour la justice. C'est ma seule joie!"
+    "texte_fr": "La guerrière réincarnée Ixquic vit et\nmourra pour la justice. C'est ma seule joie!"
   },
   {
     "id": 44,
@@ -687,7 +687,7 @@
     "nom_orig": "Maya",
     "texte_orig": "You[SP]have[SP]the[SP]power[SP]to[SP]change[SP]your[SP]own\nenvironment![SP]Your[SP]own[SP]future!",
     "nom_fr": "Maya",
-    "texte_fr": "Tu peux changer\nton environnement, ton avenir!"
+    "texte_fr": "Tu peux changer ton\nenvironnement, ton avenir!"
   },
   {
     "id": 46,
@@ -747,6 +747,6 @@
     "nom_orig": "Ixquic",
     "texte_orig": "I'll[SP]never[SP]let[SP]you[SP]interfere[SP]with[SP]Master\nLeo's[SP]plan![SP]I[SP]may[SP]not[SP]have[SP]a[SP]transmitter\nanymore,[SP]but[SP]I[SP]got[SP]my[SP]Persona!",
     "nom_fr": "",
-    "texte_fr": "Je ne laisserai jamais quiconque\ninterférer avec le plan de Maître Léo ! Je\nn'ai plus de transmetteur, mais j'ai mon Persona !"
+    "texte_fr": "Je ne laisserai jamais quiconque interférer\navec le plan de Maître Léo ! Je n'ai plus\nde transmetteur, mais j'ai mon Persona !"
   }
 ]

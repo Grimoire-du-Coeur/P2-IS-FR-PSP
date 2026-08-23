@@ -87,7 +87,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]was[SP]practicing[SP]for[SP]a[SP]costume[SP]party![SP]R-Right,\n[1113]!?[SP]It's[SP]for[SP]the[SP]school[SP]festival![SP]It's\nnot[SP]like[SP]I[SP]always[SP]dress[SP]like[SP]this!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Je répétais pour un bal costumé! P-Pas\nvrai, [1113]!? C'est pour le festival!\nC'est pas ma tenue de tous les jours!"
+    "texte_fr": "Je répétais pour un bal costumé!\nP-Pas vrai, [1113]!? C'est pour le festival!\nC'est pas ma tenue de tous les jours!"
   },
   {
     "id": 6,
@@ -177,7 +177,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Why?[SP]'Cause[SP]when[SP]you[SP]add[SP]up[SP]his[SP]karate,[SP]judo,\nand[SP]capoeira[SP]skills,[SP]my[SP]pops[SP]is[SP]18th[SP]rank!\nIf[SP]I[SP]disobey[SP]him,[SP]he'll[SP]murder[SP]me!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pourquoi? Avec son karaté, judo et\ncapoeira, mon père est 18e dan! Si\nje lui désobéis, il me tuera!"
+    "texte_fr": "Pourquoi? Avec son karaté, judo\net capoeira, mon père est 18e dan!\nSi je lui désobéis, il me tuera!"
   },
   {
     "id": 12,
@@ -207,7 +207,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Snrk...[SP]Ahahahahah![1205][001E][SP]You[SP]Yisi![SP]That's[SP]hilarious![1205][001E]\nCostume[SP]practice?[SP]You[SP]always[SP]dress[SP]like[SP]that!",
     "nom_fr": "Lisa",
-    "texte_fr": "Pfft... Ahahaha![1205][001E] You\nYisi! C'est tordant![1205][001E] Quel costume?\nTu t'habilles toujours comme ça!"
+    "texte_fr": "Pfft... Ahahaha![1205][001E] You Yisi!\nC'est tordant![1205][001E] Quel costume? Tu\nt'habilles toujours comme ça!"
   },
   {
     "id": 14,
@@ -237,7 +237,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Snrk...[SP]Ahahahahah![1205][001E][SP]You[SP]Yisi![SP]That's[SP]hilarious![1205][001E]\nCostume[SP]practice?[SP]You[SP]always[SP]dress[SP]like[SP]that!",
     "nom_fr": "Ginko",
-    "texte_fr": "Pfft... Ahahaha![1205][001E] You\nYisi! C'est tordant![1205][001E] Quel costume?\nTu t'habilles toujours comme ça!"
+    "texte_fr": "Pfft... Ahahaha![1205][001E] You Yisi!\nC'est tordant![1205][001E] Quel costume? Tu\nt'habilles toujours comme ça!"
   },
   {
     "id": 16,
@@ -252,7 +252,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]didn't[SP]expect[SP]Eikichi[SP]to[SP]react[SP]so[SP]violently\nto[SP]fish.[SP]It's[SP]like[SP]a[SP]conditioned[SP]response...\nOr[SP]is[SP]it[SP]more[SP]like[SP]animal[SP]imprinting?",
     "nom_fr": "Maya",
-    "texte_fr": "Je ne pensais\npas qu'Eikichi réagirait autant au\npoisson. On dirait un réflexe conditionné... Ou plutôt une empreinteanimale?"
+    "texte_fr": "Je ne pensais pas qu'Eikichi\nréagirait autant au poisson. On\ndirait un réflexe conditionné...\nOu plutôt une empreinteanimale?"
   },
   {
     "id": 17,
@@ -297,7 +297,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "So[SP]where[SP]does[SP]he[SP]change[SP]and[SP]put[SP]on[SP]his[SP]makeup?[1205][001E]\n...He[SP]doesn't[SP]use[SP]the[SP]bathroom[SP]at[SP]the[SP]station,\ndoes[SP]he?",
     "nom_fr": "Yukino",
-    "texte_fr": "Où se change-t-il et se maquille-t-il\nalors?[1205][001E].. Il ne le fait pas dans les\ntoilettes de la gare, si?"
+    "texte_fr": "Où se change-t-il et se maquille-t-il\nalors?[1205][001E].. Il ne le fait pas dans\nles toilettes de la gare, si?"
   },
   {
     "id": 20,
@@ -463,7 +463,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Huh?[SP]What[SP]about[SP]what[SP]Eikichi[SP]wants?[SP]Don't[SP]be\nridiculous,[SP]kid![SP]A[SP]son[SP]follows[SP]in[SP]his[SP]father's\nfootsteps![SP]That's[SP]how[SP]it's[SP]always[SP]been.",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Hein? Et ce que veut Eikichi?\nSois pas ridicule, mon grand!\nUn fils suit les traces de son père!"
+    "texte_fr": "Hein? Et ce que veut Eikichi?\nSois pas ridicule, mon grand! Un\nfils suit les traces de son père!"
   },
   {
     "id": 28,
@@ -824,7 +824,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "The[SP]rumor[SP]is[SP]that[SP][E4][NULL][NULL][0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]sells\n[E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002].[1205][000F][SP]They[SP]have[SP][E4][NULL][NULL][0006]reasonable[SP]prices,\nbut[SP]low-quality[SP]stuff[E4][NULL][NULL][0002].",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "[E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] vend de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]. [1205][000F][E4][NULL][NULL][0006]Prix\nraisonnables, mais qualité médiocre[E4][NULL][NULL][0002]."
+    "texte_fr": "[E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] vend de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002].\n[1205][000F][E4][NULL][NULL][0006]Prix raisonnables, mais qualité médiocre[E4][NULL][NULL][0002]."
   },
   {
     "id": 48,
@@ -854,7 +854,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "There's[SP]a[SP]rumor[SP]you[SP]can[SP]buy[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002][SP]at\n[E4][NULL][NULL][0006]Anima[SP]Mundi[E4][NULL][NULL][0002][SP]in[SP]Yumezaki.[1205][000F][SP]Their[SP]stuff[SP]is\n[E4][NULL][NULL][0006]cheap[SP]and[SP]subpar[SP]quality[E4][NULL][NULL][0002].",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "De [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002] chez\n[E4][NULL][NULL][0006]Anima Mundi[E4][NULL][NULL][0002] à Yumezaki. Leur\n5][000F]Leur sélection: [E4][NULL][NULL][0006]bon marché, piètre qualité[E4][NULL][NULL][0002]."
+    "texte_fr": "De [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002] chez [E4][NULL][NULL][0006]Anima Mundi[E4][NULL][NULL][0002]\nà Yumezaki. Leur 5][000F]Leur sélection:\n[E4][NULL][NULL][0006]bon marché, piètre qualité[E4][NULL][NULL][0002]."
   },
   {
     "id": 50,
@@ -899,7 +899,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Huh?[SP]The[SP]lucky[SP]cat[SP]statue[SP]at[SP]the[SP]detective\nagency[SP]talks?[SP]Haha,[SP]that's[SP]a[SP]new[SP]one[SP]on[SP]me.\nWell,[SP]here's[SP]something[SP]for[SP]you[SP]in[SP]exchange.",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Hm? Le chat porte-bonheur de l'agence de\ndétective parle? Haha, c'est nouveau pour\nmoi. Voilà quelque chose en échange."
+    "texte_fr": "Hm? Le chat porte-bonheur de l'agence\nde détective parle? Haha, c'est nouveau\npour moi. Voilà quelque chose en échange."
   },
   {
     "id": 53,
@@ -914,7 +914,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "There's[SP]a[SP]shop[SP]called[SP][E4][NULL][NULL][0006]London[SP]Clothier[E4][NULL][NULL][0002][SP]in[SP]Kounan\nthat[SP]even[SP]tailors[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002].[1205][000F][SP]The[SP][E4][NULL][NULL][0006]quality[SP]is\nsubpar,[SP]but[SP]they're[SP]cheap[E4][NULL][NULL][0002].",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "[E4][NULL][NULL][0006]London Clothier[E4][NULL][NULL][0002] à Kounan confectionne de\n[E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002]. [1205][000F][E4][NULL][NULL][0006]Qualité médiocre, mais pas\ncher[E4][NULL][NULL][0002]."
+    "texte_fr": "[E4][NULL][NULL][0006]London Clothier[E4][NULL][NULL][0002] à Kounan\nconfectionne de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002].\n[1205][000F][E4][NULL][NULL][0006]Qualité médiocre, mais pas cher[E4][NULL][NULL][0002]."
   },
   {
     "id": 54,
@@ -959,7 +959,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "You[SP]know[SP]those[SP][E4][NULL][NULL][0006]magazine[SP]sweepstakes[E4][NULL][NULL][0002]?[SP]I[SP]hear[SP]you\ncan[SP]win[SP][E4][NULL][NULL][0006]real[SP]weapons[SP]and[SP]rare[SP]items[E4][NULL][NULL][0002].[SP]They're\n[E4][NULL][NULL][0006]seldom[SP]won,[SP]but[SP]the[SP]prizes[SP]are[SP]very[SP]rare[E4][NULL][NULL][0002].",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Vous connaissez les\n[E4][NULL][NULL][0006]tirages de magazines[E4][NULL][NULL][0002]? On peut\ngagner de [E4][NULL][NULL][0006]vraies armes et objets rares[E4][NULL][NULL][0002]. [E4][NULL][NULL][0006]Peu gagnés, mais les lots sont rares[E4][NULL][NULL][0002]."
+    "texte_fr": "Vous connaissez les [E4][NULL][NULL][0006]tirages de magazines[E4][NULL][NULL][0002]?\nOn peut gagner de [E4][NULL][NULL][0006]vraies armes et objets\nrares[E4][NULL][NULL][0002]. [E4][NULL][NULL][0006]Peu gagnés, mais les lots sont rares[E4][NULL][NULL][0002]."
   },
   {
     "id": 57,
@@ -1019,7 +1019,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "This[SP]place[SP]is[SP]as[SP]good[SP]as[SP]I'd[SP]hoped[SP]for[SP]gathering\ninformation.[SP]I[SP]can[SP]listen[SP]to[SP]people[SP]talk[SP]and[SP]eat\ngreat[SP]sushi.[1205][000F][SP]Ahh...[SP]This[SP]is[SP]the[SP]life.",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Endroit parfait pour collecter des infos.\nJ'écoute les gens et mange d'excellents\nsushis. [1205][000F] Ahh.[000F].. C'est la belle vie."
+    "texte_fr": "Endroit parfait pour collecter des infos.\nJ'écoute les gens et mange d'excellents\nsushis. [1205][000F] Ahh... C'est la belle vie."
   },
   {
     "id": 61,
@@ -1034,7 +1034,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Huh?[SP]Masked[SP]Circle?[SP]I've[SP]never[SP]heard[SP]of[SP]it.[1205][000F]\nIs[SP]that[SP]some[SP]kind[SP]of[SP]organization?[SP]And[SP]these\npeople[SP]are[SP]here,[SP]in[SP]this[SP]city?",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Hm? Cercle masqué? Jamais entendu\n[1205][000F]parler. C'est une organisation? Et\nils sont ici, dans cette ville?"
+    "texte_fr": "Hm? Cercle masqué? Jamais entendu\n[1205][000F]parler. C'est une organisation?\nEt ils sont ici, dans cette ville?"
   },
   {
     "id": 62,
@@ -1079,7 +1079,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Heehee,[SP]I'm[SP]on[SP]fire.[SP]I've[SP]got[SP]a[SP]whole[SP]stack[SP]of\nrumors.[1205][000F][SP]How[SP]about[SP]you?[SP]Want[SP]me[SP]to[SP]tell[SP]you[SP]the\nlatest[SP]rumor[SP]in[SP]exchange[SP]for[SP]what[SP]you[SP]know?",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Hé hé, je suis en feu. Une pile de[1205][000F]\nrumeurs. [000F]Et vous? Je vous dis la dernière\nen échange de ce que vous savez?"
+    "texte_fr": "Hé hé, je suis en feu. Une pile de[1205][000F]\nrumeurs. [000F]Et vous? Je vous dis la\ndernière en échange de ce que vous savez?"
   },
   {
     "id": 65,
@@ -1124,7 +1124,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Ever[SP]since[SP]the[SP]constant[SP]attacks[SP]on[SP]the[SP]city\nstarted,[SP]new[SP]rumors[SP]have[SP]dried[SP]up.[SP]This\nworries[SP]me...",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Depuis les attaques sur la ville, les\nnouvelles rumeurs se font rares. Ça\nm'inquiète..."
+    "texte_fr": "Depuis les attaques sur la\nville, les nouvelles rumeurs\nse font rares. Ça m'inquiète..."
   },
   {
     "id": 68,
@@ -1154,7 +1154,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "I[SP]see.[SP]Well,[SP]come[SP]back[SP]here[SP]if[SP]you[SP]want[SP]to\nhear[SP]any[SP]rumors.[SP]I'll[SP]be[SP]chowing[SP]down[SP]on[SP]the\nfluke[SP]fins.",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Je vois. Revenez si\nvous voulez des rumeurs. Je\nserai là à dévorer des ailerons de sole."
+    "texte_fr": "Je vois. Revenez si vous voulez des rumeurs.\nJe serai là à dévorer des ailerons de sole."
   },
   {
     "id": 70,
@@ -1199,7 +1199,7 @@
     "nom_orig": "Count[SP]Sushi",
     "texte_orig": "The[SP]girls[SP]in[SP]Muses[SP]are[SP]high[SP]school[SP]students?\nShouldn't[SP]they[SP]be[SP]studying...?[1205][000F][SP]Listen[SP]to[SP]me.\nI'm[SP]starting[SP]to[SP]sound[SP]like[SP]an[SP]old[SP]man.",
     "nom_fr": "Comte Sushi",
-    "texte_fr": "Les filles des Muses sont lycéennes? Elles\nne devraient pas étudier.[1205][000F]..? Écoutez-moi.\nJe commence à parler comme un vieux."
+    "texte_fr": "Les filles des Muses sont lycéennes? Elles\nne devraient pas étudier...[1205][000F]? Écoutez-moi.\nJe commence à parler comme un vieux."
   },
   {
     "id": 73,
@@ -1214,7 +1214,7 @@
     "nom_orig": "Count[SP]Sushi",
     "texte_orig": "What[SP]the[SP]hell[SP]is[SP]this[SP]old[SP]man[SP]saying!?[SP]It[SP]was\nplaying[SP]with[SP]fire[SP]that[SP]killed[SP]tons[SP]of[SP]people!\nI'll[SP]sew[SP]up[SP]that[SP]mouth[SP]and[SP]see[SP]how[SP]you[SP]like[SP]it!",
     "nom_fr": "Comte Sushi",
-    "texte_fr": "Qu'est-ce qu'il raconte\nce vieux!? Jouer avec le\nfeu a tué des tonnes de gens! Je vais lui coudre la bouche pour voir s'il aime ça!"
+    "texte_fr": "Qu'est-ce qu'il raconte ce vieux!? Jouer\navec le feu a tué des tonnes de gens! Je vais\nlui coudre la bouche pour voir s'il aime ça!"
   },
   {
     "id": 74,
@@ -1244,7 +1244,7 @@
     "nom_orig": "Count[SP]Sushi",
     "texte_orig": "That[SP]president's[SP]got[SP]such[SP]a[SP]thick[SP]skull...[1205][000F]\nHe[SP]should[SP]just[SP]trust[SP]what[SP]those[SP]kids[SP]said.\nAdults[SP]are[SP]supposed[SP]to[SP]be[SP]understanding.",
     "nom_fr": "Comte Sushi",
-    "texte_fr": "Ce président a vraiment la tête dure.[1205].[000F].\nIl devrait faire confiance aux enfants.\nLes adultes doivent être compréhensifs."
+    "texte_fr": "Ce président a vraiment la tête dure...[1205][000F]\nIl devrait faire confiance aux enfants.\nLes adultes doivent être compréhensifs."
   },
   {
     "id": 76,
@@ -1274,7 +1274,7 @@
     "nom_orig": "Count[SP]Sushi",
     "texte_orig": "Th-That[SP]president[SP]guy[SP]just[SP]up[SP]and[SP]rushed[SP]out\nall[SP]of[SP]a[SP]sudden.[1205][000F][SP]He's[SP]not[SP]gonna[SP]go[SP]pick[SP]a[SP]fight\nwith[SP]those[SP]guys,[SP]is[SP]he?",
     "nom_fr": "Comte Sushi",
-    "texte_fr": "Ce président est parti d'un coup. Il ne va\n[1205][000F]pas chercher des noises à ces gars, si?"
+    "texte_fr": "Ce président est parti d'un coup. Il ne\nva [1205][000F]pas chercher des noises à ces gars, si?"
   },
   {
     "id": 78,
@@ -1319,7 +1319,7 @@
     "nom_orig": "Company[SP]president",
     "texte_orig": "I'm[SP]finally[SP]company[SP]president,[SP]so[SP]I[SP]want[SP]to\nsplurge[SP]a[SP]little[SP]and[SP]get[SP]an[SP]entire[SP]fish,[SP]but\nmy[SP]tastes[SP]haven't[SP]changed.[1205][000F][SP]One[SP]albacore,[SP]chef!",
     "nom_fr": "PDG",
-    "texte_fr": "Je suis enfin président de l'entreprise, je\nveux dépenser un peu et m'offrir un poisson\nentier, mais mes goûts [1205][000F]restent. Un thon, chef!"
+    "texte_fr": "Je suis enfin président de\nl'entreprise, je veux dépenser un peu\net m'offrir un poisson entier, mais\nmes goûts [1205][000F]restent. Un thon, chef!"
   },
   {
     "id": 81,
@@ -1334,7 +1334,7 @@
     "nom_orig": "Company[SP]president",
     "texte_orig": "Hahaha.[1205][000F][SP]I[SP]hear[SP]there's[SP]going[SP]to[SP]be[SP]a[SP]masquerade\nas[SP]part[SP]of[SP]Cuss[SP]High's[SP]school[SP]festival.[1205][000F][SP]Kids\nsure[SP]come[SP]up[SP]with[SP]some[SP]interesting[SP]ideas.",
     "nom_fr": "PDG",
-    "texte_fr": "Hahaha. [1205][000F]J'ai entendu dire qu'il y aura une\nmascarade pour le festival de Lycée Kakasu.\nCes enfants ont des idées vraimentintéressantes."
+    "texte_fr": "Hahaha. [1205][000F]J'ai entendu dire qu'il y\naura une mascarade pour le festival\nde Lycée Kakasu. Ces enfants ont\ndes idées vraimentintéressantes."
   },
   {
     "id": 82,
@@ -1454,7 +1454,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Th-Those[SP]five[SP]are[SP]heroes[SP]fighting[SP]against[SP]the\nMasked[SP]Circle!?[1205][000F][SP]Then[SP]that[SP]makes[SP]them[SP]the[SP]enemy!\nWhy[SP]didn't[SP]anyone[SP]tell[SP]me!?",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "C-Ces cinq sont des héros luttant contre\nle Cercle masqué![1205][000F]? Ce sont des ennemis!\nPourquoi personne m'a rien dit!?"
+    "texte_fr": "C-Ces cinq sont des héros luttant\ncontre le Cercle masqué![1205][000F]? Ce sont des\nennemis! Pourquoi personne m'a rien dit!?"
   },
   {
     "id": 90,
@@ -1484,7 +1484,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I'm[SP]a[SP]member[SP]of[SP]Sushi[SP]Royalty.[SP]It's[SP]a[SP]sushi-\nlovers'[SP]club[SP]that[SP]meets[SP]here[SP]to[SP]exchange\ninformation[SP]with[SP]each[SP]other.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Je suis du Sushi Royalty. C'est un club\nde fans de sushis qui se retrouvent ici\npour échanger des infos."
+    "texte_fr": "Je suis du Sushi Royalty. C'est\nun club de fans de sushis qui se\nretrouvent ici pour échanger des infos."
   },
   {
     "id": 92,
@@ -1544,7 +1544,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "It[SP]seems[SP]there's[SP]a[SP]rumor[SP]going[SP]around[SP]high\nschoolers[SP]that[SP]the[SP]new[SP]Leader[SP]was[SP]weaker[SP]than\nEikichi,[SP]but...[SP]who[SP]are[SP]they[SP]talking[SP]about?",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Une rumeur court chez les lycéens que\nle nouveau Chef est plus faible\nqu'Eikichi, mais... de qui parlent-ils?"
+    "texte_fr": "Une rumeur court chez les lycéens\nque le nouveau Chef est plus faible\nqu'Eikichi, mais... de qui parlent-ils?"
   },
   {
     "id": 96,
@@ -1604,7 +1604,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Smile[SP]Hirasaka's[SP]just[SP]an[SP]ordinary[SP]train\nstation.[1205][000F][SP]What[SP]do[SP]the[SP]terrorists[SP]hope[SP]to\ngain[SP]by[SP]blowing[SP]it[SP]up?",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Smile Hirasaka n'est qu'une gare ordinaire.\n[1205][000F]Qu'espèrent les terroristes\nà la faire sauter?"
+    "texte_fr": "Smile Hirasaka n'est qu'une\ngare ordinaire. [1205][000F]Qu'espèrent les\nterroristes à la faire sauter?"
   },
   {
     "id": 100,
@@ -1619,7 +1619,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "It's[SP]rare[SP]to[SP]hear[SP]a[SP]rumor[SP]that[SP]outright\ncontradicts[SP]another[SP]one[SP]being[SP]spread[SP]around.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "C'est rare d'entendre une rumeur qui\ncontredit directement une\nautre qui circule."
+    "texte_fr": "C'est rare d'entendre une rumeur qui\ncontredit directement une autre qui circule."
   },
   {
     "id": 101,
@@ -1634,7 +1634,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "But[SP]if[SP]there[SP]is[SP]a[SP]group[SP]fighting[SP]the[SP]Masked\nCircle...[SP]That's[SP]pretty[SP]interesting[SP]in[SP]its\nown[SP]right.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Mais s'il existe un groupe qui combat le\nCercle masqué... C'est\nplutôt intéressant en soi."
+    "texte_fr": "Mais s'il existe un groupe\nqui combat le Cercle masqué...\nC'est plutôt intéressant en soi."
   },
   {
     "id": 102,
@@ -1649,7 +1649,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "First[SP]the[SP]wave[SP]of[SP]terrorism[SP]and[SP]now[SP]this\nIn[SP]Lak'ech.[SP]Reality[SP]is[SP]stranger[SP]than[SP]rumors\nat[SP]times...[1205][000F][SP]Who[SP]can[SP]say[SP]what[SP]will[SP]happen?",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "D'abord le terrorisme, maintenant l'In\nLak'ech. La réalité dépasse parfois les\nrumeurs.[1205].[000F]. Qui peut dire ce qui va arriver?"
+    "texte_fr": "D'abord le terrorisme, maintenant l'In\nLak'ech. La réalité dépasse parfois les\nrumeurs...[1205][000F] Qui peut dire ce qui va arriver?"
   },
   {
     "id": 103,
@@ -1694,7 +1694,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Did[SP]you[SP]hear?[SP]The[SP]ghost[SP]Bukimi-chan[SP]is[SP]haunting\nKasugayama[SP]High.[SP]First[SP]the[SP]masquerade,[SP]now\nthis...[SP]That's[SP]one[SP]crazy[SP]school.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Le fantôme Bukimi-chan hante Kasugayama.\nD'abord le bal masqué, maintenant ça...\nC'est une école de fous."
+    "texte_fr": "Le fantôme Bukimi-chan hante Kasugayama.\nD'abord le bal masqué, maintenant\nça... C'est une école de fous."
   },
   {
     "id": 106,
@@ -1709,7 +1709,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]heard[SP]the[SP]ghost[SP]of[SP]an[SP]idol[SP]who[SP]starved[SP]to\ndeath[SP]at[SP]Aoba[SP]Park[SP]is[SP]appearing[SP]there.[SP]That's\none[SP]of[SP]the[SP]saddest[SP]things[SP]I've[SP]ever[SP]heard...",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Le fantôme d'une idole\nmorte de faim au parc Aoba\ny apparaît. C'est l'une des choses les plus tristes que j'aie entendues..."
+    "texte_fr": "Le fantôme d'une idole morte de faim au\nparc Aoba y apparaît. C'est l'une des choses\nles plus tristes que j'aie entendues..."
   },
   {
     "id": 107,
@@ -1784,7 +1784,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "There've[SP]been[SP]sightings[SP]of[SP]the[SP]Jumping[SP]Geezer\nat[SP]Mt.[SP]Katatsumuri.[SP]I[SP]thought[SP]it[SP]showed[SP]up[SP]on\nroads[SP]and[SP]tunnels...[SP]add[SP]mountains[SP]to[SP]the[SP]list.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "On a aperçu le Vieux Sauteur au Mont\nKatatsumuri. Je croyais qu'il\napparaissait sur les routes et tunnels... Ajoutons les montagnes."
+    "texte_fr": "On a aperçu le Vieux Sauteur au\nMont Katatsumuri. Je croyais qu'il\napparaissait sur les routes et\ntunnels... Ajoutons les montagnes."
   },
   {
     "id": 112,
@@ -1799,7 +1799,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Gah...[1205][000F][SP]I[SP]heard[SP]something[SP]awful...[1205][000F][SP]K-Kudan's...\nKudan's[SP]at[SP]the[SP]abandoned[SP]factory...[1205][000F][SP]No,[SP]I[SP]don't\nwant[SP]to[SP]think[SP]about[SP]it!",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Argh.[1205][000F].. J'ai entendu un truc horrible...\nK-Kudan... Kudan est à l'usine\nabandonnée... Non, je ne veux pas y penser!"
+    "texte_fr": "Argh...[1205][000F] J'ai entendu un truc horrible...\nK-Kudan... Kudan est à l'usine\nabandonnée... Non, je ne veux pas y penser!"
   },
   {
     "id": 113,
@@ -1844,7 +1844,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Time[SP]Castle[SP]in[SP]Rengedai[SP]sells[SP]real\nweapons.[SP]Sounds[SP]dangerous...[SP]Seems[SP]the[SP]quality\nand[SP]price[SP]of[SP]their[SP]stuff[SP]is[SP]pretty[SP]average.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Time Castle à Rengedai vend de vraies\narmes. Dangereux... La qualité et le\nprix semblent dans la moyenne."
+    "texte_fr": "Time Castle à Rengedai vend de vraies\narmes. Dangereux... La qualité et\nle prix semblent dans la moyenne."
   },
   {
     "id": 116,
@@ -1859,7 +1859,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Time[SP]Castle[SP]in[SP]Rengedai[SP]sells[SP]real\nweapons.[SP]Sounds[SP]dangerous...[SP]It's[SP]good[SP]quality\nstuff,[SP]but[SP]it's[SP]pricey.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Time Castle à Rengedai\nvend de vraies armes. Dangereux...\nBonne qualité, mais c'est cher."
+    "texte_fr": "Time Castle à Rengedai vend de vraies armes.\nDangereux... Bonne qualité, mais c'est cher."
   },
   {
     "id": 117,
@@ -1874,7 +1874,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Time[SP]Castle[SP]in[SP]Rengedai[SP]sells[SP]real\nweapons.[SP]Sounds[SP]dangerous...[SP]It's[SP]cheap,\nsubpar[SP]stuff.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Time Castle à Rengedai\nvend de vraies armes. Dangereux...\nBon marché, mais piètre qualité."
+    "texte_fr": "Time Castle à Rengedai vend de vraies armes.\nDangereux... Bon marché, mais piètre qualité."
   },
   {
     "id": 118,
@@ -1889,7 +1889,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Tony's[SP]Shop[SP]in[SP]Yumezaki[SP]sells[SP]real\nweapons.[SP]His[SP]selection[SP]is[SP]good,[SP]but[SP]he\ndoesn't[SP]pay[SP]much[SP]on[SP]resale.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Tony's Shop à Yumezaki\nvend de vraies armes. Bonne\nsélection, mais peu payant en rachat."
+    "texte_fr": "Tony's Shop à Yumezaki vend de vraies armes.\nBonne sélection, mais peu payant en rachat."
   },
   {
     "id": 119,
@@ -1964,7 +1964,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Did[SP]you[SP]hear?[SP]Clair[SP]de[SP]Lune[SP]in[SP]Aoba[SP]apparently\nsells[SP]real[SP]weapons.[SP]Their[SP]prices[SP]are[SP]cheap,\nbut[SP]the[SP]quality[SP]of[SP]their[SP]stuff[SP]is[SP]subpar.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Clair de Lune à\nAoba vend paraît-il de vraies armes.\nPrix bas, mais qualité médiocre."
+    "texte_fr": "Clair de Lune à Aoba vend paraît-il de vraies\narmes. Prix bas, mais qualité médiocre."
   },
   {
     "id": 124,
@@ -1979,7 +1979,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Did[SP]you[SP]hear?[SP]Clair[SP]de[SP]Lune[SP]in[SP]Aoba[SP]apparently\nsells[SP]real[SP]weapons.[SP]Their[SP]stuff[SP]is[SP]good\nquality,[SP]but[SP]it's[SP]pricey.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Clair de Lune à\nAoba vend paraît-il de vraies\narmes. Bonne qualité, mais c'est cher."
+    "texte_fr": "Clair de Lune à Aoba vend paraît-il de\nvraies armes. Bonne qualité, mais c'est cher."
   },
   {
     "id": 125,
@@ -1994,7 +1994,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Did[SP]you[SP]hear?[SP]Clair[SP]de[SP]Lune[SP]in[SP]Aoba[SP]apparently\nsells[SP]real[SP]weapons.[SP]Their[SP]selection[SP]is[SP]good,\nbut[SP]their[SP]resale[SP]prices[SP]are[SP]low.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Clair de Lune à Aoba vend paraît-il\nde vraies armes. Bonne sélection,\nmais prix de rachat bas."
+    "texte_fr": "Clair de Lune à Aoba vend\nparaît-il de vraies armes. Bonne\nsélection, mais prix de rachat bas."
   },
   {
     "id": 126,
@@ -2009,7 +2009,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Did[SP]you[SP]hear?[SP]Clair[SP]de[SP]Lune[SP]in[SP]Aoba[SP]apparently\nsells[SP]real[SP]weapons.[SP]The[SP]quality[SP]and[SP]price[SP]of\ntheir[SP]stuff[SP]is[SP]pretty[SP]average.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Clair de Lune à\nAoba vend paraît-il de vraies armes.\nQualité et prix dans la moyenne."
+    "texte_fr": "Clair de Lune à Aoba vend paraît-il de vraies\narmes. Qualité et prix dans la moyenne."
   },
   {
     "id": 127,
@@ -2039,7 +2039,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real[SP]weapons,\nI[SP]hear.[SP]The[SP]quality[SP]of[SP]their[SP]stuff[SP]is[SP]subpar,\nbut[SP]their[SP]prices[SP]are[SP]reasonable.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Jolly Roger à Kounan\nvendrait de vraies armes. Qualité\nmédiocre, mais prix raisonnables."
+    "texte_fr": "Jolly Roger à Kounan vendrait\nde vraies armes. Qualité\nmédiocre, mais prix raisonnables."
   },
   {
     "id": 129,
@@ -2054,7 +2054,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real[SP]weapons,\nI[SP]hear.[SP]Their[SP]selection[SP]is[SP]good,[SP]but[SP]the\nresale[SP]price[SP]there[SP]is[SP]low.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Jolly Roger à Kounan\nvendrait de vraies armes. Bonne\nsélection, mais prix de rachat bas."
+    "texte_fr": "Jolly Roger à Kounan vendrait de\nvraies armes. Bonne sélection,\nmais prix de rachat bas."
   },
   {
     "id": 130,
@@ -2069,7 +2069,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real[SP]weapons,\nI[SP]hear.[SP]They[SP]pay[SP]a[SP]lot[SP]on[SP]resale,[SP]but[SP]their\nselection[SP]is[SP]pretty[SP]bad.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Jolly Roger à Kounan\nvendrait de vraies armes. Bon\nprix de rachat, mais sélection mauvaise."
+    "texte_fr": "Jolly Roger à Kounan vendrait\nde vraies armes. Bon prix de\nrachat, mais sélection mauvaise."
   },
   {
     "id": 131,
@@ -2084,7 +2084,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real[SP]weapons,\nI[SP]hear.[SP]Their[SP]stuff[SP]is[SP]pricey,[SP]but[SP]the\nquality[SP]is[SP]good.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Jolly Roger à Kounan vendrait de vraies\narmes. Cher, mais bonne qualité."
+    "texte_fr": "Jolly Roger à Kounan vendrait de\nvraies armes. Cher, mais bonne qualité."
   },
   {
     "id": 132,
@@ -2249,7 +2249,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]seems[SP]to[SP]handle[SP]real\narmor[SP]as[SP]well.[SP]Their[SP]prices[SP]are[SP]reasonable,\nbut[SP]the[SP]quality[SP]isn't[SP]very[SP]good.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Rosa Candida à Aoba vendrait aussi\nde vraies armures. Prix\nraisonnables, mais qualité médiocre."
+    "texte_fr": "Rosa Candida à Aoba vendrait\naussi de vraies armures. Prix\nraisonnables, mais qualité médiocre."
   },
   {
     "id": 143,
@@ -2264,7 +2264,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]seems[SP]to[SP]handle[SP]real\narmor[SP]as[SP]well.[SP]Their[SP]selection[SP]is[SP]good,\nbut[SP]they[SP]don't[SP]pay[SP]much[SP]on[SP]resale.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Rosa Candida à Aoba vendrait aussi\nde vraies armures. Bonne sélection,\nmais prix de rachat bas."
+    "texte_fr": "Rosa Candida à Aoba vendrait\naussi de vraies armures. Bonne\nsélection, mais prix de rachat bas."
   },
   {
     "id": 144,
@@ -2339,7 +2339,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Does[SP]that[SP]London[SP]Clothier[SP]tailor[SP]armor[SP]too?\nLooks[SP]can[SP]be[SP]deceiving,[SP]I[SP]guess.[SP]Their[SP]selection\nisn't[SP]good,[SP]but[SP]their[SP]resale[SP]price[SP]is[SP]high.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "London Clothier confectionne des armures?\nMauvaise sélection, mais\nprix de rachat élevé."
+    "texte_fr": "London Clothier confectionne\ndes armures? Mauvaise sélection,\nmais prix de rachat élevé."
   },
   {
     "id": 149,
@@ -2354,7 +2354,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]that[SP]the[SP]prizes[SP]for[SP]the[SP]magazine\nsweepstakes[SP]are[SP]real[SP]weapons[SP]and[SP]items.\nYou[SP]rarely[SP]win,[SP]but[SP]the[SP]prizes[SP]are[SP]good.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Les lots des tirages de magazines sont de\nvraies armes et objets.\nRares à gagner, mais bons."
+    "texte_fr": "Les lots des tirages de magazines\nsont de vraies armes et objets.\nRares à gagner, mais bons."
   },
   {
     "id": 150,
@@ -2414,7 +2414,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Seems[SP]there's[SP]real[SP]gambling[SP]at[SP]Mu.[SP]I[SP]hear\nthe[SP]best[SP]odds[SP]are[SP]the[SP]poker[SP]machines.\nThere's[SP]a[SP]lot[SP]of[SP]potential[SP]for[SP]a[SP]good[SP]hand.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Il y aurait de vrais jeux d'argent à Mu.\nMeilleures chances aux machines de poker.\nBon potentiel pour une belle main."
+    "texte_fr": "Il y aurait de vrais jeux d'argent à\nMu. Meilleures chances aux machines de\npoker. Bon potentiel pour une belle main."
   },
   {
     "id": 154,
@@ -2474,7 +2474,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]heard[SP]a[SP]rumor[SP]you[SP]can[SP]buy[SP]a[SP]legendary[SP]weapon\nat[SP]Clair[SP]de[SP]Lune.[SP]Does[SP]that[SP]stuff[SP]actually\nexist...?",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "On vendrait une arme légendaire à Clair de\nLune. Est-ce que ça existe vraiment...?"
+    "texte_fr": "On vendrait une arme légendaire à Clair\nde Lune. Est-ce que ça existe vraiment...?"
   },
   {
     "id": 158,
@@ -2564,7 +2564,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "It[SP]seems[SP]the[SP]second[SP]floor[SP]of[SP]Zodiac[SP]in[SP]Yumezaki\nis[SP]a[SP]huge[SP]maze.[SP]I[SP]heard[SP]some[SP]people[SP]exploring\nit[SP]found[SP]great[SP]stuff[SP]there.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Le second étage de Zodiac à Yumezaki serait\nun immense labyrinthe. Des explorateurs y\nauraient trouvé de bonnes choses."
+    "texte_fr": "Le second étage de Zodiac à Yumezaki serait\nun immense labyrinthe. Des explorateurs\ny auraient trouvé de bonnes choses."
   },
   {
     "id": 164,
@@ -2664,7 +2664,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Our[SP]food[SP]has[SP]different[SP]status-boosting[SP]effects\nthat[SP]are[SP]different[SP]with[SP]each[SP]dish,[SP]so[SP]try[SP]them\nfor[SP]yourself[SP]to[SP]see[SP]what[SP]happens!",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Nos plats ont différents effets sur\nles stats selon le plat choisi,\nessayez-les pour voir ce qui se passe!"
+    "texte_fr": "Nos plats ont différents effets\nsur les stats selon le plat choisi,\nessayez-les pour voir ce qui se passe!"
   },
   {
     "id": 170,

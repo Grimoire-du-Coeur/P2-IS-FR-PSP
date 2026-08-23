@@ -42,7 +42,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Eikichi-kun[SP]mentioned[SP]a[SP]rumor[SP]that[SP]the[SP]one\nperson[SP]who[SP]got[SP]out[SP]used[SP]a[SP]mirror,[SP]right?",
     "nom_fr": "Maya",
-    "texte_fr": "Eikichi a évoqué une rumeur: la seule\npersonne qui est sortie\navait un miroir, non?"
+    "texte_fr": "Eikichi a évoqué une rumeur: la seule\npersonne qui est sortie avait un miroir, non?"
   },
   {
     "id": 3,
@@ -267,7 +267,7 @@
     "nom_orig": "Maya",
     "texte_orig": "If[SP]I[SP]start[SP]to[SP]complain,[SP]Mr.[SP]Bunbun[SP]will\nlaugh[SP]at[SP]me.[SP]Uh-oh,[SP]here[SP]he[SP]comes![SP]Bouncy\nbounce[SP]bounce!",
     "nom_fr": "Maya",
-    "texte_fr": "Si je commence à me plaindre, Mr.\nBunbun se moquera de moi. Oh\nnon, il arrive! Cache-toi vite!"
+    "texte_fr": "Si je commence à me plaindre,\nMr. Bunbun se moquera de moi. Oh\nnon, il arrive! Cache-toi vite!"
   },
   {
     "id": 18,
@@ -297,7 +297,7 @@
     "nom_orig": "Maya",
     "texte_orig": "This[SP]guy's[SP]my[SP]good[SP]luck[SP]charm.[1205][001E][SP]When[SP]times\nare[SP]hard,[SP]like[SP]now...[SP]I[SP]always[SP]ask[SP]him\nwhat[SP]to[SP]do.",
     "nom_fr": "Maya",
-    "texte_fr": "C'est mon porte-bonheur.[1205][001E] Dans les moments durs,\ncomme là... Je lui demande que faire."
+    "texte_fr": "C'est mon porte-bonheur.[1205][001E] Dans les moments\ndurs, comme là... Je lui demande que faire."
   },
   {
     "id": 20,
@@ -357,7 +357,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]just[SP]can't[SP]bring[SP]myself[SP]to[SP]believe[SP]that\nJoker[SP]really[SP]is[SP]a[SP]bad[SP]guy.[1205][001E][SP]It[SP]was[SP]like[SP]he[SP]was\na[SP]child[SP]crying[SP]after[SP]having[SP]a[SP]nightmare...",
     "nom_fr": "Maya",
-    "texte_fr": "J'arrive pas à croire\nque Joker est vraiment\nmauvais.[1205][001E] On aurait dit\nun enfant en train de\npleurer après avoir eu un cauchemar..."
+    "texte_fr": "J'arrive pas à croire que Joker est vraiment\nmauvais.[1205][001E] On aurait dit un enfant en train\nde pleurer après avoir eu un cauchemar..."
   },
   {
     "id": 24,
@@ -402,7 +402,7 @@
     "nom_orig": "Maya",
     "texte_orig": "True[SP]indeed...[1205][001E][SP]Sometimes,[SP]I[SP]wonder[SP]if[SP]what\nwe[SP]think[SP]of[SP]as[SP]real[SP]could[SP]just[SP]all[SP]be\na[SP]dream.",
     "nom_fr": "Maya",
-    "texte_fr": "C'est vrai...[1205][001E] Parfois, je me demande si ce que\nl'on croit vrai n'est pas qu'un rêve..."
+    "texte_fr": "C'est vrai...[1205][001E] Parfois, je me demande si ce\nque l'on croit vrai n'est pas qu'un rêve..."
   },
   {
     "id": 27,
@@ -417,7 +417,7 @@
     "nom_orig": "Maya",
     "texte_orig": "That[SP]I'm[SP]watching[SP]a[SP]dream[SP]go[SP]by[SP]while\nforgetting[SP]something[SP]important[SP]to[SP]me...[1205][001E]\nJoker,[SP]too,[SP]maybe.\n[E1][E2]\n\n[E3][E4][NULL][NULL]\"[1113]\n......",
     "nom_fr": "",
-    "texte_fr": "Comme si je regardais un rêve défiler\nen oubliant quelque chose...[1205][001E] Joker\naussi, peut-être. [E1][E2] [E3][E4][NULL][NULL]\"[1113] ......"
+    "texte_fr": "Comme si je regardais un rêve\ndéfiler en oubliant quelque chose...[1205][001E]\nJoker aussi, peut-être. [E1][E2] [E3][E4][NULL][NULL]\"[1113] ......"
   },
   {
     "id": 28,
@@ -432,7 +432,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Oh,[SP]sorry.[SP]Didn't[SP]mean[SP]to[SP]get[SP]into[SP]such\nheavy[SP]stuff[SP]with[SP]you.[SP]Well,[SP]leave[SP]the\nlookout[SP]to[SP]me[SP]and[SP]get[SP]some[SP]rest.",
     "nom_fr": "Maya",
-    "texte_fr": "Oh, pardon. Je voulais pas être aussi\ngrave avec toi. Bon, laisse-moi\nsurveiller et va te reposer."
+    "texte_fr": "Oh, pardon. Je voulais pas être\naussi grave avec toi. Bon, laisse-moi\nsurveiller et va te reposer."
   },
   {
     "id": 29,
@@ -447,6 +447,6 @@
     "nom_orig": "Maya",
     "texte_orig": "Goodnight,[SP][1113]-kun...[1205][001E]\nSweet[SP]dreams...",
     "nom_fr": "",
-    "texte_fr": "Bonne nuit, [1113]-kun...[1205][001E]\nFais de beaux rêves..."
+    "texte_fr": "Bonne nuit, [1113]-kun...[1205][001E] Fais de beaux rêves..."
   }
 ]

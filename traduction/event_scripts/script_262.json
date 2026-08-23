@@ -12,7 +12,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "*sigh*[SP]I've[SP]taken[SP]ill[SP]myself.[SP]I[SP]woke[SP]up\nthis[SP]morning[SP]with[SP]a[SP]swollen[SP]face[SP]and[SP]a\nbald[SP]spot.[SP]Laugh[SP]if[SP]you[SP]want...",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "*soupir* Je suis aussi tombé malade...\nJe me suis réveillé, visage enflé et\nchauve! Allez-y, moquez-vous..."
+    "texte_fr": "*soupir* Je suis aussi tombé malade...\nJe me suis réveillé, visage enflé\net chauve! Allez-y, moquez-vous..."
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "Bad[SP]luck,[SP][1113]-senpai.[SP]I'm[SP]surprised\nat[SP]how[SP]popular[SP]Principal[SP]Hanya[SP]is.[1205][001E][SP]He's\nawful,[SP]but[SP]I[SP]like[SP]him...[SP]Why[SP]is[SP]that?",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Pas de bol, [1113]-senpai.[1205][001E]\nSurprenant que le proviseur plaise autant.\nIl est affreux, mais je l'adore..."
+    "texte_fr": "Pas de bol, [1113]-senpai.[1205][001E] Surprenant\nque le proviseur plaise autant.\nIl est affreux, mais je l'adore..."
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "You[SP]maintain[SP]your[SP]own[SP]bike,[SP]right,\n[1113]?[SP]Looks[SP]like[SP]the[SP]rumors[SP]were[SP]true\nabout[SP]you[SP]being[SP]good[SP]with[SP]machines.",
     "nom_fr": "Lycéen",
-    "texte_fr": "Tu entretiens ta propre moto, [1113]?\nOn dirait que les rumeurs étaient vraies\nsur tes talents avec les machines."
+    "texte_fr": "Tu entretiens ta propre moto, [1113]? On\ndirait que les rumeurs étaient vraies\nsur tes talents avec les machines."
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "[1113]-senpai!?[SP]This[SP]is[SP]so[SP]sudden...[1205][001E]\nI'm[SP]inexperienced...[SP]My[SP]heart's[SP]not\nready...[1205][001E][SP]But[SP]maybe[SP]for[SP]you,[SP]I[SP]could...!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "[1113]-senpai!? C'est si soudain.[1205].[001E]. Je n'ai\npas l'habitude... Mon cœur\ns'emballe... Mais avec toi, je pourrais essayer!"
+    "texte_fr": "[1113]-senpai!? C'est si soudain.[1205].[001E]. Je n'ai\npas l'habitude... Mon cœur s'emballe...\nMais avec toi, je pourrais essayer!"
   },
   {
     "id": 4,
@@ -72,6 +72,6 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Huh?[SP]Ms.[SP]Saeko?[1205][001E][SP]I[SP]dunno...[SP]Maybe[SP]in[SP]the\nteacher's[SP]lounge[SP]on[SP]the[SP]second[SP]floor?[1205][001E][SP]*sigh*\nOf[SP]course[SP]it[SP]wasn't[SP]me[SP]you're[SP]after...",
     "nom_fr": "",
-    "texte_fr": "Hein ? Mme Saeko ?[1205][001E] Je sais pas... Dans\nla salle des profs au deuxième étage ?[1205][001E] *soupir*\nBien sûr que c'est pas moi que vous cherchez..."
+    "texte_fr": "Hein ? Mme Saeko ?[1205][001E] Je sais pas...\nDans la salle des profs au deuxième\nétage ?[1205][001E] *soupir* Bien sûr que\nc'est pas moi que vous cherchez..."
   }
 ]

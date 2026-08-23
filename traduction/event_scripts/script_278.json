@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]got[SP]scolded[SP]for[SP]mouthing[SP]off[SP]to[SP]the[SP]principal:\n[1432][NULL][NULL][0014]What[SP]are[SP]you[SP]doing[SP]in[SP]the[SP]clock[SP]tower?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]It's[SP]rock[SP]hour![1432][NULL][NULL][0014][SP]Heheh...[SP]I'm[SP]a[SP]genius.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nNo[SP]use[SP]for[SP]this[SP]place[SP]anymore.[SP]Why[SP]not\nconvert[SP]it[SP]to[SP]a[SP]storage[SP]room?[1205][000F][SP]Hmmm...\nI[SP]guess[SP]you[SP]can't[SP]really[SP]do[SP]that...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Engueulé par le proviseur\n: [1432][NULL][NULL][0014]Que fais-tu dans le clocher?[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]C'est l'heure du rock![1432][NULL][NULL][0014]\nHéhé... suis ungénie.[E1][E2] [E3][E4][NULL][NULL]\"Eikichi\n Cet endroit ne sert plus à\nrien. Pourquoi pas en faire un\n[1205][000F]débarras?Hmm... Bon, c'est pas si simple..."
+    "texte_fr": "Engueulé par le proviseur : [1432][NULL][NULL][0014]Que fais-tu\ndans le clocher?[1432][NULL][NULL][0014] [1432][NULL][NULL][0014]C'est l'heure du rock![1432][NULL][NULL][0014]\nHéhé... suis ungénie.[E1][E2] [E3][E4][NULL][NULL]\"Eikichi Cet endroit\nne sert plus à rien. Pourquoi pas en faire un\n[1205][000F]débarras?Hmm... Bon, c'est pas si simple..."
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]get[SP]this[SP]weird,[SP]nostalgic[SP]feeling\nfrom[SP]her...[1205][001E][SP]Nah,[SP]that's[SP]impossible![1205][001E]\nWe've[SP]never[SP]even[SP]met[SP]before.",
     "nom_fr": "Ginko",
-    "texte_fr": "Elle me donne une étrange impression\nde nostalgie...[1205][001E] Non, impossible![1205][001E] On\nne s'est jamais vues."
+    "texte_fr": "Elle me donne une étrange\nimpression de nostalgie...[1205][001E] Non,\nimpossible![1205][001E] On ne s'est jamais vues."
   },
   {
     "id": 4,
@@ -117,7 +117,7 @@
     "nom_orig": "Maya",
     "texte_orig": "*staaa[1205][000F]a[1205][000F]a[1205][000F]a[1205][000F]a[1205][000F]re*[1205][001E]\nBut[SP]that[SP]aside,[SP][1113]-kun...[1205][001E]\nHave[SP]we[SP]met[SP]somewhere[SP]before?",
     "nom_fr": "Maya",
-    "texte_fr": "*fixefixefixefixefixe*[1205][001E] Bref.[1205][000F]..\n[1113]-kun...[1205][001E] On s'est déjà vus?"
+    "texte_fr": "*fixefixefixefixefixe*[1205][001E] Bref...[1205][000F]\n[1113]-kun...[1205][001E] On s'est déjà vus?"
   },
   {
     "id": 8,
@@ -147,7 +147,7 @@
     "nom_orig": "Maya",
     "texte_orig": "These[SP]photos[SP]lined[SP]up[SP]here...[1205][001E][SP]Are[SP]they[SP]ALL\nof[SP]the[SP]principal!?[1205][001E][SP]He's[SP]got[SP]guts,[SP]I'll[SP]give\nhim[SP]that.",
     "nom_fr": "Maya",
-    "texte_fr": "Ces photos...[1205][001E] Ce sont TOUTES celles du\nproviseur!?[1205][001E] Au moins il a du culot."
+    "texte_fr": "Ces photos...[1205][001E] Ce sont TOUTES celles\ndu proviseur!?[1205][001E] Au moins il a du culot."
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Yukki's[SP]probably[SP]right.[SP]Ms.[SP]Saeko[SP]seemed[SP]like\nan[SP]understanding[SP]and[SP]beautiful[SP]woman.[SP]You're\nlucky[SP]to[SP]have[SP]her[SP]in[SP]charge[SP]of[SP]your[SP]class.",
     "nom_fr": "Maya",
-    "texte_fr": "Yukki a sûrement raison. Mme Saeko semblait\nêtre une femme belle et compréhensive. De \nla chance d'avoir quelqu'un comme elle."
+    "texte_fr": "Yukki a sûrement raison. Mme Saeko semblait\nêtre une femme belle et compréhensive. De\nla chance d'avoir quelqu'un comme elle."
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]wonder[SP]if[SP]there's[SP]really[SP]any[SP]such[SP]thing[SP]as\ncoincidence...[1205][001E][SP]When[SP]so[SP]many[SP]of[SP]them[SP]happen\nlike[SP]this,[SP]I[SP]wonder[SP]if[SP]it's[SP]all[SP]a[SP]setup.",
     "nom_fr": "Yukino",
-    "texte_fr": "Est-ce que les coïncidences existent\nvraiment...[1205][001E] Quand il y\nen a autant d'un coup, je\nme demande si tout n'est pas orchestré."
+    "texte_fr": "Est-ce que les coïncidences existent\nvraiment...[1205][001E] Quand il y en a autant d'un coup,\nje me demande si tout n'est pas orchestré."
   },
   {
     "id": 12,
@@ -263,7 +263,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]knew[SP]it...[1205][001E][SP]There[SP]was[SP]an[SP]antisocial[SP]guy[SP]like\nyou[SP]there,[SP]too...[1205][001E][SP]Am[SP]I[SP]cursed[SP]or[SP]something!?",
     "nom_fr": "Yukino",
-    "texte_fr": "Je m'en doutais...[1205][001E] Il y avait un asocial\ncomme toi là-bas aussi...[1205][001E]\nJe suis maudite !?"
+    "texte_fr": "Je m'en doutais...[1205][001E] Il y avait un asocial\ncomme toi là-bas aussi...[1205][001E] Je suis maudite !?"
   },
   {
     "id": 17,

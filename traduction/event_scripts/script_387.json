@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Oh,[SP]are[SP]we[SP]heading[SP]back[SP]for[SP]a[SP]bit?[1205][000F][SP]Guess[SP]we\ncan't[SP]stock[SP]up[SP]on[SP]weapons[SP]and[SP]stuff[SP]otherwise.\nOkay,[SP]let's[SP]go.",
     "nom_fr": "Eikichi",
-    "texte_fr": "On fait demi-tour? C'est vrai qu'on\n[1205][000F]pourra pas faire le plein\nd'équipement sinon. Aller, on y va."
+    "texte_fr": "On fait demi-tour? C'est vrai\nqu'on [1205][000F]pourra pas faire le plein\nd'équipement sinon. Aller, on y va."
   },
   {
     "id": 2,
@@ -72,7 +72,7 @@
     "nom_orig": "Maya",
     "texte_orig": "This[SP]mark...[1205][000F][SP]Did[SP]the[SP]Last[SP]Battalion[SP]leave\nthis[SP]here...?",
     "nom_fr": "Maya",
-    "texte_fr": "Cette marque.[1205][000F].. C'est le\nbataillon qui à laissé ça?"
+    "texte_fr": "Cette marque...[1205][000F] C'est le\nbataillon qui à laissé ça?"
   },
   {
     "id": 5,
@@ -102,7 +102,7 @@
     "nom_orig": "Jun",
     "texte_orig": "It[SP]looks[SP]like...[SP]a[SP]teleporter...[1205][000F][SP]I[SP]think[SP]we\ncan[SP]activate[SP]it[SP]just[SP]by[SP]getting[SP]on[SP]and[SP]pushing\na[SP]button.[SP]But[SP]where[SP]does[SP]it[SP]lead...?",
     "nom_fr": "Jun",
-    "texte_fr": "On dirait un téléporteur. [1205][000F]On devrait\npouvoir l'activer en appuyant sur le bouton\nà l'intérieur. Mais où il pourrait ammener?"
+    "texte_fr": "On dirait un téléporteur. [1205][000F]On devrait pouvoir\nl'activer en appuyant sur le bouton à\nl'intérieur. Mais où il pourrait ammener?"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Jun",
     "texte_orig": "It's[SP]strange...[1205][000F][SP]It[SP]doesn't[SP]look[SP]as[SP]though[SP]the\nLast[SP]Battalion[SP]even[SP]used[SP]this.[1205][000F][SP]It's[SP]like[SP]they\nleft[SP]it[SP]just[SP]for[SP]us...",
     "nom_fr": "Jun",
-    "texte_fr": "On dirait que le Bataillon\n[1205][000F]ne s'en est même pas servi.\nC'est comme s'il était conçu spécialement pour nous... Se téléporter à Seven?[SP][SP] OuiNon",
+    "texte_fr": "On dirait que le Bataillon [1205][000F]ne s'en\nest même pas servi. C'est comme\ns'il était conçu spécialement pour\nnous... Se téléporter à Seven?[SP][SP] OuiNon",
     "choix_fr": [
       "Oui",
       "Non"
@@ -152,7 +152,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Heh,[SP]can't[SP]you[SP]tell?[1205][000F][SP]It's[SP]a[SP]stage,[SP]duh!\nIt[SP]even[SP]has[SP]its[SP]own[SP]lighting[SP]setup!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Bah, je sais pas moi.[1205][000F].. Une scène\npeut être? Tu vois pas l'éclairage?"
+    "texte_fr": "Bah, je sais pas moi...[1205][000F] Une scène\npeut être? Tu vois pas l'éclairage?"
   },
   {
     "id": 10,
