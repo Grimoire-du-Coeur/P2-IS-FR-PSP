@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What[SP]the[SP]hell!?[SP]If[SP]you[SP]want[SP]my[SP]emblem,[SP]come[SP]and\nget[SP]it[SP]yourself![SP]You[SP]just[SP]want[SP]other[SP]people[SP]to\nsolve[SP]your[SP]problems![E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nSheesh...[1205][001E][SP]How[SP]come[SP]I[SP]gotta[SP]deal[SP]with[SP]your\nschool's[SP]problems[SP]too?[1205][001E][SP]I'm[SP]too[SP]damn[SP]nice,\nis[SP]why.[SP]Don't[SP]you[SP]think?",
     "nom_fr": "Eikichi",
-    "texte_fr": "C'est quoi ce bordel!? Si tu veux\nmon insigne, viens le prendre! Tu\nveux juste que les autres règlent tes\nsoucis![E1][E2] [E3][E4][NULL][NULL]\"Eikichi Pfff...[1205][001E] Pourquoi je\ndois gérer les problèmes de ton bahut?[1205][001E]\nJe suis trop sympa. Vous trouvez pas?"
+    "texte_fr": "C'est quoi ce bordel!? Si tu veux\nmon insigne, viens le prendre! Tu\nveux juste que les autres règlent tes\nsoucis![E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi Pfff...[1205][001E] Pourquoi je\ndois gérer les problèmes de ton bahut?[1205][001E]\nJe suis trop sympa. Vous trouvez pas?"
   },
   {
     "id": 1,
@@ -192,7 +192,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Where's[SP]that[SP]Hamya[SP]hiding?[1205][000A][SP]He[SP]has[SP]to[SP]be[SP]in\nthis[SP]school[SP]somewhere.",
     "nom_fr": "Yukino",
-    "texte_fr": "Où se cache ce Hamya?[1205][000A]Il doit être dans ce bahut quelque part."
+    "texte_fr": "Où se cache ce Hamya? Il doit être dans ce bahut quelque part."
   },
   {
     "id": 13,
@@ -372,7 +372,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Gotta[SP]hurry...[1205][0008][SP]Gotta[SP]hurry...[1205][000A][SP]Umm,[SP]where[SP]else\ndid[SP]I[SP]see[SP]'em?[1205][000F][SP]Oh,[SP]right,[SP]the[SP]teachers'\nlounge![1205][000F][SP]There's[SP]emblems[SP]there[SP]too!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Faut se dépêcher...[1205][0008] Vite...[1205][000A] Euh, où en ai-je vu d'autres? Ah, la\nsalle des profs! Y'a des insignes là-bas!"
+    "texte_fr": "Faut se dépêcher...[1205][0008] Vite... Euh, où en ai-je vu d'autres? Ah, la\nsalle des profs! Y'a des insignes là-bas!"
   },
   {
     "id": 25,
@@ -387,7 +387,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "If[SP]you[SP]don't[SP]hurry,[SP]I'll[SP]get[SP]sick[SP]too![1205][000A]\nPlease[SP]go[SP]destroy[SP]the[SP]emblems[SP]in[SP]the\nteachers'[SP]lounge!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Dépêchez-vous ou je serai malade![1205][000A]Allez détruire les insignes\ndans la salle des profs!"
+    "texte_fr": "Dépêchez-vous ou je serai malade! Allez détruire les insignes\ndans la salle des profs!"
   },
   {
     "id": 26,
@@ -417,7 +417,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "One[SP]of[SP]us...[1205][000A][SP]I-I[SP]mean--[1205][000A]I[SP]feel[SP]bad[SP]about[SP]what\nhappened[SP]to[SP]the[SP]principal,[SP]but[SP]I'm[SP]glad[SP]the\ncurse[SP]is[SP]lifted.",
     "nom_fr": "Lycéenne",
-    "texte_fr": "L'un des nôtres...[1205][000A] J-Je veux dire--[1205][000A]Je me sens mal pour le dirlo, mais\nravie que la malédiction soit levée."
+    "texte_fr": "L'un des nôtres... J-Je veux dire-- Je me sens mal pour le dirlo, mais\nravie que la malédiction soit levée."
   },
   {
     "id": 28,
@@ -597,7 +597,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Gotta[SP]hurry...[1205][0008][SP]Gotta[SP]hurry...[1205][000A][SP]Umm,[SP]where[SP]else\ndid[SP]I[SP]see[SP]'em?[1205][000F][SP]Oh,[SP]right,[SP]the[SP]teachers'\nlounge![1205][000F][SP]There's[SP]emblems[SP]there[SP]too!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Faut se dépêcher...[1205][0008] Vite...[1205][000A] Euh, où en ai-je vu d'autres? Ah, la\nsalle des profs! Y'a des insignes là-bas!"
+    "texte_fr": "Faut se dépêcher...[1205][0008] Vite... Euh, où en ai-je vu d'autres? Ah, la\nsalle des profs! Y'a des insignes là-bas!"
   },
   {
     "id": 40,
@@ -612,7 +612,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "If[SP]you[SP]don't[SP]hurry,[SP]I'll[SP]get[SP]sick[SP]too![1205][000A]\nPlease[SP]go[SP]destroy[SP]the[SP]emblems[SP]in[SP]the\nteachers'[SP]lounge!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Dépêchez-vous ou je serai malade![1205][000A]Allez détruire les insignes\ndans la salle des profs!"
+    "texte_fr": "Dépêchez-vous ou je serai malade! Allez détruire les insignes\ndans la salle des profs!"
   },
   {
     "id": 41,
