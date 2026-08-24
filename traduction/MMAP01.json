@@ -207,7 +207,7 @@
     "nom_orig": "Healthy[SP]young[SP]man",
     "texte_orig": "I[SP]think[SP]I[SP]heard[SP]her[SP]say[SP]something[SP]like,[SP][1432][NULL][NULL][0014]You'll\npay[SP]for[SP]this![1432][NULL][NULL][0014][SP]as[SP]she[SP]went...",
     "nom_fr": "Jeune homme",
-    "texte_fr": "Que se passe-t-il !?[1205][0008][1106][NL]D'abord ce temple bizarre, puis\nle Bataillon et le Cercle masqué\nl'envahissent ![1106][NL]Ils y sont entrés...[1205][000A] J'entends des tirs à l'intérieur.[1205][000F] Ils se battent encore ?[1432][NULL][NULL][0014][1432][NULL][NULL][0014]"
+    "texte_fr": "Que se passe-t-il !?[1205][0008][1106][NL]D'abord ce temple bizarre, puis\nle Bataillon et le Cercle masqué\nl'envahissent ![1106][NL]Ils y sont entrés... J'entends des tirs à l'intérieur.[1205][000F] Ils se battent encore ?[1432][NULL][NULL][0014][1432][NULL][NULL][0014]"
   },
   {
     "id": 14,
@@ -372,7 +372,7 @@
     "nom_orig": "Young[SP]man",
     "texte_orig": "First[SP]that[SP]weird[SP]temple[SP]shows[SP]up,[SP]then[SP]the\nLast[SP]Battalion[SP]and[SP]Masked[SP]Circle[SP]goons[SP]show\nup[SP]and[SP]swarm[SP]into[SP]it!",
     "nom_fr": "Jeune fille",
-    "texte_fr": "Hein ? T'as pas vu les portraits-robots ?[1205][000F]\nY en a un qui a tes cheveux, et son visage\nte ressemble...[1106][NL]Son nez...[1205][000A] Comme le tien...[1205][000F] Et sa bouche...[1205][000A] Ouais, ça colle...[1205][000F] Tu vois ? Il a l'air si maléfique."
+    "texte_fr": "Hein ? T'as pas vu les portraits-robots ?[1205][000F]\nY en a un qui a tes cheveux, et son visage\nte ressemble...[1106][NL]Son nez... Comme le tien...[1205][000F] Et sa bouche... Ouais, ça colle...[1205][000F] Tu vois ? Il a l'air si maléfique."
   },
   {
     "id": 25,
@@ -387,7 +387,7 @@
     "nom_orig": "Young[SP]man",
     "texte_orig": "They[SP]all[SP]went[SP]inside...[1205][000A][SP]I[SP]can[SP]hear[SP]gunshots[SP]and\nstuff[SP]from[SP]in[SP]there.[1205][000F][SP]Are[SP]they[SP]still[SP]fighting?",
     "nom_fr": "Jeune fille",
-    "texte_fr": "Je me suis demandé en lisant l'In Lak'ech...\nLe Bataillon a-t-il fait sauter des trucs\npour trouver le trésor de Sumaru ?[1205][000A]"
+    "texte_fr": "Je me suis demandé en lisant l'In Lak'ech...\nLe Bataillon a-t-il fait sauter des trucs\npour trouver le trésor de Sumaru ? "
   },
   {
     "id": 26,
@@ -657,7 +657,7 @@
     "nom_orig": "Young[SP]girl",
     "texte_orig": "Geez,[SP]what's[SP]the[SP]Masked[SP]Circle[SP]thinking!?[1205][000F]\nWhy[SP]would[SP]they[SP]do[SP]this!?",
     "nom_fr": "Homme",
-    "texte_fr": "Tout le monde dit que c'est la fin du monde ![1205][000A][1106][NL]Inondations, météores... Dès que cette Grande\nJe-Sais-Pas-Quoi arrivera...[1106][NL]Ce que je pige pas, c'est que ça va tous les tuer\nen bas, non ? Quel intérêt de prédire comment ils vont mourir ?"
+    "texte_fr": "Tout le monde dit que c'est la fin du monde ! [1106][NL]Inondations, météores... Dès que cette Grande\nJe-Sais-Pas-Quoi arrivera...[1106][NL]Ce que je pige pas, c'est que ça va tous les tuer\nen bas, non ? Quel intérêt de prédire comment ils vont mourir ?"
   },
   {
     "id": 44,
@@ -687,7 +687,7 @@
     "nom_orig": "Young[SP]girl",
     "texte_orig": "His[SP]nose...[1205][000A][SP]was[SP]like[SP]yours...[1205][000F][SP]And[SP]his[SP]mouth...[1205][000A]\nYeah,[SP]that[SP]matches[SP]too...[1205][000F][SP]See?[SP]Doesn't[SP]he[SP]seem\ntotally[SP]evil?",
     "nom_fr": "Homme",
-    "texte_fr": "J'ai entendu dire que la Terre arrêtera de tourner\navec la Croix.[1205][000A] Un truc sur la gravité...\nÇa me dépasse.[1106][NL]À quel point ce serait grave si ça arrivait ? J'en sais rien...[1205][000A][000A]"
+    "texte_fr": "J'ai entendu dire que la Terre arrêtera de tourner\navec la Croix. Un truc sur la gravité...\nÇa me dépasse.[1106][NL]À quel point ce serait grave si ça arrivait ? J'en sais rien... [000A]"
   },
   {
     "id": 46,
@@ -777,7 +777,7 @@
     "nom_orig": "Young[SP]girl",
     "texte_orig": "They[SP]were[SP]so[SP]cool...[1205][000A][SP]I[SP]gotta[SP]get[SP]my[SP]act\ntogether[SP]too.",
     "nom_fr": "Homme",
-    "texte_fr": "Un Taxi Maudit ? Y en a un à l'usine abandonnée ?\nQuels genres de passagers il espère\nprendre là-bas ?[1205][000A]"
+    "texte_fr": "Un Taxi Maudit ? Y en a un à l'usine abandonnée ?\nQuels genres de passagers il espère\nprendre là-bas ? "
   },
   {
     "id": 52,
@@ -867,7 +867,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "You[SP]can[SP]tell[SP]because[SP]she'll[SP]sell[SP]you[SP]real\nweapons[SP]if[SP]you[SP]order[SP]banana[SP]char[SP]siu[SP]ramen![1205][000F]\nFunny[SP]old[SP]world,[SP]huh?",
     "nom_fr": "Homme",
-    "texte_fr": "Il paraît qu'il y a un monstre Mégère à Commode\nà l'usine... Vraiment ? Mégère\n[NULL][NULL][0014]Mégère à Commode[1432][NULL][NULL][0014] ?[1106][NL]C'est pas une commode avec des bras et des jambes, si ? Pfff. Ces monstres ont de ces noms...[1205][000F]"
+    "texte_fr": "Il paraît qu'il y a un monstre Mégère à Commode\nà l'usine... Vraiment ? Mégère\n[NULL][NULL][0014]Mégère à Commode[1432][NULL][NULL][0014] ?[1106][NL]C'est pas une commode avec des bras et des jambes, si ? Pfff. Ces monstres ont de ces noms...[1205][000F] "
   },
   {
     "id": 58,
@@ -1077,7 +1077,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "Then[SP]who[SP]was[SP]that...?[1205][000F][SP]I-I'm[SP]seein'[SP]double...",
     "nom_fr": "Homme",
-    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F]\nC'est pas cher, mais c'est pas de la top qualité."
+    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F] C'est pas cher, mais c'est pas de la top qualité."
   },
   {
     "id": 72,
@@ -1092,7 +1092,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "H-Hahaha...[1205][000F][SP]Guess[SP]I[SP]did[SP]have[SP]a[SP]few[SP]too[SP]many\nlast[SP]night...[SP]I[SP]really[SP]oughtta[SP]cut[SP]back[SP]on\nthe[SP]booze...",
     "nom_fr": "Homme",
-    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F]\nIl a du choix, mais les prix de rachat sont nuls."
+    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F] Il a du choix, mais les prix de rachat sont nuls."
   },
   {
     "id": 73,
@@ -1122,7 +1122,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "I[SP]didn't[SP]know[SP]the[SP]Last[SP]Battalion[SP]had[SP]guys\nlike[SP]that!",
     "nom_fr": "Homme",
-    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F]\nLa qualité est bonne, mais les prix sont élevés."
+    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F] La qualité est bonne, mais les prix sont élevés."
   },
   {
     "id": 75,
@@ -1137,7 +1137,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "Well,[SP]I'll[SP]be[SP]damned![1205][000F][SP]That[SP]Xibalba[SP]thing[SP]was\nthis[SP]big!?[1205][000A][SP]Not[SP]too[SP]many[SP]people[SP]can[SP]say[SP]they\nlive[SP]in[SP]a[SP]city[SP]in[SP]the[SP]sky.",
     "nom_fr": "Homme",
-    "texte_fr": "Nom d'un chien ![1205][000F] Ce Xibalba était aussi grand !?[1205][000A]\nPeu de gens peuvent dire qu'ils vivent\ndans une ville dans le ciel.[NL]Mais je ne crois pas à cette histoire de fin du monde. Tu peux rien y faire, petit !?"
+    "texte_fr": "Nom d'un chien ![1205][000F] Ce Xibalba était aussi grand !? \nPeu de gens peuvent dire qu'ils vivent\ndans une ville dans le ciel.[NL]Mais je ne crois pas à cette histoire de fin du monde. Tu peux rien y faire, petit !?"
   },
   {
     "id": 76,
@@ -1167,7 +1167,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "Everyone[SP]I[SP]know's[SP]talkin'[SP]about[SP]how[SP]the[SP]world's\ngonna[SP]end![1205][000A]",
     "nom_fr": "Homme",
-    "texte_fr": "Tout le monde dit que c'est la fin du monde ![1205][000A][NL]Inondations, météores... Dès que cette Grande\nJe-Sais-Pas-Quoi arrivera...[NL]Ce que je pige pas, c'est que ça va tous les tuer\nen bas, non ? Quel intérêt de prédire comment ils vont mourir ?"
+    "texte_fr": "Tout le monde dit que c'est la fin du monde ! [NL]Inondations, météores... Dès que cette Grande\nJe-Sais-Pas-Quoi arrivera...[NL]Ce que je pige pas, c'est que ça va tous les tuer\nen bas, non ? Quel intérêt de prédire comment ils vont mourir ?"
   },
   {
     "id": 78,
@@ -1227,7 +1227,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "Hey,[SP]I[SP]heard[SP]the[SP]world[SP]will[SP]stop[SP]spinning[SP]if\nthe[SP]Grand[SP]Cross[SP]happens.[1205][000A][SP]Somethin'[SP]about[SP]the\nbalance[SP]of[SP]gravity[SP]and[SP]stuff...[SP]Over[SP]my[SP]head.",
     "nom_fr": "Homme",
-    "texte_fr": "J'ai entendu dire que la Terre arrêtera de tourner\navec la Croix.[1205][000A] Un truc sur la gravité...\nÇa me dépasse.[NL]À quel point ce serait grave si ça arrivait ? J'en sais rien..."
+    "texte_fr": "J'ai entendu dire que la Terre arrêtera de tourner\navec la Croix. Un truc sur la gravité...\nÇa me dépasse.[NL]À quel point ce serait grave si ça arrivait ? J'en sais rien..."
   },
   {
     "id": 82,
@@ -1782,7 +1782,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "I[SP]hear[SP]he[SP]has[SP]good[SP]stuff,[SP]but[SP]it's[SP]expensive.",
     "nom_fr": "Étudiant",
-    "texte_fr": "Hyaaaah ![1205][0008] Entrer dans une grande faculté, bosser\npour la meilleure boîte...[1205][000A] C'est mon rêve\ndepuis 31 ans...[1205][000F] Aucun ne se réalisera...[1106][NL]Au moins, je verrai la fin de notre\nTerre, puisque ma vie sera épargnée.[1205][000F]\nFaut-il oublier les vieilles connaissances...[1205][000A]\n*sniff*[E1][E2]\n[E3][E4][NULL][NULL]\"Étudiant\nHyaaaah ![1205][0008] J'entends dire que quand la Croix\nCosmique sera terminée, un trou noir va se\nformer au centre et engloutir cette planète.[1106][NL]Mais si ça arrivait, alors nous ne\nserions pas non plus en sécurité.[1205][000A]\nÇa ressemble à un canular."
+    "texte_fr": "Hyaaaah ![1205][0008] Entrer dans une grande faculté, bosser\npour la meilleure boîte... C'est mon rêve\ndepuis 31 ans...[1205][000F] Aucun ne se réalisera...[1106][NL]Au moins, je verrai la fin de notre\nTerre, puisque ma vie sera épargnée.[1205][000F]\nFaut-il oublier les vieilles connaissances... *sniff*[E1][E2]\n[E3][E4][NULL][NULL]\"Étudiant\nHyaaaah ![1205][0008] J'entends dire que quand la Croix\nCosmique sera terminée, un trou noir va se\nformer au centre et engloutir cette planète.[1106][NL]Mais si ça arrivait, alors nous ne\nserions pas non plus en sécurité. \nÇa ressemble à un canular."
   },
   {
     "id": 119,
@@ -1872,7 +1872,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "So[SP]the[SP]old[SP]man[SP]at[SP]Jolly[SP]Roger[SP]even[SP]sells\nweapons...[1205][000F][SP]I[SP]hear[SP]their[SP]quality[SP]and[SP]price\nis[SP]just[SP]average.",
     "nom_fr": "Homme",
-    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F]\nIl paraît que la qualité et les prix sont moyens."
+    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F] Il paraît que la qualité et les prix sont moyens."
   },
   {
     "id": 125,
@@ -1887,7 +1887,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "So[SP]the[SP]old[SP]man[SP]at[SP]Jolly[SP]Roger[SP]even[SP]sells\nweapons...[1205][000F][SP]I[SP]hear[SP]they're[SP]cheap,[SP]but[SP]not\nexactly[SP]quality[SP]stuff.",
     "nom_fr": "Homme",
-    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F]\nC'est pas cher, mais c'est pas de la top qualité."
+    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F] C'est pas cher, mais c'est pas de la top qualité."
   },
   {
     "id": 126,
@@ -1902,7 +1902,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "So[SP]the[SP]old[SP]man[SP]at[SP]Jolly[SP]Roger[SP]even[SP]sells\nweapons...[1205][000F][SP]I[SP]hear[SP]his[SP]selection's[SP]good,\nbut[SP]his[SP]resale[SP]value[SP]sucks.",
     "nom_fr": "Homme",
-    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F]\nIl a du choix, mais les prix de rachat sont nuls."
+    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F] Il a du choix, mais les prix de rachat sont nuls."
   },
   {
     "id": 127,
@@ -1917,7 +1917,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "So[SP]the[SP]old[SP]man[SP]at[SP]Jolly[SP]Roger[SP]even[SP]sells\nweapons...[1205][000F][SP]I[SP]hear[SP]his[SP]selection[SP]sucks,\nbut[SP]his[SP]resale[SP]prices[SP]are[SP]great.",
     "nom_fr": "Homme",
-    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F]\nLe choix craint, mais les prix de rachat sont super."
+    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F] Le choix craint, mais les prix de rachat sont super."
   },
   {
     "id": 128,
@@ -1932,7 +1932,7 @@
     "nom_orig": "Blue-collar[SP]man",
     "texte_orig": "So[SP]the[SP]old[SP]man[SP]at[SP]Jolly[SP]Roger[SP]even[SP]sells\nweapons...[1205][000F][SP]I[SP]hear[SP]their[SP]quality's[SP]good,\nbut[SP]the[SP]prices[SP]are[SP]high.",
     "nom_fr": "Homme",
-    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F]\nLa qualité est bonne, mais les prix sont élevés."
+    "texte_fr": "Même le vieux de Jolly Roger vend des armes...[1205][000F] La qualité est bonne, mais les prix sont élevés."
   },
   {
     "id": 129,
@@ -2712,7 +2712,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "What[SP]about[SP]their[SP]studies!?[1205][000A][SP]What[SP]about[SP]their\ncollege[SP]entrance[SP]exams!?[1205][000A][SP]Have[SP]you[SP]even[SP]taken\nyour[SP]finals[SP]yet!?",
     "nom_fr": "Bataillon",
-    "texte_fr": "Notre Führer a atteint sa destination.[1205][000F]\nLes civils à proximité doivent se rendre.[1205][000A]"
+    "texte_fr": "Notre Führer a atteint sa destination.[1205][000F]\nLes civils à proximité doivent se rendre. "
   },
   {
     "id": 181,
@@ -2982,7 +2982,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "If[SP]that[SP]happens,[SP]what[SP]will[SP]become[SP]of[SP]my[SP]dream!?[1205][000F]\nHow[SP]will[SP]I[SP]make[SP]it[SP]into[SP]the[SP]best[SP]university[SP]in\nthe[SP]country[SP]if[SP]the[SP]country[SP]is[SP]destroyed!?",
     "nom_fr": "Maya",
-    "texte_fr": "C'est pas vrai... ? Il devait y avoir tant\nde gens à l'intérieur... Les flammes\nôtent encore des vies...[1205][000F]"
+    "texte_fr": "C'est pas vrai... ? Il devait y avoir tant\nde gens à l'intérieur... Les flammes\nôtent encore des vies...[1205][000F] "
   },
   {
     "id": 199,
@@ -2997,7 +2997,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "Hyaaaah![1205][0008][SP]What[SP]should[SP]I[SP]do?[1205][000A][SP]A[SP]city[SP]soaring[SP]in\nthe[SP]sky[SP]is[SP]the[SP]epitome[SP]of[SP]absurdity![1205][000A][SP]Worse,\nthere[SP]are[SP]no[SP]colleges[SP]in[SP]Sumaru[SP]City!",
     "nom_fr": "Étudiant",
-    "texte_fr": "Hyaaaah ![1205][0008] Que dois-je faire ?[1205][000A] Une ville dans\nle ciel, c'est le comble de l'absurdité ![1205][000A] Pire,\nil n'y a pas de facultés à Sumaru ![NL]Hrrrgh... Si le monde s'arrête, à quoi tout ce travail aura-t-il servi... ? Rien que d'y penser, ça me brise le cœur !"
+    "texte_fr": "Hyaaaah ![1205][0008] Que dois-je faire ? Une ville dans\nle ciel, c'est le comble de l'absurdité ! Pire,\nil n'y a pas de facultés à Sumaru ![NL]Hrrrgh... Si le monde s'arrête, à quoi tout ce travail aura-t-il servi... ? Rien que d'y penser, ça me brise le cœur !"
   },
   {
     "id": 200,
@@ -3012,7 +3012,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "Hrrrgh...[1205][000A][SP]If[SP]the[SP]world[SP]does[SP]end,[SP]what[SP]was[SP]all\nmy[SP]hard[SP]work[SP]for...?[1205][000F][SP]It[SP]pains[SP]my[SP]heart[SP]to[SP]even\nthink[SP]about[SP]it!",
     "nom_fr": "Maya",
-    "texte_fr": "Fâché que j'aie laissé fuir Ixquic ?\nC'est dans ma nature... Désolée si ça\nt'a contrarié.[1205][000A]"
+    "texte_fr": "Fâché que j'aie laissé fuir Ixquic ?\nC'est dans ma nature... Désolée si ça\nt'a contrarié. "
   },
   {
     "id": 201,
@@ -3027,7 +3027,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "Hyaaaah![1205][0008][SP]Making[SP]it[SP]into[SP]a[SP]top[SP]college,[SP]working\nfor[SP]the[SP]best[SP]company...[1205][000A][SP]This[SP]has[SP]been[SP]my[SP]dream\nfor[SP]31[SP]years...[1205][000F][SP]Now[SP]neither[SP]will[SP]come[SP]true...",
     "nom_fr": "Étudiant",
-    "texte_fr": "Hyaaaah ![1205][0008] Entrer dans une grande faculté, bosser\npour la meilleure boîte...[1205][000A] C'est mon rêve\ndepuis 31 ans...[1205][000F] Aucun ne se réalisera...[NL]Au moins, je verrai la fin de notre\nTerre, puisque ma vie sera épargnée.\nFaut-il oublier les vieilles connaissances...\n*sniff*[E1][E2]\n[E3][E4][NULL][NULL]\"Étudiant\nHyaaaah ! J'entends dire que quand la Croix\nCosmique sera terminée, un trou noir va se\nformer au centre et engloutir cette planète.[NL]Mais si ça arrivait, alors nous ne\nserions pas non plus en sécurité.\nÇa ressemble à un canular."
+    "texte_fr": "Hyaaaah ![1205][0008] Entrer dans une grande faculté, bosser\npour la meilleure boîte... C'est mon rêve\ndepuis 31 ans...[1205][000F] Aucun ne se réalisera...[NL]Au moins, je verrai la fin de notre\nTerre, puisque ma vie sera épargnée.\nFaut-il oublier les vieilles connaissances...\n*sniff*[E1][E2]\n[E3][E4][NULL][NULL]\"Étudiant\nHyaaaah ! J'entends dire que quand la Croix\nCosmique sera terminée, un trou noir va se\nformer au centre et engloutir cette planète.[NL]Mais si ça arrivait, alors nous ne\nserions pas non plus en sécurité.\nÇa ressemble à un canular."
   },
   {
     "id": 202,
@@ -3057,7 +3057,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "But[SP]if[SP]that[SP]were[SP]to[SP]happen,[SP]then[SP]we[SP]won't[SP]be\nsafe,[SP]either.[1205][000A][SP]It[SP]sounds[SP]like[SP]a[SP]hoax.",
     "nom_fr": "Maya",
-    "texte_fr": "Ce n'est pas le genre de Jun-kun de souhaiter\nune telle chose. Attends-moi... Je viens\nte chercher cette fois...[NULL][NULL]\"Eikichi Le Bâtiment Sakanoue ?[1205][000A] Pourquoi on irait là-bas ?[1205][000A] Allez, allons ailleurs.[000A]"
+    "texte_fr": "Ce n'est pas le genre de Jun-kun de souhaiter\nune telle chose. Attends-moi... Je viens\nte chercher cette fois...[NULL][NULL]\"Eikichi Le Bâtiment Sakanoue ? Pourquoi on irait là-bas ? Allez, allons ailleurs.[000A]"
   },
   {
     "id": 204,
@@ -3072,7 +3072,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "Hyaaaah![1205][0008][SP]I[SP]doubt[SP]any[SP]severe[SP]natural[SP]disaster\nbut[SP]this[SP]one[SP]could[SP]happen![1205][000A][SP]It[SP]seems[SP]that[SP]the\nEarth's[SP]rotation[SP]will[SP]suddenly[SP]halt.",
     "nom_fr": "Étudiant",
-    "texte_fr": "Hyaaaah ![1205][0008] Je doute qu'une autre catastrophe\nnaturelle puisse se produire ![1205][000A] Il semble\nque la Terre va soudainement s'arrêter.[NL]Tel est l'effet de la Croix Cosmique. Personne ne défie la volonté de l'espace... Triste pensée, en effet."
+    "texte_fr": "Hyaaaah ![1205][0008] Je doute qu'une autre catastrophe\nnaturelle puisse se produire ! Il semble\nque la Terre va soudainement s'arrêter.[NL]Tel est l'effet de la Croix Cosmique. Personne ne défie la volonté de l'espace... Triste pensée, en effet."
   },
   {
     "id": 205,
@@ -3087,7 +3087,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "Such[SP]is[SP]the[SP]effect[SP]of[SP]the[SP]Grand[SP]Cross.[1205][000A]\nNo[SP]one[SP]can[SP]defy[SP]the[SP]will[SP]of[SP]space...[1205][000F]\nA[SP]sad[SP]thought[SP]indeed.",
     "nom_fr": "Maya",
-    "texte_fr": "Bâtiment Sakanoue...[1205][000F] Est-ce la prochaine\ncible... ?[1205][000A]"
+    "texte_fr": "Bâtiment Sakanoue...[1205][000F] Est-ce la prochaine\ncible... ? "
   },
   {
     "id": 206,
@@ -3132,7 +3132,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "Hyaaaah![1205][0008][SP]Did[SP]you[SP]hear?[SP]Club[SP]Zodiac's[SP]second\nfloor[SP]is[SP]undergoing[SP]extensive[SP]remodeling![1205][000A]\nIt's[SP]now[SP]an[SP]item-filled[SP]labyrinth.",
     "nom_fr": "Étudiant",
-    "texte_fr": "Hyaaaah ![1205][0008] Tu as entendu ? Le deuxième\nétage du club Zodiac est en rénovation ![1205][000A]\nC'est maintenant un labyrinthe rempli d'objets.[NL]Hmm, cette épreuve a sûrement été faite pour moi... Mais je suis trop pris par mes études. Je serai généreux et te permettrai de la relever !"
+    "texte_fr": "Hyaaaah ![1205][0008] Tu as entendu ? Le deuxième\nétage du club Zodiac est en rénovation ! \nC'est maintenant un labyrinthe rempli d'objets.[NL]Hmm, cette épreuve a sûrement été faite pour moi... Mais je suis trop pris par mes études. Je serai généreux et te permettrai de la relever !"
   },
   {
     "id": 209,
@@ -3147,7 +3147,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "Hmm,[SP]this[SP]ordeal[SP]must[SP]have[SP]been[SP]made[SP]for[SP]me...[1205][000A]\nBut[SP]I'm[SP]too[SP]busy[SP]with[SP]my[SP]studies.[SP]I[SP]will[SP]be\ngenerous[SP]and[SP]allow[SP]you[SP]to[SP]challenge[SP]it!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Si on avait choisi ici, Smile Hirasaka\nserait en cendres... Pfiou, y penser\nme donne des frissons.[1205][000A]"
+    "texte_fr": "Si on avait choisi ici, Smile Hirasaka\nserait en cendres... Pfiou, y penser\nme donne des frissons. "
   },
   {
     "id": 210,
@@ -3447,7 +3447,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "Hyaaaah![1205][000F][SP]Selling[SP]weapons[SP]at[SP]an[SP]antique[SP]shop...[1205][000F]\nTime[SP]Castle's[SP]owner[SP]is[SP]no[SP]ordinary[SP]man.",
     "nom_fr": "Étudiant",
-    "texte_fr": "Hyaaaah ![1205][000F] Vendre des armes chez un antiquaire...[1205][000F]\nLe propriétaire de Time Castle est audacieux.[NL]La qualité et le prix de ses biens semblent\ncependant être dans la moyenne."
+    "texte_fr": "Hyaaaah ![1205][000F] Vendre des armes chez un antiquaire...[1205][000F] Le propriétaire de Time Castle est audacieux.[NL]La qualité et le prix de ses biens semblent\ncependant être dans la moyenne."
   },
   {
     "id": 230,
@@ -3477,7 +3477,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "Hyaaaah![1205][000F][SP]Selling[SP]weapons[SP]at[SP]an[SP]antique[SP]shop...[1205][000F]\nTime[SP]Castle's[SP]owner[SP]is[SP]no[SP]ordinary[SP]man.",
     "nom_fr": "Étudiant",
-    "texte_fr": "Hyaaaah ![1205][000F] Vendre des armes chez un antiquaire...[1205][000F]\nLe propriétaire de Time Castle est audacieux.[NL]La qualité de ses biens est superbe, mais ses\nprix sont très élevés."
+    "texte_fr": "Hyaaaah ![1205][000F] Vendre des armes chez un antiquaire...[1205][000F] Le propriétaire de Time Castle est audacieux.[NL]La qualité de ses biens est superbe, mais ses\nprix sont très élevés."
   },
   {
     "id": 232,
@@ -3507,7 +3507,7 @@
     "nom_orig": "Fighting[SP]washout[SP]student",
     "texte_orig": "Hyaaaah![1205][000F][SP]Selling[SP]weapons[SP]at[SP]an[SP]antique[SP]shop...[1205][000F]\nTime[SP]Castle's[SP]owner[SP]is[SP]no[SP]ordinary[SP]man.",
     "nom_fr": "Étudiant",
-    "texte_fr": "Hyaaaah ![1205][000F] Vendre des armes chez un antiquaire...[1205][000F]\nLe propriétaire de Time Castle est audacieux.[NL]On m'a dit que le prix est correct, mais\nque la qualité laisse à désirer."
+    "texte_fr": "Hyaaaah ![1205][000F] Vendre des armes chez un antiquaire...[1205][000F] Le propriétaire de Time Castle est audacieux.[NL]On m'a dit que le prix est correct, mais\nque la qualité laisse à désirer."
   },
   {
     "id": 234,
@@ -5172,7 +5172,7 @@
     "nom_orig": "Maya",
     "texte_orig": "It's[SP]not[SP]like[SP]Jun-kun[SP]to[SP]wish[SP]for[SP]something\nlike[SP]this.[SP]Wait[SP]for[SP]me...[SP]I'm[SP]coming[SP]to[SP]get\nyou[SP]this[SP]time...[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nThe[SP]Sakanoue[SP]Building?[1205][000A][SP]Why[SP]would[SP]we[SP]go[SP]there?[1205][000A]\nC'mon,[SP]let's[SP]go[SP]somewhere[SP]else.",
     "nom_fr": "Maya",
-    "texte_fr": "Ce n'est pas le genre de Jun-kun de souhaiter\nune telle chose. Attends-moi... Je viens\nte chercher cette fois...[NULL][NULL]\"Eikichi\nLe Bâtiment Sakanoue ?[1205][000A] Pourquoi on irait là-bas ?[1205][000A]\nAllez, allons ailleurs.[E1][E2][E3][E4]"
+    "texte_fr": "Ce n'est pas le genre de Jun-kun de souhaiter\nune telle chose. Attends-moi... Je viens\nte chercher cette fois...[NULL][NULL]\"Eikichi\nLe Bâtiment Sakanoue ? Pourquoi on irait là-bas ? \nAllez, allons ailleurs.[E1][E2][E3][E4]"
   },
   {
     "id": 345,

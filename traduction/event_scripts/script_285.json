@@ -222,7 +222,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]can[SP]this[SP]old[SP]man[SP]do[SP]for[SP]you[SP]today?\n[1208][0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toku-san\nNever[SP]mind",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Que puis-je pour toi?\n[1208][0003][1210][0475]Parlons rumeurs\nDiscuter un peu[SP][SP][SP][SP]\nRien merci",
+    "texte_fr": "Que puis-je pour toi?\n[1208][0003][1210][0475]Parlons rumeurs\nDiscuter un peu\nRien",
     "question_orig": "What[SP]can[SP]this[SP]old[SP]man[SP]do[SP]for[SP]you[SP]today?",
     "choix_orig": [
       "[1210]Ask[SP]about[SP]rumors",
@@ -248,7 +248,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNone",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel genre de rumeur veux-tu entendre?\n[1208][0004][1210][0476]Magasin d'armes[SP][SP][SP]\n[1210][0477]Magasin d'armures\n[1210][0478]Autres[SP][SP][SP][SP][SP]\nAucun",
+    "texte_fr": "Quel type de rumeur?\n[1208][0004][1210][0476]Rumeurs: armes\n[1210][0477]Rumeurs: armures\n[1210][0478]Autres rumeurs\nAucune",
     "question_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -673,7 +673,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Ah,[SP]so[SP]this[SP]new[SP]Leader[SP]at[SP]Kasugayama[SP]used[SP]to\nbe[SP]the[SP]Death[SP]Boss'[SP]underling.[1205][000F][SP]The[SP]low[SP]overcomes\nthe[SP]high...[1205][000F][SP]All[SP]right,[SP]here's[SP]what[SP]I[SP]know.[E1][E2]\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nThere's[SP]a[SP]branch[SP]of[SP][E4][NULL][NULL][0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]in[SP]Aoba,[SP]and\nword[SP]is[SP]they[SP]sell[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002].[1205][000F][SP]Their[SP][E4][NULL][NULL][0006]selection\nis[SP]paltry,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]good[E4][NULL][NULL][0002].",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Ah, ce nouveau chef de Kakasu était le\nlarbin de l'ancien Boss Mortel. [1205][000F]Le faible\nsurpasse le fort... D'accord, voilà ce que\nje sais.[E1][E2] [E3][E4][NULL][NULL]\"Colporteur Toku [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] a\nune branche à Aoba, et ils y vendraient de\n[E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002].Leur [E4][NULL][NULL][0006]sélection est misérable,\nmais les prix de revente sont bons[E4][NULL][NULL][0002]."
+    "texte_fr": "Ah, ce nouveau chef de Kakasu était le\nlarbin de l'ancien Boss Mortel. [1205][000F]Le faible\nsurpasse le fort... D'accord, voilà ce que\nje sais.[E1][E2]\n[E3][E4][NULL][NULL]\"Colporteur Toku [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] a\nune branche à Aoba, et ils y vendraient de\n[E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002].Leur [E4][NULL][NULL][0006]sélection est misérable,\nmais les prix de revente sont bons[E4][NULL][NULL][0002]."
   },
   {
     "id": 41,
@@ -703,7 +703,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "There's[SP]a[SP]European-styled[SP]shop,[SP][E4][NULL][NULL][0006]London[SP]Clothier[E4][NULL][NULL][0002],\nin[SP]Kounan.[1205][000A][SP]You[SP]can[SP]buy[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002][SP]there.[SP][E4][NULL][NULL][0006]Their\nselection[SP]is[SP]good,[SP]but[SP]the[SP]resale[SP]value[SP]isn't[E4][NULL][NULL][0002].",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Ce magasin au style européen,\n[E4][NULL][NULL][0006]London Clothier[E4][NULL][NULL][0002], à Kounan.[1205][000A]Tu peux y acheter de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002].\n[E4][NULL][NULL][0006]Bon choix, mais mauvais prix derevente[E4][NULL][NULL][0002]."
+    "texte_fr": "Ce magasin au style européen,\n[E4][NULL][NULL][0006]London Clothier[E4][NULL][NULL][0002], à Kounan. Tu peux y acheter de [E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002].\n[E4][NULL][NULL][0006]Bon choix, mais mauvais prix derevente[E4][NULL][NULL][0002]."
   },
   {
     "id": 43,
@@ -838,7 +838,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "The[SP][E4][NULL][NULL][0006]legendary[SP]weapon[SP]at[SP]Time[SP]Castle[E4][NULL][NULL][0002][SP]hasn't[SP]been\ndelivered[SP]yet...[1205][000A][SP]The[SP][E4][NULL][NULL][0006]owner[SP]is[SP]too[SP]scared[SP]to[SP]pick\nit[SP]up[SP]from[SP]the[SP]abandoned[SP]factory[E4][NULL][NULL][0002].",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "[E4][NULL][NULL][0006]L'arme légendaire au Time\nCastle[E4][NULL][NULL][0002] n'est pas livrée...[1205][000A] Le [E4][NULL][NULL][0006]possesseur est trop apeuré pour\nla récupérer à l'usine abandonnée[E4][NULL][NULL][0002]."
+    "texte_fr": "[E4][NULL][NULL][0006]L'arme légendaire au Time\nCastle[E4][NULL][NULL][0002] n'est pas livrée... Le [E4][NULL][NULL][0006]possesseur est trop apeuré pour\nla récupérer à l'usine abandonnée[E4][NULL][NULL][0002]."
   },
   {
     "id": 52,
@@ -1183,7 +1183,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Yikes...[1205][000A][SP]I[SP]just[SP]heard[SP]a[SP]scary[SP]story...[1205][000F][SP]Hm?\nWhat[SP]was[SP]it[SP]about?[1205][000F][SP]I-It[SP]was[SP]about[SP]Kudan...[1205][000A]\nAt[SP]the[SP]abandoned[SP]factory...[SP]Brrrr...",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Ugh...[1205][000A] J'ai entendu une histoire flippante...[1205][000A] Hm? De quoi ça parle?[1205] Ç-Ça parle de\nKudan...[1205] À l'usine abandonnée... Brr..."
+    "texte_fr": "Ugh... J'ai entendu une histoire flippante... Hm? De quoi ça parle?[1205] Ç-Ça parle de\nKudan...[1205] À l'usine abandonnée... Brr..."
   },
   {
     "id": 75,
@@ -2113,7 +2113,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]Ow...[1205][000A][SP]Bit[SP]my[SP]tongue...",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba! Aïe...[1205][000A] Ma langue..."
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba! Aïe... Ma langue..."
   },
   {
     "id": 137,
@@ -2128,7 +2128,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]Ow![1205][000A][SP]I[SP]bit[SP]my[SP]tongue\nagain...",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba! Aïe![1205][000A]Me suis encore mordu..."
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba! Aïe! Me suis encore mordu..."
   },
   {
     "id": 138,
@@ -2143,7 +2143,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivaldi![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivaldi![1205][000F][SP]Huh...?[1205][000A][SP]My[SP]chant[SP]is\ndifferent[SP]from[SP]everyone[SP]else's?",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivaldi!\n[1205][000F]Nyarshtan Nyargashana Vivaldi! Hein...?[1205][000A]Mon chant différe de celui des autres?"
+    "texte_fr": "Nyarshtan Nyargashana Vivaldi!\n[1205][000F]Nyarshtan Nyargashana Vivaldi! Hein...? Mon chant différe de celui des autres?"
   },
   {
     "id": 139,
@@ -2158,7 +2158,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Revolver![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Revolver![1205][000F][SP]Huh...?[1205][000A][SP]Mine[SP]is[SP]still\ndifferent?",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Revolver!\n[1205][000F]Nyarshtan Nyargashana Revolver! Hein...?[1205][000A]C'est encore différent?"
+    "texte_fr": "Nyarshtan Nyargashana Revolver!\n[1205][000F]Nyarshtan Nyargashana Revolver! Hein...? C'est encore différent?"
   },
   {
     "id": 140,
@@ -2188,7 +2188,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]The[SP]heralded[SP]hour[SP]of\nevolution![1205][000A][SP]Behold!",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba! Admirez![1205][000A]Voici l'heure de l'évolution!"
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba! Admirez! Voici l'heure de l'évolution!"
   },
   {
     "id": 142,
