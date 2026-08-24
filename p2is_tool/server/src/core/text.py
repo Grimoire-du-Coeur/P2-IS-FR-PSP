@@ -414,41 +414,77 @@ def _needs_nl_suffix(term: list, texte_orig: str) -> bool:
 
 def _align_menu_text(nom_orig: str, texte_orig: str, nom_fr: str, t_fr: str) -> str:
     """
-    Pour les slots qui contiennent un menu de choix [1208], insère du padding SP
-    AVANT [1208] dans t_fr pour que les options restent aux mêmes offsets relatifs
-    que dans l'original. Le moteur PSP Atlus stocke des pointeurs absolus vers
-    les options de menu — si les options bougent, le jeu lit les mauvaises données
-    et n'affiche qu'une seule option (ou aucune).
-
-    Retourne t_fr avec padding ajusté. Si la question FR est trop longue,
-    retourne t_fr inchangé (l'encodeur avertira via la vérification de taille).
+    Aligne la question ET chaque option de menu pour correspondre exactement 
+    à la taille binaire de l'original. Empêche les dépassements de mémoire 
+    et préserve les pointeurs absolus du moteur vers chaque option.
     """
     marker_fr = (
         "[U+1208]" if "[U+1208]" in t_fr else ("[1208]" if "[1208]" in t_fr else None)
     )
     if marker_fr is None:
-        return t_fr  # pas un slot de menu
+        return t_fr
 
-    # Calculer l'offset du 1er [0014] (= début opt1) dans l'original encodé
-    # Structure : [1208](2)+[0002](2)+[1432](2)+[NULL](2)+[NULL](2)+[0014](2) = 12 bytes
-    nom_orig_clean = nom_orig.replace("[SP]", " ")
     marker_orig = "[U+1208]" if "[U+1208]" in texte_orig else ("[1208]" if "[1208]" in texte_orig else None)
-    pre_orig = texte_orig.split(marker_orig)[0] if marker_orig else texte_orig
+    if not marker_orig:
+        return t_fr
+
+    nom_orig_clean = nom_orig.replace("[SP]", " ")
+    
+    pre_orig, post_orig = texte_orig.split(marker_orig, 1)
+    pre_fr, post_fr = t_fr.split(marker_fr, 1)
+
     enc_pre_orig = text_to_bytes('"' + nom_orig_clean + "\n" + pre_orig)
-    opt1_offset_orig = len(enc_pre_orig) + 12  # 6 mots × 2 bytes
-
-    # Calculer la taille de la question FR encodée (avant [1208])
-    pre_fr = t_fr.split(marker_fr)[0]
     enc_pre_fr = text_to_bytes('"' + nom_fr + "\n" + pre_fr)
-    current_opt1_offset = len(enc_pre_fr) + 12
+    
+    diff_q = len(enc_pre_orig) - len(enc_pre_fr)
+    
+    if diff_q > 0:
+        pre_fr += "[SP]" * (diff_q // 2)
+    elif diff_q < 0:
+        import re
+        while len(text_to_bytes('"' + nom_fr + "\n" + pre_fr)) > len(enc_pre_orig):
+            tokens = re.split(r'(\[[a-zA-Z0-9+\-_]+\])', pre_fr)
+            tokens = [t for t in tokens if t]
+            if not tokens: break
+            if tokens[-1].startswith('['):
+                tokens.pop()
+            else:
+                tokens[-1] = tokens[-1][:-1]
+            pre_fr = ''.join(tokens)
+    
+    orig_lines = post_orig.split('\n')
+    fr_lines = post_fr.split('\n')
+    aligned_fr_lines = []
+    
+    for i in range(len(fr_lines)):
+        if i >= len(orig_lines):
+            aligned_fr_lines.append(fr_lines[i])
+            continue
+            
+        orig_line = orig_lines[i]
+        fr_line = fr_lines[i]
+        
+        orig_len = len(text_to_bytes(orig_line.replace("[SP]", " ")))
+        fr_len = len(text_to_bytes(fr_line))
+        
+        diff_opt = orig_len - fr_len
+        if diff_opt > 0:
+            fr_line += "[SP]" * (diff_opt // 2)
+        elif diff_opt < 0:
+            import re
+            while len(text_to_bytes(fr_line)) > orig_len:
+                tokens = re.split(r'(\[[a-zA-Z0-9+\-_]+\])', fr_line)
+                tokens = [t for t in tokens if t]
+                if not tokens: break
+                if tokens[-1].startswith('['):
+                    tokens.pop()
+                else:
+                    tokens[-1] = tokens[-1][:-1]
+                fr_line = ''.join(tokens)
+        
+        aligned_fr_lines.append(fr_line)
 
-    diff = opt1_offset_orig - current_opt1_offset  # bytes manquants
-    if diff <= 0:
-        return t_fr  # déjà aligné ou trop long → laisser tel quel
-
-    # diff doit être pair (mots de 2 bytes)
-    n_sp = diff // 2
-    return t_fr.replace(marker_fr, "[SP]" * n_sp + marker_fr, 1)
+    return pre_fr + marker_fr + '\n'.join(aligned_fr_lines)
 
 def _align_mid_text(nom_orig: str, texte_orig: str, nom_fr: str, t_fr: str) -> str:
     """
