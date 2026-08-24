@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]temple[SP]in[SP]Yumezaki[SP]is[SP]the[SP]Scorpio[SP]Temple...\nThat's[SP]my[SP]sign.[1205][000F][SP]The[SP]fake[SP]me[SP]we[SP]saw[SP]at[SP]the\nCaracol[SP]could[SP]be[SP]there...",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le temple de Yumezaki correspond au\nScorpion... [1205][000F] C'est mon signe. Le faux\nmoi de la Caracol pourrait être là-bas..."
+    "texte_fr": "Le temple de Yumezaki correspond au\nScorpion...[1205][000F] C'est mon signe. Le faux\nmoi de la Caracol pourrait être là-bas..."
   },
   {
     "id": 1,
@@ -72,7 +72,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]can't[SP]blame[SP]Ginko[SP]for[SP]worrying...[1205][001E][SP]I[SP]feel\nlike[SP]the[SP]weight[SP]of[SP]the[SP]world[SP]is[SP]being[SP]forced\non[SP]our[SP]shoulders.[SP]It[SP]kind[SP]of[SP]sucks.",
     "nom_fr": "Eikichi",
-    "texte_fr": "J'en veux pas à Ginko de s'inquiéter...[1205][001E]\nJ'ai l'impression de sentir tout le poids\ndu monde sur mes épaules. Et ça craint."
+    "texte_fr": "J'en veux pas à Ginko de s'inquiéter...[1205][001E] J'ai l'impression de sentir tout le poids\ndu monde sur mes épaules. Et ça craint."
   },
   {
     "id": 5,
@@ -252,7 +252,7 @@
     "nom_orig": "Jun",
     "texte_orig": "My[SP]false[SP]memories[SP]and[SP]true[SP]memories[SP]conflicted\nwith[SP]each[SP]other,[SP]causing[SP]me[SP]to[SP]subconsciously\nreach[SP]out[SP]to[SP]Lisa...[1205][000F][SP]My[SP]sins[SP]will[SP]never[SP]fade...",
     "nom_fr": "Jun",
-    "texte_fr": "Mes vrais et faux souvenirs s'entrechoquent,\net me rapprochent inconsciemment de Lisa...\n[1205][000F]Mes péchés ne s'effaceront jamais..."
+    "texte_fr": "Mes vrais et faux souvenirs s'entrechoquent,\net me rapprochent inconsciemment de Lisa...[1205][000F] Mes péchés ne s'effaceront jamais..."
   },
   {
     "id": 17,
@@ -297,7 +297,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "What's[SP]up?[SP]Need[SP]something?\n[1208][0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Chikarin\nNever[SP]mind",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quoi de neuf ?\n[1208][0003][1210][0475]Parlons rumeurs \nDiscuter un peu  [SP]\nRien merci",
+    "texte_fr": "Quoi de neuf ?\n[1208][0003][1210][0475]Parlons rumeurs \nDiscuter un peu [SP]\nRien merci",
     "question_orig": "What's[SP]up?[SP]Need[SP]something?",
     "choix_orig": [
       "[1210]Ask[SP]about[SP]rumors",
@@ -323,7 +323,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]kind[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel type de rumeur ?\n[1208][0004][1210][0476]Magasin d'armes  [SP]\n[1210][0477]Magasin d'armures\n[1210][0478]Autres   [SP][SP][SP][SP][SP]\nAucun",
+    "texte_fr": "Quel type de rumeur ?\n[1208][0004][1210][0476]Magasin d'armes [SP]\n[1210][0477]Magasin d'armures\n[1210][0478]Autres [SP][SP][SP][SP][SP]\nAucun",
     "question_orig": "Which[SP]kind[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -406,7 +406,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]one[SP]do[SP]you[SP]want[SP]the[SP]details[SP]on?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Laquelle ?\n[1208][0004][1210][0472]Loteries de magazines   [SP][SP][SP]\n[1210][0473]Mu    [SP][SP][SP]\n[1210][0474]Arme légendaire    [SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
+    "texte_fr": "Laquelle ?\n[1208][0004][1210][0472]Loteries de magazines [SP][SP][SP]\n[1210][0473]Mu [SP][SP][SP]\n[1210][0474]Arme légendaire [SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
     "question_orig": "Which[SP]one[SP]do[SP]you[SP]want[SP]the[SP]details[SP]on?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
@@ -1138,7 +1138,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "Welcome[SP]to[SP]Peace[SP]Diner.[SP]How[SP]may[SP]I[SP]serve[SP]you,\nsirrah?\n[1208][0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Bienvenue au Peace Diner.\nQue désirez-vous, maraud?\n[1208][0004]Manger \nDiscuter un peu    \nRien merci\nFiler",
+    "texte_fr": "Bienvenue au Peace Diner.\nQue désirez-vous, maraud?\n[1208][0004]Manger \nDiscuter un peu \nRien merci\nFiler",
     "question_orig": "Welcome[SP]to[SP]Peace[SP]Diner.[SP]How[SP]may[SP]I[SP]serve[SP]you,\nsirrah?",
     "choix_orig": [
       "Dine[SP]in",
@@ -1191,7 +1191,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "Will[SP]you[SP]be[SP]requiring[SP]anything[SP]else?\n[1208][0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Requerriez-vous autre chose?\n[1208][0004]Manger \nDiscuter un peu    \nRien merci\nFiler",
+    "texte_fr": "Requerriez-vous autre chose?\n[1208][0004]Manger \nDiscuter un peu \nRien merci\nFiler",
     "question_orig": "Will[SP]you[SP]be[SP]requiring[SP]anything[SP]else?",
     "choix_orig": [
       "Dine[SP]in",

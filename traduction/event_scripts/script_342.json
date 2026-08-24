@@ -12,7 +12,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "That's[SP]weird...[1205][000F][SP]Kozy's[SP]not[SP]here.[1205][000F][SP]I[SP]thought\nshe'd[SP]be[SP]munching[SP]on[SP]a[SP]Big[SP]Peace[SP]Burger...",
     "nom_fr": "Ginko",
-    "texte_fr": "Bizarre..[1205][000F]. Kozy n'est pas là. Je pensais\nqu'elle irait manger au Big Peace Burger..."
+    "texte_fr": "Bizarre...[1205][000F] Kozy n'est pas là. Je pensais\nqu'elle irait manger au Big Peace Burger..."
   },
   {
     "id": 1,
@@ -42,7 +42,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Huh...?[SP]Oh[SP]yeah,[SP]you're[SP]on[SP]Kozy's[SP]newspaper\nstaff...[SP]Umm...[1205][000F][SP]Chikarin?",
     "nom_fr": "Ginko",
-    "texte_fr": "Hein...? Ah, tu bosses dans le\njournal de Kozy... [1205][000F]Chikarin je crois?"
+    "texte_fr": "Hein...? Ah, tu bosses dans le\njournal de Kozy...[1205][000F] Chikarin je crois?"
   },
   {
     "id": 3,
@@ -447,7 +447,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Why[SP]did[SP]that[SP]ghost[SP]seem[SP]so[SP]familiar...?[1205][000F]\nThe[SP]guy[SP]died[SP]more[SP]than[SP]ten[SP]years[SP]ago...[1205][000F]\nI-Is[SP]this[SP]another...[1205][000F][SP]No,[SP]couldn't[SP]be.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Pourquoi ce fantôme m'est si familier...[1205][000F]?\nCe gars est mort y'a plus de dix ans...\nO-Où c'est un autre... Pas moyen."
+    "texte_fr": "Pourquoi ce fantôme m'est si familier...[1205][000F] ?\nCe gars est mort y'a plus de dix ans...\nO-Où c'est un autre... Pas moyen."
   },
   {
     "id": 30,
@@ -897,7 +897,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hmm...[SP]Pachinko[SP]Silver[SP]or[SP]GOLD...[1205][000F][SP]They[SP]both\nseem[SP]equally[SP]likely[SP]to[SP]me.",
     "nom_fr": "Maya",
-    "texte_fr": "Hm, le Pachinko Silver ou le GOLD...[1205][000F]\nLes deux me semblent probables."
+    "texte_fr": "Hm, le Pachinko Silver ou le GOLD...[1205][000F] Les deux me semblent probables."
   },
   {
     "id": 60,
@@ -1092,7 +1092,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "The[SP]Sakanoue[SP]Building[SP]or[SP]Smile[SP]Hirasaka...[1205][000F]\nIdeally[SP]we'd[SP]have[SP]time[SP]to[SP]check[SP]them[SP]both.",
     "nom_fr": "Yukino",
-    "texte_fr": "Le Sakanoue Building ou le Smile Hirasaka...[1205][000F]\nSi on pouvait vérifier les deux..."
+    "texte_fr": "Le Sakanoue Building ou le Smile Hirasaka...[1205][000F] Si on pouvait vérifier les deux..."
   },
   {
     "id": 73,
@@ -1257,7 +1257,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "What's[SP]up?[SP]Need[SP]something?\n[1208][0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Chikarin\nNever[SP]mind",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quoi de neuf ?\n[1208][0003][1210][0475]Parlons rumeurs \nDiscuter un peu  [SP]\nRien merci",
+    "texte_fr": "Quoi de neuf ?\n[1208][0003][1210][0475]Parlons rumeurs \nDiscuter un peu [SP]\nRien merci",
     "question_orig": "What's[SP]up?[SP]Need[SP]something?",
     "choix_orig": [
       "[1210]Ask[SP]about[SP]rumors",
@@ -1283,7 +1283,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]kind[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Quel type de rumeur ?\n[1208][0004][1210][0476]Magasin d'armes  [SP]\n[1210][0477]Magasin d'armures\n[1210][0478]Autres   [SP][SP][SP][SP][SP]\nAucun",
+    "texte_fr": "Quel type de rumeur ?\n[1208][0004][1210][0476]Magasin d'armes [SP]\n[1210][0477]Magasin d'armures\n[1210][0478]Autres [SP][SP][SP][SP][SP]\nAucun",
     "question_orig": "Which[SP]kind[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -1366,7 +1366,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "Which[SP]one[SP]do[SP]you[SP]want[SP]the[SP]details[SP]on?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Laquelle ?\n[1208][0004][1210][0472]Loteries de magazines   [SP][SP][SP]\n[1210][0473]Mu    [SP][SP][SP]\n[1210][0474]Arme légendaire    [SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
+    "texte_fr": "Laquelle ?\n[1208][0004][1210][0472]Loteries de magazines [SP][SP][SP]\n[1210][0473]Mu [SP][SP][SP]\n[1210][0474]Arme légendaire [SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
     "question_orig": "Which[SP]one[SP]do[SP]you[SP]want[SP]the[SP]details[SP]on?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
@@ -1963,7 +1963,7 @@
     "nom_orig": "Rumormonger[SP]Chikarin",
     "texte_orig": "They[SP]sound[SP]pretty[SP]suspicious,[SP]though...[1205][000F]\nAre[SP]they[SP]like,[SP]demon[SP]worshippers?[1205][000F][SP]Hmm,[SP]maybe\nthe[SP]fortune[SP]teller[SP]in[SP]Kounan[SP]would[SP]know.",
     "nom_fr": "Commère Chikarin",
-    "texte_fr": "Ils ont l'air très suspects, par contre...[1205][000F]\nC'est genre, un culte démoniaque? Hmm, la\nvoyante de Kounan pourrait en savoir plus."
+    "texte_fr": "Ils ont l'air très suspects, par contre...[1205][000F] C'est genre, un culte démoniaque? Hmm, la\nvoyante de Kounan pourrait en savoir plus."
   },
   {
     "id": 127,
@@ -2696,7 +2696,7 @@
     "nom_orig": "Fuyuko",
     "texte_orig": "How[SP]about[SP]it?[SP]Scary[SP]enough[SP]for[SP]you?\n[1208][0003][1432][NULL][NULL][0014]Very[SP]scary,[SP]actually![1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]at[SP]all.[1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Not[SP]as[SP]scary[SP]as[SP]you.[1432][NULL][NULL][0014]",
     "nom_fr": "Fuyuko",
-    "texte_fr": "Verdict? C'était assez flippant?\n[1208][0003][1432][NULL][NULL][0014]À glacer le sang!  [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Bof, non. [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pas autant que toi. [1432][NULL][NULL][0014]",
+    "texte_fr": "Verdict? C'était assez flippant?\n[1208][0003][1432][NULL][NULL][0014]À glacer le sang! [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Bof, non. [1432][NULL][NULL][0014]\n[1432][NULL][NULL][0014]Pas autant que toi. [1432][NULL][NULL][0014]",
     "question_orig": "How[SP]about[SP]it?[SP]Scary[SP]enough[SP]for[SP]you?",
     "choix_orig": [
       "[0003]",
@@ -2845,7 +2845,7 @@
     "nom_orig": "Fuyuko",
     "texte_orig": "Ah![SP]There[SP]it[SP]is![SP]Proof[SP]that[SP]the[SP]Cursed[SP]Taxi\nex...[SP]ists...[1205][000F][SP]Wait.[1205][000F][SP]Is[SP]this...[1205][000F][SP]a[SP][E4][NULL][NULL][0006]Taxi[SP]Hat[E4][NULL][NULL][0002]?",
     "nom_fr": "Fuyuko",
-    "texte_fr": "Enfin! La preuve que le Taxi Maudit ex...\niste... [1205][000F] Stop. [1205][000F]C'est... un [E4][NULL][NULL][0006]Chapeau de Taxi[E4][NULL][NULL][0002]?"
+    "texte_fr": "Enfin! La preuve que le Taxi Maudit ex...\niste...[1205][000F] Stop. [1205][000F]C'est... un [E4][NULL][NULL][0006]Chapeau de Taxi[E4][NULL][NULL][0002]?"
   },
   {
     "id": 184,
@@ -2935,7 +2935,7 @@
     "nom_orig": "Fuyuko",
     "texte_orig": "Ah,[SP]that[SP]sweaty[SP][E4][NULL][NULL][0006]Yacht[SP]Hat[E4][NULL][NULL][0002]...[1205][000F][SP]That's[SP]the[SP]one.\nThis[SP]is[SP]undeniable[SP]proof[SP]that[SP]the[SP]Cursed[SP]Escort\nactually[SP]existed!",
     "nom_fr": "Fuyuko",
-    "texte_fr": "Ah, ce [E4][NULL][NULL][0006]Chapeau de Yacht[E4][NULL][NULL][0002] tout suant...[1205][000F]\nC'est le bon. La preuve indéniable\nque l'Escorte Maudite a existée!"
+    "texte_fr": "Ah, ce [E4][NULL][NULL][0006]Chapeau de Yacht[E4][NULL][NULL][0002] tout suant...[1205][000F] C'est le bon. La preuve indéniable\nque l'Escorte Maudite a existée!"
   },
   {
     "id": 190,
@@ -2980,7 +2980,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "Welcome[SP]to[SP]Peace[SP]Diner.[SP]How[SP]may[SP]I[SP]serve[SP]you,\nsirrah?\n[1208][0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave\n[1109][E2]\n\n[E3][E4][NULL][NULL]\"Part-timer\nBut[SP]whatever[SP]shall[SP]we[SP]speak[SP]of?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Bienvenue au Peace Diner.\nQue désirez-vous, maraud?\n[1208][0004]Manger \nDiscuter un peu    \nRien merci\nFiler\n[1109][E2]\n[E3][E4][NULL][NULL]\"Intérimaire\nMais de quoi parlerons-nous donc?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Bienvenue au Peace Diner.\nQue désirez-vous, maraud?\n[1208][0004]Manger \nDiscuter un peu \nRien merci\nFiler\n[1109][E2]\n[E3][E4][NULL][NULL]\"Intérimaire\nMais de quoi parlerons-nous donc?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
     "question_orig": "Welcome[SP]to[SP]Peace[SP]Diner.[SP]How[SP]may[SP]I[SP]serve[SP]you,\nsirrah?",
     "choix_orig": [
       "Dine[SP]in",
@@ -3013,7 +3013,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "Will[SP]you[SP]be[SP]requiring[SP]anything[SP]else?\n[1208][0004]Dine[SP]in\nTalk[SP]to[SP]the[SP]part-timer\nNever[SP]mind\nLeave",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Requerriez-vous autre chose?\n[1208][0004]Manger \nDiscuter un peu    \nRien merci\nFiler",
+    "texte_fr": "Requerriez-vous autre chose?\n[1208][0004]Manger \nDiscuter un peu \nRien merci\nFiler",
     "question_orig": "Will[SP]you[SP]be[SP]requiring[SP]anything[SP]else?",
     "choix_orig": [
       "Dine[SP]in",
@@ -3186,7 +3186,7 @@
     "nom_orig": "Part-timer",
     "texte_orig": "It[SP]is[SP]a[SP]common[SP]misconception[SP]that[SP]I[SP]am[SP]strong\ndue[SP]to[SP]my[SP]unusual[SP]speech...[1205][000F][SP]But[SP]I[SP]am[SP]only[SP]an\nordinary[SP]schoolgirl!",
     "nom_fr": "Intérimaire",
-    "texte_fr": "Mon language inusité laisse souvent\npenser que je suis forte... [1205][000F] Mais je\nne suis qu'une étudiante ordinaire!"
+    "texte_fr": "Mon language inusité laisse souvent\npenser que je suis forte...[1205][000F] Mais je\nne suis qu'une étudiante ordinaire!"
   },
   {
     "id": 204,

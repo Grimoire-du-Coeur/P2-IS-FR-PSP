@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Heheh...[1205][000A][SP]Miyabi[SP]sure[SP]kicks[SP]ass.[1205][000F][SP]She[SP]hasn't\nchanged[SP]a[SP]bit[SP]since[SP]back[SP]then.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Héhé.[1205]..[1205][000A]Miyabi assure. Elle n'a pas\nchangé d'un poil depuis."
+    "texte_fr": "Héhé...[1205][000A] Miyabi assure. Elle n'a pas\nchangé d'un poil depuis."
   },
   {
     "id": 2,
@@ -192,7 +192,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Ngh...[1205][000A][SP]My[SP]head...[1205][000A][SP]hurts...[1205][000F][SP]It's[SP]no[SP]good.\nI[SP]can't[SP]remember.[1205][000F][SP]Who[SP]was[SP]supposed[SP]to[SP]have\nbeen[SP]waiting[SP]for[SP]us[SP]there?",
     "nom_fr": "Jun",
-    "texte_fr": "Ngh.[1205]..[1205][000A]Ma tête...[1205][000A]fait mal... Impossible. J'ai oublié.\nQui devait nous attendre là-bas?"
+    "texte_fr": "Ngh...[1205][000A] Ma tête...[1205][000A] fait mal... Impossible. J'ai oublié.\nQui devait nous attendre là-bas?"
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
     "nom_orig": "Jun",
     "texte_orig": "I[SP]wanted[SP]to[SP]prove[SP]my[SP]father's[SP]theory.[SP]That's\nall[SP]I[SP]had[SP]in[SP]mind[SP]at[SP]the[SP]start...[1205][000F][SP]To[SP]think[SP]it\nwould[SP]lead[SP]to[SP]such[SP]a[SP]catastrophe...",
     "nom_fr": "Jun",
-    "texte_fr": "Je voulais prouver la théorie de mon père...[1205][000F]\nDire que ça a mené à une telle catastrophe..."
+    "texte_fr": "Je voulais prouver la théorie de mon père...[1205][000F] Dire que ça a mené à une telle catastrophe..."
   },
   {
     "id": 14,
@@ -275,7 +275,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Today[SP]I[SP]recommend...[1205][000F][SP]Well,[SP]everything![1205][000A]\nIt's[SP]all[SP]fresh![SP]Now,[SP]what'll[SP]you[SP]have?\n[1208][0004]Dine[SP]in\nTalk[SP]to[SP]Eikichi's[SP]dad\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Je recommande..[1205]. Eh bien, tout![1205][000A]\nTout est frais! Que prendrez-vous?\n[1208][0004]Manger sur place\nParler au père\nPeu importe\nQuitter",
+    "texte_fr": "Je recommande...[1205] Eh bien, tout![1205][000A]\nTout est frais! Que prendrez-vous?\n[1208][0004]Manger sur place\nParler au père\nPeu importe\nQuitter",
     "question_orig": "Today[SP]I[SP]recommend...[1205][000F][SP]Well,[SP]everything![1205][000A]\nIt's[SP]all[SP]fresh![SP]Now,[SP]what'll[SP]you[SP]have?",
     "choix_orig": [
       "Dine[SP]in",
@@ -944,7 +944,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Was[SP]that[SP]what[SP]the[SP][1432][NULL][NULL][0014]flames[SP]of[SP]expiation[1432][NULL][NULL][0014][SP]part[SP]of\nthe[SP]Oracle[SP]was[SP]about...?[1205][000F][SP]Well,[SP]anyway,[SP]let[SP]me\ntell[SP]you[SP]what[SP]I[SP]know.",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Les [1432][NULL][NULL][0014]flammes de l'expiation[1432][NULL][NULL][0014]...[1205][000F]? Bref, voilà."
+    "texte_fr": "Les [1432][NULL][NULL][0014]flammes de l'expiation[1432][NULL][NULL][0014]...[1205][000F] ? Bref, voilà."
   },
   {
     "id": 56,
@@ -1019,7 +1019,7 @@
     "nom_orig": "Count[SP]Sushi",
     "texte_orig": "This[SP]has[SP]to[SP]be[SP]just[SP]a[SP]bad[SP]dream...[1205][000F][SP]How[SP]else[SP]do\nyou[SP]explain[SP]it?[1205][000A][SP]Soldiers[SP]falling[SP]from[SP]the[SP]sky,\nthe[SP]city[SP]taking[SP]to[SP]the[SP]air,[SP]those[SP]temples...",
     "nom_fr": "Comte Sushi",
-    "texte_fr": "C'est un cauchemar...\n[1205][000F]Sinon comment expliquer?[1205][000A]Soldats du ciel, ville\nqui vole, ces temples..."
+    "texte_fr": "C'est un cauchemar...[1205][000F] Sinon comment expliquer?[1205][000A]Soldats du ciel, ville\nqui vole, ces temples..."
   },
   {
     "id": 61,
@@ -1034,7 +1034,7 @@
     "nom_orig": "Count[SP]Sushi",
     "texte_orig": "But,[SP]ah...[1205][000A][SP]This[SP]sinus-clearing[SP]blast[SP]of[SP]wasabi\nis[SP]real[SP]enough...[1205][000F][SP]This[SP]is[SP]no[SP]dream...[1205][000F][SP]Then[SP]why\nis[SP]it[SP]happening?",
     "nom_fr": "Comte Sushi",
-    "texte_fr": "Mais..[1205].[1205][000A]Ce wasabi qui dégage les sinus est\nréel... Pas un rêve... Alors pourquoi?"
+    "texte_fr": "Mais...[1205][000A] Ce wasabi qui dégage les sinus est\nréel... Pas un rêve... Alors pourquoi?"
   },
   {
     "id": 62,
