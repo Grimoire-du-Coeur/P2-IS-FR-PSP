@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "What[SP]the...?[1205][000F][SP]What're[SP]these[SP]guys[SP]doing?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mais...[1205][000F]? Qu'est-ce qu'ils font?"
+    "texte_fr": "Mais...[1205][000F] ? Qu'est-ce qu'ils font?"
   },
   {
     "id": 1,
@@ -331,7 +331,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel type de rumeur veux-tu entendre?\n[1208][0004][1210][0472]\nLoteries de magazines   [SP][SP]\n[1210][0473]]Mu    [SP][SP]\n[1210][0474]Arme légendaire    [SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
+    "texte_fr": "Quel type de rumeur veux-tu entendre?\n[1208][0004][1210][0472]\nLoteries de magazines [SP][SP]\n[1210][0473]]Mu [SP][SP]\n[1210][0474]Arme légendaire [SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
     "question_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
@@ -673,7 +673,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Ah,[SP]so[SP]this[SP]new[SP]Leader[SP]at[SP]Kasugayama[SP]used[SP]to\nbe[SP]the[SP]Death[SP]Boss'[SP]underling.[1205][000F][SP]The[SP]low[SP]overcomes\nthe[SP]high...[1205][000F][SP]All[SP]right,[SP]here's[SP]what[SP]I[SP]know.[E1][E2]\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Toku-san\nThere's[SP]a[SP]branch[SP]of[SP][E4][NULL][NULL][0006]Rosa[SP]Candida[E4][NULL][NULL][0002][SP]in[SP]Aoba,[SP]and\nword[SP]is[SP]they[SP]sell[SP][E4][NULL][NULL][0006]real[SP]armor[E4][NULL][NULL][0002].[1205][000F][SP]Their[SP][E4][NULL][NULL][0006]selection\nis[SP]paltry,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]good[E4][NULL][NULL][0002].",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Ah, ce nouveau chef de Kakasu était le\nlarbin de l'ancien Boss Mortel. [1205][000F]Le faible\nsurpasse [000F]le fort... D'accord, voilà ce que\nje sais.[E1][E2] [E3][E4][NULL][NULL]\"Colporteur Toku [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] a\nune branche à Aoba, et ils y vendraient de\n[E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002].Leur [E4][NULL][NULL][0006]sélection est misérable,\nmais les prix de revente sont bons[E4][NULL][NULL][0002]."
+    "texte_fr": "Ah, ce nouveau chef de Kakasu était le\nlarbin de l'ancien Boss Mortel. [1205][000F]Le faible\nsurpasse le fort... D'accord, voilà ce que\nje sais.[E1][E2] [E3][E4][NULL][NULL]\"Colporteur Toku [E4][NULL][NULL][0006]Rosa Candida[E4][NULL][NULL][0002] a\nune branche à Aoba, et ils y vendraient de\n[E4][NULL][NULL][0006]vraies armures[E4][NULL][NULL][0002].Leur [E4][NULL][NULL][0006]sélection est misérable,\nmais les prix de revente sont bons[E4][NULL][NULL][0002]."
   },
   {
     "id": 41,
@@ -838,7 +838,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "The[SP][E4][NULL][NULL][0006]legendary[SP]weapon[SP]at[SP]Time[SP]Castle[E4][NULL][NULL][0002][SP]hasn't[SP]been\ndelivered[SP]yet...[1205][000A][SP]The[SP][E4][NULL][NULL][0006]owner[SP]is[SP]too[SP]scared[SP]to[SP]pick\nit[SP]up[SP]from[SP]the[SP]abandoned[SP]factory[E4][NULL][NULL][0002].",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "[E4][NULL][NULL][0006]L'arme légendaire au Time\nCastle[E4][NULL][NULL][0002] n'est pas livrée...[1205][000A]Le [E4][NULL][NULL][0006]possesseur est trop apeuré pour\nla récupérer à l'usine abandonnée[E4][NULL][NULL][0002]."
+    "texte_fr": "[E4][NULL][NULL][0006]L'arme légendaire au Time\nCastle[E4][NULL][NULL][0002] n'est pas livrée...[1205][000A] Le [E4][NULL][NULL][0006]possesseur est trop apeuré pour\nla récupérer à l'usine abandonnée[E4][NULL][NULL][0002]."
   },
   {
     "id": 52,
@@ -1093,7 +1093,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "There's[SP]an[SP]idol's[SP]ghost[SP]haunting[SP]the[SP]outdoor\nconcert[SP]hall.[1205][000F][SP]I[SP]hear[SP]a[SP]lot[SP]of[SP]scary[SP]stories\nabout[SP]that[SP]place...[SP]like[SP]talking[SP]flowers.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Un fantôme d'idol hante la salle de concert[1205][000F]\nen plein air. [000F]J'entend plein de trucs atroces\nlié à ça... comme des fleurs loquaces."
+    "texte_fr": "Un fantôme d'idol hante la salle de concert[1205][000F]\nen plein air. J'entend plein de trucs atroces\nlié à ça... comme des fleurs loquaces."
   },
   {
     "id": 69,
@@ -1108,7 +1108,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "They[SP]say[SP]a[SP]cursed[SP]taxi[SP]was[SP]seen[SP]at[SP]the\nabandoned[SP]factory[SP]in[SP]Kounan.[1205][000F][SP]I[SP]wonder[SP]if\nit's[SP]true.",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Un taxi maudit aurait été vu à\nl'usine abandonnée de Kounan.\n[1205][000F] Je [000F]me demande si c'est vrai."
+    "texte_fr": "Un taxi maudit aurait été vu à\nl'usine abandonnée de Kounan.\n[1205][000F] Je me demande si c'est vrai."
   },
   {
     "id": 70,
@@ -1168,7 +1168,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "They[SP]say[SP]the[SP]Jumping[SP]Geezer[SP]has[SP]been[SP]seen[SP]at\nMt.[SP]Katatsumuri.[1205][000F][SP]I[SP]don't[SP]really[SP]know[SP]what[SP]that\nis...[SP]Is[SP]it[SP]basically[SP]what[SP]the[SP]name[SP]implies?",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Apparemment le Vieux Rebondissant\na été vu au[1205][000F] Mont Katatsumuri.\n[000F]Je sais pas trop ce que c'est...\nPeut-être juste ce que son nomimplie?"
+    "texte_fr": "Apparemment le Vieux Rebondissant\na été vu au[1205][000F] Mont Katatsumuri.\nJe sais pas trop ce que c'est...\nPeut-être juste ce que son nomimplie?"
   },
   {
     "id": 74,
@@ -1183,7 +1183,7 @@
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Yikes...[1205][000A][SP]I[SP]just[SP]heard[SP]a[SP]scary[SP]story...[1205][000F][SP]Hm?\nWhat[SP]was[SP]it[SP]about?[1205][000F][SP]I-It[SP]was[SP]about[SP]Kudan...[1205][000A]\nAt[SP]the[SP]abandoned[SP]factory...[SP]Brrrr...",
     "nom_fr": "Étudiant ennuyé",
-    "texte_fr": "Ugh...[1205][000A]J'ai entendu une histoire flippante...[1205][000A]Hm? De quoi ça parle?[1205] Ç-Ça parle de\nKudan...[1205] À l'usine abandonnée... Brr..."
+    "texte_fr": "Ugh...[1205][000A] J'ai entendu une histoire flippante...[1205][000A] Hm? De quoi ça parle?[1205] Ç-Ça parle de\nKudan...[1205] À l'usine abandonnée... Brr..."
   },
   {
     "id": 75,
@@ -2098,7 +2098,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "That[SP][1432][NULL][NULL][0014]Nyarshtan[SP]Nyargashanna[1432][NULL][NULL][0014][SP]chant...[1205][000F][SP]What\ndoes[SP]it[SP]mean?[1205][000F][SP]Even[SP]I[SP]don't[SP]know.",
     "nom_fr": "Cultiste",
-    "texte_fr": "Ce chant, [1432][NULL][NULL][0014]Nyarshtan Nyargashana[1432][NULL][NULL][0014]...[1205][000F]\nÇa veut dire quoi? Je sais même pas."
+    "texte_fr": "Ce chant, [1432][NULL][NULL][0014]Nyarshtan Nyargashana[1432][NULL][NULL][0014]...[1205][000F] Ça veut dire quoi? Je sais même pas."
   },
   {
     "id": 136,
@@ -2113,7 +2113,7 @@
     "nom_orig": "Cultist",
     "texte_orig": "Nyarshtan[SP]Nyargashanna[SP]Vivalba![1205][000F][SP]Nyarshtan\nNyargashanna[SP]Vivalba![1205][000F][SP]Ow...[1205][000A][SP]Bit[SP]my[SP]tongue...",
     "nom_fr": "Cultiste",
-    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba! Aïe...[1205][000A]Ma langue..."
+    "texte_fr": "Nyarshtan Nyargashana Vivalba!\n[1205][000F]Nyarshtan Nyargashana Vivalba! Aïe...[1205][000A] Ma langue..."
   },
   {
     "id": 137,
@@ -2293,7 +2293,7 @@
     "nom_orig": "Cult[SP]founder",
     "texte_orig": "Now,[SP]we[SP]who[SP]are[SP]chosen[SP]to[SP]ride[SP]the[SP]holy[SP]ark![1205][000F]\nSee[SP]how[SP]we[SP]rise[SP]into[SP]the[SP]heavens,[SP]into[SP]the\nworld[SP]of[SP]the[SP]gods!",
     "nom_fr": "Chef du culte",
-    "texte_fr": "Nous avons été élus pour aborder[1205][000F]\nl'arche sainte! [000F]Regarde, nous montons\naux cieux, le monde des dieux!"
+    "texte_fr": "Nous avons été élus pour aborder[1205][000F]\nl'arche sainte! Regarde, nous montons\naux cieux, le monde des dieux!"
   },
   {
     "id": 149,
