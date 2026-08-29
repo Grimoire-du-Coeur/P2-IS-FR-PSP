@@ -923,7 +923,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort, vous dites? Ah,\noui, bien sûr. On vous l'a livré ici.\nAllez, prenez-le. Lettre [NULL][NULL]Merci de\nvotre participation au tirage. Hélas,\nvous n'êtes pas gagnant cettefois.\nNous vous encourageons à continuer![NULL][NULL]"
+    "texte_fr": "Le tirage au sort, vous dites? Ah,\noui, bien sûr. On vous l'a livré ici.\n"
   },
   {
     "id": 61,
@@ -938,7 +938,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort, vous dites? Ah,\noui, bien sûr. On vous l'a livré ici.\nAllez, prenez-le. Lettre [NULL][NULL]Merci de votre\nparticipation au tirage. Félicitations!\nVous avez étésélectionné comme gagnant!\n[NULL][NULL]Veuillez accepter [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix.\nContinuez à participer![NULL][NULL] Vous n'avez\npas de place pour un(e) autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+    "texte_fr": "Le tirage au sort, vous dites? Ah,\noui, bien sûr. On vous l'a livré ici.\n"
   },
   {
     "id": 62,
@@ -1223,6 +1223,6 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "This[SP]is[SP]my[SP]family's[SP]home.[SP]Whoever[SP]threatens\nit,[SP]the[SP]head[SP]of[SP]the[SP]family[SP]must[SP]protect[SP]it.\nI...[SP]want[SP]you[SP]to[SP]protect[SP]my[SP]daughter.",
     "nom_fr": "",
-    "texte_fr": "C'est la maison de ma famille. Quiconque la\nmenace, le chef de famille doit la défendre.\nJe... veux que vous protégiez ma fille."
+    "texte_fr": "C'est la maison de ma famille. Quiconque la\nmenace, le chef de famille doit la défendre.\n"
   }
 ]
