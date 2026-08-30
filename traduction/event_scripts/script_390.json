@@ -1090,7 +1090,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "Oh,[SP]are[SP]you[SP]done[SP]already?\n[1208][0005][111F]Now[SP]Playing\n[111F][1210][B_00][U+4901][B_00]ndie[SP]Films\n[111F][1210][B_00][U+5301][B_00]ingle-Theater[SP]Films\n[111F][1210][B_00][U+4901][B_00]mported[SP]Films\n[111F]Cancel",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "Oh, déjà fini?\n[1208][0005][111F]À l'affiche\n[111F][1210]Films indé[SP][SP][SP]\n[111F][1210]Exclusivités[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Films\n[111F]Annuler\n[E4][NULL][NULL]\"Guide Mitsugi\nAucun chemin ne mène à cette ligne,\ncette catégorie peut disparaître.\nSaut vers [E4][NULL][NULL][NULL][NULL]Autre chose?[NULL][NULL][E4][NULL][NULL][B_00][4901][B_00][B_00][5301][B_00][B_00][4901][B_00]",
+    "texte_fr": "Oh, déjà fini?\n[1208][0005][111F]À l'affiche\n[111F][1210]Films indé[SP][SP][SP]\n[111F][1210]Exclusivités[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Films\n[111F]Annuler",
     "question_orig": "Oh,[SP]are[SP]you[SP]done[SP]already?",
     "choix_orig": [
       "[111F]Now[SP]Playing",
@@ -1119,7 +1119,7 @@
     "nom_orig": "Mitsugi,[SP]the[SP]Theater[SP]Guide",
     "texte_orig": "[111F]There[SP]is[SP]no[SP]path[SP]to[SP]this[SP]line[SP]in[SP]the[SP]resources,\n[111F]so[SP]this[SP]category[SP]may[SP]go[SP]away.\n[111F]Jump[SP]to[SP][E4][NULL][NULL][0006][1432][NULL][NULL][0014]Is[SP]there[SP]anything[SP]else?[1432][NULL][NULL][0014][E4][NULL][NULL][0002]",
     "nom_fr": "Mitsugi, la guide du théâtre",
-    "texte_fr": "De quoi voulez-vous parler ?\n[1208][0004]Bavarder\nSur le théâtre\nSur les rangs du club\n[1210][0100]CATÉGORIE CACHÉE"
+    "texte_fr": "De quoi voulez-vous parler ?"
   },
   {
     "id": 73,
