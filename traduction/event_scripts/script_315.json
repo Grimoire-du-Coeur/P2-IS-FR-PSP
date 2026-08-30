@@ -521,8 +521,8 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Heeheehee![1205][000A][SP]Yes?[SP]Yes?[SP]Anything[SP]else?\n[1208][0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#5\n[1210][B_00][U+5601][B_00]iew[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "Sœur n°5",
-    "texte_fr": "Hihihi! Oui? Oui? Autre chose?\n[1208][0006]Acheter objets\nVendre objets\nParler à Sœur n°5\n[1210]Voir objets\nRien[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nQuitter[B_00][5601][B_00]",
+    "nom_fr": "Sœur #5",
+    "texte_fr": "Hihihi! Oui? Oui? Autre chose?\n[1208][0006]Acheter objets\nVendre objets\nParler à Sœur #5\n[1210][B_00][U+5601][B_00]Voir objets\nRien[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nQuitter[B_00][5601][B_00]",
     "question_orig": "Heeheehee![1205][000A][SP]Yes?[SP]Yes?[SP]Anything[SP]else?",
     "choix_orig": [
       "Buy[SP]items",
@@ -550,8 +550,8 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
-    "nom_fr": "Sœur n°5",
-    "texte_fr": "Alors, tu vends quoi?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "nom_fr": "Sœur #5",
+    "texte_fr": "Alors, tu vends quoi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -580,8 +580,8 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
-    "nom_fr": "Sœur n°5",
-    "texte_fr": "Tu veux parler de quoi?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[SP][SP][SP][SP]",
+    "nom_fr": "Sœur #5",
+    "texte_fr": "Tu veux parler de quoi?\n[1208][0003]Bavarder\nParler boutique\n[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -606,7 +606,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Heeheehee![SP]Our[SP]drugstore[SP]is[SP]making[SP]plans[SP]to\nbranch[SP]out[SP]all[SP]over[SP]the[SP]country![SP]We're[SP]starting\nwith[SP]Sumaru[SP]City!",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Héhéhé! Notre pharmacie compte\ns'étendre dans tout le pays! On\ncommence par la ville de Sumaru!"
   },
   {
@@ -621,7 +621,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Leave[SP]it[SP]to[SP]us[SP]Seven[SP]Satomi[SP]Sisters[SP]to\nbrainwash--[1205][001E]I[SP]mean,[SP]take[SP]over[SP]this[SP]city!\nHeeheehee!",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Les sœurs Satomi vont laver le\ncerveau--[1205][001E] euh, diriger la ville! Héhéhé!"
   },
   {
@@ -636,7 +636,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Our[SP]medicine[SP]was[SP]a[SP]hot[SP]seller[SP]until[SP]recently.[1205][000F]\nYou[SP]know[SP]how[SP]Cuss[SP]High[SP]is[SP]close[SP]by?[1205][000F][SP]Those[SP]kids\nare[SP]so[SP]hot-blooded,[SP]sales[SP]were[SP]sky-high.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Ça se vendait bien avant. Le Lycée\n[1205][000F]Kakasu est près. Leurs ados au sang\nchaud faisaient exploser les ventes."
   },
   {
@@ -651,7 +651,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "But[SP]it's[SP]really[SP]dropped[SP]off.[1205][000F][SP]The[SP]Cuss[SP]High[SP]kids\nhave[SP]suddenly[SP]calmed[SP]down.[SP]It's[SP]ruining[SP]our\nbusiness...[SP]*sniff*",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Mais ça a chuté. [1205][000F]Les jeunes de\nKakasu se sont soudain calmés.\nÇa ruine notre affaire... *sniff*"
   },
   {
@@ -666,7 +666,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "That[SP]reminds[SP]me,[SP]how[SP]did[SP]the[SP]masquerade[SP]go?\nKasuga[SP]Festival[SP]was[SP]the[SP]talk[SP]of[SP]the[SP]city,\nbut[SP]it[SP]ended[SP]without[SP]a[SP]bang,[SP]so[SP]to[SP]speak.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Ça me rappelle, comment s'est passée la\nmascarade? Tout le monde parlait du festival\nKasuga, mais ça a fini sans étincelle."
   },
   {
@@ -681,7 +681,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "My[SP]sister[SP]called[SP]and[SP]told[SP]me[SP]to[SP]watch[SP]out[SP]for\nthe[SP]terrorists.[SP]But[SP]they're[SP]not[SP]like[SP]a[SP]typhoon\nyou[SP]can[SP]get[SP]to[SP]high[SP]ground[SP]for.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Ma sœur m'a dit de fuir les\nterroristes. Mais c'est pas un typhon\noù on peut s'abriter en hauteur."
   },
   {
@@ -696,7 +696,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "I[SP]heard[SP]the[SP]terrorists[SP]targeted[SP]Smile[SP]Hirasaka.[1205][000F]\nThank[SP]goodness[SP]it[SP]was[SP]prevented,[SP]but[SP]maybe[SP]the\nrumors[SP]of[SP]random[SP]acts[SP]of[SP]violence[SP]are[SP]true...",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Les terroristes visaient le Smile\n[1205][000F]Hirasaka. On l'a évité, mais les rumeurs\nde violences aléatoires sont vraies..."
   },
   {
@@ -711,7 +711,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "*sniff*[SP]Smile[SP]Hirasaka[SP]went[SP]up[SP]in[SP]flames!\nThese[SP]terrorists[SP]hit[SP]closer[SP]to[SP]home[SP]than[SP]I\nthought[SP]they[SP]would.[SP]But[SP]we[SP]won't[SP]close!",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "*snif* Smile Hirasaka a brûlé!\nCes terroristes frappent plus près\nque prévu. Mais on ne fermera pas!"
   },
   {
@@ -726,7 +726,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "This[SP]strangely[SP]dressed[SP]girl[SP]just[SP]came[SP]by.[1205][000F]\nShe[SP]said[SP]something[SP]about[SP]those[SP]five[SP]actually\nbeing[SP]heroes...[1205][000F][SP]Well,[SP]I[SP]don't[SP]care[SP]much.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Une fille bizarrement vêtue est passée.\n[1205][000F]Elle a dit que ces cinq-là étaient en fait\ndes héros... Bref, je m'en fiche un peu."
   },
   {
@@ -741,7 +741,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "The[SP]girl[SP]in[SP]those[SP]odd[SP]clothes[SP]who[SP]was[SP]here[SP]a\nwhile[SP]ago[SP]was[SP]just[SP]on[SP]TV.[SP]She[SP]said[SP]those[SP]five\nare[SP]heroes[SP]fighting[SP]the[SP]Masked[SP]Circle.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "La fille bizarre de tout à l'heure est\npassée à la télé. Ces cinq-là seraient\ndes héros combattant le Cercle masqué."
   },
   {
@@ -756,7 +756,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Those[SP]soldiers[SP]were[SP]headed[SP]for[SP]Mt.[SP]Katatsumuri.\nI'm[SP]glad[SP]we[SP]don't[SP]have[SP]a[SP]branch[SP]there.[SP]I[SP]know\nthat[SP]sounds[SP]bad,[SP]but[SP]it's[SP]how[SP]I[SP]feel!",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Les soldats allaient au mont Katatsumuri.\nHeureusement qu'on n'y a pas de magasin.\nC'est mal dit, mais je le pense!"
   },
   {
@@ -771,7 +771,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Satomi[SP]Tadashi[SP]is[SP]open[SP]all[SP]year[SP]'round![1205][000A]\nCome[SP]back[SP]soon![SP]Heeheehee!",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Satomi Tadashi est ouvert toute l'année! Revenez vite! Héhéhé!"
   },
   {
@@ -1101,7 +1101,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Welcome[SP]to[SP]Satomi[SP]Tadashi.[1205][000F][SP]I'm[SP]sorry,[SP]but[SP]we're\nnot[SP]quite[SP]open[SP]for[SP]business[SP]yet.[1205][000F][SP]Please[SP]come\nback[SP]in[SP]a[SP]while.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Bienvenue chez Satomi Tadashi.\n[1205][000F]Désolée, on n'est pas encore tout\nà fait ouverts. Revenez plus tard."
   },
   {
@@ -1116,8 +1116,8 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Ah,[SP]yes,[SP]welcome![1205][000A][SP]We[SP]work[SP]hard[SP]to[SP]spread[SP]our\nchain[SP]throughout[SP]the[SP]country![1205][000F][SP]What[SP]is[SP]it\nyou're[SP]here[SP]for[SP]today?\n[1208][0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#5\n[1210][B_00][U+5601][B_00]iew[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
-    "nom_fr": "Sœur n°5",
-    "texte_fr": "Ah, oui, bienvenue! On travaille dur pour\nétendre notre chaîne dans tout le pays!\nQue viens-tu chercher?\n[1208][0006]Acheter objets\nVendre objets\nParler à Sœur n°5\n[1210]Voir objets\nRien[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nQuitter[B_00][5601][B_00]",
+    "nom_fr": "Sœur #5",
+    "texte_fr": "Ah, oui, bienvenue! On travaille dur pour\nétendre notre chaîne dans tout le pays!\nQue viens-tu chercher?\n[1208][0006]Acheter objets\nVendre objets\nParler à Sœur #5\n[1210][B_00][U+5601][B_00]Voir objets\nRien[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nQuitter[B_00][5601][B_00]",
     "question_orig": "Ah,[SP]yes,[SP]welcome![1205][000A][SP]We[SP]work[SP]hard[SP]to[SP]spread[SP]our\nchain[SP]throughout[SP]the[SP]country![1205][000F][SP]What[SP]is[SP]it\nyou're[SP]here[SP]for[SP]today?",
     "choix_orig": [
       "Buy[SP]items",
@@ -1145,8 +1145,8 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
-    "nom_fr": "Sœur n°5",
-    "texte_fr": "Alors, que veux-tu vendre?\n[1208][0007][111F][1210]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "nom_fr": "Sœur #5",
+    "texte_fr": "Alors, que veux-tu vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -1175,8 +1175,8 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
-    "nom_fr": "Sœur n°5",
-    "texte_fr": "Tu veux parler de quoi?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[SP][SP][SP][SP]",
+    "nom_fr": "Sœur #5",
+    "texte_fr": "Tu veux parler de quoi?\n[1208][0003]Bavarder\nParler boutique\n[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1291,7 +1291,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Oh,[SP]but[SP]you[SP]don't[SP]have[SP]anything[SP]you[SP]can[SP]sell.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Oh, vous n'avez rien à vendre."
   },
   {
@@ -1306,7 +1306,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Total: [120E][NULL] yens.\nD'accord?\n[1208][0002]Oui\nNon",
     "question_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?",
     "choix_orig": [
@@ -1331,7 +1331,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Heeheehee.[SP]Okay,[SP]I'll[SP]tell[SP]you[SP]a[SP]little[SP]about\nshopping.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Héhé. Parlons des achats."
   },
   {
@@ -1346,7 +1346,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Achat: via [1432][NULL][NULL][0014]Acheter[1432][NULL][NULL][0014], choisissez\nparmi nos divers articles."
   },
   {
@@ -1361,7 +1361,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Oh,[SP]and[SP]there's[SP]a[SP]limit[SP]to[SP]how[SP]many[SP]of[SP]the\nsame[SP]item[SP]you[SP]can[SP]carry.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Oh, il y a une limite\nd'objets identiques portés."
   },
   {
@@ -1376,7 +1376,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Next,[SP]selling.[SP]Select[SP][1432][NULL][NULL][0014]Sell[SP]items[1432][NULL][NULL][0014][SP]first,[SP]and\nthen[SP]choose[SP]which[SP]type[SP]of[SP]item[SP]to[SP]sell.[SP]Then\npick[SP]a[SP]particular[SP]item[SP]to[SP]sell[SP]us.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Vente: via [1432][NULL][NULL][0014]Vendre[1432][NULL][NULL][0014], choisissez\nle type d'objet, puis l'objet."
   },
   {
@@ -1391,7 +1391,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "Our[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "On rachète à moitié prix.\nRien d'équipé ou d'interdit."
   },
   {
@@ -1406,7 +1406,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "That's[SP]about[SP]it.[SP]Heeheehee.",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "C'est tout. Héhé."
   },
   {
@@ -1421,7 +1421,7 @@
     ],
     "nom_orig": "Sister[SP]#5",
     "texte_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?\n[1208][0002]Yes\nNo",
-    "nom_fr": "Sœur n°5",
+    "nom_fr": "Sœur #5",
     "texte_fr": "Total: [120E][NULL] yens.\nD'accord?\n[1208][0002]Oui\nNon",
     "question_orig": "The[SP]total[SP]comes[SP]to[SP][120E][NULL][SP]yen.\nIs[SP]that[SP]all[SP]right?",
     "choix_orig": [

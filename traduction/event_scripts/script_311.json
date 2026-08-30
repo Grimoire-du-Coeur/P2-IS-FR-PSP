@@ -237,7 +237,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#3![1205][001E][SP][1432][NULL][NULL][0014]Fanna[1432][NULL][NULL][0014][SP]means\nsomething[SP]like,[SP][1432][NULL][NULL][0014]I[SP]don't[SP]like[SP]this...[1432][NULL][NULL][0014]\nYou[SP]use[SP]it[SP]when[SP]you're[SP]feeling[SP]let[SP]down.",
     "nom_fr": "Ginko",
-    "texte_fr": "Leçon de cantonais n°3![1205][001E] [1432][NULL][NULL][0014]Fanna[1432][NULL][NULL][0014] veut\ndire quelque chose comme [1432][NULL][NULL][0014]J'aime pas\nça...[1432][NULL][NULL][0014] Ça s'utilise quand on est déçu."
+    "texte_fr": "Leçon de cantonais #3![1205][001E] [1432][NULL][NULL][0014]Fanna[1432][NULL][NULL][0014] veut\ndire quelque chose comme [1432][NULL][NULL][0014]J'aime pas\nça...[1432][NULL][NULL][0014] Ça s'utilise quand on est déçu."
   },
   {
     "id": 16,
@@ -252,7 +252,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Lisa's[SP]Cantonese[SP]lesson[SP]#12![1205][001E][SP][1432][NULL][NULL][0014]Holeen[1432][NULL][NULL][0014][SP]means\n[1432][NULL][NULL][0014]poor[SP]thing,[1432][NULL][NULL][0014][SP]basically,[SP]for[SP]when[SP]you're\nsympathizing[SP]with[SP]someone.",
     "nom_fr": "Ginko",
-    "texte_fr": "Leçon de cantonais n°12![1205][001E] [1432][NULL][NULL][0014]Holeen[1432][NULL][NULL][0014]\nsignifie [1432][NULL][NULL][0014]pauvre chou,[1432][NULL][NULL][0014] pour exprimer\nde la sympathie envers quelqu'un."
+    "texte_fr": "Leçon de cantonais #12![1205][001E] [1432][NULL][NULL][0014]Holeen[1432][NULL][NULL][0014]\nsignifie [1432][NULL][NULL][0014]pauvre chou,[1432][NULL][NULL][0014] pour exprimer\nde la sympathie envers quelqu'un."
   },
   {
     "id": 17,
@@ -821,7 +821,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "What're[SP]you[SP]selling?\n[1208][0007][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\nSell[SP]items\nSell[SP]weapons\n[1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\nSell[SP]armor\n[1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\nSell[SP]accessories",
     "nom_fr": "Patronne",
-    "texte_fr": "Tu vends quoi?\n[1208][0007][1210]Sélection cachée\nObjets\nArmes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Armure de tête\nSell armor[SP][SP][SP]\n[1210]Jambes[SP][SP][SP][SP][SP][SP]\nAccessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Tu vends quoi?\n[1208][0007][1210][B_00][U+5501][B_00]Sélection cachée\nObjets\nArmes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[1210][B_00][U+5301][B_00]Armure de tête\nSell armor[SP][SP][SP]\n[1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\nAccessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What're[SP]you[SP]selling?",
     "choix_orig": [
       "[1210][B_00][B_00]ndisplayed[SP]selection",
@@ -851,7 +851,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?\n[1208][0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Patronne",
-    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][0004]Bavarder\nParler boutique\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
+    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][0004]Bavarder\nParler boutique\nParler du repas\n[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -907,7 +907,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "What're[SP]you[SP]selling?\n[1208][0007][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\nSell[SP]items\nSell[SP]weapons\n[1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\nSell[SP]armor\n[1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\nSell[SP]accessories",
     "nom_fr": "Patronne",
-    "texte_fr": "Tu vends quoi?\n[1208][0007][1210]Sélection cachée\nObjets\nArmes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Armure de tête\nSell armor[SP][SP][SP]\n[1210]Jambes[SP][SP][SP][SP][SP][SP]\nAccessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Tu vends quoi?\n[1208][0007][1210][B_00][U+5501][B_00]Sélection cachée\nObjets\nArmes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[1210][B_00][U+5301][B_00]Armure de tête\nSell armor[SP][SP][SP]\n[1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\nAccessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What're[SP]you[SP]selling?",
     "choix_orig": [
       "[1210][B_00][B_00]ndisplayed[SP]selection",
@@ -937,7 +937,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?\n[1208][0004]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Patronne",
-    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][0004]Bavarder\nParler boutique\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
+    "texte_fr": "Alors, tu veux parler de quoi?\n[1208][0004]Bavarder\nParler boutique\nParler du repas\n[1210][B_00][U+5501][B_00]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "So[SP]whaddaya[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
