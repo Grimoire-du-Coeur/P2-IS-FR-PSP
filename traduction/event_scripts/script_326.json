@@ -1083,7 +1083,7 @@
     "nom_orig": "Manager",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]coins[SP]and[SP]prizes\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gérant",
-    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nParler pièces et prix\n[1210]Sélection cachée\n Le gérant s'est absenté...[B_00][5501][B_00]",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1356,7 +1356,7 @@
     "nom_orig": "Manager",
     "texte_orig": "Well,[SP]I'm[SP]sure[SP]you've[SP]got[SP]a[SP]lot[SP]on[SP]your[SP]plate,\nbut[SP]come[SP]again.[SP]I'll[SP]welcome[SP]you,[SP]at[SP]least.",
     "nom_fr": "Agent de sécurité",
-    "texte_fr": "Ils nettoient devant. Hein ? Tu\npenses qu'on nettoie toujours ce\n"
+    "texte_fr": "Ils nettoient devant. Hein ? Tu\npenses qu'on nettoie toujours ce\ncoin ? W-Wow... T'es perspicace..."
   },
   {
     "id": 86,

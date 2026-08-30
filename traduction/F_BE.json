@@ -82,7 +82,7 @@
     "nom_orig": "Joker",
     "texte_orig": "As[SP]a[SP]parting[SP]gift,[SP]I'll[SP]show[SP]you[SP]something\ninteresting...[U+2047][U+4E11][B_00]ot[SP]Personas,[SP]but[SP]true[SP]demons!\n[E1][E2][E3][E4][B_81][B_00][B_4F]",
     "nom_fr": "Joker",
-    "texte_fr": "Comme cadeau d'adieu, Je vais te\nmontrer quelque chose d'intéréssant...\nPas des Personae, mais de vrais démons!\n"
+    "texte_fr": "Comme cadeau d'adieu, Je vais te\nmontrer quelque chose d'intéréssant...\nPas des Personae, mais de vrais démons!\nLisa C-C'est quoi ces machins...!?[2047][4E11][B_00][E1][E2][E3][E4][B_81][B_00][B_4F]"
   },
   {
     "id": 5,
@@ -99,7 +99,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Wh-What[SP]are[SP]those[SP]things...!?\n[E1][E2][E3]",
     "nom_fr": "Joker",
-    "texte_fr": "Comme cadeau d'adieu, Je vais te\nmontrer quelque chose d'intéréssant...\nPas des Personae, mais de vrais démons!\n"
+    "texte_fr": "Comme cadeau d'adieu, Je vais te\nmontrer quelque chose d'intéréssant...\nPas des Personae, mais de vrais démons!\nLisa C-C'est quoi ces machins...!?[E1][E2][E3]"
   },
   {
     "id": 6,
@@ -116,7 +116,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Look[SP]out![SP]You[SP]gotta[SP]stay[SP]back,[SP]ladies![E1][E2][E3]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Faites attention! Vous devez\n"
+    "texte_fr": "Faites attention! Vous devez\nrester derrière, les filles![E1][E2][E3]"
   },
   {
     "id": 7,
@@ -133,7 +133,7 @@
     "nom_orig": "Maya",
     "texte_orig": "D...[SP]Demons!?[1205][001E][SP]B-But[SP]if[SP]I[SP]run...[E1][E2][E3]",
     "nom_fr": "Maya",
-    "texte_fr": "Des D...[1205][001E]"
+    "texte_fr": "Des D...[1205][001E] Démons!? M-mais si je fuis...[E1][E2][E3]"
   },
   {
     "id": 8,
@@ -167,7 +167,7 @@
     "nom_orig": "Leader",
     "texte_orig": "I'll[SP]kill[SP]you[SP]all[SP]with[SP]my[SP]Deathbringer!\n[1107][E1][E2][E3]",
     "nom_fr": "Leader",
-    "texte_fr": "Je vous tuerais tous avec ma Deathbringe"
+    "texte_fr": "Je vous tuerais tous avec ma Deathbringer!\n[1107][E1][E2][E3]"
   },
   {
     "id": 10,
@@ -184,7 +184,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Calm[SP]down,[SP]Eikichi-kun![SP]You[SP]can't[SP]win[SP]this\none[SP]alone!\n[1107][E1][E2][E3]",
     "nom_fr": "Tatsuya Sudou",
-    "texte_fr": "Hyaaahaha! Silence, sorcière! Je vous tuerais"
+    "texte_fr": "Hyaaahaha! Silence, sorcière! Je vous tuerais!\nJe vous réduirais en cendres! Cette\ndouloureuse brûlure alimente ma rage envers\nvous![1107][E1][E2][E3]"
   },
   {
     "id": 11,
@@ -201,7 +201,7 @@
     "nom_orig": "Prince[SP]Taurus",
     "texte_orig": "Lisa,[SP]you're[SP]the[SP]only[SP]woman[SP]who[SP]didn't\nfall[SP]for[SP]m[B_7F]e...[SP]All[SP]right,[SP]then.[SP]I[SP]don't[SP]mind\nusing[SP]force[SP]where[SP]appropriate[B_0D].\n[1107][E1][E2][E3]",
     "nom_fr": "Prince Taurus",
-    "texte_fr": "Lisa, tu es la seule qui n'est pas tombée\nsous mon charme... Très bien, alors. Ça ne me\n"
+    "texte_fr": "Lisa, tu es la seule qui n'est pas tombée\nsous mon charme... Très bien, alors. Ça ne me\ndérange pas d'user de la force si nécessaire.\n[1107][B_7F][B_0D][E1][E2][E3]"
   },
   {
     "id": 12,
@@ -218,7 +218,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "How[SP]dare[SP]you[SP]do[SP]this[SP]to[SP]her...\nYou're[SP]gonna[SP]pay!\n[1107][E1][E2][E3]",
     "nom_fr": "Yukino",
-    "texte_fr": "Comment osez-vous lui faire\n"
+    "texte_fr": "Comment osez-vous lui faire\nça... Vous allez le payer!\n[1107][E1][E2][E3]"
   },
   {
     "id": 13,
@@ -354,7 +354,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]think[SP]someone[SP]needs[SP]a[SP]good[SP]spanking...\n[1107][E1][E2][E3]",
     "nom_fr": "Maya",
-    "texte_fr": "Je pense que quelqu'un a\n"
+    "texte_fr": "Je pense que quelqu'un a\nbesoin d'une bonne raclée...\n[1107][E1][E2][E3]"
   },
   {
     "id": 21,
@@ -371,7 +371,7 @@
     "nom_orig": "Ixquic",
     "texte_orig": "Hey![SP]Copycat![SP]I[SP]came[SP]up[SP]with[SP]that[SP]first!\n[1107][E1][E2][E3]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mec, on peut plus rien faire pour lui!?[1107]"
+    "texte_fr": "Mec, on peut plus rien faire pour lui!?[1107][E1][E2][E3]"
   },
   {
     "id": 22,
@@ -388,7 +388,7 @@
     "nom_orig": "Tatsuya[SP]Sudou",
     "texte_orig": "Hyaaahaha![SP]Silence,[SP]witch![SP]I'll[SP]kill[SP]you!\nI'll[SP]bu[B_7F]rn[SP]you[SP]all[SP]to[SP]ashes![SP]This[SP]painful[SP]burn\nfuels[SP]my[SP]rage[SP]against[SP]you[B_0D]!\n[1107][E1][E2][E3]",
     "nom_fr": "Tatsuya Sudou",
-    "texte_fr": "Hyaaahaha! Silence, sorcière! Je vous tuerais!\nJe vous réduirais en cendres! Cette\n"
+    "texte_fr": "Hyaaahaha! Silence, sorcière! Je vous tuerais!\nJe vous réduirais en cendres! Cette\ndouloureuse brûlure alimente ma rage envers\nvous!\n[1107][B_7F][B_0D][E1][E2][E3]"
   },
   {
     "id": 23,
@@ -507,7 +507,7 @@
     "nom_orig": "Shadow[SP]Maya",
     "texte_orig": "Things[SP]aren't[SP]going[SP]to[SP]plan,[SP]but[SP]all[SP]I[SP]have[SP]to\ndo[SP]i[B_7F]s[SP]kill[SP]everyone[SP]along[SP]with[SP]you,[SP]Maya[SP]Amano.\nShame[SP]to[SP]waste[SP]the[SP]b[U+6F33][B_00]y's[SP]life,[SP]though...\n[1107][E1][E2][E3]",
     "nom_fr": "Ombre de Maya",
-    "texte_fr": "Les choses ne se passent pas comme\nprévu, mais j'ai juste à tuer tout ceux\navec toi, Maya Amano. C'est quand même\n"
+    "texte_fr": "Les choses ne se passent pas comme\nprévu, mais j'ai juste à tuer tout ceux\navec toi, Maya Amano. C'est quand même\ndommage de gâcher la vie de ce garçon...\n[1107][B_7F][6F33][B_00][E1][E2][E3]"
   },
   {
     "id": 30,
@@ -524,7 +524,7 @@
     "nom_orig": "Shadow[SP]Maya",
     "texte_orig": "This[SP]can't[SP]be...[SP]You[SP]were[SP]so[SP]eager[SP]to[SP]die...\n[1107][E1][E2][E3]",
     "nom_fr": "Ombre de Maya",
-    "texte_fr": "Ce n'est pas possible... Tu\n"
+    "texte_fr": "Ce n'est pas possible... Tu\nvoulais tellement mourir...\n[1107][E1][E2][E3]"
   },
   {
     "id": 31,
@@ -575,7 +575,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "How[SP]do[SP]these[SP]guys[SP]know[SP]about[SP]Fujii-san...!?\n[1107][E1][E2][E3]",
     "nom_fr": "Ginko",
-    "texte_fr": "Comment ces gars savent-ils\n"
+    "texte_fr": "Comment ces gars savent-ils\npour Fujii-san...!?\n[1107][E1][E2][E3]"
   },
   {
     "id": 34,
@@ -592,7 +592,7 @@
     "nom_orig": "Lady[SP]Scorpio",
     "texte_orig": "Yukino...[SP]Should[SP]we[SP]break[SP]our[SP]toys?\n[1107][E1][E2][E3]",
     "nom_fr": "Lady Scorpio",
-    "texte_fr": "Yukino... Devrions nous détruire nos"
+    "texte_fr": "Yukino... Devrions nous détruire nos jouets?\n[1107][E1][E2][E3]"
   },
   {
     "id": 35,
@@ -677,7 +677,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Can[SP]we[SP]not[SP]save[SP]him[SP]anymore,[SP]Chinyan!?\n[1107][E1][E2][E3]",
     "nom_fr": "Ginko",
-    "texte_fr": "On ne peut plus le sauver, Chinyan!?\n[1107][E1]"
+    "texte_fr": "On ne peut plus le sauver, Chinyan!?\n[1107][E1][E2][E3]"
   },
   {
     "id": 40,
@@ -694,7 +694,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Dude,[SP]can't[SP]we[SP]do[SP]anything[SP]for[SP]him!?\n[1107][E1][E2][E3]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mec, on peut plus rien faire pour lui"
+    "texte_fr": "Mec, on peut plus rien faire pour lui!?\n[1107][E1][E2][E3]"
   },
   {
     "id": 41,
@@ -745,7 +745,7 @@
     "nom_orig": "Shadow[SP][1113]",
     "texte_orig": "Not[SP]bad...[SP]About[SP]what[SP]I'd[SP]expect[SP]from[SP]myself.\nBut[SP]even[B_7F][SP]if[SP]you[SP]beat[SP]me,[SP]you[SP]can't[SP]get[SP]rid[SP]of\nyour[SP]own[SP]shadow.[SP]I'll[SP]alwa[B_27]ys[SP]be[SP]there...\n[1107][E1][E2][E3]",
     "nom_fr": "Shadow",
-    "texte_fr": "Pas mal... C'est à peu près ce que\nj'attendais de ma part. Mais même si tu\nme bats, tu ne peux te débarasser de ta\n"
+    "texte_fr": "Pas mal... C'est à peu près ce que\nj'attendais de ma part. Mais même si tu\nme bats, tu ne peux te débarasser de ta\npropre ombre. Je serais toujours là...\n[1107][B_7F][B_27][E1][E2][E3]"
   },
   {
     "id": 44,
@@ -762,7 +762,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "No[SP]way![SP]My[SP]life[SP]is[SP]mine[SP]and[SP]no[SP]one[SP]else's!\n[1107][E1][E2][E3]",
     "nom_fr": "Ginko",
-    "texte_fr": "Impossible! Ma vie est à\n"
+    "texte_fr": "Impossible! Ma vie est à\nmoi et à personne d'autre!\n[1107][E1][E2][E3]"
   },
   {
     "id": 45,
@@ -779,7 +779,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "That's[SP]my[SP]line!\n[1107][E1][E2][E3]",
     "nom_fr": "Ginko",
-    "texte_fr": "C'est ma phrase!"
+    "texte_fr": "C'est ma phrase!\n[1107][E1][E2][E3]"
   },
   {
     "id": 46,
@@ -796,7 +796,7 @@
     "nom_orig": "Shadow[SP]Ginko",
     "texte_orig": "I'm[SP]sure[SP]you[SP]already[SP]know...[SP]But[SP]this[SP]isn't[SP]the\nen[B_7F]d[SP]of[SP]me.[SP]Light[SP]and[SP]shadow...[SP]Neither[SP]can[SP]part\nwith[SP]the[SP]other...\n[B_09][1107][E1][E2][E3]",
     "nom_fr": "Ombre de Ginko",
-    "texte_fr": "Je suis sûre que tu le sais déjà... Mais ce\nn'est pas ma fin. Lumière et Ombre... Aucune\n"
+    "texte_fr": "Je suis sûre que tu le sais déjà... Mais ce\nn'est pas ma fin. Lumière et Ombre... Aucune\ndes deux ne peut se passer de l'autre...\n[1107][B_7F][B_09][E1][E2][E3]"
   },
   {
     "id": 47,

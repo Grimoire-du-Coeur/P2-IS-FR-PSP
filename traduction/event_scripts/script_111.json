@@ -252,7 +252,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "No...[1205]<[SP]You[SP]didn't.[SP]Big[SP]Sis[SP]is[SP]alive...",
     "nom_fr": "Ginko",
-    "texte_fr": "Non...[1205]"
+    "texte_fr": "Non...[1205] < C'est faux. Elle est en vie..."
   },
   {
     "id": 17,
@@ -612,7 +612,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I'm[SP]sorry,[SP]but[SP]I[SP]can't[SP]do[SP]that...[1205]<[SP]Jun.",
     "nom_fr": "Maya",
-    "texte_fr": "Désolée, mais c'est impossible...[1205]"
+    "texte_fr": "Désolée, mais c'est impossible...[1205] < Jun."
   },
   {
     "id": 41,
@@ -687,6 +687,6 @@
     "nom_orig": "Joker",
     "texte_orig": "KILL[SP]HER![SP]KILL[SP]HER[SP]NOW!",
     "nom_fr": "",
-    "texte_fr": "TUEZ-LA ! TUEZ-LA MAINT"
+    "texte_fr": "TUEZ-LA ! TUEZ-LA MAINTENANT !"
   }
 ]

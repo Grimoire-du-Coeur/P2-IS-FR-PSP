@@ -150,7 +150,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Look[SP]at[SP]how[SP]slim[SP]and[SP]sexy[SP]I[SP]am![SP]These[SP]hips,[SP]these\nfinge[B_7F]rs,[SP]these[SP]eyes...[SP]They're[SP]just[SP]begging[SP]to[SP]be\ncaressed.[SP]Haha![SP]Get[U+2019][U+6911][B_00]t?\n[E1][E2][E3]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Regarde comme je suis mince & sexy! Ces hanches,\nces doigts, ces yeux… Ils veulent juste être\ncaressés. Haha! Tu captes?[B_7F][2019]"
+    "texte_fr": "Regarde comme je suis mince & sexy! Ces hanches,\nces doigts, ces yeux… Ils veulent juste être\ncaressés. Haha! Tu captes?[B_7F][2019][6911][B_00][E1][E2][E3]"
   },
   {
     "id": 9,
@@ -303,7 +303,7 @@
     "nom_orig": "Jun",
     "texte_orig": "......\n[E1][E2][E3]",
     "nom_fr": "Jun",
-    "texte_fr": "......"
+    "texte_fr": "......[E1][E2][E3]"
   },
   {
     "id": 18,
@@ -541,7 +541,7 @@
     "nom_orig": "Jun",
     "texte_orig": "[1113]...\n[E1][E2][E3]",
     "nom_fr": "Jun",
-    "texte_fr": "[1113]..."
+    "texte_fr": "[1113]...[E1][E2][E3]"
   },
   {
     "id": 32,
@@ -813,7 +813,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Wh-What[SP]are[SP]you[SP]doing!?\n[E1][E2][E3]",
     "nom_fr": "Jun",
-    "texte_fr": "Qu-Qu'est-ce que tu fai"
+    "texte_fr": "Qu-Qu'est-ce que tu fais!?[E1][E2][E3]"
   },
   {
     "id": 48,
@@ -830,7 +830,7 @@
     "nom_orig": "Jun",
     "texte_orig": "...Huh?\n[E1][E2][E3]",
     "nom_fr": "Jun",
-    "texte_fr": "… Hei"
+    "texte_fr": "… Hein?[E1][E2][E3]"
   },
   {
     "id": 49,
@@ -1000,7 +1000,7 @@
     "nom_orig": "Maya",
     "texte_orig": "You[SP]two[SP]have[SP]really[SP]grown[SP]up.\nEr,[SP]I[SP]guess[SP]I[SP]have,[SP]too.\n[E1][E2][E3]",
     "nom_fr": "Maya",
-    "texte_fr": "Vous avez bien grandi.\nEnfin, moi aussi.\nJun\n"
+    "texte_fr": "Vous avez bien grandi.\nEnfin, moi aussi.\nJun\nHaha! Tu as développé l'humour.[E1][E2][E3]"
   },
   {
     "id": 59,
@@ -1068,7 +1068,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Hello,[SP]lademons[SP]and[SP]gentledemons![SP]Maya[SP]here!\n[E1][E2][E3]",
     "nom_fr": "Maya",
-    "texte_fr": "Bonjour, mesdémons et messieursdémons! Ici M"
+    "texte_fr": "Bonjour, mesdémons et messieursdémons! Ici Maya ![E1][E2][E3]"
   },
   {
     "id": 63,
@@ -1289,7 +1289,7 @@
     "nom_orig": "Jun",
     "texte_orig": "...I'm[SP]responsible[SP]for[SP]this.\n[E1][E2][E3]",
     "nom_fr": "Jun",
-    "texte_fr": "... J'en suis responsable.[E1][E2]"
+    "texte_fr": "... J'en suis responsable.[E1][E2][E3]"
   },
   {
     "id": 76,
@@ -1323,7 +1323,7 @@
     "nom_orig": "Jun",
     "texte_orig": "......\n[E1][E2][E3]",
     "nom_fr": "Jun",
-    "texte_fr": "......"
+    "texte_fr": "......[E1][E2][E3]"
   },
   {
     "id": 78,
@@ -1340,7 +1340,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]we're[SP]even,[SP]right?[SP]Then[SP]leave[SP]it[SP]to[SP]me!\n[E1][E2][E3]",
     "nom_fr": "Eikichi",
-    "texte_fr": "Alors on est quittes? Fais-moi confiance![E1]"
+    "texte_fr": "Alors on est quittes? Fais-moi confiance![E1][E2][E3]"
   },
   {
     "id": 79,
@@ -1391,7 +1391,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Hey,[SP]just[SP]leave[SP]it[SP]to[SP]me.\n[E1][E2][E3]",
     "nom_fr": "Yukino",
-    "texte_fr": "Hé, fais-moi confiance.[E1][E2]"
+    "texte_fr": "Hé, fais-moi confiance.[E1][E2][E3]"
   },
   {
     "id": 82,
@@ -1425,7 +1425,7 @@
     "nom_orig": "Maya",
     "texte_orig": "This[SP]is[SP]a[SP]bit[SP]awkward.\n[E1][E2][E3]",
     "nom_fr": "Maya",
-    "texte_fr": "C'est un peu gênant.[E1][E2]"
+    "texte_fr": "C'est un peu gênant.[E1][E2][E3]"
   },
   {
     "id": 84,
@@ -1442,7 +1442,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Ugh...[SP]He[SP]really[SP]is[SP]hard[SP]to[SP]work[SP]with.\n[E1][E2][E3]",
     "nom_fr": "Maya",
-    "texte_fr": "Pff... Il est vraiment dur à supporter"
+    "texte_fr": "Pff... Il est vraiment dur à supporter.[E1][E2][E3]"
   },
   {
     "id": 85,
@@ -1459,7 +1459,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "You[SP]got[SP]it,[SP]Maya!\n[E1][E2][E3]",
     "nom_fr": "Yukino",
-    "texte_fr": "Compte sur moi, M"
+    "texte_fr": "Compte sur moi, Maya![E1][E2][E3]"
   },
   {
     "id": 86,
@@ -1493,7 +1493,7 @@
     "nom_orig": "Maya[SP]&[SP]Yukino",
     "texte_orig": "*sigh*\n[E1][E2][E3]",
     "nom_fr": "Maya & Yukino",
-    "texte_fr": "*soupi"
+    "texte_fr": "*soupir*[E1][E2][E3]"
   },
   {
     "id": 88,
@@ -1510,7 +1510,7 @@
     "nom_orig": "Jack[SP]Frost",
     "texte_orig": "Huh?[SP]It's[SP][120E][NULL],[SP]ho.\nWhat[SP]are[SP]you[SP]doing,[SP]ho?\n[E1][E2][E3]",
     "nom_fr": "Jack Frost",
-    "texte_fr": "Hein? [120E]C'est ho.\n"
+    "texte_fr": "Hein? [120E]C'est ho.\nQu'est-ce que tu fais, ho?[NULL][E1][E2][E3]"
   },
   {
     "id": 89,
@@ -1527,7 +1527,7 @@
     "nom_orig": "Pyro[SP]Jack",
     "texte_orig": "Huh?[SP]It's[SP][120E][NULL],[SP]ho.\nWhat[SP]are[SP]you[SP]doing[SP]here,[SP]ho?\n[E1][E2][E3]",
     "nom_fr": "Pyro Jack",
-    "texte_fr": "Hein? [120E]C'est ho.\nQu'est-ce que tu fais là, ho?"
+    "texte_fr": "Hein? [120E]C'est ho.\nQu'est-ce que tu fais là, ho?[NULL][E1][E2][E3]"
   },
   {
     "id": 90,
@@ -1731,7 +1731,7 @@
     "nom_orig": "Odin",
     "texte_orig": "My[SP]loyal[SP]servant,[SP][120E][NULL].\nIt[SP]has[SP]been[SP]a[SP]while.\n[E1][E2][E3]",
     "nom_fr": "Odin",
-    "texte_fr": "Mon fidèle [120E]"
+    "texte_fr": "Mon fidèle [120E]serviteur, cela fait longtemps.[NULL][E1][E2][E3]"
   },
   {
     "id": 102,
@@ -1748,7 +1748,7 @@
     "nom_orig": "Odin",
     "texte_orig": "[120E][NULL],[SP]my[SP]faithful[SP]Aesir[SP]ally.\nIt[SP]has[SP]been[SP]a[SP]while.\n[E1][E2][E3]",
     "nom_fr": "Odin",
-    "texte_fr": "mon [120E]fidèle allié Aïesir.\nCela fait longtemps.[NULL][E1]"
+    "texte_fr": "mon [120E]fidèle allié Aïesir.\nCela fait longtemps.[NULL][E1][E2][E3]"
   },
   {
     "id": 103,

@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]real[SP]me[SP]is[SP]more[SP]elegant...[SP]more[SP]beautiful...[1205][000F]\nThat[SP]guy[SP]looks[SP]like[SP]a[SP]different[SP]person.[SP]I[SP]wish\nthey[SP]paid[SP]better[SP]attention.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le vrai moi est plus élégant... plus beau...[1205] Ce 00F]Ce type ressemble à quelqu'un d'autre.\n"
+    "texte_fr": "Le vrai moi est plus élégant... plus beau...[1205] Ce 00F]Ce type ressemble à quelqu'un d'autre.\nIls auraient pu faire plus attention."
   },
   {
     "id": 2,
@@ -102,7 +102,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Those[SP]were[SP]the[SP]versions[SP]of[SP]us[SP]everyone[SP]else\nimagined...[1205][000F][SP]Maybe[SP]if[SP]those[SP]sketches[SP]hadn't[SP]gone\nout,[SP]they'd[SP]have[SP]looked[SP]completely[SP]different.",
     "nom_fr": "Maya",
-    "texte_fr": "C'était la version de nous\nqu'imaginaient les[1205][000F] autres... 00F]..\nSi ces croquis n'avaient pas circulé,\n"
+    "texte_fr": "C'était la version de nous\nqu'imaginaient les[1205][000F] autres... 00F]..\nSi ces croquis n'avaient pas circulé,\nelles auraient eu l'air tout autres."
   },
   {
     "id": 7,
@@ -357,7 +357,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sél. cachée",
+    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sél. cachée\nATTENTION\nAucun bit actif.\n-Kanada[03BC][B_00][5501][B_00]",
     "question_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -857,7 +857,7 @@
     "nom_orig": "Maya",
     "texte_orig": "F-Fine![SP]I'll[SP]eat[SP]it![SP]Just[SP]you[SP]watch![SP]I'll[SP]show\nyou[SP]what[SP]I'm[SP]made[SP]of!",
     "nom_fr": "Maya",
-    "texte_fr": "T-Très bien! Je vais le manger! Vous verrez![E3]\n"
+    "texte_fr": "T-Très bien! Je vais le manger! Vous verrez![E3]\nMaya affronta le plat...[E2][E1][E2]\n[E3][E4][NULL][NULL] \"Maya J'ai...\nJe l'ai mangé... Spaghetti... di kusaya..."
   },
   {
     "id": 51,

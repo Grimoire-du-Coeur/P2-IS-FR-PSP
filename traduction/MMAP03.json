@@ -12,7 +12,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "Hm?[SP]The[SP]outdoor[SP]concert[SP]hall?[SP]Oh,[SP]it's[SP]over[SP]in\nAoba[SP]Park.[SP]Are[SP]you[SP]going[SP]to[SP]see[SP]the[SP]show?",
     "nom_fr": "Employé",
-    "texte_fr": "La salle de concert ? Dans le parc d'Aoba.\nTu vas voir le spectacle ?[NL]"
+    "texte_fr": "La salle de concert ? Dans le parc d'Aoba.\nTu vas voir le spectacle ?[NL]Les Muses sont devenues populaires vite.\nJ'étais curieux, mais complet. Pas pour moi."
   },
   {
     "id": 1,
@@ -57,7 +57,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "I[SP]heard[SP]from[SP]a[SP]friend[SP]that[SP]Smile[SP]Hirasaka[SP]and\nGOLD[SP]were[SP]targeted[SP]by[SP]terrorists[SP]too.[1205][000F][SP]Luckily,\nboth[SP]attacks[SP]were[SP]thwarted...",
     "nom_fr": "Employé",
-    "texte_fr": "Un ami m'a dit que Smile Hirasaka et GOLD ont aussi été visés.[1205][000F]\nHeureusement, les deux ont été évités...[NL]"
+    "texte_fr": "Un ami m'a dit que Smile Hirasaka et GOLD ont aussi été visés.[1205][000F]\nHeureusement, les deux ont été évités...[NL]Mais ils étaient bondés.\nQui voudrait bombarder ça ? Le coupable est inhumain !"
   },
   {
     "id": 4,
@@ -72,7 +72,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "But[SP]they[SP]were[SP]both[SP]packed[SP]with[SP]people.[1205][000F]\nWho'd[SP]want[SP]to[SP]bomb[SP]someplace[SP]like[SP]that?\nThe[SP]culprit[SP]is[SP]inhuman...!",
     "nom_fr": "Employé",
-    "texte_fr": "Mon ami dit qu'ils ont fait sauter GOLD à Yumezaki.[1205][000F]\nBeaucoup de morts.[1106][NL]Beaucoup de monde aussi...[1205][000F]"
+    "texte_fr": "Mon ami dit qu'ils ont fait sauter GOLD à Yumezaki.[1205][000F]\nBeaucoup de morts.[1106][NL]Beaucoup de monde aussi...[1205][000F] Pourquoi bombarder ça ? Inhumain !"
   },
   {
     "id": 5,
@@ -87,7 +87,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "My[SP]friend[SP]told[SP]me[SP]that[SP]the[SP]terrorists[SP]even[SP]blew\nup[SP]Smile[SP]Hirasaka.[1205][000F][SP]I[SP]hear[SP]the[SP]death[SP]toll[SP]was\ntremendous.",
     "nom_fr": "Employé",
-    "texte_fr": "Mon ami dit que les terroristes ont fait sauter Smile Hirasaka.[1205][000F]\nDe nombreux morts.[NL]Beaucoup de monde aussi..."
+    "texte_fr": "Mon ami dit que les terroristes ont fait sauter Smile Hirasaka.[1205][000F]\nDe nombreux morts.[NL]Beaucoup de monde aussi...\nPourquoi bombarder ça ? Inhumain !"
   },
   {
     "id": 6,
@@ -117,7 +117,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "My[SP]friend[SP]told[SP]me[SP]that[SP]the[SP]terrorists[SP]even[SP]blew\nup[SP]GOLD[SP]in[SP]Yumezaki.[1205][000F][SP]I[SP]hear[SP]the[SP]death[SP]toll[SP]was\ntremendous.",
     "nom_fr": "Employé",
-    "texte_fr": "Mon ami dit qu'ils ont fait sauter GOLD à Yumezaki.[1205][000F]\nBeaucoup de morts.[NL]Beaucoup de monde aussi...\n"
+    "texte_fr": "Mon ami dit qu'ils ont fait sauter GOLD à Yumezaki.[1205][000F]\nBeaucoup de morts.[NL]Beaucoup de monde aussi...\nPourquoi bombarder ça ? Inhumain !"
   },
   {
     "id": 8,
@@ -147,7 +147,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "I[SP]heard[SP]from[SP]a[SP]friend[SP]that[SP]terrorists[SP]struck\nat[SP]both[SP]Smile[SP]Hirasaka[SP]and[SP]GOLD.[1205][000F][SP]So[SP]many\npeople[SP]died...",
     "nom_fr": "Employé",
-    "texte_fr": "Un ami m'a dit que les terroristes ont frappé\n Smile Hirasaka et GOLD.[1205][000F] Tant de morts...[NL]"
+    "texte_fr": "Un ami m'a dit que les terroristes ont frappé\n Smile Hirasaka et GOLD.[1205][000F] Tant de morts...[NL]Bondés. Qui voudrait\nbombarder ça ? Inhumain !"
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "They[SP]were[SP]both[SP]packed[SP]with[SP]people.[SP]Who'd[SP]want[1205][000F]\nto[SP]bomb[SP]someplace[SP]like[SP]that?[SP]The[SP]culprit[SP]is\ninhuman...!",
     "nom_fr": "Femme active",
-    "texte_fr": "Aoba est célèbre pour sa salle de concert,\n mais ce n'est pas notre seule fierté.[1106][NL]"
+    "texte_fr": "Aoba est célèbre pour sa salle de concert,\n mais ce n'est pas notre seule fierté.[1106][NL]Kismet Publishing (Coolest) et Sumaru TV\nsont dans ce quartier.[1106][NL]Ça n'a pas le peps de Yumezaki, mais ce quartier est le cœur qui alimente Sumaru en infos.[1205][000F]"
   },
   {
     "id": 11,
@@ -177,7 +177,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "Even[SP]the[SP]Aerospace[SP]Museum[SP]was[SP]bombed...[1205][000F]\nThat's[SP]already[SP]six[SP]attacks[SP]in[SP]total.[1205][000F]",
     "nom_fr": "Employé",
-    "texte_fr": "Même le musée aérospatial a été bombardé...[1205][000F] Six attaques au total.[1205][000F][NL]"
+    "texte_fr": "Même le musée aérospatial a été bombardé...[1205][000F] Six attaques au total.[1205][000F][NL]Combien de morts pour cette bande de cinq !?"
   },
   {
     "id": 12,
@@ -192,7 +192,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "How[SP]many[SP]deaths[SP]will[SP]it[SP]take[SP]to[SP]satisfy[SP]that\ngang[SP]of[SP]five!?",
     "nom_fr": "Femme active",
-    "texte_fr": "Des gamins ont dit que les cinq suspects sont\n"
+    "texte_fr": "Des gamins ont dit que les cinq suspects sont\n des héros qui combattent le Cercle Masqué...[1106][NL]Je le savais. Les coupables sont le Cercle Masqué ![1205][000F]\nMais j'ignorais que ces cinq les combattaient..."
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "The[SP]paper's[SP]reporting[SP]now[SP]that[SP]the[SP]Masked\nCircle[SP]and[SP]the[SP]Last[SP]Battalion[SP]are[SP]fighting\nover[SP]the[SP]secret[SP]treasure[SP]of[SP]Sumaru.",
     "nom_fr": "Employé",
-    "texte_fr": "Le journal dit que le Cercle Masqué\n et le Dernier Bataillon se battent pour\nle trésor secret de Sumaru.[NL]"
+    "texte_fr": "Le journal dit que le Cercle Masqué\n et le Dernier Bataillon se battent pour\nle trésor secret de Sumaru.[NL]C'était la raison de la vague de terreur aussi. Qu'ils le prennent et s'en aillent. On n'en a pas besoin !"
   },
   {
     "id": 14,
@@ -252,7 +252,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "D-Did[SP]the[SP]Masked[SP]Circle[SP]and[SP]the[SP]Last[SP]Battalion\ncause[SP]those[SP]temples[SP]to[SP]appear,[SP]too?",
     "nom_fr": "Employé",
-    "texte_fr": "Le Cercle Masqué et le Dernier Bataillon\n ont-ils aussi fait apparaître ces temples ?[NL]"
+    "texte_fr": "Le Cercle Masqué et le Dernier Bataillon\n ont-ils aussi fait apparaître ces temples ?[NL]Une fois apparus,\nils se sont tous précipités à l'intérieur.[NL]Ugh... C'en est trop... Je deviendrai fou avant d'évoluer..."
   },
   {
     "id": 17,
@@ -267,7 +267,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "Because[SP]I[SP]mean,[SP]once[SP]those[SP]things[SP]showed[SP]up,\nthey[SP]all[SP]rushed[SP]inside.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "On dit que c'est le Cercle Masqué,\n"
+    "texte_fr": "On dit que c'est le Cercle Masqué,\n mais j'ai aussi entendu qu'un groupe de cinq suspects\n a été vu près de la salle de concert.[1106][NL]Ils ne devraient pas être suspects aussi ?"
   },
   {
     "id": 18,
@@ -282,7 +282,7 @@
     "nom_orig": "Office[SP]worker",
     "texte_orig": "Ugh...[SP]This[SP]is[SP]too[SP]much...[1205][000F][SP]I[SP]feel[SP]like[SP]I'm\ngoing[SP]to[SP]go[SP]insane[SP]before[SP]I[SP]can[SP]evolve...",
     "nom_fr": "Homme",
-    "texte_fr": "Je n'arrive pas à croire qu'une telle tragédie soit arrivée.[1205][000F]\n"
+    "texte_fr": "Je n'arrive pas à croire qu'une telle tragédie soit arrivée.[1205][000F]\nMais avec les portraits-robots, ils seront bientôt arrêtés."
   },
   {
     "id": 19,
@@ -297,7 +297,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "Aoba[SP]is[SP]famous[SP]for[SP]its[SP]outdoor[SP]concert[SP]hall,\nbut[SP]that's[SP]not[SP]the[SP]only[SP]thing[SP]we're[SP]known[SP]for.",
     "nom_fr": "Femme active",
-    "texte_fr": "Aoba est célèbre pour sa salle de concert,\n mais ce n'est pas notre seule fierté.[NL]"
+    "texte_fr": "Aoba est célèbre pour sa salle de concert,\n mais ce n'est pas notre seule fierté.[NL]Kismet Publishing (Coolest) et Sumaru TV\nsont dans ce quartier.[NL]Ça n'a pas le peps de Yumezaki, mais ce quartier est le cœur qui alimente Sumaru en infos."
   },
   {
     "id": 20,
@@ -312,7 +312,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "Kismet[SP]Publishing,[SP]publishers[SP]of[SP]Coolest,\nand[SP]Sumaru[SP]TV[SP]are[SP]in[SP]this[SP]ward.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "La plupart des soldats allaient au mont Katatsumuri.[1205][000F]\n"
+    "texte_fr": "La plupart des soldats allaient au mont Katatsumuri.[1205][000F]\nPourquoi ? Je ne comprends pas."
   },
   {
     "id": 21,
@@ -327,7 +327,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "It[SP]may[SP]not[SP]have[SP]Yumezaki's[SP]pizazz,[SP]but[SP]I[SP]think\nthis[SP]ward[SP]is[SP]the[SP]beating[SP]heart[SP]that[SP]feeds\ninformation[SP]across[SP]Sumaru[SP]City.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Comment de telles absurdités arrivent ? \nJe l'ai vu de mes yeux... Je\nn'ai pas le choix, je dois y croire...[1106][NL]"
+    "texte_fr": "Comment de telles absurdités arrivent ? \nJe l'ai vu de mes yeux... Je\nn'ai pas le choix, je dois y croire...[1106][NL]Alors cette histoire de Terre anéantie doit être vraie aussi...[1205][000F] Que va-t-il exactement se passer ?"
   },
   {
     "id": 22,
@@ -342,7 +342,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "I[SP]just[SP]saw[SP]a[SP]Masked[SP]Circle[SP]member[SP]in[SP]a[SP]store.[1205][000F]\nHe[SP]was[SP]saying[SP]some[SP]scary[SP]stuff...",
     "nom_fr": "Femme active",
-    "texte_fr": "Je viens de voir un membre du Cercle Masqué.[1205][000F]\nIl disait des trucs effrayants...[NL]"
+    "texte_fr": "Je viens de voir un membre du Cercle Masqué.[1205][000F]\nIl disait des trucs effrayants...[NL]Nul doute que c'est eux qui ont incendié la salle.\nUne menace, comme les rumeurs le disaient."
   },
   {
     "id": 23,
@@ -357,7 +357,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "There's[SP]no[SP]doubt[SP]that[SP]it[SP]was[SP]them[SP]who[SP]set[SP]fire\nto[SP]the[SP]outdoor[SP]concert[SP]hall.[SP]They're[SP]a[SP]menace,\njust[SP]like[SP]the[SP]rumors[SP]said.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Un collègue dit que la Grande Croix provoquera\n l'attraction des autres planètes, causant\nun tsunami géant.[1106][NL]"
+    "texte_fr": "Un collègue dit que la Grande Croix provoquera\n l'attraction des autres planètes, causant\nun tsunami géant.[1106][NL]Je ne connais pas bien la science...[1205][000F] Est-ce seulement possible ?"
   },
   {
     "id": 24,
@@ -372,7 +372,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "Some[SP]kids[SP]came[SP]by[SP]just[SP]now[SP]and[SP]said[SP]the[SP]five\nsuspects[SP]are[SP]actually[SP]heroes[SP]fighting[SP]against\nthe[SP]Masked[SP]Circle...",
     "nom_fr": "Femme active",
-    "texte_fr": "Des gamins ont dit que les cinq suspects sont\n des héros qui combattent le Cercle Masqué...[NL]"
+    "texte_fr": "Des gamins ont dit que les cinq suspects sont\n des héros qui combattent le Cercle Masqué...[NL]Je le savais. Les coupables sont le Cercle Masqué !\nMais j'ignorais que ces cinq les combattaient..."
   },
   {
     "id": 25,
@@ -387,7 +387,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "I-I[SP]knew[SP]all[SP]along.[SP]The[SP]culprits[SP]were[SP]the\nMasked[SP]Circle,[SP]of[SP]course![1205][000F][SP]But[SP]I[SP]didn't[SP]know\nthose[SP]five[SP]were[SP]fighting[SP]against[SP]them...",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Des fleurs qui parlent dans le parc d'Aoba...\nJ'ai d'abord cru à une blague.[1205][000F]\n"
+    "texte_fr": "Des fleurs qui parlent dans le parc d'Aoba...\nJ'ai d'abord cru à une blague.[1205][000F]\nCurieux de savoir à quoi pensent les plantes."
   },
   {
     "id": 26,
@@ -402,7 +402,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "I-I[SP]heard[SP]the[SP]Oracle[SP]in[SP]the[SP]In[SP]Lak'ech[SP]talks\nabout[SP]everything[SP]that's[SP]happened[SP]lately,\nbut[SP]that's[SP]just[SP]a[SP]marketing[SP]angle.",
     "nom_fr": "Femme active",
-    "texte_fr": "L'Oracle dans l'In Lak'ech parle de tout,\n mais ce n'est qu'un argument marketing.[NL]Ce n'est pas une grande prophétie.\n"
+    "texte_fr": "L'Oracle dans l'In Lak'ech parle de tout,\n mais ce n'est qu'un argument marketing.[NL]Ce n'est pas une grande prophétie.\nCe serait ridicule...[NL]Tu ne crois pas ? J'ai raison, non ?"
   },
   {
     "id": 27,
@@ -417,7 +417,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "I[SP]mean,[SP]it's[SP]not[SP]like[SP]it's[SP]some[SP]grand[SP]prophecy.\nThat[SP]would[SP]just[SP]be[SP]ridiculous...",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "On a vu le fantôme d'une idole dans le parc d'Aoba.[1106][NL]"
+    "texte_fr": "On a vu le fantôme d'une idole dans le parc d'Aoba.[1106][NL]Si assez de gens le disent, ça doit être vrai...[1205][000F] Brrr ! J'ai eu un frisson."
   },
   {
     "id": 28,
@@ -432,7 +432,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "D-Don't[SP]you[SP]think[SP]so?[1205][000F][SP]I-I'm[SP]right,[SP]aren't[SP]I?",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Un Taxi Maudit à l'usine abandonnée ?[1205][000F]"
+    "texte_fr": "Un Taxi Maudit à l'usine abandonnée ?[1205][000F] Ouf,\nje ne peux même plus prendre un taxi sans m'inquiéter."
   },
   {
     "id": 29,
@@ -477,7 +477,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Ever[SP]hear[SP]the[SP]rumor[SP]that[SP]Rosa[SP]Candida[SP]sells\nreal[SP]armor?[1205][000F][SP]An[SP]office[SP]mate[SP]of[SP]mine[SP]told[SP]me\nabout[SP]it,[SP]and[SP]I've[SP]been[SP]curious[SP]ever[SP]since.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Tu as entendu que Rosa Candida vend de vraies armures ?[1205][000F]\nUn collègue m'en a parlé, je suis curieux.[NL]Il a dû voir ça sur Internet.[NL]"
+    "texte_fr": "Tu as entendu que Rosa Candida vend de vraies armures ?[1205][000F]\nUn collègue m'en a parlé, je suis curieux.[NL]Il a dû voir ça sur Internet.[NL]Au Double Slash, on peut utiliser leurs PC\npour surfer sur Internet.[NL]Même un vieux comme moi pourrait chercher, mais je suis nul en informatique. Un de mes travers."
   },
   {
     "id": 32,
@@ -492,7 +492,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "It[SP]seems[SP]he[SP]got[SP]the[SP]story[SP]online[SP]somewhere.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Je n'arrive pas à croire qu'on raconte encore ça."
+    "texte_fr": "Je n'arrive pas à croire qu'on raconte encore ça...\nKudan...[1205][000F] Même à mon âge, j'en ai peur.[1205][000F]\nBrrr ! Ça me donne toujours des frissons."
   },
   {
     "id": 33,
@@ -507,7 +507,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "If[SP]you[SP]go[SP]to[SP]Double[SP]Slash,[SP]you[SP]can[SP]use[SP]their\nPCs[SP]to[SP]browse[SP]the[SP]Internet.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Un CD secret chez Giga Macho ?\nLes magasins ont des promotions bizarres.[1205][000F]\n"
+    "texte_fr": "Un CD secret chez Giga Macho ?\nLes magasins ont des promotions bizarres.[1205][000F]\nCela pique ma curiosité..."
   },
   {
     "id": 34,
@@ -537,7 +537,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Rumor[SP]has[SP]it[SP]the[SP]Masked[SP]Circle[SP]did[SP]this,[SP]but[SP]I\nalso[SP]hear[SP]there[SP]was[SP]a[SP]group[SP]of[SP]five[SP]suspicious\npeople[SP]seen[SP]around[SP]the[SP]outdoor[SP]concert[SP]hall.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "On dit que c'est le Cercle Masqué,\n mais j'ai aussi entendu qu'un groupe de cinq suspects\n a été vu près de la salle de concert.[NL]"
+    "texte_fr": "On dit que c'est le Cercle Masqué,\n mais j'ai aussi entendu qu'un groupe de cinq suspects\n a été vu près de la salle de concert.[NL]Ils ne devraient pas être suspects aussi ?"
   },
   {
     "id": 36,
@@ -552,7 +552,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Shouldn't[SP]those[SP]guys[SP]be[SP]suspects[SP]too?",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Time Castle vend de vraies armes ? Bonne\n"
+    "texte_fr": "Time Castle vend de vraies armes ? Bonne\nqualité mais chères, disent mes collègues."
   },
   {
     "id": 37,
@@ -612,7 +612,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "How[SP]can[SP]such[SP]nonsensical[SP]things[SP]be[SP]happening?[1205][000A]\nW-Well,[SP]I've[SP]seen[SP]it[SP]for[SP]myself...[1205][000A][SP]I[SP]don't\nhave[SP]a[SP]choice[SP]but[SP]to[SP]believe[SP]it...",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Comment de telles absurdités arrivent ? \nJe l'ai vu de mes yeux... Je\nn'ai pas le choix, je dois y croire...[NL]"
+    "texte_fr": "Comment de telles absurdités arrivent ? \nJe l'ai vu de mes yeux... Je\nn'ai pas le choix, je dois y croire...[NL]Alors cette histoire de Terre anéantie doit être vraie aussi... Que va-t-il exactement se passer ?"
   },
   {
     "id": 41,
@@ -657,7 +657,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "A[SP]colleague[SP]of[SP]mine[SP]says[SP]the[SP]Grand[SP]Cross[SP]will\nresult[SP]in[SP]the[SP]gravitational[SP]pull[SP]of[SP]the[SP]other\nplanets[SP]causing[SP]a[SP]gigantic[SP]tsunami.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Un collègue dit que la Grande Croix provoquera\n l'attraction des autres planètes, causant\nun tsunami géant.[NL]"
+    "texte_fr": "Un collègue dit que la Grande Croix provoquera\n l'attraction des autres planètes, causant\nun tsunami géant.[NL]Je ne connais pas bien la science... Est-ce seulement possible ?"
   },
   {
     "id": 44,
@@ -672,7 +672,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "I[SP]don't[SP]know[SP]much[SP]about[SP]science...[1205][000F][SP]Is[SP]that\neven[SP]possible?",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\n"
+    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\nIls vendent des armes ?[1106][NL]Qualité premium, mais cher.[1205][000F]"
   },
   {
     "id": 45,
@@ -687,7 +687,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "That[SP]was[SP]strange.[1205][000A][SP]My[SP]men[SP]had[SP]all[SP]been[SP]arguing\nover[SP]how[SP]the[SP]world[SP]down[SP]there[SP]would[SP]end,[SP]when\nsuddenly[SP]they[SP]settled[SP]on[SP]one[SP]idea.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "C'était étrange. \nIls discutaient de la fin du monde en bas,\nquand soudain ils se sont mis d'accord sur une idée.[NL]"
+    "texte_fr": "C'était étrange. \nIls discutaient de la fin du monde en bas,\nquand soudain ils se sont mis d'accord sur une idée.[NL]Ils pensent que la Grande Croix arrêtera la rotation de la Terre.[NL]Je n'ai pas suivi, mais tout sur Terre sera emporté à grande vitesse ?"
   },
   {
     "id": 46,
@@ -702,7 +702,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "They[SP]think[SP]the[SP]Grand[SP]Cross[SP]will[SP]cause[SP]the\nEarth[SP]to[SP]stop[SP]rotating.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\nIls vendent des armes ?"
+    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\nIls vendent des armes ?[1106][NL]Qualité et prix moyens."
   },
   {
     "id": 47,
@@ -747,7 +747,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "It[SP]seems[SP]Zodiac's[SP]second[SP]floor[SP]has[SP]become[SP]a\ngiant[SP]dungeon.[1205][000F][SP]The[SP]rumor[SP]is[SP]that[SP]there's[SP]tons\nof[SP]great[SP]items[SP]there...",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Il paraît que le deuxième étage de Zodiac est devenu\n un immense donjon.[1205][000F] Beaucoup de bons objets...[NL]"
+    "texte_fr": "Il paraît que le deuxième étage de Zodiac est devenu\n un immense donjon.[1205][000F] Beaucoup de bons objets...[NL]Un nouveau coup de pub ? Qu'en pensez-vous ?"
   },
   {
     "id": 50,
@@ -762,7 +762,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Is[SP]this[SP]some[SP]new[SP]marketing[SP]stunt?[SP]What[SP]do\nyou[SP]think?",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Peu de choix, bonnes reprises ?[1205][000F] Jamais\n"
+    "texte_fr": "Peu de choix, bonnes reprises ?[1205][000F] Jamais\nimaginé que Jolly Roger vendait des armes.[1106][NL]Qu'est-il arrivé à cette ville ?"
   },
   {
     "id": 51,
@@ -777,7 +777,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "I[SP]heard[SP]the[SP]ghost[SP]of[SP]an[SP]idol[SP]has[SP]been[SP]seen\nin[SP]Aoba[SP]Park.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "On a vu le fantôme d'une idole dans le parc d'Aoba.[NL]"
+    "texte_fr": "On a vu le fantôme d'une idole dans le parc d'Aoba.[NL]Si assez de gens le disent, ça doit être vrai...\nBrrr ! J'ai eu un frisson."
   },
   {
     "id": 52,
@@ -792,7 +792,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "If[SP]enough[SP]people[SP]say[SP]so,[SP]it[SP]must[SP]be[SP]true...[1205][000F]\nBrrr![SP]I[SP]just[SP]felt[SP]a[SP]chill[SP]down[SP]my[SP]spine.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "La boutique de Rengedai vend armures et vêtements ?\nQualité et prix moyens.[1106][NL]"
+    "texte_fr": "La boutique de Rengedai vend armures et vêtements ?\nQualité et prix moyens.[1106][NL]*soupir* Vendre seulement des vêtements ne suffit plus ?\nÇa fait peur...[1205][000F] "
   },
   {
     "id": 53,
@@ -822,7 +822,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "I[SP]heard[SP]there's[SP]some[SP]Cursed[SP]Escort[SP]at[SP]the\nabandoned[SP]factory.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "J'ai entendu qu'il y a une Escorte Maudite\n à l'usine abandonnée."
+    "texte_fr": "J'ai entendu qu'il y a une Escorte Maudite\n à l'usine abandonnée.[NL]Un chauffeur de taxi m'en a parlé.\nIl a du mal à trouver des clients à cause de ça."
   },
   {
     "id": 55,
@@ -1032,7 +1032,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Clair[SP]de[SP]Lune...[SP]I[SP]went[SP]there[SP]with[SP]a[SP]business\npartner[SP]the[SP]other[SP]day.[SP]They[SP]sell[SP]weapons[SP]there?",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\nIls vendent des armes ?[NL]"
+    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\nIls vendent des armes ?[NL]Peu de choix, mais bonnes reprises."
   },
   {
     "id": 69,
@@ -1047,7 +1047,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Rumor[SP]has[SP]it[SP]their[SP]selection[SP]isn't[SP]great,\nbut[SP]they[SP]offer[SP]good[SP]resale[SP]prices.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Je n'ai jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[1106]"
+    "texte_fr": "Je n'ai jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[1106][NL]Difficile à gagner, mais lots sympas.\nJe devrais peut-être réessayer."
   },
   {
     "id": 70,
@@ -1062,7 +1062,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Clair[SP]de[SP]Lune...[SP]I[SP]went[SP]there[SP]with[SP]a[SP]business\npartner[SP]the[SP]other[SP]day.[SP]They[SP]sell[SP]weapons[SP]there?",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\nIls vendent des armes ?[NL]"
+    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\nIls vendent des armes ?[NL]Prix abordables, qualité basse."
   },
   {
     "id": 71,
@@ -1077,7 +1077,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Rumor[SP]has[SP]it[SP]their[SP]prices[SP]are[SP]affordable,\nbut[SP]their[SP]stuff's[SP]low[SP]quality.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[1106][NL]"
+    "texte_fr": "Jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[1106][NL]Facile à gagner, prix pourris.\nJe n'ai jamais gagné. J'ai la pire chance."
   },
   {
     "id": 72,
@@ -1092,7 +1092,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Clair[SP]de[SP]Lune...[SP]I[SP]went[SP]there[SP]with[SP]a[SP]business\npartner[SP]the[SP]other[SP]day.[SP]They[SP]sell[SP]weapons[SP]there?",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\nIls vendent des armes ?[NL]"
+    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\nIls vendent des armes ?[NL]Qualité premium, mais cher."
   },
   {
     "id": 73,
@@ -1107,7 +1107,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Rumor[SP]has[SP]it[SP]their[SP]stuff[SP]is[SP]top-tier,\nbut[SP]it's[SP]not[SP]exactly[SP]affordable.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Jamais intéressé par les arcades,\nmais Mu a un casino maintenant.[1205][000F] L'idée\n"
+    "texte_fr": "Jamais intéressé par les arcades,\nmais Mu a un casino maintenant.[1205][000F] L'idée\nde jouer m'excite...[1106][NL]Un ami y est allé.[1205][000F] On peut gagner gros à la machine à sous du fond. #1 ou #8 ?"
   },
   {
     "id": 74,
@@ -1122,7 +1122,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Clair[SP]de[SP]Lune...[SP]I[SP]went[SP]there[SP]with[SP]a[SP]business\npartner[SP]the[SP]other[SP]day.[SP]They[SP]sell[SP]weapons[SP]there?",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\nIls vendent des armes ?[NL]"
+    "texte_fr": "Clair de Lune... J'y suis allé avec un associé.\nIls vendent des armes ?[NL]Grand choix, reprises basses."
   },
   {
     "id": 75,
@@ -1137,7 +1137,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Rumor[SP]has[SP]it[SP]their[SP]selection[SP]is[SP]great,\nbut[SP]they[SP]offer[SP]low[SP]resale[SP]prices.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "J'adore les antiquités. Je fréquentais Time Castle.[1205][000F]\n"
+    "texte_fr": "J'adore les antiquités. Je fréquentais Time Castle.[1205][000F]\nAu fait, savez-vous ce qu'est une arme légendaire ?[1106][NL]Shiraishi Ramen en aurait une.\nJ'aimerais au moins la voir."
   },
   {
     "id": 76,
@@ -1167,7 +1167,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Rumor[SP]has[SP]it[SP]their[SP]prices[SP]and[SP]quality\nare[SP]average.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Une arme légendaire à Time Castle.\n"
+    "texte_fr": "Une arme légendaire à Time Castle.\nLe propriétaire fait le sourd pour faire monter le prix.\nQuel avare !"
   },
   {
     "id": 78,
@@ -1182,7 +1182,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Average[SP]quality[SP]and[SP]prices,[SP]huh...?[1205][000F][SP]I'd[SP]never\nhave[SP]guessed[SP]Jolly[SP]Roger[SP]sold[SP]real[SP]weapons.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Qualité et prix moyens ?[1205][000F] Jamais\nimaginé que Jolly Roger vendait des armes.[NL]"
+    "texte_fr": "Qualité et prix moyens ?[1205][000F] Jamais\nimaginé que Jolly Roger vendait des armes.[NL]Qu'est-il arrivé à cette ville ?"
   },
   {
     "id": 79,
@@ -1197,7 +1197,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Honestly,[SP]what's[SP]happened[SP]to[SP]this[SP]city?",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "J'ai entendu que des démons ont volé l'arme "
+    "texte_fr": "J'ai entendu que des démons ont volé l'arme légendaire.\nC'est vrai ?"
   },
   {
     "id": 80,
@@ -1212,7 +1212,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Low[SP]prices,[SP]but[SP]low[SP]quality,[SP]huh...?[1205][000F][SP]I'd[SP]never\nhave[SP]guessed[SP]Jolly[SP]Roger[SP]sold[SP]real[SP]weapons.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Prix bas, qualité basse ?[1205][000F] Jamais\nimaginé que Jolly Roger vendait des armes.[NL]"
+    "texte_fr": "Prix bas, qualité basse ?[1205][000F] Jamais\nimaginé que Jolly Roger vendait des armes.[NL]Qu'est-il arrivé à cette ville ?"
   },
   {
     "id": 81,
@@ -1227,7 +1227,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Honestly,[SP]what's[SP]happened[SP]to[SP]this[SP]city?",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Quelle malchance. Le propriétaire a donné\n"
+    "texte_fr": "Quelle malchance. Le propriétaire a donné\nl'arme légendaire.[1106][NL]À une fille aux cheveux courts, dit-on.\nIndice trop vague. *soupir* Si seulement je l'avais achetée !"
   },
   {
     "id": 82,
@@ -1242,7 +1242,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Great[SP]selection,[SP]but[SP]low[SP]resale[SP]prices,[SP]huh...?[1205][000F]\nI'd[SP]never[SP]have[SP]guessed[SP]Jolly[SP]Roger[SP]sold[SP]real\nweapons.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Bon choix, reprises basses ?[1205][000F] Jamais\nimaginé que Jolly Roger vendait des armes.[NL]"
+    "texte_fr": "Bon choix, reprises basses ?[1205][000F] Jamais\nimaginé que Jolly Roger vendait des armes.[NL]Qu'est-il arrivé à cette ville ?"
   },
   {
     "id": 83,
@@ -1257,7 +1257,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Honestly,[SP]what's[SP]happened[SP]to[SP]this[SP]city?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Qu'allons-nous faire... ?\n"
+    "texte_fr": "Qu'allons-nous faire... ?\nMême les pompiers ont été bombardés...[1106][NL]Personne pour éteindre les flammes\n en cas de nouvelle attaque !"
   },
   {
     "id": 84,
@@ -1272,7 +1272,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Poor[SP]selection,[SP]but[SP]great[SP]resale[SP]prices,[SP]eh...?[1205][000F]\nI'd[SP]never[SP]have[SP]guessed[SP]Jolly[SP]Roger[SP]sold[SP]real\nweapons.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Peu de choix, bonnes reprises ?[1205][000F] Jamais\nimaginé que Jolly Roger vendait des armes.[NL]"
+    "texte_fr": "Peu de choix, bonnes reprises ?[1205][000F] Jamais\nimaginé que Jolly Roger vendait des armes.[NL]Qu'est-il arrivé à cette ville ?"
   },
   {
     "id": 85,
@@ -1287,7 +1287,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Honestly,[SP]what's[SP]happened[SP]to[SP]this[SP]city?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Ils ont affiché des portraits-robots.\n"
+    "texte_fr": "Ils ont affiché des portraits-robots.\nIls sont du Cercle Masqué ?[1205][000F] Ou du Dernier Bataillon ?[1205][000F]\nJe suis perdue."
   },
   {
     "id": 86,
@@ -1302,7 +1302,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Great[SP]quality,[SP]but[SP]high[SP]prices,[SP]huh...?[1205][000F]\nI'd[SP]never[SP]have[SP]guessed[SP]Jolly[SP]Roger[SP]sold\nreal[SP]weapons.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Bonne qualité, prix élevés ?[1205][000F] Jamais\nimaginé que Jolly Roger vendait des armes.[NL]"
+    "texte_fr": "Bonne qualité, prix élevés ?[1205][000F] Jamais\nimaginé que Jolly Roger vendait des armes.[NL]Qu'est-il arrivé à cette ville ?"
   },
   {
     "id": 87,
@@ -1317,7 +1317,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Honestly,[SP]what's[SP]happened[SP]to[SP]this[SP]city?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Est-ce sûr d'être dehors ?[1205][000F]\n"
+    "texte_fr": "Est-ce sûr d'être dehors ?[1205][000F]\nMais où me cacher ? On ne peut plus compter\n sur la police..."
   },
   {
     "id": 88,
@@ -1332,7 +1332,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Is[SP]it[SP]true[SP]the[SP]boutique[SP]in[SP]Rengedai[SP]sells[SP]armor\nas[SP]well[SP]as[SP]clothes?[1205][000F][SP]I[SP]heard[SP]their[SP]quality[SP]and\nprices[SP]are[SP]average.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "La boutique de Rengedai vend armures et vêtements ?\nQualité et prix moyens.[1205][000F][NL]"
+    "texte_fr": "La boutique de Rengedai vend armures et vêtements ?\nQualité et prix moyens.[1205][000F][NL]*soupir* Vendre seulement des vêtements ne suffit plus ?\nÇa fait peur..."
   },
   {
     "id": 89,
@@ -1347,7 +1347,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "*sigh*[SP]Does[SP]that[SP]mean[SP]it[SP]isn't[SP]enough[SP]just\nto[SP]sell[SP]clothes[SP]in[SP]this[SP]economy?[SP]Now[SP]that's\nscary...",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Tu as entendu ?[1205][000F]\nDes rumeurs sur la fin des gens d'en bas.[1106][NL]La dernière : la Grande Croix provoquera\n"
+    "texte_fr": "Tu as entendu ?[1205][000F]\nDes rumeurs sur la fin des gens d'en bas.[1106][NL]La dernière : la Grande Croix provoquera\n une tempête magnétique brûlant la Terre."
   },
   {
     "id": 90,
@@ -1362,7 +1362,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Is[SP]it[SP]true[SP]the[SP]boutique[SP]in[SP]Rengedai[SP]sells[SP]armor\nas[SP]well[SP]as[SP]clothes?[1205][000F][SP]I[SP]heard[SP]their[SP]prices[SP]are\nlow,[SP]but[SP]so[SP]is[SP]the[SP]quality.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Boutique de Rengedai : armures.\nPrix bas, qualité basse.[1205][000F][NL]*soupir* Vendre seulement des vêtements ne suffit plus ?\n"
+    "texte_fr": "Boutique de Rengedai : armures.\nPrix bas, qualité basse.[1205][000F][NL]*soupir* Vendre seulement des vêtements ne suffit plus ?\nÇa fait peur..."
   },
   {
     "id": 91,
@@ -1392,7 +1392,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Is[SP]it[SP]true[SP]the[SP]boutique[SP]in[SP]Rengedai[SP]sells[SP]armor\nas[SP]well[SP]as[SP]clothes?[1205][000F][SP]I[SP]heard[SP]their[SP]quality[SP]is\nhigh,[SP]but[SP]so[SP]are[SP]their[SP]prices.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Boutique de Rengedai : armures.\nHaute qualité, prix élevés.[1205][000F][NL]*soupir* Vendre seulement des vêtements ne suffit plus ?\n"
+    "texte_fr": "Boutique de Rengedai : armures.\nHaute qualité, prix élevés.[1205][000F][NL]*soupir* Vendre seulement des vêtements ne suffit plus ?\nÇa fait peur..."
   },
   {
     "id": 93,
@@ -1407,7 +1407,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "*sigh*[SP]Does[SP]that[SP]mean[SP]it[SP]isn't[SP]enough[SP]just\nto[SP]sell[SP]clothes[SP]in[SP]this[SP]economy?[SP]Now[SP]that's\nscary...",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Tu connais les fleurs qui parlent à Aoba ?\nComme elles seraient bavardes...\n"
+    "texte_fr": "Tu connais les fleurs qui parlent à Aoba ?\nComme elles seraient bavardes...\nOn ne peut rien tenter de drôle là-bas."
   },
   {
     "id": 94,
@@ -1482,7 +1482,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Seems[SP]Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor.\nThey[SP]don't[SP]have[SP]a[SP]great[SP]selection,[SP]but[SP]their\nresale[SP]prices[SP]are[SP]worth[SP]it.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Rosa Candida à Aoba vend des armures.\nPeu de choix, reprises intéressantes.[NL]Des boutiques qui vendent des armures ?\n"
+    "texte_fr": "Rosa Candida à Aoba vend des armures.\nPeu de choix, reprises intéressantes.[NL]Des boutiques qui vendent des armures ?\nDes restaurants qui vendent des armes ? Cette ville devient folle."
   },
   {
     "id": 99,
@@ -1512,7 +1512,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Seems[SP]Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor.\nTheir[SP]quality[SP]and[SP]prices[SP]seem[SP]average.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Rosa Candida à Aoba : armures,\nqualité et prix moyens.[NL]"
+    "texte_fr": "Rosa Candida à Aoba : armures,\nqualité et prix moyens.[NL]Des boutiques qui vendent des armures ?\nDes restaurants qui vendent des armes ? Cette ville devient folle."
   },
   {
     "id": 101,
@@ -1527,7 +1527,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "But[SP]boutiques[SP]that[SP]sell[SP]armor?[SP]Restaurants\nthat[SP]sell[SP]weapons?[SP]How[SP]much[SP]more[SP]insane[SP]can\nthis[SP]city[SP]get?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "La Sorcière du Buffet, c'est la vieille femme\nqui vit dans un buffet, c'est ça ?[1106][NL]Pourquoi à l'usine abandonnée ?[1205]"
+    "texte_fr": "La Sorcière du Buffet, c'est la vieille femme\nqui vit dans un buffet, c'est ça ?[1106][NL]Pourquoi à l'usine abandonnée ?[1205][000F]\nJe ne m'en approcherai plus."
   },
   {
     "id": 102,
@@ -1542,7 +1542,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Seems[SP]Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor.\nTheir[SP]quality[SP]is[SP]great,[SP]but[SP]I[SP]hear[SP]they're\nexpensive.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Rosa Candida à Aoba :\nbonne qualité, cher.[NL]Des boutiques qui vendent des armures ?\n"
+    "texte_fr": "Rosa Candida à Aoba :\nbonne qualité, cher.[NL]Des boutiques qui vendent des armures ?\nDes restaurants qui vendent des armes ? Cette ville devient folle."
   },
   {
     "id": 103,
@@ -1572,7 +1572,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Seems[SP]Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor.\nTheir[SP]prices[SP]are[SP]certainly[SP]right,[SP]but[SP]there's\na[SP]certain[SP]lack[SP]of[SP]quality[SP]there.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Rosa Candida à Aoba : prix corrects,\nmais qualité insuffisante.[NL]Des boutiques qui vendent des armures ?\n"
+    "texte_fr": "Rosa Candida à Aoba : prix corrects,\nmais qualité insuffisante.[NL]Des boutiques qui vendent des armures ?\nDes restaurants qui vendent des armes ? Cette ville devient folle."
   },
   {
     "id": 105,
@@ -1587,7 +1587,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "But[SP]boutiques[SP]that[SP]sell[SP]armor?[SP]Restaurants\nthat[SP]sell[SP]weapons?[SP]How[SP]much[SP]more[SP]insane[SP]can\nthis[SP]city[SP]get?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Effrayant d'acheter des armes en pleine rue à Yumezaki.\nBon choix, reprises basses.[1106][NL]"
+    "texte_fr": "Effrayant d'acheter des armes en pleine rue à Yumezaki.\nBon choix, reprises basses.[1106][NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
   },
   {
     "id": 106,
@@ -1602,7 +1602,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Seems[SP]Rosa[SP]Candida[SP]in[SP]Aoba[SP]sells[SP]real[SP]armor.\nThey[SP]have[SP]a[SP]great[SP]selection,[SP]but[SP]their[SP]resale\nprices[SP]seem[SP]low.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Rosa Candida à Aoba :\ngrand choix, reprises basses.[NL]Des boutiques qui vendent des armures ?\n"
+    "texte_fr": "Rosa Candida à Aoba :\ngrand choix, reprises basses.[NL]Des boutiques qui vendent des armures ?\nDes restaurants qui vendent des armes ? Cette ville devient folle."
   },
   {
     "id": 107,
@@ -1617,7 +1617,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "But[SP]boutiques[SP]that[SP]sell[SP]armor?[SP]Restaurants\nthat[SP]sell[SP]weapons?[SP]How[SP]much[SP]more[SP]insane[SP]can\nthis[SP]city[SP]get?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Effrayant d'acheter des armes en rue à Yumezaki.\nQualité et prix moyens.[1106][NL]"
+    "texte_fr": "Effrayant d'acheter des armes en rue à Yumezaki.\nQualité et prix moyens.[1106][NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
   },
   {
     "id": 108,
@@ -1707,7 +1707,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "I've[SP]never[SP]won[SP]any[SP]sweepstakes[SP]myself...[1205][000F][SP]But[SP]I\nhear[SP]if[SP]you[SP]win[SP]this[SP]magazine's[SP]contest,[SP]you'll\nget[SP]real[SP]weapons[SP]and[SP]items.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Je n'ai jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[NL]Difficile à gagner, mais lots sympas.\n"
+    "texte_fr": "Je n'ai jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[NL]Difficile à gagner, mais lots sympas.\nJe devrais peut-être réessayer."
   },
   {
     "id": 114,
@@ -1737,7 +1737,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "I've[SP]never[SP]won[SP]any[SP]sweepstakes[SP]myself...[1205][000F][SP]But[SP]I\nhear[SP]if[SP]you[SP]win[SP]this[SP]magazine's[SP]contest,[SP]you'll\nget[SP]real[SP]weapons[SP]and[SP]items.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[NL]Très rare de gagner, lots incroyables.\n"
+    "texte_fr": "Jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[NL]Très rare de gagner, lots incroyables.\nJe devrais réessayer."
   },
   {
     "id": 116,
@@ -1767,7 +1767,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "I've[SP]never[SP]won[SP]any[SP]sweepstakes[SP]myself...[1205][000F][SP]But[SP]I\nhear[SP]if[SP]you[SP]win[SP]this[SP]magazine's[SP]contest,[SP]you'll\nget[SP]real[SP]weapons[SP]and[SP]items.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[NL]Facile à gagner, prix pourris.\n"
+    "texte_fr": "Jamais gagné de concours.[1205][000F]\nMais gagner donne de vraies armes et objets.[NL]Facile à gagner, prix pourris.\nJe n'ai jamais gagné. J'ai la pire chance."
   },
   {
     "id": 118,
@@ -1797,7 +1797,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "I've[SP]never[SP]been[SP]interested[SP]in[SP]arcades,[SP]but[SP]it\nseems[SP]Mu[SP]has[SP]a[SP]casino[SP]now.[1205][000F][SP]I[SP]get[SP]a[SP]tingle[SP]of\nexcitement[SP]at[SP]the[SP]thought[SP]of[SP]gambling...",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Jamais intéressé par les arcades,\nmais Mu a un casino maintenant.[1205][000F] L'idée\nde jouer m'excite...[NL]"
+    "texte_fr": "Jamais intéressé par les arcades,\nmais Mu a un casino maintenant.[1205][000F] L'idée\nde jouer m'excite...[NL]Un ami y est allé. On peut gagner gros à la machine de poker n°5. Je ne sais pas jouer au poker."
   },
   {
     "id": 120,
@@ -1827,7 +1827,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "I've[SP]never[SP]been[SP]interested[SP]in[SP]arcades,[SP]but[SP]it\nseems[SP]Mu[SP]has[SP]a[SP]casino[SP]now.[1205][000F][SP]I[SP]get[SP]a[SP]tingle[SP]of\nexcitement[SP]at[SP]the[SP]thought[SP]of[SP]gambling...",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Jamais intéressé par les arcades,\nmais Mu a un casino maintenant.[1205][000F] L'idée\nde jouer m'excite...[NL]"
+    "texte_fr": "Jamais intéressé par les arcades,\nmais Mu a un casino maintenant.[1205][000F] L'idée\nde jouer m'excite...[NL]Un ami y est allé. On peut gagner gros à la machine à sous du fond. #1 ou #8 ?"
   },
   {
     "id": 122,
@@ -1857,7 +1857,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "I've[SP]never[SP]been[SP]interested[SP]in[SP]arcades,[SP]but[SP]it\nseems[SP]Mu[SP]has[SP]a[SP]casino[SP]now.[1205][000F][SP]I[SP]get[SP]a[SP]tingle[SP]of\nexcitement[SP]at[SP]the[SP]thought[SP]of[SP]gambling...",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Jamais intéressé par les arcades,\nmais Mu a un casino maintenant.[1205][000F] L'idée\nde jouer m'excite...[NL]"
+    "texte_fr": "Jamais intéressé par les arcades,\nmais Mu a un casino maintenant.[1205][000F] L'idée\nde jouer m'excite...[NL]Un ami y est allé. On peut gagner gros au blackjack. Mais ce serait mal si ma femme le savait..."
   },
   {
     "id": 124,
@@ -1887,7 +1887,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "I[SP]may[SP]not[SP]look[SP]it,[SP]but[SP]I[SP]love[SP]antiques.[SP]I[SP]used\nto[SP]frequent[SP]places[SP]like[SP]Time[SP]Castle.[1205][000F][SP]By[SP]the\nway,[SP]do[SP]you[SP]know[SP]what[SP]a[SP]legendary[SP]weapon[SP]is?",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "J'adore les antiquités. Je fréquentais Time Castle.[1205][000F]\nAu fait, savez-vous ce qu'est une arme légendaire ?[NL]Shiraishi Ramen en aurait une.\n"
+    "texte_fr": "J'adore les antiquités. Je fréquentais Time Castle.[1205][000F]\nAu fait, savez-vous ce qu'est une arme légendaire ?[NL]Shiraishi Ramen en aurait une.\nJ'aimerais au moins la voir."
   },
   {
     "id": 126,
@@ -1917,7 +1917,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "It[SP]seems[SP]there's[SP]a[SP]legendary[SP]weapon[SP]at\nClair[SP]de[SP]Lune.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Une arme légendaire au Clair de Lune.[NL]"
+    "texte_fr": "Une arme légendaire au Clair de Lune.[NL]J'aime les antiquités.\nJ'espère au moins la voir."
   },
   {
     "id": 128,
@@ -1962,7 +1962,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "No[SP]wonder[SP]there's[SP]nothing[SP]like[SP]a[SP]legendary\nweapon[SP]at[SP]Time[SP]Castle.[SP]Apparently,[SP]it[SP]hasn't\nbeen[SP]delivered[SP]yet.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Pas étonnant qu'il n'y ait pas d'arme légendaire.\nElle n'a pas encore été livrée.[NL]"
+    "texte_fr": "Pas étonnant qu'il n'y ait pas d'arme légendaire.\nElle n'a pas encore été livrée.[NL]Le vendeur attend à l'usine abandonnée,\nmais le propriétaire a peur des monstres. Quel lâche !"
   },
   {
     "id": 131,
@@ -1977,7 +1977,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "The[SP]seller[SP]is[SP]waiting[SP]at[SP]the[SP]abandoned\nfactory,[SP]but[SP]the[SP]owner's[SP]afraid[SP]of[SP]monsters\nand[SP]won't[SP]go[SP]meet[SP]him.[SP]What[SP]a[SP]coward!",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[1106][NL]Et si c'est ce qu'il me fabrique ?[1205][000F]\n"
+    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[1106][NL]Et si c'est ce qu'il me fabrique ?[1205][000F]\nPourquoi vendre aussi des armures ?"
   },
   {
     "id": 132,
@@ -2007,7 +2007,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Augh,[SP]I[SP]was[SP]too[SP]late...[SP]Apparently[SP]a[SP]terribly\nunlucky[SP]woman[SP]bought[SP]Time[SP]Castle's[SP]legendary\nweapon[SP]before[SP]I[SP]could[SP]see[SP]it.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Trop tard. Une femme malchanceuse a acheté\nl'arme légendaire avant que je puisse la voir.[NL]Un autre amateur d'antiquités.\n"
+    "texte_fr": "Trop tard. Une femme malchanceuse a acheté\nl'arme légendaire avant que je puisse la voir.[NL]Un autre amateur d'antiquités.\nSi j'avais décidé plus tôt, j'aurais été premier. Quel dommage."
   },
   {
     "id": 134,
@@ -2022,7 +2022,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Must[SP]have[SP]been[SP]a[SP]fellow[SP]antique[SP]lover.[SP]If[SP]only\nI[SP]had[SP]made[SP]up[SP]my[SP]mind[SP]earlier,[SP]I[SP]could[SP]have\ngotten[SP]there[SP]first...[SP]What[SP]a[SP]pity.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[1106][NL]Et si c'est ce qu'il me fabrique ?[1205][000F]\n"
+    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[1106][NL]Et si c'est ce qu'il me fabrique ?[1205][000F]\nQualité et prix raisonnables, mais ce n'est pas le problème."
   },
   {
     "id": 135,
@@ -2037,7 +2037,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "Honestly,[SP]of[SP]all[SP]the[SP]luck.[SP]It[SP]seems[SP]the[SP]owner\nof[SP]Time[SP]Castle[SP]gave[SP]away[SP]that[SP]legendary[SP]weapon.",
     "nom_fr": "Employé d'âge moyen",
-    "texte_fr": "Quelle malchance. Le propriétaire a donné\nl'arme légendaire.[NL]"
+    "texte_fr": "Quelle malchance. Le propriétaire a donné\nl'arme légendaire.[NL]À une fille aux cheveux courts, dit-on.\nIndice trop vague. *soupir* Si seulement je l'avais achetée !"
   },
   {
     "id": 136,
@@ -2052,7 +2052,7 @@
     "nom_orig": "Middle-aged[SP]office[SP]worker",
     "texte_orig": "To[SP]some[SP]girl[SP]with[SP]short[SP]hair,[SP]supposedly...\nBut[SP]that's[SP]too[SP]vague[SP]a[SP]hint[SP]to[SP]go[SP]on.[SP]*sigh*\nIf[SP]only[SP]I[SP]bought[SP]it[SP]before[SP]it[SP]was[SP]gone!",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Tu connais les concours de magazines ?[1205][000F]\nOn peut gagner de vraies armes.[1106][NL]Intéressant et excitant.[1106][NL]On gagne rarement, mais beaux lots.[1205][000F]\n"
+    "texte_fr": "Tu connais les concours de magazines ?[1205][000F]\nOn peut gagner de vraies armes.[1106][NL]Intéressant et excitant.[1106][NL]On gagne rarement, mais beaux lots.[1205][000F]\nPourquoi ne pas essayer ?"
   },
   {
     "id": 137,
@@ -2067,7 +2067,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Have[SP]you[SP]heard[SP]the[SP]rumor[SP]that[SP]a[SP]woman's[SP]ghost\nis[SP]appearing[SP]in[SP]Aoba[SP]Park?[1205][000F]",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Tu as entendu ? Le fantôme d'une femme\n apparaît dans le parc d'Aoba.[1205][000F][NL]"
+    "texte_fr": "Tu as entendu ? Le fantôme d'une femme\n apparaît dans le parc d'Aoba.[1205][000F][NL]Tu crois que c'est vrai ?\nJe devrais changer mon itinéraire."
   },
   {
     "id": 138,
@@ -2082,7 +2082,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Do[SP]you[SP]think[SP]it's[SP]true?[1205][000F][SP]If[SP]it[SP]is,[SP]I[SP]ought[SP]to\nchange[SP]my[SP]daily[SP]route.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Tu connais les concours de magazines ?[1205][000F]\n"
+    "texte_fr": "Tu connais les concours de magazines ?[1205][000F]\nOn peut gagner de vraies armes.[1106][NL]Intéressant et excitant.[1106][NL]Facile à gagner, lots moyens.[1205][000F]\nPourquoi ne pas essayer quand même ?"
   },
   {
     "id": 139,
@@ -2097,7 +2097,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Wh-What[SP]are[SP]we[SP]going[SP]to[SP]do...?[SP]Even[SP]the[SP]fire\ndepartment[SP]was[SP]bombed...",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Qu'allons-nous faire... ?\nMême les pompiers ont été bombardés...[NL]"
+    "texte_fr": "Qu'allons-nous faire... ?\nMême les pompiers ont été bombardés...[NL]Personne pour éteindre les flammes\n en cas de nouvelle attaque !"
   },
   {
     "id": 140,
@@ -2112,7 +2112,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "There's[SP]no[SP]one[SP]left[SP]to[SP]put[SP]out[SP]the[SP]flames[SP]in\ncase[SP]of[SP]another[SP]attack!",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Un casino dans la salle d'arcade ?[1205][000F]\n"
+    "texte_fr": "Un casino dans la salle d'arcade ?[1205][000F]\nC'est comme ça que les bons enfants deviennent mauvais !\nHorrible ![1106][NL][1432][NULL][NULL][0014]Gros lots aux machines n°1 ![1432][NULL][NULL][0014] Pas pour des lycéens ! À signaler à l'association de parents d'élèves !"
   },
   {
     "id": 141,
@@ -2127,7 +2127,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Do[SP]you[SP]know[SP]what[SP]this[SP]Last[SP]Battalion[SP]thing[SP]is?[1205][000F]\nI[SP]hear[SP]they're[SP]the[SP]terrorists[SP]responsible[SP]for\nthe[SP]attacks,[SP]but[SP]I've[SP]never[SP]heard[SP]of[SP]them.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Tu sais ce qu'est le Dernier Bataillon ?[1205][000F]\nOn dit qu'ils sont les terroristes responsables,\nmais je n'en ai jamais entendu parler.[NL]"
+    "texte_fr": "Tu sais ce qu'est le Dernier Bataillon ?[1205][000F]\nOn dit qu'ils sont les terroristes responsables,\nmais je n'en ai jamais entendu parler.[NL]Le Cercle Masqué n'est pas le seul groupe ? Pourquoi attaquent-ils la ville !? Je ne sais pas quoi faire !"
   },
   {
     "id": 142,
@@ -2172,7 +2172,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Geez![SP]I[SP]wish[SP]they'd[SP]be[SP]more[SP]specific[SP]with[SP]the\nnews[SP]broadcasts.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Dommage qu'ils ne soient pas plus précis\naux infos.[NL]"
+    "texte_fr": "Dommage qu'ils ne soient pas plus précis\naux infos.[NL]Ils ne font que semer plus de confusion\n sur les terroristes !"
   },
   {
     "id": 145,
@@ -2187,7 +2187,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "They're[SP]just[SP]going[SP]to[SP]end[SP]up[SP]confusing[SP]more\npeople[SP]about[SP]who[SP]the[SP]terrorists[SP]are!",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Le vendeur de l'arme légendaire attend à l'usine,\nmais le proprio ne vient pas.[1106][NL]"
+    "texte_fr": "Le vendeur de l'arme légendaire attend à l'usine,\nmais le proprio ne vient pas.[1106][NL]C'est malin. L'usine grouille de monstres.\nDangereux, de toute façon."
   },
   {
     "id": 146,
@@ -2217,7 +2217,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Whew...[1205][000A][SP]Now[SP]that[SP]we're[SP]in[SP]the[SP]sky,[SP]my[SP]options\nfor[SP]walking[SP]are[SP]limited.[1205][000F][SP]Huh?[SP]Now's[SP]not[SP]the\ntime[SP]for[SP]that?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Ouf... Dans le ciel, mes options de marche sont limitées.[1205][000F]\nHein ? Ce n'est pas le moment ?[NL]"
+    "texte_fr": "Ouf... Dans le ciel, mes options de marche sont limitées.[1205][000F]\nHein ? Ce n'est pas le moment ?[NL]Inutile de paniquer. Ça a déjà trop empiré.\nJe m'en fiche qu'on évolue ou qu'on meure."
   },
   {
     "id": 148,
@@ -2232,7 +2232,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "But[SP]there's[SP]no[SP]use[SP]panicking[SP]if[SP]things[SP]have\ngotten[SP]this[SP]bad.[1205][000F][SP]I[SP]don't[SP]care[SP]anymore[SP]if[SP]we\nevolve[SP]or[SP]all[SP]die[SP]off.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Le proprio a donné l'arme à une fille aux cheveux courts.[1106][NL]C'est un joli geste, malgré tout.\n"
+    "texte_fr": "Le proprio a donné l'arme à une fille aux cheveux courts.[1106][NL]C'est un joli geste, malgré tout.\nJ'aimerais recevoir des cadeaux parfois.\nMon mari sait à peine que j'existe.[1205][000F]"
   },
   {
     "id": 149,
@@ -2247,7 +2247,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Have[SP]you[SP]heard?[1205][000F][SP]There[SP]are[SP]countless[SP]rumors\nflying[SP]around[SP]about[SP]what[SP]kind[SP]of[SP]end[SP]the\npeople[SP]below[SP]will[SP]face.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Tu as entendu ?[1205][000F]\nDes rumeurs sur la fin des gens d'en bas.[NL]La dernière : la Grande Croix provoquera\n"
+    "texte_fr": "Tu as entendu ?[1205][000F]\nDes rumeurs sur la fin des gens d'en bas.[NL]La dernière : la Grande Croix provoquera\n une tempête magnétique brûlant la Terre."
   },
   {
     "id": 150,
@@ -2262,7 +2262,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "The[SP]latest[SP]is[SP]that[SP]when[SP]the[SP]Grand[SP]Cross[SP]is\ncomplete,[SP]an[SP]intense[SP]magnetic[SP]storm[SP]will[SP]arise\nand[SP]scorch[SP]the[SP]Earth's[SP]surface.",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "Joker s'est enfui à Caracol avec les cadres ![1205][000F]\nIl nous a laissés dans la merde ![1106][NL]"
+    "texte_fr": "Joker s'est enfui à Caracol avec les cadres ![1205][000F]\nIl nous a laissés dans la merde ![1106][NL]Nos idéaux exaucés ? N'importe quoi !\nIl a juste aspiré notre Énergie Idéale pour ses propres rêves !"
   },
   {
     "id": 151,
@@ -2337,7 +2337,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "H-Hey,[SP]the[SP]rumor[SP]about[SP]that[SP]idol's[SP]ghost[SP]in\nAoba[SP]Park[SP]was[SP]real,[SP]wasn't[SP]it?[1205][000F][SP]I[SP]heard[SP]people\nin[SP]the[SP]city[SP]talking[SP]about[SP]it[SP]too!",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Hé, le fantôme de l'idole à Aoba était réel ?[1205][000F]\nJ'ai entendu des gens en parler ![NL]Qu'est-ce que je fais ?\n"
+    "texte_fr": "Hé, le fantôme de l'idole à Aoba était réel ?[1205][000F]\nJ'ai entendu des gens en parler ![NL]Qu'est-ce que je fais ?\nCela a toujours fait partie de mon itinéraire.[NL]Je ne veux pas me faire posséder. Je vais éviter de passer par ici désormais."
   },
   {
     "id": 156,
@@ -2427,7 +2427,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Hey,[SP]what's[SP]a[SP]Jumping[SP]Geezer?[1205][000F][SP]Because[SP]I[SP]heard\na[SP]rumor[SP]there's[SP]a[SP]creature[SP]called[SP]that[SP]at\nMt.[SP]Katatsumuri.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "C'est quoi un Sauteur Vieux ?[1205][000F]\nIl y en aurait un au mont Katatsumuri.[NL]"
+    "texte_fr": "C'est quoi un Sauteur Vieux ?[1205][000F]\nIl y en aurait un au mont Katatsumuri.[NL]Avec les soldats, je ne m'approchais déjà pas.\nC'est une chose après l'autre..."
   },
   {
     "id": 162,
@@ -2472,7 +2472,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Hey,[SP]did[SP]you[SP]know[SP]Giga[SP]Macho[SP]carries[SP]a\nsecret[SP]CD?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Giga Macho a un CD secret.[NL]"
+    "texte_fr": "Giga Macho a un CD secret.[NL]Il contient un morceau spécial\nqu'on n'entend nulle part ailleurs."
   },
   {
     "id": 165,
@@ -2502,7 +2502,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "The[SP]Dresser[SP]Hag's[SP]that[SP]monster[SP]that's[SP]an[SP]old\nwoman[SP]living[SP]in[SP]a[SP]dresser,[SP]right?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "La Sorcière du Buffet, c'est la vieille femme\nqui vit dans un buffet, c'est ça ?"
+    "texte_fr": "La Sorcière du Buffet, c'est la vieille femme\nqui vit dans un buffet, c'est ça ?[NL]Pourquoi à l'usine abandonnée ?\nJe ne m'en approcherai plus."
   },
   {
     "id": 167,
@@ -2532,7 +2532,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Rengedai[SP]must[SP]be[SP]a[SP]scary[SP]place...[1205][000F][SP]I[SP]mean,\nan[SP]antique[SP]shop[SP]that[SP]sells[SP]real[SP]weapons?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Rengedai doit être effrayant.[1205][000F] Une\nboutique d'antiquités qui vend des armes ?[NL]"
+    "texte_fr": "Rengedai doit être effrayant.[1205][000F] Une\nboutique d'antiquités qui vend des armes ?[NL]Qualité et prix moyens."
   },
   {
     "id": 169,
@@ -2562,7 +2562,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Rengedai[SP]must[SP]be[SP]a[SP]scary[SP]place...[1205][000F][SP]I[SP]mean,\nan[SP]antique[SP]shop[SP]that[SP]sells[SP]real[SP]weapons?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Rengedai doit être effrayant.[1205][000F] Une\nboutique d'antiquités qui vend des armes ?[NL]"
+    "texte_fr": "Rengedai doit être effrayant.[1205][000F] Une\nboutique d'antiquités qui vend des armes ?[NL]Qualité excellente, cher."
   },
   {
     "id": 171,
@@ -2592,7 +2592,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Rengedai[SP]must[SP]be[SP]a[SP]scary[SP]place...[1205][000F][SP]I[SP]mean,\nan[SP]antique[SP]shop[SP]that[SP]sells[SP]real[SP]weapons?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Rengedai doit être effrayant.[1205][000F] Une\nboutique d'antiquités qui vend des armes ?[NL]"
+    "texte_fr": "Rengedai doit être effrayant.[1205][000F] Une\nboutique d'antiquités qui vend des armes ?[NL]Qualité moyenne, mais bon marché."
   },
   {
     "id": 173,
@@ -2622,7 +2622,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "It's[SP]scary[SP]how[SP]you[SP]can[SP]get[SP]a[SP]weapon[SP]right[SP]off\nthe[SP]street[SP]in[SP]Yumezaki.[SP]I[SP]hear[SP]the[SP]selection's\ngood,[SP]but[SP]the[SP]resale[SP]prices[SP]are[SP]low.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Effrayant d'acheter des armes en pleine rue à Yumezaki.\nBon choix, reprises basses.[NL]"
+    "texte_fr": "Effrayant d'acheter des armes en pleine rue à Yumezaki.\nBon choix, reprises basses.[NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
   },
   {
     "id": 175,
@@ -2652,7 +2652,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "It's[SP]scary[SP]how[SP]you[SP]can[SP]get[SP]a[SP]weapon[SP]right[SP]off\nthe[SP]street[SP]in[SP]Yumezaki.[SP]I[SP]hear[SP]their[SP]quality's\nnot[SP]much,[SP]but[SP]the[SP]prices[SP]are[SP]low.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Effrayant d'acheter des armes en rue à Yumezaki.\nQualité médiocre, prix bas.[NL]"
+    "texte_fr": "Effrayant d'acheter des armes en rue à Yumezaki.\nQualité médiocre, prix bas.[NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
   },
   {
     "id": 177,
@@ -2682,7 +2682,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "It's[SP]scary[SP]how[SP]you[SP]can[SP]get[SP]a[SP]weapon[SP]right[SP]off\nthe[SP]street[SP]in[SP]Yumezaki.[SP]I[SP]hear[SP]their[SP]quality\nand[SP]prices[SP]are[SP]average.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Effrayant d'acheter des armes en rue à Yumezaki.\nQualité et prix moyens.[NL]"
+    "texte_fr": "Effrayant d'acheter des armes en rue à Yumezaki.\nQualité et prix moyens.[NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
   },
   {
     "id": 179,
@@ -2712,7 +2712,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "It's[SP]scary[SP]how[SP]you[SP]can[SP]get[SP]a[SP]weapon[SP]right[SP]off\nthe[SP]street[SP]in[SP]Yumezaki.[SP]I[SP]hear[SP]they're[SP]pretty\nexpensive,[SP]but[SP]very[SP]high[SP]quality.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Effrayant d'acheter des armes en rue à Yumezaki.\nChères, mais très haute qualité.[NL]"
+    "texte_fr": "Effrayant d'acheter des armes en rue à Yumezaki.\nChères, mais très haute qualité.[NL]Ceux qui les utilisent sont en faute, mais à quoi pensent les commerçants ?\nLa ville devient de plus en plus dangereuse."
   },
   {
     "id": 181,
@@ -2742,7 +2742,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Isn't[SP]Clair[SP]de[SP]Lune[SP]that[SP]French[SP]restaurant?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Clair de Lune, le restau français ?[NL]"
+    "texte_fr": "Clair de Lune, le restau français ?[NL]Ils vendent des armes ?\nPeu de choix, reprises excellentes.[NL]On commande des armes au menu ?\nQuoi qu'il en soit, ce restau est détraqué."
   },
   {
     "id": 183,
@@ -2787,7 +2787,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Isn't[SP]Clair[SP]de[SP]Lune[SP]that[SP]French[SP]restaurant?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Clair de Lune, le restau français ?[NL]"
+    "texte_fr": "Clair de Lune, le restau français ?[NL]Ils vendent des armes ?\nBon marché, mais basse qualité.[NL]On commande des armes au menu ?\nQuoi qu'il en soit, ce restau est détraqué."
   },
   {
     "id": 186,
@@ -2832,7 +2832,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Isn't[SP]Clair[SP]de[SP]Lune[SP]that[SP]French[SP]restaurant?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Clair de Lune, le restau français ?[NL]"
+    "texte_fr": "Clair de Lune, le restau français ?[NL]Ils vendent des armes ?\nQualité excellente, cher, comme leur nourriture.[NL]On commande des armes au menu ?\nQuoi qu'il en soit, ce restau est détraqué."
   },
   {
     "id": 189,
@@ -2877,7 +2877,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Isn't[SP]Clair[SP]de[SP]Lune[SP]that[SP]French[SP]restaurant?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Clair de Lune, le restau français ?[NL]"
+    "texte_fr": "Clair de Lune, le restau français ?[NL]Ils vendent des armes ?\nGrand choix, reprises assez basses.[NL]On commande des armes au menu ?\nQuoi qu'il en soit, ce restau est détraqué."
   },
   {
     "id": 192,
@@ -2922,7 +2922,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Isn't[SP]Clair[SP]de[SP]Lune[SP]that[SP]French[SP]restaurant?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Clair de Lune, le restau français ?[NL]"
+    "texte_fr": "Clair de Lune, le restau français ?[NL]Ils vendent des armes ?\nQualité et prix moyens.[NL]On commande des armes au menu ?\nQuoi qu'il en soit, ce restau est détraqué."
   },
   {
     "id": 195,
@@ -3042,7 +3042,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Hey,[SP]have[SP]you[SP]heard?[SP]Rosa[SP]Candida[SP]in[SP]Rengedai\nsells[SP]real[SP]armor.[SP]Their[SP]quality[SP]and[SP]prices\nseem[SP]to[SP]be[SP]average.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Le Rosa Candida de Rengedai vend des armures.\nQualité et prix moyens.[NL]Je ne sais si c'est vrai,\n"
+    "texte_fr": "Le Rosa Candida de Rengedai vend des armures.\nQualité et prix moyens.[NL]Je ne sais si c'est vrai,\nmais je vais vérifier. Intéressant."
   },
   {
     "id": 203,
@@ -3102,7 +3102,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Hey,[SP]have[SP]you[SP]heard?[SP]Rosa[SP]Candida[SP]in[SP]Rengedai\nsells[SP]real[SP]armor.[SP]They're[SP]expensive,[SP]but[SP]the\nquality[SP]is[SP]amazing.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Rosa Candida vend des armures.\nCher, mais qualité incroyable.[NL]Je ne sais si c'est vrai,\n"
+    "texte_fr": "Rosa Candida vend des armures.\nCher, mais qualité incroyable.[NL]Je ne sais si c'est vrai,\nmais je vais vérifier. Intéressant."
   },
   {
     "id": 207,
@@ -3132,7 +3132,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "My[SP]daughter[SP]often[SP]shops[SP]at[SP]Anima[SP]Mundi.[SP]They\nsell[SP]armor[SP]too,[SP]right?[SP]People[SP]say[SP]their\nquality[SP]and[SP]prices[SP]are[SP]average.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Ma fille va souvent chez Anima Mundi. Ils\nvendent des armures ? Qualité et prix moyens.[NL]"
+    "texte_fr": "Ma fille va souvent chez Anima Mundi. Ils\nvendent des armures ? Qualité et prix moyens.[NL]J'espère qu'elle n'achète rien de bizarre..."
   },
   {
     "id": 209,
@@ -3252,7 +3252,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "It[SP]seems[SP]the[SP]Rosa[SP]Candida[SP]here[SP]sells[SP]real\narmor,[SP]too.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Rosa Candida ici vend aussi des armures.[NL]"
+    "texte_fr": "Rosa Candida ici vend aussi des armures.[NL]Peu de choix, reprises élevées."
   },
   {
     "id": 217,
@@ -3282,7 +3282,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "It[SP]seems[SP]the[SP]Rosa[SP]Candida[SP]here[SP]sells[SP]real\narmor,[SP]too.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Rosa Candida ici vend aussi des armures.[NL]"
+    "texte_fr": "Rosa Candida ici vend aussi des armures.[NL]Qualité et prix moyens."
   },
   {
     "id": 219,
@@ -3312,7 +3312,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "It[SP]seems[SP]the[SP]Rosa[SP]Candida[SP]here[SP]sells[SP]real\narmor,[SP]too.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Rosa Candida ici vend aussi des armures.[NL]"
+    "texte_fr": "Rosa Candida ici vend aussi des armures.[NL]Qualité excellente, cher."
   },
   {
     "id": 221,
@@ -3342,7 +3342,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "It[SP]seems[SP]the[SP]Rosa[SP]Candida[SP]here[SP]sells[SP]real\narmor,[SP]too.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Rosa Candida ici vend aussi des armures.[NL]"
+    "texte_fr": "Rosa Candida ici vend aussi des armures.[NL]Bon marché, qualité plutôt basse."
   },
   {
     "id": 223,
@@ -3372,7 +3372,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "It[SP]seems[SP]the[SP]Rosa[SP]Candida[SP]here[SP]sells[SP]real\narmor,[SP]too.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Rosa Candida ici vend aussi des armures.[NL]"
+    "texte_fr": "Rosa Candida ici vend aussi des armures.[NL]Grand choix, reprises basses."
   },
   {
     "id": 225,
@@ -3402,7 +3402,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "What[SP]should[SP]I[SP]do...?[SP]I'm[SP]having[SP]London[SP]Clothier\ntailor[SP]a[SP]new[SP]suit[SP]for[SP]me.[1205][000F][SP]But[SP]don't[SP]they[SP]also\nsell[SP]armor[SP]there?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]"
+    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]Et si c'est ce qu'il me fabrique ?\nPourquoi vendre aussi des armures ?"
   },
   {
     "id": 227,
@@ -3432,7 +3432,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "What[SP]should[SP]I[SP]do...?[SP]I'm[SP]having[SP]London[SP]Clothier\ntailor[SP]a[SP]new[SP]suit[SP]for[SP]me.[1205][000F][SP]But[SP]don't[SP]they[SP]also\nsell[SP]armor[SP]there?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]"
+    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]Et si c'est ce qu'il me fabrique ?\nBon marché, mais je ne peux pas travailler en armure !"
   },
   {
     "id": 229,
@@ -3462,7 +3462,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "What[SP]should[SP]I[SP]do...?[SP]I'm[SP]having[SP]London[SP]Clothier\ntailor[SP]a[SP]new[SP]suit[SP]for[SP]me.[1205][000F][SP]But[SP]don't[SP]they[SP]also\nsell[SP]armor[SP]there?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]"
+    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]Et si c'est ce qu'il me fabrique ?\nQualité excellente, mais si ça me ruine, à quoi bon !"
   },
   {
     "id": 231,
@@ -3492,7 +3492,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "What[SP]should[SP]I[SP]do...?[SP]I'm[SP]having[SP]London[SP]Clothier\ntailor[SP]a[SP]new[SP]suit[SP]for[SP]me.[1205][000F][SP]But[SP]don't[SP]they[SP]also\nsell[SP]armor[SP]there?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]"
+    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]Et si c'est ce qu'il me fabrique ?\nQualité et prix raisonnables, mais ce n'est pas le problème."
   },
   {
     "id": 233,
@@ -3522,7 +3522,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "What[SP]should[SP]I[SP]do...?[SP]I'm[SP]having[SP]London[SP]Clothier\ntailor[SP]a[SP]new[SP]suit[SP]for[SP]me.[1205][000F][SP]But[SP]don't[SP]they[SP]also\nsell[SP]armor[SP]there?",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]"
+    "texte_fr": "Je fais faire un costume chez London Clothier.[1205][000F]\nMais ils vendent aussi des armures ?[NL]Et si c'est ce qu'il me fabrique ?\nBonnes reprises, mais pas de remboursement intégral, si ?"
   },
   {
     "id": 235,
@@ -3552,7 +3552,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Do[SP]you[SP]know[SP]about[SP]the[SP]magazine[SP]sweepstakes?[1205][000F]\nI[SP]hear[SP]you[SP]can[SP]win[SP]real[SP]weapons[SP]and[SP]items.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Tu connais les concours de magazines ?[1205][000F]\nOn peut gagner de vraies armes.[NL]"
+    "texte_fr": "Tu connais les concours de magazines ?[1205][000F]\nOn peut gagner de vraies armes.[NL]Intéressant et excitant.[NL]On gagne rarement, mais beaux lots.\nPourquoi ne pas essayer ?"
   },
   {
     "id": 237,
@@ -3597,7 +3597,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Do[SP]you[SP]know[SP]about[SP]the[SP]magazine[SP]sweepstakes?[1205][000F]\nI[SP]hear[SP]you[SP]can[SP]win[SP]real[SP]weapons[SP]and[SP]items.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Tu connais les concours de magazines ?[1205][000F]\nOn peut gagner de vraies armes.[NL]"
+    "texte_fr": "Tu connais les concours de magazines ?[1205][000F]\nOn peut gagner de vraies armes.[NL]Intéressant et excitant.[NL]Très rare de gagner, lots incroyables.\nPourquoi ne pas essayer ?"
   },
   {
     "id": 240,
@@ -3642,7 +3642,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Do[SP]you[SP]know[SP]about[SP]the[SP]magazine[SP]sweepstakes?[1205][000F]\nI[SP]hear[SP]you[SP]can[SP]win[SP]real[SP]weapons[SP]and[SP]items.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Tu connais les concours de magazines ?[1205][000F]\nOn peut gagner de vraies armes.[NL]"
+    "texte_fr": "Tu connais les concours de magazines ?[1205][000F]\nOn peut gagner de vraies armes.[NL]Intéressant et excitant.[NL]Facile à gagner, lots moyens.\nPourquoi ne pas essayer quand même ?"
   },
   {
     "id": 243,
@@ -3687,7 +3687,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Is[SP]it[SP]true[SP]they[SP]put[SP]up[SP]a[SP]casino[SP]inside[SP]the\narcade?[1205][000F][SP]That's[SP]how[SP]good[SP]kids[SP]go[SP]bad![SP]I[SP]was\nhorrified[SP]to[SP]hear[SP]about[SP]it!",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Un casino dans la salle d'arcade ?[1205][000F]\nC'est comme ça que les bons enfants deviennent mauvais !\nHorrible ![NL][NULL][NULL]"
+    "texte_fr": "Un casino dans la salle d'arcade ?[1205][000F]\nC'est comme ça que les bons enfants deviennent mauvais !\nHorrible ![NL][NULL][NULL]On peut gagner gros au poker ![NULL][NULL] Pas une conversation pour des lycéens ! Je devrais le signaler à l'association de parents d'élèves !"
   },
   {
     "id": 246,
@@ -3717,7 +3717,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Is[SP]it[SP]true[SP]they[SP]put[SP]up[SP]a[SP]casino[SP]inside[SP]the\narcade?[1205][000F][SP]That's[SP]how[SP]good[SP]kids[SP]go[SP]bad![SP]I[SP]was\nhorrified[SP]to[SP]hear[SP]about[SP]it!",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Un casino dans la salle d'arcade ?[1205][000F]\nC'est comme ça que les bons enfants deviennent mauvais !\nHorrible ![NL][NULL][NULL]"
+    "texte_fr": "Un casino dans la salle d'arcade ?[1205][000F]\nC'est comme ça que les bons enfants deviennent mauvais !\nHorrible ![NL][NULL][NULL]Gros lots aux machines n°1 ![NULL][NULL] Pas pour des lycéens ! À signaler à l'association de parents d'élèves !"
   },
   {
     "id": 248,
@@ -3747,7 +3747,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Is[SP]it[SP]true[SP]they[SP]put[SP]up[SP]a[SP]casino[SP]inside[SP]the\narcade?[1205][000F][SP]That's[SP]how[SP]good[SP]kids[SP]go[SP]bad![SP]I[SP]was\nhorrified[SP]to[SP]hear[SP]about[SP]it!",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Un casino dans la salle d'arcade ?[1205][000F]\nC'est comme ça que les bons enfants deviennent mauvais !\nHorrible ![NL]"
+    "texte_fr": "Un casino dans la salle d'arcade ?[1205][000F]\nC'est comme ça que les bons enfants deviennent mauvais !\nHorrible ![NL]Où ai-je entendu ça ? Un jeune homme se vantait d'avoir gagné gros au blackjack."
   },
   {
     "id": 250,
@@ -3837,7 +3837,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "From[SP]what[SP]I've[SP]heard,[SP]the[SP]seller[SP]with[SP]Time\nCastle's[SP]legendary[SP]weapon[SP]is[SP]waiting[SP]at[SP]the\nabandoned[SP]factory,[SP]but[SP]the[SP]owner[SP]won't[SP]come.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Le vendeur de l'arme légendaire attend à l'usine,\nmais le proprio ne vient pas.[NL]C'est malin. L'usine grouille de monstres.\n"
+    "texte_fr": "Le vendeur de l'arme légendaire attend à l'usine,\nmais le proprio ne vient pas.[NL]C'est malin. L'usine grouille de monstres.\nDangereux, de toute façon."
   },
   {
     "id": 256,
@@ -3867,7 +3867,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "Oh,[SP]did[SP]you[SP]hear?[SP]A[SP]demon[SP]stole[SP]that[SP]legendary\nweapon[SP]at[SP]Time[SP]Castle.[SP]Not[SP]long[SP]ago,[SP]I'd[SP]never\nhave[SP]believed[SP]it...",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Un démon a volé l'arme légendaire de Time Castle.\nJe ne l'aurais jamais cru avant.[NL]"
+    "texte_fr": "Un démon a volé l'arme légendaire de Time Castle.\nJe ne l'aurais jamais cru avant.[NL]Mais regarde-nous : on est sur une ville flottante !\nLes démons existent forcément. Brrr... Effrayant."
   },
   {
     "id": 258,
@@ -3897,7 +3897,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "The[SP]legendary[SP]weapon[SP]at[SP]Time[SP]Castle[SP]was[SP]sold.\nPeople[SP]keep[SP]asking[SP]me,[SP][1432][NULL][NULL][0014]Did[SP]you[SP]buy[SP]it?[1432][NULL][NULL][0014]",
     "nom_fr": "Promeneuse",
-    "texte_fr": "L'arme légendaire a été vendue.\nOn me demande sans cesse : [1432][NULL][NULL][0014]C'est toi qui l'as achetée ?[1432][NULL][NULL][0014]"
+    "texte_fr": "L'arme légendaire a été vendue.\nOn me demande sans cesse : [1432][NULL][NULL][0014]C'est toi qui l'as achetée ?[1432][NULL][NULL][0014][NL]Non, une femme l'a achetée.\nJe n'ai pas l'air si désespérée, si ?"
   },
   {
     "id": 260,
@@ -3927,7 +3927,7 @@
     "nom_orig": "Walking[SP]woman",
     "texte_orig": "The[SP]owner[SP]of[SP]Time[SP]Castle[SP]gave[SP]away[SP]that\nlegendary[SP]weapon[SP]to[SP]a[SP]girl[SP]with[SP]short[SP]hair.",
     "nom_fr": "Promeneuse",
-    "texte_fr": "Le proprio a donné l'arme à une fille aux cheveux courts.[NL]"
+    "texte_fr": "Le proprio a donné l'arme à une fille aux cheveux courts.[NL]C'est un joli geste, malgré tout.\nJ'aimerais recevoir des cadeaux parfois.\nMon mari sait à peine que j'existe."
   },
   {
     "id": 262,
@@ -3957,7 +3957,7 @@
     "nom_orig": "Man",
     "texte_orig": "Would[SP]you[SP]believe[SP]me[SP]if[SP]I[SP]said[SP][E4][NULL][NULL][0006]flowers[SP]can\ntalk[E4][NULL][NULL][0002]?[1205][000F][SP]Most[SP]people[SP]wouldn't.[SP]But[SP]there[SP]is\nsomeone[SP]in[SP]this[SP]park[SP]who[SP]speaks[SP]to[SP]flowers.",
     "nom_fr": "Homme",
-    "texte_fr": "Croirais-tu que [E4][NULL][NULL][0006]les fleurs peuvent parler[E4][NULL][NULL][0002] ?[1205][000F]\nLa plupart non. Mais quelqu'un ici parle aux fleurs.[NL]"
+    "texte_fr": "Croirais-tu que [E4][NULL][NULL][0006]les fleurs peuvent parler[E4][NULL][NULL][0002] ?[1205][000F]\nLa plupart non. Mais quelqu'un ici parle aux fleurs.[NL]Il s'occupe des fleurs et leur parle.\nOn dit qu'elles lui répondent.[NL]Au final, c'est toi qui décides du réel. Si tu es fatigué de cette triste réalité, parle aux fleurs."
   },
   {
     "id": 264,
@@ -4002,7 +4002,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Dammit,[SP]that[SP]Joker[SP]ran[SP]off[SP]to[SP]Caracol[SP]along\nwith[SP]the[SP]executives![1205][000F][SP]He's[SP]left[SP]us[SP]holding[SP]the\nbag[SP]here!",
     "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "Joker s'est enfui à Caracol avec les cadres ![1205][000F]\nIl nous a laissés dans la merde ![NL]"
+    "texte_fr": "Joker s'est enfui à Caracol avec les cadres ![1205][000F]\nIl nous a laissés dans la merde ![NL]Nos idéaux exaucés ? N'importe quoi !\nIl a juste aspiré notre Énergie Idéale pour ses propres rêves !"
   },
   {
     "id": 267,
@@ -4077,7 +4077,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Huh?[SP]It[SP]says,[SP][1432][NULL][NULL][0014]No[SP]entry.[1432][NULL][NULL][0014]",
     "nom_fr": "Michel",
-    "texte_fr": "Hein ?[SP][1432][NULL][NULL][0014]Entrée interdite.[1432][NULL][NULL]"
+    "texte_fr": "Hein ?[SP][1432][NULL][NULL][0014]Entrée interdite.[1432][NULL][NULL][0014]"
   },
   {
     "id": 272,
@@ -4092,7 +4092,7 @@
     "nom_orig": "Maya",
     "texte_orig": "The[SP]fire[SP]department[SP]burned[SP]down...[SP]Don't[SP]tell\nme[SP]King[SP]Leo[SP]planned[SP]ahead![SP]No...!",
     "nom_fr": "Maya",
-    "texte_fr": "Les pompiers ont brûlé... Dis-moi que non.\n"
+    "texte_fr": "Les pompiers ont brûlé... Dis-moi que non.\nLe Roi Lion a tout planifié ? Non... !"
   },
   {
     "id": 273,
@@ -4152,7 +4152,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "We[SP]couldn't[SP]stop[SP]any[SP]of[SP]them[SP]from[SP]burning\ndown...[SP]I'm[SP]so[SP]mad[SP]at[SP]myself...",
     "nom_fr": "Ginko",
-    "texte_fr": "On a pu empêcher aucun incendie...\n"
+    "texte_fr": "On a pu empêcher aucun incendie...\nJe suis tellement en colère contre moi..."
   },
   {
     "id": 277,
@@ -4287,7 +4287,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "H-Hold[SP]the[SP]phone,[SP]man.[1205][000F][SP]We're[SP]still[SP]not[SP]done\nwith[SP]Scorpio[SP]Temple.[1205][000F][SP]Let's[SP]go[SP]grab[SP]the[SP]skull\nfrom[SP]there[SP]first.",
     "nom_fr": "Michel",
-    "texte_fr": "A-Attends, mec.[1205][000F] On n'a pas fini avec\ntemple du Scorpion.[1205][000F] Prenons ce crâne d'abord.[NL]"
+    "texte_fr": "A-Attends, mec.[1205][000F] On n'a pas fini avec\ntemple du Scorpion.[1205][000F] Prenons ce crâne d'abord.[NL]Attends. On n'a pas fini avec\nle temple du Verseau."
   },
   {
     "id": 286,
