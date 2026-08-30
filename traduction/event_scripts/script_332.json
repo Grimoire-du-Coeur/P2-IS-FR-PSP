@@ -836,7 +836,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Tony",
-    "texte_fr": "De quoi qu'on parle?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "De quoi qu'on parle?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1006,7 +1006,7 @@
     "nom_orig": "Tony",
     "texte_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Tony",
-    "texte_fr": "De quoi qu'on parle?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "De quoi qu'on parle?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "What[SP]you[SP]wanna[SP]we[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1961,7 +1961,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "That's[SP]right![SP]We[SP]of[SP]the[SP]Masked[SP]Circle[SP]set[SP]fire\nto[SP]the[SP]concert[SP]hall[SP]and[SP]police[SP]headquarters!\nFear[SP]the[SP]power[SP]of[SP]the[SP]Masked[SP]Circle!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Exact! Le Cercle masqué a mis le feu\nà la salle de concert et au QG de\nla police! Craignez notre pouvoir!"
   },
   {
@@ -1976,7 +1976,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "If[SP]you[SP]want[SP]to[SP]run,[SP]you[SP]can[SP]go[SP]alone![SP]These\nbombings[SP]are[SP]part[SP]of[SP]Joker's[SP]plan![SP]We'll[SP]see\nit[SP]through[SP]to[SP]the[SP]very[SP]end!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Si tu veux fuir, vas-y seul! Ces\nattentats font partie du plan du\nJoker ! On ira jusqu'au bout!"
   },
   {
@@ -1991,7 +1991,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "If[SP]you[SP]want[SP]to[SP]run,[SP]you[SP]can[SP]go[SP]alone![SP]These\nbombings[SP]are[SP]part[SP]of[SP]Joker's[SP]plan![SP]We'll[SP]see\nit[SP]through[SP]to[SP]the[SP]very[SP]end!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Si tu veux fuir, vas-y seul! Ces\nattentats font partie du plan du\nJoker ! On ira jusqu'au bout!"
   },
   {
@@ -2006,7 +2006,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "The[SP]writings[SP]of[SP]the[SP]In[SP]Lak'ech[SP]are[SP]similar[SP]to\nJoker's[SP]teachings...[SP]Did[SP]one[SP]of[SP]our[SP]executives\nleak[SP]that[SP]manuscript!?",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Les écrits d'In Lak'ech ressemblent\naux enseignements du Joker... L'un de\nnos cadres a-t-il fuité ce manuscrit!?"
   },
   {
@@ -2021,7 +2021,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "B-But[SP]Pappy...[1205][000F][SP]It's[SP]the[SP]responsibility[SP]of[SP]we\nin[SP]the[SP]Masked[SP]Circle[SP]to[SP]protect[SP]this[SP]city[SP]from\nthem![SP]Let[SP]me[SP]go!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "M-Mais Papy...[1205][000F] C'est la responsabilité\ndu Cercle masqué de protéger\ncette ville d'eux! Lâche-moi!"
   },
   {

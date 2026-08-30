@@ -11,7 +11,7 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "We[SP]have[SP]to[SP]get[SP]that[SP]skull[SP]back[SP]to[SP]turn[SP]Ken[SP]and\nthe[SP]others[SP]back[SP]to[SP]normal...[1205][000F][SP]Anyway,[SP]we[SP]still\nhaven't[SP]dealt[SP]with[SP]the[SP]temple[SP]in[SP]Yumezaki.",
-    "nom_fr": "[NULL][E4][NULL][NULL]\"Eikichi",
+    "nom_fr": "Eikichi",
     "texte_fr": "Il faut récupérer ce crâne pour ramener\nKen et les autres à la normale...[1205][000F] Temple de Yumezaki toujours en suspens."
   },
   {
@@ -131,7 +131,7 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "I'm[SP]going[SP]to[SP]give[SP]them[SP]back[SP]their[SP]Ideal[SP]Energy\nsomeday...[1205][000F][SP]Count[SP]on[SP]it.",
-    "nom_fr": "",
+    "nom_fr": "Ginko",
     "texte_fr": "Je vais leur rendre leur Énergie\nIdéale un jour...[1205][000F] Comptez sur moi."
   },
   {
@@ -146,7 +146,7 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "Sheba...[SP]Mee-ho...[1205][000F][SP]Can[SP]I[SP]really[SP]get[SP]them[SP]back?[1205][000F]\nAren't[SP]you[SP]worried,[SP]Eikichi?",
-    "nom_fr": "",
+    "nom_fr": "Ginko",
     "texte_fr": "Sheba...[1205][000F] Mee-ho... Je peux vraiment les\nretrouver? Tu t'inquiètes pas, Eikichi?"
   },
   {
@@ -161,7 +161,7 @@
     ],
     "nom_orig": "Ginko",
     "texte_orig": "You[SP]might[SP]not[SP]get[SP]your[SP]friends[SP]back[SP]either.[1205][000F]\nAnd[SP]if[SP]not...[SP]what[SP]are[SP]we[SP]fighting[SP]for...?",
-    "nom_fr": "",
+    "nom_fr": "Ginko",
     "texte_fr": "Tu ne retrouveras peut-être pas\ntes amis non plus. [1205][000F]Et si c'est\nle cas... pour quoi se bat-on...?"
   },
   {
@@ -369,7 +369,7 @@
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Yeah,[SP]what's[SP]up.\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gamin fainéant",
-    "texte_fr": "Ouais, quoi?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ouais, quoi?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Yeah,[SP]what's[SP]up.",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -422,7 +422,7 @@
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Yeah,[SP]what's[SP]up.\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gamin fainéant",
-    "texte_fr": "Ouais, quoi?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ouais, quoi?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Yeah,[SP]what's[SP]up.",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -492,7 +492,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Heehehehe...[1205][000F][SP]If[SP]we're[SP]on[SP]Xibalba,[SP]we'll[SP]be\nevolving[SP]soon![1205][000F][SP]Why[SP]did[SP]Joker[SP]have[SP]to[SP]ask[SP]us\nto[SP]do[SP]this[SP]now!?",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Héhéhéhé...[1205][000F] Sur Xibalba on\nva bientôt évoluer! Pourquoi\nJoker nous fait ça maintenant!?"
   },
   {
@@ -507,7 +507,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I-I[SP]can't[SP]fight[SP]the[SP]Last[SP]Battalion[SP]knowing\nthat![1205][000F][SP]I'm[SP]going[SP]to[SP]survive.[1205][000F][SP]I'll[SP]survive[SP]and\nbecome[SP]an[SP]Idealian!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "J-Je peux pas combattre le Bataillon\n[1205][000F]sachant ça! Je vais survivre. Je\nsurvivrai et deviendrai Idéalien!"
   },
   {
@@ -840,7 +840,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]wonder,[SP]how[SP]will[SP]the[SP]world[SP]end?[SP]I[SP]can't[SP]get\ntoo[SP]worked[SP]up[SP]about[SP]it[SP]this[SP]late[SP]in[SP]the[SP]game...\nThink[SP]I'll[SP]look[SP]it[SP]up[SP]on[SP]the[SP]Internet.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Je me demande comment le monde va\nfinir? Ça m'emballe plus trop à ce\nstade... Je vais chercher sur Internet."
   },
   {
@@ -855,7 +855,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Wow,[SP]listen[SP]to[SP]what[SP]I[SP]found[SP]out.[1205][000F][SP]When[SP]the\nGrand[SP]Cross[SP]is[SP]complete,[SP]the[SP]gravity[SP]of[SP]the\nplanets[SP]will[SP]cause[SP]the[SP]stars[SP]to[SP]collide.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Wow, écoutez ça. [1205][000F]Quand la Grande\nCroix sera complète, la gravité\nfera percuter les étoiles."
   },
   {
@@ -870,7 +870,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "But[SP]I[SP]thought[SP]just[SP]the[SP]Earth[SP]was[SP]supposed[SP]to\nbe[SP]destroyed.[1205][000F][SP]If[SP]that[SP]happens,[SP]won't[SP]we[SP]be\nin[SP]trouble[SP]up[SP]here[SP]too?",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Je croyais que c'était juste la\nTerre qui serait détruite. [1205][000F]Si ça\narrive, on est en danger ici aussi?"
   },
   {
@@ -885,7 +885,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Ooh,[SP]here's[SP]another[SP]theory[SP]online.[1205][000F][SP]When[SP]the\nGrand[SP]Cross[SP]is[SP]done,[SP]gravity[SP]will[SP]become[SP]much\nheavier[SP]and[SP]the[SP]continents[SP]will[SP]sink.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Oh, une autre théorie en ligne. [1205][000F]Quand\nla Grande Croix sera là, la gravité sera\nsi forte que les continents couleront."
   },
   {
@@ -900,7 +900,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Wait,[SP]why[SP]would[SP]that[SP]cause[SP]the[SP]continents[SP]to\nsink?[1205][000F][SP]Seems[SP]pretty[SP]fishy.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Pourquoi ça ferait couler[1205][000F]\nles continents? Douteux."
   },
   {
@@ -915,7 +915,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "L-Listen[SP]to[SP]this[SP]one...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "É-Écoutez ça..."
   },
   {
@@ -930,7 +930,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "When[SP]the[SP]Grand[SP]Cross[SP]is[SP]complete,[SP]the[SP]balance\nof[SP]gravity[SP]between[SP]the[SP]planets[SP]will[SP]be[SP]broken,\ncausing[SP]the[SP]Earth's[SP]rotation[SP]to[SP]stop.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Quand la Grande Croix sera là,\nl'équilibre gravitationnel sera rompu,\narrêtant la rotation de la Terre."
   },
   {
@@ -945,7 +945,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "It[SP]has[SP]elements[SP]of[SP]all[SP]the[SP]previous[SP]theories,\nbut[SP]this[SP]one[SP]sounds[SP]scarily[SP]plausible.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Des éléments des théories précédentes,\nmais celle-là semble plausible."
   },
   {
@@ -960,7 +960,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]that[SP]ghost[SP]Hanako[SP]has[SP]been[SP]sighted\nat[SP]Sevens...[1205][000F][SP]Can't[SP]believe[SP]she[SP]really[SP]exists.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Le fantôme Hanako aperçu au Seven...[1205][000F] Je crois pas qu'elle existe vraiment."
   },
   {
@@ -975,7 +975,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "This[SP]is[SP]just[SP]something[SP]I[SP]saw[SP]around[SP]the[SP]net,\nbut[SP]apparently[SP]Bukimi[SP]is[SP]haunting[SP]Kasugayama\nHigh[SP]School[SP]in[SP]Hirasaka.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vu sur le net: Bukimi hanterait\nle lycée de Kasugayama à Hirasaka."
   },
   {
@@ -990,7 +990,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "A[SP]girl[SP]I[SP]met[SP]online[SP]told[SP]me[SP]there's[SP]an[SP]idol\nsinger's[SP]ghost[SP]at[SP]Aoba[SP]Park.[1205][000F][SP]Maybe[SP]I[SP]should\ngo[SP]take[SP]a[SP]picture.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Une fille en ligne m'a dit qu'il\ny a le fantôme d'une idole au\n[1205][000F]parc Aoba. Je devrais aller voir."
   },
   {
@@ -1005,7 +1005,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Have[SP]you[SP]heard[SP]of[SP]the[SP]Cursed[SP]Taxi?[1205][000F][SP]It[SP]goes[SP]out\nat[SP]night[SP]to[SP]run[SP]people[SP]over.[1205][000F][SP]I[SP]hear[SP]in[SP]the[SP]day,\nit's[SP]parked[SP]at[SP]the[SP]abandoned[SP]factory.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vous connaissez le Taxi Maudit? [1205][000F]Il\nsort la nuit écraser des gens. Le\njour, garé à la fabrique abandonnée."
   },
   {
@@ -1020,7 +1020,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Someone[SP]posted[SP]a[SP]retraction[SP]online[SP]about[SP]that\nCursed[SP]Taxi[SP]at[SP]the[SP]abandoned[SP]factory.[1205][000F][SP]Says[SP]it\nwas[SP]actually[SP]a[SP]Cursed[SP]Escort.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Quelqu'un a posté un démenti sur le\nTaxi Maudit à la fabrique abandonnée.\n[1205]Il dit que c'était une Escorte Maudite."
   },
   {
@@ -1035,7 +1035,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]just[SP]saw[SP]online[SP]that[SP]Kuchisake-onna[SP]has\nbeen[SP]seen[SP]at[SP]Mt.[SP]Iwato.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vu en ligne que Kuchisake-onna\na été aperçue au mont Iwato."
   },
   {
@@ -1050,7 +1050,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "There[SP]sure[SP]is[SP]some[SP]strange[SP]stuff[SP]going[SP]on[SP]in\nthis[SP]city.[SP]Like[SP]that[SP]Masked[SP]Circle...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Il se passe des trucs bizarres dans\ncette ville. Ce Cercle Masqué..."
   },
   {
@@ -1065,7 +1065,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Do[SP]you[SP]know[SP]about[SP]the[SP]Jumping[SP]Geezer?[SP]He's\napparently[SP]a[SP]monster[SP]at[SP]Mt.[SP]Katatsumuri.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vous connaissez le Vieux Sauteur?\nUn monstre au mont Katatsumuri."
   },
   {
@@ -1080,7 +1080,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Yeah...[SP]I[SP]mean,[SP]it's[SP]really[SP]scary[SP]when[SP]they[SP]put\nit[SP]that[SP]way...[1205][000F][SP]Hm?[1205][000A][SP]Oh,[SP]I[SP]was[SP]talking[SP]about\nKudan.[1205][000F][SP]*sigh*[SP]Best[SP]to[SP]put[SP]it[SP]out[SP]of[SP]mind.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Ouais... Je veux dire, ça fait\nvraiment peur dit comme ça...[1205][000F] Hm? Oh, je parlais de Kudan. *soupir*\nMieux vaut ne plus y penser."
   },
   {
@@ -1095,7 +1095,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Heheh,[SP]I[SP]really[SP]love[SP]secret[SP]stuff.[SP]Like[SP]that\nsecret[SP]CD[SP]at[SP]Giga[SP]Macho.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Héhéh, j'adore les secrets.\nComme ce CD chez Giga Macho."
   },
   {
@@ -1110,7 +1110,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]wonder[SP]what[SP]tracks[SP]are[SP]on[SP]it...?[1205][000F][SP]I[SP]need[SP]to\nget[SP]ahold[SP]of[SP]a[SP]copy[SP]and[SP]find[SP]out[SP]for[SP]myself.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Je me demande quels morceaux...[1205][000F] Il faut\nque j'en procure un pour le découvrir."
   },
   {
@@ -1125,7 +1125,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "What[SP]the[SP]hell's[SP]a[SP]Dresser[SP]Hag?[1205][000F][SP]Some[SP]kind[SP]of\nmonster?",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "C'est quoi la Vieille [1205][000F]du Tiroir? Un monstre?"
   },
   {
@@ -1140,7 +1140,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "It[SP]brings[SP]kind[SP]of[SP]a[SP]strange[SP]image[SP]to[SP]mind...[1205][000F]\nI[SP]wish[SP]I[SP]could[SP]see[SP]the[SP]real[SP]thing.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Ça évoque une image assez étrange...[1205][000F] J'aimerais voir ça pour de vrai."
   },
   {
@@ -1155,7 +1155,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]saw[SP]on[SP]the[SP]Internet[SP]that[SP]this[SP]antique[SP]shop\ncalled[SP]Time[SP]Castle[SP]sells[SP]real[SP]weapons.[SP]Their\nquality[SP]and[SP]prices[SP]are[SP]normal.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vu sur Internet que Time Castle vend de\nvraies armes. Qualité et prix normaux."
   },
   {
@@ -1170,7 +1170,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]saw[SP]on[SP]the[SP]Internet[SP]that[SP]this[SP]antique[SP]shop\ncalled[SP]Time[SP]Castle[SP]sells[SP]real[SP]weapons.[SP]The\nquality's[SP]good,[SP]but[SP]they're[SP]expensive.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "J'ai vu sur Internet que cette boutique\nantique Time Castle vend de vraies\narmes. Bonne qualité, mais chers."
   },
   {
@@ -1185,7 +1185,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]saw[SP]on[SP]the[SP]Internet[SP]that[SP]this[SP]antique[SP]shop\ncalled[SP]Time[SP]Castle[SP]sells[SP]real[SP]weapons.[SP]Their\nstuff's[SP]cheap,[SP]but[SP]it's[SP]low[SP]quality.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "J'ai vu sur Internet que cette boutique\nantique Time Castle vend de vraies\narmes. Pas cher, mais qualité basse."
   },
   {
@@ -1200,7 +1200,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Tony's[SP]that[SP]weird[SP]white[SP]dude,[SP]right?[SP]I[SP]hear\nhe's[SP]a[SP]gunrunner.[SP]His[SP]selection's[SP]pretty\ngood,[SP]but[SP]his[SP]buyback[SP]prices[SP]are[SP]lousy.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Tony, c'est ce drôle de type blanc, non?\nJ'ai entendu qu'il trafique des armes.\nBon choix, mais mauvais prix de reprise."
   },
   {
@@ -1215,7 +1215,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Tony's[SP]that[SP]weird[SP]white[SP]dude,[SP]right?[SP]I[SP]hear\nhe's[SP]a[SP]gunrunner.[SP]His[SP]stuff[SP]is[SP]cheap,[SP]but\nit's[SP]not[SP]good[SP]quality.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Tony, ce drôle de type blanc,\nnon? Il trafique des armes. Pas\ncher, mais qualité médiocre."
   },
   {
@@ -1230,7 +1230,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Tony's[SP]that[SP]weird[SP]white[SP]dude,[SP]right?[SP]I[SP]hear\nhe's[SP]a[SP]gunrunner.[SP]His[SP]prices[SP]and[SP]quality[SP]are\nboth[SP]pretty[SP]standard.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Tony, ce drôle de type blanc,\nnon? Il trafique des armes.\nPrix et qualité dans la moyenne."
   },
   {
@@ -1245,7 +1245,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Tony's[SP]that[SP]weird[SP]white[SP]dude,[SP]right?[SP]I[SP]hear\nhe's[SP]a[SP]gunrunner.[SP]The[SP]quality[SP]of[SP]his[SP]stuff\nis[SP]great,[SP]but[SP]the[SP]prices[SP]are[SP]really[SP]high.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Tony, c'est ce drôle de type blanc, non?\nJ'ai entendu qu'il trafique des armes.\nExcellente qualité, mais très cher."
   },
   {
@@ -1260,7 +1260,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]go[SP]to\nClair[SP]de[SP]Lune[SP]in[SP]Aoba.[1205][000F][SP]Their[SP]selection's[SP]bad,\nbut[SP]the[SP]buyback[SP]prices[SP]are[SP]nice.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "J'ai entendu qu'on peut acheter de\nvraies armes au Clair de Lune à Aoba.\n[1205][000F]Mauvais choix, mais bon prix de reprise."
   },
   {
@@ -1275,7 +1275,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]go[SP]to\nClair[SP]de[SP]Lune[SP]in[SP]Aoba.[1205][000F][SP]It's[SP]cheap[SP]stuff,\nbut[SP]not[SP]such[SP]great[SP]quality.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "J'ai entendu qu'on peut acheter de\nvraies armes au Clair de Lune à Aoba.\n[1205][000F]Pas cher, mais qualité médiocre."
   },
   {
@@ -1290,7 +1290,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]go[SP]to\nClair[SP]de[SP]Lune[SP]in[SP]Aoba.[1205][000F][SP]They've[SP]got[SP]good[SP]stuff,\nbut[SP]it's[SP]expensive[SP]as[SP]hell.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "J'ai entendu qu'on peut acheter\nde vraies armes au Clair de Lune\n[1205][000F]à Aoba. Bonne qualité, mais cher."
   },
   {
@@ -1305,7 +1305,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]go[SP]to\nClair[SP]de[SP]Lune[SP]in[SP]Aoba.[1205][000F][SP]Their[SP]selection's[SP]good,\nbut[SP]the[SP]buyback[SP]prices[SP]are[SP]real[SP]low.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "J'ai entendu qu'on peut acheter de\nvraies armes au Clair de Lune à Aoba.\n[1205][000F]Bon choix, mais mauvais prix de reprise."
   },
   {
@@ -1320,7 +1320,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]you[SP]can[SP]buy[SP]real[SP]weapons[SP]if[SP]you[SP]go[SP]to\nClair[SP]de[SP]Lune[SP]in[SP]Aoba.[1205][000F][SP]Their[SP]quality[SP]and\nprices[SP]are[SP]average.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "On peut acheter de vraies armes au Clair de\nLune à Aoba. [1205][000F]Qualité et prix dans la moyenne."
   },
   {
@@ -1335,7 +1335,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "There's[SP]a[SP]lot[SP]of[SP]dangerous[SP]information[SP]out\nthere[SP]on[SP]the[SP]net.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Il y a beaucoup d'informations\ndangereuses sur le net."
   },
   {
@@ -1350,7 +1350,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Like[SP]just[SP]now,[SP]I[SP]saw[SP]you[SP]can[SP]buy[SP]weapons[SP]at\nJolly[SP]Roger.[1205][000F][SP]Their[SP]quality[SP]and[SP]prices[SP]are\nnothing[SP]out[SP]of[SP]the[SP]ordinary...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Tiens, j'ai vu qu'on peut acheter\n[1205][000F]des armes au Jolly Roger. Qualité\net prix dans la moyenne..."
   },
   {
@@ -1365,7 +1365,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "There's[SP]a[SP]lot[SP]of[SP]dangerous[SP]information[SP]out\nthere[SP]on[SP]the[SP]net.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Il y a beaucoup d'informations\ndangereuses sur le net."
   },
   {
@@ -1380,7 +1380,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Like[SP]just[SP]now,[SP]I[SP]saw[SP]you[SP]can[SP]buy[SP]weapons[SP]at\nJolly[SP]Roger.[1205][000F][SP]They're[SP]cheap,[SP]but[SP]the[SP]quality\nis[SP]lousy.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Tiens, j'ai vu qu'on peut acheter\ndes armes au[1205][000F] Jolly Roger. Pas\ncher, mais qualité médiocre."
   },
   {
@@ -1395,7 +1395,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "There's[SP]a[SP]lot[SP]of[SP]dangerous[SP]information[SP]out\nthere[SP]on[SP]the[SP]net.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Il y a beaucoup d'informations\ndangereuses sur le net."
   },
   {
@@ -1410,7 +1410,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Like[SP]just[SP]now,[SP]I[SP]saw[SP]you[SP]can[SP]buy[SP]weapons[SP]at\nJolly[SP]Roger.[1205][000F][SP]Their[SP]selection's[SP]good,[SP]but\nthe[SP]buyback[SP]prices[SP]there[SP]suck.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Tiens, j'ai vu qu'on peut acheter[1205][000F]\ndes armes au Jolly Roger. Bon choix,\nmais mauvais prix de reprise."
   },
   {
@@ -1425,7 +1425,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "There's[SP]a[SP]lot[SP]of[SP]dangerous[SP]information[SP]out\nthere[SP]on[SP]the[SP]net.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Il y a beaucoup d'informations\ndangereuses sur le net."
   },
   {
@@ -1440,7 +1440,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Like[SP]just[SP]now,[SP]I[SP]saw[SP]you[SP]can[SP]buy[SP]weapons[SP]at\nJolly[SP]Roger.[1205][000F][SP]Their[SP]selection[SP]sucks,[SP]but\nthe[SP]buyback[SP]prices[SP]are[SP]good.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Tiens, j'ai vu qu'on peut acheter\ndes armes au Jolly Roger. [1205][000F]Mauvais\nchoix, mais bon prix de reprise."
   },
   {
@@ -1455,7 +1455,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "There's[SP]a[SP]lot[SP]of[SP]dangerous[SP]information[SP]out\nthere[SP]on[SP]the[SP]net.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Il y a beaucoup d'informations\ndangereuses sur le net."
   },
   {
@@ -1470,7 +1470,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Like[SP]just[SP]now,[SP]I[SP]saw[SP]you[SP]can[SP]buy[SP]weapons[SP]at\nJolly[SP]Roger.[1205][000F][SP]They're[SP]expensive,[SP]but[SP]they\nshelve[SP]some[SP]of[SP]the[SP]best[SP]stuff.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Tiens, j'ai vu qu'on peut acheter des armes\n[1205][000F]au Jolly Roger. Cher, mais excellent choix."
   },
   {
@@ -1485,7 +1485,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]at[SP]the[SP]Rosa[SP]Candida\nin[SP]Rengedai.[1205][000F][SP]Their[SP]prices[SP]and[SP]quality[SP]are\njust[SP]average.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vraies armures au Rosa Candida à\nRengedai. [1205][000F]Prix et qualité dans la moyenne."
   },
   {
@@ -1500,7 +1500,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]at[SP]the[SP]Rosa[SP]Candida\nin[SP]Rengedai.[1205][000F][SP]It's[SP]cheap,[SP]but[SP]sounds[SP]like\nit's[SP]not[SP]worth[SP]paying[SP]for.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vraies armures au Rosa Candida à Rengedai.\n[1205][000F]Pas cher, mais ça vaut pas grand-chose."
   },
   {
@@ -1515,7 +1515,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]at[SP]the[SP]Rosa[SP]Candida\nin[SP]Rengedai.[1205][000F][SP]It's[SP]well-made,[SP]but[SP]expensive.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vraies armures au Rosa Candida à\nRengedai. [1205][000F]Bien fait, mais cher."
   },
   {
@@ -1530,7 +1530,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I've[SP]never[SP]heard[SP]of[SP]armor[SP]as[SP]a[SP]fashion[SP]trend...\nBut[SP]Anima[SP]Mundi[SP]sells[SP]it.[1205][000F][SP]The[SP]quality[SP]and\nprice[SP]of[SP]their[SP]stuff[SP]is[SP]normal.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "L'armure comme tendance mode, j'avais\njamais entendu ça...[1205][000F] Mais Anima Mundi\nen vend. Qualité et prix normaux."
   },
   {
@@ -1545,7 +1545,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I've[SP]never[SP]heard[SP]of[SP]armor[SP]as[SP]a[SP]fashion[SP]trend...\nBut[SP]Anima[SP]Mundi[SP]sells[SP]it.[1205][000F][SP]The[SP]quality[SP]of\ntheir[SP]stuff[SP]is[SP]low,[SP]but[SP]at[SP]least[SP]it's[SP]cheap.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "L'armure comme tendance mode, j'avais jamais\nentendu ça...[1205][000F] Mais Anima Mundi en vend.\nQualité basse, mais au moins c'est pas cher."
   },
   {
@@ -1560,7 +1560,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I've[SP]never[SP]heard[SP]of[SP]armor[SP]as[SP]a[SP]fashion[SP]trend...\nBut[SP]Anima[SP]Mundi[SP]sells[SP]it.[1205][000F][SP]Their[SP]selection's\ngood,[SP]but[SP]they[SP]don't[SP]pay[SP]much[SP]for[SP]your[SP]stuff.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "L'armure comme tendance mode, j'avais jamais\nentendu ça...[1205][000F] Mais Anima Mundi en vend.\nBon choix, mais mauvais prix de reprise."
   },
   {
@@ -1575,7 +1575,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I've[SP]never[SP]heard[SP]of[SP]armor[SP]as[SP]a[SP]fashion[SP]trend...\nBut[SP]Anima[SP]Mundi[SP]sells[SP]it.[1205][000F][SP]The[SP]quality[SP]of\ntheir[SP]stuff[SP]is[SP]nice,[SP]but[SP]it's[SP]expensive.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "L'armure comme tendance mode, j'avais\njamais entendu ça...[1205] Mais Anima Mundi\nen vend. Bonne qualité, mais cher."
   },
   {
@@ -1590,7 +1590,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]my[SP]friend[SP]went[SP]home[SP]because[SP]those\nsisters[SP]made[SP]him[SP]cry...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Un ami est parti ces sœurs\nl'ont fait pleurer..."
   },
   {
@@ -1605,7 +1605,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "The[SP]ones[SP]who[SP]run[SP]Rosa[SP]Candida,[SP]I[SP]mean.[1205][000F]\nThey[SP]have[SP]a[SP]branch[SP]in[SP]this[SP]ward[SP]too.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Rosa Candida, je veux dire. [1205][000F]Ils\nont une succursale ici aussi."
   },
   {
@@ -1620,7 +1620,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]there.[1205][000F][SP]They[SP]don't\nhave[SP]the[SP]widest[SP]selection,[SP]but[SP]their[SP]resale\nprices[SP]are[SP]excellent.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vraies armures là-bas. [1205][000F]Pas le plus\ngrand choix, mais bons prix de reprise."
   },
   {
@@ -1635,7 +1635,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]my[SP]friend[SP]went[SP]home[SP]because[SP]those\nsisters[SP]made[SP]him[SP]cry...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Un ami est parti ces sœurs\nl'ont fait pleurer..."
   },
   {
@@ -1650,7 +1650,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "The[SP]ones[SP]who[SP]run[SP]Rosa[SP]Candida,[SP]I[SP]mean.[1205][000F]\nThey[SP]have[SP]a[SP]branch[SP]in[SP]this[SP]ward[SP]too.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Rosa Candida, je veux dire. [1205][000F]Ils\nont une succursale ici aussi."
   },
   {
@@ -1665,7 +1665,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]there.[1205][000F][SP]Their\nquality[SP]and[SP]prices[SP]are[SP]normal.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vraies armures là-bas.\n[1205][000F]Qualité et prix normaux."
   },
   {
@@ -1680,7 +1680,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]my[SP]friend[SP]went[SP]home[SP]because[SP]those\nsisters[SP]made[SP]him[SP]cry...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Un ami est parti ces sœurs\nl'ont fait pleurer..."
   },
   {
@@ -1695,7 +1695,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "The[SP]ones[SP]who[SP]run[SP]Rosa[SP]Candida,[SP]I[SP]mean.[1205][000F]\nThey[SP]have[SP]a[SP]branch[SP]in[SP]this[SP]ward[SP]too.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Rosa Candida, je veux dire. [1205][000F]Ils\nont une succursale ici aussi."
   },
   {
@@ -1710,7 +1710,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]there.[1205][000F][SP]They[SP]have\ngood-quality[SP]stuff,[SP]but[SP]it'll[SP]cost[SP]you.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vraies armures là-bas. [1205][000F]Bonne\nqualité, mais ça coûte."
   },
   {
@@ -1725,7 +1725,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]my[SP]friend[SP]went[SP]home[SP]because[SP]those\nsisters[SP]made[SP]him[SP]cry...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Un ami est parti ces sœurs\nl'ont fait pleurer..."
   },
   {
@@ -1740,7 +1740,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "The[SP]ones[SP]who[SP]run[SP]Rosa[SP]Candida,[SP]I[SP]mean.[1205][000F]\nThey[SP]have[SP]a[SP]branch[SP]in[SP]this[SP]ward[SP]too.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Rosa Candida, je veux dire. [1205][000F]Ils\nont une succursale ici aussi."
   },
   {
@@ -1755,7 +1755,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]there.[1205][000F][SP]You[SP]don't\ngo[SP]to[SP]them[SP]for[SP]quality,[SP]but[SP]hey,[SP]it's[SP]cheap.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vraies armures là-bas. [1205][000F]Pas pour\nla qualité, mais c'est pas cher."
   },
   {
@@ -1770,7 +1770,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]my[SP]friend[SP]went[SP]home[SP]because[SP]those\nsisters[SP]made[SP]him[SP]cry...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Un ami est parti ces sœurs\nl'ont fait pleurer..."
   },
   {
@@ -1785,7 +1785,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "The[SP]ones[SP]who[SP]run[SP]Rosa[SP]Candida,[SP]I[SP]mean.[1205][000F]\nThey[SP]have[SP]a[SP]branch[SP]in[SP]this[SP]ward[SP]too.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Rosa Candida, je veux dire. [1205][000F]Ils\nont une succursale ici aussi."
   },
   {
@@ -1800,7 +1800,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]hear[SP]they[SP]sell[SP]real[SP]armor[SP]there.[1205][000F][SP]They[SP]have\nan[SP]excellent[SP]selection,[SP]but[SP]really[SP]low[SP]buyback\nprices.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Vraies armures là-bas. [1205][000F]Excellent choix,\nmais très mauvais prix de reprise."
   },
   {
@@ -1815,7 +1815,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]there[SP]was[SP]a[SP]tailor[SP]who[SP]makes[SP]armor.\nTurns[SP]out[SP]it[SP]was[SP]London[SP]Clothier.[1205][000F][SP]The[SP]selection\nthere[SP]is[SP]good,[SP]but[SP]the[SP]buyback[SP]prices[SP]aren't.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "J'ai entendu qu'il y avait un tailleur qui\nfait des armures. [1205][000F]C'est London Clothier.\nBon choix, mais mauvais prix de reprise."
   },
   {
@@ -1830,7 +1830,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]there[SP]was[SP]a[SP]tailor[SP]who[SP]makes[SP]armor.\nTurns[SP]out[SP]it[SP]was[SP]London[SP]Clothier.[1205][000F][SP]His[SP]stuff\nis[SP]cheap,[SP]but[SP]not[SP]very[SP]good.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Un tailleur fait des armures. C'est London\nClothier. [1205][000F]Pas cher, mais qualité médiocre."
   },
   {
@@ -1845,7 +1845,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]there[SP]was[SP]a[SP]tailor[SP]who[SP]makes[SP]armor.\nTurns[SP]out[SP]it[SP]was[SP]London[SP]Clothier.[1205][000F][SP]His[SP]stuff\nis[SP]top-notch,[SP]but[SP]it'll[SP]set[SP]you[SP]back.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "J'ai entendu qu'il y avait un tailleur\nqui fait des armures. [1205][000F] C'est London\nClothier. Excellent, mais ça coûte cher."
   },
   {
@@ -1860,7 +1860,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]there[SP]was[SP]a[SP]tailor[SP]who[SP]makes[SP]armor.\nTurns[SP]out[SP]it[SP]was[SP]London[SP]Clothier.[1205][000F][SP]His[SP]prices\nand[SP]quality[SP]are[SP]both[SP]average.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Un tailleur fait des armures. C'est London\nClothier. [1205][000F]Prix et qualité dans la moyenne."
   },
   {
@@ -1875,7 +1875,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]there[SP]was[SP]a[SP]tailor[SP]who[SP]makes[SP]armor.\nTurns[SP]out[SP]it[SP]was[SP]London[SP]Clothier.[1205][000F][SP]The[SP]selection\nthere[SP]is[SP]bad,[SP]but[SP]the[SP]buyback[SP]prices[SP]are[SP]nice.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "J'ai entendu qu'il y avait un tailleur qui\nfait des armures. [1205][000F]C'est London Clothier.\nMauvais choix, mais bon prix de reprise."
   },
   {
@@ -1890,7 +1890,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "[1432][NULL][NULL][0014]Enter[SP]the[SP]magazine[SP]sweepstakes[SP]for[SP]your[SP]chance\nto[SP]win[SP]real[SP]weapons[1432][NULL][NULL][0014]...[1205][000F][SP]Huh.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "[1432][NULL][NULL][0014]Concours du magazine pour\ngagner de vraies armes[1432][NULL][NULL][0014]...[1205][000F] Tiens."
   },
   {
@@ -1905,7 +1905,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "This[SP]is[SP]a[SP]pretty[SP]rinky-dink[SP]website,[SP]but[SP]I\nwonder[SP]if[SP]they're[SP]on[SP]the[SP]level?",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "C'est un site assez minable,\nmais ils sont sérieux?"
   },
   {
@@ -1920,7 +1920,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "They[SP]say[SP]you[SP]won't[SP]win[SP]that[SP]often,[SP]but[SP]you[SP]get\npretty[SP]good[SP]prizes[SP]when[SP]you[SP]do.[1205][000F][SP]Well,[SP]can't\nhurt[SP]to[SP]try...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Paraît qu'on gagne pas souvent, mais bons\nlots. [1205][000F]Ça peut pas faire de mal d'essayer..."
   },
   {
@@ -1935,7 +1935,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "[1432][NULL][NULL][0014]Enter[SP]the[SP]magazine[SP]sweepstakes[SP]for[SP]your[SP]chance\nto[SP]win[SP]real[SP]weapons[1432][NULL][NULL][0014]...[1205][000F][SP]Huh.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "[1432][NULL][NULL][0014]Concours du magazine pour\ngagner de vraies armes[1432][NULL][NULL][0014]...[1205][000F] Tiens."
   },
   {
@@ -1950,7 +1950,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "This[SP]is[SP]a[SP]pretty[SP]rinky-dink[SP]website,[SP]but[SP]I\nwonder[SP]if[SP]they're[SP]on[SP]the[SP]level?",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "C'est un site assez minable,\nmais ils sont sérieux?"
   },
   {
@@ -1965,7 +1965,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "They[SP]say[SP]you'll[SP]hardly[SP]ever[SP]win,[SP]but[SP]you[SP]get\nsuper[SP]rare[SP]prizes[SP]when[SP]you[SP]do.[1205][000F][SP]Well,[SP]can't\nhurt[SP]to[SP]try...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "On gagne quasi jamais, mais lots ultra\nrares. Ça peut pas [1205][000F]faire de mal d'essayer..."
   },
   {
@@ -1980,7 +1980,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "[1432][NULL][NULL][0014]Enter[SP]the[SP]magazine[SP]sweepstakes[SP]for[SP]your[SP]chance\nto[SP]win[SP]real[SP]weapons[1432][NULL][NULL][0014]...[1205][000F][SP]Huh.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "[1432][NULL][NULL][0014]Concours du magazine pour\ngagner de vraies armes[1432][NULL][NULL][0014]...[1205][000F] Tiens."
   },
   {
@@ -1995,7 +1995,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "This[SP]is[SP]a[SP]pretty[SP]rinky-dink[SP]website,[SP]but[SP]I\nwonder[SP]if[SP]they're[SP]on[SP]the[SP]level?",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "C'est un site assez minable,\nmais ils sont sérieux?"
   },
   {
@@ -2010,7 +2010,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "They[SP]say[SP]it's[SP]real[SP]easy[SP]to[SP]win,[SP]but[SP]the[SP]prizes\nare[SP]incredibly[SP]lame.[1205][000F][SP]Well,[SP]can't[SP]hurt[SP]to[SP]try...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Très facile de gagner, mais lots nuls.\n[1205][000F]Ça peut pas faire de mal d'essayer..."
   },
   {
@@ -2025,7 +2025,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Hm?[1205][000A][SP]There's[SP]actual[SP]gambling[SP]at[SP]Mu?[1205][000F][SP]Who[SP]posted\nthis?[1205][000F][SP]Though[SP]I[SP]have[SP]heard[SP]that[SP]rumor[SP]before.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Hm? Vrais jeux d'argent au Mu? Qui a posté\nça? J'avais entendu cette rumeur."
   },
   {
@@ -2040,7 +2040,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]it's[SP]real[SP]easy[SP]to[SP]win[SP]at[SP]poker...[1205][000F]\nMaybe[SP]I'll[SP]go[SP]give[SP]it[SP]a[SP]whirl.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Facile de gagner au poker...[1205][000F] J'irais bien essayer."
   },
   {
@@ -2055,7 +2055,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Hm?[1205][000A][SP]There's[SP]actual[SP]gambling[SP]at[SP]Mu?[1205][000F][SP]Who[SP]posted\nthis?[1205][000F][SP]Though[SP]I[SP]have[SP]heard[SP]that[SP]rumor[SP]before.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Hm? Vrais jeux d'argent au Mu? Qui a posté\nça? J'avais entendu cette rumeur."
   },
   {
@@ -2070,7 +2070,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]it's[SP]real[SP]easy[SP]to[SP]win[SP]at[SP]the[SP]slots...[1205][000F]\nMaybe[SP]I'll[SP]go[SP]give[SP]it[SP]a[SP]whirl.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Facile de gagner aux machines...[1205][000F] J'irais bien essayer."
   },
   {
@@ -2085,7 +2085,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Hm?[1205][000A][SP]There's[SP]actual[SP]gambling[SP]at[SP]Mu?[1205][000F][SP]Who[SP]posted\nthis?[1205][000F][SP]Though[SP]I[SP]have[SP]heard[SP]that[SP]rumor[SP]before.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Hm? Vrais jeux d'argent au Mu? Qui a posté\nça? J'avais entendu cette rumeur."
   },
   {
@@ -2100,7 +2100,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]it's[SP]real[SP]easy[SP]to[SP]win[SP]at[SP]blackjack...[1205][000F]\nMaybe[SP]I'll[SP]go[SP]give[SP]it[SP]a[SP]whirl.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Facile de gagner au blackjack...[1205][000F] J'irais bien essayer."
   },
   {
@@ -2115,7 +2115,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "A[SP]legendary[SP]weapon...?[1205][000F][SP]Sounds[SP]like[SP]something\nout[SP]of[SP]a[SP]video[SP]game.[SP]You[SP]really[SP]expect[SP]to\nfind[SP]something[SP]like[SP]that[SP]at[SP]a[SP]ramen[SP]shop?",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Une arme légendaire...[1205][000F] ? Ça fait penser à\nun jeu vidéo. Tu crois vraiment trouver\nun truc comme ça dans un resto de ramen?"
   },
   {
@@ -2130,7 +2130,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Clair[SP]de[SP]Lune's[SP]that[SP]restaurant,[SP]right?[1205][000F]\nThere[SP]was[SP]a[SP]rumor[SP]they[SP]had[SP]a[SP]legendary[SP]weapon.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Clair de Lune, ce restaurant, non? [1205][000F]Rumeur\nqu'ils avaient une arme légendaire."
   },
   {
@@ -2145,7 +2145,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]get[SP]it.[1205][000F][SP]The[SP]Count[SP]at[SP]Time[SP]Castle[SP]just[SP]wants\nto[SP]sell[SP]his[SP]legendary[SP]weapon[SP]for[SP]as[SP]much[SP]as\nhe[SP]can![SP]I'm[SP]gonna[SP]post[SP]about[SP]that[SP]right[SP]now.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Je vois. [1205][000F]Le Comte de Time Castle veut juste\nvendre son arme légendaire le plus cher\npossible! Je vais poster ça maintenant."
   },
   {
@@ -2160,7 +2160,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]did[SP]some[SP]checking,[SP]and[SP]the[SP]weapon[SP]that's\nsupposed[SP]to[SP]be[SP]at[SP]Time[SP]Castle[SP]isn't[SP]there\nyet.[1205][000F][SP]The[SP]owner[SP]hasn't[SP]gone[SP]to[SP]pick[SP]it[SP]up.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "J'ai vérifié, et l'arme censée être\nà Time Castle n'y est pas encore. Le\n[1205][000F]propriétaire n'est pas allé la chercher."
   },
   {
@@ -2175,7 +2175,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "What!?[1205][000A][SP]So[SP]demons[SP]actually[SP]exist?[1205][000A][SP]B-But[SP]they\nstole[SP]the[SP]legendary[SP]weapon[SP]from[SP]Time[SP]Castle!",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Quoi!? Les démons existent? Ils ont volé l'arme\nlégendaire de Time Castle!"
   },
   {
@@ -2190,7 +2190,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]an[SP]unhappy-looking[SP]woman[SP]bought[SP]the\nlegendary[SP]weapon[SP]from[SP]Time[SP]Castle.[SP]Maybe[SP]if\nyou[SP]find[SP]her,[SP]she'll[SP]sell[SP]it[SP]to[SP]you...",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Une femme à l'air malheureux a acheté\nl'arme légendaire de Time Castle.\nSi tu la trouves, elle la vendra..."
   },
   {
@@ -2205,7 +2205,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Did[SP]you[SP]hear?[SP]The[SP]Count[SP]at[SP]Time[SP]Castle[SP]gave\nhis[SP]legendary[SP]weapon[SP]as[SP]a[SP]gift[SP]to[SP]a[SP]girl[SP]with\nshort[SP]hair.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "T'as entendu? Le Comte a offert son arme\nlégendaire à une fille aux cheveux courts."
   },
   {
@@ -2220,7 +2220,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]heard[SP]the[SP]second[SP]floor[SP]of[SP]Zodiac[SP]is[SP]a[SP]giant\nmaze.[SP]Some[SP]people[SP]have[SP]even[SP]found[SP]treasure\nin[SP]there.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Le deuxième étage du Zodiac est\nun grand labyrinthe. Certains\ny ont même trouvé des trésors."
   },
   {
@@ -2235,7 +2235,7 @@
     ],
     "nom_orig": "Fat[SP]man",
     "texte_orig": "According[SP]to[SP]the[SP]rumors,[SP]the[SP]flowers[SP]at[SP]Aoba\nPark[SP]can[SP]talk.[SP]I[SP]hope[SP]that's[SP]just[SP]someone's\nfantasy--it'd[SP]be[SP]too[SP]scary[SP]if[SP]it[SP]was[SP]real.",
-    "nom_fr": "Homme gros",
+    "nom_fr": "Homme corpulent",
     "texte_fr": "Selon les rumeurs, les fleurs du parc\nAoba parlent. J'espère que c'est une\nfantaisie- trop effrayant si c'était vrai."
   },
   {
@@ -2250,7 +2250,7 @@
     ],
     "nom_orig": "Speaker",
     "texte_orig": "You[SP]don't[SP]have[SP]any[SP]items[SP]you[SP]can[SP]sell.",
-    "nom_fr": "IntervenantV",
+    "nom_fr": "Voix",
     "texte_fr": "Aucun objet à vendre."
   },
   {
@@ -2335,7 +2335,7 @@
     ],
     "nom_orig": "Speaker",
     "texte_orig": "It's[SP][120E][NULL][SP]yen[SP]total.[SP]Sell?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
+    "nom_fr": "Voix",
     "texte_fr": "Total: [120E][NULL] yens. Vendre?\n[1208][0002]Oui\nNon",
     "question_orig": "It's[SP][120E][NULL][SP]yen[SP]total.[SP]Sell?",
     "choix_orig": [
@@ -2360,7 +2360,7 @@
     ],
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "That's,[SP]what,[SP][120E][NULL][SP]yen.[SP]Yeah?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
+    "nom_fr": "Gamin fainéant",
     "texte_fr": "Ça fait [120E][NULL] yens. OK ?\n[1208][0002]Oui\nNon",
     "question_orig": "That's,[SP]what,[SP][120E][NULL][SP]yen.[SP]Yeah?",
     "choix_orig": [

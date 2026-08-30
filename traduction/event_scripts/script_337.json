@@ -176,7 +176,7 @@
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Sœur n°4",
-    "texte_fr": "Tu veux parler de quoi?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Tu veux parler de quoi?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -261,7 +261,7 @@
     "nom_orig": "Sister[SP]#4",
     "texte_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Sœur n°4",
-    "texte_fr": "Tu veux parler de quoi?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Tu veux parler de quoi?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "So[SP]what[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -331,7 +331,7 @@
     ],
     "nom_orig": "Office[SP]worker",
     "texte_orig": "N-No[SP]way...[1205][000A][SP]The[SP]city's[SP]really[SP]flying...?[1205][000F]\nXibalba[SP]actually[SP]exists...?[1205][000F][SP]No...[SP]There's[SP]no\nway...[1205][000A][SP]This[SP]can't[SP]be...",
-    "nom_fr": "Employé de bureau",
+    "nom_fr": "Employé",
     "texte_fr": "C-C'est pas possible... La ville vole...? Xibalba\nexiste...? Non... Impossible... Ça ne peut pas..."
   },
   {
@@ -346,7 +346,7 @@
     ],
     "nom_orig": "Office[SP]worker",
     "texte_orig": "Waaaaaaah![1205][000F][SP]We[SP]don't[SP]even[SP]have[SP]anywhere[SP]to[SP]run\nto[SP]now![SP]What's[SP]going[SP]to[SP]happen[SP]to[SP]us!?",
-    "nom_fr": "Employé de bureau",
+    "nom_fr": "Employé",
     "texte_fr": "Waaaaah! [1205][000F]On n'a plus nulle part où\nfuir! Qu'est-ce qui va nous arriver!?"
   },
   {
