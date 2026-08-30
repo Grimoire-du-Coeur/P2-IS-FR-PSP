@@ -190,7 +190,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "What's[SP]there[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Siffleur",
-    "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "What's[SP]there[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -245,7 +245,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "......",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": ".."
   },
   {
@@ -260,7 +260,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Looks[SP]like[SP]our[SP]comrades[SP]are[SP]fighting[SP]against\nthe[SP]Last[SP]Battalion[SP]inside[SP]that[SP]temple[SP]as[SP]we\nspeak.[1205][000F][SP]I[SP]better[SP]hurry[SP]and[SP]help[SP]them!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Nos camarades semblent encore se battre\ncontre le Bataillon dans le temple.\nJe [1205][000F]dois me dépêcher d'aller les aider!"
   },
   {
@@ -275,7 +275,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "...But[SP]the[SP]armor[SP]here[SP]is[SP]a[SP]little[SP]pricey...[1205][000F]\nAnd[SP]going[SP]into[SP]battle[SP]without[SP]it[SP]is[SP]suicide...[1205][000F]\nI've[SP]gotta[SP]do[SP]something[SP]about[SP]that[SP]first...",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "... Mais les armures ici ne sont pas\n[1205][000F]données... Et aller au front sans serait du\nsuicide... Je dois d'abord m'occuper de ça..."
   },
   {
@@ -349,7 +349,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "What's[SP]there[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Siffleur",
-    "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "What's[SP]there[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -389,7 +389,7 @@
     ],
     "nom_orig": "Whistler's[SP]son",
     "texte_orig": "Get[SP]outta[SP]here[SP]if[SP]you're[SP]just[SP]gonna[SP]browse.",
-    "nom_fr": "Fils du Siffleur",
+    "nom_fr": "Fils",
     "texte_fr": "Barre-toi si t'es juste venu regarder."
   },
   {

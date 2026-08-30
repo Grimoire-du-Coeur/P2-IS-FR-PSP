@@ -490,7 +490,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée\nATTENTION\nAucun bit actif.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[B_00][5501][B_00]",
+    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée",
     "question_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1250,7 +1250,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Dammit,[SP]what's[SP]with[SP]these[SP]clothes!?[SP]None[SP]of\nthese[SP]fit[SP]me[SP]at[SP]all![SP]My[SP]body's[SP]going[SP]to[SP]waste\nin[SP]these[SP]miserable[SP]rags!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Bon sang, c'est quoi ces vêtements!?\nRien ne me va! Mon corps va se\nperdre dans ces misérables haillons!"
   },
   {
@@ -1265,7 +1265,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Yeah,[SP]I'm[SP]a[SP]Masked[SP]Circle[SP]member.[SP]One[SP]of\nthose[SP]scaaaary[SP]Masked[SP]Circle[SP]people![SP]You\ngot[SP]a[SP]problem[SP]with[SP]that!?",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Ouais, je suis du Cercle masqué. Une\nde ces effrayantes personnes du Cercle\nmasqué! Ça te pose un problème!?"
   },
   {
@@ -1280,7 +1280,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Sumaru's[SP]secret[SP]treasure...[1205][000F][SP]Xibalba...[1205][000F]\nIt[SP]will[SP]transform[SP]us[SP]into[SP]Idealians[SP]and\nteach[SP]us[SP]the[SP]meaning[SP]of[SP]life!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Le trésor secret de Sumaru...[1205][000F] Xibalba...\nIl nous transformera en Idéaliens\net nous apprendra le sens de la vie!"
   },
   {
@@ -1295,7 +1295,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Yes,[SP]that[SP]book[SP]is[SP]definitely[SP]true![SP]Another[SP]of\nmy[SP]ideals[SP]will[SP]be[SP]granted![SP]I...[SP]I[SP]want[SP]to[SP]know\nwho[SP]the[SP]real[SP]me[SP]is!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Oui, ce livre est totalement vrai! Un\nautre de mes idéaux sera exaucé! Je...\nJe veux savoir qui je suis vraiment!"
   },
   {
@@ -1310,7 +1310,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Th-The[SP]Exalted[SP]One...[1205][000A][SP]told[SP]us[SP]to[SP]protect...[1205][000F]\nprotect[SP]the[SP]people[SP]of[SP]this[SP]city...[1205][000F][SP]He[SP]ordered\nus[SP]to[SP]fight[SP]against[SP]those[SP]soldiers!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "L-L'Élu... nous a dit de protéger... protéger\nles gens de cette ville... Il nous\na ordonné de combattre ces soldats!"
   },
   {
@@ -1325,7 +1325,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "How[SP]can[SP]I[SP]do[SP]that!?[SP]I-I[SP]only[SP]wanted[SP]my[SP]dream\nfigure...[1205][000F][SP]Apart[SP]from[SP]that,[SP]I'm[SP]just[SP]an[SP]ordinary\ngirl[SP]inside!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Comment faire ça!? Je voulais juste\nma silhouette de rêve...[1205][000F] À part\nça, je suis une fille ordinaire!"
   },
   {
@@ -1399,7 +1399,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée\nATTENTION\nAucun bit actif.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[B_00][5501][B_00]",
+    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée",
     "question_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "Make[SP]small[SP]talk",

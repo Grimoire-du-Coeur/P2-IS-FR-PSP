@@ -11,7 +11,7 @@
     ],
     "nom_orig": "Eikichi",
     "texte_orig": "Wow,[SP]cool,[SP]Maya-san![1205][000F][SP]You're[SP]so[SP]good[SP]at[SP]your[SP]job.\nYou[SP]even[SP]use[SP]the[SP]Internet?",
-    "nom_fr": "[NULL][E4][NULL][NULL]\"Eikichi",
+    "nom_fr": "Eikichi",
     "texte_fr": "Waouh, Maya! [1205][000F]T'es vraiment\ndouée. Tu utilises même Internet?"
   },
   {
@@ -624,7 +624,7 @@
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Yeah,[SP]what's[SP]up.\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gamin fainéant",
-    "texte_fr": "Ouais, quoi?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ouais, quoi?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Yeah,[SP]what's[SP]up.",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -677,7 +677,7 @@
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "Yeah,[SP]what's[SP]up.\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Gamin fainéant",
-    "texte_fr": "Ouais, quoi?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ouais, quoi?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Yeah,[SP]what's[SP]up.",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1513,7 +1513,7 @@
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "Hey,[SP]you're[SP]back.",
     "nom_fr": "Colporteur Baofu",
-    "texte_fr": "Tiens, de retour. Choisissez une option.\nDemander des rumeurs Parler à Baofu Annuler\nChoisissez un sujet. Rumeurs armureries\nRumeurs armures Autres rumeurs Rien\nChoisissez une région. Rengedai Yumezaki\nAoba Kounan Aucune Choisissez une région.\nRengedai Yumezaki Aoba Kounan Aucune\nChoisissez un sujet. Concours magazines\nRumeurs Mu Armes légendaires Aucun\nVérifié. Soumettre. Patientez après envoi.",
+    "texte_fr": "Tiens, de retour. Choisissez une option.\nDemander des rumeurs Parler à Baofu Annuler\nChoisissez un sujet. Rumeurs armureries\nRumeurs armures Autres Rien\nChoisissez une région. Rengedai Yumezaki\nAoba Kounan Aucune Choisissez une région.\nRengedai Yumezaki Aoba Kounan Aucune\nChoisissez un sujet. Concours magazines\nRumeurs Mu Armes légendaires Aucun\nVérifié. Soumettre. Patientez après envoi.",
     "choix_fr": [
       ""
     ]
@@ -3255,7 +3255,7 @@
     ],
     "nom_orig": "Speaker",
     "texte_orig": "You[SP]don't[SP]have[SP]any[SP]items[SP]you[SP]can[SP]sell.",
-    "nom_fr": "Haut-parleur",
+    "nom_fr": "Voix",
     "texte_fr": "Vous n'avez rien à vendre."
   },
   {
@@ -3340,7 +3340,7 @@
     ],
     "nom_orig": "Speaker",
     "texte_orig": "It's[SP][120E][NULL][SP]yen[SP]total.[SP]Sell?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
+    "nom_fr": "Voix",
     "texte_fr": "Total: [120E][NULL] yens. Vendre?\n[1208][0002]Oui\nNon",
     "question_orig": "It's[SP][120E][NULL][SP]yen[SP]total.[SP]Sell?",
     "choix_orig": [
@@ -3365,7 +3365,7 @@
     ],
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "That's,[SP]what,[SP][120E][NULL][SP]yen.[SP]Yeah?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
+    "nom_fr": "Gamin fainéant",
     "texte_fr": "Ça fait [120E][NULL] yens. OK ?\n[1208][0002]Oui\nNon",
     "question_orig": "That's,[SP]what,[SP][120E][NULL][SP]yen.[SP]Yeah?",
     "choix_orig": [

@@ -882,7 +882,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\n[1210][0159]Leave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Tamaki",
-    "texte_fr": "Bonjour! Que puis-je faire?\n[1208][0004]Participer aux concours\nParler à [1210]Tamaki\n[0159]Rien\nQuitter l'agence",
+    "texte_fr": "Bonjour! Que puis-je faire?\n[1208][0004]Participer aux concours\nParler à Tamaki\nRien\n[1210][0159]Quitter l'agence",
     "question_orig": "Hello[SP]there![SP]What[SP]can[SP]I[SP]help[SP]you[SP]with?",
     "choix_orig": [
       "Enter[SP]magazine[SP]sweepstakes",
@@ -1915,7 +1915,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Anything[SP]else?\n[1208][0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[1210][0159]Leave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Autre chose?\n[1208][0005]Répandre rumeurs\nVérifier rumeurs\nParler [1210]au [0159]Chef\nAnnuler\nQuitter l'agence",
+    "texte_fr": "Autre chose?\n[1208][0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\n[1210][0159]Quitter l'agence",
     "question_orig": "Anything[SP]else?",
     "choix_orig": [
       "Spread[SP]rumors",
@@ -2248,7 +2248,7 @@
     ],
     "nom_orig": "Ms.[SP]Ideal",
     "texte_orig": "You[SP]must[SP]not[SP]let[SP]the[SP]Oracle[SP]written[SP]here[SP]be\nfulfilled![SP]If[SP]you[SP]can[SP]prevent[SP]it,[SP]they[SP]won't\nget[SP]what[SP]they[SP]want!",
-    "nom_fr": "Chef Todoroki",
+    "nom_fr": "Mme Idéale",
     "texte_fr": "Infos sur les rumeurs?"
   },
   {
@@ -2403,7 +2403,7 @@
     ],
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "You[SP]don't[SP]have[SP]the[SP]money[SP]for[SP]my[SP]fee.",
-    "nom_fr": "",
+    "nom_fr": "Chef Todoroki",
     "texte_fr": "Vous n'avez pas les moyens\npour mes honoraires."
   }
 ]

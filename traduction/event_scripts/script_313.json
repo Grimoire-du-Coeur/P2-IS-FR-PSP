@@ -760,7 +760,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "What's[SP]there[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Siffleur",
-    "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "What's[SP]there[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1040,7 +1040,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I[SP]know![SP]The[SP]reason[SP]I[SP]can't[SP]get[SP]a[SP]girlfriend[SP]is\nbecause[SP]this[SP]society[SP]is[SP]so[SP]screwed[SP]up![SP]There's\nnothing[SP]wrong[SP]with[SP]me!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "J'ai compris! Si j'arrive pas à avoir\nde copine c'est à cause de cette\nsociété moisie! C'est pas moi le souci!"
   },
   {
@@ -1055,7 +1055,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I'm[SP]gonna[SP]force[SP]every[SP]woman[SP]to[SP]be[SP]mine[SP]now!\nThey'll[SP]all[SP]bow[SP]before[SP]me![SP]I'll[SP]show[SP]them[SP]the\nterrible[SP]power[SP]of[SP]the[SP]Masked[SP]Circle!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Je forcerais chaque femme à être mienne et\nà se prosterner devant moi! Elles verront\nle terrible pouvoir du Cercle Masqué!"
   },
   {
@@ -1070,7 +1070,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Who[SP]stopped[SP]the[SP]bombing[SP]at[SP]Smile[SP]Hirasaka!?\nIt[SP]would've[SP]been[SP]funnier[SP]if[SP]it[SP]went[SP]up[SP]in\nflames![SP]Bastards[SP]always[SP]spoiling[SP]my[SP]fun!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Qui a arrêté les bombes au Smile Hirasaka!?\nÇa aurait été plus marrant qu'il crâme!\nCes bâtards gâchent toujours la fête!"
   },
   {
@@ -1085,7 +1085,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Looks[SP]like[SP]it[SP]was[SP]a[SP]cell[SP]of[SP]five[SP]terrorists\nsetting[SP]fires.[SP]Heheh,[SP]sounds[SP]like[SP]my[SP]kind[SP]of\npeople.[SP]I[SP]hope[SP]they[SP]burn[SP]the[SP]whole[SP]city[SP]down.",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Apparement ce sont cinq terroristes qui\nont mis le feu. Héhé, j'aime bien ces gens.\nJ'espère qu'ils réduiront Sumaru en cendres."
   },
   {
@@ -1100,7 +1100,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Even[SP]the[SP]Aerospace[SP]Museum[SP]burned[SP]down,[SP]right?\nHehehe...[SP]I[SP]wanted[SP]to[SP]go[SP]see[SP]it...[1205][000F][SP]But[SP]that\ndoesn't[SP]matter[SP]anymore...",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Même le Musée Aéronautique a brûlé,\nhein? Héhéhé... J'aurais voulu voir[1205][000F]\nça... Mais ca n'a plus d'importance..."
   },
   {
@@ -1115,7 +1115,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "In[SP]Lak'ech...[SP]Idealian...[SP]King[SP]Leo[SP]talked[SP]about\nthat[SP]stuff[SP]at[SP]the[SP]meetings...[SP]Haha...[SP]Who[SP]even\ncares[SP]anymore...",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "In Lak'ech... Idéalien... Le Roi Lion\nen a parlé pendant les réunions...\nHaha... Qui s'en soucie encore..."
   },
   {
@@ -1130,8 +1130,8 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Uuunghhh..[SP]Aaaaagh...[1205][000A][SP]Uaaagh...[E1][E2]\n[E3][E4][NULL][NULL]\"Weird[SP]woman\nHahahah...[SP]I've[SP]been[SP]mocked[SP]all[SP]my[SP]life[SP]for\nbeing[SP]butch,[SP]but[SP]that[SP]ends[SP]today![SP]I've[SP]finally\nbecome[SP]a[SP]man!",
-    "nom_fr": "Membre du Cercle Masqué",
-    "texte_fr": "Ggggn... Aaagh... Uaagh...[E1][E2]\n[E3][E4][NULL][NULL]\"Pas une femme Haha... Toute ma vie\non m'a dénigré car j'étais trop masculin,\nmaisc'est fini! Je suis enfin un homme!"
+    "nom_fr": "Membre du Cercle masqué",
+    "texte_fr": "Ggggn... Aaagh... Uaagh...[E1][E2]\n[E3][E4][NULL][NULL]\"Pas\nune femme Haha... Toute ma vie\non m'a dénigré car j'étais trop masculin,\nmaisc'est fini! Je suis enfin un homme!"
   },
   {
     "id": 73,
@@ -1250,7 +1250,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "The[SP]attacks[SP]must[SP]be[SP]the[SP]Masked[SP]Circle's[SP]doing!\nI[SP]mean,[SP]why[SP]not?[SP]Who[SP]but[SP]we[SP]of[SP]the[SP]Masked[SP]Circle\nwould[SP]pull[SP]off[SP]something[SP]so[SP]amazing?",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Ces attaques doivent être l'oeuvre du\nCercle Masqué! Pourquoi pas? Qui à part\nnous pourrait faire quelque chose de si fou?"
   },
   {
@@ -1265,7 +1265,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Light[SP]more[SP]fires[SP]and[SP]burn[SP]everything[SP]to[SP]ash!\nThis[SP]city--no,[SP]this[SP]world--filled[SP]with[SP]fools\nshould[SP]go[SP]down[SP]in[SP]flames![SP]Hahahaha!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Allumez d'autres feux et crâmez tout!\nCette ville--non, ce monde rempli d'idiots\ndevrait brûler dans les flammes! Hahaha!"
   },
   {
@@ -1280,7 +1280,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "The[SP]attempt[SP]on[SP]Smile[SP]Hirasaka[SP]was[SP]thwarted,\nbut[SP]the[SP]attacks[SP]will[SP]continue[SP]until[SP]every\nlast[SP]human[SP]in[SP]the[SP]city[SP]is[SP]incinerated.",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "L'attaque du Smile Hirasaka a été stoppée,\nmais les assauts s'enchaîneront jusqu'à\nl'incinération totale des habitants."
   },
   {
@@ -1295,7 +1295,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Where[SP]will[SP]we[SP]strike[SP]next?[SP]Heheheh...",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "On frappe où après? Héhé..."
   },
   {
@@ -1310,7 +1310,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "It's[SP]the[SP]Masked[SP]Circle[SP]who's[SP]behind[SP]these\nattacks![SP]Not[SP]any[SP]goddamn[SP]Last[SP]Battalion!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "C'est le Cercle Masqué qui a lancé ces\nattaques! Pas ces abrutis du Bataillon!"
   },
   {
@@ -1325,7 +1325,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "The[SP]Masked[SP]Circle[SP]will[SP]grant[SP]my[SP]ideals[SP]again!\nEvery[SP]foolish[SP]human[SP]across[SP]the[SP]globe[SP]will[SP]burn,\nleaving[SP]only[SP]we[SP]whose[SP]dreams[SP]are[SP]fulfilled!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Le Cercle Masqué accomplira mon\nidéal! Chaque humain idiot sur le\nglobe brûlera, nous épargnant nous\ndont les rêves ont été exaucés!"
   },
   {
@@ -1340,7 +1340,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Those[SP]guys[SP]in[SP]the[SP]composite[SP]sketches[SP]seem[SP]to[SP]be\nheroes[SP]fighting[SP]against[SP]the[SP]Masked[SP]Circle...\nThey're[SP]morons[SP]to[SP]try[SP]and[SP]challenge[SP]us...",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Ces gens sur les portraits robots seraient\ndes héros qui combattent le Cercle Masqué.\nCes idiots pensent pouvoir nous affronter..."
   },
   {
@@ -1355,7 +1355,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I[SP]heard[SP]a[SP]rumor[SP]that[SP]both[SP]we[SP]and[SP]the[SP]Last\nBattalion[SP]are[SP]after[SP]Xibalba.[SP]But[SP]what's[SP]it\nmean?[1205][000F][SP]I[SP]didn't[SP]know[SP]about[SP]this[SP]Xibalba[SP]thing.",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "La rumeur dit que nous et le Bataillon\nnous cherchons Xibalba. Mais ça veut dire\n[1205][000F]quoi? Je savais rien de ce Xibalba moi."
   },
   {
@@ -1370,7 +1370,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Joker[SP]ordered[SP]us[SP]to[SP]protect[SP]the[SP]people[SP]of[SP]the\ncity.[SP]Fine[SP]with[SP]me![SP]A[SP]man's[SP]place[SP]is[SP]on[SP]the\nbattlefield![SP]I'll[SP]show[SP]them[SP]how[SP]fierce[SP]we[SP]are!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Joker nous a ordonné de protéger les\nhabitants. Ça me va! Un homme doit se battre!\nOn va leur montrer comme on est féroces!"
   },
   {
@@ -1385,7 +1385,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "But[SP]first,[SP]I[SP]need[SP]some[SP]armor...",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Mais d'abord une armure..."
   },
   {
@@ -1474,7 +1474,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "What's[SP]there[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Siffleur",
-    "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "De quoi parler?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "What's[SP]there[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",

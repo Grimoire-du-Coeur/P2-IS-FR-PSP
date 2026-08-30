@@ -386,7 +386,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée\nATTENTION\nAucun bit actif.\n-Kanada[B_00][5501][B_00]",
+    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée",
     "question_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -471,7 +471,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée\nATTENTION\nAucun bit actif.\n-Kanada[B_00][5501][B_00]",
+    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée",
     "question_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -961,7 +961,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Grrrrr![SP]You[SP]bastards![SP]Joker[SP]made[SP]me[SP]a[SP]real\nwoman,[SP]but[SP]no[SP]one[SP]believes[SP]me!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Grrrrr! Joker a fait de moi une vraie\nfemme, mais personne ne me croit!"
   },
   {
@@ -976,7 +976,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Whether[SP]it[SP]looks[SP]good[SP]or[SP]not,[SP]I[SP]don't[SP]have\na[SP]thingie,[SP]so[SP]of[SP]course[SP]I'm[SP]a[SP]woman!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Que ça plaise ou non, je n'ai plus\nmon truc, alors je suis une femme!"
   },
   {
@@ -991,7 +991,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I[SP]had[SP]to[SP]do[SP]this...[1205][000F][SP]I[SP]only[SP]love[SP]men![SP]What[SP]else\nwas[SP]I[SP]supposed[SP]to[SP]do!?",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "J'étais obligée...[1205][000F] J'aime les\nhommes! Que pouvais-je faire!?"
   },
   {
@@ -1006,7 +1006,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "No[SP]one[SP]understands[SP]my[SP]pure[SP]heart![SP]I'm[SP]about\nready[SP]to[SP]go[SP]on[SP]a[SP]rampage!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Personne ne comprend mon cœur\npur! Je vais tout ravager!"
   },
   {
@@ -1021,7 +1021,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I'll[SP]get[SP]my[SP]revenge[SP]on[SP]all[SP]the[SP]men[SP]in[SP]the[SP]world\nby[SP]tearing[SP]their[SP]thingies[SP]out[SP]too!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Je me vengerai de tous les hommes\nen leur arrachant leur truc aussi!"
   },
   {
@@ -1036,7 +1036,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Idealians...[SP]Yes![SP]Idealians![SP]God[SP]hasn't\nforsaken[SP]me[SP]yet![SP]If[SP]I[SP]can't[SP]be[SP]a[SP]woman,\nI'll[SP]be[SP]a[SP]new[SP]type[SP]of[SP]human!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Idéaliens! Dieu ne m'a pas abandonnée!\nSi je ne peux être une femme, je\nserai un nouveau type d'humain!"
   },
   {
@@ -1051,7 +1051,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "If[SP]I[SP]become[SP]an[SP]Idealian,[SP]I'm[SP]sure[SP]I[SP]can[SP]find\ntrue[SP]love[SP]that[SP]transcends[SP]gender...",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Si je deviens une Idéalienne, je trouverai\nun amour vrai qui transcende le genre..."
   },
   {

@@ -131,7 +131,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée\nATTENTION\nAucun bit actif.\n-Kanada[B_00][5501][B_00]",
+    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée",
     "question_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -216,7 +216,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée\nATTENTION\nAucun bit actif.\n-Kanada[B_00][5501][B_00]",
+    "texte_fr": "Bien, que voulez-vous savoir?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée",
     "question_orig": "Okay,[SP]what[SP]do[SP]you[SP]want[SP]to[SP]know?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -331,7 +331,7 @@
     ],
     "nom_orig": "Chatty[SP]woman",
     "texte_orig": "Hey,[SP]have[SP]you[SP]heard?[1205][000F][SP]The[SP]Last[SP]Battalion[SP]just\nstormed[SP]into[SP]that[SP]weird[SP]building.",
-    "nom_fr": "Femme bavarde",
+    "nom_fr": "Bavarde",
     "texte_fr": "Vous avez entendu? [1205][000F]Le Bataillon\nvient d'envahir ce bâtiment bizarre."
   },
   {
@@ -346,7 +346,7 @@
     ],
     "nom_orig": "Chatty[SP]woman",
     "texte_orig": "I[SP]wonder[SP]what[SP]they're[SP]doing[SP]in[SP]there...[1205][000F]\nDon't[SP]you?[1205][000F][SP]You[SP]want[SP]to[SP]know[SP]too,[SP]right?",
-    "nom_fr": "Femme bavarde",
+    "nom_fr": "Bavarde",
     "texte_fr": "Je me demande ce qu'ils font dedans...[1205][000F] Pas vous? Vous voulez savoir, non?"
   },
   {

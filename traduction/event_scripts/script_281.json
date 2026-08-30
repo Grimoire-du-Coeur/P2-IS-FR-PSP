@@ -807,7 +807,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Heh.[SP]Soon[SP]the[SP]people[SP]of[SP]this[SP]city[SP]will[SP]realize\nthe[SP]truths[SP]of[SP]the[SP]In[SP]Lak'ech[SP]and[SP]will[SP]wait[SP]for\nthe[SP]promised[SP]hour.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nThat,[SP]after[SP]all,[SP]is[SP]why[SP]the[SP]Masked[SP]Circle\ngranted[SP]people's[SP]ideals.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nThe[SP]Masked[SP]Circle[SP]is[SP]made[SP]of[SP]normal[SP]people,\nwhen[SP]you[SP]get[SP]down[SP]to[SP]it.[1205][000F][SP]They'll[SP]never[SP]stand\na[SP]chance[SP]against[SP]the[SP]Last[SP]Battalion...",
     "nom_fr": "Maya",
-    "texte_fr": "Pfff. Bientôt, les gens d'ici reconnaîtront\nles vérités de l'In Lak'ech et attendront\nl'heure promise.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya C'est bien pour ça\nque le Cercle masqué a exaucé lesidéaux des\ngens.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya Le Cercle masqué n'est composé\nque de gens normaux, tout bienconsidéré. [1205]Il\nne pourra jamais tenir face au Bataillon..."
+    "texte_fr": "Pfff. Bientôt, les gens d'ici reconnaîtront\nles vérités de l'In Lak'ech et attendront\nl'heure promise.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nC'est bien pour ça\nque le Cercle masqué a exaucé lesidéaux des\ngens.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nLe Cercle masqué n'est composé\nque de gens normaux, tout bienconsidéré. [1205]Il\nne pourra jamais tenir face au Bataillon..."
   },
   {
     "id": 54,
@@ -1106,7 +1106,7 @@
     ],
     "nom_orig": "Hanako's[SP]mother",
     "texte_orig": "My[SP]girl[SP]says[SP]she[SP]ventured[SP]through[SP]Sevens[SP]to\nsee[SP]the[SP]emblem[SP]curse[SP]at[SP]work.[1205][001E][SP]She's[SP]such[SP]a\nfearless[SP]child...",
-    "nom_fr": "Mère de Hanako",
+    "nom_fr": "Mère d'Hanako",
     "texte_fr": "Ma fille a bravé Seven pour voir\nla malédiction des emblèmes.[1205][001E]\nQuelle enfant intrépide..."
   },
   {
@@ -1316,7 +1316,7 @@
     ],
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Ah,[SP]it's[SP]you.[1205][000A][SP]Hello.",
-    "nom_fr": "Toku-san",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Ah, c'est vous. Bonjour."
   },
   {
@@ -1332,7 +1332,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]can[SP]this[SP]old[SP]man[SP]do[SP]for[SP]you[SP]today?\n[1208][0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Toku-san\nNever[SP]mind",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Que puis-je faire pour vous?\n[1208][0003][1210][0475]Demander des rumeurs\nParler avec Toku-san\nNon merci",
+    "texte_fr": "Que puis-je faire pour vous?\n[1208][0003][1210][0475]Rumeurs\nParler à Toku-san\nRien",
     "question_orig": "What[SP]can[SP]this[SP]old[SP]man[SP]do[SP]for[SP]you[SP]today?",
     "choix_orig": [
       "[1210]Ask[SP]about[SP]rumors",
@@ -1358,7 +1358,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNone",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel type de rumeur?\n[1208][0004][1210][0476]Rumeurs: armes[SP][SP][SP][SP]\n[1210][0477]Rumeurs: armures[SP]\n[1210][0478]Autres rumeurs\nAucune",
+    "texte_fr": "Quel type de rumeur?\n[1208][0004][1210][0476]Rumeurs: armes\n[1210][0477]Rumeurs: armures\n[1210][0478]Autres\nRien",
     "question_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -1441,7 +1441,7 @@
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Toku-san l'informateur",
-    "texte_fr": "Quel type de rumeur?\n[1208][0004][1210][0472]Loteries de magazines[SP][SP][SP][SP][SP][SP]\n[1210][0473]Rumeurs: Mu\n[1210][0474]Armes légendaires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
+    "texte_fr": "Quel type de rumeur?\n[1208][0004][1210][0472]Loteries magazines[SP][SP][SP][SP][SP][SP]\n[1210][0473]Rumeurs: Mu\n[1210][0474]Armes legendaires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nRien",
     "question_orig": "What[SP]kind[SP]of[SP]rumor[SP]do[SP]you[SP]want[SP]to[SP]hear?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
@@ -1722,7 +1722,7 @@
     ],
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "I've[SP]heard[SP]that[SP]armor[SP]is[SP]this[SP]year's[SP]trend.\nA[SP]rube[SP]was[SP]here[SP]talking[SP]about[SP]it[SP]until[SP]a\nmoment[SP]ago.",
-    "nom_fr": "Toku-san",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "J'ai entendu que les armures sont\ntendance cette année. Un provincial\nen parlait encore il y a peu."
   },
   {
@@ -1827,7 +1827,7 @@
     ],
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "It[SP]seems[SP]the[SP]owner's[SP]claim[SP]that[SP]he[SP]can[SP]tailor\nanything,[SP]from[SP]armor[SP]to[SP]wedding[SP]dresses,[SP]was\nno[SP]mere[SP]boast.",
-    "nom_fr": "Toku-san",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Il semble que la prétention du patron\nà tout tailler, des armures aux\nrobes de mariée, n'était pas vaine."
   },
   {
@@ -1917,7 +1917,7 @@
     ],
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Huh?[SP]Masked[SP]Circle?[SP]No,[SP]I've[SP]never[SP]heard\nof[SP]them.",
-    "nom_fr": "Toku-san",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "Hm? Cercle masqué? Non, je\nn'en ai jamais entendu parler."
   },
   {
@@ -1977,7 +1977,7 @@
     ],
     "nom_orig": "Rumormonger[SP]Toku-san",
     "texte_orig": "Not[SP]only[SP]that,[SP]their[SP]tongues[SP]loosen.[SP]Here,[SP]one\nhears[SP]what[SP]people[SP]really[SP]think.[SP]Thus,[SP]I[SP]know\nthe[SP]miserable[SP]state[SP]of[SP]this[SP]world.",
-    "nom_fr": "Toku-san",
+    "nom_fr": "Toku-san l'informateur",
     "texte_fr": "De plus, les langues se délient. Ici, on\nentend ce que les gens pensent vraiment.\nAinsi je connais l'état misérable du monde."
   },
   {
@@ -2128,7 +2128,7 @@
     "nom_orig": "Young[SP]woman",
     "texte_orig": "C'mon,[SP]let's[SP]go[SP]see[SP]the[SP]Kasuga[SP]Festival.[1205][000F][SP]It'll\nbe[SP]sooo[SP]much[SP]fun![1205][000A][SP]I'm[SP]like,[SP]totally[SP]over[SP]this\npark[SP]already.[E1][E2]\n[E3][E4][NULL][NULL]\"Young[SP]woman\nGinji[SP]Sasaki[SP]is[SP]producing[SP]a[SP]new[SP]group,[SP]right?[1205][000F]\nHis[SP]songs[SP]are[SP]the[SP]best![SP]I'm[SP]sooooo[SP]looking\nforward[SP]to[SP]it!",
     "nom_fr": "Jeune femme",
-    "texte_fr": "Allez, on va voir le Festival\nKasuga. [1205][000F]Ce sera trop fun! J'en ai trop marre de ce parc de toute\nfaçon.[E1][E2]\n[E3][E4][NULL][NULL]\"Jeune femme Ginji Sasaki produit\nun nouveau groupe, non? Ses chansons sont\ntrop bien! J'ai trop hâte de voir ça!"
+    "texte_fr": "Allez, on va voir le Festival\nKasuga. [1205][000F]Ce sera trop fun! J'en ai trop marre de ce parc de toute\nfaçon.[E1][E2]\n[E3][E4][NULL][NULL]\"Jeune femme\nGinji Sasaki produit\nun nouveau groupe, non? Ses chansons sont\ntrop bien! J'ai trop hâte de voir ça!"
   },
   {
     "id": 138,
@@ -2577,7 +2577,7 @@
     ],
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "There's[SP]this[SP]guy[SP]named[SP]Tony[SP]in[SP]the[SP]Yumezaki\nshopping[SP]district.[1205][000F][SP]Rumor[SP]is[SP]that[SP]he's[SP]a\nfence[SP]for[SP]the[SP]Mafia.",
-    "nom_fr": "Étudiant",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Il y a un gars nommé Tony dans le\nquartier commerçant de Yumezaki. [1205][000F]La\nrumeur dit qu'il est receleur de la Mafia."
   },
   {
@@ -2727,7 +2727,7 @@
     ],
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]wonder[SP]what's[SP]so[SP]eerie[SP]about[SP]it.",
-    "nom_fr": "Étudiant",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Je me demande ce qui le rend si sinistre."
   },
   {
@@ -2787,7 +2787,7 @@
     ],
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "But[SP]what's[SP]the[SP]difference[SP]between[SP]a[SP]cursed\ntaxi[SP]and[SP]a[SP]cursed[SP]escort?",
-    "nom_fr": "Étudiant",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Mais quelle est la différence entre\nun taxi maudit et une escorte maudite?"
   },
   {
@@ -3447,7 +3447,7 @@
     ],
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]heard[SP]you[SP]can[SP]gamble[SP]at[SP]Mu[SP]in[SP]Yumezaki.\nApparently[SP]someone[SP]hit[SP]it[SP]big[SP]with[SP]poker.",
-    "nom_fr": "Étudiant",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "On peut jouer de l'argent au\nMu à Yumezaki. Quelqu'un aurait\ndécroché le jackpot au poker."
   },
   {
@@ -3462,7 +3462,7 @@
     ],
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]heard[SP]you[SP]can[SP]gamble[SP]at[SP]Mu[SP]in[SP]Yumezaki.\nApparently[SP]someone[SP]hit[SP]it[SP]big[SP]on[SP]the[SP]slots.",
-    "nom_fr": "Étudiant",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "On peut jouer de l'argent au Mu\nà Yumezaki. Quelqu'un a décroché\nle jackpot aux machines à sous."
   },
   {
@@ -3477,7 +3477,7 @@
     ],
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "I[SP]heard[SP]you[SP]can[SP]gamble[SP]at[SP]Mu[SP]in[SP]Yumezaki.\nApparently[SP]someone[SP]hit[SP]it[SP]big[SP]at[SP]blackjack.",
-    "nom_fr": "Étudiant",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "On peut jouer de l'argent au\nMu à Yumezaki. Quelqu'un aurait\ndécroché le jackpot au blackjack."
   },
   {
@@ -3627,7 +3627,7 @@
     ],
     "nom_orig": "Bored[SP]college[SP]student",
     "texte_orig": "Guess[SP]what?[SP]I[SP]heard[SP]the[SP]flowers[SP]in[SP]Aoba[SP]Park\ncan[SP]talk.[SP]I[SP]heard[SP]they're[SP]like[SP]people...\nThere's[SP]good[SP]ones[SP]and[SP]bad[SP]ones.",
-    "nom_fr": "",
+    "nom_fr": "Étudiant ennuyé",
     "texte_fr": "Vous savez quoi ? J'ai entendu que les\nfleurs du parc d'Aoba peuvent parler.\nParaît qu'elles sont comme des gens...\nY'en a des bonnes et des mauvaises."
   }
 ]

@@ -417,7 +417,7 @@
     "nom_orig": "Maya",
     "texte_orig": "People[SP]who[SP]have[SP]forgotten[SP]the[SP]memories[SP]of[SP]their\npast[SP]are[SP]beginning[SP]to[SP]realize,[SP]through[SP]the[SP]In\nLak'ech,[SP]the[SP]atonement[SP]they[SP]are[SP]destined[SP]for.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHeh...[SP]Don't[SP]you[SP]think[SP]so,[SP][1113]-kun?",
     "nom_fr": "Maya",
-    "texte_fr": "Ceux qui ont oublié leur passé réalisent,\nvia l'In Lak'ech, leur expiation destinée.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya Héhé... T'es pas d'accord, [1113]-kun?"
+    "texte_fr": "Ceux qui ont oublié leur passé réalisent,\nvia l'In Lak'ech, leur expiation destinée.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHéhé... T'es pas d'accord, [1113]-kun?"
   },
   {
     "id": 28,
@@ -641,7 +641,7 @@
     "nom_orig": "Count",
     "texte_orig": "And[SP]what[SP]do[SP]you[SP]wish[SP]to[SP]discuss?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Comte",
-    "texte_fr": "Et de quoi voulez-vous discuter?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée\nATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-KanadaATTENTION[E4][NULL][NULL]\nNo bits are up. Plese check this.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[B_00][5501][B_00]",
+    "texte_fr": "Et de quoi voulez-vous discuter?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sélection cachée",
     "question_orig": "And[SP]what[SP]do[SP]you[SP]wish[SP]to[SP]discuss?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1221,7 +1221,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Joker[SP]made[SP]me[SP]rich![SP]He[SP]granted[SP]my[SP]ideals!\nI'm[SP]happy[SP]now![SP]Then[SP]why[SP]does[SP]my[SP]heart[SP]still\nache!?",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Joker m'a enrichi! J'ai mon idéal! Je suis\nravi! Alors pourquoi mon cœur a si mal!?"
   },
   {
@@ -1236,7 +1236,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Aagh...[SP]This[SP]isn't[SP]right...[SP]It's[SP]like[SP]there's\na[SP]hole[SP]in[SP]my[SP]chest...[1205][000F][SP]Ngh...[SP]Dammit![SP]I'll\ndestroy[SP]this[SP]stupid[SP]store!",
-    "nom_fr": "Membre du Cercle",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Aagh... C'est anormal... C'est comme\nun vide dans ma poitrine...[1205][000F] Ngh...\nBon sang! Je détruirai cette boutique!"
   },
   {
@@ -1251,8 +1251,8 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Hahahaha,[SP]what[SP]fun![SP]This[SP]city[SP]should[SP]burn[SP]to\nthe[SP]ground![SP]That's[SP]what'll[SP]make[SP]me[SP]feel[SP]better!\nHahahaha![E1][E2]\n[E3][E4][NULL][NULL]\"Masked[SP]Circle[SP]member\nAaaaagh...[SP]Time's[SP]spinning...[1205][000F][SP]Something's\nmissing[SP]from[SP]inside[SP]me...[1205][000F][SP]Stop[SP]it...[SP]Stop\nthis[SP]clock!",
-    "nom_fr": "Membre du Cercle",
-    "texte_fr": "Hahahaha, amusant! Cette ville devrait\nbrûler! Ça me fera me sentir mieux!\nHahahaha![E1][E2]\n[E3][E4][NULL][NULL]\"Membre du Cercle Aaaaagh...[1205][000F] Le temps tourne...[1205][000F] Il manque un truc en\nmoi... Arrête... Arrête cette horloge!"
+    "nom_fr": "Membre du Cercle masqué",
+    "texte_fr": "Hahahaha, amusant! Cette ville devrait\nbrûler! Ça me fera me sentir mieux!\nHahahaha![E1][E2]\n[E3][E4][NULL][NULL]\"Membre\ndu Cercle Aaaaagh...[1205][000F] Le temps tourne...[1205][000F] Il manque un truc en\nmoi... Arrête... Arrête cette horloge!"
   },
   {
     "id": 81,
@@ -1476,7 +1476,7 @@
     "nom_orig": "Count",
     "texte_orig": "And[SP]what[SP]do[SP]you[SP]wish[SP]to[SP]discuss?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]shopping\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Comte",
-    "texte_fr": "Et de quoi voulez-vous discuter?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée\nATTENTION\nAucun bit actif.\n-KanadaATTENTION[E4][NULL][NULL]\nAucun bit actif. Vérifiez ceci.\n-Kanada[B_00][5501][B_00]",
+    "texte_fr": "Et de quoi voulez-vous discuter?\n[1208][0003]Bavarder\nParler boutique\n[1210]Sél. cachée",
     "question_orig": "And[SP]what[SP]do[SP]you[SP]wish[SP]to[SP]discuss?",
     "choix_orig": [
       "Make[SP]small[SP]talk",

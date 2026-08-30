@@ -312,7 +312,7 @@
     "nom_orig": "Master",
     "texte_orig": "Welcome...[1205][000F][SP]What[SP]would[SP]you[SP]like?\n[1208][0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Bienvenue...[1205][000F] Que souhaites-tu?\n[1208][0007][1210]Acheter [SP][SP][SP]\n[1210]Accessoires [SP][SP][SP]\n[1210]Vendre \nManger \nDiscuter \nRien merci[SP][SP][SP][SP][SP]\nFiler[03BD][035C][03BD]",
+    "texte_fr": "Bienvenue...[1205][000F] Que souhaites-tu?\n[1208][0007][1210]Acheter [SP][SP][SP]\n[1210]Accessoires [SP][SP][SP]\n[1210]Vendre\nManger \nDiscuter \nRien merci[SP][SP][SP][SP][SP]\nFiler[03BD][035C][03BD]",
     "question_orig": "Welcome...[1205][000F][SP]What[SP]would[SP]you[SP]like?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -372,7 +372,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BD]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Maître",
-    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sél. cachée\nATTENTION\nAucun bit actif.\n-Kanada[03BD][B_00][5501][B_00]",
+    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sél. cachée",
     "question_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -399,7 +399,7 @@
     "nom_orig": "Master",
     "texte_orig": "Will[SP]that[SP]be[SP]all?\n[1208][0007][1210][U+03BD]Buy[SP]weapons\n[1210][U+035C]Buy[SP]accessories\n[1210][U+03BD]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Master\nNever[SP]mind\nLeave",
     "nom_fr": "Maître",
-    "texte_fr": "Ce sera tout?\n[1208][0007][1210]Acheter [SP][SP][SP]\n[1210]Accessoires [SP][SP][SP]\n[1210]Vendre \nManger \nDiscuter \nRien merci[SP][SP][SP][SP][SP]\nFiler[03BD][035C][03BD]",
+    "texte_fr": "Ce sera tout?\n[1208][0007][1210]Acheter [SP][SP][SP]\n[1210]Accessoires [SP][SP][SP]\n[1210]Vendre\nManger \nDiscuter \nRien merci[SP][SP][SP][SP][SP]\nFiler[03BD][035C][03BD]",
     "question_orig": "Will[SP]that[SP]be[SP]all?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -459,7 +459,7 @@
     "nom_orig": "Master",
     "texte_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BD]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Maître",
-    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sélection cachée[03BD][B_00][5501][B_00][SP][SP][SP]",
+    "texte_fr": "De quoi parler?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sélection cachée[03BD][SP][SP][SP]",
     "question_orig": "What[SP]is[SP]there[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -695,7 +695,7 @@
     ],
     "nom_orig": "Office[SP]worker",
     "texte_orig": "Well,[SP]go[SP]to[SP]Hiiragi[SP]Psychotherapy[SP]then.[SP]I[SP]heard\nthey'll[SP]fix[SP]your[SP]eyes,[SP]but[SP]you'll[SP]have[SP]a[SP]whole\nother[SP]kind[SP]of[SP]problem.",
-    "nom_fr": "Employé de bureau",
+    "nom_fr": "Employé",
     "texte_fr": "Ben, va à Hiiragi Psychotherapy alors.\nIls soigneront tes yeux apparement,\nmais tu auras un autre type de souci."
   },
   {
@@ -710,7 +710,7 @@
     ],
     "nom_orig": "Office[SP]worker",
     "texte_orig": "What,[SP]you're[SP]saying[SP]they[SP]were[SP]having[SP]a[SP]costume\nparty[SP]at[SP]the[SP]concert[SP]hall?[SP]I[SP]forget[SP]what[SP]was\ngoing[SP]on[SP]there,[SP]but[SP]it[SP]wasn't[SP]that.",
-    "nom_fr": "Employé de bureau",
+    "nom_fr": "Employé",
     "texte_fr": "Quoi, tu dis qu'il y avait une fête costumée\nà la salle de concert? Je me souviens\npas trop, mais c'était pas ça je crois."
   },
   {
@@ -725,7 +725,7 @@
     ],
     "nom_orig": "Office[SP]worker",
     "texte_orig": "Get[SP]yourself[SP]to[SP]Hiiragi[SP]Psychotherapy.[SP]I[SP]hear\nthere's[SP]a[SP]pretty[SP]nurse[SP]there,[SP]so[SP]it'll[SP]help\nin[SP]all[SP]sorts[SP]of[SP]ways.",
-    "nom_fr": "Employé de bureau",
+    "nom_fr": "Employé",
     "texte_fr": "Va à Hiiragi Psychotherapy. Il y\naurait une jolie infirmière là-bas,\ndonc ça te redonneras la forme."
   },
   {
@@ -740,7 +740,7 @@
     ],
     "nom_orig": "Office[SP]worker",
     "texte_orig": "You're[SP]really[SP]gettong[SP]on[SP]my[SP]nerves![SP]What[SP]next?\nThe[SP]Aerospace[SP]Museum[SP]turned[SP]into[SP]a[SP]circus?\nWake[SP]up!",
-    "nom_fr": "Employé de bureau",
+    "nom_fr": "Employé",
     "texte_fr": "Tu me tapes sur les nerfs! Quoi encore? Le\nmusée est devenu un cirque? On se réveille!"
   },
   {
@@ -755,7 +755,7 @@
     ],
     "nom_orig": "Office[SP]worker",
     "texte_orig": "Huh?[SP]It[SP]got[SP]quiet[SP]all[SP]of[SP]a[SP]sudden.[SP]Yeah...\nSome[SP]really[SP]loud[SP]guy[SP]was[SP]talking...[SP]He[SP]and[SP]I\nwere...[SP]Odd.[SP]I[SP]can't[SP]remember[SP]it[SP]too[SP]well.",
-    "nom_fr": "Employé de bureau",
+    "nom_fr": "Employé",
     "texte_fr": "Hein? C'est devenu calme d'un coup. Oui...\nUn gars bruyant parlait... Lui et moi\non... Étrange. Je m'en souviens pas bien."
   },
   {
@@ -770,7 +770,7 @@
     ],
     "nom_orig": "Office[SP]worker",
     "texte_orig": "Hahaha...[SP]What's[SP]wrong[SP]with[SP]me!?[SP]I[SP]can[SP]see\nan[SP]army...[SP]That's[SP]some[SP]delusion![SP]Maybe[SP]I\nshould[SP]go[SP]to[SP]Hiiragi[SP]Psychotherapy[SP]too...!",
-    "nom_fr": "Employé de bureau",
+    "nom_fr": "Employé",
     "texte_fr": "Haha... Je vais pas bien ou quoi!? Je\nvois une armée... C'est une illusion! Je\ndevrais aller à Hiiragi Psychotherapy...!"
   },
   {
@@ -830,7 +830,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Why[SP]won't[SP]you[SP]believe[SP]me!?[SP]Rrgh![SP]Nothing's\nchanged,[SP]even[SP]when[SP]Joker[SP]fixed[SP]my[SP]eyesight!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Pourquoi tu me crois pas!? Grr! Rien n'a\nchangé, alors que Joker a corrigé ma vue!"
   },
   {
@@ -845,7 +845,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I[SP]really[SP]saw[SP]a[SP]lion-masked[SP]guy[SP]outside[SP]the\nconcert[SP]hall![SP]If[SP]you[SP]don't[SP]believe[SP]me,[SP]I'll\nset[SP]fire[SP]to[SP]it![SP]Then[SP]you'll[SP]see![SP]Hah!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Y'a un type au masque de lion en dehors\nde la salle de concert! Si tu me crois\npas, j'y mettrais le feu! Tu verras! Hah!"
   },
   {
@@ -860,7 +860,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I[SP]told[SP]you,[SP]it[SP]wasn't[SP]a[SP]mistake![SP]The[SP]lion-\nmasked[SP]guy[SP]went[SP]into[SP]the[SP]Aerospace[SP]Museum!\nI[SP]saw[SP]it[SP]with[SP]my[SP]own[SP]perfectly[SP]good[SP]eyes!",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Je t'ai dit, c'était pas une erreur! Le\ntype au masque de lion est entré dans le\nmusée! Je l'ai vu avec mes très bons yeux!"
   },
   {
@@ -875,7 +875,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "The[SP]blimp...[SP]in[SP]the[SP]museum...[SP]flew[SP]away...\nI[SP]saw...[SP]with[SP]my[SP]own[SP]eyes...[SP]Whatever...\nNo[SP]one[SP]will[SP]believe[SP]me[SP]anyway...",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Le dirigeable... du musée...\nvolait... Je l'ai vu... de mes propres\nyeux... Bah... Personne me croira..."
   },
   {
@@ -890,7 +890,7 @@
     ],
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Uuughh...[SP]ugh...[SP]uunngh...",
-    "nom_fr": "Membre du Cercle Masqué",
+    "nom_fr": "Membre du Cercle masqué",
     "texte_fr": "Uugh... Ugh... ungh..."
   },
   {

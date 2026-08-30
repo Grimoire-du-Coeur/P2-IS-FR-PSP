@@ -297,7 +297,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Snrk...[SP]Ahahahahah![1205][001E][SP]You[SP]Yisi![SP]That's[SP]hilarious![1205][001E]\nCostume[SP]practice?[SP]You[SP]always[SP]dress[SP]like[SP]that![E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nHaime!?[SP]Seriously!?[SP]The[SP]Undie[SP]Boss[SP]lives[SP]in\nfear[SP]of[SP]his[SP]dad!?",
     "nom_fr": "Lisa",
-    "texte_fr": "Pfft... Ahahaha![1205][001E] You Yisi! C'est tordant![1205][001E]\nQuel costume? Tu t'habilles toujours\ncomme ça![E1][E2]\n[E3][E4][NULL][NULL]\"Ginko Haime!? Sérieux!? Le\nBoss en Caleçon a peur de son père!?"
+    "texte_fr": "Pfft... Ahahaha![1205][001E] You Yisi! C'est tordant![1205][001E]\nQuel costume? Tu t'habilles toujours\ncomme ça![E1][E2]\n[E3][E4][NULL][NULL]\"Ginko\nHaime!? Sérieux!? Le\nBoss en Caleçon a peur de son père!?"
   },
   {
     "id": 20,
@@ -807,7 +807,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Poor[SP]thing.[1205][000F][SP]I[SP]know.[SP]You're[SP]desperate[SP]to[SP]again\nbury[SP]the[SP]memories[SP]of[SP]the[SP]past[SP]that[SP]threaten\nto[SP]claw[SP]to[SP]the[SP]surface...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nThat's[SP]why[SP]you're[SP]anxious.[1205][000F][SP]But[SP]once[SP]those\nmemories[SP]are[SP]freed,[SP]you'll[SP]be[SP]released[SP]from\nyour[SP]suffering.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nNow,[SP]let's[SP]go[SP]remember[SP]everything.[1205][000F][SP]Heh...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nWhere[SP]in[SP]Mt.[SP]Katatsumuri[SP]would[SP]Fujii-san[SP]be...?\nI[SP]wonder[SP]if[SP]Yukki[SP]has[SP]any[SP]suggestions.",
     "nom_fr": "Maya",
-    "texte_fr": "Ma pauvre. [1205][000F]Je sais. Tu veux désespérément\nenfouir tes souvenirs du passé qui veulent\nrefaire surface...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya C'est pour\nça que tu angoisses. Mais une fois ces\nsouvenirslibérés, tu seras libre de tes\nsouffrances.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya Maintenant, allons tout\nnous rappeler. Héhé...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya Où Fujii-san\npourrait-il être au Mont Katatsumuri...?\nJe me demande si Yukki aune idée."
+    "texte_fr": "Ma pauvre. [1205][000F]Je sais. Tu veux désespérément\nenfouir tes souvenirs du passé qui veulent\nrefaire surface...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nC'est pour\nça que tu angoisses. Mais une fois ces\nsouvenirslibérés, tu seras libre de tes\nsouffrances.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nMaintenant, allons tout\nnous rappeler. Héhé...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nOù Fujii-san\npourrait-il être au Mont Katatsumuri...?\nJe me demande si Yukki aune idée."
   },
   {
     "id": 54,
@@ -1179,7 +1179,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1232,7 +1232,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1285,7 +1285,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1338,7 +1338,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1391,7 +1391,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1444,7 +1444,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1497,7 +1497,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1550,7 +1550,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1603,7 +1603,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1656,7 +1656,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1709,7 +1709,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1762,7 +1762,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1815,7 +1815,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -2227,7 +2227,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Sur quoi?\n[1208][0004][1210][0476]Rumeurs armureries\n[1210][0477]Rumeurs armures[SP][SP]\n[1210][0478]Autres rumeurs[SP]\nRien",
+    "texte_fr": "Sur quoi?\n[1208][0004][1210][0476]Rumeurs armureries\n[1210][0477]Rumeurs armures[SP][SP]\n[1210][0478]Autres[SP]\nRien",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -2310,7 +2310,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Sur quoi?\n[1208][0004][1210][0472]Tirages de magazines[SP][SP][SP][SP][SP][SP][SP]\n[1210][0473]Infos Mu[SP]\n[1210][0474]Armes légendaires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
+    "texte_fr": "Sur quoi?\n[1208][0004][1210][0472]Tirages de magazines[SP][SP][SP][SP][SP][SP][SP]\n[1210][0473]Infos Mu[SP]\n[1210][0474]Armes légendaires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nRien",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
@@ -2636,7 +2636,7 @@
     ],
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Wow,[SP]the[SP]Boss[SP]at[SP]Cuss[SP]High[SP]is[SP]trying[SP]to[SP]start\na[SP]band?[SP]And[SP]he's[SP]gonna[SP]be[SP]the[SP]vocalist?[SP]Hahaha,\nseems[SP]like[SP]a[SP]pretty[SP]common[SP]scenario.",
-    "nom_fr": "Toro",
+    "nom_fr": "Toro l'informateur",
     "texte_fr": "Ouah, le Boss de Lycée Kakasu veut créer un\ngroupe? Et il va être le chanteur? Hahaha,\nça semble être un scénario plutôt commun."
   },
   {
@@ -3146,7 +3146,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I'm[SP]a[SP]member[SP]of[SP]Sushi[SP]Royalty.[SP]It's[SP]a[SP]sushi-\nlovers'[SP]club[SP]that[SP]meets[SP]here[SP]to[SP]exchange\ninformation[SP]with[SP]each[SP]other.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Je suis de la Royauté du Sushi. C'est\nun club d'amateurs de sushis qui\nse réunit pour échanger des infos."
   },
   {
@@ -3161,7 +3161,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Actually,[SP]I[SP]have[SP]quite[SP]a[SP]taste[SP]for[SP]sushi[SP]and\nrumors[SP]myself.[SP]I[SP]was[SP]asking[SP]Toro-san,[SP]our\nBaron[SP]Sushi,[SP]about[SP]rumors[SP]just[SP]now.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "En fait, j'ai un goût pour les sushis\net les rumeurs. Je demandais justement\nà Toro, notre Baron Sushi, des rumeurs."
   },
   {
@@ -3176,7 +3176,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Ma'am[SP]at[SP]Shiraishi[SP]Ramen[SP]is[SP]actually\na[SP]former[SP]Russian[SP]spy.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "La boss du Shiraishi Ramen\nserait une ex-espionne russe."
   },
   {
@@ -3191,7 +3191,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Rumor[SP]has[SP]it[SP]she[SP]still[SP]uses[SP]her[SP]connections\nfrom[SP]those[SP]days[SP]to[SP]smuggle[SP]weapons[SP]into[SP]the\ncountry[SP]from[SP]Russia.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Elle utiliserait encore ses\nvieilles relations pour faire entrer\ndes armes russes dans le pays."
   },
   {
@@ -3206,7 +3206,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "It[SP]seems[SP]there's[SP]a[SP]rumor[SP]going[SP]around[SP]high\nschoolers[SP]that[SP]the[SP]new[SP]Leader[SP]was[SP]weaker[SP]than\nEikichi,[SP]but...[SP]who[SP]are[SP]they[SP]talking[SP]about?",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Il y a une rumeur chez les lycéens\ndisant que le nouveau Leader était plus\nfaible qu'Eikichi... De qui parlent-ils?"
   },
   {
@@ -3221,7 +3221,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "The[SP]third[SP]member[SP]of[SP]Muses[SP]is[SP]still[SP]a[SP]mystery.\nIt's[SP]human[SP]nature[SP]to[SP]be[SP]intrigued[SP]by[SP]such\nthings.[1205][000F][SP]It's[SP]a[SP]very[SP]clever[SP]promotional[SP]trick.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Le 3e membre des Muses est un mystère. C'est\ndans la nature humaine d'être intrigué.\n[1205][000F]C'est une tactique très ingénieuse."
   },
   {
@@ -3236,7 +3236,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "The[SP]third[SP]member[SP]of[SP]Muses[SP]has[SP]finally[SP]been\nannounced![1205][000F][SP]Sadly,[SP]I[SP]only[SP]heard[SP]her[SP]voice[SP]over\nthe[SP]radio...[SP]I[SP]can't[SP]wait[SP]to[SP]see[SP]her[SP]face!",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Le 3e membre des Muses a été annoncé!\n[1205][000F]Je n'ai entendu sa voix qu'à la\nradio... J'ai hâte de voir son visage!"
   },
   {
@@ -3251,7 +3251,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]thought[SP]the[SP]recent[SP]terrorism[SP]wave[SP]was[SP]the\nwork[SP]of[SP]the[SP]Masked[SP]Circle,[SP]but[SP]lately[SP]I[SP]hear\nit's[SP]a[SP]group[SP]of[SP]five[SP]youths.[SP]Which[SP]is[SP]true?",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Je pensais que le terrorisme était l'œuvre\ndu Cercle masqué, mais on dit que c'est\nun groupe de cinq jeunes. Qui dit vrai?"
   },
   {
@@ -3266,7 +3266,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Smile[SP]Hirasaka's[SP]just[SP]an[SP]ordinary[SP]train\nstation.[1205][000F][SP]What[SP]do[SP]the[SP]terrorists[SP]hope[SP]to\ngain[SP]by[SP]blowing[SP]it[SP]up?",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Smile Hirasaka n'est qu'une gare[1205][000F]\nordinaire. Qu'espèrent gagner\nles terroristes en la détruisant?"
   },
   {
@@ -3281,7 +3281,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "It's[SP]rare[SP]to[SP]hear[SP]a[SP]rumor[SP]that[SP]outright\ncontradicts[SP]another[SP]one[SP]being[SP]spread[SP]around.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Rare d'entendre une rumeur qui contredit\ndirectement une autre qui circule."
   },
   {
@@ -3296,7 +3296,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "But[SP]if[SP]there[SP]is[SP]a[SP]group[SP]fighting[SP]the[SP]Masked\nCircle...[SP]That's[SP]pretty[SP]interesting[SP]in[SP]its\nown[SP]right.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Mais s'il y a un groupe luttant contre le\nCercle masqué... C'est assez intéressant."
   },
   {
@@ -3311,7 +3311,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "First[SP]the[SP]wave[SP]of[SP]terrorism[SP]and[SP]now[SP]this\nIn[SP]Lak'ech.[SP]Reality[SP]is[SP]stranger[SP]than[SP]rumors\nat[SP]times...[1205][000F][SP]Who[SP]can[SP]say[SP]what[SP]will[SP]happen?",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Les terroristes, puis l'In Lak'ech. La\nréalité est parfois plus étrange que les[1205][000F]\nrumeurs... Qui sait ce qui va se passer?"
   },
   {
@@ -3326,7 +3326,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Those[SP]Last[SP]Battalion[SP]troops[SP]have[SP]some[SP]high-\ntech[SP]sensors.[SP]Even[SP]if[SP]people[SP]try[SP]to[SP]hide,\nthey[SP]can[SP]tell[SP]where[SP]we[SP]are.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Les troupes du Bataillon ont des\ncapteurs high-tech. Même si les gens\nse cachent, ils peuvent nous repérer."
   },
   {
@@ -3341,7 +3341,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Rumor[SP]has[SP]it[SP]that[SP]the[SP]ghost[SP]Hanako-san[SP]is\nhaunting[SP]Sevens.[1205][000F][SP]Does[SP]she[SP]actually[SP]exist?",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "La rumeur veut que le fantôme Hanako-san\nhante Seven. [1205][000F]Existe-t-elle vraiment?"
   },
   {
@@ -3356,7 +3356,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Did[SP]you[SP]hear?[SP]The[SP]ghost[SP]Bukimi-chan[SP]is[SP]haunting\nKasugayama[SP]High.[SP]First[SP]the[SP]masquerade,[SP]now\nthis...[SP]That's[SP]one[SP]crazy[SP]school.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Tu savais? Le fantôme de Bukimi-chan\nhante Lycée Kakasu. La mascarade, et\nmaintenant ça... C'est une école de fous."
   },
   {
@@ -3371,7 +3371,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]heard[SP]the[SP]ghost[SP]of[SP]an[SP]idol[SP]who[SP]starved[SP]to\ndeath[SP]at[SP]Aoba[SP]Park[SP]is[SP]appearing[SP]there.[SP]That's\none[SP]of[SP]the[SP]saddest[SP]things[SP]I've[SP]ever[SP]heard...",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Le fantôme d'une idole morte de faim au\nParc Aoba y apparaîtrait. C'est l'une des\nchoses les plus tristes que j'aie entendues."
   },
   {
@@ -3386,7 +3386,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Apparently,[SP]a[SP]cursed[SP]taxi[SP]is[SP]frequently[SP]found\nparked[SP]at[SP]the[SP]abandoned[SP]factory[SP]in[SP]Kounan.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Apparemment, un taxi maudit se gare\nsouvent à l'usine abandonnée de Kounan."
   },
   {
@@ -3401,7 +3401,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I've[SP]heard[SP]a[SP]lot[SP]of[SP]bad[SP]stories[SP]about[SP]that\nplace,[SP]but[SP]the[SP]cursed[SP]taxi[SP]was[SP]a[SP]surprise.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "J'ai entendu de sales histoires sur ce\nlieu, mais le taxi maudit était inattendu."
   },
   {
@@ -3416,7 +3416,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]a[SP]Cursed[SP]Escort[SP]is[SP]parked[SP]at[SP]the\nabandoned[SP]factory.[SP]It[SP]goes[SP]into[SP]the[SP]city\nevery[SP]night[SP]to[SP]kill...[SP]Now[SP]that's[SP]scary!",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "On dit qu'une Escorte maudite se gare\nà l'usine. Elle va en ville chaque\nnuit pour tuer... Ça c'est terrifiant!"
   },
   {
@@ -3431,7 +3431,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Apparently,[SP]Kuchisake-onna[SP]is[SP]at[SP]Mt.[SP]Iwato.\nMy[SP]teachers[SP]used[SP]to[SP]say[SP]that[SP]if[SP]I[SP]didn't[SP]head\nstraight[SP]home[SP]after[SP]school,[SP]she'd[SP]get[SP]me.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Apparemment, Kuchisake-onna est au Mont\nIwato. Mes profs disaient que si je ne\nrentrais pas vite, elle m'attraperait."
   },
   {
@@ -3446,7 +3446,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "There've[SP]been[SP]sightings[SP]of[SP]the[SP]Jumping[SP]Geezer\nat[SP]Mt.[SP]Katatsumuri.[SP]I[SP]thought[SP]it[SP]showed[SP]up[SP]on\nroads[SP]and[SP]tunnels...[SP]add[SP]mountains[SP]to[SP]the[SP]list.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Le Vieux sauteur a été vu au Mont\nKatatsumuri. Je pensais qu'il apparaissait\nsur les routes... ajoutons la montagne."
   },
   {
@@ -3461,7 +3461,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Gah...[1205][000F][SP]I[SP]heard[SP]something[SP]awful...[1205][000F][SP]K-Kudan's...\nKudan's[SP]at[SP]the[SP]abandoned[SP]factory...[1205][000F][SP]No,[SP]I[SP]don't\nwant[SP]to[SP]think[SP]about[SP]it!",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Gah...[1205][000F] J'ai entendu une chose\nhorrible... K-Kudan... Kudan est à\nl'usine... Non, je ne veux pas y penser!"
   },
   {
@@ -3476,7 +3476,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "You[SP]know[SP]about[SP]Giga[SP]Macho's[SP]secret[SP]CD?[1205][000F]\nI[SP]hear[SP]there[SP]is[SP]one.[SP]I'd[SP]love[SP]to[SP]know[SP]what\nkind[SP]of[SP]tracks[SP]are[SP]on[SP]it.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Connais-tu le CD secret de Giga\n[1205][000F]Macho? Il y en aurait un. Je\nveux savoir quelles pistes il a."
   },
   {
@@ -3491,7 +3491,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "The[SP]dreaded[SP]Dresser[SP]Hag[SP]is[SP]apparently[SP]showing\nup[SP]at[SP]the[SP]abandoned[SP]factory[SP]in[SP]Kounan.[1205][000F][SP]What\nkind[SP]of[SP]monster[SP]is[SP]that,[SP]I[SP]ask[SP]you?",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "La terrible Sorcière de commode\napparaîtrait à l'usine de Kounan.\n[1205][000F]Quel genre de monstre est-ce donc?"
   },
   {
@@ -3506,7 +3506,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Time[SP]Castle[SP]in[SP]Rengedai[SP]sells[SP]real\nweapons.[SP]Sounds[SP]dangerous...[SP]Seems[SP]the[SP]quality\nand[SP]price[SP]of[SP]their[SP]stuff[SP]is[SP]pretty[SP]average.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Le Time Castle à Rengedai vendrait de\nvraies armes. Dangereux... Il semble que\nla qualité et le prix soient assez moyens."
   },
   {
@@ -3521,7 +3521,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Time[SP]Castle[SP]in[SP]Rengedai[SP]sells[SP]real\nweapons.[SP]Sounds[SP]dangerous...[SP]It's[SP]good[SP]quality\nstuff,[SP]but[SP]it's[SP]pricey.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Le Time Castle à Rengedai vendrait\nde vraies armes. Dangereux... C'est\nde bonne qualité, mais ça coûte cher."
   },
   {
@@ -3536,7 +3536,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Time[SP]Castle[SP]in[SP]Rengedai[SP]sells[SP]real\nweapons.[SP]Sounds[SP]dangerous...[SP]It's[SP]cheap,\nsubpar[SP]stuff.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Le Time Castle à Rengedai vend\nde vraies armes. Dangereux...\nC'est bon marché mais médiocre."
   },
   {
@@ -3551,7 +3551,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Tony's[SP]Shop[SP]in[SP]Yumezaki[SP]sells[SP]real\nweapons.[SP]His[SP]selection[SP]is[SP]good,[SP]but[SP]he\ndoesn't[SP]pay[SP]much[SP]on[SP]resale.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Le Tony's Shop à Yumezaki vend\nde vraies armes. Sa sélection est\nbonne, mais il paie mal à la revente."
   },
   {
@@ -3566,7 +3566,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Tony's[SP]Shop[SP]in[SP]Yumezaki[SP]sells[SP]real\nweapons.[SP]They're[SP]cheap,[SP]but[SP]low[SP]quality.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Tony's Shop à Yumezaki vend de vraies\narmes. Pas cher mais de basse qualité."
   },
   {
@@ -3581,7 +3581,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Tony's[SP]Shop[SP]in[SP]Yumezaki[SP]sells[SP]real\nweapons.[SP]The[SP]quality[SP]and[SP]prices[SP]of[SP]his[SP]stuff\nis[SP]pretty[SP]average.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Le Tony's Shop à Yumezaki vend\nde vraies armes. La qualité et\nles prix sont dans la moyenne."
   },
   {
@@ -3596,7 +3596,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]Tony's[SP]Shop[SP]in[SP]Yumezaki[SP]sells[SP]real\nweapons.[SP]His[SP]stuff[SP]is[SP]high[SP]quality,[SP]but[SP]it\nseems[SP]pricey.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Le Tony's Shop à Yumezaki vend\nde vraies armes. C'est de bonne\nqualité mais ça coûte cher."
   },
   {
@@ -3611,7 +3611,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Did[SP]you[SP]hear?[SP]Clair[SP]de[SP]Lune[SP]in[SP]Aoba[SP]apparently\nsells[SP]real[SP]weapons.[SP]Their[SP]selection[SP]is[SP]poor,\nbut[SP]they[SP]pay[SP]a[SP]lot[SP]on[SP]resale.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "T'es au courant? Clair de Lune à Aoba\nvendrait de vraies armes. Leur choix\nest mauvais, mais ils reprennent cher."
   },
   {
@@ -3626,7 +3626,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Did[SP]you[SP]hear?[SP]Clair[SP]de[SP]Lune[SP]in[SP]Aoba[SP]apparently\nsells[SP]real[SP]weapons.[SP]Their[SP]prices[SP]are[SP]cheap,\nbut[SP]the[SP]quality[SP]of[SP]their[SP]stuff[SP]is[SP]subpar.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "T'es au courant? Clair de Lune à Aoba\nvendrait de vraies armes. Leurs prix sont\nbas, mais la qualité l'est tout autant."
   },
   {
@@ -3641,7 +3641,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Did[SP]you[SP]hear?[SP]Clair[SP]de[SP]Lune[SP]in[SP]Aoba[SP]apparently\nsells[SP]real[SP]weapons.[SP]Their[SP]stuff[SP]is[SP]good\nquality,[SP]but[SP]it's[SP]pricey.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "T'es au courant? Clair de Lune à Aoba\nvendrait de vraies armes. C'est de\nbonne qualité, mais ça coûte cher."
   },
   {
@@ -3656,7 +3656,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Did[SP]you[SP]hear?[SP]Clair[SP]de[SP]Lune[SP]in[SP]Aoba[SP]apparently\nsells[SP]real[SP]weapons.[SP]Their[SP]selection[SP]is[SP]good,\nbut[SP]their[SP]resale[SP]prices[SP]are[SP]low.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "T'es au courant? Clair de Lune à Aoba\nvendrait de vraies armes. Leur choix\nest bon, mais la reprise l'est moins."
   },
   {
@@ -3671,7 +3671,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Did[SP]you[SP]hear?[SP]Clair[SP]de[SP]Lune[SP]in[SP]Aoba[SP]apparently\nsells[SP]real[SP]weapons.[SP]The[SP]quality[SP]and[SP]price[SP]of\ntheir[SP]stuff[SP]is[SP]pretty[SP]average.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "T'es au courant? Clair de Lune à\nAoba vendrait de vraies armes. La\nqualité et le prix sont assez moyens."
   },
   {
@@ -3686,7 +3686,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real[SP]weapons,\nI[SP]hear.[SP]The[SP]quality[SP]and[SP]price[SP]of[SP]stuff\nthere[SP]seems[SP]average.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Jolly Roger à Kounan vendrait\nde vraies armes. Le prix et la\nqualité semblent dans la moyenne."
   },
   {
@@ -3701,7 +3701,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real[SP]weapons,\nI[SP]hear.[SP]The[SP]quality[SP]of[SP]their[SP]stuff[SP]is[SP]subpar,\nbut[SP]their[SP]prices[SP]are[SP]reasonable.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Jolly Roger à Kounan vendrait de\nvraies armes. La qualité est médiocre,\nmais leurs prix sont raisonnables."
   },
   {
@@ -3716,7 +3716,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real[SP]weapons,\nI[SP]hear.[SP]Their[SP]selection[SP]is[SP]good,[SP]but[SP]the\nresale[SP]price[SP]there[SP]is[SP]low.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Jolly Roger à Kounan vendrait de\nvraies armes. La sélection est bonne,\nmais le prix de revente est bas."
   },
   {
@@ -3731,7 +3731,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real[SP]weapons,\nI[SP]hear.[SP]They[SP]pay[SP]a[SP]lot[SP]on[SP]resale,[SP]but[SP]their\nselection[SP]is[SP]pretty[SP]bad.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Jolly Roger à Kounan vendrait de\nvraies armes. Ils paient bien à la\nrevente, mais la sélection est pauvre."
   },
   {
@@ -3746,7 +3746,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Jolly[SP]Roger[SP]in[SP]Kounan[SP]sells[SP]real[SP]weapons,\nI[SP]hear.[SP]Their[SP]stuff[SP]is[SP]pricey,[SP]but[SP]the\nquality[SP]is[SP]good.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Jolly Roger à Kounan vendrait\nde vraies armes. C'est assez\ncher, mais la qualité est là."
   },
   {
@@ -3761,7 +3761,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Word[SP]is,[SP]Rosa[SP]Candida[SP]in[SP]Rengedai[SP]sells\nreal[SP]armor.[SP]The[SP]quality[SP]and[SP]price[SP]of[SP]it\nseems[SP]standard.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Rosa Candida à Rengedai vend de vraies\narmures. Qualité et prix semblent standards."
   },
   {
@@ -3776,7 +3776,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Word[SP]is,[SP]Rosa[SP]Candida[SP]in[SP]Rengedai[SP]sells\nreal[SP]armor.[SP]Their[SP]stuff[SP]is[SP]cheap,[SP]and[SP]the\nquality[SP]seems[SP]low.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "On dit que Rosa Candida à Rengedai\nvend de vraies armures. C'est\nbon marché et de basse qualité."
   },
   {
@@ -3791,7 +3791,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Word[SP]is,[SP]Rosa[SP]Candida[SP]in[SP]Rengedai[SP]sells\nreal[SP]armor.[SP]It's[SP]good-quality[SP]stuff,\nbut[SP]pricey.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Rosa Candida à Rengedai vend de vraies\narmures. C'est de bonne qualité, mais cher."
   },
   {
@@ -3806,7 +3806,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Is[SP]it[SP]true[SP]you[SP]can[SP]buy[SP]real[SP]armor[SP]at\nAnima[SP]Mundi?[SP]I[SP]hear[SP]that[SP]their[SP]stuff[SP]is\npretty[SP]average[SP]in[SP]price[SP]and[SP]quality.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Vrai qu'on achète de vraies\narmures à Anima Mundi? On dit que\nc'est moyen en qualité et prix."
   },
   {
@@ -3821,7 +3821,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Is[SP]it[SP]true[SP]you[SP]can[SP]buy[SP]real[SP]armor[SP]at\nAnima[SP]Mundi?[SP]I[SP]hear[SP]that[SP]their[SP]stuff[SP]is\ncheap,[SP]but[SP]the[SP]quality[SP]is[SP]low.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Vrai qu'on achète de vraies armures\nà Anima Mundi? On dit que c'est\npas cher mais de basse qualité."
   },
   {
@@ -3836,7 +3836,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Is[SP]it[SP]true[SP]you[SP]can[SP]buy[SP]real[SP]armor[SP]at\nAnima[SP]Mundi?[SP]I[SP]hear[SP]that[SP]their[SP]selection\nis[SP]good,[SP]but[SP]their[SP]resale[SP]prices[SP]are[SP]low.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Vrai qu'on peut acheter de vraies armures\nà Anima Mundi? On dit que le choix\nest bon, mais la revente l'est moins."
   },
   {
@@ -3851,7 +3851,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Is[SP]it[SP]true[SP]you[SP]can[SP]buy[SP]real[SP]armor[SP]at\nAnima[SP]Mundi?[SP]I[SP]hear[SP]that[SP]their[SP]stuff[SP]is\ngood[SP]quality,[SP]but[SP]it's[SP]pricey.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Vrai qu'on achète de vraies armures\nà Anima Mundi? On dit que c'est\nde bonne qualité mais très cher."
   },
   {
@@ -3866,7 +3866,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]seems[SP]to[SP]handle[SP]real\narmor[SP]as[SP]well.[SP]Their[SP]selection[SP]is[SP]the[SP]pits,\nbut[SP]they[SP]pay[SP]a[SP]lot[SP]on[SP]resale.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Rosa Candida à Aoba vend aussi de\nvraies armures. Leurs choix sont nuls,\nmais ils paient beaucoup à la revente."
   },
   {
@@ -3881,7 +3881,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]seems[SP]to[SP]handle[SP]real\narmor[SP]as[SP]well.[SP]The[SP]quality[SP]and[SP]price[SP]of\ntheir[SP]stuff[SP]seems[SP]average.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Rosa Candida à Aoba vend aussi\nde vraies armures. La qualité\net les prix sont assez moyens."
   },
   {
@@ -3896,7 +3896,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]seems[SP]to[SP]handle[SP]real\narmor[SP]as[SP]well.[SP]Their[SP]stuff[SP]is[SP]good[SP]quality,\nbut[SP]it's[SP]pricey.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Rosa Candida à Aoba vend aussi\nde vraies armures. C'est de bonne\nqualité, mais ça coûte cher."
   },
   {
@@ -3911,7 +3911,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]seems[SP]to[SP]handle[SP]real\narmor[SP]as[SP]well.[SP]Their[SP]prices[SP]are[SP]reasonable,\nbut[SP]the[SP]quality[SP]isn't[SP]very[SP]good.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Rosa Candida à Aoba vend aussi de\nvraies armures. Les prix sont corrects,\nmais la qualité n'est pas top."
   },
   {
@@ -3926,7 +3926,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Rosa[SP]Candida[SP]in[SP]Aoba[SP]seems[SP]to[SP]handle[SP]real\narmor[SP]as[SP]well.[SP]Their[SP]selection[SP]is[SP]good,\nbut[SP]they[SP]don't[SP]pay[SP]much[SP]on[SP]resale.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Rosa Candida à Aoba vend aussi de\nvraies armures. Leur choix est bon,\nmais la revente l'est beaucoup moins."
   },
   {
@@ -3941,7 +3941,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Does[SP]that[SP]London[SP]Clothier[SP]tailor[SP]armor[SP]too?\nLooks[SP]can[SP]be[SP]deceiving,[SP]I[SP]guess.[SP]Their[SP]selection\nis[SP]good,[SP]but[SP]the[SP]resale[SP]price[SP]is[SP]low.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "London Clothier fait des armures sur\nmesure? Les apparences sont trompeuses. Le\nchoix est bon, mais la revente est basse."
   },
   {
@@ -3956,7 +3956,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Does[SP]that[SP]London[SP]Clothier[SP]tailor[SP]armor[SP]too?\nLooks[SP]can[SP]be[SP]deceiving,[SP]I[SP]guess.[SP]Their[SP]prices\nare[SP]low,[SP]but[SP]so[SP]is[SP]the[SP]quality[SP]of[SP]their[SP]stuff.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "London Clothier fait des armures sur\nmesure? Les apparences sont trompeuses, on\ndirait. Les prix sont bas, la qualité aussi."
   },
   {
@@ -3971,7 +3971,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Does[SP]that[SP]London[SP]Clothier[SP]tailor[SP]armor[SP]too?\nLooks[SP]can[SP]be[SP]deceiving,[SP]I[SP]guess.[SP]Their[SP]quality\nis[SP]good,[SP]but[SP]it's[SP]pricey.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "London Clothier fait des armures sur\nmesure? Les apparences sont trompeuses.\nC'est de bonne qualité, mais cher."
   },
   {
@@ -3986,7 +3986,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Does[SP]that[SP]London[SP]Clothier[SP]tailor[SP]armor[SP]too?\nLooks[SP]can[SP]be[SP]deceiving,[SP]I[SP]guess.[SP]The[SP]quality\nand[SP]price[SP]of[SP]their[SP]stuff[SP]seems[SP]average.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "London Clothier fait des armures sur\nmesure? Les apparences sont trompeuses,\non dirait. Qualité et prix sont moyens."
   },
   {
@@ -4001,7 +4001,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Does[SP]that[SP]London[SP]Clothier[SP]tailor[SP]armor[SP]too?\nLooks[SP]can[SP]be[SP]deceiving,[SP]I[SP]guess.[SP]Their[SP]selection\nisn't[SP]good,[SP]but[SP]their[SP]resale[SP]price[SP]is[SP]high.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "London Clothier fait des armures sur mesure?\nLes apparences sont trompeuses. Leurs\nchoix sont nuls, mais ils reprennent cher."
   },
   {
@@ -4016,7 +4016,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]that[SP]the[SP]prizes[SP]for[SP]the[SP]magazine\nsweepstakes[SP]are[SP]real[SP]weapons[SP]and[SP]items.\nYou[SP]rarely[SP]win,[SP]but[SP]the[SP]prizes[SP]are[SP]good.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "J'entends que les prix des jeux magazine\nsont de vraies armes. Tu gagnes rarement,\nmais les lots en valent la peine."
   },
   {
@@ -4031,7 +4031,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]that[SP]the[SP]prizes[SP]for[SP]the[SP]magazine\nsweepstakes[SP]are[SP]real[SP]weapons[SP]and[SP]items.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "On dit que les prix des jeux magazine\nsont de vraies armes et des objets."
   },
   {
@@ -4046,7 +4046,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "It's[SP]pretty[SP]hard[SP]to[SP]win,[SP]but[SP]if[SP]you[SP]do,\nyou[SP]can[SP]win[SP]extremely[SP]rare[SP]stuff.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Dur de gagner, mais si tu y arrives,\ntu auras des trucs ultra rares."
   },
   {
@@ -4061,7 +4061,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]the[SP]prizes[SP]in[SP]the[SP]magazine[SP]sweepstakes\nare[SP]real[SP]weapons[SP]and[SP]items.[SP]It's[SP]easy[SP]to[SP]win,\nbut[SP]the[SP]prizes[SP]are[SP]nothing[SP]special.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "J'entends que les prix des jeux de\nmagazine sont de vraies armes. Facile de\ngagner, mais c'est rien d'exceptionnel."
   },
   {
@@ -4076,7 +4076,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Seems[SP]there's[SP]real[SP]gambling[SP]at[SP]Mu.[SP]I[SP]hear\nthe[SP]best[SP]odds[SP]are[SP]the[SP]poker[SP]machines.\nThere's[SP]a[SP]lot[SP]of[SP]potential[SP]for[SP]a[SP]good[SP]hand.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "On peut vraiment parier à Mu. Les\nmeilleures cotes sont aux machines de\npoker. Il y a un bon potentiel de main."
   },
   {
@@ -4091,7 +4091,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Seems[SP]there's[SP]real[SP]gambling[SP]at[SP]Mu.[SP]I[SP]hear\nthe[SP]best[SP]odds[SP]are[SP]the[SP]slots.[SP]The[SP]reels[SP]line\nup[SP]pretty[SP]frequently.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "On peut parier à Mu. Les machines\nà sous sont les meilleures. Les\nrouleaux s'alignent fréquemment."
   },
   {
@@ -4106,7 +4106,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Seems[SP]there's[SP]real[SP]gambling[SP]at[SP]Mu.[SP]I[SP]hear\nthe[SP]best[SP]odds[SP]are[SP]the[SP]blackjack[SP]machines.\nThey[SP]pay[SP]out[SP]quite[SP]a[SP]bit[SP]if[SP]you[SP]need[SP]cash.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "On peut vraiment parier à Mu. Les machines\nde blackjack sont les meilleures. Elles\npaient bien pour avoir du liquide."
   },
   {
@@ -4121,7 +4121,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]hear[SP]that[SP]Shiraishi[SP]Ramen[SP]sells[SP]legendary\nweapons.[SP]I[SP]wonder[SP]what[SP]they're[SP]like...",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Shiraishi Ramen vend des armes\nlégendaires. Je veux bien voir ça..."
   },
   {
@@ -4136,7 +4136,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]heard[SP]a[SP]rumor[SP]you[SP]can[SP]buy[SP]a[SP]legendary[SP]weapon\nat[SP]Clair[SP]de[SP]Lune.[SP]Does[SP]that[SP]stuff[SP]actually\nexist...?",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Une rumeur dit qu'on peut acheter une arme\nlégendaire au Clair de Lune. Ça existe...?"
   },
   {
@@ -4151,7 +4151,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "There's[SP]a[SP]so-called[SP]legendary[SP]weapon[SP]in[SP]stock\nat[SP]Time[SP]Castle,[SP]but[SP]the[SP]owner[SP]denies[SP]it[SP]so[SP]he\ncan[SP]jack[SP]up[SP]the[SP]prices[SP]of[SP]his[SP]goods.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Il y aurait une arme dite légendaire en\nstock au Time Castle, mais le propriétaire\nle nie pour pouvoir gonfler ses prix."
   },
   {
@@ -4166,7 +4166,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Seems[SP]Time[SP]Castle[SP]doesn't[SP]have[SP]their[SP]legendary\nweapon[SP]yet.[SP]The[SP]owner's[SP]scared[SP]of[SP]monsters[SP]and\ncan't[SP]go[SP]get[SP]it[SP]from[SP]the[SP]abandoned[SP]factory.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "On dirait que le Time Castle n'a\npas encore l'arme légendaire. Le\nproprio a peur des monstres et ne\npeut aller à l'usineabandonnée."
   },
   {
@@ -4181,7 +4181,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Hahaha![SP]Those[SP]demons[SP]stole[SP]Time[SP]Castle's\nlegendary[SP]weapon.[SP]Talk[SP]about[SP]embarrassing.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Hahaha! Ces démons ont volé l'arme\nlégendaire du Time Castle. La honte."
   },
   {
@@ -4196,7 +4196,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Rumor[SP]is[SP]an[SP]unlucky-seeming[SP]woman[SP]bought[SP]the\nlegendary[SP]weapon[SP]that[SP]was[SP]at[SP]Time[SP]Castle.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Une femme malchanceuse aurait acheté\nl'arme légendaire du Time Castle."
   },
   {
@@ -4211,7 +4211,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "The[SP]legendary[SP]weapon[SP]at[SP]Time[SP]Castle[SP]seems[SP]to\nhave[SP]been[SP]a[SP]flower,[SP]but[SP]I[SP]hear[SP]the[SP]owner[SP]gave\nit[SP]to[SP]some[SP]woman[SP]with[SP]short[SP]hair.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "L'arme légendaire du Time Castle semble\navoir été une fleur, mais le gérant l'a\ndonnée à une femme aux cheveux courts."
   },
   {
@@ -4226,7 +4226,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "It[SP]seems[SP]the[SP]second[SP]floor[SP]of[SP]Zodiac[SP]in[SP]Yumezaki\nis[SP]a[SP]huge[SP]maze.[SP]I[SP]heard[SP]some[SP]people[SP]exploring\nit[SP]found[SP]great[SP]stuff[SP]there.",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "Le 2e étage du Zodiac à Yumezaki est un\nimmense labyrinthe. Certains explorateurs\ny ont trouvé des objets géniaux."
   },
   {
@@ -4241,7 +4241,7 @@
     ],
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]heard[SP]that[SP]the[SP]flowers[SP]in[SP]Aoba[SP]Park[SP]talk.\nCould[SP]that[SP]be[SP]true?[SP]I[SP]mean...[SP]seriously?",
-    "nom_fr": "Royauté du Sushi",
+    "nom_fr": "Sushi Royalty",
     "texte_fr": "On dit que les fleurs du Parc Aoba\nparlent. C'est vrai? Sérieusement?"
   },
   {
@@ -4256,7 +4256,7 @@
     ],
     "nom_orig": "Speaker",
     "texte_orig": "You[SP]don't[SP]have[SP]any[SP]items[SP]you[SP]can[SP]sell.",
-    "nom_fr": "Système",
+    "nom_fr": "Voix",
     "texte_fr": "Vous n'avez aucun objet à vendre."
   },
   {

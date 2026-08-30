@@ -99,7 +99,7 @@
     "nom_orig": "Chef",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Chef",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -152,7 +152,7 @@
     "nom_orig": "Chef",
     "texte_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Chef",
-    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Ça marche! Quoi en tête?\n[1208][0003]Bavarder\nParler du repas\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Gotcha![SP]What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -279,7 +279,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Sur quoi?\n[1208][0004][1210][0476]Rumeurs armureries\n[1210][0477]Rumeurs armures[SP][SP]\n[1210][0478]Autres rumeurs[SP]\nRien",
+    "texte_fr": "Sur quoi?\n[1208][0004][1210][0476]Rumeurs armureries\n[1210][0477]Rumeurs armures[SP][SP]\n[1210][0478]Autres[SP]\nRien",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -362,7 +362,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Sur quoi?\n[1208][0004][1210][0472]Tirages de magazines[SP][SP][SP][SP][SP][SP][SP]\n[1210][0473]Infos Mu[SP]\n[1210][0474]Armes légendaires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
+    "texte_fr": "Sur quoi?\n[1208][0004][1210][0472]Tirages de magazines[SP][SP][SP][SP][SP][SP][SP]\n[1210][0473]Infos Mu[SP]\n[1210][0474]Armes légendaires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nRien",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
@@ -403,7 +403,7 @@
     ],
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Whoa...[1205][001E][SP]The[SP]principal[SP]at[SP]Sevens[SP]suddenly[SP]grew\nsome[SP]hair?[SP]I[SP]wonder[SP]if[SP]that[SP]was[SP]his[SP]request\nfor[SP]Joker.",
-    "nom_fr": "Toro",
+    "nom_fr": "Toro l'informateur",
     "texte_fr": "Ouah...[1205][001E] Le directeur de Seven a\npoussé des cheveux? Je me demande\nsi c'était sa requête pour Joker."
   },
   {
@@ -1229,7 +1229,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Gah...[1205][000F][SP]I[SP]heard[SP]something[SP]awful...[1205][000F][SP]K-Kudan's...\nKudan's[SP]at[SP]the[SP]abandoned[SP]factory...[1205][000F][SP]No,[SP]I[SP]don't\nwant[SP]to[SP]think[SP]about[SP]it![E1][E2]\n\n\n[E3][E4][NULL][NULL]\"Sushi[SP]Royalty\nYou[SP]know[SP]about[SP]Giga[SP]Macho's[SP]secret[SP]CD?[1205][000F]\nI[SP]hear[SP]there[SP]is[SP]one.[SP]I'd[SP]love[SP]to[SP]know[SP]what\nkind[SP]of[SP]tracks[SP]are[SP]on[SP]it.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Argh...[1205][000F] J'ai ouï quelque chose\nd'horrible... Kudan... Kudan est à l'usine\nabandonnée... Non, j'veux pasy penser![E1][E2]\n[E3][E4][NULL][NULL]\"Sushi Royalty Vous savez pour le CD\nde Giga Macho? On dit qu'il existe.Je\nveux savoir quels morceaux sont dessus."
+    "texte_fr": "Argh...[1205][000F] J'ai ouï quelque chose\nd'horrible... Kudan... Kudan est à l'usine\nabandonnée... Non, j'veux pasy penser![E1][E2]\n[E3][E4][NULL][NULL]\"Sushi Royalty\nVous savez pour le CD\nde Giga Macho? On dit qu'il existe.Je\nveux savoir quels morceaux sont dessus."
   },
   {
     "id": 75,
@@ -2008,7 +2008,7 @@
     ],
     "nom_orig": "Speaker",
     "texte_orig": "You[SP]don't[SP]have[SP]any[SP]items[SP]you[SP]can[SP]sell.",
-    "nom_fr": "Narrateur",
+    "nom_fr": "Voix",
     "texte_fr": "Vous n'avez aucun objet à vendre."
   },
   {
@@ -2118,7 +2118,7 @@
     ],
     "nom_orig": "Chef",
     "texte_orig": "That[SP]comes[SP]to[SP][120E][NULL][SP]yen![SP]Is[SP]that[SP]okay?\n[1208][0002]Yes\nNo",
-    "nom_fr": "",
+    "nom_fr": "Chef",
     "texte_fr": "Ça fait [120E][NULL] yens ! D'accord ?\n[1208][0002]Oui\nNon",
     "question_orig": "That[SP]comes[SP]to[SP][120E][NULL][SP]yen![SP]Is[SP]that[SP]okay?",
     "choix_orig": [

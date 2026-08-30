@@ -357,7 +357,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sél. cachée\nATTENTION\nAucun bit actif.\n-Kanada[03BC][B_00][5501][B_00]",
+    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sél. cachée",
     "question_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -444,7 +444,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?\n[1208][0004]Make[SP]small[SP]talk\n[1210][U+03BC]Ask[SP]about[SP]shopping\nAsk[SP]about[SP]dining[SP]in\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sélection cachée[03BC][B_00][5501][B_00][SP][SP][SP]",
+    "texte_fr": "Que vouliez-vous demander?\n[1208][0004]Bavarder\n[1210]Parler boutique\nParler du repas[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210]Sélection cachée[03BC][SP][SP][SP]",
     "question_orig": "What[SP]was[SP]it[SP]you[SP]wanted[SP]to[SP]ask?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -871,7 +871,7 @@
     ],
     "nom_orig": "Maya",
     "texte_orig": "I...[1205][000F][SP]I[SP]ate[SP]it...[1205][000F][SP]Spaghetti...[1205][000F][SP]di[SP]kusaya...",
-    "nom_fr": "Garçon Soejima",
+    "nom_fr": "Maya",
     "texte_fr": "Quel courage...[1205][000F] Et le goût ?"
   },
   {

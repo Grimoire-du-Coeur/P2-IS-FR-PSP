@@ -522,7 +522,7 @@
     "nom_orig": "Maya",
     "texte_orig": "These[SP]fears[SP]and[SP]anxieties[SP]actually[SP]spring[SP]only\nfrom[SP]oneself.[1205][000F][SP]Before[SP]he[SP]knows[SP]it,[SP]man[SP]has\nunconsciously[SP]repressed[SP]these[SP]emotions.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n...Just[SP]as[SP]you[SP]all[SP]did.[1205][000F][SP]But[SP]this[SP]selfish\nretreat[SP]from[SP]the[SP]truth[SP]cannot[SP]be[SP]forgiven\nany[SP]longer.[1205][000F][SP]Heh.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nCrawling[SP]Chaos...[1205][000F][SP]Philemon[SP]did[SP]say,[SP][1432][NULL][NULL][0014]if[SP]we[SP]want\nto[SP]save[SP]our[SP]friend[SP]from[SP]the[SP]clutches[SP]of[SP]the\nCrawling[SP]Chaos[SP]who[SP]toys[SP]with[SP]man's[SP]fate[1432][NULL][NULL][0014]...[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nThat[SP]fortune[SP]teller's[SP]equally[SP]famous[SP]as[SP]an\ninformant.[1205][000F][SP]She[SP]talks[SP]to[SP]enough[SP]people[SP]to[SP]know\nwhat's[SP]going[SP]on[SP]in[SP]the[SP]world.",
     "nom_fr": "Maya",
-    "texte_fr": "Ces peurs et angoisses ne naissent que de\nsoi-même. [1205][000F]Sans le savoir, l'homme a refoulé\nces émotions.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya ... Tout comme vous\nl'avez fait. Mais ce repli égoïste loin dela\nvérité ne peut plus être toléré. Heh.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nChaos rampant... Philémon a dit: [1432][NULL][NULL][0014]si nous\nvoulons sauver notre ami des griffes duChaos\nrampant qui joue du destin[1432][NULL][NULL][0014]...[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino Cette\ndiseuse est aussi connue comme informatrice.\nElle parle à tant de gensqu'elle\nsait ce qui se passe dans le monde."
+    "texte_fr": "Ces peurs et angoisses ne naissent que de\nsoi-même. [1205][000F]Sans le savoir, l'homme a refoulé\nces émotions.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\n... Tout comme vous\nl'avez fait. Mais ce repli égoïste loin dela\nvérité ne peut plus être toléré. Heh.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nChaos rampant... Philémon a dit: [1432][NULL][NULL][0014]si nous\nvoulons sauver notre ami des griffes duChaos\nrampant qui joue du destin[1432][NULL][NULL][0014]...[E1][E2]\n[E3][E4][NULL][NULL]\"Yukino Cette\ndiseuse est aussi connue comme informatrice.\nElle parle à tant de gensqu'elle\nsait ce qui se passe dans le monde."
   },
   {
     "id": 35,
@@ -1665,7 +1665,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Which[SP]stories[SP]would[SP]you[SP]have[SP]me[SP]tell?\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Quelles histoires souhaitez-vous?\n[1208][0004][1210][0476]Rumeurs: armes[SP][SP][SP][SP]\n[1210][0477]Rumeurs: armures[SP]\n[1210][0478]Autres rumeurs[SP]\nRien",
+    "texte_fr": "Quelles histoires souhaitez-vous?\n[1208][0004][1210][0476]Rumeurs: armes[SP][SP][SP][SP]\n[1210][0477]Rumeurs: armures[SP]\n[1210][0478]Autres[SP]\nRien",
     "question_orig": "Which[SP]stories[SP]would[SP]you[SP]have[SP]me[SP]tell?",
     "choix_orig": [
       "[1210]Weapon[SP]shop[SP]rumors",
@@ -1748,7 +1748,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Which[SP]tale[SP]shall[SP]I[SP]relate?\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Quelle histoire ?\n[1208][0004][1210][0472]Rumeurs du Magazine[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210][0473]Rumeurs Mu\n[1210][0474]Armes légendaires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nAucune",
+    "texte_fr": "Quelle histoire ?\n[1208][0004][1210][0472]Rumeurs du Magazine[SP][SP][SP][SP][SP][SP][SP][SP]\n[1210][0473]Rumeurs Mu\n[1210][0474]Armes légendaires[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nRien",
     "question_orig": "Which[SP]tale[SP]shall[SP]I[SP]relate?",
     "choix_orig": [
       "[1210]Magazine[SP]sweepstakes[SP]rumors",
@@ -3014,7 +3014,7 @@
     ],
     "nom_orig": "Scathing[SP]taxi[SP]driver",
     "texte_orig": "There's[SP]some[SP]guy[SP]who[SP]copies[SP]my[SP]style,[SP]but[SP]I\nain't[SP]seen[SP]him[SP]around[SP]lately,[SP]so[SP]I[SP]came[SP]lookin'\nfor[SP]him.[1205][000F][SP]You[SP]know[SP]anythin'[SP]about[SP]that,[SP]buddy?",
-    "nom_fr": "",
+    "nom_fr": "Chauffeur hargneux",
     "texte_fr": "Y'a un type qui copie mon style,\nmais j'le vois plus trop depuis un\nmoment, alors j'suis venu le chercher.[1205][000F]\nT'aurais pas entendu parler de lui ?"
   }
 ]

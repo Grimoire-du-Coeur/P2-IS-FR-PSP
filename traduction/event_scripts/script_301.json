@@ -537,7 +537,7 @@
     "nom_orig": "School[SP]nurse",
     "texte_orig": "Huh?[1205][000F][SP]Hey,[SP]you're[SP]hurt.[SP]Let[SP]me[SP]take[SP]a[SP]look.\n[1208][0002]Yes\nNo",
     "nom_fr": "Infirmière",
-    "texte_fr": "Hein? [1205][000F]T'es blessé. Fais voir.\n[1208][0002]Oui\nNon\n Équipe soignée.[E4][NULL][NULL]",
+    "texte_fr": "Hein? [1205][000F]T'es blessé. Fais voir.\n[1208][0002]Oui\nNon",
     "question_orig": "Huh?[1205][000F][SP]Hey,[SP]you're[SP]hurt.[SP]Let[SP]me[SP]take[SP]a[SP]look.",
     "choix_orig": [
       "Yes",
@@ -561,7 +561,7 @@
     ],
     "nom_orig": "School[SP]nurse",
     "texte_orig": "Don't[SP]be[SP]reckless[SP]just[SP]'cause[SP]you're[SP]young.[1205][000F]\nYou[SP]won't[SP]be[SP]able[SP]to[SP]enjoy[SP]the[SP]Kasuga[SP]Festival\nif[SP]you're[SP]hurt.",
-    "nom_fr": "",
+    "nom_fr": "Infirmière",
     "texte_fr": "Sois pas téméraire juste parce que\nt'es jeune.[1205][000F] Tu pourras pas profiter\ndu Festival Kasuga si tu te blesses."
   }
 ]

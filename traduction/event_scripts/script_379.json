@@ -337,7 +337,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Please,[SP]ask[SP]away.\n[1208][0007]Personas\nTaking[SP]on[SP]and[SP]invoking\nArcanas\nPersona[SP]growth\nPersona[SP]compatibility\nNext[SP]Page\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection/return",
     "nom_fr": "Igor",
-    "texte_fr": "Je vous écoute.\n[1208][0007]Personae\nObtention, invocation\nArcanes\nCroissance\nCompatibilité\nPage suivante\n[1210]Sélection cachée/retour[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Je vous écoute.\n[1208][0007]Personae\nObtention, invocation\nArcanes\nCroissance\nCompatibilité\nPage suivante\n[1210]Sélection cachée/retour[SP][SP][SP][SP]",
     "question_orig": "Please,[SP]ask[SP]away.",
     "choix_orig": [
       "Personas",
@@ -367,7 +367,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Please,[SP]ask[SP]away.\n[1208][0008]Tarot[SP]Cards\nMaterial[SP]Cards\nSkill[SP]Cards\nIncense[SP]Cards\nPersona[SP]Cards\nNext[SP]Page\nPrevious[SP]Page\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection/return",
     "nom_fr": "Igor",
-    "texte_fr": "Allez-y.\n[1208][0008]Cartes Tarot\nCartes Matériaux\nCartes Compétences\nCartes Encens\nCartes Persona\nPage suiv.\nPage préc.\n[1210]Sélection cachée/retour[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Allez-y.\n[1208][0008]Cartes Tarot\nCartes Matériaux\nCartes Compétences\nCartes Encens\nCartes Persona\nPage suiv.\nPage préc.\n[1210]Sélection cachée/retour[SP][SP][SP][SP]",
     "question_orig": "Please,[SP]ask[SP]away.",
     "choix_orig": [
       "Tarot[SP]Cards",
@@ -398,7 +398,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Please,[SP]ask[SP]away.\n[1208][0007]Summoning[SP]basics\nMystic[SP]change\nMutation\nContacting\nDemon[SP]personalities\nPrevious[SP]Page\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection/return",
     "nom_fr": "Igor",
-    "texte_fr": "Je vous écoute.\n[1208][0007]Bases d'invocation\nChangement mystique\nMutation\nContact\nPersonnalité des démons\nPage préc.\n[1210]Sélection cachée/retour[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Je vous écoute.\n[1208][0007]Bases d'invocation\nChangement mystique\nMutation\nContact\nPersonnalité des démons\nPage préc.\n[1210]Sélection cachée/retour[SP][SP][SP][SP]",
     "question_orig": "Please,[SP]ask[SP]away.",
     "choix_orig": [
       "Summoning[SP]basics",
@@ -907,7 +907,7 @@
     ],
     "nom_orig": "Igor",
     "texte_orig": "Personas[SP]are[SP]classified[SP]according[SP]to[SP]the\nArcana[SP]of[SP]the[SP]Tarot,[SP]such[SP]as[SP]Magician[SP]and\nEmperor...",
-    "nom_fr": "",
+    "nom_fr": "Igor",
     "texte_fr": "Les Personae sont classés selon l'Arcane du\nTarot, comme le Magicien et l'Empereur..."
   },
   {
@@ -1252,7 +1252,7 @@
     ],
     "nom_orig": "Igor",
     "texte_orig": "If[SP]you[SP]wish[SP]it,[SP]I[SP]can[SP]add[SP]Incense[SP]Cards[SP]you\nfind[SP]when[SP]I[SP]summon[SP]a[SP]new[SP]Persona.",
-    "nom_fr": "",
+    "nom_fr": "Igor",
     "texte_fr": "Si vous le souhaitez, je peux ajouter\ndes Cartes Encens lors d'une invocation."
   },
   {
@@ -1417,7 +1417,7 @@
     ],
     "nom_orig": "Igor",
     "texte_orig": "The[SP]more[SP]Tarot[SP]Cards[SP]you[SP]supply[SP]me,[SP]the[SP]higher\nlevel[SP]Personas[SP]I[SP]can[SP]summon.",
-    "nom_fr": "",
+    "nom_fr": "Igor",
     "texte_fr": "Plus vous me donnez de Cartes Tarot,\nplus j'invoque des Personae élevés."
   },
   {
@@ -1492,7 +1492,7 @@
     ],
     "nom_orig": "Igor",
     "texte_orig": "Personas[SP]that[SP]have[SP]reached[SP]the[SP]maximum[SP]rank\nof[SP]8[SP]will[SP]not[SP]grow[SP]any[SP]further.",
-    "nom_fr": "",
+    "nom_fr": "Igor",
     "texte_fr": "Les Personae ayant atteint le rang\nmaximum de 8 ne progresseront plus."
   },
   {
@@ -2195,7 +2195,7 @@
     "nom_orig": "Demon[SP]Painter",
     "texte_orig": "Okay.[SP]What[SP]should[SP]we[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]card[SP]creation\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection",
     "nom_fr": "Demon Painter",
-    "texte_fr": "Bien. De quoi parle-t-on?\n[1208][0003]Bavarder\nParler création de cartes\n[1210]Sélection cachée[B_00][5501][B_00][SP][SP][SP][SP]",
+    "texte_fr": "Bien. De quoi parle-t-on?\n[1208][0003]Bavarder\nParler création de cartes\n[1210]Sélection cachée[SP][SP][SP][SP]",
     "question_orig": "Okay.[SP]What[SP]should[SP]we[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -2471,7 +2471,7 @@
     ],
     "nom_orig": "Igor",
     "texte_orig": "Do[SP]you[SP]know[SP]about[SP]Fusion[SP]Spells?[1205][000F][SP]When[SP]you[SP]use\nthem,[SP]sometimes[SP]your[SP]Personas[SP]will[SP]undergo\nmutations.",
-    "nom_fr": "",
+    "nom_fr": "Igor",
     "texte_fr": "Connaissez-vous les Sorts de Fusion? [1205][000F]Quand\nvous les utilisez, les Persona peuvent muter."
   },
   {
@@ -2868,7 +2868,7 @@
     ],
     "nom_orig": "Igor",
     "texte_orig": "It[SP]seems[SP]you[SP]do[SP]not[SP]have[SP]the[SP]requisite\n[E4][NULL][NULL][0006]Material[SP]Card[E4][NULL][NULL][0002][SP]to[SP]summon[SP]this[SP]Persona.",
-    "nom_fr": "",
+    "nom_fr": "Igor",
     "texte_fr": "Il semble que vous n'ayez pas la [E4][NULL][NULL][0006]Carte\nMatériaux[E4][NULL][NULL][0002] requise pour invoquer ce Persona."
   }
 ]
