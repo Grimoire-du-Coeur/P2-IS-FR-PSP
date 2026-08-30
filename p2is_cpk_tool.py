@@ -481,32 +481,6 @@ def extract_cpk(cpk_path, out_dir):
     print("Extraction terminee !")
     return True
 
-def main():
-    import argparse
-    parser = argparse.ArgumentParser(description="Outil CPK autonome (Pack/Unpack parfait avec CRILAYLA)")
-    subparsers = parser.add_subparsers(dest="command", help="Commandes")
-
-    extract_parser = subparsers.add_parser("extract", help="Extraire un fichier CPK")
-    extract_parser.add_argument("input_cpk", help="Chemin vers le fichier .cpk d'entree")
-    extract_parser.add_argument("out_dir", help="Dossier de sortie")
-
-    rebuild_parser = subparsers.add_parser("rebuild", help="Reconstruire un fichier CPK")
-    rebuild_parser.add_argument("input_dir", help="Dossier contenant les fichiers modifies (et/ou extraits)")
-    rebuild_parser.add_argument("original_cpk", help="Chemin vers le fichier .cpk original (pour la base)")
-    rebuild_parser.add_argument("out_cpk", help="Chemin vers le fichier .cpk de sortie")
-
-    args = parser.parse_args()
-
-    if args.command == "extract":
-        extract_cpk(args.input_cpk, args.out_dir)
-    elif args.command == "rebuild":
-        build_cpk(args.input_dir, args.out_cpk, args.original_cpk)
-        print(f"CPK reconstruit avec succes : {args.out_cpk}")
-    else:
-        parser.print_help()
-
-if __name__ == "__main__":
-    main()
 import sys
 import os
 import shutil
@@ -706,3 +680,31 @@ def decompress_crilayla(data: bytes) -> bytes:
             dest_pos -= 1
             
     return uncomp_header + dest
+    
+def main():
+    import argparse
+    parser = argparse.ArgumentParser(description="Outil CPK autonome (Pack/Unpack parfait avec CRILAYLA)")
+    subparsers = parser.add_subparsers(dest="command", help="Commandes")
+
+    extract_parser = subparsers.add_parser("extract", help="Extraire un fichier CPK")
+    extract_parser.add_argument("input_cpk", help="Chemin vers le fichier .cpk d'entree")
+    extract_parser.add_argument("out_dir", help="Dossier de sortie")
+
+    rebuild_parser = subparsers.add_parser("rebuild", help="Reconstruire un fichier CPK")
+    rebuild_parser.add_argument("input_dir", help="Dossier contenant les fichiers modifies (et/ou extraits)")
+    rebuild_parser.add_argument("original_cpk", help="Chemin vers le fichier .cpk original (pour la base)")
+    rebuild_parser.add_argument("out_cpk", help="Chemin vers le fichier .cpk de sortie")
+
+    args = parser.parse_args()
+
+    if args.command == "extract":
+        extract_cpk(args.input_cpk, args.out_dir)
+    elif args.command == "rebuild":
+        build_cpk(args.input_dir, args.out_cpk, args.original_cpk)
+        print(f"CPK reconstruit avec succes : {args.out_cpk}")
+    else:
+        parser.print_help()
+
+if __name__ == "__main__":
+    main()
+

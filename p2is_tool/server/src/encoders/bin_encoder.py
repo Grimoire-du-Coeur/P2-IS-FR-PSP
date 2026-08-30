@@ -243,9 +243,23 @@ _lang = "fr"
 def encode_bin_from_json(
     bin_path: str, json_path: str, log_fn, out_path: str = None
 ) -> str:
-    """Réécrit les dialogues traduits dans le fichier .bin. Préserve le _term et le slot_size."""
     data = bytearray(open(bin_path, "rb").read())
-    dlgs = json.loads(open(json_path, encoding="utf-8").read(), strict=False)
+    dlgs_input = json.loads(open(json_path, encoding="utf-8").read(), strict=False)
+    
+    from src.parsers.bin_parser import find_dialogs
+    bin_dialogs = find_dialogs(data)
+    input_by_id = {d["id"]: d for d in dlgs_input if isinstance(d, dict) and "id" in d}
+    
+    dlgs = []
+    for idx, bd in enumerate(bin_dialogs):
+        d_merged = dict(bd)
+        inp = input_by_id.get(bd["id"]) or (dlgs_input[idx] if idx < len(dlgs_input) else None)
+        if inp and isinstance(inp, dict):
+            for k in ("nom_fr", "texte_fr", "choix_fr", "question_fr", "count_tag"):
+                if k in inp:
+                    d_merged[k] = inp[k]
+        dlgs.append(d_merged)
+
     ok = skip = kept = 0
     for d in dlgs:
         n_fr_input = d.get("nom_fr", "").strip()
@@ -290,6 +304,15 @@ def encode_bin_from_json(
             d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr
         )
         enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+        
+        # Si l'alignement a ajouté trop de [SP] et dépasse avail, réduire le padding de sécurité
+        if len(enc) + len(nl_suffix) > avail and ("[1208]" in t_fr or "[U+1208]" in t_fr):
+            marker = "[U+1208]" if "[U+1208]" in t_fr else "[1208]"
+            parts = t_fr.split(marker, 1)
+            while parts[0].endswith("[SP]") and (len(text_to_bytes('"' + n_fr + "\n" + parts[0] + marker + parts[1])) + len(nl_suffix) > avail):
+                parts[0] = parts[0][:-4]
+            t_fr = parts[0] + marker + parts[1]
+            enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
         
         if "[1208]" in t_fr or "[U+1208]" in t_fr:
             marker = "[U+1208]" if "[U+1208]" in t_fr else "[1208]"
