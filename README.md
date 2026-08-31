@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-[![Télécharger le Patch](https://img.shields.io/badge/TÉLÉCHARGER_LE_PATCH_FR_-_BÊTA_v0.2.2-e3b341?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chenetulipe/P2-FR-IS-PSP/releases)
+[![Télécharger le Patch](https://img.shields.io/badge/TÉLÉCHARGER_LE_PATCH_FR_-_BÊTA_v0.2.4-e3b341?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chenetulipe/P2-FR-IS-PSP/releases)
 
 **L'intégralité du scénario principal est jouable en français.**
 
