@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Huh?[SP]What[SP]do[SP]you[SP]mean,[SP][1432][NULL][NULL][0014]What[SP]about[SP]Personas[1432][NULL][NULL][0014]?[1205][001E]\nSh-Shut[SP]up...[SP]Personas[SP]are[SP]kosher![SP]Nothing\nwrong[SP]with[SP]that!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hein? Quoi par [1432][NULL][NULL][0014]Et les Personae?[1432][NULL][NULL][1205][0014][001E] F-Ferme-la...\nLes Personae c'est bien! Y'a rien de mal!"
+    "texte_fr": "Hein? Quoi par [1432][NULL][NULL][0014]Et les Personae?[1432][NULL][NULL][1205][0014][001E]\nF-Ferme-la... Les Personae c'est bien! Y'a\nrien de mal!"
   },
   {
     "id": 3,
@@ -687,7 +687,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Oh...[SP]So[SP]Principal[SP]Hanya[SP]left...\nTakashiiiiii![SP]Come[SP]baaaaaaack![E1][E2]\n[E3][E4][NULL][NULL]\"Female[SP]student\nHanya's[SP]hair[SP]blossomed[SP]before[SP]he[SP]disappeared,\nlike[SP]the[SP]cherry[SP]blossoms...[SP]Thank[SP]you[SP]for[SP]all\nyou[SP]did[SP]for[SP]us,[SP]Principal[SP]Hanya...",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Oh... Donc le Proviseur Hanya est parti...\nTakashiiiiii! Revieeeens![E1][E2]\n[E3][E4][NULL][NULL]\"Lycéenne\nLes cheveux de Hanya ont fleuri avant\nqu'ildisparaisse, comme les cerisiers...\nMerci pour tout, Proviseur Hanya..."
+    "texte_fr": "Oh... Donc le Proviseur Hanya est parti...\nTakashiiiiii! Revieeeens![E1][E2] [E3][E4][NULL][NULL]\"Lycéenne Les\ncheveux de Hanya ont fleuri avant\nqu'ildisparaisse, comme les cerisiers...\nMerci pour tout, Proviseur Hanya..."
   },
   {
     "id": 46,
@@ -747,6 +747,6 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "I[SP]think[SP]that[SP]was[SP]the[SP]last[SP]emblem[SP]in[SP]this\nclassroom.[1205][000A][SP]Don't[SP]waste[SP]any[SP]time[SP]destroying\nthe[SP]ones[SP]in[SP]the[SP]other[SP]classes[SP]too.",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Je crois que c'était le dernier\nemblème de cette classe. Ne perds pas de temps et détruis\naussi ceux des autres classes."
+    "texte_fr": "Je crois que c'était le dernier emblème de\ncette classe. Ne perds pas de temps et\ndétruis aussi ceux des autres classes."
   }
 ]

@@ -42,7 +42,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Don't[SP]worry.[SP]I'm[SP]sure[SP]she's[SP]somewhere[SP]dozing\noff[SP]again.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nH-Hey...![1205][001E][SP]Did[SP]you[SP]just[SP]say[SP][1432][NULL][NULL][0014]Miyabi[SP]Hanakouji[1432][NULL][NULL][0014]?\nYou[SP]know[SP]Hanakouji-san!?[1205][001E][SP]Tell[SP]me!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Pas d'inquiétude. Elle doit dormir quelque\npart.[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\n[1205][001E] H-Hé.[001E]..![1205][001E] Tu as dit [1432][NULL][NULL][0014]Miyabi\nHanakouji[1432][NULL][NULL][0014]? Tu la connais!? Dis-moi!"
+    "texte_fr": "Pas d'inquiétude. Elle doit dormir quelque\npart.[E1][E2] [E3][E4][NULL][NULL]\"Eikichi[1205][001E]H-Hé.[001E]..![1205][001E]Tu as dit [1432][NULL][NULL][0014]Miyabi Hanakouji[1432][NULL][NULL][0014]? Tu la connais!?\nDis-moi!"
   },
   {
     "id": 3,
@@ -687,7 +687,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "I[SP]know[SP]you[SP]t-t-took[SP]a[SP]bad[SP]g-g-grade[SP]on[SP]your\nEnglish[SP]t-test[SP]so[SP]the[SP]others[SP]wouldn't[SP]f-feel\nbad...[SP]I[SP]know[SP]you[SP]l-l-like[SP]to[SP]be[SP]alone...",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Je sais que t-tu as eu une m-mauvaise note\nau c-contrôle d'anglais pour épargner les\nautres... Je sais que t-tu aimes êtreseule..."
+    "texte_fr": "Je sais que t-tu as eu une m-mauvaise note\nau c-contrôle d'anglais pour épargner les\nautres... Je sais que t-tu aimes\nêtreseule..."
   },
   {
     "id": 46,
@@ -867,7 +867,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "H-How[SP]interesting...[1205][001E][SP]But[SP]why[SP]exactly[SP]did[SP]they\nbreak[SP]up[SP]in[SP]the[SP]first[SP]place?[SP]I'm[SP]dying[SP]to[SP]know!",
     "nom_fr": "Lycéenne",
-    "texte_fr": "I-Intéressant...[1205][001E] Mais pourquoi exactement\nont-ils rompu? Je meurs d'envie de le savoir!"
+    "texte_fr": "I-Intéressant...[1205][001E]Mais pourquoi exactement ont-ils rompu? Je\nmeurs d'envie de le savoir!"
   },
   {
     "id": 58,

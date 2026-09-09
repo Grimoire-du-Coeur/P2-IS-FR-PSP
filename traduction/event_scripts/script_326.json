@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Dude,[SP]there's[SP]a[SP]manager[SP]behind[SP]the[SP]counter.\nLooks[SP]like[SP]he's[SP]exchanging[SP]coins...[SP]Did[SP]this\nplace[SP]really[SP]turn[SP]into[SP]a[SP]casino?[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nAll[SP]forms[SP]of[SP]gambling[SP]are[SP]forbidden[SP]at[SP]Cuss\nHigh.[SP]It[SP]was[SP]a[SP]school[SP]rule,[SP]but[SP]I[SP]clamped\ndown[SP]on[SP]it[SP]too.[SP]It's[SP]bad[SP]for[SP]the[SP]students.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Mec, il y a un gérant derrière le\ncomptoir. Il échange des jetons... Cet\nendroit est vraiment devenu un casino?[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nTout jeu d'argent est interdit à\nKasugayama.C'était le règlement, mais j'ai\nsévi aussi. C'est mauvais pour les élèves."
+    "texte_fr": "Mec, il y a un gérant derrière le comptoir.\nIl échange des jetons... Cet endroit est\nvraiment devenu un casino?[E1][E2] [E3][E4][NULL][NULL]\"Eikichi Tout jeu\nd'argent est interdit à Kasugayama.C'était\nle règlement, mais j'ai sévi aussi. C'est\nmauvais pour les élèves."
   },
   {
     "id": 2,
@@ -282,7 +282,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Could[SP]there[SP]be[SP]an[SP]underground[SP]casino[SP]here?[1205][000F]\nI've[SP]never[SP]heard[SP]about[SP]anything[SP]like[SP]that\nat[SP]work...[SP]Weird.",
     "nom_fr": "Maya",
-    "texte_fr": "Il y aurait un casino clandestin ici? [1205][000F]J'en ai\njamais entendu parler au boulot... Étrange."
+    "texte_fr": "Il y aurait un casino clandestin ici? [1205][000F]J'en\nai jamais entendu parler au boulot...\nÉtrange."
   },
   {
     "id": 19,
@@ -372,7 +372,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Heh.[SP]What[SP]have[SP]you[SP]come[SP]here[SP]for?[1205][000F][SP]To[SP]try[SP]and\nescape[SP]the[SP]resurfacing[SP]memories?[1205][000F][SP]Sorry[SP]to[SP]say,\nbut[SP]that[SP]won't[SP]be[SP]possible.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nDon't[SP]worry,[SP]Yukki.[SP]I'm[SP]sure[SP]Fujii-san[SP]will[SP]be\njust[SP]fine.[SP]C'mon,[SP]you[SP]need[SP]to[SP]calm[SP]down.",
     "nom_fr": "Maya",
-    "texte_fr": "Hé. Que viens-tu faire ici? [1205][000F]Tenter\nd'fuir les souvenirs qui refont surface?\nDésolée, mais c'est impossible.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nT'en fais pas, Yukki. Je suis sûre que\nFujii-san ira bien. Allez, calme-toi."
+    "texte_fr": "Hé. Que viens-tu faire ici? [1205][000F]Tenter d'fuir\nles souvenirs qui refont surface? Désolée,\nmais c'est impossible.[E1][E2] [E3][E4][NULL][NULL]\"Maya T'en fais pas,\nYukki. Je suis sûre que Fujii-san ira bien.\nAllez, calme-toi."
   },
   {
     "id": 25,
@@ -432,7 +432,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]can't[SP]believe[SP]you[SP]took[SP]the[SP]time[SP]to[SP]spread[SP]the\nrumor[SP]to[SP]turn[SP]this[SP]place[SP]into[SP]a[SP]casino.[1205][000F][SP]*sigh*\nOh[SP]well...[1205][000F][SP]Try[SP]not[SP]to[SP]waste[SP]too[SP]much[SP]money.",
     "nom_fr": "Yukino",
-    "texte_fr": "J'y crois pas que tu aies pris le\ntemps de lancer la rumeur pour faire\nd'ici un casino. [1205][000F]*soupir* Bref...\nEssaie de ne pas tropgaspiller."
+    "texte_fr": "J'y crois pas que tu aies pris le temps de\nlancer la rumeur pour faire d'ici un casino.\n[1205][000F]*soupir* Bref... Essaie de ne pas\ntropgaspiller."
   },
   {
     "id": 29,
@@ -447,7 +447,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Just[SP]between[SP]you[SP]and[SP]me,[SP]Maya-san's[SP]really[SP]bad\nat[SP]Rock,[SP]Paper,[SP]Scissors.[SP]She[SP]has[SP]a[SP]bad[SP]habit\nof[SP]always[SP]playing[SP]scissors.[SP]Play[SP]her[SP]and[SP]see.",
     "nom_fr": "Yukino",
-    "texte_fr": "Entre nous, Maya-san est vraiment\nnulle à Pierre-Feuille-Ciseaux.\nElle a la fâcheuse habitude de jouer\nciseaux. Joue avec elle pourvoir."
+    "texte_fr": "Entre nous, Maya-san est vraiment nulle à\nPierre-Feuille-Ciseaux. Elle a la fâcheuse\nhabitude de jouer ciseaux. Joue avec elle\npourvoir."
   },
   {
     "id": 30,
@@ -867,7 +867,7 @@
     "nom_orig": "Inveterate[SP]gambler",
     "texte_orig": "I[SP]heard[SP]you[SP]could[SP]gamble[SP]here,[SP]so[SP]I[SP]came[SP]all\nthis[SP]way...[1205][000F][SP]But[SP]apparently[SP]it[SP]was[SP]just[SP]a\nbaseless[SP]rumor.",
     "nom_fr": "Joueur invétéré",
-    "texte_fr": "J'ai entendu dire qu'on pouvait\nparier ici, alors je suis venu...[1205][000F] Mais ce n'était qu'une fausse rumeur."
+    "texte_fr": "J'ai entendu dire qu'on pouvait parier ici,\nalors je suis venu...[1205][000F] Mais ce n'était qu'une\nfausse rumeur."
   },
   {
     "id": 58,
@@ -987,7 +987,7 @@
     "nom_orig": "Inveterate[SP]gambler",
     "texte_orig": "Ever[SP]hear[SP]of[SP]Russian[SP]roulette?[SP]It's[SP]the[SP]ultimate\nform[SP]of[SP]gambling,[SP]where[SP]your[SP]own[SP]life[SP]is[SP]on[SP]the\nline.[SP]I'll[SP]bet[SP]on[SP]whether[SP]Mu[SP]gets[SP]bombed...",
     "nom_fr": "Joueur invétéré",
-    "texte_fr": "T'as entendu parler de la roulette\nrusse? C'est la forme ultime du\npari, où ta vie est en jeu. Je\nparie sur si Mu se ferabombarder..."
+    "texte_fr": "T'as entendu parler de la roulette russe?\nC'est la forme ultime du pari, où ta vie est\nen jeu. Je parie sur si Mu se\nferabombarder..."
   },
   {
     "id": 66,
@@ -1017,7 +1017,7 @@
     "nom_orig": "Inveterate[SP]gambler",
     "texte_orig": "The[SP]Last[SP]Battalion...[SP]They're[SP]a[SP]real[SP]wild[SP]card.[1205][000F]\nThe[SP]stakes[SP]are[SP]this[SP]entire[SP]city...[SP]What's[SP]going\nto[SP]decide[SP]Sumaru's[SP]fate...[SP]is[SP]cards...",
     "nom_fr": "Joueur invétéré",
-    "texte_fr": "Le Bataillon... Ce sont de sacrés jokers.\n[1205][000F]L'enjeu, c'est cette ville... Ce qui décidera\ndu sort de Sumaru... ce sont les cartes..."
+    "texte_fr": "Le Bataillon... Ce sont de sacrés jokers.\n[1205][000F]L'enjeu, c'est cette ville... Ce qui\ndécidera du sort de Sumaru... ce sont les\ncartes..."
   },
   {
     "id": 68,

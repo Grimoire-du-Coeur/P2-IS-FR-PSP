@@ -237,7 +237,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "I[SP]want[SP]to[SP]get[SP]my[SP]friends[SP]back...[1205][000F][SP]I[SP]want[SP]the\ncity[SP]back[SP]to[SP]normal,[SP]too...[1205][000F][SP]I[SP]just[SP]want[SP]things\nto[SP]be[SP]how[SP]they[SP]were...",
     "nom_fr": "Ginko",
-    "texte_fr": "Je veux retrouver mes amies...[1205][000F] Je veux que la ville redevienne\nnormale... Je veux juste comme avant..."
+    "texte_fr": "Je veux retrouver mes amies...[1205][000F] Je veux que\nla ville redevienne normale... Je veux juste\ncomme avant..."
   },
   {
     "id": 16,
@@ -1453,7 +1453,7 @@
     "nom_orig": "???",
     "texte_orig": "Looks[SP]like[SP]this[SP]is[SP]your[SP]first[SP]time[SP]here.[1205][000F]\nName's[SP]Baofu.[SP]I[SP]run[SP]this[SP]website.[E1][E2]Baofu\nAn[SP]online[SP]rumormonger[SP]with[SP]his[SP]own[SP]rumor[SP]site.\nNothing[SP]is[SP]known[SP]about[SP]him,[SP]but[SP]he[SP]seems[SP]to\nbe[SP]gathering[SP]rumors[SP]for[SP]a[SP]specific[SP]purpose.",
     "nom_fr": "???",
-    "texte_fr": "C'est ta première fois ici. Moi c'est\nBaofu. [1205][000F]Je gère ce site.[E1][E2] Baofu Colporteur\nde rumeurs en ligne avec son propre site.\nRien n'estconnu de lui, mais il semble\ncollectecter des rumeurs dans un but précis."
+    "texte_fr": "C'est ta première fois ici. Moi c'est Baofu.\n[1205][000F]Je gère ce site.[E1][E2] Baofu Colporteur de rumeurs\nen ligne avec son propre site. Rien\nn'estconnu de lui, mais il semble\ncollectecter des rumeurs dans un but précis."
   },
   {
     "id": 94,
@@ -1498,7 +1498,7 @@
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "You're[SP]interested[SP]in[SP]rumors,[SP]aren't[SP]you?[1205][000F]\nSo[SP]am[SP]I.[1205][000F][SP]If[SP]you[SP]want,[SP]send[SP]me[SP]something.\nI'll[SP]be[SP]waiting[SP]to[SP]hear[SP]something[SP]worthwhile.",
     "nom_fr": "Colporteur Baofu",
-    "texte_fr": "Les rumeurs t'intéressent, non? [1205][000F]Moi aussi.\nSi tu veux, envoie-moi quelque chose.\nJ'attends quelque chose qui en vaut la peine."
+    "texte_fr": "Les rumeurs t'intéressent, non? [1205][000F]Moi aussi.\nSi tu veux, envoie-moi quelque chose.\nJ'attends quelque chose qui en vaut la\npeine."
   },
   {
     "id": 97,
@@ -1513,7 +1513,7 @@
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "Hey,[SP]you're[SP]back.",
     "nom_fr": "Colporteur Baofu",
-    "texte_fr": "Tiens, de retour. Choisissez une option.\nDemander des rumeurs Parler à Baofu Annuler\nChoisissez un sujet. Rumeurs armureries\nRumeurs armures Autres Rien\nChoisissez une région. Rengedai Yumezaki\nAoba Kounan Aucune Choisissez une région.\nRengedai Yumezaki Aoba Kounan Aucune\nChoisissez un sujet. Concours magazines\nRumeurs Mu Armes légendaires Aucun\nVérifié. Soumettre. Patientez après envoi."
+    "texte_fr": "Tiens, de retour. Choisissez une option.\nDemander des rumeurs Parler à Baofu Annuler\nChoisissez un sujet. Rumeurs armureries\nRumeurs armures Autres Rien Choisissez une\nrégion. Rengedai Yumezaki Aoba Kounan Aucune\nChoisissez une région. Rengedai Yumezaki\nAoba Kounan Aucune Choisissez un sujet.\nConcours magazines Rumeurs Mu Armes\nlégendaires Aucun Vérifié. Soumettre.\nPatientez après envoi."
   },
   {
     "id": 98,
@@ -1738,7 +1738,7 @@
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "What[SP]we're[SP]drowning[SP]in[SP]is[SP]useless[SP]information.\nThe[SP]signal[SP]and[SP]noise[SP]are[SP]all[SP]mixed[SP]together.",
     "nom_fr": "Colporteur Baofu",
-    "texte_fr": "Ce dont on se noie, c'est l'information\ninutile. Le signal et le bruit sont mélangés."
+    "texte_fr": "Ce dont on se noie, c'est l'information\ninutile. Le signal et le bruit sont\nmélangés."
   },
   {
     "id": 113,
@@ -1813,7 +1813,7 @@
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Is[SP]that[SP]allowed?[SP]Oh,[SP]well.[SP]It's[SP]interesting,\nat[SP]any[SP]rate.",
     "nom_fr": "Homme corpulent",
-    "texte_fr": "C'est autorisé? Bah. Intéressant en tout cas."
+    "texte_fr": "C'est autorisé? Bah. Intéressant en tout\ncas."
   },
   {
     "id": 118,
@@ -1858,7 +1858,7 @@
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Hey,[SP]I[SP]heard[SP]some[SP]Masked[SP]Circle[SP]group[SP]is[SP]doing\nall[SP]this.[SP]Is[SP]that[SP]true?[1205][000F][SP]I[SP]don't[SP]like[SP]it...\nI[SP]thought[SP]Sumaru[SP]was[SP]supposed[SP]to[SP]be[SP]peaceful...",
     "nom_fr": "Homme corpulent",
-    "texte_fr": "Hé, j'ai entendu que c'est un\ngroupe, le Cercle masqué, qui fait\nça. 05]ça. C'est vrai? J'aime pas\nça... Sumaru devait être paisible..."
+    "texte_fr": "Hé, j'ai entendu que c'est un groupe, le\nCercle masqué, qui fait ça. 05]ça. C'est\nvrai? J'aime pas ça... Sumaru devait être\npaisible..."
   },
   {
     "id": 121,
@@ -1918,7 +1918,7 @@
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Aaaand...[SP]send.[1205][000F][SP]Heheh...[1205][000A][SP]Girl[SP]mode[SP]gets[SP]'em\nevery[SP]time.",
     "nom_fr": "Homme corpulent",
-    "texte_fr": "Envoyé. Ha...[1205][000F] Le mode fille marche à coup sûr."
+    "texte_fr": "Envoyé. Ha...[1205][000F] Le mode fille marche à coup\nsûr."
   },
   {
     "id": 125,
@@ -1948,7 +1948,7 @@
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Man,[SP]I've[SP]never[SP]seen[SP]soldiers[SP]like[SP]those,[SP]not\neven[SP]in[SP]the[SP]movies...[SP]Or[SP]weapons[SP]like[SP]theirs\neither...[1205][000F][SP]I[SP]can't[SP]believe[SP]they're[SP]real.",
     "nom_fr": "Homme corpulent",
-    "texte_fr": "J'ai jamais vu des soldats pareils, même\nau cinéma... Ni des armes comme ca...[1205][000F] J'arrive pas à croire que c'est réel."
+    "texte_fr": "J'ai jamais vu des soldats pareils, même au\ncinéma... Ni des armes comme ca...[1205][000F] J'arrive\npas à croire que c'est réel."
   },
   {
     "id": 127,
@@ -2083,7 +2083,7 @@
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Yeah...[SP]I[SP]mean,[SP]it's[SP]really[SP]scary[SP]when[SP]they[SP]put\nit[SP]that[SP]way...[1205][000F][SP]Hm?[1205][000A][SP]Oh,[SP]I[SP]was[SP]talking[SP]about\nKudan.[1205][000F][SP]*sigh*[SP]Best[SP]to[SP]put[SP]it[SP]out[SP]of[SP]mind.",
     "nom_fr": "Homme corpulent",
-    "texte_fr": "Ouais... C'est vraiment\nflippant dit comme ça...[1205][000F] Hm? Oh, je parlais de Kudan. *soupir*\nMieux vaut ne pas y penser."
+    "texte_fr": "Ouais... C'est vraiment flippant dit comme\nça...[1205][000F] Hm? Oh, je parlais de Kudan. *soupir*\nMieux vaut ne pas y penser."
   },
   {
     "id": 136,
@@ -2143,7 +2143,7 @@
     "nom_orig": "Fat[SP]man",
     "texte_orig": "It[SP]brings[SP]kind[SP]of[SP]a[SP]strange[SP]image[SP]to[SP]mind...[1205][000F]\nI[SP]wish[SP]I[SP]could[SP]see[SP]the[SP]real[SP]thing.",
     "nom_fr": "Homme corpulent",
-    "texte_fr": "Ça évoque une image bizarre...[1205][000F] J'aimerais voir la vraie chose."
+    "texte_fr": "Ça évoque une image bizarre...[1205][000F] J'aimerais\nvoir la vraie chose."
   },
   {
     "id": 140,
@@ -3178,7 +3178,7 @@
     "nom_orig": "Fat[SP]man",
     "texte_orig": "What!?[1205][000A][SP]So[SP]demons[SP]actually[SP]exist?[1205][000A][SP]B-But[SP]they\nstole[SP]the[SP]legendary[SP]weapon[SP]from[SP]Time[SP]Castle!",
     "nom_fr": "Homme corpulent",
-    "texte_fr": "Quoi!? Les démons existent? Mais ils ont volé l'arme\nlégendaire du Time Castle!"
+    "texte_fr": "Quoi!? Les démons existent? Mais ils ont\nvolé l'arme légendaire du Time Castle!"
   },
   {
     "id": 209,
