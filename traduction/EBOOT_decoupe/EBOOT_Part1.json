@@ -6237,7 +6237,7 @@
     "data_size": 38,
     "slot_size": 38,
     "texte_orig": "D[SP]Is[SP]this[SP]correct<0008><FF03>",
-    "texte_fr": "D Est-ce correct<0008><FF03>"
+    "texte_fr": "Est-ce correct<0008><FF03>"
   },
   {
     "id": 780,
@@ -6317,7 +6317,7 @@
     "data_size": 138,
     "slot_size": 138,
     "texte_orig": "D[SP]Confirming[SP]name<0004><FF03>Are[SP]these[SP]correct<0008><FF03>Full[SP]name<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03>Nickname<0006>[SP]<FF22><FF12><FF21><FF03>",
-    "texte_fr": "D Confirmation<0004><FF03> Sont-ils correct<0008><FF03> Nom entier<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03> Surnom<0006>[SP]<FF22><FF12><FF21><FF03>"
+    "texte_fr": "Confirmer ces noms<0008><FF03>Nom complet<0006> <FF22><FF11> <FF10><FF21><FF03>Surnom<0006> <FF22><FF12><FF21><FF03>"
   },
   {
     "id": 790,
@@ -6325,7 +6325,7 @@
     "data_size": 66,
     "slot_size": 66,
     "texte_orig": "D[SP]Nickname<0006>[SP]<FF22><FF12><FF21><FF03>Is[SP]this[SP]correct<0008><FF03>",
-    "texte_fr": "D Surnom<0006><FF22><FF12><FF21><FF03> Est-ce correct<0008><FF03>"
+    "texte_fr": "Surnom<0006> <FF22><FF12><FF21><FF03>Est-ce correct<0008><FF03>"
   },
   {
     "id": 791,
@@ -6333,7 +6333,7 @@
     "data_size": 72,
     "slot_size": 72,
     "texte_orig": "D[SP]Full[SP]name<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03>Is[SP]this[SP]correct<0008><FF03>",
-    "texte_fr": "D Nom complet <0006><FF22><FF11><FF10><FF21><FF03> Est-ce correct<0008><FF03>"
+    "texte_fr": "Nom complet<0006> <FF22><FF11> <FF10><FF21><FF03>Est-ce correct<0008><FF03>"
   },
   {
     "id": 792,
