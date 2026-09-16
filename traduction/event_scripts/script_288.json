@@ -117,7 +117,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Deviates...?[1205][000F][SP]My[SP]memories...[1205][000A][SP]changed?[1205][000F][SP]It[SP]can't\nbe...[1205][000A][SP]But[SP]that[SP]must[SP]have[SP]been...[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nTh-Then[SP]the[SP]lady[SP]who[SP]was[SP]here[SP]took[SP]off[SP]to[SP]fight\nthe[SP]Last[SP]Battalion!?[SP]C-C'mon,[SP]that's[SP]crazy!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Déviée...[1205][000F] ? Mes souvenirs... modifiés? Impossible... Mais ça devait être...[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi A-Alors\nla dame d'ici est partie battre le\nBataillon!? C-C'est de la folie!"
+    "texte_fr": "Déviée...[1205][000F] ? Mes souvenirs... modifiés?\nImpossible... Mais ça devait être...[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi A-Alors la dame d'ici est partie\nbattre le Bataillon!? C-C'est de la folie!"
   },
   {
     "id": 8,
@@ -357,7 +357,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Man's[SP]lifespan[SP]is[SP]limited.[1205][000A][SP]That's[SP]why[SP]we[SP]live\nto[SP]the[SP]fullest[SP]and[SP]shine[SP]our[SP]brightest[SP]until\nthe[SP]very[SP]end.[SP]No[SP]one[SP]can[SP]take[SP]away[SP]that[SP]light!",
     "nom_fr": "Maya",
-    "texte_fr": "La vie humaine est courte. C'est pour ça qu'on vit à fond et\nqu'on brille jusqu'à la fin. Nul\nne peut nous voler cette lumière!"
+    "texte_fr": "La vie humaine est courte. C'est pour ça\nqu'on vit à fond et qu'on brille jusqu'à la\nfin. Nul ne peut nous voler cette lumière!"
   },
   {
     "id": 24,
@@ -387,7 +387,7 @@
     "nom_orig": "Maya",
     "texte_orig": "We[SP]can't[SP]sense[SP]time[SP]itself,[SP]but[SP]we[SP]remember\nthe[SP]things[SP]we've[SP]experienced[SP]over[SP]time...\nThose[SP]things[SP]make[SP]up[SP]our[SP]past.",
     "nom_fr": "Maya",
-    "texte_fr": "On ne perçoit pas le temps, mais on garde nos\nsouvenirs... C'est ça qui forge notre passé."
+    "texte_fr": "On ne perçoit pas le temps, mais on garde\nnos souvenirs... C'est ça qui forge notre\npassé."
   },
   {
     "id": 26,
@@ -417,7 +417,7 @@
     "nom_orig": "Maya",
     "texte_orig": "People[SP]who[SP]have[SP]forgotten[SP]the[SP]memories[SP]of[SP]their\npast[SP]are[SP]beginning[SP]to[SP]realize,[SP]through[SP]the[SP]In\nLak'ech,[SP]the[SP]atonement[SP]they[SP]are[SP]destined[SP]for.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHeh...[SP]Don't[SP]you[SP]think[SP]so,[SP][1113]-kun?",
     "nom_fr": "Maya",
-    "texte_fr": "Ceux qui ont oublié leur passé réalisent,\nvia l'In Lak'ech, leur expiation destinée.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHéhé... T'es pas d'accord, [1113]-kun?"
+    "texte_fr": "Ceux qui ont oublié leur passé réalisent,\nvia l'In Lak'ech, leur expiation destinée.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya Héhé... T'es pas d'accord, [1113]-kun?"
   },
   {
     "id": 28,
@@ -477,7 +477,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Everyone[SP]has[SP]keepsakes,[SP]right?[1205][000F][SP]And[SP]looking[SP]at\nthem[SP]brings[SP]back[SP]certain[SP]memories.[1205][000A][SP]Good[SP]ones...[1205][000F]\nand[SP]bad[SP]ones...",
     "nom_fr": "Yukino",
-    "texte_fr": "On a tous des souvenirs, non? [1205][000F]Et\nles regarder ravive la mémoire. Les bons... comme les mauvais..."
+    "texte_fr": "On a tous des souvenirs, non? [1205][000F]Et les\nregarder ravive la mémoire. Les bons...\ncomme les mauvais..."
   },
   {
     "id": 32,
@@ -757,7 +757,7 @@
     "nom_orig": "Count",
     "texte_orig": "Man[SP]believes[SP]in[SP]what[SP]he[SP]can[SP]see.[1205][000F][SP]But[SP]the[SP]heart\nyearns[SP]for,[SP]obsesses[SP]over,[SP]what[SP]cannot[SP]be[SP]seen.[1205][000A]\nThat[SP]is[SP]why[SP]man[SP]craves[SP]a[SP]fixed[SP]star[SP]to[SP]steer[SP]by.",
     "nom_fr": "Comte",
-    "texte_fr": "L'homme croit ce qu'il voit. [1205][000F]Mais\nle cœur obnubile sur l'invisible. C'est pourquoi il cherche un repère."
+    "texte_fr": "L'homme croit ce qu'il voit. [1205][000F]Mais le cœur\nobnubile sur l'invisible. C'est pourquoi il\ncherche un repère."
   },
   {
     "id": 48,
@@ -877,7 +877,7 @@
     "nom_orig": "Count",
     "texte_orig": "Time[SP]is[SP]an[SP]absolute[SP]property[SP]that[SP]cannot[SP]be[SP]seen\nor[SP]felt.[SP]But[SP]there[SP]is[SP]one[SP]comparable[SP]thing[SP]man\ncan[SP]know[SP]it[SP]by.",
     "nom_fr": "Comte",
-    "texte_fr": "Le temps est absolu, invisible et insensible.\nMais l'homme a un moyen de le percevoir."
+    "texte_fr": "Le temps est absolu, invisible et\ninsensible. Mais l'homme a un moyen de le\npercevoir."
   },
   {
     "id": 56,
@@ -937,7 +937,7 @@
     "nom_orig": "Count",
     "texte_orig": "The[SP]rings[SP]of[SP]time[SP]affect[SP]everything...[1205][000F][SP]Even[SP]the\npast[SP]can[SP]become[SP]the[SP]future[SP]someday.[1205][000F][SP]No[SP]human\nalive[SP]can[SP]escape[SP]that[SP]fate.",
     "nom_fr": "Comte",
-    "texte_fr": "Les anneaux du temps touchent tout...[1205][000F] Le passé peut redevenir l'avenir un\njour. Personne ne peut fuir ce destin."
+    "texte_fr": "Les anneaux du temps touchent tout...[1205][000F] Le\npassé peut redevenir l'avenir un jour.\nPersonne ne peut fuir ce destin."
   },
   {
     "id": 60,
@@ -997,7 +997,7 @@
     "nom_orig": "Count",
     "texte_orig": "Though[SP]man[SP]believes[SP]them[SP]to[SP]be[SP]accurate,[SP]his\nmemories[SP]slowly[SP]deviate[SP]over[SP]time.[SP]Only[SP]these\nantiques[SP]with[SP]no[SP]hearts[SP]point[SP]at[SP]the[SP]truth.",
     "nom_fr": "Comte",
-    "texte_fr": "Bien que l'homme les croie précis, ses\nsouvenirs dévient avec le temps. Seules ces\nantiquités sans cœur pointent vers la vérité."
+    "texte_fr": "Bien que l'homme les croie précis, ses\nsouvenirs dévient avec le temps. Seules ces\nantiquités sans cœur pointent vers la\nvérité."
   },
   {
     "id": 64,
@@ -1162,7 +1162,7 @@
     "nom_orig": "Nouveau-riche[SP]woman",
     "texte_orig": "[1432][NULL][NULL][0014]He[1432][NULL][NULL][0014]...?[1205][000F][SP]O-Oh[SP]yes,[SP]Takeshi...[1205][000F][SP]H-Haha...[SP]How\ncould[SP]I[SP]forget[SP]my[SP]own[SP]son's[SP]name...?[1205][000F][SP]I[SP]think\nI'm[SP]a[SP]little[SP]drunk[SP]off[SP]this[SP]sudden[SP]fortune.",
     "nom_fr": "Nouvelle riche",
-    "texte_fr": "[1432][NULL][NULL][0014]Il[1432][NULL][NULL][0014]...[1205][000F] ? O-Oh oui, Takeshi... H-Haha... Comment\noublier le nom de mon fils...? Je crois\nque je suis un peu ivre de cette fortune."
+    "texte_fr": "[1432][NULL][NULL][0014]Il[1432][NULL][NULL][0014]...[1205][000F] ? O-Oh oui, Takeshi... H-Haha...\nComment oublier le nom de mon fils...? Je\ncrois que je suis un peu ivre de cette\nfortune."
   },
   {
     "id": 75,
@@ -1177,7 +1177,7 @@
     "nom_orig": "Nouveau-riche[SP]woman",
     "texte_orig": "I[SP]wonder[SP]if[SP]being[SP]rich[SP]makes[SP]you[SP]forgetful.[1205][000F]\nI[SP]frequently[SP]forget[SP]my[SP]own[SP]son's[SP]name[SP]lately...[1205][000F]\nHis[SP]name's[SP]Takeshi,[SP]but...[1205][000A][SP]Haha,[SP]shameful,[SP]no?",
     "nom_fr": "Nouvelle riche",
-    "texte_fr": "La richesse rend peut-être amnésique.\n[1205][000F]J'oublie souvent le nom de mon\nfils... Il s'appelle Takeshi, mais... Haha, c'est honteux."
+    "texte_fr": "La richesse rend peut-être amnésique.\n[1205][000F]J'oublie souvent le nom de mon fils... Il\ns'appelle Takeshi, mais... Haha, c'est\nhonteux."
   },
   {
     "id": 76,
@@ -1207,7 +1207,7 @@
     "nom_orig": "Nouveau-riche[SP]woman",
     "texte_orig": "M-Masked[SP]Circle?[1205][000A][SP]Wh-What's[SP]that?[1205][000F][SP]I've[SP]never\nheard[SP]of[SP]any[SP]such[SP]organization.[1205][000F][SP]N-Now,[SP]what\nshould[SP]I[SP]buy[SP]next...?",
     "nom_fr": "Nouvelle riche",
-    "texte_fr": "C-Cercle masqué? Q-Qu'est-ce que c'est? Je ne\nconnais pas ce groupe. Q-Que\ndevrais-je acheter maintenant...?"
+    "texte_fr": "C-Cercle masqué? Q-Qu'est-ce que c'est? Je\nne connais pas ce groupe. Q-Que devrais-je\nacheter maintenant...?"
   },
   {
     "id": 78,
@@ -1252,7 +1252,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Hahahaha,[SP]what[SP]fun![SP]This[SP]city[SP]should[SP]burn[SP]to\nthe[SP]ground![SP]That's[SP]what'll[SP]make[SP]me[SP]feel[SP]better!\nHahahaha![E1][E2]\n[E3][E4][NULL][NULL]\"Masked[SP]Circle[SP]member\nAaaaagh...[SP]Time's[SP]spinning...[1205][000F][SP]Something's\nmissing[SP]from[SP]inside[SP]me...[1205][000F][SP]Stop[SP]it...[SP]Stop\nthis[SP]clock!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Hahahaha, amusant! Cette ville devrait\nbrûler! Ça me fera me sentir mieux!\nHahahaha![E1][E2]\n[E3][E4][NULL][NULL]\"Membre\ndu Cercle Aaaaagh...[1205][000F] Le temps tourne...[1205][000F] Il manque un truc en\nmoi... Arrête... Arrête cette horloge!"
+    "texte_fr": "Hahahaha, amusant! Cette ville devrait\nbrûler! Ça me fera me sentir mieux!\nHahahaha![E1][E2] [E3][E4][NULL][NULL]\"Membre du Cercle Aaaaagh...[1205][000F] Le\ntemps tourne...[1205][000F] Il manque un truc en moi...\nArrête... Arrête cette horloge!"
   },
   {
     "id": 81,
@@ -1342,7 +1342,7 @@
     "nom_orig": "Quiet[SP]gentleman",
     "texte_orig": "A[SP]moment[SP]of[SP]prosperity...[1205][000A][SP]A[SP]flash[SP]of[SP]joy...[1205][000F]\nAntiques[SP]reveal[SP]such[SP]evanescence.[SP]That[SP]lady\nmust[SP]have[SP]realized[SP]this[SP]as[SP]well.",
     "nom_fr": "Gentilhomme calme",
-    "texte_fr": "Un moment de prospérité... Un éclair de joie... Les antiquités le\nmontrent. Cette dame a dû le réaliser aussi."
+    "texte_fr": "Un moment de prospérité... Un éclair de\njoie... Les antiquités le montrent. Cette\ndame a dû le réaliser aussi."
   },
   {
     "id": 87,

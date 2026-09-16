@@ -72,7 +72,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Not[SP]everyone[SP]wants[SP]to[SP]evolve...[1205][000F][SP]They[SP]just[SP]want\nto[SP]escape[SP]the[SP]annihilation[SP]of[SP]Earth.[SP]They[SP]want\nto[SP]believe[SP]they'll[SP]be[SP]saved.",
     "nom_fr": "Maya",
-    "texte_fr": "Tout le monde ne veut pas évoluer...[1205][000F] Ils fuient la destruction de la Terre.\nIls croient qu'ils seront sauvés."
+    "texte_fr": "Tout le monde ne veut pas évoluer...[1205][000F] Ils\nfuient la destruction de la Terre. Ils\ncroient qu'ils seront sauvés."
   },
   {
     "id": 5,
@@ -261,7 +261,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Anyway.[1205][0008][SP]How[SP]about[SP]our[SP]fashion[SP]concept[SP]for[SP]this\nyear?[1205][000F][SP]We[SP]were[SP]smart[SP]to[SP]pick[SP]armor,[SP]weren't[SP]we?[1205][000F]\nOur[SP]forecasts[SP]are[SP]never[SP]wrong,[SP]hahaha.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bref.[1205][0008] Et notre concept mode pour\ncette année? On 00F]On a eu raison\nde miser sur les armures? Nos\nprévisions ne se trompent jamais!"
+    "texte_fr": "Bref.[1205][0008] Et notre concept mode pour cette\nannée? On 00F]On a eu raison de miser sur\nles armures? Nos prévisions ne se trompent\njamais!"
   },
   {
     "id": 15,
@@ -366,7 +366,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Hey![1205][000A][SP]That's[SP]the[SP]dressing[SP]room.[1205][000A][SP]Don't[SP]go[SP]in\nthere[SP]if[SP]you[SP]don't[SP]need[SP]to[SP]use[SP]it.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Hé! C'est la cabine d'essayage. N'entrez pas sans avoir besoin de l'utiliser."
+    "texte_fr": "Hé! C'est la cabine d'essayage. N'entrez pas\nsans avoir besoin de l'utiliser."
   },
   {
     "id": 22,
@@ -381,7 +381,7 @@
     "nom_orig": "Hayseed",
     "texte_orig": "Well[SP]ah'll[SP]be[SP]damned.[1205][000A][SP]The[SP]city's[SP]flyin'[SP]in\nthe[SP]sky![1205][000A][SP]Seems[SP]like[SP]everythin'[SP]that[SP]happens\nin[SP]the[SP]city[SP]is[SP]crazy!",
     "nom_fr": "Péquenaud",
-    "texte_fr": "Ben ça alors! La ville vole dans le ciel! Y'a vraiment des trucs de\ndingues qui arrivent en ville!"
+    "texte_fr": "Ben ça alors! La ville vole dans le ciel!\nY'a vraiment des trucs de dingues qui\narrivent en ville!"
   },
   {
     "id": 23,
@@ -396,7 +396,7 @@
     "nom_orig": "Hayseed",
     "texte_orig": "What!?[SP]No[SP]one[SP]told[SP]me![1205][000A][SP]So[SP]if[SP]this[SP]Grand[SP]Cross\nthing[SP]happens,[SP]everythin'[SP]down[SP]there's[SP]done[SP]fer?",
     "nom_fr": "Péquenaud",
-    "texte_fr": "Quoi!? Personne m'a prévenu! Si la Croix Cosmique se\nproduit, tout en bas est fichu?"
+    "texte_fr": "Quoi!? Personne m'a prévenu! Si la Croix\nCosmique se produit, tout en bas est fichu?"
   },
   {
     "id": 24,
@@ -411,7 +411,7 @@
     "nom_orig": "Hayseed",
     "texte_orig": "What[SP]am[SP]ah[SP]gonna[SP]do?[1205][0008][SP]Ma's[SP]still[SP]down[SP]there...[1205][000A]\nShe's[SP]gonna[SP]die![SP]Ah[SP]gotta...[1205][000F][SP]Ah[SP]gotta[SP]get\ndown[SP]there!",
     "nom_fr": "Péquenaud",
-    "texte_fr": "Qu'est-ce que je vais\nfaire?[1205][0008] M'man est là-bas... Elle va mourir! Je dois descendre!"
+    "texte_fr": "Qu'est-ce que je vais faire?[1205][0008] M'man est\nlà-bas... Elle va mourir! Je dois descendre!"
   },
   {
     "id": 25,
@@ -471,7 +471,7 @@
     "nom_orig": "Working[SP]woman",
     "texte_orig": "Are[SP]we[SP]going[SP]to[SP]become[SP]Idealians[SP]soon?\nWouldn't[SP]that[SP]be[SP]great?",
     "nom_fr": "Femme active",
-    "texte_fr": "Bientôt des Idéaliens? Ce serait merveilleux!"
+    "texte_fr": "Bientôt des Idéaliens? Ce serait\nmerveilleux!"
   },
   {
     "id": 29,
@@ -516,7 +516,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Ohhhohoho![1205][000A][SP]That[SP]pillar[SP]of[SP]light[SP]rising[SP]from\nSevens[SP]must[SP]be[SP]part[SP]of[SP]the[SP]Oracle,[SP]too.[1205][000A]\nAnother[SP]passage[SP]fulfilled!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Ohhhohoho! Ce pilier de lumière de Seven\nfait partie de l'Oracle. Encore une prophétie accomplie!"
+    "texte_fr": "Ohhhohoho! Ce pilier de lumière de Seven\nfait partie de l'Oracle. Encore une\nprophétie accomplie!"
   },
   {
     "id": 32,
@@ -531,7 +531,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Ohhhhhohohoho![1205][0008][SP]It's[SP]almost[SP]time![1205][000A][SP]We'll[SP]become\nIdealians--practically[SP]gods![1205][000A][SP]Ohhhhohohoho!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Ohhhhhohohoho![1205][0008] C'est l'heure! On va devenir des Idéaliens! Ohhhhohohoho!"
+    "texte_fr": "Ohhhhhohohoho![1205][0008] C'est l'heure! On va devenir\ndes Idéaliens! Ohhhhohohoho!"
   },
   {
     "id": 33,

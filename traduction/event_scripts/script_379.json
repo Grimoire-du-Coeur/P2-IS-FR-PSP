@@ -207,7 +207,7 @@
     "nom_orig": "Maya",
     "texte_orig": "This[SP]song...[1205][000F][SP]It's[SP]intolerable![1205][000F][SP]Let's[SP]leave\nthis[SP]place[SP]at[SP]once,[SP][1113]-kun![E1][E2]\n[E3][E4][NULL][NULL]\"Yukino\nThis[SP]brings[SP]back[SP]memories...[1205][001E][SP]This[SP]place[SP]was[SP]a\nhuge[SP]help[SP]for[SP]me[SP]and[SP]my[SP]friends[SP]when[SP]we[SP]were\nyounger.[1205][001E][SP]It[SP]was[SP]fun,[SP]despite[SP]everything.",
     "nom_fr": "Maya",
-    "texte_fr": "Cette chanson...[1205][000F] Insupportable! Partons\nd'ici tout de suite, [1113]![E1][E2]\n[E3][E4][NULL][NULL]\"Yukino Cela me\nrappelle des souvenirs...[1205][001E] Cet endroit\na beaucoup aidé mes amis et moi dans\nnotrejeunesse.[1205][001E] C'était bien, malgré tout."
+    "texte_fr": "Cette chanson...[1205][000F] Insupportable! Partons\nd'ici tout de suite, [1113]![E1][E2] [E3][E4][NULL][NULL]\"Yukino Cela me\nrappelle des souvenirs...[1205][001E]Cet endroit a beaucoup aidé mes amis et moi\ndans notrejeunesse.[1205][001E]C'était bien, malgré tout."
   },
   {
     "id": 14,
@@ -237,7 +237,7 @@
     "nom_orig": "Jun",
     "texte_orig": "S-So[SP]this[SP]is[SP]the[SP]Velvet[SP]Room...[1205][000F][SP]My[SP]father\ntold[SP]me[SP]about[SP]it[SP]once.[1205][000F][SP]But[SP]to[SP]see[SP]it[SP]with\nmy[SP]own[SP]eyes...",
     "nom_fr": "Jun",
-    "texte_fr": "A-Alors c'est ça la Velvet Room...[1205][000F] Mon père m'en avait parlé. Mais\nla voir de mes propres yeux..."
+    "texte_fr": "A-Alors c'est ça la Velvet Room...[1205][000F] Mon père\nm'en avait parlé. Mais la voir de mes\npropres yeux..."
   },
   {
     "id": 16,
@@ -488,7 +488,7 @@
     "nom_orig": "Igor",
     "texte_orig": "To[SP][1432][NULL][NULL][0014]take[SP]on[1432][NULL][NULL][0014][SP]a[SP]Persona[SP]means[SP]for[SP]a[SP]Persona-\nuser[SP]such[SP]as[SP]yourself[SP]to[SP]accept[SP]it[SP]into[SP]you.\nJust[SP]having[SP]its[SP]card[SP]will[SP]do[SP]you[SP]no[SP]good.",
     "nom_fr": "Igor",
-    "texte_fr": "[1432][NULL][NULL][0014]Porter[1432][NULL][NULL][0014] un Persona signifie,\npour un utilisateur comme vous,\nl'accepter en soi. Posséder sa\ncarte seule ne vous servira àrien."
+    "texte_fr": "[1432][NULL][NULL][0014]Porter[1432][NULL][NULL][0014] un Persona signifie, pour un\nutilisateur comme vous, l'accepter en soi.\nPosséder sa carte seule ne vous servira\nàrien."
   },
   {
     "id": 28,
@@ -1058,7 +1058,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Ah,[SP]yes,[SP]one[SP]final[SP]caveat:[SP]Even[SP]with[SP]the\nrequisite[SP]number[SP]of[SP]cards,[SP]you[SP]cannot[SP]summon\nPersonas[SP]that[SP]are[SP]five[SP]levels[SP]higher[SP]than[SP]you.",
     "nom_fr": "Igor",
-    "texte_fr": "Dernier avertissement: même avec assez\nde cartes, vous ne pouvez invoquer des\nPersonae de cinq niveaux supérieurs au vôtre."
+    "texte_fr": "Dernier avertissement: même avec assez de\ncartes, vous ne pouvez invoquer des Personae\nde cinq niveaux supérieurs au vôtre."
   },
   {
     "id": 66,
@@ -1178,7 +1178,7 @@
     "nom_orig": "Igor",
     "texte_orig": "For[SP]instance...[SP]Add[SP]an[SP]Agi[SP]Card[SP]when[SP]summoning\na[SP]new[SP]Persona,[SP]and[SP]that[SP]Persona[SP]will[SP]learn[SP]Agi.",
     "nom_fr": "Igor",
-    "texte_fr": "Par exemple, ajoutez une Carte Agi lors d'une\ninvocation, et ce Persona apprendra Agi."
+    "texte_fr": "Par exemple, ajoutez une Carte Agi lors\nd'une invocation, et ce Persona apprendra\nAgi."
   },
   {
     "id": 74,
@@ -1448,7 +1448,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Some[SP]require[SP]special[SP]conditions[SP]to[SP]be[SP]summoned.\nThey[SP]slumber[SP]at[SP]the[SP]depths[SP]of[SP]the[SP]unconscious\nmind...[SP]You[SP]will[SP]need[SP]a[SP]way[SP]to[SP]awaken[SP]them.",
     "nom_fr": "Igor",
-    "texte_fr": "Certains nécessitent des conditions\nspéciales. Ils sommeillent\ndans l'inconscient... Il faudra\nun moyen de les éveiller."
+    "texte_fr": "Certains nécessitent des conditions\nspéciales. Ils sommeillent dans\nl'inconscient... Il faudra un moyen de les\néveiller."
   },
   {
     "id": 92,
@@ -1673,7 +1673,7 @@
     "nom_orig": "Igor",
     "texte_orig": "A[SP]demon's[SP]feelings[SP]can[SP]be[SP]measured[SP]through\nits[SP]words,[SP]wounds,[SP]actions,[SP]and[SP]also[SP]a[SP]gauge.",
     "nom_fr": "Igor",
-    "texte_fr": "Les sentiments d'un démon se mesurent par\nses paroles, blessures, actions et une jauge."
+    "texte_fr": "Les sentiments d'un démon se mesurent par\nses paroles, blessures, actions et une\njauge."
   },
   {
     "id": 107,
@@ -2018,7 +2018,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Their[SP]personalities[SP]can[SP]be[SP]divided[SP]into[SP]eight\nclassifications:[SP]wise,[SP]foolish,[SP]joyful,[SP]timid,\nforceful,[SP]gloomy,[SP]snappish,[SP]and[SP]haughty...",
     "nom_fr": "Igor",
-    "texte_fr": "Leurs personnalités peuvent se diviser en\nhuit catégories: sage, sot, joyeux, craintif,\nforcené, sombre, brusque et hautain..."
+    "texte_fr": "Leurs personnalités peuvent se diviser en\nhuit catégories: sage, sot, joyeux,\ncraintif, forcené, sombre, brusque et\nhautain..."
   },
   {
     "id": 130,
@@ -2472,7 +2472,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Do[SP]you[SP]know[SP]about[SP]Fusion[SP]Spells?[1205][000F][SP]When[SP]you[SP]use\nthem,[SP]sometimes[SP]your[SP]Personas[SP]will[SP]undergo\nmutations.",
     "nom_fr": "Igor",
-    "texte_fr": "Connaissez-vous les Sorts de Fusion? [1205][000F]Quand\nvous les utilisez, les Persona peuvent muter."
+    "texte_fr": "Connaissez-vous les Sorts de Fusion? [1205][000F]Quand\nvous les utilisez, les Persona peuvent\nmuter."
   },
   {
     "id": 158,

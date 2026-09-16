@@ -252,7 +252,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "She[SP]was[SP]really[SP]pretty,[SP]though.[SP]She[SP]looked[SP]so\ngrown-up,[SP]and[SP]really[SP]wore[SP]her[SP]makeup[SP]well...[1205][000F]\nWait,[SP]she's[SP]like[SP]the[SP]opposite[SP]of[SP]Maya-san!",
     "nom_fr": "Ginko",
-    "texte_fr": "Elle était très jolie, pourtant. Si\nadulte, et très bien maquillée...[1205] Mais c'est tout l'inverse de Maya-san!"
+    "texte_fr": "Elle était très jolie, pourtant. Si adulte,\net très bien maquillée...[1205] Mais c'est tout\nl'inverse de Maya-san!"
   },
   {
     "id": 17,
@@ -372,7 +372,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Ulala's[SP]been[SP]smoking[SP]in[SP]here[SP]again...[1205][000F][SP]She\nalways[SP]goes[SP]back,[SP]forgets[SP]her[SP]cigarettes,[SP]and\nthen[SP]complains[SP]endlessly[SP]about[SP]losing[SP]them.",
     "nom_fr": "Maya",
-    "texte_fr": "Ulala a encore fumé ici...[1205][000F] Elle repart\ntoujours, oublie ses cigarettes, et se plaint\nensuite sans arrêt de les avoir perdues."
+    "texte_fr": "Ulala a encore fumé ici...[1205][000F] Elle repart\ntoujours, oublie ses cigarettes, et se\nplaint ensuite sans arrêt de les avoir\nperdues."
   },
   {
     "id": 25,
@@ -552,10 +552,7 @@
     "nom_orig": "Ulala",
     "texte_orig": "Man,[SP]first[SP]that[SP]putz[SP]escaped,[SP]and[SP]now[SP]these\nweird[SP]soldiers[SP]are[SP]here...[1205][000F][SP]Why[SP]am[SP]I[SP]so[SP]unlucky?",
     "nom_fr": "Ulala",
-    "texte_fr": "Ce crétin s'est échappé, et maintenant\nces soldats... Pourquoi j'ai si peu de\nchance? Une nouvelle chaîne. [1205][000F]La seule\nchose propre ici. Jouer un CD? OuiNon",
-    "choix_fr": [
-      ""
-    ]
+    "texte_fr": "Ce crétin s'est échappé, et maintenant ces\nsoldats... Pourquoi j'ai si peu de chance?\nUne nouvelle chaîne. [1205][000F]La seule chose propre\nici. Jouer un CD? OuiNon"
   },
   {
     "id": 37,

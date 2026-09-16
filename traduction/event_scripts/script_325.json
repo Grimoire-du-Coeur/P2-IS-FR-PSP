@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Hey,[SP]don't[SP]forget.[1205][000A][SP]We[SP]haven't[SP]been[SP]to[SP]the\ntemple[SP]in[SP]Yumezaki[SP]yet.[SP]Let's[SP]hurry[SP]and[SP]go\nget[SP]that[SP]crystal[SP]skull.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hé, n'oublie pas. On n'est pas encore au temple de Yumezaki.\nVite, allons chercher ce crâne de cristal."
+    "texte_fr": "Hé, n'oublie pas. On n'est pas encore au\ntemple de Yumezaki. Vite, allons chercher ce\ncrâne de cristal."
   },
   {
     "id": 1,
@@ -132,7 +132,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Wow,[SP]your[SP]double[SP]really[SP]looked[SP]evil.[1205][000F][SP]Can[SP]you\nmake[SP]a[SP]face[SP]like[SP]that,[SP][1113]-kun?[1205][000A][SP]Probably\nnot,[SP]huh.",
     "nom_fr": "Maya",
-    "texte_fr": "Wow, ton double avait l'air[1205][000F] mauvais.\nTu peux faire cette tête, [1113]-kun? Sûrement pas, hein."
+    "texte_fr": "Wow, ton double avait l'air[1205][000F] mauvais. Tu peux\nfaire cette tête, [1113]-kun? Sûrement pas, hein."
   },
   {
     "id": 9,
@@ -192,7 +192,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Ngh...[1205][000A][SP]My[SP]head...[1205][000A][SP]hurts...[1205][000F][SP]It's[SP]no[SP]good.\nI[SP]can't[SP]remember.[1205][000F][SP]Who[SP]was[SP]supposed[SP]to[SP]have\nbeen[SP]waiting[SP]for[SP]us[SP]there?",
     "nom_fr": "Jun",
-    "texte_fr": "Ngh... Ma tête... fait mal... Impossible. J'ai oublié.\nQui devait nous attendre là-bas?"
+    "texte_fr": "Ngh... Ma tête... fait mal... Impossible.\nJ'ai oublié. Qui devait nous attendre\nlà-bas?"
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
     "nom_orig": "Jun",
     "texte_orig": "I[SP]wanted[SP]to[SP]prove[SP]my[SP]father's[SP]theory.[SP]That's\nall[SP]I[SP]had[SP]in[SP]mind[SP]at[SP]the[SP]start...[1205][000F][SP]To[SP]think[SP]it\nwould[SP]lead[SP]to[SP]such[SP]a[SP]catastrophe...",
     "nom_fr": "Jun",
-    "texte_fr": "Je voulais prouver la théorie de mon père...[1205][000F] Dire que ça a mené à une telle catastrophe..."
+    "texte_fr": "Je voulais prouver la théorie de mon père...[1205][000F]\nDire que ça a mené à une telle\ncatastrophe..."
   },
   {
     "id": 14,
@@ -328,7 +328,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Hey,[SP]kid.[1205][000A][SP]This[SP]is[SP]just[SP]between[SP]us,[SP]okay?[1205][000F][SP]You\nknow[SP]how[SP]Eikichi's[SP]freaked[SP]out[SP]by[SP]my[SP]having\nranks[SP]in[SP]all[SP]sorts[SP]of[SP]martial[SP]arts?",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Hé, les jeunes. Ça reste entre nous. Vous savez qu'Eikichi\na peur de mes grades en arts martiaux?"
+    "texte_fr": "Hé, les jeunes. Ça reste entre nous. Vous\nsavez qu'Eikichi a peur de mes grades en\narts martiaux?"
   },
   {
     "id": 19,
@@ -388,7 +388,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "Man,[SP]that[SP]boy[SP]of[SP]mine![1205][000F][SP]Where'd[SP]he[SP]find[SP]a[SP]beauty\nlike[SP]her!?[SP]Looks[SP]like[SP]he's[SP]finally[SP]playing[SP]the\nfield.",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "Mon fils! Où a-t-il [1205][000F]trouvé une telle beauté!?\nOn dirait qu'il profite enfin de la vie."
+    "texte_fr": "Mon fils! Où a-t-il [1205][000F]trouvé une telle\nbeauté!? On dirait qu'il profite enfin de la\nvie."
   },
   {
     "id": 23,
@@ -403,7 +403,7 @@
     "nom_orig": "Eikichi's[SP]dad",
     "texte_orig": "This[SP]is[SP]wonderful![1205][000A][SP]No,[SP]really![1205][000F][SP]Hey,[SP]honey!\nCook[SP]up[SP]some[SP]red[SP]beans[SP]and[SP]rice.[SP]I'm[SP]gonna\nmake[SP]my[SP]special[SP]sushi[SP]today!",
     "nom_fr": "Père d'Eikichi",
-    "texte_fr": "C'est génial! Vraiment! Chérie! Fais du riz aux haricots\nrouges. Je fais mes sushis spéciaux!"
+    "texte_fr": "C'est génial! Vraiment! Chérie! Fais du riz\naux haricots rouges. Je fais mes sushis\nspéciaux!"
   },
   {
     "id": 24,
@@ -839,7 +839,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "Huh?[SP]Tamaki[SP]at[SP]the[SP]detective[SP]agency[SP]is\nactually[SP]a[SP]Devil[SP]Summoner?",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Tamaki de l'agence est Invocatrice de Démons?"
+    "texte_fr": "Tamaki de l'agence est Invocatrice de\nDémons?"
   },
   {
     "id": 49,
@@ -869,7 +869,7 @@
     "nom_orig": "Rumormonger[SP]Toro",
     "texte_orig": "You[SP]know[SP]those[SP][E4][NULL][NULL][0006]magazine[SP]sweepstakes[E4][NULL][NULL][0002]?[SP]I[SP]hear[SP]you\ncan[SP]win[SP][E4][NULL][NULL][0006]real[SP]weapons[SP]and[SP]rare[SP]items[E4][NULL][NULL][0002].[SP]They're\n[E4][NULL][NULL][0006]seldom[SP]won,[SP]but[SP]the[SP]prizes[SP]are[SP]very[SP]rare[E4][NULL][NULL][0002].",
     "nom_fr": "Toro l'informateur",
-    "texte_fr": "Les [E4][NULL][NULL][0006]concours[E4][NULL][NULL][0002] offrent de [E4][NULL][NULL][0006]vraies armes et\nobjets[E4][NULL][NULL][0002]. C'est [E4][NULL][NULL][0006]dur de gagner, mais c'est rare[E4][NULL][NULL][0002]."
+    "texte_fr": "Les [E4][NULL][NULL][0006]concours[E4][NULL][NULL][0002] offrent de [E4][NULL][NULL][0006]vraies armes et\nobjets[E4][NULL][NULL][0002]. C'est [E4][NULL][NULL][0006]dur de gagner, mais c'est\nrare[E4][NULL][NULL][0002]."
   },
   {
     "id": 51,
@@ -1019,7 +1019,7 @@
     "nom_orig": "Count[SP]Sushi",
     "texte_orig": "This[SP]has[SP]to[SP]be[SP]just[SP]a[SP]bad[SP]dream...[1205][000F][SP]How[SP]else[SP]do\nyou[SP]explain[SP]it?[1205][000A][SP]Soldiers[SP]falling[SP]from[SP]the[SP]sky,\nthe[SP]city[SP]taking[SP]to[SP]the[SP]air,[SP]those[SP]temples...",
     "nom_fr": "Comte Sushi",
-    "texte_fr": "C'est un cauchemar...[1205][000F] Sinon comment expliquer? Soldats du ciel, ville\nqui vole, ces temples..."
+    "texte_fr": "C'est un cauchemar...[1205][000F] Sinon comment\nexpliquer? Soldats du ciel, ville qui vole,\nces temples..."
   },
   {
     "id": 61,
@@ -1079,7 +1079,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "The[SP]Earth's[SP]destruction's[SP]gonna[SP]happen[SP]just[SP]like\nthe[SP]Oracle[SP]says,[SP]huh...[1205][000F][SP]There's[SP]talk[SP]it'll[SP]be\ncaused[SP]by[SP]a[SP]quake[SP]or[SP]tsunami[SP]or[SP]something.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "La Terre sera détruite comme le dit\n[1205][000F]l'Oracle... On parle de séisme ou de tsunami."
+    "texte_fr": "La Terre sera détruite comme le dit\n[1205][000F]l'Oracle... On parle de séisme ou de\ntsunami."
   },
   {
     "id": 65,
@@ -1169,7 +1169,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "I[SP]heard[SP]the[SP]ghost[SP]of[SP]an[SP]idol[SP]who[SP]starved[SP]to\ndeath[SP]at[SP]Aoba[SP]Park[SP]is[SP]appearing[SP]there.[SP]That's\none[SP]of[SP]the[SP]saddest[SP]things[SP]I've[SP]ever[SP]heard...",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Le fantôme d'une idole morte de faim apparaît\nau Parc Aoba. C'est tellement triste..."
+    "texte_fr": "Le fantôme d'une idole morte de faim\napparaît au Parc Aoba. C'est tellement\ntriste..."
   },
   {
     "id": 71,
@@ -1889,7 +1889,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "Seems[SP]there's[SP]real[SP]gambling[SP]at[SP]Mu.[SP]I[SP]hear\nthe[SP]best[SP]odds[SP]are[SP]the[SP]slots.[SP]The[SP]reels[SP]line\nup[SP]pretty[SP]frequently.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "Il y a des jeux à Mu. Les machines à sous ont\nles meilleures cotes. Ça s'aligne souvent."
+    "texte_fr": "Il y a des jeux à Mu. Les machines à sous\nont les meilleures cotes. Ça s'aligne\nsouvent."
   },
   {
     "id": 119,
@@ -2009,7 +2009,7 @@
     "nom_orig": "Sushi[SP]Royalty",
     "texte_orig": "The[SP]legendary[SP]weapon[SP]at[SP]Time[SP]Castle[SP]seems[SP]to\nhave[SP]been[SP]a[SP]flower,[SP]but[SP]I[SP]hear[SP]the[SP]owner[SP]gave\nit[SP]to[SP]some[SP]woman[SP]with[SP]short[SP]hair.",
     "nom_fr": "Sushi Royalty",
-    "texte_fr": "L'arme légendaire de Time Castle était une\nfleur, donnée à une femme aux cheveux courts."
+    "texte_fr": "L'arme légendaire de Time Castle était une\nfleur, donnée à une femme aux cheveux\ncourts."
   },
   {
     "id": 127,
