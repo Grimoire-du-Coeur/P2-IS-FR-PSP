@@ -777,7 +777,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Welcome,[SP]Mister![SP]I'm[SP]a[SP]good[SP]exchange[SP]student.\nI[SP]make[SP]the[SP]accessories[SP]and[SP]for[SP]my[SP]living,\nI[SP]sell[SP]them.\n[1208][0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Tony",
-    "texte_fr": "Bienvenue, M'sieur! Je suis bon étudiant\nétranger. Je fabrique et vends\nces bijoux pour vivre.\n[1208][0006][1210][U+03BB]Acheter armes\nAcheter accessoires\nVendre objets\nParler à Tony\nRien[SP][SP][SP][SP][SP]\nPartir[03BB]",
+    "texte_fr": "Autre chose ?\n[1208][0006][1210][U+03BB]Acheter armes\nAcheter accessoires\nVendre objets\nParler à Tony\nRien\nPartir",
     "question_orig": "Welcome,[SP]Mister![SP]I'm[SP]a[SP]good[SP]exchange[SP]student.\nI[SP]make[SP]the[SP]accessories[SP]and[SP]for[SP]my[SP]living,\nI[SP]sell[SP]them.",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -788,9 +788,14 @@
       "Leave[SP]the[SP]store"
     ],
     "count_tag": "[0006]",
-    "question_fr": "",
+    "question_fr": "Autre chose ?",
     "choix_fr": [
-      ""
+      "[1210]Acheter armes",
+      "Acheter accessoires",
+      "Vendre objets",
+      "Parler à Tony",
+      "Rien",
+      "Partir"
     ]
   },
   {
@@ -862,7 +867,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Haha,[SP]I'm[SP]a[SP]smuggler[SP]for[SP]the[SP]Silician[SP]Mafia.\nBut[SP]tell[SP]me,[SP]what's[SP]this[SP]they[SP]call[SP]a[SP]Silician\nMafia?[SP]Anyway,[SP]you[SP]want[SP]the[SP]weapons?\n[1208][0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Tony",
-    "texte_fr": "Haha, je suis passeur pour la mafia\nSilicienne. Mais dis-moi, c'est quoi cette\nMafia\nSilicienne? Bref, tu veux des armes?\n[1208][0006][1210][U+03BB]Acheter armes\nAcheter accessoires\nVendre objets\nParler à Tony\nRien[SP][SP][SP][SP][SP]\nPartir[03BB]",
+    "texte_fr": "Haha, je suis passeur pour la Mafia\nSicilienne. Mais c'est quoi cette Mafia ?\nBref, tu veux des armes ?\n[1208][0006][1210][U+03BB]Acheter armes\nAcheter accessoires\nVendre objets\nParler à Tony\nRien\nPartir",
     "question_orig": "Haha,[SP]I'm[SP]a[SP]smuggler[SP]for[SP]the[SP]Silician[SP]Mafia.\nBut[SP]tell[SP]me,[SP]what's[SP]this[SP]they[SP]call[SP]a[SP]Silician\nMafia?[SP]Anyway,[SP]you[SP]want[SP]the[SP]weapons?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -873,9 +878,14 @@
       "Leave[SP]the[SP]store"
     ],
     "count_tag": "[0006]",
-    "question_fr": "",
+    "question_fr": "Haha, je suis passeur pour la Mafia\nSicilienne. Mais c'est quoi cette Mafia ?\nBref, tu veux des armes ?",
     "choix_fr": [
-      ""
+      "[1210]Acheter armes",
+      "Acheter accessoires",
+      "Vendre objets",
+      "Parler à Tony",
+      "Rien",
+      "Partir"
     ]
   },
   {
@@ -1062,7 +1072,7 @@
     "nom_orig": "Tony",
     "texte_orig": "I'm[SP]a[SP]smuggler[SP]for[SP]the[SP]Silician[SP]Mafia,[SP]you[SP]know.\nYou[SP]give[SP]me[SP]the[SP]money,[SP]I[SP]get[SP]you[SP]the[SP]thing[SP]what\nyou[SP]want.[SP]Weapons,[SP]girls,[SP]anything.",
     "nom_fr": "Tony",
-    "texte_fr": "Je suis passeur pour la Mafia Silicienne,\ntu sais. Tu donnes l'argent, je te trouve ce\nque tu veux. Armes, filles, n'importe quoi."
+    "texte_fr": "Je suis passeur pour la Mafia Sicilienne,\ntu sais. Tu donnes l'argent, je te trouve ce\nque tu veux. Des armes, des filles, tout."
   },
   {
     "id": 63,
@@ -1077,7 +1087,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Yep,[SP]the[SP]Silician[SP]Mafia[SP]they[SP]can[SP]do[SP]anything.\nSo[SP]hip![SP]They[SP]got[SP]it[SP]all.",
     "nom_fr": "Tony",
-    "texte_fr": "Ouaip, la Mafia Silicienne\nfait tout. Très branchée!"
+    "texte_fr": "Ouaip, la Mafia Sicilienne\nfait tout. Très branchée!"
   },
   {
     "id": 64,
@@ -1857,7 +1867,7 @@
     "nom_orig": "Mummy",
     "texte_orig": "What[SP]I[SP]heard[SP]was[SP]that[SP]he[SP]blackmails[SP]those[SP]girls\nfor[SP]money.[SP]There's[SP]even[SP]a[SP]rumor[SP]he's[SP]a[SP]smuggler\nfor[SP]the[SP]Sicilian[SP]Mafia.",
     "nom_fr": "Mamy",
-    "texte_fr": "J'ai entendu qu'il fait chanter\nles filles. On dit même qu'il est\npasseur pour la Mafia Silicienne."
+    "texte_fr": "J'ai entendu qu'il fait chanter\nles filles. On dit même qu'il est\npasseur pour la Mafia Sicilienne."
   },
   {
     "id": 116,

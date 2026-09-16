@@ -327,7 +327,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Welcome.[1205][000A][SP]Like[SP]what[SP]you[SP]see?[1205][000A][SP]We[SP]only[SP]carry[SP]the\nmost[SP]beautiful[SP]clothing[SP]here.[1205][000F][SP]So[SP]feel[SP]free[SP]to\nbuy[SP]with[SP]confidence.\n[1208][0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bienvenue. Quelque chose vous plaît? Nous\nne proposons que\nles plus beaux vêtements. N'hésitez pas à\nacheter en toute confiance.\n[1208][0006]Acheter armures\n[1210][U+036A]Acheter accessoires\nVendre objets\nPapoter\nNon[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nQuitter[036A]",
+    "texte_fr": "Bienvenue. Quelque chose vous plaît ?\nNous n'avons que des habits raffinés.\nAchetez en toute confiance.\n[1208][0006]Acheter armures\n[1210][U+036A]Acheter accessoires\nVendre objets\nParler\nRien\nQuitter",
     "question_orig": "Welcome.[1205][000A][SP]Like[SP]what[SP]you[SP]see?[1205][000A][SP]We[SP]only[SP]carry[SP]the\nmost[SP]beautiful[SP]clothing[SP]here.[1205][000F][SP]So[SP]feel[SP]free[SP]to\nbuy[SP]with[SP]confidence.",
     "choix_orig": [
       "Buy[SP]armor",
@@ -338,9 +338,14 @@
       "Leave[SP]the[SP]store"
     ],
     "count_tag": "[0006]",
-    "question_fr": "",
+    "question_fr": "Bienvenue. Quelque chose vous plaît ?\nNous n'avons que des habits raffinés.\nAchetez en toute confiance.",
     "choix_fr": [
-      ""
+      "Acheter armures",
+      "[1210]Acheter accessoires",
+      "Vendre objets",
+      "Parler",
+      "Rien",
+      "Quitter"
     ]
   },
   {
@@ -412,7 +417,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Anything[SP]else?\n[1208][0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Autre chose?\n[1208][0006]Acheter armures\n[1210][U+036A]Acheter accessoires\nVendre objets\nPapoter\nNon[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nQuitter[036A]",
+    "texte_fr": "Autre chose ?\n[1208][0006]Acheter armures\n[1210][U+036A]Acheter accessoires\nVendre objets\nParler\nRien\nQuitter",
     "question_orig": "Anything[SP]else?",
     "choix_orig": [
       "Buy[SP]armor",
@@ -423,9 +428,14 @@
       "Leave[SP]the[SP]store"
     ],
     "count_tag": "[0006]",
-    "question_fr": "",
+    "question_fr": "Autre chose ?",
     "choix_fr": [
-      ""
+      "Acheter armures",
+      "[1210]Acheter accessoires",
+      "Vendre objets",
+      "Parler",
+      "Rien",
+      "Quitter"
     ]
   },
   {
