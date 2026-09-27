@@ -42,7 +42,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]wonder[SP]if[SP]Jun-kun[SP]feels[SP]guilty[SP]about[SP]giving\nthe[SP]order[SP]to[SP]protect[SP]the[SP]city's[SP]people...[1205][U+0019][SP]But\nif[SP]he[SP]hadn't,[SP]even[SP]more[SP]people[SP]would[SP]have[SP]died.",
     "nom_fr": "Maya",
-    "texte_fr": "Je me demande si Jun-kun se sent coupable\nd'avoir ordonné de protéger les gens...[1205] Mais\ns'il ne l'avait pas fait, bien plus\nauraientpéri.[0019]"
+    "texte_fr": "Je me demande si Jun-kun se sent coupable\nd'avoir ordonné de protéger les gens...[1205][U+0019] Mais\ns'il ne l'avait pas fait, bien plus\nauraientpéri.[0019]"
   },
   {
     "id": 3,
@@ -172,7 +172,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?\n[1208][0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Autre chose?\n[1208][0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter[0364]",
+    "texte_fr": "Autre chose?\n[1208][0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter",
     "question_orig": "Is[SP]there[SP]anything[SP]else[SP]I[SP]can[SP]help[SP]you[SP]with?",
     "choix_orig": [
       "Buy[SP]armor",

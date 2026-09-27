@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Dananaaaah...[SP]Danaaah![1205][000F][SP]Pretty[SP]good,[SP]huh?\nI'm[SP]coming[SP]up[SP]with[SP]a[SP]new[SP]Gas[SP]Chamber[SP]song.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Dananaaaah...[1205] Danaaah! Pas mal, hein?\nNouvelle chanson des Chambre à Gaz."
+    "texte_fr": "Dananaaaah...[1205][000F] Danaaah! Pas mal, hein?\nNouvelle chanson des Chambre à Gaz."
   },
   {
     "id": 1,
@@ -192,7 +192,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "The[SP]star[SP]he[SP]was[SP]trying[SP]to[SP]reach...[1205][000F][SP]Do[SP]I[SP]have\na[SP]star[SP]like[SP]that[SP]too?",
     "nom_fr": "Ginko",
-    "texte_fr": "L'étoile qu'il voulait...[1205] Moi\naussi, j'en ai une comme ça?"
+    "texte_fr": "L'étoile qu'il voulait...[1205][000F] Moi\naussi, j'en ai une comme ça?"
   },
   {
     "id": 13,
@@ -477,7 +477,7 @@
     "nom_orig": "Middle-aged[SP]man",
     "texte_orig": "That's[SP]odd.[SP]I[SP]just[SP]told[SP]that[SP]blue-haired[SP]boy\nmy[SP]son[SP]was[SP]on[SP]a[SP]field[SP]trip[SP]at[SP]the[SP]Aerospace\nMuseum,[SP]and...[1205][000F][SP]Did[SP]something[SP]happen[SP]there?",
     "nom_fr": "Homme d'âge mûr",
-    "texte_fr": "Bizarre. J'ai juste dit au garçon aux\ncheveux bleus que mon fils était au\nMusée, et...[1205] Il s'est passé quelque chose?"
+    "texte_fr": "Bizarre. J'ai juste dit au garçon aux\ncheveux bleus que mon fils était au\nMusée, et...[1205][000F] Il s'est passé quelque chose?"
   },
   {
     "id": 32,
@@ -747,7 +747,7 @@
     "nom_orig": "Sister[SP]#2",
     "texte_orig": "Hello![SP]Heeheehee![1205][000F][SP]Welcome[SP]to[SP]Satomi[SP]Tadashi's\nKounan[SP]branch.\n[1208][0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#2\n[1210][B_00][U+5601][B_00]iew[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Sœur #2",
-    "texte_fr": "Bonjour! [1205][000F]Hihihi! Bienvenue à la\nsuccursale de Kounan.\n[1208][0006]Acheter objets\nVendre objets\nParler à Sœur #2\n[1210][B_00][U+5601][B_00]Voir objets\nRien[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nQuitter[B_00][5601][B_00]",
+    "texte_fr": "Bonjour! [1205][000F]Hihihi! Bienvenue à la\nsuccursale de Kounan.\n[1208][0006]Acheter objets\nVendre objets\nParler à Sœur #2\n[1210][B_00][U+5601][B_00]Voir objets\nRien\nQuitter",
     "question_orig": "Hello![SP]Heeheehee![1205][000F][SP]Welcome[SP]to[SP]Satomi[SP]Tadashi's\nKounan[SP]branch.",
     "choix_orig": [
       "Buy[SP]items",
@@ -832,7 +832,7 @@
     "nom_orig": "Sister[SP]#2",
     "texte_orig": "Was[SP]there[SP]anything[SP]else?\n[1208][0006]Buy[SP]items\nSell[SP]items\nTalk[SP]to[SP]Sister[SP]#2\n[1210][B_00][U+5601][B_00]iew[SP]items\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Sœur #2",
-    "texte_fr": "Autre chose?\n[1208][0006]Acheter objets\nVendre objets\nParler à Sœur #2\n[1210][B_00][U+5601][B_00]Voir objets\nRien[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nQuitter[B_00][5601][B_00]",
+    "texte_fr": "Autre chose?\n[1208][0006]Acheter objets\nVendre objets\nParler à Sœur #2\n[1210][B_00][U+5601][B_00]Voir objets\nRien\nQuitter",
     "question_orig": "Was[SP]there[SP]anything[SP]else?",
     "choix_orig": [
       "Buy[SP]items",

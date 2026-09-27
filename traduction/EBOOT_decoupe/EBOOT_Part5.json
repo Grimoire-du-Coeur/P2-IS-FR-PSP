@@ -373,7 +373,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Title",
-        "texte_fr": ""
+        "texte_fr": "Titre"
     },
     {
         "id": 4047,
@@ -381,7 +381,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Load",
-        "texte_fr": ""
+        "texte_fr": "Chrg"
     },
     {
         "id": 4048,
@@ -389,7 +389,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Save",
-        "texte_fr": ""
+        "texte_fr": "Sauv"
     },
     {
         "id": 4049,
@@ -405,7 +405,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Settings",
-        "texte_fr": ""
+        "texte_fr": "Param."
     },
     {
         "id": 4051,
@@ -453,7 +453,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Demon",
-        "texte_fr": ""
+        "texte_fr": "Demon"
     },
     {
         "id": 4057,
@@ -709,7 +709,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Cards",
-        "texte_fr": ""
+        "texte_fr": "Carte"
     },
     {
         "id": 4089,
@@ -717,7 +717,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Key[SP]items",
-        "texte_fr": ""
+        "texte_fr": "Obj. cles"
     },
     {
         "id": 4090,
@@ -725,7 +725,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Expendable[SP]items",
-        "texte_fr": ""
+        "texte_fr": "Consommables"
     },
     {
         "id": 4091,
@@ -933,7 +933,7 @@
         "data_size": 52,
         "slot_size": 52,
         "texte_orig": "Return[SP]to[SP]the[SP]title[SP]screen",
-        "texte_fr": ""
+        "texte_fr": "Retourner a l'ecran titre"
     },
     {
         "id": 4117,
@@ -941,7 +941,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Load[SP]game",
-        "texte_fr": ""
+        "texte_fr": "Charger"
     },
     {
         "id": 4118,
@@ -949,7 +949,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Save[SP]game",
-        "texte_fr": ""
+        "texte_fr": "Sauver"
     },
     {
         "id": 4119,
@@ -965,7 +965,7 @@
         "data_size": 56,
         "slot_size": 56,
         "texte_orig": "Change[SP]various[SP]game[SP]settings",
-        "texte_fr": ""
+        "texte_fr": "Modifier les reglages du jeu"
     },
     {
         "id": 4121,
@@ -1029,7 +1029,7 @@
         "data_size": 62,
         "slot_size": 62,
         "texte_orig": "View[SP]and[SP]change[SP]system[SP]settings",
-        "texte_fr": ""
+        "texte_fr": "Parametres generaux du systeme"
     },
     {
         "id": 4129,
@@ -1037,7 +1037,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "System",
-        "texte_fr": ""
+        "texte_fr": "Syst."
     },
     {
         "id": 4130,
@@ -1045,7 +1045,7 @@
         "data_size": 60,
         "slot_size": 60,
         "texte_orig": "Change[SP]various[SP]battle[SP]settings",
-        "texte_fr": ""
+        "texte_fr": "Reglages du mode de combat"
     },
     {
         "id": 4131,
@@ -1053,7 +1053,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Battle[SP]settings",
-        "texte_fr": ""
+        "texte_fr": "Options combat"
     },
     {
         "id": 4132,
@@ -1061,7 +1061,7 @@
         "data_size": 68,
         "slot_size": 68,
         "texte_orig": "View[SP]demon[SP]and[SP]Persona[SP]information",
-        "texte_fr": ""
+        "texte_fr": "Infos sur les demons et Personas"
     },
     {
         "id": 4133,
@@ -1069,7 +1069,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Analyze",
-        "texte_fr": ""
+        "texte_fr": "Analyse"
     },
     {
         "id": 4134,
@@ -1077,7 +1077,7 @@
         "data_size": 44,
         "slot_size": 44,
         "texte_orig": "View[SP]party[SP]information",
-        "texte_fr": ""
+        "texte_fr": "Statut de l'equipe"
     },
     {
         "id": 4135,
@@ -1085,7 +1085,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Status",
-        "texte_fr": ""
+        "texte_fr": "Statut"
     },
     {
         "id": 4136,
@@ -1093,7 +1093,7 @@
         "data_size": 50,
         "slot_size": 50,
         "texte_orig": "View[SP]and[SP]take[SP]on[SP]Personas",
-        "texte_fr": ""
+        "texte_fr": "Equiper les Personas"
     },
     {
         "id": 4137,
@@ -1101,7 +1101,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Persona",
-        "texte_fr": ""
+        "texte_fr": "Persona"
     },
     {
         "id": 4138,
@@ -1109,7 +1109,7 @@
         "data_size": 50,
         "slot_size": 50,
         "texte_orig": "View[SP]and[SP]change[SP]equipment",
-        "texte_fr": ""
+        "texte_fr": "Modifier l'equipement"
     },
     {
         "id": 4139,
@@ -1117,7 +1117,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Equip",
-        "texte_fr": ""
+        "texte_fr": "Equip"
     },
     {
         "id": 4140,
@@ -1125,7 +1125,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "View[SP]and[SP]use[SP]items",
-        "texte_fr": ""
+        "texte_fr": "Utiliser objets"
     },
     {
         "id": 4141,
@@ -1133,7 +1133,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Items",
-        "texte_fr": ""
+        "texte_fr": "Obj."
     },
     {
         "id": 4142,
@@ -1141,7 +1141,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "View[SP]and[SP]use[SP]skills",
-        "texte_fr": ""
+        "texte_fr": "Utiliser sorts"
     },
     {
         "id": 4143,
@@ -1149,7 +1149,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Skills",
-        "texte_fr": ""
+        "texte_fr": "Sorts"
     },
     {
         "id": 4144,
@@ -1157,7 +1157,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Data[SP]Install",
-        "texte_fr": ""
+        "texte_fr": "Installation"
     },
     {
         "id": 4145,
@@ -1165,7 +1165,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Hard",
-        "texte_fr": ""
+        "texte_fr": "Diff"
     },
     {
         "id": 4146,
@@ -1173,7 +1173,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Normal",
-        "texte_fr": ""
+        "texte_fr": "Normal"
     },
     {
         "id": 4147,
@@ -1181,7 +1181,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Easy",
-        "texte_fr": ""
+        "texte_fr": "Fac."
     },
     {
         "id": 4148,
@@ -1189,7 +1189,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Difficulty",
-        "texte_fr": ""
+        "texte_fr": "Difficulte"
     },
     {
         "id": 4149,
@@ -1197,7 +1197,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Medium",
-        "texte_fr": ""
+        "texte_fr": "Moyen"
     },
     {
         "id": 4150,
@@ -1205,7 +1205,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Movie[SP]Size",
-        "texte_fr": ""
+        "texte_fr": "Affichage"
     },
     {
         "id": 4151,
@@ -1213,7 +1213,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Wide",
-        "texte_fr": ""
+        "texte_fr": "16:9"
     },
     {
         "id": 4152,
@@ -1237,7 +1237,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Remixed",
-        "texte_fr": ""
+        "texte_fr": "Remix"
     },
     {
         "id": 4155,
@@ -1245,7 +1245,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Original",
-        "texte_fr": ""
+        "texte_fr": "Original"
     },
     {
         "id": 4156,
@@ -1253,7 +1253,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Fast",
-        "texte_fr": ""
+        "texte_fr": "Rap."
     },
     {
         "id": 4157,
@@ -1261,7 +1261,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Normal",
-        "texte_fr": ""
+        "texte_fr": "Normal"
     },
     {
         "id": 4158,
@@ -1269,7 +1269,7 @@
         "data_size": 8,
         "slot_size": 8,
         "texte_orig": "Slow",
-        "texte_fr": ""
+        "texte_fr": "Lent"
     },
     {
         "id": 4159,
@@ -1277,7 +1277,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Invert[SP]Camera",
-        "texte_fr": ""
+        "texte_fr": "Inverser cam."
     },
     {
         "id": 4160,
@@ -1285,7 +1285,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Cut<Ins",
-        "texte_fr": ""
+        "texte_fr": "Cut-ins"
     },
     {
         "id": 4161,
@@ -1293,7 +1293,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Cursor[SP]Memory",
-        "texte_fr": ""
+        "texte_fr": "Mem. curseur"
     },
     {
         "id": 4162,
@@ -1301,7 +1301,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Voice[SP]Volume",
-        "texte_fr": ""
+        "texte_fr": "Volume voix"
     },
     {
         "id": 4163,
@@ -1309,7 +1309,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "SE[SP]Volume",
-        "texte_fr": ""
+        "texte_fr": "Volume SE"
     },
     {
         "id": 4164,
@@ -1317,7 +1317,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "BGM[SP]Volume",
-        "texte_fr": ""
+        "texte_fr": "Volume BGM"
     },
     {
         "id": 4165,
@@ -1325,7 +1325,7 @@
         "data_size": 10,
         "slot_size": 10,
         "texte_orig": "Music",
-        "texte_fr": ""
+        "texte_fr": "Audio"
     },
     {
         "id": 4166,
@@ -1333,7 +1333,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Message[SP]Speed",
-        "texte_fr": ""
+        "texte_fr": "Vitesse texte"
     },
     {
         "id": 4167,

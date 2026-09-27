@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]real[SP]me[SP]is[SP]more[SP]elegant...[SP]more[SP]beautiful...[1205][000F]\nThat[SP]guy[SP]looks[SP]like[SP]a[SP]different[SP]person.[SP]I[SP]wish\nthey[SP]paid[SP]better[SP]attention.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le vrai moi est plus élégant... plus beau...[1205]\nCe 00F]Ce type ressemble à quelqu'un\nd'autre. Ils auraient pu faire plus\nattention."
+    "texte_fr": "Le vrai moi est plus élégant... plus beau...[1205][000F]\nCe 00F]Ce type ressemble à quelqu'un\nd'autre. Ils auraient pu faire plus\nattention."
   },
   {
     "id": 2,
@@ -297,7 +297,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Bienvenue au Clair de Lune.\n[1205][000F]Que puis-je pour vous?\n[1208][0007][1210][U+03BC]Acheter armes\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici\nParler\nNon merci[SP][SP][SP][SP]\nQuitter[03BC][0358][03BC]",
+    "texte_fr": "Bienvenue au Clair de Lune.\n[1205][000F]Que puis-je pour vous?\n[1208][0007][1210][U+03BC]Acheter armes\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici\nParler\nNon merci\nQuitter",
     "question_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -384,7 +384,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?\n[1208][0007][1210][U+03BC]Buy[SP]weapons\n[1210][U+0358]Buy[SP]accessories\n[1210][U+03BC]Sell[SP]items\nDine[SP]in\nTalk[SP]to[SP]the[SP]Garcon\nNever[SP]mind\nLeave",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Bienvenue au Clair de Lune.\n[1205][000F]Que puis-je pour vous?\n[1208][0007][1210][U+03BC]Acheter armes\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici\nParler\nNon merci[SP][SP][SP][SP]\nQuitter[03BC][0358][03BC]",
+    "texte_fr": "Bienvenue au Clair de Lune.\n[1205][000F]Que puis-je pour vous?\n[1208][0007][1210][U+03BC]Acheter armes\n[1210][U+0358]Acheter accessoires\n[1210][U+03BC]Vendre objets\nDîner ici\nParler\nNon merci\nQuitter",
     "question_orig": "Bonjour,[SP]Monsieur.[SP]Welcome[SP]to[SP]Clair[SP]de[SP]Lune.[1205][000F]\nWhat[SP]can[SP]I[SP]get[SP]you[SP]today?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -666,7 +666,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "Yes,[SP]we[SP]do[SP]have[SP]the[SP]legendary[SP]gun[SP]in[SP]stock.[1205][000F]\nAnd[SP]yes,[SP]it[SP]has[SP]historical[SP]significance,[SP]so[SP]I\nam[SP]relucant[SP]to[SP]let[SP]go[SP]of[SP]it.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Oui, nous avons le pistolet légendaire.\n[1205]Il a une valeur historique, c'est\npourquoi j'hésite à m'en séparer."
+    "texte_fr": "Oui, nous avons le pistolet légendaire.\n[1205][000F]Il a une valeur historique, c'est\npourquoi j'hésite à m'en séparer."
   },
   {
     "id": 39,
@@ -1078,7 +1078,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "So[SP]you[SP]won't[SP]budge[SP]an[SP]inch...[1205][000F][SP]Too[SP]bad.[SP]I'll\npretend[SP]this[SP]conversation[SP]never[SP]took[SP]place.",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Vous ne cèderez pas...[1205] Dommage. Faisons\ncomme si ça n'avait pas eu lieu."
+    "texte_fr": "Vous ne cèderez pas...[1205][000F] Dommage. Faisons\ncomme si ça n'avait pas eu lieu."
   },
   {
     "id": 65,

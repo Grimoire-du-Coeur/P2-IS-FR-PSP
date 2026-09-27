@@ -87,7 +87,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Houshounah...[SP]I[SP]bet[SP]Yukino-san[SP]would've[SP]been\nreally[SP]happy[SP]to[SP]see[SP]this...[1205][000F][SP]All[SP]of[SP]them...\ntogether[SP]again...",
     "nom_fr": "Ginko",
-    "texte_fr": "Houshounah... Yukino-san aurait sûrement été\nravie de voir ça...[1205] Tous ensemble... à\nnouveau réunis..."
+    "texte_fr": "Houshounah... Yukino-san aurait sûrement été\nravie de voir ça...[1205][000F] Tous ensemble... à\nnouveau réunis..."
   },
   {
     "id": 6,
@@ -282,7 +282,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Welcome,[SP]Mister![SP]I'm[SP]a[SP]good[SP]exchange[SP]student.\nI[SP]make[SP]the[SP]accessories[SP]and[SP]for[SP]my[SP]living,\nI[SP]sell[SP]them.\n[1208][0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Tony",
-    "texte_fr": "Bienvenue! Je suis étudiant étranger.\nJe fabrique des accessoires et les vends.\n[1208][0006][1210][U+03BB]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nQuitter[03BB]",
+    "texte_fr": "Bienvenue! Je suis étudiant étranger.\nJe fabrique des accessoires et les vends.\n[1208][0006][1210][U+03BB]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter",
     "question_orig": "Welcome,[SP]Mister![SP]I'm[SP]a[SP]good[SP]exchange[SP]student.\nI[SP]make[SP]the[SP]accessories[SP]and[SP]for[SP]my[SP]living,\nI[SP]sell[SP]them.",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -368,7 +368,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Haha,[SP]I'm[SP]a[SP]smuggler[SP]for[SP]the[SP]Silician[SP]Mafia.\nBut[SP]tell[SP]me,[SP]what's[SP]this[SP]they[SP]call[SP]a[SP]Silician\nMafia?[SP]Anyway,[SP]you[SP]want[SP]the[SP]weapons?\n[1208][0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Tony",
-    "texte_fr": "Haha, je suis passeur pour la Mafia \nsicilienne.\nMais dis-moi, c'est quoi cette Mafia\nsicilienne? Enfin bon, tu veux des armes \n?\n[1208][0006][1210][U+03BB]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nQuitter[03BB]",
+    "texte_fr": "Haha, je suis passeur pour la Mafia \nsicilienne.\nMais dis-moi, c'est quoi cette Mafia\nsicilienne? Enfin bon, tu veux des armes \n?\n[1208][0006][1210][U+03BB]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter",
     "question_orig": "Haha,[SP]I'm[SP]a[SP]smuggler[SP]for[SP]the[SP]Silician[SP]Mafia.\nBut[SP]tell[SP]me,[SP]what's[SP]this[SP]they[SP]call[SP]a[SP]Silician\nMafia?[SP]Anyway,[SP]you[SP]want[SP]the[SP]weapons?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -453,7 +453,7 @@
     "nom_orig": "Tony",
     "texte_orig": "Okay,[SP]good,[SP]okay.[SP]You[SP]wanna[SP]anything[SP]else?\n[1208][0006][1210][U+03BB]Buy[SP]weapons\nBuy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]Tony\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Tony",
-    "texte_fr": "Okay, bien. Tu veux autre chose?\n[1208][0006][1210][U+03BB]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\nQuitter[03BB]",
+    "texte_fr": "Okay, bien. Tu veux autre chose?\n[1208][0006][1210][U+03BB]Armes\nAccessoires\nVendre items\nParler Tony\nAnnuler\nQuitter",
     "question_orig": "Okay,[SP]good,[SP]okay.[SP]You[SP]wanna[SP]anything[SP]else?",
     "choix_orig": [
       "[1210]Buy[SP]weapons",
@@ -613,7 +613,7 @@
     "nom_orig": "Tony",
     "texte_orig": "That[SP]man[SP]on[SP]TV,[SP]Brown,[SP]he[SP]just[SP]here.[1205][000F][SP]He[SP]had\ntwo[SP]bellas[SP]with[SP]him,[SP]too.[SP]They[SP]seemed[SP]like\nthey[SP]were[SP]going[SP]to[SP]Sevens.",
     "nom_fr": "Tony",
-    "texte_fr": "Ce type à la télé, Brown, il était\nlà. [1205]Il avait deux belles avec lui. Ils\navaient l'air de partir vers Seven."
+    "texte_fr": "Ce type à la télé, Brown, il était\nlà. [1205][000F]Il avait deux belles avec lui. Ils\navaient l'air de partir vers Seven."
   },
   {
     "id": 33,
@@ -658,7 +658,7 @@
     "nom_orig": "Tony",
     "texte_orig": "That[SP]man[SP]on[SP]TV,[SP]Brown,[SP]he[SP]just[SP]here.[1205][000F][SP]He[SP]had\ntwo[SP]bellas[SP]with[SP]him,[SP]too.[SP]They[SP]seemed[SP]like\nthey[SP]were[SP]going[SP]to[SP]Sevens.",
     "nom_fr": "Tony",
-    "texte_fr": "Ce type à la télé, Brown, il était\nlà. [1205]Il avait deux belles avec lui. Ils\navaient l'air de partir vers Seven."
+    "texte_fr": "Ce type à la télé, Brown, il était\nlà. [1205][000F]Il avait deux belles avec lui. Ils\navaient l'air de partir vers Seven."
   },
   {
     "id": 36,
@@ -703,7 +703,7 @@
     "nom_orig": "Elly",
     "texte_orig": "Oh![SP]Speaking[SP]of[SP]which,[SP]I[SP]contacted[SP]Kei[SP]too...[1205][000F]\nHas[SP]he[SP]not[SP]arrived[SP]yet?",
     "nom_fr": "Elly",
-    "texte_fr": "Oh! J'ai aussi contacté Kei...[1205] Il n'est pas\nencore arrivé?"
+    "texte_fr": "Oh! J'ai aussi contacté Kei...[1205][000F] Il n'est pas\nencore arrivé?"
   },
   {
     "id": 39,

@@ -117,7 +117,7 @@
     "data_size": 6,
     "slot_size": 6,
     "texte_orig": "No<FF03>",
-    "texte_fr": "N<FF03>"
+    "texte_fr": "Non"
   },
   {
     "id": 15,
@@ -149,7 +149,7 @@
     "data_size": 18,
     "slot_size": 18,
     "texte_orig": "Proceed<0008><FF03>",
-    "texte_fr": "Suivre<0008><FF03>"
+    "texte_fr": "Valider<0008><FF03>"
   },
   {
     "id": 19,
@@ -157,7 +157,7 @@
     "data_size": 36,
     "slot_size": 36,
     "texte_orig": "Beginning[SP]battle<0004><FF03>",
-    "texte_fr": "Debut combat<0004><FF03>"
+    "texte_fr": "Debut du combat<0004><FF03>"
   },
   {
     "id": 20,
@@ -973,7 +973,7 @@
     "data_size": 30,
     "slot_size": 30,
     "texte_orig": "Begin[SP]new[SP]game<0004>",
-    "texte_fr": "Nouvelle part.<0004>"
+    "texte_fr": "Nouvelle partie"
   },
   {
     "id": 122,
@@ -6237,7 +6237,7 @@
     "data_size": 38,
     "slot_size": 38,
     "texte_orig": "D[SP]Is[SP]this[SP]correct<0008><FF03>",
-    "texte_fr": "D Est-ce correct<0008><FF03>"
+    "texte_fr": "Est-ce correct<0008><FF03>"
   },
   {
     "id": 780,
@@ -6317,7 +6317,7 @@
     "data_size": 138,
     "slot_size": 138,
     "texte_orig": "D[SP]Confirming[SP]name<0004><FF03>Are[SP]these[SP]correct<0008><FF03>Full[SP]name<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03>Nickname<0006>[SP]<FF22><FF12><FF21><FF03>",
-    "texte_fr": "D Confirmation<0004><FF03> Sont-ils correct<0008><FF03> Nom entier<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03> Surnom<0006>[SP]<FF22><FF12><FF21><FF03>"
+    "texte_fr": "Confirmer ces noms<0008><FF03>Nom complet<0006> <FF22><FF11> <FF10><FF21><FF03>Surnom<0006> <FF22><FF12><FF21><FF03>"
   },
   {
     "id": 790,
@@ -6325,7 +6325,7 @@
     "data_size": 66,
     "slot_size": 66,
     "texte_orig": "D[SP]Nickname<0006>[SP]<FF22><FF12><FF21><FF03>Is[SP]this[SP]correct<0008><FF03>",
-    "texte_fr": "D Surnom<0006><FF22><FF12><FF21><FF03> Est-ce correct<0008><FF03>"
+    "texte_fr": "Surnom<0006> <FF22><FF12><FF21><FF03>Est-ce correct<0008><FF03>"
   },
   {
     "id": 791,
@@ -6333,7 +6333,7 @@
     "data_size": 72,
     "slot_size": 72,
     "texte_orig": "D[SP]Full[SP]name<0006>[SP]<FF22><FF11>[SP]<FF10><FF21><FF03>Is[SP]this[SP]correct<0008><FF03>",
-    "texte_fr": "D Nom complet <0006><FF22><FF11><FF10><FF21><FF03> Est-ce correct<0008><FF03>"
+    "texte_fr": "Nom complet<0006> <FF22><FF11> <FF10><FF21><FF03>Est-ce correct<0008><FF03>"
   },
   {
     "id": 792,
