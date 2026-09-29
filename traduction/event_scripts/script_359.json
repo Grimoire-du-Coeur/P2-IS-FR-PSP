@@ -102,7 +102,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "H-Hey,[SP][1113]...[1205][001E][SP]I[SP]heard[SP]from[SP]Maya[SP]just\nnow...[1205][001E][SP]She[SP]heard[SP]me[SP]and[SP]Sasaki-san[SP]talking...",
     "nom_fr": "Ginko",
-    "texte_fr": "H-Hé, [1113]...[1205][001E] Maya vient de me dire...[1205][001E] Elle nous a entendus, Sasaki et moi..."
+    "texte_fr": "H-Hé, [1113]...[1205][001E]\nMaya vient de me dire...[1205][001E]\nElle nous a entendus, Sasaki et moi..."
   },
   {
     "id": 7,
@@ -1453,7 +1453,7 @@
     "nom_orig": "???",
     "texte_orig": "Looks[SP]like[SP]this[SP]is[SP]your[SP]first[SP]time[SP]here.[1205][000F]\nName's[SP]Baofu.[SP]I[SP]run[SP]this[SP]website.[E1][E2]Baofu\nAn[SP]online[SP]rumormonger[SP]with[SP]his[SP]own[SP]rumor[SP]site.\nNothing[SP]is[SP]known[SP]about[SP]him,[SP]but[SP]he[SP]seems[SP]to\nbe[SP]gathering[SP]rumors[SP]for[SP]a[SP]specific[SP]purpose.",
     "nom_fr": "???",
-    "texte_fr": "C'est ta première fois ici. Moi c'est Baofu.\n[1205][000F]Je gère ce site.[E1][E2] Baofu Colporteur de rumeurs\nen ligne avec son propre site. Rien\nn'estconnu de lui, mais il semble\ncollectecter des rumeurs dans un but précis."
+    "texte_fr": "C'est ta première fois ici. Moi, c'est Baofu.\n[1205][000F]Je gère ce site.[E1][E2]Baofu : colporteur de rumeurs en ligne.\nOn ignore tout de lui, mais il semble\ncollecter des rumeurs dans un but précis."
   },
   {
     "id": 94,
@@ -1498,12 +1498,12 @@
     "nom_orig": "Rumormonger[SP]Baofu",
     "texte_orig": "You're[SP]interested[SP]in[SP]rumors,[SP]aren't[SP]you?[1205][000F]\nSo[SP]am[SP]I.[1205][000F][SP]If[SP]you[SP]want,[SP]send[SP]me[SP]something.\nI'll[SP]be[SP]waiting[SP]to[SP]hear[SP]something[SP]worthwhile.",
     "nom_fr": "Colporteur Baofu",
-    "texte_fr": "Les rumeurs t'intéressent, non? [1205][000F]Moi aussi.\nSi tu veux, envoie-moi quelque chose.\nJ'attends quelque chose qui en vaut la\npeine."
+    "texte_fr": "Les rumeurs t'intéressent ?[1205][000F] Moi aussi.\nSi tu veux, envoie-moi des infos.\nJ'attends quelque chose qui en vaut la peine."
   },
   {
     "id": 97,
     "offset": 391234,
-    "data_size": 78,
+    "data_size": 1174,
     "slot_size": 78,
     "_term": [
       4358,
@@ -1511,9 +1511,9 @@
       4355
     ],
     "nom_orig": "Rumormonger[SP]Baofu",
-    "texte_orig": "Hey,[SP]you're[SP]back.",
+    "texte_orig": "Hey,[SP]you're[SP]back.[E1][E2][E3]>[SP]Select[SP]an[SP]option.\n[1208][0003][1210][U+0475]Ask[SP]about[SP]rumors\nTalk[SP]with[SP]Baofu\nCancel\n[1109][E2][E3]>[SP]Select[SP]a[SP]topic.\n[1208][0004][1210][U+0476]Weapon[SP]shop[SP]rumors\n[1210][U+0477]Armor[SP]shop[SP]rumors\n[1210][U+0478]Other[SP]rumors\nNothing\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]region.\n[1208][0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nNone\n[1109][E2][E3]>[SP]Select[SP]a[SP]subject.\n[1208][0004][1210][U+0472]Magazine[SP]sweepstakes[SP]rumors\n[1210][U+0473]Mu[SP]rumors\n[1210][U+0474]Legendary[SP]weapon[SP]rumors\nNone[SP]of[SP]them\n[1109][E2][E3]>[SP]Verified.\nSubmit[SP]information.\nAfter[SP]entering,[SP]please[SP]wait.[E1][E2][E3][E4][NULL][NULL]\"[1113]\n...[1205][000F]...[1205][000F]...[1205][000F]...[E1][E2][E3]>[SP]Transmitting[SP]data.\n...[1205][000F]...[1205][000F]...[1205][000F]Transmission[SP]complete.[E1][E2][E3][E4][NULL][NULL]",
     "nom_fr": "Colporteur Baofu",
-    "texte_fr": "Tiens, de retour. Choisissez une option.\nDemander des rumeurs Parler à Baofu Annuler\nChoisissez un sujet. Rumeurs armureries\nRumeurs armures Autres Rien Choisissez une\nrégion. Rengedai Yumezaki Aoba Kounan Aucune\nChoisissez une région. Rengedai Yumezaki\nAoba Kounan Aucune Choisissez un sujet.\nConcours magazines Rumeurs Mu Armes\nlégendaires Aucun Vérifié. Soumettre.\nPatientez après envoi."
+    "texte_fr": "Te revoilà.[E1][E2][E3]> Choisir une option.\n[1208][0003][1210][U+0475]Infos rumeurs\nParler à Baofu\nAnnuler\n[1109][E2][E3]> Choisir un sujet.\n[1208][0004][1210][U+0476]Rumeurs armes\n[1210][U+0477]Rumeurs armures\n[1210][U+0478]Autres rumeurs\nRien\n[1109][E2][E3]> Choisir un quartier.\n[1208][0005][1210][U+046A]Rengedai\n[1210][U+046B]Yumezaki\n[1210][U+046C]Aoba\n[1210][U+046D]Kounan\nAucun\n[1109][E2][E3]> Choisir un quartier.\n[1208][0005][1210][U+046E]Rengedai\n[1210][U+046F]Yumezaki\n[1210][U+0470]Aoba\n[1210][U+0471]Kounan\nAucun\n[1109][E2][E3]> Choisir un sujet.\n[1208][0004][1210][U+0472]Loteries magazines\n[1210][U+0473]Rumeurs sur le Mu\n[1210][U+0474]Armes légendaires\nAucun\n[1109][E2][E3]> Données vérifiées.\nEnvoi en cours.\nPatientez SVP.[E1][E2][E3][E4][NULL][NULL]\"[1113]\n...[1205][000F]...[1205][000F]...[1205][000F]...[E1][E2][E3]> Envoi des données.\n...[1205][000F]...[1205][000F]...[1205][000F]Envoi terminé.[E1][E2][E3][E4][NULL][NULL]"
   },
   {
     "id": 98,
@@ -1858,7 +1858,7 @@
     "nom_orig": "Fat[SP]man",
     "texte_orig": "Hey,[SP]I[SP]heard[SP]some[SP]Masked[SP]Circle[SP]group[SP]is[SP]doing\nall[SP]this.[SP]Is[SP]that[SP]true?[1205][000F][SP]I[SP]don't[SP]like[SP]it...\nI[SP]thought[SP]Sumaru[SP]was[SP]supposed[SP]to[SP]be[SP]peaceful...",
     "nom_fr": "Homme corpulent",
-    "texte_fr": "Hé, j'ai entendu que c'est un groupe, le\nCercle masqué, qui fait ça. 05]ça. C'est\nvrai? J'aime pas ça... Sumaru devait être\npaisible..."
+    "texte_fr": "Le Cercle masqué serait derrière\ntout ça... C'est vrai ?[1205][000F] J'aime pas ça...\nSumaru était censée être paisible..."
   },
   {
     "id": 121,
@@ -2113,7 +2113,7 @@
     "nom_orig": "Fat[SP]man",
     "texte_orig": "I[SP]wonder[SP]what[SP]tracks[SP]are[SP]on[SP]it...?[1205][000F][SP]I[SP]need[SP]to\nget[SP]ahold[SP]of[SP]a[SP]copy[SP]and[SP]find[SP]out[SP]for[SP]myself.",
     "nom_fr": "Homme corpulent",
-    "texte_fr": "Quels morceaux sont dessus...[1205][000F] ? Faut que\nj'en trouve une copie pour le découvrir."
+    "texte_fr": "Quels morceaux sont dessus... ?[1205][000F]\nFaut que j'en trouve une copie !"
   },
   {
     "id": 138,
@@ -3363,7 +3363,7 @@
     "nom_orig": "Lazy[SP]boy",
     "texte_orig": "That's,[SP]what,[SP][120E][NULL][SP]yen.[SP]Yeah?\n[1208][0002]Yes\nNo",
     "nom_fr": "Gamin fainéant",
-    "texte_fr": "Ça fait [120E][NULL] yens. OK ?\n[1208][0002]Oui\nNon",
+    "texte_fr": "C'est [120E][NULL] yens. OK ?\n[1208][0002]Oui\nNon",
     "question_orig": "That's,[SP]what,[SP][120E][NULL][SP]yen.[SP]Yeah?",
     "choix_orig": [
       "Yes",

@@ -1489,7 +1489,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Please,[SP]ask[SP]away.\n[1208][0007]Summoning[SP]basics\nMystic[SP]change\nMutation\nContacting\nDemon[SP]personalities\nPrevious[SP]Page\n[1210][B_00][U+5501][B_00]ndisplayed[SP]selection/return",
     "nom_fr": "Igor",
-    "texte_fr": "Je vous écoute.\n[1208][0007]Bases d'invocation\nChangement mystique\nMutation\nContact\nPersonnalité des démons\nPage préc.\n[1210][B_00][U+5501][B_00]Sélection cachée/retour[SP][SP][SP][SP]",
+    "texte_fr": "Je vous écoute.\n[1208][0007]Bases d'invocation\nChangement mystique\nMutation\nContact\nPersonnalité des démons\nPage préc.\n[1210][B_00][U+5501][B_00]Choix caché/retour",
     "question_orig": "Please,[SP]ask[SP]away.",
     "choix_orig": [
       "Summoning[SP]basics",
@@ -4876,7 +4876,7 @@
     "nom_orig": "Igor",
     "texte_orig": "Then[SP]I[SP]shall[SP]change[SP]this[SP]aspect[SP]who[SP]fought\nalongside[SP]you[SP]into[SP]a[SP][E4][NULL][NULL][0004][120E][0001][121D][0001][SP]and\nreturn[SP]it[SP]to[SP]you...",
     "nom_fr": "Igor",
-    "texte_fr": "Je vais changer cet aspect qui\na combattu à vos côtés en un [E4][NULL][NULL][0004][120E][0001][121D][0001]\net vous le rendre... obtient [E4][NULL][NULL]."
+    "texte_fr": "Je vais transformer cet aspect\nqui a combattu à vos côtés en [E4][NULL][NULL][0004][120E][0001][121D][0001]\net vous le rendre..."
   },
   {
     "id": 311,
@@ -4966,6 +4966,6 @@
     "nom_orig": "Igor",
     "texte_orig": "It[SP]seems[SP]you[SP]do[SP]not[SP]have[SP]the[SP]requisite\n[E4][NULL][NULL][0006]Material[SP]Card[E4][NULL][NULL][0002][SP]to[SP]summon[SP]this[SP]Persona.",
     "nom_fr": "Igor",
-    "texte_fr": "Il semble que vous n'ayez pas la [E4][NULL][NULL][0006]Carte\nMatériaux[E4][NULL][NULL][0002] requise pour invoquer ce Persona."
+    "texte_fr": "Vous n'avez pas la [E4][NULL][NULL][0006]Carte Matériaux[E4][NULL][NULL][0002]\nrequise pour invoquer ce Persona."
   }
 ]

@@ -417,7 +417,7 @@
     "nom_orig": "Maya",
     "texte_orig": "People[SP]who[SP]have[SP]forgotten[SP]the[SP]memories[SP]of[SP]their\npast[SP]are[SP]beginning[SP]to[SP]realize,[SP]through[SP]the[SP]In\nLak'ech,[SP]the[SP]atonement[SP]they[SP]are[SP]destined[SP]for.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHeh...[SP]Don't[SP]you[SP]think[SP]so,[SP][1113]-kun?",
     "nom_fr": "Maya",
-    "texte_fr": "Ceux qui ont oublié leur passé réalisent,\nvia l'In Lak'ech, leur expiation destinée.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya Héhé... T'es pas d'accord, [1113]-kun?"
+    "texte_fr": "Ceux qui oublient leur passé réalisent,\nvia l'In Lak'ech, leur expiation.[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHéhé... Pas vrai, [1113]-kun ?"
   },
   {
     "id": 28,
@@ -611,7 +611,7 @@
     "nom_orig": "Count",
     "texte_orig": "And[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Comte",
-    "texte_fr": "Et que voudriez-vous vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Et que voudriez-vous vendre ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "And[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -1446,7 +1446,7 @@
     "nom_orig": "Count",
     "texte_orig": "And[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+1001][U+0012][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Comte",
-    "texte_fr": "Et que voudriez-vous vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Sell armor[SP][SP][SP]\n[111F][1210][B_00][U+1001][U+0012][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][1001][0012][5301][B_00]",
+    "texte_fr": "Et que voudriez-vous vendre ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+1001][U+0012][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][1001][0012][5301][B_00]",
     "question_orig": "And[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",

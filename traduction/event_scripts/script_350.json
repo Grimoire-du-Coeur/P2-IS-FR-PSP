@@ -27,7 +27,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "The[SP]real[SP]me[SP]is[SP]more[SP]elegant...[SP]more[SP]beautiful...[1205][000F]\nThat[SP]guy[SP]looks[SP]like[SP]a[SP]different[SP]person.[SP]I[SP]wish\nthey[SP]paid[SP]better[SP]attention.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Le vrai moi est plus élégant... plus beau...[1205][000F]\nCe 00F]Ce type ressemble à quelqu'un\nd'autre. Ils auraient pu faire plus\nattention."
+    "texte_fr": "Le vrai moi est plus classe... plus beau...[1205][000F]\nCe type a l'air d'un inconnu. Ils\nauraient pu faire attention."
   },
   {
     "id": 2,
@@ -102,7 +102,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Those[SP]were[SP]the[SP]versions[SP]of[SP]us[SP]everyone[SP]else\nimagined...[1205][000F][SP]Maybe[SP]if[SP]those[SP]sketches[SP]hadn't[SP]gone\nout,[SP]they'd[SP]have[SP]looked[SP]completely[SP]different.",
     "nom_fr": "Maya",
-    "texte_fr": "C'était la version de nous qu'imaginaient\nles[1205][000F] autres... 00F].. Si ces croquis\nn'avaient pas circulé, elles auraient eu\nl'air tout autres."
+    "texte_fr": "C'est ainsi qu'on nous imaginait...[1205][000F]\nSans ces croquis, elles auraient eu\nun tout autre visage."
   },
   {
     "id": 7,
@@ -327,7 +327,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Que pouvez-vous me vendre ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]can[SP]you[SP]sell[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -414,7 +414,7 @@
     "nom_orig": "Garcon[SP]Soejima",
     "texte_orig": "What[SP]can[SP]you[SP]sell[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Garçon Soejima",
-    "texte_fr": "Que pouvez-vous me vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Que pouvez-vous me vendre ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]can[SP]you[SP]sell[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -857,7 +857,7 @@
     "nom_orig": "Maya",
     "texte_orig": "F-Fine![SP]I'll[SP]eat[SP]it![SP]Just[SP]you[SP]watch![SP]I'll[SP]show\nyou[SP]what[SP]I'm[SP]made[SP]of!",
     "nom_fr": "Maya",
-    "texte_fr": "T-Très bien! Je vais le manger! Vous verrez![E3]\nMaya affronta le plat...[E2][E1][E2] [E3][E4][NULL][NULL] \"Maya J'ai... Je\nl'ai mangé... Spaghetti... di kusaya..."
+    "texte_fr": "T-Très bien, je le mange ! Regardez bien,\nje vais vous montrer !"
   },
   {
     "id": 51,

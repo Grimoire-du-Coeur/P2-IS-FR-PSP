@@ -507,7 +507,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Can[SP]you[SP]deny[SP]Ms.[SP]Ideal's[SP]line[SP]of[SP]thought?[1205][000F]\nAfter[SP]all,[SP]you're[SP]switching[SP]out[SP]dreams[SP]and\nreality[SP]for[SP]your[SP]own[SP]convenience...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nEveryone[SP]says[SP]they[SP]want[SP]peace,[SP]but[SP]maybe[SP]deep\ndown,[SP]they[SP]want[SP]to[SP]tear[SP]it[SP]all[SP]down[SP]and[SP]start\nover[SP]from[SP]the[SP]rubble.",
     "nom_fr": "Maya",
-    "texte_fr": "Peut-on réfuter la logique de Mme Ideal?\n[1205][000F]Vous aussi vous intervertissez rêves et\nréalité à votre avantage...[E1][E2] [E3][E4][NULL][NULL]\"Maya Chacun\nprétend souhaiter la paix, mais\npeut-êtrequ'inconsciemment on souhaite tout\ndétruire pour pouvoir repartir de zéro."
+    "texte_fr": "Réfuter la logique de Mme Idéal ?[1205][000F]\nOn troque rêves et réalité selon\nson bon plaisir...[E1][E2][E3][E4][NULL][NULL]\"Maya\nChacun veut la paix, mais au fond,\non rêve peut-être de tout raser pour\nrepartir de zéro."
   },
   {
     "id": 34,
@@ -730,7 +730,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Siffleur",
-    "texte_fr": "Qu'est-ce que t'as pour moi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Qu'est-ce que t'as pour moi ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -1131,7 +1131,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Uuunghhh..[SP]Aaaaagh...[1205][000A][SP]Uaaagh...[E1][E2]\n[E3][E4][NULL][NULL]\"Weird[SP]woman\nHahahah...[SP]I've[SP]been[SP]mocked[SP]all[SP]my[SP]life[SP]for\nbeing[SP]butch,[SP]but[SP]that[SP]ends[SP]today![SP]I've[SP]finally\nbecome[SP]a[SP]man!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Ggggn... Aaagh... Uaagh...[E1][E2] [E3][E4][NULL][NULL]\"Pas une femme\nHaha... Toute ma vie on m'a dénigré car\nj'étais trop masculin, maisc'est fini! Je\nsuis enfin un homme!"
+    "texte_fr": "Ggggn... Aaagh...[1205][000A] Uaagh...[E1][E2][E3][E4][NULL][NULL]\"Femme bizarre\nHaha... On m'a rabaissé toute ma vie\ncar j'étais virile, mais c'est fini !\nJe suis enfin un homme !"
   },
   {
     "id": 73,
@@ -1221,7 +1221,7 @@
     "nom_orig": "Weird[SP]woman",
     "texte_orig": "Just[SP]when[SP]I[SP]think[SP]we'd[SP]be[SP]getting[SP]to[SP]be[SP]good\nfriends,[SP]they'd[SP]let[SP]their[SP]dicks[SP]take[SP]over[SP]and\nmake[SP]a[SP]pass[SP]at[SP]me.\n[1205][000F]\n[E4][NULL][NULL]\"Weird[SP]woman\nWhen[SP]I[SP]said[SP]no,[SP]these[SP][1432][NULL][NULL][0014]friends[1432][NULL][NULL][0014][SP]of[SP]mine[SP]turned\nreal[SP]cold...[1205][000F][SP]That's[SP]the[SP]part[SP]I[SP]hated[SP]most.",
     "nom_fr": "Pas une femme",
-    "texte_fr": "Quand je pense avoir trouvé de bons amis,\nleur bite prend le contrôle et ils me font\ndes avances. [E4][NULL][NULL]\"Femme bizarre [1205][000F]Pas une\nfemmePuis quand j'ai dit non, ces [1432][NULL][NULL][0014]amis[1432][NULL][NULL][0014] sont\ndevenus distants... C'est ce qui me\ndébectais le plus."
+    "texte_fr": "À peine amis, ils ne pensaient\nqu'à coucher avec moi.\n[1205][000F]\n[E4][NULL][NULL]\"Femme bizarre\nEt à mon refus, ces [1432][NULL][NULL][0014]amis[1432][NULL][NULL][0014] devenaient\nglaciaux...[1205][000F] C'est ce qui m'écœurait\nle plus."
   },
   {
     "id": 79,
@@ -1444,7 +1444,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Siffleur",
-    "texte_fr": "Qu'est-ce que t'as pour moi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Qu'est-ce que t'as pour moi ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",

@@ -323,7 +323,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez,\nprenez-le. Lettre [NULL][NULL]Merci de votre\nparticipation au tirage. Hélas, vous n'êtes\npas gagnant cettefois. Nous vous\nencourageons à continuer![NULL][NULL]"
+    "texte_fr": "Le tirage au sort ? Ah, oui, bien sûr.\nOn vous l'a livré ici. Tenez, prenez-le."
   },
   {
     "id": 21,
@@ -338,7 +338,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "The[SP]sweepstakes,[SP]you[SP]say?[SP]Ah,[SP]yes,[SP]of[SP]course.\nThis[SP]was[SP]delivered[SP]here.[SP]Go[SP]on,[SP]take[SP]it.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Le tirage au sort, vous dites? Ah, oui, bien\nsûr. On vous l'a livré ici. Allez,\nprenez-le. Lettre [NULL][NULL]Merci de votre\nparticipation au tirage. Félicitations! Vous\navez étésélectionné comme gagnant! [NULL][NULL]Veuillez\naccepter [E4][NULL][NULL][NULL][E4][NULL][NULL] en guise de prix. Continuez à\nparticiper![NULL][NULL] Vous n'avez pas de place pour\nun(e) autre [E4][NULL][NULL][NULL][E4][NULL][NULL]..."
+    "texte_fr": "Le tirage au sort ? Ah, oui, bien sûr.\nOn vous l'a livré ici. Tenez, prenez-le."
   },
   {
     "id": 22,
@@ -383,7 +383,7 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "I[SP]am[SP]powerless[SP]to[SP]stop[SP]my[SP]daughter[SP]at[SP]this[SP]point.[1205][000F]\nThat[SP]is[SP]why[SP]I'd[SP]like[SP]to[SP]entrust[SP]her[SP]safety[SP]to\nyou.[SP]Please[SP]look[SP]after[SP]Lisa[SP]in[SP]my[SP]stead.",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "Je ne peux plus retenir ma fille à ce stade.\nC'est ]C'est pourquoi je voudrais vous\nconfier sa sécurité. Veuillez veiller sur\nLisa à maplace."
+    "texte_fr": "Je ne peux plus retenir ma fille.[1205][000F]\nC'est pourquoi je vous la confie.\nVeillez sur Lisa à ma place."
   },
   {
     "id": 25,
@@ -443,6 +443,6 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "I[SP]heard[SP]someone[SP]stepped[SP]in[SP]to[SP]save[SP]the[SP]students\nof[SP]Seven[SP]Sisters[SP]High.[1205][000F][SP]So[SP]there[SP]are[SP]still[SP]those\nin[SP]Sumaru[SP]willing[SP]to[SP]stand[SP]up[SP]and[SP]fight...",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "J'ai entendu que quelqu'un était intervenu\npour sauver les élèves de Seven Sisters\nHigh.[1205][000F] Il reste donc des gens à Sumaru prêts\nà se battre..."
+    "texte_fr": "Quelqu'un a sauvé les élèves de Seven\nSisters High ?[1205][000F] Il reste donc des gens\nprêts à se battre à Sumaru..."
   }
 ]
