@@ -915,7 +915,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "For[SP]the[SP]foreseeable[SP]future,[SP]you[SP]will[SP]be[SP]blessed\nwith[SP]good[SP]fortune[SP]and[SP]live[SP]in[SP]happiness.",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Bientôt, la fortune t'accompgnera et tu\nvivras dans le bohnneur. [E4][NULL][NULL]\"Génie Sumaru,\ncolporteuse de rumeurs Oui... Je vois... Ton\ndestin se cristalise... Hmm... C'est... La\nTempérance..."
+    "texte_fr": "Bientôt, la fortune t'accompagnera\net tu vivras dans le bonheur."
   },
   {
     "id": 59,
@@ -1125,7 +1125,7 @@
     "nom_orig": "Rumormonger[SP]Sumaru[SP]Genie",
     "texte_orig": "Man's[SP]karma...[SP]Repressed[SP]emotions...[1205][000F][SP]The[SP]card\ntells[SP]of[SP]a[SP]decrease[SP]in[SP]your[SP]luck[SP]with[SP]money.[1205][000F]\n[E3][E4][NULL][NULL]\"Rumormonger[SP]Sumaru[SP]Genie\nFor[SP]the[SP]foreseeable[SP]future,[SP]you[SP]will[SP]be[SP]counted\namong[SP]the[SP]poor,[SP]forced[SP]to[SP]live[SP]in[SP]poverty[SP]and\nhunger.",
     "nom_fr": "Génie de Sumaru",
-    "texte_fr": "Le karma... Les émotions réprimées...[1205][000F] Ta\nchance financière baissera. [E3][E4][NULL][NULL]\"Génie Sumaru,\ncolporteuse de rumeurs Bientôt,tu seras\nparmi les pauvres, contraint de vivre dans\nla faim et la misère."
+    "texte_fr": "Le karma humain...[1205][000F] Émotions refoulées... La\ncarte présage une baisse de vos finances.[1205][000F]\n[E3][E4][NULL][NULL]\"Génie de Sumaru\nBientôt, tu seras parmi les pauvres,\ncontraint de vivre dans la misère."
   },
   {
     "id": 73,
@@ -1920,7 +1920,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "You[SP]know[SP]what[SP]that[SP]means?[1205][000F][SP]As[SP]a[SP]politician,\nI'll[SP]be[SP]the[SP]most[SP]powerful[SP]man[SP]alive![1205][000F][SP]Wahahahaha!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Tu sais ce que ça veut dire? En tant que\n[1205][000F]politicien, je serai l'homme le plus\npuissant du monde! Mwahahaha! Message de\ndebug. Vous ne devriez pas me voir. Reset du\nBIT voyance."
+    "texte_fr": "Tu sais ce que ça veut dire ?[1205][000F] En politique,\nje serai le plus puissant ![1205][000F] Wahaha !"
   },
   {
     "id": 122,
@@ -1935,7 +1935,7 @@
     "nom_orig": "Spiteful[SP]man",
     "texte_orig": "I[SP]work[SP]at[SP]Sumaru[SP]TV,[SP]and[SP]one[SP]of[SP]my[SP]coworkers\nis[SP]the[SP]biggest[SP]scaredy[SP]cat.[1205][000F][SP]We[SP]were[SP]at[SP]the[SP]old\nabandoned[SP]factory[SP]and[SP]I[SP]told[SP]him[SP]a[SP]scary[SP]story.",
     "nom_fr": "Homme malveillant",
-    "texte_fr": "Je bosse à Sumaru TV, et un collègue est un\nvrai trouillard. à la 205]la vieille usine\nabandonnée je lui ai raconté une histoire\nflippante."
+    "texte_fr": "Je bosse à Sumaru TV, et un collègue est un\ntrouillard.[1205][000F] À la vieille usine, je lui ai\nraconté une histoire effrayante."
   },
   {
     "id": 123,
@@ -1965,6 +1965,6 @@
     "nom_orig": "Spiteful[SP]man",
     "texte_orig": "And[SP]just[SP]like[SP]I[SP]thought,[SP]whatever[SP]he[SP]imagined\nfreaked[SP]him[SP]out.[SP]He[SP]went[SP]white[SP]as[SP]a[SP]sheet![1205][000F]\nHeeheehee...[SP]Ahahaha![SP]It[SP]still[SP]cracks[SP]me[SP]up!",
     "nom_fr": "Homme malveillant",
-    "texte_fr": "Et comme je le pensais, ce qu'il a imaginé\nl'a terrorisé. Il est devenu blanc comme un\nlinge ![1205][000F] Hihi... Ahaha ! Ça me fait encore\nrire !"
+    "texte_fr": "Et comme prévu, il a flippé et est\ndevenu blanc comme un linge ![1205][000F]\nHihi... Ahaha ! J'en ris encore !"
   }
 ]

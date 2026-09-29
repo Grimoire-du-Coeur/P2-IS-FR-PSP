@@ -161,7 +161,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "What're[SP]you[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Patronne",
-    "texte_fr": "Tu vends quoi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Tu vends quoi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What're[SP]you[SP]selling?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -247,7 +247,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "What're[SP]you[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Patronne",
-    "texte_fr": "Tu vends quoi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Tu vends quoi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What're[SP]you[SP]selling?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -604,7 +604,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "What?[SP]The[SP]word[SP]of[SP]an[SP]ex-spy[SP]not[SP]good[SP]enough?",
     "nom_fr": "Patronne",
-    "texte_fr": "Hein? La parole d'un ex-espion suffit pas?"
+    "texte_fr": "Quoi ? Tu doutes d'une ex-espionne ?"
   },
   {
     "id": 35,
@@ -664,7 +664,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "But[SP]this[SP]wasn't[SP]easy[SP]to[SP]come[SP]by.[SP]I[SP]can't[SP]sell\nit[SP]cheap.[SP]So[SP]I[SP]got[SP]a[SP]proposition[SP]for[SP]you...",
     "nom_fr": "Patronne",
-    "texte_fr": "Mais j'ai galéré à l'avoir. Forcément, elle\na son prix. Donc j'ai une offre pour toi..."
+    "texte_fr": "Mais j'ai peiné à l'avoir. Hors de question\nde la brader. Voici ma proposition..."
   },
   {
     "id": 39,
@@ -825,7 +825,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Here[SP]you[SP]go.",
     "nom_fr": "Patronne",
-    "texte_fr": "Et voici."
+    "texte_fr": "Voilà."
   },
   {
     "id": 49,
@@ -870,7 +870,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "...Fine...[1205][000F][SP]It[SP]doesn't[SP]change[SP]anything...[1205][000F]\nAlright,[SP]here[SP]goes!",
     "nom_fr": "Eikichi",
-    "texte_fr": "... D'accord...[1205][000F] Bah, ça change rien... Bien,\nc'est parti![E3] Eikichi mange...[E2][E1][E2] [E3][E4][NULL][NULL]\"Eikichi J'ai\nfini... le Ramen... au Yaourt... Beuurp...!"
+    "texte_fr": "... Très bien...[1205][000F] Ça ne change rien...[1205][000F]\nAllez, c'est parti !"
   },
   {
     "id": 52,
@@ -885,7 +885,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "I[SP]ate[SP]it...[1205][000F][SP]the[SP]yogurt...[1205][000F][SP]ramen...[1205][000F]\nUrrrp...!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Alors?[1205][000F] Un avis?"
+    "texte_fr": "Fini...[1205][000F] ce ramen...[1205][000F] au yaourt...[1205][000F]\nBeurp... !"
   },
   {
     "id": 53,
@@ -900,7 +900,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "Well?[1205][000F][SP]How[SP]was[SP]it?",
     "nom_fr": "Patronne",
-    "texte_fr": "Alors? [1205][000F]Un avis?"
+    "texte_fr": "Alors ?[1205][000F] Bon ?"
   },
   {
     "id": 54,
@@ -1105,7 +1105,7 @@
     "nom_orig": "Ma'am",
     "texte_orig": "That[SP]oughtta[SP]cover[SP]it.",
     "nom_fr": "Patronne",
-    "texte_fr": "C'est presque tout."
+    "texte_fr": "Ça suffira."
   },
   {
     "id": 67,

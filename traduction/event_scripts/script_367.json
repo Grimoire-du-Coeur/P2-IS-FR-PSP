@@ -762,7 +762,7 @@
     "nom_orig": "Middle-aged[SP]artist",
     "texte_orig": "Many[SP]tried[SP]to[SP]get[SP]their[SP]hands[SP]on[SP]his[SP]work,\nbut[SP]he[SP]accepted[SP]no[SP]praise[SP]and[SP]refused[SP]to[SP]put\na[SP]price[SP]tag[SP]on[SP]his[SP]pieces.\n[E3][E4][NULL][NULL]\"Middle-aged[SP]artist\nHe[SP]was[SP]a[SP]noble[SP]and[SP]proud[SP]artist.",
     "nom_fr": "Artiste d'âge mûr",
-    "texte_fr": "Beaucoup ont voulu mettre la main sur son\nœuvre, mais il refusait louanges et prix.\n[E3][E4][NULL][NULL]\"Artiste d'âge mûr C'était un artiste noble\net fier."
+    "texte_fr": "Beaucoup voulaient ses toiles, mais il\nrefusait les éloges et tout prix.\n[E3][E4][NULL][NULL]\"Artiste d'âge mûr\nUn artiste noble et fier."
   },
   {
     "id": 51,
@@ -925,7 +925,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "What[SP]have[SP]you[SP]to[SP]offer[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories\n[1109][E2]",
     "nom_fr": "Tailleur",
-    "texte_fr": "Qu'avez-vous à m'offrir?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[SP][SP][SP][SP][SP][SP]\n[1109][E2][B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Qu'avez-vous à m'offrir ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires\n[1109][E2][B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]have[SP]you[SP]to[SP]offer[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -1010,7 +1010,7 @@
     "nom_orig": "Tailor",
     "texte_orig": "What[SP]have[SP]you[SP]to[SP]offer[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Tailleur",
-    "texte_fr": "Qu'avez-vous à m'offrir?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Qu'avez-vous à m'offrir ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
     "question_orig": "What[SP]have[SP]you[SP]to[SP]offer[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
