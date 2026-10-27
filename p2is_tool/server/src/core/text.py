@@ -477,13 +477,32 @@ def _align_mid_text(nom_orig: str, texte_orig: str, nom_fr: str, t_fr: str) -> s
         diff = orig_off - fr_off
         if diff > 0:
             n_sp = diff // 2
-            out_fr += "[SP]" * n_sp
+            # Insérer avant [E1] ou [E3] pour préserver intacte la séquence [E4][NULL][NULL]"
+            if "[E1]" in out_fr:
+                out_fr = out_fr.replace("[E1]", "[SP]" * n_sp + "[E1]", 1)
+            elif "[E3]" in out_fr:
+                out_fr = out_fr.replace("[E3]", "[SP]" * n_sp + "[E3]", 1)
+            else:
+                out_fr += "[SP]" * n_sp
         elif diff < 0:
-            while diff < 0 and len(out_fr) > 0:
-                out_fr = out_fr[:-1]
-                fr_off = len(text_to_bytes('"' + nom_fr + "\n" + out_fr))
-                diff = orig_off - fr_off
-            
+            # Si le texte FR est trop long, raccourcir proprement avant les balises de contrôle
+            excess = (-diff) // 2
+            for tag in ("[E1]", "[E3]", "[E4]"):
+                if tag in out_fr:
+                    body, rest = out_fr.split(tag, 1)
+                    if len(body) >= excess:
+                        body = body[:-excess]
+                        out_fr = body + tag + rest
+                        break
+            fr_off = len(text_to_bytes('"' + nom_fr + "\n" + out_fr))
+            diff = orig_off - fr_off
+            if diff > 0:
+                n_sp = diff // 2
+                if "[E1]" in out_fr:
+                    out_fr = out_fr.replace("[E1]", "[SP]" * n_sp + "[E1]", 1)
+                else:
+                    out_fr += "[SP]" * n_sp
+
         out_fr += '[NULL][NULL]"' + parts_fr[i]
         
     return out_fr
