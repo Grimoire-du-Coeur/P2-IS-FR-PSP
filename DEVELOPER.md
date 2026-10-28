@@ -54,11 +54,11 @@ Le module `core/iso.py` utilise `pycdlib` pour analyser l'arborescence ISO 9660 
 
 ### Phase 2 - Décodage (Parsing)
 
-Les parsers dans `src/parsers/` analysent le bytecode Atlus. Chaque mot de 2 octets (Little-Endian hexadécimal) est converti en balise textuelle lisible (ex: `[NL]`, `[E1]`, `[1208]`). Les valeurs inconnues sont capturées sous la forme `[U+XXXX]` pour garantir une rétention mémoire à 100% lors du rebuild. Les scripts sont exportés au format `.json`.
+Les parsers dans `p2is_tool/server/src/parsers/` analysent le bytecode Atlus. Chaque mot de 2 octets (Little-Endian hexadécimal) est converti en balise textuelle lisible (ex: `[NL]`, `[E1]`, `[1208]`). Les valeurs inconnues sont capturées sous la forme `[U+XXXX]` pour garantir une rétention mémoire à 100% lors du rebuild. Les scripts sont exportés au format `.json`.
 
 ### Phase 3 - Encodage (Injection)
 
-Les encodeurs dans `src/encoders/` lisent les JSON traduits. Ils effectuent :
+Les encodeurs dans `p2is_tool/server/src/encoders/` lisent les JSON traduits. Ils effectuent :
 - Le remappage des accents français vers leur équivalent PSP
 - La reconstruction dynamique des tables de pointeurs absolus
 - L'alignement des pointeurs de menus à choix multiples via injection de `[SP]`
