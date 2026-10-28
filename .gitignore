@@ -18,14 +18,18 @@ __pycache__/
 *.tmp
 *.temp
 *.log
+.venv/
+venv/
+
+# --- BUILD ARTIFACTS ---
+# Les dist/ etaient versionnes : 2,6 Mo de bundles compiles, dont des
+# dossiers imbriques (p2is_tool/server/dist/dist/dist/) ou chaque build
+# avait ete copie dans le precedent.
+dist/
+build/
+*.egg-info/
 
 # --- OS GENERATED ---
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# --- INTERNAL SCRIPTS & DRAFTS ---
-AutreScript/prompts_gemini/
-json_verify/
-scripts/harmonize_*.py
-project-roadmap.md
