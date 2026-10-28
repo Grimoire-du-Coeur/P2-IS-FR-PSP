@@ -13,17 +13,13 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-
-      - name: Checkout json-verify repository
-        uses: actions/checkout@v4
         with:
-          repository: Garloulou/JsonVerify
-          path: JsonVerify
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.14'
+          python-version: '3.12'
 
       - name: Filter changed scripts
         uses: dorny/paths-filter@v2
@@ -34,7 +30,7 @@ jobs:
               - 'traduction/**/*.json'
           list-files: 'escape'
 
-      - name: Run json-verify
+      - name: Run Script Validation
         if: ${{ steps.filter.outputs.changed == 'true' }}
         run: |
-          python JsonVerify/cli.py ${{ steps.filter.outputs.changed_files }}
+          python scripts/verify_json.py ${{ steps.filter.outputs.changed_files }}

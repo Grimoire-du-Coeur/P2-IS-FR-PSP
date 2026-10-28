@@ -59,6 +59,16 @@ def taille_fr(d):
     t_fr = _align_menu_text(d.get("nom_orig", ""), d.get("texte_orig", ""), n_fr, t_fr)
     enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
     nl = 2 if _needs_nl_suffix(d.get("_term", []), d.get("texte_orig", "")) else 0
+
+    avail = budget(d)
+    if avail > 0 and len(enc) + nl > avail and ("[1208]" in t_fr or "[U+1208]" in t_fr):
+        marker = "[U+1208]" if "[U+1208]" in t_fr else "[1208]"
+        parts = t_fr.split(marker, 1)
+        while parts[0].endswith("[SP]") and (len(text_to_bytes('"' + n_fr + "\n" + parts[0] + marker + parts[1])) + nl > avail):
+            parts[0] = parts[0][:-4]
+        t_fr = parts[0] + marker + parts[1]
+        enc = text_to_bytes('"' + n_fr + "\n" + t_fr)
+
     return len(enc) + nl
 
 
@@ -66,7 +76,8 @@ def fichiers(args):
     if args:
         return [a if os.path.isabs(a) else os.path.join(RACINE, a) for a in args]
     return sorted(
-        glob.glob(os.path.join(RACINE, "traduction", "event_scripts", "*.json"))
+        glob.glob(os.path.join(RACINE, "traduction", "*.json"))
+        + glob.glob(os.path.join(RACINE, "traduction", "event_scripts", "*.json"))
         + glob.glob(os.path.join(RACINE, "traduction", "EBOOT_decoupe", "*.json"))
     )
 
