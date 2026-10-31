@@ -1,0 +1,59 @@
+[project]
+name = "p2is"
+version = "1.0.0"
+description = "Traduction francaise de Shin Megami Tensei: Persona 2 - Innocent Sin (PSP, EUR ULES01557)"
+requires-python = ">=3.10"
+dependencies = [
+    "pycdlib",
+]
+
+[project.optional-dependencies]
+# Les trois labos servent une interface web : ils ne sont pas necessaires pour
+# decoder, encoder ou verifier la traduction.
+labs = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+    "Pillow",
+    "customtkinter",
+    "cryptography",
+]
+dev = [
+    "pytest",
+    "ruff",
+    "pre-commit",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["p2is*"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+exclude = [".git", "__pycache__", "traduction"]
+
+[tool.ruff.lint]
+# On commence par ce qui attrape de vraies pannes : noms non definis, imports
+# morts, redefinitions silencieuses. Le reste viendra, le depot est grand.
+select = ["E4", "E7", "E9", "F"]
+ignore = [
+    "E741",  # noms de variables d'une lettre dans le code de format binaire
+    # Dette assumee, a resorber par petits lots -- pas dans la refonte qui
+    # introduit ce fichier, sinon le diff devient illisible :
+    "E701",  # 71 `if log_fn: log_fn(...)` sur une ligne, style du depot
+    "E402",  # 31 imports en milieu de fichier, surtout dans les routes des labos
+    "E722",  # 19 `except:` nus -- a reprendre un par un, ils avalent tout
+    "F841",  # 13 variables assignees puis jamais lues, dont du decodage mort
+]
+
+[tool.ruff.lint.per-file-ignores]
+# Les outils en ligne de commande posent sys.path avant d'importer le paquet.
+"p2is/outils/*.py" = ["E402"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
