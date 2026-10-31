@@ -25,6 +25,6 @@ repos:
     hooks:
       - id: balises-de-controle
         name: Balises de controle preservees dans les JSON modifies
-        entry: python p2is/outils/verify_json.py
+        entry: python -m p2is.outils.verify_json
         language: system
         files: ^traduction/.*\.json$

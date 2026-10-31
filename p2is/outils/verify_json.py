@@ -24,7 +24,15 @@ if hasattr(sys.stdout, "reconfigure"):
 if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8")
 
-from p2is import RACINE as _RACINE
+# Amorce : `python p2is/outils/<outil>.py` ne met pas la racine du depot dans
+# sys.path, contrairement a `python -m p2is.outils.<outil>`. Les deux doivent
+# marcher, un contributeur tapera l'un ou l'autre.
+import os as _os
+import sys as _sys
+
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))))
+
+from p2is import RACINE as _RACINE  # noqa: E402
 
 RACINE = str(_RACINE)
 

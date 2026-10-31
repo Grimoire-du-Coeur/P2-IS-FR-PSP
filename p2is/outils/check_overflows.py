@@ -26,6 +26,14 @@ import json
 import os
 import sys
 
+# Amorce : `python p2is/outils/<outil>.py` ne met pas la racine du depot dans
+# sys.path, contrairement a `python -m p2is.outils.<outil>`. Les deux doivent
+# marcher, un contributeur tapera l'un ou l'autre.
+import os as _os
+import sys as _sys
+
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))))
+
 from p2is import RACINE as _RACINE  # noqa: E402
 
 RACINE = str(_RACINE)
@@ -79,14 +87,17 @@ def taille_fr(d):
 def fichiers(args):
     if args:
         return [a if os.path.isabs(a) else os.path.join(RACINE, a) for a in args]
-    # Pas EBOOT_decoupe/ : ses entrees n'ont pas de bloc `_term` et ne passent
-    # pas par cet encodeur. Leur budget est `slot_size`, et c'est
-    # audit_eboot.py qui les verifie. Les melanger faisait remonter pres de
-    # 6 000 faux depassements, soit un rapport que plus personne ne lisait.
-    return sorted(
-        glob.glob(os.path.join(RACINE, "traduction", "*.json"))
-        + glob.glob(os.path.join(RACINE, "traduction", "event_scripts", "*.json"))
-    )
+    # Seulement event_scripts/. Le budget calcule ici est celui de
+    # bin_encoder.py, et lui seul :
+    #
+    #   - EBOOT_decoupe/ n'a pas de bloc `_term` et passe par un autre
+    #     encodeur (voir audit_eboot.py) : pres de 6 000 faux depassements ;
+    #   - MMAP01-06, F_BE et TM_EVE passent par mmap_encoder et fbe_encoder,
+    #     qui ont leur propre budget et rognent deja le texte eux-memes :
+    #     741 lignes de bruit, pour 16 vrais depassements dans les scripts.
+    #
+    # Ces deux familles meritent leur verificateur, pas celui-ci.
+    return sorted(glob.glob(os.path.join(RACINE, "traduction", "event_scripts", "*.json")))
 
 
 def main():
