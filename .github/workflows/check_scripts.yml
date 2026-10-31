@@ -33,4 +33,4 @@ jobs:
       - name: Run Script Validation
         if: ${{ steps.filter.outputs.changed == 'true' }}
         run: |
-          python scripts/verify_json.py ${{ steps.filter.outputs.changed_files }}
+          python p2is/outils/verify_json.py ${{ steps.filter.outputs.changed_files }}

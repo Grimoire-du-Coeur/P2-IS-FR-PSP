@@ -23,7 +23,7 @@ jobs:
       - name: Lancer le script de mise à jour des statistiques
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/update_contributors.py
+        run: python p2is/outils/update_contributors.py
 
       - name: Commit et Push des changements (si modifications)
         run: |
