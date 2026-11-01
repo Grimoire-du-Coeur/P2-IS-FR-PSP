@@ -1,0 +1,30 @@
+# Les garde-fous qui manquaient : le depot n'avait ni lint, ni format, ni test
+# automatique. Installation : pip install pre-commit && pre-commit install
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-json
+      - id: check-toml
+      - id: check-merge-conflict
+      - id: check-case-conflict
+      - id: mixed-line-ending
+      - id: check-added-large-files
+        args: ["--maxkb=2048"]
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.8.6
+    hooks:
+      - id: ruff
+        args: [--fix]
+
+  - repo: local
+    hooks:
+      - id: balises-de-controle
+        name: Balises de controle preservees dans les JSON modifies
+        entry: python -m p2is.outils.verify_json
+        language: system
+        files: ^traduction/.*\.json$

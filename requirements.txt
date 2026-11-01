@@ -1,6 +1,21 @@
+# Dependances du depot. Une seule liste : il y en avait quatre, qui ne
+# disaient pas la meme chose, et celle de p2is_image_lab contenait une ligne
+# ecrite en UTF-16 au milieu d'un fichier UTF-8 ("p\0y\0c\0d\0l\0i\0b\0"),
+# heritee d'un `>>` PowerShell. `pip install -r` s'arretait dessus.
+#
+# Le noyau (decodage, encodage, verification) n'a besoin que de pycdlib.
+# Le reste sert aux trois labos web de labs/.
+pycdlib
+
+# labs/ : les interfaces web et l'outil de bureau
 fastapi
 uvicorn
 pydantic
 Pillow
-pycdlib
 customtkinter
+cryptography
+
+# Qualite
+pytest
+ruff
+pre-commit

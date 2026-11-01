@@ -82,7 +82,7 @@ Toute la chaîne de traduction repose sur des outils qu'on a développés nous-m
 
 ---
 
-### p2is_tool - L'outil principal
+### labs/tool - L'outil principal
 
 Application web locale permettant d'extraire, traduire et réinjecter les scripts du jeu de façon collaborative.
 
@@ -96,7 +96,7 @@ Gère l'extraction depuis l'ISO, le décodage du bytecode Atlus, la reconstructi
 
 ---
 
-### p2is_patcher - Le Patcher Web
+### patcher - Le Patcher Web
 
 Application autonome tournant dans le navigateur, sans aucune dépendance à installer côté utilisateur.
 
@@ -109,7 +109,7 @@ Patcher web autonome tournant dans le navigateur (xdelta3 WASM).
 
 ---
 
-### p2is_image_lab - Le Laboratoire d'Images
+### labs/image - Le Laboratoire d'Images
 
 Outil spécialisé dans la manipulation des images au format GIM compressé CRILAYLA, nécessaire pour modifier les écrans de chargement et les éléments de l'interface graphique.
 
@@ -123,7 +123,7 @@ Implémente un compresseur CRILAYLA (greedy) en Python pur, permettant de réinj
 
 ---
 
-### p2is_audio_lab - Le Laboratoire Audio
+### labs/audio - Le Laboratoire Audio
 
 Outil d'extraction et de conversion des pistes audio au format propriétaire ATRAC3 (AT3), utilisé pour les doublages et musiques du jeu.
 
@@ -144,19 +144,19 @@ Pilote ATRACTool-Reloaded en ligne de commande pour assurer la conversion depuis
 
 ### Licences
 
-**Patch FR et outils maison** (`p2is_tool`, `p2is_audio_lab`, `p2is_image_lab`) - licence **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
+**Patch FR et outils maison** (`labs/tool`, `labs/audio`, `labs/image`) - licence **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
 
 - Réutilisation et modification autorisées à condition de créditer l'équipe, de ne pas en faire un usage commercial, et de redistribuer sous la même licence.
 - Les créateurs de contenu (YouTube, Twitch) peuvent utiliser ce patch et monétiser leurs vidéos normalement.
 
-**Web Patcher** (`p2is_patcher`) - licence **CC BY-NC-SA 4.0** (interface native).
+**Web Patcher** (`patcher`) - licence **CC BY-NC-SA 4.0** (interface native).
 
 ### Outils tiers utilisés
 
 | Outil | Rôle | Licence |
 |:---|:---|:---|
-| **p2is_cpk_tool.py** | Extraction et reconstruction CPK (remplace CriFsLib) | Interne CC BY-NC-SA 4.0 |
-| **decrypt_eboot.py** | Déchiffrement EBOOT, outil interne | Interne CC BY-NC-SA 4.0 |
+| **p2is/core/cpk.py** | Extraction et reconstruction CPK (remplace CriFsLib) | Interne CC BY-NC-SA 4.0 |
+| **p2is/outils/decrypt_eboot.py** | Déchiffrement EBOOT, outil interne | Interne CC BY-NC-SA 4.0 |
 | **pycdlib** (clalancette) | Lecture ISO 9660, importée dynamiquement | LGPL-2.1 |
 | **ATRACTool-Reloaded** (XyLe-GBP) | Conversion audio AT3, appelé en externe | Voir dépôt |
 

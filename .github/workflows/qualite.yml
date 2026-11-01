@@ -1,0 +1,47 @@
+name: Qualite
+
+# Le depot n'avait aucun controle sur son code Python : la seule CI validait
+# les JSON de traduction. Elle ne pouvait pas faire plus, parce qu'importer le
+# moindre module tirait tkinter et customtkinter. C'est regle depuis la refonte
+# du 31/10/2026, donc on verifie.
+
+on:
+  push:
+    branches: [main]
+    paths: ['p2is/**', 'labs/**', 'tests/**', 'pyproject.toml', '.github/workflows/qualite.yml']
+  pull_request:
+    paths: ['p2is/**', 'labs/**', 'tests/**', 'pyproject.toml', '.github/workflows/qualite.yml']
+  workflow_dispatch:
+
+jobs:
+  qualite:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # Volontairement SANS les extras `labs` : le noyau doit s'importer et se
+      # tester sur une machine qui n'a ni fastapi ni bibliotheque de fenetres.
+      # C'est tout l'interet de la separation.
+      - name: Installer le noyau seul
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -e .
+          python -m pip install pytest ruff
+
+      - name: Lint
+        run: ruff check p2is labs tests
+
+      - name: Tests
+        run: pytest
+
+      - name: Depassements de slot dans les scripts d'evenement
+        continue-on-error: true
+        run: |
+          python -m p2is.outils.check_overflows > depassements.txt || true
+          n=$(grep -c '|' depassements.txt || true)
+          echo "::notice::$n depassement(s) de slot"
+          head -40 depassements.txt
