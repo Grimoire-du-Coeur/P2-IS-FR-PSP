@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Version_Actuelle-BÊTA_v0.1.3-6b21a8?style=for-the-badge" alt="Version actuelle" />
-<img src="https://img.shields.io/badge/Statut-En_développement_actif-2ea043?style=for-the-badge" alt="Statut" />
+<img src="https://img.shields.io/badge/Version_Actuelle-BÊTA_v0.2.8-e0391a?style=for-the-badge" alt="Version actuelle" />
+<img src="https://img.shields.io/badge/Statut-Relecture_en_cours-e0391a?style=for-the-badge" alt="Statut" />
 
 </div>
 
