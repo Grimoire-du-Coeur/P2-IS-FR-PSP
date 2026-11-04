@@ -34,3 +34,27 @@ jobs:
         if: ${{ steps.filter.outputs.changed == 'true' }}
         run: |
           python -m p2is.outils.verify_json ${{ steps.filter.outputs.changed_files }}
+
+      # Une replique recopiee d'une entree a l'autre passe toutes les autres
+      # verifications : balises intactes, longueur tenue, verify_json content.
+      # En jeu, plusieurs personnages disent la meme phrase.
+      #
+      # Le plafond correspond a la dette connue au 04/11/2026 : l'etape ne
+      # bloque donc pas l'existant, seulement son aggravation. A baisser au fur
+      # et a mesure des corrections, jusqu'a pouvoir le retirer.
+      - name: Repliques recopiees d'une entree a l'autre
+        if: always()
+        run: |
+          set +e
+          python -m p2is.outils.doublons_traduction --resume --plafond 437 \
+            | tee doublons.txt
+          code=${PIPESTATUS[0]}
+          set -e
+          {
+            echo '### Repliques francaises recopiees'
+            echo
+            echo '```'
+            cat doublons.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          exit "$code"

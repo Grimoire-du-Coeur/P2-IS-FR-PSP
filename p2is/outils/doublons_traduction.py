@@ -15,8 +15,12 @@ leur original est le meme.
 Usage :
     python -m p2is.outils.doublons_traduction            # tout le depot
     python -m p2is.outils.doublons_traduction F_BE.json  # fichiers choisis
+    python -m p2is.outils.doublons_traduction --resume   # compte par fichier
+    python -m p2is.outils.doublons_traduction --plafond 437   # pour la CI
 
-Code de sortie : 1 si au moins un groupe suspect est trouve, 0 sinon.
+Code de sortie : 1 si au moins un groupe suspect est trouve, 0 sinon. Avec
+`--plafond N`, la sortie vaut 1 seulement au-dela de N groupes, ce qui permet
+de surveiller une derive sans bloquer sur l'existant.
 """
 
 from __future__ import annotations
@@ -76,7 +80,29 @@ def analyser(fichiers: list[Path]) -> list[tuple]:
     return sorted(suspects, key=lambda groupe: -len(groupe[1]))
 
 
+def _par_fichier(suspects: list[tuple]) -> dict:
+    """Compte les entrees touchees, fichier par fichier."""
+    compte = defaultdict(int)
+    for _, lignes in suspects:
+        for fichier, _, _ in lignes:
+            compte[fichier] += 1
+    return compte
+
+
 def main(argv: list[str]) -> int:
+    resume = "--resume" in argv
+    argv = [a for a in argv if a != "--resume"]
+
+    plafond = None
+    if "--plafond" in argv:
+        index = argv.index("--plafond")
+        try:
+            plafond = int(argv[index + 1])
+        except (IndexError, ValueError):
+            print("--plafond attend un nombre.", file=sys.stderr)
+            return 2
+        del argv[index : index + 2]
+
     if argv:
         fichiers = [Path(a) if Path(a).is_absolute() else RACINE / a for a in argv]
         fichiers = [f for f in fichiers if f.suffix == ".json" and f.is_file()]
@@ -95,14 +121,33 @@ def main(argv: list[str]) -> int:
     entrees_touchees = sum(len(lignes) for _, lignes in suspects)
     print(
         f"{len(suspects)} replique(s) francaise(s) posee(s) sur des originaux "
-        f"differents, soit {entrees_touchees} entrees :\n"
+        f"differents, soit {entrees_touchees} entrees."
     )
-    for francais, lignes in suspects:
-        print(f"  FR  {francais[:88]!r}")
-        for fichier, identifiant, original in lignes:
-            print(f"      {fichier}  id={identifiant}")
-            print(f"          EN  {original[:84]!r}")
+
+    if resume:
         print()
+        for fichier, nombre in sorted(
+            _par_fichier(suspects).items(), key=lambda p: -p[1]
+        ):
+            print(f"  {nombre:5}  {fichier}")
+    else:
+        print()
+        for francais, lignes in suspects:
+            print(f"  FR  {francais[:88]!r}")
+            for fichier, identifiant, original in lignes:
+                print(f"      {fichier}  id={identifiant}")
+                print(f"          EN  {original[:84]!r}")
+            print()
+
+    if plafond is not None:
+        if len(suspects) > plafond:
+            print(
+                f"\nDerive : {len(suspects)} groupes pour un plafond de {plafond}.",
+                file=sys.stderr,
+            )
+            return 1
+        print(f"\nSous le plafond ({len(suspects)} <= {plafond}).")
+        return 0
     return 1
 
 
