@@ -86,9 +86,10 @@ def main():
 
     final_content = stats_md + "\n" + graphs_md
 
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    filepath = os.path.join(script_dir, "..", "CREDITS.md")
-    
+    # p2is/outils/update_contributors.py -> racine du depot -> docs/CREDITS.md
+    racine = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    filepath = os.path.join(racine, "docs", "CREDITS.md")
+
     if not os.path.exists(filepath):
         print(f"Erreur: Le fichier {filepath} n'existe pas.")
         sys.exit(1)
