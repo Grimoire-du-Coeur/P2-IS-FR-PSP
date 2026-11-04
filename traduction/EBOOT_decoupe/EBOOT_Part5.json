@@ -2437,7 +2437,7 @@
         "data_size": 362,
         "slot_size": 362,
         "texte_orig": "You[SP]win[SP]the[SP]jackpot[SP]if[SP]the[SP]fourth[SP]ball[SP]earns<FF03>you[SP]a[SP]row[SP]vertically<0003>[SP]horizontally<0003>[SP]or<FF03>diagonally<0004>[SP]The[SP]amount[SP]in[SP]the[SP]jackpot[SP]slowly<FF03>increases[SP]as[SP]you[SP]put[SP]coins[SP]into[SP]the[SP]bingo<FF03>machines<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Le jackpot est gagne si la quatrieme<FF03>boule complete une ligne verticale<0003><FF03>horizontale ou diagonale<0004> Son montant<FF03>monte lentement a mesure que des<FF03>pieces entrent dans les machines<0004><FF03>"
     },
     {
         "id": 4305,
@@ -2453,7 +2453,7 @@
         "data_size": 332,
         "slot_size": 332,
         "texte_orig": "If[SP]the[SP]ball[SP]is[SP]the[SP]color[SP]you[SP]chose<0003>[SP]you[SP]can<FF03>Double<Up[SP]again<0004>[SP]You[SP]may[SP]keep[SP]doing[SP]this[SP]until<FF03>you[SP]lose<0004>[SP]If[SP]you[SP]pick[SP]the[SP]wrong[SP]color<0003>[SP]you<FF03>will[SP]forfeit[SP]all[SP]your[SP]winnings<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Si la boule est de la couleur choisie<0003><FF03>vous pouvez relancer Double<Up<0004> Repetez<FF03>tant que vous gagnez<0004> Mauvaise<FF03>couleur et tous vos gains sont perdus<0004><FF03>"
     },
     {
         "id": 4307,
@@ -2461,7 +2461,7 @@
         "data_size": 330,
         "slot_size": 330,
         "texte_orig": "Press[SP]the[SP][[SP]button[SP]for[SP]a[SP]blue[SP]ball<0003><FF03>the[SP]>[SP]button[SP]for[SP]the[SP]red<0003>[SP]and[SP]the[SP]b[SP]button<FF03>for[SP]the[SP]green<0004>[SP]The[SP]tumbler[SP]will[SP]spin[SP]again<0004><FF03>Press[SP]the[SP]`[SP]button[SP]to[SP]keep[SP]your[SP]winnings<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Touche [ pour une boule bleue<0003><FF03>touche > pour la rouge<0003> touche b<FF03>pour la verte<0004> Le tambour retourne<0004><FF03>Touche ` pour garder vos gains<0004><FF03>"
     },
     {
         "id": 4308,
@@ -2469,7 +2469,7 @@
         "data_size": 252,
         "slot_size": 252,
         "texte_orig": "Double<Up[SP]is[SP]a[SP]bonus[SP]game[SP]where[SP]you[SP]bet[SP]your<FF03>total[SP]winnings[SP]to[SP]spin[SP]the[SP]tumbler[SP]again[SP]and<FF03>predict[SP]the[SP]color[SP]of[SP]the[SP]next[SP]ball<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Double<Up est un jeu bonus ou vous misez<FF03>tous vos gains pour relancer le<FF03>tambour et prevoir la couleur<0004><FF03>"
     },
     {
         "id": 4309,
@@ -2477,7 +2477,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Doubling[SP]up<FF03>",
-        "texte_fr": "Casino<FF03>"
+        "texte_fr": "Doubler<FF03>"
     },
     {
         "id": 4310,
@@ -2485,7 +2485,7 @@
         "data_size": 138,
         "slot_size": 138,
         "texte_orig": "After[SP]a[SP]successful[SP]bet<0003>[SP]you[SP]can[SP]double[SP]up[SP]to<FF03>increase[SP]your[SP]winnings<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Apres un pari gagnant<0003> vous pouvez<FF03>doubler pour accroitre vos gains<0004><FF03>"
     },
     {
         "id": 4311,
@@ -2493,7 +2493,7 @@
         "data_size": 444,
         "slot_size": 444,
         "texte_orig": "When[SP]the[SP]game[SP]has[SP]begun<0003>[SP]the[SP]tumbler[SP]will<FF03>choose[SP]ten[SP]numbers<0004>[SP]If[SP]five[SP]of[SP]them[SP]line[SP]up<FF03>vertically<0003>[SP]sideways<0003>[SP]or[SP]diagonally[SP]on[SP]your<FF03>card<0003>[SP]you[SP]win[SP]and[SP]receive[SP]a[SP]reward<0004>[SP]The[SP]sooner<FF03>you[SP]reach[SP]bingo<0003>[SP]the[SP]greater[SP]your[SP]reward[SP]is<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Une fois la partie lancee<0003> le tambour<FF03>tire dix numeros<0004> Si cinq s'alignent<FF03>a la verticale<0003> l'horizontale ou en<FF03>diagonale<0003> vous gagnez<0004> Plus le bingo<FF03>vient tot<0003> plus la recompense est forte<0004><FF03>"
     },
     {
         "id": 4312,
@@ -2501,7 +2501,7 @@
         "data_size": 298,
         "slot_size": 298,
         "texte_orig": "Coins[SP]are[SP]divided[SP]evenly[SP]among[SP]the[SP]four[SP]cards<0004><FF03>You[SP]cannot[SP]bet[SP]on[SP]individual[SP]cards<0004><FF03>When[SP]you[SP]push[SP]the[SP]R[SP]button[SP]or[SP]bet[SP]100[SP]coins<0003><FF03>the[SP]game[SP]will[SP]begin<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Les pieces se repartissent entre les<FF03>quatre cartes<0004> On ne peut pas miser<FF03>carte par carte<0004> Touche R ou 100<FF03>pieces pour commencer<0004><FF03>"
     },
     {
         "id": 4313,
@@ -2509,7 +2509,7 @@
         "data_size": 314,
         "slot_size": 314,
         "texte_orig": "Push[SP]the[SP]>[SP]button[SP]for[SP]4[SP]sets[SP]of[SP]10[SP]coins<FF03>)40[SP]coins*[SP]or[SP]the[SP]b[SP]button[SP]for[SP]4[SP]sets[SP]of<FF03>100[SP]coins<0004>[SP]You[SP]can[SP]press[SP]the[SP]`[SP]button[SP]to<FF03>shuffle[SP]the[SP]numbers[SP]on[SP]the[SP]cards<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Touche > pour 4 lots de 10 pieces<FF03>)40 pieces* ou touche b pour 4 lots<FF03>de 100 pieces<0004> Touche ` pour<FF03>melanger les numeros des cartes<0004><FF03>"
     },
     {
         "id": 4314,
@@ -2517,7 +2517,7 @@
         "data_size": 290,
         "slot_size": 290,
         "texte_orig": "In[SP]bingo<0003>[SP]check[SP]the[SP]numbers[SP]chosen[SP]by[SP]the<FF03>tumbler[SP]on[SP]the[SP]four[SP]bingo[SP]cards[SP]and[SP]predict<FF03>whether[SP]they[SP]will[SP]fall[SP]into[SP]a[SP]row[SP]up<0003>[SP]down<0003><FF03>or[SP]diagonally<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Au bingo<0003> suivez les numeros tires par<FF03>le tambour sur les quatre cartes et<FF03>prevoyez s'ils formeront une ligne<FF03>haute<0003> basse ou diagonale<0004><FF03>"
     },
     {
         "id": 4315,
@@ -2525,7 +2525,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "How[SP]to[SP]play<FF03>",
-        "texte_fr": "Casino<FF03>"
+        "texte_fr": "Regles<FF03>"
     },
     {
         "id": 4316,
@@ -2533,7 +2533,7 @@
         "data_size": 250,
         "slot_size": 250,
         "texte_orig": "a100000[SP]Coins<FF03>You[SP]win[SP]100<0003>000[SP]coins[SP]by[SP]extending[SP]the[SP]frame<FF03>to[SP]its[SP]maximum[SP])seven[SP]times*[SP]with[SP]Frame[SP]Extend<FF03>to[SP]get[SP]five[SP]stars<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "a100000 pieces<FF03>Gagnez 100<0003>000 pieces en etendant le<FF03>cadre au maximum )sept fois* avec<FF03>Cadre Etendu pour cinq etoiles<0004><FF03>"
     },
     {
         "id": 4317,
@@ -2541,7 +2541,7 @@
         "data_size": 216,
         "slot_size": 216,
         "texte_orig": "aTake[SP]2[SP]Steps)Yx6*<FF03>The[SP]gauge[SP]above[SP]the[SP]reel[SP]slides[SP]2[SP]spaces[SP]left<0004><FF03>[SP]<FF03>a50000[SP]Coins)Yx9*<FF03>You[SP]win[SP]50<0003>000[SP]coins<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "aAvance 2 Crans)Yx6*<FF03>La jauge glisse de 2 crans a gauche<0004><FF03> <FF03>a50000 pieces)Yx9*<FF03>Gagnez 50<0003>000 pieces<0004><FF03>"
     },
     {
         "id": 4318,
@@ -2549,7 +2549,7 @@
         "data_size": 230,
         "slot_size": 230,
         "texte_orig": "aFrame[SP]Default)Yx4*<FF03>The[SP]extended[SP]frame[SP]on[SP]the[SP]gauge[SP]is[SP]reset<0004><FF03>[SP]<FF03>aFrame[SP]Extend)Yx5*<FF03>The[SP]frame[SP]extends[SP]by[SP]one[SP]space<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "aCadre Initial)Yx4*<FF03>Le cadre etendu est remis a zero<0004><FF03> <FF03>aCadre Etendu)Yx5*<FF03>Le cadre s'etend d'un cran<0004><FF03>"
     },
     {
         "id": 4319,
@@ -2557,7 +2557,7 @@
         "data_size": 252,
         "slot_size": 252,
         "texte_orig": "aWipe)Yx2<0001>Yx7*<FF03>The[SP]picture[SP]above[SP]the[SP]reel[SP]will[SP]disappear<0004><FF03>[SP]<FF03>aTake[SP]3[SP]Steps)Yx3*<FF03>The[SP]gauge[SP]above[SP]the[SP]reel[SP]slides[SP]3[SP]spaces[SP]left<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "aEffacement)Yx2<0001>Yx7*<FF03>L'image au-dessus du rouleau disparait<0004><FF03> <FF03>aAvance 3 Crans)Yx3*<FF03>La jauge glisse de 3 crans a gauche<0004><FF03>"
     },
     {
         "id": 4320,
@@ -2565,7 +2565,7 @@
         "data_size": 196,
         "slot_size": 196,
         "texte_orig": "a500[SP]Coins)Yx0*<FF03>You[SP]win[SP]500[SP]coins<0004><FF03>[SP]<FF03>a<0008>Appearance)Yx1<0001>Yx8*<FF03>A[SP]picture[SP]will[SP]show[SP]up[SP]above[SP]the[SP]reel<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "a500 pieces)Yx0*<FF03>Gagnez 500 pieces<0004><FF03> <FF03>a?Apparition)Yx1<0001>Yx8*<FF03>Une image apparait sur le rouleau<0004><FF03>"
     },
     {
         "id": 4321,
@@ -2573,7 +2573,7 @@
         "data_size": 74,
         "slot_size": 74,
         "texte_orig": "There[SP]are[SP]nine[SP]winning[SP]combinations<0006><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Neuf combinaisons gagnantes<0006><FF03>"
     },
     {
         "id": 4322,
@@ -2581,7 +2581,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "About[SP]stars<FF03>",
-        "texte_fr": "Casino<FF03>"
+        "texte_fr": "Les etoiles<FF03>"
     },
     {
         "id": 4323,
@@ -2589,7 +2589,7 @@
         "data_size": 352,
         "slot_size": 352,
         "texte_orig": "Also<0003>[SP]if[SP]the[SP]gauge[SP]frame[SP]on[SP]top[SP]of[SP]the[SP]reels<FF03>shows[SP]pictures<0003>[SP]you[SP]can[SP]win[SP]coins[SP]depending<FF03>on[SP]the[SP]picture<0004>[SP]The[SP]number[SP]of[SP]stars[SP]at[SP]the[SP]end<FF03>decides[SP]your[SP]set[SP]and[SP]how[SP]it&s[SP]affected<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "De plus<0003> si le cadre de la jauge au<FF03>dessus des rouleaux montre des images<0003><FF03>vous gagnez des pieces selon l'image<0004><FF03>Le nombre final d'etoiles decide<FF03>de votre lot<0004><FF03>"
     },
     {
         "id": 4324,
@@ -2597,7 +2597,7 @@
         "data_size": 290,
         "slot_size": 290,
         "texte_orig": "When[SP]you[SP]start[SP]the[SP]game<0003>[SP]the[SP]reels[SP]will[SP]spin<FF03>and[SP]stop[SP]automatically<0004>[SP]If[SP]the[SP]pictures[SP]line<FF03>up[SP]along[SP]one[SP]of[SP]the[SP]axes[SP]covered[SP]by[SP]your<FF03>bet<0003>[SP]you[SP]win<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Au lancement<0003> les rouleaux tournent<FF03>puis s'arretent seuls<0004> Si les images<FF03>s'alignent sur un axe que vous avez<FF03>mise<0003> vous gagnez<0004><FF03>"
     },
     {
         "id": 4325,
@@ -2605,7 +2605,7 @@
         "data_size": 414,
         "slot_size": 414,
         "texte_orig": "The[SP]more[SP]coins[SP]you[SP]bet<0003>[SP]the[SP]more[SP]ways[SP]you[SP]can<FF03>line[SP]up[SP]a[SP]win<0004>[SP]You[SP]can[SP]insert[SP]one[SP]coin[SP]at[SP]a<FF03>time[SP]with[SP]the[SP]>[SP]button[SP]or[SP]8[SP]coins[SP]at[SP]once[SP]with<FF03>the[SP]b[SP]button<0004>[SP]Press[SP]the[SP]R[SP]button[SP]or[SP]insert<FF03>8[SP]coins[SP]to[SP]start[SP]the[SP]game<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Plus vous misez de pieces<0003> plus il y a<FF03>d'axes gagnants<0004> Touche > pour une<FF03>piece<0003> touche b pour 8 d'un coup<0004><FF03>Touche R ou 8 pieces pour lancer<FF03>la partie<0004><FF03>"
     },
     {
         "id": 4326,
@@ -2613,7 +2613,7 @@
         "data_size": 180,
         "slot_size": 180,
         "texte_orig": "To[SP]play[SP]the[SP]slot[SP]machines<0003>[SP]stop[SP]the[SP]spinning<FF03>reels[SP]to[SP]line[SP]up[SP]the[SP]same[SP]pictures[SP]in[SP]a[SP]row<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Aux machines a sous<0003> arretez les<FF03>rouleaux pour aligner les memes<FF03>images<0004><FF03>"
     },
     {
         "id": 4327,
@@ -2621,7 +2621,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "How[SP]to[SP]play<FF03>",
-        "texte_fr": "Casino<FF03>"
+        "texte_fr": "Regles<FF03>"
     },
     {
         "id": 4328,
@@ -2629,7 +2629,7 @@
         "data_size": 182,
         "slot_size": 182,
         "texte_orig": "a123456<FF03>If[SP]you[SP]get[SP]a[SP]21[SP]with[SP]the[SP]six[SP]cards[SP]numbering<FF03>A<6<0004>[SP]They[SP]do[SP]not[SP]have[SP]to[SP]be[SP]in[SP]order<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "a123456<FF03>Un 21 obtenu avec les six cartes<FF03>A<6<0004> L'ordre importe peu<0004><FF03>"
     },
     {
         "id": 4329,
@@ -2637,7 +2637,7 @@
         "data_size": 152,
         "slot_size": 152,
         "texte_orig": "a<0206>AUJ<FF03>If[SP]you[SP]make[SP]Blackjack[SP]with[SP]an[SP]Ace[SP]and[SP]Jack<FF03>and[SP]both[SP]cards[SP]are[SP]spades<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "a<0206>AUJ<FF03>Blackjack avec un As et un Valet<FF03>tous deux a pique<0004><FF03>"
     },
     {
         "id": 4330,
@@ -2645,7 +2645,7 @@
         "data_size": 126,
         "slot_size": 126,
         "texte_orig": "a777<FF03>If[SP]you[SP]are[SP]dealt[SP]two[SP]7s<0003>[SP]hit[SP]once<0003>[SP]and[SP]receive<FF03>another[SP]7<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "a777<FF03>Deux 7 distribues<0003> un tirage<0003> et<FF03>un troisieme 7<0004><FF03>"
     },
     {
         "id": 4331,
@@ -2653,7 +2653,7 @@
         "data_size": 196,
         "slot_size": 196,
         "texte_orig": "a<0204><0207><0205>AUJ<FF03>If[SP]you[SP]make[SP]Blackjack[SP]with[SP]an[SP]Ace[SP]and[SP]Jack<FF03>and[SP]both[SP]cards[SP]are[SP]hearts<0003>[SP]clubs<0003>[SP]or[SP]diamonds<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "a<0204><0207><0205>AUJ<FF03>Blackjack avec un As et un Valet tous<FF03>deux a coeur<0003> trefle ou carreau<0004><FF03>"
     },
     {
         "id": 4332,
@@ -2661,7 +2661,7 @@
         "data_size": 174,
         "slot_size": 174,
         "texte_orig": "a7[SP]Cards<FF03>If[SP]you[SP]draw[SP]7[SP]cards[SP]whose[SP]total[SP]is[SP]under<FF03>21<0004>[SP])This[SP]will[SP]Stand[SP]automatically<0004>*<FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "a7 Cartes<FF03>Sept cartes dont le total reste<FF03>sous 21<0004> )Rester est automatique<0004>*<FF03>"
     },
     {
         "id": 4333,
@@ -2669,7 +2669,7 @@
         "data_size": 138,
         "slot_size": 138,
         "texte_orig": "a6[SP]Cards<FF03>If[SP]you[SP]Stand[SP]after[SP]drawing[SP]6[SP]cards[SP]whose<FF03>total[SP]is[SP]under[SP]21<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "a6 Cartes<FF03>Rester apres six cartes dont le<FF03>total reste sous 21<0004><FF03>"
     },
     {
         "id": 4334,
@@ -2677,7 +2677,7 @@
         "data_size": 322,
         "slot_size": 322,
         "texte_orig": "aB<0004>JACK)Blackjack*<FF03>If[SP]you[SP]have[SP]an[SP]Ace[SP]with[SP]a[SP]10<K<0004><FF03>)You[SP]will[SP]Stand[SP]automatically<0004>*<FF03>If[SP]you[SP]have[SP]Split<0003>[SP]this[SP]is[SP]not[SP]counted<FF03>as[SP]Blackjack[SP]and[SP]counts[SP]as[SP]21[SP]instead<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "aB<0004>JACK)Blackjack*<FF03>Un As avec un 10<K<0004><FF03>)Rester est automatique<0004>*<FF03>Apres un Split<0003> cela ne compte pas<FF03>comme Blackjack mais comme 21<0004><FF03>"
     },
     {
         "id": 4335,
@@ -2685,7 +2685,7 @@
         "data_size": 184,
         "slot_size": 184,
         "texte_orig": "aWIN<FF03>If[SP]your[SP]total[SP]exceeds[SP]the[SP]dealer&s[SP]while[SP]still<FF03>being[SP]under[SP]21<0003>[SP]or[SP]if[SP]the[SP]dealer[SP]busts<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "aGAGNE<FF03>Votre total depasse celui du croupier<FF03>en restant sous 21<0003> ou il saute<0004><FF03>"
     },
     {
         "id": 4336,
@@ -2693,7 +2693,7 @@
         "data_size": 72,
         "slot_size": 72,
         "texte_orig": "There[SP]are[SP]eight[SP]hands[SP]in[SP]blackjack<0006><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Il existe huit mains au blackjack<0006><FF03>"
     },
     {
         "id": 4337,
@@ -2709,7 +2709,7 @@
         "data_size": 370,
         "slot_size": 370,
         "texte_orig": "You[SP]will[SP]automatically[SP]Stand[SP]when<0006><FF03><0005>Your[SP]first[SP]two[SP]cards[SP]are[SP]Blackjack<FF03><0005>The[SP]sum[SP]total[SP]of[SP]your[SP]cards[SP]is[SP]21<FF03><0005>You[SP]have[SP]7[SP]cards[SP]in[SP]your[SP]hand<FF03><0005>The[SP]sum[SP]total[SP]of[SP]your[SP]cards[SP]exceeds<FF03>[SP]21[SP])Bust*<FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Rester est automatique si<0006><FF03><0005>Vos deux premieres cartes font<FF03> Blackjack<FF03><0005>Le total de vos cartes fait 21<FF03><0005>Vous avez 7 cartes en main<FF03><0005>Le total depasse 21 )Saute*<FF03>"
     },
     {
         "id": 4339,
@@ -2717,7 +2717,7 @@
         "data_size": 160,
         "slot_size": 160,
         "texte_orig": "Choosing[SP]to[SP]Stand[SP]lets[SP]the[SP]dealer[SP]know[SP]you<FF03>want[SP]to[SP]play[SP]with[SP]your[SP]current[SP]hand<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Rester indique au croupier que vous<FF03>gardez votre main actuelle<0004><FF03>"
     },
     {
         "id": 4340,
@@ -2725,7 +2725,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Standing<FF03>",
-        "texte_fr": "Casino<FF03>"
+        "texte_fr": "Rester<FF03>"
     },
     {
         "id": 4341,
@@ -2733,7 +2733,7 @@
         "data_size": 252,
         "slot_size": 252,
         "texte_orig": "If[SP]you[SP]Split[SP]and[SP]get[SP]a[SP]combination[SP]of[SP]Ace[SP]and<FF03>10<K[SP]on[SP]either[SP]hand<0003>[SP]it[SP]does[SP]not[SP]count[SP]as<FF03>Blackjack<0004>[SP]It[SP]is[SP]only[SP]part[SP]of[SP]the[SP]21<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Apres un Split<0003> un As avec un 10<K<FF03>sur l'une des mains ne compte pas<FF03>comme Blackjack<0004> Ce n'est qu'un 21<0004><FF03>"
     },
     {
         "id": 4342,
@@ -2741,7 +2741,7 @@
         "data_size": 238,
         "slot_size": 238,
         "texte_orig": "If[SP]you[SP]can&t[SP]cover[SP]a[SP]doubled[SP]bet<0003>[SP]you[SP]cannot<FF03>exercise[SP]this[SP]option<0004>[SP]You[SP]can[SP]double[SP]down[SP]on<FF03>each[SP]hand[SP]after[SP]Splitting<0004><FF03>[SP]<FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Sans de quoi couvrir la mise doublee<0003><FF03>cette option est indisponible<0004> On<FF03>peut doubler chaque main apres un<FF03>Split<0004><FF03> <FF03>"
     },
     {
         "id": 4343,
@@ -2749,7 +2749,7 @@
         "data_size": 294,
         "slot_size": 294,
         "texte_orig": "You[SP]have[SP]this[SP]option[SP]when[SP]both[SP]your[SP]cards[SP]at<FF03>the[SP]outset[SP]are[SP]the[SP]same[SP]number<0004><FF03>You[SP]can[SP]separate[SP]the[SP]hands[SP]and[SP]play[SP]with<FF03>both[SP]cards[SP]in[SP]two[SP]locations<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Cette option s'offre quand vos deux<FF03>cartes de depart ont le meme numero<0004><FF03>Vous separez les mains et jouez les<FF03>deux cartes sur deux emplacements<0004><FF03>"
     },
     {
         "id": 4344,
@@ -2757,7 +2757,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "How[SP]to[SP]Split<FF03>",
-        "texte_fr": "Casino<FF03>"
+        "texte_fr": "Le Split<FF03>"
     },
     {
         "id": 4345,
@@ -2765,7 +2765,7 @@
         "data_size": 162,
         "slot_size": 162,
         "texte_orig": "If[SP]you[SP]choose[SP]to[SP]double[SP]down[SP]and[SP]beat[SP]the<FF03>dealer<0003>[SP]your[SP]winnings[SP]will[SP]be[SP]doubled<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Si vous doublez et battez le croupier<0003><FF03>vos gains sont doubles<0004><FF03>"
     },
     {
         "id": 4346,
@@ -2773,7 +2773,7 @@
         "data_size": 408,
         "slot_size": 408,
         "texte_orig": "D<0004>DOWN[SP]can[SP]only[SP]be[SP]used[SP]when[SP]you[SP]have[SP]two<FF03>cards[SP]in[SP]your[SP]hand<0004>[SP]You[SP]can[SP]double[SP]your[SP]bet<FF03>on[SP]the[SP]condition[SP]that[SP]you[SP]draw[SP]only[SP]one<FF03>more[SP]card<0004>[SP]If[SP]you[SP]can&t[SP]cover[SP]a[SP]doubled[SP]bet<0003><FF03>you[SP]cannot[SP]exercise[SP]this[SP]option<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "D<0004>DOWN ne sert qu'avec deux cartes en<FF03>main<0004> Vous doublez votre mise a la<FF03>condition de ne tirer qu'une carte<0004><FF03>Sans de quoi couvrir la mise doublee<0003><FF03>l'option est indisponible<0004><FF03>"
     },
     {
         "id": 4347,
@@ -2789,7 +2789,7 @@
         "data_size": 404,
         "slot_size": 404,
         "texte_orig": "If[SP]the[SP]dealer[SP]and[SP]player[SP]have[SP]the[SP]same[SP]total<0003><FF03>or[SP]if[SP]they[SP]both[SP]have[SP]Blackjack<0003>[SP]the[SP]game[SP]is<FF03>a[SP]draw[SP]and[SP]your[SP]bet[SP]will[SP]be[SP]returned<0004><FF03>[SP]<FF03>Apart[SP]from[SP]choosing[SP]to[SP]Hit[SP]or[SP]Stand<0003>[SP]you[SP]may<FF03>also[SP]Double[SP]Down[SP]or[SP]Split<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Si le croupier et le joueur ont le meme<FF03>total<0003> ou tous deux un Blackjack<0003> la<FF03>partie est nulle et la mise rendue<0004><FF03> <FF03>Outre Tirer ou Rester<0003> vous pouvez<FF03>aussi Doubler ou Splitter<0004><FF03>"
     },
     {
         "id": 4349,
@@ -2797,7 +2797,7 @@
         "data_size": 426,
         "slot_size": 426,
         "texte_orig": "If[SP]the[SP]player[SP]Stands<0003>[SP]the[SP]dealer&s[SP]facedown<FF03>card[SP]is[SP]turned[SP]over<0003>[SP]and[SP]it[SP]is[SP]their[SP]turn<0004><FF03>The[SP]player[SP]wins[SP]if[SP]the[SP]sum[SP]total[SP]of[SP]his[SP]or<FF03>her[SP]cards[SP]exceeds[SP]the[SP]dealer&s[SP]while[SP]still<FF03>being[SP]under[SP]21<0003>[SP]or[SP]if[SP]the[SP]dealer[SP]busts<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Si le joueur Reste<0003> la carte cachee du<FF03>croupier est retournee et c'est son<FF03>tour<0004> Le joueur gagne si son total<FF03>depasse celui du croupier en restant<FF03>sous 21<0003> ou si le croupier saute<0004><FF03>"
     },
     {
         "id": 4350,
@@ -2805,7 +2805,7 @@
         "data_size": 432,
         "slot_size": 432,
         "texte_orig": "You[SP]will[SP]automatically[SP]Stand[SP]when<0006><FF03><0005>Your[SP]initial[SP]two[SP]cards[SP]are[SP]a[SP]combination<FF03>of[SP]an[SP]Ace[SP]and[SP]a[SP]10<K[SP])Blackjack*<FF03><0005>The[SP]sum[SP]total[SP]of[SP]your[SP]cards[SP]is[SP]21<FF03><0005>You[SP]have[SP]7[SP]cards[SP]in[SP]your[SP]hand<FF03><0005>The[SP]sum[SP]total[SP]of[SP]your[SP]cards[SP]exceeds[SP]21<FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Rester est automatique si<0006><FF03><0005>Vos deux premieres cartes font un As<FF03> et un 10<K )Blackjack*<FF03><0005>Le total de vos cartes fait 21<FF03><0005>Vous avez 7 cartes en main<FF03><0005>Le total de vos cartes depasse 21<FF03>"
     },
     {
         "id": 4351,
@@ -2813,7 +2813,7 @@
         "data_size": 232,
         "slot_size": 232,
         "texte_orig": "The[SP]2[SP]through[SP]10[SP]count[SP]as[SP]their[SP]marked[SP]number<0004><FF03>Jack[SP]through[SP]King[SP]count[SP]as[SP]10<0003>[SP]and[SP]the[SP]Ace<FF03>counts[SP]as[SP]either[SP]1[SP]or[SP]11<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Le 2 au 10 valent leur numero<0004> Du<FF03>Valet au Roi valent 10<0003> et l'As<FF03>vaut 1 ou 11 au choix<0004><FF03>"
     },
     {
         "id": 4352,
@@ -2821,7 +2821,7 @@
         "data_size": 484,
         "slot_size": 484,
         "texte_orig": "In[SP]MANUAL[SP]mode<0003>[SP]compare[SP]the[SP]dealer&s[SP]card[SP]to<FF03>yours[SP]to[SP]decide[SP]whether[SP]to[SP]draw[SP]a[SP]card<0004><FF03>If[SP]you[SP]want[SP]to[SP]draw[SP])or[SP]Hit*<0003>[SP]press[SP]the[SP]><FF03>button<0004>[SP]To[SP]Stand<0003>[SP]press[SP]the[SP][[SP]button<0004><FF03>You[SP]can[SP]draw[SP]up[SP]to[SP]five[SP]cards[SP]as[SP]long[SP]as<FF03>their[SP]sum[SP]total[SP]does[SP]not[SP]exceed[SP]21<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "En mode MANUEL<0003> comparez la carte du<FF03>croupier a la votre pour decider de<FF03>tirer<0004> Pour tirer )Hit*<0003> touche ><0004><FF03>Pour Rester<0003> touche [<0004> Vous pouvez<FF03>tirer jusqu'a cinq cartes tant que le<FF03>total ne depasse pas 21<0004><FF03>"
     },
     {
         "id": 4353,
@@ -2829,7 +2829,7 @@
         "data_size": 252,
         "slot_size": 252,
         "texte_orig": "When[SP]you[SP]press[SP]the[SP]R[SP]button<0003>[SP]the[SP]game[SP]will<FF03>begin<0004>[SP]All[SP]participants[SP]receive[SP]two[SP]cards<0004><FF03>One[SP]of[SP]the[SP]dealer&s[SP]cards[SP]is[SP]face[SP]down<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "A la touche R<0003> la partie commence<0004><FF03>Chaque participant recoit deux cartes<0004><FF03>Une carte du croupier est face cachee<0004><FF03>"
     },
     {
         "id": 4354,
@@ -2837,7 +2837,7 @@
         "data_size": 272,
         "slot_size": 272,
         "texte_orig": "aMANUAL<FF03>All[SP]decisions<0003>[SP]such[SP]as[SP]choosing[SP]which[SP]cards<FF03>to[SP]discard<0003>[SP]are[SP]left[SP]to[SP]the[SP]player<0004><FF03>[SP]<FF03>aAUTO<FF03>All[SP]decisions[SP]are[SP]made[SP]by[SP]the[SP]computer<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "aMANUEL<FF03>Toutes les decisions<0003> dont le choix<FF03>des cartes a jeter<0003> reviennent au<FF03>joueur<0004><FF03> <FF03>aAUTO<FF03>La console decide de tout<0004><FF03>"
     },
     {
         "id": 4355,
@@ -2845,7 +2845,7 @@
         "data_size": 382,
         "slot_size": 382,
         "texte_orig": "On[SP]starting[SP]the[SP]game<0003>[SP]press[SP]the[SP]>[SP]button[SP]to<FF03>add[SP]coins[SP]or[SP]the[SP]b[SP]button[SP]to[SP]add[SP]ten[SP]coins[SP]at<FF03>once[SP]to[SP]the[SP]participating[SP]player&s[SP]bet<0004>[SP]Then<FF03>select[SP]between[SP]MANUAL[SP]and[SP]AUTO[SP]for[SP]controlling<FF03>players<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Au lancement<0003> touche > pour ajouter<FF03>des pieces ou touche b pour en<FF03>ajouter dix d'un coup a la mise du<FF03>joueur<0004> Choisissez ensuite MANUEL ou<FF03>AUTO pour chaque joueur<0004><FF03>"
     },
     {
         "id": 4356,
@@ -2853,7 +2853,7 @@
         "data_size": 210,
         "slot_size": 210,
         "texte_orig": "Blackjack[SP]is[SP]a[SP]game[SP]against[SP]the[SP]dealer<FF03>using[SP]the[SP]numbers[SP]of[SP]the[SP]cards<0004><FF03>Your[SP]party[SP]members[SP]can[SP]join[SP]in<0004><FF03>[SP]<FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Le blackjack se joue contre le<FF03>croupier avec la valeur des cartes<0004><FF03>Vos equipiers peuvent participer<0004><FF03> <FF03>"
     },
     {
         "id": 4357,
@@ -2861,7 +2861,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "How[SP]to[SP]play<FF03>",
-        "texte_fr": "Casino<FF03>"
+        "texte_fr": "Regles<FF03>"
     },
     {
         "id": 4358,
@@ -2869,7 +2869,7 @@
         "data_size": 398,
         "slot_size": 398,
         "texte_orig": "A[SP]Royal[SP]Flush[SP]with[SP]ten[SP]coins[SP]bet[SP]is[SP]a<FF03>jackpot[SP]and[SP]pays[SP]out[SP]accordingly<0004><FF03>The[SP]amount[SP]of[SP]the[SP]jackpot[SP]slowly[SP]increases<FF03>as[SP]you[SP]feed[SP]in[SP]coins<0004>[SP]Sometimes[SP]it[SP]may[SP]even<FF03>increase[SP]when[SP]you&re[SP]not[SP]in[SP]the[SP]casino<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Une Quinte Flush Royale misee a dix<FF03>pieces rafle le jackpot<0004> Son montant<FF03>monte lentement a mesure que vous<FF03>jouez<0004> Il grimpe parfois meme quand<FF03>vous n'etes pas au casino<0004><FF03>"
     },
     {
         "id": 4359,
@@ -2885,7 +2885,7 @@
         "data_size": 244,
         "slot_size": 244,
         "texte_orig": "aWild[SP]Royal[SP]Flush<FF03>Royal[SP]Flush[SP]with[SP]a[SP]Joker[SP]standing[SP]in<0004><FF03>[SP]<FF03>aRoyal[SP]Flush<FF03>A[SP]10<0003>[SP]Jack<0003>[SP]Queen<0003>[SP]King<0003>[SP]and[SP]Ace[SP]of<FF03>the[SP]same[SP]suit<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "aQuinte Royale Joker<FF03>Quinte Royale avec un Joker<0004><FF03> <FF03>aQuinte Flush Royale<FF03>10<0003> Valet<0003> Dame<0003> Roi et As de<FF03>meme couleur<0004><FF03>"
     },
     {
         "id": 4361,
@@ -2893,7 +2893,7 @@
         "data_size": 300,
         "slot_size": 300,
         "texte_orig": "aStraight[SP]Flush<FF03>Five[SP]successive[SP]cards[SP]of[SP]the[SP]same[SP]suit<0004><FF03>The[SP]ace[SP]does[SP]not[SP]connect[SP]to[SP]the[SP]2<0004><FF03>[SP]<FF03>a5[SP]Of[SP]A[SP]Kind<FF03>Four[SP]cards[SP]of[SP]the[SP]same[SP]number[SP]plus[SP]a[SP]Joker<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "aQuinte Flush<FF03>Cinq cartes qui se suivent<0003> meme<FF03>couleur<0004> L'As ne suit pas le 2<0004><FF03> <FF03>a5 Identiques<FF03>Quatre cartes du meme numero plus<FF03>un Joker<0004><FF03>"
     },
     {
         "id": 4362,
@@ -2901,7 +2901,7 @@
         "data_size": 208,
         "slot_size": 208,
         "texte_orig": "aFull[SP]House<FF03>Three[SP]cards[SP]of[SP]one[SP]number[SP]and[SP]two[SP]of[SP]another<0004><FF03>[SP]<FF03>a4[SP]Of[SP]A[SP]Kind<FF03>Four[SP]cards[SP]of[SP]the[SP]same[SP]number<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "aFull<FF03>Trois cartes d'un numero et deux<FF03>d'un autre<0004><FF03> <FF03>a4 Identiques<FF03>Quatre cartes du meme numero<0004><FF03>"
     },
     {
         "id": 4363,
@@ -2909,7 +2909,7 @@
         "data_size": 246,
         "slot_size": 246,
         "texte_orig": "aStraight<FF03>Five[SP]numbers[SP]in[SP]succession[SP]of[SP]any[SP]suit<0004><FF03>The[SP]ace[SP]does[SP]not[SP]connect[SP]to[SP]the[SP]2<0004><FF03>[SP]<FF03>aFlush<FF03>Five[SP]cards[SP]of[SP]the[SP]same[SP]suit<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "aQuinte<FF03>Cinq numeros qui se suivent<0003> toutes<FF03>couleurs<0004> L'As ne suit pas le 2<0004><FF03> <FF03>aCouleur<FF03>Cinq cartes de la meme couleur<0004><FF03>"
     },
     {
         "id": 4364,
@@ -2917,7 +2917,7 @@
         "data_size": 196,
         "slot_size": 196,
         "texte_orig": "a2[SP]Pair<FF03>Two[SP]pairs[SP]of[SP]two[SP]cards[SP]of[SP]the[SP]same[SP]number<0004><FF03>[SP]<FF03>a3[SP]Of[SP]A[SP]Kind<FF03>Three[SP]cards[SP]of[SP]the[SP]same[SP]number<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "a2 Paires<FF03>Deux paires de deux cartes du meme<FF03>numero<0004><FF03> <FF03>a3 Identiques<FF03>Trois cartes du meme numero<0004><FF03>"
     },
     {
         "id": 4365,
@@ -2925,7 +2925,7 @@
         "data_size": 274,
         "slot_size": 274,
         "texte_orig": "This[SP]game[SP]does[SP]not[SP]accept[SP]1[SP]Pair[SP]as[SP]a[SP]hand<0004><FF03>The[SP]Joker[SP]is[SP]wild<0003>[SP]and[SP]can[SP]be[SP]used[SP]as[SP]any<FF03>card[SP]to[SP]make[SP]a[SP]hand<0004>[SP]There[SP]are[SP]ten[SP]possible<FF03>hands<0006><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Ce jeu n'accepte pas la Paire simple<0004><FF03>Le Joker est libre et remplace<FF03>n'importe quelle carte<0004> Il existe<FF03>dix mains possibles<0006><FF03>"
     },
     {
         "id": 4366,
@@ -2941,7 +2941,7 @@
         "data_size": 436,
         "slot_size": 436,
         "texte_orig": "After[SP]the[SP]card[SP]exchange<0003>[SP]if[SP]you[SP]have[SP]a<FF03>hand<0003>[SP]you[SP]will[SP]receive[SP]coins[SP]corresponding<FF03>to[SP]the[SP]odds[SP]and[SP]your[SP]bet<0004><FF03>If[SP]you[SP]get[SP]a[SP]hand<0003>[SP]you[SP]can[SP]press[SP]the<FF03>b[SP]button[SP]to[SP]apply[SP]these[SP]to[SP]another[SP]game<0004><FF03>Press[SP]the[SP]`[SP]button[SP]to[SP]back[SP]out<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Apres l'echange<0003> si vous avez une main<0003><FF03>vous recevez des pieces selon la cote<FF03>et votre mise<0004><FF03>Avec une main<0003> touche b pour la<FF03>reporter sur une autre partie<0004><FF03>Touche ` pour vous retirer<0004><FF03>"
     },
     {
         "id": 4368,
@@ -2949,7 +2949,7 @@
         "data_size": 384,
         "slot_size": 384,
         "texte_orig": "At[SP]the[SP]outset<0003>[SP]you[SP]will[SP]have[SP]five[SP]cards<0004>[SP]Choose<FF03>which[SP]to[SP]keep[SP]with[SP]the[SP]directional[SP]buttons<0004><FF03>Press[SP]the[SP][<0003>[SP]><0003>[SP]b<0003>[SP]or[SP]`[SP]buttons[SP]to[SP]Hold<FF03>a[SP]card[SP]and[SP]press[SP]the[SP]R[SP]button[SP]to[SP]exchange<FF03>unselected[SP]cards<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Au depart<0003> vous avez cinq cartes<0004><FF03>Choisissez celles a garder avec la<FF03>croix directionnelle<0004> Touches [<0003> ><0003><FF03>b ou ` pour Garder une carte<0003> puis<FF03>touche R pour echanger les autres<0004><FF03>"
     },
     {
         "id": 4369,
@@ -2957,7 +2957,7 @@
         "data_size": 470,
         "slot_size": 470,
         "texte_orig": "Poker[SP]is[SP]a[SP]card[SP]game[SP]where[SP]you[SP]exchange[SP]one[SP]of<FF03>your[SP]five[SP]cards[SP]to[SP]create[SP]a[SP]specific[SP]hand<0004><FF03>To[SP]bet<0003>[SP]press[SP]the[SP]>[SP]button[SP]to[SP]insert[SP]one[SP]coin<FF03>or[SP]press[SP]the[SP]b[SP]button[SP]to[SP]insert[SP]10[SP]coins<0004><FF03>Press[SP]the[SP]R[SP]button[SP]or[SP]insert[SP]10[SP]coins<FF03>to[SP]begin[SP]the[SP]game<0004><FF03>",
-        "texte_fr": "Règles du jeu de cartes du Casino<FF03>"
+        "texte_fr": "Au poker<0003> vous echangez une de vos<FF03>cinq cartes pour former une main<0004><FF03>Pour miser<0003> touche > pour une piece<FF03>ou touche b pour dix pieces<0004><FF03>Touche R ou 10 pieces pour lancer<FF03>la partie<0004><FF03>"
     },
     {
         "id": 4370,
@@ -2965,7 +2965,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "How[SP]to[SP]play<FF03>",
-        "texte_fr": "Casino<FF03>"
+        "texte_fr": "Regles<FF03>"
     },
     {
         "id": 4371,
@@ -2989,7 +2989,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Blackjack<FF03>",
-        "texte_fr": "Casino<FF03>"
+        "texte_fr": "Blackjack<FF03>"
     },
     {
         "id": 4374,
@@ -3045,7 +3045,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "White[SP]Glove",
-        "texte_fr": "Casino<FF03>"
+        "texte_fr": "White Glove"
     },
     {
         "id": 4381,

@@ -108,33 +108,47 @@ def verifier_fichier(chemin_fichier):
         if is_modified:
             entrees_modifiees += 1
 
+        # Chaque champ traduit est confronte a son original : c'est l'ecart
+        # entre les deux qui compte, pas un equilibre absolu. Les pages d'aide
+        # du casino affichent les touches de la PSP au moyen de caracteres ASCII
+        # ([ > b `) et sont donc volontairement desequilibrees des l'anglais.
         champs = [
-            ("texte_fr", d.get("texte_fr")),
-            ("nom_fr", d.get("nom_fr")),
-            ("question_fr", d.get("question_fr")),
+            ("texte_fr", d.get("texte_fr"), d.get("texte_orig")),
+            ("nom_fr", d.get("nom_fr"), d.get("nom_orig")),
+            ("question_fr", d.get("question_fr"), d.get("question_orig")),
         ]
         choix = d.get("choix_fr")
+        choix_orig = d.get("choix_orig")
         if isinstance(choix, list):
             for c_i, c_val in enumerate(choix):
-                champs.append((f"choix_fr[{c_i}]", c_val))
+                reference = (
+                    choix_orig[c_i]
+                    if isinstance(choix_orig, list) and c_i < len(choix_orig)
+                    else None
+                )
+                champs.append((f"choix_fr[{c_i}]", c_val, reference))
 
-        for champ, val in champs:
+        def ecart(texte, ouvrant, fermant):
+            return texte.count(ouvrant) - texte.count(fermant)
+
+        for champ, val, original in champs:
             if not val or not isinstance(val, str):
                 continue
+            reference = original if isinstance(original, str) else ""
 
-            open_b = val.count("[")
-            close_b = val.count("]")
-            if open_b != close_b:
-                msg = f"{nom_rel} (id {ident}, {champ}): Crochets déséquilibrés ('[': {open_b}, ']': {close_b}) -> {val!r}"
-                if is_modified:
-                    erreurs_bloquantes.append(msg)
-                else:
-                    avertissements.append(f"[Pré-existant] {msg}")
-
-            open_c = val.count("<")
-            close_c = val.count(">")
-            if open_c != close_c:
-                msg = f"{nom_rel} (id {ident}, {champ}): Chevrons déséquilibrés ('<': {open_c}, '>': {close_c}) -> {val!r}"
+            for ouvrant, fermant, libelle in (
+                ("[", "]", "Crochets"),
+                ("<", ">", "Chevrons"),
+            ):
+                attendu = ecart(reference, ouvrant, fermant)
+                constate = ecart(val, ouvrant, fermant)
+                if constate == attendu:
+                    continue
+                msg = (
+                    f"{nom_rel} (id {ident}, {champ}): {libelle} déséquilibrés "
+                    f"('{ouvrant}': {val.count(ouvrant)}, '{fermant}': {val.count(fermant)}) "
+                    f"-> {val!r}"
+                )
                 if is_modified:
                     erreurs_bloquantes.append(msg)
                 else:
