@@ -118,10 +118,15 @@ def encode_fbe_bnp_from_json(
                 
             sub_chunk = slot_data[sub_off : sub_off + sub_len]
             encode_fbe_sub_chunk(sub_chunk, n_fr, t_fr, log_fn, d.get("id"))
-            
+
             slot_data[sub_off : sub_off + sub_len] = sub_chunk
             ok += 1
-            
+
+        # Trancher un bytearray en fabrique une COPIE : sans cette ligne, tout
+        # le travail ci-dessus restait dans `slot_data` et le fichier ecrit
+        # etait l'original intact, alors que le resume annoncait « N injectes ».
+        data[offset : offset + slot_size] = slot_data
+
     if out_path is None:
         out_path = bin_path
         

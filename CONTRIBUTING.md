@@ -50,18 +50,24 @@
 
 Le fichier est découpé en 7 parties (~1 000 entrées chacune) dans le dossier `EBOOT_decoupe/` pour éviter les limitations GitHub.
 
-| Contenu | Fichier | IDs (estimatif) | Entrées | Progression | Statut |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Menus & Interface | Part 1 | 0 - 179 | ~180 | **72.2%** | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms de Personnages / PNJs / Boss | Part 1 | 180 - 449 | ~270 | **87.4%** | <img src="https://img.shields.io/badge/-Avancé-2ea44f?style=flat-square" alt="Avancé" /> |
-| Commandes & Messages de Combat | Part 1 | 600 - 899 | ~300 | **79.0%** | <img src="https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square" alt="En cours" /> |
-| Noms & Descriptions de Personae / Démons | Part 2 & 4 | 900 - 3999 | ~800 | **28.0%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
-| Noms & Descriptions de Compétences | Part 2 | 1200 - 1599 | ~400 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
-| Noms d'Armes / Armures / Accessoires | Part 2 & 3 | 1600 - 2199 | ~600 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
-| Objets de quête / Rumeurs / Clés | Part 3 & 4 | 2800 - 3499 | ~700 | **0.0%** | <img src="https://img.shields.io/badge/-À%20faire-red?style=flat-square" alt="À faire" /> |
-| Noms de lieux / Donjons / Carte | Part 5 - 7 | 4000 - 6500 | ~2501 | **0.1%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
-| Autres textes (Tutoriels, Infos) | Part 1, 2, 7 | 450 - 868 | ~177 | **11.9%** | <img src="https://img.shields.io/badge/-Débuté-ffa500?style=flat-square" alt="Débuté" /> |
-| **Total EBOOT** | **Part 1 à 7** | **0 - 6573** | **~5 928** | **14.3%** | |
+| Fichier | Entrées | Traduites | Progression | Statut |
+|:---|:---:|:---:|:---:|:---:|
+| `Part1` | 1000 | 996 | **99,6 %** | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) |
+| `Part2` | 1000 | 1000 | **100 %** | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| `Part3` | 1000 | 1000 | **100 %** | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| `Part4` | 1000 | 1000 | **100 %** | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| `Part5` | 1000 | 1000 | **100 %** | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| `Part6` | 1000 | 1000 | **100 %** | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| `Part7` | 574 | 574 | **100 %** | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| **Total EBOOT** | **6574** | **6570** | **99,9 %** | |
+
+> Les quatre entrées non traduites de `Part1` (IDs 139 à 142) sont des faux positifs
+> de l'extracteur : des octets binaires qui contenaient par hasard les lettres `NPC`.
+> Elles sont volontairement laissées vides, pour que l'injecteur les ignore.
+
+> [!TIP]
+> Ce tableau se périme vite. Les chiffres à jour sont recalculés depuis `traduction/`
+> par `python docs/assets/generer_progression.py`, et affichés dans le README.
 
 ### Éléments Graphiques
 

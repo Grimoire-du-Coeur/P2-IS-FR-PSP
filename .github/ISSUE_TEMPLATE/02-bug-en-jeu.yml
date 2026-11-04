@@ -1,0 +1,88 @@
+name: "Bug en jeu"
+description: "Crash, blocage, texte illisible, menu vide, sauvegarde cassée."
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Un crash vient presque toujours d'un texte trop long pour son slot binaire,
+        ou d'une balise de contrôle perdue. Le lieu exact du plantage est donc
+        l'information la plus utile.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Que se passe-t-il ?"
+      placeholder: "Le jeu gèle quand je parle au vendeur de Rengedai."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduire
+    attributes:
+      label: "Comment le reproduire"
+      value: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: gravite
+    attributes:
+      label: "Gravité"
+      options:
+        - "Bloquant : impossible d'avancer dans l'histoire"
+        - "Crash ou gel, mais contournable"
+        - "Affichage cassé, le jeu continue"
+        - "Gênant seulement"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: plateforme
+    attributes:
+      label: "Plateforme"
+      options:
+        - "PPSSPP (émulateur)"
+        - "PSP réelle"
+        - "Autre / je ne sais pas"
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: "Version du patch"
+      placeholder: "v0.2.8-bêta"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: textures
+    attributes:
+      label: "Pack de textures HD installé ?"
+      options:
+        - "Oui"
+        - "Non"
+        - "Je ne sais pas"
+    validations:
+      required: true
+
+  - type: textarea
+    id: media
+    attributes:
+      label: "Capture, vidéo ou sauvegarde"
+      description: "Une sauvegarde juste avant le plantage accélère énormément le diagnostic."
+
+  - type: checkboxes
+    id: verifications
+    attributes:
+      label: "Vérifications"
+      options:
+        - label: "Mon ISO est bien la version européenne `ULES01557`."
+          required: true
+        - label: "Je n'ai pas lancé *Install Data* depuis le menu du jeu (cela réinstalle les fichiers anglais)."
+          required: true

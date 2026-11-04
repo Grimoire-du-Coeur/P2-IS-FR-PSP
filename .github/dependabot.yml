@@ -1,0 +1,26 @@
+# Les actions GitHub etaient epinglees a la main et personne ne les suivait.
+# Un rappel mensuel groupe suffit : ce depot n'est pas une application exposee,
+# l'objectif est d'eviter les actions abandonnees, pas de courir apres chaque
+# version mineure.
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    groups:
+      actions:
+        patterns: ["*"]
+    commit-message:
+      prefix: "ci"
+
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    groups:
+      python:
+        patterns: ["*"]
+    commit-message:
+      prefix: "build"
+    open-pull-requests-limit: 3

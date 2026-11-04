@@ -1,0 +1,45 @@
+name: "Outils et dépôt"
+description: "Problème avec p2is, les ateliers labs/, le patcher web, la CI ou la documentation."
+title: "[Outils] "
+labels: ["outils"]
+body:
+  - type: dropdown
+    id: composant
+    attributes:
+      label: "Composant"
+      options:
+        - "p2is (noyau)"
+        - "labs/tool — atelier de traduction"
+        - "labs/image — atelier d'images"
+        - "labs/audio — atelier audio"
+        - "patcher web"
+        - "Intégration continue / tests"
+        - "Documentation"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduire
+    attributes:
+      label: "Commande lancée et sortie obtenue"
+      description: "Collez la commande complète et la trace d'erreur."
+      render: shell
+
+  - type: input
+    id: python
+    attributes:
+      label: "Version de Python"
+      placeholder: "3.12.4"
+
+  - type: input
+    id: os
+    attributes:
+      label: "Système"
+      placeholder: "Windows 11 / Ubuntu 24.04 / macOS 15"

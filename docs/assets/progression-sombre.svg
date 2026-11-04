@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="366"
+     viewBox="0 0 1200 366" role="img"
+     aria-label="Avancement de la traduction : 19768 entrees sur 19772">
+  <title>Avancement de la traduction</title>
+  <defs>
+    <linearGradient id="fond" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0%" stop-color="#140604"/>
+      <stop offset="100%" stop-color="#300b05"/>
+    </linearGradient>
+    <clipPath id="cadre"><rect width="1200" height="366" rx="4"/></clipPath>
+  </defs>
+  <style>
+    .ligne { opacity: 0; animation: monte .6s cubic-bezier(.2,.75,.3,1) forwards; }
+    @keyframes monte { from { opacity: 0; transform: translateY(10px); }
+                        to   { opacity: 1; transform: translateY(0); } }
+    .jauge { transform-origin: 320px center;
+              animation: remplir 5s cubic-bezier(.25,.8,.3,1) infinite; }
+    @keyframes remplir { 0%        { transform: scaleX(0); }
+                          32%, 84%  { transform: scaleX(1); }
+                          100%      { transform: scaleX(0); } }
+    .entete { opacity: 0; animation: monte .7s cubic-bezier(.2,.75,.3,1) .1s forwards; }
+    @media (prefers-reduced-motion: reduce) {
+      .ligne, .jauge, .entete { animation: none; opacity: 1; transform: none; }
+    }
+    .titre { font: 700 26px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+              letter-spacing: 1px; }
+    .chapeau { font: 600 13px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                letter-spacing: 3.6px; }
+    .lib { font: 600 14px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .val { font: 700 13px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .pc  { font: 700 14px 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <g clip-path="url(#cadre)">
+    <rect width="1200" height="366" fill="url(#fond)"/>
+    <g class="entete">
+      <text x="56" y="56" class="chapeau" fill="#bf7a66">AVANCEMENT DE LA TRADUCTION</text>
+      <text x="56" y="98" class="titre" fill="#f7ece4">19 768 / 19 772 entrées &#183; 99,9&#8239;%</text>
+    </g>
+    <g class="ligne" style="animation-delay:0.35s"><text x="56" y="148" class="lib" fill="#e5c9bd">Scripts d'&#233;v&#232;nement  &#183;  399 fichiers</text><rect x="320" y="137" width="620" height="14" rx="2" fill="#f7ece41a"/><rect class="jauge" x="320" y="137" width="620" height="14" rx="2" fill="#e0391a" style="animation-delay:0.47s"/><text x="954" y="148" class="val" fill="#f7ece4">11 466</text><text x="1144" y="148" class="pc" fill="#f7ece4" text-anchor="end">100 %</text></g>
+    <g class="ligne" style="animation-delay:0.45999999999999996s"><text x="56" y="182" class="lib" fill="#e5c9bd">EBOOT &#8212; menus &amp; syst&#232;me  &#183;  7 parties</text><rect x="320" y="171" width="355" height="14" rx="2" fill="#f7ece41a"/><rect class="jauge" x="320" y="171" width="355" height="14" rx="2" fill="#e0391a" style="animation-delay:0.58s"/><text x="689" y="182" class="val" fill="#f7ece4">6 570</text><text x="1144" y="182" class="pc" fill="#f7ece4" text-anchor="end">99,9 %</text></g>
+    <g class="ligne" style="animation-delay:0.57s"><text x="56" y="216" class="lib" fill="#e5c9bd">MMAP &#8212; dialogues de carte  &#183;  6 cartes</text><rect x="320" y="205" width="82" height="14" rx="2" fill="#f7ece41a"/><rect class="jauge" x="320" y="205" width="82" height="14" rx="2" fill="#e0391a" style="animation-delay:0.69s"/><text x="416" y="216" class="val" fill="#f7ece4">1 511</text><text x="1144" y="216" class="pc" fill="#f7ece4" text-anchor="end">100 %</text></g>
+    <g class="ligne" style="animation-delay:0.6799999999999999s"><text x="56" y="250" class="lib" fill="#e5c9bd">TM_EVE &#8212; cin&#233;matiques</text><rect x="320" y="239" width="14" height="14" rx="2" fill="#f7ece41a"/><rect class="jauge" x="320" y="239" width="14" height="14" rx="2" fill="#e0391a" style="animation-delay:0.7999999999999999s"/><text x="348" y="250" class="val" fill="#f7ece4">127</text><text x="1144" y="250" class="pc" fill="#f7ece4" text-anchor="end">100 %</text></g>
+    <g class="ligne" style="animation-delay:0.79s"><text x="56" y="284" class="lib" fill="#e5c9bd">F_BE &#8212; r&#233;pliques de combat</text><rect x="320" y="273" width="14" height="14" rx="2" fill="#f7ece41a"/><rect class="jauge" x="320" y="273" width="14" height="14" rx="2" fill="#e0391a" style="animation-delay:0.91s"/><text x="348" y="284" class="val" fill="#f7ece4">65</text><text x="1144" y="284" class="pc" fill="#f7ece4" text-anchor="end">100 %</text></g>
+    <g class="ligne" style="animation-delay:0.9s"><text x="56" y="318" class="lib" fill="#e5c9bd">CD_SHOP &#8212; boutique de CD</text><rect x="320" y="307" width="14" height="14" rx="2" fill="#f7ece41a"/><rect class="jauge" x="320" y="307" width="14" height="14" rx="2" fill="#e0391a" style="animation-delay:1.02s"/><text x="348" y="318" class="val" fill="#f7ece4">29</text><text x="1144" y="318" class="pc" fill="#f7ece4" text-anchor="end">100 %</text></g>
+    <rect x="1" y="1" width="1198" height="364" rx="4" fill="none"
+          stroke="#f7ece41f" stroke-width="2"/>
+  </g>
+</svg>

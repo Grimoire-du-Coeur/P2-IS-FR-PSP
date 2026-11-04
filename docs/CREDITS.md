@@ -35,7 +35,18 @@ A contribué aux fondations du projet lors de ses premières semaines, notamment
 
 ## Contributeurs Communautaires
 
-Merci à toutes les personnes qui ont contribué à la traduction, à la relecture, aux tests ou à la promotion du projet. Le classement complet des contributeurs est disponible dans l'onglet [Insights → Contributors](https://github.com/chenetulipe/P2-FR-IS-PSP/graphs/contributors) du dépôt GitHub.
+Merci à toutes les personnes qui ont contribué à la traduction, à la relecture, aux tests ou à la promotion du projet. Le classement complet des contributeurs est disponible dans l'onglet [Insights → Contributors](https://github.com/Grimoire-du-Coeur/P2-IS-FR-PSP/graphs/contributors) du dépôt GitHub.
+
+### Statistiques des contributions
+
+<!-- Section regeneree chaque nuit par .github/workflows/update_credits.yml.
+     Ne pas editer a la main : tout ce qui est entre les deux balises est remplace. -->
+
+<!-- STATS_START -->
+
+*Statistiques en attente de la prochaine execution du robot.*
+
+<!-- STATS_END -->
 
 <br/>
 
