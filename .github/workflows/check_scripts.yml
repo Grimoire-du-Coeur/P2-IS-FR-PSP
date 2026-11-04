@@ -40,14 +40,14 @@ jobs:
       # verifications : balises intactes, longueur tenue, verify_json content.
       # En jeu, plusieurs personnages disent la meme phrase.
       #
-      # Le plafond correspond a la dette connue au 04/11/2026 : l'etape ne
+      # Le plafond correspond a la dette connue, F_BE deja resorbe : l'etape ne
       # bloque donc pas l'existant, seulement son aggravation. A baisser au fur
       # et a mesure des corrections, jusqu'a pouvoir le retirer.
       - name: Repliques recopiees d'une entree a l'autre
         if: always()
         run: |
           set +e
-          python -m p2is.outils.doublons_traduction --resume --plafond 437 \
+          python -m p2is.outils.doublons_traduction --resume --plafond 418 \
             | tee doublons.txt
           code=${PIPESTATUS[0]}
           set -e
