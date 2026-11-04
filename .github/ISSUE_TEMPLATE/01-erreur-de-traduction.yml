@@ -1,0 +1,78 @@
+name: "Erreur de traduction"
+description: "Faute, contresens, texte coupé, mauvais nom de personnage ou d'objet."
+title: "[Traduction] "
+labels: ["traduction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de relire le patch. Un repère précis vaut mieux qu'une longue description :
+        avec le texte exact, on retrouve l'entrée en quelques secondes.
+
+        Avant d'ouvrir : vérifiez dans le [Dictionnaire](../blob/main/docs/Dictionnaire.md)
+        que le terme n'est pas un choix d'équipe assumé.
+
+  - type: input
+    id: texte-fr
+    attributes:
+      label: "Texte affiché en jeu"
+      description: "Recopiez la réplique telle qu'elle apparaît, même partiellement."
+      placeholder: "Gamin fainéant"
+    validations:
+      required: true
+
+  - type: input
+    id: attendu
+    attributes:
+      label: "Ce qui devrait être affiché"
+      placeholder: "Glandeur"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: ou
+    attributes:
+      label: "Où ?"
+      options:
+        - "Dialogue (scène, PNJ)"
+        - "Menu / interface (EBOOT)"
+        - "Combat"
+        - "Boutique"
+        - "Objet, arme, armure"
+        - "Persona, démon, compétence"
+        - "Pack de textures HD (image)"
+        - "Je ne sais pas"
+    validations:
+      required: true
+
+  - type: input
+    id: fichier
+    attributes:
+      label: "Fichier concerné, si vous le connaissez"
+      description: "Par exemple `traduction/event_scripts/script_107.json` ou `EBOOT_Part1.json`."
+      placeholder: "traduction/EBOOT_decoupe/EBOOT_Part1.json"
+
+  - type: textarea
+    id: contexte
+    attributes:
+      label: "Contexte et capture"
+      description: "Moment du jeu, personnage qui parle, capture d'écran. Glissez l'image directement ici."
+
+  - type: dropdown
+    id: plateforme
+    attributes:
+      label: "Plateforme"
+      options:
+        - "PPSSPP (émulateur)"
+        - "PSP réelle"
+        - "Autre / je ne sais pas"
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: "Version du patch"
+      placeholder: "v0.2.8-bêta"
+    validations:
+      required: true
