@@ -12,6 +12,12 @@ pose sur des `texte_orig` differents. Les vrais doublons du jeu — une phrase
 anglaise identique reprise dans deux scripts — ne sont pas signales, puisque
 leur original est le meme.
 
+Restait un bruit genant : deux formules de boutique quasi identiques en
+anglais (« looks like you have nothing to sell » et « you don't seem to have
+anything to sell ») partagent legitimement une seule traduction. On compare
+donc les originaux entre eux : au-dela de SEUIL_PROCHE de similarite, le
+groupe est classe comme harmonisation volontaire et non comme defaut.
+
 Usage :
     python -m p2is.outils.doublons_traduction            # tout le depot
     python -m p2is.outils.doublons_traduction F_BE.json  # fichiers choisis
@@ -25,6 +31,7 @@ de surveiller une derive sans bloquer sur l'existant.
 
 from __future__ import annotations
 
+import difflib
 import json
 import re
 import sys
@@ -37,6 +44,10 @@ DOSSIER = RACINE / "traduction"
 # Longueur en dessous de laquelle une coincidence n'a rien de suspect
 # (« Oui. », « Hein? », les libelles de menu courts...).
 LONGUEUR_MINIMALE = 18
+
+# Similarite entre originaux au-dela de laquelle on considere que la meme
+# traduction est un choix, pas une erreur.
+SEUIL_PROCHE = 0.6
 
 _BALISES = re.compile(r"\[[^\]]*\]|<[^>]*>")
 
@@ -73,11 +84,21 @@ def analyser(fichiers: list[Path]) -> list[tuple]:
             relatif = chemin.relative_to(RACINE).as_posix()
             groupes[francais].append((relatif, entree.get("id"), original))
 
-    suspects = []
+    suspects, harmonises = [], []
     for francais, lignes in groupes.items():
-        if len({original for _, _, original in lignes}) > 1:
-            suspects.append((francais, lignes))
-    return sorted(suspects, key=lambda groupe: -len(groupe[1]))
+        originaux = sorted({original for _, _, original in lignes})
+        if len(originaux) < 2:
+            continue
+        proximite = min(
+            difflib.SequenceMatcher(None, originaux[0], autre).ratio()
+            for autre in originaux[1:]
+        )
+        cible = harmonises if proximite >= SEUIL_PROCHE else suspects
+        cible.append((francais, lignes))
+    def par_taille(lot):
+        return sorted(lot, key=lambda groupe: -len(groupe[1]))
+
+    return par_taille(suspects), par_taille(harmonises)
 
 
 def _par_fichier(suspects: list[tuple]) -> dict:
@@ -113,9 +134,12 @@ def main(argv: list[str]) -> int:
         print("Aucun fichier JSON a analyser.", file=sys.stderr)
         return 0
 
-    suspects = analyser(fichiers)
+    suspects, harmonises = analyser(fichiers)
     if not suspects:
         print(f"{len(fichiers)} fichier(s) analyse(s) : aucune replique recopiee.")
+        if harmonises:
+            print(f"({len(harmonises)} groupe(s) a originaux proches, "
+                  f"consideres comme harmonisation volontaire.)")
         return 0
 
     entrees_touchees = sum(len(lignes) for _, lignes in suspects)
@@ -123,6 +147,12 @@ def main(argv: list[str]) -> int:
         f"{len(suspects)} replique(s) francaise(s) posee(s) sur des originaux "
         f"differents, soit {entrees_touchees} entrees."
     )
+    if harmonises:
+        touchees = sum(len(lignes) for _, lignes in harmonises)
+        print(
+            f"{len(harmonises)} autre(s) groupe(s) ({touchees} entrees) ont des "
+            f"originaux tres proches : harmonisation volontaire, non comptee."
+        )
 
     if resume:
         print()
