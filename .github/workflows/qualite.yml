@@ -9,8 +9,9 @@ on:
   push:
     branches: [main]
     paths: ['p2is/**', 'labs/**', 'tests/**', 'pyproject.toml', '.github/workflows/qualite.yml']
+  # Sans filtre de chemin, pour que le controle puisse etre rendu obligatoire :
+  # un check qui ne se declenche jamais bloque la PR indefiniment.
   pull_request:
-    paths: ['p2is/**', 'labs/**', 'tests/**', 'pyproject.toml', '.github/workflows/qualite.yml']
   workflow_dispatch:
 
 jobs:

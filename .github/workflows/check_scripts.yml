@@ -1,9 +1,10 @@
 name: Script Check
 
+# Declenche sur TOUTES les PR, sans filtre de chemin : un controle requis qui
+# ne se declenche pas laisse la PR bloquee pour toujours. Les etapes couteuses
+# restent conditionnees au filtre interne plus bas.
 on:
   pull_request:
-    paths:
-      - 'traduction/**/*.json'
 
 jobs:
   check_scripts:
