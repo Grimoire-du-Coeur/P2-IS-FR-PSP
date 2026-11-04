@@ -47,7 +47,7 @@ jobs:
         if: always()
         run: |
           set +e
-          python -m p2is.outils.doublons_traduction --resume --plafond 373 \
+          python -m p2is.outils.doublons_traduction --resume --plafond 369 \
             | tee doublons.txt
           code=${PIPESTATUS[0]}
           set -e

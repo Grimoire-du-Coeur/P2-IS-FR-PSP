@@ -3637,7 +3637,7 @@
         "data_size": 114,
         "slot_size": 114,
         "texte_orig": "Cure[SP]status[SP]ailments[SP]and[SP]recover[SP]full[SP]HP<FF03>for[SP]all[SP]allies<0004><FF03>",
-        "texte_fr": "Effet[SP]magique[SP]de[SP]soutien<0004><FF03>"
+        "texte_fr": "Soigne les alterations et rend tous<FF03>les PV de l'equipe<0004><FF03>"
     },
     {
         "id": 1455,
@@ -3669,7 +3669,7 @@
         "data_size": 110,
         "slot_size": 110,
         "texte_orig": "Increase[SP]all[SP]allies&[SP]physical[SP]and<FF03>magical[SP]attack[SP]x1<0004>5<0004><FF03>",
-        "texte_fr": "Effet[SP]magique[SP]de[SP]soutien<0004><FF03>"
+        "texte_fr": "Augmente attaque physique et<FF03>magique de l'equipe x1<0004>5<0004><FF03>"
     },
     {
         "id": 1459,
@@ -4157,7 +4157,7 @@
         "data_size": 90,
         "slot_size": 90,
         "texte_orig": "Cure[SP]one[SP]ally&s[SP]sleep[SP]and[SP]illusion[SP]ailments<0004><FF03>",
-        "texte_fr": "Effet[SP]magique[SP]de[SP]soutien<0004><FF03>"
+        "texte_fr": "Soigne sommeil et illusion d'un allie<0004><FF03>"
     },
     {
         "id": 1520,
@@ -4165,7 +4165,7 @@
         "data_size": 72,
         "slot_size": 72,
         "texte_orig": "Cure[SP]one[SP]ally&s[SP]possession[SP]ailment<0004><FF03>",
-        "texte_fr": "Effet[SP]magique[SP]de[SP]soutien<0004><FF03>"
+        "texte_fr": "Soigne la possession d'un allie<0004><FF03>"
     },
     {
         "id": 1521,
@@ -4269,7 +4269,7 @@
         "data_size": 74,
         "slot_size": 74,
         "texte_orig": "Increase[SP]one[SP]ally&s[SP]magical[SP]defense<0004><FF03>",
-        "texte_fr": "Effet[SP]magique[SP]de[SP]soutien<0004><FF03>"
+        "texte_fr": "Hausse la def<0004> magique d'un allie<0004><FF03>"
     },
     {
         "id": 1534,
@@ -4277,7 +4277,7 @@
         "data_size": 72,
         "slot_size": 72,
         "texte_orig": "Increase[SP]one[SP]ally&s[SP]magical[SP]attack<0004><FF03>",
-        "texte_fr": "Effet[SP]magique[SP]de[SP]soutien<0004><FF03>"
+        "texte_fr": "Hausse l'att<0004> magique d'un allie<0004><FF03>"
     },
     {
         "id": 1535,
@@ -4285,7 +4285,7 @@
         "data_size": 76,
         "slot_size": 76,
         "texte_orig": "Increase[SP]one[SP]ally&s[SP]physical[SP]defense<0004><FF03>",
-        "texte_fr": "Effet[SP]magique[SP]de[SP]soutien<0004><FF03>"
+        "texte_fr": "Hausse la def<0004> physique d'un allie<0004><FF03>"
     },
     {
         "id": 1536,
@@ -4293,7 +4293,7 @@
         "data_size": 74,
         "slot_size": 74,
         "texte_orig": "Increase[SP]one[SP]ally&s[SP]physical[SP]attack<0004><FF03>",
-        "texte_fr": "Effet[SP]magique[SP]de[SP]soutien<0004><FF03>"
+        "texte_fr": "Hausse l'att<0004> physique d'un allie<0004><FF03>"
     },
     {
         "id": 1537,
