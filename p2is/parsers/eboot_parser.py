@@ -44,13 +44,16 @@ def encode_char(c):
         '?': 0x0008,
         '!': 0x0009,
         '-': 0x003C,
+        # Codes relevés dans les textes anglais d'origine de l'EBOOT : la police
+        # des menus est décalée (0x28 = guillemet, 0x29 = « ( », 0x2A = « ) »,
+        # 0x3B = « / »). Les anciennes valeurs affichaient « "Nostalgie( ».
         "'": 0x0026,
         '"': 0x0028,
         ':': 0x0006,
         ';': 0x0007,
-        '/': 0x002F,
-        '(': 0x0028,
-        ')': 0x0029,
+        '/': 0x003B,
+        '(': 0x0029,
+        ')': 0x002A,
         '[': 0x005B,
         ']': 0x005D,
     }
@@ -81,6 +84,13 @@ def encode_string(text):
             val = int(token[1:5], 16)
             out_bytes.extend(struct.pack('>H', val))
         else:
+            # La police des menus n'a ni accents ni ligatures : œ ne se décompose
+            # pas (il devenait une espace), on l'écrit « oe ». Guillemets et
+            # apostrophes typographiques -> codes de la police.
+            for a, b in (('œ', 'oe'), ('Œ', 'OE'), ('æ', 'ae'), ('Æ', 'AE'),
+                         ('«', '"'), ('»', '"'), ('“', '"'), ('”', '"'),
+                         ('’', "'"), ('‘', "'"), ('…', '...')):
+                token = token.replace(a, b)
             # Normalize to decompose ligatures and remove accents
             token = ''.join(x for x in unicodedata.normalize('NFKD', token) if unicodedata.category(x) != 'Mn')
             for char in token:
@@ -160,20 +170,77 @@ def extract_eboot(eboot_path, json_path, logger=print):
     
     logger(f"Extraction complete: {len(entries)} strings written to EBOOT_Translation.json")
 
+def encode_brut(text):
+    """Réencode un texte tel que le décodeur l'a lu (caractères 0x20-0x7E tels
+    quels). Sert à vérifier qu'une entrée est bien du texte : si son anglais ne
+    redonne pas les octets d'origine, c'est une table de données, à ne pas écraser."""
+    out = bytearray()
+    for tok in re.split(r'(<[0-9A-Fa-f]{4}>|<S[0-9A-Fa-f]{4}>)', text.replace('[SP]', '　')):
+        if not tok:
+            continue
+        if tok.startswith('<S'):
+            out += struct.pack('>H', int(tok[2:6], 16)); continue
+        if tok.startswith('<'):
+            out += struct.pack('>H', int(tok[1:5], 16)); continue
+        for c in tok:
+            if c == '　':
+                v = 0x8140
+            elif 'A' <= c <= 'Z':
+                v = 0x00E0 + ord(c) - 0x41
+            elif 'a' <= c <= 'z':
+                v = 0x0101 + ord(c) - 0x61
+            elif c.isdigit():
+                v = 0x00CF + int(c)
+            elif 0x20 <= ord(c) <= 0x7E:
+                v = ord(c)
+            else:
+                try:
+                    v = struct.unpack('>H', c.encode('shift-jis'))[0]
+                except Exception:
+                    return None
+            out += struct.pack('>H', v)
+    return bytes(out)
+
+
+def _sans_balises(t):
+    return re.sub(r'<[^>]+>', '', t.replace('[SP]', ' ')).strip()
+
+
+def raison_de_ne_pas_injecter(entry, data):
+    """None si la traduction peut être écrite, sinon la raison de garder l'original."""
+    fr = entry.get("texte_fr") or ""
+    en = entry.get("texte_orig") or ""
+    if not fr:
+        return "vide"
+    if fr.replace(' ', '[SP]') == en or fr == en:
+        return "identique a l'anglais"
+    brut = encode_brut(en)
+    if brut is None or bytes(data[entry["offset"]:entry["offset"] + len(brut)]) != brut:
+        return "pas du texte (donnees)"
+    f, e = _sans_balises(fr), _sans_balises(en)
+    if f and len(f) < 0.6 * len(e) and e.endswith(f) and ' ' not in f.strip():
+        return "fragment de l'anglais (traduction tronquee)"
+    return None
+
+
 def inject_eboot(eboot_path, json_path, out_path, logger=print):
     logger(f"Injecting translations from {json_path} into {eboot_path}...")
     with open(eboot_path, 'rb') as f:
         data = bytearray(f.read())
-        
+
     with open(json_path, 'r', encoding='utf-8') as f:
         entries = json.load(f)
-        
+
     injected_count = 0
-    
+    gardees = {}
+
     for entry in entries:
-        if not entry.get("texte_fr"):
+        raison = raison_de_ne_pas_injecter(entry, data)
+        if raison:
+            if raison != "vide":
+                gardees[raison] = gardees.get(raison, 0) + 1
             continue
-            
+
         offset = entry["offset"]
         orig_len = entry["slot_size"]
         trans_text = entry["texte_fr"].replace('[SP]', '\u3000')
@@ -204,4 +271,6 @@ def inject_eboot(eboot_path, json_path, out_path, logger=print):
     with open(out_path, 'wb') as f:
         f.write(data)
         
+    for raison, n in sorted(gardees.items()):
+        logger(f"Original kept ({raison}): {n}")
     logger(f"Injection complete: {injected_count} strings translated. Saved to EBOOT_MODIFIED.BIN")

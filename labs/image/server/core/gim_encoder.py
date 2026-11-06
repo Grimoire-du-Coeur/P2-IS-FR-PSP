@@ -65,34 +65,75 @@ def _encode_16bpp(pixels_rgba, w: int, h: int, order: int, fmt: int) -> bytes:
     return bytes(linear)
 
 
-from .image_format import read_palette
+from .image_format import read_palette, unswizzle_psp
 
-def custom_rgba_quantize(img_rgba, original_gim, pal, max_colors):
+
+def _premul(c):
+    """Couleur pondérée par son alpha : deux pixels transparents se valent,
+    quelle que soit la couleur « cachée » que l'éditeur d'image leur a laissée."""
+    a = c[3]
+    return (c[0] * a / 255, c[1] * a / 255, c[2] * a / 255, a)
+
+
+def read_indices(original_gim, img_info):
+    """Indices de palette (linéaires, un par pixel) de l'image GIM d'origine."""
+    w, h, fmt = img_info['w'], img_info['h'], img_info['fmt']
+    bpp = 4 if fmt == 0x04 else 8
+    row_bytes = (w * bpp + 7) // 8
+    off = img_info['pix_abs']
+    if img_info['order'] == 1:
+        pitch = (row_bytes + 15) & ~15
+        raw = original_gim[off:off + pitch * ((h + 7) & ~7)]
+        linear = unswizzle_psp(raw, w, h, bpp)
+        stride = row_bytes
+    else:
+        stride = (row_bytes + 15) & ~15
+        linear = original_gim[off:off + stride * h]
+    out = []
+    for r in range(h):
+        row = linear[r * stride:r * stride + row_bytes]
+        if bpp == 8:
+            out.extend(row[:w])
+        else:
+            for c in range(w):
+                b = row[c // 2]
+                out.append(b & 0x0F if c % 2 == 0 else b >> 4)
+    return out
+
+
+def custom_rgba_quantize(img_rgba, original_gim, pal, max_colors, orig_indices=None):
     """
-    Quantifies an RGBA image to a palette using 4D Euclidean distance (R, G, B, A),
-    preventing transparency loss for palettes that rely on the alpha channel.
+    Ramène une image RGBA sur la palette d'origine du GIM.
+
+    La distance est calculée sur les couleurs pondérées par l'alpha. Sans ça, un
+    pixel transparent exporté en (255,255,255,0) tombait sur une entrée de palette
+    à alpha 17 plutôt que sur l'entrée transparente : tout le fond de l'image
+    devenait un voile visible en jeu, et l'image se compressait mal.
+
+    En cas d'égalité, on garde l'indice qu'avait le pixel dans l'original
+    (orig_indices) : les zones inchangées restent identiques octet pour octet.
     """
     orig_pal_rgba = read_palette(original_gim, pal)
     if len(orig_pal_rgba) > max_colors:
         orig_pal_rgba = orig_pal_rgba[:max_colors]
-        
+    pal_pm = [_premul(c) for c in orig_pal_rgba]
+
     px_rgba = list(img_rgba.getdata())
     px_indexed = []
-    color_cache = {}
-    
-    for p in px_rgba:
-        if len(p) == 3: p = (p[0], p[1], p[2], 255)
-        if p not in color_cache:
-            best_idx = 0
-            best_dist = float('inf')
-            for i, c in enumerate(orig_pal_rgba):
-                dist = (p[0]-c[0])**2 + (p[1]-c[1])**2 + (p[2]-c[2])**2 + (p[3]-c[3])**2
-                if dist < best_dist:
-                    best_dist = dist
-                    best_idx = i
-            color_cache[p] = best_idx
-        px_indexed.append(color_cache[p])
-        
+    cache = {}
+
+    for n, p in enumerate(px_rgba):
+        if len(p) == 3:
+            p = (p[0], p[1], p[2], 255)
+        if p not in cache:
+            q = _premul(p)
+            dists = [sum((q[k] - c[k]) ** 2 for k in range(4)) for c in pal_pm]
+            best = min(dists)
+            cache[p] = (best, [i for i, d in enumerate(dists) if d - best < 1e-6])
+        _, ties = cache[p]
+        prev = orig_indices[n] if orig_indices is not None and n < len(orig_indices) else None
+        px_indexed.append(prev if prev in ties else ties[0])
+
     return px_indexed
 
 def encode_png_to_gim_in_place(png_path: str, original_gim: bytes) -> bytes:
@@ -154,7 +195,7 @@ def encode_png_to_gim_in_place(png_path: str, original_gim: bytes) -> bytes:
 
         # Build original palette from GIM and remap pixels to it using custom 4D distance
         if pal:
-            px = custom_rgba_quantize(img_rgba, original_gim, pal, 16)
+            px = custom_rgba_quantize(img_rgba, original_gim, pal, 16, read_indices(original_gim, img_info))
         else:
             img_p = img_rgba.quantize(colors=16)
             px = list(img_p.getdata())
@@ -188,7 +229,7 @@ def encode_png_to_gim_in_place(png_path: str, original_gim: bytes) -> bytes:
 
         # Build original palette from GIM and remap pixels to it using custom 4D distance
         if pal:
-            px = custom_rgba_quantize(img_rgba, original_gim, pal, 256)
+            px = custom_rgba_quantize(img_rgba, original_gim, pal, 256, read_indices(original_gim, img_info))
         else:
             img_p = img_rgba.quantize(colors=256)
             px = list(img_p.getdata())

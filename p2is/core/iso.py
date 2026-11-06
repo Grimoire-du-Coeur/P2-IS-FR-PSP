@@ -608,13 +608,18 @@ def _find_bnp_offsets_in_cpk(
                 rp = row.get("RowOffset")
                 if file_off is None or file_size is None or ext_size is None:
                     continue
-                abs_iso_off = cpk_offset_in_iso + 0x3800 + file_off
+                # FileOffset est relatif au début de la TOC (TocOffset = 0x800),
+                # pas au ContentOffset (0x3800) : avec 0x3800, F_BE, TM_EVE,
+                # CD_SHOP et les MMAP étaient écrits 12 Ko trop loin.
+                base = int(toc_off)
+                abs_iso_off = cpk_offset_in_iso + base + file_off
                 result[fname] = {
-                    "offset_in_cpk": 0x3800 + file_off,
+                    "offset_in_cpk": base + file_off,
                     "offset_in_iso": abs_iso_off,
                     "size": ext_size,
                     "stored_size": file_size,
                     "toc_row_iso_off": cpk_offset_in_iso + int(toc_off) + rp,
+                    "toc_offset": base,
                 }
         return result
     except Exception:
@@ -927,7 +932,7 @@ def rebuild_iso(
                             f.write(b"\x00" * padding)
 
                         iso_off = f.tell()  # NOUVEL OFFSET DE FIN
-                        new_file_off = iso_off - (cpk_off_in_iso + 0x3800)
+                        new_file_off = iso_off - (cpk_off_in_iso + meta.get("toc_offset", 0x800))
 
                         # Met a jour FileOffset dans la TOC (U32 a toc_row_off + 16 ! PAS U64 a +12 !)
                         toc_row_off = meta.get("toc_row_iso_off")
