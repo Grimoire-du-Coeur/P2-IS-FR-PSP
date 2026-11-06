@@ -72,7 +72,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "That[SP]guy's[SP]nuts,[SP]isn't[SP]he?[SP]I[SP]don't[SP]know[SP]if[SP]it's\nbecause[SP]of[SP]this[SP]Oracle[SP]or[SP]whatever,[SP]but[SP]starting\nfires[SP]based[SP]on[SP]some[SP]prophecy[SP]is[SP]total[SP]BS.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Ce mec est fou, hein? Je sais pas si c'est à\ncause de l'Oracle ou quoi, mais devenir\npyromane pour une prophétie c'est\nvraimenttrès con."
+    "texte_fr": "Ce mec est fou, hein? Je sais pas si c'est à\ncause de l'Oracle ou quoi, mais devenir\npyromane pour une prophétie c'est vraimenttrès\ncon."
   },
   {
     "id": 5,
@@ -312,7 +312,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Yeah...[1205][000F][SP]I[SP]know[SP]it's[SP]not[SP]their[SP]fault,[SP]but[SP]it\nstill[SP]hurts[SP]to[SP]see[SP]them[SP]like[SP]this.",
     "nom_fr": "Ginko",
-    "texte_fr": "Oui, je sais qu'ils sont pas fautifs,\n[1205][000F]mais ça fait mal de les voir comme ça."
+    "texte_fr": "Oui, je sais qu'ils sont pas fautifs,\n[1205][000F] mais ça fait mal de les voir comme ça."
   },
   {
     "id": 21,
@@ -327,7 +327,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Oh,[SP]shit![SP][1113]![SP]That[SP]guy[SP]turned[SP]into\na[SP]shadowman...!",
     "nom_fr": "Ginko",
-    "texte_fr": "Oh merde! [1113]! Ce mec est devenu une ombre...!"
+    "texte_fr": "Oh merde! [1113]! Ce mec\nest devenu une ombre...!"
   },
   {
     "id": 22,
@@ -507,7 +507,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Can[SP]you[SP]deny[SP]Ms.[SP]Ideal's[SP]line[SP]of[SP]thought?[1205][000F]\nAfter[SP]all,[SP]you're[SP]switching[SP]out[SP]dreams[SP]and\nreality[SP]for[SP]your[SP]own[SP]convenience...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nEveryone[SP]says[SP]they[SP]want[SP]peace,[SP]but[SP]maybe[SP]deep\ndown,[SP]they[SP]want[SP]to[SP]tear[SP]it[SP]all[SP]down[SP]and[SP]start\nover[SP]from[SP]the[SP]rubble.",
     "nom_fr": "Maya",
-    "texte_fr": "Réfuter la logique de Mme Idéal ?[1205][000F]\nOn troque rêves et réalité selon\nson bon plaisir...[E1][E2][E3][E4][NULL][NULL]\"Maya\nChacun veut la paix, mais au fond,\non rêve peut-être de tout raser pour\nrepartir de zéro."
+    "texte_fr": "Réfuter la logique de Mme Idéal ?[1205][000F]\nOn troque rêves et réalité selon\nson bon plaisir...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nChacun veut la paix, mais au fond,\non rêve peut-être de tout raser pour\nrepartir de zéro."
   },
   {
     "id": 34,
@@ -522,7 +522,7 @@
     "nom_orig": "Maya",
     "texte_orig": "The[SP]reason[SP]the[SP]Last[SP]Battalion[SP]caught[SP]on[SP]so[SP]fast\nmight[SP]be[SP]because[SP]man[SP]secretly[SP]wishes[SP]this[SP]world\nto[SP]be[SP]destroyed...[1205][000F][SP]Is[SP]the[SP]same[SP]true[SP]of[SP]us?",
     "nom_fr": "Maya",
-    "texte_fr": "Si le Bataillon s'est montré si vite, c'est\npeut-être qu'au fond les humains souhaitent\nla fin du monde...[1205][000F] En est-il de même\npournous?"
+    "texte_fr": "Si le Bataillon s'est montré si vite, c'est\npeut-être qu'au fond les humains souhaitent la\nfin du monde...[1205][000F] En est-il de même pournous?"
   },
   {
     "id": 35,
@@ -672,7 +672,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]know[SP]that[SP]book[SP]is[SP]the[SP]cause[SP]of[SP]all[SP]this...[1205][000F]\nBut[SP]frankly,[SP]it's[SP]the[SP]people[SP]of[SP]Sumaru[SP]who[SP]are\nto[SP]blame.[1205][000F][SP]I[SP]don't[SP]know[SP]how[SP]to[SP]feel[SP]about[SP]that.",
     "nom_fr": "Yukino",
-    "texte_fr": "Je sais que ce livre est la cause de tout\n[1205][000F]ça... Mais honnêtement c'est les habitants\nqu'il faut blâmer. Je sais pas trop quoi\nenpenser."
+    "texte_fr": "Je sais que ce livre est la cause de tout [1205][000F]\nça... Mais honnêtement c'est les habitants\nqu'il faut blâmer. Je sais pas trop quoi\nenpenser."
   },
   {
     "id": 45,
@@ -730,7 +730,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Siffleur",
-    "texte_fr": "Qu'est-ce que t'as pour moi ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Qu'est-ce que t'as pour moi ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires",
     "question_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -906,7 +906,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "It's[SP]dangerous[SP]out[SP]there.[1205][000F][SP]Make[SP]sure[SP]you[SP]get\nyourself[SP]some[SP]armor.",
     "nom_fr": "Siffleur",
-    "texte_fr": "C'est dangereux là-dehors. [1205][000F]Sois\nsûr d'avoir un peu d'armure."
+    "texte_fr": "C'est dangereux là-dehors. [1205][000F] Sois\nsûr d'avoir un peu d'armure."
   },
   {
     "id": 58,
@@ -1011,7 +1011,7 @@
     "nom_orig": "Young[SP]man",
     "texte_orig": "I[SP]never[SP]had[SP]a[SP]girlfriend.[SP]I[SP]assumed[SP]it[SP]was\nbecause[SP]my[SP]legs[SP]were[SP]so[SP]short.[1205][000F][SP]That's[SP]why[SP]I\nhad[SP]them[SP]lengthened...",
     "nom_fr": "Jeune homme",
-    "texte_fr": "Jamais eu de copine, je pensais que\nla cause était mes jambes courtes.\n[1205][000F]Donc je les ai faites allonger..."
+    "texte_fr": "Jamais eu de copine, je pensais que\nla cause était mes jambes courtes.\n[1205][000F] Donc je les ai faites allonger..."
   },
   {
     "id": 65,
@@ -1131,7 +1131,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Uuunghhh..[SP]Aaaaagh...[1205][000A][SP]Uaaagh...[E1][E2]\n[E3][E4][NULL][NULL]\"Weird[SP]woman\nHahahah...[SP]I've[SP]been[SP]mocked[SP]all[SP]my[SP]life[SP]for\nbeing[SP]butch,[SP]but[SP]that[SP]ends[SP]today![SP]I've[SP]finally\nbecome[SP]a[SP]man!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Ggggn... Aaagh...[1205][000A] Uaagh...[E1][E2][E3][E4][NULL][NULL]\"Femme bizarre\nHaha... On m'a rabaissé toute ma vie\ncar j'étais virile, mais c'est fini !\nJe suis enfin un homme !"
+    "texte_fr": "Ggggn... Aaagh...[1205][000A] Uaagh...[E1][E2]\n[E3][E4][NULL][NULL]\"Femme bizarre\nHaha... On m'a rabaissé toute ma vie\ncar j'étais virile, mais c'est fini !\nJe suis enfin un homme !"
   },
   {
     "id": 73,
@@ -1176,7 +1176,7 @@
     "nom_orig": "Weird[SP]woman",
     "texte_orig": "Like[SP]this[SP]guy[SP]a[SP]moment[SP]ago.[SP]He[SP]didn't[SP]believe\nI[SP]was[SP]a[SP]man,[SP]so[SP]I[SP]showed[SP]him[SP]the[SP]goods![SP]Bastard\nran[SP]off[SP]screaming[SP]to[SP]the[SP]detective[SP]agency.",
     "nom_fr": "Pas une femme",
-    "texte_fr": "Genre ce mec avant. Il croyait pas que\nj'étais un gars, donc je lui ai montré! Ce\ncon a hurlé et fui vers l'agence de\ndétective."
+    "texte_fr": "Genre ce mec avant. Il croyait pas que j'étais\nun gars, donc je lui ai montré! Ce con a hurlé\net fui vers l'agence de détective."
   },
   {
     "id": 76,
@@ -1326,7 +1326,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "The[SP]Masked[SP]Circle[SP]will[SP]grant[SP]my[SP]ideals[SP]again!\nEvery[SP]foolish[SP]human[SP]across[SP]the[SP]globe[SP]will[SP]burn,\nleaving[SP]only[SP]we[SP]whose[SP]dreams[SP]are[SP]fulfilled!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Le Cercle Masqué accomplira mon idéal!\nChaque humain idiot sur le globe brûlera,\nnous épargnant nous dont les rêves ont été\nexaucés!"
+    "texte_fr": "Le Cercle Masqué accomplira mon idéal! Chaque\nhumain idiot sur le globe brûlera, nous\népargnant nous dont les rêves ont été exaucés!"
   },
   {
     "id": 86,
@@ -1356,7 +1356,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "I[SP]heard[SP]a[SP]rumor[SP]that[SP]both[SP]we[SP]and[SP]the[SP]Last\nBattalion[SP]are[SP]after[SP]Xibalba.[SP]But[SP]what's[SP]it\nmean?[1205][000F][SP]I[SP]didn't[SP]know[SP]about[SP]this[SP]Xibalba[SP]thing.",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "La rumeur dit que nous et le Bataillon\nnous cherchons Xibalba. Mais ça veut dire\n[1205][000F]quoi? Je savais rien de ce Xibalba moi."
+    "texte_fr": "La rumeur dit que nous et le Bataillon\nnous cherchons Xibalba. Mais ça veut dire\n[1205][000F] quoi? Je savais rien de ce Xibalba moi."
   },
   {
     "id": 88,
@@ -1371,7 +1371,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Joker[SP]ordered[SP]us[SP]to[SP]protect[SP]the[SP]people[SP]of[SP]the\ncity.[SP]Fine[SP]with[SP]me![SP]A[SP]man's[SP]place[SP]is[SP]on[SP]the\nbattlefield![SP]I'll[SP]show[SP]them[SP]how[SP]fierce[SP]we[SP]are!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Joker nous a ordonné de protéger les\nhabitants. Ça me va! Un homme doit se\nbattre! On va leur montrer comme on est\nféroces!"
+    "texte_fr": "Joker nous a ordonné de protéger les\nhabitants. Ça me va! Un homme doit se battre!\nOn va leur montrer comme on est féroces!"
   },
   {
     "id": 89,
@@ -1444,7 +1444,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Siffleur",
-    "texte_fr": "Qu'est-ce que t'as pour moi ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Qu'est-ce que t'as pour moi ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires",
     "question_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",

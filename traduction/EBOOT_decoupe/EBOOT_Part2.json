@@ -1565,7 +1565,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Stun[SP]Bite",
-        "texte_fr": "Bite"
+        "texte_fr": "Croc[SP]choc"
     },
     {
         "id": 1196,
@@ -1573,7 +1573,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Venom[SP]Bite",
-        "texte_fr": "Bite"
+        "texte_fr": "Croc[SP]venin"
     },
     {
         "id": 1197,
@@ -1581,7 +1581,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Feral[SP]Bite",
-        "texte_fr": "Bite"
+        "texte_fr": "Feral[SP]Bite"
     },
     {
         "id": 1198,
@@ -1613,7 +1613,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Pressure[SP]Needle",
-        "texte_fr": "Needle"
+        "texte_fr": "Aiguille[SP]press."
     },
     {
         "id": 1202,
@@ -1621,7 +1621,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Dream[SP]Needle",
-        "texte_fr": "Needle"
+        "texte_fr": "Dream[SP]Needle"
     },
     {
         "id": 1203,
@@ -1629,7 +1629,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Venom[SP]Needle",
-        "texte_fr": "Needle"
+        "texte_fr": "Venom[SP]Needle"
     },
     {
         "id": 1204,
@@ -1637,7 +1637,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Needle[SP]Rush",
-        "texte_fr": "Rush"
+        "texte_fr": "Needle[SP]Rush"
     },
     {
         "id": 1205,
@@ -1645,7 +1645,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Spinning[SP]Shot",
-        "texte_fr": "Shot"
+        "texte_fr": "Tir[SP]rotatif"
     },
     {
         "id": 1206,
@@ -1653,7 +1653,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Sonic[SP]Bullet",
-        "texte_fr": "Bullet"
+        "texte_fr": "Sonic[SP]Bullet"
     },
     {
         "id": 1207,
@@ -1661,7 +1661,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Pressure[SP]Point",
-        "texte_fr": "Point"
+        "texte_fr": "Point[SP]vital"
     },
     {
         "id": 1208,
@@ -1669,7 +1669,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Gigantic[SP]Fist",
-        "texte_fr": "Fist"
+        "texte_fr": "Poing[SP]geant"
     },
     {
         "id": 1209,
@@ -1677,7 +1677,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Sonic[SP]Punch",
-        "texte_fr": "Punch"
+        "texte_fr": "Sonic[SP]Punch"
     },
     {
         "id": 1210,
@@ -1693,7 +1693,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Myriad[SP]Arrows",
-        "texte_fr": "Arrows"
+        "texte_fr": "Mille[SP]fleches"
     },
     {
         "id": 1212,
@@ -1725,7 +1725,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Triple[SP]Down",
-        "texte_fr": "Down"
+        "texte_fr": "Triple[SP]Down"
     },
     {
         "id": 1216,
@@ -1741,7 +1741,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Power[SP]Slash",
-        "texte_fr": "Slash"
+        "texte_fr": "Power[SP]Slash"
     },
     {
         "id": 1218,
@@ -1749,7 +1749,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Double[SP]Pierce",
-        "texte_fr": "Pierce"
+        "texte_fr": "Double[SP]perce"
     },
     {
         "id": 1219,
@@ -1765,7 +1765,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Heat[SP]Wave",
-        "texte_fr": "Wave"
+        "texte_fr": "Heat[SP]Wave"
     },
     {
         "id": 1221,
@@ -1773,7 +1773,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Twin[SP]Slash",
-        "texte_fr": "Slash"
+        "texte_fr": "Twin[SP]Slash"
     },
     {
         "id": 1222,
@@ -1781,7 +1781,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Thunderous[SP]Fury",
-        "texte_fr": "Fury"
+        "texte_fr": "Furie[SP]foudre"
     },
     {
         "id": 1223,
@@ -1789,7 +1789,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Windy[SP]Fury",
-        "texte_fr": "Fury"
+        "texte_fr": "Furie[SP]vent"
     },
     {
         "id": 1224,
@@ -1797,7 +1797,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Icy[SP]Fury",
-        "texte_fr": "Fury"
+        "texte_fr": "Icy[SP]Fury"
     },
     {
         "id": 1225,
@@ -1805,7 +1805,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Fiery[SP]Fury",
-        "texte_fr": "Fury"
+        "texte_fr": "Furie[SP]feu"
     },
     {
         "id": 1226,
@@ -1813,7 +1813,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Blade[SP]of[SP]Fury",
-        "texte_fr": "Fury"
+        "texte_fr": "Lame[SP]furie"
     },
     {
         "id": 1227,
@@ -1821,7 +1821,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Earth[SP]Slice",
-        "texte_fr": "Slice"
+        "texte_fr": "Coupe[SP]terre"
     },
     {
         "id": 1228,
@@ -1829,7 +1829,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Wind[SP]Slash",
-        "texte_fr": "Slash"
+        "texte_fr": "Coupe[SP]vent"
     },
     {
         "id": 1229,
@@ -1845,7 +1845,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Flame[SP]Cut",
-        "texte_fr": "Cut"
+        "texte_fr": "Coupe[SP]feu"
     },
     {
         "id": 1231,
@@ -1853,7 +1853,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Straight[SP]Slash",
-        "texte_fr": "Slash"
+        "texte_fr": "Taille[SP]droite"
     },
     {
         "id": 1232,
@@ -1885,7 +1885,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Holy[SP]Grail",
-        "texte_fr": "Grail"
+        "texte_fr": "Holy[SP]Grail"
     },
     {
         "id": 1236,
@@ -1893,7 +1893,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Holy[SP]Ark",
-        "texte_fr": "Ark"
+        "texte_fr": "Arche"
     },
     {
         "id": 1237,
@@ -1917,7 +1917,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Bloody[SP]Divorce",
-        "texte_fr": "Divorce"
+        "texte_fr": "Divorce[SP]sang"
     },
     {
         "id": 1240,
@@ -1957,7 +1957,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Faerie[SP]Wind",
-        "texte_fr": "Wind"
+        "texte_fr": "Vent[SP]fee"
     },
     {
         "id": 1245,
@@ -1997,7 +1997,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Dark[SP]Mamagna",
-        "texte_fr": "Mamagna"
+        "texte_fr": "Dark[SP]Mamagna"
     },
     {
         "id": 1250,
@@ -2069,7 +2069,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Healing[SP]Melody",
-        "texte_fr": "Melody"
+        "texte_fr": "Air[SP]soignant"
     },
     {
         "id": 1259,
@@ -2085,7 +2085,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Brave[SP]Dance",
-        "texte_fr": "Dance"
+        "texte_fr": "Danse[SP]brave"
     },
     {
         "id": 1261,
@@ -2101,7 +2101,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Summon[SP]Spirits",
-        "texte_fr": "Spirits"
+        "texte_fr": "Appel[SP]esprits"
     },
     {
         "id": 1263,
@@ -2109,7 +2109,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Mirage[SP]Breath",
-        "texte_fr": "Breath"
+        "texte_fr": "Mirage[SP]Breath"
     },
     {
         "id": 1264,
@@ -2117,7 +2117,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Poison[SP]Breath",
-        "texte_fr": "Breath"
+        "texte_fr": "Poison[SP]Breath"
     },
     {
         "id": 1265,
@@ -2133,7 +2133,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Fire[SP]Breath",
-        "texte_fr": "Breath"
+        "texte_fr": "Souffle[SP]feu"
     },
     {
         "id": 1267,
@@ -2141,7 +2141,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Demonic[SP]Breath",
-        "texte_fr": "Breath"
+        "texte_fr": "Souffle[SP]demon"
     },
     {
         "id": 1268,
@@ -2149,7 +2149,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Terror[SP]Fortune",
-        "texte_fr": "Fortune"
+        "texte_fr": "Sort[SP]terreur"
     },
     {
         "id": 1269,
@@ -2157,7 +2157,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Eclipse[SP]Mirror",
-        "texte_fr": "Mirror"
+        "texte_fr": "Miroir[SP]eclipse"
     },
     {
         "id": 1270,
@@ -2181,7 +2181,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Dust[SP]Cloud",
-        "texte_fr": "Cloud"
+        "texte_fr": "Dust[SP]Cloud"
     },
     {
         "id": 1273,
@@ -2189,7 +2189,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Feral[SP]Step",
-        "texte_fr": "Step"
+        "texte_fr": "Feral[SP]Step"
     },
     {
         "id": 1274,
@@ -2197,7 +2197,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "War[SP]Cry",
-        "texte_fr": "Cry"
+        "texte_fr": "War[SP]Cry"
     },
     {
         "id": 1275,
@@ -2213,7 +2213,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Magic[SP]Seal",
-        "texte_fr": "Seal"
+        "texte_fr": "Magic[SP]Seal"
     },
     {
         "id": 1277,
@@ -2221,7 +2221,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Glamorous[SP]Dance",
-        "texte_fr": "Dance"
+        "texte_fr": "Danse[SP]glamour"
     },
     {
         "id": 1278,
@@ -2229,7 +2229,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Heavenly[SP]Dance",
-        "texte_fr": "Dance"
+        "texte_fr": "Danse[SP]celeste"
     },
     {
         "id": 1279,
@@ -2237,7 +2237,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Blow[SP]a[SP]Kiss",
-        "texte_fr": "Kiss"
+        "texte_fr": "Envoi[SP]bisou"
     },
     {
         "id": 1280,
@@ -2245,7 +2245,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Marvelous[SP]Dance",
-        "texte_fr": "Dance"
+        "texte_fr": "Danse[SP]sublime"
     },
     {
         "id": 1281,
@@ -2253,7 +2253,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Confusing[SP]Dance",
-        "texte_fr": "Dance"
+        "texte_fr": "Danse[SP]confuse"
     },
     {
         "id": 1282,
@@ -2261,7 +2261,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Hypnotic[SP]Waves",
-        "texte_fr": "Waves"
+        "texte_fr": "Ondes[SP]hypno"
     },
     {
         "id": 1283,
@@ -2269,7 +2269,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Sleeping[SP]Spell",
-        "texte_fr": "Spell"
+        "texte_fr": "Sort[SP]sommeil"
     },
     {
         "id": 1284,
@@ -2277,7 +2277,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Poison[SP]Gas",
-        "texte_fr": "Gas"
+        "texte_fr": "Poison[SP]Gas"
     },
     {
         "id": 1285,
@@ -2285,7 +2285,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Omega[SP]Cluster",
-        "texte_fr": "Cluster"
+        "texte_fr": "Omega[SP]Cluster"
     },
     {
         "id": 1286,
@@ -2293,7 +2293,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Dark[SP]Verdict",
-        "texte_fr": "Verdict"
+        "texte_fr": "Verdict[SP]noir"
     },
     {
         "id": 1287,
@@ -2301,7 +2301,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Cursed[SP]Name",
-        "texte_fr": "Name"
+        "texte_fr": "Nom[SP]maudit"
     },
     {
         "id": 1288,
@@ -2309,7 +2309,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Medusa&s[SP]Eye",
-        "texte_fr": "Eye"
+        "texte_fr": "Oeil[SP]Meduse"
     },
     {
         "id": 1289,
@@ -2317,7 +2317,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Stagnant[SP]Air",
-        "texte_fr": "Air"
+        "texte_fr": "Air[SP]vicie"
     },
     {
         "id": 1290,
@@ -2333,7 +2333,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Alpha[SP]Blaster",
-        "texte_fr": "Blaster"
+        "texte_fr": "Alpha[SP]Blaster"
     },
     {
         "id": 1292,
@@ -2373,7 +2373,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Nova[SP]Kaiser",
-        "texte_fr": "Kaiser"
+        "texte_fr": "Nova[SP]Kaiser"
     },
     {
         "id": 1297,
@@ -2389,7 +2389,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Asteroid[SP]Bomb",
-        "texte_fr": "Bomb"
+        "texte_fr": "Asteroid[SP]Bomb"
     },
     {
         "id": 1299,
@@ -2397,7 +2397,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Thunder[SP]Baptism",
-        "texte_fr": "Baptism"
+        "texte_fr": "Bapteme[SP]foudre"
     },
     {
         "id": 1300,
@@ -2405,7 +2405,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Crescent[SP]Mirror",
-        "texte_fr": "Mirror"
+        "texte_fr": "Miroir[SP]lunaire"
     },
     {
         "id": 1301,
@@ -2413,7 +2413,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Diamond[SP]Dust",
-        "texte_fr": "Dust"
+        "texte_fr": "Diamond[SP]Dust"
     },
     {
         "id": 1302,
@@ -2421,7 +2421,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Nuclear[SP]Missile",
-        "texte_fr": "Missile"
+        "texte_fr": "Missile[SP]nucl."
     },
     {
         "id": 1303,
@@ -2429,7 +2429,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Foamy[SP]Lover",
-        "texte_fr": "Lover"
+        "texte_fr": "Amant[SP]ecume"
     },
     {
         "id": 1304,
@@ -2437,7 +2437,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Earth&s[SP]Anger",
-        "texte_fr": "Anger"
+        "texte_fr": "Colere[SP]Terre"
     },
     {
         "id": 1305,
@@ -2453,7 +2453,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Cross[SP]Fortune",
-        "texte_fr": "Fortune"
+        "texte_fr": "Croix[SP]destin"
     },
     {
         "id": 1307,
@@ -2469,7 +2469,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Killer[SP]Wind",
-        "texte_fr": "Wind"
+        "texte_fr": "Vent[SP]tueur"
     },
     {
         "id": 1309,
@@ -2485,7 +2485,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Fear[SP]Torrent",
-        "texte_fr": "Torrent"
+        "texte_fr": "Torrent[SP]peur"
     },
     {
         "id": 1311,
@@ -2501,7 +2501,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Thunder[SP]Inferno",
-        "texte_fr": "Inferno"
+        "texte_fr": "Enfer[SP]foudre"
     },
     {
         "id": 1313,
@@ -2749,7 +2749,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Marin[SP]Karin",
-        "texte_fr": "Karin"
+        "texte_fr": "Marin[SP]Karin"
     },
     {
         "id": 1344,
@@ -3181,7 +3181,7 @@
         "data_size": 52,
         "slot_size": 52,
         "texte_orig": "Absorb[SP]HP[SP]from[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Absorb[SP]HP[SP]from[SP]one[SP]enemy<0004><FF03>"
     },
     {
         "id": 1398,
@@ -3189,7 +3189,7 @@
         "data_size": 88,
         "slot_size": 88,
         "texte_orig": "Sacrifice[SP]self[SP]to[SP]instantly[SP]kill<FF03>one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Sacrifice[SP]self[SP]to[SP]instantly[SP]kill<FF03>one[SP]enemy<0004><FF03>"
     },
     {
         "id": 1399,
@@ -3197,7 +3197,7 @@
         "data_size": 110,
         "slot_size": 110,
         "texte_orig": "Enter[SP]an[SP]enemy&s[SP]body[SP]to[SP]deal[SP]high<FF03>damage[SP]and[SP]possess<0004><FF03>",
-        "texte_fr": "possess<0004><FF03>"
+        "texte_fr": "Enter[SP]an[SP]enemy&s[SP]body[SP]to[SP]deal[SP]high<FF03>damage[SP]and[SP]possess<0004><FF03>"
     },
     {
         "id": 1400,
@@ -3205,7 +3205,7 @@
         "data_size": 124,
         "slot_size": 124,
         "texte_orig": "Sacrifice[SP]self[SP]to[SP]deal[SP]high[SP]damage[SP]to<FF03>all[SP]allies[SP]and[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Sacrifice[SP]self[SP]to[SP]deal[SP]high[SP]damage[SP]to<FF03>all[SP]allies[SP]and[SP]enemies<0004><FF03>"
     },
     {
         "id": 1401,
@@ -3213,7 +3213,7 @@
         "data_size": 102,
         "slot_size": 102,
         "texte_orig": "Sacrifice[SP]self[SP]to[SP]deal[SP]high[SP]damage[SP]to<FF03>all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Sacrifice[SP]self[SP]to[SP]deal[SP]high[SP]damage[SP]to<FF03>all[SP]enemies<0004><FF03>"
     },
     {
         "id": 1402,
@@ -3221,7 +3221,7 @@
         "data_size": 106,
         "slot_size": 106,
         "texte_orig": "Deal[SP]low[SP]Havoc[SP]damage[SP]multiple[SP]times<FF03>to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Degats[SP]Chaos[SP]faibles[SP]a[SP]tous[SP](x[SP]plusieurs).<FF03>"
     },
     {
         "id": 1403,
@@ -3245,7 +3245,7 @@
         "data_size": 110,
         "slot_size": 110,
         "texte_orig": "Deal[SP]medium[SP]Havoc;Mind[SP]damage[SP]to[SP]one<FF03>enemy<0004>[SP]May[SP]panic<0004><FF03>",
-        "texte_fr": "panic<0004><FF03>"
+        "texte_fr": "Degats[SP]Chaos/Esprit[SP]moyens[SP]a[SP]1[SP]ennemi.<FF03>Peut[SP]paniquer.<FF03>"
     },
     {
         "id": 1406,
@@ -3261,7 +3261,7 @@
         "data_size": 138,
         "slot_size": 138,
         "texte_orig": "Deal[SP]low[SP]Havoc;Elec[SP]damage[SP]multiple<FF03>times[SP]to[SP]all[SP]enemies<0004>[SP]May[SP]shock<0004><FF03>",
-        "texte_fr": "shock<0004><FF03>"
+        "texte_fr": "Degats[SP]Chaos/Elec[SP]faibles[SP]a[SP]tous[SP](x[SP]plusieurs).<FF03>Peut[SP]paralyser.<FF03>"
     },
     {
         "id": 1408,
@@ -3269,7 +3269,7 @@
         "data_size": 106,
         "slot_size": 106,
         "texte_orig": "Deal[SP]low[SP]Havoc;Nerve[SP]damage[SP]to[SP]one<FF03>enemy<0004>[SP]May[SP]sleep<0004><FF03>",
-        "texte_fr": "sleep<0004><FF03>"
+        "texte_fr": "Deal[SP]low[SP]Havoc;Nerve[SP]damage[SP]to[SP]one<FF03>enemy<0004>[SP]May[SP]sleep<0004><FF03>"
     },
     {
         "id": 1409,
@@ -3277,7 +3277,7 @@
         "data_size": 114,
         "slot_size": 114,
         "texte_orig": "Deal[SP]low[SP]Havoc;Almighty[SP]damage[SP]to[SP]one<FF03>enemy<0004>[SP]May[SP]poison<0004><FF03>",
-        "texte_fr": "poison<0004><FF03>"
+        "texte_fr": "Degats[SP]Chaos/Divin[SP]faibles[SP]a[SP]1[SP]ennemi.<FF03>Peut[SP]empoisonner.<FF03>"
     },
     {
         "id": 1410,
@@ -3293,7 +3293,7 @@
         "data_size": 106,
         "slot_size": 106,
         "texte_orig": "Deal[SP]low[SP]Havoc;Nerve[SP]damage[SP]to[SP]one<FF03>enemy<0004>[SP]May[SP]sleep<0004><FF03>",
-        "texte_fr": "sleep<0004><FF03>"
+        "texte_fr": "Deal[SP]low[SP]Havoc;Nerve[SP]damage[SP]to[SP]one<FF03>enemy<0004>[SP]May[SP]sleep<0004><FF03>"
     },
     {
         "id": 1412,
@@ -3301,7 +3301,7 @@
         "data_size": 114,
         "slot_size": 114,
         "texte_orig": "Deal[SP]low[SP]Havoc;Almighty[SP]damage[SP]to[SP]one<FF03>enemy<0004>[SP]May[SP]poison<0004><FF03>",
-        "texte_fr": "poison<0004><FF03>"
+        "texte_fr": "Degats[SP]Chaos/Divin[SP]faibles[SP]a[SP]1[SP]ennemi.<FF03>Peut[SP]empoisonner.<FF03>"
     },
     {
         "id": 1413,
@@ -3333,7 +3333,7 @@
         "data_size": 118,
         "slot_size": 118,
         "texte_orig": "Deal[SP]small[SP]Havoc;Almighty[SP]damage[SP]to<FF03>one[SP]enemy<0004>[SP]May[SP]poison<0004><FF03>",
-        "texte_fr": "poison<0004><FF03>"
+        "texte_fr": "Degats[SP]Chaos/Divin[SP]legers[SP]a[SP]1[SP]ennemi.<FF03>Peut[SP]empoisonner.<FF03>"
     },
     {
         "id": 1417,
@@ -3341,7 +3341,7 @@
         "data_size": 78,
         "slot_size": 78,
         "texte_orig": "Deal[SP]instant[SP]Thrown[SP]kill[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Jet):[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1418,
@@ -3349,7 +3349,7 @@
         "data_size": 108,
         "slot_size": 108,
         "texte_orig": "Deal[SP]low[SP]Thrown;Nerve[SP]damage[SP]to[SP]one<FF03>enemy<0004>[SP]May[SP]sleep<0004><FF03>",
-        "texte_fr": "sleep<0004><FF03>"
+        "texte_fr": "Degats[SP]Jet/Nerfs[SP]faibles[SP]a[SP]1[SP]ennemi.<FF03>Peut[SP]endormir.<FF03>"
     },
     {
         "id": 1419,
@@ -3357,7 +3357,7 @@
         "data_size": 116,
         "slot_size": 116,
         "texte_orig": "Deal[SP]low[SP]Thrown;Almighty[SP]damage[SP]to[SP]one<FF03>enemy<0004>[SP]May[SP]poison<0004><FF03>",
-        "texte_fr": "poison<0004><FF03>"
+        "texte_fr": "Degats[SP]Jet/Divin[SP]faibles[SP]a[SP]1[SP]ennemi.<FF03>Peut[SP]empoisonner.<FF03>"
     },
     {
         "id": 1420,
@@ -3389,7 +3389,7 @@
         "data_size": 78,
         "slot_size": 78,
         "texte_orig": "Deal[SP]instant[SP]Strike[SP]kill[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Frappe):[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1424,
@@ -3413,7 +3413,7 @@
         "data_size": 116,
         "slot_size": 116,
         "texte_orig": "Deal[SP]medium[SP]Ranged;Mind[SP]damage[SP]to[SP]all<FF03>enemies<0004>[SP]May[SP]panic<0004><FF03>",
-        "texte_fr": "panic<0004><FF03>"
+        "texte_fr": "Degats[SP]Tir/Esprit[SP]moyens[SP]a[SP]tous.<FF03>Peut[SP]paniquer.<FF03>"
     },
     {
         "id": 1427,
@@ -3445,7 +3445,7 @@
         "data_size": 78,
         "slot_size": 78,
         "texte_orig": "Deal[SP]instant[SP]Ranged[SP]kill[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Tir):[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1431,
@@ -3461,7 +3461,7 @@
         "data_size": 90,
         "slot_size": 90,
         "texte_orig": "Deal[SP]instant[SP]Sword[SP]kill[SP]to[SP]multiple<FF03>enemies<0004><FF03>",
-        "texte_fr": "multiple<FF03>enemies<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Epee):[SP]plusieurs.<FF03>"
     },
     {
         "id": 1433,
@@ -3469,7 +3469,7 @@
         "data_size": 76,
         "slot_size": 76,
         "texte_orig": "Deal[SP]instant[SP]Sword[SP]kill[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Epee):[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1434,
@@ -3493,7 +3493,7 @@
         "data_size": 84,
         "slot_size": 84,
         "texte_orig": "Deal[SP]high[SP]Sword[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Epee[SP]lourds[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1437,
@@ -3589,7 +3589,7 @@
         "data_size": 110,
         "slot_size": 110,
         "texte_orig": "Sacrifice[SP]self[SP]to[SP]reduce[SP]all[SP]enemy<FF03>Personas[SP]to[SP]rank[SP]1<0004><FF03>",
-        "texte_fr": "1<0004><FF03>"
+        "texte_fr": "Sacrifice[SP]self[SP]to[SP]reduce[SP]all[SP]enemy<FF03>Personas[SP]to[SP]rank[SP]1<0004><FF03>"
     },
     {
         "id": 1449,
@@ -3597,7 +3597,7 @@
         "data_size": 50,
         "slot_size": 50,
         "texte_orig": "Halve[SP]the[SP]party&s[SP]money<0004><FF03>",
-        "texte_fr": "money<0004><FF03>"
+        "texte_fr": "Divise[SP]l'argent[SP]par[SP]2.<FF03>"
     },
     {
         "id": 1450,
@@ -3605,7 +3605,7 @@
         "data_size": 104,
         "slot_size": 104,
         "texte_orig": "Prevents[SP]user[SP]from[SP]being[SP]targeted[SP]by<FF03>enemy[SP]attacks<0004><FF03>",
-        "texte_fr": "attacks<0004><FF03>"
+        "texte_fr": "Prevents[SP]user[SP]from[SP]being[SP]targeted[SP]by<FF03>enemy[SP]attacks<0004><FF03>"
     },
     {
         "id": 1451,
@@ -3613,7 +3613,7 @@
         "data_size": 62,
         "slot_size": 62,
         "texte_orig": "Guarantees[SP]escape[SP]from[SP]battle<0004><FF03>",
-        "texte_fr": "battle<0004><FF03>"
+        "texte_fr": "Fuite[SP]assuree.<FF03>"
     },
     {
         "id": 1452,
@@ -3621,7 +3621,7 @@
         "data_size": 64,
         "slot_size": 64,
         "texte_orig": "Deal[SP]fury[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]rage[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1453,
@@ -3677,7 +3677,7 @@
         "data_size": 76,
         "slot_size": 76,
         "texte_orig": "Cause[SP]status[SP]ailments[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Alteration[SP]d'etat[SP]:[SP]tous.<FF03>"
     },
     {
         "id": 1460,
@@ -3685,7 +3685,7 @@
         "data_size": 94,
         "slot_size": 94,
         "texte_orig": "Deal[SP]Almighty[SP]illusion[SP]ailment[SP]to<FF03>all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Inflige[SP]illusion[SP]:[SP]tous.<FF03>"
     },
     {
         "id": 1461,
@@ -3693,7 +3693,7 @@
         "data_size": 100,
         "slot_size": 100,
         "texte_orig": "Deal[SP]Almighty[SP]illusion[SP]ailment[SP]to[SP]an<FF03>enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Inflige[SP]illusion[SP]:[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1462,
@@ -3701,7 +3701,7 @@
         "data_size": 96,
         "slot_size": 96,
         "texte_orig": "Deal[SP]Almighty[SP]poison[SP]ailment[SP]to[SP]an<FF03>enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Inflige[SP]poison[SP]:[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1463,
@@ -3709,7 +3709,7 @@
         "data_size": 108,
         "slot_size": 108,
         "texte_orig": "Deal[SP]medium[SP]Ice[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>May[SP]freeze<0004><FF03>",
-        "texte_fr": "freeze<0004><FF03>"
+        "texte_fr": "Degats[SP]Glace[SP]moyens[SP]a[SP]1[SP]groupe.<FF03>Peut[SP]geler.<FF03>"
     },
     {
         "id": 1464,
@@ -3717,7 +3717,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "Deal[SP]medium[SP]Fire[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Feu[SP]moyens[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1465,
@@ -3725,7 +3725,7 @@
         "data_size": 88,
         "slot_size": 88,
         "texte_orig": "Deal[SP]low[SP]Almighty[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Divin[SP]faibles[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1466,
@@ -3741,7 +3741,7 @@
         "data_size": 118,
         "slot_size": 118,
         "texte_orig": "Deal[SP]high[SP]Almighty;Dark[SP]damage[SP]to[SP]all<FF03>enemies<0004>[SP]May[SP]freeze<0004><FF03>",
-        "texte_fr": "freeze<0004><FF03>"
+        "texte_fr": "Degats[SP]Divin/Tenebres[SP]lourds[SP]a[SP]tous.<FF03>Peut[SP]geler.<FF03>"
     },
     {
         "id": 1468,
@@ -3749,7 +3749,7 @@
         "data_size": 52,
         "slot_size": 52,
         "texte_orig": "Instantly[SP]kill[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Tue[SP]1[SP]ennemi[SP]sur[SP]le[SP]coup.<FF03>"
     },
     {
         "id": 1469,
@@ -3757,7 +3757,7 @@
         "data_size": 92,
         "slot_size": 92,
         "texte_orig": "Deal[SP]Almighty[SP]illusion[SP]effect[SP]to<FF03>all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Inflige[SP]illusion[SP]:[SP]tous.<FF03>"
     },
     {
         "id": 1470,
@@ -3765,7 +3765,7 @@
         "data_size": 90,
         "slot_size": 90,
         "texte_orig": "Deal[SP]Almighty[SP]illusion[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]illusion[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1471,
@@ -3773,7 +3773,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "Deal[SP]Almighty[SP]fury[SP]ailment[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Inflige[SP]rage[SP]:[SP]tous.<FF03>"
     },
     {
         "id": 1472,
@@ -3781,7 +3781,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "Deal[SP]Almighty[SP]fury[SP]ailment[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Inflige[SP]rage[SP]:[SP]tous.<FF03>"
     },
     {
         "id": 1473,
@@ -3789,7 +3789,7 @@
         "data_size": 118,
         "slot_size": 118,
         "texte_orig": "Deal[SP]Almighty[SP]mute[SP]and[SP]Mind[SP]panic<FF03>ailments[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Deal[SP]Almighty[SP]mute[SP]and[SP]Mind[SP]panic<FF03>ailments[SP]to[SP]all[SP]enemies<0004><FF03>"
     },
     {
         "id": 1474,
@@ -3797,7 +3797,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Deal[SP]Almighty[SP]mute[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]mutisme[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1475,
@@ -3805,7 +3805,7 @@
         "data_size": 80,
         "slot_size": 80,
         "texte_orig": "Deal[SP]Mind[SP]charm[SP]ailment[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Inflige[SP]charme[SP]:[SP]tous.<FF03>"
     },
     {
         "id": 1476,
@@ -3813,7 +3813,7 @@
         "data_size": 80,
         "slot_size": 80,
         "texte_orig": "Deal[SP]Mind[SP]charm[SP]ailment[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Inflige[SP]charme[SP]:[SP]tous.<FF03>"
     },
     {
         "id": 1477,
@@ -3821,7 +3821,7 @@
         "data_size": 76,
         "slot_size": 76,
         "texte_orig": "Deal[SP]Mind[SP]charm[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]charme[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1478,
@@ -3829,7 +3829,7 @@
         "data_size": 80,
         "slot_size": 80,
         "texte_orig": "Deal[SP]Mind[SP]panic[SP]ailment[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Inflige[SP]panique[SP]:[SP]tous.<FF03>"
     },
     {
         "id": 1479,
@@ -3837,7 +3837,7 @@
         "data_size": 80,
         "slot_size": 80,
         "texte_orig": "Deal[SP]Mind[SP]panic[SP]ailment[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Inflige[SP]panique[SP]:[SP]tous.<FF03>"
     },
     {
         "id": 1480,
@@ -3845,7 +3845,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Deal[SP]Nerve[SP]sleep[SP]ailment[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Inflige[SP]sommeil[SP]:[SP]tous.<FF03>"
     },
     {
         "id": 1481,
@@ -3853,7 +3853,7 @@
         "data_size": 78,
         "slot_size": 78,
         "texte_orig": "Deal[SP]Nerve[SP]sleep[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]sommeil[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1482,
@@ -3861,7 +3861,7 @@
         "data_size": 90,
         "slot_size": 90,
         "texte_orig": "Deal[SP]Almighty[SP]poison[SP]ailment[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Inflige[SP]poison[SP]:[SP]tous.<FF03>"
     },
     {
         "id": 1483,
@@ -3869,7 +3869,7 @@
         "data_size": 158,
         "slot_size": 158,
         "texte_orig": "Deal[SP]instant[SP]Dark[SP]kill[SP]to[SP]all[SP]enemies<0003><FF03>1[SP]per[SP]turn<0003>[SP]starting[SP]with[SP]lowest[SP]level<0004><FF03>",
-        "texte_fr": "level<0004><FF03>"
+        "texte_fr": "Deal[SP]instant[SP]Dark[SP]kill[SP]to[SP]all[SP]enemies<0003><FF03>1[SP]per[SP]turn<0003>[SP]starting[SP]with[SP]lowest[SP]level<0004><FF03>"
     },
     {
         "id": 1484,
@@ -3885,7 +3885,7 @@
         "data_size": 78,
         "slot_size": 78,
         "texte_orig": "Deal[SP]instant[SP]Dark[SP]kill[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Tenebres):[SP]tous.<FF03>"
     },
     {
         "id": 1486,
@@ -3893,7 +3893,7 @@
         "data_size": 74,
         "slot_size": 74,
         "texte_orig": "Deal[SP]instant[SP]Dark[SP]kill[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Tenebres):[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1487,
@@ -3909,7 +3909,7 @@
         "data_size": 140,
         "slot_size": 140,
         "texte_orig": "Deal[SP]Light[SP]damage[SP]dependent[SP]on[SP]the<FF03>Persona&s[SP]strength[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Deal[SP]Light[SP]damage[SP]dependent[SP]on[SP]the<FF03>Persona&s[SP]strength[SP]to[SP]all[SP]enemies<0004><FF03>"
     },
     {
         "id": 1489,
@@ -3917,7 +3917,7 @@
         "data_size": 90,
         "slot_size": 90,
         "texte_orig": "Deal[SP]persistent[SP]Light[SP]damage[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Degats[SP]Lumiere[SP]continus[SP]a[SP]tous.<FF03>"
     },
     {
         "id": 1490,
@@ -3933,7 +3933,7 @@
         "data_size": 80,
         "slot_size": 80,
         "texte_orig": "Deal[SP]instant[SP]Light[SP]kill[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Lumiere):[SP]tous.<FF03>"
     },
     {
         "id": 1492,
@@ -3949,7 +3949,7 @@
         "data_size": 68,
         "slot_size": 68,
         "texte_orig": "Deal[SP]instant[SP]kill[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Mort[SP]subite:[SP]tous.<FF03>"
     },
     {
         "id": 1494,
@@ -3957,7 +3957,7 @@
         "data_size": 92,
         "slot_size": 92,
         "texte_orig": "Deal[SP]high[SP]Almighty;Light[SP]damage[SP]to<FF03>one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Degats[SP]Divin/Lumiere[SP]lourds[SP]a[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1495,
@@ -3989,7 +3989,7 @@
         "data_size": 120,
         "slot_size": 120,
         "texte_orig": "Deal[SP]high[SP]Almighty;Light[SP]damage[SP]to[SP]all<FF03>enemies<0004>[SP]May[SP]freeze<0004><FF03>",
-        "texte_fr": "freeze<0004><FF03>"
+        "texte_fr": "Degats[SP]Divin/Lumiere[SP]lourds[SP]a[SP]tous.<FF03>Peut[SP]geler.<FF03>"
     },
     {
         "id": 1499,
@@ -4117,7 +4117,7 @@
         "data_size": 126,
         "slot_size": 126,
         "texte_orig": "Guarantee[SP]escape[SP]from[SP]battle<0004><FF03>)Cannot[SP]flee[SP]from[SP]some[SP]enemies<0004>*<FF03>",
-        "texte_fr": "enemies<0004>*<FF03>"
+        "texte_fr": "Guarantee[SP]escape[SP]from[SP]battle<0004><FF03>(Cannot[SP]flee[SP]from[SP]some[SP]enemies<0004>)<FF03>"
     },
     {
         "id": 1515,
@@ -4125,7 +4125,7 @@
         "data_size": 120,
         "slot_size": 120,
         "texte_orig": "Sacrifice[SP]self[SP]to[SP]revive[SP]and[SP]recover[SP]full<FF03>HP[SP]to[SP]all[SP]allies<0004><FF03>",
-        "texte_fr": "allies<0004><FF03>"
+        "texte_fr": "Sacrifice[SP]self[SP]to[SP]revive[SP]and[SP]recover[SP]full<FF03>HP[SP]to[SP]all[SP]allies<0004><FF03>"
     },
     {
         "id": 1516,
@@ -4229,7 +4229,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Reflect[SP]one[SP]magical[SP]attack[SP]for[SP]one[SP]ally<0004><FF03>",
-        "texte_fr": "ally<0004><FF03>"
+        "texte_fr": "Renvoie[SP]1[SP]attaque[SP]magique.<FF03>"
     },
     {
         "id": 1529,
@@ -4237,7 +4237,7 @@
         "data_size": 84,
         "slot_size": 84,
         "texte_orig": "Reflect[SP]one[SP]physical[SP]attack[SP]for[SP]one[SP]ally<0004><FF03>",
-        "texte_fr": "ally<0004><FF03>"
+        "texte_fr": "Renvoie[SP]1[SP]attaque[SP]physique.<FF03>"
     },
     {
         "id": 1530,
@@ -4245,7 +4245,7 @@
         "data_size": 94,
         "slot_size": 94,
         "texte_orig": "Nullify[SP]one[SP]Light[SP]or[SP]Dark[SP]attack[SP]for<FF03>one[SP]ally<0004><FF03>",
-        "texte_fr": "ally<0004><FF03>"
+        "texte_fr": "Nullify[SP]one[SP]Light[SP]or[SP]Dark[SP]attack[SP]for<FF03>one[SP]ally<0004><FF03>"
     },
     {
         "id": 1531,
@@ -4253,7 +4253,7 @@
         "data_size": 88,
         "slot_size": 88,
         "texte_orig": "Remove[SP]all[SP]status[SP]increases[SP]from[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Annule[SP]les[SP]bonus[SP]d'1[SP]ennemi.<FF03>"
     },
     {
         "id": 1532,
@@ -4301,7 +4301,7 @@
         "data_size": 90,
         "slot_size": 90,
         "texte_orig": "Deal[SP]Almighty[SP]illusion[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]illusion[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1538,
@@ -4309,7 +4309,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Deal[SP]Almighty[SP]fury[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]rage[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1539,
@@ -4317,7 +4317,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Deal[SP]Almighty[SP]mute[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]mutisme[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1540,
@@ -4325,7 +4325,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "Deal[SP]Almighty[SP]poison[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]poison[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1541,
@@ -4333,7 +4333,7 @@
         "data_size": 76,
         "slot_size": 76,
         "texte_orig": "Deal[SP]Mind[SP]charm[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]charme[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1542,
@@ -4341,7 +4341,7 @@
         "data_size": 84,
         "slot_size": 84,
         "texte_orig": "Deal[SP]Mind[SP]confusion[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]confusion[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1543,
@@ -4349,7 +4349,7 @@
         "data_size": 78,
         "slot_size": 78,
         "texte_orig": "Deal[SP]Nerve[SP]sleep[SP]ailment[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Inflige[SP]sommeil[SP]:[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1544,
@@ -4357,7 +4357,7 @@
         "data_size": 78,
         "slot_size": 78,
         "texte_orig": "Deal[SP]instant[SP]Dark[SP]kill[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Tenebres):[SP]tous.<FF03>"
     },
     {
         "id": 1545,
@@ -4365,7 +4365,7 @@
         "data_size": 84,
         "slot_size": 84,
         "texte_orig": "Deal[SP]instant[SP]Dark[SP]kill[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Tenebres):[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1546,
@@ -4373,7 +4373,7 @@
         "data_size": 74,
         "slot_size": 74,
         "texte_orig": "Deal[SP]instant[SP]Dark[SP]kill[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Tenebres):[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1547,
@@ -4381,7 +4381,7 @@
         "data_size": 80,
         "slot_size": 80,
         "texte_orig": "Deal[SP]instant[SP]Light[SP]kill[SP]to[SP]all[SP]enemies<0004><FF03>",
-        "texte_fr": "enemies<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Lumiere):[SP]tous.<FF03>"
     },
     {
         "id": 1548,
@@ -4389,7 +4389,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "Deal[SP]instant[SP]Light[SP]kill[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Lumiere):[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1549,
@@ -4397,7 +4397,7 @@
         "data_size": 76,
         "slot_size": 76,
         "texte_orig": "Deal[SP]instant[SP]Light[SP]kill[SP]to[SP]one[SP]enemy<0004><FF03>",
-        "texte_fr": "enemy<0004><FF03>"
+        "texte_fr": "Mort[SP]subite[SP](Lumiere):[SP]1[SP]ennemi.<FF03>"
     },
     {
         "id": 1550,
@@ -4429,7 +4429,7 @@
         "data_size": 90,
         "slot_size": 90,
         "texte_orig": "Deal[SP]high[SP]Almighty[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Divin[SP]lourds[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1554,
@@ -4437,7 +4437,7 @@
         "data_size": 94,
         "slot_size": 94,
         "texte_orig": "Deal[SP]medium[SP]Almighty[SP]damage[SP]to[SP]an<FF03>enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Divin[SP]moyens[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1555,
@@ -4445,7 +4445,7 @@
         "data_size": 88,
         "slot_size": 88,
         "texte_orig": "Deal[SP]low[SP]Almighty[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Divin[SP]faibles[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1556,
@@ -4549,7 +4549,7 @@
         "data_size": 84,
         "slot_size": 84,
         "texte_orig": "Deal[SP]high[SP]Earth[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Terre[SP]lourds[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1569,
@@ -4557,7 +4557,7 @@
         "data_size": 88,
         "slot_size": 88,
         "texte_orig": "Deal[SP]medium[SP]Earth[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Terre[SP]moyens[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1570,
@@ -4565,7 +4565,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Deal[SP]low[SP]Earth[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Terre[SP]faibles[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1571,
@@ -4597,7 +4597,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Deal[SP]high[SP]Wind[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Vent[SP]lourds[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1575,
@@ -4605,7 +4605,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "Deal[SP]medium[SP]Wind[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Vent[SP]moyens[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1576,
@@ -4613,7 +4613,7 @@
         "data_size": 80,
         "slot_size": 80,
         "texte_orig": "Deal[SP]low[SP]Wind[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Vent[SP]faibles[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1577,
@@ -4645,7 +4645,7 @@
         "data_size": 84,
         "slot_size": 84,
         "texte_orig": "Deal[SP]high[SP]Water[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Eau[SP]lourds[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1581,
@@ -4653,7 +4653,7 @@
         "data_size": 88,
         "slot_size": 88,
         "texte_orig": "Deal[SP]medium[SP]Water[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Eau[SP]moyens[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1582,
@@ -4661,7 +4661,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Deal[SP]low[SP]Water[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Eau[SP]faibles[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1583,
@@ -4693,7 +4693,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "Deal[SP]high[SP]Fire[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Feu[SP]lourds[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1587,
@@ -4701,7 +4701,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "Deal[SP]medium[SP]Fire[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Feu[SP]moyens[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1588,
@@ -4709,7 +4709,7 @@
         "data_size": 80,
         "slot_size": 80,
         "texte_orig": "Deal[SP]low[SP]Fire[SP]damage[SP]to[SP]an[SP]enemy[SP]group<0004><FF03>",
-        "texte_fr": "group<0004><FF03>"
+        "texte_fr": "Degats[SP]Feu[SP]faibles[SP]a[SP]1[SP]groupe.<FF03>"
     },
     {
         "id": 1589,
@@ -4909,7 +4909,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Silver[SP]Panzer",
-        "texte_fr": "Panzer"
+        "texte_fr": "Silver[SP]Panzer"
     },
     {
         "id": 1614,
@@ -5013,7 +5013,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Metal[SP]Loose[SP]Socks",
-        "texte_fr": "Socks"
+        "texte_fr": "Chaussettes[SP]metal"
     },
     {
         "id": 1627,
@@ -5021,7 +5021,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Starched[SP]Socks",
-        "texte_fr": "Socks"
+        "texte_fr": "Socquettes"
     },
     {
         "id": 1628,
@@ -5029,7 +5029,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Knee<High[SP]Socks",
-        "texte_fr": "Socks"
+        "texte_fr": "Mi<bas"
     },
     {
         "id": 1629,
@@ -5037,7 +5037,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Moldy[SP]Socks",
-        "texte_fr": "Socks"
+        "texte_fr": "Chaussettes"
     },
     {
         "id": 1630,
@@ -5069,7 +5069,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Heroic[SP]Pumps",
-        "texte_fr": "Pumps"
+        "texte_fr": "Heroic[SP]Pumps"
     },
     {
         "id": 1634,
@@ -5077,7 +5077,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Quick[SP]Pumps",
-        "texte_fr": "Pumps"
+        "texte_fr": "Quick[SP]Pumps"
     },
     {
         "id": 1635,
@@ -5085,7 +5085,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Sick[SP]Pumps",
-        "texte_fr": "Pumps"
+        "texte_fr": "Escarpin"
     },
     {
         "id": 1636,
@@ -5141,7 +5141,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "King&s[SP]Plates",
-        "texte_fr": "Plates"
+        "texte_fr": "Plastron[SP]roi"
     },
     {
         "id": 1643,
@@ -5165,7 +5165,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Steel[SP]Chain[SP]Tights",
-        "texte_fr": "Tights"
+        "texte_fr": "Collant[SP]maille"
     },
     {
         "id": 1646,
@@ -5173,7 +5173,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Gold[SP]Weave[SP]Tights",
-        "texte_fr": "Tights"
+        "texte_fr": "Collant[SP]d'or"
     },
     {
         "id": 1647,
@@ -5181,7 +5181,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Gold[SP]Dust[SP]Tights",
-        "texte_fr": "Tights"
+        "texte_fr": "Collant[SP]poudre"
     },
     {
         "id": 1648,
@@ -5293,7 +5293,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Purple[SP]Jacket",
-        "texte_fr": "Jacket"
+        "texte_fr": "Purple[SP]Jacket"
     },
     {
         "id": 1662,
@@ -5301,7 +5301,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Silver[SP]Dress",
-        "texte_fr": "Dress"
+        "texte_fr": "Robe[SP]argent"
     },
     {
         "id": 1663,
@@ -5309,7 +5309,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Casual[SP]Shirt",
-        "texte_fr": "Shirt"
+        "texte_fr": "Chemise"
     },
     {
         "id": 1664,
@@ -5317,7 +5317,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Pyro[SP]Cape",
-        "texte_fr": "Cape"
+        "texte_fr": "Cape[SP]feu"
     },
     {
         "id": 1665,
@@ -5405,7 +5405,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Saintly[SP]Robes",
-        "texte_fr": "Robes"
+        "texte_fr": "Robe[SP]sainte"
     },
     {
         "id": 1676,
@@ -5413,7 +5413,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Wise[SP]Robes",
-        "texte_fr": "Robes"
+        "texte_fr": "Robe[SP]sage"
     },
     {
         "id": 1677,
@@ -5421,7 +5421,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Wuss[SP]Robes",
-        "texte_fr": "Robes"
+        "texte_fr": "Robe[SP]molle"
     },
     {
         "id": 1678,
@@ -5429,7 +5429,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Complete[SP]Millian",
-        "texte_fr": "Millian"
+        "texte_fr": "Complete[SP]Millian"
     },
     {
         "id": 1679,
@@ -5453,7 +5453,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Marvelous[SP]Field",
-        "texte_fr": "Field"
+        "texte_fr": "Marvelous[SP]Field"
     },
     {
         "id": 1682,
@@ -5477,7 +5477,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Endless[SP]Empress",
-        "texte_fr": "Empress"
+        "texte_fr": "Endless[SP]Empress"
     },
     {
         "id": 1685,
@@ -5485,7 +5485,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Empress[SP]Dress",
-        "texte_fr": "Dress"
+        "texte_fr": "Empress[SP]Dress"
     },
     {
         "id": 1686,
@@ -5493,7 +5493,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Hempless[SP]Dress",
-        "texte_fr": "Dress"
+        "texte_fr": "Hempless[SP]Dress"
     },
     {
         "id": 1687,
@@ -5525,7 +5525,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Yama[SP]Kenjo",
-        "texte_fr": "Kenjo"
+        "texte_fr": "Yama[SP]Kenjo"
     },
     {
         "id": 1691,
@@ -5533,7 +5533,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Yama[SP]Dress",
-        "texte_fr": "Dress"
+        "texte_fr": "Robe[SP]Yama"
     },
     {
         "id": 1692,
@@ -5541,7 +5541,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Ya[SP]Mama[SP]Dress",
-        "texte_fr": "Dress"
+        "texte_fr": "Robe[SP]Mama"
     },
     {
         "id": 1693,
@@ -5573,7 +5573,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Black[SP]Crows",
-        "texte_fr": "Crows"
+        "texte_fr": "Black[SP]Crows"
     },
     {
         "id": 1697,
@@ -5581,7 +5581,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Black[SP]Clothes",
-        "texte_fr": "Clothes"
+        "texte_fr": "Habits[SP]noirs"
     },
     {
         "id": 1698,
@@ -5589,7 +5589,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Brigandine[SP]Maximum",
-        "texte_fr": "Maximum"
+        "texte_fr": "Brigandine[SP]Maximum"
     },
     {
         "id": 1699,
@@ -5613,7 +5613,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Prodigy[SP]Apron",
-        "texte_fr": "Apron"
+        "texte_fr": "Prodigy[SP]Apron"
     },
     {
         "id": 1702,
@@ -5621,7 +5621,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Hellion[SP]Apron",
-        "texte_fr": "Apron"
+        "texte_fr": "Hellion[SP]Apron"
     },
     {
         "id": 1703,
@@ -5629,7 +5629,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Brat[SP]Apron",
-        "texte_fr": "Apron"
+        "texte_fr": "Tablier"
     },
     {
         "id": 1704,
@@ -5701,7 +5701,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Chain[SP]Letter",
-        "texte_fr": "Letter"
+        "texte_fr": "Chain[SP]Letter"
     },
     {
         "id": 1713,
@@ -5757,7 +5757,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Jihad[SP]Jacket",
-        "texte_fr": "Jacket"
+        "texte_fr": "Veste[SP]Jihad"
     },
     {
         "id": 1720,
@@ -5765,7 +5765,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Hard[SP]Jacket",
-        "texte_fr": "Jacket"
+        "texte_fr": "Veste[SP]dure"
     },
     {
         "id": 1721,
@@ -5773,7 +5773,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Soft[SP]Jacket",
-        "texte_fr": "Jacket"
+        "texte_fr": "Veste[SP]douce"
     },
     {
         "id": 1722,
@@ -5781,7 +5781,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Armored[SP]Jacket",
-        "texte_fr": "Jacket"
+        "texte_fr": "Veste[SP]blindee"
     },
     {
         "id": 1723,
@@ -5797,7 +5797,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Cuss[SP]High[SP]Jacket",
-        "texte_fr": "Jacket"
+        "texte_fr": "Veste[SP]Kasu"
     },
     {
         "id": 1725,
@@ -5813,7 +5813,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Sevens[SP]Jacket",
-        "texte_fr": "Jacket"
+        "texte_fr": "Veste[SP]Seven"
     },
     {
         "id": 1727,
@@ -5821,7 +5821,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Shining[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Shining[SP]Helm"
     },
     {
         "id": 1728,
@@ -5829,7 +5829,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Heavenly[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Heavenly[SP]Helm"
     },
     {
         "id": 1729,
@@ -5837,7 +5837,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Achilles[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Achilles[SP]Helm"
     },
     {
         "id": 1730,
@@ -5845,7 +5845,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Brilliant[SP]Mane",
-        "texte_fr": "Mane"
+        "texte_fr": "Criniere[SP]vive"
     },
     {
         "id": 1731,
@@ -5853,7 +5853,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Star[SP]Metal[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Casque[SP]astral"
     },
     {
         "id": 1732,
@@ -5885,7 +5885,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Eternity[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Eternity[SP]Helm"
     },
     {
         "id": 1736,
@@ -5893,7 +5893,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Forever[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Forever[SP]Helm"
     },
     {
         "id": 1737,
@@ -5901,7 +5901,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Whenever[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Whenever[SP]Helm"
     },
     {
         "id": 1738,
@@ -5909,7 +5909,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Seiwa[SP]Genji[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Casque[SP]Genji"
     },
     {
         "id": 1739,
@@ -5917,7 +5917,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Genji&s[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Casque[SP]Genji"
     },
     {
         "id": 1740,
@@ -5925,7 +5925,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Kenji&s[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Casque[SP]Kenji"
     },
     {
         "id": 1741,
@@ -5933,7 +5933,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Universe[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Universe[SP]Helm"
     },
     {
         "id": 1742,
@@ -5941,7 +5941,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Galaxy[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Galaxy[SP]Helm"
     },
     {
         "id": 1743,
@@ -5949,7 +5949,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Galley[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Galley[SP]Helm"
     },
     {
         "id": 1744,
@@ -5965,7 +5965,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Fluted[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Fluted[SP]Helm"
     },
     {
         "id": 1746,
@@ -5973,7 +5973,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Fruited[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Fruited[SP]Helm"
     },
     {
         "id": 1747,
@@ -5981,7 +5981,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Burgonet[SP]King",
-        "texte_fr": "King"
+        "texte_fr": "Burgonet[SP]King"
     },
     {
         "id": 1748,
@@ -6005,7 +6005,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Royal[SP]Princess",
-        "texte_fr": "Princess"
+        "texte_fr": "Princesse"
     },
     {
         "id": 1751,
@@ -6013,7 +6013,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Princess[SP]Crown",
-        "texte_fr": "Crown"
+        "texte_fr": "Couronne"
     },
     {
         "id": 1752,
@@ -6021,7 +6021,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Prince&s[SP]Clown",
-        "texte_fr": "Clown"
+        "texte_fr": "Clown[SP]prince"
     },
     {
         "id": 1753,
@@ -6029,7 +6029,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "King[SP]Tigron[SP]Mask",
-        "texte_fr": "Mask"
+        "texte_fr": "King[SP]Tigron[SP]Mask"
     },
     {
         "id": 1754,
@@ -6037,7 +6037,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Beast[SP]King[SP]Mask",
-        "texte_fr": "Mask"
+        "texte_fr": "Masque[SP]bete"
     },
     {
         "id": 1755,
@@ -6045,7 +6045,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Strange[SP]Beast[SP]Mask",
-        "texte_fr": "Mask"
+        "texte_fr": "Masque[SP]etrange"
     },
     {
         "id": 1756,
@@ -6053,7 +6053,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Queen&s[SP]Hairpin",
-        "texte_fr": "Hairpin"
+        "texte_fr": "Epingle[SP]reine"
     },
     {
         "id": 1757,
@@ -6061,7 +6061,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Amazon[SP]Hairpin",
-        "texte_fr": "Hairpin"
+        "texte_fr": "Amazon[SP]Hairpin"
     },
     {
         "id": 1758,
@@ -6069,7 +6069,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Camazotz[SP]Hairpin",
-        "texte_fr": "Hairpin"
+        "texte_fr": "Epingle[SP]Camazotz"
     },
     {
         "id": 1759,
@@ -6085,7 +6085,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Metal[SP]Flower[SP]Pin",
-        "texte_fr": "Pin"
+        "texte_fr": "Broche[SP]fleur"
     },
     {
         "id": 1761,
@@ -6117,7 +6117,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Great[SP]Spangen",
-        "texte_fr": "Spangen"
+        "texte_fr": "Great[SP]Spangen"
     },
     {
         "id": 1765,
@@ -6125,7 +6125,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Spangen[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Spangen[SP]Helm"
     },
     {
         "id": 1766,
@@ -6133,7 +6133,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Spangly[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Spangly[SP]Helm"
     },
     {
         "id": 1767,
@@ -6141,7 +6141,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Full<Face[SP]Order",
-        "texte_fr": "Order"
+        "texte_fr": "Full<Face[SP]Order"
     },
     {
         "id": 1768,
@@ -6149,7 +6149,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Full<Face[SP]Racer",
-        "texte_fr": "Racer"
+        "texte_fr": "Full<Face[SP]Racer"
     },
     {
         "id": 1769,
@@ -6189,7 +6189,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Kettle[SP]Helm",
-        "texte_fr": "Helm"
+        "texte_fr": "Kettle[SP]Helm"
     },
     {
         "id": 1774,
@@ -6309,7 +6309,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Ostrich[SP]Beret",
-        "texte_fr": "Beret"
+        "texte_fr": "Ostrich[SP]Beret"
     },
     {
         "id": 1789,
@@ -6325,7 +6325,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Storm[SP]Bloom",
-        "texte_fr": "Bloom"
+        "texte_fr": "Storm[SP]Bloom"
     },
     {
         "id": 1791,
@@ -6357,7 +6357,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Unearthly[SP]Flower",
-        "texte_fr": "Flower"
+        "texte_fr": "Fleur[SP]irreelle"
     },
     {
         "id": 1795,
@@ -6365,7 +6365,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Legendary[SP]Weed",
-        "texte_fr": "Weed"
+        "texte_fr": "Herbe[SP]legende"
     },
     {
         "id": 1796,
@@ -6373,7 +6373,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "Legendary[SP]Rock[SP]Rose",
-        "texte_fr": "Rose"
+        "texte_fr": "Rose[SP]de[SP]roche"
     },
     {
         "id": 1797,
@@ -6381,7 +6381,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "Legendary[SP]Time[SP]Rose",
-        "texte_fr": "Rose"
+        "texte_fr": "Rose[SP]du[SP]temps"
     },
     {
         "id": 1798,
@@ -6389,7 +6389,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Legendary[SP]Ice[SP]Rose",
-        "texte_fr": "Rose"
+        "texte_fr": "Rose[SP]de[SP]glace"
     },
     {
         "id": 1799,
@@ -6397,7 +6397,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "Legendary[SP]Fire[SP]Rose",
-        "texte_fr": "Rose"
+        "texte_fr": "Rose[SP]de[SP]feu"
     },
     {
         "id": 1800,
@@ -6405,7 +6405,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Legendary[SP]Flower",
-        "texte_fr": "Flower"
+        "texte_fr": "Fleur[SP]legendaire"
     },
     {
         "id": 1801,
@@ -6413,7 +6413,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Abyss[SP]Blossom",
-        "texte_fr": "Blossom"
+        "texte_fr": "Fleur[SP]abime"
     },
     {
         "id": 1802,
@@ -6421,7 +6421,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Hell[SP]Blossom",
-        "texte_fr": "Blossom"
+        "texte_fr": "Fleur[SP]enfer"
     },
     {
         "id": 1803,
@@ -6429,7 +6429,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Empty[SP]Flower",
-        "texte_fr": "Flower"
+        "texte_fr": "Fleur[SP]vide"
     },
     {
         "id": 1804,
@@ -6437,7 +6437,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Fury[SP]Flora",
-        "texte_fr": "Flora"
+        "texte_fr": "Flore[SP]rage"
     },
     {
         "id": 1805,
@@ -6445,7 +6445,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Rage[SP]Flora",
-        "texte_fr": "Flora"
+        "texte_fr": "Rage[SP]Flora"
     },
     {
         "id": 1806,
@@ -6453,7 +6453,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Smile[SP]Flora",
-        "texte_fr": "Flora"
+        "texte_fr": "Flore[SP]rire"
     },
     {
         "id": 1807,
@@ -6461,7 +6461,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Western[SP]Sukhavati",
-        "texte_fr": "Sukhavati"
+        "texte_fr": "Western[SP]Sukhavati"
     },
     {
         "id": 1808,
@@ -6469,7 +6469,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Sukhavati[SP]Flower",
-        "texte_fr": "Flower"
+        "texte_fr": "Sukhavati[SP]Flower"
     },
     {
         "id": 1809,
@@ -6477,7 +6477,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Maserati[SP]Flower",
-        "texte_fr": "Flower"
+        "texte_fr": "Maserati[SP]Flower"
     },
     {
         "id": 1810,
@@ -6485,7 +6485,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Briar[SP]Rose",
-        "texte_fr": "Rose"
+        "texte_fr": "Eglantine"
     },
     {
         "id": 1811,
@@ -6493,7 +6493,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Merry[SP]Hell[SP]Rose",
-        "texte_fr": "Rose"
+        "texte_fr": "Rose[SP]infernale"
     },
     {
         "id": 1812,
@@ -6501,7 +6501,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Hell[SP]Rose",
-        "texte_fr": "Rose"
+        "texte_fr": "Hell[SP]Rose"
     },
     {
         "id": 1813,
@@ -6509,7 +6509,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Smell[SP]Rose",
-        "texte_fr": "Rose"
+        "texte_fr": "Smell[SP]Rose"
     },
     {
         "id": 1814,
@@ -6517,7 +6517,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Prankster[SP]Flower",
-        "texte_fr": "Flower"
+        "texte_fr": "Fleur[SP]farceuse"
     },
     {
         "id": 1815,
@@ -6525,7 +6525,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Trick[SP]Flower",
-        "texte_fr": "Flower"
+        "texte_fr": "Fleur[SP]piege"
     },
     {
         "id": 1816,
@@ -6533,7 +6533,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Brick[SP]Flower",
-        "texte_fr": "Flower"
+        "texte_fr": "Fleur[SP]brique"
     },
     {
         "id": 1817,
@@ -6541,7 +6541,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Purple[SP]Rose",
-        "texte_fr": "Rose"
+        "texte_fr": "Purple[SP]Rose"
     },
     {
         "id": 1818,
@@ -6549,7 +6549,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Revenge[SP]Leak",
-        "texte_fr": "Leak"
+        "texte_fr": "Revenge[SP]Leak"
     },
     {
         "id": 1819,
@@ -6557,7 +6557,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Silver[SP]Wheel",
-        "texte_fr": "Wheel"
+        "texte_fr": "Silver[SP]Wheel"
     },
     {
         "id": 1820,
@@ -6565,7 +6565,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Moebius[SP]Ring",
-        "texte_fr": "Ring"
+        "texte_fr": "Moebius[SP]Ring"
     },
     {
         "id": 1821,
@@ -6573,7 +6573,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Jnana[SP]Mudra",
-        "texte_fr": "Mudra"
+        "texte_fr": "Jnana[SP]Mudra"
     },
     {
         "id": 1822,
@@ -6581,7 +6581,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "High<End[SP]Chakram",
-        "texte_fr": "Chakram"
+        "texte_fr": "High<End[SP]Chakram"
     },
     {
         "id": 1823,
@@ -6605,7 +6605,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Golden[SP]Knife",
-        "texte_fr": "Knife"
+        "texte_fr": "Couteau[SP]d'or"
     },
     {
         "id": 1826,
@@ -6621,7 +6621,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Darkness[SP]Shuriken",
-        "texte_fr": "Shuriken"
+        "texte_fr": "Darkness[SP]Shuriken"
     },
     {
         "id": 1828,
@@ -6629,7 +6629,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Yagyu[SP]Shuriken",
-        "texte_fr": "Shuriken"
+        "texte_fr": "Yagyu[SP]Shuriken"
     },
     {
         "id": 1829,
@@ -6637,7 +6637,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Origami[SP]Shuriken",
-        "texte_fr": "Shuriken"
+        "texte_fr": "Origami[SP]Shuriken"
     },
     {
         "id": 1830,
@@ -6661,7 +6661,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Twin[SP]Beard",
-        "texte_fr": "Beard"
+        "texte_fr": "Twin[SP]Beard"
     },
     {
         "id": 1833,
@@ -6709,7 +6709,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Crane[SP]Edge",
-        "texte_fr": "Edge"
+        "texte_fr": "Crane[SP]Edge"
     },
     {
         "id": 1839,
@@ -6717,7 +6717,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Crane[SP]Razor",
-        "texte_fr": "Razor"
+        "texte_fr": "Crane[SP]Razor"
     },
     {
         "id": 1840,
@@ -6725,7 +6725,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Ladies&[SP]Razor",
-        "texte_fr": "Razor"
+        "texte_fr": "Ladies&[SP]Razor"
     },
     {
         "id": 1841,
@@ -6733,7 +6733,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Fei[SP]Cha",
-        "texte_fr": "Cha"
+        "texte_fr": "Fei[SP]Cha"
     },
     {
         "id": 1842,
@@ -6741,7 +6741,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Demon[SP]Tathlum",
-        "texte_fr": "Tathlum"
+        "texte_fr": "Demon[SP]Tathlum"
     },
     {
         "id": 1843,
@@ -6765,7 +6765,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "King[SP]Falcon",
-        "texte_fr": "Falcon"
+        "texte_fr": "King[SP]Falcon"
     },
     {
         "id": 1846,
@@ -6773,7 +6773,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Pipe[SP]Fox",
-        "texte_fr": "Fox"
+        "texte_fr": "Pipe[SP]Fox"
     },
     {
         "id": 1847,
@@ -6781,7 +6781,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Megido[SP]Fire",
-        "texte_fr": "Fire"
+        "texte_fr": "Megido[SP]Fire"
     },
     {
         "id": 1848,
@@ -6845,7 +6845,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Buster[SP]Shot",
-        "texte_fr": "Shot"
+        "texte_fr": "Buster[SP]Shot"
     },
     {
         "id": 1856,
@@ -6853,7 +6853,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Bluster[SP]Shot",
-        "texte_fr": "Shot"
+        "texte_fr": "Bluster[SP]Shot"
     },
     {
         "id": 1857,
@@ -6861,7 +6861,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Super[SP]Nambu[SP]100",
-        "texte_fr": "100"
+        "texte_fr": "Super[SP]Nambu[SP]100"
     },
     {
         "id": 1858,
@@ -6869,7 +6869,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Nambu[SP]100",
-        "texte_fr": "100"
+        "texte_fr": "Nambu[SP]100"
     },
     {
         "id": 1859,
@@ -6877,7 +6877,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Namba[SP]1",
-        "texte_fr": "1"
+        "texte_fr": "Namba[SP]1"
     },
     {
         "id": 1860,
@@ -6885,7 +6885,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Automag[SP]Five",
-        "texte_fr": "Five"
+        "texte_fr": "Automag[SP]Five"
     },
     {
         "id": 1861,
@@ -6893,7 +6893,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Automag[SP]Four",
-        "texte_fr": "Four"
+        "texte_fr": "Automag[SP]Four"
     },
     {
         "id": 1862,
@@ -6901,7 +6901,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Autobag[SP]Seven",
-        "texte_fr": "Seven"
+        "texte_fr": "Autobag[SP]Seven"
     },
     {
         "id": 1863,
@@ -6909,7 +6909,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Eagle[SP]50AE",
-        "texte_fr": "50AE"
+        "texte_fr": "Eagle[SP]50AE"
     },
     {
         "id": 1864,
@@ -6917,7 +6917,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Desert[SP]Eagle",
-        "texte_fr": "Eagle"
+        "texte_fr": "Desert[SP]Eagle"
     },
     {
         "id": 1865,
@@ -6925,7 +6925,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Desert[SP]Swallow",
-        "texte_fr": "Swallow"
+        "texte_fr": "Desert[SP]Swallow"
     },
     {
         "id": 1866,
@@ -6933,7 +6933,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Long[SP]Hard[SP]Borer",
-        "texte_fr": "Borer"
+        "texte_fr": "Long[SP]Hard[SP]Borer"
     },
     {
         "id": 1867,
@@ -6941,7 +6941,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Hard[SP]Borer",
-        "texte_fr": "Borer"
+        "texte_fr": "Hard[SP]Borer"
     },
     {
         "id": 1868,
@@ -6949,7 +6949,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Hard[SP]Snorer",
-        "texte_fr": "Snorer"
+        "texte_fr": "Hard[SP]Snorer"
     },
     {
         "id": 1869,
@@ -6957,7 +6957,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Power[SP]Elite",
-        "texte_fr": "Elite"
+        "texte_fr": "Power[SP]Elite"
     },
     {
         "id": 1870,
@@ -6965,7 +6965,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Delta[SP]Elite",
-        "texte_fr": "Elite"
+        "texte_fr": "Delta[SP]Elite"
     },
     {
         "id": 1871,
@@ -6973,7 +6973,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Deltoid[SP]Elite",
-        "texte_fr": "Elite"
+        "texte_fr": "Deltoid[SP]Elite"
     },
     {
         "id": 1872,
@@ -6981,7 +6981,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Brenten[SP]Plus",
-        "texte_fr": "Plus"
+        "texte_fr": "Brenten[SP]Plus"
     },
     {
         "id": 1873,
@@ -7005,7 +7005,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Sauer[SP]P229",
-        "texte_fr": "P229"
+        "texte_fr": "Sauer[SP]P229"
     },
     {
         "id": 1876,
@@ -7021,7 +7021,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Uzi[SP]Eagle",
-        "texte_fr": "Eagle"
+        "texte_fr": "Uzi[SP]Eagle"
     },
     {
         "id": 1878,
@@ -7029,7 +7029,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Oozy[SP]Eagle",
-        "texte_fr": "Eagle"
+        "texte_fr": "Oozy[SP]Eagle"
     },
     {
         "id": 1879,
@@ -7061,7 +7061,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Beretta[SP]M93RR",
-        "texte_fr": "M93RR"
+        "texte_fr": "Beretta[SP]M93RR"
     },
     {
         "id": 1883,
@@ -7069,7 +7069,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Beretta[SP]M93R",
-        "texte_fr": "M93R"
+        "texte_fr": "Beretta[SP]M93R"
     },
     {
         "id": 1884,
@@ -7077,7 +7077,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Barrette[SP]M9<0004>3R",
-        "texte_fr": "M9<0004>3R"
+        "texte_fr": "Barrette[SP]M9<0004>3R"
     },
     {
         "id": 1885,
@@ -7085,7 +7085,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Vector[SP]SP1",
-        "texte_fr": "SP1"
+        "texte_fr": "Vector[SP]SP1"
     },
     {
         "id": 1886,
@@ -7093,7 +7093,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Vector[SP]CP1",
-        "texte_fr": "CP1"
+        "texte_fr": "Vector[SP]CP1"
     },
     {
         "id": 1887,
@@ -7101,7 +7101,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Hector[SP]BD1",
-        "texte_fr": "BD1"
+        "texte_fr": "Hector[SP]BD1"
     },
     {
         "id": 1888,
@@ -7109,7 +7109,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Walther[SP]P99",
-        "texte_fr": "P99"
+        "texte_fr": "Walther[SP]P99"
     },
     {
         "id": 1889,
@@ -7117,7 +7117,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Llama[SP]Lynx[SP]2",
-        "texte_fr": "2"
+        "texte_fr": "Llama[SP]Lynx[SP]2"
     },
     {
         "id": 1890,
@@ -7125,7 +7125,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Llama[SP]Lynx",
-        "texte_fr": "Lynx"
+        "texte_fr": "Llama[SP]Lynx"
     },
     {
         "id": 1891,
@@ -7133,7 +7133,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Lame[SP]Links",
-        "texte_fr": "Links"
+        "texte_fr": "Lame[SP]Links"
     },
     {
         "id": 1892,
@@ -7141,7 +7141,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Power[SP]Falcon",
-        "texte_fr": "Falcon"
+        "texte_fr": "Power[SP]Falcon"
     },
     {
         "id": 1893,
@@ -7149,7 +7149,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Astra[SP]Falcon",
-        "texte_fr": "Falcon"
+        "texte_fr": "Astra[SP]Falcon"
     },
     {
         "id": 1894,
@@ -7157,7 +7157,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Astra[SP]Filking",
-        "texte_fr": "Filking"
+        "texte_fr": "Astra[SP]Filking"
     },
     {
         "id": 1895,
@@ -7165,7 +7165,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Colt[SP]Pony",
-        "texte_fr": "Pony"
+        "texte_fr": "Colt[SP]Pony"
     },
     {
         "id": 1896,
@@ -7173,7 +7173,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Battle[SP]Naga",
-        "texte_fr": "Naga"
+        "texte_fr": "Battle[SP]Naga"
     },
     {
         "id": 1897,
@@ -7181,7 +7181,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Demolition[SP]Hand",
-        "texte_fr": "Hand"
+        "texte_fr": "Demolition[SP]Hand"
     },
     {
         "id": 1898,
@@ -7197,7 +7197,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Cat[SP]Punch",
-        "texte_fr": "Punch"
+        "texte_fr": "Cat[SP]Punch"
     },
     {
         "id": 1900,
@@ -7213,7 +7213,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Thousand[SP]Arms",
-        "texte_fr": "Arms"
+        "texte_fr": "Thousand[SP]Arms"
     },
     {
         "id": 1902,
@@ -7229,7 +7229,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Kitty[SP]Claws",
-        "texte_fr": "Claws"
+        "texte_fr": "Kitty[SP]Claws"
     },
     {
         "id": 1904,
@@ -7237,7 +7237,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Hell[SP]Hand",
-        "texte_fr": "Hand"
+        "texte_fr": "Hell[SP]Hand"
     },
     {
         "id": 1905,
@@ -7245,7 +7245,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Ogre[SP]Hand",
-        "texte_fr": "Hand"
+        "texte_fr": "Main[SP]ogre"
     },
     {
         "id": 1906,
@@ -7253,7 +7253,7 @@
         "data_size": 40,
         "slot_size": 40,
         "texte_orig": "Shinsa[SP]Bakunetsu[SP]Sho",
-        "texte_fr": "Sho"
+        "texte_fr": "Shinsa[SP]Bakunetsu[SP]Sho"
     },
     {
         "id": 1907,
@@ -7309,7 +7309,7 @@
         "data_size": 40,
         "slot_size": 40,
         "texte_orig": "Turbo[SP]Beating[SP]Device",
-        "texte_fr": "Device"
+        "texte_fr": "Turbo[SP]Beating[SP]Device"
     },
     {
         "id": 1914,
@@ -7317,7 +7317,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Beating[SP]Device",
-        "texte_fr": "Device"
+        "texte_fr": "Beating[SP]Device"
     },
     {
         "id": 1915,
@@ -7325,7 +7325,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Smacking[SP]Device",
-        "texte_fr": "Device"
+        "texte_fr": "Smacking[SP]Device"
     },
     {
         "id": 1916,
@@ -7333,7 +7333,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "High[SP]Jet[SP]Knuckle",
-        "texte_fr": "Knuckle"
+        "texte_fr": "High[SP]Jet[SP]Knuckle"
     },
     {
         "id": 1917,
@@ -7349,7 +7349,7 @@
         "data_size": 16,
         "slot_size": 16,
         "texte_orig": "Jet[SP]Nail",
-        "texte_fr": "Nail"
+        "texte_fr": "Jet[SP]Nail"
     },
     {
         "id": 1919,
@@ -7357,7 +7357,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Sun<Moon[SP]Kenkonken",
-        "texte_fr": "Kenkonken"
+        "texte_fr": "Sun<Moon[SP]Kenkonken"
     },
     {
         "id": 1920,
@@ -7365,7 +7365,7 @@
         "data_size": 42,
         "slot_size": 42,
         "texte_orig": "Bird<Turtle[SP]Kenkonken",
-        "texte_fr": "Kenkonken"
+        "texte_fr": "Bird<Turtle[SP]Kenkonken"
     },
     {
         "id": 1921,
@@ -7389,7 +7389,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Valley[SP]of[SP]Darkness",
-        "texte_fr": "Darkness"
+        "texte_fr": "Valley[SP]of[SP]Darkness"
     },
     {
         "id": 1924,
@@ -7397,7 +7397,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Stroke[SP]of[SP]Darkness",
-        "texte_fr": "Darkness"
+        "texte_fr": "Stroke[SP]of[SP]Darkness"
     },
     {
         "id": 1925,
@@ -7405,7 +7405,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Spoke[SP]of[SP]Darkness",
-        "texte_fr": "Darkness"
+        "texte_fr": "Spoke[SP]of[SP]Darkness"
     },
     {
         "id": 1926,
@@ -7413,7 +7413,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Megaten[SP]Glove",
-        "texte_fr": "Glove"
+        "texte_fr": "Megaten[SP]Glove"
     },
     {
         "id": 1927,
@@ -7421,7 +7421,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Megaton[SP]Glove",
-        "texte_fr": "Glove"
+        "texte_fr": "Megaton[SP]Glove"
     },
     {
         "id": 1928,
@@ -7429,7 +7429,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Megaphone[SP]Glove",
-        "texte_fr": "Glove"
+        "texte_fr": "Megaphone[SP]Glove"
     },
     {
         "id": 1929,
@@ -7437,7 +7437,7 @@
         "data_size": 24,
         "slot_size": 24,
         "texte_orig": "Jamadhar[SP]Set",
-        "texte_fr": "Set"
+        "texte_fr": "Jamadhar[SP]Set"
     },
     {
         "id": 1930,
@@ -7453,7 +7453,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Jammed[SP]Door",
-        "texte_fr": "Door"
+        "texte_fr": "Jammed[SP]Door"
     },
     {
         "id": 1932,
@@ -7461,7 +7461,7 @@
         "data_size": 32,
         "slot_size": 32,
         "texte_orig": "Guardian[SP]Knuckle",
-        "texte_fr": "Knuckle"
+        "texte_fr": "Guardian[SP]Knuckle"
     },
     {
         "id": 1933,
@@ -7469,7 +7469,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Rage[SP]Claw",
-        "texte_fr": "Claw"
+        "texte_fr": "Rage[SP]Claw"
     },
     {
         "id": 1934,
@@ -7477,7 +7477,7 @@
         "data_size": 34,
         "slot_size": 34,
         "texte_orig": "Bichawa[SP]Bagh[SP]Nakh",
-        "texte_fr": "Nakh"
+        "texte_fr": "Bichawa[SP]Bagh[SP]Nakh"
     },
     {
         "id": 1935,
@@ -7485,7 +7485,7 @@
         "data_size": 18,
         "slot_size": 18,
         "texte_orig": "Bagh[SP]Nakh",
-        "texte_fr": "Nakh"
+        "texte_fr": "Bagh[SP]Nakh"
     },
     {
         "id": 1936,
@@ -7525,7 +7525,7 @@
         "data_size": 22,
         "slot_size": 22,
         "texte_orig": "Mail[SP]Duster",
-        "texte_fr": "Duster"
+        "texte_fr": "Mail[SP]Duster"
     },
     {
         "id": 1941,
@@ -7533,7 +7533,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Knuckle[SP]Dusters",
-        "texte_fr": "Dusters"
+        "texte_fr": "Knuckle[SP]Dusters"
     },
     {
         "id": 1942,
@@ -7541,7 +7541,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Knuckle[SP]Biters",
-        "texte_fr": "Biters"
+        "texte_fr": "Knuckle[SP]Biters"
     },
     {
         "id": 1943,
@@ -7565,7 +7565,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "Clog[SP]Loves",
-        "texte_fr": "Loves"
+        "texte_fr": "Clog[SP]Loves"
     },
     {
         "id": 1946,
@@ -7661,7 +7661,7 @@
         "data_size": 20,
         "slot_size": 20,
         "texte_orig": "True[SP]Force",
-        "texte_fr": "Force"
+        "texte_fr": "True[SP]Force"
     },
     {
         "id": 1958,
@@ -7669,7 +7669,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "Legendary[SP]Supercase",
-        "texte_fr": "Supercase"
+        "texte_fr": "Legendary[SP]Supercase"
     },
     {
         "id": 1959,
@@ -7741,7 +7741,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "The[SP]And",
-        "texte_fr": "And"
+        "texte_fr": "The[SP]And"
     },
     {
         "id": 1968,
@@ -7749,7 +7749,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Quasar[SP]Launcher",
-        "texte_fr": "Launcher"
+        "texte_fr": "Quasar[SP]Launcher"
     },
     {
         "id": 1969,
@@ -7757,7 +7757,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Quasar[SP]Cannon",
-        "texte_fr": "Cannon"
+        "texte_fr": "Quasar[SP]Cannon"
     },
     {
         "id": 1970,
@@ -7765,7 +7765,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Queasy[SP]Cannon",
-        "texte_fr": "Cannon"
+        "texte_fr": "Queasy[SP]Cannon"
     },
     {
         "id": 1971,
@@ -7773,7 +7773,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Power[SP]Graviton",
-        "texte_fr": "Graviton"
+        "texte_fr": "Power[SP]Graviton"
     },
     {
         "id": 1972,
@@ -7805,7 +7805,7 @@
         "data_size": 38,
         "slot_size": 38,
         "texte_orig": "Full<Power[SP]Launcher",
-        "texte_fr": "Launcher"
+        "texte_fr": "Full<Power[SP]Launcher"
     },
     {
         "id": 1976,
@@ -7813,7 +7813,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Power[SP]Launcher",
-        "texte_fr": "Launcher"
+        "texte_fr": "Power[SP]Launcher"
     },
     {
         "id": 1977,
@@ -7821,7 +7821,7 @@
         "data_size": 26,
         "slot_size": 26,
         "texte_orig": "Power[SP]Luncher",
-        "texte_fr": "Luncher"
+        "texte_fr": "Power[SP]Luncher"
     },
     {
         "id": 1978,
@@ -7917,7 +7917,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Special[SP]Mission",
-        "texte_fr": "Mission"
+        "texte_fr": "Special[SP]Mission"
     },
     {
         "id": 1990,
@@ -7941,7 +7941,7 @@
         "data_size": 28,
         "slot_size": 28,
         "texte_orig": "Gatling[SP]Type[SP]2",
-        "texte_fr": "2"
+        "texte_fr": "Gatling[SP]Type[SP]2"
     },
     {
         "id": 1993,

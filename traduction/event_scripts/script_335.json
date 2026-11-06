@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Dude,[SP]you[SP]do[SP]the[SP]same[SP]thing,[SP]Ginko...[SP]Quit\nwasting[SP]your[SP]time[SP]picking[SP]fights[SP]with[SP]the\nsaleswoman.[1205][000F][SP]That's[SP]what[SP]Yukino-san[SP]would[SP]say.",
     "nom_fr": "Eikichi",
-    "texte_fr": "Toi aussi tu fais pareil, Ginko... Arrête\nde te battre avec la vendeuse comme\nça. [1205][000F]C'est ce que dirait Yukino-san."
+    "texte_fr": "Toi aussi tu fais pareil, Ginko... Arrête\nde te battre avec la vendeuse comme\nça. [1205][000F] C'est ce que dirait Yukino-san."
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Kehhei![SP]The[SP]city's[SP]a[SP]mess,[SP]but[SP]that[SP]saleswoman\nis[SP]still[SP]making[SP]eyes[SP]at[SP][1113].[1205][000F][SP]What[SP]a[SP]slut,\ngiving[SP]him[SP]those[SP]disgusting[SP]looks!",
     "nom_fr": "Ginko",
-    "texte_fr": "Kehhei! La ville est sens dessus dessous,\nmais cette vendeuse fait de l'œil à [1113].\n[1205][000F]Quelle traînée, ces regards écœurants!"
+    "texte_fr": "Kehhei! La ville est sens dessus dessous,\nmais cette vendeuse fait de l'œil à [1113].\n[1205][000F] Quelle traînée, ces regards écœurants!"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "nom_orig": "Maya",
     "texte_orig": "I[SP]wonder[SP]if[SP]Jun-kun[SP]feels[SP]guilty[SP]about[SP]giving\nthe[SP]order[SP]to[SP]protect[SP]the[SP]city's[SP]people...[1205][U+0019][SP]But\nif[SP]he[SP]hadn't,[SP]even[SP]more[SP]people[SP]would[SP]have[SP]died.",
     "nom_fr": "Maya",
-    "texte_fr": "Je me demande si Jun-kun se sent coupable\nd'avoir ordonné de protéger les gens...[1205][0019] Mais\ns'il ne l'avait pas fait, bien plus\nauraient péri."
+    "texte_fr": "Je me demande si Jun-kun se sent coupable\nd'avoir ordonné de protéger les gens...[1205][0019] Mais\ns'il ne l'avait pas fait, bien plus auraient\npéri."
   },
   {
     "id": 3,
@@ -87,7 +87,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Ah,[SP]welcome[SP]to[SP]Anima[SP]Mundi,[SP]where[SP]all[SP]fashion\nsprings[SP]from.[SP]How[SP]may[SP]I[SP]help[SP]you?\n[1208][0006]Buy[SP]armor\n[1210][U+0364]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Bienvenue chez Anima Mundi. Que \ndésirez-vous?\n[1208][0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter le magasin[0364]",
+    "texte_fr": "Bienvenue chez Anima Mundi. Que \ndésirez-vous?\n[1208][0006]Acheter armure\n[1210][U+0364]Acheter accessoires\nVendre objets\nParler à la vendeuse\nLaisser tomber\nQuitter le magasin",
     "question_orig": "Ah,[SP]welcome[SP]to[SP]Anima[SP]Mundi,[SP]where[SP]all[SP]fashion\nsprings[SP]from.[SP]How[SP]may[SP]I[SP]help[SP]you?",
     "choix_orig": [
       "Buy[SP]armor",
@@ -116,7 +116,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Et que vendrez-vous?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Et que vendrez-vous?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires",
     "question_orig": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -201,7 +201,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Et que vendrez-vous?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Et que vendrez-vous?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires",
     "question_orig": "And[SP]what[SP]will[SP]you[SP]be[SP]selling?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -287,7 +287,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Why[SP]don't[SP]we[SP]go[SP]make[SP]a[SP]few[SP]last[SP]memories[SP]of\nour[SP]lives[SP]as[SP]humans?[1205][000F][SP]Just[SP]ditch[SP]blondie[SP]there.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Et si on créait quelques derniers\nsouvenirs en tant qu'humains?\n[1205][000F]Laisse tomber le blond là."
+    "texte_fr": "Et si on créait quelques derniers\nsouvenirs en tant qu'humains?\n[1205][000F] Laisse tomber le blond là."
   },
   {
     "id": 14,
@@ -302,7 +302,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "I'm[SP]pretty[SP]sure[SP]I[SP]understand[SP]you[SP]as[SP]a[SP]person...[1205][000F]\nIt's[SP]useless[SP]to[SP]try[SP]and[SP]stop[SP]you.[1205][000A][SP]I[SP]know[SP]that.[1205][000F]\nI[SP]only[SP]want[SP]you[SP]to[SP]be[SP]safe...",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Je pense te connaître assez bien... Essayer\n[1205][000F]de t'arrêter ne sert à rien. Je le sais. Je\nveux juste que tu sois en sécurité..."
+    "texte_fr": "Je pense te connaître assez bien... Essayer\n[1205][000F] de t'arrêter ne sert à rien. Je le sais. Je\nveux juste que tu sois en sécurité..."
   },
   {
     "id": 15,
@@ -317,7 +317,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "I[SP]don't[SP]give[SP]a[SP]damn[SP]about[SP]blondie[SP]there...[1205][000F]\nBut[SP]you?[SP]I[SP]want[SP]you[SP]to[SP]come[SP]back[SP]to[SP]me[SP]safe.[1205][000F]\nThat's[SP]why[SP]I[SP]prepared[SP]my[SP]newest[SP]creations...",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Ce blond, je m'en fiche... Mais toi? [1205][000F]Je veux\nque tu reviennes sain et sauf. C'est\npourquoi j'ai préparé mes dernières\ncréations..."
+    "texte_fr": "Ce blond, je m'en fiche... Mais toi? [1205][000F]Je veux\nque tu reviennes sain et sauf. C'est pourquoi\nj'ai préparé mes dernières créations..."
   },
   {
     "id": 16,

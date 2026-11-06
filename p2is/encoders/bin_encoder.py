@@ -27,8 +27,13 @@ from p2is.core.text import _needs_nl_suffix, _align_menu_text, _align_mid_text
 from p2is.core.text import text_to_bytes
 from p2is.parsers.bin_parser import find_dialogs, _rebuild_choice_body
 def encode_bin_from_json(
-    bin_path: str, json_path: str, log_fn, out_path: str = None
+    bin_path: str, json_path: str, log_fn, out_path: str = None,
+    nl_from_original: bool = False,
 ) -> str:
+    """nl_from_original : ne mettre le [NL] final que si l'original en avait un.
+    Indispensable pour CD_SHOP (aucune réplique n'en a : l'ajouter coûtait
+    2 octets et coupait la fin de chaque réplique). Laissé à False pour
+    event.bin, dont le comportement est éprouvé depuis la v0.2.8."""
     data = bytearray(open(bin_path, "rb").read())
     dlgs_input = json.loads(open(json_path, encoding="utf-8").read(), strict=False)
     
@@ -75,11 +80,16 @@ def encode_bin_from_json(
         term = d.get("_term", [E1, E2, E3, E4])
         avail = d["data_size"] - (len(term) * 2)
         # NL avant terminateur : règle binaire universelle (event + MMAP + autres)
-        nl_suffix = (
-            struct.pack("<H", NL)
-            if _needs_nl_suffix(term, d.get("texte_orig", ""))
-            else b""
-        )
+        if nl_from_original:
+            fin = d["offset"] + avail
+            orig_nl = data[fin - 2 : fin] == struct.pack("<H", NL)
+            nl_suffix = struct.pack("<H", NL) if orig_nl else b""
+        else:
+            nl_suffix = (
+                struct.pack("<H", NL)
+                if _needs_nl_suffix(term, d.get("texte_orig", ""))
+                else b""
+            )
         # Aligner AVANT d'encoder (on a besoin d'avail pour le test d'alignement)
         enc_pre = text_to_bytes('"' + n_fr + "\n" + t_fr)
         t_fr = _align_menu_text(
@@ -253,7 +263,14 @@ def encode_bnp_from_json(
         is_menu = "[1208]" in d.get("texte_orig", "") or "[U+1208]" in d.get(
             "texte_orig", ""
         )
-        nl_sfx = struct.pack("<H", NL) if is_menu else b""
+        # On recopie ce que l'original avait juste avant le terminateur : certaines
+        # répliques MMAP finissent par [NL], d'autres non. Le réserver aux menus
+        # supprimait ce [NL] de centaines de répliques (le jeu ne trouve plus la
+        # fin du texte) ; l'ajouter partout en ajoute là où il n'y en avait pas.
+        nl_word = struct.pack("<H", NL)
+        fin = d["offset"] + avail
+        orig_nl = data[fin - 2 : fin] == nl_word
+        nl_sfx = nl_word if (is_menu or orig_nl) else b""
 
         # TRONCATURE AUTOMATIQUE SÉCURISÉE si le texte FR est trop long
         if len(enc) > avail - len(nl_sfx):

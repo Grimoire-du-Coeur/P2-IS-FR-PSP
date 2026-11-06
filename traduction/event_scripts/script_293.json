@@ -221,7 +221,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Sœur #3",
-    "texte_fr": "Alors, tu vends quoi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Alors, tu vends quoi?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires",
     "question_orig": "Now,[SP]what[SP]are[SP]you[SP]selling?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -442,7 +442,7 @@
     "nom_orig": "Young[SP]man",
     "texte_orig": "So[SP]what's[SP]your[SP]prediction?[1205][000F][SP]My[SP]friends[SP]and[SP]I\nhave[SP]our[SP]own[SP]theories.[SP]I'll[SP]let[SP]you[SP]know[SP]if\nwe[SP]come[SP]to[SP]a[SP]consensus.",
     "nom_fr": "Jeune homme",
-    "texte_fr": "C'est quoi votre pronostic? [1205][000F]Mes amis\net moi avons nos théories. Je vous\ndirai si on arrive à un consensus."
+    "texte_fr": "C'est quoi votre pronostic? [1205][000F] Mes amis\net moi avons nos théories. Je vous\ndirai si on arrive à un consensus."
   },
   {
     "id": 27,
@@ -576,7 +576,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Sœur #3",
-    "texte_fr": "Alors, que veux-tu vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Alors, que veux-tu vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires",
     "question_orig": "So,[SP]what[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -687,7 +687,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "First,[SP]buying[SP]things.[SP]If[SP]you[SP]select[SP][1432][NULL][NULL][0014]Buy[SP]items,[1432][NULL][NULL][0014]\nyou[SP]can[SP]choose[SP]from[SP]our[SP]sundries.",
     "nom_fr": "Sœur #3",
-    "texte_fr": "D'abord, les achats. Si vous choisissez\n[1432][NULL][NULL][0014] Acheter,[1432][NULL][NULL][0014] choisissez parmi nos articles."
+    "texte_fr": "D'abord, les achats. Si vous choisissez\n[1432][NULL][NULL][0014]Acheter,[1432][NULL][NULL][0014] choisissez parmi nos articles."
   },
   {
     "id": 40,
@@ -732,7 +732,7 @@
     "nom_orig": "Sister[SP]#3",
     "texte_orig": "Our[SP]resale[SP]prices[SP]are[SP]around[SP]half[SP]the[SP]original\nprice.[SP]You[SP]can't[SP]sell[SP]anything[SP]you[SP]have[SP]equipped,\nand[SP]some[SP]special[SP]items[SP]are[SP]off-limits[SP]too.",
     "nom_fr": "Sœur #3",
-    "texte_fr": "Nos prix de rachat sont environ la moitié du\nprix d'origine. Vous ne pouvez pas vendre ce\nque vous portez, ni certains objets\nspéciaux."
+    "texte_fr": "Nos prix de rachat sont environ la moitié du\nprix d'origine. Vous ne pouvez pas vendre ce\nque vous portez, ni certains objets spéciaux."
   },
   {
     "id": 43,
