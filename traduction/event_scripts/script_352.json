@@ -106,7 +106,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires",
     "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -196,7 +196,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires",
     "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -267,7 +267,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Dandelions[SP]will[SP]always[SP]be[SP]dandelions.[1205][000F][SP]They[SP]can\nevolve[SP]into[SP]Idealians,[SP]but[SP]they'll[SP]never[SP]be[SP]as\nbeautiful[SP]as[SP]we[SP]roses.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Un pissenlit reste un pissenlit. [1205][000F]Ils\npeuvent devenir des Idéaliens, mais\njamais aussi beaux que nous, les roses."
+    "texte_fr": "Un pissenlit reste un pissenlit. [1205][000F] Ils\npeuvent devenir des Idéaliens, mais\njamais aussi beaux que nous, les roses."
   },
   {
     "id": 12,
@@ -342,7 +342,7 @@
     "nom_orig": "Chatty[SP]woman",
     "texte_orig": "Hey,[SP]have[SP]you[SP]heard?[1205][000F][SP]The[SP]Last[SP]Battalion[SP]just\nstormed[SP]into[SP]that[SP]weird[SP]building.",
     "nom_fr": "Bavarde",
-    "texte_fr": "Vous avez entendu? [1205][000F]Le Bataillon\nvient d'envahir ce bâtiment bizarre."
+    "texte_fr": "Vous avez entendu? [1205][000F] Le Bataillon\nvient d'envahir ce bâtiment bizarre."
   },
   {
     "id": 17,
@@ -372,7 +372,7 @@
     "nom_orig": "Wealthy[SP]woman",
     "texte_orig": "I've[SP]always[SP]wanted[SP]to[SP]be[SP]rich.[1205][000F][SP]I[SP]talk[SP]like[SP]this\nand[SP]wear[SP]expensive[SP]clothes,[SP]but[SP]really,[SP]we're\nin[SP]the[SP]red...[1205][000F][SP]I[SP]work[SP]to[SP]repay[SP]my[SP]debt...",
     "nom_fr": "Femme aisée",
-    "texte_fr": "J'ai toujours voulu être [1205][000F]riche. Je parle\nainsi et porte des habits coûteux, mais en\nvrai je suis dans le rouge. Je bosse pour\npayer."
+    "texte_fr": "J'ai toujours voulu être [1205][000F] riche. Je parle\nainsi et porte des habits coûteux, mais en\nvrai je suis dans le rouge. Je bosse pour\npayer."
   },
   {
     "id": 19,
@@ -402,7 +402,7 @@
     "nom_orig": "Wealthy[SP]woman",
     "texte_orig": "Will[SP]I[SP]at[SP]least[SP]be[SP]happy?[1205][000F][SP]Will[SP]I[SP]find[SP]true\njoy...[SP]a[SP]purpose[SP]to[SP]my[SP]life?",
     "nom_fr": "Femme aisée",
-    "texte_fr": "Serai-je heureuse? [1205][000F]Trouverai-je\nla vraie joie, un sens à ma vie?"
+    "texte_fr": "Serai-je heureuse? [1205][000F] Trouverai-je\nla vraie joie, un sens à ma vie?"
   },
   {
     "id": 21,
@@ -502,7 +502,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Commençons par les achats.\nSélectionnez [1432][NULL][NULL][0014] Acheter armure[1432][NULL][NULL][0014]\npour acheter depuis notre stock."
+    "texte_fr": "Commençons par les achats.\nSélectionnez [1432][NULL][NULL][0014]Acheter armure[1432][NULL][NULL][0014]\npour acheter depuis notre stock."
   },
   {
     "id": 27,
@@ -577,7 +577,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Okay...[SP]Let's[SP]cover[SP]buying[SP]first.[SP]Select[SP][1432][NULL][NULL][0014]Buy\narmor[1432][NULL][NULL][0014][SP]and[SP]you[SP]can[SP]purchase[SP]from[SP]our[SP]stock\nof[SP]amazing[SP]armor.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Commençons par les achats.\nSélectionnez [1432][NULL][NULL][0014] Acheter armure[1432][NULL][NULL][0014]\npour acheter depuis notre stock."
+    "texte_fr": "Commençons par les achats.\nSélectionnez [1432][NULL][NULL][0014]Acheter armure[1432][NULL][NULL][0014]\npour acheter depuis notre stock."
   },
   {
     "id": 32,

@@ -365,7 +365,7 @@
         "data_size": 46,
         "slot_size": 46,
         "texte_orig": "Create[SP]Quest[SP])NOT[SP]USED*",
-        "texte_fr": "Create[SP]Quest[SP])NOT[SP]USED*"
+        "texte_fr": "Create[SP]Quest[SP](NOT[SP]USED)"
     },
     {
         "id": 4046,
@@ -397,7 +397,7 @@
         "data_size": 42,
         "slot_size": 42,
         "texte_orig": "Connection[SP])NOT[SP]USED*",
-        "texte_fr": "Connection[SP])NOT[SP]USED*"
+        "texte_fr": "Connection[SP](NOT[SP]USED)"
     },
     {
         "id": 4050,
@@ -573,7 +573,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Persona[SP]top[SP])TEMP*",
-        "texte_fr": "Persona[SP]top[SP])TEMP*"
+        "texte_fr": "Persona[SP]top[SP](TEMP)"
     },
     {
         "id": 4072,
@@ -581,7 +581,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Persona[SP]top[SP])TEMP*",
-        "texte_fr": "Persona[SP]top[SP])TEMP*"
+        "texte_fr": "Persona[SP]top[SP](TEMP)"
     },
     {
         "id": 4073,
@@ -909,7 +909,7 @@
         "data_size": 42,
         "slot_size": 42,
         "texte_orig": "Play[SP]quest[SP])NOT[SP]USED*",
-        "texte_fr": "Play[SP]quest[SP])NOT[SP]USED*"
+        "texte_fr": "Play[SP]quest[SP](NOT[SP]USED)"
     },
     {
         "id": 4114,
@@ -917,7 +917,7 @@
         "data_size": 46,
         "slot_size": 46,
         "texte_orig": "Create[SP]quest[SP])NOT[SP]USED*",
-        "texte_fr": "Create[SP]quest[SP])NOT[SP]USED*"
+        "texte_fr": "Create[SP]quest[SP](NOT[SP]USED)"
     },
     {
         "id": 4115,
@@ -957,7 +957,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Connect[SP])NOT[SP]USED*",
-        "texte_fr": "Connect[SP])NOT[SP]USED*"
+        "texte_fr": "Connect[SP](NOT[SP]USED)"
     },
     {
         "id": 4120,
@@ -2509,7 +2509,7 @@
         "data_size": 314,
         "slot_size": 314,
         "texte_orig": "Push[SP]the[SP]>[SP]button[SP]for[SP]4[SP]sets[SP]of[SP]10[SP]coins<FF03>)40[SP]coins*[SP]or[SP]the[SP]b[SP]button[SP]for[SP]4[SP]sets[SP]of<FF03>100[SP]coins<0004>[SP]You[SP]can[SP]press[SP]the[SP]`[SP]button[SP]to<FF03>shuffle[SP]the[SP]numbers[SP]on[SP]the[SP]cards<0004><FF03>",
-        "texte_fr": "Touche > pour 4 lots de 10 pieces<FF03>)40 pieces* ou touche b pour 4 lots<FF03>de 100 pieces<0004> Touche ` pour<FF03>melanger les numeros des cartes<0004><FF03>"
+        "texte_fr": "Touche > pour 4 lots de 10 pieces<FF03>(40 pieces) ou touche b pour 4 lots<FF03>de 100 pieces<0004> Touche ` pour<FF03>melanger les numeros des cartes<0004><FF03>"
     },
     {
         "id": 4314,
@@ -2533,7 +2533,7 @@
         "data_size": 250,
         "slot_size": 250,
         "texte_orig": "a100000[SP]Coins<FF03>You[SP]win[SP]100<0003>000[SP]coins[SP]by[SP]extending[SP]the[SP]frame<FF03>to[SP]its[SP]maximum[SP])seven[SP]times*[SP]with[SP]Frame[SP]Extend<FF03>to[SP]get[SP]five[SP]stars<0004><FF03>",
-        "texte_fr": "a100000 pieces<FF03>Gagnez 100<0003>000 pieces en etendant le<FF03>cadre au maximum )sept fois* avec<FF03>Cadre Etendu pour cinq etoiles<0004><FF03>"
+        "texte_fr": "a100000 pieces<FF03>Gagnez 100<0003>000 pieces en etendant le<FF03>cadre au maximum (sept fois) avec<FF03>Cadre Etendu pour cinq etoiles<0004><FF03>"
     },
     {
         "id": 4317,
@@ -2541,7 +2541,7 @@
         "data_size": 216,
         "slot_size": 216,
         "texte_orig": "aTake[SP]2[SP]Steps)Yx6*<FF03>The[SP]gauge[SP]above[SP]the[SP]reel[SP]slides[SP]2[SP]spaces[SP]left<0004><FF03>[SP]<FF03>a50000[SP]Coins)Yx9*<FF03>You[SP]win[SP]50<0003>000[SP]coins<0004><FF03>",
-        "texte_fr": "aAvance 2 Crans)Yx6*<FF03>La jauge glisse de 2 crans a gauche<0004><FF03> <FF03>a50000 pieces)Yx9*<FF03>Gagnez 50<0003>000 pieces<0004><FF03>"
+        "texte_fr": "aAvance 2 Crans(Yx6)<FF03>La jauge glisse de 2 crans a gauche<0004><FF03> <FF03>a50000 pieces(Yx9)<FF03>Gagnez 50<0003>000 pieces<0004><FF03>"
     },
     {
         "id": 4318,
@@ -2549,7 +2549,7 @@
         "data_size": 230,
         "slot_size": 230,
         "texte_orig": "aFrame[SP]Default)Yx4*<FF03>The[SP]extended[SP]frame[SP]on[SP]the[SP]gauge[SP]is[SP]reset<0004><FF03>[SP]<FF03>aFrame[SP]Extend)Yx5*<FF03>The[SP]frame[SP]extends[SP]by[SP]one[SP]space<0004><FF03>",
-        "texte_fr": "aCadre Initial)Yx4*<FF03>Le cadre etendu est remis a zero<0004><FF03> <FF03>aCadre Etendu)Yx5*<FF03>Le cadre s'etend d'un cran<0004><FF03>"
+        "texte_fr": "aCadre Initial(Yx4)<FF03>Le cadre etendu est remis a zero<0004><FF03> <FF03>aCadre Etendu(Yx5)<FF03>Le cadre s'etend d'un cran<0004><FF03>"
     },
     {
         "id": 4319,
@@ -2557,7 +2557,7 @@
         "data_size": 252,
         "slot_size": 252,
         "texte_orig": "aWipe)Yx2<0001>Yx7*<FF03>The[SP]picture[SP]above[SP]the[SP]reel[SP]will[SP]disappear<0004><FF03>[SP]<FF03>aTake[SP]3[SP]Steps)Yx3*<FF03>The[SP]gauge[SP]above[SP]the[SP]reel[SP]slides[SP]3[SP]spaces[SP]left<0004><FF03>",
-        "texte_fr": "aEffacement)Yx2<0001>Yx7*<FF03>L'image au-dessus du rouleau disparait<0004><FF03> <FF03>aAvance 3 Crans)Yx3*<FF03>La jauge glisse de 3 crans a gauche<0004><FF03>"
+        "texte_fr": "aEffacement(Yx2<0001>Yx7)<FF03>L'image au-dessus du rouleau disparait<0004><FF03> <FF03>aAvance 3 Crans(Yx3)<FF03>La jauge glisse de 3 crans a gauche<0004><FF03>"
     },
     {
         "id": 4320,
@@ -2565,7 +2565,7 @@
         "data_size": 196,
         "slot_size": 196,
         "texte_orig": "a500[SP]Coins)Yx0*<FF03>You[SP]win[SP]500[SP]coins<0004><FF03>[SP]<FF03>a<0008>Appearance)Yx1<0001>Yx8*<FF03>A[SP]picture[SP]will[SP]show[SP]up[SP]above[SP]the[SP]reel<0004><FF03>",
-        "texte_fr": "a500 pieces)Yx0*<FF03>Gagnez 500 pieces<0004><FF03> <FF03>a?Apparition)Yx1<0001>Yx8*<FF03>Une image apparait sur le rouleau<0004><FF03>"
+        "texte_fr": "a500 pieces(Yx0)<FF03>Gagnez 500 pieces<0004><FF03> <FF03>a?Apparition(Yx1<0001>Yx8)<FF03>Une image apparait sur le rouleau<0004><FF03>"
     },
     {
         "id": 4321,
@@ -2661,7 +2661,7 @@
         "data_size": 174,
         "slot_size": 174,
         "texte_orig": "a7[SP]Cards<FF03>If[SP]you[SP]draw[SP]7[SP]cards[SP]whose[SP]total[SP]is[SP]under<FF03>21<0004>[SP])This[SP]will[SP]Stand[SP]automatically<0004>*<FF03>",
-        "texte_fr": "a7 Cartes<FF03>Sept cartes dont le total reste<FF03>sous 21<0004> )Rester est automatique<0004>*<FF03>"
+        "texte_fr": "a7 Cartes<FF03>Sept cartes dont le total reste<FF03>sous 21<0004> (Rester est automatique<0004>)<FF03>"
     },
     {
         "id": 4333,
@@ -2677,7 +2677,7 @@
         "data_size": 322,
         "slot_size": 322,
         "texte_orig": "aB<0004>JACK)Blackjack*<FF03>If[SP]you[SP]have[SP]an[SP]Ace[SP]with[SP]a[SP]10<K<0004><FF03>)You[SP]will[SP]Stand[SP]automatically<0004>*<FF03>If[SP]you[SP]have[SP]Split<0003>[SP]this[SP]is[SP]not[SP]counted<FF03>as[SP]Blackjack[SP]and[SP]counts[SP]as[SP]21[SP]instead<0004><FF03>",
-        "texte_fr": "aB<0004>JACK)Blackjack*<FF03>Un As avec un 10<K<0004><FF03>)Rester est automatique<0004>*<FF03>Apres un Split<0003> cela ne compte pas<FF03>comme Blackjack mais comme 21<0004><FF03>"
+        "texte_fr": "aB<0004>JACK(Blackjack)<FF03>Un As avec un 10<K<0004><FF03>(Rester est automatique<0004>)<FF03>Apres un Split<0003> cela ne compte pas<FF03>comme Blackjack mais comme 21<0004><FF03>"
     },
     {
         "id": 4335,
@@ -2709,7 +2709,7 @@
         "data_size": 370,
         "slot_size": 370,
         "texte_orig": "You[SP]will[SP]automatically[SP]Stand[SP]when<0006><FF03><0005>Your[SP]first[SP]two[SP]cards[SP]are[SP]Blackjack<FF03><0005>The[SP]sum[SP]total[SP]of[SP]your[SP]cards[SP]is[SP]21<FF03><0005>You[SP]have[SP]7[SP]cards[SP]in[SP]your[SP]hand<FF03><0005>The[SP]sum[SP]total[SP]of[SP]your[SP]cards[SP]exceeds<FF03>[SP]21[SP])Bust*<FF03>",
-        "texte_fr": "Rester est automatique si<0006><FF03><0005>Vos deux premieres cartes font<FF03> Blackjack<FF03><0005>Le total de vos cartes fait 21<FF03><0005>Vous avez 7 cartes en main<FF03><0005>Le total depasse 21 )Saute*<FF03>"
+        "texte_fr": "Rester est automatique si<0006><FF03><0005>Vos deux premieres cartes font<FF03> Blackjack<FF03><0005>Le total de vos cartes fait 21<FF03><0005>Vous avez 7 cartes en main<FF03><0005>Le total depasse 21 (Saute)<FF03>"
     },
     {
         "id": 4339,
@@ -2805,7 +2805,7 @@
         "data_size": 432,
         "slot_size": 432,
         "texte_orig": "You[SP]will[SP]automatically[SP]Stand[SP]when<0006><FF03><0005>Your[SP]initial[SP]two[SP]cards[SP]are[SP]a[SP]combination<FF03>of[SP]an[SP]Ace[SP]and[SP]a[SP]10<K[SP])Blackjack*<FF03><0005>The[SP]sum[SP]total[SP]of[SP]your[SP]cards[SP]is[SP]21<FF03><0005>You[SP]have[SP]7[SP]cards[SP]in[SP]your[SP]hand<FF03><0005>The[SP]sum[SP]total[SP]of[SP]your[SP]cards[SP]exceeds[SP]21<FF03>",
-        "texte_fr": "Rester est automatique si<0006><FF03><0005>Vos deux premieres cartes font un As<FF03> et un 10<K )Blackjack*<FF03><0005>Le total de vos cartes fait 21<FF03><0005>Vous avez 7 cartes en main<FF03><0005>Le total de vos cartes depasse 21<FF03>"
+        "texte_fr": "Rester est automatique si<0006><FF03><0005>Vos deux premieres cartes font un As<FF03> et un 10<K (Blackjack)<FF03><0005>Le total de vos cartes fait 21<FF03><0005>Vous avez 7 cartes en main<FF03><0005>Le total de vos cartes depasse 21<FF03>"
     },
     {
         "id": 4351,
@@ -2821,7 +2821,7 @@
         "data_size": 484,
         "slot_size": 484,
         "texte_orig": "In[SP]MANUAL[SP]mode<0003>[SP]compare[SP]the[SP]dealer&s[SP]card[SP]to<FF03>yours[SP]to[SP]decide[SP]whether[SP]to[SP]draw[SP]a[SP]card<0004><FF03>If[SP]you[SP]want[SP]to[SP]draw[SP])or[SP]Hit*<0003>[SP]press[SP]the[SP]><FF03>button<0004>[SP]To[SP]Stand<0003>[SP]press[SP]the[SP][[SP]button<0004><FF03>You[SP]can[SP]draw[SP]up[SP]to[SP]five[SP]cards[SP]as[SP]long[SP]as<FF03>their[SP]sum[SP]total[SP]does[SP]not[SP]exceed[SP]21<0004><FF03>",
-        "texte_fr": "En mode MANUEL<0003> comparez la carte du<FF03>croupier a la votre pour decider de<FF03>tirer<0004> Pour tirer )Hit*<0003> touche ><0004><FF03>Pour Rester<0003> touche [<0004> Vous pouvez<FF03>tirer jusqu'a cinq cartes tant que le<FF03>total ne depasse pas 21<0004><FF03>"
+        "texte_fr": "En mode MANUEL<0003> comparez la carte du<FF03>croupier a la votre pour decider de<FF03>tirer<0004> Pour tirer (Hit)<0003> touche ><0004><FF03>Pour Rester<0003> touche [<0004> Vous pouvez<FF03>tirer jusqu'a cinq cartes tant que le<FF03>total ne depasse pas 21<0004><FF03>"
     },
     {
         "id": 4353,

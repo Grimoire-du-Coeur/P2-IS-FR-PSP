@@ -42,7 +42,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Hey,[SP]this[SP]guy[SP]says[SP]he's[SP]in[SP]the[SP]Masked[SP]Circle.\nShould[SP]we[SP]tell[SP]him[SP]that[SP]even[SP]with[SP]the[SP]best\narmor,[SP]he's[SP]screwed[SP]if[SP]he[SP]messes[SP]with[SP]us?",
     "nom_fr": "Ginko",
-    "texte_fr": "Hé, ce gars dit être membre du Cercle\nMasqué. On le prévient que même avec la\nmeilleure armure, on l'explosera s'il nous\ncherche?"
+    "texte_fr": "Hé, ce gars dit être membre du Cercle Masqué.\nOn le prévient que même avec la meilleure\narmure, on l'explosera s'il nous cherche?"
   },
   {
     "id": 3,
@@ -72,7 +72,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Umm...[1205][000A][SP]A-Are[SP]you[SP]the[SP]owner's[SP]son?[1205][000F][SP]H-Hello...",
     "nom_fr": "Maya",
-    "texte_fr": "Hum, Êtes-vous le fils du gérant? [1205][000F]Salut..."
+    "texte_fr": "Hum, Êtes-vous le fils du gérant? [1205][000F] Salut..."
   },
   {
     "id": 5,
@@ -102,7 +102,7 @@
     "nom_orig": "Jun",
     "texte_orig": "Try[SP]not[SP]to[SP]pick[SP]on[SP]them[SP]too[SP]much,[SP]Lisa...[1205][001E]\nThey[SP]are[SP]in[SP]the[SP]Masked[SP]Circle,[SP]but[SP]apart[SP]from\nthat,[SP]they're[SP]no[SP]different[SP]from[SP]anyone[SP]else...",
     "nom_fr": "Jun",
-    "texte_fr": "Ne sois pas trop rude avec eux, Lisa...[1205][001E] Ils ont beau être dans le Cercle Masqué,\nce sont des gens comme les autres..."
+    "texte_fr": "Ne sois pas trop rude avec eux, Lisa...[1205][001E]\nIls ont beau être dans le Cercle Masqué,\nce sont des gens comme les autres..."
   },
   {
     "id": 7,
@@ -160,7 +160,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Siffleur",
-    "texte_fr": "Qu'est-ce que t'as pour moi ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Qu'est-ce que t'as pour moi ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires",
     "question_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -261,7 +261,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "Looks[SP]like[SP]our[SP]comrades[SP]are[SP]fighting[SP]against\nthe[SP]Last[SP]Battalion[SP]inside[SP]that[SP]temple[SP]as[SP]we\nspeak.[1205][000F][SP]I[SP]better[SP]hurry[SP]and[SP]help[SP]them!",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "Nos camarades semblent encore se battre\ncontre le Bataillon dans le temple.\nJe [1205][000F]dois me dépêcher d'aller les aider!"
+    "texte_fr": "Nos camarades semblent encore se battre\ncontre le Bataillon dans le temple.\nJe [1205][000F] dois me dépêcher d'aller les aider!"
   },
   {
     "id": 15,
@@ -276,7 +276,7 @@
     "nom_orig": "Masked[SP]Circle[SP]member",
     "texte_orig": "...But[SP]the[SP]armor[SP]here[SP]is[SP]a[SP]little[SP]pricey...[1205][000F]\nAnd[SP]going[SP]into[SP]battle[SP]without[SP]it[SP]is[SP]suicide...[1205][000F]\nI've[SP]gotta[SP]do[SP]something[SP]about[SP]that[SP]first...",
     "nom_fr": "Membre du Cercle masqué",
-    "texte_fr": "... Mais les armures ici ne sont pas\n[1205][000F]données... Et aller au front sans serait du\nsuicide... Je dois d'abord m'occuper de\nça..."
+    "texte_fr": "... Mais les armures ici ne sont pas\n[1205][000F]données... Et aller au front sans serait du\nsuicide... Je dois d'abord m'occuper de ça..."
   },
   {
     "id": 16,
@@ -319,7 +319,7 @@
     "nom_orig": "Whistler",
     "texte_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Siffleur",
-    "texte_fr": "Qu'est-ce que t'as pour moi ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Qu'est-ce que t'as pour moi ?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure\n[111F][1210][B_00][U+5301][B_00]Jambes\n[111F]Accessoires",
     "question_orig": "What[SP]have[SP]you[SP]got[SP]for[SP]me?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",

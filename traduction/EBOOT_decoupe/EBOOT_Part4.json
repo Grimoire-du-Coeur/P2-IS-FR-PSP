@@ -61,7 +61,7 @@
         "data_size": 224,
         "slot_size": 224,
         "texte_orig": "This[SP]flower&s[SP]meaning[SP]is[SP](I[SP]won&t[SP]forget<FF03>you<0004>([SP]The[SP]illusion[SP]of[SP]young[SP]Jun[SP]left[SP]it<0004><FF03>He[SP]must[SP]yearn[SP]for[SP]<FF11>&s[SP]help<0004><0004><0004><FF03>",
-        "texte_fr": "Le langage de cette fleur est (Je n'oublierai pas(<0004><FF03>"
+        "texte_fr": "Le langage de cette fleur est \"Je n'oublierai pas\"<0004><FF03>"
     },
     {
         "id": 3008,
@@ -69,7 +69,7 @@
         "data_size": 244,
         "slot_size": 244,
         "texte_orig": "This[SP]flower&s[SP]meaning[SP]is[SP](deep[SP]regret<0004>(<FF03>The[SP]illusion[SP]of[SP]young[SP]Jun[SP]left[SP]it[SP]behind<0004><FF03>Jun[SP]may[SP]be[SP]aware[SP]of[SP]his[SP]false[SP]memory<0004><0004><0004><FF03>",
-        "texte_fr": "Le langage de cette fleur est (Profonds regrets(<0004><FF03>"
+        "texte_fr": "Le langage de cette fleur est \"Profonds regrets\"<0004><FF03>"
     },
     {
         "id": 3009,
@@ -77,7 +77,7 @@
         "data_size": 214,
         "slot_size": 214,
         "texte_orig": "This[SP]flower&s[SP]meaning[SP]is[SP](forgiveness<0004>(<FF03>Maya[SP]gave[SP]it[SP]to[SP]Jun<0004>[SP]It[SP]seems[SP]to[SP]convey<FF03>Maya&s[SP]intense[SP]emotions<0004><0004><0004><FF03>",
-        "texte_fr": "Le langage de cette fleur est (Le pardon(<0004><FF03>"
+        "texte_fr": "Le langage de cette fleur est \"Le pardon\"<0004><FF03>"
     },
     {
         "id": 3010,
@@ -85,7 +85,7 @@
         "data_size": 238,
         "slot_size": 238,
         "texte_orig": "This[SP]flower&s[SP]meaning[SP]is[SP](thinking[SP]of<FF03>you<0004>([SP]Joker<<Jun[SP]Kurosu<<left[SP]it[SP]behind<0004><FF03>You[SP]can[SP]sense[SP]his[SP]sadness[SP]through[SP]it<0004><0004><0004><FF03>",
-        "texte_fr": "Le langage de cette fleur est (Pensées pour toi(<0004><FF03>"
+        "texte_fr": "Le langage de cette fleur est \"Pensees pour<FF03>toi\"<0004> Joker<<Jun Kurosu<<l&a laissee<0004><FF03>On y sent sa tristesse<0004><0004><0004><FF03>"
     },
     {
         "id": 3011,
@@ -93,7 +93,7 @@
         "data_size": 242,
         "slot_size": 242,
         "texte_orig": "This[SP]flower&s[SP]meaning[SP]is[SP](remember<0004>([SP]Joker<FF03>gave[SP]it[SP]to[SP]King[SP]Leo[SP]to[SP]pass[SP]on[SP]to[SP]<FF11><0004><FF03>What[SP]happened[SP]that[SP]day[SP]ten[SP]years[SP]ago<0004><0004><0004><0008><FF03>",
-        "texte_fr": "Le langage de cette fleur est (Souviens-toi(<0004>[SP]Joker<FF03>"
+        "texte_fr": "Le langage de cette fleur est \"Souviens-toi\"<0004>[SP]Joker<FF03>"
     },
     {
         "id": 3012,
@@ -101,7 +101,7 @@
         "data_size": 196,
         "slot_size": 196,
         "texte_orig": "This[SP]flower&s[SP]meaning[SP]is[SP](war<0004>([SP]Joker<FF03>threw[SP]it[SP]at[SP]<FF11>[SP]and[SP]the[SP]others<0004><FF03>What[SP]war[SP]is[SP]he[SP]hinting[SP]at<0004><0004><0004><0008><FF03>",
-        "texte_fr": "Le langage de cette fleur est (La guerre(<0004>[SP]Joker<FF03>"
+        "texte_fr": "Le langage de cette fleur est \"La guerre\"<0004>[SP]Joker<FF03>"
     },
     {
         "id": 3013,
@@ -109,7 +109,7 @@
         "data_size": 218,
         "slot_size": 218,
         "texte_orig": "This[SP]flower&s[SP]meaning[SP]is[SP](revenge<0004>([SP]Joker<FF03>threw[SP]it[SP]at[SP]<FF11>[SP]and[SP]the[SP]others<0004>[SP]Why<FF03>does[SP]he[SP]want[SP]revenge[SP]on[SP]them<0004><0004><0004><0008><FF03>",
-        "texte_fr": "Le langage de cette fleur est (La vengeance(<0004>[SP]Joker<FF03>"
+        "texte_fr": "Le langage de cette fleur est \"La vengeance\"<0004>[SP]Joker<FF03>"
     },
     {
         "id": 3014,
@@ -5517,7 +5517,7 @@
         "data_size": 152,
         "slot_size": 152,
         "texte_orig": "Founder[SP]of[SP]Buddhism<0004>[SP]Abbreviation[SP]for<FF03>Sakyamuni<0003>[SP](holy[SP]man[SP]of[SP]the[SP]Sakyans<0004>(<FF03>",
-        "texte_fr": "Fondateur[SP]du[SP]bouddhisme<0004>[SP]Abréviation[SP]de<FF03>Sakyamuni<0003>[SP](saint[SP]homme[SP]des[SP]Sakya(<0004><FF03>"
+        "texte_fr": "Fondateur[SP]du[SP]bouddhisme<0004>[SP]Abréviation[SP]de<FF03>Sakyamuni<0003>[SP]\"saint[SP]homme[SP]des[SP]Sakya\"<0004><FF03>"
     },
     {
         "id": 3690,
@@ -5757,7 +5757,7 @@
         "data_size": 30,
         "slot_size": 30,
         "texte_orig": "Kushiel[SP])temp*<FF03>",
-        "texte_fr": "Kushiel[SP])temp*<FF03>"
+        "texte_fr": "Kushiel[SP](temp)<FF03>"
     },
     {
         "id": 3720,
@@ -5765,7 +5765,7 @@
         "data_size": 36,
         "slot_size": 36,
         "texte_orig": "Persephone[SP])temp*<FF03>",
-        "texte_fr": "Persephone[SP])temp*<FF03>"
+        "texte_fr": "Persephone[SP](temp)<FF03>"
     },
     {
         "id": 3721,
@@ -5797,7 +5797,7 @@
         "data_size": 128,
         "slot_size": 128,
         "texte_orig": "Famous[SP]for[SP]asking[SP](Am[SP]I[SP]pretty<0008>(<FF03>Her[SP]mouth[SP]is[SP]split[SP]ear[SP]to[SP]ear<0004><FF03>",
-        "texte_fr": "Célèbre[SP]pour[SP]demander[SP](Suis-je[SP]belle[SP]?(<FF03>Sa[SP]bouche[SP]est[SP]fendue[SP]j<0004><FF03>"
+        "texte_fr": "Célèbre[SP]pour[SP]demander[SP]\"Suis-je[SP]belle[SP]?\"<FF03>Sa[SP]bouche[SP]est[SP]fendue[SP]j<0004><FF03>"
     },
     {
         "id": 3725,
@@ -6821,7 +6821,7 @@
         "data_size": 152,
         "slot_size": 152,
         "texte_orig": "Founder[SP]of[SP]Buddhism<0004>[SP]Abbreviation[SP]for<FF03>Sakyamuni<0003>[SP](holy[SP]man[SP]of[SP]the[SP]Sakyans<0004>(<FF03>",
-        "texte_fr": "Fondateur[SP]du[SP]bouddhisme<0004>[SP]Abréviation[SP]de<FF03>Sakyamuni<0003>[SP](saint[SP]homme[SP]des[SP]Sakya(<0004><FF03>"
+        "texte_fr": "Fondateur[SP]du[SP]bouddhisme<0004>[SP]Abréviation[SP]de<FF03>Sakyamuni<0003>[SP]\"saint[SP]homme[SP]des[SP]Sakya\"<0004><FF03>"
     },
     {
         "id": 3853,

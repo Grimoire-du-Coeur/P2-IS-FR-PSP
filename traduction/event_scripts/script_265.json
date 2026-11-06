@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "By[SP]the[SP]way,[SP][1113],[SP]did[SP]you[SP]get[SP]the[SP]reward\nfrom[SP]him[SP]yet?[SP]I[SP]can't[SP]wait[SP]to[SP]see[SP]the[SP]loot\nhe's[SP]gonna[SP]give[SP]us!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Au fait, [1113], t'as eu la récompense de ce gars?\nJ'ai hâte de voir ce qu'il va nous donner!"
+    "texte_fr": "Au fait, [1113], t'as eu la\nrécompense de ce gars? J'ai hâte\nde voir ce qu'il va nous donner!"
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "So[SP]what[SP]did[SP]he[SP]give[SP]you,[SP][1113]?[SP]Ooh,[SP]a\n[E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]?[SP]Righteous![E1][E2]\n\n[E3][E4][NULL][NULL]\"Lisa\nNow[SP]that[SP]I[SP]think[SP]about[SP]it,[SP]you[SP]could[SP]call\nghost[SP]stories[SP]rumors,[SP]in[SP]a[SP]way...[1205][000F][SP]Then[SP]could\nthis[SP]be...?",
     "nom_fr": "Eikichi",
-    "texte_fr": "Alors qu'a-t-il donné, [1113]? Oh, du [E4][NULL][NULL][0004][NULL][NULL][0002]Thé Brink[E4][NULL][NULL][0002]?\nSuper![E1][E2] [E3][E4][NULL][NULL]\"Lisa A y penser, les histoires de\nfantômes sont des rumeurs...[1205][000F] Alors ça veut\ndire...?[1433]"
+    "texte_fr": "Alors qu'a-t-il donné, [1113]?\nOh, du [E4][NULL][NULL][0004][NULL][NULL][0002]Thé Brink[E4][NULL][NULL][0002]? Super![E1][E2]\n\n[E3][E4][NULL][NULL]\"Lisa\nA y penser, les histoires de\nfantômes sont des rumeurs...[1205][000F] Alors ça veut\ndire...?"
   },
   {
     "id": 4,
@@ -147,7 +147,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "We're[SP]ready[SP]to[SP]go![1205][000F][SP]All[SP]that's[SP]left[SP]is[SP]to\nbeat[SP]Hanako![SP]Let's[SP]do[SP]this,[SP]Chinyan!",
     "nom_fr": "Lisa",
-    "texte_fr": "On est prêts! [1205][000F]Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
+    "texte_fr": "On est prêts! [1205][000F] Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
   },
   {
     "id": 10,
@@ -162,7 +162,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "We're[SP]ready[SP]to[SP]go![1205][000F][SP]All[SP]that's[SP]left[SP]is[SP]to\nbeat[SP]Hanako![SP]Let's[SP]do[SP]this,[SP]Chinyan!",
     "nom_fr": "Ginko",
-    "texte_fr": "On est prêts! [1205][000F]Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
+    "texte_fr": "On est prêts! [1205][000F] Il ne reste plus qu'à\nvaincre Hanako! Allons-y, Chinyan!"
   },
   {
     "id": 11,
@@ -237,7 +237,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "Hanako,[SP]huh?[1205][000F][SP]She's[SP]a[SP]tough[SP]nut[SP]to[SP]crack...[1205][000F]\nShe's[SP]resistant[SP]to[SP]fire[SP]and[SP]physical[SP]attacks.",
     "nom_fr": "Yukino",
-    "texte_fr": "Hanako, hein? [1205][000F]Elle n'est pas facile... Elle\nrésiste au feu et aux attaques physiques."
+    "texte_fr": "Hanako, hein? [1205][000F] Elle n'est pas facile... Elle\nrésiste au feu et aux attaques physiques."
   },
   {
     "id": 16,
@@ -522,7 +522,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "Whoa![SP]This[SP]is[SP]great,[SP]Senpai![SP]S-So[SP]you[SP]brought\nback[SP][E4][NULL][NULL][0006]Hanako's[SP]Nametag[E4][NULL][NULL][0002],[SP]huh?[SP]I-I'm[SP]gonna[SP]show\nthis[SP]to[SP]all[SP]those[SP]doubters[SP]right[SP]now!",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Ouah! C'est super, senpai! V-Vous avez\nramené le [E4][NULL][NULL][0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais\nmontrer ça à tous ces incrédules tout de\nsuite!"
+    "texte_fr": "Ouah! C'est super, senpai! V-Vous avez ramené\nle [E4][NULL][NULL][0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout de suite!"
   },
   {
     "id": 35,
@@ -537,7 +537,7 @@
     "nom_orig": "Bandaged[SP]male[SP]student",
     "texte_orig": "As[SP]thanks,[SP]I'll[SP]give[SP]you[SP]5[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]s!",
     "nom_fr": "Lycéen blessé",
-    "texte_fr": "Pour te remercier, je te donne 5 [E4][NULL][NULL][0004][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]![1433]"
+    "texte_fr": "Pour te remercier, je te donne 5 [E4][NULL][NULL][0004][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]!"
   },
   {
     "id": 36,
@@ -552,7 +552,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "Whoa![SP]This[SP]is[SP]great,[SP]Senpai![SP]S-So[SP]you[SP]brought\nback[SP][E4][NULL][NULL][0006]Hanako's[SP]Nametag[E4][NULL][NULL][0002],[SP]huh?[SP]I-I'm[SP]gonna[SP]show\nthis[SP]to[SP]all[SP]those[SP]doubters[SP]right[SP]now!",
     "nom_fr": "Lycéen",
-    "texte_fr": "Ouah! C'est super, senpai! V-Vous avez\nramené le [E4][NULL][NULL][0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais\nmontrer ça à tous ces incrédules tout de\nsuite!"
+    "texte_fr": "Ouah! C'est super, senpai! V-Vous avez ramené\nle [E4][NULL][NULL][0006]Badge de Hanako[E4][NULL][NULL][0002], hein? J-Je vais montrer\nça à tous ces incrédules tout de suite!"
   },
   {
     "id": 37,
@@ -567,7 +567,7 @@
     "nom_orig": "Male[SP]student",
     "texte_orig": "As[SP]thanks,[SP]I'll[SP]give[SP]you[SP]5[SP][E4][NULL][NULL][0004][U+1433][NULL][NULL][0002]Brink[SP]Tea[E4][NULL][NULL][0002]s!",
     "nom_fr": "Lycéen",
-    "texte_fr": "En remerciement, 5 [E4][NULL][NULL][0004][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]![1433]"
+    "texte_fr": "En remerciement, 5 [E4][NULL][NULL][0004][NULL][NULL][0002]Thés Brink[E4][NULL][NULL][0002]!"
   },
   {
     "id": 38,

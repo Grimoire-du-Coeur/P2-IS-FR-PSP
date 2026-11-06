@@ -42,7 +42,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "Huh?[SP]What[SP]do[SP]you[SP]mean,[SP][1432][NULL][NULL][0014]What[SP]about[SP]Personas[1432][NULL][NULL][0014]?[1205][001E]\nSh-Shut[SP]up...[SP]Personas[SP]are[SP]kosher![SP]Nothing\nwrong[SP]with[SP]that!",
     "nom_fr": "Eikichi",
-    "texte_fr": "Hein? Quoi par [1432][NULL][NULL][0014]Et les Personae?[1432][NULL][NULL][1205][0014][001E]\nF-Ferme-la... Les Personae c'est bien! Y'a\nrien de mal!"
+    "texte_fr": "Hein? Quoi par [1432][NULL][NULL][0014]Et les Personae?[1432][NULL][NULL][0014][1205][001E]\nF-Ferme-la... Les Personae c'est bien! Y'a\nrien de mal!"
   },
   {
     "id": 3,
@@ -102,7 +102,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Aiyah![SP]You[SP]got[SP]stabbed,[SP][1113]!?\nWhen?[SP]Where?[SP]By[SP]who!?",
     "nom_fr": "Ginko",
-    "texte_fr": "Aiyah! Poignardé, [1113]!? Quand? Où? Par qui!?"
+    "texte_fr": "Aiyah! Poignardé, [1113]!?\nQuand? Où? Par qui!?"
   },
   {
     "id": 7,
@@ -117,7 +117,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Geez,[SP]you're[SP]always[SP]like[SP]this,[SP][1113].\nI[SP]just[SP]worry[SP]about[SP]you,[SP]you[SP]know?[1205][001E][SP]Holeen...\nPoor[SP]me...",
     "nom_fr": "Ginko",
-    "texte_fr": "T'es toujours comme ça, [1113]. Je m'inquiète pour\ntoi, tu sais?[1205][001E] Holeen... Pauvre de moi..."
+    "texte_fr": "T'es toujours comme ça, [1113]. Je m'inquiète\npour toi, tu sais?[1205][001E] Holeen... Pauvre de moi..."
   },
   {
     "id": 8,
@@ -237,7 +237,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "I[SP]wonder[SP]what's[SP]gotten[SP]into[SP]Maya-san...[1205][001E]\nCould[SP]she[SP]be...[1205][001E][SP]scared...?",
     "nom_fr": "Yukino",
-    "texte_fr": "Mais qu'est-ce qui a pris Maya-san...[1205][001E] Serait-elle...[1205][001E] apeurée...?"
+    "texte_fr": "Mais qu'est-ce qui a pris Maya-san...[1205][001E]\nSerait-elle...[1205][001E] apeurée...?"
   },
   {
     "id": 16,
@@ -297,7 +297,7 @@
     "nom_orig": "Ill[SP]male[SP]student",
     "texte_orig": "M-My[SP]face...![SP]But[SP]if[SP]I[SP]don't[SP]help[SP]clean[SP]up,\nthe[SP]principal[SP]will[SP]get[SP]mad...[SP]Help[SP]me,\n[1113]!",
     "nom_fr": "Lycéen malade",
-    "texte_fr": "M-Mon visage...! Mais si je n'aide pas,\nle proviseur va se fâcher... Aide-moi, [1113]!"
+    "texte_fr": "M-Mon visage...! Mais si je n'aide pas, le\nproviseur va se fâcher... Aide-moi, [1113]!"
   },
   {
     "id": 20,
@@ -642,7 +642,7 @@
     "nom_orig": "Bandaged[SP]female[SP]student",
     "texte_orig": "By[SP]the[SP]way,[SP][1113]-kun,[SP]there's[SP]some[SP]emblems\nin[SP]the[SP]teachers'[SP]lounge[SP]too![1205][000F][SP]We'll[SP]clean[SP]up\nthe[SP]mess[SP]here[SP]if[SP]you[SP]go[SP]take[SP]care[SP]of[SP]it.",
     "nom_fr": "Lycéenne blessée",
-    "texte_fr": "Au fait, [1113]-kun, il y a des emblèmes dans\nla salle des profs aussi! [1205][000F]On nettoiera\nle désordre ici si tu t'en occupes."
+    "texte_fr": "Au fait, [1113]-kun, il y a des emblèmes dans\nla salle des profs aussi! [1205][000F] On nettoiera\nle désordre ici si tu t'en occupes."
   },
   {
     "id": 43,
@@ -687,7 +687,7 @@
     "nom_orig": "Female[SP]student",
     "texte_orig": "Oh...[SP]So[SP]Principal[SP]Hanya[SP]left...\nTakashiiiiii![SP]Come[SP]baaaaaaack![E1][E2]\n[E3][E4][NULL][NULL]\"Female[SP]student\nHanya's[SP]hair[SP]blossomed[SP]before[SP]he[SP]disappeared,\nlike[SP]the[SP]cherry[SP]blossoms...[SP]Thank[SP]you[SP]for[SP]all\nyou[SP]did[SP]for[SP]us,[SP]Principal[SP]Hanya...",
     "nom_fr": "Lycéenne",
-    "texte_fr": "Oh... Donc le Proviseur Hanya est parti...\nTakashiiiiii! Revieeeens![E1][E2] [E3][E4][NULL][NULL]\"Lycéenne Les\ncheveux de Hanya ont fleuri avant\nqu'ildisparaisse, comme les cerisiers...\nMerci pour tout, Proviseur Hanya..."
+    "texte_fr": "Oh... Donc le Proviseur Hanya est parti...\nTakashiiiiii! Revieeeens![E1][E2]\n[E3][E4][NULL][NULL]\"Lycéenne\nLes cheveux de Hanya ont fleuri avant\nqu'ildisparaisse, comme les cerisiers...\nMerci pour tout, Proviseur Hanya..."
   },
   {
     "id": 46,

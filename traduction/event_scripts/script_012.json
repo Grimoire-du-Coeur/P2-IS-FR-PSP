@@ -12,7 +12,7 @@
     "nom_orig": "Eikichi",
     "texte_orig": "*cough*[SP]It's[SP]so[SP]dusty[SP]here...[1205][001E][SP]My[SP]perfect\nhair[SP]is[SP]going[SP]to[SP]get[SP]mussed.",
     "nom_fr": "Eikichi",
-    "texte_fr": "*tousse* Quelle poussière...[1205][001E] Mes cheveux vont être décoiffés."
+    "texte_fr": "*tousse* Quelle poussière...[1205][001E] Mes\ncheveux vont être décoiffés."
   },
   {
     "id": 1,
@@ -102,7 +102,7 @@
     "nom_orig": "Teacher's[SP]ghost",
     "texte_orig": "I[SP]said...[1205][001E][SP]that[SP]time...[1205][001E][SP]must[SP]not[SP]be[SP]set\nfree...[1205][001E][SP]I[SP]said[SP]it...[1205][001E][SP]so[SP]often...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nHe[SP]disappeared![1205][001E][SP]But...[SP]I[SP]feel[SP]like[SP]I've...",
     "nom_fr": "Fantôme du prof",
-    "texte_fr": "J'ai dit...[1205][001E] le temps...[1205][001E] ne doit pas\nêtre libéré...[1205][001E] Je l'ai tant dit...[E1][E2][E3][E4][NULL][NULL]\"Maya\nDisparu ![1205][001E] Mais... j'ai l'impression..."
+    "texte_fr": "J'ai dit...[1205][001E] le temps...[1205][001E] ne doit pas\nêtre libéré...[1205][001E] Je l'ai tant dit...[E1][E2]\n[E3][E4][NULL][NULL]\"Maya\nDisparu ![1205][001E] Mais... j'ai l'impression..."
   },
   {
     "id": 7,
@@ -357,7 +357,7 @@
     "nom_orig": "Joker",
     "texte_orig": "The[SP]seven[SP]Pleaides[SP]set[SP]the[SP]frozen[SP]time[SP]free...\n[E1][E2]\n[E3][E4][NULL][NULL]\"Joker\nRevenge[SP]isn't[SP]my[SP]only[SP]motive.",
     "nom_fr": "Joker",
-    "texte_fr": "Les Pléiades libèrent le temps...[E1][E2][E3][E4][NULL][NULL]\"Joker\nPas seulement par vengeance."
+    "texte_fr": "Les Pléiades libèrent le temps...[E1][E2]\n[E3][E4][NULL][NULL]\"Joker\nPas seulement par vengeance."
   },
   {
     "id": 24,
@@ -477,6 +477,6 @@
     "nom_orig": "Principal[SP]Hanya",
     "texte_orig": "Come,[SP]fools![SP]This[SP]tower[SP]will[SP]be[SP]your\ndetention[SP]room![SP]Glory[SP]to[SP]the[SP]Mask!\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nWhat's[SP]the[SP]matter?[SP]Is[SP]there[SP]something\non[SP]my[SP]face...?",
     "nom_fr": "Proviseur Hanya",
-    "texte_fr": "Venez donc, imbéciles ! Cette tour sera\nvotre salle de retenue ! Gloire au Masque ! [E1][E2]\n[E3][E4]"
+    "texte_fr": "Venez, imbéciles ! Cette tour sera votre\nsalle de retenue ! Gloire au Masque !\n[E1][E2]\n[E3][E4][NULL][NULL]\"Eikichi\nQuoi ? J'ai un truc sur la figure... ?"
   }
 ]

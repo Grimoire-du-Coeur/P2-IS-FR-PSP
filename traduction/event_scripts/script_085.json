@@ -57,7 +57,7 @@
         "nom_orig": "Eikichi",
         "texte_orig": "Yo,[SP][1113].[SP]No[SP]problems?[SP]The[SP]city[SP]was[SP]a\nmess,[SP]huh?",
         "nom_fr": "Eikichi",
-        "texte_fr": "Yo, [1113]. Ça va? La ville était un chaos, hein?"
+        "texte_fr": "Yo, [1113]. Ça va? La\nville était un chaos, hein?"
     },
     {
         "id": 4,
@@ -342,7 +342,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "The[SP]Oracle[SP]of[SP]Maia[SP]was[SP]left[SP]by[SP]the[SP]Pleiades\naliens[SP]who[SP]gifted[SP]humans[SP]with[SP]civilization...[1205][001E]\nIt's[SP]a[SP]message[SP]entrusted[SP]to[SP]us[SP]by[SP]the[SP]Maians!",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "L'Oracle de Maia fut laissé par les aliens\nPléiadiens qui ont civilisé les humains...[1205][001E] C'est un message confié par les Maïens!"
+        "texte_fr": "L'Oracle de Maia fut laissé par les aliens\nPléiadiens qui ont civilisé les humains...[1205][001E]\nC'est un message confié par les Mayas!"
     },
     {
         "id": 23,
@@ -447,7 +447,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "Underneath[SP]us[SP]is[SP]the[SP]netherworld[SP]where[SP]the\nMaians[SP]sleep...[1205][001E][SP]The[SP]Starship[SP]Xibalba[SP]is[SP]there!\nAll[SP]sorts[SP]of[SP]civilizations[SP]originated[SP]here...",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Sous nous, le monde souterrain où dorment\nles Maïens...[1205][001E] Le Vaisseau Xibalba y est!\nDe nombreuses civilisations y sont nées..."
+        "texte_fr": "Sous nous, le monde souterrain où dorment\nles Mayas...[1205][001E] Le Vaisseau Xibalba y est!\nDe nombreuses civilisations y sont nées..."
     },
     {
         "id": 30,
@@ -462,7 +462,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "But[SP]the[SP]ancient[SP]Maians[SP]that[SP]thrived[SP]here[SP]died\nin[SP]an[SP]intergalactic[SP]civil[SP]war...[1205][001E][SP]The[SP]victors[SP]were\nthe[SP]Bolontiku[SP]race[SP]that[SP]controls[SP]Xibalba...",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Mais les anciens Maïens d'ici\nsont morts dans une guerre civile\nintergalactique...[1205][001E] Les vainqueurs,\nles Bolontiku, contrôlentXibalba..."
+        "texte_fr": "Mais les anciens Mayas d'ici sont morts dans\nune guerre civile intergalactique...[1205][001E] Les\nvainqueurs, les Bolontiku,\ncontrôlentXibalba..."
     },
     {
         "id": 31,
@@ -477,7 +477,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "The[SP]Mayan[SP]myths[SP]of[SP]South[SP]America[SP]prove[SP]it.\nThough[SP]that[SP]civilization[SP]is[SP]an[SP]ancient[SP]memory\nnow...[1205][001E][SP]Their[SP]ruins[SP]were[SP]all[SP]modeled[SP]on[SP]Sumaru.",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Les mythes mayas le prouvent. Bien que cette\ncivilisation soit un souvenir ancien...[1205][001E] Leurs ruines étaient modelées sur Sumaru."
+        "texte_fr": "Les mythes mayas le prouvent. Bien que cette\ncivilisation soit un souvenir ancien...[1205][001E]\nLeurs ruines étaient modelées sur Sumaru."
     },
     {
         "id": 32,
@@ -507,7 +507,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "It[SP]will[SP]end[SP]in[SP]us[SP]becoming[SP]Idealians...[1205][001E]\nA[SP]transhuman[SP]state[SP]where[SP]we[SP]will[SP]understand\nthe[SP]true[SP]meaning[SP]of[SP]life.",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Ça fera de nous des Idéaliens...[1205][001E] Un état transhumain où on\nsaisira le vrai sens de la vie."
+        "texte_fr": "Ça fera de nous des Idéaliens...[1205][001E] Un état\ntranshumain où on saisira le vrai sens de la\nvie."
     },
     {
         "id": 34,
@@ -597,7 +597,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "N-No...![1205][001E][SP]D-Did[SP]Sudou-kun[SP]do[SP]this...?[1205][001E]\nWe[SP]were[SP]under[SP]strict[SP]orders[SP]never[SP]to[SP]go\npublic[SP]with[SP]it!",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "N-Non...![1205][001E]S-Sudou a fait ça...?[1205][001E]Nous avions l'ordre strict de ne jamais le\nrendre public!"
+        "texte_fr": "N-Non...![1205][001E] S-Sudou a fait ça...?[1205][001E] Nous avions\nl'ordre strict de ne jamais le rendre public!"
     },
     {
         "id": 40,
@@ -962,7 +962,7 @@
         "nom_orig": "Tamaki",
         "texte_orig": "Oh,[SP]did[SP]you[SP]check[SP]the[SP]ones[SP]you[SP]entered[SP]last\ntime?[SP]You[SP]get[SP]the[SP]prizes[SP]at[SP]Lisa-chan's[SP]house,\nso[SP]come[SP]back[SP]after[SP]you've[SP]seen[SP]if[SP]you[SP]won.",
         "nom_fr": "Tamaki",
-        "texte_fr": "Avez-vous vérifié vos précédents concours?\nLes prix sont envoyés chez Lisa-chan,\nrevenez quand vous aurez vu si vous avez\ngagné."
+        "texte_fr": "Avez-vous vérifié vos précédents concours?\nLes prix sont envoyés chez Lisa-chan, revenez\nquand vous aurez vu si vous avez gagné."
     },
     {
         "id": 62,
@@ -1092,7 +1092,7 @@
         "nom_orig": "Tamaki",
         "texte_orig": "There[SP]are[SP]a[SP]few[SP]rules![SP]You[SP]can[SP]only[SP]enter[SP]one\ncontest[SP]at[SP]a[SP]time.[SP]No[SP]more[SP]entries[SP]until[SP]the\nlast[SP]results[SP]are[SP]in.[SP]That's[SP]just[SP]how[SP]it[SP]works.",
         "nom_fr": "Tamaki",
-        "texte_fr": "Y a quelques règles! Une seule participation\nà la fois. Pas de nouvelles entrées tant que\nles résultats ne sont pas là. C'est comme\nça."
+        "texte_fr": "Y a quelques règles! Une seule participation\nà la fois. Pas de nouvelles entrées tant que\nles résultats ne sont pas là. C'est comme ça."
     },
     {
         "id": 70,
@@ -1152,7 +1152,7 @@
         "nom_orig": "Tamaki",
         "texte_orig": "Even[SP]if[SP]this[SP]teacher[SP]is[SP]wrong[SP]and[SP]the[SP]Masked\nCircle[SP]isn't[SP]the[SP]same[SP]as[SP]the[SP]Last[SP]Battalion...[1205][001E]\nIs[SP]the[SP]Masked[SP]Circle[SP]following[SP]that[SP]book?",
         "nom_fr": "Tamaki",
-        "texte_fr": "Même si cette prof a tort et que le\nCercle masqué n'est pas le Bataillon...[1205][001E] Le Cercle masqué suit-il ce livre?"
+        "texte_fr": "Même si cette prof a tort et que le\nCercle masqué n'est pas le Bataillon...[1205][001E]\nLe Cercle masqué suit-il ce livre?"
     },
     {
         "id": 74,
@@ -1283,7 +1283,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]the[SP]In[SP]Lak'ech?\n[1208][0005]About[SP]Kashihara\nAbout[SP]Sudou\nAbout[SP]its[SP]contents\nAbout[SP]Maians\nAbout[SP]Ideal[SP]Energy",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][0005]Sur Kashihara\nSur Sudou\nLe contenu\nLes Maïens\nL'Énergie Idéale",
+        "texte_fr": "Que voulez-vous savoir sur l'In Lak'ech?\n[1208][0005]Sur Kashihara\nSur Sudou\nLe contenu\nLes Mayas\nL'Énergie Idéale",
         "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]know[SP]about[SP]the[SP]In[SP]Lak'ech?",
         "choix_orig": [
             "About[SP]Kashihara",
@@ -1386,7 +1386,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "He[SP]was[SP]a[SP]troublemaker[SP]who[SP]complained[SP]of\nhearing[SP]voices,[SP]and[SP]was[SP]rumored[SP]to[SP]be[SP]an\narsonist.[SP]But[SP]he[SP]was[SP]devoted[SP]to[SP]Kashihara...",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Il faisait des problèmes, disait entendre\ndes voix, et la rumeur en faisait un\npyromane. Mais il était dévoué à\nKashihara..."
+        "texte_fr": "Il faisait des problèmes, disait entendre des\nvoix, et la rumeur en faisait un pyromane.\nMais il était dévoué à Kashihara..."
     },
     {
         "id": 88,
@@ -1401,7 +1401,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "It[SP]was[SP]Kashihara[SP]who[SP]noticed[SP]Sudou-kun's\ngift.[SP]He[SP]was[SP]a[SP]medium[SP]capable[SP]of[SP]hearing\nthe[SP]voices[SP]of[SP]the[SP]Maians.",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "C'est Kashihara qui a remarqué le don\nde Sudou. C'était un médium capable\nd'entendre les voix des Maïens."
+        "texte_fr": "C'est Kashihara qui a remarqué le don\nde Sudou. C'était un médium capable\nd'entendre les voix des Mayas."
     },
     {
         "id": 89,
@@ -1461,7 +1461,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "The[SP]Maians[SP]guided[SP]our[SP]evolution[SP]once,[SP]though\nthat[SP]stage[SP]is[SP]now[SP]lost.[1205][001E][SP]Our[SP]civilization[SP]as\nit[SP]stands[SP]is[SP]a[SP]remnant[SP]from[SP]then...",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Les Maïens ont jadis guidé notre\névolution, bien que cette ère soit finie.[1205][001E]\nNotre civilisation en est un vestige..."
+        "texte_fr": "Les Mayas ont jadis guidé notre\névolution, bien que cette ère soit finie.[1205][001E]\nNotre civilisation en est un vestige..."
     },
     {
         "id": 93,
@@ -1476,7 +1476,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "The[SP]Bolontiku[SP]destroyed[SP]our[SP]ancestors[SP]and[SP]the\nOxlahuntiku.[SP]Their[SP]spaceship,[SP]Xibalba,[SP]lies\nunder[SP]this[SP]city...",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Les Bolontiku ont détruit nos aïeux\net les Oxlahuntiku. Leur vaisseau,\nXibalba, repose sous cette ville..."
+        "texte_fr": "Les Bolontiku ont détruit nos aieux\net les Oxlahuntiku. Leur vaisseau,\nXibalba, repose sous cette ville..."
     },
     {
         "id": 94,
@@ -1521,7 +1521,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "The[SP]Maians[SP]came[SP]here[SP]from[SP]the[SP]Pleiades.\nThe[SP]two[SP]factions[SP]amongst[SP]them[SP]were[SP]in[SP]a\nperpetual[SP]state[SP]of[SP]galactic[SP]war...",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Les Maïens venaient des Pléiades.\nLeurs deux factions étaient dans un\nétat perpétuel de guerre galactique..."
+        "texte_fr": "Les Mayas venaient des Pléiades.\nLeurs deux factions étaient dans un\nétat perpétuel de guerre galactique..."
     },
     {
         "id": 97,
@@ -1626,7 +1626,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "Ideal[SP]Energy[SP]is[SP]the[SP]Maian[SP]source[SP]of[SP]power...[1205][001E]\nAnd[SP]the[SP]crystal[SP]skulls[SP]are[SP]OOPArts[SP]planted\nin[SP]mankind's[SP]history[SP]to[SP]collect[SP]it!",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "C'est la source de pouvoir maïenne...[1205][001E] Les\ncrânes de cristal sont des Ooparts placés\ndans notre histoire pour la récolter!"
+        "texte_fr": "C'est la source de pouvoir maya...[1205][001E] Les\ncrânes de cristal sont des Ooparts placés\ndans notre histoire pour la récolter!"
     },
     {
         "id": 104,
@@ -1726,7 +1726,7 @@
         "nom_orig": "Ms.[SP]Ideal",
         "texte_orig": "He[SP]said[SP]so[SP]himself![1205][001E][SP]He's[SP]an[SP]immortal[SP]sorcerer\nwho[SP]learned[SP]magic[SP]from[SP]Mayan[SP]mystics.[SP]He\ncraved[SP]the[SP]secrets[SP]of[SP]ruins[SP]around[SP]the[SP]world!",
         "nom_fr": "Mme Idéale",
-        "texte_fr": "Il l'a dit![1205][001E]C'est un sorcier immortel ayant appris la\nmagie de mystiques mayas. Il convoitait les\nsecrets des ruines du mondeentier!"
+        "texte_fr": "Il l'a dit![1205][001E]C'est un sorcier immortel ayant\nappris la magie de mystiques mayas. Il\nconvoitait les secrets des ruines du\nmondeentier!"
     },
     {
         "id": 110,
@@ -1861,7 +1861,7 @@
         "nom_orig": "Chief[SP]Todoroki",
         "texte_orig": "The[SP]Masked[SP]Circle[SP]and[SP]the[SP]Last[SP]Battalion...[1205][001E]\nThis[SP]could[SP]be[SP]a[SP]problem.[1205][001E][SP]Now,[SP]what[SP]business\ndo[SP]you[SP]have[SP]with[SP]us[SP]today?\n[1208][0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\n[1210][0159]Leave[SP]the[SP]detective[SP]agency",
         "nom_fr": "Chef Todoroki",
-        "texte_fr": "Le Cercle masqué et le Bataillon...[1205][001E] Ça pourrait être un problème.[1205][001E] Alors,\nquelle affaire vous amène?\n[1208][0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\n[1210][0159]Quitter l'agence[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]",
+        "texte_fr": "Le Cercle masqué et le Bataillon...[1205][001E]\nÇa pourrait poser problème.[1205][001E] Alors,\nquelle affaire vous amène ?\n[1208][0005]Répandre rumeurs\nVérifier rumeurs\nParler au Chef\nAnnuler\n[1210][0159]Quitter l'agence[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]",
         "question_orig": "The[SP]Masked[SP]Circle[SP]and[SP]the[SP]Last[SP]Battalion...[1205][001E]\nThis[SP]could[SP]be[SP]a[SP]problem.[1205][001E][SP]Now,[SP]what[SP]business\ndo[SP]you[SP]have[SP]with[SP]us[SP]today?",
         "choix_orig": [
             "Spread[SP]rumors",

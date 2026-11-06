@@ -361,7 +361,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires",
     "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -451,7 +451,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?\n[1208][0007][111F][1210][B_00][U+5501][B_00]ndisplayed[SP]selection\n[111F]Sell[SP]items\n[111F]Sell[SP]weapons\n[111F][1210][B_00][U+5301][B_00]ell[SP]head[SP]armor\n[111F]Sell[SP]armor\n[111F][1210][B_00][U+5301][B_00]ell[SP]leg[SP]armor\n[111F]Sell[SP]accessories",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires[B_00][5501][B_00][B_00][5301][B_00][B_00][5301][B_00]",
+    "texte_fr": "Que voulez-vous vendre?\n[1208][0007][111F][1210][B_00][U+5501][B_00]Sélection cachée\n[111F]Objets\n[111F]Armes[SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Armure de tête\n[111F]Armure[SP][SP][SP][SP][SP][SP][SP]\n[111F][1210][B_00][U+5301][B_00]Jambes[SP][SP][SP][SP][SP][SP]\n[111F]Accessoires",
     "question_orig": "What[SP]would[SP]you[SP]like[SP]to[SP]sell?",
     "choix_orig": [
       "[111F][1210][B_00][B_00]ndisplayed[SP]selection",
@@ -582,7 +582,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "What[SP]do[SP]think[SP]of[SP]this[SP]red[SP]dress?[1205][000F][SP]It[SP]resists\nheat,[SP]you[SP]know.[SP]Both[SP]stylish[SP]and[SP]practical.",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Que pensez-vous de cette robe rouge? [1205][000F]Elle\nrésiste à la chaleur. Chic et pratique."
+    "texte_fr": "Que pensez-vous de cette robe rouge? [1205][000F] Elle\nrésiste à la chaleur. Chic et pratique."
   },
   {
     "id": 33,
@@ -822,7 +822,7 @@
     "nom_orig": "Chatty[SP]woman",
     "texte_orig": "O-Oh[SP]my[SP]goodness![SP]They[SP]were[SP]flying![1205][000F][SP]There[SP]were\nsoldiers[SP]flying[SP]through[SP]the[SP]sky![SP]I[SP]saw[SP]it[SP]with\nmy[SP]own[SP]eyes![SP]Long[SP]spears[SP]and[SP]black[SP]armor...",
     "nom_fr": "Bavarde",
-    "texte_fr": "M-Mon Dieu! Ils volaient! [1205][000F]Des soldats\nvolaient dans le ciel! Je l'ai vu de mes\npropres yeux! De longues lances et des\narmures noires..."
+    "texte_fr": "M-Mon Dieu! Ils volaient! [1205][000F] Des soldats\nvolaient dans le ciel! Je l'ai vu de mes\npropres yeux! De longues lances et des armures\nnoires..."
   },
   {
     "id": 49,
@@ -852,7 +852,7 @@
     "nom_orig": "Wealthy[SP]woman",
     "texte_orig": "No,[SP]I[SP]came[SP]to[SP]see[SP]a[SP]concert,[SP]but[SP]it[SP]was[SP]sold\nout...[1205][000F][SP]So[SP]I[SP]was[SP]about[SP]to[SP]go[SP]home.",
     "nom_fr": "Femme aisée",
-    "texte_fr": "Non, je venais voir un concert, mais\n[1205][000F]c'était complet... J'allais rentrer."
+    "texte_fr": "Non, je venais voir un concert, mais\n[1205][000F] c'était complet... J'allais rentrer."
   },
   {
     "id": 51,

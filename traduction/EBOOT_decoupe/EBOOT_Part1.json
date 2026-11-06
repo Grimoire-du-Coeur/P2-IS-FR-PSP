@@ -205,7 +205,7 @@
         "data_size": 270,
         "slot_size": 270,
         "texte_orig": "Some[SP]can[SP]become[SP]a[SP]different[SP]Persona[SP]entirely<FF03>by[SP]selecting[SP](Mutation([SP]in[SP]the[SP]Velvet[SP]Room<0004><FF03>A[SP]few[SP]Personas[SP]can[SP]only[SP]be[SP]obtained[SP]this[SP]way<0004><FF03>",
-        "texte_fr": "Certains Personae peuvent métamorphoser<FF03> en sélectionnant(Mutation(dans la Velvet Room.<0004><FF03> Certains ne peuvent être obtenus qu'ainsi<0004><FF03>"
+        "texte_fr": "Certains Personae peuvent métamorphoser<FF03> en sélectionnant\"Mutation\"dans la Velvet Room.<0004><FF03> Certains ne peuvent être obtenus qu'ainsi<0004><FF03>"
     },
     {
         "id": 26,
@@ -925,7 +925,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "Adjust[SP]battle[SP]difficulty<0004>[SP])Can[SP]be[SP]changed<0004>*",
-        "texte_fr": "Régler difficulté de combat<0004>[SP])Modifiable<0004>*"
+        "texte_fr": "Régler difficulté de combat<0004>[SP](Modifiable<0004>)"
     },
     {
         "id": 116,
@@ -1037,7 +1037,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "the[SP]PSP<04B1>[SP])PlayStation<04B2>Portable*<0003>[SP]or[SP]go[SP]into",
-        "texte_fr": "la PSP<04B1>[SP])PlayStation<04B2>Portable*<0003>[SP]ou veille"
+        "texte_fr": "la PSP<04B1>[SP](PlayStation<04B2>Portable)<0003>[SP]ou veille"
     },
     {
         "id": 130,
@@ -1085,7 +1085,7 @@
         "data_size": 82,
         "slot_size": 82,
         "texte_orig": "By[SP]choosing[SP](Data[SP]Install([SP]and[SP]installing",
-        "texte_fr": "En[SP]installant[SP]via[SP](Data[SP]Install([SP]les"
+        "texte_fr": "En[SP]installant[SP]via[SP]\"Data[SP]Install\"[SP]les"
     },
     {
         "id": 136,
@@ -5069,7 +5069,7 @@
         "data_size": 68,
         "slot_size": 68,
         "texte_orig": "Maya[SP](Fire<0004><0004><0004>[SP]I&m[SP]scared[SP]of[SP]fire<0009>(",
-        "texte_fr": "Maya[SP](Feu<0004><0004><0004>[SP]J'ai[SP]peur[SP]du[SP]feu<0009>("
+        "texte_fr": "Maya[SP]\"Feu<0004><0004><0004>[SP]J'ai[SP]peur[SP]du[SP]feu<0009>\""
     },
     {
         "id": 634,
@@ -6829,7 +6829,7 @@
         "data_size": 214,
         "slot_size": 214,
         "texte_orig": "Once[SP]played[SP](Masked[SP]Circle([SP]in<FF03>the[SP]past<0004>[SP]<FF11>[SP]was[SP]her[SP]first<FF03>love[SP]and[SP]has[SP]remained[SP]in[SP]her<FF03>heart[SP]all[SP]this[SP]time<0004><FF03>",
-        "texte_fr": "Jouait au (Cercle Masqué( autrefois<0004><FF03><FF11> fut son premier amour et est<FF03>toujours resté dans son cœur<0004><FF03>"
+        "texte_fr": "Jouait au \"Cercle Masqué\" autrefois<0004><FF03><FF11> fut son premier amour et est<FF03>toujours resté dans son cœur<0004><FF03>"
     },
     {
         "id": 854,
@@ -6845,7 +6845,7 @@
         "data_size": 254,
         "slot_size": 254,
         "texte_orig": "Once[SP]played[SP](Masked[SP]Circle([SP]in<FF03>the[SP]past<0004>[SP]He[SP]was[SP]an[SP]introverted<FF03>boy<0003>[SP]but[SP]his[SP]friendship[SP]with[SP]the<FF03>group[SP]made[SP]him[SP]what[SP]he[SP]is[SP]now<0004><FF03>",
-        "texte_fr": "Jouait au (Cercle Masqué( autrefois<0004><FF03>Enfant introverti, son amitié pour le<FF03>groupe a fait ce qu'il est aujourd'hui<0004><FF03>"
+        "texte_fr": "Jouait au \"Cercle Masqué\" autrefois<0004><FF03>Enfant introverti, son amitié pour le<FF03>groupe a fait ce qu'il est aujourd'hui<0004><FF03>"
     },
     {
         "id": 856,
@@ -6861,7 +6861,7 @@
         "data_size": 230,
         "slot_size": 230,
         "texte_orig": "She[SP]was[SP]the[SP]group&s[SP](Big[SP]Sis(<FF03>when[SP]she[SP]was[SP]younger<0004>[SP]She<FF03>taught[SP]them[SP]the[SP]Persona[SP]Game<FF03>and[SP]the[SP]importance[SP]of[SP]dreams<0004><FF03>",
-        "texte_fr": "Était la (Sœurette( du groupe autrefois<0004><FF03>Elle leur a appris le Jeu du Persona<FF03>et l'importance des rêves<0004><FF03>"
+        "texte_fr": "Était la \"Sœurette\" du groupe autrefois<0004><FF03>Elle leur a appris le Jeu du Persona<FF03>et l'importance des rêves<0004><FF03>"
     },
     {
         "id": 858,
@@ -6877,7 +6877,7 @@
         "data_size": 230,
         "slot_size": 230,
         "texte_orig": "Once[SP]played[SP](Masked[SP]Circle([SP]in<FF03>the[SP]past<0004>[SP]Since[SP]the[SP]incident<FF03>ten[SP]years[SP]ago<0003>[SP]he[SP]seems[SP]to[SP]be<FF03>staying[SP]purposely[SP]aloof<0004><FF03>",
-        "texte_fr": "Jouait au (Cercle Masqué( autrefois<0004><FF03>Depuis l'incident survenu il y a 10 ans<0003><FF03>il semble vouloir rester à l'écart<0004><FF03>"
+        "texte_fr": "Jouait au \"Cercle Masqué\" autrefois<0004><FF03>Depuis l'incident survenu il y a 10 ans<0003><FF03>il semble vouloir rester à l'écart<0004><FF03>"
     },
     {
         "id": 860,

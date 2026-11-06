@@ -57,7 +57,7 @@
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
     "nom_fr": "Père de Lisa",
-    "texte_fr": "Une vraie dame japonaise est\nmodeste, discrète, respecte la piété\nfiliale et les[1205][001E] règles du foyer.\n[001E]Viens, ta leçon de thécommence."
+    "texte_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les[1205][001E]\nrègles du foyer. [001E]Viens, ta leçon de\nthécommence."
   },
   {
     "id": 4,
@@ -87,7 +87,7 @@
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "A[SP]proper[SP]Japanese[SP]lady[SP]is[SP]modest,[SP]quiet,[SP]obeys\nfilial[SP]piety,[SP]and[SP]respects[SP]the[SP]rules[SP]of[SP]the\nhousehold.[1205][001E][SP]Come,[SP]your[SP]tea[SP]lesson[SP]is[SP]beginning.",
     "nom_fr": "Père de Lisa",
-    "texte_fr": "Une vraie dame japonaise est\nmodeste, discrète, respecte la piété\nfiliale et les[1205][001E] règles du foyer.\n[001E]Viens, ta leçon de thécommence."
+    "texte_fr": "Une vraie dame japonaise est modeste,\ndiscrète, respecte la piété filiale et les[1205][001E]\nrègles du foyer. [001E]Viens, ta leçon de\nthécommence."
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "nom_orig": "Lisa",
     "texte_orig": "Kehhei![SP]Shut[SP]up![1205][001E][SP]Ngo[SP]Faan[SP]Lai[SP]Laa,\nI'm[SP]ho[1205][000A]oo[1205][000A]oo[1205][000A]oo[1205][000A]ome![1205][001E][SP]There,[SP]happy[SP]now!?",
     "nom_fr": "Lisa",
-    "texte_fr": "Kehhei! La ferme![1205][001E] Ngo Faan Lai Laa, je su uis re ntrée e![1205][001E] Satisfait!?"
+    "texte_fr": "Kehhei! La ferme![1205][001E] Ngo Faan Lai Laa,\nje su uis re ntrée e![1205][001E] Satisfait!?"
   },
   {
     "id": 7,
@@ -132,7 +132,7 @@
     "nom_orig": "Ginko",
     "texte_orig": "Kehhei![SP]Shut[SP]up![1205][001E][SP]Ngo[SP]Faan[SP]Lai[SP]Laa,\nI'm[SP]ho[1205][000A]oo[1205][000A]oo[1205][000A]oo[1205][000A]ome![1205][001E][SP]There,[SP]happy[SP]now!?",
     "nom_fr": "Ginko",
-    "texte_fr": "Kehhei! La ferme![1205][001E] Ngo Faan Lai Laa, je su uis re ntrée e![1205][001E] Satisfaite!?"
+    "texte_fr": "Kehhei! La ferme![1205][001E] Ngo Faan Lai Laa,\nje su uis re ntrée e![1205][001E] Satisfaite!?"
   },
   {
     "id": 9,
@@ -222,7 +222,7 @@
     "nom_orig": "Maya",
     "texte_orig": "Guess[SP]Lisa[SP]doesn't[SP]get[SP]along[SP]with[SP]her[SP]dad...[1205][001E]\nShe's[SP]lucky[SP]to[SP]even[SP]have[SP]one...",
     "nom_fr": "Maya",
-    "texte_fr": "Lisa ne s'entend pas avec son père...[1205][001E] Elle a de la chance d'en avoir un..."
+    "texte_fr": "Lisa ne s'entend pas avec son père...[1205][001E]\nElle a de la chance d'en avoir un..."
   },
   {
     "id": 15,
@@ -428,7 +428,7 @@
     "nom_orig": "Lisa's[SP]father",
     "texte_orig": "We[SP]used[SP]to[SP]spend[SP]so[SP]much[SP]time[SP]together...[1205][001E]\nWhy[SP]has[SP]she[SP]become[SP]so[SP]rebellious...?",
     "nom_fr": "Père de Lisa",
-    "texte_fr": "On passait tant de temps ensemble...[1205][001E] Pourquoi est-elle si rebelle...?"
+    "texte_fr": "On passait tant de temps ensemble...[1205][001E]\nPourquoi est-elle si rebelle...?"
   },
   {
     "id": 28,
@@ -458,6 +458,6 @@
     "nom_orig": "Ginko's[SP]father",
     "texte_orig": "We[SP]used[SP]to[SP]spend[SP]so[SP]much[SP]time[SP]together...[1205][001E]\nWhy[SP]has[SP]she[SP]become[SP]so[SP]rebellious...?",
     "nom_fr": "Père de Ginko",
-    "texte_fr": "On passait tant de temps ensemble...[1205][001E] Pourquoi est-elle si rebelle...?"
+    "texte_fr": "On passait tant de temps ensemble...[1205][001E]\nPourquoi est-elle si rebelle...?"
   }
 ]
