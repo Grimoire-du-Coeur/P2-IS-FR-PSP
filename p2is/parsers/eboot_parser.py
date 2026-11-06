@@ -179,9 +179,11 @@ def encode_brut(text):
         if not tok:
             continue
         if tok.startswith('<S'):
-            out += struct.pack('>H', int(tok[2:6], 16)); continue
+            out += struct.pack('>H', int(tok[2:6], 16))
+            continue
         if tok.startswith('<'):
-            out += struct.pack('>H', int(tok[1:5], 16)); continue
+            out += struct.pack('>H', int(tok[1:5], 16))
+            continue
         for c in tok:
             if c == '　':
                 v = 0x8140
