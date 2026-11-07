@@ -2069,7 +2069,7 @@
         "data_size": 122,
         "slot_size": 122,
         "texte_orig": "8<0A00>D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]B4F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "8<0A00>Ascenseur D<FF03>[SP]Actuel. en B4F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0038><0A00><0044>[SP]Ascenseur<FF03>[SP]Actuel. en B4F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6259,
@@ -2085,7 +2085,7 @@
         "data_size": 118,
         "slot_size": 118,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]B1F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en B1F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en B1F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6261,
@@ -2101,7 +2101,7 @@
         "data_size": 116,
         "slot_size": 116,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]5F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en 5F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en 5F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6263,
@@ -2117,7 +2117,7 @@
         "data_size": 116,
         "slot_size": 116,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]4F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en 4F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en 4F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6265,
@@ -2133,7 +2133,7 @@
         "data_size": 116,
         "slot_size": 116,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]3F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en 3F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en 3F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6267,
@@ -2149,7 +2149,7 @@
         "data_size": 116,
         "slot_size": 116,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]2F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en 2F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en 2F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6269,
@@ -2165,7 +2165,7 @@
         "data_size": 116,
         "slot_size": 116,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]1F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en 1F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en 1F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6271,
@@ -2181,7 +2181,7 @@
         "data_size": 118,
         "slot_size": 118,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]B8F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en B8F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en B8F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6273,
@@ -2197,7 +2197,7 @@
         "data_size": 118,
         "slot_size": 118,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]B5F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en B5F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en B5F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6275,
@@ -2213,7 +2213,7 @@
         "data_size": 116,
         "slot_size": 116,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]4F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en 4F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en 4F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6277,
@@ -2229,7 +2229,7 @@
         "data_size": 118,
         "slot_size": 118,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]B1F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en B1F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en B1F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6279,
@@ -2245,7 +2245,7 @@
         "data_size": 116,
         "slot_size": 116,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]4F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en 4F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en 4F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6281,
@@ -2261,7 +2261,7 @@
         "data_size": 116,
         "slot_size": 116,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]2F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en 2F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en 2F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6283,
@@ -2277,7 +2277,7 @@
         "data_size": 116,
         "slot_size": 116,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]1F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en 1F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en 1F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6285,
@@ -2293,7 +2293,7 @@
         "data_size": 118,
         "slot_size": 118,
         "texte_orig": "D[SP]Elevator<FF03>[SP]Currently[SP]on[SP]B1F<0004><FF03>[SP]Choose[SP]a[SP]floor[SP]to[SP]travel[SP]to<0004>",
-        "texte_fr": "Ascenseur D<FF03>[SP]Actuel. en B1F<0004><FF03>[SP]Choisir un étage<0004>"
+        "texte_fr": "<0044>[SP]Ascenseur<FF03>[SP]Actuel. en B1F<0004><FF03>[SP]Choisir un étage<0004>"
     },
     {
         "id": 6287,
@@ -2469,7 +2469,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "No",
-        "texte_fr": "N"
+        "texte_fr": "Non"
     },
     {
         "id": 6309,
@@ -2645,7 +2645,7 @@
         "data_size": 4,
         "slot_size": 4,
         "texte_orig": "No",
-        "texte_fr": "N"
+        "texte_fr": "Non"
     },
     {
         "id": 6331,
@@ -3005,7 +3005,7 @@
         "data_size": 50,
         "slot_size": 50,
         "texte_orig": "kVelvet[SP]Room[SP]stockk<0005><0005><0005><0005><0005><0005>",
-        "texte_fr": "Room[SP]stockk<0005><0005><0005><0005><0005><0005>"
+        "texte_fr": "kVelvet[SP]Room[SP]stockk<0005><0005><0005><0005><0005><0005>"
     },
     {
         "id": 6376,
@@ -3173,7 +3173,7 @@
         "data_size": 50,
         "slot_size": 50,
         "texte_orig": "2<0B00><CCD0><0B00><A4D0><0B00>Final[SP]confirmation<0004>",
-        "texte_fr": "confirmation<0004>"
+        "texte_fr": "2<0B00><CCD0><0B00><A4D0><0B00>Final[SP]confirmation<0004>"
     },
     {
         "id": 6397,
@@ -3445,7 +3445,7 @@
         "data_size": 14,
         "slot_size": 14,
         "texte_orig": "Yes<FF03>No<FF03>",
-        "texte_fr": "Oui<FF03>No<FF03>"
+        "texte_fr": "OK<FF03>Non<FF03>"
     },
     {
         "id": 6431,

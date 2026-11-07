@@ -1313,7 +1313,7 @@
     "nom_orig": "Speaker[SP]name",
     "texte_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen.\nSell?\n[1208][0002]Yes\nNo",
     "nom_fr": "",
-    "texte_fr": "Le total fait [120E][NULL] yens. Vendre?\n[1208][0002]Oui\nNon",
+    "texte_fr": "Total : [120E][NULL] yens.\nVendre?\n[1208][0002]Oui\nNon",
     "question_orig": "The[SP]total[SP]is[SP][120E][NULL][SP]yen.\nSell?",
     "choix_orig": [
       "Yes",

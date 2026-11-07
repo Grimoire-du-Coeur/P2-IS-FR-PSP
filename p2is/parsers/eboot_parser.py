@@ -68,6 +68,13 @@ def encode_char(c):
         return 0x00CF + int(c)
     if 0x20 <= ord(c) <= 0x7E:
         return ord(c)
+    # Caractères japonais (préfixes de tables, ex. CD Shop) : on les réécrit tels quels.
+    try:
+        b = c.encode('shift-jis')
+        if len(b) == 2:
+            return struct.unpack('>H', b)[0]
+    except UnicodeEncodeError:
+        pass
     return 0x8140
 
 def encode_string(text):
@@ -216,8 +223,17 @@ def raison_de_ne_pas_injecter(entry, data):
         return "vide"
     if fr.replace(' ', '[SP]') == en or fr == en:
         return "identique a l'anglais"
-    brut = encode_brut(en)
-    if brut is None or bytes(data[entry["offset"]:entry["offset"] + len(brut)]) != brut:
+    # L'anglais doit être ce que le décodeur lit à cet endroit, sinon c'est une table
+    # de données. On compare au décodage (et non à un réencodage) : certains codes
+    # ASCII bruts sont des symboles (0x44 = flèche « > », 0x53 = « % »...) que le
+    # décodeur affiche comme des lettres.
+    lu, off = [], entry["offset"]
+    for k in range(off, min(off + entry["slot_size"], len(data) - 1), 2):
+        typ, val = decode_char(struct.unpack_from('>H', data, k)[0])
+        if typ == 'END':
+            break
+        lu.append(val)
+    if ''.join(lu).replace('　', '[SP]') != en:
         return "pas du texte (donnees)"
     f, e = _sans_balises(fr), _sans_balises(en)
     if f and len(f) < 0.6 * len(e) and e.endswith(f) and ' ' not in f.strip():
@@ -236,6 +252,22 @@ def inject_eboot(eboot_path, json_path, out_path, logger=print):
     injected_count = 0
     gardees = {}
 
+    # Place réelle : les chaînes sont alignées sur 4 octets. Après le terminateur
+    # FFFF, les octets à 00 jusqu'à la chaîne suivante sont libres (« No » a la
+    # place d'écrire « Non »).
+    suivants = sorted(e["offset"] for e in entries)
+    import bisect
+
+    def place(entry):
+        o, n = entry["offset"], entry["slot_size"]
+        k = bisect.bisect_right(suivants, o)
+        fin = suivants[k] if k < len(suivants) else o + n + 2
+        fin = min(fin, o + n + 4)  # seulement l'alignement (2 octets) : au-delà, ce peut être une table de données
+        bourrage = bytes(data[o + n:fin])
+        if fin - o - n >= 4 and bourrage[:2] == b"\xff\xff" and not any(bourrage[2:]):
+            return fin - o - 2
+        return n
+
     for entry in entries:
         raison = raison_de_ne_pas_injecter(entry, data)
         if raison:
@@ -244,7 +276,7 @@ def inject_eboot(eboot_path, json_path, out_path, logger=print):
             continue
 
         offset = entry["offset"]
-        orig_len = entry["slot_size"]
+        orig_len = place(entry)
         trans_text = entry["texte_fr"].replace('[SP]', '\u3000')
         
         encoded_bytes = encode_string(trans_text)
@@ -259,9 +291,10 @@ def inject_eboot(eboot_path, json_path, out_path, logger=print):
         # Write translated bytes
         data[offset : offset + len(encoded_bytes)] = encoded_bytes
         
-        # Fill the remaining space with 0xFFFF (END marker) to prevent garbage
+        # Fill the remaining space with 0xFFFF (END marker) to prevent garbage,
+        # terminator included (+2): orig_len may now reach into the alignment padding.
         padding_start = offset + len(encoded_bytes)
-        padding_len = orig_len - len(encoded_bytes)
+        padding_len = orig_len + 2 - len(encoded_bytes)
         
         for p in range(padding_start, padding_start + padding_len, 2):
             if p + 1 < len(data):

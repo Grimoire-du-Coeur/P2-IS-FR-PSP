@@ -5549,7 +5549,7 @@
         "data_size": 86,
         "slot_size": 86,
         "texte_orig": "Maya[SP]only<001E>Attack[SP];30<001E>Aim<0003>[SP]Crit[SP]S[SP]increases<FF03>",
-        "texte_fr": "Maya<001E>Attack[SP];30<001E>Aim<0003>[SP]Crit[SP]S[SP]increases<FF03>"
+        "texte_fr": "Maya<001E>Attaque[SP]<003B>30<001E>Visee<0003>[SP]Crit[SP]<0053>[SP]en[SP]hausse<FF03>"
     },
     {
         "id": 2694,
@@ -5805,7 +5805,7 @@
         "data_size": 70,
         "slot_size": 70,
         "texte_orig": "Jun[SP]only<001E>Crit[SP]S[SP]increases[SP]slightly<FF03>",
-        "texte_fr": "Jun<001E>Crit[SP]S[SP]increases[SP]slightly<FF03>"
+        "texte_fr": "Jun<001E>Critiques[SP]legerement[SP]en[SP]hausse<FF03>"
     },
     {
         "id": 2726,
@@ -5813,7 +5813,7 @@
         "data_size": 72,
         "slot_size": 72,
         "texte_orig": "Maya[SP]only<001E>Crit[SP]S[SP]increases[SP]slightly<FF03>",
-        "texte_fr": "Maya<001E>Crit[SP]S[SP]increases[SP]slightly<FF03>"
+        "texte_fr": "Maya<001E>Critiques[SP]legerement[SP]en[SP]hausse<FF03>"
     },
     {
         "id": 2727,
@@ -5821,7 +5821,7 @@
         "data_size": 72,
         "slot_size": 72,
         "texte_orig": "Lisa[SP]only<001E>Crit[SP]S[SP]increases[SP]slightly<FF03>",
-        "texte_fr": "Lisa<001E>Crit[SP]S[SP]increases[SP]slightly<FF03>"
+        "texte_fr": "Lisa<001E>Critiques[SP]legerement[SP]en[SP]hausse<FF03>"
     },
     {
         "id": 2728,
@@ -5829,7 +5829,7 @@
         "data_size": 78,
         "slot_size": 78,
         "texte_orig": "Eikichi[SP]only<001E>Crit[SP]S[SP]increases[SP]slightly<FF03>",
-        "texte_fr": "Eikichi<001E>Crit[SP]S[SP]increases[SP]slightly<FF03>"
+        "texte_fr": "Eikichi<001E>Critiques[SP]legerement[SP]en[SP]hausse<FF03>"
     },
     {
         "id": 2729,
@@ -6533,7 +6533,7 @@
         "data_size": 164,
         "slot_size": 164,
         "texte_orig": "50S[SP]chance[SP]to[SP]cure[SP]Holy[SP]Lance[SP]ailment<0004><FF03>Infinite[SP]uses<0004>[SP]Can[SP]only[SP]be[SP]used[SP]in[SP]battle<0004><FF03>",
-        "texte_fr": "50% chances soigner Sainte Lance<0004><FF03>"
+        "texte_fr": "50<0053> chances soigner Sainte Lance<0004><FF03>"
     },
     {
         "id": 2817,
@@ -6541,7 +6541,7 @@
         "data_size": 170,
         "slot_size": 170,
         "texte_orig": "Raise[SP]max[SP]HP[SP]by[SP]20S[SP]and[SP]recover[SP]full[SP]HP[SP]for<FF03>one[SP]ally[SP]during[SP]a[SP]battle<0004>[SP]Infinite[SP]uses<0004><FF03>",
-        "texte_fr": "PV max +20% et restaure tous PV<0004><FF03>"
+        "texte_fr": "PV max +20<0053> et restaure tous PV<0004><FF03>"
     },
     {
         "id": 2818,
@@ -6549,7 +6549,7 @@
         "data_size": 140,
         "slot_size": 140,
         "texte_orig": "Raise[SP]max[SP]HP[SP]by[SP]20S[SP]and[SP]recover[SP]full[SP]HP[SP]for<FF03>one[SP]ally[SP]during[SP]a[SP]battle<0004><FF03>",
-        "texte_fr": "PV max +20% et restaure tous PV<0004><FF03>"
+        "texte_fr": "PV max +20<0053> et restaure tous PV<0004><FF03>"
     },
     {
         "id": 2819,
@@ -6637,7 +6637,7 @@
         "data_size": 164,
         "slot_size": 164,
         "texte_orig": "Recover[SP]25S[SP]of[SP]HP[SP]and[SP]SP[SP]for[SP]one[SP]ally<0004><FF03>Infinite[SP]uses<0004>[SP]Can[SP]only[SP]be[SP]used[SP]in[SP]battle<0004><FF03>",
-        "texte_fr": "Restaure 25% PV/PC en combat<0004><FF03>"
+        "texte_fr": "Restaure 25<0053> PV/PC en combat<0004><FF03>"
     },
     {
         "id": 2830,

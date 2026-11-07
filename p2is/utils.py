@@ -140,6 +140,9 @@ SCAN_TARGETS = {
     "f*.bin",
     "dun*.bnp",
     "shop*.bnp",
+    "dngscn.bnp",
+    "p_demo.bnp",
+    "q00.bin",
 }
 
 # ── Décodeur F_BE / TM_EVE ────────────────────────────────────────────────────

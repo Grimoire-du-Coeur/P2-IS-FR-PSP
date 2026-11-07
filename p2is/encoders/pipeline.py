@@ -10,6 +10,8 @@ Pipeline complet :
   JSON traduits → scripts encodés → event.bin patché → ISO finale
 
 Fichiers supplémentaires : CD_SHOP.BIN · F_BE.BNP · TM_EVE.BNP · MMAP01-06.BNP
+                          DNGSCN.BNP · P_DEMO.BNP (conteneurs compressés)
+Messages hors dialogues d'event.bin : traduction/event_blocs.json
 
 Auteurs : chenetulipe & GarloulouLeAsriel
 GitHub  : https://github.com/chenetulipe/P2-FR-IS-PSP
@@ -23,6 +25,9 @@ from p2is.core.iso import (
 )
 from p2is.encoders.bin_encoder import encode_bin_from_json, encode_bnp_from_json
 from p2is.encoders.fbe_encoder import encode_fbe_bnp_from_json
+from p2is.encoders.lz_bnp_encoder import encode_lz_bnp_from_json
+from p2is.parsers.lz_bnp_parser import FICHIERS_LZ
+from p2is.parsers.messages_parser import appliquer_messages
 def encode_all(
     trad_dir: str, cpk_dir: str, enc_dir: str, log_fn, progress_fn=None, targets=None
 ) -> dict:
@@ -76,7 +81,10 @@ def encode_all(
             if log_fn:
                 log_fn(f"  Encodage {jn}…", "info")
             stem = Path(on).stem.lower()
-            if stem in ("f_be", "tm_eve"):
+            if stem in FICHIERS_LZ:
+                # Conteneur compressé (DNGSCN, P_DEMO) : blocs recompressés à taille fixe
+                encode_lz_bnp_from_json(str(op), str(jp), log_fn, out_path=str(out / fn))
+            elif stem in ("f_be", "tm_eve"):
                 # Format spécial F_BE/TM_EVE : bytes d'animation intercalés
                 encode_fbe_bnp_from_json(
                     str(op), str(jp), log_fn, out_path=str(out / fn)
@@ -111,6 +119,12 @@ def encode_all(
             tmp.mkdir(parents=True, exist_ok=True)
             extract_scripts_from_event(str(ep), tmp, None)
             sc_ok = 0
+            messages = {}
+            mj = jdir / "event_blocs.json"
+            if mj.exists():
+                import json as _json
+                for m in _json.load(open(mj, encoding="utf-8")):
+                    messages.setdefault(m["script"], []).append(m)
             for js in sorted(sj.glob("script_*.json")):
                 si = js.stem.split("_")[-1].lstrip("0") or "0"
                 try:
@@ -123,12 +137,13 @@ def encode_all(
                 if not bs.exists():
                     continue
                 try:
-                    encode_bin_from_json(
-                        str(bs),
-                        str(js),
-                        None,
-                        out_path=str(tmp / f"script_{si:03d}_fr.bin"),
-                    )
+                    fr_bin = tmp / f"script_{si:03d}_fr.bin"
+                    encode_bin_from_json(str(bs), str(js), None, out_path=str(fr_bin))
+                    mess = messages.get(si)
+                    if mess:
+                        # Messages hors dialogues (profils, descriptions...) à leur place
+                        fr_bin.write_bytes(appliquer_messages(
+                            fr_bin.read_bytes(), bs.read_bytes(), mess, log_fn, f"script_{si:03d}"))
                     sc_ok += 1
                 except:
                     pass

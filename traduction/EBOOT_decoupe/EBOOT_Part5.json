@@ -333,7 +333,7 @@
         "data_size": 12,
         "slot_size": 12,
         "texte_orig": "Yes<FF03>No",
-        "texte_fr": "Yes<FF03>No"
+        "texte_fr": "OK<FF03>Non"
     },
     {
         "id": 4042,
@@ -2461,7 +2461,7 @@
         "data_size": 330,
         "slot_size": 330,
         "texte_orig": "Press[SP]the[SP][[SP]button[SP]for[SP]a[SP]blue[SP]ball<0003><FF03>the[SP]>[SP]button[SP]for[SP]the[SP]red<0003>[SP]and[SP]the[SP]b[SP]button<FF03>for[SP]the[SP]green<0004>[SP]The[SP]tumbler[SP]will[SP]spin[SP]again<0004><FF03>Press[SP]the[SP]`[SP]button[SP]to[SP]keep[SP]your[SP]winnings<0004><FF03>",
-        "texte_fr": "Touche [ pour une boule bleue<0003><FF03>touche > pour la rouge<0003> touche b<FF03>pour la verte<0004> Le tambour retourne<0004><FF03>Touche ` pour garder vos gains<0004><FF03>"
+        "texte_fr": "Touche [ pour une boule bleue<0003><FF03>touche > pour la rouge<0003> touche <0062><FF03>pour la verte<0004> Le tambour retourne<0004><FF03>Touche ` pour garder vos gains<0004><FF03>"
     },
     {
         "id": 4308,
@@ -2509,7 +2509,7 @@
         "data_size": 314,
         "slot_size": 314,
         "texte_orig": "Push[SP]the[SP]>[SP]button[SP]for[SP]4[SP]sets[SP]of[SP]10[SP]coins<FF03>)40[SP]coins*[SP]or[SP]the[SP]b[SP]button[SP]for[SP]4[SP]sets[SP]of<FF03>100[SP]coins<0004>[SP]You[SP]can[SP]press[SP]the[SP]`[SP]button[SP]to<FF03>shuffle[SP]the[SP]numbers[SP]on[SP]the[SP]cards<0004><FF03>",
-        "texte_fr": "Touche > pour 4 lots de 10 pieces<FF03>(40 pieces) ou touche b pour 4 lots<FF03>de 100 pieces<0004> Touche ` pour<FF03>melanger les numeros des cartes<0004><FF03>"
+        "texte_fr": "Touche > pour 4 lots de 10 pieces<FF03>(40 pieces) ou touche <0062> pour 4 lots<FF03>de 100 pieces<0004> Touche ` pour<FF03>melanger les numeros des cartes<0004><FF03>"
     },
     {
         "id": 4314,
@@ -2533,7 +2533,7 @@
         "data_size": 250,
         "slot_size": 250,
         "texte_orig": "a100000[SP]Coins<FF03>You[SP]win[SP]100<0003>000[SP]coins[SP]by[SP]extending[SP]the[SP]frame<FF03>to[SP]its[SP]maximum[SP])seven[SP]times*[SP]with[SP]Frame[SP]Extend<FF03>to[SP]get[SP]five[SP]stars<0004><FF03>",
-        "texte_fr": "a100000 pieces<FF03>Gagnez 100<0003>000 pieces en etendant le<FF03>cadre au maximum (sept fois) avec<FF03>Cadre Etendu pour cinq etoiles<0004><FF03>"
+        "texte_fr": "<0061>100000 pieces<FF03>Gagnez 100<0003>000 pieces en etendant le<FF03>cadre au maximum (sept fois) avec<FF03>Cadre Etendu pour cinq etoiles<0004><FF03>"
     },
     {
         "id": 4317,
@@ -2541,7 +2541,7 @@
         "data_size": 216,
         "slot_size": 216,
         "texte_orig": "aTake[SP]2[SP]Steps)Yx6*<FF03>The[SP]gauge[SP]above[SP]the[SP]reel[SP]slides[SP]2[SP]spaces[SP]left<0004><FF03>[SP]<FF03>a50000[SP]Coins)Yx9*<FF03>You[SP]win[SP]50<0003>000[SP]coins<0004><FF03>",
-        "texte_fr": "aAvance 2 Crans(Yx6)<FF03>La jauge glisse de 2 crans a gauche<0004><FF03> <FF03>a50000 pieces(Yx9)<FF03>Gagnez 50<0003>000 pieces<0004><FF03>"
+        "texte_fr": "<0061>Avance 2 Crans(Yx6)<FF03>La jauge glisse de 2 crans a gauche<0004><FF03> <FF03><0061>50000 pieces(Yx9)<FF03>Gagnez 50<0003>000 pieces<0004><FF03>"
     },
     {
         "id": 4318,
@@ -2549,7 +2549,7 @@
         "data_size": 230,
         "slot_size": 230,
         "texte_orig": "aFrame[SP]Default)Yx4*<FF03>The[SP]extended[SP]frame[SP]on[SP]the[SP]gauge[SP]is[SP]reset<0004><FF03>[SP]<FF03>aFrame[SP]Extend)Yx5*<FF03>The[SP]frame[SP]extends[SP]by[SP]one[SP]space<0004><FF03>",
-        "texte_fr": "aCadre Initial(Yx4)<FF03>Le cadre etendu est remis a zero<0004><FF03> <FF03>aCadre Etendu(Yx5)<FF03>Le cadre s'etend d'un cran<0004><FF03>"
+        "texte_fr": "<0061>Cadre Initial(Yx4)<FF03>Le cadre etendu est remis a zero<0004><FF03> <FF03><0061>Cadre Etendu(Yx5)<FF03>Le cadre s'etend d'un cran<0004><FF03>"
     },
     {
         "id": 4319,
@@ -2557,7 +2557,7 @@
         "data_size": 252,
         "slot_size": 252,
         "texte_orig": "aWipe)Yx2<0001>Yx7*<FF03>The[SP]picture[SP]above[SP]the[SP]reel[SP]will[SP]disappear<0004><FF03>[SP]<FF03>aTake[SP]3[SP]Steps)Yx3*<FF03>The[SP]gauge[SP]above[SP]the[SP]reel[SP]slides[SP]3[SP]spaces[SP]left<0004><FF03>",
-        "texte_fr": "aEffacement(Yx2<0001>Yx7)<FF03>L'image au-dessus du rouleau disparait<0004><FF03> <FF03>aAvance 3 Crans(Yx3)<FF03>La jauge glisse de 3 crans a gauche<0004><FF03>"
+        "texte_fr": "<0061>Effacement(Yx2<0001>Yx7)<FF03>L'image au-dessus du rouleau disparait<0004><FF03> <FF03><0061>Avance 3 Crans(Yx3)<FF03>La jauge glisse de 3 crans a gauche<0004><FF03>"
     },
     {
         "id": 4320,
@@ -2565,7 +2565,7 @@
         "data_size": 196,
         "slot_size": 196,
         "texte_orig": "a500[SP]Coins)Yx0*<FF03>You[SP]win[SP]500[SP]coins<0004><FF03>[SP]<FF03>a<0008>Appearance)Yx1<0001>Yx8*<FF03>A[SP]picture[SP]will[SP]show[SP]up[SP]above[SP]the[SP]reel<0004><FF03>",
-        "texte_fr": "a500 pieces(Yx0)<FF03>Gagnez 500 pieces<0004><FF03> <FF03>a?Apparition(Yx1<0001>Yx8)<FF03>Une image apparait sur le rouleau<0004><FF03>"
+        "texte_fr": "<0061>500 pieces(Yx0)<FF03>Gagnez 500 pieces<0004><FF03> <FF03><0061>?Apparition(Yx1<0001>Yx8)<FF03>Une image apparait sur le rouleau<0004><FF03>"
     },
     {
         "id": 4321,
@@ -2605,7 +2605,7 @@
         "data_size": 414,
         "slot_size": 414,
         "texte_orig": "The[SP]more[SP]coins[SP]you[SP]bet<0003>[SP]the[SP]more[SP]ways[SP]you[SP]can<FF03>line[SP]up[SP]a[SP]win<0004>[SP]You[SP]can[SP]insert[SP]one[SP]coin[SP]at[SP]a<FF03>time[SP]with[SP]the[SP]>[SP]button[SP]or[SP]8[SP]coins[SP]at[SP]once[SP]with<FF03>the[SP]b[SP]button<0004>[SP]Press[SP]the[SP]R[SP]button[SP]or[SP]insert<FF03>8[SP]coins[SP]to[SP]start[SP]the[SP]game<0004><FF03>",
-        "texte_fr": "Plus vous misez de pieces<0003> plus il y a<FF03>d'axes gagnants<0004> Touche > pour une<FF03>piece<0003> touche b pour 8 d'un coup<0004><FF03>Touche R ou 8 pieces pour lancer<FF03>la partie<0004><FF03>"
+        "texte_fr": "Plus vous misez de pieces<0003> plus il y a<FF03>d'axes gagnants<0004> Touche > pour une<FF03>piece<0003> touche <0062> pour 8 d'un coup<0004><FF03>Touche R ou 8 pieces pour lancer<FF03>la partie<0004><FF03>"
     },
     {
         "id": 4326,
@@ -2629,7 +2629,7 @@
         "data_size": 182,
         "slot_size": 182,
         "texte_orig": "a123456<FF03>If[SP]you[SP]get[SP]a[SP]21[SP]with[SP]the[SP]six[SP]cards[SP]numbering<FF03>A<6<0004>[SP]They[SP]do[SP]not[SP]have[SP]to[SP]be[SP]in[SP]order<0004><FF03>",
-        "texte_fr": "a123456<FF03>Un 21 obtenu avec les six cartes<FF03>A<6<0004> L'ordre importe peu<0004><FF03>"
+        "texte_fr": "<0061>123456<FF03>Un 21 obtenu avec les six cartes<FF03>A<6<0004> L'ordre importe peu<0004><FF03>"
     },
     {
         "id": 4329,
@@ -2637,7 +2637,7 @@
         "data_size": 152,
         "slot_size": 152,
         "texte_orig": "a<0206>AUJ<FF03>If[SP]you[SP]make[SP]Blackjack[SP]with[SP]an[SP]Ace[SP]and[SP]Jack<FF03>and[SP]both[SP]cards[SP]are[SP]spades<0004><FF03>",
-        "texte_fr": "a<0206>AUJ<FF03>Blackjack avec un As et un Valet<FF03>tous deux a pique<0004><FF03>"
+        "texte_fr": "<0061><0206>AUJ<FF03>Blackjack avec un As et un Valet<FF03>tous deux a pique<0004><FF03>"
     },
     {
         "id": 4330,
@@ -2645,7 +2645,7 @@
         "data_size": 126,
         "slot_size": 126,
         "texte_orig": "a777<FF03>If[SP]you[SP]are[SP]dealt[SP]two[SP]7s<0003>[SP]hit[SP]once<0003>[SP]and[SP]receive<FF03>another[SP]7<0004><FF03>",
-        "texte_fr": "a777<FF03>Deux 7 distribues<0003> un tirage<0003> et<FF03>un troisieme 7<0004><FF03>"
+        "texte_fr": "<0061>777<FF03>Deux 7 distribues<0003> un tirage<0003> et<FF03>un troisieme 7<0004><FF03>"
     },
     {
         "id": 4331,
@@ -2653,7 +2653,7 @@
         "data_size": 196,
         "slot_size": 196,
         "texte_orig": "a<0204><0207><0205>AUJ<FF03>If[SP]you[SP]make[SP]Blackjack[SP]with[SP]an[SP]Ace[SP]and[SP]Jack<FF03>and[SP]both[SP]cards[SP]are[SP]hearts<0003>[SP]clubs<0003>[SP]or[SP]diamonds<0004><FF03>",
-        "texte_fr": "a<0204><0207><0205>AUJ<FF03>Blackjack avec un As et un Valet tous<FF03>deux a coeur<0003> trefle ou carreau<0004><FF03>"
+        "texte_fr": "<0061><0204><0207><0205>AUJ<FF03>Blackjack avec un As et un Valet tous<FF03>deux a coeur<0003> trefle ou carreau<0004><FF03>"
     },
     {
         "id": 4332,
@@ -2661,7 +2661,7 @@
         "data_size": 174,
         "slot_size": 174,
         "texte_orig": "a7[SP]Cards<FF03>If[SP]you[SP]draw[SP]7[SP]cards[SP]whose[SP]total[SP]is[SP]under<FF03>21<0004>[SP])This[SP]will[SP]Stand[SP]automatically<0004>*<FF03>",
-        "texte_fr": "a7 Cartes<FF03>Sept cartes dont le total reste<FF03>sous 21<0004> (Rester est automatique<0004>)<FF03>"
+        "texte_fr": "<0061>7 Cartes<FF03>Sept cartes dont le total reste<FF03>sous 21<0004> (Rester est automatique<0004>)<FF03>"
     },
     {
         "id": 4333,
@@ -2669,7 +2669,7 @@
         "data_size": 138,
         "slot_size": 138,
         "texte_orig": "a6[SP]Cards<FF03>If[SP]you[SP]Stand[SP]after[SP]drawing[SP]6[SP]cards[SP]whose<FF03>total[SP]is[SP]under[SP]21<0004><FF03>",
-        "texte_fr": "a6 Cartes<FF03>Rester apres six cartes dont le<FF03>total reste sous 21<0004><FF03>"
+        "texte_fr": "<0061>6 Cartes<FF03>Rester apres six cartes dont le<FF03>total reste sous 21<0004><FF03>"
     },
     {
         "id": 4334,
@@ -2677,7 +2677,7 @@
         "data_size": 322,
         "slot_size": 322,
         "texte_orig": "aB<0004>JACK)Blackjack*<FF03>If[SP]you[SP]have[SP]an[SP]Ace[SP]with[SP]a[SP]10<K<0004><FF03>)You[SP]will[SP]Stand[SP]automatically<0004>*<FF03>If[SP]you[SP]have[SP]Split<0003>[SP]this[SP]is[SP]not[SP]counted<FF03>as[SP]Blackjack[SP]and[SP]counts[SP]as[SP]21[SP]instead<0004><FF03>",
-        "texte_fr": "aB<0004>JACK(Blackjack)<FF03>Un As avec un 10<K<0004><FF03>(Rester est automatique<0004>)<FF03>Apres un Split<0003> cela ne compte pas<FF03>comme Blackjack mais comme 21<0004><FF03>"
+        "texte_fr": "<0061>B<0004>JACK(Blackjack)<FF03>Un As avec un 10<K<0004><FF03>(Rester est automatique<0004>)<FF03>Apres un Split<0003> cela ne compte pas<FF03>comme Blackjack mais comme 21<0004><FF03>"
     },
     {
         "id": 4335,
@@ -2685,7 +2685,7 @@
         "data_size": 184,
         "slot_size": 184,
         "texte_orig": "aWIN<FF03>If[SP]your[SP]total[SP]exceeds[SP]the[SP]dealer&s[SP]while[SP]still<FF03>being[SP]under[SP]21<0003>[SP]or[SP]if[SP]the[SP]dealer[SP]busts<0004><FF03>",
-        "texte_fr": "aGAGNE<FF03>Votre total depasse celui du croupier<FF03>en restant sous 21<0003> ou il saute<0004><FF03>"
+        "texte_fr": "<0061>GAGNE<FF03>Votre total depasse celui du croupier<FF03>en restant sous 21<0003> ou il saute<0004><FF03>"
     },
     {
         "id": 4336,
@@ -2837,7 +2837,7 @@
         "data_size": 272,
         "slot_size": 272,
         "texte_orig": "aMANUAL<FF03>All[SP]decisions<0003>[SP]such[SP]as[SP]choosing[SP]which[SP]cards<FF03>to[SP]discard<0003>[SP]are[SP]left[SP]to[SP]the[SP]player<0004><FF03>[SP]<FF03>aAUTO<FF03>All[SP]decisions[SP]are[SP]made[SP]by[SP]the[SP]computer<0004><FF03>",
-        "texte_fr": "aMANUEL<FF03>Toutes les decisions<0003> dont le choix<FF03>des cartes a jeter<0003> reviennent au<FF03>joueur<0004><FF03> <FF03>aAUTO<FF03>La console decide de tout<0004><FF03>"
+        "texte_fr": "<0061>MANUEL<FF03>Toutes les decisions<0003> dont le choix<FF03>des cartes a jeter<0003> reviennent au<FF03>joueur<0004><FF03> <FF03><0061>AUTO<FF03>La console decide de tout<0004><FF03>"
     },
     {
         "id": 4355,
@@ -2845,7 +2845,7 @@
         "data_size": 382,
         "slot_size": 382,
         "texte_orig": "On[SP]starting[SP]the[SP]game<0003>[SP]press[SP]the[SP]>[SP]button[SP]to<FF03>add[SP]coins[SP]or[SP]the[SP]b[SP]button[SP]to[SP]add[SP]ten[SP]coins[SP]at<FF03>once[SP]to[SP]the[SP]participating[SP]player&s[SP]bet<0004>[SP]Then<FF03>select[SP]between[SP]MANUAL[SP]and[SP]AUTO[SP]for[SP]controlling<FF03>players<0004><FF03>",
-        "texte_fr": "Au lancement<0003> touche > pour ajouter<FF03>des pieces ou touche b pour en<FF03>ajouter dix d'un coup a la mise du<FF03>joueur<0004> Choisissez ensuite MANUEL ou<FF03>AUTO pour chaque joueur<0004><FF03>"
+        "texte_fr": "Au lancement<0003> touche > pour ajouter<FF03>des pieces ou touche <0062> pour en<FF03>ajouter dix d'un coup a la mise du<FF03>joueur<0004> Choisissez ensuite MANUEL ou<FF03>AUTO pour chaque joueur<0004><FF03>"
     },
     {
         "id": 4356,
@@ -2885,7 +2885,7 @@
         "data_size": 244,
         "slot_size": 244,
         "texte_orig": "aWild[SP]Royal[SP]Flush<FF03>Royal[SP]Flush[SP]with[SP]a[SP]Joker[SP]standing[SP]in<0004><FF03>[SP]<FF03>aRoyal[SP]Flush<FF03>A[SP]10<0003>[SP]Jack<0003>[SP]Queen<0003>[SP]King<0003>[SP]and[SP]Ace[SP]of<FF03>the[SP]same[SP]suit<0004><FF03>",
-        "texte_fr": "aQuinte Royale Joker<FF03>Quinte Royale avec un Joker<0004><FF03> <FF03>aQuinte Flush Royale<FF03>10<0003> Valet<0003> Dame<0003> Roi et As de<FF03>meme couleur<0004><FF03>"
+        "texte_fr": "<0061>Quinte Royale Joker<FF03>Quinte Royale avec un Joker<0004><FF03> <FF03><0061>Quinte Flush Royale<FF03>10<0003> Valet<0003> Dame<0003> Roi et As de<FF03>meme couleur<0004><FF03>"
     },
     {
         "id": 4361,
@@ -2893,7 +2893,7 @@
         "data_size": 300,
         "slot_size": 300,
         "texte_orig": "aStraight[SP]Flush<FF03>Five[SP]successive[SP]cards[SP]of[SP]the[SP]same[SP]suit<0004><FF03>The[SP]ace[SP]does[SP]not[SP]connect[SP]to[SP]the[SP]2<0004><FF03>[SP]<FF03>a5[SP]Of[SP]A[SP]Kind<FF03>Four[SP]cards[SP]of[SP]the[SP]same[SP]number[SP]plus[SP]a[SP]Joker<0004><FF03>",
-        "texte_fr": "aQuinte Flush<FF03>Cinq cartes qui se suivent<0003> meme<FF03>couleur<0004> L'As ne suit pas le 2<0004><FF03> <FF03>a5 Identiques<FF03>Quatre cartes du meme numero plus<FF03>un Joker<0004><FF03>"
+        "texte_fr": "<0061>Quinte Flush<FF03>Cinq cartes qui se suivent<0003> meme<FF03>couleur<0004> L'As ne suit pas le 2<0004><FF03> <FF03><0061>5 Identiques<FF03>Quatre cartes du meme numero plus<FF03>un Joker<0004><FF03>"
     },
     {
         "id": 4362,
@@ -2901,7 +2901,7 @@
         "data_size": 208,
         "slot_size": 208,
         "texte_orig": "aFull[SP]House<FF03>Three[SP]cards[SP]of[SP]one[SP]number[SP]and[SP]two[SP]of[SP]another<0004><FF03>[SP]<FF03>a4[SP]Of[SP]A[SP]Kind<FF03>Four[SP]cards[SP]of[SP]the[SP]same[SP]number<0004><FF03>",
-        "texte_fr": "aFull<FF03>Trois cartes d'un numero et deux<FF03>d'un autre<0004><FF03> <FF03>a4 Identiques<FF03>Quatre cartes du meme numero<0004><FF03>"
+        "texte_fr": "<0061>Full<FF03>Trois cartes d'un numero et deux<FF03>d'un autre<0004><FF03> <FF03><0061>4 Identiques<FF03>Quatre cartes du meme numero<0004><FF03>"
     },
     {
         "id": 4363,
@@ -2909,7 +2909,7 @@
         "data_size": 246,
         "slot_size": 246,
         "texte_orig": "aStraight<FF03>Five[SP]numbers[SP]in[SP]succession[SP]of[SP]any[SP]suit<0004><FF03>The[SP]ace[SP]does[SP]not[SP]connect[SP]to[SP]the[SP]2<0004><FF03>[SP]<FF03>aFlush<FF03>Five[SP]cards[SP]of[SP]the[SP]same[SP]suit<0004><FF03>",
-        "texte_fr": "aQuinte<FF03>Cinq numeros qui se suivent<0003> toutes<FF03>couleurs<0004> L'As ne suit pas le 2<0004><FF03> <FF03>aCouleur<FF03>Cinq cartes de la meme couleur<0004><FF03>"
+        "texte_fr": "<0061>Quinte<FF03>Cinq numeros qui se suivent<0003> toutes<FF03>couleurs<0004> L'As ne suit pas le 2<0004><FF03> <FF03><0061>Couleur<FF03>Cinq cartes de la meme couleur<0004><FF03>"
     },
     {
         "id": 4364,
@@ -2917,7 +2917,7 @@
         "data_size": 196,
         "slot_size": 196,
         "texte_orig": "a2[SP]Pair<FF03>Two[SP]pairs[SP]of[SP]two[SP]cards[SP]of[SP]the[SP]same[SP]number<0004><FF03>[SP]<FF03>a3[SP]Of[SP]A[SP]Kind<FF03>Three[SP]cards[SP]of[SP]the[SP]same[SP]number<0004><FF03>",
-        "texte_fr": "a2 Paires<FF03>Deux paires de deux cartes du meme<FF03>numero<0004><FF03> <FF03>a3 Identiques<FF03>Trois cartes du meme numero<0004><FF03>"
+        "texte_fr": "<0061>2 Paires<FF03>Deux paires de deux cartes du meme<FF03>numero<0004><FF03> <FF03><0061>3 Identiques<FF03>Trois cartes du meme numero<0004><FF03>"
     },
     {
         "id": 4365,
@@ -2941,7 +2941,7 @@
         "data_size": 436,
         "slot_size": 436,
         "texte_orig": "After[SP]the[SP]card[SP]exchange<0003>[SP]if[SP]you[SP]have[SP]a<FF03>hand<0003>[SP]you[SP]will[SP]receive[SP]coins[SP]corresponding<FF03>to[SP]the[SP]odds[SP]and[SP]your[SP]bet<0004><FF03>If[SP]you[SP]get[SP]a[SP]hand<0003>[SP]you[SP]can[SP]press[SP]the<FF03>b[SP]button[SP]to[SP]apply[SP]these[SP]to[SP]another[SP]game<0004><FF03>Press[SP]the[SP]`[SP]button[SP]to[SP]back[SP]out<0004><FF03>",
-        "texte_fr": "Apres l'echange<0003> si vous avez une main<0003><FF03>vous recevez des pieces selon la cote<FF03>et votre mise<0004><FF03>Avec une main<0003> touche b pour la<FF03>reporter sur une autre partie<0004><FF03>Touche ` pour vous retirer<0004><FF03>"
+        "texte_fr": "Apres l'echange<0003> si vous avez une main<0003><FF03>vous recevez des pieces selon la cote<FF03>et votre mise<0004><FF03>Avec une main<0003> touche <0062> pour la<FF03>reporter sur une autre partie<0004><FF03>Touche ` pour vous retirer<0004><FF03>"
     },
     {
         "id": 4368,
@@ -2957,7 +2957,7 @@
         "data_size": 470,
         "slot_size": 470,
         "texte_orig": "Poker[SP]is[SP]a[SP]card[SP]game[SP]where[SP]you[SP]exchange[SP]one[SP]of<FF03>your[SP]five[SP]cards[SP]to[SP]create[SP]a[SP]specific[SP]hand<0004><FF03>To[SP]bet<0003>[SP]press[SP]the[SP]>[SP]button[SP]to[SP]insert[SP]one[SP]coin<FF03>or[SP]press[SP]the[SP]b[SP]button[SP]to[SP]insert[SP]10[SP]coins<0004><FF03>Press[SP]the[SP]R[SP]button[SP]or[SP]insert[SP]10[SP]coins<FF03>to[SP]begin[SP]the[SP]game<0004><FF03>",
-        "texte_fr": "Au poker<0003> vous echangez une de vos<FF03>cinq cartes pour former une main<0004><FF03>Pour miser<0003> touche > pour une piece<FF03>ou touche b pour dix pieces<0004><FF03>Touche R ou 10 pieces pour lancer<FF03>la partie<0004><FF03>"
+        "texte_fr": "Au poker<0003> vous echangez une de vos<FF03>cinq cartes pour former une main<0004><FF03>Pour miser<0003> touche > pour une piece<FF03>ou touche <0062> pour dix pieces<0004><FF03>Touche R ou 10 pieces pour lancer<FF03>la partie<0004><FF03>"
     },
     {
         "id": 4370,
