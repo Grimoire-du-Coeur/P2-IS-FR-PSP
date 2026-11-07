@@ -879,7 +879,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?\n[1208][0004]Enter[SP]magazine[SP]sweepstakes\nTalk[SP]to[SP]Tamaki\nNothing\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Tamaki",
-    "texte_fr": "What can I help you with?\n[1208][0004]Enter magazine sweepstakes\nTalk to Tamaki\nNothing\nLeave the detective agency",
+    "texte_fr": "Que puis-je pour vous?\n[1208][0004]Concours du magazine\nVoir Tamaki\nRien\nQuitter l'agence",
     "question_orig": "What[SP]can[SP]I[SP]help[SP]you[SP]with?",
     "choix_orig": [
       "Enter[SP]magazine[SP]sweepstakes",
@@ -906,7 +906,7 @@
     "nom_orig": "Tamaki",
     "texte_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]the[SP]sweepstakes\nNothing",
     "nom_fr": "Tamaki",
-    "texte_fr": "What do you want to talk about?\n[1208][0003]Make small talk\nAsk about the sweepstakes\nNothing",
+    "texte_fr": "De quoi voulez-vous parler?\n[1208][0003]Bavarder\nLe concours\nRien",
     "question_orig": "What[SP]do[SP]you[SP]want[SP]to[SP]talk[SP]about?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1540,7 +1540,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "What's on your mind?\n[1208][0003]Make small talk\nAsk about rumors\n[1210][NULL]Non-displayed selection",
+    "texte_fr": "Qu'y a-t-il?\n[1208][0003]Bavarder\nLes rumeurs\n[1210][NULL]Non-displayed[SP]selection",
     "question_orig": "What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",
@@ -1566,7 +1566,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "Anything[SP]else?\n[1208][0005]Spread[SP]rumors\nCheck[SP]rumors\nTalk[SP]with[SP]the[SP]Chief\nCancel\nLeave[SP]the[SP]detective[SP]agency",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "Anything else?\n[1208][0005]Spread rumors\nCheck rumors\nTalk with the Chief\nCancel\nLeave the detective agency",
+    "texte_fr": "Autre chose?\n[1208][0005]Lancer rumeur\nVoir rumeurs\nParler au Chef\nRetour\nQuitter l'agence",
     "question_orig": "Anything[SP]else?",
     "choix_orig": [
       "Spread[SP]rumors",
@@ -1594,7 +1594,7 @@
     "nom_orig": "Chief[SP]Todoroki",
     "texte_orig": "What's[SP]on[SP]your[SP]mind?\n[1208][0003]Make[SP]small[SP]talk\nAsk[SP]about[SP]rumors\n[1210][NULL]Non-displayed[SP]selection",
     "nom_fr": "Chef Todoroki",
-    "texte_fr": "What's on your mind?\n[1208][0003]Make small talk\nAsk about rumors\n[1210][NULL]Non-displayed selection",
+    "texte_fr": "Qu'y a-t-il?\n[1208][0003]Bavarder\nLes rumeurs\n[1210][NULL]Non-displayed[SP]selection",
     "question_orig": "What's[SP]on[SP]your[SP]mind?",
     "choix_orig": [
       "Make[SP]small[SP]talk",

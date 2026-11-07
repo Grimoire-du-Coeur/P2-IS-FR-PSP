@@ -1,0 +1,2865 @@
+[
+  {
+    "script": 0,
+    "offset": 381174,
+    "taille": 141,
+    "texte_orig": "[1431][NULL][NULL][0010]Takashi[SP]Hanya\n[SP]The[SP]new[SP]principal,[SP]transferred[SP]from\n[SP]St.[SP]Hermelin[SP]High.[SP]There,[SP]he[SP]was[SP]hated,\n[SP]but[SP]at[SP]Seven[SP]Sisters[SP]he's[SP]looked[SP]up[SP]to.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0010]Takashi Hanya\n Nouveau proviseur, venu de St. Hermelin.\n Détesté là-bas, il est respecté\n au Lycée Seven Sisters.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 1,
+    "offset": 388744,
+    "taille": 131,
+    "texte_orig": "[1431][NULL][NULL][0011]Saeko[SP]Takami\n[SP][1113]'s[SP]teacher,[SP]a[SP]transfer[SP]from\n[SP]St.[SP]Hermelin.[SP]Her[SP]students[SP]adore[SP]her\n[SP]frankness[SP]and[SP]emphasis[SP]on[SP]individuality.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0011]Saeko Takami\n Prof de [1113], venue de St. Hermelin.\n Ses élèves adorent sa franchise et\n son respect de chacun.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 1,
+    "offset": 392470,
+    "taille": 149,
+    "texte_orig": "[1431][NULL][NULL][0011]Lisa[SP]Silverman\n[SP]Student[SP]in[SP]class[SP]2-C.[SP]Native[SP]Caucasian\n[SP]who's[SP]fluent[SP]in[SP]Japanese[SP]and[SP]loves[SP]kung[SP]fu.\n[SP]Self-proclaimed[SP]hottest[SP]girl[SP]in[SP]school.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0011]Lisa Silverman\n Élève de 2-C. Occidentale, parle\n couramment japonais, adore le kung-fu.\n Se dit la plus belle du lycée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 2,
+    "offset": 362666,
+    "taille": 156,
+    "texte_orig": "[1431][NULL][NULL][0011]Miyabi[SP]Hanakouji\n[SP]A[SP]Sevens[SP]student[SP]in[SP]class[SP]2-C,[SP]she's[SP]been\n[SP]nicknamed[SP][1432][NULL][NULL][0014]Kozy.[1432][NULL][NULL][0014][SP]Edits[SP]the[SP]school[SP]paper\n[SP]and[SP]is[SP]investigating[SP]the[SP]emblem[SP]curse.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0011]Miyabi Hanakouji\n Élève de 2-C à Seven, surnommée\n [1432][NULL][NULL][0014]Kozy.[1432][NULL][NULL][0014] Rédige le journal du lycée\n et enquête sur la malédiction.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 8,
+    "offset": 276068,
+    "taille": 129,
+    "texte_orig": "[1431][NULL][NULL][0011]Maya[SP]Amano\n[SP]A[SP]beautiful[SP]and[SP]cheerful[SP]journalist.\n[SP]She's[SP]gathering[SP]rumors[SP]from[SP]students\n[SP]to[SP]compile[SP]into[SP]a[SP]special[SP]report.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Maya Amano\n Une journaliste belle et joyeuse.\n Elle recueille les rumeurs des\n élèves pour un dossier spécial.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 8,
+    "offset": 276530,
+    "taille": 134,
+    "texte_orig": "[1431][NULL][NULL][0011]Yukino[SP]Mayuzumi\n[SP]Maya's[SP]partner[SP]and[SP](apprentice)[SP]shooter.\n[SP]She[SP]does[SP]part-time[SP]work[SP]to[SP]pay[SP]her[SP]way\n[SP]through[SP]photography[SP]school.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Yukino Mayuzumi\n Partenaire de Maya, photographe (en\n formation). Elle a un petit boulot\n pour payer son école de photo.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 9,
+    "offset": 284984,
+    "taille": 77,
+    "texte_orig": "[1431][NULL][NULL][0006]>[SP]The[SP]party's[SP]stock[SP]of[SP]Personas[SP]is[SP]full.\nPlease[SP]create[SP]two[SP]openings.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0006]> Votre stock de Personae est plein.\nLibérez deux places.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 10,
+    "offset": 391452,
+    "taille": 62,
+    "texte_orig": ">[SP]The[SP]emblem[SP]that[SP]used[SP]to[SP]be[SP]here[SP]has\nalready[SP]been[SP]destroyed.\n",
+    "texte_fr": "> L'emblème qui était ici a déjà\nété détruit.\n"
+  },
+  {
+    "script": 10,
+    "offset": 391582,
+    "taille": 62,
+    "texte_orig": ">[SP]The[SP]emblem[SP]that[SP]used[SP]to[SP]be[SP]here[SP]has\nalready[SP]been[SP]destroyed.\n",
+    "texte_fr": "> L'emblème qui était ici a déjà\nété détruit.\n"
+  },
+  {
+    "script": 10,
+    "offset": 391712,
+    "taille": 62,
+    "texte_orig": ">[SP]The[SP]emblem[SP]that[SP]used[SP]to[SP]be[SP]here[SP]has\nalready[SP]been[SP]destroyed.\n",
+    "texte_fr": "> L'emblème qui était ici a déjà\nété détruit.\n"
+  },
+  {
+    "script": 11,
+    "offset": 255830,
+    "taille": 111,
+    "texte_orig": ">[SP]It's[SP]a[SP]poster[SP]of[SP]the[SP]legendary[SP]actress\nSaiyuri[SP]Yoshikawa.[SP]The[SP]area[SP]around[SP]her\nlips[SP]is[SP]worn[SP]for[SP]some[SP]reason...",
+    "texte_fr": "> Un poster de la légendaire actrice\nSaiyuri Yoshikawa. Le tour de ses\nlèvres est usé, allez savoir..."
+  },
+  {
+    "script": 11,
+    "offset": 256058,
+    "taille": 124,
+    "texte_orig": ">[SP]It's[SP]a[SP]calendar[SP]of[SP]the[SP]legendary[SP]actress\nSaiyuri[SP]Yoshikawa...[SP]from[SP]30[SP]years[SP]ago!\nThe[SP]area[SP]around[SP]her[SP]lips[SP]is[SP]oddly[SP]worn...",
+    "texte_fr": "> Un calendrier de la légendaire actrice\nSaiyuri Yoshikawa... d'il y a 30 ans !\nLe tour des lèvres est bizarrement usé..."
+  },
+  {
+    "script": 11,
+    "offset": 256312,
+    "taille": 76,
+    "texte_orig": ">[SP]There[SP]are[SP]thick[SP]ropes[SP]and[SP]candles[SP]in\nthe[SP]box...[SP]For[SP]emergencies,[SP]you[SP]hope.",
+    "texte_fr": "> Il y a des cordes et des bougies\ndans la boîte... Pour les urgences ?"
+  },
+  {
+    "script": 11,
+    "offset": 256470,
+    "taille": 76,
+    "texte_orig": ">[SP]There[SP]are[SP]thick[SP]ropes[SP]and[SP]candles[SP]in\nthe[SP]box...[SP]For[SP]emergencies,[SP]you[SP]hope.",
+    "texte_fr": "> Il y a des cordes et des bougies\ndans la boîte... Pour les urgences ?"
+  },
+  {
+    "script": 11,
+    "offset": 256628,
+    "taille": 59,
+    "texte_orig": ">[SP]It's[SP]an[SP]old[SP]TV.[1205][001E][SP]It[SP]even[SP]uses[SP]a[SP]dial\nto[SP]change[SP]channels.",
+    "texte_fr": "> Une vieille télé.[1205][001E] Avec un\nbouton pour les chaînes."
+  },
+  {
+    "script": 11,
+    "offset": 256752,
+    "taille": 108,
+    "texte_orig": ">[SP]Hidden[SP]amongst[SP]the[SP]pictures[SP]of[SP]Saiyuri\nYoshikawa[SP]in[SP]the[SP]drawer...[1205]<[SP]were[SP]more\ncutouts[SP]of[SP]the[SP]same[SP]actress.",
+    "texte_fr": "> Cachées sous les photos de Saiyuri\nYoshikawa dans le tiroir...[1205]< d'autres\ncoupures de la même actrice."
+  },
+  {
+    "script": 11,
+    "offset": 256974,
+    "taille": 68,
+    "texte_orig": ">[SP]The[SP]fridge[SP]is[SP]full[SP]of[SP]side[SP]dishes[SP]with\nplastic[SP]wrap[SP]covering[SP]them.",
+    "texte_fr": "> Le frigo est plein de plats couverts\nde film plastique."
+  },
+  {
+    "script": 11,
+    "offset": 257116,
+    "taille": 33,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]in[SP]the[SP]cabinet.",
+    "texte_fr": "> Il n'y a rien dans le meuble."
+  },
+  {
+    "script": 11,
+    "offset": 257188,
+    "taille": 34,
+    "texte_orig": "\n>[SP]There[SP]are[SP]futons[SP]in[SP]the[SP]closet.",
+    "texte_fr": "\n> Des futons dans le placard."
+  },
+  {
+    "script": 14,
+    "offset": 293294,
+    "taille": 137,
+    "texte_orig": "[1431][NULL][NULL][0011]Anna[SP]Yoshizaka\n[SP]A[SP]dropout[SP]from[SP]Seven[SP]Sisters[SP]High.\n[SP]Currently[SP]dissolute,[SP]but[SP]she[SP]was[SP]star[SP]of\n[SP]the[SP]track[SP]team[SP]before[SP]her[SP]accident.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Anna Yoshizaka\n A quitté le Lycée Seven Sisters.\n Aujourd'hui dissipée, elle était la star\n de l'athlétisme avant son accident.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 16,
+    "offset": 202162,
+    "taille": 49,
+    "texte_orig": ">[SP]You[SP]found[SP]a[SP][1431][NULL][NULL][0006]Strange[SP]Mask[1431][NULL][NULL][0002][SP]in[SP]the[SP]box...\n",
+    "texte_fr": "> Un [1431][NULL][NULL][0006]Masque étrange[1431][NULL][NULL][0002] dans la boîte...\n"
+  },
+  {
+    "script": 16,
+    "offset": 202354,
+    "taille": 27,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]in[SP]here.\n",
+    "texte_fr": "> Il n'y a rien là-dedans.\n"
+  },
+  {
+    "script": 18,
+    "offset": 358298,
+    "taille": 148,
+    "texte_orig": "[1431][NULL][NULL][0010]Hiroki[SP]Sugimoto\n[SP]The[SP]new[SP]Leader[SP]of[SP]Cuss[SP]High.[SP]Seems[SP]to[SP]have\n[SP]been[SP]plotting[SP]revenge[SP]against[SP]Eikichi[SP]since\n[SP]his[SP]humiliation[SP]in[SP]middle[SP]school.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0010]Hiroki Sugimoto\n Nouveau chef du Lycée Kasu. Il prépare\n sa revanche sur Eikichi depuis son\n humiliation au collège.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 27,
+    "offset": 371074,
+    "taille": 135,
+    "texte_orig": "[1431][NULL][NULL][0010]King[SP]Leo\nAn[SP]executive[SP]of[SP]Joker's[SP]Masked[SP]Circle.\nHe[SP]seems[SP]to[SP]harbor[SP]a[SP]deep[SP]grudge[SP]towards\nMaya.[SP]An[SP]insane[SP]man[SP]who[SP]hears[SP]voices.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0010]Roi Lion\nUn dirigeant du Cercle Masqué de Joker.\nIl semble haïr profondément Maya.\nUn fou qui entend des voix.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 28,
+    "offset": 347092,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#1[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°1 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 28,
+    "offset": 347426,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#2[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°2 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 28,
+    "offset": 347758,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#3[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°3 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 28,
+    "offset": 348090,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#4[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°4 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 28,
+    "offset": 348422,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#5[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°5 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 28,
+    "offset": 348754,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#6[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°6 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 28,
+    "offset": 349086,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#7[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°7 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 28,
+    "offset": 349418,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#8[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°8 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 28,
+    "offset": 349750,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#9[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°9 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 28,
+    "offset": 350082,
+    "taille": 50,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#10[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°10 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 28,
+    "offset": 350416,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]the[SP][1432][NULL][NULL][0014]Join[SP]Forces[1432][NULL][NULL][0014][SP]blackjack[SP]machine.",
+    "texte_fr": "> La machine de blackjack [1432][NULL][NULL][0014]Join Forces[1432][NULL][NULL][0014]."
+  },
+  {
+    "script": 28,
+    "offset": 350748,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#1[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°1 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 28,
+    "offset": 351102,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#2[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°2 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 28,
+    "offset": 351456,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#3[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°3 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 28,
+    "offset": 351810,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#4[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°4 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 28,
+    "offset": 352164,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#5[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°5 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 28,
+    "offset": 352518,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#6[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°6 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 28,
+    "offset": 352872,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#7[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°7 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 28,
+    "offset": 353226,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#8[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°8 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 28,
+    "offset": 353580,
+    "taille": 45,
+    "texte_orig": ">[SP]It's[SP]the[SP][1432][NULL][NULL][0014]Fortune's[SP]Reel[1432][NULL][NULL][0014][SP]bingo[SP]game.",
+    "texte_fr": "> Le bingo [1432][NULL][NULL][0014]Fortune's Reel[1432][NULL][NULL][0014]."
+  },
+  {
+    "script": 29,
+    "offset": 304106,
+    "taille": 144,
+    "texte_orig": "[1431][NULL][NULL][0011]Miho[SP]Ogishima\nStudent[SP]in[SP]Class[SP]2-C[SP]at[SP]Sevens,[SP]nicknamed\nMee-ho.[SP]Always[SP]hanging[SP]out[SP]with[SP]Lisa[SP]and[SP]Mami.\nShe's[SP]the[SP]ditziest[SP]of[SP]the[SP]three.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0011]Miho Ogishima\nÉlève de 2-C à Seven, surnommée Mee-ho.\nToujours avec Lisa et Mami.\nLa plus tête en l'air des trois.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 29,
+    "offset": 305036,
+    "taille": 141,
+    "texte_orig": "[1431][NULL][NULL][0011]Mami[SP]Shibata\nStudent[SP]in[SP]Class[SP]2-C[SP]at[SP]Sevens,[SP]nicknamed\nSheba.[SP]Always[SP]hanging[SP]out[SP]with[SP]Lisa[SP]and[SP]Miho.\nShe's[SP]the[SP]calmest[SP]of[SP]the[SP]three.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0011]Mami Shibata\nÉlève de 2-C à Seven, surnommée Sheba.\nToujours avec Lisa et Miho.\nLa plus calme des trois.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 30,
+    "offset": 277446,
+    "taille": 145,
+    "texte_orig": "[1431][NULL][NULL][0010]Ginji[SP]Sasaki\nA[SP]flashy[SP]music[SP]producer[SP]who[SP]hit[SP]it[SP]big[SP]a\nfew[SP]years[SP]ago.[SP]Prior[SP]to[SP]that,[SP]he[SP]was[SP]a\nsmall-time[SP]operator[SP]with[SP]only[SP]one[SP]hit[SP]song.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0010]Ginji Sasaki\nUn producteur tape-à-l'œil qui a percé\nil y a quelques années. Avant, il n'avait\nqu'un seul tube à son actif.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 32,
+    "offset": 275338,
+    "taille": 35,
+    "texte_orig": ">[SP]The[SP]box[SP]is[SP]full[SP]of[SP]Muses[SP]flyers.\n",
+    "texte_fr": "> Plein de tracts Muses.\n"
+  },
+  {
+    "script": 32,
+    "offset": 275414,
+    "taille": 35,
+    "texte_orig": ">[SP]The[SP]box[SP]is[SP]full[SP]of[SP]Muses[SP]flyers.\n",
+    "texte_fr": "> Plein de tracts Muses.\n"
+  },
+  {
+    "script": 32,
+    "offset": 275490,
+    "taille": 35,
+    "texte_orig": ">[SP]The[SP]box[SP]is[SP]full[SP]of[SP]Muses[SP]flyers.\n",
+    "texte_fr": "> Plein de tracts Muses.\n"
+  },
+  {
+    "script": 32,
+    "offset": 275566,
+    "taille": 48,
+    "texte_orig": ">[SP]The[SP]locker[SP]won't[SP]open.[SP]It[SP]seems[SP]to\nbe[SP]locked.\n",
+    "texte_fr": "> Le casier ne s'ouvre pas. Il est\nfermé à clé.\n"
+  },
+  {
+    "script": 32,
+    "offset": 275668,
+    "taille": 48,
+    "texte_orig": ">[SP]The[SP]locker[SP]won't[SP]open.[SP]It[SP]seems[SP]to\nbe[SP]locked.\n",
+    "texte_fr": "> Le casier ne s'ouvre pas. Il est\nfermé à clé.\n"
+  },
+  {
+    "script": 32,
+    "offset": 275770,
+    "taille": 48,
+    "texte_orig": ">[SP]The[SP]locker[SP]won't[SP]open.[SP]It[SP]seems[SP]to\nbe[SP]locked.\n",
+    "texte_fr": "> Le casier ne s'ouvre pas. Il est\nfermé à clé.\n"
+  },
+  {
+    "script": 32,
+    "offset": 275872,
+    "taille": 48,
+    "texte_orig": ">[SP]The[SP]locker[SP]won't[SP]open.[SP]It[SP]seems[SP]to\nbe[SP]locked.\n",
+    "texte_fr": "> Le casier ne s'ouvre pas. Il est\nfermé à clé.\n"
+  },
+  {
+    "script": 32,
+    "offset": 275974,
+    "taille": 48,
+    "texte_orig": ">[SP]The[SP]locker[SP]won't[SP]open.[SP]It[SP]seems[SP]to\nbe[SP]locked.\n",
+    "texte_fr": "> Le casier ne s'ouvre pas. Il est\nfermé à clé.\n"
+  },
+  {
+    "script": 34,
+    "offset": 257072,
+    "taille": 52,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 34,
+    "offset": 257182,
+    "taille": 52,
+    "texte_orig": ">[SP]The[SP]locker[SP]won't[SP]open.[SP]It[SP]seems[SP]to\nbe[SP]locked.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Le casier ne s'ouvre pas. Il est\nfermé à clé.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 36,
+    "offset": 187206,
+    "taille": 19,
+    "texte_orig": ">[SP]Huh.[SP]Just[SP]a[SP]box.\n",
+    "texte_fr": "> Hm. Une boîte.\n"
+  },
+  {
+    "script": 40,
+    "offset": 244754,
+    "taille": 52,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 40,
+    "offset": 244864,
+    "taille": 52,
+    "texte_orig": ">[SP]The[SP]locker[SP]won't[SP]open.[SP]It[SP]seems[SP]to\nbe[SP]locked.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Le casier ne s'ouvre pas. Il est\nfermé à clé.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 45,
+    "offset": 304756,
+    "taille": 166,
+    "texte_orig": "[1431][NULL][NULL][0011]Eriko[SP][1432][NULL][NULL][0014]Elly[1432][NULL][NULL][0014][SP]Kirishima\nA[SP]college-age[SP]model[SP]who's[SP]good[SP]friends[SP]with\nYukino.[SP]She[SP]studied[SP]abroad[SP]in[SP]America[SP]before\nawakening[SP]to[SP]her[SP]Persona[SP]in[SP]high[SP]school.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Eriko [1432][NULL][NULL][0014]Elly[1432][NULL][NULL][0014] Kirishima\nMannequin, grande amie de Yukino. Partie\nétudier aux USA, elle s'est éveillée à\nsa Persona au lycée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 51,
+    "offset": 298840,
+    "taille": 141,
+    "texte_orig": "[1431][NULL][NULL][0011]Ixquic\nPersona-user[SP]of[SP]the[SP]Masked[SP]Circle[SP]serving\nKing[SP]Leo.[SP]An[SP]energetic[SP]cosplayer[SP]girl[SP]who's\nconvinced[SP]she's[SP]a[SP]reincarnated[SP]warrior.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0011]Ixquic\nManieuse de Persona du Cercle Masqué,\nau service du Roi Lion. Cosplayeuse\nqui se croit guerrière réincarnée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 55,
+    "offset": 319284,
+    "taille": 139,
+    "texte_orig": "[1431][NULL][NULL][0011]Ulala[SP]Serizawa\nMaya's[SP]friend[SP]who[SP]works[SP]at[SP]a[SP]lingerie[SP]company.\nA[SP]quick-tempered[SP]beauty[SP]who's[SP]frustrated[SP]by\nher[SP]bad[SP]luck[SP]with[SP]men...[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0011]Ulala Serizawa\nAmie de Maya, employée chez un fabricant\nde lingerie. Une beauté colérique,\nmalchanceuse en amour...[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 58,
+    "offset": 191176,
+    "taille": 114,
+    "texte_orig": ">[SP]The[SP]locker[SP]contains[SP]a[SP]paper[SP]with[SP]the\nword[SP][1432][NULL][NULL][0014]stupid[1432][NULL][NULL][0014][SP]written[SP]on[SP]it...[1205][001E][SP]as[SP]well\nas[SP]a[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Dans le casier, un papier avec le\nmot [1432][NULL][NULL][0014]stupide[1432][NULL][NULL][0014] écrit dessus...[1205][001E] et\nune [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 58,
+    "offset": 191410,
+    "taille": 68,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]but[SP]a[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002][SP]inside\nthe[SP]trash[SP]can.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Rien qu'une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002] dans la\npoubelle.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 60,
+    "offset": 189942,
+    "taille": 65,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]but[SP]a[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002][SP]inside\nthe[SP]locker.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Rien qu'une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002] dans le\ncasier.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 60,
+    "offset": 190078,
+    "taille": 116,
+    "texte_orig": ">[SP]The[SP]trash[SP]can[SP]contains[SP]a[SP]paper[SP]with[SP]the\nword[SP][1432][NULL][NULL][0014]idiot[1432][NULL][NULL][0014][SP]written[SP]on[SP]it...[1205][001E][SP]as[SP]well\nas[SP]a[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Dans la poubelle, un papier avec le\nmot [1432][NULL][NULL][0014]idiot[1432][NULL][NULL][0014] écrit dessus...[1205][001E] et\nune [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 60,
+    "offset": 190316,
+    "taille": 34,
+    "texte_orig": ">[SP]DEBUG[SP]CHECK\nMet[SP]the[SP]con[SP]artist.\n",
+    "texte_fr": ""
+  },
+  {
+    "script": 61,
+    "offset": 189404,
+    "taille": 65,
+    "texte_orig": ">[SP]Found[SP]the[SP][1431][NULL][NULL][0006]transmitter[1431][NULL][NULL][0002][SP]along[SP]with[SP]a[SP][1431][NULL][NULL][0006]riddle[1431][NULL][NULL][0002]![1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Vous trouvez l'[1431][NULL][NULL][0006]émetteur[1431][NULL][NULL][0002] et une [1431][NULL][NULL][0006]énigme[1431][NULL][NULL][0002]![1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 61,
+    "offset": 189540,
+    "taille": 65,
+    "texte_orig": ">[SP]You[SP]obtained[SP]the[SP][1431][NULL][NULL][0006]transmitter[1431][NULL][NULL][0002][SP]and[SP]a[SP][1431][NULL][NULL][0006]riddle[1431][NULL][NULL][0002]![1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Vous obtenez l'[1431][NULL][NULL][0006]émetteur[1431][NULL][NULL][0002] et une [1431][NULL][NULL][0006]énigme[1431][NULL][NULL][0002] ![1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 61,
+    "offset": 189834,
+    "taille": 59,
+    "texte_orig": ">[SP]You[SP]destroyed[SP]the[SP][1431][NULL][NULL][0006]transmitter[1431][NULL][NULL][0002][SP]in[SP]the[SP]locker.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Vous détruisez l'[1431][NULL][NULL][0006]émetteur[1431][NULL][NULL][0002] du casier.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 61,
+    "offset": 191408,
+    "taille": 35,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]in[SP]the[SP]locker...\n",
+    "texte_fr": "> Il n'y a rien dans le casier...\n"
+  },
+  {
+    "script": 61,
+    "offset": 191484,
+    "taille": 68,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]but[SP]a[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002][SP]inside\nthe[SP]trash[SP]can.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Rien qu'une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002] dans la\npoubelle.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 64,
+    "offset": 174222,
+    "taille": 48,
+    "texte_orig": ">[SP]The[SP]door[SP]is[SP]locked.[SP]It[SP]seems[SP]you\ncan't[SP]enter.\n",
+    "texte_fr": "> Porte fermée à clé.\nImpossible d'entrer.\n"
+  },
+  {
+    "script": 64,
+    "offset": 174324,
+    "taille": 34,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]in[SP]the[SP]box.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Rien dans la boîte.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 64,
+    "offset": 174398,
+    "taille": 34,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]in[SP]the[SP]box.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Rien dans la boîte.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 64,
+    "offset": 174472,
+    "taille": 34,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]in[SP]the[SP]box.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Rien dans la boîte.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 68,
+    "offset": 290604,
+    "taille": 141,
+    "texte_orig": "[1431][NULL][NULL][0011]Ixquic\nPersona-user[SP]of[SP]the[SP]Masked[SP]Circle[SP]serving\nKing[SP]Leo.[SP]An[SP]energetic[SP]cosplayer[SP]girl[SP]who's\nconvinced[SP]she's[SP]a[SP]reincarnated[SP]warrior.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0011]Ixquic\nManieuse de Persona du Cercle Masqué,\nau service du Roi Lion. Cosplayeuse\nqui se croit guerrière réincarnée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 85,
+    "offset": 327348,
+    "taille": 113,
+    "texte_orig": ">[SP]Investigation[SP]Report[SP]#32\nFiled[SP]X/X/1989\nClient:[SP]Junko[SP]Kashihara\nRequest:[SP]Investigate[SP]husband[SP]Akinari[SP]Kashihara\n",
+    "texte_fr": "> Rapport d'enquête n°32\nDéposé le X/X/1989\nCliente : Junko Kashihara\nObjet : surveiller son mari Akinari\n"
+  },
+  {
+    "script": 85,
+    "offset": 327578,
+    "taille": 120,
+    "texte_orig": ">[SP]Two[SP]weeks'[SP]worth[SP]of[SP]surveillance[SP]on[SP]the\ntarget[SP]revealed[SP]no[SP]suspicious[SP]behavior[SP]along\nthe[SP]lines[SP]of[SP]the[SP]client's[SP]fears.\n",
+    "texte_fr": "> Deux semaines de filature n'ont révélé\naucun comportement suspect justifiant\nles craintes de la cliente.\n"
+  },
+  {
+    "script": 85,
+    "offset": 327822,
+    "taille": 155,
+    "texte_orig": ">[SP]The[SP]target's[SP]only[SP]contacts[SP]outside[SP]his\nworkplace[SP]were[SP]a[SP]teacher[SP]by[SP]the[SP]name[SP]of\nOkamura[SP]and[SP]a[SP]student[SP]named[SP]Sudou.[SP]No\nintimacy[SP]with[SP]Okamura[SP]was[SP]observed.\n",
+    "texte_fr": "> Hors de son travail, la cible n'a vu\nqu'une prof, Okamura, et un élève, Sudou.\nAucune intimité avec Okamura n'a\nété constatée.\n"
+  },
+  {
+    "script": 85,
+    "offset": 328136,
+    "taille": 176,
+    "texte_orig": ">[SP]Still,[SP]some[SP]behavior[SP]was[SP]strange,[SP]such[SP]as\nthe[SP]three[SP]of[SP]them[SP]investigating[SP]cultural\nlandmarks[SP]around[SP]Sumaru,[SP]like[SP]Mt.[SP]Katatsumuri,\nwithout[SP]attracting[SP]attention[SP]to[SP]themselves.\n",
+    "texte_fr": "> Fait étrange : tous trois étudient\ndiscrètement des sites historiques de\nSumaru, comme le mont Katatsumuri.\n"
+  },
+  {
+    "script": 85,
+    "offset": 328830,
+    "taille": 127,
+    "texte_orig": ">[SP]There's[SP]no[SP]sign[SP]of[SP]the[SP]affair[SP]his[SP]lovely\nwife[SP]is[SP]so[SP]suspicious[SP]of.[SP]A[SP]timid[SP]man[SP]like\nhim[SP]would[SP]never[SP]be[SP]able[SP]to[SP]carry[SP]it[SP]off.\n",
+    "texte_fr": "> Aucune trace de la liaison que craint\nsa charmante épouse. Un homme aussi\ntimide n'en serait pas capable.\n"
+  },
+  {
+    "script": 85,
+    "offset": 329088,
+    "taille": 119,
+    "texte_orig": ">[SP]All[SP]Kashihara[SP]did[SP]was[SP]have[SP]a[SP]lively\ndiscussion[SP]with[SP]Okamura[SP]about[SP]silver[SP]and\nMaya[SP]at[SP]a[SP]cafe[SP]again[SP]before[SP]going[SP]home.\n",
+    "texte_fr": "> Kashihara a encore discuté d'argent\net de Maya avec Okamura dans un café,\npuis il est rentré chez lui.\n"
+  },
+  {
+    "script": 85,
+    "offset": 329332,
+    "taille": 149,
+    "texte_orig": ">[SP]Daisuke[SP]Todoroki's[SP]diary,[SP]X/XX/1989\nFollowed[SP]Kashihara[SP]around[SP]again[SP]today.\nMy[SP]advance[SP]from[SP]the[SP]client[SP]was[SP]converted\ninto[SP]dreams[SP]of[SP]silver[SP]balls...\n",
+    "texte_fr": "> Journal de Daisuke Todoroki, X/XX/1989\nSuivi Kashihara toute la journée.\nL'avance de la cliente est partie\nen billes d'argent au pachinko...\n"
+  },
+  {
+    "script": 85,
+    "offset": 329634,
+    "taille": 151,
+    "texte_orig": ">[SP]Despite[SP]my[SP]hunger,[SP]had[SP]to[SP]follow[SP]Kashihara\non[SP]his[SP]hike[SP]up[SP]Mt.[SP]Katatsumuri[SP]with[SP]Okamura.\nI[SP]thought[SP]I[SP]was[SP]on[SP]to[SP]something,[SP]but[SP]here\nI[SP]was[SP]wrong[SP]again.\n",
+    "texte_fr": "> Malgré la faim, j'ai suivi Kashihara\net Okamura au mont Katatsumuri.\nJe croyais tenir une piste, mais\nje me suis encore trompé.\n"
+  },
+  {
+    "script": 85,
+    "offset": 329940,
+    "taille": 168,
+    "texte_orig": ">[SP]After[SP]examining[SP]a[SP]strange[SP]boulder[SP]and[SP]the\ntopography[SP]of[SP]the[SP]area,[SP]they[SP]seemed[SP]excited\nas[SP]they[SP]climbed[SP]down[SP]the[SP]mountain.[SP]Are[SP]they\nsearching[SP]for[SP]some[SP]hidden[SP]treasure?\n",
+    "texte_fr": "> Après avoir étudié un étrange rocher\net le relief du coin, ils sont redescendus\ntout excités. Ils cherchent un trésor ?\n"
+  },
+  {
+    "script": 85,
+    "offset": 330530,
+    "taille": 149,
+    "texte_orig": ">[SP]Kashihara[SP]busied[SP]himself[SP]at[SP]the[SP]Tanabata\nRiver[SP]until[SP]afternoon,[SP]but[SP]when[SP]Okamura[SP]came\nhurrying[SP]up,[SP]they[SP]returned[SP]to[SP]Seven[SP]Sisters\nin[SP]high[SP]spirits.\n",
+    "texte_fr": "> Kashihara s'est affairé au fleuve\nTanabata jusqu'à l'après-midi. Puis,\nOkamura est arrivée et ils sont rentrés\nà Seven Sisters, tout joyeux.\n"
+  },
+  {
+    "script": 85,
+    "offset": 330832,
+    "taille": 116,
+    "texte_orig": ">[SP]I[SP]entered[SP]the[SP]school[SP]posing[SP]as[SP]a[SP]parent[SP]and\nfound[SP]them[SP]near[SP]a[SP]stone[SP]in[SP]the[SP]courtyard,\ntalking[SP]about[SP]silver[SP]again.\n",
+    "texte_fr": "> Entré au lycée en me faisant passer\npour un parent, je les ai vus près d'une\npierre de la cour, parlant d'argent.\n"
+  },
+  {
+    "script": 85,
+    "offset": 331068,
+    "taille": 112,
+    "texte_orig": ">[SP]It[SP]seems[SP]they[SP]really[SP]are[SP]looking[SP]for[SP]hidden\ntreasure.[SP]If[SP]so,[SP]I[SP]hope[SP]they[SP]can[SP]make[SP]my[SP]dream\ncome[SP]true[SP]as[SP]well.\n",
+    "texte_fr": "> Ils cherchent vraiment un trésor.\nSi c'est le cas, qu'ils réalisent\naussi mon rêve.\n"
+  },
+  {
+    "script": 85,
+    "offset": 331532,
+    "taille": 175,
+    "texte_orig": ">[SP]Ever[SP]since[SP]the[SP]incident[SP]at[SP]school,[SP]Kashihara\nstopped[SP]leaving[SP]the[SP]house.[SP]His[SP]wife[SP]says[SP]he's\nbeen[SP]busy[SP]writing[SP]something...[SP]Though[SP]it\nseems[SP]he's[SP]going[SP]out[SP]with[SP]his[SP]son[SP]today.\n",
+    "texte_fr": "> Depuis l'incident au lycée, Kashihara\nne sortait plus. Sa femme dit qu'il\nécrit quelque chose... Mais il sort\naujourd'hui avec son fils.\n"
+  },
+  {
+    "script": 85,
+    "offset": 331886,
+    "taille": 160,
+    "texte_orig": ">[SP]When[SP]Kashihara[SP]got[SP]to[SP]Seven[SP]Sisters[SP]High,\nhe[SP]noticed[SP]me[SP]and[SP]quickly[SP]disappeared[SP]into\nthe[SP]school.[SP]I[SP]can't[SP]believe[SP]he[SP]saw[SP]through\nmy[SP]well-honed[SP]tailing[SP]skills!\n",
+    "texte_fr": "> Arrivé au Lycée Seven Sisters,\nKashihara m'a repéré et a filé dans\nle lycée. Il a déjoué ma filature\nparfaite ! Incroyable !\n"
+  },
+  {
+    "script": 85,
+    "offset": 332210,
+    "taille": 174,
+    "texte_orig": ">[SP]I[SP]couldn't[SP]do[SP]much[SP]then,[SP]so[SP]I[SP]decided[SP]to\nwait[SP]around.[SP]But[SP]I[SP]didn't[SP]think[SP]Kashihara\nwould[SP]die[SP]in[SP]such[SP]a[SP]horrific[SP]accident...[SP]And\nI'm[SP]still[SP]waiting[SP]for[SP]the[SP]rest[SP]of[SP]my[SP]fee...\n",
+    "texte_fr": "> Je ne pouvais rien faire, alors j'ai\nattendu. Jamais je n'aurais cru que\nKashihara mourrait dans un tel accident...\nEt j'attends toujours mes honoraires...\n"
+  },
+  {
+    "script": 85,
+    "offset": 332564,
+    "taille": 113,
+    "texte_orig": ">[SP]Investigation[SP]Report[SP]#32\nFiled[SP]X/X/1989\nClient:[SP]Junko[SP]Kashihara\nRequest:[SP]Investigate[SP]husband[SP]Akinari[SP]Kashihara\n",
+    "texte_fr": "> Rapport d'enquête n°32\nDéposé le X/X/1989\nCliente : Junko Kashihara\nObjet : surveiller son mari Akinari\n"
+  },
+  {
+    "script": 85,
+    "offset": 332794,
+    "taille": 120,
+    "texte_orig": ">[SP]Two[SP]weeks'[SP]worth[SP]of[SP]surveillance[SP]on[SP]the\ntarget[SP]revealed[SP]no[SP]suspicious[SP]behavior[SP]along\nthe[SP]lines[SP]of[SP]the[SP]client's[SP]fears.\n",
+    "texte_fr": "> Deux semaines de filature n'ont révélé\naucun comportement suspect justifiant\nles craintes de la cliente.\n"
+  },
+  {
+    "script": 85,
+    "offset": 333038,
+    "taille": 155,
+    "texte_orig": ">[SP]The[SP]target's[SP]only[SP]contacts[SP]outside[SP]his\nworkplace[SP]were[SP]a[SP]teacher[SP]by[SP]the[SP]name[SP]of\nOkamura[SP]and[SP]a[SP]student[SP]named[SP]Sudou.[SP]No\nintimacy[SP]with[SP]Okamura[SP]was[SP]observed.\n",
+    "texte_fr": "> Hors de son travail, la cible n'a vu\nqu'une prof, Okamura, et un élève, Sudou.\nAucune intimité avec Okamura n'a\nété constatée.\n"
+  },
+  {
+    "script": 85,
+    "offset": 333352,
+    "taille": 176,
+    "texte_orig": ">[SP]Still,[SP]some[SP]behavior[SP]was[SP]strange,[SP]such[SP]as\nthe[SP]three[SP]of[SP]them[SP]investigating[SP]cultural\nlandmarks[SP]around[SP]Sumaru,[SP]like[SP]Mt.[SP]Katatsumuri,\nwithout[SP]attracting[SP]attention[SP]to[SP]themselves.\n",
+    "texte_fr": "> Fait étrange : tous trois étudient\ndiscrètement des sites historiques de\nSumaru, comme le mont Katatsumuri.\n"
+  },
+  {
+    "script": 85,
+    "offset": 334046,
+    "taille": 127,
+    "texte_orig": ">[SP]There's[SP]no[SP]sign[SP]of[SP]the[SP]affair[SP]his[SP]lovely\nwife[SP]is[SP]so[SP]suspicious[SP]of.[SP]A[SP]timid[SP]man[SP]like\nhim[SP]would[SP]never[SP]be[SP]able[SP]to[SP]carry[SP]it[SP]off.\n",
+    "texte_fr": "> Aucune trace de la liaison que craint\nsa charmante épouse. Un homme aussi\ntimide n'en serait pas capable.\n"
+  },
+  {
+    "script": 85,
+    "offset": 334304,
+    "taille": 121,
+    "texte_orig": ">[SP]All[SP]Kashihara[SP]did[SP]was[SP]have[SP]a[SP]spirited\ndiscussion[SP]with[SP]Okamura[SP]about[SP]silver[SP]and\nMaya[SP]at[SP]a[SP]cafe[SP]again[SP]before[SP]going[SP]home.\n",
+    "texte_fr": "> Kashihara a encore discuté d'argent\net de Maya avec Okamura dans un café,\npuis il est rentré chez lui.\n"
+  },
+  {
+    "script": 85,
+    "offset": 334552,
+    "taille": 149,
+    "texte_orig": ">[SP]Daisuke[SP]Todoroki's[SP]diary,[SP]X/XX/1989\nFollowed[SP]Kashihara[SP]around[SP]again[SP]today.\nMy[SP]advance[SP]from[SP]the[SP]client[SP]was[SP]converted\ninto[SP]dreams[SP]of[SP]silver[SP]balls...\n",
+    "texte_fr": "> Journal de Daisuke Todoroki, X/XX/1989\nSuivi Kashihara toute la journée.\nL'avance de la cliente est partie\nen billes d'argent au pachinko...\n"
+  },
+  {
+    "script": 85,
+    "offset": 334854,
+    "taille": 151,
+    "texte_orig": ">[SP]Despite[SP]my[SP]hunger,[SP]had[SP]to[SP]follow[SP]Kashihara\non[SP]his[SP]hike[SP]up[SP]Mt.[SP]Katatsumuri[SP]with[SP]Okamura.\nI[SP]thought[SP]I[SP]was[SP]on[SP]to[SP]something,[SP]but[SP]here\nI[SP]was[SP]wrong[SP]again.\n",
+    "texte_fr": "> Malgré la faim, j'ai suivi Kashihara\net Okamura au mont Katatsumuri.\nJe croyais tenir une piste, mais\nje me suis encore trompé.\n"
+  },
+  {
+    "script": 85,
+    "offset": 335160,
+    "taille": 168,
+    "texte_orig": ">[SP]After[SP]examining[SP]a[SP]strange[SP]boulder[SP]and[SP]the\ntopography[SP]of[SP]the[SP]area,[SP]they[SP]seemed[SP]excited\nas[SP]they[SP]climbed[SP]down[SP]the[SP]mountain.[SP]Are[SP]they\nsearching[SP]for[SP]some[SP]hidden[SP]treasure?\n",
+    "texte_fr": "> Après avoir étudié un étrange rocher\net le relief du coin, ils sont redescendus\ntout excités. Ils cherchent un trésor ?\n"
+  },
+  {
+    "script": 85,
+    "offset": 335750,
+    "taille": 149,
+    "texte_orig": ">[SP]Kashihara[SP]busied[SP]himself[SP]at[SP]the[SP]Tanabata\nRiver[SP]until[SP]afternoon,[SP]but[SP]when[SP]Okamura[SP]came\nhurrying[SP]up,[SP]they[SP]returned[SP]to[SP]Seven[SP]Sisters\nin[SP]high[SP]spirits.\n",
+    "texte_fr": "> Kashihara s'est affairé au fleuve\nTanabata jusqu'à l'après-midi. Puis,\nOkamura est arrivée et ils sont rentrés\nà Seven Sisters, tout joyeux.\n"
+  },
+  {
+    "script": 85,
+    "offset": 336052,
+    "taille": 116,
+    "texte_orig": ">[SP]I[SP]entered[SP]the[SP]school[SP]posing[SP]as[SP]a[SP]parent[SP]and\nfound[SP]them[SP]near[SP]a[SP]stone[SP]in[SP]the[SP]courtyard,\ntalking[SP]about[SP]silver[SP]again.\n",
+    "texte_fr": "> Entré au lycée en me faisant passer\npour un parent, je les ai vus près d'une\npierre de la cour, parlant d'argent.\n"
+  },
+  {
+    "script": 85,
+    "offset": 336288,
+    "taille": 112,
+    "texte_orig": ">[SP]It[SP]seems[SP]they[SP]really[SP]are[SP]looking[SP]for[SP]hidden\ntreasure.[SP]If[SP]so,[SP]I[SP]hope[SP]they[SP]can[SP]make[SP]my[SP]dream\ncome[SP]true[SP]as[SP]well.\n",
+    "texte_fr": "> Ils cherchent vraiment un trésor.\nSi c'est le cas, qu'ils réalisent\naussi mon rêve.\n"
+  },
+  {
+    "script": 85,
+    "offset": 336752,
+    "taille": 175,
+    "texte_orig": ">[SP]Ever[SP]since[SP]the[SP]incident[SP]at[SP]school,[SP]Kashihara\nstopped[SP]leaving[SP]the[SP]house.[SP]His[SP]wife[SP]says[SP]he's\nbeen[SP]busy[SP]writing[SP]something...[SP]Though[SP]it\nseems[SP]he's[SP]going[SP]out[SP]with[SP]his[SP]son[SP]today.\n",
+    "texte_fr": "> Depuis l'incident au lycée, Kashihara\nne sortait plus. Sa femme dit qu'il\nécrit quelque chose... Mais il sort\naujourd'hui avec son fils.\n"
+  },
+  {
+    "script": 85,
+    "offset": 337106,
+    "taille": 160,
+    "texte_orig": ">[SP]When[SP]Kashihara[SP]got[SP]to[SP]Seven[SP]Sisters[SP]High,\nhe[SP]noticed[SP]me[SP]and[SP]quickly[SP]disappeared[SP]into\nthe[SP]school.[SP]I[SP]can't[SP]believe[SP]he[SP]saw[SP]through\nmy[SP]well-honed[SP]tailing[SP]skills!\n",
+    "texte_fr": "> Arrivé au Lycée Seven Sisters,\nKashihara m'a repéré et a filé dans\nle lycée. Il a déjoué ma filature\nparfaite ! Incroyable !\n"
+  },
+  {
+    "script": 85,
+    "offset": 337430,
+    "taille": 174,
+    "texte_orig": ">[SP]I[SP]couldn't[SP]do[SP]much[SP]then,[SP]so[SP]I[SP]decided[SP]to\nwait[SP]around.[SP]But[SP]I[SP]didn't[SP]think[SP]Kashihara\nwould[SP]die[SP]in[SP]such[SP]a[SP]horrific[SP]accident...[SP]And\nI'm[SP]still[SP]waiting[SP]for[SP]the[SP]rest[SP]of[SP]my[SP]fee...\n",
+    "texte_fr": "> Je ne pouvais rien faire, alors j'ai\nattendu. Jamais je n'aurais cru que\nKashihara mourrait dans un tel accident...\nEt j'attends toujours mes honoraires...\n"
+  },
+  {
+    "script": 96,
+    "offset": 174378,
+    "taille": 56,
+    "texte_orig": ">[SP]There's[SP]a[SP][1431][NULL][NULL][0006]Pink[SP]Azas[SP]Mask[1431][NULL][NULL][0002][SP]in[SP]the\nsecret[SP]box...\n",
+    "texte_fr": "> Un [1431][NULL][NULL][0006]Masque Azas rose[1431][NULL][NULL][0002] dans\nla boîte secrète...\n"
+  },
+  {
+    "script": 96,
+    "offset": 174588,
+    "taille": 29,
+    "texte_orig": ">[SP]The[SP]secret[SP]box[SP]is[SP]empty...\n",
+    "texte_fr": "> Boîte secrète vide...\n"
+  },
+  {
+    "script": 97,
+    "offset": 175226,
+    "taille": 57,
+    "texte_orig": ">[SP]There's[SP]a[SP][1431][NULL][NULL][0006]Yellow[SP]Owl[SP]Mask[1431][NULL][NULL][0002][SP]in[SP]the\nsecret[SP]box...\n",
+    "texte_fr": "> Un [1431][NULL][NULL][0006]Masque Hibou jaune[1431][NULL][NULL][0002] dans\nla boîte secrète...\n"
+  },
+  {
+    "script": 97,
+    "offset": 175440,
+    "taille": 29,
+    "texte_orig": ">[SP]The[SP]secret[SP]box[SP]is[SP]empty...\n",
+    "texte_fr": "> Boîte secrète vide...\n"
+  },
+  {
+    "script": 98,
+    "offset": 178624,
+    "taille": 56,
+    "texte_orig": ">[SP]There's[SP]a[SP][1431][NULL][NULL][0006]Red[SP]Eagle[SP]Mask[1431][NULL][NULL][0002][SP]in[SP]the\nsecret[SP]box...\n",
+    "texte_fr": "> [1431][NULL][NULL][0006]Masque Aigle rouge[1431][NULL][NULL][0002] dans\nla boîte secrète...\n"
+  },
+  {
+    "script": 98,
+    "offset": 178834,
+    "taille": 29,
+    "texte_orig": ">[SP]The[SP]secret[SP]box[SP]is[SP]empty...\n",
+    "texte_fr": "> Boîte secrète vide...\n"
+  },
+  {
+    "script": 99,
+    "offset": 176810,
+    "taille": 56,
+    "texte_orig": ">[SP]There's[SP]a[SP][1431][NULL][NULL][0006]Blue[SP]Swan[SP]Mask[1431][NULL][NULL][0002][SP]in[SP]the\nsecret[SP]box...\n",
+    "texte_fr": "> Un [1431][NULL][NULL][0006]Masque Cygne bleu[1431][NULL][NULL][0002] dans\nla boîte secrète...\n"
+  },
+  {
+    "script": 99,
+    "offset": 177020,
+    "taille": 29,
+    "texte_orig": ">[SP]The[SP]secret[SP]box[SP]is[SP]empty...\n",
+    "texte_fr": "> Boîte secrète vide...\n"
+  },
+  {
+    "script": 113,
+    "offset": 231928,
+    "taille": 32,
+    "texte_orig": "Error\nNo[SP]local[SP]BIT[SP]has\nbeen[SP]set\n",
+    "texte_fr": ""
+  },
+  {
+    "script": 121,
+    "offset": 375410,
+    "taille": 149,
+    "texte_orig": "[1431][NULL][NULL][0010]Head[SP]monk\nA[SP]strict[SP]but[SP]kind[SP]priest[SP]who[SP]often[SP]lends[SP]his\nassistance[SP]to[SP]Fujii[SP]and[SP]Yukino.[SP]He[SP]seems[SP]to\nbe[SP]a[SP]master[SP]of[SP]a[SP]traditional[SP]martial[SP]art.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0010]Grand moine\nUn prêtre strict mais bon, qui aide\nsouvent Fujii et Yukino. Il semble\nmaîtriser un art martial ancien.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 123,
+    "offset": 340296,
+    "taille": 143,
+    "texte_orig": ">[SP]Order[SP]of[SP]the[SP]Holy[SP]Lance\nThe[SP]Last[SP]Battalion's[SP]anti-Persona[SP]unit[SP]made\nof[SP]13[SP]knights[SP]who[SP]pilot[SP]the[SP]Marionette[SP]Jaeger\n[1432][NULL][NULL][0014]Himmel[SP]Feurer.[1432][NULL][NULL][0014][1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Ordre de la Sainte Lance\nUnité anti-Persona du Bataillon :\n13 chevaliers pilotant le Marionette Jaeger\n[1432][NULL][NULL][0014]Himmel Feurer.[1432][NULL][NULL][0014][1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 124,
+    "offset": 348008,
+    "taille": 73,
+    "texte_orig": "\n>[SP]The[SP]party's[SP]stock[SP]of[SP]Personas[SP]is[SP]full.\nPlease[SP]create[SP]one[SP]opening.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "\n> Votre stock de Personae est plein.\nLibérez une place.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 124,
+    "offset": 350222,
+    "taille": 111,
+    "texte_orig": ">[SP]It's[SP]Fujii's[SP]body.[SP]His[SP]face[SP]is[SP]peaceful\nand[SP]proud.[SP]It's[SP]the[SP]face[SP]of[SP]a[SP]man[SP]who[SP]had\naccomplished[SP]his[SP]dreams...\n",
+    "texte_fr": "> Le corps de Fujii. Son visage est\npaisible et fier. Celui d'un homme\nqui a réalisé ses rêves...\n"
+  },
+  {
+    "script": 139,
+    "offset": 247442,
+    "taille": 155,
+    "texte_orig": "[1431][NULL][NULL][0011]Queen[SP]Aquarius\n[SP]The[SP]last[SP]member[SP]of[SP]the[SP]Masked[SP]Four,[SP]in\n[SP]possession[SP]of[SP]the[SP]wind[SP]skull.[SP]It[SP]seems[SP]she[SP]was\n[SP]mainly[SP]gathering[SP]Ideal[SP]Energy[SP]from[SP]adults.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0011]Reine Verseau\n Dernière des Quatre Masques, elle a\n le crâne du vent. Elle récoltait\n surtout l'Énergie Idéale des adultes.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 142,
+    "offset": 253930,
+    "taille": 72,
+    "texte_orig": ">[SP]The[SP]party's[SP]stock[SP]of[SP]Personas[SP]is[SP]full.\nPlease[SP]create[SP]one[SP]opening.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Votre stock de Personae est plein.\nLibérez une place.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 142,
+    "offset": 260374,
+    "taille": 72,
+    "texte_orig": ">[SP]The[SP]party's[SP]stock[SP]of[SP]Personas[SP]is[SP]full.\nPlease[SP]create[SP]one[SP]opening.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Votre stock de Personae est plein.\nLibérez une place.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 142,
+    "offset": 262358,
+    "taille": 118,
+    "texte_orig": "There[SP]is[SP]no[SP]space[SP]either[SP]in[SP]your[SP]stock[SP]or[SP]in\nthe[SP]Velvet[SP]Room's[SP]stock.[SP]Please[SP]discard[SP]Personas\nyou[SP]no[SP]longer[SP]need.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "Plus de place dans votre stock ni dans\ncelui de la Velvet Room. Jetez les\nPersonae dont vous n'avez plus besoin.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 142,
+    "offset": 262746,
+    "taille": 118,
+    "texte_orig": "There[SP]is[SP]no[SP]space[SP]either[SP]in[SP]your[SP]stock[SP]or[SP]in\nthe[SP]Velvet[SP]Room's[SP]stock.[SP]Please[SP]discard[SP]Personas\nyou[SP]no[SP]longer[SP]need.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "Plus de place dans votre stock ni dans\ncelui de la Velvet Room. Jetez les\nPersonae dont vous n'avez plus besoin.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 142,
+    "offset": 263132,
+    "taille": 118,
+    "texte_orig": "There[SP]is[SP]no[SP]space[SP]either[SP]in[SP]your[SP]stock[SP]or[SP]in\nthe[SP]Velvet[SP]Room's[SP]stock.[SP]Please[SP]discard[SP]Personas\nyou[SP]no[SP]longer[SP]need.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "Plus de place dans votre stock ni dans\ncelui de la Velvet Room. Jetez les\nPersonae dont vous n'avez plus besoin.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 142,
+    "offset": 263522,
+    "taille": 118,
+    "texte_orig": "There[SP]is[SP]no[SP]space[SP]either[SP]in[SP]your[SP]stock[SP]or[SP]in\nthe[SP]Velvet[SP]Room's[SP]stock.[SP]Please[SP]discard[SP]Personas\nyou[SP]no[SP]longer[SP]need.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "Plus de place dans votre stock ni dans\ncelui de la Velvet Room. Jetez les\nPersonae dont vous n'avez plus besoin.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 142,
+    "offset": 264124,
+    "taille": 32,
+    "texte_orig": "Error\nNo[SP]local[SP]BIT[SP]has\nbeen[SP]set\n",
+    "texte_fr": ""
+  },
+  {
+    "script": 145,
+    "offset": 212110,
+    "taille": 40,
+    "texte_orig": ">[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.\n",
+    "texte_fr": "> Une inscription est gravée en relief.\n"
+  },
+  {
+    "script": 145,
+    "offset": 212196,
+    "taille": 189,
+    "texte_orig": "[1431][NULL][NULL][0006]Earth[SP]is[SP]slashed[SP]by[SP]wind,[SP]but[SP]cultivates[SP]water\nWater[SP]flows[SP]along[SP]the[SP]earth,[SP]but[SP]quenches[SP]fire\nFire[SP]is[SP]calmed[SP]by[SP]water,[SP]but[SP]creates[SP]wind\nWind[SP]is[SP]born[SP]from[SP]fire,[SP]but[SP]levels[SP]the[SP]earth[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0006]La terre, fendue par le vent, nourrit l'eau\nL'eau suit la terre, mais éteint le feu\nLe feu, calmé par l'eau, crée le vent\nLe vent naît du feu, mais aplanit la terre[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 147,
+    "offset": 213046,
+    "taille": 40,
+    "texte_orig": ">[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.\n",
+    "texte_fr": "> Une inscription est gravée en relief.\n"
+  },
+  {
+    "script": 147,
+    "offset": 213132,
+    "taille": 189,
+    "texte_orig": "[1431][NULL][NULL][0006]Earth[SP]is[SP]slashed[SP]by[SP]wind,[SP]but[SP]cultivates[SP]water\nWater[SP]flows[SP]along[SP]the[SP]earth,[SP]but[SP]quenches[SP]fire\nFire[SP]is[SP]calmed[SP]by[SP]water,[SP]but[SP]creates[SP]wind\nWind[SP]is[SP]born[SP]from[SP]fire,[SP]but[SP]levels[SP]the[SP]earth[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0006]La terre, fendue par le vent, nourrit l'eau\nL'eau suit la terre, mais éteint le feu\nLe feu, calmé par l'eau, crée le vent\nLe vent naît du feu, mais aplanit la terre[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 152,
+    "offset": 213816,
+    "taille": 40,
+    "texte_orig": ">[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.\n",
+    "texte_fr": "> Une inscription est gravée en relief.\n"
+  },
+  {
+    "script": 152,
+    "offset": 213902,
+    "taille": 189,
+    "texte_orig": "[1431][NULL][NULL][0006]Earth[SP]is[SP]slashed[SP]by[SP]wind,[SP]but[SP]cultivates[SP]water\nWater[SP]flows[SP]along[SP]the[SP]earth,[SP]but[SP]quenches[SP]fire\nFire[SP]is[SP]calmed[SP]by[SP]water,[SP]but[SP]creates[SP]wind\nWind[SP]is[SP]born[SP]from[SP]fire,[SP]but[SP]levels[SP]the[SP]earth[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0006]La terre, fendue par le vent, nourrit l'eau\nL'eau suit la terre, mais éteint le feu\nLe feu, calmé par l'eau, crée le vent\nLe vent naît du feu, mais aplanit la terre[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 154,
+    "offset": 206804,
+    "taille": 40,
+    "texte_orig": ">[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.\n",
+    "texte_fr": "> Une inscription est gravée en relief.\n"
+  },
+  {
+    "script": 154,
+    "offset": 206890,
+    "taille": 189,
+    "texte_orig": "[1431][NULL][NULL][0006]Earth[SP]is[SP]slashed[SP]by[SP]wind,[SP]but[SP]cultivates[SP]water\nWater[SP]flows[SP]along[SP]the[SP]earth,[SP]but[SP]quenches[SP]fire\nFire[SP]is[SP]calmed[SP]by[SP]water,[SP]but[SP]creates[SP]wind\nWind[SP]is[SP]born[SP]from[SP]fire,[SP]but[SP]levels[SP]the[SP]earth[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0006]La terre, fendue par le vent, nourrit l'eau\nL'eau suit la terre, mais éteint le feu\nLe feu, calmé par l'eau, crée le vent\nLe vent naît du feu, mais aplanit la terre[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 159,
+    "offset": 212984,
+    "taille": 40,
+    "texte_orig": ">[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.\n",
+    "texte_fr": "> Une inscription est gravée en relief.\n"
+  },
+  {
+    "script": 159,
+    "offset": 213070,
+    "taille": 189,
+    "texte_orig": "[1431][NULL][NULL][0006]Earth[SP]is[SP]slashed[SP]by[SP]wind,[SP]but[SP]cultivates[SP]water\nWater[SP]flows[SP]along[SP]the[SP]earth,[SP]but[SP]quenches[SP]fire\nFire[SP]is[SP]calmed[SP]by[SP]water,[SP]but[SP]creates[SP]wind\nWind[SP]is[SP]born[SP]from[SP]fire,[SP]but[SP]levels[SP]the[SP]earth[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0006]La terre, fendue par le vent, nourrit l'eau\nL'eau suit la terre, mais éteint le feu\nLe feu, calmé par l'eau, crée le vent\nLe vent naît du feu, mais aplanit la terre[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 161,
+    "offset": 207090,
+    "taille": 40,
+    "texte_orig": ">[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.\n",
+    "texte_fr": "> Une inscription est gravée en relief.\n"
+  },
+  {
+    "script": 161,
+    "offset": 207176,
+    "taille": 189,
+    "texte_orig": "[1431][NULL][NULL][0006]Earth[SP]is[SP]slashed[SP]by[SP]wind,[SP]but[SP]cultivates[SP]water\nWater[SP]flows[SP]along[SP]the[SP]earth,[SP]but[SP]quenches[SP]fire\nFire[SP]is[SP]calmed[SP]by[SP]water,[SP]but[SP]creates[SP]wind\nWind[SP]is[SP]born[SP]from[SP]fire,[SP]but[SP]levels[SP]the[SP]earth[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0006]La terre, fendue par le vent, nourrit l'eau\nL'eau suit la terre, mais éteint le feu\nLe feu, calmé par l'eau, crée le vent\nLe vent naît du feu, mais aplanit la terre[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 166,
+    "offset": 214194,
+    "taille": 40,
+    "texte_orig": ">[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.\n",
+    "texte_fr": "> Une inscription est gravée en relief.\n"
+  },
+  {
+    "script": 166,
+    "offset": 214280,
+    "taille": 189,
+    "texte_orig": "[1431][NULL][NULL][0006]Earth[SP]is[SP]slashed[SP]by[SP]wind,[SP]but[SP]cultivates[SP]water\nWater[SP]flows[SP]along[SP]the[SP]earth,[SP]but[SP]quenches[SP]fire\nFire[SP]is[SP]calmed[SP]by[SP]water,[SP]but[SP]creates[SP]wind\nWind[SP]is[SP]born[SP]from[SP]fire,[SP]but[SP]levels[SP]the[SP]earth[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0006]La terre, fendue par le vent, nourrit l'eau\nL'eau suit la terre, mais éteint le feu\nLe feu, calmé par l'eau, crée le vent\nLe vent naît du feu, mais aplanit la terre[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 168,
+    "offset": 207632,
+    "taille": 41,
+    "texte_orig": ">[SP]There's[SP]an[SP]inscription[SP]in[SP]the[SP]relief.\n\n",
+    "texte_fr": "> Une inscription est gravée en relief.\n\n"
+  },
+  {
+    "script": 168,
+    "offset": 207720,
+    "taille": 189,
+    "texte_orig": "[1431][NULL][NULL][0006]Earth[SP]is[SP]slashed[SP]by[SP]wind,[SP]but[SP]cultivates[SP]water\nWater[SP]flows[SP]along[SP]the[SP]earth,[SP]but[SP]quenches[SP]fire\nFire[SP]is[SP]calmed[SP]by[SP]water,[SP]but[SP]creates[SP]wind\nWind[SP]is[SP]born[SP]from[SP]fire,[SP]but[SP]levels[SP]the[SP]earth[1431][NULL][NULL][0002]\n",
+    "texte_fr": "[1431][NULL][NULL][0006]La terre, fendue par le vent, nourrit l'eau\nL'eau suit la terre, mais éteint le feu\nLe feu, calmé par l'eau, crée le vent\nLe vent naît du feu, mais aplanit la terre[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 172,
+    "offset": 287746,
+    "taille": 166,
+    "texte_orig": ">[SP]Statue[SP]in[SP]honor[SP]of[SP]Principal[SP]Hanya\n[1432][NULL][NULL][0014]Look[SP]at[SP]me![SP]Follow[SP]me![SP]Don't[SP]rely[SP]on[SP]me![1432][NULL][NULL][0014]\nThe[SP]brass[SP]plate[SP]with[SP]this[SP]bizarre[SP]quote[SP]has\nbeen[SP]destroyed[SP]by[SP]an[SP]electric[SP]drill.",
+    "texte_fr": "> Statue en l'honneur du Proviseur Hanya\n[1432][NULL][NULL][0014]Regardez-moi ! Suivez-moi ! Débrouillez-vous ![1432][NULL][NULL][0014]\nLa plaque à la citation absurde a\nété détruite à la perceuse."
+  },
+  {
+    "script": 172,
+    "offset": 288084,
+    "taille": 122,
+    "texte_orig": ">[SP]Statue[SP]in[SP]honor[SP]of[SP]Principal[SP]Hanya\nIt's[SP]been[SP]shined[SP]spotless.[SP]The[SP]students[SP]seem\nto[SP]be[SP]enthusiastic[SP]about[SP]maintaining[SP]it.",
+    "texte_fr": "> Statue en l'honneur du Proviseur Hanya\nElle brille. Les élèves semblent\nl'entretenir avec soin."
+  },
+  {
+    "script": 186,
+    "offset": 229672,
+    "taille": 99,
+    "texte_orig": ">[SP]It's[SP]the[SP]Prince's[SP]corpse.[SP]His[SP]face[SP]is\ncharred[SP]and[SP]carbonized.[SP]He[SP]looks[SP]nothing\nlike[SP]you[SP]remember.",
+    "texte_fr": "> Le corps du Prince. Son visage est\ncarbonisé. Méconnaissable."
+  },
+  {
+    "script": 186,
+    "offset": 229876,
+    "taille": 123,
+    "texte_orig": ">[SP]It's[SP]the[SP]body[SP]of[SP]one[SP]of[SP]the[SP]Masked[SP]Circle.\nThe[SP]area[SP]around[SP]the[SP]wounds[SP]is[SP]burned...\nCould[SP]he[SP]have[SP]fallen[SP]victim[SP]to[SP]lasers?",
+    "texte_fr": "> Le corps d'un membre du Cercle Masqué.\nLe tour des plaies est brûlé...\nVictime de lasers ?"
+  },
+  {
+    "script": 186,
+    "offset": 230128,
+    "taille": 123,
+    "texte_orig": ">[SP]It's[SP]the[SP]body[SP]of[SP]one[SP]of[SP]the[SP]Masked[SP]Circle.\nThe[SP]area[SP]around[SP]the[SP]wounds[SP]is[SP]burned...\nCould[SP]he[SP]have[SP]fallen[SP]victim[SP]to[SP]lasers?",
+    "texte_fr": "> Le corps d'un membre du Cercle Masqué.\nLe tour des plaies est brûlé...\nVictime de lasers ?"
+  },
+  {
+    "script": 186,
+    "offset": 230380,
+    "taille": 123,
+    "texte_orig": ">[SP]It's[SP]the[SP]body[SP]of[SP]one[SP]of[SP]the[SP]Masked[SP]Circle.\nThe[SP]area[SP]around[SP]the[SP]wounds[SP]is[SP]burned...\nCould[SP]he[SP]have[SP]fallen[SP]victim[SP]to[SP]lasers?",
+    "texte_fr": "> Le corps d'un membre du Cercle Masqué.\nLe tour des plaies est brûlé...\nVictime de lasers ?"
+  },
+  {
+    "script": 186,
+    "offset": 230632,
+    "taille": 123,
+    "texte_orig": ">[SP]It's[SP]the[SP]body[SP]of[SP]one[SP]of[SP]the[SP]Masked[SP]Circle.\nThe[SP]area[SP]around[SP]the[SP]wounds[SP]is[SP]burned...\nCould[SP]he[SP]have[SP]fallen[SP]victim[SP]to[SP]lasers?",
+    "texte_fr": "> Le corps d'un membre du Cercle Masqué.\nLe tour des plaies est brûlé...\nVictime de lasers ?"
+  },
+  {
+    "script": 203,
+    "offset": 301236,
+    "taille": 37,
+    "texte_orig": ">[SP]Ms.[SP]Ideal[SP]seems[SP]to[SP]be[SP]unconscious.\n",
+    "texte_fr": "> Mme Idéale semble inconsciente.\n"
+  },
+  {
+    "script": 217,
+    "offset": 282186,
+    "taille": 80,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]along[SP]with[SP]the[SP]Muses\nflyers...[1205][001E][SP]is[SP]another[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, avec les tracts\nMuses...[1205][001E] encore une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 217,
+    "offset": 282352,
+    "taille": 80,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]along[SP]with[SP]the[SP]Muses\nflyers...[1205][001E][SP]is[SP]another[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, avec les tracts\nMuses...[1205][001E] encore une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 217,
+    "offset": 282518,
+    "taille": 80,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]along[SP]with[SP]the[SP]Muses\nflyers...[1205][001E][SP]is[SP]another[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, avec les tracts\nMuses...[1205][001E] encore une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 217,
+    "offset": 282684,
+    "taille": 91,
+    "texte_orig": ">[SP]Inside[SP]the[SP]locker,[SP]along[SP]with[SP]a[SP]high[SP]school\nuniform,[SP]is...![1205][001E][SP]Another[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans le casier, avec un uniforme\nscolaire...![1205][001E] Encore une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 217,
+    "offset": 282872,
+    "taille": 76,
+    "texte_orig": ">[SP]Inside[SP]the[SP]locker[SP]is[SP]the[SP][1431][NULL][NULL][0006]riddle[1431][NULL][NULL][0002],[SP]along[SP]with\na[SP]note[SP]from[SP]King[SP]Leo!\n",
+    "texte_fr": "> Dans le casier, l'[1431][NULL][NULL][0006]énigme[1431][NULL][NULL][0002], avec\nun mot du Roi Lion !\n"
+  },
+  {
+    "script": 217,
+    "offset": 283106,
+    "taille": 175,
+    "texte_orig": ">[SP]King[SP]Leo's[SP]note[SP]reads:\n[SP][1432][NULL][NULL][0014]Come[SP]to[SP]the[SP]next[SP]target,[SP]if[SP]you[SP]can[SP]figure[SP]out\n[SP]where[SP]it[SP]is.[SP]Many[SP]sparks[SP]have[SP]been[SP]laid,[SP]but\n[SP]only[SP]the[SP]remote[SP]transmitter[SP]will[SP]set[SP]them[SP]off.[1432][NULL][NULL][0014]\n",
+    "texte_fr": "> Le mot du Roi Lion dit :\n [1432][NULL][NULL][0014]Venez à la prochaine cible, si vous trouvez\n où elle est. Les étincelles sont prêtes,\n seul l'émetteur peut les allumer.[1432][NULL][NULL][0014]\n"
+  },
+  {
+    "script": 217,
+    "offset": 283462,
+    "taille": 55,
+    "texte_orig": ">[SP]Inside[SP]the[SP]locker[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans le casier, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 217,
+    "offset": 283578,
+    "taille": 91,
+    "texte_orig": ">[SP]Inside[SP]the[SP]locker,[SP]along[SP]with[SP]a[SP]high[SP]school\nuniform,[SP]is...![1205][001E][SP]Another[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans le casier, avec un uniforme\nscolaire...![1205][001E] Encore une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 218,
+    "offset": 237652,
+    "taille": 30,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]in[SP]the[SP]box.\n",
+    "texte_fr": "> Rien dans la boîte.\n"
+  },
+  {
+    "script": 218,
+    "offset": 237718,
+    "taille": 30,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]in[SP]the[SP]box.\n",
+    "texte_fr": "> Rien dans la boîte.\n"
+  },
+  {
+    "script": 218,
+    "offset": 237784,
+    "taille": 30,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]in[SP]the[SP]box.\n",
+    "texte_fr": "> Rien dans la boîte.\n"
+  },
+  {
+    "script": 218,
+    "offset": 237850,
+    "taille": 37,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]inside[SP]the[SP]locker.\n",
+    "texte_fr": "> Il n'y a rien dans le casier.\n"
+  },
+  {
+    "script": 218,
+    "offset": 237930,
+    "taille": 37,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]inside[SP]the[SP]locker.\n",
+    "texte_fr": "> Il n'y a rien dans le casier.\n"
+  },
+  {
+    "script": 218,
+    "offset": 238010,
+    "taille": 37,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]inside[SP]the[SP]locker.\n",
+    "texte_fr": "> Il n'y a rien dans le casier.\n"
+  },
+  {
+    "script": 218,
+    "offset": 238090,
+    "taille": 37,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]inside[SP]the[SP]locker.\n",
+    "texte_fr": "> Il n'y a rien dans le casier.\n"
+  },
+  {
+    "script": 218,
+    "offset": 238170,
+    "taille": 37,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]inside[SP]the[SP]locker.\n",
+    "texte_fr": "> Il n'y a rien dans le casier.\n"
+  },
+  {
+    "script": 219,
+    "offset": 236568,
+    "taille": 52,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 219,
+    "offset": 236678,
+    "taille": 52,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 219,
+    "offset": 236788,
+    "taille": 52,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 219,
+    "offset": 236898,
+    "taille": 65,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]but[SP]a[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002][SP]inside\nthe[SP]locker.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Rien qu'une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002] dans le\ncasier.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 219,
+    "offset": 237034,
+    "taille": 65,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]but[SP]a[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002][SP]inside\nthe[SP]locker.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Rien qu'une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002] dans le\ncasier.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 219,
+    "offset": 237170,
+    "taille": 65,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]but[SP]a[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002][SP]inside\nthe[SP]locker.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Rien qu'une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002] dans le\ncasier.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 219,
+    "offset": 237306,
+    "taille": 65,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]but[SP]a[SP][1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002][SP]inside\nthe[SP]locker.[1431][NULL][NULL][0002]\n",
+    "texte_fr": "> Rien qu'une [1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002] dans le\ncasier.[1431][NULL][NULL][0002]\n"
+  },
+  {
+    "script": 221,
+    "offset": 180274,
+    "taille": 48,
+    "texte_orig": ">[SP]The[SP]door[SP]is[SP]locked.[SP]It[SP]seems[SP]you\ncan't[SP]enter.\n",
+    "texte_fr": "> Porte fermée à clé.\nImpossible d'entrer.\n"
+  },
+  {
+    "script": 221,
+    "offset": 180376,
+    "taille": 52,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 221,
+    "offset": 180486,
+    "taille": 52,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 221,
+    "offset": 180596,
+    "taille": 52,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 225,
+    "offset": 174172,
+    "taille": 29,
+    "texte_orig": ">[SP]The[SP]secret[SP]box[SP]is[SP]empty...\n",
+    "texte_fr": "> Boîte secrète vide...\n"
+  },
+  {
+    "script": 232,
+    "offset": 194022,
+    "taille": 52,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 232,
+    "offset": 194132,
+    "taille": 52,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 232,
+    "offset": 194242,
+    "taille": 52,
+    "texte_orig": ">[SP]Inside[SP]the[SP]box[SP]is[SP]just[SP]another\n[1431][NULL][NULL][0006]time[SP]bomb[1431][NULL][NULL][0002].\n",
+    "texte_fr": "> Dans la boîte, encore une autre\n[1431][NULL][NULL][0006]bombe[1431][NULL][NULL][0002].\n"
+  },
+  {
+    "script": 250,
+    "offset": 366286,
+    "taille": 62,
+    "texte_orig": ">[SP]It's[SP]the[SP]remnants[SP]of[SP]a[SP]clock[SP]that[SP]used[SP]to[SP]be\non[SP]the[SP]wall...\n",
+    "texte_fr": "> Les restes d'une horloge murale...\n"
+  },
+  {
+    "script": 250,
+    "offset": 366416,
+    "taille": 60,
+    "texte_orig": ">[SP]There's[SP]a[SP]clock[SP]on[SP]the[SP]wall[SP]with[SP]the[SP]school\nemblem[SP]on[SP]it.\n",
+    "texte_fr": "> Une horloge murale avec l'emblème\ndu lycée.\n"
+  },
+  {
+    "script": 252,
+    "offset": 291704,
+    "taille": 168,
+    "texte_orig": "[1431][NULL][NULL][0010]Hidehiko[SP][1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014][SP]Uesugi\nA[SP]TV[SP]personality,[SP]specializing[SP]in[SP]lame[SP]jokes,\nwhose[SP]popularity[SP]is[SP]skyrocketing[SP]right[SP]now.\nHe[SP]became[SP]a[SP]Persona-user[SP]in[SP]high[SP]school.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Hidehiko [1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014] Uesugi\nUne vedette télé aux blagues nulles\ndont la cote explose en ce moment.\nManieur de Persona depuis le lycée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 254,
+    "offset": 363230,
+    "taille": 62,
+    "texte_orig": ">[SP]It's[SP]the[SP]remnants[SP]of[SP]a[SP]clock[SP]that[SP]used[SP]to[SP]be\non[SP]the[SP]wall...\n",
+    "texte_fr": "> Les restes d'une horloge murale...\n"
+  },
+  {
+    "script": 254,
+    "offset": 363360,
+    "taille": 60,
+    "texte_orig": ">[SP]There's[SP]a[SP]clock[SP]on[SP]the[SP]wall[SP]with[SP]the[SP]school\nemblem[SP]on[SP]it.\n",
+    "texte_fr": "> Une horloge murale avec l'emblème\ndu lycée.\n"
+  },
+  {
+    "script": 256,
+    "offset": 366206,
+    "taille": 62,
+    "texte_orig": ">[SP]It's[SP]the[SP]remnants[SP]of[SP]a[SP]clock[SP]that[SP]used[SP]to[SP]be\non[SP]the[SP]wall...\n",
+    "texte_fr": "> Les restes d'une horloge murale...\n"
+  },
+  {
+    "script": 256,
+    "offset": 366336,
+    "taille": 60,
+    "texte_orig": ">[SP]There's[SP]a[SP]clock[SP]on[SP]the[SP]wall[SP]with[SP]the[SP]school\nemblem[SP]on[SP]it.\n",
+    "texte_fr": "> Une horloge murale avec l'emblème\ndu lycée.\n"
+  },
+  {
+    "script": 257,
+    "offset": 243740,
+    "taille": 111,
+    "texte_orig": ">[SP]It's[SP]a[SP]poster[SP]of[SP]the[SP]legendary[SP]actress\nSaiyuri[SP]Yoshikawa.[SP]The[SP]area[SP]around[SP]her\nlips[SP]is[SP]worn[SP]for[SP]some[SP]reason...",
+    "texte_fr": "> Un poster de la légendaire actrice\nSaiyuri Yoshikawa. Le tour de ses\nlèvres est usé, allez savoir..."
+  },
+  {
+    "script": 257,
+    "offset": 243968,
+    "taille": 124,
+    "texte_orig": ">[SP]It's[SP]a[SP]calendar[SP]of[SP]the[SP]legendary[SP]actress\nSaiyuri[SP]Yoshikawa...[SP]from[SP]30[SP]years[SP]ago!\nThe[SP]area[SP]around[SP]her[SP]lips[SP]is[SP]oddly[SP]worn...",
+    "texte_fr": "> Un calendrier de la légendaire actrice\nSaiyuri Yoshikawa... d'il y a 30 ans !\nLe tour des lèvres est bizarrement usé..."
+  },
+  {
+    "script": 257,
+    "offset": 244222,
+    "taille": 76,
+    "texte_orig": ">[SP]There[SP]are[SP]thick[SP]ropes[SP]and[SP]candles[SP]in\nthe[SP]box...[SP]For[SP]emergencies,[SP]you[SP]hope.",
+    "texte_fr": "> Il y a des cordes et des bougies\ndans la boîte... Pour les urgences ?"
+  },
+  {
+    "script": 257,
+    "offset": 244380,
+    "taille": 76,
+    "texte_orig": ">[SP]There[SP]are[SP]thick[SP]ropes[SP]and[SP]candles[SP]in\nthe[SP]box...[SP]For[SP]emergencies,[SP]you[SP]hope.",
+    "texte_fr": "> Il y a des cordes et des bougies\ndans la boîte... Pour les urgences ?"
+  },
+  {
+    "script": 257,
+    "offset": 244538,
+    "taille": 59,
+    "texte_orig": ">[SP]It's[SP]an[SP]old[SP]TV.[1205][001E][SP]It[SP]even[SP]uses[SP]a[SP]dial\nto[SP]change[SP]channels.",
+    "texte_fr": "> Une vieille télé.[1205][001E] Avec un\nbouton pour les chaînes."
+  },
+  {
+    "script": 257,
+    "offset": 244662,
+    "taille": 108,
+    "texte_orig": ">[SP]Hidden[SP]amongst[SP]the[SP]pictures[SP]of[SP]Saiyuri\nYoshikawa[SP]in[SP]the[SP]drawer...[1205]<[SP]were[SP]more\ncutouts[SP]of[SP]the[SP]same[SP]actress.",
+    "texte_fr": "> Cachées sous les photos de Saiyuri\nYoshikawa dans le tiroir...[1205]< d'autres\ncoupures de la même actrice."
+  },
+  {
+    "script": 257,
+    "offset": 244884,
+    "taille": 68,
+    "texte_orig": ">[SP]The[SP]fridge[SP]is[SP]full[SP]of[SP]side[SP]dishes[SP]with\nplastic[SP]wrap[SP]covering[SP]them.",
+    "texte_fr": "> Le frigo est plein de plats couverts\nde film plastique."
+  },
+  {
+    "script": 257,
+    "offset": 245026,
+    "taille": 33,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]in[SP]the[SP]cabinet.",
+    "texte_fr": "> Il n'y a rien dans le meuble."
+  },
+  {
+    "script": 257,
+    "offset": 245098,
+    "taille": 33,
+    "texte_orig": ">[SP]There[SP]are[SP]futons[SP]in[SP]the[SP]closet.",
+    "texte_fr": "> Des futons dans le placard."
+  },
+  {
+    "script": 258,
+    "offset": 259028,
+    "taille": 26,
+    "texte_orig": ">[SP][1113]'s[SP]party[SP]recovered.[1431][NULL][NULL][0002]",
+    "texte_fr": "> Groupe de [1113] soigné.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 258,
+    "offset": 259732,
+    "taille": 26,
+    "texte_orig": ">[SP][1113]'s[SP]party[SP]recovered.[1431][NULL][NULL][0002]",
+    "texte_fr": "> Groupe de [1113] soigné.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 258,
+    "offset": 260128,
+    "taille": 26,
+    "texte_orig": ">[SP][1113]'s[SP]party[SP]recovered.[1431][NULL][NULL][0002]",
+    "texte_fr": "> Groupe de [1113] soigné.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 258,
+    "offset": 261170,
+    "taille": 111,
+    "texte_orig": ">[SP]It's[SP]a[SP]poster[SP]of[SP]the[SP]legendary[SP]actress\nSaiyuri[SP]Yoshikawa.[SP]The[SP]area[SP]around[SP]her\nlips[SP]is[SP]worn[SP]for[SP]some[SP]reason...",
+    "texte_fr": "> Un poster de la légendaire actrice\nSaiyuri Yoshikawa. Le tour de ses\nlèvres est usé, allez savoir..."
+  },
+  {
+    "script": 258,
+    "offset": 261398,
+    "taille": 124,
+    "texte_orig": ">[SP]It's[SP]a[SP]calendar[SP]of[SP]the[SP]legendary[SP]actress\nSaiyuri[SP]Yoshikawa...[SP]from[SP]30[SP]years[SP]ago!\nThe[SP]area[SP]around[SP]her[SP]lips[SP]is[SP]oddly[SP]worn...",
+    "texte_fr": "> Un calendrier de la légendaire actrice\nSaiyuri Yoshikawa... d'il y a 30 ans !\nLe tour des lèvres est bizarrement usé..."
+  },
+  {
+    "script": 258,
+    "offset": 261652,
+    "taille": 76,
+    "texte_orig": ">[SP]There[SP]are[SP]thick[SP]ropes[SP]and[SP]candles[SP]in\nthe[SP]box...[SP]For[SP]emergencies,[SP]you[SP]hope.",
+    "texte_fr": "> Il y a des cordes et des bougies\ndans la boîte... Pour les urgences ?"
+  },
+  {
+    "script": 258,
+    "offset": 261810,
+    "taille": 76,
+    "texte_orig": ">[SP]There[SP]are[SP]thick[SP]ropes[SP]and[SP]candles[SP]in\nthe[SP]box...[SP]For[SP]emergencies,[SP]you[SP]hope.",
+    "texte_fr": "> Il y a des cordes et des bougies\ndans la boîte... Pour les urgences ?"
+  },
+  {
+    "script": 258,
+    "offset": 261968,
+    "taille": 59,
+    "texte_orig": ">[SP]It's[SP]an[SP]old[SP]TV.[1205][001E][SP]It[SP]even[SP]uses[SP]a[SP]dial\nto[SP]change[SP]channels.",
+    "texte_fr": "> Une vieille télé.[1205][001E] Avec un\nbouton pour les chaînes."
+  },
+  {
+    "script": 258,
+    "offset": 262092,
+    "taille": 108,
+    "texte_orig": ">[SP]Hidden[SP]amongst[SP]the[SP]pictures[SP]of[SP]Saiyuri\nYoshikawa[SP]in[SP]the[SP]drawer...[1205]<[SP]were[SP]more\ncutouts[SP]of[SP]the[SP]same[SP]actress.",
+    "texte_fr": "> Cachées sous les photos de Saiyuri\nYoshikawa dans le tiroir...[1205]< d'autres\ncoupures de la même actrice."
+  },
+  {
+    "script": 258,
+    "offset": 262314,
+    "taille": 68,
+    "texte_orig": ">[SP]The[SP]fridge[SP]is[SP]full[SP]of[SP]side[SP]dishes[SP]with\nplastic[SP]wrap[SP]covering[SP]them.",
+    "texte_fr": "> Le frigo est plein de plats couverts\nde film plastique."
+  },
+  {
+    "script": 258,
+    "offset": 262456,
+    "taille": 33,
+    "texte_orig": ">[SP]There's[SP]nothing[SP]in[SP]the[SP]cabinet.",
+    "texte_fr": "> Il n'y a rien dans le meuble."
+  },
+  {
+    "script": 258,
+    "offset": 262528,
+    "taille": 33,
+    "texte_orig": ">[SP]There[SP]are[SP]futons[SP]in[SP]the[SP]closet.",
+    "texte_fr": "> Des futons dans le placard."
+  },
+  {
+    "script": 259,
+    "offset": 287084,
+    "taille": 140,
+    "texte_orig": ">[SP]Narurato[SP]Stone\nA[SP]megalith[SP]that[SP]was[SP]excavated[SP]when[SP]the[SP]school\nwas[SP]first[SP]built.[SP]It's[SP]made[SP]of[SP]thamatite[SP]and\npossesses[SP]an[SP]abnormal[SP]magnetism.\n",
+    "texte_fr": "> Pierre Narurato\nUn mégalithe déterré à la construction\ndu lycée. Fait de thamatite, il a\nun magnétisme anormal.\n"
+  },
+  {
+    "script": 259,
+    "offset": 287368,
+    "taille": 117,
+    "texte_orig": ">[SP]Legend[SP]has[SP]it[SP]that[SP]it's[SP]a[SP]guardian[SP]stone\nin[SP]which[SP]the[SP]heavenly[SP]being[SP]Hiremon[SP]sealed\nthe[SP]evil[SP]demon[SP]Narurato[SP]Hotefu.",
+    "texte_fr": "> Selon la légende, c'est une pierre\ngardienne où l'être céleste Hiremon\nscella le démon Narurato Hotefu."
+  },
+  {
+    "script": 259,
+    "offset": 287608,
+    "taille": 179,
+    "texte_orig": ">[SP]Statue[SP]in[SP]honor[SP]of[SP]Principal[SP]Hanya\n[1432][NULL][NULL][0014]Look[SP]at[SP]me![SP]Follow[SP]me![SP]Don't[SP]rely[SP]on[SP]me![1432][NULL][NULL][0014]\nis[SP]the[SP]rather[SP]contradictory[SP]quote[SP]written[SP]here.\nLooking[SP]at[SP]it[SP]makes[SP]you[SP]inexplicably[SP]angry...",
+    "texte_fr": "> Statue en l'honneur du Proviseur Hanya\n[1432][NULL][NULL][0014]Regardez-moi ! Suivez-moi ! Débrouillez-vous ![1432][NULL][NULL][0014]\nCitation bien contradictoire.\nLa regarder vous énerve sans raison..."
+  },
+  {
+    "script": 259,
+    "offset": 289020,
+    "taille": 142,
+    "texte_orig": "[1431][NULL][NULL][0011]Maya[SP][1432][NULL][NULL][0014]Ms.[SP]Ideal[1432][NULL][NULL][0014][SP]Okamura\nA[SP]Japanese[SP]history[SP]teacher[SP]in[SP]charge[SP]of\nLisa's[SP]class.[SP]It[SP]seems[SP]she's[SP]doing[SP]some\nindependent[SP]research...[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Maya [1432][NULL][NULL][0014]Mme Idéale[1432][NULL][NULL][0014] Okamura\nProf d'histoire japonaise de la classe\nde Lisa. Elle semble mener ses\npropres recherches...[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 260,
+    "offset": 310762,
+    "taille": 140,
+    "texte_orig": ">[SP]Narurato[SP]Stone\nA[SP]megalith[SP]that[SP]was[SP]excavated[SP]when[SP]the[SP]school\nwas[SP]first[SP]built.[SP]It's[SP]made[SP]of[SP]thamatite[SP]and\npossesses[SP]an[SP]abnormal[SP]magnetism.\n",
+    "texte_fr": "> Pierre Narurato\nUn mégalithe déterré à la construction\ndu lycée. Fait de thamatite, il a\nun magnétisme anormal.\n"
+  },
+  {
+    "script": 260,
+    "offset": 311046,
+    "taille": 117,
+    "texte_orig": ">[SP]Legend[SP]has[SP]it[SP]that[SP]it's[SP]a[SP]guardian[SP]stone\nin[SP]which[SP]the[SP]heavenly[SP]being[SP]Hiremon[SP]sealed\nthe[SP]evil[SP]demon[SP]Narurato[SP]Hotefu.",
+    "texte_fr": "> Selon la légende, c'est une pierre\ngardienne où l'être céleste Hiremon\nscella le démon Narurato Hotefu."
+  },
+  {
+    "script": 260,
+    "offset": 311286,
+    "taille": 179,
+    "texte_orig": ">[SP]Statue[SP]in[SP]honor[SP]of[SP]Principal[SP]Hanya\n[1432][NULL][NULL][0014]Look[SP]at[SP]me![SP]Follow[SP]me![SP]Don't[SP]rely[SP]on[SP]me![1432][NULL][NULL][0014]\nis[SP]the[SP]rather[SP]contradictory[SP]quote[SP]written[SP]here.\nLooking[SP]at[SP]it[SP]makes[SP]you[SP]inexplicably[SP]angry...",
+    "texte_fr": "> Statue en l'honneur du Proviseur Hanya\n[1432][NULL][NULL][0014]Regardez-moi ! Suivez-moi ! Débrouillez-vous ![1432][NULL][NULL][0014]\nCitation bien contradictoire.\nLa regarder vous énerve sans raison..."
+  },
+  {
+    "script": 260,
+    "offset": 317618,
+    "taille": 127,
+    "texte_orig": ">[SP]It's[SP]the[SP]statue[SP]of[SP]the[SP]principal[SP]that's\nrumored[SP]to[SP]walk[SP]around.[1205][000A][SP]Seeing[SP]it[SP]polished\nto[SP]such[SP]a[SP]sheen[SP]grates[SP]on[SP]your[SP]nerves...",
+    "texte_fr": "> La statue du proviseur qui se\npromènerait la nuit.[1205][000A] La voir si\nbien astiquée vous agace..."
+  },
+  {
+    "script": 261,
+    "offset": 308492,
+    "taille": 170,
+    "texte_orig": "[1431][NULL][NULL][0010]Kenta[SP][1432][NULL][NULL][0014]Toro[1432][NULL][NULL][0014][SP]Yokouchi\nA[SP]graduate[SP]of[SP]St.[SP]Hermelin[SP]High.[SP]He's[SP]a[SP]top-\nranked[SP]door-to-door[SP]salesman[SP]whose[SP]impressive\nrecord[SP]is[SP]rumored[SP]to[SP]be[SP]due[SP]to[SP]his[SP]Persona.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Kenta [1432][NULL][NULL][0014]Toro[1432][NULL][NULL][0014] Yokouchi\nAncien de St. Hermelin. Vendeur au porte-\nà-porte vedette ; on dit que ses\nrecords sont dus à sa Persona.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 265,
+    "offset": 370564,
+    "taille": 62,
+    "texte_orig": ">[SP]It's[SP]the[SP]remnants[SP]of[SP]a[SP]clock[SP]that[SP]used[SP]to[SP]be\non[SP]the[SP]wall...\n",
+    "texte_fr": "> Les restes d'une horloge murale...\n"
+  },
+  {
+    "script": 265,
+    "offset": 370694,
+    "taille": 60,
+    "texte_orig": ">[SP]There's[SP]a[SP]clock[SP]on[SP]the[SP]wall[SP]with[SP]the[SP]school\nemblem[SP]on[SP]it.\n",
+    "texte_fr": "> Une horloge murale avec l'emblème\ndu lycée.\n"
+  },
+  {
+    "script": 266,
+    "offset": 338440,
+    "taille": 140,
+    "texte_orig": "[1431][NULL][NULL][0011]Mami[SP]Shibata\nStudent[SP]in[SP]Class[SP]2-C[SP]at[SP]Sevens,[SP]nicknamed\nSheba.[SP]Always[SP]hanging[SP]out[SP]with[SP]Lisa[SP]and[SP]Miho.\nShe's[SP]the[SP]calmest[SP]of[SP]the[SP]three.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Mami Shibata\nÉlève de 2-C à Seven, surnommée Sheba.\nToujours avec Lisa et Miho.\nLa plus calme des trois.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 266,
+    "offset": 339204,
+    "taille": 143,
+    "texte_orig": "[1431][NULL][NULL][0011]Miho[SP]Ogishima\nStudent[SP]in[SP]Class[SP]2-C[SP]at[SP]Sevens,[SP]nicknamed\nMee-ho.[SP]Always[SP]hanging[SP]out[SP]with[SP]Lisa[SP]and[SP]Mami.\nShe's[SP]the[SP]ditziest[SP]of[SP]the[SP]three.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Miho Ogishima\nÉlève de 2-C à Seven, surnommée Mee-ho.\nToujours avec Lisa et Mami.\nLa plus tête en l'air des trois.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 266,
+    "offset": 339988,
+    "taille": 140,
+    "texte_orig": "[1431][NULL][NULL][0011]Mami[SP]Shibata\nStudent[SP]in[SP]Class[SP]2-C[SP]at[SP]Sevens,[SP]nicknamed\nSheba.[SP]Always[SP]hanging[SP]out[SP]with[SP]Lisa[SP]and[SP]Miho.\nShe's[SP]the[SP]calmest[SP]of[SP]the[SP]three.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Mami Shibata\nÉlève de 2-C à Seven, surnommée Sheba.\nToujours avec Lisa et Miho.\nLa plus calme des trois.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 266,
+    "offset": 340752,
+    "taille": 143,
+    "texte_orig": "[1431][NULL][NULL][0011]Miho[SP]Ogishima\nStudent[SP]in[SP]Class[SP]2-C[SP]at[SP]Sevens,[SP]nicknamed\nMee-ho.[SP]Always[SP]hanging[SP]out[SP]with[SP]Lisa[SP]and[SP]Mami.\nShe's[SP]the[SP]ditziest[SP]of[SP]the[SP]three.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Miho Ogishima\nÉlève de 2-C à Seven, surnommée Mee-ho.\nToujours avec Lisa et Mami.\nLa plus tête en l'air des trois.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 272,
+    "offset": 367436,
+    "taille": 62,
+    "texte_orig": ">[SP]It's[SP]the[SP]remnants[SP]of[SP]a[SP]clock[SP]that[SP]used[SP]to[SP]be\non[SP]the[SP]wall...\n",
+    "texte_fr": "> Les restes d'une horloge murale...\n"
+  },
+  {
+    "script": 272,
+    "offset": 367566,
+    "taille": 60,
+    "texte_orig": ">[SP]There's[SP]a[SP]clock[SP]on[SP]the[SP]wall[SP]with[SP]the[SP]school\nemblem[SP]on[SP]it.\n",
+    "texte_fr": "> Une horloge murale avec l'emblème\ndu lycée.\n"
+  },
+  {
+    "script": 274,
+    "offset": 305644,
+    "taille": 131,
+    "texte_orig": "[1431][NULL][NULL][0011]Maki[SP]Sonomura\nA[SP]friend[SP]of[SP]Yukino's[SP]who's[SP]working[SP]to[SP]become\na[SP]counselor.[SP]It[SP]seems[SP]she[SP]has[SP]some[SP]residual\nguilt[SP]over[SP]her[SP]past.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Maki Sonomura\nAmie de Yukino qui veut devenir\nconseillère. Elle semble rongée\npar la culpabilité.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 276,
+    "offset": 366470,
+    "taille": 62,
+    "texte_orig": ">[SP]It's[SP]the[SP]remnants[SP]of[SP]a[SP]clock[SP]that[SP]used[SP]to[SP]be\non[SP]the[SP]wall...\n",
+    "texte_fr": "> Les restes d'une horloge murale...\n"
+  },
+  {
+    "script": 276,
+    "offset": 366600,
+    "taille": 60,
+    "texte_orig": ">[SP]There's[SP]a[SP]clock[SP]on[SP]the[SP]wall[SP]with[SP]the[SP]school\nemblem[SP]on[SP]it.\n",
+    "texte_fr": "> Une horloge murale avec l'emblème\ndu lycée.\n"
+  },
+  {
+    "script": 281,
+    "offset": 425490,
+    "taille": 145,
+    "texte_orig": "[1431][NULL][NULL][0010]Toku-san\nA[SP]homeless[SP]man[SP]living[SP]in[SP]Honmaru[SP]Park.[SP]Lives[SP]on\nfringes[SP]of[SP]society[SP]for[SP]philosophical[SP]reasons.\nIs[SP]more[SP]intelligent[SP]than[SP]he[SP]seems.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Toku-san\nUn SDF du parc Honmaru. Il vit en marge\nde la société par philosophie.\nPlus malin qu'il n'en a l'air.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 281,
+    "offset": 468960,
+    "taille": 126,
+    "texte_orig": ">[SP]Honmaru[SP]Park\nBuilt[SP]in[SP]1980[SP]on[SP]the[SP]site[SP]of[SP]Sumaru[SP]Castle,[SP]where\nKiyotada[SP]Sumaru[SP]ruled[SP]over[SP]this[SP]land[SP]during[SP]the\nSengoku[SP]era.\n",
+    "texte_fr": "> Parc Honmaru\nCréé en 1980 sur le site du château\nde Sumaru, d'où Kiyotada Sumaru régnait\nà l'époque Sengoku.\n"
+  },
+  {
+    "script": 281,
+    "offset": 469216,
+    "taille": 122,
+    "texte_orig": ">[SP]Tatsuzou[SP]Sudou[SP]of[SP]the[SP]prefectural[SP]assembly,\nalong[SP]with[SP]many[SP]other[SP]generous[SP]donors,\ncontributed[SP]to[SP]the[SP]construction[SP]fund.",
+    "texte_fr": "> Tatsuzou Sudou, de l'assemblée\npréfectorale, et de généreux donateurs\nont financé sa construction."
+  },
+  {
+    "script": 281,
+    "offset": 469466,
+    "taille": 144,
+    "texte_orig": ">[SP]Bulletin[SP]board\n38th[SP]Annual[SP]Tanabata[SP]Fireworks[SP]Festival\n65,536[SP]fireworks[SP]will[SP]light[SP]the[SP]night[SP]sky!\nTime/Date:[SP]X/X,[SP]Rengedai,[SP]at[SP]Tanabata[SP]Bridge",
+    "texte_fr": "> Panneau d'affichage\n38e Festival de feux d'artifice Tanabata\n65 536 fusées illumineront la nuit !\nLe X/X, à Rengedai, pont Tanabata"
+  },
+  {
+    "script": 285,
+    "offset": 365280,
+    "taille": 145,
+    "texte_orig": "[1431][NULL][NULL][0010]Toku-san\nA[SP]homeless[SP]man[SP]living[SP]in[SP]Honmaru[SP]Park.[SP]Lives[SP]on\nfringes[SP]of[SP]society[SP]for[SP]philosophical[SP]reasons.\nIs[SP]more[SP]intelligent[SP]than[SP]he[SP]seems.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Toku-san\nUn SDF du parc Honmaru. Il vit en marge\nde la société par philosophie.\nPlus malin qu'il n'en a l'air.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 285,
+    "offset": 405584,
+    "taille": 126,
+    "texte_orig": ">[SP]Honmaru[SP]Park\nBuilt[SP]in[SP]1980[SP]on[SP]the[SP]site[SP]of[SP]Sumaru[SP]Castle,[SP]where\nKiyotada[SP]Sumaru[SP]ruled[SP]over[SP]this[SP]land[SP]during[SP]the\nSengoku[SP]era.\n",
+    "texte_fr": "> Parc Honmaru\nCréé en 1980 sur le site du château\nde Sumaru, d'où Kiyotada Sumaru régnait\nà l'époque Sengoku.\n"
+  },
+  {
+    "script": 285,
+    "offset": 405840,
+    "taille": 122,
+    "texte_orig": ">[SP]Tatsuzou[SP]Sudou[SP]of[SP]the[SP]prefectural[SP]assembly,\nalong[SP]with[SP]many[SP]other[SP]generous[SP]donors,\ncontributed[SP]to[SP]the[SP]construction[SP]fund.",
+    "texte_fr": "> Tatsuzou Sudou, de l'assemblée\npréfectorale, et de généreux donateurs\nont financé sa construction."
+  },
+  {
+    "script": 285,
+    "offset": 406090,
+    "taille": 144,
+    "texte_orig": ">[SP]Bulletin[SP]board\n38th[SP]Annual[SP]Tanabata[SP]Fireworks[SP]Festival\n65,536[SP]fireworks[SP]will[SP]light[SP]the[SP]night[SP]sky!\nTime/Date:[SP]X/X,[SP]Rengedai,[SP]at[SP]Tanabata[SP]Bridge",
+    "texte_fr": "> Panneau d'affichage\n38e Festival de feux d'artifice Tanabata\n65 536 fusées illumineront la nuit !\nLe X/X, à Rengedai, pont Tanabata"
+  },
+  {
+    "script": 285,
+    "offset": 406384,
+    "taille": 124,
+    "texte_orig": ">[SP]Bulletin[SP]board\n[1432][NULL][NULL][0014]I[SP]heard[SP]a[SP]rumor[SP]there's[SP]a[SP]legendary[SP]flower\nsomewhere[SP]in[SP]Sumaru...[1205][000F][SP]Does[SP]anyone[SP]know[SP]where\nit[SP]might[SP]be?",
+    "texte_fr": "> Panneau d'affichage\n[1432][NULL][NULL][0014]Il paraît qu'une fleur légendaire\nest cachée à Sumaru...[1205][000F] Quelqu'un\nsait où ?"
+  },
+  {
+    "script": 285,
+    "offset": 406638,
+    "taille": 127,
+    "texte_orig": ">[SP][1432][NULL][NULL][0014]Someone[SP]said[SP]it[SP]was[SP]at[SP]Time[SP]Castle,[SP]but[SP]I\nhave[SP]no[SP]idea[SP]if[SP]that's[SP]true.[SP]Please[SP]contact\nme[SP]if[SP]you[SP]know[SP]anything.[1432][NULL][NULL][0014][SP]-Kaori",
+    "texte_fr": "> [1432][NULL][NULL][0014]On m'a dit qu'elle est à Time Castle,\nmais je ne sais pas si c'est vrai.\nContactez-moi si vous savez.[1432][NULL][NULL][0014] -Kaori"
+  },
+  {
+    "script": 286,
+    "offset": 354342,
+    "taille": 149,
+    "texte_orig": ">[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.[SP]Sadly,\nyou[SP]were[SP]not[SP]a[SP]winner[SP]this[SP]time.[SP]We[SP]encourage\nyou[SP]to[SP]continue[SP]entering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014]",
+    "texte_fr": "> Lettre\n[1432][NULL][NULL][0014]Merci d'avoir participé au tirage.\nHélas, vous n'avez pas gagné cette fois.\nN'hésitez pas à rejouer ![1432][NULL][NULL][0014]"
+  },
+  {
+    "script": 286,
+    "offset": 354862,
+    "taille": 105,
+    "texte_orig": ">[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.\nCongratulations![SP]You[SP]have[SP]been[SP]selected[SP]as\na[SP]winner!",
+    "texte_fr": "> Lettre\n[1432][NULL][NULL][0014]Merci d'avoir participé au tirage.\nFélicitations ! Vous avez gagné !"
+  },
+  {
+    "script": 287,
+    "offset": 323246,
+    "taille": 149,
+    "texte_orig": ">[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.[SP]Sadly,\nyou[SP]were[SP]not[SP]a[SP]winner[SP]this[SP]time.[SP]We[SP]encourage\nyou[SP]to[SP]continue[SP]entering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014]",
+    "texte_fr": "> Lettre\n[1432][NULL][NULL][0014]Merci d'avoir participé au tirage.\nHélas, vous n'avez pas gagné cette fois.\nN'hésitez pas à rejouer ![1432][NULL][NULL][0014]"
+  },
+  {
+    "script": 287,
+    "offset": 323766,
+    "taille": 105,
+    "texte_orig": ">[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.\nCongratulations![SP]You[SP]have[SP]been[SP]selected[SP]as\na[SP]winner!",
+    "texte_fr": "> Lettre\n[1432][NULL][NULL][0014]Merci d'avoir participé au tirage.\nFélicitations ! Vous avez gagné !"
+  },
+  {
+    "script": 301,
+    "offset": 317588,
+    "taille": 45,
+    "texte_orig": ">[SP]They're[SP]still[SP]setting[SP]up[SP]the[SP]masquerade...\n",
+    "texte_fr": "> Le bal masqué est en préparation...\n"
+  },
+  {
+    "script": 301,
+    "offset": 317918,
+    "taille": 45,
+    "texte_orig": ">[SP]They're[SP]still[SP]setting[SP]up[SP]the[SP]masquerade...\n",
+    "texte_fr": "> Le bal masqué est en préparation...\n"
+  },
+  {
+    "script": 301,
+    "offset": 319548,
+    "taille": 26,
+    "texte_orig": ">[SP][1113]'s[SP]party[SP]recovered.[1431][NULL][NULL][0002]",
+    "texte_fr": "> Groupe de [1113] soigné.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 319,
+    "offset": 348972,
+    "taille": 113,
+    "texte_orig": ">[SP]Investigation[SP]Report[SP]#32\nFiled[SP]X/X/1989\nClient:[SP]Junko[SP]Kashihara\nRequest:[SP]Investigate[SP]husband[SP]Akinari[SP]Kashihara\n",
+    "texte_fr": "> Rapport d'enquête n°32\nDéposé le X/X/1989\nCliente : Junko Kashihara\nObjet : surveiller son mari Akinari\n"
+  },
+  {
+    "script": 319,
+    "offset": 349202,
+    "taille": 120,
+    "texte_orig": ">[SP]Two[SP]weeks'[SP]worth[SP]of[SP]surveillance[SP]on[SP]the\ntarget[SP]revealed[SP]no[SP]suspicious[SP]behavior[SP]along\nthe[SP]lines[SP]of[SP]the[SP]client's[SP]fears.\n",
+    "texte_fr": "> Deux semaines de filature n'ont révélé\naucun comportement suspect justifiant\nles craintes de la cliente.\n"
+  },
+  {
+    "script": 319,
+    "offset": 349446,
+    "taille": 155,
+    "texte_orig": ">[SP]The[SP]target's[SP]only[SP]contacts[SP]outside[SP]his\nworkplace[SP]were[SP]a[SP]teacher[SP]by[SP]the[SP]name[SP]of\nOkamura[SP]and[SP]a[SP]student[SP]named[SP]Sudou.[SP]No\nintimacy[SP]with[SP]Okamura[SP]was[SP]observed.\n",
+    "texte_fr": "> Hors de son travail, la cible n'a vu\nqu'une prof, Okamura, et un élève, Sudou.\nAucune intimité avec Okamura n'a\nété constatée.\n"
+  },
+  {
+    "script": 319,
+    "offset": 349760,
+    "taille": 176,
+    "texte_orig": ">[SP]Still,[SP]some[SP]behavior[SP]was[SP]strange,[SP]such[SP]as\nthe[SP]three[SP]of[SP]them[SP]investigating[SP]cultural\nlandmarks[SP]around[SP]Sumaru,[SP]like[SP]Mt.[SP]Katatsumuri,\nwithout[SP]attracting[SP]attention[SP]to[SP]themselves.\n",
+    "texte_fr": "> Fait étrange : tous trois étudient\ndiscrètement des sites historiques de\nSumaru, comme le mont Katatsumuri.\n"
+  },
+  {
+    "script": 319,
+    "offset": 350454,
+    "taille": 127,
+    "texte_orig": ">[SP]There's[SP]no[SP]sign[SP]of[SP]the[SP]affair[SP]his[SP]lovely\nwife[SP]is[SP]so[SP]suspicious[SP]of.[SP]A[SP]timid[SP]man[SP]like\nhim[SP]would[SP]never[SP]be[SP]able[SP]to[SP]carry[SP]it[SP]off.\n",
+    "texte_fr": "> Aucune trace de la liaison que craint\nsa charmante épouse. Un homme aussi\ntimide n'en serait pas capable.\n"
+  },
+  {
+    "script": 319,
+    "offset": 350712,
+    "taille": 119,
+    "texte_orig": ">[SP]All[SP]Kashihara[SP]did[SP]was[SP]have[SP]a[SP]lively\ndiscussion[SP]with[SP]Okamura[SP]about[SP]silver[SP]and\nMaya[SP]at[SP]a[SP]cafe[SP]again[SP]before[SP]going[SP]home.\n",
+    "texte_fr": "> Kashihara a encore discuté d'argent\net de Maya avec Okamura dans un café,\npuis il est rentré chez lui.\n"
+  },
+  {
+    "script": 319,
+    "offset": 350956,
+    "taille": 149,
+    "texte_orig": ">[SP]Daisuke[SP]Todoroki's[SP]diary,[SP]X/XX/1989\nFollowed[SP]Kashihara[SP]around[SP]again[SP]today.\nMy[SP]advance[SP]from[SP]the[SP]client[SP]was[SP]converted\ninto[SP]dreams[SP]of[SP]silver[SP]balls...\n",
+    "texte_fr": "> Journal de Daisuke Todoroki, X/XX/1989\nSuivi Kashihara toute la journée.\nL'avance de la cliente est partie\nen billes d'argent au pachinko...\n"
+  },
+  {
+    "script": 319,
+    "offset": 351258,
+    "taille": 151,
+    "texte_orig": ">[SP]Despite[SP]my[SP]hunger,[SP]had[SP]to[SP]follow[SP]Kashihara\non[SP]his[SP]hike[SP]up[SP]Mt.[SP]Katatsumuri[SP]with[SP]Okamura.\nI[SP]thought[SP]I[SP]was[SP]on[SP]to[SP]something,[SP]but[SP]here\nI[SP]was[SP]wrong[SP]again.\n",
+    "texte_fr": "> Malgré la faim, j'ai suivi Kashihara\net Okamura au mont Katatsumuri.\nJe croyais tenir une piste, mais\nje me suis encore trompé.\n"
+  },
+  {
+    "script": 319,
+    "offset": 351564,
+    "taille": 168,
+    "texte_orig": ">[SP]After[SP]examining[SP]a[SP]strange[SP]boulder[SP]and[SP]the\ntopography[SP]of[SP]the[SP]area,[SP]they[SP]seemed[SP]excited\nas[SP]they[SP]climbed[SP]down[SP]the[SP]mountain.[SP]Are[SP]they\nsearching[SP]for[SP]some[SP]hidden[SP]treasure?\n",
+    "texte_fr": "> Après avoir étudié un étrange rocher\net le relief du coin, ils sont redescendus\ntout excités. Ils cherchent un trésor ?\n"
+  },
+  {
+    "script": 319,
+    "offset": 352154,
+    "taille": 149,
+    "texte_orig": ">[SP]Kashihara[SP]busied[SP]himself[SP]at[SP]the[SP]Tanabata\nRiver[SP]until[SP]afternoon,[SP]but[SP]when[SP]Okamura[SP]came\nhurrying[SP]up,[SP]they[SP]returned[SP]to[SP]Seven[SP]Sisters\nin[SP]high[SP]spirits.\n",
+    "texte_fr": "> Kashihara s'est affairé au fleuve\nTanabata jusqu'à l'après-midi. Puis,\nOkamura est arrivée et ils sont rentrés\nà Seven Sisters, tout joyeux.\n"
+  },
+  {
+    "script": 319,
+    "offset": 352456,
+    "taille": 116,
+    "texte_orig": ">[SP]I[SP]entered[SP]the[SP]school[SP]posing[SP]as[SP]a[SP]parent[SP]and\nfound[SP]them[SP]near[SP]a[SP]stone[SP]in[SP]the[SP]courtyard,\ntalking[SP]about[SP]silver[SP]again.\n",
+    "texte_fr": "> Entré au lycée en me faisant passer\npour un parent, je les ai vus près d'une\npierre de la cour, parlant d'argent.\n"
+  },
+  {
+    "script": 319,
+    "offset": 352692,
+    "taille": 112,
+    "texte_orig": ">[SP]It[SP]seems[SP]they[SP]really[SP]are[SP]looking[SP]for[SP]hidden\ntreasure.[SP]If[SP]so,[SP]I[SP]hope[SP]they[SP]can[SP]make[SP]my[SP]dream\ncome[SP]true[SP]as[SP]well.\n",
+    "texte_fr": "> Ils cherchent vraiment un trésor.\nSi c'est le cas, qu'ils réalisent\naussi mon rêve.\n"
+  },
+  {
+    "script": 319,
+    "offset": 353156,
+    "taille": 175,
+    "texte_orig": ">[SP]Ever[SP]since[SP]the[SP]incident[SP]at[SP]school,[SP]Kashihara\nstopped[SP]leaving[SP]the[SP]house.[SP]His[SP]wife[SP]says[SP]he's\nbeen[SP]busy[SP]writing[SP]something...[SP]Though[SP]it\nseems[SP]he's[SP]going[SP]out[SP]with[SP]his[SP]son[SP]today.\n",
+    "texte_fr": "> Depuis l'incident au lycée, Kashihara\nne sortait plus. Sa femme dit qu'il\nécrit quelque chose... Mais il sort\naujourd'hui avec son fils.\n"
+  },
+  {
+    "script": 319,
+    "offset": 353510,
+    "taille": 160,
+    "texte_orig": ">[SP]When[SP]Kashihara[SP]got[SP]to[SP]Seven[SP]Sisters[SP]High,\nhe[SP]noticed[SP]me[SP]and[SP]quickly[SP]disappeared[SP]into\nthe[SP]school.[SP]I[SP]can't[SP]believe[SP]he[SP]saw[SP]through\nmy[SP]well-honed[SP]tailing[SP]skills!\n",
+    "texte_fr": "> Arrivé au Lycée Seven Sisters,\nKashihara m'a repéré et a filé dans\nle lycée. Il a déjoué ma filature\nparfaite ! Incroyable !\n"
+  },
+  {
+    "script": 319,
+    "offset": 353834,
+    "taille": 174,
+    "texte_orig": ">[SP]I[SP]couldn't[SP]do[SP]much[SP]then,[SP]so[SP]I[SP]decided[SP]to\nwait[SP]around.[SP]But[SP]I[SP]didn't[SP]think[SP]Kashihara\nwould[SP]die[SP]in[SP]such[SP]a[SP]horrific[SP]accident...[SP]And\nI'm[SP]still[SP]waiting[SP]for[SP]the[SP]rest[SP]of[SP]my[SP]fee...\n",
+    "texte_fr": "> Je ne pouvais rien faire, alors j'ai\nattendu. Jamais je n'aurais cru que\nKashihara mourrait dans un tel accident...\nEt j'attends toujours mes honoraires...\n"
+  },
+  {
+    "script": 319,
+    "offset": 354188,
+    "taille": 48,
+    "texte_orig": ">[SP]There[SP]are[SP]some[SP]reports[SP]scattered[SP]on[SP]the[SP]desk.\n",
+    "texte_fr": "> Des rapports traînent sur le bureau.\n"
+  },
+  {
+    "script": 319,
+    "offset": 354290,
+    "taille": 113,
+    "texte_orig": ">[SP]Investigation[SP]Report[SP]#32\nFiled[SP]X/X/1989\nClient:[SP]Junko[SP]Kashihara\nRequest:[SP]Investigate[SP]husband[SP]Akinari[SP]Kashihara\n",
+    "texte_fr": "> Rapport d'enquête n°32\nDéposé le X/X/1989\nCliente : Junko Kashihara\nObjet : surveiller son mari Akinari\n"
+  },
+  {
+    "script": 319,
+    "offset": 354520,
+    "taille": 120,
+    "texte_orig": ">[SP]Two[SP]weeks'[SP]worth[SP]of[SP]surveillance[SP]on[SP]the\ntarget[SP]revealed[SP]no[SP]suspicious[SP]behavior[SP]along\nthe[SP]lines[SP]of[SP]the[SP]client's[SP]fears.\n",
+    "texte_fr": "> Deux semaines de filature n'ont révélé\naucun comportement suspect justifiant\nles craintes de la cliente.\n"
+  },
+  {
+    "script": 319,
+    "offset": 354764,
+    "taille": 155,
+    "texte_orig": ">[SP]The[SP]target's[SP]only[SP]contacts[SP]outside[SP]his\nworkplace[SP]were[SP]a[SP]teacher[SP]by[SP]the[SP]name[SP]of\nOkamura[SP]and[SP]a[SP]student[SP]named[SP]Sudou.[SP]No\nintimacy[SP]with[SP]Okamura[SP]was[SP]observed.\n",
+    "texte_fr": "> Hors de son travail, la cible n'a vu\nqu'une prof, Okamura, et un élève, Sudou.\nAucune intimité avec Okamura n'a\nété constatée.\n"
+  },
+  {
+    "script": 319,
+    "offset": 355078,
+    "taille": 176,
+    "texte_orig": ">[SP]Still,[SP]some[SP]behavior[SP]was[SP]strange,[SP]such[SP]as\nthe[SP]three[SP]of[SP]them[SP]investigating[SP]cultural\nlandmarks[SP]around[SP]Sumaru,[SP]like[SP]Mt.[SP]Katatsumuri,\nwithout[SP]attracting[SP]attention[SP]to[SP]themselves.\n",
+    "texte_fr": "> Fait étrange : tous trois étudient\ndiscrètement des sites historiques de\nSumaru, comme le mont Katatsumuri.\n"
+  },
+  {
+    "script": 319,
+    "offset": 355772,
+    "taille": 127,
+    "texte_orig": ">[SP]There's[SP]no[SP]sign[SP]of[SP]the[SP]affair[SP]his[SP]lovely\nwife[SP]is[SP]so[SP]suspicious[SP]of.[SP]A[SP]timid[SP]man[SP]like\nhim[SP]would[SP]never[SP]be[SP]able[SP]to[SP]carry[SP]it[SP]off.\n",
+    "texte_fr": "> Aucune trace de la liaison que craint\nsa charmante épouse. Un homme aussi\ntimide n'en serait pas capable.\n"
+  },
+  {
+    "script": 319,
+    "offset": 356030,
+    "taille": 121,
+    "texte_orig": ">[SP]All[SP]Kashihara[SP]did[SP]was[SP]have[SP]a[SP]spirited\ndiscussion[SP]with[SP]Okamura[SP]about[SP]silver[SP]and\nMaya[SP]at[SP]a[SP]cafe[SP]again[SP]before[SP]going[SP]home.\n",
+    "texte_fr": "> Kashihara a encore discuté d'argent\net de Maya avec Okamura dans un café,\npuis il est rentré chez lui.\n"
+  },
+  {
+    "script": 319,
+    "offset": 356278,
+    "taille": 149,
+    "texte_orig": ">[SP]Daisuke[SP]Todoroki's[SP]diary,[SP]X/XX/1989\nFollowed[SP]Kashihara[SP]around[SP]again[SP]today.\nMy[SP]advance[SP]from[SP]the[SP]client[SP]was[SP]converted\ninto[SP]dreams[SP]of[SP]silver[SP]balls...\n",
+    "texte_fr": "> Journal de Daisuke Todoroki, X/XX/1989\nSuivi Kashihara toute la journée.\nL'avance de la cliente est partie\nen billes d'argent au pachinko...\n"
+  },
+  {
+    "script": 319,
+    "offset": 356580,
+    "taille": 151,
+    "texte_orig": ">[SP]Despite[SP]my[SP]hunger,[SP]had[SP]to[SP]follow[SP]Kashihara\non[SP]his[SP]hike[SP]up[SP]Mt.[SP]Katatsumuri[SP]with[SP]Okamura.\nI[SP]thought[SP]I[SP]was[SP]on[SP]to[SP]something,[SP]but[SP]here\nI[SP]was[SP]wrong[SP]again.\n",
+    "texte_fr": "> Malgré la faim, j'ai suivi Kashihara\net Okamura au mont Katatsumuri.\nJe croyais tenir une piste, mais\nje me suis encore trompé.\n"
+  },
+  {
+    "script": 319,
+    "offset": 356886,
+    "taille": 168,
+    "texte_orig": ">[SP]After[SP]examining[SP]a[SP]strange[SP]boulder[SP]and[SP]the\ntopography[SP]of[SP]the[SP]area,[SP]they[SP]seemed[SP]excited\nas[SP]they[SP]climbed[SP]down[SP]the[SP]mountain.[SP]Are[SP]they\nsearching[SP]for[SP]some[SP]hidden[SP]treasure?\n",
+    "texte_fr": "> Après avoir étudié un étrange rocher\net le relief du coin, ils sont redescendus\ntout excités. Ils cherchent un trésor ?\n"
+  },
+  {
+    "script": 319,
+    "offset": 357476,
+    "taille": 149,
+    "texte_orig": ">[SP]Kashihara[SP]busied[SP]himself[SP]at[SP]the[SP]Tanabata\nRiver[SP]until[SP]afternoon,[SP]but[SP]when[SP]Okamura[SP]came\nhurrying[SP]up,[SP]they[SP]returned[SP]to[SP]Seven[SP]Sisters\nin[SP]high[SP]spirits.\n",
+    "texte_fr": "> Kashihara s'est affairé au fleuve\nTanabata jusqu'à l'après-midi. Puis,\nOkamura est arrivée et ils sont rentrés\nà Seven Sisters, tout joyeux.\n"
+  },
+  {
+    "script": 319,
+    "offset": 357778,
+    "taille": 116,
+    "texte_orig": ">[SP]I[SP]entered[SP]the[SP]school[SP]posing[SP]as[SP]a[SP]parent[SP]and\nfound[SP]them[SP]near[SP]a[SP]stone[SP]in[SP]the[SP]courtyard,\ntalking[SP]about[SP]silver[SP]again.\n",
+    "texte_fr": "> Entré au lycée en me faisant passer\npour un parent, je les ai vus près d'une\npierre de la cour, parlant d'argent.\n"
+  },
+  {
+    "script": 319,
+    "offset": 358014,
+    "taille": 112,
+    "texte_orig": ">[SP]It[SP]seems[SP]they[SP]really[SP]are[SP]looking[SP]for[SP]hidden\ntreasure.[SP]If[SP]so,[SP]I[SP]hope[SP]they[SP]can[SP]make[SP]my[SP]dream\ncome[SP]true[SP]as[SP]well.\n",
+    "texte_fr": "> Ils cherchent vraiment un trésor.\nSi c'est le cas, qu'ils réalisent\naussi mon rêve.\n"
+  },
+  {
+    "script": 319,
+    "offset": 358478,
+    "taille": 175,
+    "texte_orig": ">[SP]Ever[SP]since[SP]the[SP]incident[SP]at[SP]school,[SP]Kashihara\nstopped[SP]leaving[SP]the[SP]house.[SP]His[SP]wife[SP]says[SP]he's\nbeen[SP]busy[SP]writing[SP]something...[SP]Though[SP]it\nseems[SP]he's[SP]going[SP]out[SP]with[SP]his[SP]son[SP]today.\n",
+    "texte_fr": "> Depuis l'incident au lycée, Kashihara\nne sortait plus. Sa femme dit qu'il\nécrit quelque chose... Mais il sort\naujourd'hui avec son fils.\n"
+  },
+  {
+    "script": 319,
+    "offset": 358832,
+    "taille": 160,
+    "texte_orig": ">[SP]When[SP]Kashihara[SP]got[SP]to[SP]Seven[SP]Sisters[SP]High,\nhe[SP]noticed[SP]me[SP]and[SP]quickly[SP]disappeared[SP]into\nthe[SP]school.[SP]I[SP]can't[SP]believe[SP]he[SP]saw[SP]through\nmy[SP]well-honed[SP]tailing[SP]skills!\n",
+    "texte_fr": "> Arrivé au Lycée Seven Sisters,\nKashihara m'a repéré et a filé dans\nle lycée. Il a déjoué ma filature\nparfaite ! Incroyable !\n"
+  },
+  {
+    "script": 319,
+    "offset": 359156,
+    "taille": 174,
+    "texte_orig": ">[SP]I[SP]couldn't[SP]do[SP]much[SP]then,[SP]so[SP]I[SP]decided[SP]to\nwait[SP]around.[SP]But[SP]I[SP]didn't[SP]think[SP]Kashihara\nwould[SP]die[SP]in[SP]such[SP]a[SP]horrific[SP]accident...[SP]And\nI'm[SP]still[SP]waiting[SP]for[SP]the[SP]rest[SP]of[SP]my[SP]fee...\n",
+    "texte_fr": "> Je ne pouvais rien faire, alors j'ai\nattendu. Jamais je n'aurais cru que\nKashihara mourrait dans un tel accident...\nEt j'attends toujours mes honoraires...\n"
+  },
+  {
+    "script": 321,
+    "offset": 302624,
+    "taille": 113,
+    "texte_orig": ">[SP]Investigation[SP]Report[SP]#32\nFiled[SP]X/X/1989\nClient:[SP]Junko[SP]Kashihara\nRequest:[SP]Investigate[SP]husband[SP]Akinari[SP]Kashihara\n",
+    "texte_fr": "> Rapport d'enquête n°32\nDéposé le X/X/1989\nCliente : Junko Kashihara\nObjet : surveiller son mari Akinari\n"
+  },
+  {
+    "script": 321,
+    "offset": 302854,
+    "taille": 120,
+    "texte_orig": ">[SP]Two[SP]weeks'[SP]worth[SP]of[SP]surveillance[SP]on[SP]the\ntarget[SP]revealed[SP]no[SP]suspicious[SP]behavior[SP]along\nthe[SP]lines[SP]of[SP]the[SP]client's[SP]fears.\n",
+    "texte_fr": "> Deux semaines de filature n'ont révélé\naucun comportement suspect justifiant\nles craintes de la cliente.\n"
+  },
+  {
+    "script": 321,
+    "offset": 303098,
+    "taille": 155,
+    "texte_orig": ">[SP]The[SP]target's[SP]only[SP]contacts[SP]outside[SP]his\nworkplace[SP]were[SP]a[SP]teacher[SP]by[SP]the[SP]name[SP]of\nOkamura[SP]and[SP]a[SP]student[SP]named[SP]Sudou.[SP]No\nintimacy[SP]with[SP]Okamura[SP]was[SP]observed.\n",
+    "texte_fr": "> Hors de son travail, la cible n'a vu\nqu'une prof, Okamura, et un élève, Sudou.\nAucune intimité avec Okamura n'a\nété constatée.\n"
+  },
+  {
+    "script": 321,
+    "offset": 303412,
+    "taille": 176,
+    "texte_orig": ">[SP]Still,[SP]some[SP]behavior[SP]was[SP]strange,[SP]such[SP]as\nthe[SP]three[SP]of[SP]them[SP]investigating[SP]cultural\nlandmarks[SP]around[SP]Sumaru,[SP]like[SP]Mt.[SP]Katatsumuri,\nwithout[SP]attracting[SP]attention[SP]to[SP]themselves.\n",
+    "texte_fr": "> Fait étrange : tous trois étudient\ndiscrètement des sites historiques de\nSumaru, comme le mont Katatsumuri.\n"
+  },
+  {
+    "script": 321,
+    "offset": 304106,
+    "taille": 127,
+    "texte_orig": ">[SP]There's[SP]no[SP]sign[SP]of[SP]the[SP]affair[SP]his[SP]lovely\nwife[SP]is[SP]so[SP]suspicious[SP]of.[SP]A[SP]timid[SP]man[SP]like\nhim[SP]would[SP]never[SP]be[SP]able[SP]to[SP]carry[SP]it[SP]off.\n",
+    "texte_fr": "> Aucune trace de la liaison que craint\nsa charmante épouse. Un homme aussi\ntimide n'en serait pas capable.\n"
+  },
+  {
+    "script": 321,
+    "offset": 304364,
+    "taille": 119,
+    "texte_orig": ">[SP]All[SP]Kashihara[SP]did[SP]was[SP]have[SP]a[SP]lively\ndiscussion[SP]with[SP]Okamura[SP]about[SP]silver[SP]and\nMaya[SP]at[SP]a[SP]cafe[SP]again[SP]before[SP]going[SP]home.\n",
+    "texte_fr": "> Kashihara a encore discuté d'argent\net de Maya avec Okamura dans un café,\npuis il est rentré chez lui.\n"
+  },
+  {
+    "script": 321,
+    "offset": 304608,
+    "taille": 149,
+    "texte_orig": ">[SP]Daisuke[SP]Todoroki's[SP]diary,[SP]X/XX/1989\nFollowed[SP]Kashihara[SP]around[SP]again[SP]today.\nMy[SP]advance[SP]from[SP]the[SP]client[SP]was[SP]converted\ninto[SP]dreams[SP]of[SP]silver[SP]balls...\n",
+    "texte_fr": "> Journal de Daisuke Todoroki, X/XX/1989\nSuivi Kashihara toute la journée.\nL'avance de la cliente est partie\nen billes d'argent au pachinko...\n"
+  },
+  {
+    "script": 321,
+    "offset": 304910,
+    "taille": 151,
+    "texte_orig": ">[SP]Despite[SP]my[SP]hunger,[SP]had[SP]to[SP]follow[SP]Kashihara\non[SP]his[SP]hike[SP]up[SP]Mt.[SP]Katatsumuri[SP]with[SP]Okamura.\nI[SP]thought[SP]I[SP]was[SP]on[SP]to[SP]something,[SP]but[SP]here\nI[SP]was[SP]wrong[SP]again.\n",
+    "texte_fr": "> Malgré la faim, j'ai suivi Kashihara\net Okamura au mont Katatsumuri.\nJe croyais tenir une piste, mais\nje me suis encore trompé.\n"
+  },
+  {
+    "script": 321,
+    "offset": 305216,
+    "taille": 168,
+    "texte_orig": ">[SP]After[SP]examining[SP]a[SP]strange[SP]boulder[SP]and[SP]the\ntopography[SP]of[SP]the[SP]area,[SP]they[SP]seemed[SP]excited\nas[SP]they[SP]climbed[SP]down[SP]the[SP]mountain.[SP]Are[SP]they\nsearching[SP]for[SP]some[SP]hidden[SP]treasure?\n",
+    "texte_fr": "> Après avoir étudié un étrange rocher\net le relief du coin, ils sont redescendus\ntout excités. Ils cherchent un trésor ?\n"
+  },
+  {
+    "script": 321,
+    "offset": 305806,
+    "taille": 149,
+    "texte_orig": ">[SP]Kashihara[SP]busied[SP]himself[SP]at[SP]the[SP]Tanabata\nRiver[SP]until[SP]afternoon,[SP]but[SP]when[SP]Okamura[SP]came\nhurrying[SP]up,[SP]they[SP]returned[SP]to[SP]Seven[SP]Sisters\nin[SP]high[SP]spirits.\n",
+    "texte_fr": "> Kashihara s'est affairé au fleuve\nTanabata jusqu'à l'après-midi. Puis,\nOkamura est arrivée et ils sont rentrés\nà Seven Sisters, tout joyeux.\n"
+  },
+  {
+    "script": 321,
+    "offset": 306108,
+    "taille": 116,
+    "texte_orig": ">[SP]I[SP]entered[SP]the[SP]school[SP]posing[SP]as[SP]a[SP]parent[SP]and\nfound[SP]them[SP]near[SP]a[SP]stone[SP]in[SP]the[SP]courtyard,\ntalking[SP]about[SP]silver[SP]again.\n",
+    "texte_fr": "> Entré au lycée en me faisant passer\npour un parent, je les ai vus près d'une\npierre de la cour, parlant d'argent.\n"
+  },
+  {
+    "script": 321,
+    "offset": 306344,
+    "taille": 112,
+    "texte_orig": ">[SP]It[SP]seems[SP]they[SP]really[SP]are[SP]looking[SP]for[SP]hidden\ntreasure.[SP]If[SP]so,[SP]I[SP]hope[SP]they[SP]can[SP]make[SP]my[SP]dream\ncome[SP]true[SP]as[SP]well.\n",
+    "texte_fr": "> Ils cherchent vraiment un trésor.\nSi c'est le cas, qu'ils réalisent\naussi mon rêve.\n"
+  },
+  {
+    "script": 321,
+    "offset": 306808,
+    "taille": 175,
+    "texte_orig": ">[SP]Ever[SP]since[SP]the[SP]incident[SP]at[SP]school,[SP]Kashihara\nstopped[SP]leaving[SP]the[SP]house.[SP]His[SP]wife[SP]says[SP]he's\nbeen[SP]busy[SP]writing[SP]something...[SP]Though[SP]it\nseems[SP]he's[SP]going[SP]out[SP]with[SP]his[SP]son[SP]today.\n",
+    "texte_fr": "> Depuis l'incident au lycée, Kashihara\nne sortait plus. Sa femme dit qu'il\nécrit quelque chose... Mais il sort\naujourd'hui avec son fils.\n"
+  },
+  {
+    "script": 321,
+    "offset": 307162,
+    "taille": 160,
+    "texte_orig": ">[SP]When[SP]Kashihara[SP]got[SP]to[SP]Seven[SP]Sisters[SP]High,\nhe[SP]noticed[SP]me[SP]and[SP]quickly[SP]disappeared[SP]into\nthe[SP]school.[SP]I[SP]can't[SP]believe[SP]he[SP]saw[SP]through\nmy[SP]well-honed[SP]tailing[SP]skills!\n",
+    "texte_fr": "> Arrivé au Lycée Seven Sisters,\nKashihara m'a repéré et a filé dans\nle lycée. Il a déjoué ma filature\nparfaite ! Incroyable !\n"
+  },
+  {
+    "script": 321,
+    "offset": 307486,
+    "taille": 174,
+    "texte_orig": ">[SP]I[SP]couldn't[SP]do[SP]much[SP]then,[SP]so[SP]I[SP]decided[SP]to\nwait[SP]around.[SP]But[SP]I[SP]didn't[SP]think[SP]Kashihara\nwould[SP]die[SP]in[SP]such[SP]a[SP]horrific[SP]accident...[SP]And\nI'm[SP]still[SP]waiting[SP]for[SP]the[SP]rest[SP]of[SP]my[SP]fee...\n",
+    "texte_fr": "> Je ne pouvais rien faire, alors j'ai\nattendu. Jamais je n'aurais cru que\nKashihara mourrait dans un tel accident...\nEt j'attends toujours mes honoraires...\n"
+  },
+  {
+    "script": 321,
+    "offset": 307840,
+    "taille": 113,
+    "texte_orig": ">[SP]Investigation[SP]Report[SP]#32\nFiled[SP]X/X/1989\nClient:[SP]Junko[SP]Kashihara\nRequest:[SP]Investigate[SP]husband[SP]Akinari[SP]Kashihara\n",
+    "texte_fr": "> Rapport d'enquête n°32\nDéposé le X/X/1989\nCliente : Junko Kashihara\nObjet : surveiller son mari Akinari\n"
+  },
+  {
+    "script": 321,
+    "offset": 308070,
+    "taille": 120,
+    "texte_orig": ">[SP]Two[SP]weeks'[SP]worth[SP]of[SP]surveillance[SP]on[SP]the\ntarget[SP]revealed[SP]no[SP]suspicious[SP]behavior[SP]along\nthe[SP]lines[SP]of[SP]the[SP]client's[SP]fears.\n",
+    "texte_fr": "> Deux semaines de filature n'ont révélé\naucun comportement suspect justifiant\nles craintes de la cliente.\n"
+  },
+  {
+    "script": 321,
+    "offset": 308314,
+    "taille": 155,
+    "texte_orig": ">[SP]The[SP]target's[SP]only[SP]contacts[SP]outside[SP]his\nworkplace[SP]were[SP]a[SP]teacher[SP]by[SP]the[SP]name[SP]of\nOkamura[SP]and[SP]a[SP]student[SP]named[SP]Sudou.[SP]No\nintimacy[SP]with[SP]Okamura[SP]was[SP]observed.\n",
+    "texte_fr": "> Hors de son travail, la cible n'a vu\nqu'une prof, Okamura, et un élève, Sudou.\nAucune intimité avec Okamura n'a\nété constatée.\n"
+  },
+  {
+    "script": 321,
+    "offset": 308628,
+    "taille": 176,
+    "texte_orig": ">[SP]Still,[SP]some[SP]behavior[SP]was[SP]strange,[SP]such[SP]as\nthe[SP]three[SP]of[SP]them[SP]investigating[SP]cultural\nlandmarks[SP]around[SP]Sumaru,[SP]like[SP]Mt.[SP]Katatsumuri,\nwithout[SP]attracting[SP]attention[SP]to[SP]themselves.\n",
+    "texte_fr": "> Fait étrange : tous trois étudient\ndiscrètement des sites historiques de\nSumaru, comme le mont Katatsumuri.\n"
+  },
+  {
+    "script": 321,
+    "offset": 309322,
+    "taille": 127,
+    "texte_orig": ">[SP]There's[SP]no[SP]sign[SP]of[SP]the[SP]affair[SP]his[SP]lovely\nwife[SP]is[SP]so[SP]suspicious[SP]of.[SP]A[SP]timid[SP]man[SP]like\nhim[SP]would[SP]never[SP]be[SP]able[SP]to[SP]carry[SP]it[SP]off.\n",
+    "texte_fr": "> Aucune trace de la liaison que craint\nsa charmante épouse. Un homme aussi\ntimide n'en serait pas capable.\n"
+  },
+  {
+    "script": 321,
+    "offset": 309580,
+    "taille": 121,
+    "texte_orig": ">[SP]All[SP]Kashihara[SP]did[SP]was[SP]have[SP]a[SP]spirited\ndiscussion[SP]with[SP]Okamura[SP]about[SP]silver[SP]and\nMaya[SP]at[SP]a[SP]cafe[SP]again[SP]before[SP]going[SP]home.\n",
+    "texte_fr": "> Kashihara a encore discuté d'argent\net de Maya avec Okamura dans un café,\npuis il est rentré chez lui.\n"
+  },
+  {
+    "script": 321,
+    "offset": 309828,
+    "taille": 149,
+    "texte_orig": ">[SP]Daisuke[SP]Todoroki's[SP]diary,[SP]X/XX/1989\nFollowed[SP]Kashihara[SP]around[SP]again[SP]today.\nMy[SP]advance[SP]from[SP]the[SP]client[SP]was[SP]converted\ninto[SP]dreams[SP]of[SP]silver[SP]balls...\n",
+    "texte_fr": "> Journal de Daisuke Todoroki, X/XX/1989\nSuivi Kashihara toute la journée.\nL'avance de la cliente est partie\nen billes d'argent au pachinko...\n"
+  },
+  {
+    "script": 321,
+    "offset": 310130,
+    "taille": 151,
+    "texte_orig": ">[SP]Despite[SP]my[SP]hunger,[SP]had[SP]to[SP]follow[SP]Kashihara\non[SP]his[SP]hike[SP]up[SP]Mt.[SP]Katatsumuri[SP]with[SP]Okamura.\nI[SP]thought[SP]I[SP]was[SP]on[SP]to[SP]something,[SP]but[SP]here\nI[SP]was[SP]wrong[SP]again.\n",
+    "texte_fr": "> Malgré la faim, j'ai suivi Kashihara\net Okamura au mont Katatsumuri.\nJe croyais tenir une piste, mais\nje me suis encore trompé.\n"
+  },
+  {
+    "script": 321,
+    "offset": 310436,
+    "taille": 168,
+    "texte_orig": ">[SP]After[SP]examining[SP]a[SP]strange[SP]boulder[SP]and[SP]the\ntopography[SP]of[SP]the[SP]area,[SP]they[SP]seemed[SP]excited\nas[SP]they[SP]climbed[SP]down[SP]the[SP]mountain.[SP]Are[SP]they\nsearching[SP]for[SP]some[SP]hidden[SP]treasure?\n",
+    "texte_fr": "> Après avoir étudié un étrange rocher\net le relief du coin, ils sont redescendus\ntout excités. Ils cherchent un trésor ?\n"
+  },
+  {
+    "script": 321,
+    "offset": 311026,
+    "taille": 149,
+    "texte_orig": ">[SP]Kashihara[SP]busied[SP]himself[SP]at[SP]the[SP]Tanabata\nRiver[SP]until[SP]afternoon,[SP]but[SP]when[SP]Okamura[SP]came\nhurrying[SP]up,[SP]they[SP]returned[SP]to[SP]Seven[SP]Sisters\nin[SP]high[SP]spirits.\n",
+    "texte_fr": "> Kashihara s'est affairé au fleuve\nTanabata jusqu'à l'après-midi. Puis,\nOkamura est arrivée et ils sont rentrés\nà Seven Sisters, tout joyeux.\n"
+  },
+  {
+    "script": 321,
+    "offset": 311328,
+    "taille": 116,
+    "texte_orig": ">[SP]I[SP]entered[SP]the[SP]school[SP]posing[SP]as[SP]a[SP]parent[SP]and\nfound[SP]them[SP]near[SP]a[SP]stone[SP]in[SP]the[SP]courtyard,\ntalking[SP]about[SP]silver[SP]again.\n",
+    "texte_fr": "> Entré au lycée en me faisant passer\npour un parent, je les ai vus près d'une\npierre de la cour, parlant d'argent.\n"
+  },
+  {
+    "script": 321,
+    "offset": 311564,
+    "taille": 112,
+    "texte_orig": ">[SP]It[SP]seems[SP]they[SP]really[SP]are[SP]looking[SP]for[SP]hidden\ntreasure.[SP]If[SP]so,[SP]I[SP]hope[SP]they[SP]can[SP]make[SP]my[SP]dream\ncome[SP]true[SP]as[SP]well.\n",
+    "texte_fr": "> Ils cherchent vraiment un trésor.\nSi c'est le cas, qu'ils réalisent\naussi mon rêve.\n"
+  },
+  {
+    "script": 321,
+    "offset": 312028,
+    "taille": 175,
+    "texte_orig": ">[SP]Ever[SP]since[SP]the[SP]incident[SP]at[SP]school,[SP]Kashihara\nstopped[SP]leaving[SP]the[SP]house.[SP]His[SP]wife[SP]says[SP]he's\nbeen[SP]busy[SP]writing[SP]something...[SP]Though[SP]it\nseems[SP]he's[SP]going[SP]out[SP]with[SP]his[SP]son[SP]today.\n",
+    "texte_fr": "> Depuis l'incident au lycée, Kashihara\nne sortait plus. Sa femme dit qu'il\nécrit quelque chose... Mais il sort\naujourd'hui avec son fils.\n"
+  },
+  {
+    "script": 321,
+    "offset": 312382,
+    "taille": 160,
+    "texte_orig": ">[SP]When[SP]Kashihara[SP]got[SP]to[SP]Seven[SP]Sisters[SP]High,\nhe[SP]noticed[SP]me[SP]and[SP]quickly[SP]disappeared[SP]into\nthe[SP]school.[SP]I[SP]can't[SP]believe[SP]he[SP]saw[SP]through\nmy[SP]well-honed[SP]tailing[SP]skills!\n",
+    "texte_fr": "> Arrivé au Lycée Seven Sisters,\nKashihara m'a repéré et a filé dans\nle lycée. Il a déjoué ma filature\nparfaite ! Incroyable !\n"
+  },
+  {
+    "script": 321,
+    "offset": 312706,
+    "taille": 174,
+    "texte_orig": ">[SP]I[SP]couldn't[SP]do[SP]much[SP]then,[SP]so[SP]I[SP]decided[SP]to\nwait[SP]around.[SP]But[SP]I[SP]didn't[SP]think[SP]Kashihara\nwould[SP]die[SP]in[SP]such[SP]a[SP]horrific[SP]accident...[SP]And\nI'm[SP]still[SP]waiting[SP]for[SP]the[SP]rest[SP]of[SP]my[SP]fee...\n",
+    "texte_fr": "> Je ne pouvais rien faire, alors j'ai\nattendu. Jamais je n'aurais cru que\nKashihara mourrait dans un tel accident...\nEt j'attends toujours mes honoraires...\n"
+  },
+  {
+    "script": 323,
+    "offset": 332640,
+    "taille": 32,
+    "texte_orig": "Error\nNo[SP]local[SP]BIT[SP]has\nbeen[SP]set\n",
+    "texte_fr": ""
+  },
+  {
+    "script": 324,
+    "offset": 389264,
+    "taille": 170,
+    "texte_orig": "[1431][NULL][NULL][0010]Kenta[SP][1432][NULL][NULL][0014]Toro[1432][NULL][NULL][0014][SP]Yokouchi\nA[SP]graduate[SP]of[SP]St.[SP]Hermelin[SP]High.[SP]He's[SP]a[SP]top-\nranked[SP]door-to-door[SP]salesman[SP]whose[SP]impressive\nrecord[SP]is[SP]rumored[SP]to[SP]be[SP]due[SP]to[SP]his[SP]Persona.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Kenta [1432][NULL][NULL][0014]Toro[1432][NULL][NULL][0014] Yokouchi\nAncien de St. Hermelin. Vendeur au porte-\nà-porte vedette ; on dit que ses\nrecords sont dus à sa Persona.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 326,
+    "offset": 391512,
+    "taille": 33,
+    "texte_orig": ">[SP]The[SP]manager[SP]has[SP]stepped[SP]out...\n",
+    "texte_fr": "> Le gérant s'est absenté...\n"
+  },
+  {
+    "script": 326,
+    "offset": 395432,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#1[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°1 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 326,
+    "offset": 395620,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#2[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°2 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 326,
+    "offset": 395808,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#3[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°3 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 326,
+    "offset": 395996,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#4[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°4 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 326,
+    "offset": 396184,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#5[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°5 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 326,
+    "offset": 396372,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#6[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°6 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 326,
+    "offset": 396560,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#7[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°7 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 326,
+    "offset": 396748,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#8[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°8 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 326,
+    "offset": 396936,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#9[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°9 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 326,
+    "offset": 397124,
+    "taille": 50,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#10[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°10 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 326,
+    "offset": 397316,
+    "taille": 50,
+    "texte_orig": ">[SP]It's[SP]the[SP][1432][NULL][NULL][0014]Join[SP]Forces[1432][NULL][NULL][0014][SP]blackjack[SP]machine.\n",
+    "texte_fr": "> La machine de blackjack [1432][NULL][NULL][0014]Join Forces[1432][NULL][NULL][0014].\n"
+  },
+  {
+    "script": 326,
+    "offset": 397534,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#1[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°1 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 326,
+    "offset": 397756,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#2[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°2 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 326,
+    "offset": 397978,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#3[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°3 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 326,
+    "offset": 398200,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#4[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°4 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 326,
+    "offset": 398422,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#5[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°5 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 326,
+    "offset": 398644,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#6[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°6 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 326,
+    "offset": 398866,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#7[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°7 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 326,
+    "offset": 399088,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#8[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°8 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 326,
+    "offset": 399310,
+    "taille": 45,
+    "texte_orig": ">[SP]It's[SP]the[SP][1432][NULL][NULL][0014]Fortune's[SP]Reel[1432][NULL][NULL][0014][SP]bingo[SP]game.",
+    "texte_fr": "> Le bingo [1432][NULL][NULL][0014]Fortune's Reel[1432][NULL][NULL][0014]."
+  },
+  {
+    "script": 327,
+    "offset": 344952,
+    "taille": 33,
+    "texte_orig": ">[SP]The[SP]manager[SP]has[SP]stepped[SP]out...\n",
+    "texte_fr": "> Le gérant s'est absenté...\n"
+  },
+  {
+    "script": 327,
+    "offset": 346374,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#1[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°1 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 327,
+    "offset": 346562,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#2[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°2 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 327,
+    "offset": 346750,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#3[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°3 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 327,
+    "offset": 346938,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#4[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°4 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 327,
+    "offset": 347126,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#5[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°5 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 327,
+    "offset": 347314,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#6[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°6 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 327,
+    "offset": 347502,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#7[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°7 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 327,
+    "offset": 347690,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#8[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°8 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 327,
+    "offset": 347878,
+    "taille": 49,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#9[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°9 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 327,
+    "offset": 348066,
+    "taille": 50,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#10[SP]in[SP]the[SP]bank[SP]of\nWild[SP]9[SP]cabinets.",
+    "texte_fr": "> La machine n°10 de la rangée\nde Wild 9."
+  },
+  {
+    "script": 327,
+    "offset": 348258,
+    "taille": 50,
+    "texte_orig": ">[SP]It's[SP]the[SP][1432][NULL][NULL][0014]Join[SP]Forces[1432][NULL][NULL][0014][SP]blackjack[SP]machine.\n",
+    "texte_fr": "> La machine de blackjack [1432][NULL][NULL][0014]Join Forces[1432][NULL][NULL][0014].\n"
+  },
+  {
+    "script": 327,
+    "offset": 348476,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#1[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°1 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 327,
+    "offset": 348698,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#2[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°2 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 327,
+    "offset": 348920,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#3[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°3 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 327,
+    "offset": 349142,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#4[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°4 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 327,
+    "offset": 349364,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#5[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°5 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 327,
+    "offset": 349586,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#6[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°6 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 327,
+    "offset": 349808,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#7[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°7 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 327,
+    "offset": 350030,
+    "taille": 60,
+    "texte_orig": ">[SP]It's[SP]machine[SP]#8[SP]in[SP]the[SP]bank[SP]of\nArouse[SP]Blank[SP]slot[SP]machines.",
+    "texte_fr": "> Machine à sous n°8 de la\nrangée Arouse Blank."
+  },
+  {
+    "script": 327,
+    "offset": 350252,
+    "taille": 45,
+    "texte_orig": ">[SP]It's[SP]the[SP][1432][NULL][NULL][0014]Fortune's[SP]Reel[1432][NULL][NULL][0014][SP]bingo[SP]game.",
+    "texte_fr": "> Le bingo [1432][NULL][NULL][0014]Fortune's Reel[1432][NULL][NULL][0014]."
+  },
+  {
+    "script": 333,
+    "offset": 280552,
+    "taille": 168,
+    "texte_orig": "[1431][NULL][NULL][0010]Hidehiko[SP][1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014][SP]Uesugi\nA[SP]TV[SP]personality,[SP]specializing[SP]in[SP]lame[SP]jokes,\nwhose[SP]popularity[SP]is[SP]skyrocketing[SP]right[SP]now.\nHe[SP]became[SP]a[SP]Persona-user[SP]in[SP]high[SP]school.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Hidehiko [1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014] Uesugi\nUne vedette télé aux blagues nulles\ndont la cote explose en ce moment.\nManieur de Persona depuis le lycée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 333,
+    "offset": 281742,
+    "taille": 168,
+    "texte_orig": "[1431][NULL][NULL][0010]Hidehiko[SP][1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014][SP]Uesugi\nA[SP]TV[SP]personality,[SP]specializing[SP]in[SP]lame[SP]jokes,\nwhose[SP]popularity[SP]is[SP]skyrocketing[SP]right[SP]now.\nHe[SP]became[SP]a[SP]Persona-user[SP]in[SP]high[SP]school.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Hidehiko [1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014] Uesugi\nUne vedette télé aux blagues nulles\ndont la cote explose en ce moment.\nManieur de Persona depuis le lycée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 333,
+    "offset": 283752,
+    "taille": 131,
+    "texte_orig": "[1431][NULL][NULL][0011]Maki[SP]Sonomura\nA[SP]friend[SP]of[SP]Yukino's[SP]who's[SP]working[SP]to[SP]become\na[SP]counselor.[SP]It[SP]seems[SP]she[SP]has[SP]some[SP]residual\nguilt[SP]over[SP]her[SP]past.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Maki Sonomura\nAmie de Yukino qui veut devenir\nconseillère. Elle semble rongée\npar la culpabilité.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 342,
+    "offset": 327746,
+    "taille": 143,
+    "texte_orig": "[1431][NULL][NULL][0011]Chika[SP]Ueda\nA[SP]writer[SP]for[SP]Sevens'[SP]school[SP]paper,[SP]also[SP]known\nas[SP]Rumormonger[SP]Chikarin.[SP]She's[SP]scatterbrained\nbut[SP]excels[SP]at[SP]digging[SP]up[SP]scoops.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Chika Ueda\nRédactrice du journal de Seven, alias\nChikarin la commère. Tête en l'air,\nmais douée pour les scoops.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 344,
+    "offset": 334468,
+    "taille": 131,
+    "texte_orig": "[1431][NULL][NULL][0010]>[SP]Shunsuke[SP]Fujii\nThe[SP]freelance[SP]photographer[SP]who's[SP]mentoring\nYukino.[SP]He[SP]seems[SP]lazy[SP]and[SP]aloof,[SP]but[SP]on[SP]the\njob,[SP]he's[SP]a[SP]genius.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]> Shunsuke Fujii\nPhotographe indépendant, mentor de\nYukino. Paresseux et distant, mais\nun génie au travail.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 346,
+    "offset": 310780,
+    "taille": 168,
+    "texte_orig": "[1431][NULL][NULL][0010]Hidehiko[SP][1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014][SP]Uesugi\nA[SP]TV[SP]personality,[SP]specializing[SP]in[SP]lame[SP]jokes,\nwhose[SP]popularity[SP]is[SP]skyrocketing[SP]right[SP]now.\nHe[SP]became[SP]a[SP]Persona-user[SP]in[SP]high[SP]school.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Hidehiko [1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014] Uesugi\nUne vedette télé aux blagues nulles\ndont la cote explose en ce moment.\nManieur de Persona depuis le lycée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 346,
+    "offset": 312380,
+    "taille": 168,
+    "texte_orig": "[1431][NULL][NULL][0010]Hidehiko[SP][1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014][SP]Uesugi\nA[SP]TV[SP]personality,[SP]specializing[SP]in[SP]lame[SP]jokes,\nwhose[SP]popularity[SP]is[SP]skyrocketing[SP]right[SP]now.\nHe[SP]became[SP]a[SP]Persona-user[SP]in[SP]high[SP]school.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Hidehiko [1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014] Uesugi\nUne vedette télé aux blagues nulles\ndont la cote explose en ce moment.\nManieur de Persona depuis le lycée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 346,
+    "offset": 313998,
+    "taille": 168,
+    "texte_orig": "[1431][NULL][NULL][0010]Hidehiko[SP][1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014][SP]Uesugi\nA[SP]TV[SP]personality,[SP]specializing[SP]in[SP]lame[SP]jokes,\nwhose[SP]popularity[SP]is[SP]skyrocketing[SP]right[SP]now.\nHe[SP]became[SP]a[SP]Persona-user[SP]in[SP]high[SP]school.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Hidehiko [1432][NULL][NULL][0014]Brown[1432][NULL][NULL][0014] Uesugi\nUne vedette télé aux blagues nulles\ndont la cote explose en ce moment.\nManieur de Persona depuis le lycée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 346,
+    "offset": 316204,
+    "taille": 156,
+    "texte_orig": "[1431][NULL][NULL][0011]Junko[SP]Kurosu\nAn[SP]actress[SP]who[SP]caused[SP]a[SP]stir[SP]around[SP]ten[SP]years\nago.[SP]She[SP]retired[SP]due[SP]to[SP]a[SP]scandal,[SP]but[SP]has[SP]made\na[SP]comeback,[SP]looking[SP]remarkably[SP]unchanged.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Junko Kurosu\nActrice qui a fait sensation il y a dix\nans. Partie après un scandale, elle\nrevient, toujours aussi jeune.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 346,
+    "offset": 321950,
+    "taille": 71,
+    "texte_orig": ">[SP]It's[SP]a[SP]model[SP]of[SP]Sumaru[SP]TV.[SP]Every[SP]last[SP]detail\nis[SP]carefully[SP]replicated.",
+    "texte_fr": "> Une maquette de Sumaru TV.\nChaque détail est reproduit."
+  },
+  {
+    "script": 346,
+    "offset": 322098,
+    "taille": 104,
+    "texte_orig": ">[SP]Monday,[SP]7PM-8PM\n[1432][NULL][NULL][0014]It's[SP]Brown![1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]variety[SP]show[SP]hosted[SP]by\nthe[SP]multitalented[SP]Brown.",
+    "texte_fr": "> Lundi, 19h-20h\n[1432][NULL][NULL][0014]C'est Brown ![1432][NULL][NULL][0014]\nUne émission de variétés animée\npar Brown, le touche-à-tout."
+  },
+  {
+    "script": 346,
+    "offset": 322312,
+    "taille": 129,
+    "texte_orig": ">[SP]Tuesday,[SP]10PM-11PM\n[1432][NULL][NULL][0014]Super[SP]Shoppers[1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]shopping[SP]program[SP]where[SP]they\ndemonstrate[SP]and[SP]sell[SP]various[SP]products.",
+    "texte_fr": "> Mardi, 22h-23h\n[1432][NULL][NULL][0014]Super Shoppers[1432][NULL][NULL][0014]\nUne émission de télé-achat qui\nprésente et vend divers produits."
+  },
+  {
+    "script": 346,
+    "offset": 322576,
+    "taille": 135,
+    "texte_orig": ">[SP]Wednesday,[SP]11AM-12PM\n[1432][NULL][NULL][0014]What's[SP]Your[SP]Take?[1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]panel[SP]show[SP]that[SP]analyzes\nissues[SP]and[SP]thinks[SP]of[SP]ways[SP]to[SP]resolve[SP]them.",
+    "texte_fr": "> Mercredi, 11h-12h\n[1432][NULL][NULL][0014]Votre avis ?[1432][NULL][NULL][0014]\nUn débat qui analyse des problèmes\net cherche à les résoudre."
+  },
+  {
+    "script": 346,
+    "offset": 322852,
+    "taille": 136,
+    "texte_orig": ">[SP]Thursday,[SP]6PM-6:30PM\n[1432][NULL][NULL][0014]Golden[SP]Battler[SP]Lightron[1432][NULL][NULL][0014]\nA[SP]cartoon[SP]where[SP]a[SP]justice-loving[SP]boy[SP]turns\ninto[SP]the[SP]Golden[SP]Battler[SP]to[SP]fight[SP]evil.",
+    "texte_fr": "> Jeudi, 18h-18h30\n[1432][NULL][NULL][0014]Golden Battler Lightron[1432][NULL][NULL][0014]\nUn dessin animé où un garçon devient\nle Golden Battler pour vaincre le mal."
+  },
+  {
+    "script": 346,
+    "offset": 323130,
+    "taille": 121,
+    "texte_orig": ">[SP]Friday,[SP]8PM-9PM\n[1432][NULL][NULL][0014]I'm[SP]Talking[SP]Here![1432][NULL][NULL][0014]\nA[SP]talk[SP]show[SP]hosted[SP]by[SP]Junko[SP]Kurosu.[SP]Her[SP]sharp\ntongue[SP]seems[SP]to[SP]have[SP]many[SP]fans.",
+    "texte_fr": "> Vendredi, 20h-21h\n[1432][NULL][NULL][0014]C'est moi qui parle ![1432][NULL][NULL][0014]\nUn talk-show de Junko Kurosu.\nSa langue acérée a bien des fans."
+  },
+  {
+    "script": 346,
+    "offset": 323378,
+    "taille": 115,
+    "texte_orig": ">[SP]Saturday,[SP]9PM-10PM\n[1432][NULL][NULL][0014]Rainbow[SP]Joe[1432][NULL][NULL][0014]\nA[SP]drama[SP]starring[SP]an[SP]assassin[SP]named[SP]Joe[SP]with\nseven[SP]different[SP]personalities.",
+    "texte_fr": "> Samedi, 21h-22h\n[1432][NULL][NULL][0014]Rainbow Joe[1432][NULL][NULL][0014]\nUn drama sur Joe, un tueur aux\nsept personnalités."
+  },
+  {
+    "script": 347,
+    "offset": 283162,
+    "taille": 71,
+    "texte_orig": ">[SP]It's[SP]a[SP]model[SP]of[SP]Sumaru[SP]TV.[SP]Every[SP]last[SP]detail\nis[SP]carefully[SP]replicated.",
+    "texte_fr": "> Une maquette de Sumaru TV.\nChaque détail est reproduit."
+  },
+  {
+    "script": 347,
+    "offset": 283310,
+    "taille": 104,
+    "texte_orig": ">[SP]Monday,[SP]7PM-8PM\n[1432][NULL][NULL][0014]It's[SP]Brown![1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]variety[SP]show[SP]hosted[SP]by\nthe[SP]multitalented[SP]Brown.",
+    "texte_fr": "> Lundi, 19h-20h\n[1432][NULL][NULL][0014]C'est Brown ![1432][NULL][NULL][0014]\nUne émission de variétés animée\npar Brown, le touche-à-tout."
+  },
+  {
+    "script": 347,
+    "offset": 283524,
+    "taille": 129,
+    "texte_orig": ">[SP]Tuesday,[SP]10PM-11PM\n[1432][NULL][NULL][0014]Super[SP]Shoppers[1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]shopping[SP]program[SP]where[SP]they\ndemonstrate[SP]and[SP]sell[SP]various[SP]products.",
+    "texte_fr": "> Mardi, 22h-23h\n[1432][NULL][NULL][0014]Super Shoppers[1432][NULL][NULL][0014]\nUne émission de télé-achat qui\nprésente et vend divers produits."
+  },
+  {
+    "script": 347,
+    "offset": 283788,
+    "taille": 135,
+    "texte_orig": ">[SP]Wednesday,[SP]11AM-12PM\n[1432][NULL][NULL][0014]What's[SP]Your[SP]Take?[1432][NULL][NULL][0014]\nThis[SP]seems[SP]to[SP]be[SP]a[SP]panel[SP]show[SP]that[SP]analyzes\nissues[SP]and[SP]thinks[SP]of[SP]ways[SP]to[SP]resolve[SP]them.",
+    "texte_fr": "> Mercredi, 11h-12h\n[1432][NULL][NULL][0014]Votre avis ?[1432][NULL][NULL][0014]\nUn débat qui analyse des problèmes\net cherche à les résoudre."
+  },
+  {
+    "script": 347,
+    "offset": 284064,
+    "taille": 136,
+    "texte_orig": ">[SP]Thursday,[SP]6PM-6:30PM\n[1432][NULL][NULL][0014]Golden[SP]Battler[SP]Lightron[1432][NULL][NULL][0014]\nA[SP]cartoon[SP]where[SP]a[SP]justice-loving[SP]boy[SP]turns\ninto[SP]the[SP]Golden[SP]Battler[SP]to[SP]fight[SP]evil.",
+    "texte_fr": "> Jeudi, 18h-18h30\n[1432][NULL][NULL][0014]Golden Battler Lightron[1432][NULL][NULL][0014]\nUn dessin animé où un garçon devient\nle Golden Battler pour vaincre le mal."
+  },
+  {
+    "script": 347,
+    "offset": 284342,
+    "taille": 121,
+    "texte_orig": ">[SP]Friday,[SP]8PM-9PM\n[1432][NULL][NULL][0014]I'm[SP]Talking[SP]Here![1432][NULL][NULL][0014]\nA[SP]talk[SP]show[SP]hosted[SP]by[SP]Junko[SP]Kurosu.[SP]Her[SP]sharp\ntongue[SP]seems[SP]to[SP]have[SP]many[SP]fans.",
+    "texte_fr": "> Vendredi, 20h-21h\n[1432][NULL][NULL][0014]C'est moi qui parle ![1432][NULL][NULL][0014]\nUn talk-show de Junko Kurosu.\nSa langue acérée a bien des fans."
+  },
+  {
+    "script": 347,
+    "offset": 284590,
+    "taille": 115,
+    "texte_orig": ">[SP]Saturday,[SP]9PM-10PM\n[1432][NULL][NULL][0014]Rainbow[SP]Joe[1432][NULL][NULL][0014]\nA[SP]drama[SP]starring[SP]an[SP]assassin[SP]named[SP]Joe[SP]with\nseven[SP]different[SP]personalities.",
+    "texte_fr": "> Samedi, 21h-22h\n[1432][NULL][NULL][0014]Rainbow Joe[1432][NULL][NULL][0014]\nUn drama sur Joe, un tueur aux\nsept personnalités."
+  },
+  {
+    "script": 359,
+    "offset": 392100,
+    "taille": 60,
+    "texte_orig": ">[SP]Verified.\nSubmit[SP]information.\nAfter[SP]entering,[SP]please[SP]wait.",
+    "texte_fr": "> Vérifié.\nEnvoyez les infos.\nPuis veuillez patienter."
+  },
+  {
+    "script": 359,
+    "offset": 392280,
+    "taille": 58,
+    "texte_orig": ">[SP]Transmitting[SP]data.\n...[1205][000F]...[1205][000F]...[1205][000F]Transmission[SP]complete.",
+    "texte_fr": "> Envoi des données.\n...[1205][000F]...[1205][000F]...[1205][000F]Envoi terminé."
+  },
+  {
+    "script": 360,
+    "offset": 357886,
+    "taille": 60,
+    "texte_orig": ">[SP]Verified.\nSubmit[SP]information.\nAfter[SP]entering,[SP]please[SP]wait.",
+    "texte_fr": "> Vérifié.\nEnvoyez les infos.\nPuis veuillez patienter."
+  },
+  {
+    "script": 360,
+    "offset": 358066,
+    "taille": 58,
+    "texte_orig": ">[SP]Transmitting[SP]data.\n...[1205][000F]...[1205][000F]...[1205][000F]Transmission[SP]complete.",
+    "texte_fr": "> Envoi des données.\n...[1205][000F]...[1205][000F]...[1205][000F]Envoi terminé."
+  },
+  {
+    "script": 361,
+    "offset": 315190,
+    "taille": 138,
+    "texte_orig": "[1431][NULL][NULL][0010]Katsuya[SP][1112]\nA[SP]detective[SP]with[SP]the[SP]Kounan[SP]PD[SP]and[SP][1113]'s\nolder[SP]brother.[SP]He's[SP]an[SP]intelligent[SP]man[SP]of\naction[SP]with[SP]a[SP]grudge[SP]against[SP]arsonists.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Katsuya [1112]\nInspecteur de police à Kounan, grand\nfrère de [1113]. Homme d'action brillant\nqui en veut aux pyromanes.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 361,
+    "offset": 320840,
+    "taille": 115,
+    "texte_orig": ">[SP]Guide\nB1F:[SP]General[SP]Inquiries,[SP]Foreigner[SP]Desk\n1F:[SP]Lost[SP]&[SP]Found,[SP]DMV,[SP]Advisors\n2F:[SP]Victim[SP]Outreach,[SP]Disaster[SP]Relief",
+    "texte_fr": "> Plan\nSS1 : Accueil, Étrangers\n1F : Objets trouvés, Permis, Conseil\n2F : Aide aux victimes, Catastrophes"
+  },
+  {
+    "script": 361,
+    "offset": 321076,
+    "taille": 133,
+    "texte_orig": ">[SP]Guide\n3F:[SP]Interrogation[SP]Rooms,[SP]Domestic[SP]Affairs\n4F:[SP]Crime[SP]Lab,[SP]Juvenile[SP]Crimes[SP]Division\n5F:[SP]Missing[SP]Persons,[SP]Special[SP]Investigations",
+    "texte_fr": "> Plan\n3F : Interrogatoires, Affaires civiles\n4F : Labo, Brigade des mineurs\n5F : Disparitions, Enquêtes spéciales"
+  },
+  {
+    "script": 361,
+    "offset": 323836,
+    "taille": 73,
+    "texte_orig": ">[SP]Bulletin\nIf[SP]you[SP]see[SP]this[SP]man,[SP]call[SP]911!\nI[SP]think[SP]I've[SP]seen[SP]him[SP]around...",
+    "texte_fr": "> Avis\nSi vous voyez cet homme, appelez le 17 !\nJe crois l'avoir vu..."
+  },
+  {
+    "script": 362,
+    "offset": 343484,
+    "taille": 67,
+    "texte_orig": ">[SP]It's[SP]a[SP]new[SP]boom[SP]box.[SP]It's[SP]about[SP]the[SP]only\nclean[SP]thing[SP]in[SP]the[SP]room.",
+    "texte_fr": "> Une chaîne hi-fi neuve. C'est bien\nla seule chose propre ici."
+  },
+  {
+    "script": 364,
+    "offset": 320868,
+    "taille": 67,
+    "texte_orig": ">[SP]It's[SP]a[SP]new[SP]boom[SP]box.[SP]It's[SP]about[SP]the[SP]only\nclean[SP]thing[SP]in[SP]the[SP]room.",
+    "texte_fr": "> Une chaîne hi-fi neuve. C'est bien\nla seule chose propre ici."
+  },
+  {
+    "script": 371,
+    "offset": 334888,
+    "taille": 157,
+    "texte_orig": "[1431][NULL][NULL][0011]Maki[SP]Sonomura\nYukino's[SP]friend[SP]who's[SP]studying[SP]as[SP]a[SP]counselor.\nShe[SP]seems[SP]to[SP]have[SP]some[SP]guilt[SP]in[SP]her[SP]past.[SP]She\nawakened[SP]as[SP]a[SP]Persona-user[SP]in[SP]high[SP]school.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Maki Sonomura\nAmie de Yukino qui étudie pour être\nconseillère. Rongée par son passé,\nelle s'est éveillée au lycée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 371,
+    "offset": 339800,
+    "taille": 157,
+    "texte_orig": "[1431][NULL][NULL][0011]Maki[SP]Sonomura\nYukino's[SP]friend[SP]who's[SP]studying[SP]as[SP]a[SP]counselor.\nShe[SP]seems[SP]to[SP]have[SP]some[SP]guilt[SP]in[SP]her[SP]past.[SP]She\nawakened[SP]as[SP]a[SP]Persona-user[SP]in[SP]high[SP]school.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Maki Sonomura\nAmie de Yukino qui étudie pour être\nconseillère. Rongée par son passé,\nelle s'est éveillée au lycée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 371,
+    "offset": 340800,
+    "taille": 157,
+    "texte_orig": "[1431][NULL][NULL][0011]Maki[SP]Sonomura\nYukino's[SP]friend[SP]who's[SP]studying[SP]as[SP]a[SP]counselor.\nShe[SP]seems[SP]to[SP]have[SP]some[SP]guilt[SP]in[SP]her[SP]past.[SP]She\nawakened[SP]as[SP]a[SP]Persona-user[SP]in[SP]high[SP]school.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Maki Sonomura\nAmie de Yukino qui étudie pour être\nconseillère. Rongée par son passé,\nelle s'est éveillée au lycée.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 375,
+    "offset": 329106,
+    "taille": 162,
+    "texte_orig": "[1431][NULL][NULL][0011]Sumaru[SP]Genie\nA[SP]husky-voiced[SP]fortune[SP]teller[SP]who[SP]knows[SP]a[SP]lot\nabout[SP]rumors.[SP]Rumored[SP]to[SP]be[SP]seen[SP]sometimes[SP]in\nthe[SP]parts[SP]of[SP]the[SP]city[SP]that[SP]come[SP]alive[SP]at[SP]night...[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Génie de Sumaru\nUne voyante à la voix rauque qui en\nsait long sur les rumeurs. On la voit\nparfois dans les quartiers de nuit...[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 375,
+    "offset": 368656,
+    "taille": 90,
+    "texte_orig": "Hello.[SP]This[SP]is[SP]a[SP]debug[SP]message.[SP]You[SP]shouldn't\nbe[SP]seeing[SP]me.[SP]Resetting[SP]fortune[SP]telling[SP]BIT.",
+    "texte_fr": ""
+  },
+  {
+    "script": 376,
+    "offset": 323116,
+    "taille": 90,
+    "texte_orig": "Hello.[SP]This[SP]is[SP]a[SP]debug[SP]message.[SP]You[SP]shouldn't\nbe[SP]seeing[SP]me.[SP]Resetting[SP]fortune[SP]telling[SP]BIT.",
+    "texte_fr": ""
+  },
+  {
+    "script": 377,
+    "offset": 218038,
+    "taille": 143,
+    "texte_orig": "[1431][NULL][NULL][0011]Trish\nA[SP]greedy,[SP]money-loving[SP]fairy.[SP]She[SP]was[SP]kicked\nout[SP]of[SP]the[SP]fairy[SP]realm[SP]and[SP]can't[SP]go[SP]back\nuntil[SP]she's[SP]done[SP]her[SP]share[SP]of[SP]good[SP]deeds...[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Trish\nUne fée cupide qui adore l'argent.\nChassée du monde des fées, elle doit\nfaire de bonnes actions pour rentrer...[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 377,
+    "offset": 219616,
+    "taille": 84,
+    "texte_orig": ">[SP]Error\nNo[SP]BIT[SP]found[SP]to[SP]jump[SP]to.[SP]Please[SP]contact[SP]Kanada.\nOr[SP]more[SP]likely[SP]your[SP]QA[SP]lead.",
+    "texte_fr": ""
+  },
+  {
+    "script": 377,
+    "offset": 221520,
+    "taille": 84,
+    "texte_orig": ">[SP]Error\nNo[SP]BIT[SP]found[SP]to[SP]jump[SP]to.[SP]Please[SP]contact[SP]Kanada.\nOr[SP]more[SP]likely[SP]your[SP]QA[SP]lead.",
+    "texte_fr": ""
+  },
+  {
+    "script": 378,
+    "offset": 329336,
+    "taille": 163,
+    "texte_orig": "[1431][NULL][NULL][0010]Steven[SP]Silverman\nLisa's[SP]strong,[SP]sturdy[SP]father.[SP]An[SP]American[SP]who\nloved[SP]Japan[SP]so[SP]much[SP]he[SP]applied[SP]for[SP]citizenship.\nWants[SP]Lisa[SP]to[SP]become[SP]a[SP]proper[SP]Japanese[SP]lady.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Steven Silverman\nLe père costaud de Lisa. Un Américain\nsi épris du Japon qu'il a été naturalisé.\nVeut faire de Lisa une vraie Japonaise.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 378,
+    "offset": 330218,
+    "taille": 163,
+    "texte_orig": "[1431][NULL][NULL][0010]Steven[SP]Silverman\nLisa's[SP]strong,[SP]sturdy[SP]father.[SP]An[SP]American[SP]who\nloved[SP]Japan[SP]so[SP]much[SP]he[SP]applied[SP]for[SP]citizenship.\nWants[SP]Lisa[SP]to[SP]become[SP]a[SP]proper[SP]Japanese[SP]lady.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Steven Silverman\nLe père costaud de Lisa. Un Américain\nsi épris du Japon qu'il a été naturalisé.\nVeut faire de Lisa une vraie Japonaise.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 378,
+    "offset": 335282,
+    "taille": 149,
+    "texte_orig": ">[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.[SP]Sadly,\nyou[SP]were[SP]not[SP]a[SP]winner[SP]this[SP]time.[SP]We[SP]encourage\nyou[SP]to[SP]continue[SP]entering[SP]in[SP]the[SP]future![1432][NULL][NULL][0014]",
+    "texte_fr": "> Lettre\n[1432][NULL][NULL][0014]Merci d'avoir participé au tirage.\nHélas, vous n'avez pas gagné cette fois.\nN'hésitez pas à rejouer ![1432][NULL][NULL][0014]"
+  },
+  {
+    "script": 378,
+    "offset": 335802,
+    "taille": 105,
+    "texte_orig": ">[SP]Letter\n[1432][NULL][NULL][0014]Thank[SP]you[SP]for[SP]entering[SP]our[SP]sweepstakes.\nCongratulations![SP]You[SP]have[SP]been[SP]selected[SP]as\na[SP]winner!",
+    "texte_fr": "> Lettre\n[1432][NULL][NULL][0014]Merci d'avoir participé au tirage.\nFélicitations ! Vous avez gagné !"
+  },
+  {
+    "script": 380,
+    "offset": 214142,
+    "taille": 144,
+    "texte_orig": "[1431][NULL][NULL][0010]Tadashi\nA[SP]useless[SP]employee[SP]at[SP]the[SP]Kuzunoha[SP]Detective\nAgency[SP]who[SP]dreams[SP]of[SP]hard-boiled[SP]exploits.\nSpoiled[SP]son[SP]of[SP]the[SP]Satomi[SP]Tadashi[SP]owner.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Tadashi\nEmployé inutile de l'agence de\ndétectives Kuzunoha, rêve de polar.\nFils gâté du propriétaire.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 381,
+    "offset": 264516,
+    "taille": 150,
+    "texte_orig": "[1431][NULL][NULL][0011]Tamaki\nA[SP]part-time[SP]worker[SP]at[SP]the[SP]agency.[SP]She[SP]attends[SP]a\nwomen's[SP]college[SP]and[SP]is[SP]an[SP]active[SP]Devil[SP]Summoner.\nShe[SP]is[SP]dating[SP]Tadashi[SP]for[SP]some[SP]reason.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0011]Tamaki\nEmployée à mi-temps à l'agence, élève\nd'une fac pour filles et Invocatrice.\nElle sort avec Tadashi, allez savoir.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 381,
+    "offset": 266130,
+    "taille": 145,
+    "texte_orig": "[1431][NULL][NULL][0010]Chief[SP]Todoroki\nWas[SP]once[SP]a[SP]dull,[SP]third-rate[SP]detective,[SP]but[SP]has\nbecome[SP]suddenly[SP]brilliant[SP]lately.[SP]He[SP]does\nDevil[SP]Summoning[SP]work[SP]on[SP]the[SP]side.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Chef Todoroki\nUn détective médiocre devenu soudain\nbrillant. Il fait aussi de l'invocation\nde démons à côté.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 382,
+    "offset": 326438,
+    "taille": 159,
+    "texte_orig": "[1431][NULL][NULL][0010]Kankichi[SP]Mishina\nMotto[SP]is[SP][1432][NULL][NULL][0014]Heart,[SP]brains,[SP]and[SP]prawn.[1432][NULL][NULL][0014][SP]Wants\nEikichi[SP]to[SP]follow[SP]in[SP]his[SP]footsteps.[SP]Rumored\nto[SP]be[SP]skilled[SP]at[SP]multiple[SP]martial[SP]arts...[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Kankichi Mishina\nDevise : [1432][NULL][NULL][0014]Cœur, tête et crevette.[1432][NULL][NULL][0014] Veut\nqu'Eikichi suive ses traces. Il serait\nexpert en plusieurs arts martiaux...[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 382,
+    "offset": 333230,
+    "taille": 170,
+    "texte_orig": "[1431][NULL][NULL][0010]Kenta[SP][1432][NULL][NULL][0014]Toro[1432][NULL][NULL][0014][SP]Yokouchi\nA[SP]graduate[SP]of[SP]St.[SP]Hermelin[SP]High.[SP]He's[SP]a[SP]top-\nranked[SP]door-to-door[SP]salesman[SP]whose[SP]impressive\nrecord[SP]is[SP]rumored[SP]to[SP]be[SP]due[SP]to[SP]his[SP]Persona.[1431][NULL][NULL][0002]",
+    "texte_fr": "[1431][NULL][NULL][0010]Kenta [1432][NULL][NULL][0014]Toro[1432][NULL][NULL][0014] Yokouchi\nAncien de St. Hermelin. Vendeur au porte-\nà-porte vedette ; on dit que ses\nrecords sont dus à sa Persona.[1431][NULL][NULL][0002]"
+  },
+  {
+    "script": 391,
+    "offset": 240436,
+    "taille": 39,
+    "texte_orig": ">[SP][1432][NULL][NULL][0013]BGM[1432][NULL][NULL][0014][SP]was[SP]added[SP]to[SP]the[SP]Gallery.",
+    "texte_fr": "> [1432][NULL][NULL][0013]BGM[1432][NULL][NULL][0014] ajoutée à la Galerie."
+  },
+  {
+    "script": 394,
+    "offset": 285062,
+    "taille": 64,
+    "texte_orig": "Insufficient[SP][1432][NULL][NULL][0014]temp[1432][NULL][NULL][0014][SP]stock[SP]spaces.\nPlease[SP]secure[SP]two[SP]slots.",
+    "texte_fr": "Pas assez de place en stock [1432][NULL][NULL][0014]temp[1432][NULL][NULL][0014].\nLibérez deux places."
+  },
+  {
+    "script": 396,
+    "offset": 378628,
+    "taille": 62,
+    "texte_orig": ">[SP]It's[SP]the[SP]remnants[SP]of[SP]a[SP]clock[SP]that[SP]used[SP]to[SP]be\non[SP]the[SP]wall...\n",
+    "texte_fr": "> Les restes d'une horloge murale...\n"
+  },
+  {
+    "script": 396,
+    "offset": 378758,
+    "taille": 60,
+    "texte_orig": ">[SP]There's[SP]a[SP]clock[SP]on[SP]the[SP]wall[SP]with[SP]the[SP]school\nemblem[SP]on[SP]it.\n",
+    "texte_fr": "> Une horloge murale avec l'emblème\ndu lycée.\n"
+  }
+]
