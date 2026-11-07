@@ -281,6 +281,11 @@ def api_decode_scripts(req: GenericRequest):
         decode_all_scripts(
             scripts_dir, out_dir, get_logger(req.work_dir), progress_fn=update_progress
         )
+        # Messages hors dialogues (profils, descriptions « > »...) -> event_blocs.json
+        if (w / "event.bin").exists():
+            from p2is.parsers.messages_parser import extraire_messages_event
+            extraire_messages_event(str(w / "event.bin"), out_dir, w / "traduction" / "event_blocs.json",
+                                    get_logger(req.work_dir))
         update_progress(1.0)
         return {"status": "ok", "msg": "Scripts décodés (JSON)."}
     except Exception as e:

@@ -26,6 +26,8 @@ from p2is.utils import SCAN_TARGETS
 from p2is.core.cpk import extract_cpk
 from p2is.utils import save_offsets, load_offsets
 from p2is.parsers.bin_parser import scan_bnp_bin
+from p2is.parsers.lz_bnp_parser import FICHIERS_LZ, scan_lz_bnp
+from p2is.parsers.climax_parser import scan_climax
 def extract_cpk_from_iso(iso_path: str, out_dir: Path, log_fn, pspdecrypt_path: str = "") -> str:
     """Localise et extrait P2PT_ALL.cpk depuis l'ISO (ou le dossier extrait), ainsi que l'EBOOT.BIN."""
     iso_p = Path(iso_path)
@@ -333,7 +335,13 @@ def scan_cpk_files(
             raw = open(fp, "rb").read()
         except:
             continue
-        n = scan_bnp_bin(raw, fp.stem, out_dir, log_fn)
+        stem = fp.stem.lower()
+        if stem in FICHIERS_LZ:
+            n = scan_lz_bnp(raw, fp.stem, out_dir, log_fn)  # DNGSCN, P_DEMO (compressés)
+        elif stem == "q00":
+            n = scan_climax(raw, out_dir, log_fn)  # Climax Theater (extraction seule)
+        else:
+            n = scan_bnp_bin(raw, fp.stem, out_dir, log_fn)
         total.append(n)
         if n > 0:
             done.append(tname)
