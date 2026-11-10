@@ -93,10 +93,12 @@ def extraire_messages_event(event_bin: str, scripts_json_dir, out_json, log_fn=N
     Les traductions déjà présentes dans le fichier sont gardées (par texte anglais)."""
     ev = Path(event_bin).read_bytes()
     out_json = Path(out_json)
-    ancien = {}
+    ancien, manuels = {}, []
     if out_json.exists():
         for e in json.load(open(out_json, encoding="utf-8")):
             ancien[e["texte_orig"]] = e.get("texte_fr", "")
+            if e.get("manuel"):
+                manuels.append(e)  # morceaux posés à la main (menus à longueur fixe) : gardés tels quels
     entrees = []
     n_scripts = struct.unpack_from("<I", ev, 0)[0] // 8
     for i in range(n_scripts):
@@ -112,6 +114,9 @@ def extraire_messages_event(event_bin: str, scripts_json_dir, out_json, log_fn=N
         for o, n, t in messages_hors_dialogues(x, dl):
             entrees.append({"script": i, "offset": o, "taille": n, "texte_orig": t,
                             "texte_fr": ancien.get(t, "")})
+    deja = {(e["script"], e["offset"]) for e in entrees}
+    entrees += [m for m in manuels if (m["script"], m["offset"]) not in deja]
+    entrees.sort(key=lambda e: (e["script"], e["offset"]))
     with open(out_json, "w", encoding="utf-8", newline="\r\n") as f:
         json.dump(entrees, f, ensure_ascii=False, indent=2)
         f.write("\n")

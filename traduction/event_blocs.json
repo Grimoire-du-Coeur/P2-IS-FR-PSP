@@ -2640,6 +2640,150 @@
   },
   {
     "script": 359,
+    "offset": 391312,
+    "taille": 19,
+    "manuel": true,
+    "texte_orig": ">[SP]Select[SP]an[SP]option.",
+    "texte_fr": "> Choisir :"
+  },
+  {
+    "script": 359,
+    "offset": 391360,
+    "taille": 16,
+    "manuel": true,
+    "texte_orig": "Ask[SP]about[SP]rumors",
+    "texte_fr": "Infos rumeurs"
+  },
+  {
+    "script": 359,
+    "offset": 391394,
+    "taille": 15,
+    "manuel": true,
+    "texte_orig": "Talk[SP]with[SP]Baofu",
+    "texte_fr": "Parler à Baofu"
+  },
+  {
+    "script": 359,
+    "offset": 391426,
+    "taille": 6,
+    "manuel": true,
+    "texte_orig": "Cancel",
+    "texte_fr": "Retour"
+  },
+  {
+    "script": 359,
+    "offset": 391446,
+    "taille": 17,
+    "manuel": true,
+    "texte_orig": ">[SP]Select[SP]a[SP]topic.",
+    "texte_fr": "> Choisir sujet."
+  },
+  {
+    "script": 359,
+    "offset": 391490,
+    "taille": 18,
+    "manuel": true,
+    "texte_orig": "Weapon[SP]shop[SP]rumors",
+    "texte_fr": "Rumeurs armes"
+  },
+  {
+    "script": 359,
+    "offset": 391532,
+    "taille": 17,
+    "manuel": true,
+    "texte_orig": "Armor[SP]shop[SP]rumors",
+    "texte_fr": "Rumeurs armures"
+  },
+  {
+    "script": 359,
+    "offset": 391572,
+    "taille": 12,
+    "manuel": true,
+    "texte_orig": "Other[SP]rumors",
+    "texte_fr": "Rumeurs div."
+  },
+  {
+    "script": 359,
+    "offset": 391598,
+    "taille": 7,
+    "manuel": true,
+    "texte_orig": "Nothing",
+    "texte_fr": "Rien"
+  },
+  {
+    "script": 359,
+    "offset": 391620,
+    "taille": 18,
+    "manuel": true,
+    "texte_orig": ">[SP]Select[SP]a[SP]region.",
+    "texte_fr": "> Quel quartier ?"
+  },
+  {
+    "script": 359,
+    "offset": 391738,
+    "taille": 4,
+    "manuel": true,
+    "texte_orig": "None",
+    "texte_fr": "Rien"
+  },
+  {
+    "script": 359,
+    "offset": 391754,
+    "taille": 18,
+    "manuel": true,
+    "texte_orig": ">[SP]Select[SP]a[SP]region.",
+    "texte_fr": "> Quel quartier ?"
+  },
+  {
+    "script": 359,
+    "offset": 391872,
+    "taille": 4,
+    "manuel": true,
+    "texte_orig": "None",
+    "texte_fr": "Rien"
+  },
+  {
+    "script": 359,
+    "offset": 391888,
+    "taille": 19,
+    "manuel": true,
+    "texte_orig": ">[SP]Select[SP]a[SP]subject.",
+    "texte_fr": "> Choisir sujet."
+  },
+  {
+    "script": 359,
+    "offset": 391936,
+    "taille": 27,
+    "manuel": true,
+    "texte_orig": "Magazine[SP]sweepstakes[SP]rumors",
+    "texte_fr": "Concours de magazine"
+  },
+  {
+    "script": 359,
+    "offset": 391996,
+    "taille": 9,
+    "manuel": true,
+    "texte_orig": "Mu[SP]rumors",
+    "texte_fr": "Sur le Mu"
+  },
+  {
+    "script": 359,
+    "offset": 392020,
+    "taille": 23,
+    "manuel": true,
+    "texte_orig": "Legendary[SP]weapon[SP]rumors",
+    "texte_fr": "Armes légendaires"
+  },
+  {
+    "script": 359,
+    "offset": 392068,
+    "taille": 12,
+    "manuel": true,
+    "texte_orig": "None[SP]of[SP]them",
+    "texte_fr": "Aucune"
+  },
+  {
+    "script": 359,
     "offset": 392100,
     "taille": 60,
     "texte_orig": ">[SP]Verified.\nSubmit[SP]information.\nAfter[SP]entering,[SP]please[SP]wait.",
@@ -2651,6 +2795,150 @@
     "taille": 58,
     "texte_orig": ">[SP]Transmitting[SP]data.\n...[1205][000F]...[1205][000F]...[1205][000F]Transmission[SP]complete.",
     "texte_fr": "> Envoi des données.\n...[1205][000F]...[1205][000F]...[1205][000F]Envoi terminé."
+  },
+  {
+    "script": 360,
+    "offset": 357098,
+    "taille": 19,
+    "manuel": true,
+    "texte_orig": ">[SP]Select[SP]an[SP]option.",
+    "texte_fr": "> Choisir :"
+  },
+  {
+    "script": 360,
+    "offset": 357146,
+    "taille": 16,
+    "manuel": true,
+    "texte_orig": "Ask[SP]about[SP]rumors",
+    "texte_fr": "Infos rumeurs"
+  },
+  {
+    "script": 360,
+    "offset": 357180,
+    "taille": 15,
+    "manuel": true,
+    "texte_orig": "Talk[SP]with[SP]Baofu",
+    "texte_fr": "Parler à Baofu"
+  },
+  {
+    "script": 360,
+    "offset": 357212,
+    "taille": 6,
+    "manuel": true,
+    "texte_orig": "Cancel",
+    "texte_fr": "Retour"
+  },
+  {
+    "script": 360,
+    "offset": 357232,
+    "taille": 17,
+    "manuel": true,
+    "texte_orig": ">[SP]Select[SP]a[SP]topic.",
+    "texte_fr": "> Choisir sujet."
+  },
+  {
+    "script": 360,
+    "offset": 357276,
+    "taille": 18,
+    "manuel": true,
+    "texte_orig": "Weapon[SP]shop[SP]rumors",
+    "texte_fr": "Rumeurs armes"
+  },
+  {
+    "script": 360,
+    "offset": 357318,
+    "taille": 17,
+    "manuel": true,
+    "texte_orig": "Armor[SP]shop[SP]rumors",
+    "texte_fr": "Rumeurs armures"
+  },
+  {
+    "script": 360,
+    "offset": 357358,
+    "taille": 12,
+    "manuel": true,
+    "texte_orig": "Other[SP]rumors",
+    "texte_fr": "Rumeurs div."
+  },
+  {
+    "script": 360,
+    "offset": 357384,
+    "taille": 7,
+    "manuel": true,
+    "texte_orig": "Nothing",
+    "texte_fr": "Rien"
+  },
+  {
+    "script": 360,
+    "offset": 357406,
+    "taille": 18,
+    "manuel": true,
+    "texte_orig": ">[SP]Select[SP]a[SP]region.",
+    "texte_fr": "> Quel quartier ?"
+  },
+  {
+    "script": 360,
+    "offset": 357524,
+    "taille": 4,
+    "manuel": true,
+    "texte_orig": "None",
+    "texte_fr": "Rien"
+  },
+  {
+    "script": 360,
+    "offset": 357540,
+    "taille": 18,
+    "manuel": true,
+    "texte_orig": ">[SP]Select[SP]a[SP]region.",
+    "texte_fr": "> Quel quartier ?"
+  },
+  {
+    "script": 360,
+    "offset": 357658,
+    "taille": 4,
+    "manuel": true,
+    "texte_orig": "None",
+    "texte_fr": "Rien"
+  },
+  {
+    "script": 360,
+    "offset": 357674,
+    "taille": 19,
+    "manuel": true,
+    "texte_orig": ">[SP]Select[SP]a[SP]subject.",
+    "texte_fr": "> Choisir sujet."
+  },
+  {
+    "script": 360,
+    "offset": 357722,
+    "taille": 27,
+    "manuel": true,
+    "texte_orig": "Magazine[SP]sweepstakes[SP]rumors",
+    "texte_fr": "Concours de magazine"
+  },
+  {
+    "script": 360,
+    "offset": 357782,
+    "taille": 9,
+    "manuel": true,
+    "texte_orig": "Mu[SP]rumors",
+    "texte_fr": "Sur le Mu"
+  },
+  {
+    "script": 360,
+    "offset": 357806,
+    "taille": 23,
+    "manuel": true,
+    "texte_orig": "Legendary[SP]weapon[SP]rumors",
+    "texte_fr": "Armes légendaires"
+  },
+  {
+    "script": 360,
+    "offset": 357854,
+    "taille": 12,
+    "manuel": true,
+    "texte_orig": "None[SP]of[SP]them",
+    "texte_fr": "Aucune"
   },
   {
     "script": 360,
