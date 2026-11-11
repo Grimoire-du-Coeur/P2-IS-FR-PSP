@@ -252,22 +252,10 @@ def inject_eboot(eboot_path, json_path, out_path, logger=print):
     injected_count = 0
     gardees = {}
 
-    # Place réelle : les chaînes sont alignées sur 4 octets. Après le terminateur
-    # FFFF, les octets à 00 jusqu'à la chaîne suivante sont libres (« No » a la
-    # place d'écrire « Non »).
-    suivants = sorted(e["offset"] for e in entries)
-    import bisect
-
-    def place(entry):
-        o, n = entry["offset"], entry["slot_size"]
-        k = bisect.bisect_right(suivants, o)
-        fin = suivants[k] if k < len(suivants) else o + n + 2
-        fin = min(fin, o + n + 4)  # seulement l'alignement (2 octets) : au-delà, ce peut être une table de données
-        bourrage = bytes(data[o + n:fin])
-        if fin - o - n >= 4 and bourrage[:2] == b"\xff\xff" and not any(bourrage[2:]):
-            return fin - o - 2
-        return n
-
+    # Ne jamais écrire au-delà du texte d'origine : les octets qui suivent le
+    # terminateur FFFF ne sont pas toujours du bourrage. Dans les tables de
+    # l'EBOOT (objets, compétences...), ce sont des champs de l'enregistrement ;
+    # les passer à FFFF (-1) faisait planter le jeu (v0.3.1).
     for entry in entries:
         raison = raison_de_ne_pas_injecter(entry, data)
         if raison:
@@ -276,7 +264,7 @@ def inject_eboot(eboot_path, json_path, out_path, logger=print):
             continue
 
         offset = entry["offset"]
-        orig_len = place(entry)
+        orig_len = entry["slot_size"]
         trans_text = entry["texte_fr"].replace('[SP]', '\u3000')
         
         encoded_bytes = encode_string(trans_text)
@@ -291,10 +279,10 @@ def inject_eboot(eboot_path, json_path, out_path, logger=print):
         # Write translated bytes
         data[offset : offset + len(encoded_bytes)] = encoded_bytes
         
-        # Fill the remaining space with 0xFFFF (END marker) to prevent garbage,
-        # terminator included (+2): orig_len may now reach into the alignment padding.
+        # Fill the remaining space with 0xFFFF (END marker) to prevent garbage.
+        # The original terminator (at offset + slot_size) is left untouched.
         padding_start = offset + len(encoded_bytes)
-        padding_len = orig_len + 2 - len(encoded_bytes)
+        padding_len = orig_len - len(encoded_bytes)
         
         for p in range(padding_start, padding_start + padding_len, 2):
             if p + 1 < len(data):

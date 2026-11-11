@@ -44,6 +44,15 @@ def encode_bin_from_json(
     for idx, bd in enumerate(bin_dialogs):
         d_merged = dict(bd)
         inp = input_by_id.get(bd["id"]) or (dlgs_input[idx] if idx < len(dlgs_input) else None)
+        if (inp and isinstance(inp, dict) and isinstance(inp.get("data_size"), int)
+                and inp["data_size"] > bd["data_size"]):
+            # Entrée du JSON plus grande que la réplique réelle (plusieurs messages
+            # fusionnés) : la « tronquer » fabriquait un menu vide qui faisait planter
+            # le jeu (PC de Baofu). On la laisse en anglais.
+            if log_fn:
+                log_fn(f"  ⚠ [id {bd['id']}] entrée JSON plus grande que la réplique du jeu "
+                       f"({inp['data_size']} > {bd['data_size']} octets) → ignorée.", "warn")
+            inp = None
         if inp and isinstance(inp, dict):
             for k in ("nom_fr", "texte_fr", "choix_fr", "question_fr", "count_tag"):
                 if k in inp:
