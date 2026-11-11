@@ -162,7 +162,7 @@
     "nom_orig": "Saleswoman",
     "texte_orig": "Anything[SP]else?\n[1208][0006]Buy[SP]armor\n[1210][U+036A]Buy[SP]accessories\nSell[SP]items\nTalk[SP]to[SP]the[SP]saleswoman\nNever[SP]mind\nLeave[SP]the[SP]store",
     "nom_fr": "Vendeuse",
-    "texte_fr": "Autre chose ?\n[1208][0006]Acheter armures\n[1210][U+036A]Acheter accessoires\nVendre objets\nParler\nRien\nQuitter",
+    "texte_fr": "Autre chose ?\n[1208][0006]Armures\n[1210][U+036A]Accessoires\nVendre\nParler\nRien\nQuitter",
     "question_orig": "Anything[SP]else?",
     "choix_orig": [
       "Buy[SP]armor",
@@ -173,14 +173,14 @@
       "Leave[SP]the[SP]store"
     ],
     "count_tag": "[0006]",
-    "question_fr": "Autre chose ?",
+    "question_fr": "",
     "choix_fr": [
-      "Acheter armures",
-      "[1210]Acheter accessoires",
-      "Vendre objets",
-      "Parler",
-      "Rien",
-      "Quitter"
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {

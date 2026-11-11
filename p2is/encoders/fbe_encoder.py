@@ -175,12 +175,51 @@ def _corps_queue(t: str):
     return (t, "") if not m else (t[: m.start()], m.group(1))
 
 
+_OCTETS_INTERCALES = re.compile(r"\[(?:B_|U\+)[0-9A-Fa-f]+\]")
+
+
+def _sur_place(data: bytes, start: int, end: int, entry: dict):
+    """Réplique qui ne commence pas sur une limite de segment (plusieurs répliques
+    dans le même segment) : on remplace son texte à taille identique, sans toucher
+    aux octets de longueur. Seulement si la région redonne exactement l'anglais et
+    ne contient ni commande de segment ni octet de longueur intercalé."""
+    region = bytes(data[start:end])
+    nom_o = entry.get("nom_orig") or ""
+    en = entry.get("texte_orig") or ""
+    if (not nom_o or SEG in region or _OCTETS_INTERCALES.search(nom_o + en)
+            or text_to_bytes('"' + nom_o + "\n" + en) != region):
+        return None, "format de segments inattendu"
+    texte = (entry.get("texte_fr") or "").strip("\r")
+    if not texte.strip():
+        return None, "pas de traduction"
+    corps_en, queue = _corps_queue(en)
+    corps, _ = _corps_queue(texte)
+    if _tags(corps) != _tags(corps_en):
+        return None, "balises de controle differentes de l'original"
+    nom = (entry.get("nom_fr") or nom_o).strip()
+    fin = text_to_bytes(queue)
+    raccourci = False
+    while True:
+        debut = text_to_bytes('"' + nom + "\n" + corps)
+        reste = len(region) - len(debut) - len(fin)
+        if reste >= 0 and reste % 2 == 0:
+            out = debut + text_to_bytes("[SP]") * (reste // 2) + fin
+            return bytes(data[start - 1:start]) + out, ("raccourcie" if raccourci else "ok")
+        mots = [m for m in re.split(r"(\[[^\]]+\]|\n)", corps) if m]
+        idx = max((i for i, m in enumerate(mots) if not (m.startswith("[") or m == "\n")), default=-1)
+        if idx < 0 or not mots[idx]:
+            return None, "trop long meme sans texte"
+        mots[idx] = mots[idx][:-1]
+        corps = "".join(mots)
+        raccourci = True
+
+
 def encoder_bloc(data: bytes, start: int, size: int, entry: dict):
     """Octets FR du bloc (même taille), ou (None, raison)."""
     end = start + size
     dec = decouper(data, start, end)
     if dec is None:
-        return None, "format de segments inattendu"
+        return _sur_place(data, start, end, entry)
     segs, fin_type = dec
     orig_tail = bytes(data[end - 5:end]) if fin_type == "commande" else b""
     region_orig = bytes(data[start - 1:end])
