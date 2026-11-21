@@ -17,7 +17,7 @@
 > Ce dictionnaire est la référence absolue du projet. Tout contributeur est tenu d'utiliser exclusivement ces traductions, validées par la direction du projet. Aucune traduction alternative ne doit être introduite dans les scripts sans approbation préalable.
 
 > [!TIP]
-> Utilisez `Ctrl+F` pour naviguer rapidement. Sur le **[Site de Relecture P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/dictionnaire.html)**, ce dictionnaire est intégré nativement et vérifié automatiquement lors de la saisie.
+> Utilisez `Ctrl+F` pour naviguer rapidement. Sur le **[Site de Relecture P2IS FR](https://codebyhaamza.github.io/p2is-relecture/dictionnaire.html)**, ce dictionnaire est intégré nativement et vérifié automatiquement lors de la saisie.
 
 <br/>
 

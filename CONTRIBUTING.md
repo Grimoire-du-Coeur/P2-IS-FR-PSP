@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Statut-Ouvert_aux_contributions-2ea043?style=for-the-badge" alt="Statut" />
 <a href="https://discord.gg/rd4ckSWHNm"><img src="https://img.shields.io/discord/1400909421609095323?color=5865F2&label=Discord&logo=discord&logoColor=white&style=flat-square" alt="Discord" /></a>
-<a href="https://hamzakarrouchi.github.io/p2is-relecture/"><img src="https://img.shields.io/badge/Outil_de_Relecture-En_Ligne-009688?style=for-the-badge" alt="Outil de Relecture" /></a>
+<a href="https://codebyhaamza.github.io/p2is-relecture/"><img src="https://img.shields.io/badge/Outil_de_Relecture-En_Ligne-009688?style=for-the-badge" alt="Outil de Relecture" /></a>
 
 </div>
 
@@ -84,11 +84,11 @@ Le fichier est découpé en 7 parties (~1 000 entrées chacune) dans le dossier 
 
 ## L'Outil de Relecture en Ligne
 
-Pour éviter que les contributeurs ne manipulent directement les fichiers JSON bruts, une application web dédiée a été développée par **@HamzaKarrouchi**.
+Pour éviter que les contributeurs ne manipulent directement les fichiers JSON bruts, une application web dédiée a été développée par **[@CodeByHaamza](https://github.com/CodeByHaamza)**.
 
 > [!IMPORTANT]
-> **Accéder à l'outil :** [Site de Relecture P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/)  
-> **Le Glossaire Officiel :** [Dictionnaire P2IS FR](https://hamzakarrouchi.github.io/p2is-relecture/dictionnaire.html)
+> **Accéder à l'outil :** [Site de Relecture P2IS FR](https://codebyhaamza.github.io/p2is-relecture/)  
+> **Le Glossaire Officiel :** [Dictionnaire P2IS FR](https://codebyhaamza.github.io/p2is-relecture/dictionnaire.html)
 
 Cet outil est obligatoire pour toute contribution car il :
 

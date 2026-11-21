@@ -21,7 +21,7 @@
 
 Créateur et pilier du projet depuis l'origine. Responsable de l'intégralité du travail de reverse-engineering : extraction, analyse du bytecode Atlus, développement de la chaîne d'outils (labs/tool, labs/image, labs/audio, p2is_cpk_tool, patcher), et coordination générale du projet.
 
-### [@HamzaKarrouchi](https://github.com/HamzaKarrouchi) - Développeur & Traducteur Principal
+### [@CodeByHaamza](https://github.com/CodeByHaamza) - Développeur & Traducteur Principal
 
 A abattu un travail considérable sur les scripts du jeu, atteignant et validant les 100% de complétion de l'histoire. A harmonisé la terminologie sur l'ensemble des fichiers traduits. A développé de zéro la plateforme web de relecture « P2IS Relecture » pour centraliser et sécuriser le travail collaboratif de l'équipe.
 
