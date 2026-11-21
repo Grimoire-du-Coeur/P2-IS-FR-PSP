@@ -14,7 +14,7 @@
     <stop offset="0" stop-color="#ffe3a3"/><stop offset="1" stop-color="#f2b544"/>
   </linearGradient>
   <filter id="lueur" x="-1" y="-1" width="3" height="3">
-    <feGaussianBlur stdDeviation="2" result="flou"/>
+    <feGaussianBlur stdDeviation="2.2" result="flou"/>
     <feMerge><feMergeNode in="flou"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
   <clipPath id="ligne-masque"><rect x="0" y="20" width="1200" height="6"/></clipPath>
