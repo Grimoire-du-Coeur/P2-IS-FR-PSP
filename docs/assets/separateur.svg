@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="46" viewBox="0 0 1200 46" role="img" aria-label="">
+<defs>
+  <linearGradient id="ligne" x1="0" x2="1">
+    <stop offset="0" stop-color="#e0391a" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#e0391a"/>
+    <stop offset="1" stop-color="#e0391a" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="eclat" x1="0" x2="1">
+    <stop offset="0" stop-color="#ffe3a3" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#ffe3a3"/>
+    <stop offset="1" stop-color="#ffe3a3" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="or" x1="0" y1="-1" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffe3a3"/><stop offset="1" stop-color="#f2b544"/>
+  </linearGradient>
+  <filter id="lueur" x="-1" y="-1" width="3" height="3">
+    <feGaussianBlur stdDeviation="2" result="flou"/>
+    <feMerge><feMergeNode in="flou"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="ligne-masque"><rect x="0" y="20" width="1200" height="6"/></clipPath>
+</defs>
+<style>
+  .eclat { animation: eclat 4.5s ease-in-out infinite; }
+  @keyframes eclat { from { transform: translateX(-200px); } to { transform: translateX(1200px); } }
+  .aile { transform-origin: 0 0; animation: bat .55s ease-in-out infinite alternate; }
+  @keyframes bat { from { transform: scaleX(1); } to { transform: scaleX(.22); } }
+  @media (prefers-reduced-motion: reduce) { .eclat, .aile { animation: none; transform: none; } .eclat { opacity: 0; } }
+</style>
+<rect x="0" y="22" width="1200" height="2" fill="url(#ligne)"/>
+<g clip-path="url(#ligne-masque)"><rect class="eclat" x="0" y="21" width="160" height="4" fill="url(#eclat)"/></g>
+<g transform="translate(600 24)"><g class="p" fill="url(#or)" filter="url(#lueur)"><g class="aile"><path d="M0,-1 C5,-15 21,-19 19,-6 C18,0 8,2 0,0 Z"/><path d="M0,1 C8,2 16,8 11,15 C7,19 2,10 0,3 Z"/></g><g transform="scale(-1,1)"><g class="aile"><path d="M0,-1 C5,-15 21,-19 19,-6 C18,0 8,2 0,0 Z"/><path d="M0,1 C8,2 16,8 11,15 C7,19 2,10 0,3 Z"/></g></g><ellipse cx="0" cy="2" rx="1.6" ry="7.5" fill="#ffe3a3"/><path d="M-.6,-5 C-3,-11 -5,-13 -7,-14 M.6,-5 C3,-11 5,-13 7,-14" stroke="#ffe3a3" stroke-width="1" fill="none"/></g></g>
+</svg>
