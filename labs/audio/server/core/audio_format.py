@@ -63,6 +63,25 @@ def detect_audio_format(data: bytes) -> str:
         return ".ogg"
     return ".bin"
 
+def copies_identiques(bin_path: str, toc_entries: list, entry_idx: int) -> list:
+    """Offsets de toutes les pistes au contenu identique à entry_idx (elle comprise).
+
+    Lit le BIN d'origine : la comparaison se fait sur les données avant injection.
+    """
+    offset, size = toc_entries[entry_idx]
+    with open(bin_path, "rb") as f:
+        f.seek(offset)
+        ref = f.read(size)
+        offsets = []
+        for e in toc_entries:
+            if not e or e[1] != size or e[0] in offsets:
+                continue
+            f.seek(e[0])
+            if f.read(size) == ref:
+                offsets.append(e[0])
+    return offsets
+
+
 def inject_wav_into_bin(bin_path: str, entry_idx: int, new_wav_data: bytes,
                          toc_entries: list, toc_end: int,
                          out_bin_path: str, log_fn=None) -> bool:
@@ -109,14 +128,22 @@ def inject_wav_into_bin(bin_path: str, entry_idx: int, new_wav_data: bytes,
                     idx += 8 + chunk_size
             padded_wav = bytes(truncated)
             
-        # 3. Ecrire par-dessus l'ancienne piste
+        # 3. Ecrire par-dessus l'ancienne piste, et par-dessus ses copies identiques.
+        # Le jeu stocke certaines pistes en double à des offsets DIFFÉRENTS (ex. 2 et 146 :
+        # une copie pour la musique « Original », une pour « Remix »). Ne remplacer qu'une
+        # copie laisse l'autre jouer en jeu (issue #505).
+        cibles = copies_identiques(bin_path, toc_entries, entry_idx)
         with open(out_bin_path, "r+b") as f_out:
-            # Remplacer TOUTES les occurrences de cet offset si la piste est dupliquée (ex: 2 et 146)
-            # En in-place, si on modifie l'offset physique, on modifie automatiquement TOUTES les pistes qui pointent dessus !
-            f_out.seek(orig_offset)
-            f_out.write(padded_wav)
-            
-        if log_fn: log_fn(f"Injection réussie à l'offset {orig_offset}.", "INFO")
+            for offset in cibles:
+                f_out.seek(offset)
+                f_out.write(padded_wav)
+
+        if log_fn:
+            log_fn(f"Injection réussie à l'offset {orig_offset}.", "INFO")
+            autres = [i for i, e in enumerate(toc_entries)
+                      if e and e[0] in cibles and i != entry_idx]
+            if autres:
+                log_fn(f"Copies identiques remplacées aussi : pistes {autres}.", "INFO")
         return True
         
     except Exception as e:
