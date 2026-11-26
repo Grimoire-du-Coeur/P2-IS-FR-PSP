@@ -268,10 +268,11 @@ rien à installer, et l'ISO ne quitte jamais la machine.
 
 | Document | Contenu |
 |:---|:---|
+| [Accueil.md](docs/Accueil.md) | point d'entrée de la doc (s'ouvre aussi comme coffre Obsidian) |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | guide de contribution et règles de traduction |
 | [Dictionnaire.md](docs/Dictionnaire.md) | glossaire officiel : la référence |
 | [DEVELOPER.md](docs/DEVELOPER.md) | architecture, reverse-engineering du moteur, formats, opcodes |
-| [ANALYSE.md](docs/ANALYSE.md) | analyse des formats et des données du jeu |
+| [ANALYSE.md](docs/ANALYSE.md) | audit du dépôt d'octobre 2026 (archive) |
 | [SUIVI.md](docs/SUIVI.md) | historique des versions et notes de patch |
 | [CREDITS.md](docs/CREDITS.md) | l'équipe et les contributeurs |
 

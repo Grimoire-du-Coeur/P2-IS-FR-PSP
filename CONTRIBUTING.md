@@ -43,8 +43,11 @@
 | `event.bin` | 399 scripts d'histoire | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
 | `MMAP01` à `MMAP06` | Dialogues sur les cartes | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
 | `CD_SHOP.BNP` | Boutique de CD / musique | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| `F_BE.BNP` | Répliques de combat | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
-| `TM_EVE.BNP` | Cinématiques in-game | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| `DNGSCN.BNP` | PNJ du lycée et des donjons | ~97% | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) |
+| `P_DEMO.BNP` | Textes de démonstration | 100% | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| `F_BE.BNP` | Répliques de combat | 159/160 | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) |
+| `TM_EVE.BNP` | Réponses des démons (Contacts) | ~85% | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) |
+| `q00.bin` | Climax Theater (mode Quête) | 0% | ![](https://img.shields.io/badge/-Prévu%20avec%20les%20DLC-lightgrey?style=flat-square) |
 
 ### EBOOT.BIN - Textes Système
 
@@ -73,10 +76,10 @@ Le fichier est découpé en 7 parties (~1 000 entrées chacune) dans le dossier 
 
 | Composant | Intégration | Accents supportés | Progression | Statut |
 |:---|:---:|:---|:---:|:---|
-| Textures HD | Oui | - | 35/42 | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) |
+| Pack HD (PPSSPP) | Oui | - | beta 0.3 | ![](https://img.shields.io/badge/-En%20cours-0366d6?style=flat-square) |
 | Police HD (Accents FR) | Oui | é à ê è ç î ï ù ô + majuscules | 100% | ![](https://img.shields.io/badge/-Terminé%20(Bugs)-e1ad01?style=flat-square) |
-| Textures ISO | Non | - | 0/42 | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
-| Police ISO (Accents FR) | Oui | N/A | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
+| Images natives (ISO) | Oui | - | 31 images | ![](https://img.shields.io/badge/-Terminé-2ea043?style=flat-square) |
+| Police native (vraie PSP) | Non | aucun : les accents ne s'affichent qu'avec le Pack HD | 0% | ![](https://img.shields.io/badge/-Non%20démarré-critical?style=flat-square) |
 
 <br/>
 
@@ -94,7 +97,7 @@ Cet outil est obligatoire pour toute contribution car il :
 
 - Affiche simultanément le texte anglais original et votre proposition française
 - Intègre un compteur dynamique d'octets qui vous alerte si votre texte dépasse la limite du moteur
-- Vérifie automatiquement la terminologie par rapport au [Dictionnaire.md](./Dictionnaire.md)
+- Vérifie automatiquement la terminologie par rapport au [Dictionnaire.md](docs/Dictionnaire.md)
 - Génère un bloc de texte prêt à être soumis sans manipuler de fichiers JSON manuellement
 
 <br/>
@@ -148,7 +151,7 @@ Les accents sont entièrement supportés : `é à ê è ç î ï ù ô` et leurs
 ### Style et Registre
 
 - Registre : familier ou neutre selon le personnage. Évitez le registre soutenu sauf pour les personnages qui l'exigent (Philémon, certains antagonistes).
-- Noms propres : respectez scrupuleusement le [Dictionnaire.md](./Dictionnaire.md). Aucune traduction alternative sans validation de l'équipe.
+- Noms propres : respectez scrupuleusement le [Dictionnaire.md](docs/Dictionnaire.md). Aucune traduction alternative sans validation de l'équipe.
 - Ponctuation : appliquer les règles typographiques françaises (espace insécable avant `?`, `!`, `:`, `;`).
 
 <br/>
@@ -174,4 +177,4 @@ Les textes bruts contiennent des balises entre crochets représentant des opcode
 | `[NL]` / `\n` | Saut de ligne | Structure les blocs de texte longs |
 | `[U+XXXX]` | Opcode inconnu (fallback) | Laisser exactement à sa position originale |
 
-Pour la liste complète des opcodes et leur description technique, voir [DEVELOPER.md](./DEVELOPER.md).
+Pour la liste complète des opcodes et leur description technique, voir [DEVELOPER.md](docs/DEVELOPER.md).

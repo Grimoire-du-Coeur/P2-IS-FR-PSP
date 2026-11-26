@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Version_Actuelle-BÊTA_v0.2.8-e0391a?style=for-the-badge" alt="Version actuelle" />
+<img src="https://img.shields.io/badge/Version_Actuelle-BÊTA_v0.3.5-e0391a?style=for-the-badge" alt="Version actuelle" />
 <img src="https://img.shields.io/badge/Statut-Relecture_en_cours-e0391a?style=for-the-badge" alt="Statut" />
 
 </div>
@@ -14,7 +14,33 @@
 <br/>
 
 > [!NOTE]
-> Ce document retrace l'historique complet des versions publiées, leurs corrections techniques, et les grandes étapes du projet. Pour le tableau d'avancement en temps réel, voir [CONTRIBUTING.md](./CONTRIBUTING.md).
+> Ce document résume chaque version publiée. Les notes complètes sont sur la page
+> [Releases](https://github.com/Grimoire-du-Coeur/P2-IS-FR-PSP/releases).
+> Pour contribuer, voir [CONTRIBUTING.md](../CONTRIBUTING.md).
+
+> [!IMPORTANT]
+> **Prenez toujours la dernière version.** Les v0.3.1 et antérieures ont des
+> plantages connus (chargement infini au parc d'Aoba, PC de Baofu) corrigés depuis la v0.3.3.
+
+<br/>
+
+---
+
+## État d'Avancement
+
+| Fichier / Composant | Contenu | Progression |
+|:---|:---|:---:|
+| `event.bin` | 399 scripts d'histoire | **100 %** |
+| `MMAP01` à `MMAP06` | Dialogues des PNJ sur les cartes | **100 %** |
+| `DNGSCN.BNP` | PNJ du lycée et des donjons | **~97 %** |
+| `P_DEMO.BNP` | Textes de démonstration | **100 %** |
+| `CD_SHOP.BNP` | Boutique de CD | **100 %** |
+| `F_BE.BNP` | Répliques de combat | **159 / 160** |
+| `TM_EVE.BNP` | Réponses des démons (Contacts) | **~85 %** (format complexe pour le reste) |
+| `EBOOT.BIN` | Menus, noms, descriptions (6 574 entrées) | **~100 %** |
+| Images natives (ISO) | Menus, combat, boutiques | **31 images** |
+| Pack HD (PPSSPP) | Interface haute définition | **beta 0.3** |
+| `q00.bin` | Climax Theater (mode Quête) | **Prévu avec les quêtes DLC** |
 
 <br/>
 
@@ -25,23 +51,21 @@
 ```mermaid
 timeline
     title Historique du Projet
-    Mars 2026 : 14/03 - Premier teaser (hykalys)
-              : 15/03 - Création du projet et du dépôt GitHub
-              : 16/03 - Annonce sur X et dairoku_kizashi56
-              : 17/03 - Dictionnaire de lore et Gyotre
-              : 22/03 - ArsenetheIV présente le projet
-              : 29/03 - 63.7% du jeu traduit (162 scripts)
-    Avril 2026 : 17/04 - Premier aperçu de gameplay
-               : 19/04 - Arati présente le projet
-               : 21/04 - 78% de traduction (225 scripts)
-    Juin 2026 : 05/06 - 100% de l'histoire principale traduite
-              : 22/06 - Lancement de l'outil de relecture collaboratif
-    Juillet 2026 : 10/07 - Sortie BÊTA v0.1 (jouable à 100%)
-                 : 15/07 - Tutoriel d'installation vidéo
-                 : 17/07 - BÊTA v0.1.1 (auto-wrap, typographie)
-                 : 19/07 - Bilan de l'avancement sur X
-                 : 21/07 - BÊTA v0.1.2 (correction crashs mémoire)
-                 : 24/07 - BÊTA v0.1.3 (révision scénario, sauts de ligne)
+    Mars 2026 : Création du projet et du dépôt
+              : 63,7 % du jeu traduit
+    Avril 2026 : Premier aperçu de gameplay
+               : 78 % de traduction
+    Mai 2026 : Pack HD FR v0.1
+    Juin 2026 : 100 % de l'histoire traduite
+              : Outil de relecture collaboratif
+    Juillet 2026 : BÊTA v0.1 (jouable à 100 %)
+                 : v0.1.1 à v0.1.3
+    Août 2026 : v0.2.0 (début de l'EBOOT, outils 100 % Python)
+              : v0.2.1 à v0.2.4
+    Septembre 2026 : v0.2.5 à v0.2.7 (histoire débloquée, menus système)
+    Octobre 2026 : v0.2.8 (0 dépassement mémoire)
+    Novembre 2026 : v0.3.0 (images natives, combats, Contacts)
+                  : v0.3.1 à v0.3.5 (PNJ des donjons, correctifs de plantage)
 ```
 
 <br/>
@@ -50,71 +74,62 @@ timeline
 
 ## Historique des Versions
 
+### BÊTA v0.3.5 - *Novembre 2026*
+Correctifs des issues GitHub (noms de démons harmonisés, accents), robot des crédits réparé, documentation remise à jour.
+
+### BÊTA v0.3.4 - *Novembre 2026*
+Plus aucune réplique de l'histoire coupée (13 réécrites), menu de la boutique de vêtements raccourci, 21 réponses de démons de plus en français (94), une réplique de combat de plus (159/160).
+
+### BÊTA v0.3.3 - *Novembre 2026*
+**Correctif critique.** L'outil des menus écrasait des données du jeu juste après certains textes : chargement infini au parc d'Aoba, sauvegardes qui ne se rechargent pas, plantage après Igor. Corrigé et vérifié par un test. Plantage du **PC de Baofu** corrigé, menus du PC traduits.
+
+### BÊTA v0.3.2 - *Novembre 2026*
+Version de test interne, remplacée par la v0.3.3.
+
+### BÊTA v0.3.1 - *7 Novembre 2026*
+PNJ du lycée et des donjons traduits (`DNGSCN.BNP`), énigme de la forêt des divinités gardiennes jouable en français, Personae et profils. *Contient les plantages corrigés en v0.3.3.*
+
+### BÊTA v0.3.0 + Pack HD beta 0.3 - *6 Novembre 2026*
+31 images traduites directement dans l'ISO (visibles sur vraie PSP), nouveau Pack HD, 95 répliques de combat (`F_BE`) traduites avec un encodeur réécrit, Contacts (`TM_EVE`) et CD Shop traduits.
+
+### BÊTA v0.2.8 - *10 Octobre 2026*
+0 dépassement mémoire sur 100 % des scripts d'histoire (393 répliques condensées), suppression de textes parasites collés dans les dialogues (Concierge, Jun dans les temples...).
+
+### BÊTA v0.2.7 - *27 Septembre 2026*
+Fin des caractères glitchés entre les répliques (`LL"`, `ΓΓ"`), boutique de Tony nettoyée, coupures et débordements corrigés.
+
+### BÊTA v0.2.6 - *19 Septembre 2026*
+Menus de base et réglages traduits (EBOOT), 62 boutiques nettoyées, écran titre complet.
+
+### BÊTA v0.2.5 - *15 Septembre 2026*
+Crashs du Musée et de Baofu corrigés (histoire débloquée), word-wrap limité à 3 lignes sur les 399 scripts.
+
+### BÊTA v0.2.4 - *30 Août 2026*
+303 menus de boutiques réparés, `]Acheter` supprimé, noms des Sœurs harmonisés, débordements corrigés.
+
+### BÊTA v0.2.3 - *30 Août 2026*
+L'encodeur gère le format `EBOOT_decoupe`, choix de menus plus tronqués, 34 menus corrompus réparés, ponctuation harmonisée.
+
+### BÊTA v0.2.2 - *22 Août 2026*
+Menus de rumeurs réparés (pointeurs absolus), noms de PNJ nettoyés, pagination refaite sur 1 018 boîtes.
+
+### BÊTA v0.2.1 - *21 Août 2026*
+Balises inversées corrigées sur 1 800 lignes, alignement mémoire, `É` majuscule, points de suspension automatiques.
+
+### BÊTA v0.2.0 - *19 Août 2026*
+Début de la traduction de l'EBOOT (14 %), 690 balises repositionnées, plus besoin d'outils Windows externes : tout est en Python.
+
 ### BÊTA v0.1.3 - *24 Juillet 2026*
-
-**Révision scénario et corrections d'affichage.**
-
-- Révision complète des textes du scénario principal sur l'ensemble des 399 scripts
-- Correction des sauts de ligne incorrects dans les boîtes de dialogue longues
-- Préparation technique de la traduction des menus (EBOOT)
-
----
+Révision du scénario sur les 399 scripts, sauts de ligne corrigés.
 
 ### BÊTA v0.1.2 - *21 Juillet 2026*
-
-**Mise à jour critique - Stabilité, encodage et rendu.**
-
-- **Correction du glitch mémoire** : Refonte du padding de fin de dialogue. Les espacements utilisent désormais des `[SP]` invisibles au lieu d'octets nuls (`0x0000`) qui faisaient crasher le CPU de la PSP
-- **Gestion du défilement** : Repositionnement des balises de terminaison `[E1][E2]` en fin de bloc `[E3]` - 35 fichiers corrigés
-- **Boîtes de choix stabilisées** : Nettoyage des balises de mise en page mal injectées dans les listes `[1208]` - 87 fichiers corrigés
-- **Typographie et nameplates** : Conversion des caractères spéciaux vers ASCII et correction des retours à la ligne après les noms `[E4]` - 50 fichiers corrigés
-- **Tronquage automatique** : Limitation stricte à 3 lignes par boîte pour éviter les débordements visuels
-
----
+Correction des crashs mémoire (padding `[SP]` au lieu d'octets nuls), boîtes de choix stabilisées.
 
 ### BÊTA v0.1.1 - *17 Juillet 2026*
-
-**Mise à jour mineure - Optimisation et correction de texte.**
-
-- **Auto-wrap** : Système de retour à la ligne automatique pour que le texte s'adapte aux boîtes de dialogue sans intervention manuelle
-- **Révision typographique** : Ajout des espaces insécables avant la ponctuation double (`?`, `!`, `:`, `;`), ajustement des apostrophes typographiques
-- **Résolution des troncatures** : Correction des bugs visuels qui coupaient la fin de certaines répliques
-
----
+Retour à la ligne automatique, révision typographique.
 
 ### BÊTA v0.1 - *10 Juillet 2026*
-
-**Première version bêta publique.**
-
-- Jouable du début à la fin sur l'intégralité du scénario principal (`event.bin` à 100%)
-- Dialogues de PNJ sur les cartes partiellement intégrés
-- Textes de combat et menus (EBOOT) encore en cours d'intégration
-
----
+Première bêta publique, jouable du début à la fin.
 
 ### Pack HD FR v0.1 - *6 Mai 2026*
-
-**Première sortie du pack de textures françaises.**
-
-- Traduction des menus et éléments de l'interface en haute définition
-- À superposer sur le pack HD original de racawr dans PPSSPP
-
-<br/>
-
----
-
-## État d'Avancement Global
-
-| Fichier / Composant | Contenu | Progression |
-|:---|:---|:---:|
-| `event.bin` | 399 scripts d'histoire | **100%** |
-| `MMAP01` à `MMAP06` | Dialogues PNJ sur les cartes | **100%** |
-| `CD_SHOP.BNP` | Boutique de CD | **100%** |
-| `F_BE.BNP` | Répliques de combat | **100%** |
-| `TM_EVE.BNP` | Cinématiques in-game scriptées | **100%** |
-| `EBOOT.BIN` | Menus, noms, descriptions (6574 entrées) | **~15%** |
-| Textures HD | Interface graphique haute définition | **35/42** |
-| Textures ISO | Éléments graphiques embarqués dans l'ISO | **0/42** |
-
-> [!IMPORTANT]
-> L'EBOOT.BIN est le dernier grand chantier restant. Sa traduction complète marquera la couverture textuelle à 100% du jeu.
+Premières textures françaises, à superposer sur le pack HD anglais de Karasu.

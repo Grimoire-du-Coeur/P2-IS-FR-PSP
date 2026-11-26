@@ -198,7 +198,7 @@ def extract_event_from_cpk(cpk_path: str, out_dir: Path, log_fn) -> str:
         idx = found + 1
     if best == -1:
         raise Exception(
-            "Impossible de localiser event.bin dans le CPK automatiquement.\n→ Extrais event.bin manuellement avec CriFsLib puis charge-le à l'étape D."
+            "Impossible de localiser event.bin dans le CPK automatiquement.\n→ Vérifie que l'ISO est bien l'originale (ULES01557)."
         )
     entries = []
     i = best
