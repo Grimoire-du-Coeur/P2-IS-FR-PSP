@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Version_Actuelle-BÊTA_v0.3.5-e0391a?style=for-the-badge" alt="Version actuelle" />
+<img src="https://img.shields.io/badge/Version_Actuelle-BÊTA_v0.3.2-e0391a?style=for-the-badge" alt="Version actuelle" />
 <img src="https://img.shields.io/badge/Statut-Relecture_en_cours-e0391a?style=for-the-badge" alt="Statut" />
 
 </div>
@@ -20,7 +20,7 @@
 
 > [!IMPORTANT]
 > **Prenez toujours la dernière version.** Les v0.3.1 et antérieures ont des
-> plantages connus (chargement infini au parc d'Aoba, PC de Baofu) corrigés depuis la v0.3.3.
+> plantages connus (chargement infini au parc d'Aoba, PC de Baofu) corrigés dans la v0.3.2.
 
 <br/>
 
@@ -65,7 +65,7 @@ timeline
     Septembre 2026 : v0.2.5 à v0.2.7 (histoire débloquée, menus système)
     Octobre 2026 : v0.2.8 (0 dépassement mémoire)
     Novembre 2026 : v0.3.0 (images natives, combats, Contacts)
-                  : v0.3.1 à v0.3.5 (PNJ des donjons, correctifs de plantage)
+                  : v0.3.1 (PNJ des donjons) et v0.3.2 (correctifs de plantage)
 ```
 
 <br/>
@@ -74,20 +74,11 @@ timeline
 
 ## Historique des Versions
 
-### BÊTA v0.3.5 - *Novembre 2026*
-Correctifs des issues GitHub (noms de démons harmonisés, accents), robot des crédits réparé, documentation remise à jour.
-
-### BÊTA v0.3.4 - *Novembre 2026*
-Plus aucune réplique de l'histoire coupée (13 réécrites), menu de la boutique de vêtements raccourci, 21 réponses de démons de plus en français (94), une réplique de combat de plus (159/160).
-
-### BÊTA v0.3.3 - *Novembre 2026*
-**Correctif critique.** L'outil des menus écrasait des données du jeu juste après certains textes : chargement infini au parc d'Aoba, sauvegardes qui ne se rechargent pas, plantage après Igor. Corrigé et vérifié par un test. Plantage du **PC de Baofu** corrigé, menus du PC traduits.
-
 ### BÊTA v0.3.2 - *Novembre 2026*
-Version de test interne, remplacée par la v0.3.3.
+**Correctif critique, à installer absolument.** L'outil des menus écrasait des données du jeu juste après certains textes : chargement infini au parc d'Aoba, sauvegardes qui ne se rechargent pas, plantage après Igor. Corrigé et vérifié par un test. Plantage du **PC de Baofu** corrigé, menus du PC traduits. Plus aucune réplique de l'histoire coupée (13 réécrites), 94 réponses de démons en français, 159 répliques de combat sur 160. « ï » qui s'affichait « ü » corrigé, Papa Métal / Mama Métal et « Fainéant » harmonisés.
 
 ### BÊTA v0.3.1 - *7 Novembre 2026*
-PNJ du lycée et des donjons traduits (`DNGSCN.BNP`), énigme de la forêt des divinités gardiennes jouable en français, Personae et profils. *Contient les plantages corrigés en v0.3.3.*
+PNJ du lycée et des donjons traduits (`DNGSCN.BNP`), énigme de la forêt des divinités gardiennes jouable en français, Personae et profils. *Contient les plantages corrigés en v0.3.2.*
 
 ### BÊTA v0.3.0 + Pack HD beta 0.3 - *6 Novembre 2026*
 31 images traduites directement dans l'ISO (visibles sur vraie PSP), nouveau Pack HD, 95 répliques de combat (`F_BE`) traduites avec un encodeur réécrit, Contacts (`TM_EVE`) et CD Shop traduits.
