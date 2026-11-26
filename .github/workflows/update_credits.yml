@@ -1,15 +1,22 @@
 name: Update Credits Stats
 
+# Met à jour les statistiques de docs/CREDITS.md.
+# main est protégée : le robot ne pousse pas dessus directement, il ouvre
+# (ou met à jour) une seule PR sur la branche bot/credits, à fusionner à la main.
+# Réglage requis : Settings > Actions > General >
+# « Allow GitHub Actions to create and approve pull requests ».
+
 on:
   schedule:
-    - cron: '0 0 * * *' # S'exécute tous les jours à minuit UTC
-  workflow_dispatch: # Permet de lancer l'action manuellement depuis l'interface GitHub
+    - cron: '0 0 * * 1' # Chaque lundi à minuit UTC
+  workflow_dispatch: # Lancement manuel depuis l'onglet Actions
 
 permissions:
-  contents: write # Autorise le robot à écrire et pousser sur le dépôt
+  contents: write
+  pull-requests: write
 
 jobs:
-  update-readme:
+  update-credits:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout du dépôt
@@ -20,14 +27,18 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Lancer le script de mise à jour des statistiques
+      - name: Calcul des statistiques
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m p2is.outils.update_contributors
 
-      - name: Commit et Push des changements (si modifications)
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/CREDITS.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: mise à jour quotidienne des statistiques des contributeurs" && git push)
+      - name: PR des statistiques (si modifications)
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: bot/credits
+          delete-branch: true
+          add-paths: docs/CREDITS.md
+          commit-message: "auto: mise à jour des statistiques des contributeurs"
+          title: "auto: statistiques des contributeurs"
+          body: "Mise à jour automatique de `docs/CREDITS.md`. À fusionner quand vous voulez."
+          author: "github-actions[bot] <41898283+github-actions[bot]@users.noreply.github.com>"

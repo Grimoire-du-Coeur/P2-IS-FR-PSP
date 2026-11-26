@@ -39,11 +39,9 @@ STRINGS = {
         "a_tip": "💡 Sélectionne ton fichier .iso original (ULES01557).",
         "a_btn": "⬇  Extraire P2PT_ALL.cpk",
         "b_title": "B — Extraire les fichiers du jeu",
-        "b_exe": "CriFsLib.GUI.exe :",
-        "b_dl_btn": "⬇  Télécharger CriFsLib",
-        "b_instr": "  1. Télécharge CriFsLib si besoin (bouton ci-dessus)\n  2. Clique « Ouvrir CriFsLib »\n  3. Glisse P2PT_ALL.cpk dans la fenêtre\n  4. Clic droit → Extract All\n  5. Extrais vers : <travail>/cpk_files/",
-        "b_tip": "💡 CriFsLib est requis pour cette étape.",
-        "b_btn": "🔧  Ouvrir CriFsLib",
+        "b_instr": "  Les fichiers de P2PT_ALL.cpk sont extraits directement vers <travail>/cpk_files/.",
+        "b_tip": "💡 Aucun outil externe requis.",
+        "b_btn": "⬇  Extraire les fichiers du CPK",
         "c_title": "C — Extraire les scripts du jeu",
         "c_cpk": "P2PT_ALL.cpk :",
         "c_note": "Sortie : <travail>/event.bin",
@@ -105,24 +103,19 @@ STRINGS = {
         "w_no_cpk": "Sélectionne le fichier P2PT_ALL.cpk.",
         "w_no_event": "Sélectionne le fichier event.bin.",
         "w_no_scripts": "Sélectionne le dossier scripts_bin/.",
-        "w_no_cpkfiles": "Le dossier cpk_files/ est introuvable.\nComplète l'étape B (CriFsLib) avant.",
-        "w_no_crifsl": "CriFsLib.GUI.exe introuvable :\n{p}\nVérifie le chemin ci-dessus.",
+        "w_no_cpkfiles": "Le dossier cpk_files/ est introuvable.\nComplète l'étape B avant.",
         "w_fill_all": "Remplis tous les champs avant de continuer.",
         "w_no_iso2": "ISO originale introuvable :\n{p}",
         "w_no_encoded": "Dossier encoded/ introuvable :\n{p}\nComplète l'onglet ③ d'abord.",
         "w_no_eventbin": "event.bin absent de encoded/.\nComplète l'encodage (onglet ③) d'abord.",
         # Messages de fin
-        "ok_cpk": "CPK extrait ({s} MB) :\n{p}\n\n→ Étape suivante : ouvrir CriFsLib (B).",
-        "ok_crifsl": "CriFsLib est ouvert.\n→ Glisse P2PT_ALL.cpk, extrais vers cpk_files/.",
+        "ok_cpk": "CPK extrait ({s} MB) :\n{p}\n\n→ Étape suivante : extraire ses fichiers (B).",
         "ok_event": "event.bin extrait :\n{p}\n\n→ Étape suivante : extraire les scripts (D).",
         "ok_scripts": "{n} scripts extraits dans :\n{p}\n\n→ Passe à l'onglet ②.",
         "ok_decode": "Scripts décodés dans :\n{p}\n\n→ Traduis les JSON, puis onglet ③.",
         "ok_scan": "✓ {n} dialogues extraits.\nJSON dans : {p}\n\n→ Traduis, puis onglet ③.",
         "ok_encode": "✓ {n} fichier(s) encodé(s) : {f}\n{e}Sortie : {p}\n\n→ Passe à l'onglet ④.",
         "ok_rebuild": "✓ ISO traduite créée ({s} MB) :\n{p}\n\nLance-la dans PPSSPP !",
-        "log_crifsl1": "CriFsLib ouvert.",
-        "log_crifsl2": "  → Glisse P2PT_ALL.cpk dans la fenêtre",
-        "log_crifsl3": "  → Extraire vers : {p}",
     },
     "en": {
         "app_sub": "Fan translation tool  ·  Persona 2 IS PSP  ·  EUR ULES01557",
@@ -138,11 +131,9 @@ STRINGS = {
         "a_tip": "💡 Select your original .iso file (ULES01557).",
         "a_btn": "⬇  Extract P2PT_ALL.cpk",
         "b_title": "B — Extract game files",
-        "b_exe": "CriFsLib.GUI.exe:",
-        "b_dl_btn": "⬇  Download CriFsLib",
-        "b_instr": "  1. Download CriFsLib if needed (button above)\n  2. Click 'Open CriFsLib'\n  3. Drag P2PT_ALL.cpk into the window\n  4. Right-click → Extract All\n  5. Extract to: <workdir>/cpk_files/",
-        "b_tip": "💡 CriFsLib is required for this step.",
-        "b_btn": "🔧  Open CriFsLib",
+        "b_instr": "  P2PT_ALL.cpk files are extracted directly to <workdir>/cpk_files/.",
+        "b_tip": "💡 No external tool needed.",
+        "b_btn": "⬇  Extract CPK files",
         "c_title": "C — Extract game scripts",
         "c_cpk": "P2PT_ALL.cpk:",
         "c_note": "Output: <workdir>/event.bin",
@@ -198,23 +189,18 @@ STRINGS = {
         "w_no_cpk": "Please select the P2PT_ALL.cpk file.",
         "w_no_event": "Please select the event.bin file.",
         "w_no_scripts": "Please select the scripts_bin/ folder.",
-        "w_no_cpkfiles": "The cpk_files/ folder was not found.\nComplete step B (CriFsLib) first.",
-        "w_no_crifsl": "CriFsLib.GUI.exe not found:\n{p}\nCheck the path above.",
+        "w_no_cpkfiles": "The cpk_files/ folder was not found.\nComplete step B first.",
         "w_fill_all": "Please fill in all fields before continuing.",
         "w_no_iso2": "Original ISO not found:\n{p}",
         "w_no_encoded": "encoded/ folder not found:\n{p}\nComplete tab ③ first.",
         "w_no_eventbin": "event.bin missing from encoded/.\nComplete encoding (tab ③) first.",
-        "ok_cpk": "CPK extracted ({s} MB):\n{p}\n\n→ Next: open CriFsLib (B).",
-        "ok_crifsl": "CriFsLib is open.\n→ Drag P2PT_ALL.cpk in, extract to cpk_files/.",
+        "ok_cpk": "CPK extracted ({s} MB):\n{p}\n\n→ Next: extract its files (B).",
         "ok_event": "event.bin extracted:\n{p}\n\n→ Next: extract scripts (D).",
         "ok_scripts": "{n} scripts extracted to:\n{p}\n\n→ Move to tab ②.",
         "ok_decode": "Scripts decoded to:\n{p}\n\n→ Translate the JSON files, then go to tab ③.",
         "ok_scan": "✓ {n} dialogues extracted.\nJSON in: {p}\n\n→ Translate, then go to tab ③.",
         "ok_encode": "✓ {n} file(s) encoded: {f}\n{e}Output: {p}\n\n→ Move to tab ④.",
         "ok_rebuild": "✓ Translated ISO created ({s} MB):\n{p}\n\nLaunch it in PPSSPP!",
-        "log_crifsl1": "CriFsLib opened.",
-        "log_crifsl2": "  → Drag P2PT_ALL.cpk into the window",
-        "log_crifsl3": "  → Extract to: {p}",
     },
 }
 
@@ -233,19 +219,7 @@ def _default_work() -> Path:
     return Path.home() / "P2IS_FR"
 
 
-def _default_crifsl() -> str:
-    if platform.system() == "Windows":
-        return str(
-            Path(os.environ.get("USERPROFILE", Path.home()))
-            / "Desktop"
-            / "CriFsLib"
-            / "CriFsLib.GUI.exe"
-        )
-    return ""
-
-
 DEFAULT_WORK = _default_work()
-DEFAULT_CRIFSL = _default_crifsl()
 
 def assurer_dossiers() -> None:
     """Cree le dossier de travail. Appelee par l'application, pas a l'import.

@@ -75,8 +75,8 @@ ACCENT_MAP = [
     ("Û", "ĵ"),
     ("œ", "ë"),
     ("Œ", "Ǩ"),
-    ("ü", "ˠ"),
-    ("ï", "Ȗ"),
+    ("ü", "Ȗ"),  # Ȗ est dessiné « ü » par le Pack HD
+    ("ï", "ˠ"),  # (inversés avant la v0.3.5 : « ï » s'affichait « ü », issue #527)
 ]
 
 # Magic bytes de fichiers binaires non-dialogue

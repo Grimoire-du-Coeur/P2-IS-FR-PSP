@@ -4,7 +4,7 @@ import os
 import time
 import sys
 
-REPO = "chenetulipe/P2-FR-IS-PSP"
+REPO = os.environ.get("GITHUB_REPOSITORY", "Grimoire-du-Coeur/P2-IS-FR-PSP")
 API_URL = f"https://api.github.com/repos/{REPO}/stats/contributors"
 TOKEN = os.environ.get("GITHUB_TOKEN")
 
@@ -37,6 +37,9 @@ def main():
         sys.exit(1)
 
     print("Statistiques récupérées avec succès. Traitement en cours...")
+
+    # Les robots (github-actions[bot], dependabot...) ne sont pas des contributeurs
+    data = [c for c in data if c.get('author') and not c['author']['login'].endswith('[bot]')]
 
     # Trier par total de commits décroissant (assure que le 1er a le plus de commits)
     data.sort(key=lambda x: x['total'], reverse=True)

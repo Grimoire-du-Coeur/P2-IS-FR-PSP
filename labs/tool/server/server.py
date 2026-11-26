@@ -1,6 +1,5 @@
 import os
 import sys
-import subprocess
 import threading
 from pathlib import Path
 from typing import List, Optional
@@ -85,10 +84,6 @@ class IsoRequest(BaseModel):
 class BrowseRequest(BaseModel):
     type: str  # "dir" or "file"
     ext: str = ""  # e.g. ".iso"
-
-
-class CrifsRequest(BaseModel):
-    crifs_path: str
 
 
 import p2is.utils
@@ -201,22 +196,6 @@ def api_extract_cpk_files(req: GenericRequest):
             status_code=500, detail="Erreur lors de l'extraction des fichiers du CPK"
         )
     return {"status": "ok", "msg": "Fichiers CPK extraits dans cpk_files/."}
-
-
-# OBSOLETE : l'extraction CPK est native depuis p2is.core.cpk (issue #530).
-# Cette route ne sert plus qu'aux interfaces deja construites qui affichent
-# encore le bouton « Ouvrir CriFsLib » ; le dossier dist/ n'etant pas versionne,
-# on ne peut pas verifier ici qu'aucune ne l'appelle. A supprimer en meme temps
-# que l'etape B de l'interface.
-@app.post("/api/open-crifslib")
-def api_open_crifslib(req: CrifsRequest):
-    exe_path = Path(req.crifs_path)
-    if not exe_path.exists():
-        raise HTTPException(
-            status_code=400, detail=f"CriFsLib introuvable dans {exe_path.absolute()}"
-        )
-    subprocess.Popen([str(exe_path)])
-    return {"status": "ok", "msg": "CriFsLib ouvert"}
 
 
 @app.post("/api/extract-event")
