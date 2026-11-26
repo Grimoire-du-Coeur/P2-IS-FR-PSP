@@ -37,18 +37,14 @@ dans Obsidian comme sur GitHub, et la vue graphe relie toutes les notes. Le doss
 
 ## Pistes ouvertes
 
-- **Accents sur vraie PSP** (issue #569) : la traduction espagnole
-  ([AlexEn64bits](https://alexen64bits.com/traduccion-persona-2-innocent-sin.html),
-  même ISO `ULES01557`) a dessiné ses lettres accentuées dans des codes libres de la
-  police `syscg.bin`, puis les a ajoutées à la table de caractères et aux deux tables
-  de largeurs de l'EBOOT. Pas de majuscules accentuées. C'est la voie à suivre pour
+- **Accents sur vraie PSP** (issue #569) : la police d'origine (`syscg.bin`) n'a pas
+  de lettres accentuées. Il faut les dessiner dans des codes libres de la police, puis
+  les déclarer dans la table de caractères et les tables de largeurs de l'EBOOT, pour
   se passer du Pack HD.
-- **Cinématiques** : la même équipe a ré-encodé les `.pmf` en H.264 avec sous-titres
-  incrustés, en gardant l'audio ATRAC tel quel (5 vidéos sous-titrées sur 19).
-  Leurs outils ne sont pas publiés.
-- **Musique d'ouverture** (issue #505) : la piste 147 de `BGMALL.BIN` n'est partagée
-  avec aucune autre. Si la remplacer ne change rien, l'ouverture joue sans doute le son
-  de la vidéo, pas BGMALL.
+- **Cinématiques** : les `.pmf` ne sont pas encore sous-titrées.
+- **Musique** : certaines pistes de `BGMALL.BIN` existent en double (une copie par
+  mode Musique Original / Remix). L'Audio Lab remplace les copies identiques ensemble ;
+  l'ouverture a deux versions différentes (pistes 3 et 147), à remplacer toutes les deux.
 
 ## Règles à ne jamais oublier
 
