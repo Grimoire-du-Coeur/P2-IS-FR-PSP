@@ -207,7 +207,7 @@
     "nom_orig": "Healthy[SP]young[SP]man",
     "texte_orig": "I[SP]think[SP]I[SP]heard[SP]her[SP]say[SP]something[SP]like,[SP][1432][NULL][NULL][0014]You'll\npay[SP]for[SP]this![1432][NULL][NULL][0014][SP]as[SP]she[SP]went...",
     "nom_fr": "Jeune homme vigoureux",
-    "texte_fr": "Je crois que je l'ai entendu dire\nun truc comme [1432][NULL][NULL][0014]Tu vas le regretter !"
+    "texte_fr": "Elle a dit un truc comme\n[1432][NULL][NULL][0014]Tu vas le regretter ![1432][NULL][NULL][0014]\nen partant..."
   },
   {
     "id": 14,
@@ -237,7 +237,7 @@
     "nom_orig": "Healthy[SP]young[SP]man",
     "texte_orig": "I[SP]think[SP]I[SP]heard[SP]her[SP]say[SP]something[SP]like,\n[1432][NULL][NULL][0014]This[SP]wasn't[SP]how[SP]it[SP]was[SP]supposed[SP]to[SP]go![1432][NULL][NULL][0014]\nas[SP]she[SP]went...",
     "nom_fr": "Jeune homme vigoureux",
-    "texte_fr": "Je crois que je l'ai entendu dire un truc\ncomme [1432][NULL][NULL][0014]C'était pas censé se passer comme ça !"
+    "texte_fr": "Elle a dit un truc comme\n[1432][NULL][NULL][0014]Ça devait pas se passer comme ça ![1432][NULL][NULL][0014]\nen partant..."
   },
   {
     "id": 16,
@@ -5517,7 +5517,7 @@
     "nom_orig": "Yukino",
     "texte_orig": "We[SP]HAVE[SP]to[SP]do[SP]this,[SP]or[SP]there's[SP]no[SP]stopping[SP]the\nnext[SP]bombing![SP][1113],[SP]don't[SP]steer[SP]us[SP]wrong\nthis[SP]time!",
     "nom_fr": "Yukino",
-    "texte_fr": "Il LE faut, sinon la prochaine bombe\nexplosera ! , ne nous égare pas !"
+    "texte_fr": "Il LE faut, sinon la prochaine bombe\nexplosera ! [1113], ne nous égare pas\ncette fois !"
   },
   {
     "id": 368,
