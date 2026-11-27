@@ -383,44 +383,9 @@ def compress_crilayla(data: bytes) -> bytes:
     return out
 
 
-def decompress_crilayla(data: bytes) -> bytes:
-    """Décompresse des données CRILAYLA."""
-    if not data.startswith(b"CRILAYLA"):
-        return data
-
-    uncomp_size = struct.unpack("<I", data[8:12])[0]
-    comp_size   = struct.unpack("<I", data[12:16])[0]
-
-    comp_payload  = data[16:16 + comp_size]
-    uncomp_header = data[16 + comp_size:16 + comp_size + 256]
-
-    br       = BitReader(comp_payload)
-    dest     = bytearray(uncomp_size)
-    dest_pos = uncomp_size - 1
-
-    vle_levels = [2, 3, 5, 8]
-    vle_flags  = [3, 7, 0x1F, 0xFF]
-
-    while dest_pos >= 0:
-        if br.get_bits(1) == 1:
-            dist = br.get_bits(13) + 3
-            l    = 3
-            vle  = 0
-            while True:
-                val = br.get_bits(vle_levels[vle])
-                l  += val
-                if val != vle_flags[vle]:
-                    break
-                if vle != 3:
-                    vle += 1
-            for i in range(l):
-                dest[dest_pos] = dest[dest_pos + dist]
-                dest_pos -= 1
-        else:
-            dest[dest_pos] = br.get_bits(8)
-            dest_pos -= 1
-
-    return uncomp_header + dest
+# Une seule implémentation du décodeur (l'ancienne copie ici avait le même bug
+# d'indice négatif que celle de cpk.py, issue #595).
+from p2is.core.cpk import decompress_crilayla  # noqa: E402,F401
 
 # ─── Alignement ──────────────────────────────────────────────────────────────
 def align(offset, alignment=2048):

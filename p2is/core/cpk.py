@@ -625,13 +625,18 @@ def decompress_crilayla(data: bytes) -> bytes:
     uncomp_header = data[16+comp_size:16+comp_size+256]
     
     br = BitReader(comp_payload)
-    dest = bytearray(uncomp_size)
-    dest_pos = uncomp_size - 1
-    
+    # Un seul tampon en-tête + données, comme le décodeur de référence (CriPakTools) :
+    # la dernière copie peut déborder dans l'en-tête non compressé. Avec un tampon
+    # sans en-tête, l'indice devenait négatif et Python écrivait à la FIN du
+    # fichier (les 2 derniers octets ressortaient faux, issue #595).
+    hdr = len(uncomp_header)
+    dest = bytearray(uncomp_header) + bytearray(uncomp_size)
+    dest_pos = hdr + uncomp_size - 1
+
     vle_levels = [2, 3, 5, 8]
     vle_flags = [3, 7, 0x1F, 0xFF]
-    
-    while dest_pos >= 0:
+
+    while dest_pos >= hdr:
         if br.get_bits(1) == 1:
             dist = br.get_bits(13) + 3
             l = 3
@@ -643,12 +648,16 @@ def decompress_crilayla(data: bytes) -> bytes:
                     break
                 if vle != 3:
                     vle += 1
-                    
+
             for i in range(l):
+                if dest_pos < 0:
+                    break
                 dest[dest_pos] = dest[dest_pos + dist]
                 dest_pos -= 1
         else:
             dest[dest_pos] = br.get_bits(8)
             dest_pos -= 1
-            
-    return uncomp_header + dest
+
+    # L'en-tête stocké fait foi (une copie qui y déborde réécrit les mêmes octets)
+    dest[:hdr] = uncomp_header
+    return bytes(dest)
